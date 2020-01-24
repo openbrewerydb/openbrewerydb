@@ -1,0 +1,19 @@
+{
+  "name": "openbrewerydb",
+  "version": "0.0.1",
+  "description": "A free and open-source data set of breweries, cideries, brewpubs, and bottleshops.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openbrewerydb/openbrewerydb.git"
+  },
+  "author": "Chris J Mears",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openbrewerydb/openbrewerydb/issues"
+  },
+  "homepage": "https://github.com/openbrewerydb/openbrewerydb#readme"
+}
