@@ -1,0 +1,19 @@
+[
+  {
+    "id": "northwest-brewing-company",
+    "name": "Northwest Brewing Company",
+    "brewery_type": "contract",
+    "street": "1091 Valentine Ave SE",
+    "city": "Pacific",
+    "state": "Washington",
+    "postal_code": "98047-2127",
+    "website_url": "http://www.nwbrewingcompany.com",
+    "phone": "2539875680",
+    "created_at": "2018-07-24 01:34:31.599178",
+    "updated_at": "2018-08-24 16:37:28.444114",
+    "country": "United States",
+    "longitude": "-122.2488484",
+    "latitude": "47.2501336",
+    "tags": []
+  }
+]

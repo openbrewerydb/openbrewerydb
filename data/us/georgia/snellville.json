@@ -1,0 +1,19 @@
+[
+  {
+    "id": "monkey-wrench-brewing-company-llc",
+    "name": "Monkey Wrench Brewing Company LLC",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Snellville",
+    "state": "Georgia",
+    "postal_code": "30078-6503",
+    "website_url": "http://www.monkeywrenchbrewing.com",
+    "phone": "6785212142",
+    "created_at": "2018-07-24 01:33:16.026441",
+    "updated_at": "2018-08-11 21:37:02.676191",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

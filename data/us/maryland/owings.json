@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bw-farm-llc",
+    "name": "BW Farm, LLC",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Owings",
+    "state": "Maryland",
+    "postal_code": "20736-9109",
+    "website_url": "",
+    "phone": "2406727995",
+    "created_at": "2018-07-24 01:33:28.601252",
+    "updated_at": "2018-08-11 21:37:35.374473",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "scorpion-brewing",
+    "name": "Scorpion Brewing",
+    "brewery_type": "micro",
+    "street": "929 Skinners Turn Rd, Suite 100",
+    "city": "Owings",
+    "state": "Maryland",
+    "postal_code": "20736",
+    "website_url": "http://www.scorpionbrewing.com",
+    "phone": "7033072400",
+    "created_at": "2018-07-24 01:33:29.627999",
+    "updated_at": "2018-08-11 21:37:37.513498",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

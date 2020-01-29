@@ -1,0 +1,19 @@
+[
+  {
+    "id": "headstrong-brewery",
+    "name": "HeadStrong Brewery",
+    "brewery_type": "micro",
+    "street": "126 N 3rd St",
+    "city": "Douglas",
+    "state": "Wyoming",
+    "postal_code": "82633-2163",
+    "website_url": "http://www.headstrongbrewery.com",
+    "phone": "3073514061",
+    "created_at": "2018-07-24 01:34:37.447325",
+    "updated_at": "2018-08-24 16:46:49.70535",
+    "country": "United States",
+    "longitude": "-105.384208250914",
+    "latitude": "42.760255205258",
+    "tags": []
+  }
+]

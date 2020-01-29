@@ -1,0 +1,53 @@
+[
+  {
+    "id": "adams-northwest-bistro-/-twin-rivers-brewing",
+    "name": "Adam's Northwest Bistro / Twin Rivers Brewing",
+    "brewery_type": "brewpub",
+    "street": "104 N Lewis St",
+    "city": "Monroe",
+    "state": "Washington",
+    "postal_code": "98272-1502",
+    "website_url": "http://www.adamsnwbistro.com",
+    "phone": "3607944056",
+    "created_at": "2018-07-24 01:34:27.780022",
+    "updated_at": "2018-08-24 16:32:08.563196",
+    "country": "United States",
+    "longitude": "-121.970886952765",
+    "latitude": "47.8558847142728",
+    "tags": []
+  },
+  {
+    "id": "dreadnought-brewing-llc",
+    "name": "Dreadnought Brewing LLC",
+    "brewery_type": "brewpub",
+    "street": "16726 146th St SE Ste 153",
+    "city": "Monroe",
+    "state": "Washington",
+    "postal_code": "98272-2937",
+    "website_url": "http://www.dreadnoughtbrewing.com",
+    "phone": "3608632479",
+    "created_at": "2018-07-24 01:34:29.274658",
+    "updated_at": "2018-08-11 21:40:14.969955",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "circle-7-brew-works",
+    "name": "Circle 7 Brew Works",
+    "brewery_type": "micro",
+    "street": "20290 Corbridge Rd SE",
+    "city": "Monroe",
+    "state": "Washington",
+    "postal_code": "98272-8602",
+    "website_url": "",
+    "phone": "2067470269",
+    "created_at": "2018-07-24 01:34:28.917772",
+    "updated_at": "2018-08-24 16:33:33.275129",
+    "country": "United States",
+    "longitude": "-121.958464504586",
+    "latitude": "47.8679484527978",
+    "tags": []
+  }
+]

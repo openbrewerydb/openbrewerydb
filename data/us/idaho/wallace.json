@@ -1,0 +1,36 @@
+[
+  {
+    "id": "north-idaho-mountain-brew-/-city-limits-pub",
+    "name": "North Idaho Mountain Brew / City Limits Pub",
+    "brewery_type": "brewpub",
+    "street": "108 Nine Mile Rd",
+    "city": "Wallace",
+    "state": "Idaho",
+    "postal_code": "83873-5021",
+    "website_url": "",
+    "phone": "2085561120",
+    "created_at": "2018-07-24 01:33:17.481137",
+    "updated_at": "2018-08-11 21:37:06.33276",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "wallace-brewing-co",
+    "name": "Wallace Brewing Co",
+    "brewery_type": "micro",
+    "street": "610 Bank St",
+    "city": "Wallace",
+    "state": "Idaho",
+    "postal_code": "83873-2227",
+    "website_url": "http://www.wallacebrewing.com",
+    "phone": "2086603430",
+    "created_at": "2018-07-24 01:33:17.730615",
+    "updated_at": "2018-08-24 00:30:18.570933",
+    "country": "United States",
+    "longitude": "-115.922710286108",
+    "latitude": "47.4715313342171",
+    "tags": []
+  }
+]

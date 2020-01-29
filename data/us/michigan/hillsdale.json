@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hillsdale-brewing-company",
+    "name": "Hillsdale Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "25 Hillsdale St",
+    "city": "Hillsdale",
+    "state": "Michigan",
+    "postal_code": "49242-1208",
+    "website_url": "",
+    "phone": "5172128182",
+    "created_at": "2018-07-24 01:33:34.810805",
+    "updated_at": "2018-08-24 00:43:12.540398",
+    "country": "United States",
+    "longitude": "-84.63154725",
+    "latitude": "41.924708875",
+    "tags": []
+  }
+]

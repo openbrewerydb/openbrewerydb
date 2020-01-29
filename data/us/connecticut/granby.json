@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cambridge-house-brew-pub-granby",
+    "name": "Cambridge House Brew Pub - Granby",
+    "brewery_type": "brewpub",
+    "street": "357 Salmon Brook St",
+    "city": "Granby",
+    "state": "Connecticut",
+    "postal_code": "06035-0438",
+    "website_url": "http://www.cbh.beer",
+    "phone": "8606532739",
+    "created_at": "2018-07-24 01:33:09.312694",
+    "updated_at": "2018-08-24 00:25:30.201358",
+    "country": "United States",
+    "longitude": "-72.7925953940791",
+    "latitude": "41.9663141364589",
+    "tags": []
+  }
+]

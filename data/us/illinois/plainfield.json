@@ -1,0 +1,36 @@
+[
+  {
+    "id": "midnight-pig-beer",
+    "name": "Midnight Pig Beer",
+    "brewery_type": "brewpub",
+    "street": "12337 S Route 59 Unit 155",
+    "city": "Plainfield",
+    "state": "Illinois",
+    "postal_code": "60585-4614",
+    "website_url": "http://www.nevinsdraftco.com",
+    "phone": "8154363900",
+    "created_at": "2018-07-24 01:33:19.826655",
+    "updated_at": "2018-08-11 21:37:13.84014",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "werk-force-brewing-co",
+    "name": "Werk Force Brewing Co",
+    "brewery_type": "micro",
+    "street": "14903 S Center St # 107",
+    "city": "Plainfield",
+    "state": "Illinois",
+    "postal_code": "60544-2177",
+    "website_url": "http://www.werkforcebrewing.com",
+    "phone": "8155315557",
+    "created_at": "2018-07-24 01:33:21.063979",
+    "updated_at": "2018-08-11 21:37:16.974285",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

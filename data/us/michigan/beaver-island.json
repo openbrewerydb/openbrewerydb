@@ -1,0 +1,19 @@
+[
+  {
+    "id": "whiskey-point-brewing-company",
+    "name": "Whiskey Point Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Beaver Island",
+    "state": "Michigan",
+    "postal_code": "49782-5105",
+    "website_url": "http://www.whiskeypointbrewing.com",
+    "phone": "2313737842",
+    "created_at": "2018-07-24 01:33:37.481986",
+    "updated_at": "2018-08-11 21:37:58.479951",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rock-bottom-brewery-pittsburgh",
+    "name": "Rock Bottom Brewery - Pittsburgh",
+    "brewery_type": "brewpub",
+    "street": "171 E Bridge St",
+    "city": "Homestead",
+    "state": "Pennsylvania",
+    "postal_code": "15120",
+    "website_url": "http://www.rockbottom.com",
+    "phone": "4124622739",
+    "created_at": "2018-07-24 01:34:12.270216",
+    "updated_at": "2018-08-24 16:11:26.686713",
+    "country": "United States",
+    "longitude": "-79.9149542",
+    "latitude": "40.4093329",
+    "tags": []
+  }
+]

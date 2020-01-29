@@ -1,0 +1,53 @@
+[
+  {
+    "id": "casa-agria-specialty-ales",
+    "name": "Casa Agria Specialty Ales",
+    "brewery_type": "proprietor",
+    "street": "701 del Norte Blvd Ste 310",
+    "city": "Oxnard",
+    "state": "California",
+    "postal_code": "93030-7980",
+    "website_url": "",
+    "phone": "8054851454",
+    "created_at": "2018-07-24 01:32:53.597507",
+    "updated_at": "2018-08-11 21:35:58.977349",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "red-tandem-brewery",
+    "name": "Red Tandem Brewery",
+    "brewery_type": "micro",
+    "street": "1009 Harbor Blvd",
+    "city": "Oxnard",
+    "state": "California",
+    "postal_code": "93035-1131",
+    "website_url": "http://www.redtandembrewery.com",
+    "phone": "8058324023",
+    "created_at": "2018-07-24 01:32:59.815998",
+    "updated_at": "2018-08-24 00:01:19.294114",
+    "country": "United States",
+    "longitude": "-119.2474328",
+    "latitude": "34.2068743",
+    "tags": []
+  },
+  {
+    "id": "transmission-brewing-company",
+    "name": "Transmission Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Oxnard",
+    "state": "California",
+    "postal_code": "93030-8231",
+    "website_url": "http://jonkercarey@gmail.com",
+    "phone": "8054076133",
+    "created_at": "2018-07-24 01:33:02.544717",
+    "updated_at": "2018-08-24 00:04:25.645557",
+    "country": "United States",
+    "longitude": "-119.1803818",
+    "latitude": "34.1976308",
+    "tags": []
+  }
+]

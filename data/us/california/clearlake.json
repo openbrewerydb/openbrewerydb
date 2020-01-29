@@ -1,0 +1,19 @@
+[
+  {
+    "id": "two-dude-brew",
+    "name": "Two Dude Brew",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Clearlake",
+    "state": "California",
+    "postal_code": "95422-8159",
+    "website_url": "",
+    "phone": "7075337600",
+    "created_at": "2018-07-24 01:33:02.666266",
+    "updated_at": "2018-08-24 00:04:34.422198",
+    "country": "United States",
+    "longitude": "-122.6263728",
+    "latitude": "38.9582307",
+    "tags": []
+  }
+]

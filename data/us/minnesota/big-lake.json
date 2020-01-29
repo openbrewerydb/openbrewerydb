@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lupulin-brewing",
+    "name": "Lupulin Brewing",
+    "brewery_type": "micro",
+    "street": "570 Humboldt Dr Ste 107",
+    "city": "Big Lake",
+    "state": "Minnesota",
+    "postal_code": "55309-4868",
+    "website_url": "http://www.lupulinbrewing.com",
+    "phone": "7632639549",
+    "created_at": "2018-07-24 01:33:39.134834",
+    "updated_at": "2018-08-11 21:38:03.58872",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

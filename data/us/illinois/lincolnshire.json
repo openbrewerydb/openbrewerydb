@@ -1,0 +1,19 @@
+[
+  {
+    "id": "half-day-brewing-company",
+    "name": "Half Day Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "200 Village Grn",
+    "city": "Lincolnshire",
+    "state": "Illinois",
+    "postal_code": "60069-3028",
+    "website_url": "http://www.halfdaybrewing.com",
+    "phone": "8478216933",
+    "created_at": "2018-07-24 01:33:19.206236",
+    "updated_at": "2018-08-24 00:31:11.162831",
+    "country": "United States",
+    "longitude": "-87.9330365",
+    "latitude": "42.2031177",
+    "tags": []
+  }
+]

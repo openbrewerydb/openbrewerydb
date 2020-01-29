@@ -1,0 +1,36 @@
+[
+  {
+    "id": "hatchet-brewing-company",
+    "name": "Hatchet Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Southern Pines",
+    "state": "North Carolina",
+    "postal_code": "28387-6164",
+    "website_url": "http://www.hatchetbrewing.com",
+    "phone": "5715334898",
+    "created_at": "2018-07-24 01:33:56.510627",
+    "updated_at": "2018-08-11 21:38:48.544348",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "southern-pines-brewing-company",
+    "name": "Southern Pines Brewing Company",
+    "brewery_type": "micro",
+    "street": "565 Air Tool Dr Ste E",
+    "city": "Southern Pines",
+    "state": "North Carolina",
+    "postal_code": "28387-3469",
+    "website_url": "http://www.southernpinesbrewing.com",
+    "phone": "9103659925",
+    "created_at": "2018-07-24 01:33:58.162874",
+    "updated_at": "2018-08-11 21:38:52.458763",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

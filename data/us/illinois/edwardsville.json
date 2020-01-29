@@ -1,0 +1,19 @@
+[
+  {
+    "id": "recess-brewing",
+    "name": "Recess Brewing",
+    "brewery_type": "micro",
+    "street": "307 N Main St",
+    "city": "Edwardsville",
+    "state": "Illinois",
+    "postal_code": "62025-1615",
+    "website_url": "http://www.recessbrewing.com",
+    "phone": "6186925101",
+    "created_at": "2018-07-24 01:33:20.374515",
+    "updated_at": "2018-08-24 00:31:57.41379",
+    "country": "United States",
+    "longitude": "-89.9590501020408",
+    "latitude": "38.8142244285714",
+    "tags": []
+  }
+]

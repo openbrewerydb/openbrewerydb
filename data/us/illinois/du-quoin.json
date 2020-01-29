@@ -1,0 +1,19 @@
+[
+  {
+    "id": "st-nicholas-brewing-co",
+    "name": "St Nicholas Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "12 S Oak St",
+    "city": "Du Quoin",
+    "state": "Illinois",
+    "postal_code": "62832-1515",
+    "website_url": "",
+    "phone": "6187909212",
+    "created_at": "2018-07-24 01:33:20.744681",
+    "updated_at": "2018-08-24 00:32:09.798287",
+    "country": "United States",
+    "longitude": "-89.2394691646533",
+    "latitude": "38.010261136357",
+    "tags": []
+  }
+]

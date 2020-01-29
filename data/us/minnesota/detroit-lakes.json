@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tavern-brewery",
+    "name": "Tavern Brewery",
+    "brewery_type": "brewpub",
+    "street": "200 W Lake Dr",
+    "city": "Detroit Lakes",
+    "state": "Minnesota",
+    "postal_code": "56501-3917",
+    "website_url": "",
+    "phone": "2188471891",
+    "created_at": "2018-07-24 01:33:39.716593",
+    "updated_at": "2018-08-24 00:45:51.358069",
+    "country": "United States",
+    "longitude": "-95.8477011",
+    "latitude": "46.8066561",
+    "tags": []
+  }
+]

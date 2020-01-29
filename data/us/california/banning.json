@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brew-rebellion",
+    "name": "Brew Rebellion",
+    "brewery_type": "micro",
+    "street": "33 S San Gorgonio Ave",
+    "city": "Banning",
+    "state": "California",
+    "postal_code": "92220-6001",
+    "website_url": "",
+    "phone": "9519074844",
+    "created_at": "2018-07-24 01:32:52.93185",
+    "updated_at": "2018-08-23 23:25:53.919689",
+    "country": "United States",
+    "longitude": "-116.876825",
+    "latitude": "33.9256848888889",
+    "tags": []
+  }
+]

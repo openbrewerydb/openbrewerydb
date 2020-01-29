@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rabid-brewing-llc",
+    "name": "Rabid Brewing, LLC",
+    "brewery_type": "micro",
+    "street": "17559 Bretz Dr",
+    "city": "Homewood",
+    "state": "Illinois",
+    "postal_code": "60430",
+    "website_url": "http://www.rabidbrewing.com",
+    "phone": "7089603193",
+    "created_at": "2018-07-24 01:33:20.302294",
+    "updated_at": "2018-08-24 00:31:54.358229",
+    "country": "United States",
+    "longitude": "-87.6330234",
+    "latitude": "41.5647232",
+    "tags": []
+  }
+]

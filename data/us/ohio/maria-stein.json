@@ -1,0 +1,19 @@
+[
+  {
+    "id": "moeller-brew-barn",
+    "name": "Moeller Brew Barn",
+    "brewery_type": "micro",
+    "street": "8016 Marion Dr",
+    "city": "Maria Stein",
+    "state": "Ohio",
+    "postal_code": "45860-8706",
+    "website_url": "http://www.moellerbrewbarn.com",
+    "phone": "4199253005",
+    "created_at": "2018-07-24 01:34:01.86912",
+    "updated_at": "2018-08-24 15:44:30.369841",
+    "country": "United States",
+    "longitude": "-84.49312675",
+    "latitude": "40.4214478333333",
+    "tags": []
+  }
+]

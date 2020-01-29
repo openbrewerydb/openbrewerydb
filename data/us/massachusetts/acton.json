@@ -1,0 +1,36 @@
+[
+  {
+    "id": "rapscallion-ales",
+    "name": "Rapscallion Ales",
+    "brewery_type": "micro",
+    "street": "5 Strawberry Hill Rd",
+    "city": "Acton",
+    "state": "Massachusetts",
+    "postal_code": "01720-5706",
+    "website_url": "http://www.drinkrapscallion.com",
+    "phone": "5083477500",
+    "created_at": "2018-07-24 01:33:31.788903",
+    "updated_at": "2018-08-24 00:41:42.118365",
+    "country": "United States",
+    "longitude": "-71.4158546071126",
+    "latitude": "42.4919605",
+    "tags": []
+  },
+  {
+    "id": "true-west-brewing-company",
+    "name": "True West Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "525 Massachusetts Ave Ste 107",
+    "city": "Acton",
+    "state": "Massachusetts",
+    "postal_code": "01720-2962",
+    "website_url": "http://www.brewtruewest.com",
+    "phone": "9782061600",
+    "created_at": "2018-07-24 01:33:32.206494",
+    "updated_at": "2018-08-11 21:37:44.175644",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

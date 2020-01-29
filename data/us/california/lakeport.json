@@ -1,0 +1,19 @@
+[
+  {
+    "id": "omeara-bros-brewing-company",
+    "name": "O'Meara Bros. Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "901 Bevins St",
+    "city": "Lakeport",
+    "state": "California",
+    "postal_code": "95453-8778",
+    "website_url": "http://www.omearabros.com",
+    "phone": "7072621234",
+    "created_at": "2018-07-24 01:32:59.139421",
+    "updated_at": "2018-08-24 00:00:32.77525",
+    "country": "United States",
+    "longitude": "-122.924554676154",
+    "latitude": "39.0400526734986",
+    "tags": []
+  }
+]

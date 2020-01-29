@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wichita-falls-brewing-co",
+    "name": "Wichita Falls Brewing Co.",
+    "brewery_type": "micro",
+    "street": "701 Indiana Ave",
+    "city": "Wichita Falls",
+    "state": "Texas",
+    "postal_code": "76301",
+    "website_url": "http://www.wichitafallsbrewing.com",
+    "phone": "9402644677",
+    "created_at": "2018-07-24 01:34:22.264176",
+    "updated_at": "2018-08-24 16:24:27.355871",
+    "country": "United States",
+    "longitude": "-98.491525",
+    "latitude": "33.913486",
+    "tags": []
+  }
+]

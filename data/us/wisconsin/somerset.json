@@ -1,0 +1,19 @@
+[
+  {
+    "id": "oliphant-brewing",
+    "name": "Oliphant Brewing",
+    "brewery_type": "micro",
+    "street": "350 Main St Ste 2",
+    "city": "Somerset",
+    "state": "Wisconsin",
+    "postal_code": "54025-9108",
+    "website_url": "http://www.oliphantbrewing.com",
+    "phone": "6513077881",
+    "created_at": "2018-07-24 01:34:36.109798",
+    "updated_at": "2018-08-11 21:40:35.113264",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

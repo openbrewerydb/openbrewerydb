@@ -1,0 +1,53 @@
+[
+  {
+    "id": "doomsday-brewing-co",
+    "name": "Doomsday Brewing Co.",
+    "brewery_type": "micro",
+    "street": "421 C St Ste 3",
+    "city": "Washougal",
+    "state": "Washington",
+    "postal_code": "98671-2169",
+    "website_url": "http://www.doomsdaybrewing.com",
+    "phone": "3603359909",
+    "created_at": "2018-07-24 01:34:29.230981",
+    "updated_at": "2018-08-11 21:40:14.835826",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "shoug-brewing-company",
+    "name": "Shoug Brewing Company",
+    "brewery_type": "micro",
+    "street": "1311 SE Cliffside Dr",
+    "city": "Washougal",
+    "state": "Washington",
+    "postal_code": "98671-8750",
+    "website_url": "http://www.shougbrewing.com",
+    "phone": "3604870172",
+    "created_at": "2018-07-24 01:34:32.73504",
+    "updated_at": "2018-08-11 21:40:25.593021",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "54-40-brewing-company",
+    "name": "54-40 Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "3801 S Truman Rd Ste 1",
+    "city": "Washougal",
+    "state": "Washington",
+    "postal_code": "98671-2589",
+    "website_url": "http://www.54-40brewing.com",
+    "phone": "3609077062",
+    "created_at": "2018-07-24 01:34:27.750497",
+    "updated_at": "2018-08-11 21:40:11.334888",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

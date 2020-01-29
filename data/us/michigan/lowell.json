@@ -1,0 +1,36 @@
+[
+  {
+    "id": "big-boiler-brewing",
+    "name": "Big Boiler Brewing",
+    "brewery_type": "brewpub",
+    "street": "318 E Main St",
+    "city": "Lowell",
+    "state": "Michigan",
+    "postal_code": "49331-1714",
+    "website_url": "http://bigboilerbrewing.com",
+    "phone": "6169873155",
+    "created_at": "2018-07-24 01:33:33.039029",
+    "updated_at": "2018-08-24 00:42:17.329408",
+    "country": "United States",
+    "longitude": "-85.3365535102041",
+    "latitude": "42.9346293061224",
+    "tags": []
+  },
+  {
+    "id": "new-union-brewing",
+    "name": "New Union Brewing",
+    "brewery_type": "micro",
+    "street": "400 W Main St",
+    "city": "Lowell",
+    "state": "Michigan",
+    "postal_code": "49331-1617",
+    "website_url": "http://www.newunionbrewery.com",
+    "phone": "6163197171",
+    "created_at": "2018-07-24 01:33:35.650955",
+    "updated_at": "2018-08-24 00:43:40.0161",
+    "country": "United States",
+    "longitude": "-85.355545",
+    "latitude": "42.931398",
+    "tags": []
+  }
+]

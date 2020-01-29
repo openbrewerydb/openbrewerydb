@@ -1,0 +1,53 @@
+[
+  {
+    "id": "dixie-grill-and-brewery",
+    "name": "Dixie Grill & Brewery",
+    "brewery_type": "brewpub",
+    "street": "5101 South Dixie Highway",
+    "city": "West Palm Beach",
+    "state": "Florida",
+    "postal_code": "33405",
+    "website_url": "",
+    "phone": "5615863189",
+    "created_at": "2018-07-24 01:33:12.629792",
+    "updated_at": "2018-08-24 00:27:08.626696",
+    "country": "United States",
+    "longitude": "-80.055437",
+    "latitude": "26.667349",
+    "tags": []
+  },
+  {
+    "id": "west-palm-beach-brewery-and-wine-vault",
+    "name": "West Palm Beach Brewery & Wine Vault",
+    "brewery_type": "brewpub",
+    "street": "332 Evernia St",
+    "city": "West Palm Beach",
+    "state": "Florida",
+    "postal_code": "33401-5404",
+    "website_url": "http://www.WestPalmBeer.com",
+    "phone": "5616198813",
+    "created_at": "2018-07-24 01:33:15.157324",
+    "updated_at": "2018-08-24 00:28:49.434111",
+    "country": "United States",
+    "longitude": "-80.05314345",
+    "latitude": "26.7110654",
+    "tags": []
+  },
+  {
+    "id": "ookapow-brewing-company",
+    "name": "Ookapow Brewing Company",
+    "brewery_type": "micro",
+    "street": "1142 Old Okeechobee Road, Bay 13",
+    "city": "West Palm Beach",
+    "state": "Florida",
+    "postal_code": "33401",
+    "website_url": "http://www.ookapow.com",
+    "phone": "7183009006",
+    "created_at": "2018-07-24 01:33:13.956536",
+    "updated_at": "2018-08-11 21:36:57.201781",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

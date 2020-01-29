@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bottom-shelf-brewery",
+    "name": "Bottom Shelf Brewery",
+    "brewery_type": "brewpub",
+    "street": "118 E Mill St",
+    "city": "Bayfield",
+    "state": "Colorado",
+    "postal_code": "81122",
+    "website_url": "http://www.bottomshelfbrewing.com",
+    "phone": "9708842442",
+    "created_at": "2018-07-24 01:33:03.982941",
+    "updated_at": "2018-08-24 00:05:59.096987",
+    "country": "United States",
+    "longitude": "-107.5990683",
+    "latitude": "37.2251348",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mayday-brewery",
+    "name": "Mayday Brewery",
+    "brewery_type": "micro",
+    "street": "521 Old Salem Rd Ste C",
+    "city": "Murfreesboro",
+    "state": "Tennessee",
+    "postal_code": "37129-5305",
+    "website_url": "http://www.maydaybrewery.com",
+    "phone": "6154799722",
+    "created_at": "2018-07-24 01:34:16.675249",
+    "updated_at": "2018-08-11 21:39:43.116431",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

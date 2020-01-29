@@ -1,0 +1,19 @@
+[
+  {
+    "id": "caboose-brewing-co",
+    "name": "Caboose Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "520 Mill St NE",
+    "city": "Vienna",
+    "state": "Virginia",
+    "postal_code": "22180-4526",
+    "website_url": "http://caboosebrewing.com",
+    "phone": "7034734870",
+    "created_at": "2018-07-24 01:34:24.847468",
+    "updated_at": "2018-08-24 16:28:02.217264",
+    "country": "United States",
+    "longitude": "-77.2705542",
+    "latitude": "38.9077525",
+    "tags": []
+  }
+]

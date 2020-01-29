@@ -1,0 +1,19 @@
+[
+  {
+    "id": "forge-brewhouse",
+    "name": "Forge Brewhouse",
+    "brewery_type": "brewpub",
+    "street": "1330 E State St",
+    "city": "Sycamore",
+    "state": "Illinois",
+    "postal_code": "60178-9580",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:18.914421",
+    "updated_at": "2018-08-24 00:31:00.290673",
+    "country": "United States",
+    "longitude": "-88.66048",
+    "latitude": "41.984784",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ever-grain-brewing-co",
+    "name": "Ever Grain Brewing Co",
+    "brewery_type": "micro",
+    "street": "4444 Carlisle Pike Ste C",
+    "city": "Camp Hill",
+    "state": "Pennsylvania",
+    "postal_code": "17011-4102",
+    "website_url": "",
+    "phone": "7175258222",
+    "created_at": "2018-07-24 01:34:10.461375",
+    "updated_at": "2018-08-11 21:39:26.347093",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "highway-manor-brewing-co",
+    "name": "Highway Manor Brewing Co",
+    "brewery_type": "micro",
+    "street": "2238 Gettysburg Rd",
+    "city": "Camp Hill",
+    "state": "Pennsylvania",
+    "postal_code": "17011-7301",
+    "website_url": "http://www.HighwayManorBrewing.com",
+    "phone": "7177430613",
+    "created_at": "2018-07-24 01:34:10.84396",
+    "updated_at": "2018-08-11 21:39:27.188713",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wooden-hill-brewing-company",
+    "name": "Wooden Hill Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "7421 Bush Lake Road",
+    "city": "Edina",
+    "state": "Minnesota",
+    "postal_code": "55439",
+    "website_url": "http://www.woodenhillbrewing.com",
+    "phone": "9529609663",
+    "created_at": "2018-07-24 01:33:40.123254",
+    "updated_at": "2018-08-24 00:46:01.717379",
+    "country": "United States",
+    "longitude": "-93.3596061020408",
+    "latitude": "44.8678116938775",
+    "tags": []
+  }
+]

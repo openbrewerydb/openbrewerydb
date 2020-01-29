@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bear-creek-brews",
+    "name": "Bear Creek Brews",
+    "brewery_type": "micro",
+    "street": "10538 Nc 902 Hwy",
+    "city": "Bear Creek",
+    "state": "North Carolina",
+    "postal_code": "27207-9269",
+    "website_url": "http://www.bearcreekbrews.com",
+    "phone": "9192003930",
+    "created_at": "2018-07-24 01:33:55.050066",
+    "updated_at": "2018-08-11 21:38:44.918157",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "maize-valley-craft-brewery",
+    "name": "Maize Valley Craft Brewery",
+    "brewery_type": "brewpub",
+    "street": "6193 Edison St NE",
+    "city": "Hartville",
+    "state": "Ohio",
+    "postal_code": "44632-9326",
+    "website_url": "http://www.maizevalley.com",
+    "phone": "3308778344",
+    "created_at": "2018-07-24 01:34:01.678577",
+    "updated_at": "2018-08-24 15:44:24.353876",
+    "country": "United States",
+    "longitude": "-81.2781363777854",
+    "latitude": "40.9534088842131",
+    "tags": []
+  }
+]

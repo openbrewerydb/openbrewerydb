@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hoh-river-brewery",
+    "name": "Hoh River Brewery",
+    "brewery_type": "micro",
+    "street": "2442 Mottman Rd SW",
+    "city": "Tumwater",
+    "state": "Washington",
+    "postal_code": "98512-6219",
+    "website_url": "http://www.hohriverbrewery.com",
+    "phone": "3607054000",
+    "created_at": "2018-07-24 01:34:30.384781",
+    "updated_at": "2018-08-24 16:35:44.007589",
+    "country": "United States",
+    "longitude": "-122.935621808163",
+    "latitude": "47.025431955102",
+    "tags": []
+  },
+  {
+    "id": "matchless-brewing",
+    "name": "Matchless Brewing",
+    "brewery_type": "micro",
+    "street": "8036 River Dr SE Ste 208",
+    "city": "Tumwater",
+    "state": "Washington",
+    "postal_code": "98501-6814",
+    "website_url": "http://www.matchlessbrewing.com",
+    "phone": "5033173284",
+    "created_at": "2018-07-24 01:34:31.036363",
+    "updated_at": "2018-08-11 21:40:19.954182",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "triceratops-brewing",
+    "name": "Triceratops Brewing",
+    "brewery_type": "proprietor",
+    "street": "8036 River Dr SE Ste 203",
+    "city": "Tumwater",
+    "state": "Washington",
+    "postal_code": "98501",
+    "website_url": "http://www.triceratopsbrewing.com",
+    "phone": "3604805626",
+    "created_at": "2018-07-24 01:34:33.369179",
+    "updated_at": "2018-08-11 21:40:27.125162",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

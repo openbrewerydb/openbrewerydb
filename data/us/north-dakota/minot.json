@@ -1,0 +1,19 @@
+[
+  {
+    "id": "souris-river-brewing",
+    "name": "Souris River Brewing",
+    "brewery_type": "brewpub",
+    "street": "32 3rd St NE",
+    "city": "Minot",
+    "state": "North Dakota",
+    "postal_code": "58703-3108",
+    "website_url": "http://www.sourisriverbrewing.com",
+    "phone": "7018371884",
+    "created_at": "2018-07-24 01:33:59.25646",
+    "updated_at": "2018-08-24 15:43:18.826595",
+    "country": "United States",
+    "longitude": "-101.288321818023",
+    "latitude": "48.2368652294609",
+    "tags": []
+  }
+]

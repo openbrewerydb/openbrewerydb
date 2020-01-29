@@ -1,0 +1,19 @@
+[
+  {
+    "id": "garphish-brewing-company",
+    "name": "Garphish Brewing Company",
+    "brewery_type": "micro",
+    "street": "165 Main St",
+    "city": "Bethel",
+    "state": "Minnesota",
+    "postal_code": "55005",
+    "website_url": "http://www.garphish.com",
+    "phone": "7634520270",
+    "created_at": "2018-07-24 01:33:38.545015",
+    "updated_at": "2018-08-24 00:45:14.09404",
+    "country": "United States",
+    "longitude": "-93.268872",
+    "latitude": "45.4040025",
+    "tags": []
+  }
+]

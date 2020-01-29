@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wallenpaupack-brewing-company",
+    "name": "Wallenpaupack Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "73 Welwood Ave",
+    "city": "Hawley",
+    "state": "Pennsylvania",
+    "postal_code": "18428-1500",
+    "website_url": "http://www.wallenpaupackbrewingco.com",
+    "phone": "5703907933",
+    "created_at": "2018-07-24 01:34:13.430673",
+    "updated_at": "2018-08-24 16:13:12.696905",
+    "country": "United States",
+    "longitude": "-75.1761918249664",
+    "latitude": "41.4687395616053",
+    "tags": []
+  }
+]

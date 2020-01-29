@@ -1,0 +1,36 @@
+[
+  {
+    "id": "backwoods-brewing-company-production-only",
+    "name": "Backwoods Brewing Company - Production Only",
+    "brewery_type": "micro",
+    "street": "1162 B Wind River Hwy",
+    "city": "Carson",
+    "state": "Washington",
+    "postal_code": "98610",
+    "website_url": "http://www.backwoodsbrewingcompany.com",
+    "phone": "5094273412",
+    "created_at": "2018-07-24 01:34:27.948609",
+    "updated_at": "2018-08-24 16:32:26.68574",
+    "country": "United States",
+    "longitude": "-121.820375417521",
+    "latitude": "45.7287225339951",
+    "tags": []
+  },
+  {
+    "id": "backwoods-brewing-company",
+    "name": "Backwoods Brewing Company",
+    "brewery_type": "micro",
+    "street": "1162 Wind River Hwy",
+    "city": "Carson",
+    "state": "Washington",
+    "postal_code": "98610",
+    "website_url": "http://www.backwoodsbrewingcompany.com",
+    "phone": "5094273412",
+    "created_at": "2018-07-24 01:34:27.93408",
+    "updated_at": "2018-08-24 16:32:25.242479",
+    "country": "United States",
+    "longitude": "-121.820375417521",
+    "latitude": "45.7287225339951",
+    "tags": []
+  }
+]

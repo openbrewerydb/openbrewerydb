@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lassen-ale-works-the-pioneer-saloon",
+    "name": "Lassen Ale Works @ The Pioneer Saloon",
+    "brewery_type": "brewpub",
+    "street": "724 Main St",
+    "city": "Susanville",
+    "state": "California",
+    "postal_code": "96130-4372",
+    "website_url": "http://www.lassenaleworks.com",
+    "phone": "5302577666",
+    "created_at": "2018-07-24 01:32:57.594327",
+    "updated_at": "2018-08-23 23:58:46.626601",
+    "country": "United States",
+    "longitude": "-120.6326661",
+    "latitude": "40.4055904",
+    "tags": []
+  },
+  {
+    "id": "diamond-mountain-brewery",
+    "name": "Diamond Mountain Brewery",
+    "brewery_type": "brewpub",
+    "street": "900 Skyline Dr",
+    "city": "Susanville",
+    "state": "California",
+    "postal_code": "96130-6071",
+    "website_url": "http://www.diamondmountainbrewery.com",
+    "phone": "5302521369",
+    "created_at": "2018-07-24 01:32:54.434236",
+    "updated_at": "2018-08-11 21:36:01.235204",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

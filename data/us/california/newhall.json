@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brewery-draconum",
+    "name": "Brewery Draconum",
+    "brewery_type": "micro",
+    "street": "24407 Main St # 09",
+    "city": "Newhall",
+    "state": "California",
+    "postal_code": "91321-2801",
+    "website_url": "",
+    "phone": "6619931846",
+    "created_at": "2018-07-24 01:32:53.006947",
+    "updated_at": "2018-08-23 23:25:59.672273",
+    "country": "United States",
+    "longitude": "-118.529873150559",
+    "latitude": "34.3812205055908",
+    "tags": []
+  }
+]

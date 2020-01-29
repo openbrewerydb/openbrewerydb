@@ -1,0 +1,36 @@
+[
+  {
+    "id": "millercoors-brewing-co-albany",
+    "name": "MillerCoors Brewing Co - Albany",
+    "brewery_type": "large",
+    "street": "405 Cordele Rd",
+    "city": "Albany",
+    "state": "Georgia",
+    "postal_code": "31705-2109",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:15.988112",
+    "updated_at": "2018-08-24 00:29:13.337065",
+    "country": "United States",
+    "longitude": "-84.0820312571752",
+    "latitude": "31.5854934285396",
+    "tags": []
+  },
+  {
+    "id": "pretoria-fields-collective",
+    "name": "Pretoria Fields Collective",
+    "brewery_type": "micro",
+    "street": "120 Pine Ave",
+    "city": "Albany",
+    "state": "Georgia",
+    "postal_code": "31701-2529",
+    "website_url": "http://www.pretoriafields.com",
+    "phone": "2295181770",
+    "created_at": "2018-07-24 01:33:16.20317",
+    "updated_at": "2018-08-24 00:29:21.824512",
+    "country": "United States",
+    "longitude": "-84.1495930042213",
+    "latitude": "31.5785829366279",
+    "tags": []
+  }
+]

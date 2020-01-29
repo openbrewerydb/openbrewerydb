@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bent-brewstillery",
+    "name": "Bent Brewstillery",
+    "brewery_type": "micro",
+    "street": "1744 Terrace Dr",
+    "city": "Roseville",
+    "state": "Minnesota",
+    "postal_code": "55113-1315",
+    "website_url": "http://www.bentbrewstillery.com",
+    "phone": "8448792368",
+    "created_at": "2018-07-24 01:33:37.897915",
+    "updated_at": "2018-08-24 00:44:52.878983",
+    "country": "United States",
+    "longitude": "-93.1736490577291",
+    "latitude": "45.025578285406",
+    "tags": []
+  }
+]

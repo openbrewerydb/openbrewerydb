@@ -1,0 +1,19 @@
+[
+  {
+    "id": "double-bluff-brewing",
+    "name": "Double Bluff Brewing",
+    "brewery_type": "micro",
+    "street": "112 Anthes Ave",
+    "city": "Langley",
+    "state": "Washington",
+    "postal_code": "98260-",
+    "website_url": "http://www.dblfbrewing.com",
+    "phone": "3603339113",
+    "created_at": "2018-07-24 01:34:29.246814",
+    "updated_at": "2018-08-24 16:34:00.223663",
+    "country": "United States",
+    "longitude": "-122.4090435",
+    "latitude": "48.0403212",
+    "tags": []
+  }
+]

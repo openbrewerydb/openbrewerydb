@@ -1,0 +1,19 @@
+[
+  {
+    "id": "valkyrie-brewing",
+    "name": "Valkyrie Brewing",
+    "brewery_type": "micro",
+    "street": "234 W Dallas St",
+    "city": "Dallas",
+    "state": "Wisconsin",
+    "postal_code": "54733-9706",
+    "website_url": "http://www.valkyriebrewery.com",
+    "phone": "7158371824",
+    "created_at": "2018-07-24 01:34:37.097947",
+    "updated_at": "2018-08-11 21:40:37.382969",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

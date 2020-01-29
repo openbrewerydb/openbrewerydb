@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bierly-brewing-eats-and-treats",
+    "name": "Bierly Brewing @ Eats and Treats",
+    "brewery_type": "brewpub",
+    "street": "1644 Main St",
+    "city": "Philomath",
+    "state": "Oregon",
+    "postal_code": "97370-9237",
+    "website_url": "",
+    "phone": "5412575126",
+    "created_at": "2018-07-24 01:34:04.877254",
+    "updated_at": "2018-08-24 15:45:58.029181",
+    "country": "United States",
+    "longitude": "-123.362541592213",
+    "latitude": "44.5399359971412",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bog-iron-brewing-co",
+    "name": "Bog Iron Brewing Co",
+    "brewery_type": "micro",
+    "street": "33 W Main St",
+    "city": "Norton",
+    "state": "Massachusetts",
+    "postal_code": "02766-2711",
+    "website_url": "",
+    "phone": "5089520555",
+    "created_at": "2018-07-24 01:33:30.298772",
+    "updated_at": "2018-08-24 00:41:05.26829",
+    "country": "United States",
+    "longitude": "-71.1884994212408",
+    "latitude": "41.9665846823839",
+    "tags": []
+  }
+]

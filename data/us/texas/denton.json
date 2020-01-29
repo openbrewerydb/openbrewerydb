@@ -1,0 +1,36 @@
+[
+  {
+    "id": "armadillo-ale-works",
+    "name": "Armadillo Ale Works",
+    "brewery_type": "micro",
+    "street": "221 S Bell Ave",
+    "city": "Denton",
+    "state": "Texas",
+    "postal_code": "76201-4259",
+    "website_url": "http://www.armadilloaleworks.com",
+    "phone": "9405804446",
+    "created_at": "2018-07-24 01:34:17.608143",
+    "updated_at": "2018-08-24 16:18:40.212598",
+    "country": "United States",
+    "longitude": "-97.1283005126262",
+    "latitude": "33.212866660001",
+    "tags": []
+  },
+  {
+    "id": "denton-county-brewing-company",
+    "name": "Denton County Brewing Company",
+    "brewery_type": "micro",
+    "street": "200 E McKinney St",
+    "city": "Denton",
+    "state": "Texas",
+    "postal_code": "76201-4230",
+    "website_url": "http://www.dentoncountybrewingco.com",
+    "phone": "9404350710",
+    "created_at": "2018-07-24 01:34:18.91331",
+    "updated_at": "2018-08-24 16:20:00.606163",
+    "country": "United States",
+    "longitude": "-97.131672",
+    "latitude": "33.216517",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "grayton-beer-brewpub",
+    "name": "Grayton Beer Brewpub",
+    "brewery_type": "brewpub",
+    "street": "217 Serenoa Rd",
+    "city": "Santa Rosa Beach",
+    "state": "Florida",
+    "postal_code": "32459-6099",
+    "website_url": "",
+    "phone": "8502314786",
+    "created_at": "2018-07-24 01:33:12.957897",
+    "updated_at": "2018-08-11 21:36:54.657155",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "grayton-beer-company",
+    "name": "Grayton Beer Company",
+    "brewery_type": "micro",
+    "street": "217 Serenoa Rd",
+    "city": "Santa Rosa Beach",
+    "state": "Florida",
+    "postal_code": "32459-6099",
+    "website_url": "http://www.graytonbeer.com",
+    "phone": "8502314786",
+    "created_at": "2018-07-24 01:33:12.97165",
+    "updated_at": "2018-08-11 21:36:54.688138",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "idyll-hounds-brewing-company",
+    "name": "Idyll Hounds Brewing Company",
+    "brewery_type": "micro",
+    "street": "845 Serenoa Rd",
+    "city": "Santa Rosa Beach",
+    "state": "Florida",
+    "postal_code": "32459-5019",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:13.263215",
+    "updated_at": "2018-08-11 21:36:55.3248",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

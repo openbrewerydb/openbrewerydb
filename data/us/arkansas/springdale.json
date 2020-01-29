@@ -1,0 +1,36 @@
+[
+  {
+    "id": "core-brewing-and-distilling-co",
+    "name": "Core Brewing & Distilling Co",
+    "brewery_type": "micro",
+    "street": "2470 N Lowell Rd Ste A3",
+    "city": "Springdale",
+    "state": "Arkansas",
+    "postal_code": "72764-1819",
+    "website_url": "http://www.corebeer.com",
+    "phone": "4793068898",
+    "created_at": "2018-07-24 01:32:50.464988",
+    "updated_at": "2018-08-11 21:35:51.495272",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "saddlebock-brewery",
+    "name": "Saddlebock Brewery",
+    "brewery_type": "micro",
+    "street": "16600 Saddlebock Lane",
+    "city": "Springdale",
+    "state": "Arkansas",
+    "postal_code": "72764-7582",
+    "website_url": "http://www.saddlebock.com",
+    "phone": "4794221797",
+    "created_at": "2018-07-24 01:32:50.835511",
+    "updated_at": "2018-08-11 21:35:52.370581",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

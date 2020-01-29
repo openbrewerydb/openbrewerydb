@@ -1,0 +1,19 @@
+[
+  {
+    "id": "backslope-brewing",
+    "name": "Backslope Brewing",
+    "brewery_type": "brewpub",
+    "street": "1107 9th St W (Highway 2)",
+    "city": "Columbia Falls",
+    "state": "Montana",
+    "postal_code": "59912",
+    "website_url": "http://www.backslopebrewing.com",
+    "phone": "4062242510",
+    "created_at": "2018-07-24 01:33:42.057302",
+    "updated_at": "2018-08-11 21:38:10.264342",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

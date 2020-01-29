@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brickyard-brewing-company",
+    "name": "Brickyard Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "436 Center St",
+    "city": "Lewiston",
+    "state": "New York",
+    "postal_code": "14092-1604",
+    "website_url": "http://www.brickyardbrewingcompany.com",
+    "phone": "7167547227",
+    "created_at": "2018-07-24 01:33:49.866926",
+    "updated_at": "2018-08-24 15:38:18.368553",
+    "country": "United States",
+    "longitude": "-79.0430641935125",
+    "latitude": "43.1729221977036",
+    "tags": []
+  }
+]

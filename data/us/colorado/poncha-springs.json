@@ -1,0 +1,19 @@
+[
+  {
+    "id": "elevation-beer-company",
+    "name": "Elevation Beer Company",
+    "brewery_type": "micro",
+    "street": "115 Pahlone Pkwy",
+    "city": "Poncha Springs",
+    "state": "Colorado",
+    "postal_code": "81242",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:05.273766",
+    "updated_at": "2018-08-24 00:22:57.88071",
+    "country": "United States",
+    "longitude": "-106.065937703811",
+    "latitude": "38.5180443402639",
+    "tags": []
+  }
+]

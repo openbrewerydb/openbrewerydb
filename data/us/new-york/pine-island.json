@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pine-island-brewing",
+    "name": "Pine Island Brewing",
+    "brewery_type": "micro",
+    "street": "682 County Route 1 Ste B",
+    "city": "Pine Island",
+    "state": "New York",
+    "postal_code": "10969-1715",
+    "website_url": "http://www.pineislandbeer.com",
+    "phone": "8452882646",
+    "created_at": "2018-07-24 01:33:52.807221",
+    "updated_at": "2018-08-11 21:38:39.061198",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

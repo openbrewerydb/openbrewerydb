@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dempseys-brewery-pub",
+    "name": "Dempseys Brewery, Pub",
+    "brewery_type": "brewpub",
+    "street": "127 N Broadway",
+    "city": "Watertown",
+    "state": "South Dakota",
+    "postal_code": "57201-3525",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:15.276011",
+    "updated_at": "2018-08-11 21:39:38.757308",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

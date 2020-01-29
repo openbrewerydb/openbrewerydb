@@ -1,0 +1,19 @@
+[
+  {
+    "id": "shawnee-craft-brewery",
+    "name": "Shawnee Craft Brewery",
+    "brewery_type": "brewpub",
+    "street": "1 River Rd",
+    "city": "Shawnee on Delaware",
+    "state": "Pennsylvania",
+    "postal_code": "18356",
+    "website_url": "",
+    "phone": "5704244000",
+    "created_at": "2018-07-24 01:34:12.57391",
+    "updated_at": "2018-08-24 16:11:51.850307",
+    "country": "United States",
+    "longitude": "-75.1107249",
+    "latitude": "41.0118539",
+    "tags": []
+  }
+]

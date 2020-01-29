@@ -1,0 +1,19 @@
+[
+  {
+    "id": "creek-bottom-brewing",
+    "name": "Creek Bottom Brewing",
+    "brewery_type": "brewpub",
+    "street": "307 N Meadow St",
+    "city": "Galax",
+    "state": "Virginia",
+    "postal_code": "24333-3019",
+    "website_url": "http://www.creekbottombrewing.com",
+    "phone": "2762362337",
+    "created_at": "2018-07-24 01:34:25.053012",
+    "updated_at": "2018-08-24 16:28:18.943896",
+    "country": "United States",
+    "longitude": "-80.9209447114584",
+    "latitude": "36.6670863573391",
+    "tags": []
+  }
+]

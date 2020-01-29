@@ -1,0 +1,53 @@
+[
+  {
+    "id": "colorado-farm-brewery",
+    "name": "Colorado Farm Brewery",
+    "brewery_type": "micro",
+    "street": "2070 County Road 12 S",
+    "city": "Alamosa",
+    "state": "Colorado",
+    "postal_code": "81101-9116",
+    "website_url": "http://www.cofarmbeer.com",
+    "phone": "7195800051",
+    "created_at": "2018-07-24 01:33:04.715259",
+    "updated_at": "2018-08-24 00:22:36.446253",
+    "country": "United States",
+    "longitude": "-105.985591761422",
+    "latitude": "37.4002604814483",
+    "tags": []
+  },
+  {
+    "id": "san-luis-valley-brewing-co",
+    "name": "San Luis Valley Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "631 Main St",
+    "city": "Alamosa",
+    "state": "Colorado",
+    "postal_code": "81101-2557",
+    "website_url": "http://www.slvbrewco.com",
+    "phone": "7195872337",
+    "created_at": "2018-07-24 01:33:07.67004",
+    "updated_at": "2018-08-24 00:24:34.827956",
+    "country": "United States",
+    "longitude": "-105.8742898",
+    "latitude": "37.4681813",
+    "tags": []
+  },
+  {
+    "id": "square-peg-brewerks",
+    "name": "Square Peg Brewerks",
+    "brewery_type": "micro",
+    "street": "625 Main St",
+    "city": "Alamosa",
+    "state": "Colorado",
+    "postal_code": "81101-2557",
+    "website_url": "http://www.squarepegbrewerks.com",
+    "phone": "7195807472",
+    "created_at": "2018-07-24 01:33:07.901629",
+    "updated_at": "2018-08-24 00:24:45.314473",
+    "country": "United States",
+    "longitude": "-105.8742898",
+    "latitude": "37.4681813",
+    "tags": []
+  }
+]

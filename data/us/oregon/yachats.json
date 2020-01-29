@@ -1,0 +1,19 @@
+[
+  {
+    "id": "yachats-brewing",
+    "name": "Yachats Brewing",
+    "brewery_type": "brewpub",
+    "street": "PO Box 308",
+    "city": "Yachats",
+    "state": "Oregon",
+    "postal_code": "97498-0308",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:08.498477",
+    "updated_at": "2018-08-11 21:39:21.413498",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

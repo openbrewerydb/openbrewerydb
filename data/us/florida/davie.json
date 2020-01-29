@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-mack-house-brewpub",
+    "name": "The Mack House Brewpub",
+    "brewery_type": "brewpub",
+    "street": "9118 W State Road 84",
+    "city": "Davie",
+    "state": "Florida",
+    "postal_code": "33324-4416",
+    "website_url": "http://www.themackhouse.com",
+    "phone": "9544745040",
+    "created_at": "2018-07-24 01:33:14.88165",
+    "updated_at": "2018-08-11 21:36:59.416242",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

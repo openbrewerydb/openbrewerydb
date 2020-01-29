@@ -1,0 +1,36 @@
+[
+  {
+    "id": "headlands-brewing-company",
+    "name": "Headlands Brewing Company",
+    "brewery_type": "proprietor",
+    "street": "",
+    "city": "Mill Valley",
+    "state": "California",
+    "postal_code": "94941-2003",
+    "website_url": "http://www.headlandsbrewing.com",
+    "phone": "4158604226",
+    "created_at": "2018-07-24 01:32:56.29989",
+    "updated_at": "2018-08-23 23:29:14.542501",
+    "country": "United States",
+    "longitude": "-122.5449763",
+    "latitude": "37.9060368",
+    "tags": []
+  },
+  {
+    "id": "mill-valley-beer-works",
+    "name": "Mill Valley Beer Works",
+    "brewery_type": "brewpub",
+    "street": "173 Throckmorton Ave",
+    "city": "Mill Valley",
+    "state": "California",
+    "postal_code": "94941-1909",
+    "website_url": "http://www.millvalleybeerworks.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:58.2816",
+    "updated_at": "2018-08-23 23:59:33.035769",
+    "country": "United States",
+    "longitude": "-122.5493619",
+    "latitude": "37.9053888",
+    "tags": []
+  }
+]

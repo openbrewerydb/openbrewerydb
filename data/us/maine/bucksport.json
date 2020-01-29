@@ -1,0 +1,19 @@
+[
+  {
+    "id": "friars-brewhouse",
+    "name": "Friars' Brewhouse",
+    "brewery_type": "micro",
+    "street": "84 Main St",
+    "city": "Bucksport",
+    "state": "Maine",
+    "postal_code": "04416",
+    "website_url": "",
+    "phone": "2079473770",
+    "created_at": "2018-07-24 01:33:27.125679",
+    "updated_at": "2018-08-24 00:39:44.297916",
+    "country": "United States",
+    "longitude": "-68.7955841416602",
+    "latitude": "44.572023444336",
+    "tags": []
+  }
+]

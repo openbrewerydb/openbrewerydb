@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ola-brew-co",
+    "name": "Ola Brew Co.",
+    "brewery_type": "micro",
+    "street": "74-5598 Luhia St Ste A",
+    "city": "Kailua Kona",
+    "state": "Hawaii",
+    "postal_code": "96740-3151",
+    "website_url": "http://www.olabrewco.com",
+    "phone": "8083393565",
+    "created_at": "2018-07-24 01:33:16.970298",
+    "updated_at": "2018-08-11 21:37:04.876341",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "kona-brewing-co",
+    "name": "Kona Brewing Co",
+    "brewery_type": "regional",
+    "street": "74-5612 Pawai Pl",
+    "city": "Kailua Kona",
+    "state": "Hawaii",
+    "postal_code": "96740-1617",
+    "website_url": "http://www.konabrewingco.com",
+    "phone": "8083341133",
+    "created_at": "2018-07-24 01:33:16.918662",
+    "updated_at": "2018-08-24 00:29:46.663772",
+    "country": "United States",
+    "longitude": "-155.997661",
+    "latitude": "19.643069",
+    "tags": []
+  }
+]

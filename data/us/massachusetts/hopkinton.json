@@ -1,0 +1,19 @@
+[
+  {
+    "id": "start-line-brewing-company",
+    "name": "Start Line Brewing Company",
+    "brewery_type": "micro",
+    "street": "151R Hayden Rowe St",
+    "city": "Hopkinton",
+    "state": "Massachusetts",
+    "postal_code": "01748-2511",
+    "website_url": "http://www.startlinebrewing.com",
+    "phone": "5087612044",
+    "created_at": "2018-07-24 01:33:32.050761",
+    "updated_at": "2018-08-24 00:41:49.168018",
+    "country": "United States",
+    "longitude": "-71.5132367573311",
+    "latitude": "42.2103163400486",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "barnshed-brewing",
+    "name": "Barnshed Brewing",
+    "brewery_type": "micro",
+    "street": "100 Lauman Ln",
+    "city": "Hicksville",
+    "state": "New York",
+    "postal_code": "11801-6574",
+    "website_url": "http://www.barnshedbrewing.com",
+    "phone": "5163766514",
+    "created_at": "2018-07-24 01:33:49.281336",
+    "updated_at": "2018-08-24 15:38:05.974531",
+    "country": "United States",
+    "longitude": "-73.5009425631332",
+    "latitude": "40.74420335",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "emmetts-brewing-co-downers-grove",
+    "name": "Emmett's Brewing Co - Downers Grove",
+    "brewery_type": "brewpub",
+    "street": "5200 Main St",
+    "city": "Downers Grove",
+    "state": "Illinois",
+    "postal_code": "60515-4688",
+    "website_url": "http://www.emmettsbrewingco.com",
+    "phone": "6304348500",
+    "created_at": "2018-07-24 01:33:18.724798",
+    "updated_at": "2018-08-24 00:30:52.104648",
+    "country": "United States",
+    "longitude": "-88.0105120520319",
+    "latitude": "41.7925884",
+    "tags": []
+  },
+  {
+    "id": "alter-brewing-company",
+    "name": "Alter Brewing Company",
+    "brewery_type": "micro",
+    "street": "2300 Wisconsin Ave Ste 213",
+    "city": "Downers Grove",
+    "state": "Illinois",
+    "postal_code": "60515-2234",
+    "website_url": "http://www.alterbrewing.com",
+    "phone": "6305419558",
+    "created_at": "2018-07-24 01:33:17.996387",
+    "updated_at": "2018-08-11 21:37:07.739225",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "brewery-in-planning-downers-grove",
+    "name": "Brewery in Planning - Downers Grove",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Downers Grove",
+    "state": "Illinois",
+    "postal_code": "60515-2920",
+    "website_url": "",
+    "phone": "5127366565",
+    "created_at": "2018-07-24 01:33:18.348876",
+    "updated_at": "2018-08-11 21:37:08.530027",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

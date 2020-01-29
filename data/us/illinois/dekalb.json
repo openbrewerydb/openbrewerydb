@@ -1,0 +1,19 @@
+[
+  {
+    "id": "byers-brewing-company",
+    "name": "Byers Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "DeKalb",
+    "state": "Illinois",
+    "postal_code": "60115-4661",
+    "website_url": "",
+    "phone": "8159705318",
+    "created_at": "2018-07-24 01:33:18.495049",
+    "updated_at": "2018-08-11 21:37:08.884496",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

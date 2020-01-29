@@ -1,0 +1,53 @@
+[
+  {
+    "id": "lucky-pigeon-brewing",
+    "name": "Lucky Pigeon Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Gorham",
+    "state": "Maine",
+    "postal_code": "04038-2371",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:27.458614",
+    "updated_at": "2018-08-11 21:37:32.805563",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "sebago-brewing-co",
+    "name": "Sebago Brewing Co",
+    "brewery_type": "micro",
+    "street": "48 Sanford Dr",
+    "city": "Gorham",
+    "state": "Maine",
+    "postal_code": "04038-2646",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:27.954575",
+    "updated_at": "2018-08-11 21:37:33.995207",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "sebago-brewing-co",
+    "name": "Sebago Brewing Co",
+    "brewery_type": "micro",
+    "street": "616 Main St",
+    "city": "Gorham",
+    "state": "Maine",
+    "postal_code": "04038",
+    "website_url": "http://www.sebagobrewing.com",
+    "phone": "2078562537",
+    "created_at": "2018-07-24 01:33:27.968854",
+    "updated_at": "2018-08-24 00:40:10.360796",
+    "country": "United States",
+    "longitude": "-70.3970672263539",
+    "latitude": "43.6895653252652",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bella-casa-di-vino",
+    "name": "Bella Casa Di Vino",
+    "brewery_type": "brewpub",
+    "street": "201 N Riverside Ave",
+    "city": "Saint Clair",
+    "state": "Michigan",
+    "postal_code": "48079-5491",
+    "website_url": "http://www.suescoffeehouse.com",
+    "phone": "8103261212",
+    "created_at": "2018-07-24 01:33:32.951533",
+    "updated_at": "2018-08-24 00:42:14.568337",
+    "country": "United States",
+    "longitude": "-82.48591",
+    "latitude": "42.823895",
+    "tags": []
+  },
+  {
+    "id": "war-water-brewery",
+    "name": "WAR WATER BREWERY",
+    "brewery_type": "brewpub",
+    "street": "201 N Riverside Ave Ste C1-11",
+    "city": "Saint Clair",
+    "state": "Michigan",
+    "postal_code": "48079-5498",
+    "website_url": "http://www.warwaterbrewery.com",
+    "phone": "8102893921",
+    "created_at": "2018-07-24 01:33:37.441131",
+    "updated_at": "2018-08-11 21:37:58.396482",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

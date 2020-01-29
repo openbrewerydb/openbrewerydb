@@ -1,0 +1,36 @@
+[
+  {
+    "id": "buffalo-commons-brewing-company",
+    "name": "Buffalo Commons Brewing Company",
+    "brewery_type": "micro",
+    "street": "2307 Memorial Hwy",
+    "city": "Mandan",
+    "state": "North Dakota",
+    "postal_code": "58554-4624",
+    "website_url": "http://www.buffalocommonsbeer.com",
+    "phone": "7015952255",
+    "created_at": "2018-07-24 01:33:59.072174",
+    "updated_at": "2018-08-24 15:43:12.269279",
+    "country": "United States",
+    "longitude": "-100.861826744186",
+    "latitude": "46.8240905581395",
+    "tags": []
+  },
+  {
+    "id": "dialectic-brewing-company",
+    "name": "Dialectic Brewing Company",
+    "brewery_type": "micro",
+    "street": "416 W Main St",
+    "city": "Mandan",
+    "state": "North Dakota",
+    "postal_code": "58554",
+    "website_url": "http://www.dialecticbrewingcompany.com",
+    "phone": "7013181328",
+    "created_at": "2018-07-24 01:33:59.086878",
+    "updated_at": "2018-08-24 15:43:12.851684",
+    "country": "United States",
+    "longitude": "-100.895093700031",
+    "latitude": "46.8257882775223",
+    "tags": []
+  }
+]

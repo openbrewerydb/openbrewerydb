@@ -1,0 +1,36 @@
+[
+  {
+    "id": "clemson-bros-brewery",
+    "name": "Clemson Bros. Brewery",
+    "brewery_type": "brewpub",
+    "street": "22 Cottage St",
+    "city": "Middletown",
+    "state": "New York",
+    "postal_code": "10940-5059",
+    "website_url": "http://www.clemsonbrewing.com",
+    "phone": "8457754638",
+    "created_at": "2018-07-24 01:33:50.257382",
+    "updated_at": "2018-08-24 15:38:31.129667",
+    "country": "United States",
+    "longitude": "-74.4162249451654",
+    "latitude": "41.4469302779275",
+    "tags": []
+  },
+  {
+    "id": "equilibrium-brewery",
+    "name": "Equilibrium Brewery",
+    "brewery_type": "micro",
+    "street": "22 Henry Street",
+    "city": "Middletown",
+    "state": "New York",
+    "postal_code": "10940",
+    "website_url": "http://www.eqbrew.com",
+    "phone": "8457754216",
+    "created_at": "2018-07-24 01:33:50.753676",
+    "updated_at": "2018-08-24 15:38:48.858086",
+    "country": "United States",
+    "longitude": "-74.4214393429694",
+    "latitude": "41.4464696544258",
+    "tags": []
+  }
+]

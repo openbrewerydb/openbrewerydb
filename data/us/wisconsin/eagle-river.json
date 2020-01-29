@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tribute-brewing-co",
+    "name": "Tribute Brewing Co",
+    "brewery_type": "micro",
+    "street": "1106 N Bluebird Rd",
+    "city": "Eagle River",
+    "state": "Wisconsin",
+    "postal_code": "54521-7557",
+    "website_url": "http://www.tributebrewing.com",
+    "phone": "7154802337",
+    "created_at": "2018-07-24 01:34:36.964016",
+    "updated_at": "2018-08-24 16:46:08.273267",
+    "country": "United States",
+    "longitude": "-89.2579185042039",
+    "latitude": "45.9293506182914",
+    "tags": []
+  }
+]

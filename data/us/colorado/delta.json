@@ -1,0 +1,36 @@
+[
+  {
+    "id": "dented-face-brewing-company",
+    "name": "Dented Face Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Delta",
+    "state": "Colorado",
+    "postal_code": "81416",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:04.951228",
+    "updated_at": "2018-08-11 21:36:34.710653",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "stoik-beer-company",
+    "name": "Stoik Beer Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Delta",
+    "state": "Colorado",
+    "postal_code": "81416",
+    "website_url": "http://www.stoikbeer.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:07.968674",
+    "updated_at": "2018-08-11 21:36:42.865431",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

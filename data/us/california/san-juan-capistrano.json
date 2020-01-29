@@ -1,0 +1,19 @@
+[
+  {
+    "id": "docent-brewing",
+    "name": "Docent Brewing",
+    "brewery_type": "brewpub",
+    "street": "33049 Calle Aviador Ste C",
+    "city": "San Juan Capistrano",
+    "state": "California",
+    "postal_code": "92675-4785",
+    "website_url": "http://www.docentbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:54.50509",
+    "updated_at": "2018-08-11 21:36:01.397082",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

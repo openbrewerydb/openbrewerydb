@@ -1,0 +1,36 @@
+[
+  {
+    "id": "kohola-brewery",
+    "name": "Kohola Brewery",
+    "brewery_type": "micro",
+    "street": "910 Honoapiilani Hwy",
+    "city": "Lahaina",
+    "state": "Hawaii",
+    "postal_code": "96761-1507",
+    "website_url": "http://www.koholabrewery.com",
+    "phone": "8088683198",
+    "created_at": "2018-07-24 01:33:16.906234",
+    "updated_at": "2018-08-24 00:29:46.115813",
+    "country": "United States",
+    "longitude": "-156.653963",
+    "latitude": "20.845329",
+    "tags": []
+  },
+  {
+    "id": "maui-brewing-co-brewpub",
+    "name": "Maui Brewing Co, Brewpub",
+    "brewery_type": "brewpub",
+    "street": "4405 Honoapiilani Hwy Ste 217",
+    "city": "Lahaina",
+    "state": "Hawaii",
+    "postal_code": "96761-9272",
+    "website_url": "http://www.mauibrewingco.com",
+    "phone": "8086693474",
+    "created_at": "2018-07-24 01:33:16.95697",
+    "updated_at": "2018-08-24 00:29:48.421688",
+    "country": "United States",
+    "longitude": "-156.653963",
+    "latitude": "20.845329",
+    "tags": []
+  }
+]

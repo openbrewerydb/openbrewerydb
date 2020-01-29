@@ -1,0 +1,36 @@
+[
+  {
+    "id": "defiance-brewing-co",
+    "name": "Defiance Brewing Co.",
+    "brewery_type": "micro",
+    "street": "2050 E US Highway 40",
+    "city": "Hays",
+    "state": "Kansas",
+    "postal_code": "67601-9310",
+    "website_url": "http://www.defiancebeer.com",
+    "phone": "7853012337",
+    "created_at": "2018-07-24 01:33:24.698466",
+    "updated_at": "2018-08-11 21:37:25.682865",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "gellas-diner-and-liquid-bread-brewing-co",
+    "name": "Gella's Diner & Liquid Bread Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "117 E 11th St",
+    "city": "Hays",
+    "state": "Kansas",
+    "postal_code": "67601-3603",
+    "website_url": "http://www.lbbrewing.com",
+    "phone": "7856212739",
+    "created_at": "2018-07-24 01:33:24.761373",
+    "updated_at": "2018-08-24 00:38:25.819507",
+    "country": "United States",
+    "longitude": "-99.3290903265306",
+    "latitude": "38.8717449183673",
+    "tags": []
+  }
+]

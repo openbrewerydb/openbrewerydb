@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bird-street-brewing",
+    "name": "Bird Street Brewing",
+    "brewery_type": "micro",
+    "street": "242 Heinlen St",
+    "city": "Lemoore",
+    "state": "California",
+    "postal_code": "93245-2947",
+    "website_url": "http://www.birdstreetbrewing.com",
+    "phone": "5593094649",
+    "created_at": "2018-07-24 01:32:52.533471",
+    "updated_at": "2018-08-23 23:25:24.815931",
+    "country": "United States",
+    "longitude": "-119.784711",
+    "latitude": "36.3014675555556",
+    "tags": []
+  },
+  {
+    "id": "shire-station-brewing-company",
+    "name": "Shire Station Brewing Company",
+    "brewery_type": "micro",
+    "street": "12913 17th Ave",
+    "city": "Lemoore",
+    "state": "California",
+    "postal_code": "93245-9485",
+    "website_url": "http://www.shirestation.com",
+    "phone": "5592502797",
+    "created_at": "2018-07-24 01:33:00.788756",
+    "updated_at": "2018-08-11 21:36:20.779844",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

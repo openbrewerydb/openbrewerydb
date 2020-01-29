@@ -1,0 +1,19 @@
+[
+  {
+    "id": "divots-brewery",
+    "name": "Divots Brewery",
+    "brewery_type": "brewpub",
+    "street": "4200 W Norfolk Ave",
+    "city": "Norfolk",
+    "state": "Nebraska",
+    "postal_code": "68701-9202",
+    "website_url": "http://www.divotsbrewery.com",
+    "phone": "4028442985",
+    "created_at": "2018-07-24 01:33:43.531377",
+    "updated_at": "2018-08-24 00:47:36.484943",
+    "country": "United States",
+    "longitude": "-97.466386",
+    "latitude": "42.032539",
+    "tags": []
+  }
+]

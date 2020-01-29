@@ -1,0 +1,36 @@
+[
+  {
+    "id": "kinetic-brewing-company",
+    "name": "Kinetic Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "735 W Lancaster Blvd",
+    "city": "Lancaster",
+    "state": "California",
+    "postal_code": "93534-3118",
+    "website_url": "http://www.kineticbrewing.com",
+    "phone": "6619422337",
+    "created_at": "2018-07-24 01:32:57.377357",
+    "updated_at": "2018-08-23 23:58:31.011749",
+    "country": "United States",
+    "longitude": "-118.1433223",
+    "latitude": "34.6978404",
+    "tags": []
+  },
+  {
+    "id": "bravery-brewing",
+    "name": "Bravery Brewing",
+    "brewery_type": "micro",
+    "street": "42705 8th St W",
+    "city": "Lancaster",
+    "state": "California",
+    "postal_code": "93534-7184",
+    "website_url": "http://www.braverybrewing.com",
+    "phone": "6619514677",
+    "created_at": "2018-07-24 01:32:52.894496",
+    "updated_at": "2018-08-23 23:25:51.198403",
+    "country": "United States",
+    "longitude": "-118.1456072",
+    "latitude": "34.6582797",
+    "tags": []
+  }
+]

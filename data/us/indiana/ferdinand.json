@@ -1,0 +1,19 @@
+[
+  {
+    "id": "st-benedicts-brew-works",
+    "name": "St. Benedict's Brew Works",
+    "brewery_type": "micro",
+    "street": "860 E 10th St",
+    "city": "Ferdinand",
+    "state": "Indiana",
+    "postal_code": "47532-9240",
+    "website_url": "http://www.saintbenedictsbrewworks.com",
+    "phone": "8129982337",
+    "created_at": "2018-07-24 01:33:22.830417",
+    "updated_at": "2018-08-24 00:33:23.172434",
+    "country": "United States",
+    "longitude": "-86.8541949090441",
+    "latitude": "38.2242288957333",
+    "tags": []
+  }
+]

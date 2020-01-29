@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-north-slope-brewing-company",
+    "name": "The North Slope Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "2439 Sr 309 Hwy",
+    "city": "Dallas",
+    "state": "Pennsylvania",
+    "postal_code": "18612-9251",
+    "website_url": "http://www.northslopebrewing.com",
+    "phone": "5702554012",
+    "created_at": "2018-07-24 01:34:13.073134",
+    "updated_at": "2018-08-11 21:39:32.328589",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

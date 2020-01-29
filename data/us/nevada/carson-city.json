@@ -1,0 +1,36 @@
+[
+  {
+    "id": "the-fox-brewpub",
+    "name": "The Fox Brewpub",
+    "brewery_type": "brewpub",
+    "street": "310 S Carson St",
+    "city": "Carson City",
+    "state": "Nevada",
+    "postal_code": "89701-4754",
+    "website_url": "http://www.foxbrewpub.com",
+    "phone": "7758831369",
+    "created_at": "2018-07-24 01:33:44.766809",
+    "updated_at": "2018-08-24 15:35:47.985865",
+    "country": "United States",
+    "longitude": "-119.7708155",
+    "latitude": "39.1269616",
+    "tags": []
+  },
+  {
+    "id": "shoe-tree-brewing-co",
+    "name": "Shoe Tree Brewing Co.",
+    "brewery_type": "micro",
+    "street": "1496 Old Hot Springs Rd",
+    "city": "Carson City",
+    "state": "Nevada",
+    "postal_code": "89706-0627",
+    "website_url": "http://www.shoetreebrewing.com",
+    "phone": "7752220108",
+    "created_at": "2018-07-24 01:33:44.656572",
+    "updated_at": "2018-08-11 21:38:17.761227",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

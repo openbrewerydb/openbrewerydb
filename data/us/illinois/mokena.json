@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tribes-beer-company",
+    "name": "Tribes Beer Company",
+    "brewery_type": "brewpub",
+    "street": "11220 Lincoln Hwy",
+    "city": "Mokena",
+    "state": "Illinois",
+    "postal_code": "60448-8208",
+    "website_url": "http://www.tribesalehouse.com",
+    "phone": "8154640248",
+    "created_at": "2018-07-24 01:33:20.926955",
+    "updated_at": "2018-08-24 00:32:16.056161",
+    "country": "United States",
+    "longitude": "-87.8886903",
+    "latitude": "41.5033149",
+    "tags": []
+  }
+]

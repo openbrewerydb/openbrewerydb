@@ -1,0 +1,19 @@
+[
+  {
+    "id": "south-gate-brewing-co",
+    "name": "South Gate Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "40233 Enterprise Dr",
+    "city": "Oakhurst",
+    "state": "California",
+    "postal_code": "93644-8839",
+    "website_url": "http://www.southgatebrewco.com",
+    "phone": "8582321737",
+    "created_at": "2018-07-24 01:33:01.121605",
+    "updated_at": "2018-08-24 00:02:51.172962",
+    "country": "United States",
+    "longitude": "-119.661803800305",
+    "latitude": "37.3317277386243",
+    "tags": []
+  }
+]

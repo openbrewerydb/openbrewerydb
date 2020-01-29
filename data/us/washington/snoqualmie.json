@@ -1,0 +1,36 @@
+[
+  {
+    "id": "no-boat-brewing-company",
+    "name": "No Boat Brewing Company",
+    "brewery_type": "micro",
+    "street": "35214 SE Center St # 2",
+    "city": "Snoqualmie",
+    "state": "Washington",
+    "postal_code": "98065-9279",
+    "website_url": "http://www.noboatbrewing.com",
+    "phone": "2063995626",
+    "created_at": "2018-07-24 01:34:31.459249",
+    "updated_at": "2018-08-24 16:37:17.399944",
+    "country": "United States",
+    "longitude": "-121.872184684211",
+    "latitude": "47.5291711157895",
+    "tags": []
+  },
+  {
+    "id": "snoqualmie-falls-brewing-co",
+    "name": "Snoqualmie Falls Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "8032 Falls Ave SE",
+    "city": "Snoqualmie",
+    "state": "Washington",
+    "postal_code": "98065-0924",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:32.90024",
+    "updated_at": "2018-08-24 16:39:29.511734",
+    "country": "United States",
+    "longitude": "-121.82409766359",
+    "latitude": "47.5286214",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "elliott-bay-brewhouse-and-pub-burien",
+    "name": "Elliott Bay Brewhouse & Pub - Burien",
+    "brewery_type": "brewpub",
+    "street": "255 SW 152nd St",
+    "city": "Burien",
+    "state": "Washington",
+    "postal_code": "98166-2307",
+    "website_url": "http://www.elliottbaybrewing.com",
+    "phone": "2062464211",
+    "created_at": "2018-07-24 01:34:29.425336",
+    "updated_at": "2018-08-24 16:34:17.612908",
+    "country": "United States",
+    "longitude": "-122.337338090909",
+    "latitude": "47.466775",
+    "tags": []
+  }
+]

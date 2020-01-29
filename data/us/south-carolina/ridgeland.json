@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brewery-in-planning-ridgeland-sc",
+    "name": "Brewery in Planning - Ridgeland, SC",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Ridgeland",
+    "state": "South Carolina",
+    "postal_code": "29936-8284",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:14.14975",
+    "updated_at": "2018-08-11 21:39:35.254625",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "dead-eric-brewing-co-llc",
+    "name": "Dead Eric Brewing Co. LLC",
+    "brewery_type": "micro",
+    "street": "433 Old House Rd",
+    "city": "Ridgeland",
+    "state": "South Carolina",
+    "postal_code": "29936-6946",
+    "website_url": "http://www.deadericbrewing.com",
+    "phone": "8433383693",
+    "created_at": "2018-07-24 01:34:14.31641",
+    "updated_at": "2018-08-24 16:14:29.239704",
+    "country": "United States",
+    "longitude": "-83.042921",
+    "latitude": "34.723368",
+    "tags": []
+  },
+  {
+    "id": "river-dog-brewing-co",
+    "name": "River Dog Brewing Co",
+    "brewery_type": "micro",
+    "street": "591 Browns Cove Rd Unit H",
+    "city": "Ridgeland",
+    "state": "South Carolina",
+    "postal_code": "29936-7281",
+    "website_url": "http://www.riverdogbrewing.com",
+    "phone": "8436452302",
+    "created_at": "2018-07-24 01:34:14.799526",
+    "updated_at": "2018-08-11 21:39:37.297202",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

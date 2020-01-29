@@ -1,0 +1,19 @@
+[
+  {
+    "id": "une-annee-brewery",
+    "name": "Une Annee Brewery",
+    "brewery_type": "micro",
+    "street": "9082 W Golf Rd",
+    "city": "Niles",
+    "state": "Illinois",
+    "postal_code": "60714-5805",
+    "website_url": "http://uneannee.com",
+    "phone": "8476350655",
+    "created_at": "2018-07-24 01:33:20.974713",
+    "updated_at": "2018-08-11 21:37:16.757843",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

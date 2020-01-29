@@ -1,0 +1,19 @@
+[
+  {
+    "id": "barrier-brewing-co",
+    "name": "Barrier Brewing Co",
+    "brewery_type": "micro",
+    "street": "3001 New St Ste A2",
+    "city": "Oceanside",
+    "state": "New York",
+    "postal_code": "11572-2747",
+    "website_url": "http://www.barrierbrewing.com",
+    "phone": "5165941028",
+    "created_at": "2018-07-24 01:33:49.308963",
+    "updated_at": "2018-08-11 21:38:30.063309",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

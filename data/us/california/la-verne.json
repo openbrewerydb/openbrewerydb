@@ -1,0 +1,19 @@
+[
+  {
+    "id": "la-verne-brewing",
+    "name": "La Verne Brewing",
+    "brewery_type": "micro",
+    "street": "2125 Wright Ave Ste C15",
+    "city": "La Verne",
+    "state": "California",
+    "postal_code": "91750-5816",
+    "website_url": "http://www.lavernebrewingco.com",
+    "phone": "9095965804",
+    "created_at": "2018-07-24 01:32:57.51068",
+    "updated_at": "2018-08-11 21:36:11.07448",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

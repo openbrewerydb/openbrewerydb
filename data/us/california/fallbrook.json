@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fallbrook-brewing-co",
+    "name": "Fallbrook Brewing Co",
+    "brewery_type": "micro",
+    "street": "116 W Hawthorne St",
+    "city": "Fallbrook",
+    "state": "California",
+    "postal_code": "92028-",
+    "website_url": "http://www.fallbrookbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:55.245303",
+    "updated_at": "2018-08-23 23:28:12.686229",
+    "country": "United States",
+    "longitude": "-117.25164253479",
+    "latitude": "33.3827337938989",
+    "tags": []
+  }
+]

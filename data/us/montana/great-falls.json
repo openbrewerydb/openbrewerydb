@@ -1,0 +1,36 @@
+[
+  {
+    "id": "jeremiah-johnson-brewing-company",
+    "name": "Jeremiah Johnson Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "215 3rd St NW",
+    "city": "Great Falls",
+    "state": "Montana",
+    "postal_code": "59404-4103",
+    "website_url": "http://www.jeremiahjohnsonbrewing.com",
+    "phone": "4067273947",
+    "created_at": "2018-07-24 01:33:42.726994",
+    "updated_at": "2018-08-24 00:47:14.387897",
+    "country": "United States",
+    "longitude": "-111.302394703835",
+    "latitude": "47.5077802895334",
+    "tags": []
+  },
+  {
+    "id": "mighty-mo-brew-co",
+    "name": "Mighty Mo Brew Co",
+    "brewery_type": "brewpub",
+    "street": "412 Central Ave",
+    "city": "Great Falls",
+    "state": "Montana",
+    "postal_code": "59401-3116",
+    "website_url": "http://www.mightymobrewing.com",
+    "phone": "4069520342",
+    "created_at": "2018-07-24 01:33:42.901734",
+    "updated_at": "2018-08-24 00:47:20.127293",
+    "country": "United States",
+    "longitude": "-111.300448841961",
+    "latitude": "47.5051830677645",
+    "tags": []
+  }
+]

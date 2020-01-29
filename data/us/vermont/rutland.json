@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hopn-moose-brewing-company",
+    "name": "Hop'n Moose Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "41 Center St",
+    "city": "Rutland",
+    "state": "Vermont",
+    "postal_code": "05701-4016",
+    "website_url": "http://www.hopnmoose.com",
+    "phone": "8027757063",
+    "created_at": "2018-07-24 01:34:23.399491",
+    "updated_at": "2018-08-24 16:25:59.688167",
+    "country": "United States",
+    "longitude": "-72.97743",
+    "latitude": "43.606783",
+    "tags": []
+  }
+]

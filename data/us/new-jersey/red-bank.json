@@ -1,0 +1,19 @@
+[
+  {
+    "id": "birravino",
+    "name": "Birravino",
+    "brewery_type": "brewpub",
+    "street": "183 Riverside Ave",
+    "city": "Red Bank",
+    "state": "New Jersey",
+    "postal_code": "07701-1015",
+    "website_url": "http://www.birravino.com",
+    "phone": "7328425990",
+    "created_at": "2018-07-24 01:33:46.179677",
+    "updated_at": "2018-08-24 15:36:31.454045",
+    "country": "United States",
+    "longitude": "-74.0753623780113",
+    "latitude": "40.3535256530315",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "common-bond-brewers-llc",
+    "name": "Common Bond Brewers, LLC",
+    "brewery_type": "micro",
+    "street": "424 Bibb Street Suite 150",
+    "city": "Montgomery",
+    "state": "Alabama",
+    "postal_code": "36104",
+    "website_url": "http://www.commonbondbrewers.com",
+    "phone": "3346762292",
+    "created_at": "2018-07-24 01:32:47.451521",
+    "updated_at": "2018-08-11 21:35:43.787757",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "the-railyard-brewing-co",
+    "name": "The Railyard Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "12 W Jefferson St Ste 100",
+    "city": "Montgomery",
+    "state": "Alabama",
+    "postal_code": "36104-2573",
+    "website_url": "http://www.railyardbrewingcompany.com",
+    "phone": "3342620080",
+    "created_at": "2018-07-24 01:32:47.803993",
+    "updated_at": "2018-08-11 21:35:44.563099",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

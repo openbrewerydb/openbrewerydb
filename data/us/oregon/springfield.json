@@ -1,0 +1,36 @@
+[
+  {
+    "id": "plank-town-brewing",
+    "name": "Plank Town Brewing",
+    "brewery_type": "micro",
+    "street": "346 Main St",
+    "city": "Springfield",
+    "state": "Oregon",
+    "postal_code": "97477-5362",
+    "website_url": "http://planktownbrewing.com",
+    "phone": "4582017039",
+    "created_at": "2018-07-24 01:34:07.328533",
+    "updated_at": "2018-08-24 16:04:06.479528",
+    "country": "United States",
+    "longitude": "-123.021446840161",
+    "latitude": "44.0462730752437",
+    "tags": []
+  },
+  {
+    "id": "hop-valley-brewing-co",
+    "name": "Hop Valley Brewing Co",
+    "brewery_type": "large",
+    "street": "980 Kruse Way",
+    "city": "Springfield",
+    "state": "Oregon",
+    "postal_code": "97477-1073",
+    "website_url": "http://www.hopvalleybrewing.com",
+    "phone": "5417443330",
+    "created_at": "2018-07-24 01:34:06.283337",
+    "updated_at": "2018-08-24 16:02:14.815935",
+    "country": "United States",
+    "longitude": "-123.039979613407",
+    "latitude": "44.0827062376223",
+    "tags": []
+  }
+]

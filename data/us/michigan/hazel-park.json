@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cellarmens-meadery-microbrewery-and-cidery",
+    "name": "Cellarmen's Meadery, Microbrewery and Cidery",
+    "brewery_type": "micro",
+    "street": "24310 John R Rd",
+    "city": "Hazel Park",
+    "state": "Michigan",
+    "postal_code": "48030-1112",
+    "website_url": "http://www.cellarmens.com",
+    "phone": "5864134206",
+    "created_at": "2018-07-24 01:33:33.637308",
+    "updated_at": "2018-08-11 21:37:47.46955",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

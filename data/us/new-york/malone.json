@@ -1,0 +1,19 @@
+[
+  {
+    "id": "owls-rest-brewery",
+    "name": "Owls Rest Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Malone",
+    "state": "New York",
+    "postal_code": "12953-1517",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:52.69791",
+    "updated_at": "2018-08-11 21:38:38.702071",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

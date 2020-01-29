@@ -1,0 +1,19 @@
+[
+  {
+    "id": "southern-range-brewing",
+    "name": "Southern Range Brewing",
+    "brewery_type": "brewpub",
+    "street": "151 S Stewart St",
+    "city": "Monroe",
+    "state": "North Carolina",
+    "postal_code": "28112",
+    "website_url": "http://www.southernrangebrewing.com",
+    "phone": "7042894049",
+    "created_at": "2018-07-24 01:33:58.178155",
+    "updated_at": "2018-08-24 15:42:43.243742",
+    "country": "United States",
+    "longitude": "-80.5509134608754",
+    "latitude": "34.9807363725295",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "virginia-city-brewery-and-taphouse",
+    "name": "Virginia City Brewery & Taphouse",
+    "brewery_type": "brewpub",
+    "street": "62 North C Street",
+    "city": "Virginia City",
+    "state": "Nevada",
+    "postal_code": "89440",
+    "website_url": "http://www.virginiacitybreweryandtaphouse.com",
+    "phone": "7758477064",
+    "created_at": "2018-07-24 01:33:44.84832",
+    "updated_at": "2018-08-24 15:35:51.972994",
+    "country": "United States",
+    "longitude": "-119.648264",
+    "latitude": "39.314358",
+    "tags": []
+  }
+]

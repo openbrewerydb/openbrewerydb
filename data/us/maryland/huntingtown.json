@@ -1,0 +1,19 @@
+[
+  {
+    "id": "gypsy-brewing-company",
+    "name": "Gypsy Brewing Company",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Huntingtown",
+    "state": "Maryland",
+    "postal_code": "20639",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:29.109949",
+    "updated_at": "2018-08-11 21:37:36.431885",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

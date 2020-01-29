@@ -1,0 +1,19 @@
+[
+  {
+    "id": "glasstown-brewing",
+    "name": "Glasstown Brewing",
+    "brewery_type": "micro",
+    "street": "10 Peterson St",
+    "city": "Millville",
+    "state": "New Jersey",
+    "postal_code": "08332-4818",
+    "website_url": "http://www.glasstownbrewery.com",
+    "phone": "8563277770",
+    "created_at": "2018-07-24 01:33:46.784845",
+    "updated_at": "2018-08-11 21:38:23.609062",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

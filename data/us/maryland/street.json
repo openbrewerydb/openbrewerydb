@@ -1,0 +1,19 @@
+[
+  {
+    "id": "falling-branch-brewery",
+    "name": "Falling Branch Brewery",
+    "brewery_type": "micro",
+    "street": "825 Highland Rd",
+    "city": "Street",
+    "state": "Maryland",
+    "postal_code": "21154-1312",
+    "website_url": "http://fallingbranchbeer.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:28.895411",
+    "updated_at": "2018-08-24 00:40:30.363739",
+    "country": "United States",
+    "longitude": "-76.3708166016169",
+    "latitude": "39.6666500412926",
+    "tags": []
+  }
+]

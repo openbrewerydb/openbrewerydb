@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pismo-brewing-co",
+    "name": "Pismo Brewing Co",
+    "brewery_type": "micro",
+    "street": "500 Cypress St",
+    "city": "Pismo Beach",
+    "state": "California",
+    "postal_code": "93449-2624",
+    "website_url": "http://www.pismobrew.com",
+    "phone": "8052956200",
+    "created_at": "2018-07-24 01:32:59.469762",
+    "updated_at": "2018-08-24 00:00:54.888381",
+    "country": "United States",
+    "longitude": "-120.64091923506",
+    "latitude": "35.13908295",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "helltown-brewing",
+    "name": "Helltown Brewing",
+    "brewery_type": "micro",
+    "street": "13 Henry C Frick St",
+    "city": "Mount Pleasant",
+    "state": "Pennsylvania",
+    "postal_code": "15666-1343",
+    "website_url": "http://www.helltownbrewing.com",
+    "phone": "7245424339",
+    "created_at": "2018-07-24 01:34:10.787902",
+    "updated_at": "2018-08-11 21:39:27.065498",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

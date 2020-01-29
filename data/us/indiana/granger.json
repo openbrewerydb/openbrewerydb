@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bare-hands-brewery",
+    "name": "Bare Hands Brewery",
+    "brewery_type": "micro",
+    "street": "12804 Sandy Ct",
+    "city": "Granger",
+    "state": "Indiana",
+    "postal_code": "46530-4309",
+    "website_url": "http://www.barehandsbrewbrewery.com",
+    "phone": "5742772258",
+    "created_at": "2018-07-24 01:33:21.320461",
+    "updated_at": "2018-08-11 21:37:17.565345",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "heavenly-goat-brewing-company",
+    "name": "Heavenly Goat Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "7321 Heritage Square Dr Ste 190",
+    "city": "Granger",
+    "state": "Indiana",
+    "postal_code": "46530-5660",
+    "website_url": "http://www.heavenlygoatbrew.com",
+    "phone": "5742178428",
+    "created_at": "2018-07-24 01:33:22.189262",
+    "updated_at": "2018-08-11 21:37:19.625122",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kane-brewing",
+    "name": "Kane Brewing",
+    "brewery_type": "micro",
+    "street": "1750 Bloomsbury Ave",
+    "city": "Ocean",
+    "state": "New Jersey",
+    "postal_code": "07712-3941",
+    "website_url": "http://www.kanebrewing.com",
+    "phone": "7329228600",
+    "created_at": "2018-07-24 01:33:46.977848",
+    "updated_at": "2018-08-24 15:36:54.828245",
+    "country": "United States",
+    "longitude": "-74.0448807",
+    "latitude": "40.2365672",
+    "tags": []
+  }
+]

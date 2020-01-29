@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-in-planning-astoria",
+    "name": "Brewery in Planning - Astoria",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Astoria",
+    "state": "New York",
+    "postal_code": "11105-3936",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:49.637092",
+    "updated_at": "2018-08-11 21:38:31.043001",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "singlecut-beersmiths",
+    "name": "Singlecut Beersmiths",
+    "brewery_type": "micro",
+    "street": "19-33 37th St",
+    "city": "Astoria",
+    "state": "New York",
+    "postal_code": "11105-1118",
+    "website_url": "http://www.singlecutbeer.com",
+    "phone": "7186060788",
+    "created_at": "2018-07-24 01:33:53.586188",
+    "updated_at": "2018-08-11 21:38:41.405819",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

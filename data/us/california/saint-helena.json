@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mad-fritz",
+    "name": "Mad Fritz",
+    "brewery_type": "micro",
+    "street": "393 Lafata St",
+    "city": "Saint Helena",
+    "state": "California",
+    "postal_code": "94574-1405",
+    "website_url": "http://www.madfritz.com",
+    "phone": "7079685058",
+    "created_at": "2018-07-24 01:32:58.067335",
+    "updated_at": "2018-08-23 23:59:19.240113",
+    "country": "United States",
+    "longitude": "-122.458418646465",
+    "latitude": "38.4998578080808",
+    "tags": []
+  }
+]

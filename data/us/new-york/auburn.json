@@ -1,0 +1,53 @@
+[
+  {
+    "id": "next-chapter-brewpub",
+    "name": "Next Chapter Brewpub",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Auburn",
+    "state": "New York",
+    "postal_code": "13021-4620",
+    "website_url": "http://www.nextchapterbrewpub.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:52.575124",
+    "updated_at": "2018-08-11 21:38:38.391217",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "prison-city-brewing",
+    "name": "Prison City Brewing",
+    "brewery_type": "brewpub",
+    "street": "28 State St",
+    "city": "Auburn",
+    "state": "New York",
+    "postal_code": "13021-3625",
+    "website_url": "http://www.prisoncitybrewing.com",
+    "phone": "9177272477",
+    "created_at": "2018-07-24 01:33:52.882612",
+    "updated_at": "2018-08-24 15:39:56.878172",
+    "country": "United States",
+    "longitude": "-76.5682427",
+    "latitude": "42.9317672",
+    "tags": []
+  },
+  {
+    "id": "the-good-shepherds-brewing-co",
+    "name": "The Good Shepherds Brewing Co",
+    "brewery_type": "micro",
+    "street": "31 Loop Rd Ste 1",
+    "city": "Auburn",
+    "state": "New York",
+    "postal_code": "13021-3823",
+    "website_url": "http://www.shepsbeer.com",
+    "phone": "3154066498",
+    "created_at": "2018-07-24 01:33:54.054156",
+    "updated_at": "2018-08-11 21:38:42.553684",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

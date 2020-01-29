@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ej-phair-brewing-co",
+    "name": "E.J. Phair Brewing Co.",
+    "brewery_type": "micro",
+    "street": "300 Cumberland St",
+    "city": "Pittsburg",
+    "state": "California",
+    "postal_code": "94565-2234",
+    "website_url": "http://www.ejphair.com",
+    "phone": "9252529895",
+    "created_at": "2018-07-24 01:32:54.7781",
+    "updated_at": "2018-08-23 23:27:47.078161",
+    "country": "United States",
+    "longitude": "-121.8824742",
+    "latitude": "38.0330804",
+    "tags": []
+  }
+]

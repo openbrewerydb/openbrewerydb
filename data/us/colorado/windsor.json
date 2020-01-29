@@ -1,0 +1,36 @@
+[
+  {
+    "id": "high-hops-brewery",
+    "name": "High Hops Brewery",
+    "brewery_type": "micro",
+    "street": "6461 State Highway 392",
+    "city": "Windsor",
+    "state": "Colorado",
+    "postal_code": "80550-3010",
+    "website_url": "http://www.highhopsbrewery.com",
+    "phone": "9706742841",
+    "created_at": "2018-07-24 01:33:05.861738",
+    "updated_at": "2018-08-24 00:23:23.524603",
+    "country": "United States",
+    "longitude": "-104.9357557",
+    "latitude": "40.4799901",
+    "tags": []
+  },
+  {
+    "id": "mash-lab-brewing",
+    "name": "Mash Lab Brewing",
+    "brewery_type": "micro",
+    "street": "4395 Highland Meadows Pkwy",
+    "city": "Windsor",
+    "state": "Colorado",
+    "postal_code": "80550-8007",
+    "website_url": "http://www.mashlabbrewing.com",
+    "phone": "9702629225",
+    "created_at": "2018-07-24 01:33:06.523896",
+    "updated_at": "2018-08-24 00:23:49.837434",
+    "country": "United States",
+    "longitude": "-104.967793571429",
+    "latitude": "40.4386997959184",
+    "tags": []
+  }
+]

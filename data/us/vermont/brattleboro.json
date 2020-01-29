@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hermit-thrush-brewery-llc",
+    "name": "Hermit Thrush Brewery, LLC",
+    "brewery_type": "micro",
+    "street": "29 High St Ste 101C",
+    "city": "Brattleboro",
+    "state": "Vermont",
+    "postal_code": "05301-3041",
+    "website_url": "http://www.hermitthrushbrewery.com",
+    "phone": "8022572337",
+    "created_at": "2018-07-24 01:34:23.358831",
+    "updated_at": "2018-08-11 21:39:59.588946",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "mcneills-brewery",
+    "name": "McNeills Brewery",
+    "brewery_type": "brewpub",
+    "street": "90 Elliot St",
+    "city": "Brattleboro",
+    "state": "Vermont",
+    "postal_code": "05301-3269",
+    "website_url": "",
+    "phone": "8022542553",
+    "created_at": "2018-07-24 01:34:23.538639",
+    "updated_at": "2018-08-24 16:26:13.332244",
+    "country": "United States",
+    "longitude": "-72.5593377877259",
+    "latitude": "42.8518860973285",
+    "tags": []
+  },
+  {
+    "id": "whetstone-craft-beers-whetstone-station",
+    "name": "Whetstone Craft Beers @ Whetstone Station",
+    "brewery_type": "brewpub",
+    "street": "36 Bridge St",
+    "city": "Brattleboro",
+    "state": "Vermont",
+    "postal_code": "05301-3301",
+    "website_url": "http://www.whetstonestation.com",
+    "phone": "8024902354",
+    "created_at": "2018-07-24 01:34:23.81166",
+    "updated_at": "2018-08-24 16:26:41.638762",
+    "country": "United States",
+    "longitude": "-72.5562701183785",
+    "latitude": "42.85164595",
+    "tags": []
+  }
+]

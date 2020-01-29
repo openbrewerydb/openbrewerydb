@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mickey-finns-brewery",
+    "name": "Mickey Finns Brewery",
+    "brewery_type": "brewpub",
+    "street": "345 N Milwaukee Ave",
+    "city": "Libertyville",
+    "state": "Illinois",
+    "postal_code": "60048-2237",
+    "website_url": "http://www.mickeyfinnsbrewery.com",
+    "phone": "8473626688",
+    "created_at": "2018-07-24 01:33:19.80128",
+    "updated_at": "2018-08-24 00:31:33.897452",
+    "country": "United States",
+    "longitude": "-87.9542955",
+    "latitude": "42.2863321",
+    "tags": []
+  }
+]

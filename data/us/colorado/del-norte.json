@@ -1,0 +1,19 @@
+[
+  {
+    "id": "three-barrel-brewing-co",
+    "name": "Three Barrel Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "475 Grand Ave",
+    "city": "del Norte",
+    "state": "Colorado",
+    "postal_code": "81132-2204",
+    "website_url": "http://www.threebarrelbrew.com",
+    "phone": "7196570681",
+    "created_at": "2018-07-24 01:33:08.242592",
+    "updated_at": "2018-08-24 00:24:55.767819",
+    "country": "United States",
+    "longitude": "-106.3567109",
+    "latitude": "37.6790756",
+    "tags": []
+  }
+]

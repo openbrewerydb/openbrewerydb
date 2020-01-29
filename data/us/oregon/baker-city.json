@@ -1,0 +1,36 @@
+[
+  {
+    "id": "barley-browns-brewpub",
+    "name": "Barley Browns Brewpub",
+    "brewery_type": "micro",
+    "street": "2190 Main St",
+    "city": "Baker City",
+    "state": "Oregon",
+    "postal_code": "97814-2655",
+    "website_url": "http://www.barleybrowns.com",
+    "phone": "5415234266",
+    "created_at": "2018-07-24 01:34:04.753166",
+    "updated_at": "2018-08-24 15:45:53.74343",
+    "country": "United States",
+    "longitude": "-117.8294962",
+    "latitude": "44.7787802",
+    "tags": []
+  },
+  {
+    "id": "baker-city-brewing-co",
+    "name": "Baker City Brewing Co",
+    "brewery_type": "micro",
+    "street": "2200 Main Street",
+    "city": "Baker City",
+    "state": "Oregon",
+    "postal_code": "97814",
+    "website_url": "http://www.barleybrowns.com",
+    "phone": "5415232337",
+    "created_at": "2018-07-24 01:34:04.728386",
+    "updated_at": "2018-08-24 15:45:52.79384",
+    "country": "United States",
+    "longitude": "-117.829347099531",
+    "latitude": "44.77928865",
+    "tags": []
+  }
+]

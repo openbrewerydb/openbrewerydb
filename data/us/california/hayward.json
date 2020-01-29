@@ -1,0 +1,19 @@
+[
+  {
+    "id": "buffalo-bills-brewery",
+    "name": "Buffalo Bills Brewery",
+    "brewery_type": "brewpub",
+    "street": "1082 B St",
+    "city": "Hayward",
+    "state": "California",
+    "postal_code": "94541-4108",
+    "website_url": "http://www.buffalobillsbrewery.com",
+    "phone": "5108869823",
+    "created_at": "2018-07-24 01:32:53.425839",
+    "updated_at": "2018-08-23 23:26:19.793014",
+    "country": "United States",
+    "longitude": "-122.0768666",
+    "latitude": "37.6770284",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "shipwreck-brewing-company",
+    "name": "Shipwreck Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "24409 Jefferson Ave",
+    "city": "Saint Clair Shores",
+    "state": "Michigan",
+    "postal_code": "48080-1318",
+    "website_url": "http://www.shipwreckbrewingcompany.com",
+    "phone": "5869442266",
+    "created_at": "2018-07-24 01:33:36.527768",
+    "updated_at": "2018-08-24 00:44:08.299789",
+    "country": "United States",
+    "longitude": "-82.8887785856805",
+    "latitude": "42.4712223090048",
+    "tags": []
+  },
+  {
+    "id": "baffin-brewing-co",
+    "name": "Baffin Brewing Co",
+    "brewery_type": "micro",
+    "street": "25113 Jefferson Ave",
+    "city": "Saint Clair Shores",
+    "state": "Michigan",
+    "postal_code": "48081-2303",
+    "website_url": "http://baffinbrewing.com",
+    "phone": "5862187990",
+    "created_at": "2018-07-24 01:33:32.78924",
+    "updated_at": "2018-08-24 00:42:10.282654",
+    "country": "United States",
+    "longitude": "-82.888964",
+    "latitude": "42.472227",
+    "tags": []
+  },
+  {
+    "id": "jamex-brewing-co",
+    "name": "Jamex Brewing Co",
+    "brewery_type": "micro",
+    "street": "21721 Harper Ave",
+    "city": "Saint Clair Shores",
+    "state": "Michigan",
+    "postal_code": "48080-2213",
+    "website_url": "http://www.jamexbrewing.com",
+    "phone": "5869442030",
+    "created_at": "2018-07-24 01:33:34.972089",
+    "updated_at": "2018-08-24 00:43:17.692225",
+    "country": "United States",
+    "longitude": "-82.8986171",
+    "latitude": "42.5171113",
+    "tags": []
+  }
+]

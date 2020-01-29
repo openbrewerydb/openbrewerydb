@@ -1,0 +1,19 @@
+[
+  {
+    "id": "buffalo-mountain-brewery",
+    "name": "Buffalo Mountain Brewery",
+    "brewery_type": "micro",
+    "street": "332 Webbs Mill Rd N",
+    "city": "Floyd",
+    "state": "Virginia",
+    "postal_code": "24091",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:24.809733",
+    "updated_at": "2018-08-24 16:27:57.375494",
+    "country": "United States",
+    "longitude": "-80.3246258203848",
+    "latitude": "36.9207956290998",
+    "tags": []
+  }
+]

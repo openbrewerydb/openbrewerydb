@@ -1,0 +1,36 @@
+[
+  {
+    "id": "grainworks-brewing-company",
+    "name": "Grainworks Brewing Company",
+    "brewery_type": "micro",
+    "street": "7790 Service Center Dr",
+    "city": "West Chester",
+    "state": "Ohio",
+    "postal_code": "45069-2442",
+    "website_url": "",
+    "phone": "5134802337",
+    "created_at": "2018-07-24 01:34:00.895548",
+    "updated_at": "2018-08-11 21:38:58.874552",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "dogberry-brewing-llc",
+    "name": "DogBerry Brewing LLC",
+    "brewery_type": "micro",
+    "street": "9964 Crescent Park Dr",
+    "city": "West Chester ",
+    "state": "Ohio",
+    "postal_code": "45069",
+    "website_url": "http://www.dogberrybrewing.com",
+    "phone": "5138478208",
+    "created_at": "2018-07-24 01:34:00.494161",
+    "updated_at": "2018-08-11 21:38:58.020851",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

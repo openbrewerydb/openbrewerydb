@@ -1,0 +1,36 @@
+[
+  {
+    "id": "legends-brewhouse-and-eatery-#2",
+    "name": "Legends Brewhouse and Eatery (#2)",
+    "brewery_type": "brewpub",
+    "street": "875 Heritage Rd",
+    "city": "de Pere",
+    "state": "Wisconsin",
+    "postal_code": "54115-3148",
+    "website_url": "http://www.legendseatery.com",
+    "phone": "9203368036",
+    "created_at": "2018-07-24 01:34:35.75443",
+    "updated_at": "2018-08-24 16:43:58.989509",
+    "country": "United States",
+    "longitude": "-88.0641076442953",
+    "latitude": "44.4281921275168",
+    "tags": []
+  },
+  {
+    "id": "steel-squared-brewing-company",
+    "name": "Steel Squared Brewing Company",
+    "brewery_type": "contract",
+    "street": "1597 Tiffany Ct",
+    "city": "de Pere",
+    "state": "Wisconsin",
+    "postal_code": "54115-9042",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:36.715443",
+    "updated_at": "2018-08-11 21:40:36.574336",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

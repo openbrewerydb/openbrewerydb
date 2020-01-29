@@ -1,0 +1,19 @@
+[
+  {
+    "id": "castle-point-brewery",
+    "name": "Castle Point Brewery",
+    "brewery_type": "contract",
+    "street": "200 Garden St C/O Red Bridge Homes",
+    "city": "Hoboken",
+    "state": "New Jersey",
+    "postal_code": "07030-3793",
+    "website_url": "http://www.castlepointbrewery.com",
+    "phone": "9185328525",
+    "created_at": "2018-07-24 01:33:46.439028",
+    "updated_at": "2018-08-11 21:38:22.688435",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bellevue-brewing-co",
+    "name": "Bellevue Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1820 130th Ave NE # 2",
+    "city": "Bellevue",
+    "state": "Washington",
+    "postal_code": "98005-2205",
+    "website_url": "http://www.bellevuebrewing.com",
+    "phone": "4257850171",
+    "created_at": "2018-07-24 01:34:28.142348",
+    "updated_at": "2018-08-24 16:32:44.73639",
+    "country": "United States",
+    "longitude": "-122.166930590479",
+    "latitude": "47.6265806866727",
+    "tags": []
+  },
+  {
+    "id": "resonate-brewery-pizzeria",
+    "name": "Resonate Brewery + Pizzeria",
+    "brewery_type": "brewpub",
+    "street": "5606 119th Ave SE",
+    "city": "Bellevue",
+    "state": "Washington",
+    "postal_code": "98006-3754",
+    "website_url": "http://www.resonatebrewery.com",
+    "phone": "4256443164",
+    "created_at": "2018-07-24 01:34:32.402304",
+    "updated_at": "2018-08-24 16:38:37.000158",
+    "country": "United States",
+    "longitude": "-122.1774828",
+    "latitude": "47.5523206",
+    "tags": []
+  }
+]

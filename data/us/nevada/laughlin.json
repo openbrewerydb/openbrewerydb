@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pints-brewery-and-sports-bar",
+    "name": "Pints Brewery and Sports Bar",
+    "brewery_type": "brewpub",
+    "street": "2100 S Casino Dr",
+    "city": "Laughlin",
+    "state": "Nevada",
+    "postal_code": "89029",
+    "website_url": "http://www.coloradobelle.com",
+    "phone": "7022984000",
+    "created_at": "2018-07-24 01:33:44.584151",
+    "updated_at": "2018-08-24 15:35:42.098516",
+    "country": "United States",
+    "longitude": "-114.574559",
+    "latitude": "35.157448",
+    "tags": []
+  }
+]

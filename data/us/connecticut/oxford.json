@@ -1,0 +1,53 @@
+[
+  {
+    "id": "black-hog-brewing-co",
+    "name": "Black Hog Brewing Co",
+    "brewery_type": "micro",
+    "street": "115 Hurley Road, Building 9A",
+    "city": "Oxford",
+    "state": "Connecticut",
+    "postal_code": "06478-1047",
+    "website_url": "http://www.blackhogbrewing.com",
+    "phone": "2032626075",
+    "created_at": "2018-07-24 01:33:09.121279",
+    "updated_at": "2018-08-11 21:36:45.323826",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "oec-brewing",
+    "name": "OEC Brewing",
+    "brewery_type": "micro",
+    "street": "7 Fox Hollow Rd",
+    "city": "Oxford",
+    "state": "Connecticut",
+    "postal_code": "06478-3162",
+    "website_url": "http://www.oecbrewing.com",
+    "phone": "2032952831",
+    "created_at": "2018-07-24 01:33:09.935498",
+    "updated_at": "2018-08-11 21:36:47.218336",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "pie-and-pints-restaurant-and-brewery",
+    "name": "Pie & Pints Restaurant & Brewery",
+    "brewery_type": "contract",
+    "street": "",
+    "city": "Oxford",
+    "state": "Connecticut",
+    "postal_code": "06478",
+    "website_url": "http://www.piesandpints.biz",
+    "phone": "2035731743",
+    "created_at": "2018-07-24 01:33:09.990019",
+    "updated_at": "2018-08-11 21:36:47.325044",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

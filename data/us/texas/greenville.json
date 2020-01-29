@@ -1,0 +1,19 @@
+[
+  {
+    "id": "landon-winery",
+    "name": "Landon Winery",
+    "brewery_type": "micro",
+    "street": "2508 Lee Street",
+    "city": "Greenville",
+    "state": "Texas",
+    "postal_code": "75401",
+    "website_url": "http://www.landonwinery.com",
+    "phone": "9034547878",
+    "created_at": "2018-07-24 01:34:20.049989",
+    "updated_at": "2018-08-24 16:21:35.720281",
+    "country": "United States",
+    "longitude": "-96.1059881261706",
+    "latitude": "33.1398710518474",
+    "tags": []
+  }
+]

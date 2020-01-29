@@ -1,0 +1,19 @@
+[
+  {
+    "id": "six-harbors-brewing-company",
+    "name": "Six Harbors Brewing Company",
+    "brewery_type": "proprietor",
+    "street": "243 New York Ave.",
+    "city": "Huntington",
+    "state": "New York",
+    "postal_code": "11743-2719",
+    "website_url": "",
+    "phone": "5166803528",
+    "created_at": "2018-07-24 01:33:53.598696",
+    "updated_at": "2018-08-24 15:40:20.538707",
+    "country": "United States",
+    "longitude": "-73.4253168048905",
+    "latitude": "40.8749628",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "piney-river-brewing-company",
+    "name": "Piney River Brewing Company",
+    "brewery_type": "micro",
+    "street": "15194 Walnut Grove Dr",
+    "city": "Bucyrus",
+    "state": "Missouri",
+    "postal_code": "65444-9002",
+    "website_url": "http://www.pineyriverbrewing.com",
+    "phone": "4179674001",
+    "created_at": "2018-07-24 01:33:41.493499",
+    "updated_at": "2018-08-24 00:46:41.432674",
+    "country": "United States",
+    "longitude": "-92.0176853708533",
+    "latitude": "37.3214879835947",
+    "tags": []
+  }
+]

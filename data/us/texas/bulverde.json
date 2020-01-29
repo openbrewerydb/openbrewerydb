@@ -1,0 +1,19 @@
+[
+  {
+    "id": "la-funke-brewing",
+    "name": "La Funke Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Bulverde",
+    "state": "Texas",
+    "postal_code": "78163-4156",
+    "website_url": "http://www.lafunke.com",
+    "phone": "2104602083",
+    "created_at": "2018-07-24 01:34:19.982418",
+    "updated_at": "2018-08-11 21:39:51.492941",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

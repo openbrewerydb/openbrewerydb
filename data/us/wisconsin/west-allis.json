@@ -1,0 +1,19 @@
+[
+  {
+    "id": "westallion-brewing-company",
+    "name": "Westallion Brewing Company",
+    "brewery_type": "micro",
+    "street": "1825 S 72nd St",
+    "city": "West Allis",
+    "state": "Wisconsin",
+    "postal_code": "53214-4714",
+    "website_url": "http://www.westallionbrewing.com",
+    "phone": "4145787998",
+    "created_at": "2018-07-24 01:34:37.212505",
+    "updated_at": "2018-08-24 16:46:28.315658",
+    "country": "United States",
+    "longitude": "-88.0027164974316",
+    "latitude": "43.0113052505337",
+    "tags": []
+  }
+]

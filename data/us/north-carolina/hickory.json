@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hickory-brewery-/-american-honor-ale-house-and-brewery",
+    "name": "Hickory Brewery / American Honor Ale House and Brewery",
+    "brewery_type": "micro",
+    "street": "883 Highland Ave SE",
+    "city": "Hickory",
+    "state": "North Carolina",
+    "postal_code": "28602-1106",
+    "website_url": "",
+    "phone": "8284149600",
+    "created_at": "2018-07-24 01:33:56.564862",
+    "updated_at": "2018-08-24 15:41:52.900355",
+    "country": "United States",
+    "longitude": "-81.325497622729",
+    "latitude": "35.7353351663058",
+    "tags": []
+  },
+  {
+    "id": "olde-hickory-brewery-and-amos-howards",
+    "name": "Olde Hickory Brewery & Amos Howards",
+    "brewery_type": "brewpub",
+    "street": "2828 US Highway 70 SW",
+    "city": "Hickory",
+    "state": "North Carolina",
+    "postal_code": "28602-4645",
+    "website_url": "http://www.amoshowards.com",
+    "phone": "8283238753",
+    "created_at": "2018-07-24 01:33:57.622581",
+    "updated_at": "2018-08-11 21:38:51.211722",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "olde-hickory-brewery-production",
+    "name": "Olde Hickory Brewery - Production",
+    "brewery_type": "micro",
+    "street": "2 3rd St SW",
+    "city": "Hickory",
+    "state": "North Carolina",
+    "postal_code": "28602-2941",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:57.609545",
+    "updated_at": "2018-08-24 15:42:24.58235",
+    "country": "United States",
+    "longitude": "-81.342295024641",
+    "latitude": "35.7313114",
+    "tags": []
+  }
+]

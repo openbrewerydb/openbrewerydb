@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fox-n-hare-brewing-company",
+    "name": "Fox N Hare Brewing Company",
+    "brewery_type": "micro",
+    "street": "46 Front St",
+    "city": "Port Jervis",
+    "state": "New York",
+    "postal_code": "12771-2415",
+    "website_url": "http://www.foxnhare-brewing.com",
+    "phone": "3172095767",
+    "created_at": "2018-07-24 01:33:51.059223",
+    "updated_at": "2018-08-24 15:38:59.879376",
+    "country": "United States",
+    "longitude": "-74.6908826334695",
+    "latitude": "41.372530674642",
+    "tags": []
+  }
+]

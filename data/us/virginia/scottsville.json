@@ -1,0 +1,19 @@
+[
+  {
+    "id": "james-river-brewery",
+    "name": "James River Brewery",
+    "brewery_type": "micro",
+    "street": "561 Valley St",
+    "city": "Scottsville",
+    "state": "Virginia",
+    "postal_code": "24590-4983",
+    "website_url": "http://www.jrbrewery.com/home.html",
+    "phone": "4342867837",
+    "created_at": "2018-07-24 01:34:25.777266",
+    "updated_at": "2018-08-24 16:29:16.253777",
+    "country": "United States",
+    "longitude": "-78.4961166727378",
+    "latitude": "37.8006629828106",
+    "tags": []
+  }
+]

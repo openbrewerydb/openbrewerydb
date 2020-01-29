@@ -1,0 +1,19 @@
+[
+  {
+    "id": "gruhlkes-microbrewery-/-bias-vineyards",
+    "name": "Gruhlke's Microbrewery / Bias Vineyards",
+    "brewery_type": "brewpub",
+    "street": "3166 Highway B",
+    "city": "Berger",
+    "state": "Missouri",
+    "postal_code": "63014-1418",
+    "website_url": "http://www.biaswinery.com",
+    "phone": "5738345475",
+    "created_at": "2018-07-24 01:33:41.132987",
+    "updated_at": "2018-08-24 00:46:30.26114",
+    "country": "United States",
+    "longitude": "-91.3352114",
+    "latitude": "38.6769847",
+    "tags": []
+  }
+]

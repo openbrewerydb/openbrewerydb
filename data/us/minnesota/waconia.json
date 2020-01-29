@@ -1,0 +1,36 @@
+[
+  {
+    "id": "schram-vineyards-winery-and-brewery",
+    "name": "Schram Vineyards Winery & Brewery",
+    "brewery_type": "micro",
+    "street": "8785 Airport Rd",
+    "city": "Waconia",
+    "state": "Minnesota",
+    "postal_code": "55387-9634",
+    "website_url": "http://SchramVineyards.com",
+    "phone": "9524425105",
+    "created_at": "2018-07-24 01:33:39.528729",
+    "updated_at": "2018-08-24 00:45:44.756461",
+    "country": "United States",
+    "longitude": "-93.7436472743509",
+    "latitude": "44.8441574360962",
+    "tags": []
+  },
+  {
+    "id": "waconia-brewing-company",
+    "name": "Waconia Brewing Company",
+    "brewery_type": "micro",
+    "street": "255 W Main St",
+    "city": "Waconia",
+    "state": "Minnesota",
+    "postal_code": "55387-1025",
+    "website_url": "http://www.waconiabrewing.com",
+    "phone": "6128882739",
+    "created_at": "2018-07-24 01:33:39.978112",
+    "updated_at": "2018-08-11 21:38:05.573057",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

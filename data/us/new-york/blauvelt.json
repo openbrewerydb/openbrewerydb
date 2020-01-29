@@ -1,0 +1,19 @@
+[
+  {
+    "id": "andean-brewing",
+    "name": "Andean Brewing",
+    "brewery_type": "micro",
+    "street": "300 Corporate Dr Ste 2",
+    "city": "Blauvelt",
+    "state": "New York",
+    "postal_code": "10913-1162",
+    "website_url": "",
+    "phone": "6464505852",
+    "created_at": "2018-07-24 01:33:49.117368",
+    "updated_at": "2018-08-11 21:38:29.619276",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

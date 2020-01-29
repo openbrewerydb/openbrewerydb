@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fair-oaks-brew-pub",
+    "name": "Fair Oaks Brew Pub",
+    "brewery_type": "brewpub",
+    "street": "7988 California Ave",
+    "city": "Fair Oaks",
+    "state": "California",
+    "postal_code": "95628-7140",
+    "website_url": "http://www.fairoaksbrewpub.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:55.207448",
+    "updated_at": "2018-08-23 23:28:10.068946",
+    "country": "United States",
+    "longitude": "-121.268739323019",
+    "latitude": "38.6418184858012",
+    "tags": []
+  }
+]

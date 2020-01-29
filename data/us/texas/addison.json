@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bitter-sisters-brewing-company",
+    "name": "Bitter Sisters Brewing Company",
+    "brewery_type": "micro",
+    "street": "15103 Surveyor Blvd",
+    "city": "Addison",
+    "state": "Texas",
+    "postal_code": "75001-4316",
+    "website_url": "http://www.bittersistersbrewery.com",
+    "phone": "9724790949",
+    "created_at": "2018-07-24 01:34:17.970531",
+    "updated_at": "2018-08-24 16:19:10.508985",
+    "country": "United States",
+    "longitude": "-96.845846",
+    "latitude": "32.951222",
+    "tags": []
+  },
+  {
+    "id": "the-manhattan-project-beer-company",
+    "name": "The Manhattan Project Beer Company",
+    "brewery_type": "micro",
+    "street": "15103 Surveyor Blvd",
+    "city": "Addison",
+    "state": "Texas",
+    "postal_code": "75001-4316",
+    "website_url": "http://www.manhattanproject.beer",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:21.729243",
+    "updated_at": "2018-08-24 16:23:48.2627",
+    "country": "United States",
+    "longitude": "-96.845846",
+    "latitude": "32.951222",
+    "tags": []
+  }
+]

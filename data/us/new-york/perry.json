@@ -1,0 +1,19 @@
+[
+  {
+    "id": "silver-lake-brewing-project",
+    "name": "Silver Lake Brewing Project",
+    "brewery_type": "micro",
+    "street": "14 Borden Ave",
+    "city": "Perry",
+    "state": "New York",
+    "postal_code": "14530",
+    "website_url": "http://silverlakebrewingproject.com",
+    "phone": "5859694238",
+    "created_at": "2018-07-24 01:33:53.559492",
+    "updated_at": "2018-08-24 15:40:19.032998",
+    "country": "United States",
+    "longitude": "-78.0015992313136",
+    "latitude": "42.7179512844359",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "the-laboratory-mill-brewery",
+    "name": "The Laboratory Mill Brewery",
+    "brewery_type": "micro",
+    "street": "848 Southfork Rd",
+    "city": "Lincolnton",
+    "state": "North Carolina",
+    "postal_code": "28092",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:58.355273",
+    "updated_at": "2018-08-11 21:38:52.884883",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "untapped-territory-llc",
+    "name": "Untapped Territory, LLC",
+    "brewery_type": "contract",
+    "street": "326 E Main St Ste 1735",
+    "city": "Lincolnton",
+    "state": "North Carolina",
+    "postal_code": "28092-3335",
+    "website_url": "",
+    "phone": "7042586466",
+    "created_at": "2018-07-24 01:33:58.650277",
+    "updated_at": "2018-08-11 21:38:53.534639",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "dingo-dog-brewing-co",
+    "name": "Dingo Dog Brewing Co",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Carrboro",
+    "state": "North Carolina",
+    "postal_code": "27510",
+    "website_url": "http://www.dingodogbrewing.com",
+    "phone": "9198859793",
+    "created_at": "2018-07-24 01:33:55.953263",
+    "updated_at": "2018-08-11 21:38:47.329529",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "vecino-brewing",
+    "name": "Vecino Brewing",
+    "brewery_type": "brewpub",
+    "street": "300 E Main St",
+    "city": "Carrboro",
+    "state": "North Carolina",
+    "postal_code": "27510-2359",
+    "website_url": "http://www.vecinobrewing.com",
+    "phone": "9196495101",
+    "created_at": "2018-07-24 01:33:58.703039",
+    "updated_at": "2018-08-24 15:43:00.204121",
+    "country": "United States",
+    "longitude": "-79.0689722",
+    "latitude": "35.9100127",
+    "tags": []
+  },
+  {
+    "id": "steel-string-craft-brewery",
+    "name": "Steel String Craft Brewery",
+    "brewery_type": "brewpub",
+    "street": "106 S Greensboro St Ste A",
+    "city": "Carrboro",
+    "state": "North Carolina",
+    "postal_code": "27510-2266",
+    "website_url": "http://www.steelstringbrewery.com",
+    "phone": "9192407215",
+    "created_at": "2018-07-24 01:33:58.219267",
+    "updated_at": "2018-08-11 21:38:52.586271",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

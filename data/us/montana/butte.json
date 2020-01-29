@@ -1,0 +1,53 @@
+[
+  {
+    "id": "butte-brewing-co",
+    "name": "Butte Brewing Co",
+    "brewery_type": "micro",
+    "street": "465 E Galena St",
+    "city": "Butte",
+    "state": "Montana",
+    "postal_code": "59701-1928",
+    "website_url": "http://www.buttebrewing.com",
+    "phone": "4062993953",
+    "created_at": "2018-07-24 01:33:42.362547",
+    "updated_at": "2018-08-24 00:47:04.566757",
+    "country": "United States",
+    "longitude": "-112.525919731978",
+    "latitude": "46.0124680410196",
+    "tags": []
+  },
+  {
+    "id": "muddy-creek-brewery",
+    "name": "Muddy Creek Brewery",
+    "brewery_type": "micro",
+    "street": "2 E Galena St",
+    "city": "Butte",
+    "state": "Montana",
+    "postal_code": "59701-1704",
+    "website_url": "http://muddycreekbrewery.com",
+    "phone": "4062993645",
+    "created_at": "2018-07-24 01:33:42.982382",
+    "updated_at": "2018-08-24 00:47:22.371869",
+    "country": "United States",
+    "longitude": "-112.535291",
+    "latitude": "46.01201",
+    "tags": []
+  },
+  {
+    "id": "quarry-brewing",
+    "name": "Quarry Brewing",
+    "brewery_type": "micro",
+    "street": "124 W Broadway St",
+    "city": "Butte",
+    "state": "Montana",
+    "postal_code": "59701-9224",
+    "website_url": "http://www.wedigbeer.com",
+    "phone": "4067230245",
+    "created_at": "2018-07-24 01:33:43.097825",
+    "updated_at": "2018-08-24 00:47:24.696604",
+    "country": "United States",
+    "longitude": "-112.539000932836",
+    "latitude": "46.0133546634842",
+    "tags": []
+  }
+]

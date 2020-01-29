@@ -1,0 +1,19 @@
+[
+  {
+    "id": "imperium-brewing",
+    "name": "Imperium Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Hickory",
+    "state": "Pennsylvania",
+    "postal_code": "15340-1135",
+    "website_url": "http://imperiumbrewing.com",
+    "phone": "4129991077",
+    "created_at": "2018-07-24 01:34:10.947274",
+    "updated_at": "2018-08-11 21:39:27.443953",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

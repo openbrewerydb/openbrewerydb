@@ -1,0 +1,19 @@
+[
+  {
+    "id": "homefield-brewing",
+    "name": "Homefield Brewing",
+    "brewery_type": "brewpub",
+    "street": "3 Arnold Rd",
+    "city": "Fiskdale",
+    "state": "Massachusetts",
+    "postal_code": "01518-",
+    "website_url": "http://www.homefieldbrewing.com",
+    "phone": "7742426365",
+    "created_at": "2018-07-24 01:33:31.151304",
+    "updated_at": "2018-08-11 21:37:41.652613",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "hwy-50-brewery",
+    "name": "HWY 50 Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Camino",
+    "state": "California",
+    "postal_code": "95709",
+    "website_url": "http://www.hwy50brewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:56.771039",
+    "updated_at": "2018-08-23 23:29:43.581823",
+    "country": "United States",
+    "longitude": "-120.6749302",
+    "latitude": "38.7382366",
+    "tags": []
+  },
+  {
+    "id": "jack-russell-farm-ales",
+    "name": "Jack Russell Farm Ales",
+    "brewery_type": "brewpub",
+    "street": "2380 Larsen Dr",
+    "city": "Camino",
+    "state": "California",
+    "postal_code": "95709-9749",
+    "website_url": "http://www.jackrussellbrewing.com",
+    "phone": "5306479420",
+    "created_at": "2018-07-24 01:32:57.01608",
+    "updated_at": "2018-08-23 23:30:02.326918",
+    "country": "United States",
+    "longitude": "-120.680166365218",
+    "latitude": "38.753686472179",
+    "tags": []
+  }
+]

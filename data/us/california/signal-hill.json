@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ten-mile-brewing",
+    "name": "Ten Mile Brewing",
+    "brewery_type": "micro",
+    "street": "1136 E Willow St",
+    "city": "Signal Hill",
+    "state": "California",
+    "postal_code": "90755-3433",
+    "website_url": "http://www.tenmilebrewing.com",
+    "phone": "5626121255",
+    "created_at": "2018-07-24 01:33:01.903834",
+    "updated_at": "2018-08-24 00:03:44.696336",
+    "country": "United States",
+    "longitude": "-118.1806752",
+    "latitude": "33.8043697",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ghost-monkey-brewery",
+    "name": "Ghost Monkey Brewery",
+    "brewery_type": "micro",
+    "street": "522 Wando Ln",
+    "city": "Mount Pleasant",
+    "state": "South Carolina",
+    "postal_code": "29464-8211",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:14.437302",
+    "updated_at": "2018-08-11 21:39:35.966232",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "two-blokes-brewing-co",
+    "name": "Two Blokes Brewing Co.",
+    "brewery_type": "micro",
+    "street": "547 Long Point Rd Ste 101",
+    "city": "Mount Pleasant",
+    "state": "South Carolina",
+    "postal_code": "29464-8337",
+    "website_url": "http://www.twoblokesbrewing.com",
+    "phone": "8436544564",
+    "created_at": "2018-07-24 01:34:15.101803",
+    "updated_at": "2018-08-11 21:39:38.29246",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "westbrook-brewing-co",
+    "name": "Westbrook Brewing Co",
+    "brewery_type": "regional",
+    "street": "510 Ridge Rd",
+    "city": "Mount Pleasant",
+    "state": "South Carolina",
+    "postal_code": "29464-7811",
+    "website_url": "http://www.westbrookbrewing.com",
+    "phone": "8436549114",
+    "created_at": "2018-07-24 01:34:15.126552",
+    "updated_at": "2018-08-11 21:39:38.371768",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-referend-bier-blendery",
+    "name": "The Referend Bier Blendery",
+    "brewery_type": "micro",
+    "street": "1595 Reed Rd Unit 2",
+    "city": "Pennington",
+    "state": "New Jersey",
+    "postal_code": "08534-5007",
+    "website_url": "http://www.thereferend.com",
+    "phone": "6094740443",
+    "created_at": "2018-07-24 01:33:47.405889",
+    "updated_at": "2018-08-11 21:38:25.324048",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "small-craft-brewing-co",
+    "name": "Small Craft Brewing Co",
+    "brewery_type": "micro",
+    "street": "66 Merrick Rd",
+    "city": "Amityville",
+    "state": "New York",
+    "postal_code": "11701-3463",
+    "website_url": "http://www.smallcraftbrewing.com",
+    "phone": "6314640186",
+    "created_at": "2018-07-24 01:33:53.664799",
+    "updated_at": "2018-08-24 15:40:22.661241",
+    "country": "United States",
+    "longitude": "-73.42019",
+    "latitude": "40.6715855555556",
+    "tags": []
+  }
+]

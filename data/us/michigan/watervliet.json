@@ -1,0 +1,19 @@
+[
+  {
+    "id": "arclight-brewing-company",
+    "name": "Arclight Brewing Company",
+    "brewery_type": "micro",
+    "street": "544 N Main St",
+    "city": "Watervliet",
+    "state": "Michigan",
+    "postal_code": "49098-9797",
+    "website_url": "http://www.arclightbrewing.com",
+    "phone": "2693320718",
+    "created_at": "2018-07-24 01:33:32.637564",
+    "updated_at": "2018-08-24 00:42:05.364848",
+    "country": "United States",
+    "longitude": "-86.2593923773585",
+    "latitude": "42.1910483207547",
+    "tags": []
+  }
+]

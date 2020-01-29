@@ -1,0 +1,36 @@
+[
+  {
+    "id": "pacific-brew-lab",
+    "name": "Pacific Brew Lab",
+    "brewery_type": "contract",
+    "street": "111 Industrial Way",
+    "city": "Belmont",
+    "state": "California",
+    "postal_code": "94002-8202",
+    "website_url": "http://www.pacbrewlab.com",
+    "phone": "4159377843",
+    "created_at": "2018-07-24 01:32:59.228367",
+    "updated_at": "2018-08-11 21:36:15.680747",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "alpha-acid-brewing-co",
+    "name": "Alpha Acid Brewing Co",
+    "brewery_type": "micro",
+    "street": "121 Industrial Way Ste 12",
+    "city": "Belmont",
+    "state": "California",
+    "postal_code": "94002-8208",
+    "website_url": "",
+    "phone": "6503944728",
+    "created_at": "2018-07-24 01:32:51.528535",
+    "updated_at": "2018-08-11 21:35:54.13418",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

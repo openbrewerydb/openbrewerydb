@@ -1,0 +1,36 @@
+[
+  {
+    "id": "broken-coat-brewing",
+    "name": "Broken Coat Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Lake Worth",
+    "state": "Florida",
+    "postal_code": "33467-1002",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:11.963067",
+    "updated_at": "2018-08-11 21:36:52.315204",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "mathews-brewing-company",
+    "name": "Mathews Brewing Company",
+    "brewery_type": "micro",
+    "street": "130 S H St",
+    "city": "Lake Worth",
+    "state": "Florida",
+    "postal_code": "33460-4431",
+    "website_url": "http://www.mathewsbrewingcompany.com",
+    "phone": "5618123738",
+    "created_at": "2018-07-24 01:33:13.684312",
+    "updated_at": "2018-08-24 00:27:50.588346",
+    "country": "United States",
+    "longitude": "-80.0581924507341",
+    "latitude": "26.6136144",
+    "tags": []
+  }
+]

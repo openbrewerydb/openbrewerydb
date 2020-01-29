@@ -1,0 +1,19 @@
+[
+  {
+    "id": "jaks-brewing-company",
+    "name": "JAKs Brewing Company",
+    "brewery_type": "micro",
+    "street": "11860 Stapleton Dr",
+    "city": "Peyton",
+    "state": "Colorado",
+    "postal_code": "80831",
+    "website_url": "http://www.jaksbrewing.com",
+    "phone": "7193751116",
+    "created_at": "2018-07-24 01:33:06.106227",
+    "updated_at": "2018-08-11 21:36:37.640751",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

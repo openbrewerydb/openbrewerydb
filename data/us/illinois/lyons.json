@@ -1,0 +1,19 @@
+[
+  {
+    "id": "buckledown-brewing",
+    "name": "BuckleDown Brewing",
+    "brewery_type": "micro",
+    "street": "8700 47th St",
+    "city": "Lyons",
+    "state": "Illinois",
+    "postal_code": "60534-1626",
+    "website_url": "http://buckledownbrewing.com",
+    "phone": "7087771842",
+    "created_at": "2018-07-24 01:33:18.43244",
+    "updated_at": "2018-08-24 00:30:39.718306",
+    "country": "United States",
+    "longitude": "-87.8034082",
+    "latitude": "41.8083636",
+    "tags": []
+  }
+]

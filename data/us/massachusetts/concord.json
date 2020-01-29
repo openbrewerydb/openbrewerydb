@@ -1,0 +1,19 @@
+[
+  {
+    "id": "saltbox-brewery",
+    "name": "Saltbox Brewery",
+    "brewery_type": "brewpub",
+    "street": "84 Commonwealth Ave",
+    "city": "Concord",
+    "state": "Massachusetts",
+    "postal_code": "01742-2904",
+    "website_url": "http://www.saltboxkitchen.com",
+    "phone": "9782123585",
+    "created_at": "2018-07-24 01:33:31.867104",
+    "updated_at": "2018-08-24 00:41:44.597216",
+    "country": "United States",
+    "longitude": "-71.3946825833333",
+    "latitude": "42.4569080625",
+    "tags": []
+  }
+]

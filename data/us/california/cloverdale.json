@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cloverdale-ale-companys-ruth-mcgowans-brewpub",
+    "name": "Cloverdale Ale Company's Ruth McGowan's Brewpub",
+    "brewery_type": "brewpub",
+    "street": "131 E 1st St",
+    "city": "Cloverdale",
+    "state": "California",
+    "postal_code": "95425-3701",
+    "website_url": "http://www.ruthmcgowansbrewpub.com",
+    "phone": "7078949610",
+    "created_at": "2018-07-24 01:32:53.922593",
+    "updated_at": "2018-08-23 23:26:51.27627",
+    "country": "United States",
+    "longitude": "-123.016572852146",
+    "latitude": "38.8053232210103",
+    "tags": []
+  },
+  {
+    "id": "bear-republic-brewing-co-production-facility",
+    "name": "Bear Republic Brewing Co - Production facility",
+    "brewery_type": "regional",
+    "street": "110 Sandholm Ln Ste 10",
+    "city": "Cloverdale",
+    "state": "California",
+    "postal_code": "95425-4439",
+    "website_url": "http://www.bearrepublic.com",
+    "phone": "7078942722",
+    "created_at": "2018-07-24 01:32:52.336868",
+    "updated_at": "2018-08-11 21:35:55.943086",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

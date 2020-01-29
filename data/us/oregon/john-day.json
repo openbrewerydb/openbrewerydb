@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1188-brewing-co",
+    "name": "1188 Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "141 E Main St",
+    "city": "John Day",
+    "state": "Oregon",
+    "postal_code": "97845-1210",
+    "website_url": "http://www.1188brewing.com",
+    "phone": "5415751188",
+    "created_at": "2018-07-24 01:34:04.477151",
+    "updated_at": "2018-08-24 15:45:44.723192",
+    "country": "United States",
+    "longitude": "-118.9218754",
+    "latitude": "44.4146563",
+    "tags": []
+  }
+]

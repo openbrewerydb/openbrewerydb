@@ -1,0 +1,53 @@
+[
+  {
+    "id": "macon-beer-company",
+    "name": "Macon Beer Company",
+    "brewery_type": "proprietor",
+    "street": "345 Oglethorpe St",
+    "city": "Macon",
+    "state": "Georgia",
+    "postal_code": "31201-3274",
+    "website_url": "http://www.maconbeer.com",
+    "phone": "4782167117",
+    "created_at": "2018-07-24 01:33:15.93706",
+    "updated_at": "2018-08-24 00:29:12.157921",
+    "country": "United States",
+    "longitude": "-83.630297",
+    "latitude": "32.828235",
+    "tags": []
+  },
+  {
+    "id": "ocmulgee-brewpub",
+    "name": "Ocmulgee Brewpub",
+    "brewery_type": "brewpub",
+    "street": "484 2nd St",
+    "city": "Macon",
+    "state": "Georgia",
+    "postal_code": "31201-2734",
+    "website_url": "http://www.ocmulgeebrewpub.com",
+    "phone": "4782542848",
+    "created_at": "2018-07-24 01:33:16.064633",
+    "updated_at": "2018-08-24 00:29:16.236161",
+    "country": "United States",
+    "longitude": "-83.6293283305064",
+    "latitude": "32.8360763024772",
+    "tags": []
+  },
+  {
+    "id": "piedmont-brewery-and-kitchen",
+    "name": "Piedmont Brewery and Kitchen",
+    "brewery_type": "brewpub",
+    "street": "450-B Third Street",
+    "city": "Macon",
+    "state": "Georgia",
+    "postal_code": "31201",
+    "website_url": "http://www.piedmontbrerwery.com",
+    "phone": "4782542337",
+    "created_at": "2018-07-24 01:33:16.166936",
+    "updated_at": "2018-08-11 21:37:03.094141",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

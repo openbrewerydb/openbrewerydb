@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hunga-dunga-brewing",
+    "name": "Hunga Dunga Brewing",
+    "brewery_type": "brewpub",
+    "street": "333 N Jackson St",
+    "city": "Moscow",
+    "state": "Idaho",
+    "postal_code": "83843-2065",
+    "website_url": "",
+    "phone": "2085964855",
+    "created_at": "2018-07-24 01:33:17.309541",
+    "updated_at": "2018-08-24 00:30:01.619011",
+    "country": "United States",
+    "longitude": "-117.0027808",
+    "latitude": "46.7344955",
+    "tags": []
+  },
+  {
+    "id": "rants-and-raves-brewery",
+    "name": "Rants And Raves Brewery",
+    "brewery_type": "brewpub",
+    "street": "308 N Jackson St",
+    "city": "Moscow",
+    "state": "Idaho",
+    "postal_code": "83843-2065",
+    "website_url": "http://rrbrew.pub",
+    "phone": "2085964061",
+    "created_at": "2018-07-24 01:33:17.582435",
+    "updated_at": "2018-08-24 00:30:12.752914",
+    "country": "United States",
+    "longitude": "-117.0027808",
+    "latitude": "46.7344955",
+    "tags": []
+  },
+  {
+    "id": "moscow-brewing-company",
+    "name": "Moscow Brewing Company",
+    "brewery_type": "micro",
+    "street": "630 N Almon St Ste 130",
+    "city": "Moscow",
+    "state": "Idaho",
+    "postal_code": "83843-9701",
+    "website_url": "http://www.facebook.com/moscowbrewingcompany",
+    "phone": "2085964058",
+    "created_at": "2018-07-24 01:33:17.456548",
+    "updated_at": "2018-08-11 21:37:06.262531",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

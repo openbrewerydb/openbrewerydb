@@ -1,0 +1,19 @@
+[
+  {
+    "id": "laguna-beach-brewery-and-grille",
+    "name": "Laguna Beach Brewery and Grille",
+    "brewery_type": "brewpub",
+    "street": "237 Ocean Ave",
+    "city": "Laguna Beach",
+    "state": "California",
+    "postal_code": "92651-2106",
+    "website_url": "http://www.lagunabeachbrewery.net",
+    "phone": "9494973381",
+    "created_at": "2018-07-24 01:32:57.558817",
+    "updated_at": "2018-08-23 23:58:43.812288",
+    "country": "United States",
+    "longitude": "-117.7835382",
+    "latitude": "33.5427913",
+    "tags": []
+  }
+]

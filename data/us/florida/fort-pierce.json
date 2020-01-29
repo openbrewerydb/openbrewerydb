@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ibc-brewery-and-tasting-room",
+    "name": "IBC Brewery & Tasting Room",
+    "brewery_type": "micro",
+    "street": "3200 St Lucie Blvd",
+    "city": "Fort Pierce",
+    "state": "Florida",
+    "postal_code": "34946-6761",
+    "website_url": "",
+    "phone": "3055089093",
+    "created_at": "2018-07-24 01:33:13.248599",
+    "updated_at": "2018-08-11 21:36:55.275392",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "sailfish-brewing-company-llc",
+    "name": "Sailfish Brewing Company, llc",
+    "brewery_type": "micro",
+    "street": "130 N 2nd St",
+    "city": "Fort Pierce",
+    "state": "Florida",
+    "postal_code": "34950-4403",
+    "website_url": "http://www.sailfishbrewingco.com",
+    "phone": "7725774382",
+    "created_at": "2018-07-24 01:33:14.421392",
+    "updated_at": "2018-08-24 00:28:21.702979",
+    "country": "United States",
+    "longitude": "-80.3243182812509",
+    "latitude": "27.4490385447657",
+    "tags": []
+  }
+]

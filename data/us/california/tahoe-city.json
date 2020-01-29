@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tahoe-mountain-brewing-company",
+    "name": "Tahoe Mountain Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "475 N. Lake Blvd",
+    "city": "Tahoe City",
+    "state": "California",
+    "postal_code": "96145",
+    "website_url": "http://www.tahoebrewing.com",
+    "phone": "5305814677",
+    "created_at": "2018-07-24 01:33:01.711292",
+    "updated_at": "2018-08-24 00:03:31.412304",
+    "country": "United States",
+    "longitude": "-120.141663",
+    "latitude": "39.170687",
+    "tags": []
+  }
+]

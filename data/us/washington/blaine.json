@@ -1,0 +1,19 @@
+[
+  {
+    "id": "atwood-ales",
+    "name": "Atwood Ales",
+    "brewery_type": "micro",
+    "street": "4012 Sweet Rd",
+    "city": "Blaine",
+    "state": "Washington",
+    "postal_code": "98230-9108",
+    "website_url": "http://www.atwoodales.com",
+    "phone": "3603996239",
+    "created_at": "2018-07-24 01:34:27.919989",
+    "updated_at": "2018-08-24 16:32:23.763378",
+    "country": "United States",
+    "longitude": "-122.699045857143",
+    "latitude": "48.9790061428571",
+    "tags": []
+  }
+]

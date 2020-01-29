@@ -1,0 +1,36 @@
+[
+  {
+    "id": "tallulah-brewing-company",
+    "name": "Tallulah Brewing Company",
+    "brewery_type": "micro",
+    "street": "1804 4th Ave S",
+    "city": "Jasper",
+    "state": "Alabama",
+    "postal_code": "35501-5330",
+    "website_url": "",
+    "phone": "2055308555",
+    "created_at": "2018-07-24 01:32:47.78845",
+    "updated_at": "2018-08-23 23:20:29.640849",
+    "country": "United States",
+    "longitude": "-87.278675",
+    "latitude": "33.830796",
+    "tags": []
+  },
+  {
+    "id": "twisted-barley-brewing-company",
+    "name": "Twisted Barley Brewing Company",
+    "brewery_type": "micro",
+    "street": "520 19th St W",
+    "city": "Jasper",
+    "state": "Alabama",
+    "postal_code": "35501-5351",
+    "website_url": "",
+    "phone": "2052653253",
+    "created_at": "2018-07-24 01:32:47.826786",
+    "updated_at": "2018-08-23 23:20:32.254605",
+    "country": "United States",
+    "longitude": "-87.28338",
+    "latitude": "33.832359",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "4204-main-street-brewing-co",
+    "name": "4204 Main Street Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "4204 W Main St",
+    "city": "Belleville",
+    "state": "Illinois",
+    "postal_code": "62226",
+    "website_url": "",
+    "phone": "6184167261",
+    "created_at": "2018-07-24 01:33:17.858361",
+    "updated_at": "2018-08-24 00:30:23.024367",
+    "country": "United States",
+    "longitude": "-90.020533433254",
+    "latitude": "38.5379612158748",
+    "tags": []
+  },
+  {
+    "id": "hofbrauhaus-st-louis-belleville",
+    "name": "Hofbrauhaus St. Louis-Belleville",
+    "brewery_type": "brewpub",
+    "street": "123 Saint Eugene Dr",
+    "city": "Belleville",
+    "state": "Illinois",
+    "postal_code": "62223-1154",
+    "website_url": "http://www.hofbrauhausstlouis.com",
+    "phone": "6188002337",
+    "created_at": "2018-07-24 01:33:19.277498",
+    "updated_at": "2018-08-11 21:37:12.235526",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "mainstreet-brewing-company",
+    "name": "Mainstreet Brewing Company",
+    "brewery_type": "micro",
+    "street": "4204 W Main St",
+    "city": "Belleville",
+    "state": "Illinois",
+    "postal_code": "62226",
+    "website_url": "http://www.mainstreetbrewingco.com",
+    "phone": "6184167261",
+    "created_at": "2018-07-24 01:33:19.712679",
+    "updated_at": "2018-08-24 00:31:30.733125",
+    "country": "United States",
+    "longitude": "-90.020533433254",
+    "latitude": "38.5379612158748",
+    "tags": []
+  }
+]

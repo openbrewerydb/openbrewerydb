@@ -1,0 +1,36 @@
+[
+  {
+    "id": "angry-james-brewing-co",
+    "name": "Angry James Brewing Co",
+    "brewery_type": "micro",
+    "street": "421 Adams Ave",
+    "city": "Silverthorne",
+    "state": "Colorado",
+    "postal_code": "80498",
+    "website_url": "http://www.angryjamesbrewing.com",
+    "phone": "9704558800",
+    "created_at": "2018-07-24 01:33:03.459746",
+    "updated_at": "2018-08-24 00:05:25.090299",
+    "country": "United States",
+    "longitude": "-106.076463748612",
+    "latitude": "39.633068949504",
+    "tags": []
+  },
+  {
+    "id": "the-bakers-brewery",
+    "name": "The Bakers' Brewery",
+    "brewery_type": "brewpub",
+    "street": "531 Silverthorne Ln",
+    "city": "Silverthorne",
+    "state": "Colorado",
+    "postal_code": "80498",
+    "website_url": "http://www.thebakersbrewery.com",
+    "phone": "9704680170",
+    "created_at": "2018-07-24 01:33:08.084742",
+    "updated_at": "2018-08-24 00:24:50.237764",
+    "country": "United States",
+    "longitude": "-106.067200204168",
+    "latitude": "39.6297619317425",
+    "tags": []
+  }
+]

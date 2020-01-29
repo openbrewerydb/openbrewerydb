@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hugger-mugger-brewing-company",
+    "name": "Hugger Mugger Brewing Company",
+    "brewery_type": "micro",
+    "street": "229 Wicker St",
+    "city": "Sanford",
+    "state": "North Carolina",
+    "postal_code": "27330",
+    "website_url": "http://www.huggermuggerbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:56.717942",
+    "updated_at": "2018-08-24 15:41:58.28851",
+    "country": "United States",
+    "longitude": "-79.1789631428571",
+    "latitude": "35.4789028571429",
+    "tags": []
+  }
+]

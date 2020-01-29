@@ -1,0 +1,53 @@
+[
+  {
+    "id": "cliffside-brewing",
+    "name": "Cliffside Brewing",
+    "brewery_type": "micro",
+    "street": "16B Center St",
+    "city": "Wallingford",
+    "state": "Connecticut",
+    "postal_code": "06492-4110",
+    "website_url": "http://www.cliffsidebrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:09.376779",
+    "updated_at": "2018-08-24 00:25:31.874925",
+    "country": "United States",
+    "longitude": "-72.8236736045008",
+    "latitude": "41.4566458293791",
+    "tags": []
+  },
+  {
+    "id": "center-street-brewing-company",
+    "name": "Center Street Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Wallingford",
+    "state": "Connecticut",
+    "postal_code": "06492",
+    "website_url": "http://n/a",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:09.324804",
+    "updated_at": "2018-08-11 21:36:45.849957",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "front-porch-brewing",
+    "name": "Front Porch Brewing",
+    "brewery_type": "micro",
+    "street": "226 N. Plains Industrial Rd Unit 4",
+    "city": "Wallingford",
+    "state": "Connecticut",
+    "postal_code": "06492-2397",
+    "website_url": "http://www.frontporchbrewing.org",
+    "phone": "2036791096",
+    "created_at": "2018-07-24 01:33:09.619351",
+    "updated_at": "2018-08-11 21:36:46.551992",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

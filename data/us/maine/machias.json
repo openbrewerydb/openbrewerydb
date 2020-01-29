@@ -1,0 +1,19 @@
+[
+  {
+    "id": "machias-river-brewing-company",
+    "name": "Machias River Brewing Company",
+    "brewery_type": "micro",
+    "street": "86 Main St",
+    "city": "Machias",
+    "state": "Maine",
+    "postal_code": "04654-1150",
+    "website_url": "",
+    "phone": "2072596001",
+    "created_at": "2018-07-24 01:33:27.472737",
+    "updated_at": "2018-08-24 00:39:55.80562",
+    "country": "United States",
+    "longitude": "-67.4580455052046",
+    "latitude": "44.7144625749482",
+    "tags": []
+  }
+]

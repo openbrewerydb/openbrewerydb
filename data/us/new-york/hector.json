@@ -1,0 +1,53 @@
+[
+  {
+    "id": "scale-house-brewery",
+    "name": "Scale House Brewery",
+    "brewery_type": "brewpub",
+    "street": "5930 State Route 414",
+    "city": "Hector",
+    "state": "New York",
+    "postal_code": "14841-9662",
+    "website_url": "http://www.scalehousebrews.com",
+    "phone": "6075462030",
+    "created_at": "2018-07-24 01:33:53.419826",
+    "updated_at": "2018-08-11 21:38:40.942538",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "lucky-hare-brewing-company-inc",
+    "name": "Lucky Hare Brewing Company, Inc.",
+    "brewery_type": "micro",
+    "street": "6085 Beckhorn Road",
+    "city": "Hector",
+    "state": "New York",
+    "postal_code": "14841",
+    "website_url": "http://www.luckyharebrewing.com",
+    "phone": "6075462036",
+    "created_at": "2018-07-24 01:33:52.322673",
+    "updated_at": "2018-08-11 21:38:37.601945",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "pantomime-mixtures",
+    "name": "Pantomime Mixtures",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Hector",
+    "state": "New York",
+    "postal_code": "14841-9629",
+    "website_url": "http://www.pantomimemxitures.com",
+    "phone": "6319442668",
+    "created_at": "2018-07-24 01:33:52.722218",
+    "updated_at": "2018-08-11 21:38:38.765056",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

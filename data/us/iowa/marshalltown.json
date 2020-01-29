@@ -1,0 +1,19 @@
+[
+  {
+    "id": "iowa-river-brewing-company",
+    "name": "Iowa River Brewing Company",
+    "brewery_type": "micro",
+    "street": "107 N 1st St",
+    "city": "Marshalltown",
+    "state": "Iowa",
+    "postal_code": "50158-5803",
+    "website_url": "http://www.iowariverbrewing.com",
+    "phone": "6417512848",
+    "created_at": "2018-07-24 01:33:23.898246",
+    "updated_at": "2018-08-24 00:37:58.388287",
+    "country": "United States",
+    "longitude": "-92.9145041898883",
+    "latitude": "42.0506107577935",
+    "tags": []
+  }
+]

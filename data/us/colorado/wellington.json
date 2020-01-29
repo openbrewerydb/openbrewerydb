@@ -1,0 +1,19 @@
+[
+  {
+    "id": "old-colorado-brewing-co",
+    "name": "Old Colorado Brewing Co",
+    "brewery_type": "micro",
+    "street": "8121 First St.",
+    "city": "Wellington",
+    "state": "Colorado",
+    "postal_code": "80549",
+    "website_url": "http://www.oldcoloradobrewing.com",
+    "phone": "9702172129",
+    "created_at": "2018-07-24 01:33:06.836695",
+    "updated_at": "2018-08-11 21:36:39.523638",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

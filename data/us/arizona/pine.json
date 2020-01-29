@@ -1,0 +1,19 @@
+[
+  {
+    "id": "that-brewery-and-pub-pine",
+    "name": "THAT Brewery & Pub - Pine",
+    "brewery_type": "brewpub",
+    "street": "3270 N Az Highway 87",
+    "city": "Pine",
+    "state": "Arizona",
+    "postal_code": "85544-5036",
+    "website_url": "http://www.thatbrewery.com",
+    "phone": "9284763349",
+    "created_at": "2018-07-24 01:32:50.088974",
+    "updated_at": "2018-08-11 21:35:50.548541",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

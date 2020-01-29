@@ -1,0 +1,19 @@
+[
+  {
+    "id": "prairie-pride-brewery",
+    "name": "Prairie Pride Brewery",
+    "brewery_type": "micro",
+    "street": "115 E South Front St",
+    "city": "Grand Island",
+    "state": "Nebraska",
+    "postal_code": "68801-5917",
+    "website_url": "http://www.prairiepride.beer",
+    "phone": "3088505375",
+    "created_at": "2018-07-24 01:33:43.958056",
+    "updated_at": "2018-08-24 00:47:48.021134",
+    "country": "United States",
+    "longitude": "-98.3402578571429",
+    "latitude": "40.9267544285714",
+    "tags": []
+  }
+]

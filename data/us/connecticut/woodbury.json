@@ -1,0 +1,19 @@
+[
+  {
+    "id": "woodbury-brewing-company",
+    "name": "Woodbury Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "738 Main St",
+    "city": "Woodbury",
+    "state": "Connecticut",
+    "postal_code": "06798-0083",
+    "website_url": "http://www.woodburybrewingcompany.com",
+    "phone": "2039108955",
+    "created_at": "2018-07-24 01:33:10.377741",
+    "updated_at": "2018-08-24 00:25:57.032224",
+    "country": "United States",
+    "longitude": "-73.2070509",
+    "latitude": "41.5385323",
+    "tags": []
+  }
+]

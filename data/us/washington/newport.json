@@ -1,0 +1,19 @@
+[
+  {
+    "id": "top-frog-brewery",
+    "name": "Top Frog Brewery",
+    "brewery_type": "micro",
+    "street": "221 Vista Dr",
+    "city": "Newport",
+    "state": "Washington",
+    "postal_code": "99156-7014",
+    "website_url": "",
+    "phone": "5096712884",
+    "created_at": "2018-07-24 01:34:33.328156",
+    "updated_at": "2018-08-11 21:40:27.016569",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

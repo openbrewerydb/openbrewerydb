@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mraz-brewing-company",
+    "name": "Mraz Brewing Company",
+    "brewery_type": "micro",
+    "street": "2222 Francisco Dr Ste 510",
+    "city": "El Dorado Hills",
+    "state": "California",
+    "postal_code": "95762-3766",
+    "website_url": "http://www.mrazbrewingcompany.com",
+    "phone": "9169340744",
+    "created_at": "2018-07-24 01:32:58.555668",
+    "updated_at": "2018-08-11 21:36:14.029626",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

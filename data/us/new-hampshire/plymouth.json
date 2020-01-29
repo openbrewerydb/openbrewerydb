@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sublime-brewing-company",
+    "name": "Sublime Brewing Company",
+    "brewery_type": "micro",
+    "street": "5 Route 25",
+    "city": "Plymouth",
+    "state": "New Hampshire",
+    "postal_code": "03264-3141",
+    "website_url": "",
+    "phone": "6032366850",
+    "created_at": "2018-07-24 01:33:45.786821",
+    "updated_at": "2018-08-24 15:36:20.699105",
+    "country": "United States",
+    "longitude": "-71.776669",
+    "latitude": "43.781015",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stadium-pizza-murrieta",
+    "name": "Stadium Pizza - Murrieta",
+    "brewery_type": "brewpub",
+    "street": "32278 Clinton Keith Rd Ste 101",
+    "city": "Wildomar",
+    "state": "California",
+    "postal_code": "92595-7314",
+    "website_url": "http://www.stadiumpizza.com",
+    "phone": "9516787826",
+    "created_at": "2018-07-24 01:33:01.267281",
+    "updated_at": "2018-08-24 00:03:00.524805",
+    "country": "United States",
+    "longitude": "-117.247952896829",
+    "latitude": "33.5934457955804",
+    "tags": []
+  }
+]

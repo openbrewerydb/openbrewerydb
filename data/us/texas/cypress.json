@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-in-planning-cypress",
+    "name": "Brewery in Planning - Cypress",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Cypress",
+    "state": "Texas",
+    "postal_code": "77429-8183",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:18.301032",
+    "updated_at": "2018-08-11 21:39:47.241271",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "wicked-boxer-brewing",
+    "name": "Wicked Boxer Brewing",
+    "brewery_type": "brewpub",
+    "street": "16326 Mueschke Rd # E10",
+    "city": "Cypress",
+    "state": "Texas",
+    "postal_code": "77433-4953",
+    "website_url": "http://www.wickedboxer.com",
+    "phone": "2819781866",
+    "created_at": "2018-07-24 01:34:22.276785",
+    "updated_at": "2018-08-24 16:24:28.935773",
+    "country": "United States",
+    "longitude": "-95.7172092",
+    "latitude": "29.9809872",
+    "tags": []
+  }
+]

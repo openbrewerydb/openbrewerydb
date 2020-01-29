@@ -1,0 +1,19 @@
+[
+  {
+    "id": "evil-horse-brewing-company-llc",
+    "name": "Evil Horse Brewing Company, LLC",
+    "brewery_type": "micro",
+    "street": "1338 Main St",
+    "city": "Crete",
+    "state": "Illinois",
+    "postal_code": "60417-2131",
+    "website_url": "http://evilhorsebrewing.com",
+    "phone": "7083042907",
+    "created_at": "2018-07-24 01:33:18.813576",
+    "updated_at": "2018-08-24 00:30:56.017559",
+    "country": "United States",
+    "longitude": "-87.6314319988614",
+    "latitude": "41.4449900272686",
+    "tags": []
+  }
+]

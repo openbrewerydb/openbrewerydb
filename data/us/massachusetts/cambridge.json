@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lamplighter-brewing-co",
+    "name": "Lamplighter Brewing Co.",
+    "brewery_type": "micro",
+    "street": "284 Broadway",
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "postal_code": "02139-1808",
+    "website_url": "http://www.lamplighterbrewing.com",
+    "phone": "6179450450",
+    "created_at": "2018-07-24 01:33:31.304875",
+    "updated_at": "2018-08-11 21:37:42.077983",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "cambridge-brewing-co",
+    "name": "Cambridge Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1 Kendall Sq Ste B1102",
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "postal_code": "02139-1592",
+    "website_url": "http://www.cambridgebrewingcompany.com",
+    "phone": "6174941994",
+    "created_at": "2018-07-24 01:33:30.668824",
+    "updated_at": "2018-08-11 21:37:39.765326",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

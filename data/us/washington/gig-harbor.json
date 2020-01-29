@@ -1,0 +1,53 @@
+[
+  {
+    "id": "e2w-brewing",
+    "name": "E2W Brewing",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Gig Harbor",
+    "state": "Washington",
+    "postal_code": "98332-8722",
+    "website_url": "http://www.e2wbrewing.com",
+    "phone": "2532147463",
+    "created_at": "2018-07-24 01:34:29.354727",
+    "updated_at": "2018-08-11 21:40:15.209143",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "gsp-craft-brewing",
+    "name": "GSP Craft Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Gig Harbor",
+    "state": "Washington",
+    "postal_code": "98332-7918",
+    "website_url": "http://www.facebook.com/gspcraftbrewing/",
+    "phone": "2533281121",
+    "created_at": "2018-07-24 01:34:30.209978",
+    "updated_at": "2018-08-11 21:40:17.330495",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "wet-coast-brewing-co",
+    "name": "Wet Coast Brewing Co.",
+    "brewery_type": "micro",
+    "street": "6820 Kimball Dr Ste C",
+    "city": "Gig Harbor",
+    "state": "Washington",
+    "postal_code": "98335-5124",
+    "website_url": "http://www.wetcoastbrewing.com",
+    "phone": "2534324966",
+    "created_at": "2018-07-24 01:34:33.780136",
+    "updated_at": "2018-08-11 21:40:28.106166",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

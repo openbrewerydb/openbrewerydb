@@ -1,0 +1,19 @@
+[
+  {
+    "id": "west-o-beer",
+    "name": "West O Beer",
+    "brewery_type": "micro",
+    "street": "503 Terrace Park Blvd",
+    "city": "Milford",
+    "state": "Iowa",
+    "postal_code": "51351-7300",
+    "website_url": "http://www.westobeer.com",
+    "phone": "7123328090",
+    "created_at": "2018-07-24 01:33:24.51893",
+    "updated_at": "2018-08-24 00:38:18.480966",
+    "country": "United States",
+    "longitude": "-95.1499696488768",
+    "latitude": "43.3465769675141",
+    "tags": []
+  }
+]

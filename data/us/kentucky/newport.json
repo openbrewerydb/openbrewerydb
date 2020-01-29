@@ -1,0 +1,36 @@
+[
+  {
+    "id": "hofbrauhaus-newport",
+    "name": "Hofbrauhaus Newport",
+    "brewery_type": "brewpub",
+    "street": "200 E 3rd St",
+    "city": "Newport",
+    "state": "Kentucky",
+    "postal_code": "41071-1612",
+    "website_url": "http://www.hofbrauhausnewport.com",
+    "phone": "8594917200",
+    "created_at": "2018-07-24 01:33:25.679706",
+    "updated_at": "2018-08-24 00:38:56.0881",
+    "country": "United States",
+    "longitude": "-84.494527",
+    "latitude": "39.094846",
+    "tags": []
+  },
+  {
+    "id": "wooden-cask-brewing-company",
+    "name": "Wooden Cask Brewing Company",
+    "brewery_type": "micro",
+    "street": "629 York St",
+    "city": "Newport",
+    "state": "Kentucky",
+    "postal_code": "41071-1815",
+    "website_url": "http://www.woodencask.com",
+    "phone": "8592612172",
+    "created_at": "2018-07-24 01:33:26.021837",
+    "updated_at": "2018-08-24 00:39:08.227597",
+    "country": "United States",
+    "longitude": "-84.4945787142857",
+    "latitude": "39.0906125714286",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tun-tavern-brewery-and-restaurant",
+    "name": "Tun Tavern Brewery and Restaurant",
+    "brewery_type": "brewpub",
+    "street": "2 Convention Blvd Ste 3",
+    "city": "Atlantic City",
+    "state": "New Jersey",
+    "postal_code": "08401-4137",
+    "website_url": "http://www.tuntavern.com",
+    "phone": "6093477800",
+    "created_at": "2018-07-24 01:33:47.533065",
+    "updated_at": "2018-08-11 21:38:25.593617",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

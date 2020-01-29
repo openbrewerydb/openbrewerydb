@@ -1,0 +1,53 @@
+[
+  {
+    "id": "wicked-weed-funkatorium",
+    "name": "Wicked Weed Funkatorium",
+    "brewery_type": "large",
+    "street": "95 Old Shoals Rd",
+    "city": "Arden",
+    "state": "North Carolina",
+    "postal_code": "28704-9401",
+    "website_url": "http://www.wickedweedbrewing.com",
+    "phone": "8285759599",
+    "created_at": "2018-07-24 01:33:58.904637",
+    "updated_at": "2018-08-24 15:43:07.283827",
+    "country": "United States",
+    "longitude": "-82.524955526838",
+    "latitude": "35.4674064",
+    "tags": []
+  },
+  {
+    "id": "mills-river-brewery",
+    "name": "Mills River Brewery",
+    "brewery_type": "brewpub",
+    "street": "330 Rockwood Rd Ste 103",
+    "city": "Arden",
+    "state": "North Carolina",
+    "postal_code": "28704-8216",
+    "website_url": "http://www.millsriverbrewery.net",
+    "phone": "8285852396",
+    "created_at": "2018-07-24 01:33:57.241962",
+    "updated_at": "2018-08-11 21:38:50.32188",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "wicked-weed-funk-house",
+    "name": "Wicked Weed Funk House",
+    "brewery_type": "large",
+    "street": "95 Old Shoals Rd",
+    "city": "Arden",
+    "state": "North Carolina",
+    "postal_code": "28704-9401",
+    "website_url": "http://www.wickedweedbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:58.891252",
+    "updated_at": "2018-08-24 15:43:06.864349",
+    "country": "United States",
+    "longitude": "-82.524955526838",
+    "latitude": "35.4674064",
+    "tags": []
+  }
+]

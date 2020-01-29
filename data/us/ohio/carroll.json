@@ -1,0 +1,19 @@
+[
+  {
+    "id": "outerbelt-brewing-company",
+    "name": "Outerbelt Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Carroll",
+    "state": "Ohio",
+    "postal_code": "43112",
+    "website_url": "http://www.outerbeltbrewing.com",
+    "phone": "6143096796",
+    "created_at": "2018-07-24 01:34:02.278964",
+    "updated_at": "2018-08-11 21:39:02.633546",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

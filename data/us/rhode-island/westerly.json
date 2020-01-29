@@ -1,0 +1,19 @@
+[
+  {
+    "id": "grey-sail-brewing-co-llc",
+    "name": "Grey Sail Brewing Co. LLC",
+    "brewery_type": "micro",
+    "street": "63 Canal St",
+    "city": "Westerly",
+    "state": "Rhode Island",
+    "postal_code": "02891-1552",
+    "website_url": "http://www.greysailbrewing.com",
+    "phone": "4102127592",
+    "created_at": "2018-07-24 01:34:13.741844",
+    "updated_at": "2018-08-24 16:13:40.471532",
+    "country": "United States",
+    "longitude": "-71.832459",
+    "latitude": "41.385011",
+    "tags": []
+  }
+]

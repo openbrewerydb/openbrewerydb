@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tequesta-brewing-co",
+    "name": "Tequesta Brewing Co",
+    "brewery_type": "micro",
+    "street": "287 S US Highway 1",
+    "city": "Tequesta",
+    "state": "Florida",
+    "postal_code": "33469-2701",
+    "website_url": "http://www.tequestabrewing.com",
+    "phone": "5617455000",
+    "created_at": "2018-07-24 01:33:14.816764",
+    "updated_at": "2018-08-11 21:36:59.270635",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

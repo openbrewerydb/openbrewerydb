@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mt-index-brewery",
+    "name": "Mt Index Brewery",
+    "brewery_type": "micro",
+    "street": "49315 State Road 2 Ste B",
+    "city": "index",
+    "state": "Washington",
+    "postal_code": "98256",
+    "website_url": "",
+    "phone": "3607936584",
+    "created_at": "2018-07-24 01:34:31.362592",
+    "updated_at": "2018-08-11 21:40:21.361998",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

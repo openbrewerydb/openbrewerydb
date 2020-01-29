@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brew-gentlemen",
+    "name": "Brew Gentlemen",
+    "brewery_type": "micro",
+    "street": "512 Braddock Ave",
+    "city": "Braddock",
+    "state": "Pennsylvania",
+    "postal_code": "15104-1806",
+    "website_url": "http://www.brewgentlemen.com",
+    "phone": "4128715075",
+    "created_at": "2018-07-24 01:34:09.258475",
+    "updated_at": "2018-08-24 16:07:00.138861",
+    "country": "United States",
+    "longitude": "-79.8702107",
+    "latitude": "40.4041599",
+    "tags": []
+  }
+]

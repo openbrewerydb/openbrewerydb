@@ -1,0 +1,19 @@
+[
+  {
+    "id": "devils-creek-brewery",
+    "name": "Devil's Creek Brewery",
+    "brewery_type": "micro",
+    "street": "1 Powell Ln",
+    "city": "Collingswood",
+    "state": "New Jersey",
+    "postal_code": "08108-1945",
+    "website_url": "http://www.DevilsCreekBrewery.com",
+    "phone": "8564252520",
+    "created_at": "2018-07-24 01:33:46.628545",
+    "updated_at": "2018-08-24 15:36:43.978924",
+    "country": "United States",
+    "longitude": "-75.0712461",
+    "latitude": "39.9169234",
+    "tags": []
+  }
+]

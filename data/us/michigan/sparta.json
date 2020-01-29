@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cellar-brewing-co",
+    "name": "Cellar Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "133 E Division St",
+    "city": "Sparta",
+    "state": "Michigan",
+    "postal_code": "49345-1329",
+    "website_url": "http://www.cellarbrewingco.com",
+    "phone": "6168830777",
+    "created_at": "2018-07-24 01:33:33.624665",
+    "updated_at": "2018-08-24 00:42:33.375547",
+    "country": "United States",
+    "longitude": "-85.7063983877551",
+    "latitude": "43.1608249591837",
+    "tags": []
+  }
+]

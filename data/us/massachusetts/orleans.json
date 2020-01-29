@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hog-island-beer-company",
+    "name": "Hog Island Beer Company",
+    "brewery_type": "micro",
+    "street": "PO Box 1901",
+    "city": "Orleans",
+    "state": "Massachusetts",
+    "postal_code": "02653-1901",
+    "website_url": "http://www.hogislandbeerco.com",
+    "phone": "5082552337",
+    "created_at": "2018-07-24 01:33:31.138811",
+    "updated_at": "2018-08-11 21:37:41.594557",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

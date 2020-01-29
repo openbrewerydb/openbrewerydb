@@ -1,0 +1,19 @@
+[
+  {
+    "id": "millstream-brewing-co",
+    "name": "Millstream Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "835 48th Ave",
+    "city": "Amana",
+    "state": "Iowa",
+    "postal_code": "52203-8122",
+    "website_url": "http://www.millstreambrewing.com",
+    "phone": "3196223672",
+    "created_at": "2018-07-24 01:33:24.060977",
+    "updated_at": "2018-08-24 00:38:04.116007",
+    "country": "United States",
+    "longitude": "-91.8652726515593",
+    "latitude": "41.794931800583",
+    "tags": []
+  }
+]

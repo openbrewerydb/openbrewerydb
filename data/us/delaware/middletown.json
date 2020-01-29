@@ -1,0 +1,36 @@
+[
+  {
+    "id": "first-state-brewing-company",
+    "name": "First State Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Middletown",
+    "state": "Delaware",
+    "postal_code": "19709-1482",
+    "website_url": "http://www.firststatebrewing.com",
+    "phone": "3022859535",
+    "created_at": "2018-07-24 01:33:10.577252",
+    "updated_at": "2018-08-11 21:36:48.522217",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "volunteer-brewing-company",
+    "name": "Volunteer Brewing Company",
+    "brewery_type": "micro",
+    "street": "120 W Main St",
+    "city": "Middletown",
+    "state": "Delaware",
+    "postal_code": "19709-1040",
+    "website_url": "http://www.VolunteerBrewing.com",
+    "phone": "3024640822",
+    "created_at": "2018-07-24 01:33:10.748278",
+    "updated_at": "2018-08-24 00:26:10.682837",
+    "country": "United States",
+    "longitude": "-75.7195916061529",
+    "latitude": "39.4494278585822",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "47-hills-brewing-co",
+    "name": "47 Hills Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "137 S Linden Ave",
+    "city": "South San Francisco",
+    "state": "California",
+    "postal_code": "94080-6410",
+    "website_url": "http://47hillsbrewingcompany.com",
+    "phone": "6508678476",
+    "created_at": "2018-07-24 01:32:51.211422",
+    "updated_at": "2018-08-23 23:23:51.427347",
+    "country": "United States",
+    "longitude": "-122.413616770068",
+    "latitude": "37.64425595",
+    "tags": []
+  },
+  {
+    "id": "armstrong-brewing-co",
+    "name": "Armstrong Brewing Co",
+    "brewery_type": "micro",
+    "street": "415 Grand Ave Ste 103",
+    "city": "South San Francisco",
+    "state": "California",
+    "postal_code": "94080-3614",
+    "website_url": "http://www.armstrongbrewing.com",
+    "phone": "6509898447",
+    "created_at": "2018-07-24 01:32:51.83874",
+    "updated_at": "2018-08-11 21:35:54.842468",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

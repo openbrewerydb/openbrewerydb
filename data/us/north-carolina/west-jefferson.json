@@ -1,0 +1,19 @@
+[
+  {
+    "id": "boondocks-brewing",
+    "name": "Boondocks Brewing",
+    "brewery_type": "brewpub",
+    "street": "302 S Jefferson Ave",
+    "city": "West Jefferson",
+    "state": "North Carolina",
+    "postal_code": "28694-",
+    "website_url": "http://www.boondocksbrew.com",
+    "phone": "3362465222",
+    "created_at": "2018-07-24 01:33:55.334303",
+    "updated_at": "2018-08-24 15:41:14.498185",
+    "country": "United States",
+    "longitude": "-81.4913356734694",
+    "latitude": "36.3994145918367",
+    "tags": []
+  }
+]

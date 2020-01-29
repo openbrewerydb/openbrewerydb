@@ -1,0 +1,19 @@
+[
+  {
+    "id": "frisky-brewing-company",
+    "name": "Frisky Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Odessa",
+    "state": "Texas",
+    "postal_code": "79765",
+    "website_url": "http://www.friskybrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:19.336631",
+    "updated_at": "2018-08-11 21:39:49.675482",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

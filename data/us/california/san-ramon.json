@@ -1,0 +1,36 @@
+[
+  {
+    "id": "schubros-brewery",
+    "name": "Schubros Brewery",
+    "brewery_type": "micro",
+    "street": "12893 Alcosta Blvd Ste N",
+    "city": "San Ramon",
+    "state": "California",
+    "postal_code": "94583-1305",
+    "website_url": "http://www.schubros.com",
+    "phone": "9253270700",
+    "created_at": "2018-07-24 01:33:00.622326",
+    "updated_at": "2018-08-11 21:36:19.970619",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "canyon-lakes-golf-course-and-brewery",
+    "name": "Canyon Lakes Golf Course & Brewery",
+    "brewery_type": "brewpub",
+    "street": "640 Bollinger Canyon Way",
+    "city": "San Ramon",
+    "state": "California",
+    "postal_code": "94582-4971",
+    "website_url": "http://www.canyonlakesgolfbrew.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:53.558162",
+    "updated_at": "2018-08-23 23:26:28.22333",
+    "country": "United States",
+    "longitude": "-121.947880000014",
+    "latitude": "37.7711485569157",
+    "tags": []
+  }
+]

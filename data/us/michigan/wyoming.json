@@ -1,0 +1,36 @@
+[
+  {
+    "id": "twoguys-brewing",
+    "name": "TwoGuys Brewing",
+    "brewery_type": "brewpub",
+    "street": "2356 Porter St SW",
+    "city": "Wyoming",
+    "state": "Michigan",
+    "postal_code": "49519",
+    "website_url": "http://www.twoguysbrewing.beer",
+    "phone": "6165529690",
+    "created_at": "2018-07-24 01:33:37.311492",
+    "updated_at": "2018-08-24 00:44:34.101127",
+    "country": "United States",
+    "longitude": "-85.723550125",
+    "latitude": "42.92114925",
+    "tags": []
+  },
+  {
+    "id": "kitzingen-brewery",
+    "name": "Kitzingen Brewery",
+    "brewery_type": "brewpub",
+    "street": "1760 44th St SW Ste 8",
+    "city": "Wyoming",
+    "state": "Michigan",
+    "postal_code": "49519-6422",
+    "website_url": "http://www.Kitzingen-Brewery.com",
+    "phone": "6168055077",
+    "created_at": "2018-07-24 01:33:35.129039",
+    "updated_at": "2018-08-11 21:37:51.495224",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

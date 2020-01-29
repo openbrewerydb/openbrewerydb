@@ -1,0 +1,53 @@
+[
+  {
+    "id": "thimble-island-brewery",
+    "name": "Thimble Island Brewery",
+    "brewery_type": "micro",
+    "street": "16 Business Park Dr",
+    "city": "Branford",
+    "state": "Connecticut",
+    "postal_code": "06405-2924",
+    "website_url": "http://www.thimbleislandbrewery.com",
+    "phone": "2032082827",
+    "created_at": "2018-07-24 01:33:10.244971",
+    "updated_at": "2018-08-24 00:25:53.876719",
+    "country": "United States",
+    "longitude": "-72.7720276806763",
+    "latitude": "41.2969578585427",
+    "tags": []
+  },
+  {
+    "id": "duvig-brewing-co",
+    "name": "Duvig Brewing Co",
+    "brewery_type": "micro",
+    "street": "59 School Ground Rd Ste 10",
+    "city": "Branford",
+    "state": "Connecticut",
+    "postal_code": "06405-2868",
+    "website_url": "http://www.duvig.com",
+    "phone": "2032082213",
+    "created_at": "2018-07-24 01:33:09.489019",
+    "updated_at": "2018-08-11 21:36:46.228491",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "stony-creek-brewery",
+    "name": "Stony Creek Brewery",
+    "brewery_type": "regional",
+    "street": "5 Indian Neck Ave",
+    "city": "Branford",
+    "state": "Connecticut",
+    "postal_code": "06405-4615",
+    "website_url": "http://www.stonycreekbeer.com",
+    "phone": "2034334545",
+    "created_at": "2018-07-24 01:33:10.133557",
+    "updated_at": "2018-08-24 00:25:51.013202",
+    "country": "United States",
+    "longitude": "-72.8133036551208",
+    "latitude": "41.27475355",
+    "tags": []
+  }
+]

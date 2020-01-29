@@ -1,0 +1,19 @@
+[
+  {
+    "id": "saint-j-brewery",
+    "name": "Saint J Brewery",
+    "brewery_type": "brewpub",
+    "street": "2002 Memorial Dr",
+    "city": "Saint Johnsbury",
+    "state": "Vermont",
+    "postal_code": "05819-8991",
+    "website_url": "http://www.saintjbrewery.com",
+    "phone": "8024241700",
+    "created_at": "2018-07-24 01:34:23.677773",
+    "updated_at": "2018-08-24 16:26:28.273915",
+    "country": "United States",
+    "longitude": "-72.0150689797139",
+    "latitude": "44.4591821904348",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hubbleton-brewing",
+    "name": "Hubbleton Brewing",
+    "brewery_type": "micro",
+    "street": "W10445 Hubbleton Rd",
+    "city": "Waterloo",
+    "state": "Wisconsin",
+    "postal_code": "53594",
+    "website_url": "",
+    "phone": "9202537141",
+    "created_at": "2018-07-24 01:34:35.598573",
+    "updated_at": "2018-08-11 21:40:33.658509",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

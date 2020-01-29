@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pals-brewing-company",
+    "name": "Pals Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "4520 South Buffalo Bill Avenue",
+    "city": "North Platte",
+    "state": "Nebraska",
+    "postal_code": "69101",
+    "website_url": "http://www.palsbrewingcompany.com",
+    "phone": "6088079332",
+    "created_at": "2018-07-24 01:33:43.928182",
+    "updated_at": "2018-08-24 00:47:47.154606",
+    "country": "United States",
+    "longitude": "-100.7916041",
+    "latitude": "41.12294",
+    "tags": []
+  }
+]

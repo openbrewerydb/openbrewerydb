@@ -1,0 +1,19 @@
+[
+  {
+    "id": "four-quarters-brewing-co",
+    "name": "Four Quarters Brewing Co",
+    "brewery_type": "micro",
+    "street": "150 W Canal St",
+    "city": "Winooski",
+    "state": "Vermont",
+    "postal_code": "05404-2171",
+    "website_url": "http://www.4qbc.com",
+    "phone": "8023243327",
+    "created_at": "2018-07-24 01:34:23.265385",
+    "updated_at": "2018-08-24 16:25:44.828803",
+    "country": "United States",
+    "longitude": "-73.1924334",
+    "latitude": "44.4906838",
+    "tags": []
+  }
+]

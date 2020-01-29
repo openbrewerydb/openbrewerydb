@@ -1,0 +1,19 @@
+[
+  {
+    "id": "black-lotus-brewing-co",
+    "name": "Black Lotus Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1 E 14 Mile Rd",
+    "city": "Clawson",
+    "state": "Michigan",
+    "postal_code": "48017-2132",
+    "website_url": "http://WWW.BLACKLOTUSBEER.COM",
+    "phone": "2485771878",
+    "created_at": "2018-07-24 01:33:33.178431",
+    "updated_at": "2018-08-24 00:42:21.248953",
+    "country": "United States",
+    "longitude": "-83.141428",
+    "latitude": "42.533563",
+    "tags": []
+  }
+]

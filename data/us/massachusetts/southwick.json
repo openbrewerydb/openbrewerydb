@@ -1,0 +1,19 @@
+[
+  {
+    "id": "westfield-river-brewing-co",
+    "name": "Westfield River Brewing Co",
+    "brewery_type": "micro",
+    "street": "707 College Hwy",
+    "city": "Southwick",
+    "state": "Massachusetts",
+    "postal_code": "01077-9733",
+    "website_url": "http://www.westfieldriverbrewing.com",
+    "phone": "4133748425",
+    "created_at": "2018-07-24 01:33:32.308053",
+    "updated_at": "2018-08-24 00:41:56.58132",
+    "country": "United States",
+    "longitude": "-72.765248",
+    "latitude": "42.062268",
+    "tags": []
+  }
+]

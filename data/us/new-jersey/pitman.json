@@ -1,0 +1,36 @@
+[
+  {
+    "id": "kelly-green-brewing-co",
+    "name": "Kelly Green Brewing Co.",
+    "brewery_type": "micro",
+    "street": "154 S Broadway # 156",
+    "city": "Pitman",
+    "state": "New Jersey",
+    "postal_code": "08071-2232",
+    "website_url": "http://www.kellygreenbrewing.com",
+    "phone": "8562702876",
+    "created_at": "2018-07-24 01:33:46.990334",
+    "updated_at": "2018-08-11 21:38:24.242326",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "human-village-brewing-co",
+    "name": "Human Village Brewing Co.",
+    "brewery_type": "micro",
+    "street": "148 S Broadway",
+    "city": "Pitman",
+    "state": "New Jersey",
+    "postal_code": "08071-2232",
+    "website_url": "http://www.humanvillagebrewingco.com",
+    "phone": "8565560639",
+    "created_at": "2018-07-24 01:33:46.870309",
+    "updated_at": "2018-08-24 15:36:51.442809",
+    "country": "United States",
+    "longitude": "-75.1291588",
+    "latitude": "39.7304838",
+    "tags": []
+  }
+]

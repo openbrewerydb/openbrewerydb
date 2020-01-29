@@ -1,0 +1,19 @@
+[
+  {
+    "id": "iron-springs-pub-and-brewery",
+    "name": "Iron Springs Pub & Brewery",
+    "brewery_type": "brewpub",
+    "street": "765 Center Blvd",
+    "city": "Fairfax",
+    "state": "California",
+    "postal_code": "94930-1764",
+    "website_url": "http://www.ironspringspub.com",
+    "phone": "4154851005",
+    "created_at": "2018-07-24 01:32:56.969279",
+    "updated_at": "2018-08-23 23:29:58.835781",
+    "country": "United States",
+    "longitude": "-122.586252472669",
+    "latitude": "37.9867011101135",
+    "tags": []
+  }
+]

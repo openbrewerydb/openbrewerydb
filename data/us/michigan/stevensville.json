@@ -1,0 +1,36 @@
+[
+  {
+    "id": "watermark-brewing-company",
+    "name": "Watermark Brewing Company",
+    "brewery_type": "micro",
+    "street": "5781 Saint Joseph Ave",
+    "city": "Stevensville",
+    "state": "Michigan",
+    "postal_code": "49127-1238",
+    "website_url": "http://www.watermarkbrewing.com",
+    "phone": "2692810872",
+    "created_at": "2018-07-24 01:33:37.456296",
+    "updated_at": "2018-08-24 00:44:40.161961",
+    "country": "United States",
+    "longitude": "-86.51963025",
+    "latitude": "42.0128666818182",
+    "tags": []
+  },
+  {
+    "id": "grande-mere-inn-/-cranberry-bog-bar",
+    "name": "Grande Mere Inn / Cranberry Bog Bar",
+    "brewery_type": "brewpub",
+    "street": "5800 Red Arrow Hwy",
+    "city": "Stevensville",
+    "state": "Michigan",
+    "postal_code": "49127-1118",
+    "website_url": "http://www.grandemereinn.com",
+    "phone": "2694293591",
+    "created_at": "2018-07-24 01:33:34.522124",
+    "updated_at": "2018-08-24 00:43:02.552536",
+    "country": "United States",
+    "longitude": "-86.528785699864",
+    "latitude": "42.0127411057643",
+    "tags": []
+  }
+]

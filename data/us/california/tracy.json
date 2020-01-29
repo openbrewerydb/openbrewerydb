@@ -1,0 +1,19 @@
+[
+  {
+    "id": "morgan-territory-brewing",
+    "name": "Morgan Territory Brewing",
+    "brewery_type": "micro",
+    "street": "1885 N Macarthur Dr",
+    "city": "Tracy",
+    "state": "California",
+    "postal_code": "95376-2820",
+    "website_url": "http://www.morganterritorybrewing.com",
+    "phone": "2098348664",
+    "created_at": "2018-07-24 01:32:58.483143",
+    "updated_at": "2018-08-23 23:59:47.458964",
+    "country": "United States",
+    "longitude": "-121.4145449",
+    "latitude": "37.7545317",
+    "tags": []
+  }
+]

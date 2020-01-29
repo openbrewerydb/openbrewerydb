@@ -1,0 +1,36 @@
+[
+  {
+    "id": "three-creeks-production",
+    "name": "Three Creeks Production",
+    "brewery_type": "micro",
+    "street": "265 E. Barclay Dr.",
+    "city": "Sisters",
+    "state": "Oregon",
+    "postal_code": "97759-9514",
+    "website_url": "",
+    "phone": "5415491963",
+    "created_at": "2018-07-24 01:34:08.104792",
+    "updated_at": "2018-08-11 21:39:19.872251",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "three-creeks-brewing-co",
+    "name": "Three Creeks Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "721 Desperado Ct",
+    "city": "Sisters",
+    "state": "Oregon",
+    "postal_code": "97759-9514",
+    "website_url": "http://www.threecreeksbrewing.com",
+    "phone": "5415491963",
+    "created_at": "2018-07-24 01:34:08.090823",
+    "updated_at": "2018-08-24 16:05:22.10683",
+    "country": "United States",
+    "longitude": "-121.534944",
+    "latitude": "44.285254",
+    "tags": []
+  }
+]

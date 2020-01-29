@@ -1,0 +1,53 @@
+[
+  {
+    "id": "carlyle-brewing-co",
+    "name": "Carlyle Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "215 E State St",
+    "city": "Rockford",
+    "state": "Illinois",
+    "postal_code": "61104-1010",
+    "website_url": "http://www.carlylebrewing.com",
+    "phone": "8159632739",
+    "created_at": "2018-07-24 01:33:18.507767",
+    "updated_at": "2018-08-24 00:30:41.886992",
+    "country": "United States",
+    "longitude": "-89.09053",
+    "latitude": "42.2689989",
+    "tags": []
+  },
+  {
+    "id": "granite-city-food-and-brewery-#19",
+    "name": "Granite City Food & Brewery (#19)",
+    "brewery_type": "brewpub",
+    "street": "7144 Harrison Ave Ste 108",
+    "city": "Rockford",
+    "state": "Illinois",
+    "postal_code": "61112-",
+    "website_url": "",
+    "phone": "8153327070",
+    "created_at": "2018-07-24 01:33:19.060285",
+    "updated_at": "2018-08-24 00:31:06.852445",
+    "country": "United States",
+    "longitude": "-89.0966204",
+    "latitude": "42.2377268",
+    "tags": []
+  },
+  {
+    "id": "prairie-street-brewing-co",
+    "name": "Prairie Street Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "200 Prairie St Ste 203",
+    "city": "Rockford",
+    "state": "Illinois",
+    "postal_code": "61107-3967",
+    "website_url": "http://www.psbrewingco.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:20.288359",
+    "updated_at": "2018-08-24 00:31:53.856649",
+    "country": "United States",
+    "longitude": "-89.087658",
+    "latitude": "42.273033",
+    "tags": []
+  }
+]

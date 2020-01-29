@@ -1,0 +1,19 @@
+[
+  {
+    "id": "217-brew-works",
+    "name": "217 Brew Works",
+    "brewery_type": "micro",
+    "street": "217 South St S",
+    "city": "Wilson",
+    "state": "North Carolina",
+    "postal_code": "27893-4911",
+    "website_url": "",
+    "phone": "2529916959",
+    "created_at": "2018-07-24 01:33:54.791999",
+    "updated_at": "2018-08-24 15:40:56.790325",
+    "country": "United States",
+    "longitude": "-77.9120318",
+    "latitude": "35.7227625",
+    "tags": []
+  }
+]

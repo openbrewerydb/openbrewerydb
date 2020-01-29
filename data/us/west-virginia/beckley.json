@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dobra-zupas",
+    "name": "Dobra Zupas",
+    "brewery_type": "brewpub",
+    "street": "600 S Oakwood Ave",
+    "city": "Beckley",
+    "state": "West Virginia",
+    "postal_code": "25801-5928",
+    "website_url": "http://www.dobrazupas.com",
+    "phone": "3042539872",
+    "created_at": "2018-07-24 01:34:34.137993",
+    "updated_at": "2018-08-24 16:41:23.401449",
+    "country": "United States",
+    "longitude": "-81.196413",
+    "latitude": "37.770874",
+    "tags": []
+  }
+]

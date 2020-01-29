@@ -1,0 +1,19 @@
+[
+  {
+    "id": "norris-english-pub",
+    "name": "Norris English Pub",
+    "brewery_type": "brewpub",
+    "street": "202 E Seminary St",
+    "city": "Liberty",
+    "state": "Indiana",
+    "postal_code": "47353-1206",
+    "website_url": "http://www.norrisenglishpub.com",
+    "phone": "7652232337",
+    "created_at": "2018-07-24 01:33:22.544803",
+    "updated_at": "2018-08-24 00:33:11.219605",
+    "country": "United States",
+    "longitude": "-84.9250813333333",
+    "latitude": "39.6344325",
+    "tags": []
+  }
+]

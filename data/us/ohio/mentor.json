@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cle-brewing",
+    "name": "CLE Brewing",
+    "brewery_type": "micro",
+    "street": "9431 Mercantile Dr",
+    "city": "Mentor",
+    "state": "Ohio",
+    "postal_code": "44060",
+    "website_url": "http://www.smarterbrewing.com",
+    "phone": "4405278330",
+    "created_at": "2018-07-24 01:34:00.231645",
+    "updated_at": "2018-08-24 15:43:37.726041",
+    "country": "United States",
+    "longitude": "-81.3064457271104",
+    "latitude": "41.6962288733784",
+    "tags": []
+  },
+  {
+    "id": "the-brew-mentor",
+    "name": "The Brew Mentor",
+    "brewery_type": "micro",
+    "street": "9528 Diamond Centre Dr",
+    "city": "Mentor",
+    "state": "Ohio",
+    "postal_code": "44060-1876",
+    "website_url": "http://www.thebrewmentor.com",
+    "phone": "4409512739",
+    "created_at": "2018-07-24 01:34:03.244453",
+    "updated_at": "2018-08-24 15:45:07.354727",
+    "country": "United States",
+    "longitude": "-81.3000101194962",
+    "latitude": "41.7146846240162",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "10th-district-brewing-company",
+    "name": "10th District Brewing Company",
+    "brewery_type": "micro",
+    "street": "491 Washington St",
+    "city": "Abington",
+    "state": "Massachusetts",
+    "postal_code": "02351-2419",
+    "website_url": "http://www.10thdistrictbrewing.com",
+    "phone": "7813071554",
+    "created_at": "2018-07-24 01:33:29.932861",
+    "updated_at": "2018-08-24 00:40:55.685575",
+    "country": "United States",
+    "longitude": "-70.9459414892185",
+    "latitude": "42.1059175414395",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "cravings-bistro-and-pub",
+    "name": "Cravings Bistro & Pub",
+    "brewery_type": "brewpub",
+    "street": "1599 Mall Dr Ste B",
+    "city": "Benton Harbor",
+    "state": "Michigan",
+    "postal_code": "49022-2330",
+    "website_url": "",
+    "phone": "2699349700",
+    "created_at": "2018-07-24 01:33:33.854975",
+    "updated_at": "2018-08-11 21:37:47.962318",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "north-pier-brewing",
+    "name": "North Pier Brewing",
+    "brewery_type": "micro",
+    "street": "670 N Shore Dr",
+    "city": "Benton Harbor",
+    "state": "Michigan",
+    "postal_code": "49022-3646",
+    "website_url": "http://www.northpierbrewing.com",
+    "phone": "2697577163",
+    "created_at": "2018-07-24 01:33:35.714162",
+    "updated_at": "2018-08-24 00:43:42.57573",
+    "country": "United States",
+    "longitude": "-86.4549931471288",
+    "latitude": "42.1245434862641",
+    "tags": []
+  },
+  {
+    "id": "the-livery",
+    "name": "The Livery",
+    "brewery_type": "brewpub",
+    "street": "190 5th St",
+    "city": "Benton Harbor",
+    "state": "Michigan",
+    "postal_code": "49022-3484",
+    "website_url": "http://www.liverybrew.com",
+    "phone": "2699258760",
+    "created_at": "2018-07-24 01:33:36.973501",
+    "updated_at": "2018-08-24 00:44:23.888967",
+    "country": "United States",
+    "longitude": "-86.4533001875",
+    "latitude": "42.118135375",
+    "tags": []
+  }
+]

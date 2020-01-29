@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bircus-brewing",
+    "name": "Bircus Brewing",
+    "brewery_type": "micro",
+    "street": "322 Elm St",
+    "city": "Ludlow",
+    "state": "Kentucky",
+    "postal_code": "41016-1451",
+    "website_url": "http://www.bircus.com",
+    "phone": "8593607757",
+    "created_at": "2018-07-24 01:33:25.366685",
+    "updated_at": "2018-08-24 00:38:43.648183",
+    "country": "United States",
+    "longitude": "-84.5492312857143",
+    "latitude": "39.0935088979592",
+    "tags": []
+  }
+]

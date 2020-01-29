@@ -1,0 +1,19 @@
+[
+  {
+    "id": "burley-oak-craft-brewery",
+    "name": "Burley Oak Craft Brewery",
+    "brewery_type": "micro",
+    "street": "10016 Old Ocean City Blvd",
+    "city": "Berlin",
+    "state": "Maryland",
+    "postal_code": "21811-1145",
+    "website_url": "http://www.burleyoak.com",
+    "phone": "4104228887",
+    "created_at": "2018-07-24 01:33:28.587241",
+    "updated_at": "2018-08-24 00:40:22.301209",
+    "country": "United States",
+    "longitude": "-75.2169864020113",
+    "latitude": "38.3336448",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sqzbx-brewery",
+    "name": "SQZBX Brewery",
+    "brewery_type": "brewpub",
+    "street": "236 Ouachita Ave",
+    "city": "Hot Springs ",
+    "state": "Arkansas",
+    "postal_code": "71901",
+    "website_url": "http://www.sqzbx.com",
+    "phone": "5016090609",
+    "created_at": "2018-07-24 01:32:50.858947",
+    "updated_at": "2018-08-23 23:23:36.137319",
+    "country": "United States",
+    "longitude": "-93.0557935951065",
+    "latitude": "34.5075190336429",
+    "tags": []
+  }
+]

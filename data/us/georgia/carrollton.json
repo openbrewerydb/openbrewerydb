@@ -1,0 +1,19 @@
+[
+  {
+    "id": "printers-ale-manufacturing-co",
+    "name": "Printer's Ale Manufacturing Co.",
+    "brewery_type": "micro",
+    "street": "940 Columbia Dr",
+    "city": "Carrollton",
+    "state": "Georgia",
+    "postal_code": "30117-8780",
+    "website_url": "http://www.printers-ale.com",
+    "phone": "7708364253",
+    "created_at": "2018-07-24 01:33:16.216401",
+    "updated_at": "2018-08-24 00:29:22.41065",
+    "country": "United States",
+    "longitude": "-85.1024965714286",
+    "latitude": "33.6113894489796",
+    "tags": []
+  }
+]

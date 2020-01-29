@@ -1,0 +1,19 @@
+[
+  {
+    "id": "viking-brewpub",
+    "name": "Viking Brewpub",
+    "brewery_type": "brewpub",
+    "street": "211 E Main St",
+    "city": "Stoughton",
+    "state": "Wisconsin",
+    "postal_code": "53589-1700",
+    "website_url": "",
+    "phone": "6087195041",
+    "created_at": "2018-07-24 01:34:37.110528",
+    "updated_at": "2018-08-24 16:46:17.517101",
+    "country": "United States",
+    "longitude": "-89.2188242",
+    "latitude": "42.9166357",
+    "tags": []
+  }
+]

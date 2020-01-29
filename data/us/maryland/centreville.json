@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bull-and-goat-brewery",
+    "name": "Bull and Goat Brewery",
+    "brewery_type": "micro",
+    "street": "204 Banjo Ln",
+    "city": "Centreville",
+    "state": "Maryland",
+    "postal_code": "21617-1067",
+    "website_url": "http://www.bullandgoatbrewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:28.571092",
+    "updated_at": "2018-08-11 21:37:35.304462",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "periodic-brewing-llc",
+    "name": "Periodic Brewing LLC",
+    "brewery_type": "brewpub",
+    "street": "115 E 7th St",
+    "city": "Leadville",
+    "state": "Colorado",
+    "postal_code": "80461-3505",
+    "website_url": "http://www.periodicbrewing.com",
+    "phone": "7203168144",
+    "created_at": "2018-07-24 01:33:07.078843",
+    "updated_at": "2018-08-24 00:24:12.027731",
+    "country": "United States",
+    "longitude": "-106.291776692933",
+    "latitude": "39.2496419048566",
+    "tags": []
+  }
+]

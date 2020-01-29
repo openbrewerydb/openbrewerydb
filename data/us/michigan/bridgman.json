@@ -1,0 +1,53 @@
+[
+  {
+    "id": "tapistry-brewing-company",
+    "name": "Tapistry Brewing Company",
+    "brewery_type": "micro",
+    "street": "4236 Lake St",
+    "city": "Bridgman",
+    "state": "Michigan",
+    "postal_code": "49106-9109",
+    "website_url": "http://www.tapistrybrewing.com",
+    "phone": "2692667349",
+    "created_at": "2018-07-24 01:33:36.819009",
+    "updated_at": "2018-08-24 00:44:18.183495",
+    "country": "United States",
+    "longitude": "-86.5561575",
+    "latitude": "41.9427559",
+    "tags": []
+  },
+  {
+    "id": "haymarket-brewery-and-taproom",
+    "name": "Haymarket Brewery and Taproom",
+    "brewery_type": "micro",
+    "street": "9301 Red Arrow Hwy",
+    "city": "Bridgman",
+    "state": "Michigan",
+    "postal_code": "49106-9558",
+    "website_url": "",
+    "phone": "3126380707",
+    "created_at": "2018-07-24 01:33:34.761234",
+    "updated_at": "2018-08-24 00:43:11.213976",
+    "country": "United States",
+    "longitude": "-86.5594780582524",
+    "latitude": "41.947153631068",
+    "tags": []
+  },
+  {
+    "id": "transient-artisan-ales",
+    "name": "Transient Artisan Ales",
+    "brewery_type": "micro",
+    "street": "4229 Lake St",
+    "city": "Bridgman",
+    "state": "Michigan",
+    "postal_code": "49106-9109",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:37.230466",
+    "updated_at": "2018-08-24 00:44:31.441372",
+    "country": "United States",
+    "longitude": "-86.5557093703704",
+    "latitude": "41.942998037037",
+    "tags": []
+  }
+]

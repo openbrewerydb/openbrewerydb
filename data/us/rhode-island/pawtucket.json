@@ -1,0 +1,53 @@
+[
+  {
+    "id": "foolproof-brewing-company",
+    "name": "Foolproof Brewing Company",
+    "brewery_type": "micro",
+    "street": "241 Grotto Ave",
+    "city": "Pawtucket",
+    "state": "Rhode Island",
+    "postal_code": "02860-3403",
+    "website_url": "http://www.foolproofbrewing.com",
+    "phone": "4017215970",
+    "created_at": "2018-07-24 01:34:13.729098",
+    "updated_at": "2018-08-24 16:13:38.640603",
+    "country": "United States",
+    "longitude": "-71.4101783717949",
+    "latitude": "41.8693906923077",
+    "tags": []
+  },
+  {
+    "id": "narragansett-brewing-co",
+    "name": "Narragansett Brewing Co",
+    "brewery_type": "regional",
+    "street": "461 Main St",
+    "city": "Pawtucket",
+    "state": "Rhode Island",
+    "postal_code": "02860-2913",
+    "website_url": "http://www.narragansettbeer.com",
+    "phone": "4014378970",
+    "created_at": "2018-07-24 01:34:13.780723",
+    "updated_at": "2018-08-24 16:13:44.996018",
+    "country": "United States",
+    "longitude": "-71.3884771470588",
+    "latitude": "41.87668875",
+    "tags": []
+  },
+  {
+    "id": "crooked-current-brewery",
+    "name": "Crooked Current Brewery",
+    "brewery_type": "micro",
+    "street": "560 Mineral Spring Ave Ste 2-112",
+    "city": "Pawtucket",
+    "state": "Rhode Island",
+    "postal_code": "02860-8612",
+    "website_url": "http://www.crookedcurrentbrewery.com",
+    "phone": "4014738312",
+    "created_at": "2018-07-24 01:34:13.716034",
+    "updated_at": "2018-08-11 21:39:33.96522",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

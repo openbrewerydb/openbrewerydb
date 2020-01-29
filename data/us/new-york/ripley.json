@@ -1,0 +1,19 @@
+[
+  {
+    "id": "7-sins-brewery",
+    "name": "7 Sins Brewery",
+    "brewery_type": "micro",
+    "street": "10593 W Main Rd",
+    "city": "Ripley",
+    "state": "New York",
+    "postal_code": "14775-9746",
+    "website_url": "http://www.7sinsbrewery.com",
+    "phone": "7165812090",
+    "created_at": "2018-07-24 01:33:48.986995",
+    "updated_at": "2018-08-24 15:37:57.574137",
+    "country": "United States",
+    "longitude": "-79.749734898935",
+    "latitude": "42.2486907283289",
+    "tags": []
+  }
+]

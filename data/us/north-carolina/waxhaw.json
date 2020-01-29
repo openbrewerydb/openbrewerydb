@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-dreamchasers-brewery",
+    "name": "The Dreamchaser's Brewery",
+    "brewery_type": "micro",
+    "street": "115 E North Main St",
+    "city": "Waxhaw",
+    "state": "North Carolina",
+    "postal_code": "28173-6029",
+    "website_url": "http://www.dreamchasersbrewery.com",
+    "phone": "7048437326",
+    "created_at": "2018-07-24 01:33:58.327929",
+    "updated_at": "2018-08-24 15:42:48.604401",
+    "country": "United States",
+    "longitude": "-80.7434991428571",
+    "latitude": "34.9252405714286",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "seven-brides-brewery",
+    "name": "Seven Brides Brewery",
+    "brewery_type": "micro",
+    "street": "990 North First Street",
+    "city": "Silverton",
+    "state": "Oregon",
+    "postal_code": "97381",
+    "website_url": "http://www.sevenbridesbrewing.com",
+    "phone": "5038744677",
+    "created_at": "2018-07-24 01:34:07.764103",
+    "updated_at": "2018-08-11 21:39:18.949224",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "silver-falls-brewery",
+    "name": "Silver Falls Brewery",
+    "brewery_type": "micro",
+    "street": "207 Jersey St",
+    "city": "Silverton",
+    "state": "Oregon",
+    "postal_code": "97381",
+    "website_url": "http://www.silverfallsbrewery.com",
+    "phone": "5038733022",
+    "created_at": "2018-07-24 01:34:07.789647",
+    "updated_at": "2018-08-24 16:04:52.048217",
+    "country": "United States",
+    "longitude": "-122.782140236887",
+    "latitude": "45.0042198398577",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "northern-maine-brewing-co",
+    "name": "Northern Maine Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "22 Main St",
+    "city": "Caribou",
+    "state": "Maine",
+    "postal_code": "04736-4163",
+    "website_url": "",
+    "phone": "2074922185",
+    "created_at": "2018-07-24 01:33:27.611098",
+    "updated_at": "2018-08-24 00:40:00.145427",
+    "country": "United States",
+    "longitude": "-67.9967099528407",
+    "latitude": "46.8140769171635",
+    "tags": []
+  }
+]

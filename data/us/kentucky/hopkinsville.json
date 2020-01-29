@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hopkinsville-brewing-company",
+    "name": "Hopkinsville Brewing Company",
+    "brewery_type": "micro",
+    "street": "102 E 5th St",
+    "city": "Hopkinsville",
+    "state": "Kentucky",
+    "postal_code": "42240-3306",
+    "website_url": "http://www.hopkinsvillebrewingcompany.com",
+    "phone": "2703483927",
+    "created_at": "2018-07-24 01:33:25.718018",
+    "updated_at": "2018-08-24 00:38:57.5149",
+    "country": "United States",
+    "longitude": "-87.487357448585",
+    "latitude": "36.8674943639151",
+    "tags": []
+  }
+]

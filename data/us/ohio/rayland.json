@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hightower-brewing-co",
+    "name": "Hightower Brewing Co",
+    "brewery_type": "micro",
+    "street": "3445 County Road 16 Unit B",
+    "city": "Rayland",
+    "state": "Ohio",
+    "postal_code": "43943-7765",
+    "website_url": "http://www.hightowerbrewingcompany.com",
+    "phone": "7408590764",
+    "created_at": "2018-07-24 01:34:01.085895",
+    "updated_at": "2018-08-11 21:38:59.302776",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

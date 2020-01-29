@@ -1,0 +1,36 @@
+[
+  {
+    "id": "eddie-mcstiffs-brewing-co-c/o-eddie-snyder",
+    "name": "Eddie McStiffs Brewing Co c/o Eddie Snyder",
+    "brewery_type": "contract",
+    "street": "57 S Main St",
+    "city": "Moab",
+    "state": "Utah",
+    "postal_code": "84532-2502",
+    "website_url": "http://www.eddiemcstiffs.com",
+    "phone": "4352592337",
+    "created_at": "2018-07-24 01:34:22.499418",
+    "updated_at": "2018-08-11 21:39:57.233016",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "moab-brewery",
+    "name": "Moab Brewery",
+    "brewery_type": "micro",
+    "street": "686 S Main St",
+    "city": "Moab",
+    "state": "Utah",
+    "postal_code": "84532-2901",
+    "website_url": "http://www.themoabbrewery.com",
+    "phone": "4352596333",
+    "created_at": "2018-07-24 01:34:22.622833",
+    "updated_at": "2018-08-11 21:39:57.574886",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

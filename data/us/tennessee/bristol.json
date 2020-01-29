@@ -1,0 +1,36 @@
+[
+  {
+    "id": "elderbrew",
+    "name": "Elderbrew",
+    "brewery_type": "micro",
+    "street": "24 6th St",
+    "city": "Bristol",
+    "state": "Tennessee",
+    "postal_code": "37620",
+    "website_url": "http://www.elderbrew.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:16.142412",
+    "updated_at": "2018-08-24 16:16:46.584881",
+    "country": "United States",
+    "longitude": "-82.18356135",
+    "latitude": "36.594077",
+    "tags": []
+  },
+  {
+    "id": "holston-river-brewing-company",
+    "name": "Holston River Brewing Company",
+    "brewery_type": "micro",
+    "street": "2623 Volunteer Pkwy",
+    "city": "Bristol",
+    "state": "Tennessee",
+    "postal_code": "37620-",
+    "website_url": "http://www.hrbrewing.com",
+    "phone": "4233611572",
+    "created_at": "2018-07-24 01:34:16.468579",
+    "updated_at": "2018-08-24 16:17:03.417973",
+    "country": "United States",
+    "longitude": "-82.1910353",
+    "latitude": "36.574583",
+    "tags": []
+  }
+]

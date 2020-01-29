@@ -1,0 +1,19 @@
+[
+  {
+    "id": "verde-brewing-company",
+    "name": "Verde Brewing Company",
+    "brewery_type": "micro",
+    "street": "724 Industrial Dr Unit 7A",
+    "city": "Camp Verde",
+    "state": "Arizona",
+    "postal_code": "86322",
+    "website_url": "http://www.verdebrewing.com",
+    "phone": "9285678626",
+    "created_at": "2018-07-24 01:32:50.238231",
+    "updated_at": "2018-08-11 21:35:50.87738",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

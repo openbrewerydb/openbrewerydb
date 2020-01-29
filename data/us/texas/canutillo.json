@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sun-brewing-co",
+    "name": "Sun Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "101 Canutillo La Union Ave",
+    "city": "Canutillo",
+    "state": "Texas",
+    "postal_code": "79835-6001",
+    "website_url": "http://sunbrewingco.com",
+    "phone": "9154333048",
+    "created_at": "2018-07-24 01:34:21.541363",
+    "updated_at": "2018-08-24 16:23:31.37164",
+    "country": "United States",
+    "longitude": "-106.6011179",
+    "latitude": "31.9151882",
+    "tags": []
+  }
+]

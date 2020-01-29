@@ -1,0 +1,19 @@
+[
+  {
+    "id": "big-block-brewing",
+    "name": "Big Block Brewing",
+    "brewery_type": "micro",
+    "street": "3310 E Lake Sammamish Pkwy SE",
+    "city": "Sammamish",
+    "state": "Washington",
+    "postal_code": "98075",
+    "website_url": "http://www.bigblockbrewery.com",
+    "phone": "4254570515",
+    "created_at": "2018-07-24 01:34:28.268597",
+    "updated_at": "2018-08-24 16:32:54.504332",
+    "country": "United States",
+    "longitude": "-122.074740001893",
+    "latitude": "47.5792621222038",
+    "tags": []
+  }
+]

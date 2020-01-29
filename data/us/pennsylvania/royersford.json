@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stickman-brews",
+    "name": "Stickman Brews",
+    "brewery_type": "micro",
+    "street": "326 N Lewis Rd # 240",
+    "city": "Royersford",
+    "state": "Pennsylvania",
+    "postal_code": "19468-1509",
+    "website_url": "http://www.stickmanbrews.com",
+    "phone": "4849385900",
+    "created_at": "2018-07-24 01:34:12.831464",
+    "updated_at": "2018-08-24 16:12:14.338846",
+    "country": "United States",
+    "longitude": "-75.5375546362096",
+    "latitude": "40.2000605952624",
+    "tags": []
+  }
+]

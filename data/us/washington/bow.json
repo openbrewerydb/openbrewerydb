@@ -1,0 +1,19 @@
+[
+  {
+    "id": "terramar",
+    "name": "Terramar",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Bow",
+    "state": "Washington",
+    "postal_code": "98232-9353",
+    "website_url": "http://terramarbrewing.com",
+    "phone": "3605106747",
+    "created_at": "2018-07-24 01:34:33.169521",
+    "updated_at": "2018-08-11 21:40:26.630224",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

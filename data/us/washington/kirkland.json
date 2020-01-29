@@ -1,0 +1,53 @@
+[
+  {
+    "id": "chainline-brewing-company",
+    "name": "Chainline Brewing Company",
+    "brewery_type": "micro",
+    "street": "503 6th St S",
+    "city": "Kirkland",
+    "state": "Washington",
+    "postal_code": "98033-6717",
+    "website_url": "http://www.chainlinebrewing.com",
+    "phone": "4252420923",
+    "created_at": "2018-07-24 01:34:28.846836",
+    "updated_at": "2018-08-24 16:33:26.543828",
+    "country": "United States",
+    "longitude": "-122.1967583",
+    "latitude": "47.6717847",
+    "tags": []
+  },
+  {
+    "id": "flycaster-brewing-co",
+    "name": "Flycaster Brewing Co.",
+    "brewery_type": "micro",
+    "street": "12815 NE 124th St Ste I",
+    "city": "Kirkland",
+    "state": "Washington",
+    "postal_code": "98034-8313",
+    "website_url": "",
+    "phone": "2069636626",
+    "created_at": "2018-07-24 01:34:29.764144",
+    "updated_at": "2018-08-11 21:40:16.114781",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "maelstrom-brewing-company",
+    "name": "Maelstrom Brewing Company",
+    "brewery_type": "micro",
+    "street": "11014 120th Ave NE",
+    "city": "Kirkland",
+    "state": "Washington",
+    "postal_code": "98033-5022",
+    "website_url": "http://www.maelstrombrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:30.979027",
+    "updated_at": "2018-08-24 16:36:35.049512",
+    "country": "United States",
+    "longitude": "-122.180943",
+    "latitude": "47.6991435",
+    "tags": []
+  }
+]

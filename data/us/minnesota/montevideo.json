@@ -1,0 +1,19 @@
+[
+  {
+    "id": "talking-waters-brewing-co",
+    "name": "Talking Waters Brewing Co.",
+    "brewery_type": "micro",
+    "street": "205 S 1st St",
+    "city": "Montevideo",
+    "state": "Minnesota",
+    "postal_code": "56265-1412",
+    "website_url": "http://www.talkingwatersbrewing.com",
+    "phone": "3203211444",
+    "created_at": "2018-07-24 01:33:39.692164",
+    "updated_at": "2018-08-24 00:45:50.317473",
+    "country": "United States",
+    "longitude": "-95.7235032",
+    "latitude": "44.942758",
+    "tags": []
+  }
+]

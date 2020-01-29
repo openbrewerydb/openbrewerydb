@@ -1,0 +1,19 @@
+[
+  {
+    "id": "swine-city-brewing-company",
+    "name": "Swine City Brewing Company",
+    "brewery_type": "micro",
+    "street": "4614 Industry Dr",
+    "city": "Fairfield",
+    "state": "Ohio",
+    "postal_code": "45014-1923",
+    "website_url": "http://www.swinecitybrewing.com",
+    "phone": "7045601214",
+    "created_at": "2018-07-24 01:34:03.101287",
+    "updated_at": "2018-08-24 15:45:02.73968",
+    "country": "United States",
+    "longitude": "-84.5310617847279",
+    "latitude": "39.3489541799819",
+    "tags": []
+  }
+]

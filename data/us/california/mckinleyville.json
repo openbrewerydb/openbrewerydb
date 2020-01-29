@@ -1,0 +1,36 @@
+[
+  {
+    "id": "humboldt-regeneration",
+    "name": "Humboldt Regeneration",
+    "brewery_type": "micro",
+    "street": "2320 Central Ave Ste F",
+    "city": "McKinleyville",
+    "state": "California",
+    "postal_code": "95519-3682",
+    "website_url": "http://www.humboldtregeneration.com",
+    "phone": "7077388225",
+    "created_at": "2018-07-24 01:32:56.735083",
+    "updated_at": "2018-08-11 21:36:07.392057",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "six-rivers-brewery",
+    "name": "Six Rivers Brewery",
+    "brewery_type": "brewpub",
+    "street": "1300 Central Ave",
+    "city": "McKinleyville",
+    "state": "California",
+    "postal_code": "95519-6429",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:00.860618",
+    "updated_at": "2018-08-24 00:02:32.626413",
+    "country": "United States",
+    "longitude": "-124.1003888",
+    "latitude": "40.9260642",
+    "tags": []
+  }
+]

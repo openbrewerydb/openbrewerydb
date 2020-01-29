@@ -1,0 +1,36 @@
+[
+  {
+    "id": "hop-and-barrel-brewing-company-llc",
+    "name": "Hop & Barrel Brewing Company LLC",
+    "brewery_type": "micro",
+    "street": "310 2nd St",
+    "city": "Hudson",
+    "state": "Wisconsin",
+    "postal_code": "54016-1508",
+    "website_url": "http://www.hopandbarrelbrewing.com",
+    "phone": "6517959439",
+    "created_at": "2018-07-24 01:34:35.534816",
+    "updated_at": "2018-08-24 16:43:33.797457",
+    "country": "United States",
+    "longitude": "-92.756671162684",
+    "latitude": "44.9732967107142",
+    "tags": []
+  },
+  {
+    "id": "pitchfork-brewing",
+    "name": "Pitchfork Brewing",
+    "brewery_type": "micro",
+    "street": "709 Rodeo Dr Ste 104",
+    "city": "Hudson",
+    "state": "Wisconsin",
+    "postal_code": "54016-4700",
+    "website_url": "http://www.pitchforkbrewing.com",
+    "phone": "7152453675",
+    "created_at": "2018-07-24 01:34:36.228133",
+    "updated_at": "2018-08-24 16:44:47.968394",
+    "country": "United States",
+    "longitude": "-92.683543042585",
+    "latitude": "44.9654252",
+    "tags": []
+  }
+]

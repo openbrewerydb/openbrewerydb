@@ -1,0 +1,53 @@
+[
+  {
+    "id": "oval-craft-brewing",
+    "name": "OVAL Craft Brewing",
+    "brewery_type": "micro",
+    "street": "111 Ohio Rd",
+    "city": "Plattsburgh",
+    "state": "New York",
+    "postal_code": "12903-4403",
+    "website_url": "http://www.ovalcraftbrewing.com",
+    "phone": "5183242739",
+    "created_at": "2018-07-24 01:33:52.686263",
+    "updated_at": "2018-08-11 21:38:38.665497",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "plattsburgh-brewing-co",
+    "name": "Plattsburgh Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "411 Route 3",
+    "city": "Plattsburgh",
+    "state": "New York",
+    "postal_code": "12901-6520",
+    "website_url": "http://www.plattsburghbrewingco.com",
+    "phone": "5183246680",
+    "created_at": "2018-07-24 01:33:52.83305",
+    "updated_at": "2018-08-11 21:38:39.119581",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "valcour-brewing-company-llc",
+    "name": "Valcour Brewing Company LLC",
+    "brewery_type": "micro",
+    "street": "49 Ohio Rd",
+    "city": "Plattsburgh",
+    "state": "New York",
+    "postal_code": "12903-4409",
+    "website_url": "http://www.valcourbrewery.com",
+    "phone": "5183242337",
+    "created_at": "2018-07-24 01:33:54.364161",
+    "updated_at": "2018-08-11 21:38:43.385405",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

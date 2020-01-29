@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cognito-brewing-company",
+    "name": "Cognito Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "142 W Monroe St",
+    "city": "Bangor",
+    "state": "Michigan",
+    "postal_code": "49013-1333",
+    "website_url": "http://www.cognitobrewingcompany.com",
+    "phone": "9718088863",
+    "created_at": "2018-07-24 01:33:33.747788",
+    "updated_at": "2018-08-24 00:42:36.7413",
+    "country": "United States",
+    "longitude": "-86.1115220816327",
+    "latitude": "42.3130809897959",
+    "tags": []
+  }
+]

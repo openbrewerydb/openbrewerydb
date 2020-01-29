@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stubborn-beauty-brewing",
+    "name": "Stubborn Beauty Brewing",
+    "brewery_type": "micro",
+    "street": "180 Johnson St",
+    "city": "Middletown",
+    "state": "Connecticut",
+    "postal_code": "06457-2247",
+    "website_url": "http://www.stubbornbeauty.com",
+    "phone": "8608747459",
+    "created_at": "2018-07-24 01:33:10.165319",
+    "updated_at": "2018-08-24 00:25:51.706751",
+    "country": "United States",
+    "longitude": "-72.6599074160136",
+    "latitude": "41.5723325262957",
+    "tags": []
+  }
+]

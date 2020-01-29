@@ -1,0 +1,36 @@
+[
+  {
+    "id": "golden-avalanche-brewing-co",
+    "name": "Golden Avalanche Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "272 W Main St",
+    "city": "Kutztown",
+    "state": "Pennsylvania",
+    "postal_code": "19530-1604",
+    "website_url": "http://www.kutztowntavern.com/GoldenAvalancheBrewery",
+    "phone": "6106839600",
+    "created_at": "2018-07-24 01:34:10.656356",
+    "updated_at": "2018-08-24 16:08:49.709313",
+    "country": "United States",
+    "longitude": "-75.7780207",
+    "latitude": "40.5164127",
+    "tags": []
+  },
+  {
+    "id": "saucony-creek-brewing-company",
+    "name": "Saucony Creek Brewing Company",
+    "brewery_type": "micro",
+    "street": "15032 Kutztown Rd",
+    "city": "Kutztown",
+    "state": "Pennsylvania",
+    "postal_code": "19530-9275",
+    "website_url": "http://www.sauconycreekbrewing.com",
+    "phone": "6106833128",
+    "created_at": "2018-07-24 01:34:12.505241",
+    "updated_at": "2018-08-24 16:11:47.456496",
+    "country": "United States",
+    "longitude": "-75.7970035263681",
+    "latitude": "40.5014999328271",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "truth-or-consequences-brewing-company",
+    "name": "Truth Or Consequences Brewing Company",
+    "brewery_type": "micro",
+    "street": "410 N Broadway St",
+    "city": "Truth or Consequences",
+    "state": "New Mexico",
+    "postal_code": "87901-2836",
+    "website_url": "http://www.torc.beer",
+    "phone": "5752970289",
+    "created_at": "2018-07-24 01:33:48.785838",
+    "updated_at": "2018-08-11 21:38:28.730617",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

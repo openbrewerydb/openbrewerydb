@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lieferbrau-brewery-llc",
+    "name": "Lieferbrau Brewery LLC",
+    "brewery_type": "micro",
+    "street": "118 East Market Street",
+    "city": "Red Bud",
+    "state": "Illinois",
+    "postal_code": "62278",
+    "website_url": "",
+    "phone": "6185348477",
+    "created_at": "2018-07-24 01:33:19.585512",
+    "updated_at": "2018-08-24 00:31:26.356776",
+    "country": "United States",
+    "longitude": "-89.9935232653061",
+    "latitude": "38.2116562653061",
+    "tags": []
+  }
+]

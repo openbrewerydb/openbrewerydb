@@ -1,0 +1,36 @@
+[
+  {
+    "id": "legend-brewing-co",
+    "name": "Legend Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1 High St",
+    "city": "Portsmouth",
+    "state": "Virginia",
+    "postal_code": "23704-3814",
+    "website_url": "",
+    "phone": "8042328871",
+    "created_at": "2018-07-24 01:34:25.854035",
+    "updated_at": "2018-08-24 16:29:22.127052",
+    "country": "United States",
+    "longitude": "-76.2966634213108",
+    "latitude": "36.83482035",
+    "tags": []
+  },
+  {
+    "id": "momac-brewing-company",
+    "name": "MoMac Brewing Company",
+    "brewery_type": "micro",
+    "street": "3228 Academy Ave",
+    "city": "Portsmouth",
+    "state": "Virginia",
+    "postal_code": "23703-3203",
+    "website_url": "http://www.momacbrewing.com",
+    "phone": "7573839572",
+    "created_at": "2018-07-24 01:34:26.03671",
+    "updated_at": "2018-08-24 16:29:38.711189",
+    "country": "United States",
+    "longitude": "-76.3975914060349",
+    "latitude": "36.862579338221",
+    "tags": []
+  }
+]

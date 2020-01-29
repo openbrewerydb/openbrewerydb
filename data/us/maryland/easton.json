@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bird-nickel-brewing-company",
+    "name": "Bird Nickel Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Easton",
+    "state": "Maryland",
+    "postal_code": "21601-3904",
+    "website_url": "",
+    "phone": "4103106042",
+    "created_at": "2018-07-24 01:33:28.418418",
+    "updated_at": "2018-08-11 21:37:34.949585",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "national-brewing-company",
+    "name": "National Brewing Company",
+    "brewery_type": "contract",
+    "street": "28102 Baileys Neck Rd",
+    "city": "Easton",
+    "state": "Maryland",
+    "postal_code": "21601-8520",
+    "website_url": "http://www.nationalpremiumbeer.com",
+    "phone": "4103103553",
+    "created_at": "2018-07-24 01:33:29.388591",
+    "updated_at": "2018-08-11 21:37:37.004279",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

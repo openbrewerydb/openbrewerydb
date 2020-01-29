@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bellport-brewing-company",
+    "name": "Bellport Brewing Company",
+    "brewery_type": "proprietor",
+    "street": "",
+    "city": "Rocky Point",
+    "state": "New York",
+    "postal_code": "11778-8986",
+    "website_url": "http://www.bellportbrewing.com",
+    "phone": "6319094457",
+    "created_at": "2018-07-24 01:33:49.352711",
+    "updated_at": "2018-08-11 21:38:30.320285",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "rocky-point-artisan-ales",
+    "name": "Rocky Point Artisan Ales",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Rocky Point",
+    "state": "New York",
+    "postal_code": "11778",
+    "website_url": "http://www.rockypointartisanbeer.com",
+    "phone": "6318482261",
+    "created_at": "2018-07-24 01:33:53.143115",
+    "updated_at": "2018-08-11 21:38:39.802276",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

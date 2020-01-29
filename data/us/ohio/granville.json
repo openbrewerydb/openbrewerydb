@@ -1,0 +1,36 @@
+[
+  {
+    "id": "granville-brewing-company",
+    "name": "Granville Brewing Company",
+    "brewery_type": "micro",
+    "street": "5371 Columbus Rd",
+    "city": "Granville",
+    "state": "Ohio",
+    "postal_code": "43023-9192",
+    "website_url": "http://www.granvillewbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:00.934617",
+    "updated_at": "2018-08-24 15:43:59.706732",
+    "country": "United States",
+    "longitude": "-82.5886160260201",
+    "latitude": "40.0352737879005",
+    "tags": []
+  },
+  {
+    "id": "three-tigers-brewing-company",
+    "name": "Three Tigers Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "140 N Prospect St",
+    "city": "Granville",
+    "state": "Ohio",
+    "postal_code": "43023-1337",
+    "website_url": "http://www.threetigersbrewing.com",
+    "phone": "7409204680",
+    "created_at": "2018-07-24 01:34:03.414924",
+    "updated_at": "2018-08-24 15:45:12.602109",
+    "country": "United States",
+    "longitude": "-82.5182671257866",
+    "latitude": "40.0683988595088",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "iron-horse-brewery",
+    "name": "Iron Horse Brewery",
+    "brewery_type": "regional",
+    "street": "1621 Vantage Hwy",
+    "city": "Ellensburg",
+    "state": "Washington",
+    "postal_code": "98926-9001",
+    "website_url": "http://www.ironhorsebrewery.com",
+    "phone": "5099333134",
+    "created_at": "2018-07-24 01:34:30.542902",
+    "updated_at": "2018-08-11 21:40:18.23438",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "whipsaw-brewing-llc",
+    "name": "Whipsaw Brewing LLC",
+    "brewery_type": "micro",
+    "street": "704 N Wenas St",
+    "city": "Ellensburg",
+    "state": "Washington",
+    "postal_code": "98926-2862",
+    "website_url": "http://www.whipsawbrewing.com",
+    "phone": "5099685111",
+    "created_at": "2018-07-24 01:34:33.793426",
+    "updated_at": "2018-08-24 16:40:52.136085",
+    "country": "United States",
+    "longitude": "-120.5552612",
+    "latitude": "46.9989453",
+    "tags": []
+  }
+]

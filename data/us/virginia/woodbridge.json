@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brewery-in-planning-woodbridge",
+    "name": "Brewery in Planning - woodbridge",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Woodbridge",
+    "state": "Virginia",
+    "postal_code": "22193-3260",
+    "website_url": "",
+    "phone": "5714083509",
+    "created_at": "2018-07-24 01:34:24.743086",
+    "updated_at": "2018-08-11 21:40:03.42135",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "growling-bear-brewing-company",
+    "name": "Growling Bear Brewing Company",
+    "brewery_type": "micro",
+    "street": "14051 Crown Ct",
+    "city": "Woodbridge",
+    "state": "Virginia",
+    "postal_code": "22193-1458",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:25.515302",
+    "updated_at": "2018-08-11 21:40:05.601554",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "brew-republic-bierwerks",
+    "name": "Brew Republic Bierwerks",
+    "brewery_type": "brewpub",
+    "street": "15201 Potomac Town Pl Ste 120 Stonebridge @ Potomac Town Center",
+    "city": "Woodbridge",
+    "state": "Virginia",
+    "postal_code": "22191-6592",
+    "website_url": "http://brewrepublic.beer",
+    "phone": "7035947950",
+    "created_at": "2018-07-24 01:34:24.626599",
+    "updated_at": "2018-08-11 21:40:03.074328",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

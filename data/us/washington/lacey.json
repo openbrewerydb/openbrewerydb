@@ -1,0 +1,19 @@
+[
+  {
+    "id": "top-rung-brewing-company",
+    "name": "Top Rung Brewing Company",
+    "brewery_type": "micro",
+    "street": "8343 Hogum Bay Ln NE Ste E",
+    "city": "Lacey",
+    "state": "Washington",
+    "postal_code": "98516-3135",
+    "website_url": "http://www.toprungbrewing.com",
+    "phone": "3609158766",
+    "created_at": "2018-07-24 01:34:33.341586",
+    "updated_at": "2018-08-11 21:40:27.056518",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

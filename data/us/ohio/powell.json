@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ill-mannered-brewing-company",
+    "name": "Ill Mannered Brewing Company",
+    "brewery_type": "micro",
+    "street": "30 Grace Dr",
+    "city": "Powell",
+    "state": "Ohio",
+    "postal_code": "43065-8466",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:01.234489",
+    "updated_at": "2018-08-24 15:44:10.589286",
+    "country": "United States",
+    "longitude": "-83.0740121",
+    "latitude": "40.1635259",
+    "tags": []
+  }
+]

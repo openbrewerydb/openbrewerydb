@@ -1,0 +1,19 @@
+[
+  {
+    "id": "blue-island-beer-co",
+    "name": "Blue Island Beer Co",
+    "brewery_type": "micro",
+    "street": "13357 Olde Western Ave",
+    "city": "Blue Island",
+    "state": "Illinois",
+    "postal_code": "60406-2969",
+    "website_url": "http://www.blueislandbeerco.com",
+    "phone": "7089548085",
+    "created_at": "2018-07-24 01:33:18.277419",
+    "updated_at": "2018-08-11 21:37:08.325291",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

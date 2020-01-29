@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ober-brewing-llc",
+    "name": "Ober Brewing, LLC.",
+    "brewery_type": "micro",
+    "street": "1443 Lakeside Cir",
+    "city": "Salem",
+    "state": "Virginia",
+    "postal_code": "24153-4144",
+    "website_url": "http://www.oberbrewing.com",
+    "phone": "5403925418",
+    "created_at": "2018-07-24 01:34:26.145016",
+    "updated_at": "2018-08-24 16:29:47.56864",
+    "country": "United States",
+    "longitude": "-80.0302754470699",
+    "latitude": "37.3047441374353",
+    "tags": []
+  },
+  {
+    "id": "olde-salem-brewing-company",
+    "name": "Olde Salem Brewing Company",
+    "brewery_type": "micro",
+    "street": "21 E Main St",
+    "city": "Salem",
+    "state": "Virginia",
+    "postal_code": "24153-3806",
+    "website_url": "http://oldesalembrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:26.270966",
+    "updated_at": "2018-08-24 16:29:57.932348",
+    "country": "United States",
+    "longitude": "-80.040531678569",
+    "latitude": "37.2944017436281",
+    "tags": []
+  },
+  {
+    "id": "parkway-brewing",
+    "name": "Parkway Brewing",
+    "brewery_type": "micro",
+    "street": "739 Kessler Mill Rd",
+    "city": "Salem",
+    "state": "Virginia",
+    "postal_code": "24153-3035",
+    "website_url": "http://www.parkwaybrewing.com",
+    "phone": "5404049810",
+    "created_at": "2018-07-24 01:34:26.332924",
+    "updated_at": "2018-08-24 16:30:02.462208",
+    "country": "United States",
+    "longitude": "-80.0332665005648",
+    "latitude": "37.30925145",
+    "tags": []
+  }
+]

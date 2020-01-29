@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rock-and-run-brewery",
+    "name": "Rock & Run Brewery",
+    "brewery_type": "brewpub",
+    "street": "110 E Kansas St",
+    "city": "Liberty",
+    "state": "Missouri",
+    "postal_code": "64068-2374",
+    "website_url": "http://www.rockandrunbrewery.com",
+    "phone": "8164152337",
+    "created_at": "2018-07-24 01:33:41.605407",
+    "updated_at": "2018-08-24 00:46:43.676137",
+    "country": "United States",
+    "longitude": "-94.4190247",
+    "latitude": "39.2461993",
+    "tags": []
+  }
+]

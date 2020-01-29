@@ -1,0 +1,19 @@
+[
+  {
+    "id": "back-forty-beer-co",
+    "name": "Back Forty Beer Co",
+    "brewery_type": "micro",
+    "street": "200 N 6th St",
+    "city": "Gadsden",
+    "state": "Alabama",
+    "postal_code": "35901-3361",
+    "website_url": "http://www.backfortybeer.com",
+    "phone": "2564674912",
+    "created_at": "2018-07-24 01:32:47.268159",
+    "updated_at": "2018-08-23 23:19:58.654595",
+    "country": "United States",
+    "longitude": "-86.005006",
+    "latitude": "34.016888",
+    "tags": []
+  }
+]

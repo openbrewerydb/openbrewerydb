@@ -1,0 +1,19 @@
+[
+  {
+    "id": "flesk-brewing",
+    "name": "Flesk Brewing",
+    "brewery_type": "micro",
+    "street": "200 Applebee St Ste E",
+    "city": "Barrington",
+    "state": "Illinois",
+    "postal_code": "60010-3063",
+    "website_url": "http://www.fleskbrewing.com",
+    "phone": "2246557291",
+    "created_at": "2018-07-24 01:33:18.8765",
+    "updated_at": "2018-08-11 21:37:10.673208",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

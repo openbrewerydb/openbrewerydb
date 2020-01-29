@@ -1,0 +1,19 @@
+[
+  {
+    "id": "i-and-i-brewing",
+    "name": "I & I Brewing",
+    "brewery_type": "micro",
+    "street": "5135 Edison Ave Ste 1",
+    "city": "Chino",
+    "state": "California",
+    "postal_code": "91710-5773",
+    "website_url": "http://www.iandibrewing.com",
+    "phone": "9095913915",
+    "created_at": "2018-07-24 01:32:56.783153",
+    "updated_at": "2018-08-11 21:36:07.602624",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

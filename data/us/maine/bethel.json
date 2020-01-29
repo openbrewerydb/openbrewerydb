@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sunday-river-brewing-company",
+    "name": "Sunday River Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "29 Sunday River Rd",
+    "city": "Bethel",
+    "state": "Maine",
+    "postal_code": "04217-4623",
+    "website_url": "http://www.sundayriverbrewingcompany.com",
+    "phone": "2078244253",
+    "created_at": "2018-07-24 01:33:28.100852",
+    "updated_at": "2018-08-24 00:40:13.252059",
+    "country": "United States",
+    "longitude": "-70.8096128",
+    "latitude": "44.4483482",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bismarck-brewing",
+    "name": "Bismarck Brewing",
+    "brewery_type": "brewpub",
+    "street": "1100 Canada Ave. Suite 1",
+    "city": "Bismark",
+    "state": "North Dakota",
+    "postal_code": "58503",
+    "website_url": "http://www.bismarckbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:59.043824",
+    "updated_at": "2018-08-11 21:38:54.557538",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

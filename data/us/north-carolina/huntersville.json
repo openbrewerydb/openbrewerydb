@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-in-planning-huntersville",
+    "name": "Brewery In Planning - Huntersville",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Huntersville",
+    "state": "North Carolina",
+    "postal_code": "28078-2344",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:55.476552",
+    "updated_at": "2018-08-11 21:38:46.233148",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "primal-brewery",
+    "name": "Primal Brewery",
+    "brewery_type": "micro",
+    "street": "16432 Old Statesville Rd",
+    "city": "Huntersville",
+    "state": "North Carolina",
+    "postal_code": "28078-7245",
+    "website_url": "http://www.primalbrewery.com",
+    "phone": "7049472920",
+    "created_at": "2018-07-24 01:33:57.847465",
+    "updated_at": "2018-08-24 15:42:30.684984",
+    "country": "United States",
+    "longitude": "-80.8438406803482",
+    "latitude": "35.4360323569646",
+    "tags": []
+  }
+]

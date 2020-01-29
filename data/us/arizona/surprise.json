@@ -1,0 +1,19 @@
+[
+  {
+    "id": "state-48-brewery",
+    "name": "State 48 Brewery",
+    "brewery_type": "brewpub",
+    "street": "13823 W Bell Rd",
+    "city": "Surprise",
+    "state": "Arizona",
+    "postal_code": "85374-3873",
+    "website_url": "",
+    "phone": "6235841095",
+    "created_at": "2018-07-24 01:32:49.995903",
+    "updated_at": "2018-08-23 23:22:41.468157",
+    "country": "United States",
+    "longitude": "-112.357813820157",
+    "latitude": "33.63822125",
+    "tags": []
+  }
+]

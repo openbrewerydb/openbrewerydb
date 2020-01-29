@@ -1,0 +1,19 @@
+[
+  {
+    "id": "idyllwild-brewpub",
+    "name": "Idyllwild Brewpub",
+    "brewery_type": "brewpub",
+    "street": "54423 Village Center Dr",
+    "city": "Idyllwild",
+    "state": "California",
+    "postal_code": "92549",
+    "website_url": "http://www.idyllwildbrewpub.com",
+    "phone": "9516590163",
+    "created_at": "2018-07-24 01:32:56.806946",
+    "updated_at": "2018-08-23 23:29:46.271467",
+    "country": "United States",
+    "longitude": "-116.71129596075",
+    "latitude": "33.7436194950938",
+    "tags": []
+  }
+]

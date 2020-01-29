@@ -1,0 +1,19 @@
+[
+  {
+    "id": "gneiss-brewing",
+    "name": "Gneiss Brewing",
+    "brewery_type": "micro",
+    "street": "94 Patterson Rd",
+    "city": "Limerick",
+    "state": "Maine",
+    "postal_code": "04048-4242",
+    "website_url": "http://www.gneissbeer.com",
+    "phone": "2077930046",
+    "created_at": "2018-07-24 01:33:27.195441",
+    "updated_at": "2018-08-24 00:39:46.522274",
+    "country": "United States",
+    "longitude": "-70.817997472363",
+    "latitude": "43.6483130614011",
+    "tags": []
+  }
+]

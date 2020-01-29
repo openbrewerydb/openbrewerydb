@@ -1,0 +1,19 @@
+[
+  {
+    "id": "twin-creeks-brewing-company",
+    "name": "Twin Creeks Brewing Company",
+    "brewery_type": "micro",
+    "street": "111 S Pollard St",
+    "city": "Vinton",
+    "state": "Virginia",
+    "postal_code": "24179-2414",
+    "website_url": "http://www.twincreeksbrewing.com",
+    "phone": "5404000882",
+    "created_at": "2018-07-24 01:34:27.322832",
+    "updated_at": "2018-08-24 16:31:32.729155",
+    "country": "United States",
+    "longitude": "-79.8974688979592",
+    "latitude": "37.2807514285714",
+    "tags": []
+  }
+]

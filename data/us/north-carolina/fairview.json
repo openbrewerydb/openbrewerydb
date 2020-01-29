@@ -1,0 +1,36 @@
+[
+  {
+    "id": "turgua-brewing-co",
+    "name": "Turgua Brewing Co",
+    "brewery_type": "micro",
+    "street": "27 Firefly Hollow Dr",
+    "city": "Fairview",
+    "state": "North Carolina",
+    "postal_code": "28730-1648",
+    "website_url": "http://www.turguabrewing.com",
+    "phone": "8282220984",
+    "created_at": "2018-07-24 01:33:58.596542",
+    "updated_at": "2018-08-11 21:38:53.422304",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "whistle-hop-brewing-company",
+    "name": "Whistle Hop Brewing Company",
+    "brewery_type": "micro",
+    "street": "1288 Charlotte Hwy",
+    "city": "Fairview",
+    "state": "North Carolina",
+    "postal_code": "28730-8797",
+    "website_url": "http://www.whistlehop.com",
+    "phone": "8283389447",
+    "created_at": "2018-07-24 01:33:58.797844",
+    "updated_at": "2018-08-24 15:43:03.638535",
+    "country": "United States",
+    "longitude": "-82.416930726649",
+    "latitude": "35.523144129188",
+    "tags": []
+  }
+]

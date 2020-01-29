@@ -1,0 +1,19 @@
+[
+  {
+    "id": "coronado-brewing-co",
+    "name": "Coronado Brewing Co",
+    "brewery_type": "regional",
+    "street": "170 Orange Ave",
+    "city": "Coronado",
+    "state": "California",
+    "postal_code": "92118-1409",
+    "website_url": "http://www.coronadobrewingcompany.com",
+    "phone": "6194374452",
+    "created_at": "2018-07-24 01:32:54.056824",
+    "updated_at": "2018-08-23 23:26:59.185998",
+    "country": "United States",
+    "longitude": "-117.1791416",
+    "latitude": "32.6873641",
+    "tags": []
+  }
+]

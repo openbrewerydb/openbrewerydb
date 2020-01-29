@@ -1,0 +1,19 @@
+[
+  {
+    "id": "reverie-brewing-company",
+    "name": "Reverie Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Newtown",
+    "state": "Connecticut",
+    "postal_code": "06470",
+    "website_url": "http://reveriebrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:10.065553",
+    "updated_at": "2018-08-11 21:36:47.407688",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "new-england-brewing-co",
+    "name": "New England Brewing Co",
+    "brewery_type": "micro",
+    "street": "175 Amity Rd",
+    "city": "Woodbridge",
+    "state": "Connecticut",
+    "postal_code": "06525-2201",
+    "website_url": "http://www.newenglandbrewing.com",
+    "phone": "2033872222",
+    "created_at": "2018-07-24 01:33:09.896526",
+    "updated_at": "2018-08-24 00:25:44.581818",
+    "country": "United States",
+    "longitude": "-72.980464057841",
+    "latitude": "41.3385894166302",
+    "tags": []
+  }
+]

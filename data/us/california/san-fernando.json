@@ -1,0 +1,19 @@
+[
+  {
+    "id": "san-fernando-brewing-co",
+    "name": "San Fernando Brewing Co.",
+    "brewery_type": "micro",
+    "street": "425 Park Ave",
+    "city": "San Fernando",
+    "state": "California",
+    "postal_code": "91340-2525",
+    "website_url": "http://www.sanfernandobrewingcompany.com",
+    "phone": "8187456175",
+    "created_at": "2018-07-24 01:33:00.420975",
+    "updated_at": "2018-08-24 00:01:58.428621",
+    "country": "United States",
+    "longitude": "-118.432206748452",
+    "latitude": "34.2828803013451",
+    "tags": []
+  }
+]

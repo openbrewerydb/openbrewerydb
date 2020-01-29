@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ammo-brewing",
+    "name": "Ammo Brewing",
+    "brewery_type": "micro",
+    "street": "235 N Market St",
+    "city": "Petersburg",
+    "state": "Virginia",
+    "postal_code": "23803-3207",
+    "website_url": "http://www.ammobrewing.com",
+    "phone": "8047221667",
+    "created_at": "2018-07-24 01:34:24.009342",
+    "updated_at": "2018-08-24 16:26:57.98601",
+    "country": "United States",
+    "longitude": "-77.407177",
+    "latitude": "37.230765",
+    "tags": []
+  },
+  {
+    "id": "trapezium-brewing-company",
+    "name": "Trapezium Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "423 3rd St",
+    "city": "Petersburg",
+    "state": "Virginia",
+    "postal_code": "23803-",
+    "website_url": "http://www.trapeziumbrewing.com",
+    "phone": "8046775728",
+    "created_at": "2018-07-24 01:34:27.270234",
+    "updated_at": "2018-08-24 16:31:28.002984",
+    "country": "United States",
+    "longitude": "-77.4014401020408",
+    "latitude": "37.2334866326531",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "morgan-ridge-railwalk-brewery-and-eatery",
+    "name": "Morgan Ridge Railwalk Brewery & Eatery",
+    "brewery_type": "brewpub",
+    "street": "421 N Lee St",
+    "city": "Salisbury",
+    "state": "North Carolina",
+    "postal_code": "28144-4424",
+    "website_url": "http://www.morganridgerailwalk.com",
+    "phone": "7047548379",
+    "created_at": "2018-07-24 01:33:57.268035",
+    "updated_at": "2018-08-24 15:42:14.343553",
+    "country": "United States",
+    "longitude": "-80.4651030558603",
+    "latitude": "35.6692005139709",
+    "tags": []
+  },
+  {
+    "id": "new-sarum-brewing",
+    "name": "New Sarum Brewing",
+    "brewery_type": "micro",
+    "street": "109 N Lee St",
+    "city": "Salisbury",
+    "state": "North Carolina",
+    "postal_code": "28144",
+    "website_url": "http://www.newsarumbrewing.com",
+    "phone": "7043105048",
+    "created_at": "2018-07-24 01:33:57.479637",
+    "updated_at": "2018-08-24 15:42:20.567146",
+    "country": "United States",
+    "longitude": "-80.468531625012",
+    "latitude": "35.6665272792247",
+    "tags": []
+  }
+]

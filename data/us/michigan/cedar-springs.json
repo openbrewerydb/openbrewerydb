@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cedar-springs-brewing-company",
+    "name": "Cedar Springs Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "95 N Main # 34",
+    "city": "Cedar Springs",
+    "state": "Michigan",
+    "postal_code": "49319-5140",
+    "website_url": "http://www.CSBrew.com",
+    "phone": "616696",
+    "created_at": "2018-07-24 01:33:33.610588",
+    "updated_at": "2018-08-11 21:37:47.404111",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "paradune-brewing-company",
+    "name": "Paradune Brewing Company",
+    "brewery_type": "micro",
+    "street": "20707 Township Rd 119",
+    "city": "Belle Center",
+    "state": "Ohio",
+    "postal_code": "43310",
+    "website_url": "http://www.paradunebrewing.com",
+    "phone": "9375891730",
+    "created_at": "2018-07-24 01:34:02.348861",
+    "updated_at": "2018-08-11 21:39:02.810533",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

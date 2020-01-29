@@ -1,0 +1,19 @@
+[
+  {
+    "id": "white-street-brewing-company-production-facility",
+    "name": "White Street Brewing Company - Production Facility",
+    "brewery_type": "micro",
+    "street": "400 Park Ave",
+    "city": "Youngsville",
+    "state": "North Carolina",
+    "postal_code": "27596-8688",
+    "website_url": "",
+    "phone": "9196479439",
+    "created_at": "2018-07-24 01:33:58.852308",
+    "updated_at": "2018-08-24 15:43:05.510337",
+    "country": "United States",
+    "longitude": "-78.4861061647568",
+    "latitude": "36.0396084799379",
+    "tags": []
+  }
+]

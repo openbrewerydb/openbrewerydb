@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cross-country-brewing",
+    "name": "Cross Country Brewing",
+    "brewery_type": "micro",
+    "street": "320 E Allard St",
+    "city": "Glendive",
+    "state": "Montana",
+    "postal_code": "59330-2719",
+    "website_url": "",
+    "phone": "4063772739",
+    "created_at": "2018-07-24 01:33:42.457184",
+    "updated_at": "2018-08-24 00:47:06.706413",
+    "country": "United States",
+    "longitude": "-104.70579",
+    "latitude": "47.11209",
+    "tags": []
+  }
+]

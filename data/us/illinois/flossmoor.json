@@ -1,0 +1,19 @@
+[
+  {
+    "id": "flossmoor-station-brewing-co",
+    "name": "Flossmoor Station Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1035 Sterling Ave",
+    "city": "Flossmoor",
+    "state": "Illinois",
+    "postal_code": "60422-1252",
+    "website_url": "http://www.flossmoorstation.com",
+    "phone": "7089572739",
+    "created_at": "2018-07-24 01:33:18.889806",
+    "updated_at": "2018-08-24 00:30:59.116984",
+    "country": "United States",
+    "longitude": "-87.6786946530612",
+    "latitude": "41.5433885510204",
+    "tags": []
+  }
+]

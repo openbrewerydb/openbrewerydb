@@ -1,0 +1,19 @@
+[
+  {
+    "id": "les-cheneaux-distillers",
+    "name": "Les Cheneaux Distillers",
+    "brewery_type": "brewpub",
+    "street": "172 S Meridian St",
+    "city": "Cedarville",
+    "state": "Michigan",
+    "postal_code": "49719",
+    "website_url": "http://www.lescheneauxdistillers.com",
+    "phone": "9064841213",
+    "created_at": "2018-07-24 01:33:35.247208",
+    "updated_at": "2018-08-24 00:43:26.5104",
+    "country": "United States",
+    "longitude": "-84.3630108872417",
+    "latitude": "45.9974272430432",
+    "tags": []
+  }
+]

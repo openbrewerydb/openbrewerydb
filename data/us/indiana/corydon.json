@@ -1,0 +1,19 @@
+[
+  {
+    "id": "point-blank-brewing-company",
+    "name": "Point Blank Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "105 E Beaver St",
+    "city": "Corydon",
+    "state": "Indiana",
+    "postal_code": "47112-1146",
+    "website_url": "http://www.pointblankbrewing.com",
+    "phone": "8122255141",
+    "created_at": "2018-07-24 01:33:22.63099",
+    "updated_at": "2018-08-24 00:33:14.333932",
+    "country": "United States",
+    "longitude": "-86.1261640764361",
+    "latitude": "38.2111144813465",
+    "tags": []
+  }
+]

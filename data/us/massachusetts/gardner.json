@@ -1,0 +1,19 @@
+[
+  {
+    "id": "moon-hill-brewing-co-inc",
+    "name": "Moon Hill Brewing Co., Inc.",
+    "brewery_type": "brewpub",
+    "street": "74 Parker St",
+    "city": "Gardner",
+    "state": "Massachusetts",
+    "postal_code": "01440-3809",
+    "website_url": "http://www.gardnerale.com",
+    "phone": "9786690122",
+    "created_at": "2018-07-24 01:33:31.494696",
+    "updated_at": "2018-08-24 00:41:33.151172",
+    "country": "United States",
+    "longitude": "-71.997003",
+    "latitude": "42.5759013333333",
+    "tags": []
+  }
+]

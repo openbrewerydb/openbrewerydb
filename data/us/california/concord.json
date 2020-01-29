@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ej-phair-brewing-co",
+    "name": "E.J. Phair Brewing Co",
+    "brewery_type": "micro",
+    "street": "2151 Salvio St Ste L",
+    "city": "Concord",
+    "state": "California",
+    "postal_code": "94520-2470",
+    "website_url": "http://www.ejphair.com",
+    "phone": "9256804253",
+    "created_at": "2018-07-24 01:32:54.765229",
+    "updated_at": "2018-08-11 21:36:02.140936",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "epidemic-ales",
+    "name": "Epidemic Ales",
+    "brewery_type": "micro",
+    "street": "150 Mason Circle Stes I&J",
+    "city": "Concord",
+    "state": "California",
+    "postal_code": "94520",
+    "website_url": "http://www.epidemicales.com",
+    "phone": "9255668850",
+    "created_at": "2018-07-24 01:32:55.106907",
+    "updated_at": "2018-08-11 21:36:02.866107",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

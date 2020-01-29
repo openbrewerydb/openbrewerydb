@@ -1,0 +1,36 @@
+[
+  {
+    "id": "alvarium-beer-company",
+    "name": "Alvarium Beer Company",
+    "brewery_type": "micro",
+    "street": "365 John Downey Dr Ste B",
+    "city": "New Britain",
+    "state": "Connecticut",
+    "postal_code": "06051-2922",
+    "website_url": "http://www.alvariumbeer.com",
+    "phone": "8603572039",
+    "created_at": "2018-07-24 01:33:09.020592",
+    "updated_at": "2018-08-11 21:36:44.941321",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "five-churches-brewing",
+    "name": "Five Churches Brewing",
+    "brewery_type": "brewpub",
+    "street": "193 Arch St",
+    "city": "New Britain",
+    "state": "Connecticut",
+    "postal_code": "06051-2516",
+    "website_url": "http://www.facebook.com/FiveChurchesBrewing",
+    "phone": "8602238080",
+    "created_at": "2018-07-24 01:33:09.580065",
+    "updated_at": "2018-08-24 00:25:37.183033",
+    "country": "United States",
+    "longitude": "-72.782706",
+    "latitude": "41.662994",
+    "tags": []
+  }
+]

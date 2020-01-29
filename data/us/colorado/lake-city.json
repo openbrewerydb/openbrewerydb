@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lake-city-brewing-company",
+    "name": "Lake City Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "130 Bluff St",
+    "city": "Lake City",
+    "state": "Colorado",
+    "postal_code": "81235",
+    "website_url": "http://www.lcbrewco.com",
+    "phone": "9709445222",
+    "created_at": "2018-07-24 01:33:06.223681",
+    "updated_at": "2018-08-24 00:23:37.008714",
+    "country": "United States",
+    "longitude": "-107.319133465444",
+    "latitude": "38.0272948560266",
+    "tags": []
+  }
+]

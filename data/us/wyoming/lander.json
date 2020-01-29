@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lander-brewing-co",
+    "name": "Lander Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "148 Main St",
+    "city": "Lander",
+    "state": "Wyoming",
+    "postal_code": "82520-3126",
+    "website_url": "http://www.landerbrewing.com",
+    "phone": "3073328227",
+    "created_at": "2018-07-24 01:34:37.462939",
+    "updated_at": "2018-08-24 16:46:51.207701",
+    "country": "United States",
+    "longitude": "-108.739316",
+    "latitude": "42.8348632",
+    "tags": []
+  }
+]

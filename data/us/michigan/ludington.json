@@ -1,0 +1,53 @@
+[
+  {
+    "id": "jamesport-brewing-co",
+    "name": "Jamesport Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "410 S James St",
+    "city": "Ludington",
+    "state": "Michigan",
+    "postal_code": "49431-2159",
+    "website_url": "http://www.jamesportbrewingcompany.com",
+    "phone": "2318452522",
+    "created_at": "2018-07-24 01:33:34.960046",
+    "updated_at": "2018-08-24 00:43:17.180508",
+    "country": "United States",
+    "longitude": "-86.447873020905",
+    "latitude": "43.9516856656598",
+    "tags": []
+  },
+  {
+    "id": "ludington-bay-brewing-co",
+    "name": "Ludington Bay Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "515 S James St",
+    "city": "Ludington",
+    "state": "Michigan",
+    "postal_code": "49431-2325",
+    "website_url": "http://ludingtonbaybrewing.com",
+    "phone": "2312396690",
+    "created_at": "2018-07-24 01:33:35.375061",
+    "updated_at": "2018-08-24 00:43:30.822031",
+    "country": "United States",
+    "longitude": "-86.4476341529186",
+    "latitude": "43.9507021444157",
+    "tags": []
+  },
+  {
+    "id": "starving-artist-brewing",
+    "name": "Starving Artist Brewing",
+    "brewery_type": "micro",
+    "street": "634 S Stiles Rd",
+    "city": "Ludington",
+    "state": "Michigan",
+    "postal_code": "49431-9311",
+    "website_url": "http://starvingartist.beer",
+    "phone": "2317941399",
+    "created_at": "2018-07-24 01:33:36.705354",
+    "updated_at": "2018-08-11 21:37:56.62651",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

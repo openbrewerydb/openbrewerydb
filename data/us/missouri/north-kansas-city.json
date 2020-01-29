@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cinder-block-brewery",
+    "name": "Cinder Block Brewery",
+    "brewery_type": "brewpub",
+    "street": "110 E 18th Ave",
+    "city": "North Kansas City",
+    "state": "Missouri",
+    "postal_code": "64116-3635",
+    "website_url": "http://www.cinderblockbrewery.com",
+    "phone": "8165608365",
+    "created_at": "2018-07-24 01:33:40.821851",
+    "updated_at": "2018-08-24 00:46:20.410864",
+    "country": "United States",
+    "longitude": "-94.5794652075528",
+    "latitude": "39.1403371573456",
+    "tags": []
+  },
+  {
+    "id": "big-rip-brewing-company",
+    "name": "Big Rip Brewing Company",
+    "brewery_type": "micro",
+    "street": "216 E 9th Ave",
+    "city": "North Kansas City",
+    "state": "Missouri",
+    "postal_code": "64116-4315",
+    "website_url": "http://www.bigripbrewing.com",
+    "phone": "8168660747",
+    "created_at": "2018-07-24 01:33:40.526572",
+    "updated_at": "2018-08-24 00:46:12.984766",
+    "country": "United States",
+    "longitude": "-94.57786",
+    "latitude": "39.1261133",
+    "tags": []
+  }
+]

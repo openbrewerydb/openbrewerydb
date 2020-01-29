@@ -1,0 +1,19 @@
+[
+  {
+    "id": "four-mile-brewing",
+    "name": "Four Mile Brewing",
+    "brewery_type": "micro",
+    "street": "202 E Green St",
+    "city": "Olean",
+    "state": "New York",
+    "postal_code": "14760-3606",
+    "website_url": "http://www.fourmilebrewing.com",
+    "phone": "7163732337",
+    "created_at": "2018-07-24 01:33:51.045602",
+    "updated_at": "2018-08-11 21:38:34.506342",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "burnin-daylight-brewing-company",
+    "name": "Burnin Daylight Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Lomita",
+    "state": "California",
+    "postal_code": "90717",
+    "website_url": "",
+    "phone": "3107417621",
+    "created_at": "2018-07-24 01:32:53.453016",
+    "updated_at": "2018-08-23 23:26:21.106523",
+    "country": "United States",
+    "longitude": "-118.3195014",
+    "latitude": "33.8036545",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "troegs-brewing-co",
+    "name": "Troegs Brewing Co",
+    "brewery_type": "regional",
+    "street": "200 E Hershey Park Dr",
+    "city": "Hershey",
+    "state": "Pennsylvania",
+    "postal_code": "17033-2719",
+    "website_url": "http://www.troegs.com",
+    "phone": "7175341297",
+    "created_at": "2018-07-24 01:34:13.236917",
+    "updated_at": "2018-08-11 21:39:32.760892",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

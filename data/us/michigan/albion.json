@@ -1,0 +1,19 @@
+[
+  {
+    "id": "albion-malleable-brewing-company",
+    "name": "Albion Malleable Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "420 S Superior St",
+    "city": "Albion",
+    "state": "Michigan",
+    "postal_code": "49224",
+    "website_url": "http://www.albionmalleable.com",
+    "phone": "5173432202",
+    "created_at": "2018-07-24 01:33:32.538756",
+    "updated_at": "2018-08-24 00:42:01.479013",
+    "country": "United States",
+    "longitude": "-84.7532755",
+    "latitude": "42.2423188",
+    "tags": []
+  }
+]

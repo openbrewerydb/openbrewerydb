@@ -1,0 +1,36 @@
+[
+  {
+    "id": "fetching-lab-brewing-co",
+    "name": "Fetching Lab Brewing Co.",
+    "brewery_type": "micro",
+    "street": "1578 County Road 423 Suite B",
+    "city": "Alvin",
+    "state": "Texas",
+    "postal_code": "77511",
+    "website_url": "http://www.fetchinglabbrewery@gmail.com",
+    "phone": "2814147355",
+    "created_at": "2018-07-24 01:34:19.129012",
+    "updated_at": "2018-08-11 21:39:49.243498",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "gordon-street-tavern",
+    "name": "Gordon Street Tavern",
+    "brewery_type": "brewpub",
+    "street": "114 N Gordon St",
+    "city": "Alvin",
+    "state": "Texas",
+    "postal_code": "77511-2331",
+    "website_url": "http://www.gordonstreettavern.com",
+    "phone": "2819687402",
+    "created_at": "2018-07-24 01:34:19.46981",
+    "updated_at": "2018-08-24 16:20:52.179922",
+    "country": "United States",
+    "longitude": "-95.2439868476612",
+    "latitude": "29.4240309728195",
+    "tags": []
+  }
+]

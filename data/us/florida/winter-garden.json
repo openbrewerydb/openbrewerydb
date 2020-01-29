@@ -1,0 +1,19 @@
+[
+  {
+    "id": "crooked-can-brewing-co",
+    "name": "Crooked Can Brewing Co",
+    "brewery_type": "micro",
+    "street": "426 W Plant St",
+    "city": "Winter Garden",
+    "state": "Florida",
+    "postal_code": "34787-3014",
+    "website_url": "http://www.crookedcan.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:12.335936",
+    "updated_at": "2018-08-24 00:26:56.677251",
+    "country": "United States",
+    "longitude": "-81.590376",
+    "latitude": "28.5639024",
+    "tags": []
+  }
+]

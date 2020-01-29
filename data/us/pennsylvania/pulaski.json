@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brew-32",
+    "name": "Brew 32",
+    "brewery_type": "brewpub",
+    "street": "1474 State Route 208",
+    "city": "Pulaski",
+    "state": "Pennsylvania",
+    "postal_code": "16143-4308",
+    "website_url": "http://Www.brew32craft.com",
+    "phone": "7242528464",
+    "created_at": "2018-07-24 01:34:09.241206",
+    "updated_at": "2018-08-11 21:39:23.521644",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

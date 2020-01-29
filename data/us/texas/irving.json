@@ -1,0 +1,36 @@
+[
+  {
+    "id": "intervention-brewing-company-llc",
+    "name": "Intervention Brewing Company, LLC",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Irving",
+    "state": "Texas",
+    "postal_code": "75061-8826",
+    "website_url": "",
+    "phone": "2147633070",
+    "created_at": "2018-07-24 01:34:19.864455",
+    "updated_at": "2018-08-11 21:39:51.215414",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "twin-peaks-brewery",
+    "name": "Twin Peaks Brewery",
+    "brewery_type": "micro",
+    "street": "1500 Market Place Blvd",
+    "city": "Irving",
+    "state": "Texas",
+    "postal_code": "75063",
+    "website_url": "http://twinpeaksrestaurants.com/brewery",
+    "phone": "4699642921",
+    "created_at": "2018-07-24 01:34:21.962897",
+    "updated_at": "2018-08-24 16:24:06.317115",
+    "country": "United States",
+    "longitude": "-96.9676726585957",
+    "latitude": "32.91862635",
+    "tags": []
+  }
+]

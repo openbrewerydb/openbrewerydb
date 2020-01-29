@@ -1,0 +1,19 @@
+[
+  {
+    "id": "aspen-brewing-company",
+    "name": "Aspen Brewing Company",
+    "brewery_type": "micro",
+    "street": "404 Aspen Airport Business Ctr",
+    "city": "Aspen",
+    "state": "Colorado",
+    "postal_code": "81611-3530",
+    "website_url": "http://www.aspenbrewingcompany.com",
+    "phone": "9709202739",
+    "created_at": "2018-07-24 01:33:03.513755",
+    "updated_at": "2018-08-24 00:05:28.819794",
+    "country": "United States",
+    "longitude": "-106.859774744915",
+    "latitude": "39.2215340164332",
+    "tags": []
+  }
+]

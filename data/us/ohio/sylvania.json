@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brubakers-brewery-and-pub",
+    "name": "Brubaker's Brewery & Pub",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Sylvania",
+    "state": "Ohio",
+    "postal_code": "43560-9586",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:00.09593",
+    "updated_at": "2018-08-11 21:38:57.224061",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "inside-the-five-brewing",
+    "name": "Inside The Five Brewing",
+    "brewery_type": "brewpub",
+    "street": "5703 Main St",
+    "city": "Sylvania",
+    "state": "Ohio",
+    "postal_code": "43560-4901",
+    "website_url": "http://www.insidethefive.com",
+    "phone": "5674087212",
+    "created_at": "2018-07-24 01:34:01.256439",
+    "updated_at": "2018-08-24 15:44:11.117165",
+    "country": "United States",
+    "longitude": "-83.7032814897959",
+    "latitude": "41.7172650204082",
+    "tags": []
+  },
+  {
+    "id": "upside-brewing",
+    "name": "Upside Brewing",
+    "brewery_type": "brewpub",
+    "street": "5692 N Main St",
+    "city": "Sylvania",
+    "state": "Ohio",
+    "postal_code": "43560-1928",
+    "website_url": "http://www.facebook.com/UpsideBrewing",
+    "phone": "4198826061",
+    "created_at": "2018-07-24 01:34:03.52024",
+    "updated_at": "2018-08-11 21:39:06.493882",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

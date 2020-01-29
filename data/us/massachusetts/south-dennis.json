@@ -1,0 +1,19 @@
+[
+  {
+    "id": "devils-purse-brewing-co",
+    "name": "Devil's Purse Brewing Co",
+    "brewery_type": "micro",
+    "street": "120 Great Western Rd",
+    "city": "South Dennis",
+    "state": "Massachusetts",
+    "postal_code": "02660-3715",
+    "website_url": "http://www.devilspurse.com",
+    "phone": "5086947171",
+    "created_at": "2018-07-24 01:33:30.886052",
+    "updated_at": "2018-08-24 00:41:16.421965",
+    "country": "United States",
+    "longitude": "-70.1416854",
+    "latitude": "41.6885379",
+    "tags": []
+  }
+]

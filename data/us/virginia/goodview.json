@@ -1,0 +1,19 @@
+[
+  {
+    "id": "white-rock-vineyards-and-winery",
+    "name": "White Rock Vineyards & Winery",
+    "brewery_type": "micro",
+    "street": "2117 Bruno Dr",
+    "city": "Goodview",
+    "state": "Virginia",
+    "postal_code": "24095-2974",
+    "website_url": "http://www.whiterockwines.com",
+    "phone": "5408903359",
+    "created_at": "2018-07-24 01:34:27.483551",
+    "updated_at": "2018-08-24 16:31:44.656274",
+    "country": "United States",
+    "longitude": "-79.707972306195",
+    "latitude": "37.2314528897223",
+    "tags": []
+  }
+]

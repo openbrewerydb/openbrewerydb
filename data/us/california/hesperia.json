@@ -1,0 +1,36 @@
+[
+  {
+    "id": "desert-barn-brewing-co",
+    "name": "Desert Barn Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "11352 Hesperia Rd Ste B",
+    "city": "Hesperia",
+    "state": "California",
+    "postal_code": "92345-2165",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:54.368563",
+    "updated_at": "2018-08-11 21:36:01.085634",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "oak-hills-brewing",
+    "name": "Oak Hills Brewing",
+    "brewery_type": "micro",
+    "street": "12221 Poplar St Ste 3",
+    "city": "Hesperia",
+    "state": "California",
+    "postal_code": "92344-9287",
+    "website_url": "http://www.oakhillsbrewing.com",
+    "phone": "7602448278",
+    "created_at": "2018-07-24 01:32:58.825462",
+    "updated_at": "2018-08-11 21:36:14.67634",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

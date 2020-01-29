@@ -1,0 +1,19 @@
+[
+  {
+    "id": "roslyn-brewing-co",
+    "name": "Roslyn Brewing Co",
+    "brewery_type": "micro",
+    "street": "208 W Pennsylvania Ave",
+    "city": "Roslyn",
+    "state": "Washington",
+    "postal_code": "98941-0024",
+    "website_url": "http://www.roslynbrewng.com",
+    "phone": "5096492232",
+    "created_at": "2018-07-24 01:34:32.603296",
+    "updated_at": "2018-08-24 16:38:58.054245",
+    "country": "United States",
+    "longitude": "-120.99472475205",
+    "latitude": "47.2222870970745",
+    "tags": []
+  }
+]

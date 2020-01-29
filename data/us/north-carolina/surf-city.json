@@ -1,0 +1,19 @@
+[
+  {
+    "id": "salty-turtle-beer-company",
+    "name": "Salty Turtle Beer Company",
+    "brewery_type": "micro",
+    "street": "103 Triton Ln",
+    "city": "Surf City",
+    "state": "North Carolina",
+    "postal_code": "28445",
+    "website_url": "http://www.saltyturtlebeer.com",
+    "phone": "9108032019",
+    "created_at": "2018-07-24 01:33:57.982309",
+    "updated_at": "2018-08-11 21:38:52.066962",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

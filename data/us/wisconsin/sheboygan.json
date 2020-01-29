@@ -1,0 +1,36 @@
+[
+  {
+    "id": "3-sheeps-brewing-co",
+    "name": "3 Sheeps Brewing Co",
+    "brewery_type": "micro",
+    "street": "1837 North Ave",
+    "city": "Sheboygan",
+    "state": "Wisconsin",
+    "postal_code": "53083-4620",
+    "website_url": "http://www.3sheepsbrewing.com",
+    "phone": "9209469715",
+    "created_at": "2018-07-24 01:34:34.406624",
+    "updated_at": "2018-08-24 16:41:46.799861",
+    "country": "United States",
+    "longitude": "-87.730065244898",
+    "latitude": "43.7738456122449",
+    "tags": []
+  },
+  {
+    "id": "8th-street-ale-haus",
+    "name": "8th Street Ale Haus",
+    "brewery_type": "brewpub",
+    "street": "1132 N 8th St",
+    "city": "Sheboygan",
+    "state": "Wisconsin",
+    "postal_code": "53081-3402",
+    "website_url": "http://www.sheboyganalehaus.com",
+    "phone": "9202087540",
+    "created_at": "2018-07-24 01:34:34.448893",
+    "updated_at": "2018-08-24 16:41:49.804785",
+    "country": "United States",
+    "longitude": "-87.7130570204082",
+    "latitude": "43.7567439183673",
+    "tags": []
+  }
+]

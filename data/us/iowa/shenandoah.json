@@ -1,0 +1,19 @@
+[
+  {
+    "id": "depot-deli-and-lounge",
+    "name": "Depot Deli and Lounge",
+    "brewery_type": "brewpub",
+    "street": "101 N Railroad St",
+    "city": "Shenandoah",
+    "state": "Iowa",
+    "postal_code": "51601-1158",
+    "website_url": "http://www.depotdeli.com",
+    "phone": "7122464444",
+    "created_at": "2018-07-24 01:33:23.61964",
+    "updated_at": "2018-08-24 00:33:57.114794",
+    "country": "United States",
+    "longitude": "-95.376823",
+    "latitude": "40.765042",
+    "tags": []
+  }
+]

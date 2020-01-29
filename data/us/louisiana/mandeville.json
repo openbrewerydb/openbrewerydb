@@ -1,0 +1,36 @@
+[
+  {
+    "id": "old-rail-brewing-co",
+    "name": "Old Rail Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "639 Girod St",
+    "city": "Mandeville",
+    "state": "Louisiana",
+    "postal_code": "70448-5205",
+    "website_url": "http://www.oldrailbrewing.com",
+    "phone": "9856121828",
+    "created_at": "2018-07-24 01:33:26.417525",
+    "updated_at": "2018-08-24 00:39:19.016089",
+    "country": "United States",
+    "longitude": "-90.063861064483",
+    "latitude": "30.3598546551569",
+    "tags": []
+  },
+  {
+    "id": "chafunkta-brewing-co",
+    "name": "Chafunkta Brewing Co",
+    "brewery_type": "micro",
+    "street": "69123 Skybrook Rd. STE E",
+    "city": "Mandeville",
+    "state": "Louisiana",
+    "postal_code": "70471-7777",
+    "website_url": "http://www.chafunkta.com",
+    "phone": "9858690716",
+    "created_at": "2018-07-24 01:33:26.17647",
+    "updated_at": "2018-08-11 21:37:28.877337",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

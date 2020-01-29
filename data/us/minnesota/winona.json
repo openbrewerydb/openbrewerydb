@@ -1,0 +1,19 @@
+[
+  {
+    "id": "island-city-brewing-company",
+    "name": "Island City Brewing Company",
+    "brewery_type": "micro",
+    "street": "65 E Front St",
+    "city": "Winona",
+    "state": "Minnesota",
+    "postal_code": "55987-3494",
+    "website_url": "http://www.islandcitybrew.com",
+    "phone": "5074742739",
+    "created_at": "2018-07-24 01:33:38.872283",
+    "updated_at": "2018-08-24 00:45:24.537212",
+    "country": "United States",
+    "longitude": "-91.6347432981994",
+    "latitude": "44.053748",
+    "tags": []
+  }
+]

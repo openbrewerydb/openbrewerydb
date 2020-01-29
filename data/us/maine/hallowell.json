@@ -1,0 +1,19 @@
+[
+  {
+    "id": "liberal-cup-public-house-and-brewery",
+    "name": "Liberal Cup Public House and Brewery",
+    "brewery_type": "brewpub",
+    "street": "115 Water St",
+    "city": "Hallowell",
+    "state": "Maine",
+    "postal_code": "04347-1357",
+    "website_url": "http://www.theliberalcup.com",
+    "phone": "2076232739",
+    "created_at": "2018-07-24 01:33:27.38444",
+    "updated_at": "2018-08-24 00:39:53.029261",
+    "country": "United States",
+    "longitude": "-69.7901306835835",
+    "latitude": "44.2868199627939",
+    "tags": []
+  }
+]

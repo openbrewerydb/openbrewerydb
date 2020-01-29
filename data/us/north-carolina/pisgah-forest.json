@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ecusta-brewing-co",
+    "name": "Ecusta Brewing Co",
+    "brewery_type": "micro",
+    "street": "49 Pisgah Hwy Ste 3",
+    "city": "Pisgah Forest ",
+    "state": "North Carolina",
+    "postal_code": "28768",
+    "website_url": "http://www.ecustabrewing.com",
+    "phone": "8289662337",
+    "created_at": "2018-07-24 01:33:56.047285",
+    "updated_at": "2018-08-11 21:38:47.539673",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "ecusta-brewing-co-drift-taproom",
+    "name": "Ecusta Brewing Co - Drift Taproom",
+    "brewery_type": "micro",
+    "street": "49 Pisgah Hwy",
+    "city": "Pisgah Forest",
+    "state": "North Carolina",
+    "postal_code": "28768-8817",
+    "website_url": "",
+    "phone": "8289662337",
+    "created_at": "2018-07-24 01:33:56.061737",
+    "updated_at": "2018-08-11 21:38:47.569061",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

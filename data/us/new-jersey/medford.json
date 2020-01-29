@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lower-forge-brewery",
+    "name": "Lower Forge Brewery",
+    "brewery_type": "micro",
+    "street": "14 S Main St",
+    "city": "Medford",
+    "state": "New Jersey",
+    "postal_code": "08055-2414",
+    "website_url": "http://www.lowerforge.com",
+    "phone": "6099759532",
+    "created_at": "2018-07-24 01:33:47.09732",
+    "updated_at": "2018-08-24 15:36:58.210462",
+    "country": "United States",
+    "longitude": "-74.8236255591221",
+    "latitude": "39.8990962932246",
+    "tags": []
+  },
+  {
+    "id": "nale-house-brewing-co",
+    "name": "Nale House Brewing Co",
+    "brewery_type": "micro",
+    "street": "32 N Main St",
+    "city": "Medford",
+    "state": "New Jersey",
+    "postal_code": "08055-2412",
+    "website_url": "http://www.nalehousebrewing.com",
+    "phone": "6097607246",
+    "created_at": "2018-07-24 01:33:47.206408",
+    "updated_at": "2018-08-24 15:37:01.561011",
+    "country": "United States",
+    "longitude": "-74.8236212076653",
+    "latitude": "39.900720148419",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mancos-brewing-company",
+    "name": "Mancos Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "484 E. Frontage Rd",
+    "city": "Mancos",
+    "state": "Colorado",
+    "postal_code": "81328-9079",
+    "website_url": "http://www.mancosbrewingcompany.com",
+    "phone": "9705339761",
+    "created_at": "2018-07-24 01:33:06.4764",
+    "updated_at": "2018-08-11 21:36:38.534177",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

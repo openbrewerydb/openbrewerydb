@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bertrams-salmon-valley-brewery",
+    "name": "Bertrams Salmon Valley Brewery",
+    "brewery_type": "brewpub",
+    "street": "101 S Andrews St",
+    "city": "Salmon",
+    "state": "Idaho",
+    "postal_code": "83467-4246",
+    "website_url": "http://www.bertramsbrewery.com",
+    "phone": "2087563391",
+    "created_at": "2018-07-24 01:33:17.099017",
+    "updated_at": "2018-08-24 00:29:53.869322",
+    "country": "United States",
+    "longitude": "-113.893655",
+    "latitude": "45.174557",
+    "tags": []
+  }
+]

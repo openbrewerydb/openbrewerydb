@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lord-hobo-brewing-co",
+    "name": "Lord Hobo Brewing Co",
+    "brewery_type": "regional",
+    "street": "5 Draper St",
+    "city": "Woburn",
+    "state": "Massachusetts",
+    "postal_code": "01801-4521",
+    "website_url": "http://lordhobobrewing.com",
+    "phone": "7812810809",
+    "created_at": "2018-07-24 01:33:31.346249",
+    "updated_at": "2018-08-24 00:41:29.437005",
+    "country": "United States",
+    "longitude": "-71.1289231911404",
+    "latitude": "42.47603755",
+    "tags": []
+  }
+]

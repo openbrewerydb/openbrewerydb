@@ -1,0 +1,19 @@
+[
+  {
+    "id": "river-time-brewing",
+    "name": "River Time Brewing",
+    "brewery_type": "brewpub",
+    "street": "660 Emens Ave N",
+    "city": "Darrington",
+    "state": "Washington",
+    "postal_code": "98241",
+    "website_url": "http://www.rivertimebrewing.com",
+    "phone": "2674837411",
+    "created_at": "2018-07-24 01:34:32.478692",
+    "updated_at": "2018-08-24 16:38:44.539908",
+    "country": "United States",
+    "longitude": "-121.602040168904",
+    "latitude": "48.2490529141241",
+    "tags": []
+  }
+]

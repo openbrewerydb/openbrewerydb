@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cape-ann-lanes",
+    "name": "Cape Ann Lanes",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Gloucester",
+    "state": "Massachusetts",
+    "postal_code": "01930-2256",
+    "website_url": "",
+    "phone": "9788799714",
+    "created_at": "2018-07-24 01:33:30.696158",
+    "updated_at": "2018-08-11 21:37:39.833808",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "cape-ann-brewing-co",
+    "name": "Cape Ann Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "11 Rogers St",
+    "city": "Gloucester",
+    "state": "Massachusetts",
+    "postal_code": "01930-5014",
+    "website_url": "",
+    "phone": "9782827399",
+    "created_at": "2018-07-24 01:33:30.681116",
+    "updated_at": "2018-08-24 00:41:11.944651",
+    "country": "United States",
+    "longitude": "-70.6650934421008",
+    "latitude": "42.6116160165143",
+    "tags": []
+  }
+]

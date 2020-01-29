@@ -1,0 +1,19 @@
+[
+  {
+    "id": "anvil-brewing",
+    "name": "Anvil Brewing",
+    "brewery_type": "brewpub",
+    "street": "115 S. Compress St",
+    "city": "Pittsburg",
+    "state": "Texas",
+    "postal_code": "75686-1353",
+    "website_url": "http://www.anvilbrewingtx.com",
+    "phone": "9039267741",
+    "created_at": "2018-07-24 01:34:17.566793",
+    "updated_at": "2018-08-11 21:39:45.393842",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

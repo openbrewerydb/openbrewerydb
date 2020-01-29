@@ -1,0 +1,53 @@
+[
+  {
+    "id": "faultline-brewing-co",
+    "name": "Faultline Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1235 Oakmead Pkwy",
+    "city": "Sunnyvale",
+    "state": "California",
+    "postal_code": "94085-4040",
+    "website_url": "",
+    "phone": "4087362739",
+    "created_at": "2018-07-24 01:32:55.294527",
+    "updated_at": "2018-08-23 23:28:14.349924",
+    "country": "United States",
+    "longitude": "-121.989575525141",
+    "latitude": "37.3868866209258",
+    "tags": []
+  },
+  {
+    "id": "firehouse-grill-and-brewery",
+    "name": "Firehouse Grill & Brewery",
+    "brewery_type": "brewpub",
+    "street": "111 S Murphy Ave",
+    "city": "Sunnyvale",
+    "state": "California",
+    "postal_code": "94086-6113",
+    "website_url": "http://www.firehousegrill.com",
+    "phone": "4087739500",
+    "created_at": "2018-07-24 01:32:55.466951",
+    "updated_at": "2018-08-23 23:28:26.270173",
+    "country": "United States",
+    "longitude": "-122.03007",
+    "latitude": "37.37738",
+    "tags": []
+  },
+  {
+    "id": "red-branch-brewing-company-/-rabbits-foot-meadery",
+    "name": "Red Branch Brewing Company / Rabbits Foot Meadery",
+    "brewery_type": "micro",
+    "street": "1246 Birchwood Dr",
+    "city": "Sunnyvale",
+    "state": "California",
+    "postal_code": "94089-2205",
+    "website_url": "http://www.redbranchcider.com",
+    "phone": "4087470770",
+    "created_at": "2018-07-24 01:32:59.779162",
+    "updated_at": "2018-08-24 00:01:16.941175",
+    "country": "United States",
+    "longitude": "-121.992082676137",
+    "latitude": "37.40446295",
+    "tags": []
+  }
+]

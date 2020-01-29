@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lockport-brewery",
+    "name": "Lockport Brewery",
+    "brewery_type": "brewpub",
+    "street": "10891 OH-212",
+    "city": "Bolivar",
+    "state": "Ohio",
+    "postal_code": "44612-8664",
+    "website_url": "http://www.lockportbeer.com",
+    "phone": "3308746037",
+    "created_at": "2018-07-24 01:34:01.554556",
+    "updated_at": "2018-08-11 21:39:00.495202",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

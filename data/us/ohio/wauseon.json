@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ramblin-reds-brewing-company",
+    "name": "Ramblin Reds Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "1493 N Shoop Ave Unit A",
+    "city": "Wauseon",
+    "state": "Ohio",
+    "postal_code": "43567-2801",
+    "website_url": "http://www.northriverbrewingco.com",
+    "phone": "4193352000",
+    "created_at": "2018-07-24 01:34:02.616113",
+    "updated_at": "2018-08-11 21:39:03.430454",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "ridge-runner-brewing-llc",
+    "name": "Ridge Runner Brewing LLC",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Wauseon",
+    "state": "Ohio",
+    "postal_code": "43567-9294",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:02.684158",
+    "updated_at": "2018-08-11 21:39:03.601538",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

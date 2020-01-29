@@ -1,0 +1,19 @@
+[
+  {
+    "id": "twin-oast-brewing",
+    "name": "Twin Oast Brewing",
+    "brewery_type": "brewpub",
+    "street": "3630 NE Catawba Rd",
+    "city": "Catawba Island",
+    "state": "Ohio",
+    "postal_code": "43452",
+    "website_url": "http://www.twinoast.com",
+    "phone": "4195736126",
+    "created_at": "2018-07-24 01:34:03.466794",
+    "updated_at": "2018-08-24 15:45:14.45169",
+    "country": "United States",
+    "longitude": "-82.832581",
+    "latitude": "41.578044",
+    "tags": []
+  }
+]

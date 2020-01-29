@@ -1,0 +1,19 @@
+[
+  {
+    "id": "imprint-beer-company",
+    "name": "Imprint Beer Company",
+    "brewery_type": "micro",
+    "street": "1500 Industry Rd Ste O",
+    "city": "Hatfield",
+    "state": "Pennsylvania",
+    "postal_code": "19440-3271",
+    "website_url": "http://www.imprintbeer.com",
+    "phone": "2676403004",
+    "created_at": "2018-07-24 01:34:10.959639",
+    "updated_at": "2018-08-11 21:39:27.472392",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

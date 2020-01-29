@@ -1,0 +1,19 @@
+[
+  {
+    "id": "chattahoochee-brewing-co",
+    "name": "Chattahoochee Brewing Co",
+    "brewery_type": "micro",
+    "street": "505 13th St Ste A",
+    "city": "Phenix City",
+    "state": "Alabama",
+    "postal_code": "36867-5128",
+    "website_url": "http://www.beerontheriver.com",
+    "phone": "3345590663",
+    "created_at": "2018-07-24 01:32:47.426811",
+    "updated_at": "2018-08-11 21:35:43.723871",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

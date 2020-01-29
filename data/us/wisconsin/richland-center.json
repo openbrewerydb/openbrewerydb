@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mels-micro",
+    "name": "Mel's Micro",
+    "brewery_type": "brewpub",
+    "street": "21733 US Hwy 14",
+    "city": "Richland Center",
+    "state": "Wisconsin",
+    "postal_code": "53581",
+    "website_url": "http://www.melsmicro.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:35.859415",
+    "updated_at": "2018-08-24 16:44:09.821064",
+    "country": "United States",
+    "longitude": "-90.3868474",
+    "latitude": "43.3294383",
+    "tags": []
+  }
+]

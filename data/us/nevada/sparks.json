@@ -1,0 +1,53 @@
+[
+  {
+    "id": "great-basin-brewing-co",
+    "name": "Great Basin Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "846 Victorian Ave",
+    "city": "Sparks",
+    "state": "Nevada",
+    "postal_code": "89431-5275",
+    "website_url": "http://www.greatbasinbrewingco.com",
+    "phone": "7753557711",
+    "created_at": "2018-07-24 01:33:44.401277",
+    "updated_at": "2018-08-24 15:35:35.991461",
+    "country": "United States",
+    "longitude": "-119.775003",
+    "latitude": "39.53533",
+    "tags": []
+  },
+  {
+    "id": "occidental-brewing",
+    "name": "Occidental Brewing",
+    "brewery_type": "brewpub",
+    "street": "865 S Rock Blvd",
+    "city": "Sparks",
+    "state": "Nevada",
+    "postal_code": "89431",
+    "website_url": "",
+    "phone": "7753984200",
+    "created_at": "2018-07-24 01:33:44.554295",
+    "updated_at": "2018-08-24 15:35:40.828032",
+    "country": "United States",
+    "longitude": "-119.760016123714",
+    "latitude": "39.5011485423624",
+    "tags": []
+  },
+  {
+    "id": "revision-brewing-company",
+    "name": "Revision Brewing Company",
+    "brewery_type": "micro",
+    "street": "380 S Rock Blvd",
+    "city": "Sparks",
+    "state": "Nevada",
+    "postal_code": "89431-5545",
+    "website_url": "http://www.revisionbrewing.com",
+    "phone": "7753312739",
+    "created_at": "2018-07-24 01:33:44.625266",
+    "updated_at": "2018-08-24 15:35:43.138298",
+    "country": "United States",
+    "longitude": "-119.762654",
+    "latitude": "39.511243",
+    "tags": []
+  }
+]

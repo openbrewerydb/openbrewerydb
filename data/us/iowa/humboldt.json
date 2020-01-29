@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tractorlift-brewery",
+    "name": "TractorLift Brewery",
+    "brewery_type": "micro",
+    "street": "708 Sumner Ave",
+    "city": "Humboldt",
+    "state": "Iowa",
+    "postal_code": "50548-1763",
+    "website_url": "",
+    "phone": "5158909484",
+    "created_at": "2018-07-24 01:33:24.483025",
+    "updated_at": "2018-08-24 00:38:16.989142",
+    "country": "United States",
+    "longitude": "-94.2189566530612",
+    "latitude": "42.7209454693878",
+    "tags": []
+  }
+]

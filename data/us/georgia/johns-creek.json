@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-in-planning-johns-creek-ga",
+    "name": "Brewery in Planning - Johns Creek, GA",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Johns Creek",
+    "state": "Georgia",
+    "postal_code": "30022",
+    "website_url": "",
+    "phone": "6787932162",
+    "created_at": "2018-07-24 01:33:15.468788",
+    "updated_at": "2018-08-11 21:37:01.153421",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "6-bridges-brewing",
+    "name": "6 Bridges Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Johns Creek",
+    "state": "Georgia",
+    "postal_code": "30097",
+    "website_url": "http://www.sixbridgesbrewing.com",
+    "phone": "7708460292",
+    "created_at": "2018-07-24 01:33:15.358972",
+    "updated_at": "2018-08-11 21:37:00.824592",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

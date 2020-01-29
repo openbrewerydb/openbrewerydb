@@ -1,0 +1,19 @@
+[
+  {
+    "id": "new-jersey-beer-co",
+    "name": "New Jersey Beer Co",
+    "brewery_type": "micro",
+    "street": "4201 Tonnelle Ave",
+    "city": "North Bergen",
+    "state": "New Jersey",
+    "postal_code": "07047-2430",
+    "website_url": "http://www.njbeerco.com",
+    "phone": "2017588342",
+    "created_at": "2018-07-24 01:33:47.218961",
+    "updated_at": "2018-08-24 15:37:02.0782",
+    "country": "United States",
+    "longitude": "-74.0428134",
+    "latitude": "40.7714151",
+    "tags": []
+  }
+]

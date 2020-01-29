@@ -1,0 +1,19 @@
+[
+  {
+    "id": "secatogue-brewing-co",
+    "name": "Secatogue Brewing Co.",
+    "brewery_type": "micro",
+    "street": "375 Union Blvd",
+    "city": "West Islip",
+    "state": "New York",
+    "postal_code": "11795-3114",
+    "website_url": "http://www.secatoguebrewing.com",
+    "phone": "6318714270",
+    "created_at": "2018-07-24 01:33:53.443982",
+    "updated_at": "2018-08-24 15:40:15.044376",
+    "country": "United States",
+    "longitude": "-73.3028901898735",
+    "latitude": "40.70717835",
+    "tags": []
+  }
+]

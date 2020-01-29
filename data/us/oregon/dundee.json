@@ -1,0 +1,19 @@
+[
+  {
+    "id": "deception-brewing-company",
+    "name": "Deception Brewing Company",
+    "brewery_type": "micro",
+    "street": "1174 SW Highway 99W",
+    "city": "Dundee",
+    "state": "Oregon",
+    "postal_code": "97115",
+    "website_url": "http://www.deceptionbrewingco.com",
+    "phone": "9718328054",
+    "created_at": "2018-07-24 01:34:05.667412",
+    "updated_at": "2018-08-11 21:39:12.763109",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

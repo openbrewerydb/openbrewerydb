@@ -1,0 +1,53 @@
+[
+  {
+    "id": "iron-hill-brewery-and-restaurant-ardmore",
+    "name": "Iron Hill Brewery & Restaurant (Ardmore)",
+    "brewery_type": "brewpub",
+    "street": "60 Greenfield Ave",
+    "city": "Ardmore",
+    "state": "Pennsylvania",
+    "postal_code": "19003-1204",
+    "website_url": "http://www.ironhillbrewery.com",
+    "phone": "3028882739",
+    "created_at": "2018-07-24 01:34:11.102104",
+    "updated_at": "2018-08-24 16:09:32.713815",
+    "country": "United States",
+    "longitude": "-75.2975536419238",
+    "latitude": "40.0085409727079",
+    "tags": []
+  },
+  {
+    "id": "tired-hands-brewing-co",
+    "name": "Tired Hands Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "16 Ardmore Ave",
+    "city": "Ardmore",
+    "state": "Pennsylvania",
+    "postal_code": "19003-1302",
+    "website_url": "http://www.tiredhands.com",
+    "phone": "6108967621",
+    "created_at": "2018-07-24 01:34:13.16969",
+    "updated_at": "2018-08-24 16:12:48.68366",
+    "country": "United States",
+    "longitude": "-75.2936914",
+    "latitude": "40.0086029",
+    "tags": []
+  },
+  {
+    "id": "tired-hands-brewing-co",
+    "name": "Tired Hands Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "35 S Cricket Ter",
+    "city": "Ardmore",
+    "state": "Pennsylvania",
+    "postal_code": "19003-2203",
+    "website_url": "http://www.tiredhands.com",
+    "phone": "4844132983",
+    "created_at": "2018-07-24 01:34:13.182986",
+    "updated_at": "2018-08-24 16:12:50.141441",
+    "country": "United States",
+    "longitude": "-75.2907672862714",
+    "latitude": "40.0068333662978",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "broad-brook-brewing-company",
+    "name": "Broad Brook Brewing Company",
+    "brewery_type": "micro",
+    "street": "915 South St",
+    "city": "Suffield",
+    "state": "Connecticut",
+    "postal_code": "06078",
+    "website_url": "http://www.broadbrookbrewing.com",
+    "phone": "8606231000",
+    "created_at": "2018-07-24 01:33:09.242944",
+    "updated_at": "2018-08-24 00:25:28.634574",
+    "country": "United States",
+    "longitude": "-72.6626646301082",
+    "latitude": "41.9620078477925",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pinups-and-pints",
+    "name": "Pinups & Pints",
+    "brewery_type": "micro",
+    "street": "10963 Lower Valley Pike",
+    "city": "Medway",
+    "state": "Ohio",
+    "postal_code": "45341-9706",
+    "website_url": "http://www.pinupsandpints.com",
+    "phone": "9378491400",
+    "created_at": "2018-07-24 01:34:02.420752",
+    "updated_at": "2018-08-24 15:44:43.086987",
+    "country": "United States",
+    "longitude": "-84.045082",
+    "latitude": "39.860912",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "rock-bottom-brewery-warrenville",
+    "name": "Rock Bottom Brewery - Warrenville",
+    "brewery_type": "brewpub",
+    "street": "28256 Diehl Rd",
+    "city": "Warrenville",
+    "state": "Illinois",
+    "postal_code": "60555-3835",
+    "website_url": "http://www.rockbottom.com",
+    "phone": "6308361380",
+    "created_at": "2018-07-24 01:33:20.506328",
+    "updated_at": "2018-08-11 21:37:15.322811",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "two-brothers-brewing-co",
+    "name": "Two Brothers Brewing Co",
+    "brewery_type": "regional",
+    "street": "30W315 Calumet Ave W",
+    "city": "Warrenville",
+    "state": "Illinois",
+    "postal_code": "60555-1565",
+    "website_url": "http://www.TwoBrothersBrewing.com",
+    "phone": "6303934800",
+    "created_at": "2018-07-24 01:33:20.962997",
+    "updated_at": "2018-08-11 21:37:16.72306",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

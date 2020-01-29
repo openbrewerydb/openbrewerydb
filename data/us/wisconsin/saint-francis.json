@@ -1,0 +1,19 @@
+[
+  {
+    "id": "st-francis-brewing-company",
+    "name": "St. Francis Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "3825 S Kinnickinnic Ave",
+    "city": "Saint Francis",
+    "state": "Wisconsin",
+    "postal_code": "53235-4225",
+    "website_url": "http://www.stfrancisbrewery.com",
+    "phone": "4147444448",
+    "created_at": "2018-07-24 01:34:36.689846",
+    "updated_at": "2018-08-24 16:45:40.684018",
+    "country": "United States",
+    "longitude": "-87.875747",
+    "latitude": "42.97452",
+    "tags": []
+  }
+]

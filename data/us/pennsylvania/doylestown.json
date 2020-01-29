@@ -1,0 +1,36 @@
+[
+  {
+    "id": "geronimo-brewing-inc",
+    "name": "Geronimo Brewing Inc",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Doylestown",
+    "state": "Pennsylvania",
+    "postal_code": "18901",
+    "website_url": "http://www.geronimobrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:10.643785",
+    "updated_at": "2018-08-11 21:39:26.766772",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "doylestown-brewing-co",
+    "name": "Doylestown Brewing Co",
+    "brewery_type": "proprietor",
+    "street": "52 East State St.",
+    "city": "Doylestown",
+    "state": "Pennsylvania",
+    "postal_code": "18901",
+    "website_url": "",
+    "phone": "2153401414",
+    "created_at": "2018-07-24 01:34:10.302823",
+    "updated_at": "2018-08-24 16:08:16.610791",
+    "country": "United States",
+    "longitude": "-75.1291115998055",
+    "latitude": "40.31027305",
+    "tags": []
+  }
+]

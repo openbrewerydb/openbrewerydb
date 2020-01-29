@@ -1,0 +1,19 @@
+[
+  {
+    "id": "free-will-brewing-company",
+    "name": "Free Will Brewing Company",
+    "brewery_type": "micro",
+    "street": "410 E Walnut St Ste 10",
+    "city": "Perkasie",
+    "state": "Pennsylvania",
+    "postal_code": "18944-1683",
+    "website_url": "http://www.freewillbrewing.com",
+    "phone": "2673540813",
+    "created_at": "2018-07-24 01:34:10.573935",
+    "updated_at": "2018-08-11 21:39:26.601804",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

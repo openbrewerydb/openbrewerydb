@@ -1,0 +1,53 @@
+[
+  {
+    "id": "division-brewing",
+    "name": "Division Brewing",
+    "brewery_type": "micro",
+    "street": "506 E Main St",
+    "city": "Arlington",
+    "state": "Texas",
+    "postal_code": "76010-1228",
+    "website_url": "http://www.divisionbrewing.com",
+    "phone": "2146978350",
+    "created_at": "2018-07-24 01:34:18.967342",
+    "updated_at": "2018-08-24 16:20:06.593579",
+    "country": "United States",
+    "longitude": "-97.1025690408163",
+    "latitude": "32.7363074081633",
+    "tags": []
+  },
+  {
+    "id": "legal-draft-beer-company",
+    "name": "Legal Draft Beer Company",
+    "brewery_type": "micro",
+    "street": "500 E Division St",
+    "city": "Arlington",
+    "state": "Texas",
+    "postal_code": "76011-7212",
+    "website_url": "http://www.legaldraftbeer.com",
+    "phone": "8179622210",
+    "created_at": "2018-07-24 01:34:20.118323",
+    "updated_at": "2018-08-24 16:21:43.227927",
+    "country": "United States",
+    "longitude": "-97.0489748",
+    "latitude": "32.7400863",
+    "tags": []
+  },
+  {
+    "id": "humperdinks-arlington",
+    "name": "Humperdinks - Arlington",
+    "brewery_type": "brewpub",
+    "street": "700 Six Flags Dr",
+    "city": "Arlington",
+    "state": "Texas",
+    "postal_code": "76011-6327",
+    "website_url": "http://www.humperdinks.com",
+    "phone": "8176408553",
+    "created_at": "2018-07-24 01:34:19.744019",
+    "updated_at": "2018-08-24 16:21:13.420978",
+    "country": "United States",
+    "longitude": "-97.0769526",
+    "latitude": "32.7497637",
+    "tags": []
+  }
+]

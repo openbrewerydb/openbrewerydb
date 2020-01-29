@@ -1,0 +1,19 @@
+[
+  {
+    "id": "three-rings-brewery",
+    "name": "Three Rings Brewery",
+    "brewery_type": "micro",
+    "street": "536 South Old Highway 81",
+    "city": "McPherson",
+    "state": "Kansas",
+    "postal_code": "67401-6026",
+    "website_url": "",
+    "phone": "6205045022",
+    "created_at": "2018-07-24 01:33:25.097525",
+    "updated_at": "2018-08-11 21:37:26.599147",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

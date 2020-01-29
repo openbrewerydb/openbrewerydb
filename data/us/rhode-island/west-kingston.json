@@ -1,0 +1,19 @@
+[
+  {
+    "id": "shaidzon-beer-company-llc",
+    "name": "Shaidzon Beer Company, LLC",
+    "brewery_type": "micro",
+    "street": "141 Fairgrounds Rd.",
+    "city": "West Kingston",
+    "state": "Rhode Island",
+    "postal_code": "02892",
+    "website_url": "http://www.shaidzonbeerco.com",
+    "phone": "4018293147",
+    "created_at": "2018-07-24 01:34:13.874858",
+    "updated_at": "2018-08-24 16:13:56.352803",
+    "country": "United States",
+    "longitude": "-71.5676323189066",
+    "latitude": "41.4812798522534",
+    "tags": []
+  }
+]

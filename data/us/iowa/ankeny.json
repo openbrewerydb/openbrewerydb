@@ -1,0 +1,53 @@
+[
+  {
+    "id": "mistress-brewing-company",
+    "name": "Mistress Brewing Company",
+    "brewery_type": "micro",
+    "street": "1460 NE 69th Pl Ste 66",
+    "city": "Ankeny",
+    "state": "Iowa",
+    "postal_code": "50021-8934",
+    "website_url": "http://www.mistressbrewing.com",
+    "phone": "5157712133",
+    "created_at": "2018-07-24 01:33:24.074569",
+    "updated_at": "2018-08-11 21:37:24.412245",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "new-american-brewing-company",
+    "name": "New American Brewing Company",
+    "brewery_type": "micro",
+    "street": "1631 SW Main St Ste 105",
+    "city": "Ankeny",
+    "state": "Iowa",
+    "postal_code": "50023-7254",
+    "website_url": "http://www.newamericanbeer.com",
+    "phone": "5152505648",
+    "created_at": "2018-07-24 01:33:24.166035",
+    "updated_at": "2018-08-11 21:37:24.446453",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "firetrucker-brewery",
+    "name": "Firetrucker Brewery",
+    "brewery_type": "micro",
+    "street": "716 SW 3rd St",
+    "city": "Ankeny",
+    "state": "Iowa",
+    "postal_code": "50023-2615",
+    "website_url": "http://www.firetrucker.com",
+    "phone": "5159641284",
+    "created_at": "2018-07-24 01:33:23.720898",
+    "updated_at": "2018-08-24 00:37:52.258484",
+    "country": "United States",
+    "longitude": "-93.6098436917965",
+    "latitude": "41.7299268",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "inn-on-peaks-island-brewery-the",
+    "name": "Inn On Peaks Island Brewery, The",
+    "brewery_type": "brewpub",
+    "street": "33 Island Ave",
+    "city": "Peaks Island",
+    "state": "Maine",
+    "postal_code": "04108-1333",
+    "website_url": "http://www.innonpeaks.com",
+    "phone": "2077665100",
+    "created_at": "2018-07-24 01:33:27.306331",
+    "updated_at": "2018-08-24 00:39:50.246939",
+    "country": "United States",
+    "longitude": "-70.1979665982887",
+    "latitude": "43.6541785122815",
+    "tags": []
+  }
+]

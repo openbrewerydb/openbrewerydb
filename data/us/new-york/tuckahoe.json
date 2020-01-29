@@ -1,0 +1,19 @@
+[
+  {
+    "id": "broken-bow-brewery",
+    "name": "Broken Bow Brewery",
+    "brewery_type": "micro",
+    "street": "173 Marbledale Rd",
+    "city": "Tuckahoe",
+    "state": "New York",
+    "postal_code": "10707-3117",
+    "website_url": "http://www.brokenbowbrewery.com",
+    "phone": "9142680900",
+    "created_at": "2018-07-24 01:33:49.908715",
+    "updated_at": "2018-08-24 15:38:19.914415",
+    "country": "United States",
+    "longitude": "-73.8190325",
+    "latitude": "40.9549645",
+    "tags": []
+  }
+]

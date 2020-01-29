@@ -1,0 +1,19 @@
+[
+  {
+    "id": "catalina-island-brew-house",
+    "name": "Catalina Island Brew House",
+    "brewery_type": "micro",
+    "street": "417 Crescent Ave",
+    "city": "Avalon",
+    "state": "California",
+    "postal_code": "90704",
+    "website_url": "http://www.catalinaislandbrewhouse.com",
+    "phone": "3105906905",
+    "created_at": "2018-07-24 01:32:53.609252",
+    "updated_at": "2018-08-23 23:26:31.335674",
+    "country": "United States",
+    "longitude": "-118.3256345",
+    "latitude": "33.3434987",
+    "tags": []
+  }
+]

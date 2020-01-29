@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brotherton-brewing-company",
+    "name": "Brotherton Brewing Company",
+    "brewery_type": "micro",
+    "street": "340 Forked Neck Rd",
+    "city": "Shamong",
+    "state": "New Jersey",
+    "postal_code": "08088",
+    "website_url": "http://www.brothertonbrewing.com",
+    "phone": "6098012686",
+    "created_at": "2018-07-24 01:33:46.349264",
+    "updated_at": "2018-08-24 15:36:34.279499",
+    "country": "United States",
+    "longitude": "-74.7254012650504",
+    "latitude": "39.7881775824825",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dirty-job-brewing",
+    "name": "Dirty Job Brewing",
+    "brewery_type": "micro",
+    "street": "117 N Main St",
+    "city": "Mansfield",
+    "state": "Texas",
+    "postal_code": "76063",
+    "website_url": "http://www.dirtyjobbrewing.com",
+    "phone": "6825181791",
+    "created_at": "2018-07-24 01:34:18.953091",
+    "updated_at": "2018-08-24 16:20:05.05974",
+    "country": "United States",
+    "longitude": "-97.1419556734694",
+    "latitude": "32.564891244898",
+    "tags": []
+  }
+]

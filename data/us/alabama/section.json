@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sand-mtn-brewery",
+    "name": "Sand Mtn brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Section",
+    "state": "Alabama",
+    "postal_code": "35771",
+    "website_url": "http://Www.sandmtnbrewery.com",
+    "phone": "2564180658",
+    "created_at": "2018-07-24 01:32:47.721854",
+    "updated_at": "2018-08-23 23:20:25.741806",
+    "country": "United States",
+    "longitude": "-85.986644",
+    "latitude": "34.5789747",
+    "tags": []
+  }
+]

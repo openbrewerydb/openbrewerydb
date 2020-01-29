@@ -1,0 +1,36 @@
+[
+  {
+    "id": "charlton-beer-company",
+    "name": "Charlton Beer Company",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Charlton",
+    "state": "Massachusetts",
+    "postal_code": "01507",
+    "website_url": "http://www.charltonbeercompany.com",
+    "phone": "5082485627",
+    "created_at": "2018-07-24 01:33:30.745496",
+    "updated_at": "2018-08-11 21:37:39.997874",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "tree-house-brewery",
+    "name": "Tree House Brewery",
+    "brewery_type": "regional",
+    "street": "129 Sturbridge Rd",
+    "city": "Charlton",
+    "state": "Massachusetts",
+    "postal_code": "01507-5330",
+    "website_url": "http://www.treehousebrew.com",
+    "phone": "4139491891",
+    "created_at": "2018-07-24 01:33:32.165189",
+    "updated_at": "2018-08-24 00:41:52.412806",
+    "country": "United States",
+    "longitude": "-72.0125532",
+    "latitude": "42.1366948",
+    "tags": []
+  }
+]

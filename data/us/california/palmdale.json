@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lucky-luke-brewing-company",
+    "name": "Lucky Luke Brewing Company",
+    "brewery_type": "micro",
+    "street": "610 W Avenue O Ste 104",
+    "city": "Palmdale",
+    "state": "California",
+    "postal_code": "93551-3610",
+    "website_url": "http://www.luckylukebrewing.com",
+    "phone": "6612705588",
+    "created_at": "2018-07-24 01:32:58.005578",
+    "updated_at": "2018-08-11 21:36:12.508736",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "transplants-brewing-company",
+    "name": "Transplants Brewing Company",
+    "brewery_type": "micro",
+    "street": "40242 La Quinta Ln Ste 101",
+    "city": "Palmdale",
+    "state": "California",
+    "postal_code": "93551-3630",
+    "website_url": "http://www.transplantsbrewing.com",
+    "phone": "6612667911",
+    "created_at": "2018-07-24 01:33:02.556262",
+    "updated_at": "2018-08-11 21:36:26.282564",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

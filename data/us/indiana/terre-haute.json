@@ -1,0 +1,19 @@
+[
+  {
+    "id": "terre-haute-brewing-company",
+    "name": "Terre Haute Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "401 S 9th St",
+    "city": "Terre Haute",
+    "state": "Indiana",
+    "postal_code": "47807-4417",
+    "website_url": "http://www.terrehautebrewingcompany.com",
+    "phone": "8128143071",
+    "created_at": "2018-07-24 01:33:22.951348",
+    "updated_at": "2018-08-24 00:33:28.085322",
+    "country": "United States",
+    "longitude": "-87.404517",
+    "latitude": "39.462286",
+    "tags": []
+  }
+]

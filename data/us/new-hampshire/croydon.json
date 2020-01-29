@@ -1,0 +1,19 @@
+[
+  {
+    "id": "polyculture-brewing-company",
+    "name": "Polyculture Brewing Company",
+    "brewery_type": "micro",
+    "street": "3 Camel Hump Rd",
+    "city": "Croydon",
+    "state": "New Hampshire",
+    "postal_code": "03773",
+    "website_url": "http://www.polyculturebrewing.com",
+    "phone": "7735471994",
+    "created_at": "2018-07-24 01:33:45.634724",
+    "updated_at": "2018-08-24 15:36:15.249431",
+    "country": "United States",
+    "longitude": "-72.1868538853752",
+    "latitude": "43.4105468943407",
+    "tags": []
+  }
+]

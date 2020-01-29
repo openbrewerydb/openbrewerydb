@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bootstrap-brewing-co",
+    "name": "Bootstrap Brewing Co",
+    "brewery_type": "micro",
+    "street": "6778 N 79th St",
+    "city": "Niwot",
+    "state": "Colorado",
+    "postal_code": "80503-7118",
+    "website_url": "http://www.bootstrapbrewing.com",
+    "phone": "3036524186",
+    "created_at": "2018-07-24 01:33:03.970543",
+    "updated_at": "2018-08-24 00:05:58.208349",
+    "country": "United States",
+    "longitude": "-105.16915809375",
+    "latitude": "40.09681246875",
+    "tags": []
+  }
+]

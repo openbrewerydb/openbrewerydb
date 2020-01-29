@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hidden-cove-brewing-co",
+    "name": "Hidden Cove Brewing Co",
+    "brewery_type": "micro",
+    "street": "73 Mile Rd",
+    "city": "Wells",
+    "state": "Maine",
+    "postal_code": "04090-4135",
+    "website_url": "http://www.hiddencovebrewingcompany.com",
+    "phone": "2076460228",
+    "created_at": "2018-07-24 01:33:27.294052",
+    "updated_at": "2018-08-24 00:39:49.773707",
+    "country": "United States",
+    "longitude": "-70.5810454782609",
+    "latitude": "43.3040770434783",
+    "tags": []
+  }
+]

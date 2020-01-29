@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sea-dog-brewing-co-s-portland",
+    "name": "Sea Dog Brewing Co - S. Portland",
+    "brewery_type": "brewpub",
+    "street": "125 Western Ave",
+    "city": "S Portland",
+    "state": "Maine",
+    "postal_code": "04106-2413",
+    "website_url": "http://www.seadogbrewing.com",
+    "phone": "2078717000",
+    "created_at": "2018-07-24 01:33:27.940506",
+    "updated_at": "2018-08-24 00:40:09.500152",
+    "country": "United States",
+    "longitude": "-70.3190306679039",
+    "latitude": "43.63519195",
+    "tags": []
+  }
+]

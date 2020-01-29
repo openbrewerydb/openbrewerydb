@@ -1,0 +1,19 @@
+[
+  {
+    "id": "alexandria-brewing-company",
+    "name": "Alexandria Brewing Company",
+    "brewery_type": "micro",
+    "street": "7926 Alexandria Pike Ste 1",
+    "city": "Alexandria",
+    "state": "Kentucky",
+    "postal_code": "41001-1454",
+    "website_url": "http://www.alexandriabrewingcompany.com",
+    "phone": "8596946999",
+    "created_at": "2018-07-24 01:33:25.312109",
+    "updated_at": "2018-08-11 21:37:27.116474",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

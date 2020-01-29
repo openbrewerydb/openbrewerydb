@@ -1,0 +1,19 @@
+[
+  {
+    "id": "el-toro-brewing-company-brewpub",
+    "name": "El Toro Brewing Company Brewpub",
+    "brewery_type": "brewpub",
+    "street": "17605 Monterey Rd",
+    "city": "Morgan Hill",
+    "state": "California",
+    "postal_code": "95037-3620",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:54.951938",
+    "updated_at": "2018-08-23 23:27:57.576793",
+    "country": "United States",
+    "longitude": "-121.7082244",
+    "latitude": "37.1864644",
+    "tags": []
+  }
+]

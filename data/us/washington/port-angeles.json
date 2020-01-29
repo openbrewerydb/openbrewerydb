@@ -1,0 +1,36 @@
+[
+  {
+    "id": "dungeness-brewing-company",
+    "name": "Dungeness Brewing Company",
+    "brewery_type": "micro",
+    "street": "4017 S Mount Angeles Rd",
+    "city": "Port Angeles",
+    "state": "Washington",
+    "postal_code": "98362-8966",
+    "website_url": "http://www.dungenessbrewing.com",
+    "phone": "3607751877",
+    "created_at": "2018-07-24 01:34:29.315136",
+    "updated_at": "2018-08-24 16:34:08.119287",
+    "country": "United States",
+    "longitude": "-123.418449",
+    "latitude": "48.087279",
+    "tags": []
+  },
+  {
+    "id": "barhop-brewing",
+    "name": "Barhop Brewing",
+    "brewery_type": "brewpub",
+    "street": "124 W Railroad Ave",
+    "city": "Port Angeles",
+    "state": "Washington",
+    "postal_code": "98362-2621",
+    "website_url": "http://www.barhopbrewing.com",
+    "phone": "3604605155",
+    "created_at": "2018-07-24 01:34:28.058844",
+    "updated_at": "2018-08-24 16:32:37.151131",
+    "country": "United States",
+    "longitude": "-123.433278663378",
+    "latitude": "48.12098065",
+    "tags": []
+  }
+]

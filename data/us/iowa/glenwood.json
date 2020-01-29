@@ -1,0 +1,19 @@
+[
+  {
+    "id": "keg-creek-brewing-company",
+    "name": "Keg Creek Brewing Company",
+    "brewery_type": "micro",
+    "street": "111 Sharp St",
+    "city": "Glenwood",
+    "state": "Iowa",
+    "postal_code": "51534-1755",
+    "website_url": "http://www.kegcreekbrewing.com",
+    "phone": "7125209029",
+    "created_at": "2018-07-24 01:33:23.950875",
+    "updated_at": "2018-08-24 00:38:00.245242",
+    "country": "United States",
+    "longitude": "-95.7356912",
+    "latitude": "41.0473453",
+    "tags": []
+  }
+]

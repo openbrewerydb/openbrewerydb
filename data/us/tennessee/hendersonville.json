@@ -1,0 +1,19 @@
+[
+  {
+    "id": "half-batch-brewing",
+    "name": "Half Batch Brewing",
+    "brewery_type": "micro",
+    "street": "393 E Main St Suite 6A",
+    "city": "Hendersonville",
+    "state": "Tennessee",
+    "postal_code": "37075-2575",
+    "website_url": "http://halfbatchbrewing.com",
+    "phone": "6153394527",
+    "created_at": "2018-07-24 01:34:16.362576",
+    "updated_at": "2018-08-11 21:39:42.288606",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

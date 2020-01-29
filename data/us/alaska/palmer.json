@@ -1,0 +1,36 @@
+[
+  {
+    "id": "arkose-brewery",
+    "name": "Arkose Brewery",
+    "brewery_type": "micro",
+    "street": "650 E Steel Loop",
+    "city": "Palmer",
+    "state": "Alaska",
+    "postal_code": "99645-6689",
+    "website_url": "http://www.arkosebrewery.com",
+    "phone": "9077462337",
+    "created_at": "2018-07-24 01:32:47.91104",
+    "updated_at": "2018-08-11 21:35:44.816259",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "bleeding-heart-brewery",
+    "name": "Bleeding Heart Brewery",
+    "brewery_type": "micro",
+    "street": "1150 S Colony Way Ste 3 Pmb 618",
+    "city": "Palmer",
+    "state": "Alaska",
+    "postal_code": "99645-6972",
+    "website_url": "http://Facebook.com/BleedingHeartBrewery",
+    "phone": "7609172417",
+    "created_at": "2018-07-24 01:32:47.979349",
+    "updated_at": "2018-08-11 21:35:44.971864",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

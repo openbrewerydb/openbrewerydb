@@ -1,0 +1,19 @@
+[
+  {
+    "id": "leaning-cask-brewing-co",
+    "name": "Leaning Cask Brewing Co",
+    "brewery_type": "micro",
+    "street": "850 Pittsburgh St",
+    "city": "Springdale",
+    "state": "Pennsylvania",
+    "postal_code": "15144-1623",
+    "website_url": "http://www.leaningcaskbrewing.com",
+    "phone": "7247157539",
+    "created_at": "2018-07-24 01:34:11.293786",
+    "updated_at": "2018-08-24 16:09:52.349514",
+    "country": "United States",
+    "longitude": "-79.7784404441805",
+    "latitude": "40.541266550239",
+    "tags": []
+  }
+]

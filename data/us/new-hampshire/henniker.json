@@ -1,0 +1,19 @@
+[
+  {
+    "id": "henniker-brewing-company-llc",
+    "name": "Henniker Brewing Company, LLC",
+    "brewery_type": "micro",
+    "street": "129 Centervale Rd",
+    "city": "Henniker",
+    "state": "New Hampshire",
+    "postal_code": "03242-3280",
+    "website_url": "http://www.hennikerbrewing.com",
+    "phone": "6034283579",
+    "created_at": "2018-07-24 01:33:45.391218",
+    "updated_at": "2018-08-24 15:36:07.062387",
+    "country": "United States",
+    "longitude": "-71.7824433004271",
+    "latitude": "43.1788086226335",
+    "tags": []
+  }
+]

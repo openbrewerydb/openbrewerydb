@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ole-dallas-brewery",
+    "name": "Ole Dallas Brewery",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Dallas",
+    "state": "North Carolina",
+    "postal_code": "28034-9793",
+    "website_url": "http://www.oledallasbrewery.com",
+    "phone": "7042661472",
+    "created_at": "2018-07-24 01:33:57.635149",
+    "updated_at": "2018-08-11 21:38:51.243225",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

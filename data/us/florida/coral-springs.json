@@ -1,0 +1,19 @@
+[
+  {
+    "id": "big-bear-brewing-co",
+    "name": "Big Bear Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1800 N University Dr",
+    "city": "Coral Springs",
+    "state": "Florida",
+    "postal_code": "33071-6031",
+    "website_url": "http://www.bigbearbrewingco.com",
+    "phone": "9543415545",
+    "created_at": "2018-07-24 01:33:11.512954",
+    "updated_at": "2018-08-24 00:26:32.864533",
+    "country": "United States",
+    "longitude": "-80.2505088",
+    "latitude": "26.2992083",
+    "tags": []
+  }
+]

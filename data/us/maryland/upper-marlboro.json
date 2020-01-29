@@ -1,0 +1,19 @@
+[
+  {
+    "id": "calvert-brewing-co",
+    "name": "Calvert Brewing Co",
+    "brewery_type": "micro",
+    "street": "15850 Commerce Ct",
+    "city": "Upper Marlboro",
+    "state": "Maryland",
+    "postal_code": "20774-7437",
+    "website_url": "http://calvertbrewingcompany.com",
+    "phone": "2402454609",
+    "created_at": "2018-07-24 01:33:28.631571",
+    "updated_at": "2018-08-11 21:37:35.43762",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

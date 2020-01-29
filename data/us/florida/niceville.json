@@ -1,0 +1,36 @@
+[
+  {
+    "id": "3rd-planet-brewing",
+    "name": "3rd Planet Brewing",
+    "brewery_type": "micro",
+    "street": "120 Partin Dr N",
+    "city": "Niceville",
+    "state": "Florida",
+    "postal_code": "32578-2053",
+    "website_url": "http://www.facebook.com/3rdplanetbrewing/",
+    "phone": "8505029952",
+    "created_at": "2018-07-24 01:33:11.14172",
+    "updated_at": "2018-08-11 21:36:49.845982",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "brewery-in-planning-niceville",
+    "name": "Brewery in Planning - Niceville",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Niceville",
+    "state": "Florida",
+    "postal_code": "32578",
+    "website_url": "",
+    "phone": "8507585981",
+    "created_at": "2018-07-24 01:33:11.846654",
+    "updated_at": "2018-08-11 21:36:52.030272",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

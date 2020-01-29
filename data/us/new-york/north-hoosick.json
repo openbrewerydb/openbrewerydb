@@ -1,0 +1,19 @@
+[
+  {
+    "id": "browns-brewing-co",
+    "name": "Brown's Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "50 Factory Hill Rd",
+    "city": "North Hoosick",
+    "state": "New York",
+    "postal_code": "12133",
+    "website_url": "http://www.brownsbrewing.com",
+    "phone": "5182732337",
+    "created_at": "2018-07-24 01:33:49.953678",
+    "updated_at": "2018-08-24 15:38:21.495955",
+    "country": "United States",
+    "longitude": "-73.3451582057618",
+    "latitude": "42.9266144376744",
+    "tags": []
+  }
+]

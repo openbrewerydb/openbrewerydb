@@ -1,0 +1,36 @@
+[
+  {
+    "id": "eskes-brew-pub",
+    "name": "Eskes Brew Pub",
+    "brewery_type": "brewpub",
+    "street": "106 Des Georges Pl",
+    "city": "Taos",
+    "state": "New Mexico",
+    "postal_code": "87571-6179",
+    "website_url": "http://www.eskesbrewpub.com",
+    "phone": "5757581517",
+    "created_at": "2018-07-24 01:33:48.094299",
+    "updated_at": "2018-08-24 15:37:29.978287",
+    "country": "United States",
+    "longitude": "-105.5731656",
+    "latitude": "36.4058929",
+    "tags": []
+  },
+  {
+    "id": "taos-ale-house",
+    "name": "Taos Ale House",
+    "brewery_type": "brewpub",
+    "street": "401 Paseo del Pueblo Norte",
+    "city": "Taos",
+    "state": "New Mexico",
+    "postal_code": "87571-5907",
+    "website_url": "http://www.taosalehouse.com",
+    "phone": "5757585522",
+    "created_at": "2018-07-24 01:33:48.676669",
+    "updated_at": "2018-08-24 15:37:48.379173",
+    "country": "United States",
+    "longitude": "-105.568722",
+    "latitude": "36.41222",
+    "tags": []
+  }
+]

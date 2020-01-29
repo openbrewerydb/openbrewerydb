@@ -1,0 +1,19 @@
+[
+  {
+    "id": "apex-brewery",
+    "name": "Apex Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Central Valley",
+    "state": "New York",
+    "postal_code": "10917-3708",
+    "website_url": "http://www.apexbeer.co",
+    "phone": "8455493006",
+    "created_at": "2018-07-24 01:33:49.147159",
+    "updated_at": "2018-08-11 21:38:29.674046",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

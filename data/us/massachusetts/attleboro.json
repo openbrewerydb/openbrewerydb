@@ -1,0 +1,19 @@
+[
+  {
+    "id": "skyroc-brewery",
+    "name": "Skyroc Brewery",
+    "brewery_type": "micro",
+    "street": "11 Riverbank Rd",
+    "city": "Attleboro",
+    "state": "Massachusetts",
+    "postal_code": "02703-",
+    "website_url": "http://www.skyrocbrewery.com",
+    "phone": "7743312336",
+    "created_at": "2018-07-24 01:33:31.952281",
+    "updated_at": "2018-08-24 00:41:46.875055",
+    "country": "United States",
+    "longitude": "-71.287889167702",
+    "latitude": "41.9446296728284",
+    "tags": []
+  }
+]

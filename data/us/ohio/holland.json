@@ -1,0 +1,19 @@
+[
+  {
+    "id": "black-frog-brewing-co",
+    "name": "Black Frog Brewing Co",
+    "brewery_type": "micro",
+    "street": "831 S McCord Rd",
+    "city": "Holland",
+    "state": "Ohio",
+    "postal_code": "43528-8746",
+    "website_url": "http://www.blackfrogbrewery.com",
+    "phone": "4193897136",
+    "created_at": "2018-07-24 01:33:59.619904",
+    "updated_at": "2018-08-24 15:43:27.53047",
+    "country": "United States",
+    "longitude": "-83.7032185",
+    "latitude": "41.6171284",
+    "tags": []
+  }
+]

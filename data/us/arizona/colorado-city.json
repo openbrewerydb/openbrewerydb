@@ -1,0 +1,19 @@
+[
+  {
+    "id": "edge-of-the-world-brewery",
+    "name": "Edge Of The World Brewery",
+    "brewery_type": "micro",
+    "street": "70 N Central St",
+    "city": "Colorado City",
+    "state": "Arizona",
+    "postal_code": "86021-1524",
+    "website_url": "http://edgeoftheworld.bar",
+    "phone": "9288758710",
+    "created_at": "2018-07-24 01:32:49.082496",
+    "updated_at": "2018-08-23 23:21:42.48449",
+    "country": "United States",
+    "longitude": "-112.9740725",
+    "latitude": "36.9941047",
+    "tags": []
+  }
+]

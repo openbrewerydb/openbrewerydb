@@ -1,0 +1,19 @@
+[
+  {
+    "id": "back-pew-brewing",
+    "name": "Back Pew Brewing",
+    "brewery_type": "micro",
+    "street": "26452 Sorters Rd",
+    "city": "Porter",
+    "state": "Texas",
+    "postal_code": "77365-4752",
+    "website_url": "http://www.backpewbrewing.com",
+    "phone": "2816087526",
+    "created_at": "2018-07-24 01:34:17.692577",
+    "updated_at": "2018-08-11 21:39:45.831806",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

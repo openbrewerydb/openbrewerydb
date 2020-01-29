@@ -1,0 +1,19 @@
+[
+  {
+    "id": "badsons-beer-co",
+    "name": "BADSONS Beer Co",
+    "brewery_type": "micro",
+    "street": "251 Roosevelt Dr",
+    "city": "Derby",
+    "state": "Connecticut",
+    "postal_code": "06418-1665",
+    "website_url": "http://www.badsoons.com",
+    "phone": "2033082654",
+    "created_at": "2018-07-24 01:33:09.082802",
+    "updated_at": "2018-08-24 00:25:22.766513",
+    "country": "United States",
+    "longitude": "-73.1322771",
+    "latitude": "41.3513647",
+    "tags": []
+  }
+]

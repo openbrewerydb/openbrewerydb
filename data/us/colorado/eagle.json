@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bonfire-brewing-production",
+    "name": "Bonfire Brewing Production",
+    "brewery_type": "micro",
+    "street": "936 Chambers Ct. B-4",
+    "city": "Eagle",
+    "state": "Colorado",
+    "postal_code": "81631-5276",
+    "website_url": "",
+    "phone": "9703067113",
+    "created_at": "2018-07-24 01:33:03.943125",
+    "updated_at": "2018-08-11 21:36:32.101325",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "bonfire-brewing",
+    "name": "Bonfire Brewing",
+    "brewery_type": "micro",
+    "street": "127 W 2nd St",
+    "city": "Eagle",
+    "state": "Colorado",
+    "postal_code": "81631",
+    "website_url": "http://www.bonfirebrewing.com",
+    "phone": "9703067113",
+    "created_at": "2018-07-24 01:33:03.930616",
+    "updated_at": "2018-08-24 00:05:55.568362",
+    "country": "United States",
+    "longitude": "-106.828260010329",
+    "latitude": "39.6553196561161",
+    "tags": []
+  },
+  {
+    "id": "7-hermits-brewing-company",
+    "name": "7 Hermits Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "PO Box 3186",
+    "city": "Eagle",
+    "state": "Colorado",
+    "postal_code": "81631-3186",
+    "website_url": "http://www.7hermitsbrewing.com",
+    "phone": "9704714979",
+    "created_at": "2018-07-24 01:33:03.3713",
+    "updated_at": "2018-08-11 21:36:30.481841",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

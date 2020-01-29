@@ -1,0 +1,19 @@
+[
+  {
+    "id": "oyster-city-brewing-company",
+    "name": "Oyster City Brewing Company",
+    "brewery_type": "micro",
+    "street": "17 Avenue D",
+    "city": "Apalachicola",
+    "state": "Florida",
+    "postal_code": "32320-1801",
+    "website_url": "http://www.oystercitybrewingco.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:14.060471",
+    "updated_at": "2018-08-24 00:28:06.415539",
+    "country": "United States",
+    "longitude": "-84.9850438892128",
+    "latitude": "29.7259561983391",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "roughwoods-inn",
+    "name": "RoughWoods Inn",
+    "brewery_type": "brewpub",
+    "street": "623 North A St",
+    "city": "Nenana",
+    "state": "Alaska",
+    "postal_code": "99760-9999",
+    "website_url": "http://www.roughwoodsinn.biz",
+    "phone": "9078325299",
+    "created_at": "2018-07-24 01:32:48.439849",
+    "updated_at": "2018-08-11 21:35:46.096716",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

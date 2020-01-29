@@ -1,0 +1,19 @@
+[
+  {
+    "id": "river-styx-brewing",
+    "name": "River Styx Brewing",
+    "brewery_type": "micro",
+    "street": "166 Boulder Dr Ste 112",
+    "city": "Fitchburg",
+    "state": "Massachusetts",
+    "postal_code": "01420-3168",
+    "website_url": "http://www.riverstyxbrewing.com",
+    "phone": "9786965176",
+    "created_at": "2018-07-24 01:33:31.827528",
+    "updated_at": "2018-08-24 00:41:43.1816",
+    "country": "United States",
+    "longitude": "-71.7946112",
+    "latitude": "42.5817291",
+    "tags": []
+  }
+]

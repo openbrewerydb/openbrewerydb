@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cypress-creek-southern-ales",
+    "name": "Cypress Creek Southern Ales",
+    "brewery_type": "micro",
+    "street": "200 E Carnegie St",
+    "city": "Winnsboro",
+    "state": "Texas",
+    "postal_code": "75494-3206",
+    "website_url": "http://www.cypresscreeksouthernales.com",
+    "phone": "2088414159",
+    "created_at": "2018-07-24 01:34:18.846697",
+    "updated_at": "2018-08-24 16:19:56.024721",
+    "country": "United States",
+    "longitude": "-95.288727",
+    "latitude": "32.955986",
+    "tags": []
+  }
+]

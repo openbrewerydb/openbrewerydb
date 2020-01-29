@@ -1,0 +1,19 @@
+[
+  {
+    "id": "susquehanna-brewing-co",
+    "name": "Susquehanna Brewing Co",
+    "brewery_type": "micro",
+    "street": "635 S Main St",
+    "city": "Pittston",
+    "state": "Pennsylvania",
+    "postal_code": "18640-3215",
+    "website_url": "http://www.sbcbeer.com",
+    "phone": "5706543557",
+    "created_at": "2018-07-24 01:34:12.933045",
+    "updated_at": "2018-08-24 16:12:25.031998",
+    "country": "United States",
+    "longitude": "-75.7912216",
+    "latitude": "41.321577",
+    "tags": []
+  }
+]

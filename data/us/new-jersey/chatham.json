@@ -1,0 +1,19 @@
+[
+  {
+    "id": "twin-elephant-brewing-company",
+    "name": "Twin Elephant Brewing Company",
+    "brewery_type": "micro",
+    "street": "13 Watchung Ave Ste 103",
+    "city": "Chatham",
+    "state": "New Jersey",
+    "postal_code": "07928-2759",
+    "website_url": "http://www.twinelephant.com",
+    "phone": "9735079862",
+    "created_at": "2018-07-24 01:33:47.546608",
+    "updated_at": "2018-08-11 21:38:25.623374",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

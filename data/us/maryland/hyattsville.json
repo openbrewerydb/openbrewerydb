@@ -1,0 +1,36 @@
+[
+  {
+    "id": "franklins-general-store",
+    "name": "Franklins General Store",
+    "brewery_type": "micro",
+    "street": "5123 Baltimore Ave",
+    "city": "Hyattsville",
+    "state": "Maryland",
+    "postal_code": "20781-2042",
+    "website_url": "http://Franklinsbrewery.com",
+    "phone": "3019272740",
+    "created_at": "2018-07-24 01:33:28.934325",
+    "updated_at": "2018-08-24 00:40:31.278567",
+    "country": "United States",
+    "longitude": "-76.9407411387391",
+    "latitude": "38.9519439895478",
+    "tags": []
+  },
+  {
+    "id": "streetcar-82-brewing-co",
+    "name": "Streetcar 82 Brewing Co.",
+    "brewery_type": "micro",
+    "street": "4824 Rhode Island Ave",
+    "city": "Hyattsville",
+    "state": "Maryland",
+    "postal_code": "20781-2034",
+    "website_url": "http://www.streetcar82brewing.com",
+    "phone": "2407820152",
+    "created_at": "2018-07-24 01:33:29.717725",
+    "updated_at": "2018-08-24 00:40:50.528089",
+    "country": "United States",
+    "longitude": "-76.9430028",
+    "latitude": "38.9493263",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hitchcock-brewing-company",
+    "name": "Hitchcock Brewing Company",
+    "brewery_type": "micro",
+    "street": "129 Christian Ln",
+    "city": "Whately",
+    "state": "Massachusetts",
+    "postal_code": "01093",
+    "website_url": "http://www.hitchcockbrewing.com",
+    "phone": "4136952400",
+    "created_at": "2018-07-24 01:33:31.125616",
+    "updated_at": "2018-08-24 00:41:23.978207",
+    "country": "United States",
+    "longitude": "-72.6064122239763",
+    "latitude": "42.4460651094895",
+    "tags": []
+  }
+]

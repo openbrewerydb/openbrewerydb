@@ -1,0 +1,53 @@
+[
+  {
+    "id": "mashcraft-brewing",
+    "name": "MashCraft Brewing",
+    "brewery_type": "micro",
+    "street": "1140 N State Road 135 Ste M",
+    "city": "Greenwood",
+    "state": "Indiana",
+    "postal_code": "46142-1016",
+    "website_url": "http://www.mashcraft.com",
+    "phone": "3172154578",
+    "created_at": "2018-07-24 01:33:22.409444",
+    "updated_at": "2018-08-11 21:37:20.383615",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "oaken-barrel-brewing-co",
+    "name": "Oaken Barrel Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "50 Airport Pkwy Ste L",
+    "city": "Greenwood",
+    "state": "Indiana",
+    "postal_code": "46143-1438",
+    "website_url": "http://www.oakenbarrel.com",
+    "phone": "3178872287",
+    "created_at": "2018-07-24 01:33:22.55685",
+    "updated_at": "2018-08-11 21:37:20.740855",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "planetary-brewing-company",
+    "name": "Planetary Brewing Company",
+    "brewery_type": "micro",
+    "street": "500 Polk St Ste 22",
+    "city": "Greenwood",
+    "state": "Indiana",
+    "postal_code": "46143-1638",
+    "website_url": "http://www.planetarybrewing.com",
+    "phone": "3172154941",
+    "created_at": "2018-07-24 01:33:22.618617",
+    "updated_at": "2018-08-11 21:37:20.902708",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

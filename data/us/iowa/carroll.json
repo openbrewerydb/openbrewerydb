@@ -1,0 +1,19 @@
+[
+  {
+    "id": "carroll-brewing-co",
+    "name": "Carroll Brewing Co.",
+    "brewery_type": "micro",
+    "street": "226 E 5th St",
+    "city": "Carroll",
+    "state": "Iowa",
+    "postal_code": "51401-2743",
+    "website_url": "http://www.carrollbrewing.com",
+    "phone": "5157090030",
+    "created_at": "2018-07-24 01:33:23.514637",
+    "updated_at": "2018-08-24 00:33:52.0455",
+    "country": "United States",
+    "longitude": "-94.8653400750047",
+    "latitude": "42.0638586825848",
+    "tags": []
+  }
+]

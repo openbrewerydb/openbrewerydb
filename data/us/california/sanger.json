@@ -1,0 +1,19 @@
+[
+  {
+    "id": "house-of-pendragon-brewing-co",
+    "name": "House Of Pendragon Brewing Co",
+    "brewery_type": "micro",
+    "street": "1849 Industrial Way Ste 103",
+    "city": "Sanger",
+    "state": "California",
+    "postal_code": "93657-8727",
+    "website_url": "http://www.hopbeer.com",
+    "phone": "5593467786",
+    "created_at": "2018-07-24 01:32:56.686243",
+    "updated_at": "2018-08-23 23:29:38.23035",
+    "country": "United States",
+    "longitude": "-119.549609431485",
+    "latitude": "36.6892344202513",
+    "tags": []
+  }
+]

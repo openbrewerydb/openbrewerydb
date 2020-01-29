@@ -1,0 +1,19 @@
+[
+  {
+    "id": "yellow-bridge-brewing-co",
+    "name": "Yellow Bridge Brewing Co.",
+    "brewery_type": "micro",
+    "street": "2266 Route 66",
+    "city": "Delmont",
+    "state": "Pennsylvania",
+    "postal_code": "15626-1461",
+    "website_url": "http://www.yellowbridgebrewing.com",
+    "phone": "7243003922",
+    "created_at": "2018-07-24 01:34:13.576874",
+    "updated_at": "2018-08-11 21:39:33.547706",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

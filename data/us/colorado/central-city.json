@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dostal-alley-brewing-co",
+    "name": "Dostal Alley Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "116 Main St",
+    "city": "Central City",
+    "state": "Colorado",
+    "postal_code": "80427",
+    "website_url": "http://www.dostalalley.net",
+    "phone": "3035821610",
+    "created_at": "2018-07-24 01:33:05.12805",
+    "updated_at": "2018-08-24 00:22:52.060739",
+    "country": "United States",
+    "longitude": "-105.512426",
+    "latitude": "39.8001431",
+    "tags": []
+  }
+]

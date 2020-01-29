@@ -1,0 +1,19 @@
+[
+  {
+    "id": "inventors-brewpub",
+    "name": "Inventors Brewpub",
+    "brewery_type": "brewpub",
+    "street": "435 N Lake St",
+    "city": "Port Washington",
+    "state": "Wisconsin",
+    "postal_code": "53074-1608",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:35.611",
+    "updated_at": "2018-08-24 16:43:42.68768",
+    "country": "United States",
+    "longitude": "-87.8670010500134",
+    "latitude": "43.3919503946063",
+    "tags": []
+  }
+]

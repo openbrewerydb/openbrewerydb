@@ -1,0 +1,19 @@
+[
+  {
+    "id": "arch-rock-brewing-co",
+    "name": "Arch Rock Brewing Co",
+    "brewery_type": "micro",
+    "street": "28779 Hunter Creek Loop",
+    "city": "Gold Beach",
+    "state": "Oregon",
+    "postal_code": "97444-9626",
+    "website_url": "http://www.archrockbrewingcompany.com",
+    "phone": "5412470555",
+    "created_at": "2018-07-24 01:34:04.64095",
+    "updated_at": "2018-08-24 15:45:49.997045",
+    "country": "United States",
+    "longitude": "-124.4155402",
+    "latitude": "42.3898306",
+    "tags": []
+  }
+]

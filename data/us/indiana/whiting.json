@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bulldog-brewing",
+    "name": "Bulldog Brewing",
+    "brewery_type": "brewpub",
+    "street": "1409 119th St",
+    "city": "Whiting",
+    "state": "Indiana",
+    "postal_code": "46394-1714",
+    "website_url": "http://www.bulldogbrewingco.com",
+    "phone": "2196555284",
+    "created_at": "2018-07-24 01:33:21.613796",
+    "updated_at": "2018-08-24 00:32:39.781341",
+    "country": "United States",
+    "longitude": "-87.4951351",
+    "latitude": "41.679491",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mad-river-brewing-co",
+    "name": "Mad River Brewing Co",
+    "brewery_type": "micro",
+    "street": "101 Taylor Way",
+    "city": "Blue Lake",
+    "state": "California",
+    "postal_code": "95525",
+    "website_url": "http://www.madriverbrewing.com",
+    "phone": "7076684151",
+    "created_at": "2018-07-24 01:32:58.08063",
+    "updated_at": "2018-08-23 23:59:19.684163",
+    "country": "United States",
+    "longitude": "-123.992063",
+    "latitude": "40.878682",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ochoco-brewing-co",
+    "name": "Ochoco Brewing Co",
+    "brewery_type": "micro",
+    "street": "380 N Main St",
+    "city": "Prineville",
+    "state": "Oregon",
+    "postal_code": "97754-1852",
+    "website_url": "http://www.ochocobrewing.com",
+    "phone": "5412330883",
+    "created_at": "2018-07-24 01:34:07.138535",
+    "updated_at": "2018-08-24 16:03:46.774106",
+    "country": "United States",
+    "longitude": "-120.846967510482",
+    "latitude": "44.3035904064028",
+    "tags": []
+  }
+]

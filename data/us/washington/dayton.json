@@ -1,0 +1,19 @@
+[
+  {
+    "id": "chief-springs-fire-and-irons-brew-pub",
+    "name": "Chief Spring's Fire and Irons Brew Pub",
+    "brewery_type": "brewpub",
+    "street": "148 E Main St",
+    "city": "Dayton",
+    "state": "Washington",
+    "postal_code": "99328-1351",
+    "website_url": "http://www.fireandironsbrewpub.com",
+    "phone": "5093824677",
+    "created_at": "2018-07-24 01:34:28.873994",
+    "updated_at": "2018-08-24 16:33:28.636505",
+    "country": "United States",
+    "longitude": "-117.9811345",
+    "latitude": "46.3192285",
+    "tags": []
+  }
+]

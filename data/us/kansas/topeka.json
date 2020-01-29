@@ -1,0 +1,53 @@
+[
+  {
+    "id": "norsemen-brewing-co",
+    "name": "Norsemen Brewing Co.",
+    "brewery_type": "micro",
+    "street": "830 N Kansas Ave",
+    "city": "Topeka",
+    "state": "Kansas",
+    "postal_code": "66608-1211",
+    "website_url": "http://www.norsemenbrewingco.com",
+    "phone": "7856085065",
+    "created_at": "2018-07-24 01:33:24.928953",
+    "updated_at": "2018-08-24 00:38:31.829744",
+    "country": "United States",
+    "longitude": "-95.6663741987798",
+    "latitude": "39.06706165",
+    "tags": []
+  },
+  {
+    "id": "blind-tiger-brewery-and-restaurant",
+    "name": "Blind Tiger Brewery & Restaurant",
+    "brewery_type": "brewpub",
+    "street": "417 SW 37th St",
+    "city": "Topeka",
+    "state": "Kansas",
+    "postal_code": "66611-2354",
+    "website_url": "http://www.blindtiger.com",
+    "phone": "7852672739",
+    "created_at": "2018-07-24 01:33:24.624657",
+    "updated_at": "2018-08-24 00:38:21.655616",
+    "country": "United States",
+    "longitude": "-95.6846745",
+    "latitude": "39.0002602",
+    "tags": []
+  },
+  {
+    "id": "happy-basset-brewing-company",
+    "name": "Happy Basset Brewing Company",
+    "brewery_type": "micro",
+    "street": "6044 SW 29th St",
+    "city": "Topeka",
+    "state": "Kansas",
+    "postal_code": "66614-4268",
+    "website_url": "http://www.happybassetbrewingco.com",
+    "phone": "7857833688",
+    "created_at": "2018-07-24 01:33:24.823959",
+    "updated_at": "2018-08-24 00:38:28.366484",
+    "country": "United States",
+    "longitude": "-95.7637047017646",
+    "latitude": "39.0146636085526",
+    "tags": []
+  }
+]

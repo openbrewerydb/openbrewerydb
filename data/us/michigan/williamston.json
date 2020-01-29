@@ -1,0 +1,36 @@
+[
+  {
+    "id": "michigan-brewing-works",
+    "name": "Michigan Brewing Works",
+    "brewery_type": "brewpub",
+    "street": "3435 Dietz Rd",
+    "city": "Williamston",
+    "state": "Michigan",
+    "postal_code": "48895-9506",
+    "website_url": "",
+    "phone": "5176557777",
+    "created_at": "2018-07-24 01:33:35.488495",
+    "updated_at": "2018-08-11 21:37:52.738389",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "old-nation-brewing-company",
+    "name": "Old Nation Brewing Company",
+    "brewery_type": "micro",
+    "street": "1500 W. Grand River Ave",
+    "city": "Williamston",
+    "state": "Michigan",
+    "postal_code": "48895-97ND",
+    "website_url": "http://www.oldnationbrewing.com",
+    "phone": "5176551301",
+    "created_at": "2018-07-24 01:33:35.81304",
+    "updated_at": "2018-08-24 00:43:45.715787",
+    "country": "United States",
+    "longitude": "-84.2899561",
+    "latitude": "42.6878555",
+    "tags": []
+  }
+]

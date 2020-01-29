@@ -1,0 +1,19 @@
+[
+  {
+    "id": "red-cypress-brewery",
+    "name": "Red Cypress Brewery",
+    "brewery_type": "micro",
+    "street": "855 E SR 434",
+    "city": "Winter Springs",
+    "state": "Florida",
+    "postal_code": "32708-2704",
+    "website_url": "http://www.redcypressbrewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:14.314859",
+    "updated_at": "2018-08-11 21:36:58.095128",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

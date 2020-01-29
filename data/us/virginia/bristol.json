@@ -1,0 +1,36 @@
+[
+  {
+    "id": "studio-brew",
+    "name": "Studio Brew",
+    "brewery_type": "brewpub",
+    "street": "221 Moore St",
+    "city": "Bristol",
+    "state": "Virginia",
+    "postal_code": "24201-4302",
+    "website_url": "http://www.studiobrew.beer",
+    "phone": "4233603258",
+    "created_at": "2018-07-24 01:34:26.994861",
+    "updated_at": "2018-08-24 16:31:01.113455",
+    "country": "United States",
+    "longitude": "-82.1823137347038",
+    "latitude": "36.5986280768857",
+    "tags": []
+  },
+  {
+    "id": "bristol-station-brews-and-taproom",
+    "name": "Bristol Station Brews & Taproom",
+    "brewery_type": "micro",
+    "street": "41 Piedmont Ave",
+    "city": "Bristol",
+    "state": "Virginia",
+    "postal_code": "24201-4160",
+    "website_url": "http://www.bristolbrew.com",
+    "phone": "2766081220",
+    "created_at": "2018-07-24 01:34:24.783886",
+    "updated_at": "2018-08-24 16:27:54.339695",
+    "country": "United States",
+    "longitude": "-82.1842084967108",
+    "latitude": "36.59629295",
+    "tags": []
+  }
+]

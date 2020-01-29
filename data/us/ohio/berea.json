@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cornerstone-brewing-co",
+    "name": "Cornerstone Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "58 Front St",
+    "city": "Berea",
+    "state": "Ohio",
+    "postal_code": "44017-1911",
+    "website_url": "",
+    "phone": "4402399820",
+    "created_at": "2018-07-24 01:34:00.348444",
+    "updated_at": "2018-08-24 15:43:40.964196",
+    "country": "United States",
+    "longitude": "-81.8530486666667",
+    "latitude": "41.3668538484849",
+    "tags": []
+  }
+]

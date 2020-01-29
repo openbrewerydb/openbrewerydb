@@ -1,0 +1,19 @@
+[
+  {
+    "id": "highway-1-brewing-company",
+    "name": "Highway 1 Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "5720 Cabrillo Hwy",
+    "city": "Pescadero",
+    "state": "California",
+    "postal_code": "94060-9725",
+    "website_url": "http://www.highway1brewing.com",
+    "phone": "6508799243",
+    "created_at": "2018-07-24 01:32:56.486119",
+    "updated_at": "2018-08-23 23:29:25.326482",
+    "country": "United States",
+    "longitude": "-122.411815",
+    "latitude": "37.229747",
+    "tags": []
+  }
+]

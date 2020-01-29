@@ -1,0 +1,19 @@
+[
+  {
+    "id": "benford-brewing-co",
+    "name": "Benford Brewing Co.",
+    "brewery_type": "micro",
+    "street": "2271 Boxcar Rd",
+    "city": "Lancaster",
+    "state": "South Carolina",
+    "postal_code": "29720-9443",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:14.027855",
+    "updated_at": "2018-08-11 21:39:34.939164",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

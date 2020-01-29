@@ -1,0 +1,19 @@
+[
+  {
+    "id": "jolly-pumpkin-artisan-ales",
+    "name": "Jolly Pumpkin Artisan Ales",
+    "brewery_type": "micro",
+    "street": "2319 Bishop Cir E",
+    "city": "Dexter",
+    "state": "Michigan",
+    "postal_code": "48130-1567",
+    "website_url": "http://www.jollypumpkin.com",
+    "phone": "7344264962",
+    "created_at": "2018-07-24 01:33:35.002225",
+    "updated_at": "2018-08-24 00:43:18.584476",
+    "country": "United States",
+    "longitude": "-83.8768368213333",
+    "latitude": "42.3248727749811",
+    "tags": []
+  }
+]

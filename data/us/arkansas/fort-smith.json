@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fort-smith-brewing-company",
+    "name": "Fort Smith Brewing Company",
+    "brewery_type": "micro",
+    "street": "7500 Fort Chaffee Blvd",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "postal_code": "72916-6086",
+    "website_url": "http://www.fsbrewco.com",
+    "phone": "4792423722",
+    "created_at": "2018-07-24 01:32:50.540982",
+    "updated_at": "2018-08-23 23:23:17.173381",
+    "country": "United States",
+    "longitude": "-94.298483",
+    "latitude": "35.310777",
+    "tags": []
+  }
+]

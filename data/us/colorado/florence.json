@@ -1,0 +1,19 @@
+[
+  {
+    "id": "florence-brewing-company",
+    "name": "Florence Brewing Company",
+    "brewery_type": "micro",
+    "street": "200 S Pikes Peak Ave",
+    "city": "Florence",
+    "state": "Colorado",
+    "postal_code": "81226-1433",
+    "website_url": "http://www.florencebrewing.com",
+    "phone": "7197847441",
+    "created_at": "2018-07-24 01:33:05.460909",
+    "updated_at": "2018-08-24 00:23:05.452614",
+    "country": "United States",
+    "longitude": "-105.1177755",
+    "latitude": "38.3899222",
+    "tags": []
+  }
+]

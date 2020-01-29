@@ -1,0 +1,19 @@
+[
+  {
+    "id": "16-mile-brewing-co",
+    "name": "16 Mile Brewing Co",
+    "brewery_type": "micro",
+    "street": "413 S Bedford St",
+    "city": "Georgetown",
+    "state": "Delaware",
+    "postal_code": "19947-1849",
+    "website_url": "http://www.16milebrewery.com",
+    "phone": "3022538816",
+    "created_at": "2018-07-24 01:33:10.394818",
+    "updated_at": "2018-08-24 00:25:57.579819",
+    "country": "United States",
+    "longitude": "-75.3781643624989",
+    "latitude": "38.6788938",
+    "tags": []
+  }
+]

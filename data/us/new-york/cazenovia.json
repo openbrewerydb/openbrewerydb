@@ -1,0 +1,36 @@
+[
+  {
+    "id": "critz-farms-brewing-and-cider-co",
+    "name": "Critz Farms Brewing & Cider Co.",
+    "brewery_type": "micro",
+    "street": "3232 Rippleton Rd",
+    "city": "Cazenovia",
+    "state": "New York",
+    "postal_code": "13035-9693",
+    "website_url": "http://www.critzfarms.com",
+    "phone": "3156623355",
+    "created_at": "2018-07-24 01:33:50.467621",
+    "updated_at": "2018-08-24 15:38:39.321759",
+    "country": "United States",
+    "longitude": "-75.8746342",
+    "latitude": "42.8805302",
+    "tags": []
+  },
+  {
+    "id": "empire-farm-brewery",
+    "name": "Empire Farm Brewery",
+    "brewery_type": "micro",
+    "street": "33 Rippleton Rd",
+    "city": "Cazenovia",
+    "state": "New York",
+    "postal_code": "13035-9601",
+    "website_url": "http://www.empirebrew.com",
+    "phone": "3156552337",
+    "created_at": "2018-07-24 01:33:50.740709",
+    "updated_at": "2018-08-24 15:38:48.351271",
+    "country": "United States",
+    "longitude": "-75.8664345",
+    "latitude": "42.9197307",
+    "tags": []
+  }
+]

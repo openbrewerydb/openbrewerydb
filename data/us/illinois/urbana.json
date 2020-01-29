@@ -1,0 +1,19 @@
+[
+  {
+    "id": "riggs-beer-company",
+    "name": "Riggs Beer Company",
+    "brewery_type": "micro",
+    "street": "1901 S High Cross Rd",
+    "city": "Urbana",
+    "state": "Illinois",
+    "postal_code": "61802-7843",
+    "website_url": "http://www.riggsbeer.com",
+    "phone": "2177185345",
+    "created_at": "2018-07-24 01:33:20.412884",
+    "updated_at": "2018-08-24 00:31:59.689604",
+    "country": "United States",
+    "longitude": "-88.1624518780488",
+    "latitude": "40.0936728829268",
+    "tags": []
+  }
+]

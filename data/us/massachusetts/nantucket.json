@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cisco-brewers",
+    "name": "Cisco Brewers",
+    "brewery_type": "micro",
+    "street": "5 Bartlett Farm Rd",
+    "city": "Nantucket",
+    "state": "Massachusetts",
+    "postal_code": "02554-4341",
+    "website_url": "http://www.ciscobrewers.com",
+    "phone": "5083255929",
+    "created_at": "2018-07-24 01:33:30.775775",
+    "updated_at": "2018-08-24 00:41:13.666331",
+    "country": "United States",
+    "longitude": "-70.1292844954849",
+    "latitude": "41.2613581544694",
+    "tags": []
+  }
+]

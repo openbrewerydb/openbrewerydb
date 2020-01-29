@@ -1,0 +1,53 @@
+[
+  {
+    "id": "market-cross-pub-and-brewery",
+    "name": "Market Cross Pub & Brewery",
+    "brewery_type": "micro",
+    "street": "113 N Hanover St",
+    "city": "Carlisle",
+    "state": "Pennsylvania",
+    "postal_code": "17013-2422",
+    "website_url": "http://www.marketcrosspub.com",
+    "phone": "7172581234",
+    "created_at": "2018-07-24 01:34:11.528007",
+    "updated_at": "2018-08-24 16:10:12.931474",
+    "country": "United States",
+    "longitude": "-77.1887288571429",
+    "latitude": "40.2033574285714",
+    "tags": []
+  },
+  {
+    "id": "molly-pitcher-brewing-co",
+    "name": "Molly Pitcher Brewing Co",
+    "brewery_type": "micro",
+    "street": "10 E South St",
+    "city": "Carlisle",
+    "state": "Pennsylvania",
+    "postal_code": "17013-3426",
+    "website_url": "http://www.mollypitcher.com",
+    "phone": "7176090969",
+    "created_at": "2018-07-24 01:34:11.696431",
+    "updated_at": "2018-08-24 16:10:29.3916",
+    "country": "United States",
+    "longitude": "-77.1890465",
+    "latitude": "40.1982144",
+    "tags": []
+  },
+  {
+    "id": "desperate-times-brewing-co",
+    "name": "Desperate Times Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1201 Carlisle Springs Rd",
+    "city": "Carlisle",
+    "state": "Pennsylvania",
+    "postal_code": "17013-1554",
+    "website_url": "http://www.desperatetimesbrewery.com",
+    "phone": "7177063192",
+    "created_at": "2018-07-24 01:34:10.194111",
+    "updated_at": "2018-08-24 16:08:09.028482",
+    "country": "United States",
+    "longitude": "-77.187054",
+    "latitude": "40.213096",
+    "tags": []
+  }
+]

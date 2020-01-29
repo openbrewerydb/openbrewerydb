@@ -1,0 +1,36 @@
+[
+  {
+    "id": "mountain-town-station-restaurant-and-brew-pub",
+    "name": "Mountain Town Station Restaurant & Brew Pub",
+    "brewery_type": "brewpub",
+    "street": "506 W Broadway St",
+    "city": "Mt Pleasant",
+    "state": "Michigan",
+    "postal_code": "48858-2441",
+    "website_url": "http://www.mountaintownbrew.com",
+    "phone": "9894004666",
+    "created_at": "2018-07-24 01:33:35.598083",
+    "updated_at": "2018-08-24 00:43:38.551163",
+    "country": "United States",
+    "longitude": "-84.7822205",
+    "latitude": "43.604568",
+    "tags": []
+  },
+  {
+    "id": "mountain-town-brewing-co",
+    "name": "Mountain Town Brewing Co",
+    "brewery_type": "micro",
+    "street": "614 W Pickard St",
+    "city": "Mt Pleasant",
+    "state": "Michigan",
+    "postal_code": "48858-1504",
+    "website_url": "http://www.mountaintownbrew.com",
+    "phone": "9894004666",
+    "created_at": "2018-07-24 01:33:35.58491",
+    "updated_at": "2018-08-24 00:43:38.10377",
+    "country": "United States",
+    "longitude": "-84.7868955164943",
+    "latitude": "43.6118094755558",
+    "tags": []
+  }
+]

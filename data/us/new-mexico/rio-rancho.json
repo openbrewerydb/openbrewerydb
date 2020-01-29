@@ -1,0 +1,53 @@
+[
+  {
+    "id": "the-blue-grasshopper-brew-pub",
+    "name": "The Blue Grasshopper Brew Pub",
+    "brewery_type": "brewpub",
+    "street": "4500 Arrowhead Ridge Dr SE",
+    "city": "Rio Rancho",
+    "state": "New Mexico",
+    "postal_code": "87124-5986",
+    "website_url": "http://www.bghnm.com",
+    "phone": "5058968579",
+    "created_at": "2018-07-24 01:33:48.732605",
+    "updated_at": "2018-08-24 15:37:50.318435",
+    "country": "United States",
+    "longitude": "-106.648789",
+    "latitude": "35.254421",
+    "tags": []
+  },
+  {
+    "id": "las-cazuelas-brewing",
+    "name": "Las Cazuelas Brewing",
+    "brewery_type": "brewpub",
+    "street": "4051 Sara Rd SE",
+    "city": "Rio Rancho",
+    "state": "New Mexico",
+    "postal_code": "87124-1031",
+    "website_url": "http://www.cazuelasmexicangrill.com",
+    "phone": "5059949364",
+    "created_at": "2018-07-24 01:33:48.282043",
+    "updated_at": "2018-08-24 15:37:35.42044",
+    "country": "United States",
+    "longitude": "-106.655968640137",
+    "latitude": "35.2314230567314",
+    "tags": []
+  },
+  {
+    "id": "turtle-mountain-brewing-co",
+    "name": "Turtle Mountain Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "905 36th Pl SE Ste C",
+    "city": "Rio Rancho",
+    "state": "New Mexico",
+    "postal_code": "87124-4850",
+    "website_url": "http://www.turtlemountainbrewing.com",
+    "phone": "5059949497",
+    "created_at": "2018-07-24 01:33:48.812568",
+    "updated_at": "2018-08-11 21:38:28.802501",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-ommegang",
+    "name": "Brewery Ommegang",
+    "brewery_type": "regional",
+    "street": "656 County Highway 33",
+    "city": "Cooperstown",
+    "state": "New York",
+    "postal_code": "13326-4737",
+    "website_url": "http://www.ommegang.com",
+    "phone": "8005441809",
+    "created_at": "2018-07-24 01:33:49.822527",
+    "updated_at": "2018-08-24 15:38:16.916099",
+    "country": "United States",
+    "longitude": "-74.855063",
+    "latitude": "42.753418",
+    "tags": []
+  },
+  {
+    "id": "council-rock-brewery",
+    "name": "Council Rock Brewery",
+    "brewery_type": "brewpub",
+    "street": "4861 State Highway 28 Ste 3",
+    "city": "Cooperstown",
+    "state": "New York",
+    "postal_code": "13326-5229",
+    "website_url": "http://www.councilrockbrewery.com",
+    "phone": "6076433016",
+    "created_at": "2018-07-24 01:33:50.401086",
+    "updated_at": "2018-08-11 21:38:32.842685",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

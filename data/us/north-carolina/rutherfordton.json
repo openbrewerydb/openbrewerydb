@@ -1,0 +1,19 @@
+[
+  {
+    "id": "yellow-sun-brewing-company",
+    "name": "Yellow Sun Brewing Company",
+    "brewery_type": "micro",
+    "street": "127 Trade St",
+    "city": "Rutherfordton",
+    "state": "North Carolina",
+    "postal_code": "28139-2849",
+    "website_url": "http://www.yellowsunbrewing.com",
+    "phone": "8283750089",
+    "created_at": "2018-07-24 01:33:58.984268",
+    "updated_at": "2018-08-24 15:43:09.703282",
+    "country": "United States",
+    "longitude": "-81.9581017",
+    "latitude": "35.3666796",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "roaring-table-brewing",
+    "name": "Roaring Table Brewing",
+    "brewery_type": "micro",
+    "street": "739 W IL 22",
+    "city": "Lake Zurich",
+    "state": "Illinois",
+    "postal_code": "60047",
+    "website_url": "http://www.roaringtable.com",
+    "phone": "2246624562",
+    "created_at": "2018-07-24 01:33:20.462185",
+    "updated_at": "2018-08-11 21:37:15.236898",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

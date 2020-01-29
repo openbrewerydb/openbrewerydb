@@ -1,0 +1,19 @@
+[
+  {
+    "id": "round-guys-brewing-co",
+    "name": "Round Guys Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "324 W Main St",
+    "city": "Lansdale",
+    "state": "Pennsylvania",
+    "postal_code": "19446-2006",
+    "website_url": "http://www.roundguysbrewery.com",
+    "phone": "6107151512",
+    "created_at": "2018-07-24 01:34:12.364973",
+    "updated_at": "2018-08-24 16:11:34.076289",
+    "country": "United States",
+    "longitude": "-75.2863088163265",
+    "latitude": "40.2433784285714",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "backroad-brewery",
+    "name": "BackRoad Brewery",
+    "brewery_type": "micro",
+    "street": "90 School St",
+    "city": "Carlisle",
+    "state": "Iowa",
+    "postal_code": "50047",
+    "website_url": "http://www.backroadbeer.com",
+    "phone": "5152102096",
+    "created_at": "2018-07-24 01:33:23.392487",
+    "updated_at": "2018-08-24 00:33:46.19053",
+    "country": "United States",
+    "longitude": "-93.4853176666667",
+    "latitude": "41.498501",
+    "tags": []
+  }
+]

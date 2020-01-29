@@ -1,0 +1,53 @@
+[
+  {
+    "id": "eleven-lakes-brewing-company",
+    "name": "Eleven Lakes Brewing Company",
+    "brewery_type": "micro",
+    "street": "10228 Bailey Rd Ste 201",
+    "city": "Cornelius",
+    "state": "North Carolina",
+    "postal_code": "28031-9420",
+    "website_url": "http://www.elevenlakesbrewing.com",
+    "phone": "7044000927",
+    "created_at": "2018-07-24 01:33:56.088073",
+    "updated_at": "2018-08-24 15:41:38.237322",
+    "country": "United States",
+    "longitude": "-80.8605492789893",
+    "latitude": "35.4540068565198",
+    "tags": []
+  },
+  {
+    "id": "ass-clown-brewing-co",
+    "name": "Ass Clown Brewing Co",
+    "brewery_type": "micro",
+    "street": "10620 Bailey Rd Ste E",
+    "city": "Cornelius",
+    "state": "North Carolina",
+    "postal_code": "28031-9364",
+    "website_url": "http://www.assclownbrewery.com",
+    "phone": "9805050399",
+    "created_at": "2018-07-24 01:33:54.922847",
+    "updated_at": "2018-08-11 21:38:44.700177",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "d9-brewing-company",
+    "name": "D9 Brewing Company",
+    "brewery_type": "micro",
+    "street": "11138 Treynorth Dr Ste C",
+    "city": "Cornelius",
+    "state": "North Carolina",
+    "postal_code": "28031-8186",
+    "website_url": "http://www.d9brewing.com",
+    "phone": "7044579368",
+    "created_at": "2018-07-24 01:33:55.924576",
+    "updated_at": "2018-08-11 21:38:47.272671",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

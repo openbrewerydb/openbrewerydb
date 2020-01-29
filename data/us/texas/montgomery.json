@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cyclers-brewing",
+    "name": "Cycler's Brewing",
+    "brewery_type": "micro",
+    "street": "17105 Osborn Rd",
+    "city": "Montgomery",
+    "state": "Texas",
+    "postal_code": "77356",
+    "website_url": "http://www.cyclersbrewing.com",
+    "phone": "7135692485",
+    "created_at": "2018-07-24 01:34:18.832961",
+    "updated_at": "2018-08-11 21:39:48.543951",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "san-jacinto-brewing-company",
+    "name": "San Jacinto Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Montgomery",
+    "state": "Texas",
+    "postal_code": "77316-9200",
+    "website_url": "",
+    "phone": "2813808200",
+    "created_at": "2018-07-24 01:34:21.117388",
+    "updated_at": "2018-08-11 21:39:54.007169",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

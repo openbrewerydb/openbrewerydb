@@ -1,0 +1,19 @@
+[
+  {
+    "id": "red-oak-brewing-co",
+    "name": "Red Oak Brewing Co",
+    "brewery_type": "regional",
+    "street": "6901 Konica Dr",
+    "city": "Whitsett",
+    "state": "North Carolina",
+    "postal_code": "27377-9787",
+    "website_url": "http://www.redoakbrewery.com",
+    "phone": "3362993649",
+    "created_at": "2018-07-24 01:33:57.91521",
+    "updated_at": "2018-08-11 21:38:51.910919",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

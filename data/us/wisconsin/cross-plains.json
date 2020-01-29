@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cross-plains-brewery-inc",
+    "name": "Cross Plains Brewery Inc.",
+    "brewery_type": "contract",
+    "street": "2109 Hickory St",
+    "city": "Cross Plains",
+    "state": "Wisconsin",
+    "postal_code": "53528-9700",
+    "website_url": "http://www.essersbest.com",
+    "phone": "6087983911",
+    "created_at": "2018-07-24 01:34:35.059579",
+    "updated_at": "2018-08-24 16:42:43.709016",
+    "country": "United States",
+    "longitude": "-89.6529392177922",
+    "latitude": "43.1142776522926",
+    "tags": []
+  }
+]

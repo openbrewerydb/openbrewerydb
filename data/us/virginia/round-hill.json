@@ -1,0 +1,19 @@
+[
+  {
+    "id": "b-chord-brewing-company",
+    "name": "B Chord Brewing Company",
+    "brewery_type": "micro",
+    "street": "34266 Williams Gap Rd",
+    "city": "Round Hill",
+    "state": "Virginia",
+    "postal_code": "20141-2100",
+    "website_url": "http://www.bchordbrewing.com",
+    "phone": "7036234542",
+    "created_at": "2018-07-24 01:34:24.165147",
+    "updated_at": "2018-08-11 21:40:01.780696",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rek-lis-brewing-company",
+    "name": "Rek-Lis Brewing Company",
+    "brewery_type": "micro",
+    "street": "2085 Main Street",
+    "city": "Bethlehem",
+    "state": "New Hampshire",
+    "postal_code": "03574",
+    "website_url": "http://tbd",
+    "phone": "6033701932",
+    "created_at": "2018-07-24 01:33:45.676924",
+    "updated_at": "2018-08-24 15:36:16.384822",
+    "country": "United States",
+    "longitude": "-71.687376",
+    "latitude": "44.28042825",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "scratch-brewing-company",
+    "name": "Scratch Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "264 Thompson Rd",
+    "city": "Ava",
+    "state": "Illinois",
+    "postal_code": "62907-2658",
+    "website_url": "http://www.scratchbeer.com",
+    "phone": "6184261415",
+    "created_at": "2018-07-24 01:33:20.583467",
+    "updated_at": "2018-08-11 21:37:15.481283",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

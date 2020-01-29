@@ -1,0 +1,19 @@
+[
+  {
+    "id": "schilling-beer-co",
+    "name": "Schilling Beer Co",
+    "brewery_type": "brewpub",
+    "street": "18 Mill St",
+    "city": "Littleton",
+    "state": "New Hampshire",
+    "postal_code": "03561-4000",
+    "website_url": "http://www.schillingbeer.com",
+    "phone": "6034444800",
+    "created_at": "2018-07-24 01:33:45.706103",
+    "updated_at": "2018-08-24 15:36:17.502376",
+    "country": "United States",
+    "longitude": "-71.77281065",
+    "latitude": "44.30592045",
+    "tags": []
+  }
+]

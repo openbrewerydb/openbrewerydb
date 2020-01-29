@@ -1,0 +1,19 @@
+[
+  {
+    "id": "emmetts-brewing-co-palatine",
+    "name": "Emmett's Brewing Co - Palatine",
+    "brewery_type": "brewpub",
+    "street": "110 N Brockway St",
+    "city": "Palatine",
+    "state": "Illinois",
+    "postal_code": "60067-5063",
+    "website_url": "http://www.emmettsbrewingco.com",
+    "phone": "8473591533",
+    "created_at": "2018-07-24 01:33:18.736776",
+    "updated_at": "2018-08-24 00:30:52.629024",
+    "country": "United States",
+    "longitude": "-88.046297",
+    "latitude": "42.113322885284",
+    "tags": []
+  }
+]

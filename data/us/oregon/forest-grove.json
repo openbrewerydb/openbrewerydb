@@ -1,0 +1,53 @@
+[
+  {
+    "id": "kaiser-brewing-company-llc",
+    "name": "Kaiser Brewing Company, LLC",
+    "brewery_type": "micro",
+    "street": "1607 Hawthorne St",
+    "city": "Forest Grove",
+    "state": "Oregon",
+    "postal_code": "97116-2537",
+    "website_url": "http://www.kaiserbrewingco.com",
+    "phone": "5034129628",
+    "created_at": "2018-07-24 01:34:06.335348",
+    "updated_at": "2018-08-24 16:02:20.879791",
+    "country": "United States",
+    "longitude": "-123.099025351556",
+    "latitude": "45.51421585",
+    "tags": []
+  },
+  {
+    "id": "waltz-brewing",
+    "name": "Waltz Brewing",
+    "brewery_type": "micro",
+    "street": "1900 A St",
+    "city": "Forest Grove",
+    "state": "Oregon",
+    "postal_code": "97116-2303",
+    "website_url": "http://www.waltzbrewing.com",
+    "phone": "5038966057",
+    "created_at": "2018-07-24 01:34:08.300271",
+    "updated_at": "2018-08-24 16:05:38.592617",
+    "country": "United States",
+    "longitude": "-123.1142562",
+    "latitude": "45.5185238",
+    "tags": []
+  },
+  {
+    "id": "ridgewalker-brewing",
+    "name": "Ridgewalker Brewing",
+    "brewery_type": "brewpub",
+    "street": "1921 21st Ave",
+    "city": "Forest Grove",
+    "state": "Oregon",
+    "postal_code": "97116-1637",
+    "website_url": "",
+    "phone": "5038671634",
+    "created_at": "2018-07-24 01:34:07.504006",
+    "updated_at": "2018-08-24 16:04:24.817459",
+    "country": "United States",
+    "longitude": "-123.112996575014",
+    "latitude": "45.52115845",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sloop-brewing",
+    "name": "Sloop Brewing",
+    "brewery_type": "micro",
+    "street": "1065 County Route 19",
+    "city": "Elizaville",
+    "state": "New York",
+    "postal_code": "12523-1205",
+    "website_url": "http://www.sloopbrewing.com",
+    "phone": "9178483865",
+    "created_at": "2018-07-24 01:33:53.651345",
+    "updated_at": "2018-08-24 15:40:22.02246",
+    "country": "United States",
+    "longitude": "-73.797148",
+    "latitude": "42.084393",
+    "tags": []
+  }
+]

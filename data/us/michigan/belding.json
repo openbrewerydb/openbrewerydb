@@ -1,0 +1,19 @@
+[
+  {
+    "id": "belding-brewing-company",
+    "name": "Belding Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Belding",
+    "state": "Michigan",
+    "postal_code": "48809-1678",
+    "website_url": "",
+    "phone": "6163086285",
+    "created_at": "2018-07-24 01:33:32.930807",
+    "updated_at": "2018-08-11 21:37:45.750116",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

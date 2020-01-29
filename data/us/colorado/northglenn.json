@@ -1,0 +1,19 @@
+[
+  {
+    "id": "periodic-brewing-northglenn",
+    "name": "Periodic Brewing Northglenn",
+    "brewery_type": "micro",
+    "street": "2100 E 112th Ave",
+    "city": "Northglenn",
+    "state": "Colorado",
+    "postal_code": "80233-2345",
+    "website_url": "",
+    "phone": "7208641012",
+    "created_at": "2018-07-24 01:33:07.091847",
+    "updated_at": "2018-08-24 00:24:12.5802",
+    "country": "United States",
+    "longitude": "-104.961949519177",
+    "latitude": "39.8994022605306",
+    "tags": []
+  }
+]

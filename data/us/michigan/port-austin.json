@@ -1,0 +1,19 @@
+[
+  {
+    "id": "broken-rock-brewery",
+    "name": "Broken Rock Brewery",
+    "brewery_type": "brewpub",
+    "street": "282 Grindstone Rd Bird Creek Farms",
+    "city": "Port Austin",
+    "state": "Michigan",
+    "postal_code": "48467-9390",
+    "website_url": "http://birdcreekfarms.com",
+    "phone": "2487033114",
+    "created_at": "2018-07-24 01:33:33.528534",
+    "updated_at": "2018-08-11 21:37:47.229635",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

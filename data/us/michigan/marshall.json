@@ -1,0 +1,36 @@
+[
+  {
+    "id": "dark-horse-brewing-co",
+    "name": "Dark Horse Brewing Co",
+    "brewery_type": "micro",
+    "street": "511 S Kalamazoo Ave",
+    "city": "Marshall",
+    "state": "Michigan",
+    "postal_code": "49068-1718",
+    "website_url": "http://www.darkhorsebrewery.com",
+    "phone": "2697819940",
+    "created_at": "2018-07-24 01:33:33.879798",
+    "updated_at": "2018-08-24 00:42:41.488971",
+    "country": "United States",
+    "longitude": "-84.9639765227386",
+    "latitude": "42.2663882442096",
+    "tags": []
+  },
+  {
+    "id": "grand-river-brewery",
+    "name": "Grand River Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Marshall",
+    "state": "Michigan",
+    "postal_code": "49068-1521",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:34.509919",
+    "updated_at": "2018-08-11 21:37:49.649117",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

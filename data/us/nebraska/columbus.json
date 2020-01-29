@@ -1,0 +1,19 @@
+[
+  {
+    "id": "gottberg-brew-pub",
+    "name": "Gottberg Brew Pub",
+    "brewery_type": "brewpub",
+    "street": "2804 13th St",
+    "city": "Columbus",
+    "state": "Nebraska",
+    "postal_code": "68601-4919",
+    "website_url": "http://www.dustersrestaurant.com",
+    "phone": "4025626488",
+    "created_at": "2018-07-24 01:33:43.613728",
+    "updated_at": "2018-08-24 00:47:38.942249",
+    "country": "United States",
+    "longitude": "-97.3621271020408",
+    "latitude": "41.4294006122449",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "goat-ridge-brewing",
+    "name": "Goat Ridge Brewing",
+    "brewery_type": "micro",
+    "street": "17 Central Ave W",
+    "city": "New London",
+    "state": "Minnesota",
+    "postal_code": "56273-",
+    "website_url": "http://www.goatridgebrewing.com",
+    "phone": "3203542383",
+    "created_at": "2018-07-24 01:33:38.583262",
+    "updated_at": "2018-08-24 00:45:15.055862",
+    "country": "United States",
+    "longitude": "-94.9441265102041",
+    "latitude": "45.3011953673469",
+    "tags": []
+  }
+]

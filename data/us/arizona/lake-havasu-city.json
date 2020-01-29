@@ -1,0 +1,53 @@
+[
+  {
+    "id": "mudshark-brewing-co",
+    "name": "Mudshark Brewing Co",
+    "brewery_type": "micro",
+    "street": "210 Swanson Ave",
+    "city": "Lake Havasu City",
+    "state": "Arizona",
+    "postal_code": "86403-0966",
+    "website_url": "http://www.mudsharkbrewingco.com",
+    "phone": "9284532981",
+    "created_at": "2018-07-24 01:32:49.546846",
+    "updated_at": "2018-08-23 23:22:12.542209",
+    "country": "United States",
+    "longitude": "-114.342433477881",
+    "latitude": "34.4689736300844",
+    "tags": []
+  },
+  {
+    "id": "barley-brothers-brewery",
+    "name": "Barley Brothers Brewery",
+    "brewery_type": "brewpub",
+    "street": "1425 McCulloch Blvd N",
+    "city": "Lake Havasu City",
+    "state": "Arizona",
+    "postal_code": "86403-6597",
+    "website_url": "http://www.barleybrothers.com",
+    "phone": "9285057837",
+    "created_at": "2018-07-24 01:32:48.650646",
+    "updated_at": "2018-08-23 23:21:16.167787",
+    "country": "United States",
+    "longitude": "-114.3206399",
+    "latitude": "34.4770677",
+    "tags": []
+  },
+  {
+    "id": "college-street-brewhouse-and-pub",
+    "name": "College Street Brewhouse and Pub",
+    "brewery_type": "micro",
+    "street": "1940 College Dr",
+    "city": "Lake Havasu City",
+    "state": "Arizona",
+    "postal_code": "86403-1981",
+    "website_url": "",
+    "phone": "9288542739",
+    "created_at": "2018-07-24 01:32:48.847949",
+    "updated_at": "2018-08-23 23:21:29.516693",
+    "country": "United States",
+    "longitude": "-114.347596097639",
+    "latitude": "34.5075404422947",
+    "tags": []
+  }
+]

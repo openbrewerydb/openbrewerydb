@@ -1,0 +1,19 @@
+[
+  {
+    "id": "twisted-trunk-brewing-company",
+    "name": "Twisted Trunk Brewing Company",
+    "brewery_type": "micro",
+    "street": "2000 Pga Blvd Ste 5506",
+    "city": "North Palm Beach",
+    "state": "Florida",
+    "postal_code": "33408-2726",
+    "website_url": "http://www.twistedtrunkbrewing.com",
+    "phone": "5616712337",
+    "created_at": "2018-07-24 01:33:14.995394",
+    "updated_at": "2018-08-11 21:36:59.686228",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

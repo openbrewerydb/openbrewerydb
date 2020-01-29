@@ -1,0 +1,19 @@
+[
+  {
+    "id": "slowboat-brewing-company",
+    "name": "Slowboat Brewing Company",
+    "brewery_type": "micro",
+    "street": "318 W 5th St",
+    "city": "Laurel",
+    "state": "Mississippi",
+    "postal_code": "39440-3461",
+    "website_url": "http://www.slowboatbrewco.com",
+    "phone": "6014332723",
+    "created_at": "2018-07-24 01:33:40.299118",
+    "updated_at": "2018-08-24 00:46:06.913063",
+    "country": "United States",
+    "longitude": "-89.127895375",
+    "latitude": "31.6942523125",
+    "tags": []
+  }
+]

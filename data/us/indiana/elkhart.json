@@ -1,0 +1,53 @@
+[
+  {
+    "id": "iechyd-da-brewing",
+    "name": "Iechyd Da Brewing",
+    "brewery_type": "brewpub",
+    "street": "317 N Main St",
+    "city": "Elkhart",
+    "state": "Indiana",
+    "postal_code": "46516-3034",
+    "website_url": "http://www.iechyddabrewingcompany.com",
+    "phone": "5742930506",
+    "created_at": "2018-07-24 01:33:22.264397",
+    "updated_at": "2018-08-24 00:33:00.890925",
+    "country": "United States",
+    "longitude": "-85.9753133158581",
+    "latitude": "41.69004065",
+    "tags": []
+  },
+  {
+    "id": "brewery-in-planning-elkhart-in",
+    "name": "Brewery in Planning - Elkhart, IN",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Elkhart",
+    "state": "Indiana",
+    "postal_code": "46516",
+    "website_url": "http://sty.stedman@hotmail.com",
+    "phone": "9705979865",
+    "created_at": "2018-07-24 01:33:21.515907",
+    "updated_at": "2018-08-11 21:37:18.027337",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "westwind-brewery-co",
+    "name": "Westwind Brewery Co.",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Elkhart",
+    "state": "Indiana",
+    "postal_code": "46514-2204",
+    "website_url": "http://www.westwindbrewery.com",
+    "phone": "5742745073",
+    "created_at": "2018-07-24 01:33:23.222378",
+    "updated_at": "2018-08-11 21:37:22.42328",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

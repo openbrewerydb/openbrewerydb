@@ -1,0 +1,19 @@
+[
+  {
+    "id": "nocoast-beer-co",
+    "name": "NoCoast Beer Co",
+    "brewery_type": "micro",
+    "street": "1407 17th Ave E Ste B",
+    "city": "Oskaloosa",
+    "state": "Iowa",
+    "postal_code": "52577-3563",
+    "website_url": "http://www.nocoastbeer.co",
+    "phone": "6416733481",
+    "created_at": "2018-07-24 01:33:24.179817",
+    "updated_at": "2018-08-11 21:37:24.482123",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

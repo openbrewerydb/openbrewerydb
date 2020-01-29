@@ -1,0 +1,19 @@
+[
+  {
+    "id": "numbers-brewing-company",
+    "name": "Numbers Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "127 N Beaver St",
+    "city": "Lisbon",
+    "state": "Ohio",
+    "postal_code": "44432-1121",
+    "website_url": "",
+    "phone": "3308705305",
+    "created_at": "2018-07-24 01:34:02.192847",
+    "updated_at": "2018-08-24 15:44:37.896269",
+    "country": "United States",
+    "longitude": "-80.7697013842693",
+    "latitude": "40.7725335728921",
+    "tags": []
+  }
+]

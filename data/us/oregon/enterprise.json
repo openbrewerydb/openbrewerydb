@@ -1,0 +1,19 @@
+[
+  {
+    "id": "terminal-gravity-brewing-co",
+    "name": "Terminal Gravity Brewing Co",
+    "brewery_type": "micro",
+    "street": "803 SE School St",
+    "city": "Enterprise",
+    "state": "Oregon",
+    "postal_code": "97828-1674",
+    "website_url": "http://www.terminalgravitybrewing.com",
+    "phone": "5414260158",
+    "created_at": "2018-07-24 01:34:08.032435",
+    "updated_at": "2018-08-24 16:05:16.096374",
+    "country": "United States",
+    "longitude": "-117.2713718",
+    "latitude": "45.4187654",
+    "tags": []
+  }
+]

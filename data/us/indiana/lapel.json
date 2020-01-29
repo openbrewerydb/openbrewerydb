@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pax-verum-brewing",
+    "name": "Pax Verum Brewing",
+    "brewery_type": "micro",
+    "street": "908 N Main St",
+    "city": "Lapel",
+    "state": "Indiana",
+    "postal_code": "46051-",
+    "website_url": "http://www.paxverum.com",
+    "phone": "3172858819",
+    "created_at": "2018-07-24 01:33:22.593399",
+    "updated_at": "2018-08-24 00:33:12.824856",
+    "country": "United States",
+    "longitude": "-85.8480295714286",
+    "latitude": "40.0686987959184",
+    "tags": []
+  }
+]

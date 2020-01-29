@@ -1,0 +1,19 @@
+[
+  {
+    "id": "joyride-brewing-co",
+    "name": "Joyride Brewing Co",
+    "brewery_type": "micro",
+    "street": "2501 Sheridan Blvd",
+    "city": "Edgewater",
+    "state": "Colorado",
+    "postal_code": "80214-1330",
+    "website_url": "http://joyridebrewing.com",
+    "phone": "7204327560",
+    "created_at": "2018-07-24 01:33:06.146094",
+    "updated_at": "2018-08-24 00:23:34.219042",
+    "country": "United States",
+    "longitude": "-105.053492",
+    "latitude": "39.7531231",
+    "tags": []
+  }
+]

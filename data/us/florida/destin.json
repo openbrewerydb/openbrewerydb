@@ -1,0 +1,36 @@
+[
+  {
+    "id": "destin-brewery",
+    "name": "Destin Brewery",
+    "brewery_type": "micro",
+    "street": "505 Mountain Dr Ste N",
+    "city": "Destin",
+    "state": "Florida",
+    "postal_code": "32541-7334",
+    "website_url": "http://www.destinbrewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:12.570671",
+    "updated_at": "2018-08-11 21:36:53.619739",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "mcguires-irish-pub-and-brewery-destin",
+    "name": "McGuire's Irish Pub and Brewery - Destin",
+    "brewery_type": "brewpub",
+    "street": "33 Highway 98 E",
+    "city": "Destin",
+    "state": "Florida",
+    "postal_code": "32541-2309",
+    "website_url": "http://www.mcguiresirishpub.com",
+    "phone": "8506540567",
+    "created_at": "2018-07-24 01:33:13.696907",
+    "updated_at": "2018-08-11 21:36:56.47463",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mash-cult-brewing",
+    "name": "Mash Cult Brewing",
+    "brewery_type": "micro",
+    "street": "6823 Burlington Pike",
+    "city": "Florence",
+    "state": "Kentucky",
+    "postal_code": "41042-1616",
+    "website_url": "",
+    "phone": "8593714466",
+    "created_at": "2018-07-24 01:33:25.782594",
+    "updated_at": "2018-08-24 00:39:00.115414",
+    "country": "United States",
+    "longitude": "-84.6436665",
+    "latitude": "39.0008541",
+    "tags": []
+  }
+]

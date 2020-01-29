@@ -1,0 +1,19 @@
+[
+  {
+    "id": "uncle-bucks-brewery-and-steakhouse",
+    "name": "Uncle Buck's Brewery And Steakhouse",
+    "brewery_type": "brewpub",
+    "street": "2501 Bass Pro Dr",
+    "city": "Grapevine",
+    "state": "Texas",
+    "postal_code": "76051-2009",
+    "website_url": "http://restaurants.basspro.com/UncleBucksSteakhouse/",
+    "phone": "9726915100",
+    "created_at": "2018-07-24 01:34:22.075195",
+    "updated_at": "2018-08-11 21:39:56.386927",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

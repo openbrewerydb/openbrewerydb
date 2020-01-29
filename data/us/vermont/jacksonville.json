@@ -1,0 +1,19 @@
+[
+  {
+    "id": "jville-brewery",
+    "name": "J'ville Brewery",
+    "brewery_type": "micro",
+    "street": "201 Vt Route 112",
+    "city": "Jacksonville",
+    "state": "Vermont",
+    "postal_code": "05342-9634",
+    "website_url": "http://www.jvillebrewery.com",
+    "phone": "8023682233",
+    "created_at": "2018-07-24 01:34:23.425687",
+    "updated_at": "2018-08-11 21:39:59.857209",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

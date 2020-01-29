@@ -1,0 +1,53 @@
+[
+  {
+    "id": "lazy-monk-brewing",
+    "name": "Lazy Monk Brewing",
+    "brewery_type": "micro",
+    "street": "320 Putnam St Unit 4",
+    "city": "Eau Claire",
+    "state": "Wisconsin",
+    "postal_code": "54703-3896",
+    "website_url": "http://www.lazymonkbrewing.com",
+    "phone": "7152710848",
+    "created_at": "2018-07-24 01:34:35.726492",
+    "updated_at": "2018-08-11 21:40:34.025044",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "k-point-brewing",
+    "name": "K Point Brewing",
+    "brewery_type": "brewpub",
+    "street": "507 Main St",
+    "city": "Eau Claire",
+    "state": "Wisconsin",
+    "postal_code": "54701-3736",
+    "website_url": "http://www.thecoffeegrounds.com/k-point-brewing/",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:35.635858",
+    "updated_at": "2018-08-24 16:43:45.669807",
+    "country": "United States",
+    "longitude": "-91.4963440532083",
+    "latitude": "44.8111483394508",
+    "tags": []
+  },
+  {
+    "id": "the-brewing-projekt",
+    "name": "The Brewing Projekt",
+    "brewery_type": "micro",
+    "street": "1807 N Oxford Ave",
+    "city": "Eau Claire",
+    "state": "Wisconsin",
+    "postal_code": "54703-5187",
+    "website_url": "http://www.thebrewingprojekt.com",
+    "phone": "7154562486",
+    "created_at": "2018-07-24 01:34:36.833955",
+    "updated_at": "2018-08-24 16:45:56.066798",
+    "country": "United States",
+    "longitude": "-91.5095090773519",
+    "latitude": "44.8189402440188",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sunken-city-brewing-co",
+    "name": "Sunken City Brewing Co",
+    "brewery_type": "micro",
+    "street": "40 Brewery Dr",
+    "city": "Hardy",
+    "state": "Virginia",
+    "postal_code": "24101-1100",
+    "website_url": "http://www.sunkencitybeer.com",
+    "phone": "5404200476",
+    "created_at": "2018-07-24 01:34:27.021136",
+    "updated_at": "2018-08-11 21:40:09.753811",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kinsmen-brewing",
+    "name": "Kinsmen Brewing",
+    "brewery_type": "micro",
+    "street": "409 Canal Street",
+    "city": "Milldale",
+    "state": "Connecticut",
+    "postal_code": "06467",
+    "website_url": "http://www.kinsmenbrewing.com",
+    "phone": "8605784778",
+    "created_at": "2018-07-24 01:33:09.779918",
+    "updated_at": "2018-08-24 00:25:41.771442",
+    "country": "United States",
+    "longitude": "-72.9027141039072",
+    "latitude": "41.566794731666",
+    "tags": []
+  }
+]

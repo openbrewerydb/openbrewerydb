@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kroghs-restaurant-and-brewpub",
+    "name": "Krogh's Restaurant and Brewpub",
+    "brewery_type": "brewpub",
+    "street": "23 White Deer Plz",
+    "city": "Sparta",
+    "state": "New Jersey",
+    "postal_code": "07871-1823",
+    "website_url": "http://www.kroghs.com",
+    "phone": "9737298428",
+    "created_at": "2018-07-24 01:33:47.018695",
+    "updated_at": "2018-08-24 15:36:55.713402",
+    "country": "United States",
+    "longitude": "-74.6395694037643",
+    "latitude": "41.0326307212194",
+    "tags": []
+  }
+]

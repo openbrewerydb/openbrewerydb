@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sister-lakes-brewing-company",
+    "name": "Sister Lakes Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "92500 County Road 690",
+    "city": "Dowagiac",
+    "state": "Michigan",
+    "postal_code": "49047-9021",
+    "website_url": "http://www.sisterlakesbrewing.com",
+    "phone": "2693325135",
+    "created_at": "2018-07-24 01:33:36.579035",
+    "updated_at": "2018-08-11 21:37:56.299827",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "strand-brewery",
+    "name": "Strand Brewery",
+    "brewery_type": "brewpub",
+    "street": "93415 County Road 690",
+    "city": "Dowagiac",
+    "state": "Michigan",
+    "postal_code": "49047-9025",
+    "website_url": "http://www.strandbrewery.com",
+    "phone": "2694247500",
+    "created_at": "2018-07-24 01:33:36.768432",
+    "updated_at": "2018-08-11 21:37:56.891643",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "the-beerd-brewing-company",
+    "name": "The Beer'd Brewing Company",
+    "brewery_type": "micro",
+    "street": "22 Bayview Ave Ste 15",
+    "city": "Stonington",
+    "state": "Connecticut",
+    "postal_code": "06378-1143",
+    "website_url": "http://www.beerdbrewing.com",
+    "phone": "8602139307",
+    "created_at": "2018-07-24 01:33:08.996131",
+    "updated_at": "2018-08-11 21:36:44.884434",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "unleashed-brewing-company",
+    "name": "Unleashed Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Stonington",
+    "state": "Connecticut",
+    "postal_code": "06378-1628",
+    "website_url": "http://www.unleashedbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:10.314994",
+    "updated_at": "2018-08-11 21:36:47.84426",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

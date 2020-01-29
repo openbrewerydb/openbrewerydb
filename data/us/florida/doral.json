@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mia-beer-co",
+    "name": "M.I.A. Beer Co",
+    "brewery_type": "micro",
+    "street": "10400 NW 33rd St Ste 150",
+    "city": "Doral",
+    "state": "Florida",
+    "postal_code": "33172-5902",
+    "website_url": "http://www.mia.beer",
+    "phone": "3055675550",
+    "created_at": "2018-07-24 01:33:13.608408",
+    "updated_at": "2018-08-11 21:36:56.163867",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

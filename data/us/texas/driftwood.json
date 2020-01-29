@@ -1,0 +1,19 @@
+[
+  {
+    "id": "vista-brewing",
+    "name": "Vista Brewing",
+    "brewery_type": "brewpub",
+    "street": "13551 Ranch To Market Rd 150",
+    "city": "Driftwood",
+    "state": "Texas",
+    "postal_code": "78619",
+    "website_url": "http://www.vistabrewingtx.com",
+    "phone": "5127661842",
+    "created_at": "2018-07-24 01:34:22.161303",
+    "updated_at": "2018-08-11 21:39:56.527169",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "veracious-brewing-company",
+    "name": "Veracious Brewing Company",
+    "brewery_type": "micro",
+    "street": "246 Main St",
+    "city": "Monroe",
+    "state": "Connecticut",
+    "postal_code": "06468-1171",
+    "website_url": "http://www.veraciousbrewing.com",
+    "phone": "2038805670",
+    "created_at": "2018-07-24 01:33:10.336719",
+    "updated_at": "2018-08-11 21:36:47.868585",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

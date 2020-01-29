@@ -1,0 +1,19 @@
+[
+  {
+    "id": "center-pivot",
+    "name": "Center Pivot",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Quinter",
+    "state": "Kansas",
+    "postal_code": "67752",
+    "website_url": "",
+    "phone": "7857548344",
+    "created_at": "2018-07-24 01:33:24.673361",
+    "updated_at": "2018-08-11 21:37:25.625033",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

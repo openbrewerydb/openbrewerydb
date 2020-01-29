@@ -1,0 +1,53 @@
+[
+  {
+    "id": "pelican-brewing-company-cannon-beach",
+    "name": "Pelican Brewing Company - Cannon Beach",
+    "brewery_type": "brewpub",
+    "street": "1371 S Hemlock St",
+    "city": "Cannon Beach",
+    "state": "Oregon",
+    "postal_code": "97110-3055",
+    "website_url": "",
+    "phone": "5039083377",
+    "created_at": "2018-07-24 01:34:07.275749",
+    "updated_at": "2018-08-24 16:04:00.19126",
+    "country": "United States",
+    "longitude": "-123.962023571429",
+    "latitude": "45.8885054285714",
+    "tags": []
+  },
+  {
+    "id": "public-coast-brewing",
+    "name": "Public Coast Brewing",
+    "brewery_type": "brewpub",
+    "street": "264 E 3rd Ave",
+    "city": "Cannon Beach",
+    "state": "Oregon",
+    "postal_code": "97110-2008",
+    "website_url": "http://www.publiccoastbrewing.com",
+    "phone": "5034360285",
+    "created_at": "2018-07-24 01:34:07.409163",
+    "updated_at": "2018-08-11 21:39:17.781269",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "bills-tavern-and-brewhouse",
+    "name": "Bill's Tavern and Brewhouse",
+    "brewery_type": "brewpub",
+    "street": "188 N Hemlock St",
+    "city": "Cannon Beach",
+    "state": "Oregon",
+    "postal_code": "97110-3037",
+    "website_url": "http://www.billstavernandbrewhouse.com",
+    "phone": "5034362202",
+    "created_at": "2018-07-24 01:34:04.901902",
+    "updated_at": "2018-08-24 15:45:58.904192",
+    "country": "United States",
+    "longitude": "-123.961094327262",
+    "latitude": "45.89803615",
+    "tags": []
+  }
+]

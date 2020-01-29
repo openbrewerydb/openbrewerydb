@@ -1,0 +1,19 @@
+[
+  {
+    "id": "one-eyed-buffalo-brewing-company-llc",
+    "name": "One Eyed Buffalo Brewing Company LLC",
+    "brewery_type": "brewpub",
+    "street": "528 Broadway St",
+    "city": "Thermopolis",
+    "state": "Wyoming",
+    "postal_code": "82443-2718",
+    "website_url": "",
+    "phone": "3078643555",
+    "created_at": "2018-07-24 01:34:37.539448",
+    "updated_at": "2018-08-24 16:47:00.367768",
+    "country": "United States",
+    "longitude": "-108.210788288396",
+    "latitude": "43.6460915815267",
+    "tags": []
+  }
+]

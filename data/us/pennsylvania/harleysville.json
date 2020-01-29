@@ -1,0 +1,19 @@
+[
+  {
+    "id": "blueprint-brewing-co",
+    "name": "Blueprint Brewing Co.",
+    "brewery_type": "micro",
+    "street": "1571 Gehman Rd",
+    "city": "Harleysville",
+    "state": "Pennsylvania",
+    "postal_code": "19438-2930",
+    "website_url": "http://www.blueprintbrewco.com",
+    "phone": "4843197901",
+    "created_at": "2018-07-24 01:34:09.069611",
+    "updated_at": "2018-08-11 21:39:23.117098",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "abide-brewing-company",
+    "name": "Abide Brewing Company",
+    "brewery_type": "micro",
+    "street": "110 Werz Industrial Blvd Ste 130",
+    "city": "Newnan",
+    "state": "Georgia",
+    "postal_code": "30263-5802",
+    "website_url": "http://www.abidebrewing.com",
+    "phone": "6789726747",
+    "created_at": "2018-07-24 01:33:15.371973",
+    "updated_at": "2018-08-24 00:28:57.079679",
+    "country": "United States",
+    "longitude": "-84.7635664117647",
+    "latitude": "33.4025703529412",
+    "tags": []
+  }
+]

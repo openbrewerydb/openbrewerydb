@@ -1,0 +1,53 @@
+[
+  {
+    "id": "porter-pizza-and-brewery",
+    "name": "Porter Pizza & Brewery",
+    "brewery_type": "brewpub",
+    "street": "6370 Powers Ferry Rd NW",
+    "city": "Sandy Springs",
+    "state": "Georgia",
+    "postal_code": "30339",
+    "website_url": "http://www.porterpizzabrewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:16.191071",
+    "updated_at": "2018-08-24 00:29:21.253726",
+    "country": "United States",
+    "longitude": "-84.4304239",
+    "latitude": "33.9043481",
+    "tags": []
+  },
+  {
+    "id": "5-seasons-brewing-co-prado",
+    "name": "5 Seasons Brewing Co - Prado",
+    "brewery_type": "brewpub",
+    "street": "5600 Roswell Rd",
+    "city": "Sandy Springs",
+    "state": "Georgia",
+    "postal_code": "30342-1150",
+    "website_url": "http://www.5seasonsbrewing.com",
+    "phone": "4042555911",
+    "created_at": "2018-07-24 01:33:15.334105",
+    "updated_at": "2018-08-24 00:28:55.977147",
+    "country": "United States",
+    "longitude": "-84.3796711",
+    "latitude": "33.9078086",
+    "tags": []
+  },
+  {
+    "id": "pontoon-brewing-company",
+    "name": "Pontoon Brewing Company",
+    "brewery_type": "micro",
+    "street": "8601 Dunwoody Pl Bld 500 Ste 500",
+    "city": "Sandy Springs",
+    "state": "Georgia",
+    "postal_code": "30350-2551",
+    "website_url": "http://www.pontoonbrewing.com",
+    "phone": "7049293821",
+    "created_at": "2018-07-24 01:33:16.17913",
+    "updated_at": "2018-08-11 21:37:03.123593",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

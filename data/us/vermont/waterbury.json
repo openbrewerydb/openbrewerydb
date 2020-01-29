@@ -1,0 +1,53 @@
+[
+  {
+    "id": "alchemist-cannery",
+    "name": "Alchemist Cannery",
+    "brewery_type": "regional",
+    "street": "35 Crossroad",
+    "city": "Waterbury",
+    "state": "Vermont",
+    "postal_code": "05676-9003",
+    "website_url": "http://www.alchemistbeer.com",
+    "phone": "8022447744",
+    "created_at": "2018-07-24 01:34:23.024732",
+    "updated_at": "2018-08-11 21:39:58.640745",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "brewery-in-planning-waterbury",
+    "name": "Brewery In Planning - Waterbury",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Waterbury",
+    "state": "Vermont",
+    "postal_code": "05676-9537",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:23.113383",
+    "updated_at": "2018-08-11 21:39:58.855888",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "prohibition-pig",
+    "name": "Prohibition Pig",
+    "brewery_type": "brewpub",
+    "street": "23 S Main St Ste 1",
+    "city": "Waterbury",
+    "state": "Vermont",
+    "postal_code": "05676-1863",
+    "website_url": "http://www.prohibitionpig.com",
+    "phone": "8022444120",
+    "created_at": "2018-07-24 01:34:23.614413",
+    "updated_at": "2018-08-11 21:40:00.350284",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

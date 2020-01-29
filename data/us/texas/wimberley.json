@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wimberley-brewing-co-and-brewsters-pizza",
+    "name": "Wimberley Brewing Co & Brewsters Pizza",
+    "brewery_type": "brewpub",
+    "street": "9595 Ranch Road 12 Ste 10",
+    "city": "Wimberley",
+    "state": "Texas",
+    "postal_code": "78676-5248",
+    "website_url": "http://www.wimberlybrewingcompany.com",
+    "phone": "5128473299",
+    "created_at": "2018-07-24 01:34:22.318518",
+    "updated_at": "2018-08-11 21:39:56.860103",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

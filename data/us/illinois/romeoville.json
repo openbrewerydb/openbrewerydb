@@ -1,0 +1,19 @@
+[
+  {
+    "id": "metal-monkey-brewing-llc",
+    "name": "Metal Monkey Brewing LLC",
+    "brewery_type": "micro",
+    "street": "515 Anderson Dr Ste 900",
+    "city": "Romeoville",
+    "state": "Illinois",
+    "postal_code": "60446-1494",
+    "website_url": "http://www.metalmonkeybrewing.com",
+    "phone": "8155243139",
+    "created_at": "2018-07-24 01:33:19.776487",
+    "updated_at": "2018-08-24 00:31:32.786083",
+    "country": "United States",
+    "longitude": "-88.0778806350934",
+    "latitude": "41.645057495366",
+    "tags": []
+  }
+]

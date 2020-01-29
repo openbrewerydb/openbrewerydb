@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ye-olde-brothers-brewery",
+    "name": "Ye Olde Brothers Brewery",
+    "brewery_type": "brewpub",
+    "street": "4458 Highway 87",
+    "city": "Navarre",
+    "state": "Florida",
+    "postal_code": "32566-9658",
+    "website_url": "http://www.yeoldbrothersbrewery.com",
+    "phone": "8506841495",
+    "created_at": "2018-07-24 01:33:15.256578",
+    "updated_at": "2018-08-11 21:37:00.532797",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

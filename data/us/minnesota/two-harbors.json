@@ -1,0 +1,19 @@
+[
+  {
+    "id": "castle-danger-brewery",
+    "name": "Castle Danger Brewery",
+    "brewery_type": "micro",
+    "street": "17 7th St",
+    "city": "Two Harbors",
+    "state": "Minnesota",
+    "postal_code": "55616-1672",
+    "website_url": "http://www.castledangerbrewery.com",
+    "phone": "2188345800",
+    "created_at": "2018-07-24 01:33:38.210639",
+    "updated_at": "2018-08-24 00:45:01.3089",
+    "country": "United States",
+    "longitude": "-91.6731853",
+    "latitude": "47.0194124",
+    "tags": []
+  }
+]

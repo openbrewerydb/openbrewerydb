@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mica-town-brewing",
+    "name": "Mica Town Brewing",
+    "brewery_type": "micro",
+    "street": "25 Brown Dr",
+    "city": "Marion",
+    "state": "North Carolina",
+    "postal_code": "28752-4294",
+    "website_url": "http://www.micatownbrewing.com",
+    "phone": "8285598300",
+    "created_at": "2018-07-24 01:33:57.200484",
+    "updated_at": "2018-08-11 21:38:50.23785",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

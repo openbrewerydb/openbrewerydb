@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ruhstaller-beer",
+    "name": "Ruhstaller Beer",
+    "brewery_type": "micro",
+    "street": "800 Business Park Drive, Suite G",
+    "city": "Dixon",
+    "state": "California",
+    "postal_code": "95620",
+    "website_url": "",
+    "phone": "5306018240",
+    "created_at": "2018-07-24 01:33:00.274499",
+    "updated_at": "2018-08-11 21:36:18.638569",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

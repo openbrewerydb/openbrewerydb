@@ -1,0 +1,19 @@
+[
+  {
+    "id": "granite-city-food-and-wort-house",
+    "name": "Granite City Food & Wort House",
+    "brewery_type": "micro",
+    "street": "1722 Detroit St",
+    "city": "Ellsworth",
+    "state": "Iowa",
+    "postal_code": "50075",
+    "website_url": "http://www.gcfb.net",
+    "phone": "5158364060",
+    "created_at": "2018-07-24 01:33:23.847099",
+    "updated_at": "2018-08-24 00:37:56.936021",
+    "country": "United States",
+    "longitude": "-93.5747379776529",
+    "latitude": "42.3133091901518",
+    "tags": []
+  }
+]

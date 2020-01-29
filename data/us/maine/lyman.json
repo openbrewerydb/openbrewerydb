@@ -1,0 +1,19 @@
+[
+  {
+    "id": "funky-bow-brewery-and-beer-company",
+    "name": "Funky Bow Brewery & Beer Company",
+    "brewery_type": "micro",
+    "street": "21 Ledgewood Ln",
+    "city": "Lyman",
+    "state": "Maine",
+    "postal_code": "04002-7376",
+    "website_url": "http://www.funkybowbeercompany.com",
+    "phone": "2074096814",
+    "created_at": "2018-07-24 01:33:27.137806",
+    "updated_at": "2018-08-24 00:39:44.707021",
+    "country": "United States",
+    "longitude": "-70.6014619517209",
+    "latitude": "43.485394973714",
+    "tags": []
+  }
+]

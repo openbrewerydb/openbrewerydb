@@ -1,0 +1,53 @@
+[
+  {
+    "id": "2c-family-brewing-co",
+    "name": "2C Family Brewing Co.",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Nampa",
+    "state": "Idaho",
+    "postal_code": "83651-3957",
+    "website_url": "",
+    "phone": "2089954802",
+    "created_at": "2018-07-24 01:33:17.050267",
+    "updated_at": "2018-08-11 21:37:05.099185",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "crescent-brewery",
+    "name": "Crescent Brewery",
+    "brewery_type": "micro",
+    "street": "1521 Front St",
+    "city": "Nampa",
+    "state": "Idaho",
+    "postal_code": "83651-4331",
+    "website_url": "http://www.crescentbeer.com",
+    "phone": "2089681034",
+    "created_at": "2018-07-24 01:33:17.201065",
+    "updated_at": "2018-08-24 00:29:57.215397",
+    "country": "United States",
+    "longitude": "-116.555094897959",
+    "latitude": "43.5767625306122",
+    "tags": []
+  },
+  {
+    "id": "mother-earth-brew-co-llc",
+    "name": "Mother Earth Brew Co LLC",
+    "brewery_type": "micro",
+    "street": "1428 Madison Ave Bldg 21K",
+    "city": "Nampa",
+    "state": "Idaho",
+    "postal_code": "83687-3038",
+    "website_url": "",
+    "phone": "7605994225",
+    "created_at": "2018-07-24 01:33:17.468785",
+    "updated_at": "2018-08-11 21:37:06.304232",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

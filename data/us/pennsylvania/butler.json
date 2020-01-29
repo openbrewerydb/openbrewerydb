@@ -1,0 +1,53 @@
+[
+  {
+    "id": "butler-brew-works",
+    "name": "Butler Brew Works",
+    "brewery_type": "brewpub",
+    "street": "101 S Main St",
+    "city": "Butler",
+    "state": "Pennsylvania",
+    "postal_code": "16001-5907",
+    "website_url": "http://www.butlerbrewworks.com",
+    "phone": "7242645347",
+    "created_at": "2018-07-24 01:34:09.673308",
+    "updated_at": "2018-08-24 16:07:19.649726",
+    "country": "United States",
+    "longitude": "-79.895238",
+    "latitude": "40.860914",
+    "tags": []
+  },
+  {
+    "id": "reclamation-brewing-company",
+    "name": "Reclamation Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "221 S Main St",
+    "city": "Butler",
+    "state": "Pennsylvania",
+    "postal_code": "16001-5908",
+    "website_url": "http://www.reclamationbrewing.com",
+    "phone": "7242820831",
+    "created_at": "2018-07-24 01:34:12.135006",
+    "updated_at": "2018-08-24 16:11:14.674799",
+    "country": "United States",
+    "longitude": "-79.8954362682927",
+    "latitude": "40.8587651585366",
+    "tags": []
+  },
+  {
+    "id": "recon-brewing",
+    "name": "Recon Brewing",
+    "brewery_type": "brewpub",
+    "street": "1747 N Main St Ext",
+    "city": "Butler",
+    "state": "Pennsylvania",
+    "postal_code": "16001-1327",
+    "website_url": "http://www.reconbrewing.com",
+    "phone": "7242568747",
+    "created_at": "2018-07-24 01:34:12.151743",
+    "updated_at": "2018-08-11 21:39:30.197716",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

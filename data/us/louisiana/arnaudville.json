@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bayou-teche-brewing",
+    "name": "Bayou Teche Brewing",
+    "brewery_type": "micro",
+    "street": "1094 Bushville Hwy",
+    "city": "Arnaudville",
+    "state": "Louisiana",
+    "postal_code": "70512-3526",
+    "website_url": "http://www.bayoutechebrewing.com",
+    "phone": "3373038117",
+    "created_at": "2018-07-24 01:33:26.067693",
+    "updated_at": "2018-08-11 21:37:28.684822",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

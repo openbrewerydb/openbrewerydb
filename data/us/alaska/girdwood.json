@@ -1,0 +1,19 @@
+[
+  {
+    "id": "girdwood-brewing-company",
+    "name": "Girdwood Brewing Company",
+    "brewery_type": "micro",
+    "street": "2700 Alyeska Highway",
+    "city": "Girdwood",
+    "state": "Alaska",
+    "postal_code": "99587-0058",
+    "website_url": "http://www.girdwoodbrewing.com",
+    "phone": "907783",
+    "created_at": "2018-07-24 01:32:48.135524",
+    "updated_at": "2018-08-23 23:20:47.669601",
+    "country": "United States",
+    "longitude": "-149.1540907",
+    "latitude": "60.9578421",
+    "tags": []
+  }
+]

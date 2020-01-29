@@ -1,0 +1,36 @@
+[
+  {
+    "id": "newburyport-brewing-co",
+    "name": "Newburyport Brewing Co",
+    "brewery_type": "micro",
+    "street": "4 New Pasture Rd",
+    "city": "Newburyport",
+    "state": "Massachusetts",
+    "postal_code": "01950-4040",
+    "website_url": "http://www.nbptbrewing.com",
+    "phone": "9784638700",
+    "created_at": "2018-07-24 01:33:31.559571",
+    "updated_at": "2018-08-24 00:41:35.361791",
+    "country": "United States",
+    "longitude": "-70.8871558174512",
+    "latitude": "42.8019577017051",
+    "tags": []
+  },
+  {
+    "id": "riverwalk-brewing-co",
+    "name": "Riverwalk Brewing Co.",
+    "brewery_type": "micro",
+    "street": "40 Parker St",
+    "city": "Newburyport",
+    "state": "Massachusetts",
+    "postal_code": "01950-4056",
+    "website_url": "http://www.riverwalkbrewing.com",
+    "phone": "9784992337",
+    "created_at": "2018-07-24 01:33:31.839758",
+    "updated_at": "2018-08-24 00:41:43.6755",
+    "country": "United States",
+    "longitude": "-70.8672672695409",
+    "latitude": "42.79921535",
+    "tags": []
+  }
+]

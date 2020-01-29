@@ -1,0 +1,53 @@
+[
+  {
+    "id": "blue-point-brewing-co",
+    "name": "Blue Point Brewing Co",
+    "brewery_type": "large",
+    "street": "161 River Ave",
+    "city": "Patchogue",
+    "state": "New York",
+    "postal_code": "11772-3304",
+    "website_url": "http://www.bluepointbrewing.com",
+    "phone": "6314756944",
+    "created_at": "2018-07-24 01:33:49.532004",
+    "updated_at": "2018-08-24 15:38:13.401784",
+    "country": "United States",
+    "longitude": "-73.0216062980388",
+    "latitude": "40.75913445",
+    "tags": []
+  },
+  {
+    "id": "blue-point-brewing",
+    "name": "Blue Point Brewing",
+    "brewery_type": "large",
+    "street": "225 West Main St",
+    "city": "Patchogue",
+    "state": "New York",
+    "postal_code": "11772",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:49.518143",
+    "updated_at": "2018-08-24 15:38:12.927016",
+    "country": "United States",
+    "longitude": "-73.021037054719",
+    "latitude": "40.76644215",
+    "tags": []
+  },
+  {
+    "id": "brick-house-brewery-and-restaurant",
+    "name": "Brick House Brewery and Restaurant",
+    "brewery_type": "brewpub",
+    "street": "67 W Main St",
+    "city": "Patchogue",
+    "state": "New York",
+    "postal_code": "11772-3001",
+    "website_url": "http://www.brickhousebrewery.com",
+    "phone": "6314472337",
+    "created_at": "2018-07-24 01:33:49.852298",
+    "updated_at": "2018-08-24 15:38:17.897507",
+    "country": "United States",
+    "longitude": "-73.0155605365854",
+    "latitude": "40.765794097561",
+    "tags": []
+  }
+]

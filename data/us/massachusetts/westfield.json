@@ -1,0 +1,36 @@
+[
+  {
+    "id": "kismet-brewing-company",
+    "name": "Kismet Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Westfield",
+    "state": "Massachusetts",
+    "postal_code": "01085",
+    "website_url": "http://www.kismetbrewing.com",
+    "phone": "9789957711",
+    "created_at": "2018-07-24 01:33:31.279716",
+    "updated_at": "2018-08-11 21:37:42.024769",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "tin-bridge-brewing",
+    "name": "Tin Bridge Brewing",
+    "brewery_type": "micro",
+    "street": "487 E Main St",
+    "city": "Westfield",
+    "state": "Massachusetts",
+    "postal_code": "01085",
+    "website_url": "http://www.tinbridgebrewing.com",
+    "phone": "4136426418",
+    "created_at": "2018-07-24 01:33:32.152787",
+    "updated_at": "2018-08-24 00:41:51.986835",
+    "country": "United States",
+    "longitude": "-72.7196733636976",
+    "latitude": "42.1126850185216",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-in-planning-bolton",
+    "name": "Brewery In Planning - Bolton",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Bolton",
+    "state": "Massachusetts",
+    "postal_code": "01740-1027",
+    "website_url": "http://sites.google.com/site/greenroadbrewing/",
+    "phone": "9788955931",
+    "created_at": "2018-07-24 01:33:30.38811",
+    "updated_at": "2018-08-11 21:37:39.106674",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "bolton-beer-works",
+    "name": "Bolton Beer Works",
+    "brewery_type": "brewpub",
+    "street": "100 Wattaquadock Hill Rd",
+    "city": "Bolton",
+    "state": "Massachusetts",
+    "postal_code": "01740-1238",
+    "website_url": "http://boltonbeerworks.com",
+    "phone": "9787795521",
+    "created_at": "2018-07-24 01:33:30.31106",
+    "updated_at": "2018-08-24 00:41:05.734116",
+    "country": "United States",
+    "longitude": "-71.619812",
+    "latitude": "42.430173",
+    "tags": []
+  }
+]

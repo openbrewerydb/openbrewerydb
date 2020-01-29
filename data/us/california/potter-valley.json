@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hare-in-the-forest",
+    "name": "Hare In the Forest",
+    "brewery_type": "micro",
+    "street": "9311 Gibson Ln",
+    "city": "Potter Valley",
+    "state": "California",
+    "postal_code": "95469-8799",
+    "website_url": "http://www.hareintheforest.com",
+    "phone": "9105457759",
+    "created_at": "2018-07-24 01:32:56.26919",
+    "updated_at": "2018-08-23 23:29:13.222191",
+    "country": "United States",
+    "longitude": "-123.12527033557",
+    "latitude": "39.3362393422819",
+    "tags": []
+  }
+]

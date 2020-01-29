@@ -1,0 +1,19 @@
+[
+  {
+    "id": "common-roots-brewing-company",
+    "name": "Common Roots Brewing Company",
+    "brewery_type": "micro",
+    "street": "58 Saratoga Ave",
+    "city": "South Glens Falls",
+    "state": "New York",
+    "postal_code": "12803-4837",
+    "website_url": "http://www.commonrootsbrewing.com",
+    "phone": "5184098248",
+    "created_at": "2018-07-24 01:33:50.297325",
+    "updated_at": "2018-08-11 21:38:32.579143",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

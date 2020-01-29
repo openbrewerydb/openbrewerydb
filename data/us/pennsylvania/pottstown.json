@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sly-fox-brewing-co",
+    "name": "Sly Fox Brewing Co",
+    "brewery_type": "regional",
+    "street": "331 Circle of Progress Dr",
+    "city": "Pottstown",
+    "state": "Pennsylvania",
+    "postal_code": "19464-3811",
+    "website_url": "http://www.slyfoxbeer.com",
+    "phone": "4845248210",
+    "created_at": "2018-07-24 01:34:12.627102",
+    "updated_at": "2018-08-24 16:11:57.763562",
+    "country": "United States",
+    "longitude": "-75.6663231408364",
+    "latitude": "40.2633892683431",
+    "tags": []
+  }
+]

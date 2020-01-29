@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lake-st-george-brewing-company",
+    "name": "Lake St George Brewing Company",
+    "brewery_type": "micro",
+    "street": "4 Marshall Shore Rd",
+    "city": "Liberty",
+    "state": "Maine",
+    "postal_code": "04949",
+    "website_url": "http://www.lakestgeorgebrewing.com",
+    "phone": "2075893031",
+    "created_at": "2018-07-24 01:33:27.370607",
+    "updated_at": "2018-08-11 21:37:32.532821",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "liberty-craft-brewing",
+    "name": "Liberty Craft Brewing",
+    "brewery_type": "brewpub",
+    "street": "7 Coon Mountain Ln",
+    "city": "Liberty",
+    "state": "Maine",
+    "postal_code": "04949-3654",
+    "website_url": "http://www.libertycraftbrewing.com",
+    "phone": "2073227663",
+    "created_at": "2018-07-24 01:33:27.39741",
+    "updated_at": "2018-08-24 00:39:53.512443",
+    "country": "United States",
+    "longitude": "-69.3313975602951",
+    "latitude": "44.3619996435424",
+    "tags": []
+  }
+]

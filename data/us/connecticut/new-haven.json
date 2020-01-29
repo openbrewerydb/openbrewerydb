@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brurm-at-bar",
+    "name": "BruRm At Bar",
+    "brewery_type": "brewpub",
+    "street": "254 Crown St",
+    "city": "New Haven",
+    "state": "Connecticut",
+    "postal_code": "06511-6610",
+    "website_url": "http://www.barnightclub.com",
+    "phone": "2034958924",
+    "created_at": "2018-07-24 01:33:09.297086",
+    "updated_at": "2018-08-24 00:25:29.704676",
+    "country": "United States",
+    "longitude": "-72.9302577",
+    "latitude": "41.3061639",
+    "tags": []
+  },
+  {
+    "id": "east-rock-brewing-company",
+    "name": "East Rock Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "New Haven",
+    "state": "Connecticut",
+    "postal_code": "06511-2625",
+    "website_url": "http://www.eastrockbeer.com",
+    "phone": "2035303484",
+    "created_at": "2018-07-24 01:33:09.501259",
+    "updated_at": "2018-08-11 21:36:46.256404",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

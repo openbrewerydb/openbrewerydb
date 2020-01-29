@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mystic-brewery",
+    "name": "Mystic Brewery",
+    "brewery_type": "micro",
+    "street": "174 Williams St",
+    "city": "Chelsea",
+    "state": "Massachusetts",
+    "postal_code": "02150-3804",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:31.507658",
+    "updated_at": "2018-08-24 00:41:33.582388",
+    "country": "United States",
+    "longitude": "-71.0445104",
+    "latitude": "42.3915659",
+    "tags": []
+  }
+]

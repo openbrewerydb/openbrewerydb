@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ogopogo-brewing",
+    "name": "Ogopogo Brewing",
+    "brewery_type": "micro",
+    "street": "864 Commercial Ave",
+    "city": "San Gabriel",
+    "state": "California",
+    "postal_code": "91776",
+    "website_url": "http://www.ogopogobrewco.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:58.987159",
+    "updated_at": "2018-08-24 00:00:22.524296",
+    "country": "United States",
+    "longitude": "-118.089147586207",
+    "latitude": "34.096219",
+    "tags": []
+  }
+]

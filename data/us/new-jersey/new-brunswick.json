@@ -1,0 +1,19 @@
+[
+  {
+    "id": "harvest-moon-brewery/cafe",
+    "name": "Harvest Moon Brewery/Cafe",
+    "brewery_type": "brewpub",
+    "street": "392 George St",
+    "city": "New Brunswick",
+    "state": "New Jersey",
+    "postal_code": "08901-2018",
+    "website_url": "http://www.harvestmoonbrewery.com",
+    "phone": "7322496666",
+    "created_at": "2018-07-24 01:33:46.809523",
+    "updated_at": "2018-08-24 15:36:49.887164",
+    "country": "United States",
+    "longitude": "-74.4442058",
+    "latitude": "40.4962516",
+    "tags": []
+  }
+]

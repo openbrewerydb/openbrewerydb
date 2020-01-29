@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ingenious-brewing-company",
+    "name": "Ingenious Brewing Company",
+    "brewery_type": "micro",
+    "street": "1986 S Houston Ave",
+    "city": "Humble",
+    "state": "Texas",
+    "postal_code": "77396-1507",
+    "website_url": "http://www.ingeniousbeer.com",
+    "phone": "8324122142",
+    "created_at": "2018-07-24 01:34:19.851504",
+    "updated_at": "2018-08-24 16:21:22.448762",
+    "country": "United States",
+    "longitude": "-95.2633815",
+    "latitude": "29.9748544",
+    "tags": []
+  }
+]

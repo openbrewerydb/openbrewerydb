@@ -1,0 +1,19 @@
+[
+  {
+    "id": "5-lakes-brewing-co",
+    "name": "5 Lakes Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "1638 142nd Ave",
+    "city": "Dorr",
+    "state": "Michigan",
+    "postal_code": "49323-9312",
+    "website_url": "http://www.5lakesbrewing.com",
+    "phone": "6163599555",
+    "created_at": "2018-07-24 01:33:32.4643",
+    "updated_at": "2018-08-24 00:41:58.746362",
+    "country": "United States",
+    "longitude": "-85.7044551836735",
+    "latitude": "42.7249715714286",
+    "tags": []
+  }
+]

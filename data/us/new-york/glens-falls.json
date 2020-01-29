@@ -1,0 +1,53 @@
+[
+  {
+    "id": "davidson-brothers-restaurant-and-brewery",
+    "name": "Davidson Brothers Restaurant and Brewery",
+    "brewery_type": "brewpub",
+    "street": "184 Glen St Rte 9",
+    "city": "Glens Falls",
+    "state": "New York",
+    "postal_code": "12801-0409",
+    "website_url": "http://www.davidsonbrothers.com",
+    "phone": "5187439026",
+    "created_at": "2018-07-24 01:33:50.506707",
+    "updated_at": "2018-08-11 21:38:33.117173",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "coopers-cave-ale-co",
+    "name": "Coopers Cave Ale Co",
+    "brewery_type": "brewpub",
+    "street": "2 Sagamore St",
+    "city": "Glens Falls",
+    "state": "New York",
+    "postal_code": "12801-3179",
+    "website_url": "http://www.cooperscaveale.com",
+    "phone": "5187920007",
+    "created_at": "2018-07-24 01:33:50.338057",
+    "updated_at": "2018-08-24 15:38:33.830706",
+    "country": "United States",
+    "longitude": "-73.6399437",
+    "latitude": "43.3177399",
+    "tags": []
+  },
+  {
+    "id": "mean-max-brew-works",
+    "name": "Mean Max Brew Works",
+    "brewery_type": "micro",
+    "street": "193 Glen St # 2",
+    "city": "Glens Falls",
+    "state": "New York",
+    "postal_code": "12801-3539",
+    "website_url": "http://www.meanmaxbrew.com",
+    "phone": "5187932337",
+    "created_at": "2018-07-24 01:33:52.388054",
+    "updated_at": "2018-08-24 15:39:43.294125",
+    "country": "United States",
+    "longitude": "-73.6445186132549",
+    "latitude": "43.31016635",
+    "tags": []
+  }
+]

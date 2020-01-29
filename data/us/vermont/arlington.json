@@ -1,0 +1,19 @@
+[
+  {
+    "id": "farm-road-brewery",
+    "name": "Farm Road Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Arlington",
+    "state": "Vermont",
+    "postal_code": "05250-8766",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:23.198799",
+    "updated_at": "2018-08-11 21:39:59.085912",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

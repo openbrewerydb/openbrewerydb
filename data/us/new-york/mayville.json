@@ -1,0 +1,19 @@
+[
+  {
+    "id": "big-inlet-brewing",
+    "name": "Big Inlet Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Mayville",
+    "state": "New York",
+    "postal_code": "14757-9730",
+    "website_url": "http://www.biginletbrewing.com",
+    "phone": "7165737564",
+    "created_at": "2018-07-24 01:33:49.393581",
+    "updated_at": "2018-08-11 21:38:30.436574",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

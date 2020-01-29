@@ -1,0 +1,19 @@
+[
+  {
+    "id": "3rd-wave-brewing-co",
+    "name": "3rd Wave Brewing Co",
+    "brewery_type": "micro",
+    "street": "501 N Bi State Blvd",
+    "city": "Delmar",
+    "state": "Delaware",
+    "postal_code": "19940-1106",
+    "website_url": "http://www.3rdwavebrewingco.com",
+    "phone": "3029070423",
+    "created_at": "2018-07-24 01:33:10.41997",
+    "updated_at": "2018-08-11 21:36:48.05326",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

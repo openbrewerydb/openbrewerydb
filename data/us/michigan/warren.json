@@ -1,0 +1,53 @@
+[
+  {
+    "id": "falling-down-beer-co",
+    "name": "Falling Down Beer Co.",
+    "brewery_type": "brewpub",
+    "street": "2270 E 10 Mile Rd",
+    "city": "Warren",
+    "state": "Michigan",
+    "postal_code": "48091-3701",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:34.18823",
+    "updated_at": "2018-08-24 00:42:52.573622",
+    "country": "United States",
+    "longitude": "-82.9805361",
+    "latitude": "42.4787048",
+    "tags": []
+  },
+  {
+    "id": "dragonmead-microbrewery",
+    "name": "Dragonmead Microbrewery",
+    "brewery_type": "micro",
+    "street": "14600 E 11 Mile Rd",
+    "city": "Warren",
+    "state": "Michigan",
+    "postal_code": "48089-1556",
+    "website_url": "",
+    "phone": "5867769428",
+    "created_at": "2018-07-24 01:33:33.984995",
+    "updated_at": "2018-08-24 00:42:44.954344",
+    "country": "United States",
+    "longitude": "-83.0278041",
+    "latitude": "42.492142",
+    "tags": []
+  },
+  {
+    "id": "kuhnhenn-brewing-co",
+    "name": "Kuhnhenn Brewing Co",
+    "brewery_type": "micro",
+    "street": "5919 Chicago Rd",
+    "city": "Warren",
+    "state": "Michigan",
+    "postal_code": "48092-1606",
+    "website_url": "http://www.kuhnhenn.beer",
+    "phone": "5869798361",
+    "created_at": "2018-07-24 01:33:35.144445",
+    "updated_at": "2018-08-24 00:43:22.792187",
+    "country": "United States",
+    "longitude": "-83.023691",
+    "latitude": "42.523306",
+    "tags": []
+  }
+]

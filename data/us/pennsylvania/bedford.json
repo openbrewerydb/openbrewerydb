@@ -1,0 +1,19 @@
+[
+  {
+    "id": "olde-bedford-brewing-company",
+    "name": "Olde Bedford Brewing Company",
+    "brewery_type": "micro",
+    "street": "109 Railroad St",
+    "city": "Bedford",
+    "state": "Pennsylvania",
+    "postal_code": "15522-1014",
+    "website_url": "http://www.oldebbc.com",
+    "phone": "9072297942",
+    "created_at": "2018-07-24 01:34:11.919862",
+    "updated_at": "2018-08-24 16:10:53.425066",
+    "country": "United States",
+    "longitude": "-78.5033435",
+    "latitude": "40.021898",
+    "tags": []
+  }
+]

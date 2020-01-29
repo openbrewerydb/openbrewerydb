@@ -1,0 +1,19 @@
+[
+  {
+    "id": "newaygo-brewing-co",
+    "name": "Newaygo Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "19 State Rd",
+    "city": "Newaygo",
+    "state": "Michigan",
+    "postal_code": "49337-7951",
+    "website_url": "http://www.newaygobrewing.com",
+    "phone": "2314526551",
+    "created_at": "2018-07-24 01:33:35.663204",
+    "updated_at": "2018-08-24 00:43:40.554103",
+    "country": "United States",
+    "longitude": "-85.795858083189",
+    "latitude": "43.4238664248786",
+    "tags": []
+  }
+]

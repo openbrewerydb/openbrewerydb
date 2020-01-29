@@ -1,0 +1,19 @@
+[
+  {
+    "id": "argyle-brewing-company",
+    "name": "Argyle Brewing Company",
+    "brewery_type": "micro",
+    "street": "1 Main St",
+    "city": "Greenwich",
+    "state": "New York",
+    "postal_code": "12834-1209",
+    "website_url": "http://www.argylebrewing.com",
+    "phone": "5183387405",
+    "created_at": "2018-07-24 01:33:49.161834",
+    "updated_at": "2018-08-24 15:38:01.772791",
+    "country": "United States",
+    "longitude": "-73.496758",
+    "latitude": "43.08767125",
+    "tags": []
+  }
+]

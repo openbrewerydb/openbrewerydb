@@ -1,0 +1,19 @@
+[
+  {
+    "id": "212-brewing-company",
+    "name": "212 Brewing Company",
+    "brewery_type": "contract",
+    "street": "21476 Route 23",
+    "city": "Davenport",
+    "state": "New York",
+    "postal_code": "13750",
+    "website_url": "",
+    "phone": "2123779050",
+    "created_at": "2018-07-24 01:33:48.947012",
+    "updated_at": "2018-08-11 21:38:29.172778",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

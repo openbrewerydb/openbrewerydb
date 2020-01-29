@@ -1,0 +1,19 @@
+[
+  {
+    "id": "red-gap-brewing",
+    "name": "Red Gap Brewing",
+    "brewery_type": "micro",
+    "street": "712 Conrad Hilton Blvd",
+    "city": "Cisco",
+    "state": "Texas",
+    "postal_code": "76437-3140",
+    "website_url": "http://redgapbrewing.com",
+    "phone": "2544334993",
+    "created_at": "2018-07-24 01:34:20.915677",
+    "updated_at": "2018-08-24 16:22:47.746586",
+    "country": "United States",
+    "longitude": "-98.9795288367347",
+    "latitude": "32.3882625918367",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "market-street-public-house",
+    "name": "Market Street Public House",
+    "brewery_type": "brewpub",
+    "street": "200 Market St",
+    "city": "Denton",
+    "state": "Maryland",
+    "postal_code": "21629-1037",
+    "website_url": "http://www.marketstreet.pub",
+    "phone": "4104794720",
+    "created_at": "2018-07-24 01:33:29.28339",
+    "updated_at": "2018-08-24 00:40:38.324968",
+    "country": "United States",
+    "longitude": "-75.831804",
+    "latitude": "38.886037",
+    "tags": []
+  }
+]

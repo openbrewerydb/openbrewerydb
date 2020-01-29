@@ -1,0 +1,19 @@
+[
+  {
+    "id": "caracara-brewing-company",
+    "name": "Caracara Brewing Company",
+    "brewery_type": "micro",
+    "street": "100 E Market St",
+    "city": "Lockhart",
+    "state": "Texas",
+    "postal_code": "78644-2747",
+    "website_url": "http://www.caracarabrewingcompany.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:18.652603",
+    "updated_at": "2018-08-24 16:19:41.320259",
+    "country": "United States",
+    "longitude": "-97.672065",
+    "latitude": "29.883798",
+    "tags": []
+  }
+]

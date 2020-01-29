@@ -1,0 +1,19 @@
+[
+  {
+    "id": "north-brewery",
+    "name": "North Brewery",
+    "brewery_type": "micro",
+    "street": "110 Washington Ave",
+    "city": "Endicott",
+    "state": "New York",
+    "postal_code": "13760-5307",
+    "website_url": "http://www.northbrewery.com",
+    "phone": "6077850524",
+    "created_at": "2018-07-24 01:33:52.612416",
+    "updated_at": "2018-08-24 15:39:49.377243",
+    "country": "United States",
+    "longitude": "-76.0482780204082",
+    "latitude": "42.102192",
+    "tags": []
+  }
+]

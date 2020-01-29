@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brazos-valley-brewing-company",
+    "name": "Brazos Valley Brewing Company",
+    "brewery_type": "micro",
+    "street": "201 W 1st St",
+    "city": "Brenham",
+    "state": "Texas",
+    "postal_code": "77833",
+    "website_url": "http://www.brazosvalleybrewery.com",
+    "phone": "9799871133",
+    "created_at": "2018-07-24 01:34:18.191017",
+    "updated_at": "2018-08-24 16:19:27.712185",
+    "country": "United States",
+    "longitude": "-96.3986627",
+    "latitude": "30.16447",
+    "tags": []
+  }
+]

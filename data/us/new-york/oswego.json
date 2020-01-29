@@ -1,0 +1,19 @@
+[
+  {
+    "id": "us-beer-brewers-at-the-cellar-door",
+    "name": "US Beer Brewers At the Cellar Door",
+    "brewery_type": "brewpub",
+    "street": "17 W Cayuga St",
+    "city": "Oswego",
+    "state": "New York",
+    "postal_code": "13126-4000",
+    "website_url": "http://www.usbeerbrewers.beer",
+    "phone": "3152072381",
+    "created_at": "2018-07-24 01:33:54.351777",
+    "updated_at": "2018-08-24 15:40:43.728011",
+    "country": "United States",
+    "longitude": "-76.51260925",
+    "latitude": "43.457698125",
+    "tags": []
+  }
+]

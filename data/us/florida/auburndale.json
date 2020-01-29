@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewpop-brewery",
+    "name": "Brewpop Brewery",
+    "brewery_type": "brewpub",
+    "street": "2122 US Highway 92 W",
+    "city": "Auburndale",
+    "state": "Florida",
+    "postal_code": "33823-3962",
+    "website_url": "http://www.brewpop.com",
+    "phone": "8636623864",
+    "created_at": "2018-07-24 01:33:11.925391",
+    "updated_at": "2018-08-11 21:36:52.217347",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "the-florida-brewery",
+    "name": "The Florida Brewery",
+    "brewery_type": "regional",
+    "street": "202 Gandy Rd",
+    "city": "Auburndale",
+    "state": "Florida",
+    "postal_code": "33823-2726",
+    "website_url": "http://www.floridabrewery.com",
+    "phone": "8639651825",
+    "created_at": "2018-07-24 01:33:14.857499",
+    "updated_at": "2018-08-11 21:36:59.363755",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

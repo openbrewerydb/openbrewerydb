@@ -1,0 +1,36 @@
+[
+  {
+    "id": "old-station-brewing-co",
+    "name": "Old Station Brewing Co",
+    "brewery_type": "micro",
+    "street": "140 1st St",
+    "city": "Havre",
+    "state": "Montana",
+    "postal_code": "59501-3502",
+    "website_url": "",
+    "phone": "4062650980",
+    "created_at": "2018-07-24 01:33:43.024135",
+    "updated_at": "2018-08-24 00:47:23.325149",
+    "country": "United States",
+    "longitude": "-109.680359338382",
+    "latitude": "48.5536751239243",
+    "tags": []
+  },
+  {
+    "id": "triple-dog-brewing-company",
+    "name": "Triple Dog Brewing Company",
+    "brewery_type": "micro",
+    "street": "675 1st St W",
+    "city": "Havre",
+    "state": "Montana",
+    "postal_code": "59501-3415",
+    "website_url": "",
+    "phone": "4068798103",
+    "created_at": "2018-07-24 01:33:43.254642",
+    "updated_at": "2018-08-24 00:47:29.601925",
+    "country": "United States",
+    "longitude": "-109.694577034247",
+    "latitude": "48.5550030273973",
+    "tags": []
+  }
+]

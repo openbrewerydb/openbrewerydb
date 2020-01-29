@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ruby-valley-brew",
+    "name": "Ruby Valley Brew",
+    "brewery_type": "micro",
+    "street": "111 S Main St",
+    "city": "Sheridan",
+    "state": "Montana",
+    "postal_code": "59749-7742",
+    "website_url": "http://www.rubyvalleybrew.com",
+    "phone": "4068425977",
+    "created_at": "2018-07-24 01:33:43.126061",
+    "updated_at": "2018-08-24 00:47:25.606088",
+    "country": "United States",
+    "longitude": "-104.559298042118",
+    "latitude": "48.7736375285348",
+    "tags": []
+  }
+]

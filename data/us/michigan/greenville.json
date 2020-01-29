@@ -1,0 +1,19 @@
+[
+  {
+    "id": "castle-brewing-co",
+    "name": "Castle Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1310 W Washington",
+    "city": "Greenville",
+    "state": "Michigan",
+    "postal_code": "48838",
+    "website_url": "http://www.castlebrewingco.com",
+    "phone": "6167126226",
+    "created_at": "2018-07-24 01:33:33.596919",
+    "updated_at": "2018-08-11 21:37:47.372416",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

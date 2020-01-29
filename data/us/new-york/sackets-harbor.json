@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sackets-harbor-brewing-co",
+    "name": "Sackets Harbor Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "212 W Main St",
+    "city": "Sackets Harbor",
+    "state": "New York",
+    "postal_code": "13685-3183",
+    "website_url": "http://www.sacketsharborbrewpub.com",
+    "phone": "3156462739",
+    "created_at": "2018-07-24 01:33:53.296537",
+    "updated_at": "2018-08-24 15:40:10.452705",
+    "country": "United States",
+    "longitude": "-76.1216482073625",
+    "latitude": "43.9479608459535",
+    "tags": []
+  }
+]

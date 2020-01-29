@@ -1,0 +1,53 @@
+[
+  {
+    "id": "accomplice-beer-company",
+    "name": "Accomplice Beer Company",
+    "brewery_type": "brewpub",
+    "street": "115 W 15th St",
+    "city": "Cheyenne",
+    "state": "Wyoming",
+    "postal_code": "82001-4564",
+    "website_url": "http://www.accomplicebeer.com",
+    "phone": "3076322337",
+    "created_at": "2018-07-24 01:34:37.283987",
+    "updated_at": "2018-08-24 16:46:34.442767",
+    "country": "United States",
+    "longitude": "-104.819296",
+    "latitude": "41.130063",
+    "tags": []
+  },
+  {
+    "id": "danielmarks-brewing-company",
+    "name": "Danielmark's Brewing Company",
+    "brewery_type": "micro",
+    "street": "209 E 18th St",
+    "city": "Cheyenne",
+    "state": "Wyoming",
+    "postal_code": "82001-4507",
+    "website_url": "http://www.danielmarksbrewing.com",
+    "phone": "4024508044",
+    "created_at": "2018-07-24 01:34:37.40002",
+    "updated_at": "2018-08-24 16:46:45.180777",
+    "country": "United States",
+    "longitude": "-104.813937743664",
+    "latitude": "41.1353481538168",
+    "tags": []
+  },
+  {
+    "id": "freedoms-edge-brewing",
+    "name": "Freedom's Edge Brewing",
+    "brewery_type": "micro",
+    "street": "1509 Pioneer Ave",
+    "city": "Cheyenne",
+    "state": "Wyoming",
+    "postal_code": "82001",
+    "website_url": "http://www.freedomsedgebrewing.com",
+    "phone": "3075145314",
+    "created_at": "2018-07-24 01:34:37.411949",
+    "updated_at": "2018-08-24 16:46:46.692873",
+    "country": "United States",
+    "longitude": "-104.81695611293",
+    "latitude": "41.1312296907851",
+    "tags": []
+  }
+]

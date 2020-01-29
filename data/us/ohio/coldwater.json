@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tailspin-brewing-co",
+    "name": "Tailspin Brewing Co",
+    "brewery_type": "micro",
+    "street": "626 S 2nd St",
+    "city": "Coldwater",
+    "state": "Ohio",
+    "postal_code": "45828-9603",
+    "website_url": "http://Www.TailspinBrewing.co",
+    "phone": "4198529366",
+    "created_at": "2018-07-24 01:34:03.13966",
+    "updated_at": "2018-08-24 15:45:04.105017",
+    "country": "United States",
+    "longitude": "-84.6288605",
+    "latitude": "40.4731640714286",
+    "tags": []
+  }
+]

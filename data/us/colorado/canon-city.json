@@ -1,0 +1,19 @@
+[
+  {
+    "id": "royal-gorge-brew-pub",
+    "name": "Royal Gorge Brew Pub",
+    "brewery_type": "brewpub",
+    "street": "413 Main St",
+    "city": "Canon City",
+    "state": "Colorado",
+    "postal_code": "81212-3733",
+    "website_url": "http://www.royalgorgebrewing.com",
+    "phone": "7193454141",
+    "created_at": "2018-07-24 01:33:07.632713",
+    "updated_at": "2018-08-24 00:24:33.206255",
+    "country": "United States",
+    "longitude": "-105.241811269967",
+    "latitude": "38.4401053943236",
+    "tags": []
+  }
+]

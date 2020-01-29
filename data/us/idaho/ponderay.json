@@ -1,0 +1,19 @@
+[
+  {
+    "id": "laughing-dog-brewing",
+    "name": "Laughing Dog Brewing",
+    "brewery_type": "micro",
+    "street": "805 Schweitzer Plaza Dr",
+    "city": "Ponderay",
+    "state": "Idaho",
+    "postal_code": "83852-9823",
+    "website_url": "http://www.laughingdogbrewing.com",
+    "phone": "2082639222",
+    "created_at": "2018-07-24 01:33:17.359748",
+    "updated_at": "2018-08-24 00:30:04.002384",
+    "country": "United States",
+    "longitude": "-116.5464216",
+    "latitude": "48.3050088",
+    "tags": []
+  }
+]

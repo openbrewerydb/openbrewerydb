@@ -1,0 +1,19 @@
+[
+  {
+    "id": "imperial-oak-brewing-co",
+    "name": "Imperial Oak Brewing Co",
+    "brewery_type": "micro",
+    "street": "501 Willow Blvd Ste 108",
+    "city": "Willow Springs",
+    "state": "Illinois",
+    "postal_code": "60480-1710",
+    "website_url": "http://www.imperialoakbrewing.com",
+    "phone": "7083305096",
+    "created_at": "2018-07-24 01:33:19.379722",
+    "updated_at": "2018-08-24 00:31:18.046072",
+    "country": "United States",
+    "longitude": "-87.879257",
+    "latitude": "41.73187",
+    "tags": []
+  }
+]

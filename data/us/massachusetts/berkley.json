@@ -1,0 +1,19 @@
+[
+  {
+    "id": "berkley-beer-company",
+    "name": "Berkley Beer Company",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Berkley",
+    "state": "Massachusetts",
+    "postal_code": "02779-1101",
+    "website_url": "http://www.berkleybeer.com",
+    "phone": "5083269954",
+    "created_at": "2018-07-24 01:33:30.246262",
+    "updated_at": "2018-08-11 21:37:38.771821",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

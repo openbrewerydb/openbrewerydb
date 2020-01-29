@@ -1,0 +1,19 @@
+[
+  {
+    "id": "crane-brewing-company",
+    "name": "Crane Brewing Company",
+    "brewery_type": "micro",
+    "street": "6515 Railroad St",
+    "city": "Raytown",
+    "state": "Missouri",
+    "postal_code": "64133-5210",
+    "website_url": "http://www.cranebrewing.com",
+    "phone": "8167434132",
+    "created_at": "2018-07-24 01:33:40.864255",
+    "updated_at": "2018-08-24 00:46:21.307992",
+    "country": "United States",
+    "longitude": "-94.4629013839175",
+    "latitude": "39.0052427173607",
+    "tags": []
+  }
+]

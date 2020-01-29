@@ -1,0 +1,19 @@
+[
+  {
+    "id": "angry-erik-brewing",
+    "name": "Angry Erik Brewing",
+    "brewery_type": "micro",
+    "street": "10 Millpond Dr Unit 8",
+    "city": "Lafayette",
+    "state": "New Jersey",
+    "postal_code": "07848-3825",
+    "website_url": "http://www.angryerik.com",
+    "phone": "8624329003",
+    "created_at": "2018-07-24 01:33:46.002133",
+    "updated_at": "2018-08-11 21:38:21.623128",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

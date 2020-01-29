@@ -1,0 +1,19 @@
+[
+  {
+    "id": "roundhouse-brewery",
+    "name": "Roundhouse Brewery",
+    "brewery_type": "micro",
+    "street": "1551 Northern Pacific Rd",
+    "city": "Brainerd",
+    "state": "Minnesota",
+    "postal_code": "56401-2687",
+    "website_url": "http://roundhousebrew.com",
+    "phone": "2184542739",
+    "created_at": "2018-07-24 01:33:39.503297",
+    "updated_at": "2018-08-24 00:45:43.828141",
+    "country": "United States",
+    "longitude": "-94.1870055",
+    "latitude": "46.3572831",
+    "tags": []
+  }
+]

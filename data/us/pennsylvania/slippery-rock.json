@@ -1,0 +1,36 @@
+[
+  {
+    "id": "north-country-canning-co",
+    "name": "North Country Canning Co",
+    "brewery_type": "micro",
+    "street": "111 Arrowhead Dr Ste B",
+    "city": "Slippery Rock",
+    "state": "Pennsylvania",
+    "postal_code": "16057-2667",
+    "website_url": "",
+    "phone": "7247942337",
+    "created_at": "2018-07-24 01:34:11.86879",
+    "updated_at": "2018-08-11 21:39:29.514152",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "north-country-brewing-co-llc",
+    "name": "North Country Brewing Co. LLC",
+    "brewery_type": "micro",
+    "street": "141 S Main St",
+    "city": "Slippery Rock",
+    "state": "Pennsylvania",
+    "postal_code": "16057-1246",
+    "website_url": "http://www.northcountrybrewing.com",
+    "phone": "7247942337",
+    "created_at": "2018-07-24 01:34:11.85646",
+    "updated_at": "2018-08-24 16:10:45.848206",
+    "country": "United States",
+    "longitude": "-80.0556628698963",
+    "latitude": "41.0634559915871",
+    "tags": []
+  }
+]

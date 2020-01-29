@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mchenry-brewing-company",
+    "name": "McHenry Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "McHenry",
+    "state": "Illinois",
+    "postal_code": "60050",
+    "website_url": "",
+    "phone": "8154032212",
+    "created_at": "2018-07-24 01:33:19.763096",
+    "updated_at": "2018-08-11 21:37:13.704957",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

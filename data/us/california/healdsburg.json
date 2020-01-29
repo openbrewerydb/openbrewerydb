@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bear-republic-brewing-co",
+    "name": "Bear Republic Brewing Co",
+    "brewery_type": "regional",
+    "street": "345 Healdsburg Ave",
+    "city": "Healdsburg",
+    "state": "California",
+    "postal_code": "95448-4105",
+    "website_url": "http://www.bearrepublic.com",
+    "phone": "7074332337",
+    "created_at": "2018-07-24 01:32:52.324089",
+    "updated_at": "2018-08-23 23:25:09.040623",
+    "country": "United States",
+    "longitude": "-122.8713046",
+    "latitude": "38.6110317",
+    "tags": []
+  }
+]

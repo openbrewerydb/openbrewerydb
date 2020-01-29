@@ -1,0 +1,53 @@
+[
+  {
+    "id": "katabatic-brewing-co",
+    "name": "Katabatic Brewing Co",
+    "brewery_type": "micro",
+    "street": "117 W Park St",
+    "city": "Livingston",
+    "state": "Montana",
+    "postal_code": "59047-2626",
+    "website_url": "http://www.katabaticbrewing.com",
+    "phone": "4063332855",
+    "created_at": "2018-07-24 01:33:42.764183",
+    "updated_at": "2018-08-11 21:38:12.1504",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "montucky-cold-snacks",
+    "name": "Montucky Cold Snacks",
+    "brewery_type": "contract",
+    "street": "123 W Lewis St",
+    "city": "Livingston",
+    "state": "Montana",
+    "postal_code": "59047-3010",
+    "website_url": "http://www.montuckycoldsnacks.com",
+    "phone": "4068718886",
+    "created_at": "2018-07-24 01:33:42.953785",
+    "updated_at": "2018-08-11 21:38:12.805636",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "neptunes-brewery-llc",
+    "name": "Neptunes Brewery, LLC",
+    "brewery_type": "micro",
+    "street": "119 N L St",
+    "city": "Livingston",
+    "state": "Montana",
+    "postal_code": "59047-2819",
+    "website_url": "http://www.neptunesbrewery.com",
+    "phone": "4062227837",
+    "created_at": "2018-07-24 01:33:42.994736",
+    "updated_at": "2018-08-11 21:38:12.962527",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

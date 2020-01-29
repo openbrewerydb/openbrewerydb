@@ -1,0 +1,19 @@
+[
+  {
+    "id": "loomis-basin-brewing-co",
+    "name": "Loomis Basin Brewing Co",
+    "brewery_type": "micro",
+    "street": "3277 Swetzer Rd",
+    "city": "Loomis",
+    "state": "California",
+    "postal_code": "95650-7607",
+    "website_url": "http://www.loomisbasinbrewing.com",
+    "phone": "9162592739",
+    "created_at": "2018-07-24 01:32:57.906702",
+    "updated_at": "2018-08-23 23:59:09.264194",
+    "country": "United States",
+    "longitude": "-121.191644798979",
+    "latitude": "38.8318201777774",
+    "tags": []
+  }
+]

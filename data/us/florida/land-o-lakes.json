@@ -1,0 +1,36 @@
+[
+  {
+    "id": "craft-life-brewing",
+    "name": "Craft Life Brewing",
+    "brewery_type": "micro",
+    "street": "2624 Land O Lakes Blvd",
+    "city": "Land O Lakes",
+    "state": "Florida",
+    "postal_code": "34639-4910",
+    "website_url": "",
+    "phone": "8135758440",
+    "created_at": "2018-07-24 01:33:12.3231",
+    "updated_at": "2018-08-24 00:26:56.207343",
+    "country": "United States",
+    "longitude": "-82.4647787316792",
+    "latitude": "28.1961455195403",
+    "tags": []
+  },
+  {
+    "id": "in-the-loop-brewing",
+    "name": "In the Loop Brewing",
+    "brewery_type": "micro",
+    "street": "3338 Land O Lakes Blvd",
+    "city": "Land O Lakes",
+    "state": "Florida",
+    "postal_code": "34639-4408",
+    "website_url": "http://www.intheloopbrewingcompany.com",
+    "phone": "8139979189",
+    "created_at": "2018-07-24 01:33:13.277587",
+    "updated_at": "2018-08-24 00:27:33.251585",
+    "country": "United States",
+    "longitude": "-82.4627979884398",
+    "latitude": "28.2053085760618",
+    "tags": []
+  }
+]

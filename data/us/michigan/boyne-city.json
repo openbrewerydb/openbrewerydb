@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stiggs-brewery-and-kitchen",
+    "name": "Stiggs Brewery & Kitchen",
+    "brewery_type": "brewpub",
+    "street": "112 S Park St",
+    "city": "Boyne City",
+    "state": "Michigan",
+    "postal_code": "49712-1251",
+    "website_url": "http://www.stiggsbrewingcompany.com",
+    "phone": "2314976100",
+    "created_at": "2018-07-24 01:33:36.717885",
+    "updated_at": "2018-08-11 21:37:56.662111",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

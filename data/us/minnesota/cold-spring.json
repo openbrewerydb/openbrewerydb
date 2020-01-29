@@ -1,0 +1,19 @@
+[
+  {
+    "id": "third-street-brewhouse",
+    "name": "Third Street Brewhouse",
+    "brewery_type": "regional",
+    "street": "219 Red River Ave N",
+    "city": "Cold Spring",
+    "state": "Minnesota",
+    "postal_code": "56320-1624",
+    "website_url": "http://www.thirdstreetbrewhouse.com",
+    "phone": "3206853690",
+    "created_at": "2018-07-24 01:33:39.741094",
+    "updated_at": "2018-08-24 00:45:52.319837",
+    "country": "United States",
+    "longitude": "-94.4288801552519",
+    "latitude": "45.4585949498646",
+    "tags": []
+  }
+]

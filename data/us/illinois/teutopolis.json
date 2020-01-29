@@ -1,0 +1,19 @@
+[
+  {
+    "id": "5770-brewery",
+    "name": "5770 Brewery",
+    "brewery_type": "micro",
+    "street": "303A W Main St",
+    "city": "Teutopolis",
+    "state": "Illinois",
+    "postal_code": "62467-1355",
+    "website_url": "http://www.5770brewery.com",
+    "phone": "6183397841",
+    "created_at": "2018-07-24 01:33:17.907411",
+    "updated_at": "2018-08-24 00:30:24.669336",
+    "country": "United States",
+    "longitude": "-88.478066516129",
+    "latitude": "39.1314219354839",
+    "tags": []
+  }
+]

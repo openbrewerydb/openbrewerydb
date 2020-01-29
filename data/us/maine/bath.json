@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bath-brewing-company",
+    "name": "Bath Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "141 Front St",
+    "city": "Bath",
+    "state": "Maine",
+    "postal_code": "04530",
+    "website_url": "http://www.bathbrewing.com",
+    "phone": "2075603389",
+    "created_at": "2018-07-24 01:33:26.823154",
+    "updated_at": "2018-08-24 00:39:33.620094",
+    "country": "United States",
+    "longitude": "-69.8141459329791",
+    "latitude": "43.9140854135672",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "harsens-island-beer-co",
+    "name": "Harsens Island Beer Co.",
+    "brewery_type": "brewpub",
+    "street": "808 Gratiot Blvd",
+    "city": "Marysville",
+    "state": "Michigan",
+    "postal_code": "48040-1127",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:34.737852",
+    "updated_at": "2018-08-24 00:43:09.994518",
+    "country": "United States",
+    "longitude": "-82.4714930140845",
+    "latitude": "42.9224738873239",
+    "tags": []
+  }
+]

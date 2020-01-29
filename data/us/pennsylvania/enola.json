@@ -1,0 +1,36 @@
+[
+  {
+    "id": "jigsys-brewpub-and-restaurant",
+    "name": "Jigsy's Brewpub & Restaurant",
+    "brewery_type": "brewpub",
+    "street": "225 N Enola Rd",
+    "city": "Enola",
+    "state": "Pennsylvania",
+    "postal_code": "17025-2414",
+    "website_url": "http://www.jigsyspizza.com",
+    "phone": "7177327708",
+    "created_at": "2018-07-24 01:34:11.139207",
+    "updated_at": "2018-08-11 21:39:27.862548",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "pizza-boy-brewing-co",
+    "name": "Pizza Boy Brewing Co",
+    "brewery_type": "micro",
+    "street": "2240 Millennium Way",
+    "city": "Enola",
+    "state": "Pennsylvania",
+    "postal_code": "17025-1484",
+    "website_url": "http://www.pizzaboybrewing.com",
+    "phone": "7177283840",
+    "created_at": "2018-07-24 01:34:12.051538",
+    "updated_at": "2018-08-11 21:39:29.94985",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

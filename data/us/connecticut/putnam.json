@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-crossings-restaurant-and-brewpub",
+    "name": "The Crossings Restaurant and Brewpub",
+    "brewery_type": "brewpub",
+    "street": "45 Main St",
+    "city": "Putnam",
+    "state": "Connecticut",
+    "postal_code": "06260-1917",
+    "website_url": "http://www.thecrossingsbrewpub.com",
+    "phone": "8609283663",
+    "created_at": "2018-07-24 01:33:10.194474",
+    "updated_at": "2018-08-24 00:25:52.276787",
+    "country": "United States",
+    "longitude": "-71.9081681",
+    "latitude": "41.9144568",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "homegrown-brewing-company",
+    "name": "HomeGrown Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "28 N Washington St",
+    "city": "Oxford",
+    "state": "Michigan",
+    "postal_code": "48371-4665",
+    "website_url": "http://www.homegrownbrewco.com",
+    "phone": "2488918290",
+    "created_at": "2018-07-24 01:33:34.823002",
+    "updated_at": "2018-08-24 00:43:13.02516",
+    "country": "United States",
+    "longitude": "-83.2665038571429",
+    "latitude": "42.8265607142857",
+    "tags": []
+  }
+]

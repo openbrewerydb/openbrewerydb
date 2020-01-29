@@ -1,0 +1,19 @@
+[
+  {
+    "id": "inc-82-brewing",
+    "name": "Inc 82 Brewing",
+    "brewery_type": "brewpub",
+    "street": "7370 San Ramon Rd",
+    "city": "Dublin",
+    "state": "California",
+    "postal_code": "94568-2336",
+    "website_url": "http://www.inc82.com",
+    "phone": "9255608344",
+    "created_at": "2018-07-24 01:32:56.819795",
+    "updated_at": "2018-08-23 23:29:47.166011",
+    "country": "United States",
+    "longitude": "-121.9377474",
+    "latitude": "37.7059588",
+    "tags": []
+  }
+]

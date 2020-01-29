@@ -1,0 +1,19 @@
+[
+  {
+    "id": "friendship-brewing-company",
+    "name": "Friendship Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "100 Pitman Ave",
+    "city": "Wentzville",
+    "state": "Missouri",
+    "postal_code": "63385-1700",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:41.016167",
+    "updated_at": "2018-08-24 00:46:26.398164",
+    "country": "United States",
+    "longitude": "-90.8512976",
+    "latitude": "38.8107544",
+    "tags": []
+  }
+]

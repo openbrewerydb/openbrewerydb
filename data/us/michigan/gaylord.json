@@ -1,0 +1,19 @@
+[
+  {
+    "id": "snowbelt-brewing-company",
+    "name": "Snowbelt Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "132 W Main St Unit 1",
+    "city": "Gaylord",
+    "state": "Michigan",
+    "postal_code": "49735-2304",
+    "website_url": "",
+    "phone": "9894487077",
+    "created_at": "2018-07-24 01:33:36.591995",
+    "updated_at": "2018-08-11 21:37:56.352362",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

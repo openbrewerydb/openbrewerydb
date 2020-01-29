@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ragged-island-brewing-company",
+    "name": "Ragged Island Brewing Company",
+    "brewery_type": "micro",
+    "street": "200 High Point Ave Unit B6",
+    "city": "Portsmouth ",
+    "state": "Rhode Island",
+    "postal_code": "02871",
+    "website_url": "http://www.raggedislandbrewing.com",
+    "phone": "4013182991",
+    "created_at": "2018-07-24 01:34:13.834875",
+    "updated_at": "2018-08-11 21:39:34.303933",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

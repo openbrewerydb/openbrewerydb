@@ -1,0 +1,19 @@
+[
+  {
+    "id": "openroad-brewery",
+    "name": "OpenRoad Brewery",
+    "brewery_type": "brewpub",
+    "street": "128 S Main St",
+    "city": "Wayland",
+    "state": "Michigan",
+    "postal_code": "49348-1209",
+    "website_url": "http://www.openroadbrewing.com",
+    "phone": "6162937855",
+    "created_at": "2018-07-24 01:33:35.876029",
+    "updated_at": "2018-08-24 00:43:47.051887",
+    "country": "United States",
+    "longitude": "-85.6433177373737",
+    "latitude": "42.673112020202",
+    "tags": []
+  }
+]

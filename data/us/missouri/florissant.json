@@ -1,0 +1,19 @@
+[
+  {
+    "id": "narrow-gauge-brewing-company",
+    "name": "Narrow Gauge Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "1595 N Highway 67 St",
+    "city": "Florissant",
+    "state": "Missouri",
+    "postal_code": "63031-4606",
+    "website_url": "http://www.narrowgaugestl.com",
+    "phone": "3148313222",
+    "created_at": "2018-07-24 01:33:41.427789",
+    "updated_at": "2018-08-11 21:38:08.648831",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

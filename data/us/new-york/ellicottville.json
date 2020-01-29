@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ellicottville-brewing-co",
+    "name": "Ellicottville Brewing Co",
+    "brewery_type": "micro",
+    "street": "28 Monroe St",
+    "city": "Ellicottville",
+    "state": "New York",
+    "postal_code": "14731",
+    "website_url": "http://www.ellicottvillebrewing.com",
+    "phone": "7166992537",
+    "created_at": "2018-07-24 01:33:50.702489",
+    "updated_at": "2018-08-24 15:38:47.310366",
+    "country": "United States",
+    "longitude": "-78.6704970085185",
+    "latitude": "42.27511725",
+    "tags": []
+  }
+]

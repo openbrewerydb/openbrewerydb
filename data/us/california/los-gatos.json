@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brewery-in-planning-los-gatos",
+    "name": "Brewery in Planning - Los Gatos",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Los Gatos",
+    "state": "California",
+    "postal_code": "95033-8034",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:53.139607",
+    "updated_at": "2018-08-23 23:26:04.688881",
+    "country": "United States",
+    "longitude": "-121.9746797",
+    "latitude": "37.226611",
+    "tags": []
+  },
+  {
+    "id": "loma-brewing-company",
+    "name": "Loma Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "130 N Santa Cruz Ave Ste G",
+    "city": "Los Gatos",
+    "state": "California",
+    "postal_code": "95030-5949",
+    "website_url": "http://www.lomabrew.com",
+    "phone": "4085609626",
+    "created_at": "2018-07-24 01:32:57.866898",
+    "updated_at": "2018-08-11 21:36:12.064762",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "soquel-fermentation-project",
+    "name": "Soquel Fermentation Project",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Los Gatos",
+    "state": "California",
+    "postal_code": "95033",
+    "website_url": "http://facebook.com/Soquel-Fermentation-Project-1661153424004618/",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:01.097706",
+    "updated_at": "2018-08-24 00:02:49.155533",
+    "country": "United States",
+    "longitude": "-121.9746797",
+    "latitude": "37.226611",
+    "tags": []
+  }
+]

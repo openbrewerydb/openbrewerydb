@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wolf-tree-brewery",
+    "name": "Wolf Tree Brewery",
+    "brewery_type": "micro",
+    "street": "199 N Wolkau Rd",
+    "city": "Seal Rock",
+    "state": "Oregon",
+    "postal_code": "97376-9526",
+    "website_url": "http://www.wolftreebrewery.com",
+    "phone": "5419612022",
+    "created_at": "2018-07-24 01:34:08.440455",
+    "updated_at": "2018-08-11 21:39:21.258011",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

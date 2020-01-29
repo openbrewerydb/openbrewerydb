@@ -1,0 +1,19 @@
+[
+  {
+    "id": "flatland-brewery",
+    "name": "Flatland Brewery",
+    "brewery_type": "micro",
+    "street": "3140 Bluestem Dr, Ste 105",
+    "city": "West Fargo",
+    "state": "North Dakota",
+    "postal_code": "58078-8009",
+    "website_url": "http://www.flatlandbrewery.com",
+    "phone": "7013531178",
+    "created_at": "2018-07-24 01:33:59.162558",
+    "updated_at": "2018-08-24 15:43:15.531525",
+    "country": "United States",
+    "longitude": "-96.884736422929",
+    "latitude": "46.8342507992405",
+    "tags": []
+  }
+]

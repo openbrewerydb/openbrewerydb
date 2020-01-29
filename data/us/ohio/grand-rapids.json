@@ -1,0 +1,36 @@
+[
+  {
+    "id": "neon-groundhog-brewery-majestic-oak-winery",
+    "name": "Neon Groundhog Brewery - Majestic Oak Winery",
+    "brewery_type": "micro",
+    "street": "13554 Mohler Rd",
+    "city": "Grand Rapids",
+    "state": "Ohio",
+    "postal_code": "43522-9648",
+    "website_url": "http://www.majesticoakwinery.com",
+    "phone": "4198756474",
+    "created_at": "2018-07-24 01:34:02.078563",
+    "updated_at": "2018-08-11 21:39:01.99807",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "wild-side-brewing-company",
+    "name": "Wild Side Brewing Company",
+    "brewery_type": "micro",
+    "street": "24194 Front St",
+    "city": "Grand Rapids",
+    "state": "Ohio",
+    "postal_code": "43522",
+    "website_url": "http://www.wildsidebrewing.com",
+    "phone": "4193892776",
+    "created_at": "2018-07-24 01:34:03.699779",
+    "updated_at": "2018-08-24 15:45:22.079663",
+    "country": "United States",
+    "longitude": "-83.8673138450704",
+    "latitude": "41.4125325915493",
+    "tags": []
+  }
+]

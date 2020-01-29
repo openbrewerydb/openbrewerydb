@@ -1,0 +1,19 @@
+[
+  {
+    "id": "backroom-brewery",
+    "name": "Backroom Brewery",
+    "brewery_type": "brewpub",
+    "street": "150 Ridgemont Rd",
+    "city": "Middletown",
+    "state": "Virginia",
+    "postal_code": "22645-3817",
+    "website_url": "http://www.backroombreweryva.com",
+    "phone": "5408698482",
+    "created_at": "2018-07-24 01:34:24.190901",
+    "updated_at": "2018-08-11 21:40:01.844845",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

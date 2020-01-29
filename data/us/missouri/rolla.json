@@ -1,0 +1,19 @@
+[
+  {
+    "id": "public-house-brewing-company",
+    "name": "Public House Brewing Company",
+    "brewery_type": "micro",
+    "street": "600 N Rolla St Ste B",
+    "city": "Rolla",
+    "state": "Missouri",
+    "postal_code": "65401-3111",
+    "website_url": "http://www.publichousebrewery.com",
+    "phone": "5734262337",
+    "created_at": "2018-07-24 01:33:41.568828",
+    "updated_at": "2018-08-11 21:38:08.983869",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

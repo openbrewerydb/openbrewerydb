@@ -1,0 +1,19 @@
+[
+  {
+    "id": "arrowood-farms",
+    "name": "Arrowood Farms",
+    "brewery_type": "micro",
+    "street": "236 Lower Whitfield Rd",
+    "city": "Accord",
+    "state": "New York",
+    "postal_code": "12404-5809",
+    "website_url": "http://www.arrowoodfarms.com",
+    "phone": "8452530389",
+    "created_at": "2018-07-24 01:33:49.175225",
+    "updated_at": "2018-08-24 15:38:02.230953",
+    "country": "United States",
+    "longitude": "-74.2489174174862",
+    "latitude": "41.8066614403486",
+    "tags": []
+  }
+]

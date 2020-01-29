@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cash-brewing-company",
+    "name": "Cash Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "3388 NW Byron St Ste 100",
+    "city": "Silverdale",
+    "state": "Washington",
+    "postal_code": "98383-8548",
+    "website_url": "http://www.cashbrewing.com",
+    "phone": "3606337852",
+    "created_at": "2018-07-24 01:34:28.833911",
+    "updated_at": "2018-08-11 21:40:13.625036",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

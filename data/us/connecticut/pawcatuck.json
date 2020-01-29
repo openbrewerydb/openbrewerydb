@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cottrell-brewing-co",
+    "name": "Cottrell Brewing Co",
+    "brewery_type": "micro",
+    "street": "100 Mechanic St",
+    "city": "Pawcatuck",
+    "state": "Connecticut",
+    "postal_code": "06379-2163",
+    "website_url": "http://www.cottrellbrewing.com",
+    "phone": "8605998213",
+    "created_at": "2018-07-24 01:33:09.430079",
+    "updated_at": "2018-08-24 00:25:33.388163",
+    "country": "United States",
+    "longitude": "-71.834289",
+    "latitude": "41.370676",
+    "tags": []
+  }
+]

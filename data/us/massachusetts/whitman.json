@@ -1,0 +1,19 @@
+[
+  {
+    "id": "old-colony-brewing",
+    "name": "Old Colony Brewing",
+    "brewery_type": "micro",
+    "street": "605 Bedford St Unit 1",
+    "city": "Whitman",
+    "state": "Massachusetts",
+    "postal_code": "02382-2088",
+    "website_url": "http://www.oldcolonybrew.com",
+    "phone": "7815237105",
+    "created_at": "2018-07-24 01:33:31.66062",
+    "updated_at": "2018-08-11 21:37:42.906912",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

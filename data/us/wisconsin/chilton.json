@@ -1,0 +1,36 @@
+[
+  {
+    "id": "rowlands-calumet-brewery-co-#2",
+    "name": "Rowlands Calumet Brewery Co (#2)",
+    "brewery_type": "micro",
+    "street": "57 School St",
+    "city": "Chilton",
+    "state": "Wisconsin",
+    "postal_code": "53014-",
+    "website_url": "",
+    "phone": "9208492534",
+    "created_at": "2018-07-24 01:34:36.472649",
+    "updated_at": "2018-08-24 16:45:18.907925",
+    "country": "United States",
+    "longitude": "-88.164013274801",
+    "latitude": "44.0291830997522",
+    "tags": []
+  },
+  {
+    "id": "rowlands-calumet-brewery-co",
+    "name": "Rowlands Calumet Brewery Co",
+    "brewery_type": "micro",
+    "street": "25 N Madison St",
+    "city": "Chilton",
+    "state": "Wisconsin",
+    "postal_code": "53014-1451",
+    "website_url": "",
+    "phone": "9208492534",
+    "created_at": "2018-07-24 01:34:36.460154",
+    "updated_at": "2018-08-24 16:45:17.379687",
+    "country": "United States",
+    "longitude": "-88.1632129",
+    "latitude": "44.0293888",
+    "tags": []
+  }
+]

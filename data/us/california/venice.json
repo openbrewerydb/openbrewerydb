@@ -1,0 +1,53 @@
+[
+  {
+    "id": "house-beer",
+    "name": "House Beer",
+    "brewery_type": "proprietor",
+    "street": "219 Rose Ave",
+    "city": "Venice",
+    "state": "California",
+    "postal_code": "90291-2567",
+    "website_url": "http://www.housebeer.us",
+    "phone": "3103103331",
+    "created_at": "2018-07-24 01:32:56.674495",
+    "updated_at": "2018-08-23 23:29:37.348016",
+    "country": "United States",
+    "longitude": "-118.477531857143",
+    "latitude": "33.9963199183673",
+    "tags": []
+  },
+  {
+    "id": "venice-ale-house-brewing-co",
+    "name": "Venice Ale House Brewing Co",
+    "brewery_type": "contract",
+    "street": "2 Rose Ave",
+    "city": "Venice",
+    "state": "California",
+    "postal_code": "90291-2411",
+    "website_url": "http://www.venicealehouse.com",
+    "phone": "3103148253",
+    "created_at": "2018-07-24 01:33:02.78766",
+    "updated_at": "2018-08-24 00:04:43.884018",
+    "country": "United States",
+    "longitude": "-118.480274",
+    "latitude": "33.994634",
+    "tags": []
+  },
+  {
+    "id": "venice-duck-brewery",
+    "name": "Venice Duck Brewery",
+    "brewery_type": "contract",
+    "street": "",
+    "city": "Venice",
+    "state": "California",
+    "postal_code": "90291-3833",
+    "website_url": "http://www.veniceduckbrewery.com",
+    "phone": "3103834927",
+    "created_at": "2018-07-24 01:33:02.799292",
+    "updated_at": "2018-08-24 00:04:44.324987",
+    "country": "United States",
+    "longitude": "-118.4668875",
+    "latitude": "33.995044",
+    "tags": []
+  }
+]

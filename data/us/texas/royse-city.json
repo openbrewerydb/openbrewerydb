@@ -1,0 +1,19 @@
+[
+  {
+    "id": "thirsty-bro-brewing",
+    "name": "Thirsty Bro Brewing",
+    "brewery_type": "micro",
+    "street": "141 E Main St",
+    "city": "Royse City",
+    "state": "Texas",
+    "postal_code": "75189-3712",
+    "website_url": "http://www.ThirstyBroBrewingCo.com",
+    "phone": "2818417246",
+    "created_at": "2018-07-24 01:34:21.790608",
+    "updated_at": "2018-08-24 16:23:52.913327",
+    "country": "United States",
+    "longitude": "-96.3319303877551",
+    "latitude": "32.9752143877551",
+    "tags": []
+  }
+]

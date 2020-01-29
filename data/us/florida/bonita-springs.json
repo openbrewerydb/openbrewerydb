@@ -1,0 +1,19 @@
+[
+  {
+    "id": "momentum-brewhouse",
+    "name": "Momentum Brewhouse",
+    "brewery_type": "micro",
+    "street": "9786 Bonita Beach Rd SE Ste 1",
+    "city": "Bonita Springs",
+    "state": "Florida",
+    "postal_code": "34135-4666",
+    "website_url": "http://www.momentumbrewhouse.com",
+    "phone": "2399499945",
+    "created_at": "2018-07-24 01:33:13.758641",
+    "updated_at": "2018-08-11 21:36:56.64329",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

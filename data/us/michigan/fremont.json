@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brew-works-of-fremont",
+    "name": "Brew Works of Fremont",
+    "brewery_type": "brewpub",
+    "street": "5909 S Warner Ave",
+    "city": "Fremont",
+    "state": "Michigan",
+    "postal_code": "49412",
+    "website_url": "http://www.thecommonsoffremont.com",
+    "phone": "2313355105",
+    "created_at": "2018-07-24 01:33:33.324878",
+    "updated_at": "2018-08-24 00:42:26.444514",
+    "country": "United States",
+    "longitude": "-85.940033245614",
+    "latitude": "43.4438071578947",
+    "tags": []
+  }
+]

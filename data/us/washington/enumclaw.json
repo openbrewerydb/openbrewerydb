@@ -1,0 +1,53 @@
+[
+  {
+    "id": "headworks-brewing",
+    "name": "Headworks Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Enumclaw",
+    "state": "Washington",
+    "postal_code": "98022-3525",
+    "website_url": "http://www.headworksbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:30.289884",
+    "updated_at": "2018-08-11 21:40:17.511303",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "cole-street-brewery",
+    "name": "Cole Street Brewery",
+    "brewery_type": "micro",
+    "street": "2551 Cole St Ste R",
+    "city": "Enumclaw",
+    "state": "Washington",
+    "postal_code": "98022-3640",
+    "website_url": "http://www.colestreetbrew.com",
+    "phone": "2532045570",
+    "created_at": "2018-07-24 01:34:28.943476",
+    "updated_at": "2018-08-11 21:40:13.885349",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "enumclaw-brewing-company-rockridge-orchards-and-cidery",
+    "name": "Enumclaw Brewing Company @ Rockridge Orchards & Cidery",
+    "brewery_type": "micro",
+    "street": "40709 264th Ave SE",
+    "city": "Enumclaw",
+    "state": "Washington",
+    "postal_code": "98022-8366",
+    "website_url": "http://www.rockridgeorchards.com",
+    "phone": "3608026800",
+    "created_at": "2018-07-24 01:34:29.556667",
+    "updated_at": "2018-08-11 21:40:15.614434",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fine-creek-brewing-company",
+    "name": "Fine Creek Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "2425 Robert E Lee Rd",
+    "city": "Powhatan",
+    "state": "Virginia",
+    "postal_code": "23139-4411",
+    "website_url": "http://www.finecreekbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:25.275744",
+    "updated_at": "2018-08-24 16:28:40.354619",
+    "country": "United States",
+    "longitude": "-77.8176130455157",
+    "latitude": "37.5979399970827",
+    "tags": []
+  }
+]

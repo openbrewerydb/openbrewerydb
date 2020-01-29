@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cherokee-brewing-pizza-company",
+    "name": "Cherokee Brewing + Pizza Company",
+    "brewery_type": "brewpub",
+    "street": "207-B West Cuyler St",
+    "city": "Dalton",
+    "state": "Georgia",
+    "postal_code": "30720",
+    "website_url": "http://www.cherokeebrewingandpizza.com",
+    "phone": "7065299478",
+    "created_at": "2018-07-24 01:33:15.56808",
+    "updated_at": "2018-08-24 00:29:00.324526",
+    "country": "United States",
+    "longitude": "-84.9694072096123",
+    "latitude": "34.7697666359591",
+    "tags": []
+  }
+]

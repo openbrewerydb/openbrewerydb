@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wooly-pig-farm-brewery",
+    "name": "Wooly Pig Farm Brewery",
+    "brewery_type": "micro",
+    "street": "23631 Township Road 167",
+    "city": "Fresno",
+    "state": "Ohio",
+    "postal_code": "43824-9704",
+    "website_url": "http://www.woolypigfarmbrewery.com",
+    "phone": "7406935050",
+    "created_at": "2018-07-24 01:34:03.738089",
+    "updated_at": "2018-08-24 15:45:23.502585",
+    "country": "United States",
+    "longitude": "-81.7357237229063",
+    "latitude": "40.2914143959077",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rooster-brewing",
+    "name": "Rooster Brewing",
+    "brewery_type": "micro",
+    "street": "609 Main St",
+    "city": "Paris",
+    "state": "Kentucky",
+    "postal_code": "40361-1816",
+    "website_url": "http://www.roosterbrew.com",
+    "phone": "8597073436",
+    "created_at": "2018-07-24 01:33:25.898465",
+    "updated_at": "2018-08-24 00:39:04.374077",
+    "country": "United States",
+    "longitude": "-84.2516636630851",
+    "latitude": "38.2103948311192",
+    "tags": []
+  }
+]

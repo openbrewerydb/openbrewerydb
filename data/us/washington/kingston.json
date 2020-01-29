@@ -1,0 +1,36 @@
+[
+  {
+    "id": "downpour-brewing-llc",
+    "name": "Downpour Brewing LLC",
+    "brewery_type": "micro",
+    "street": "10991 NE State Highway 104",
+    "city": "Kingston",
+    "state": "Washington",
+    "postal_code": "98346-",
+    "website_url": "http://www.downpourbrewing.com",
+    "phone": "3608810452",
+    "created_at": "2018-07-24 01:34:29.261697",
+    "updated_at": "2018-08-24 16:34:01.71961",
+    "country": "United States",
+    "longitude": "-122.500158654833",
+    "latitude": "47.8010831",
+    "tags": []
+  },
+  {
+    "id": "hood-canal-brewery",
+    "name": "Hood Canal Brewery",
+    "brewery_type": "brewpub",
+    "street": "26499 Bond Rd NE",
+    "city": "Kingston",
+    "state": "Washington",
+    "postal_code": "98346-8477",
+    "website_url": "http://www.hoodcanalbrewery.com",
+    "phone": "3602978316",
+    "created_at": "2018-07-24 01:34:30.409924",
+    "updated_at": "2018-08-11 21:40:17.789926",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

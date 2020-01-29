@@ -1,0 +1,19 @@
+[
+  {
+    "id": "grail-point-brewery",
+    "name": "Grail Point Brewery",
+    "brewery_type": "proprietor",
+    "street": "",
+    "city": "Emmitsburg",
+    "state": "Maryland",
+    "postal_code": "21727-0702",
+    "website_url": "http://www.grailpointbeer.co",
+    "phone": "2408442379",
+    "created_at": "2018-07-24 01:33:29.039884",
+    "updated_at": "2018-08-11 21:37:36.27253",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

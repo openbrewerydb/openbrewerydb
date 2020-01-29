@@ -1,0 +1,19 @@
+[
+  {
+    "id": "railtown-brewing-co",
+    "name": "Railtown Brewing Co",
+    "brewery_type": "micro",
+    "street": "3595 68th St SE",
+    "city": "Dutton",
+    "state": "Michigan",
+    "postal_code": "49316-8503",
+    "website_url": "http://www.railtownbrewing.com",
+    "phone": "6168812364",
+    "created_at": "2018-07-24 01:33:36.176143",
+    "updated_at": "2018-08-24 00:43:56.435304",
+    "country": "United States",
+    "longitude": "-85.5783306530612",
+    "latitude": "42.841188877551",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "three-rivers-eatery-and-brewery",
+    "name": "Three Rivers Eatery and Brewery",
+    "brewery_type": "brewpub",
+    "street": "101 E Main St",
+    "city": "Farmington",
+    "state": "New Mexico",
+    "postal_code": "87401-2701",
+    "website_url": "http://www.threeriversbrewery.com",
+    "phone": "5053242187",
+    "created_at": "2018-07-24 01:33:48.745348",
+    "updated_at": "2018-08-24 15:37:50.851295",
+    "country": "United States",
+    "longitude": "-108.205192",
+    "latitude": "36.729011",
+    "tags": []
+  }
+]

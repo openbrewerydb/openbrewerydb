@@ -1,0 +1,36 @@
+[
+  {
+    "id": "limestone-creek-brewing-company",
+    "name": "Limestone Creek Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Manlius",
+    "state": "New York",
+    "postal_code": "13104",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:52.163742",
+    "updated_at": "2018-08-11 21:38:37.197605",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "seneca-street-brew-pub",
+    "name": "Seneca Street Brew Pub",
+    "brewery_type": "brewpub",
+    "street": "315 E Seneca St Ste 1",
+    "city": "Manlius",
+    "state": "New York",
+    "postal_code": "13104-1860",
+    "website_url": "http://www.senecastreetbrewpub.com",
+    "phone": "3156826968",
+    "created_at": "2018-07-24 01:33:53.483116",
+    "updated_at": "2018-08-11 21:38:41.135011",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

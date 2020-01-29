@@ -1,0 +1,19 @@
+[
+  {
+    "id": "deep-river-brewing-company",
+    "name": "Deep River Brewing Company",
+    "brewery_type": "micro",
+    "street": "700 W Main St Ste 102",
+    "city": "Clayton",
+    "state": "North Carolina",
+    "postal_code": "27520-1657",
+    "website_url": "http://www.deepriverbrewing.com",
+    "phone": "9193683243",
+    "created_at": "2018-07-24 01:33:55.939849",
+    "updated_at": "2018-08-11 21:38:47.302245",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

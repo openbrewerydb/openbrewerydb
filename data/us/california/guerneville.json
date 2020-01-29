@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stumptown-brewery",
+    "name": "Stumptown Brewery",
+    "brewery_type": "brewpub",
+    "street": "15045 River Rd",
+    "city": "Guerneville",
+    "state": "California",
+    "postal_code": "95446-8043",
+    "website_url": "",
+    "phone": "7078690705",
+    "created_at": "2018-07-24 01:33:01.569081",
+    "updated_at": "2018-08-24 00:03:21.578121",
+    "country": "United States",
+    "longitude": "-122.983801660587",
+    "latitude": "38.5132067725656",
+    "tags": []
+  }
+]

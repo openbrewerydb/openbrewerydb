@@ -1,0 +1,19 @@
+[
+  {
+    "id": "north-channel-brewing-co",
+    "name": "North Channel Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "86 Washington St",
+    "city": "Manistee",
+    "state": "Michigan",
+    "postal_code": "49660-1231",
+    "website_url": "http://www.NorthChannelBrewing.com",
+    "phone": "2312991020",
+    "created_at": "2018-07-24 01:33:35.689013",
+    "updated_at": "2018-08-24 00:43:41.636153",
+    "country": "United States",
+    "longitude": "-86.323798875",
+    "latitude": "44.249293875",
+    "tags": []
+  }
+]

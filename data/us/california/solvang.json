@@ -1,0 +1,19 @@
+[
+  {
+    "id": "solvang-brewing-co",
+    "name": "Solvang Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1547 Mission Dr",
+    "city": "Solvang",
+    "state": "California",
+    "postal_code": "93463-2607",
+    "website_url": "http://www.solvangbrewingcompany.com",
+    "phone": "8056882337",
+    "created_at": "2018-07-24 01:33:01.03748",
+    "updated_at": "2018-08-24 00:02:44.877565",
+    "country": "United States",
+    "longitude": "-120.144866279994",
+    "latitude": "34.5961546638664",
+    "tags": []
+  }
+]

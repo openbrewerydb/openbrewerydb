@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rar-brewing",
+    "name": "RAR Brewing",
+    "brewery_type": "proprietor",
+    "street": "504 Poplar St",
+    "city": "Cambridge",
+    "state": "Maryland",
+    "postal_code": "21613-1834",
+    "website_url": "http://www.rarbrewing.com",
+    "phone": "4107257922",
+    "created_at": "2018-07-24 01:33:29.525659",
+    "updated_at": "2018-08-24 00:40:44.440988",
+    "country": "United States",
+    "longitude": "-76.0774552",
+    "latitude": "38.5702289",
+    "tags": []
+  }
+]

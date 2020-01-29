@@ -1,0 +1,19 @@
+[
+  {
+    "id": "viewpoint-brewing-co",
+    "name": "Viewpoint Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "2201 San Dieguito Dr Ste F",
+    "city": "del Mar",
+    "state": "California",
+    "postal_code": "92014-2257",
+    "website_url": "http://www.viewpointbrewing.com",
+    "phone": "8583569346",
+    "created_at": "2018-07-24 01:33:02.834761",
+    "updated_at": "2018-08-11 21:36:27.962563",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

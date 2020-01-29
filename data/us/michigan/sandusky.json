@@ -1,0 +1,19 @@
+[
+  {
+    "id": "elk-street-brewery",
+    "name": "Elk Street Brewery",
+    "brewery_type": "brewpub",
+    "street": "3 S Elk St",
+    "city": "Sandusky",
+    "state": "Michigan",
+    "postal_code": "48471-1353",
+    "website_url": "http://www.elkstreetbrewery.com",
+    "phone": "8103008049",
+    "created_at": "2018-07-24 01:33:34.141171",
+    "updated_at": "2018-08-24 00:42:50.10782",
+    "country": "United States",
+    "longitude": "-82.829770877551",
+    "latitude": "43.4203640612245",
+    "tags": []
+  }
+]

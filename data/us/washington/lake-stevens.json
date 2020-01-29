@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewbakers-brewery",
+    "name": "BrewBakers Brewery",
+    "brewery_type": "micro",
+    "street": "11927 84th St NE",
+    "city": "Lake Stevens",
+    "state": "Washington",
+    "postal_code": "98258-8906",
+    "website_url": "http://www.brewbakersbrewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:28.49137",
+    "updated_at": "2018-08-11 21:40:12.880103",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "lake-stevens-brewing-company",
+    "name": "Lake Stevens Brewing Company",
+    "brewery_type": "micro",
+    "street": "2010 Grade Rd",
+    "city": "Lake Stevens",
+    "state": "Washington",
+    "postal_code": "98258-9182",
+    "website_url": "",
+    "phone": "3605243678",
+    "created_at": "2018-07-24 01:34:30.758218",
+    "updated_at": "2018-08-24 16:36:13.83196",
+    "country": "United States",
+    "longitude": "-122.063255244378",
+    "latitude": "48.0161107156973",
+    "tags": []
+  }
+]

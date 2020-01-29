@@ -1,0 +1,19 @@
+[
+  {
+    "id": "parkers-hilltop-brewery",
+    "name": "Parkers Hilltop Brewery",
+    "brewery_type": "brewpub",
+    "street": "6110 Dixie Hwy",
+    "city": "Clarkston",
+    "state": "Michigan",
+    "postal_code": "48346-3409",
+    "website_url": "http://www.hilltopbrew.com",
+    "phone": "2483838444",
+    "created_at": "2018-07-24 01:33:36.008692",
+    "updated_at": "2018-08-24 00:43:51.316351",
+    "country": "United States",
+    "longitude": "-83.4149011",
+    "latitude": "42.7174413",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-highway-brewing-co",
+    "name": "The Highway Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "209 W Houghton Ave",
+    "city": "West Branch",
+    "state": "Michigan",
+    "postal_code": "48661-1219",
+    "website_url": "http://www.highwaybrewingco.com",
+    "phone": "9897090716",
+    "created_at": "2018-07-24 01:33:36.947037",
+    "updated_at": "2018-08-24 00:44:22.952162",
+    "country": "United States",
+    "longitude": "-84.2375165102041",
+    "latitude": "44.2763520816327",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "abbey-brewing-co",
+    "name": "Abbey Brewing Co",
+    "brewery_type": "contract",
+    "street": "1115 16th St",
+    "city": "Miami Beach",
+    "state": "Florida",
+    "postal_code": "33139-2441",
+    "website_url": "",
+    "phone": "3055388110",
+    "created_at": "2018-07-24 01:33:11.23186",
+    "updated_at": "2018-08-24 00:26:24.904944",
+    "country": "United States",
+    "longitude": "-80.1402943",
+    "latitude": "25.7890381",
+    "tags": []
+  },
+  {
+    "id": "gravity-brewlab",
+    "name": "Gravity Brewlab",
+    "brewery_type": "contract",
+    "street": "1521 Alton Rd # 591",
+    "city": "Miami Beach",
+    "state": "Florida",
+    "postal_code": "33139-3301",
+    "website_url": "http://www.Gravity.beer",
+    "phone": "7865367085",
+    "created_at": "2018-07-24 01:33:12.946015",
+    "updated_at": "2018-08-11 21:36:54.628925",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

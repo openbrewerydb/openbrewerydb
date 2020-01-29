@@ -1,0 +1,53 @@
+[
+  {
+    "id": "3-sheets-brewery",
+    "name": "3 Sheets Brewery",
+    "brewery_type": "micro",
+    "street": "136 W 1st Ave",
+    "city": "Albany",
+    "state": "Oregon",
+    "postal_code": "97321",
+    "website_url": "http://www.3sheetsbrewery.com",
+    "phone": "5416190183",
+    "created_at": "2018-07-24 01:34:04.502392",
+    "updated_at": "2018-08-11 21:39:09.559114",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "deluxe-brewing-co",
+    "name": "Deluxe Brewing Co",
+    "brewery_type": "micro",
+    "street": "PO Box 3358",
+    "city": "Albany",
+    "state": "Oregon",
+    "postal_code": "97321-0713",
+    "website_url": "http://www.deluxebrewing.com",
+    "phone": "5419287699",
+    "created_at": "2018-07-24 01:34:05.706231",
+    "updated_at": "2018-08-11 21:39:12.893535",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "calapooia-brewing-co-/-siletz-ales",
+    "name": "Calapooia Brewing Co / Siletz Ales",
+    "brewery_type": "micro",
+    "street": "140 NE Hill St",
+    "city": "Albany",
+    "state": "Oregon",
+    "postal_code": "97321-3002",
+    "website_url": "http://www.calapooiabrewing.com",
+    "phone": "5419281931",
+    "created_at": "2018-07-24 01:34:05.311216",
+    "updated_at": "2018-08-11 21:39:11.818716",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

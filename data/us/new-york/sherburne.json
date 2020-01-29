@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bullthistle-brewing-co",
+    "name": "Bullthistle Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "45 S Main St",
+    "city": "Sherburne",
+    "state": "New York",
+    "postal_code": "13460-9202",
+    "website_url": "",
+    "phone": "6076742337",
+    "created_at": "2018-07-24 01:33:50.049647",
+    "updated_at": "2018-08-24 15:38:24.109952",
+    "country": "United States",
+    "longitude": "-75.4957686055147",
+    "latitude": "42.67156527085",
+    "tags": []
+  }
+]

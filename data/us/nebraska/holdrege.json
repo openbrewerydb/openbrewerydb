@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lost-way-brewery",
+    "name": "Lost Way Brewery",
+    "brewery_type": "micro",
+    "street": "614 3rd Ave",
+    "city": "Holdrege",
+    "state": "Nebraska",
+    "postal_code": "68949-2701",
+    "website_url": "http://www.lostwaybrewery.com",
+    "phone": "3089950503",
+    "created_at": "2018-07-24 01:33:43.848349",
+    "updated_at": "2018-08-24 00:47:45.017675",
+    "country": "United States",
+    "longitude": "-99.3722823478261",
+    "latitude": "40.4368516956522",
+    "tags": []
+  }
+]

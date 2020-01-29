@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ram-restaurant-and-brewery-lakewood",
+    "name": "RAM Restaurant and Brewery - Lakewood",
+    "brewery_type": "brewpub",
+    "street": "10019 59th Ave SW",
+    "city": "Lakewood",
+    "state": "Washington",
+    "postal_code": "98499-2757",
+    "website_url": "http://www.theram.com",
+    "phone": "2535843191",
+    "created_at": "2018-07-24 01:34:32.225484",
+    "updated_at": "2018-08-24 16:38:21.875598",
+    "country": "United States",
+    "longitude": "-122.515613205311",
+    "latitude": "47.166010428089",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "boone-valley-brewing-co",
+    "name": "Boone Valley Brewing Co",
+    "brewery_type": "micro",
+    "street": "816 7th St",
+    "city": "Boone",
+    "state": "Iowa",
+    "postal_code": "50036-2818",
+    "website_url": "http://www.boonevalleybrewing.com",
+    "phone": "5154321232",
+    "created_at": "2018-07-24 01:33:23.478205",
+    "updated_at": "2018-08-24 00:33:50.095616",
+    "country": "United States",
+    "longitude": "-93.8809626530612",
+    "latitude": "42.062643",
+    "tags": []
+  }
+]

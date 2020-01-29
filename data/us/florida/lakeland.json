@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brew-hub-llc",
+    "name": "Brew Hub, LLC",
+    "brewery_type": "regional",
+    "street": "3900 Frontage Rd S",
+    "city": "Lakeland",
+    "state": "Florida",
+    "postal_code": "33815-3205",
+    "website_url": "http://www.brewhub.com",
+    "phone": "8636987600",
+    "created_at": "2018-07-24 01:33:11.759002",
+    "updated_at": "2018-08-11 21:36:51.831784",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "island-coastal-lager",
+    "name": "Island Coastal Lager",
+    "brewery_type": "micro",
+    "street": "3900 Frontage Rd S",
+    "city": "Lakeland",
+    "state": "Florida",
+    "postal_code": "33815",
+    "website_url": "http://www.islandcoastallager.com",
+    "phone": "8636987600",
+    "created_at": "2018-07-24 01:33:13.412515",
+    "updated_at": "2018-08-11 21:36:55.685074",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "swan-brewing",
+    "name": "Swan Brewing",
+    "brewery_type": "micro",
+    "street": "115 W. Pine St.",
+    "city": "Lakeland",
+    "state": "Florida",
+    "postal_code": "33815",
+    "website_url": "http://www.swanbrewing.com",
+    "phone": "8637030472",
+    "created_at": "2018-07-24 01:33:14.71432",
+    "updated_at": "2018-08-24 00:28:33.565548",
+    "country": "United States",
+    "longitude": "-81.9574616696244",
+    "latitude": "28.0460088798496",
+    "tags": []
+  }
+]

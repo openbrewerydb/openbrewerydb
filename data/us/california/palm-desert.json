@@ -1,0 +1,19 @@
+[
+  {
+    "id": "la-quinta-brewing-co",
+    "name": "La Quinta Brewing Co",
+    "brewery_type": "micro",
+    "street": "77917 Wildcat Dr",
+    "city": "Palm Desert",
+    "state": "California",
+    "postal_code": "92211-1159",
+    "website_url": "http://www.laquintabrewing.com",
+    "phone": "7602002597",
+    "created_at": "2018-07-24 01:32:57.499165",
+    "updated_at": "2018-08-11 21:36:11.047133",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "nonesuch-river-brewing",
+    "name": "Nonesuch River Brewing",
+    "brewery_type": "brewpub",
+    "street": "201 Gorham Rd",
+    "city": "Scarborough",
+    "state": "Maine",
+    "postal_code": "04074-8970",
+    "website_url": "http://www.nonesuchriverbrewing.com",
+    "phone": "2072198948",
+    "created_at": "2018-07-24 01:33:27.584518",
+    "updated_at": "2018-08-11 21:37:33.17553",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

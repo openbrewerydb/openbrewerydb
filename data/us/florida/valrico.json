@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bullfrog-creek-brewing-company",
+    "name": "Bullfrog Creek Brewing Company",
+    "brewery_type": "micro",
+    "street": "3632 Lithia Pinecrest Rd",
+    "city": "Valrico",
+    "state": "Florida",
+    "postal_code": "33596-6305",
+    "website_url": "http://www.bullfrogcreekbrewing.com",
+    "phone": "8137038835",
+    "created_at": "2018-07-24 01:33:12.004711",
+    "updated_at": "2018-08-24 00:26:46.872118",
+    "country": "United States",
+    "longitude": "-82.2695872",
+    "latitude": "27.9229731",
+    "tags": []
+  }
+]

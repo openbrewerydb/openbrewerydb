@@ -1,0 +1,36 @@
+[
+  {
+    "id": "wooden-legs-brewing-co",
+    "name": "Wooden Legs Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "309 5th St Ste 100",
+    "city": "Brookings",
+    "state": "South Dakota",
+    "postal_code": "57006-1963",
+    "website_url": "http://www.woodenlegsbrewing.com",
+    "phone": "6056922337",
+    "created_at": "2018-07-24 01:34:15.55712",
+    "updated_at": "2018-08-24 16:16:04.049097",
+    "country": "United States",
+    "longitude": "-96.7996148",
+    "latitude": "44.3104741",
+    "tags": []
+  },
+  {
+    "id": "eponymous-brewing-co",
+    "name": "Eponymous Brewing Co",
+    "brewery_type": "micro",
+    "street": "126 Main Ave S",
+    "city": "Brookings",
+    "state": "South Dakota",
+    "postal_code": "57006-3038",
+    "website_url": "http://www.eponymousbrewing.com",
+    "phone": "6056922739",
+    "created_at": "2018-07-24 01:34:15.289044",
+    "updated_at": "2018-08-24 16:15:42.723629",
+    "country": "United States",
+    "longitude": "-96.7988125663931",
+    "latitude": "44.3047216476716",
+    "tags": []
+  }
+]

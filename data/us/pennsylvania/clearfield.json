@@ -1,0 +1,19 @@
+[
+  {
+    "id": "race-street-brew-works",
+    "name": "Race Street Brew Works",
+    "brewery_type": "brewpub",
+    "street": "511 Spruce St Ste 2",
+    "city": "Clearfield",
+    "state": "Pennsylvania",
+    "postal_code": "16830-1923",
+    "website_url": "http://www.racestreetbrew.com",
+    "phone": "8142054052",
+    "created_at": "2018-07-24 01:34:12.106249",
+    "updated_at": "2018-08-11 21:39:30.11163",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "chehalem-valley-brewery",
+    "name": "Chehalem Valley Brewery",
+    "brewery_type": "brewpub",
+    "street": "2515 Portland Rd Ste B",
+    "city": "Newberg",
+    "state": "Oregon",
+    "postal_code": "97132-1940",
+    "website_url": "http://www.chehalemvalleybrewery.com",
+    "phone": "9718328131",
+    "created_at": "2018-07-24 01:34:05.410581",
+    "updated_at": "2018-08-11 21:39:12.03907",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "long-brewing-llc",
+    "name": "Long Brewing LLC",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Newberg",
+    "state": "Oregon",
+    "postal_code": "97132-7217",
+    "website_url": "http://www.longbrewing.com",
+    "phone": "5033498341",
+    "created_at": "2018-07-24 01:34:06.502337",
+    "updated_at": "2018-08-11 21:39:15.033566",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "wolves-and-people-farmhouse-brewery",
+    "name": "Wolves & People Farmhouse Brewery",
+    "brewery_type": "micro",
+    "street": "30203 NE Benjamin Rd",
+    "city": "Newberg",
+    "state": "Oregon",
+    "postal_code": "97132-6910",
+    "website_url": "http://www.wolvesandpeople.com",
+    "phone": "5034876873",
+    "created_at": "2018-07-24 01:34:08.454256",
+    "updated_at": "2018-08-24 16:05:53.344759",
+    "country": "United States",
+    "longitude": "-122.928840922089",
+    "latitude": "45.3148594577626",
+    "tags": []
+  }
+]

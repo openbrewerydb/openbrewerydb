@@ -1,0 +1,53 @@
+[
+  {
+    "id": "high-water-brewing",
+    "name": "High Water Brewing",
+    "brewery_type": "proprietor",
+    "street": "",
+    "city": "Stockton",
+    "state": "California",
+    "postal_code": "95204-2943",
+    "website_url": "http://www.highwaterbrewing.com",
+    "phone": "5304409098",
+    "created_at": "2018-07-24 01:32:56.44536",
+    "updated_at": "2018-08-23 23:29:23.04623",
+    "country": "United States",
+    "longitude": "-121.2907796",
+    "latitude": "37.9577016",
+    "tags": []
+  },
+  {
+    "id": "channel-brewing-co",
+    "name": "Channel Brewing Co.",
+    "brewery_type": "micro",
+    "street": "110 N San Joaquin St",
+    "city": "Stockton",
+    "state": "California",
+    "postal_code": "95209-4506",
+    "website_url": "http://www.channelbrewing.co",
+    "phone": "2094904133",
+    "created_at": "2018-07-24 01:32:53.726325",
+    "updated_at": "2018-08-23 23:26:38.066322",
+    "country": "United States",
+    "longitude": "-121.287410571429",
+    "latitude": "37.9543919591837",
+    "tags": []
+  },
+  {
+    "id": "valley-brewing-co",
+    "name": "Valley Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "157 W Adams St",
+    "city": "Stockton",
+    "state": "California",
+    "postal_code": "95204-5337",
+    "website_url": "http://www.valleybrew.com",
+    "phone": "2094642739",
+    "created_at": "2018-07-24 01:33:02.775693",
+    "updated_at": "2018-08-11 21:36:27.545515",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

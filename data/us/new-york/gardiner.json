@@ -1,0 +1,36 @@
+[
+  {
+    "id": "tuthilltown-spirits",
+    "name": "Tuthilltown Spirits",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Gardiner",
+    "state": "New York",
+    "postal_code": "12525-5528",
+    "website_url": "",
+    "phone": "8452551527",
+    "created_at": "2018-07-24 01:33:54.25698",
+    "updated_at": "2018-08-11 21:38:43.11171",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "yard-owl-craft-brewery",
+    "name": "Yard Owl Craft Brewery",
+    "brewery_type": "brewpub",
+    "street": "19 Osprey Ln",
+    "city": "Gardiner",
+    "state": "New York",
+    "postal_code": "12525-5339",
+    "website_url": "http://www.yardowlcraftbrewery.com",
+    "phone": "8456338576",
+    "created_at": "2018-07-24 01:33:54.699137",
+    "updated_at": "2018-08-24 15:40:54.170289",
+    "country": "United States",
+    "longitude": "-74.1471691635402",
+    "latitude": "41.6915465800069",
+    "tags": []
+  }
+]

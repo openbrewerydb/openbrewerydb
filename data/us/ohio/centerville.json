@@ -1,0 +1,36 @@
+[
+  {
+    "id": "heavier-than-air-brewing-co",
+    "name": "Heavier Than Air Brewing Co",
+    "brewery_type": "micro",
+    "street": "497 Miamisburg Centerville Rd",
+    "city": "Centerville",
+    "state": "Ohio",
+    "postal_code": "45459-4753",
+    "website_url": "http://www.heavierthanairbrewing.com",
+    "phone": "9374331500",
+    "created_at": "2018-07-24 01:34:01.071727",
+    "updated_at": "2018-08-24 15:44:04.494419",
+    "country": "United States",
+    "longitude": "-84.1733313994478",
+    "latitude": "39.6279681199441",
+    "tags": []
+  },
+  {
+    "id": "lock-27-brewing",
+    "name": "Lock 27 Brewing",
+    "brewery_type": "brewpub",
+    "street": "1035 S Main St",
+    "city": "Centerville",
+    "state": "Ohio",
+    "postal_code": "45458-3840",
+    "website_url": "http://www.lock27brewing.com",
+    "phone": "9374332739",
+    "created_at": "2018-07-24 01:34:01.542168",
+    "updated_at": "2018-08-24 15:44:20.296086",
+    "country": "United States",
+    "longitude": "-84.1626371",
+    "latitude": "39.6089321",
+    "tags": []
+  }
+]

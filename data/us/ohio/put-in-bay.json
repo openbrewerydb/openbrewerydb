@@ -1,0 +1,19 @@
+[
+  {
+    "id": "put-in-bay-brewing-co",
+    "name": "Put-In-Bay Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "441 Catawba Ave",
+    "city": "Put In Bay",
+    "state": "Ohio",
+    "postal_code": "43456-6536",
+    "website_url": "http://www.putinbaybrewery.com",
+    "phone": "4192854677",
+    "created_at": "2018-07-24 01:34:02.52004",
+    "updated_at": "2018-08-24 15:44:46.252942",
+    "country": "United States",
+    "longitude": "-82.8199647560697",
+    "latitude": "41.6518895639117",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "el-segundo-brewing-co",
+    "name": "El Segundo Brewing Co",
+    "brewery_type": "micro",
+    "street": "140 Main St",
+    "city": "El Segundo",
+    "state": "California",
+    "postal_code": "90245-3801",
+    "website_url": "http://www.elsegundobrewing.com",
+    "phone": "3105293882",
+    "created_at": "2018-07-24 01:32:54.936545",
+    "updated_at": "2018-08-23 23:27:56.686268",
+    "country": "United States",
+    "longitude": "-118.4156967",
+    "latitude": "33.91771",
+    "tags": []
+  },
+  {
+    "id": "surfridge-brewing-company",
+    "name": "Surfridge Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "El Segundo",
+    "state": "California",
+    "postal_code": "90245-4209",
+    "website_url": "http://www.surfridgebrewery.com",
+    "phone": "3108470283",
+    "created_at": "2018-07-24 01:33:01.661344",
+    "updated_at": "2018-08-24 00:03:28.03594",
+    "country": "United States",
+    "longitude": "-118.383179",
+    "latitude": "33.912594",
+    "tags": []
+  }
+]

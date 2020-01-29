@@ -1,0 +1,19 @@
+[
+  {
+    "id": "haines-brewing-co",
+    "name": "Haines Brewing Co",
+    "brewery_type": "micro",
+    "street": "327 Main St",
+    "city": "Haines",
+    "state": "Alaska",
+    "postal_code": "99827",
+    "website_url": "http://www.hainesbrewing.com",
+    "phone": "9077663823",
+    "created_at": "2018-07-24 01:32:48.19664",
+    "updated_at": "2018-08-23 23:20:50.75503",
+    "country": "United States",
+    "longitude": "-135.4551927",
+    "latitude": "59.2357624",
+    "tags": []
+  }
+]

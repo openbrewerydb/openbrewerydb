@@ -1,0 +1,19 @@
+[
+  {
+    "id": "central-28-beer-company",
+    "name": "Central 28 Beer Company",
+    "brewery_type": "micro",
+    "street": "290 Springview Commerce Dr Ste 1",
+    "city": "Debary",
+    "state": "Florida",
+    "postal_code": "32713-4848",
+    "website_url": "http://www.central28beer.com",
+    "phone": "3866682811",
+    "created_at": "2018-07-24 01:33:12.106371",
+    "updated_at": "2018-08-11 21:36:52.605629",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

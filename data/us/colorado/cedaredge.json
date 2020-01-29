@@ -1,0 +1,19 @@
+[
+  {
+    "id": "4bs-brewery",
+    "name": "4B's Brewery",
+    "brewery_type": "brewpub",
+    "street": "215 W Main St",
+    "city": "Cedaredge",
+    "state": "Colorado",
+    "postal_code": "81413-3339",
+    "website_url": "http://www.4bsbrewery.com",
+    "phone": "9708567762",
+    "created_at": "2018-07-24 01:33:03.346597",
+    "updated_at": "2018-08-24 00:05:18.709947",
+    "country": "United States",
+    "longitude": "-107.925782",
+    "latitude": "38.900614",
+    "tags": []
+  }
+]

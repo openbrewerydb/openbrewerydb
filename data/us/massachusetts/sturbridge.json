@@ -1,0 +1,36 @@
+[
+  {
+    "id": "altruist-brewing-company",
+    "name": "Altruist Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "559 Main St Unit 105",
+    "city": "Sturbridge",
+    "state": "Massachusetts",
+    "postal_code": "01518-1208",
+    "website_url": "http://www.altruistbrewing.com",
+    "phone": "7742418022",
+    "created_at": "2018-07-24 01:33:30.037413",
+    "updated_at": "2018-08-11 21:37:38.319867",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "bay-state-beer-company",
+    "name": "Bay State Beer Company",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Sturbridge",
+    "state": "Massachusetts",
+    "postal_code": "01566-1568",
+    "website_url": "http://www.baystatebeer.com",
+    "phone": "6174130939",
+    "created_at": "2018-07-24 01:33:30.209263",
+    "updated_at": "2018-08-11 21:37:38.686659",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

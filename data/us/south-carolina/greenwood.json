@@ -1,0 +1,19 @@
+[
+  {
+    "id": "good-times-brewing",
+    "name": "Good Times Brewing",
+    "brewery_type": "brewpub",
+    "street": "237 Maxwell Ave",
+    "city": "Greenwood",
+    "state": "South Carolina",
+    "postal_code": "29646-2616",
+    "website_url": "http://www.goodtimesbrewing.beer",
+    "phone": "8649937302",
+    "created_at": "2018-07-24 01:34:14.451335",
+    "updated_at": "2018-08-24 16:14:39.673035",
+    "country": "United States",
+    "longitude": "-82.163632244898",
+    "latitude": "34.1898924489796",
+    "tags": []
+  }
+]

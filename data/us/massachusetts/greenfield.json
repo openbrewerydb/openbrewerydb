@@ -1,0 +1,36 @@
+[
+  {
+    "id": "leftys-brewing-co",
+    "name": "Lefty's Brewing Co",
+    "brewery_type": "micro",
+    "street": "301 Wells St",
+    "city": "Greenfield",
+    "state": "Massachusetts",
+    "postal_code": "01301",
+    "website_url": "http://www.leftysbrew.com",
+    "phone": "4136486111",
+    "created_at": "2018-07-24 01:33:31.317333",
+    "updated_at": "2018-08-24 00:41:28.581095",
+    "country": "United States",
+    "longitude": "-72.6068606666667",
+    "latitude": "42.6012160416667",
+    "tags": []
+  },
+  {
+    "id": "the-peoples-pint-/-franklin-county-brewing-co",
+    "name": "The Peoples Pint / Franklin County Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "76 Hope St",
+    "city": "Greenfield",
+    "state": "Massachusetts",
+    "postal_code": "01301-3573",
+    "website_url": "http://www.thepeoplespint.com",
+    "phone": "4137730333",
+    "created_at": "2018-07-24 01:33:32.112129",
+    "updated_at": "2018-08-24 00:41:51.094337",
+    "country": "United States",
+    "longitude": "-72.5976922905978",
+    "latitude": "42.5818759898982",
+    "tags": []
+  }
+]

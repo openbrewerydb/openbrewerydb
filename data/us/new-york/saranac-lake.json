@@ -1,0 +1,19 @@
+[
+  {
+    "id": "blue-line-brewery",
+    "name": "Blue Line Brewery",
+    "brewery_type": "brewpub",
+    "street": "555 Lake Flower Ave",
+    "city": "Saranac Lake",
+    "state": "New York",
+    "postal_code": "12983-2465",
+    "website_url": "http://www.bluelinebrew.com",
+    "phone": "5183548114",
+    "created_at": "2018-07-24 01:33:49.504689",
+    "updated_at": "2018-08-24 15:38:12.427785",
+    "country": "United States",
+    "longitude": "-74.1176665897436",
+    "latitude": "44.3135860512821",
+    "tags": []
+  }
+]

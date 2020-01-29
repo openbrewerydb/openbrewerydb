@@ -1,0 +1,19 @@
+[
+  {
+    "id": "descendants-brewing-company",
+    "name": "Descendants Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "61 Bridge St",
+    "city": "Milford",
+    "state": "New Jersey",
+    "postal_code": "08848-1264",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:46.615815",
+    "updated_at": "2018-08-24 15:36:43.487732",
+    "country": "United States",
+    "longitude": "-75.095372",
+    "latitude": "40.568461",
+    "tags": []
+  }
+]

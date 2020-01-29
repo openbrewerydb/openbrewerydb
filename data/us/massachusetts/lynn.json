@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bent-water-brewing-company",
+    "name": "Bent Water Brewing Company",
+    "brewery_type": "micro",
+    "street": "180 Commercial St Ste 18",
+    "city": "Lynn",
+    "state": "Massachusetts",
+    "postal_code": "01905-3058",
+    "website_url": "http://www.bentwaterbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:30.233994",
+    "updated_at": "2018-08-11 21:37:38.744335",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "etx-brewing-co",
+    "name": "ETX Brewing Co.",
+    "brewery_type": "micro",
+    "street": "221 S Broadway Ave",
+    "city": "Tyler",
+    "state": "Texas",
+    "postal_code": "75702-7302",
+    "website_url": "http://www.etxbrew.com",
+    "phone": "9036307720",
+    "created_at": "2018-07-24 01:34:19.072873",
+    "updated_at": "2018-08-24 16:20:15.875801",
+    "country": "United States",
+    "longitude": "-95.3081695",
+    "latitude": "32.2553345",
+    "tags": []
+  },
+  {
+    "id": "true-vine-brewing-company",
+    "name": "True Vine Brewing Company",
+    "brewery_type": "micro",
+    "street": "219 S Englewood Ave",
+    "city": "Tyler",
+    "state": "Texas",
+    "postal_code": "75702-6926",
+    "website_url": "http://www.truevinebrewing.com",
+    "phone": "9036000124",
+    "created_at": "2018-07-24 01:34:21.908852",
+    "updated_at": "2018-08-24 16:24:03.241979",
+    "country": "United States",
+    "longitude": "-95.31600025",
+    "latitude": "32.34866425",
+    "tags": []
+  }
+]

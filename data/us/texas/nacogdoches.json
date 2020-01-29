@@ -1,0 +1,36 @@
+[
+  {
+    "id": "nacogdoches-brewing-company-inc",
+    "name": "Nacogdoches Brewing Company, Inc.",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Nacogdoches",
+    "state": "Texas",
+    "postal_code": "75964-8327",
+    "website_url": "",
+    "phone": "9365604532",
+    "created_at": "2018-07-24 01:34:20.31568",
+    "updated_at": "2018-08-11 21:39:52.228146",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "fredonia-brewery-llc",
+    "name": "Fredonia Brewery, LLC",
+    "brewery_type": "micro",
+    "street": "138 N Mound St",
+    "city": "Nacogdoches",
+    "state": "Texas",
+    "postal_code": "75961-5262",
+    "website_url": "http://www.fredoniabrewery.com",
+    "phone": "9363055125",
+    "created_at": "2018-07-24 01:34:19.28373",
+    "updated_at": "2018-08-24 16:20:35.579653",
+    "country": "United States",
+    "longitude": "-94.6519853081344",
+    "latitude": "31.6029903972589",
+    "tags": []
+  }
+]

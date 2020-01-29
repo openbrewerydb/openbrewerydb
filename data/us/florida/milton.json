@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brew-angels-llc",
+    "name": "Brew Angels LLC",
+    "brewery_type": "brewpub",
+    "street": "6821 Caroline St",
+    "city": "Milton",
+    "state": "Florida",
+    "postal_code": "32570-2206",
+    "website_url": "",
+    "phone": "8505640034",
+    "created_at": "2018-07-24 01:33:11.733423",
+    "updated_at": "2018-08-24 00:26:42.194115",
+    "country": "United States",
+    "longitude": "-87.038565",
+    "latitude": "30.621944",
+    "tags": []
+  }
+]

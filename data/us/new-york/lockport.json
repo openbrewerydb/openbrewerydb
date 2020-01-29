@@ -1,0 +1,19 @@
+[
+  {
+    "id": "new-york-beer-project",
+    "name": "New York Beer Project",
+    "brewery_type": "brewpub",
+    "street": "6933 S Transit Rd",
+    "city": "Lockport",
+    "state": "New York",
+    "postal_code": "14094-6330",
+    "website_url": "http://www.nybeerproject.com",
+    "phone": "7167436927",
+    "created_at": "2018-07-24 01:33:52.550993",
+    "updated_at": "2018-08-24 15:39:47.315345",
+    "country": "United States",
+    "longitude": "-78.6961433591614",
+    "latitude": "43.0897514",
+    "tags": []
+  }
+]

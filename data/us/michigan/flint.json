@@ -1,0 +1,36 @@
+[
+  {
+    "id": "redwood-brewing-co",
+    "name": "Redwood Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "5304 Gateway Ctr",
+    "city": "Flint",
+    "state": "Michigan",
+    "postal_code": "48507-3930",
+    "website_url": "http://www.redwoodbrewingco.com",
+    "phone": "8102338000",
+    "created_at": "2018-07-24 01:33:36.238982",
+    "updated_at": "2018-08-11 21:37:55.106128",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "tenacity-brewing",
+    "name": "Tenacity Brewing",
+    "brewery_type": "micro",
+    "street": "119 N Grand Traverse St",
+    "city": "Flint",
+    "state": "Michigan",
+    "postal_code": "48503-5620",
+    "website_url": "http://www.tenacitybrewing.com",
+    "phone": "8103396676",
+    "created_at": "2018-07-24 01:33:36.856717",
+    "updated_at": "2018-08-24 00:44:19.759464",
+    "country": "United States",
+    "longitude": "-83.6966317916434",
+    "latitude": "43.0152278792724",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "little-house-brewing-company",
+    "name": "Little House Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Chester",
+    "state": "Connecticut",
+    "postal_code": "06412-1342",
+    "website_url": "http://www.littlehousebrewing.com",
+    "phone": "6128105315",
+    "created_at": "2018-07-24 01:33:09.819178",
+    "updated_at": "2018-08-11 21:36:46.95171",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

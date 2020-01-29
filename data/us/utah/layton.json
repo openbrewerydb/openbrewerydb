@@ -1,0 +1,19 @@
+[
+  {
+    "id": "roosters-brewing-co-#2",
+    "name": "Roosters Brewing Co (#2)",
+    "brewery_type": "micro",
+    "street": "748 Heritage Park Blvd Ste 101",
+    "city": "Layton",
+    "state": "Utah",
+    "postal_code": "84041-5724",
+    "website_url": "http://www.roostersbrewingco.com",
+    "phone": "8017749330",
+    "created_at": "2018-07-24 01:34:22.765044",
+    "updated_at": "2018-08-24 16:25:07.230978",
+    "country": "United States",
+    "longitude": "-111.979338866679",
+    "latitude": "41.0832087833766",
+    "tags": []
+  }
+]

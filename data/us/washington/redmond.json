@@ -1,0 +1,53 @@
+[
+  {
+    "id": "black-raven-brewing-co",
+    "name": "Black Raven Brewing Co",
+    "brewery_type": "micro",
+    "street": "14687 NE 95th St",
+    "city": "Redmond",
+    "state": "Washington",
+    "postal_code": "98052-2556",
+    "website_url": "http://www.blackravenbrewing.com",
+    "phone": "4258813020",
+    "created_at": "2018-07-24 01:34:28.354325",
+    "updated_at": "2018-08-24 16:33:00.730857",
+    "country": "United States",
+    "longitude": "-122.14550957047",
+    "latitude": "47.6854905973154",
+    "tags": []
+  },
+  {
+    "id": "mac-and-jacks-brewery-inc",
+    "name": "Mac and Jacks Brewery Inc",
+    "brewery_type": "regional",
+    "street": "17825 NE 65th St Ste B110",
+    "city": "Redmond",
+    "state": "Washington",
+    "postal_code": "98052-4995",
+    "website_url": "http://Macandjacks.com",
+    "phone": "4255589697",
+    "created_at": "2018-07-24 01:34:30.952546",
+    "updated_at": "2018-08-11 21:40:19.656125",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "postdoc-brewing-company",
+    "name": "Postdoc Brewing Company",
+    "brewery_type": "micro",
+    "street": "17625 NE 65th St Ste 100",
+    "city": "Redmond",
+    "state": "Washington",
+    "postal_code": "98052-7908",
+    "website_url": "http://www.postdocbrewing.com",
+    "phone": "4256584963",
+    "created_at": "2018-07-24 01:34:32.099693",
+    "updated_at": "2018-08-24 16:38:08.355877",
+    "country": "United States",
+    "longitude": "-122.105077242071",
+    "latitude": "47.6639200774772",
+    "tags": []
+  }
+]

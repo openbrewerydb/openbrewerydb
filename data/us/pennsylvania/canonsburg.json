@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rusty-gold-brewing",
+    "name": "Rusty Gold Brewing",
+    "brewery_type": "micro",
+    "street": "43 W Pike St",
+    "city": "Canonsburg",
+    "state": "Pennsylvania",
+    "postal_code": "15317",
+    "website_url": "",
+    "phone": "7244852332",
+    "created_at": "2018-07-24 01:34:12.441603",
+    "updated_at": "2018-08-24 16:11:39.987644",
+    "country": "United States",
+    "longitude": "-80.1875048571429",
+    "latitude": "40.2585645714286",
+    "tags": []
+  }
+]

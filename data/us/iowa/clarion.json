@@ -1,0 +1,19 @@
+[
+  {
+    "id": "timbukbru",
+    "name": "Timbukbru",
+    "brewery_type": "micro",
+    "street": "215 6th St SW",
+    "city": "Clarion",
+    "state": "Iowa",
+    "postal_code": "50525",
+    "website_url": "http://www.timbukbru.com",
+    "phone": "5155320015",
+    "created_at": "2018-07-24 01:33:24.439388",
+    "updated_at": "2018-08-24 00:38:15.511445",
+    "country": "United States",
+    "longitude": "-93.740532",
+    "latitude": "42.731535",
+    "tags": []
+  }
+]

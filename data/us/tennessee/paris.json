@@ -1,0 +1,19 @@
+[
+  {
+    "id": "perrylodgic-brewing-company",
+    "name": "Perrylodgic Brewing Company",
+    "brewery_type": "micro",
+    "street": "3465 US-79 N",
+    "city": "Paris",
+    "state": "Tennessee",
+    "postal_code": "38242-9998",
+    "website_url": "http://www.perrylodgic.com",
+    "phone": "7314077100",
+    "created_at": "2018-07-24 01:34:16.859628",
+    "updated_at": "2018-08-24 16:17:41.241411",
+    "country": "United States",
+    "longitude": "-88.3268031",
+    "latitude": "36.2785418",
+    "tags": []
+  }
+]

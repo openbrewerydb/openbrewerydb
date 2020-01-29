@@ -1,0 +1,19 @@
+[
+  {
+    "id": "side-project-brewing",
+    "name": "Side Project Brewing",
+    "brewery_type": "micro",
+    "street": "7458 Manchester Rd",
+    "city": "Maplewood",
+    "state": "Missouri",
+    "postal_code": "63143-3032",
+    "website_url": "http://www.SideProjectBrewing.com",
+    "phone": "3142245211",
+    "created_at": "2018-07-24 01:33:41.658243",
+    "updated_at": "2018-08-24 00:46:45.021598",
+    "country": "United States",
+    "longitude": "-90.3222114615022",
+    "latitude": "38.6122348370255",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brewsa-brewing-co",
+    "name": "BrewSA Brewing Co",
+    "brewery_type": "micro",
+    "street": "180 Woodcleft Ave",
+    "city": "Freeport",
+    "state": "New York",
+    "postal_code": "11520-6336",
+    "website_url": "http://www.brewsa.com",
+    "phone": "5163772751",
+    "created_at": "2018-07-24 01:33:49.839254",
+    "updated_at": "2018-08-24 15:38:17.394694",
+    "country": "United States",
+    "longitude": "-73.582368",
+    "latitude": "40.635176",
+    "tags": []
+  }
+]

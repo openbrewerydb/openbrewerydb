@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brigadoon-brewery-and-brew-school",
+    "name": "Brigadoon Brewery & Brew School",
+    "brewery_type": "micro",
+    "street": "4808 Fairmont Pkwy Ste 112",
+    "city": "Pasadena",
+    "state": "Texas",
+    "postal_code": "77505-3722",
+    "website_url": "http://www.brigadoonbrewery.com",
+    "phone": "9368940425",
+    "created_at": "2018-07-24 01:34:18.559977",
+    "updated_at": "2018-08-24 16:19:33.871078",
+    "country": "United States",
+    "longitude": "-95.1511925",
+    "latitude": "29.6501134",
+    "tags": []
+  }
+]

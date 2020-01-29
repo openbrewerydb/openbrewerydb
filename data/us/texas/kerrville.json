@@ -1,0 +1,36 @@
+[
+  {
+    "id": "basement-brewers-of-texas",
+    "name": "Basement Brewers of Texas",
+    "brewery_type": "micro",
+    "street": "521 Clay St",
+    "city": "Kerrville",
+    "state": "Texas",
+    "postal_code": "78028-4525",
+    "website_url": "http://www.basementbrewersoftexas.com",
+    "phone": "8309555073",
+    "created_at": "2018-07-24 01:34:17.838257",
+    "updated_at": "2018-08-24 16:19:01.503323",
+    "country": "United States",
+    "longitude": "-99.1392822040816",
+    "latitude": "30.0504283877551",
+    "tags": []
+  },
+  {
+    "id": "pint",
+    "name": "Pint",
+    "brewery_type": "brewpub",
+    "street": "332 Clay St",
+    "city": "Kerrville",
+    "state": "Texas",
+    "postal_code": "78028-4502",
+    "website_url": "http://www.pintandplow.com",
+    "phone": "8303157468",
+    "created_at": "2018-07-24 01:34:20.728073",
+    "updated_at": "2018-08-24 16:22:31.492012",
+    "country": "United States",
+    "longitude": "-99.141",
+    "latitude": "30.0494005",
+    "tags": []
+  }
+]

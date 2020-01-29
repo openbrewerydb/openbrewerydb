@@ -1,0 +1,19 @@
+[
+  {
+    "id": "helicon-brewing",
+    "name": "Helicon Brewing",
+    "brewery_type": "micro",
+    "street": "102 Union Ave",
+    "city": "Oakdale",
+    "state": "Pennsylvania",
+    "postal_code": "15071-1328",
+    "website_url": "http://heliconbrewing.com",
+    "phone": "7246934204",
+    "created_at": "2018-07-24 01:34:10.771633",
+    "updated_at": "2018-08-24 16:08:58.845043",
+    "country": "United States",
+    "longitude": "-80.184716700234",
+    "latitude": "40.3962869475081",
+    "tags": []
+  }
+]

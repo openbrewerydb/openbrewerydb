@@ -1,0 +1,19 @@
+[
+  {
+    "id": "flapjack-brewery",
+    "name": "Flapjack Brewery",
+    "brewery_type": "brewpub",
+    "street": "6833 Stanley Ave",
+    "city": "Berwyn",
+    "state": "Illinois",
+    "postal_code": "60402-5289",
+    "website_url": "http://www.flapjackbrewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:18.863393",
+    "updated_at": "2018-08-24 00:30:58.113792",
+    "country": "United States",
+    "longitude": "-87.7943628097043",
+    "latitude": "41.8334248420287",
+    "tags": []
+  }
+]

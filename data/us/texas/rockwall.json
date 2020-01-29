@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hemisphere-brewing-co",
+    "name": "Hemisphere Brewing Co",
+    "brewery_type": "micro",
+    "street": "2015 Kristy Ln",
+    "city": "Rockwall",
+    "state": "Texas",
+    "postal_code": "75032-6242",
+    "website_url": "http://www.hemispherebrewing.com",
+    "phone": "9727224535",
+    "created_at": "2018-07-24 01:34:19.598085",
+    "updated_at": "2018-08-24 16:21:01.202871",
+    "country": "United States",
+    "longitude": "-96.4402658754477",
+    "latitude": "32.9115187673926",
+    "tags": []
+  },
+  {
+    "id": "siren-rock-brewing-company",
+    "name": "Siren Rock Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Rockwall",
+    "state": "Texas",
+    "postal_code": "75087",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:21.220847",
+    "updated_at": "2018-08-11 21:39:54.242098",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "woodcreek-brewing-company",
+    "name": "Woodcreek Brewing Company",
+    "brewery_type": "micro",
+    "street": "1400 E Interstate 30 Ste A",
+    "city": "Rockwall",
+    "state": "Texas",
+    "postal_code": "75087-6234",
+    "website_url": "http://www.woodcreekbrewing.com",
+    "phone": "9725890048",
+    "created_at": "2018-07-24 01:34:22.331928",
+    "updated_at": "2018-08-11 21:39:56.887693",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

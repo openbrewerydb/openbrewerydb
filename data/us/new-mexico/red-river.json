@@ -1,0 +1,19 @@
+[
+  {
+    "id": "red-river-brewing-company",
+    "name": "Red River Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "217 W Main St",
+    "city": "Red River",
+    "state": "New Mexico",
+    "postal_code": "87558",
+    "website_url": "http://www.redriverbrewing.com",
+    "phone": "5757702519",
+    "created_at": "2018-07-24 01:33:48.502929",
+    "updated_at": "2018-08-11 21:38:27.857035",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

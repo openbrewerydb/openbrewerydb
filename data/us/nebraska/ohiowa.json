@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lazy-horse-brewing",
+    "name": "Lazy Horse Brewing",
+    "brewery_type": "brewpub",
+    "street": "211 Road 20",
+    "city": "Ohiowa",
+    "state": "Nebraska",
+    "postal_code": "68416-3005",
+    "website_url": "http://lazyhorsebrewing.com",
+    "phone": "4023145266",
+    "created_at": "2018-07-24 01:33:43.819773",
+    "updated_at": "2018-08-11 21:38:15.78587",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

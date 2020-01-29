@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cactus-land-brewing-company",
+    "name": "Cactus Land Brewing Company",
+    "brewery_type": "micro",
+    "street": "368 County Road 325",
+    "city": "Adkins",
+    "state": "Texas",
+    "postal_code": "78101-2812",
+    "website_url": "http://www.cactuslandbrewing.com",
+    "phone": "2104142776",
+    "created_at": "2018-07-24 01:34:18.639566",
+    "updated_at": "2018-08-11 21:39:48.083999",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

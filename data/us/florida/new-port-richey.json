@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brighter-days-brewing-company",
+    "name": "Brighter Day's Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "New Port Richey",
+    "state": "Florida",
+    "postal_code": "34655-3717",
+    "website_url": "http://www.brighterdaysbeer.com",
+    "phone": "7272242027",
+    "created_at": "2018-07-24 01:33:11.937309",
+    "updated_at": "2018-08-11 21:36:52.243982",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "cotee-river-brewing-company",
+    "name": "Cotee River Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "New Port Richey",
+    "state": "Florida",
+    "postal_code": "34652",
+    "website_url": "http://www.coteeriverbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:12.306292",
+    "updated_at": "2018-08-11 21:36:53.035628",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "infusion-brewing-company-of-trinity",
+    "name": "Infusion Brewing Company of Trinity",
+    "brewery_type": "micro",
+    "street": "7813 Mitchell Blvd",
+    "city": "New Port Richey",
+    "state": "Florida",
+    "postal_code": "34655-4723",
+    "website_url": "",
+    "phone": "7273124512",
+    "created_at": "2018-07-24 01:33:13.301825",
+    "updated_at": "2018-08-11 21:36:55.410688",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

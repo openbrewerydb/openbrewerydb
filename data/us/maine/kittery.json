@@ -1,0 +1,36 @@
+[
+  {
+    "id": "tributary-brewing-company",
+    "name": "Tributary Brewing Company",
+    "brewery_type": "micro",
+    "street": "10 Shapleigh Rd",
+    "city": "Kittery",
+    "state": "Maine",
+    "postal_code": "03904-1480",
+    "website_url": "http://www.tributarybrewingcompany.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:28.149242",
+    "updated_at": "2018-08-24 00:40:14.108503",
+    "country": "United States",
+    "longitude": "-70.736801",
+    "latitude": "43.090863",
+    "tags": []
+  },
+  {
+    "id": "woodland-farms-brewery",
+    "name": "Woodland Farms Brewery",
+    "brewery_type": "micro",
+    "street": "306 Route 1, Suite C",
+    "city": "Kittery",
+    "state": "Maine",
+    "postal_code": "03904",
+    "website_url": "http://www.wfbrewery.com",
+    "phone": "2079943911",
+    "created_at": "2018-07-24 01:33:28.210156",
+    "updated_at": "2018-08-11 21:37:34.48626",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tujax-tavern",
+    "name": "Tujax Tavern",
+    "brewery_type": "brewpub",
+    "street": "103 S Grove St",
+    "city": "Delton",
+    "state": "Michigan",
+    "postal_code": "49046-9470",
+    "website_url": "",
+    "phone": "2696238310",
+    "created_at": "2018-07-24 01:33:37.287393",
+    "updated_at": "2018-08-24 00:44:33.202988",
+    "country": "United States",
+    "longitude": "-85.407991",
+    "latitude": "42.496258",
+    "tags": []
+  }
+]

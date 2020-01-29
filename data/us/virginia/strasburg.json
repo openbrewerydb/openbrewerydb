@@ -1,0 +1,19 @@
+[
+  {
+    "id": "box-office-brewery",
+    "name": "Box Office Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Strasburg",
+    "state": "Virginia",
+    "postal_code": "22657-2238",
+    "website_url": "http://Info@boxofficebrewery.com",
+    "phone": "5402333353",
+    "created_at": "2018-07-24 01:34:24.601425",
+    "updated_at": "2018-08-11 21:40:02.99957",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

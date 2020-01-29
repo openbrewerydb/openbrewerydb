@@ -1,0 +1,19 @@
+[
+  {
+    "id": "two-wheel-brewing-company",
+    "name": "Two Wheel Brewing Company",
+    "brewery_type": "micro",
+    "street": "535 S Loop 4",
+    "city": "Buda",
+    "state": "Texas",
+    "postal_code": "78610-9388",
+    "website_url": "http://www.twowheelbrewing.com",
+    "phone": "5123613401",
+    "created_at": "2018-07-24 01:34:22.048024",
+    "updated_at": "2018-08-11 21:39:56.327819",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "looking-glass-brewing-company",
+    "name": "Looking Glass Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "115 N Bridge St",
+    "city": "Dewitt",
+    "state": "Michigan",
+    "postal_code": "48820-8901",
+    "website_url": "http://www.facebook.com/DeWittBreweryProject/",
+    "phone": "5175827287",
+    "created_at": "2018-07-24 01:33:35.350636",
+    "updated_at": "2018-08-24 00:43:30.33037",
+    "country": "United States",
+    "longitude": "-84.5692237142857",
+    "latitude": "42.8424362857143",
+    "tags": []
+  }
+]

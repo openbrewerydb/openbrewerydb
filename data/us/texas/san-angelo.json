@@ -1,0 +1,36 @@
+[
+  {
+    "id": "the-soco-taphouse",
+    "name": "The SoCo Taphouse",
+    "brewery_type": "brewpub",
+    "street": "113 E Concho Ave Ste 210",
+    "city": "San Angelo",
+    "state": "Texas",
+    "postal_code": "76903-5948",
+    "website_url": "http://www.socotaphouse.com",
+    "phone": "3257036218",
+    "created_at": "2018-07-24 01:34:21.7785",
+    "updated_at": "2018-08-11 21:39:55.738195",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "zero-one-ale-house",
+    "name": "Zero One Ale House",
+    "brewery_type": "brewpub",
+    "street": "20 W Beauregard Ave",
+    "city": "San Angelo",
+    "state": "Texas",
+    "postal_code": "76903-5833",
+    "website_url": "",
+    "phone": "3256535123",
+    "created_at": "2018-07-24 01:34:22.357924",
+    "updated_at": "2018-08-24 16:24:36.784238",
+    "country": "United States",
+    "longitude": "-100.437236263931",
+    "latitude": "31.4624541882408",
+    "tags": []
+  }
+]

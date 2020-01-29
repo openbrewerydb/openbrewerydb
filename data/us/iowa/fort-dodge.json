@@ -1,0 +1,19 @@
+[
+  {
+    "id": "shiny-top-brewing",
+    "name": "Shiny Top Brewing",
+    "brewery_type": "micro",
+    "street": "520 Central Ave",
+    "city": "Fort Dodge",
+    "state": "Iowa",
+    "postal_code": "50501-3810",
+    "website_url": "http://www.shinytopbrewing.com",
+    "phone": "5153028055",
+    "created_at": "2018-07-24 01:33:24.361879",
+    "updated_at": "2018-08-24 00:38:12.927955",
+    "country": "United States",
+    "longitude": "-94.1905789591837",
+    "latitude": "42.5047420408163",
+    "tags": []
+  }
+]

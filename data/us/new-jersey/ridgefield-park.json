@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bolero-snort-brewery",
+    "name": "Bolero Snort Brewery",
+    "brewery_type": "contract",
+    "street": "65 Railroad Ave",
+    "city": "Ridgefield Park",
+    "state": "New Jersey",
+    "postal_code": "07660-1321",
+    "website_url": "http://www.bolerosnort.com",
+    "phone": "2018193527",
+    "created_at": "2018-07-24 01:33:46.206356",
+    "updated_at": "2018-08-24 15:36:32.379832",
+    "country": "United States",
+    "longitude": "-74.0298335147059",
+    "latitude": "40.8605856911765",
+    "tags": []
+  }
+]

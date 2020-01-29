@@ -1,0 +1,19 @@
+[
+  {
+    "id": "arcpoint-brewing-co",
+    "name": "Arcpoint Brewing Co",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Belchertown",
+    "state": "Massachusetts",
+    "postal_code": "01007-9305",
+    "website_url": "http://www.arcpointbrewco.com",
+    "phone": "5187964977",
+    "created_at": "2018-07-24 01:33:30.102671",
+    "updated_at": "2018-08-11 21:37:38.45953",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

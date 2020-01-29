@@ -1,0 +1,19 @@
+[
+  {
+    "id": "blue-ghost-brewing-company",
+    "name": "Blue Ghost Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "125 Underwood Rd",
+    "city": "Fletcher",
+    "state": "North Carolina",
+    "postal_code": "28732-",
+    "website_url": "http://www.blueghostbrewing.com",
+    "phone": "8283760159",
+    "created_at": "2018-07-24 01:33:55.244729",
+    "updated_at": "2018-08-24 15:41:11.48972",
+    "country": "United States",
+    "longitude": "-82.530580304217",
+    "latitude": "35.4368388",
+    "tags": []
+  }
+]

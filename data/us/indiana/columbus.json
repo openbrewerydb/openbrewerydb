@@ -1,0 +1,53 @@
+[
+  {
+    "id": "450-north-brewing-company-simmons-winery",
+    "name": "450 North Brewing Company @ Simmons Winery",
+    "brewery_type": "brewpub",
+    "street": "8111 E 450 N",
+    "city": "Columbus",
+    "state": "Indiana",
+    "postal_code": "47203-8106",
+    "website_url": "http://www.450northbrewing.com",
+    "phone": "8125460091",
+    "created_at": "2018-07-24 01:33:21.233798",
+    "updated_at": "2018-08-11 21:37:17.328664",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "power-house-brewing-cos-columbus-bar",
+    "name": "Power House Brewing Co's Columbus Bar",
+    "brewery_type": "brewpub",
+    "street": "2735 N State Road 9",
+    "city": "Columbus",
+    "state": "Indiana",
+    "postal_code": "47203-9648",
+    "website_url": "http://www.powerhousebrewingco.com",
+    "phone": "8123758800",
+    "created_at": "2018-07-24 01:33:22.655264",
+    "updated_at": "2018-08-11 21:37:20.992278",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "zwanzigz-brewing",
+    "name": "ZwanzigZ Brewing",
+    "brewery_type": "brewpub",
+    "street": "1038 Lafayette Ave",
+    "city": "Columbus",
+    "state": "Indiana",
+    "postal_code": "47201-5756",
+    "website_url": "http://www.zwanzigz.com",
+    "phone": "8123760200",
+    "created_at": "2018-07-24 01:33:23.296111",
+    "updated_at": "2018-08-24 00:33:42.431062",
+    "country": "United States",
+    "longitude": "-85.9188364726272",
+    "latitude": "39.2086567407244",
+    "tags": []
+  }
+]

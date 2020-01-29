@@ -1,0 +1,36 @@
+[
+  {
+    "id": "decatur-brew-works",
+    "name": "Decatur Brew Works",
+    "brewery_type": "micro",
+    "street": "101 N Main St",
+    "city": "Decatur",
+    "state": "Illinois",
+    "postal_code": "62523-1206",
+    "website_url": "http://www.decaturbrewworks.com",
+    "phone": "2173308683",
+    "created_at": "2018-07-24 01:33:18.5921",
+    "updated_at": "2018-08-24 00:30:45.796769",
+    "country": "United States",
+    "longitude": "-88.9557397261712",
+    "latitude": "39.8412874200305",
+    "tags": []
+  },
+  {
+    "id": "door-4-brewing-co",
+    "name": "Door 4 Brewing Co",
+    "brewery_type": "micro",
+    "street": "1214 W Cerro Gordo St",
+    "city": "Decatur",
+    "state": "Illinois",
+    "postal_code": "62522-2008",
+    "website_url": "http://www.door4brewing.com",
+    "phone": "2173302008",
+    "created_at": "2018-07-24 01:33:18.652848",
+    "updated_at": "2018-08-24 00:30:48.492888",
+    "country": "United States",
+    "longitude": "-88.9752381428572",
+    "latitude": "39.8466258571429",
+    "tags": []
+  }
+]

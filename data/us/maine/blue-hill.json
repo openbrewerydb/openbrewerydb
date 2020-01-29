@@ -1,0 +1,19 @@
+[
+  {
+    "id": "deepwater-brewing-company",
+    "name": "DeepWater Brewing Company",
+    "brewery_type": "micro",
+    "street": "33 Tenney Hl",
+    "city": "Blue Hill",
+    "state": "Maine",
+    "postal_code": "04614",
+    "website_url": "http://www.arborvine.com",
+    "phone": "2073742411",
+    "created_at": "2018-07-24 01:33:27.007271",
+    "updated_at": "2018-08-11 21:37:31.399854",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

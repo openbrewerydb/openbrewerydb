@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cool-beerwerks",
+    "name": "Cool Beerwerks",
+    "brewery_type": "brewpub",
+    "street": "5020 Ellinghouse Dr",
+    "city": "Cool",
+    "state": "California",
+    "postal_code": "95614-9569",
+    "website_url": "http://www.cbwbeer.com",
+    "phone": "5308855866",
+    "created_at": "2018-07-24 01:32:54.031688",
+    "updated_at": "2018-08-11 21:35:59.939748",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

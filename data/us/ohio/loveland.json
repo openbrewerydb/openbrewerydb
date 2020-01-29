@@ -1,0 +1,19 @@
+[
+  {
+    "id": "narrow-path-brewing-company",
+    "name": "Narrow Path Brewing Company",
+    "brewery_type": "micro",
+    "street": "106 Karl Brown Way",
+    "city": "Loveland",
+    "state": "Ohio",
+    "postal_code": "45140-2902",
+    "website_url": "http://www.narrowpathbrewing.com",
+    "phone": "5133123414",
+    "created_at": "2018-07-24 01:34:02.065035",
+    "updated_at": "2018-08-11 21:39:01.962364",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

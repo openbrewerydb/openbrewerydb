@@ -1,0 +1,19 @@
+[
+  {
+    "id": "windmill-brewing",
+    "name": "Windmill Brewing",
+    "brewery_type": "micro",
+    "street": "2121 Gettler St",
+    "city": "Dyer",
+    "state": "Indiana",
+    "postal_code": "46311-1859",
+    "website_url": "http://www.windmillbrew.com",
+    "phone": "2194402189",
+    "created_at": "2018-07-24 01:33:23.259506",
+    "updated_at": "2018-08-24 00:33:40.707285",
+    "country": "United States",
+    "longitude": "-87.5226248920887",
+    "latitude": "41.49333495",
+    "tags": []
+  }
+]

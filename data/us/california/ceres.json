@@ -1,0 +1,19 @@
+[
+  {
+    "id": "blaker-brewing",
+    "name": "Blaker Brewing",
+    "brewery_type": "micro",
+    "street": "1063 Montcalire Dr",
+    "city": "Ceres",
+    "state": "California",
+    "postal_code": "95307",
+    "website_url": "http://www.blakerbrewing.com",
+    "phone": "2095854040",
+    "created_at": "2018-07-24 01:32:52.704658",
+    "updated_at": "2018-08-11 21:35:56.862288",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

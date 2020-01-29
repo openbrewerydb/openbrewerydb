@@ -1,0 +1,19 @@
+[
+  {
+    "id": "birdfish-brewing-co",
+    "name": "BirdFish Brewing Co",
+    "brewery_type": "micro",
+    "street": "16 S Main St",
+    "city": "Columbiana",
+    "state": "Ohio",
+    "postal_code": "44408-1348",
+    "website_url": "http://www.birdfishbrew.com",
+    "phone": "3303339385",
+    "created_at": "2018-07-24 01:33:59.587787",
+    "updated_at": "2018-08-24 15:43:26.570254",
+    "country": "United States",
+    "longitude": "-80.6935303590754",
+    "latitude": "40.8884869995027",
+    "tags": []
+  }
+]

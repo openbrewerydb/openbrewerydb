@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cedar-crest-brewing-and-wine-bar",
+    "name": "Cedar Crest Brewing and Wine Bar",
+    "brewery_type": "brewpub",
+    "street": "615 Main St",
+    "city": "Red Bluff",
+    "state": "California",
+    "postal_code": "96080-3343",
+    "website_url": "http://www.facebook.com/enjoythestoreredbluff",
+    "phone": "5307279016",
+    "created_at": "2018-07-24 01:32:53.649692",
+    "updated_at": "2018-08-23 23:26:33.454556",
+    "country": "United States",
+    "longitude": "-122.234416714286",
+    "latitude": "40.1767575714286",
+    "tags": []
+  }
+]

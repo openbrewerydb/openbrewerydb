@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lake-superior-brewing-co",
+    "name": "Lake Superior Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "N-14283 Lake Avenue",
+    "city": "Grand Marais",
+    "state": "Michigan",
+    "postal_code": "49839",
+    "website_url": "http://www.grandmaraismichigan.com/LSBC",
+    "phone": "9064942337",
+    "created_at": "2018-07-24 01:33:35.193614",
+    "updated_at": "2018-08-11 21:37:51.67907",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

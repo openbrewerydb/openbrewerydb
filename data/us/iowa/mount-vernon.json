@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bigs-bbq-brewpub",
+    "name": "Big's BBQ Brewpub",
+    "brewery_type": "brewpub",
+    "street": "124 2nd Ave NW",
+    "city": "Mount Vernon",
+    "state": "Iowa",
+    "postal_code": "52314",
+    "website_url": "http://www.bigsbbqmv.com",
+    "phone": "3195351060",
+    "created_at": "2018-07-24 01:33:23.46654",
+    "updated_at": "2018-08-24 00:33:49.566353",
+    "country": "United States",
+    "longitude": "-91.4177200204082",
+    "latitude": "41.9229993877551",
+    "tags": []
+  }
+]

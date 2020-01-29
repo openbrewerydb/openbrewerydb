@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bottle-tree-beer-co",
+    "name": "Bottle Tree Beer Co",
+    "brewery_type": "contract",
+    "street": "10 N Trade St Apt A",
+    "city": "Tryon",
+    "state": "North Carolina",
+    "postal_code": "28782-3476",
+    "website_url": "http://www.bottletree.net",
+    "phone": "8642660133",
+    "created_at": "2018-07-24 01:33:55.359644",
+    "updated_at": "2018-08-11 21:38:45.829431",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

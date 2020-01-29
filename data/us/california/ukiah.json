@@ -1,0 +1,36 @@
+[
+  {
+    "id": "rocland-beverage-co",
+    "name": "Rocland Beverage Co",
+    "brewery_type": "contract",
+    "street": "1601 Airport Rd",
+    "city": "Ukiah",
+    "state": "California",
+    "postal_code": "95482-6456",
+    "website_url": "http://www.asskisserales.com",
+    "phone": "7076577721",
+    "created_at": "2018-07-24 01:33:00.173364",
+    "updated_at": "2018-08-24 00:01:41.787343",
+    "country": "United States",
+    "longitude": "-123.199573",
+    "latitude": "39.126287",
+    "tags": []
+  },
+  {
+    "id": "ukiah-brewing-co",
+    "name": "Ukiah Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "102 S State St",
+    "city": "Ukiah",
+    "state": "California",
+    "postal_code": "95482-4903",
+    "website_url": "http://www.ukiahbrewingco.com",
+    "phone": "7074685898",
+    "created_at": "2018-07-24 01:33:02.678695",
+    "updated_at": "2018-08-24 00:04:35.403581",
+    "country": "United States",
+    "longitude": "-123.207638326531",
+    "latitude": "39.1494585102041",
+    "tags": []
+  }
+]

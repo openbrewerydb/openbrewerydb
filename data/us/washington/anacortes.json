@@ -1,0 +1,36 @@
+[
+  {
+    "id": "anacortes-brewery/rockfish-grill",
+    "name": "Anacortes Brewery/Rockfish Grill",
+    "brewery_type": "brewpub",
+    "street": "320 Commercial Ave",
+    "city": "Anacortes",
+    "state": "Washington",
+    "postal_code": "98221-1517",
+    "website_url": "http://www.anacortesrockfish.com",
+    "phone": "2068193093",
+    "created_at": "2018-07-24 01:34:27.850684",
+    "updated_at": "2018-08-24 16:32:16.344886",
+    "country": "United States",
+    "longitude": "-122.612608903126",
+    "latitude": "48.5193343111222",
+    "tags": []
+  },
+  {
+    "id": "bastion-brewing-company",
+    "name": "Bastion Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "12529 Christianson Rd",
+    "city": "Anacortes",
+    "state": "Washington",
+    "postal_code": "98221-8682",
+    "website_url": "http://www.bastionbrewingcompany.com",
+    "phone": "3603991614",
+    "created_at": "2018-07-24 01:34:28.088483",
+    "updated_at": "2018-08-24 16:32:40.151936",
+    "country": "United States",
+    "longitude": "-122.570872928244",
+    "latitude": "48.460805062576",
+    "tags": []
+  }
+]

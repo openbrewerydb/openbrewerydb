@@ -1,0 +1,19 @@
+[
+  {
+    "id": "iron-hill-brewery-and-restaurant-maple-shade",
+    "name": "Iron Hill Brewery & Restaurant - Maple Shade",
+    "brewery_type": "brewpub",
+    "street": "124 East King's Hwy",
+    "city": "Maple Shade",
+    "state": "New Jersey",
+    "postal_code": "08052-5405",
+    "website_url": "http://www.ironhillbrewery.com",
+    "phone": "8562730300",
+    "created_at": "2018-07-24 01:33:46.910464",
+    "updated_at": "2018-08-11 21:38:23.966728",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

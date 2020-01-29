@@ -1,0 +1,19 @@
+[
+  {
+    "id": "daves-brew-farm",
+    "name": "Dave's Brew Farm",
+    "brewery_type": "micro",
+    "street": "2470 Wilson St",
+    "city": "Wilson",
+    "state": "Wisconsin",
+    "postal_code": "54027-3950",
+    "website_url": "http://www.brewfarm.com",
+    "phone": "6124328130",
+    "created_at": "2018-07-24 01:34:35.072483",
+    "updated_at": "2018-08-24 16:42:45.19276",
+    "country": "United States",
+    "longitude": "-92.176188",
+    "latitude": "44.959339",
+    "tags": []
+  }
+]

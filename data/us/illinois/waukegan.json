@@ -1,0 +1,19 @@
+[
+  {
+    "id": "zum-bier",
+    "name": "Zum Bier",
+    "brewery_type": "micro",
+    "street": "3232 E Monroe St",
+    "city": "Waukegan",
+    "state": "Illinois",
+    "postal_code": "60085",
+    "website_url": "http://www.zumbier.com",
+    "phone": "8474207313",
+    "created_at": "2018-07-24 01:33:21.151379",
+    "updated_at": "2018-08-11 21:37:17.199938",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

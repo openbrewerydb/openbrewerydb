@@ -1,0 +1,19 @@
+[
+  {
+    "id": "solvang-brewing-company-lompoc",
+    "name": "Solvang Brewing Company - Lompoc",
+    "brewery_type": "brewpub",
+    "street": "234 N H St",
+    "city": "Lompoc",
+    "state": "California",
+    "postal_code": "93436-6022",
+    "website_url": "http://www.solvangbrewing.com",
+    "phone": "9787292485",
+    "created_at": "2018-07-24 01:33:01.049616",
+    "updated_at": "2018-08-24 00:02:45.735276",
+    "country": "United States",
+    "longitude": "-120.4574527",
+    "latitude": "34.6419814",
+    "tags": []
+  }
+]

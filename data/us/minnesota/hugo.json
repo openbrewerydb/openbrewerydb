@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cosmos-brewing",
+    "name": "Cosmos Brewing",
+    "brewery_type": "micro",
+    "street": "9480 140th St N",
+    "city": "Hugo",
+    "state": "Minnesota",
+    "postal_code": "55038-9411",
+    "website_url": "http://www.cosmosbrewing.com",
+    "phone": "6512699199",
+    "created_at": "2018-07-24 01:33:38.26193",
+    "updated_at": "2018-08-24 00:45:03.246455",
+    "country": "United States",
+    "longitude": "-92.913729494382",
+    "latitude": "45.1526662696629",
+    "tags": []
+  }
+]

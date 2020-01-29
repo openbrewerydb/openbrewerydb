@@ -1,0 +1,36 @@
+[
+  {
+    "id": "alvarado-street-brewery",
+    "name": "Alvarado Street Brewery",
+    "brewery_type": "micro",
+    "street": "1315 Dayton St Ste E",
+    "city": "Salinas",
+    "state": "California",
+    "postal_code": "93901-4400",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:51.5825",
+    "updated_at": "2018-08-11 21:35:54.313843",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "monterey-coast-brewing",
+    "name": "Monterey Coast Brewing",
+    "brewery_type": "brewpub",
+    "street": "165 Main Street",
+    "city": "Salinas",
+    "state": "California",
+    "postal_code": "93901",
+    "website_url": "http://www.montereycoastbrewing.com",
+    "phone": "8317582337",
+    "created_at": "2018-07-24 01:32:58.436299",
+    "updated_at": "2018-08-11 21:36:13.72039",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

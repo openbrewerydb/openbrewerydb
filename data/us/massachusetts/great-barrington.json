@@ -1,0 +1,19 @@
+[
+  {
+    "id": "barrington-brewery-and-restaurant",
+    "name": "Barrington Brewery and Restaurant",
+    "brewery_type": "brewpub",
+    "street": "420 Stockbridge Rd Ste 4",
+    "city": "Great Barrington",
+    "state": "Massachusetts",
+    "postal_code": "01230-9512",
+    "website_url": "http://www.barringtonbrewery.net",
+    "phone": "4135288282",
+    "created_at": "2018-07-24 01:33:30.181814",
+    "updated_at": "2018-08-11 21:37:38.629664",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

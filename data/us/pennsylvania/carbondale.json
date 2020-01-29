@@ -1,0 +1,19 @@
+[
+  {
+    "id": "iron-hart",
+    "name": "Iron Hart",
+    "brewery_type": "brewpub",
+    "street": "49 N Church St",
+    "city": "Carbondale",
+    "state": "Pennsylvania",
+    "postal_code": "18407-1904",
+    "website_url": "http://www.3guysandabeerd.com",
+    "phone": "5702802739",
+    "created_at": "2018-07-24 01:34:10.996939",
+    "updated_at": "2018-08-24 16:09:20.010698",
+    "country": "United States",
+    "longitude": "-75.50001",
+    "latitude": "41.573825",
+    "tags": []
+  }
+]

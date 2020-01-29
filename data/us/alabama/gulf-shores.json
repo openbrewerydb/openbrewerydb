@@ -1,0 +1,19 @@
+[
+  {
+    "id": "big-beach-brewing-company",
+    "name": "Big Beach Brewing Company",
+    "brewery_type": "micro",
+    "street": "300 E 24th Ave",
+    "city": "Gulf Shores",
+    "state": "Alabama",
+    "postal_code": "36542-3104",
+    "website_url": "http://www.bigbeachbrewing.com",
+    "phone": "2519482337",
+    "created_at": "2018-07-24 01:32:47.305578",
+    "updated_at": "2018-08-23 23:20:01.170552",
+    "country": "United States",
+    "longitude": "-87.683039",
+    "latitude": "30.278051",
+    "tags": []
+  }
+]

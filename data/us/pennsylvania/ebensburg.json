@@ -1,0 +1,19 @@
+[
+  {
+    "id": "coal-country-brewing",
+    "name": "Coal Country Brewing",
+    "brewery_type": "micro",
+    "street": "625 W High St",
+    "city": "Ebensburg",
+    "state": "Pennsylvania",
+    "postal_code": "15931",
+    "website_url": "http://www.coalcountrybrewing.net",
+    "phone": "8144198648",
+    "created_at": "2018-07-24 01:34:09.793164",
+    "updated_at": "2018-08-24 16:07:32.320073",
+    "country": "United States",
+    "longitude": "-78.730634",
+    "latitude": "40.485306",
+    "tags": []
+  }
+]

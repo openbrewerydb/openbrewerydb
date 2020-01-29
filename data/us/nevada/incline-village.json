@@ -1,0 +1,19 @@
+[
+  {
+    "id": "alibi-ale-works",
+    "name": "Alibi Ale Works",
+    "brewery_type": "micro",
+    "street": "204 E Enterprise St",
+    "city": "Incline Village",
+    "state": "Nevada",
+    "postal_code": "89451-9456",
+    "website_url": "http://www.alibialeworks.com",
+    "phone": "7752987001",
+    "created_at": "2018-07-24 01:33:44.168158",
+    "updated_at": "2018-08-24 00:47:54.027809",
+    "country": "United States",
+    "longitude": "-119.953711697581",
+    "latitude": "39.2481932808664",
+    "tags": []
+  }
+]

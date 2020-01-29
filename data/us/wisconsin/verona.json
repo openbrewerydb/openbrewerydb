@@ -1,0 +1,36 @@
+[
+  {
+    "id": "hop-haus-brewing-co",
+    "name": "Hop Haus Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "231 S Main St",
+    "city": "Verona",
+    "state": "Wisconsin",
+    "postal_code": "53593-1470",
+    "website_url": "http://www.hophausbrewing.com",
+    "phone": "6084973165",
+    "created_at": "2018-07-24 01:34:35.559787",
+    "updated_at": "2018-08-24 16:43:36.728929",
+    "country": "United States",
+    "longitude": "-89.5335302111111",
+    "latitude": "42.9880348555556",
+    "tags": []
+  },
+  {
+    "id": "wisconsin-brewing-co",
+    "name": "Wisconsin Brewing Co",
+    "brewery_type": "regional",
+    "street": "1079 American Way",
+    "city": "Verona",
+    "state": "Wisconsin",
+    "postal_code": "53593-9384",
+    "website_url": "http://www.wisconsinbrewingcompany.com",
+    "phone": "6088481079",
+    "created_at": "2018-07-24 01:34:37.225468",
+    "updated_at": "2018-08-24 16:46:29.82775",
+    "country": "United States",
+    "longitude": "-89.5089549402501",
+    "latitude": "42.9688832",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "jones-creek-brewing",
+    "name": "Jones Creek Brewing",
+    "brewery_type": "micro",
+    "street": "173 Beam Rd",
+    "city": "Chehalis",
+    "state": "Washington",
+    "postal_code": "98532-9303",
+    "website_url": "http://www.jonescreekbrewing.com",
+    "phone": "4155137779",
+    "created_at": "2018-07-24 01:34:30.594532",
+    "updated_at": "2018-08-11 21:40:18.423308",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

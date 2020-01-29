@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bc-brewery",
+    "name": "B.C. Brewery",
+    "brewery_type": "micro",
+    "street": "10950 Gilroy Rd Ste F",
+    "city": "Hunt Valley",
+    "state": "Maryland",
+    "postal_code": "21031-1327",
+    "website_url": "http://www.bcbrewerymd.com",
+    "phone": "4433913847",
+    "created_at": "2018-07-24 01:33:28.330544",
+    "updated_at": "2018-08-11 21:37:34.756035",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

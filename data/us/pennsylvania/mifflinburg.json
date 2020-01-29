@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rusty-rail-brewing",
+    "name": "Rusty Rail Brewing",
+    "brewery_type": "brewpub",
+    "street": "5 N 8th St Ste 1",
+    "city": "Mifflinburg",
+    "state": "Pennsylvania",
+    "postal_code": "17844-1003",
+    "website_url": "http://www.rustyrailbrewing.com",
+    "phone": "5709667878",
+    "created_at": "2018-07-24 01:34:12.454874",
+    "updated_at": "2018-08-11 21:39:30.894408",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

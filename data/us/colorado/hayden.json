@@ -1,0 +1,19 @@
+[
+  {
+    "id": "yampa-valley-brewing-company",
+    "name": "Yampa Valley Brewing Company",
+    "brewery_type": "micro",
+    "street": "106 E Jefferson Ave Unit B",
+    "city": "Hayden",
+    "state": "Colorado",
+    "postal_code": "81639",
+    "website_url": "http://www.yampavalleybrew.com",
+    "phone": "9702768014",
+    "created_at": "2018-07-24 01:33:08.933324",
+    "updated_at": "2018-08-11 21:36:44.759162",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

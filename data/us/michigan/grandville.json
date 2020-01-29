@@ -1,0 +1,36 @@
+[
+  {
+    "id": "arvon-brewing-co",
+    "name": "Arvon Brewing Co.",
+    "brewery_type": "micro",
+    "street": "3057 Broadway Ave SW",
+    "city": "Grandville",
+    "state": "Michigan",
+    "postal_code": "49418-1528",
+    "website_url": "http://www.arvonbrewingco.com",
+    "phone": "6162240086",
+    "created_at": "2018-07-24 01:33:32.649386",
+    "updated_at": "2018-08-24 00:42:05.792903",
+    "country": "United States",
+    "longitude": "-85.7720434",
+    "latitude": "42.909272",
+    "tags": []
+  },
+  {
+    "id": "osgood-brewing",
+    "name": "Osgood Brewing",
+    "brewery_type": "brewpub",
+    "street": "4051 Chicago Dr SW",
+    "city": "Grandville",
+    "state": "Michigan",
+    "postal_code": "49418-1257",
+    "website_url": "http://www.osgoodbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:35.928589",
+    "updated_at": "2018-08-24 00:43:48.858522",
+    "country": "United States",
+    "longitude": "-85.7649303877551",
+    "latitude": "42.9090780408163",
+    "tags": []
+  }
+]

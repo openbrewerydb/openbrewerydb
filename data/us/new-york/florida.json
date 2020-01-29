@@ -1,0 +1,19 @@
+[
+  {
+    "id": "glenmere-brewing-co-inc",
+    "name": "Glenmere Brewing Co, Inc",
+    "brewery_type": "micro",
+    "street": "55 Maple Ave",
+    "city": "Florida",
+    "state": "New York",
+    "postal_code": "10921-1124",
+    "website_url": "http://www.glenmerebrewingco.com",
+    "phone": "8456511939",
+    "created_at": "2018-07-24 01:33:51.263162",
+    "updated_at": "2018-08-24 15:39:06.969333",
+    "country": "United States",
+    "longitude": "-74.360033",
+    "latitude": "41.335404",
+    "tags": []
+  }
+]

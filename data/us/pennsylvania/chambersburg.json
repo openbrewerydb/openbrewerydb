@@ -1,0 +1,53 @@
+[
+  {
+    "id": "gearhouse-brewing-company",
+    "name": "GearHouse Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "253 Grant St",
+    "city": "Chambersburg",
+    "state": "Pennsylvania",
+    "postal_code": "17201-1627",
+    "website_url": "http://www.gearhousebrewingco.com",
+    "phone": "8034226145",
+    "created_at": "2018-07-24 01:34:10.631279",
+    "updated_at": "2018-08-24 16:08:48.102171",
+    "country": "United States",
+    "longitude": "-77.6567421470779",
+    "latitude": "39.9412217960911",
+    "tags": []
+  },
+  {
+    "id": "brewery-in-planning-chambersburg-pa",
+    "name": "Brewery in Planning - Chambersburg, PA",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Chambersburg",
+    "state": "Pennsylvania",
+    "postal_code": "17201-1465",
+    "website_url": "",
+    "phone": "7172630027",
+    "created_at": "2018-07-24 01:34:09.337027",
+    "updated_at": "2018-08-11 21:39:23.742956",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "roy-pitz-brewing-co",
+    "name": "Roy Pitz Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "301 Roy Pitz Ave Ste 3",
+    "city": "Chambersburg",
+    "state": "Pennsylvania",
+    "postal_code": "17201-1668",
+    "website_url": "http://www.roypitz.com",
+    "phone": "7174968753",
+    "created_at": "2018-07-24 01:34:12.410449",
+    "updated_at": "2018-08-11 21:39:30.781187",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

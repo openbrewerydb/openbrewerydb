@@ -1,0 +1,53 @@
+[
+  {
+    "id": "johnson-city-brewing-co",
+    "name": "Johnson City Brewing Co",
+    "brewery_type": "micro",
+    "street": "410 E State of Franklin Rd",
+    "city": "Johnson City",
+    "state": "Tennessee",
+    "postal_code": "37601-4871",
+    "website_url": "http://www.johnsoncitybrewing.com",
+    "phone": "4239304186",
+    "created_at": "2018-07-24 01:34:16.550076",
+    "updated_at": "2018-08-24 16:17:11.407432",
+    "country": "United States",
+    "longitude": "-82.3463696243846",
+    "latitude": "36.3171595095503",
+    "tags": []
+  },
+  {
+    "id": "jrh-brewing",
+    "name": "JRH Brewing",
+    "brewery_type": "micro",
+    "street": "458 W Walnut St",
+    "city": "Johnson City",
+    "state": "Tennessee",
+    "postal_code": "37604-6766",
+    "website_url": "http://www.jrhbrewing.com",
+    "phone": "4237223410",
+    "created_at": "2018-07-24 01:34:16.562936",
+    "updated_at": "2018-08-24 16:17:12.881824",
+    "country": "United States",
+    "longitude": "-82.3548364803802",
+    "latitude": "36.3116959532105",
+    "tags": []
+  },
+  {
+    "id": "yee-haw-brewing-llc",
+    "name": "Yee-Haw Brewing, LLC.",
+    "brewery_type": "micro",
+    "street": "126 Buffalo St Ste 30",
+    "city": "Johnson City",
+    "state": "Tennessee",
+    "postal_code": "37604-5788",
+    "website_url": "",
+    "phone": "4233289192",
+    "created_at": "2018-07-24 01:34:17.274022",
+    "updated_at": "2018-08-11 21:39:44.510023",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

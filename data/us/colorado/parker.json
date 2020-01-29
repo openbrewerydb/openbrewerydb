@@ -1,0 +1,53 @@
+[
+  {
+    "id": "barnett-and-son-brewing-company",
+    "name": "Barnett and Son Brewing Company",
+    "brewery_type": "micro",
+    "street": "18425 Pony Express Dr Unit 125",
+    "city": "Parker",
+    "state": "Colorado",
+    "postal_code": "80134-9605",
+    "website_url": "",
+    "phone": "7204200462",
+    "created_at": "2018-07-24 01:33:03.61713",
+    "updated_at": "2018-08-11 21:36:31.233015",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "downhill-brewing",
+    "name": "Downhill Brewing",
+    "brewery_type": "micro",
+    "street": "18921 Plaza Dr Ste 104",
+    "city": "Parker",
+    "state": "Colorado",
+    "postal_code": "80134-9679",
+    "website_url": "http://www.elkmountainbrewing.com",
+    "phone": "3038052739",
+    "created_at": "2018-07-24 01:33:05.140522",
+    "updated_at": "2018-08-11 21:36:35.161909",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "march-hare-brewing",
+    "name": "March Hare Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Parker",
+    "state": "Colorado",
+    "postal_code": "80134-3627",
+    "website_url": "",
+    "phone": "3039606020",
+    "created_at": "2018-07-24 01:33:06.499985",
+    "updated_at": "2018-08-11 21:36:38.593806",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

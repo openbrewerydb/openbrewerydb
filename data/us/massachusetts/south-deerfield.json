@@ -1,0 +1,19 @@
+[
+  {
+    "id": "berkshire-brewing-co-inc",
+    "name": "Berkshire Brewing Co Inc",
+    "brewery_type": "regional",
+    "street": "12 Railroad St",
+    "city": "South Deerfield",
+    "state": "Massachusetts",
+    "postal_code": "01373-0096",
+    "website_url": "http://www.Berkshire-Brewing.com",
+    "phone": "4136656600",
+    "created_at": "2018-07-24 01:33:30.25886",
+    "updated_at": "2018-08-24 00:41:03.580098",
+    "country": "United States",
+    "longitude": "-72.6102508608935",
+    "latitude": "42.4777979726281",
+    "tags": []
+  }
+]

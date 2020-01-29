@@ -1,0 +1,19 @@
+[
+  {
+    "id": "black-horizon-brewing-company",
+    "name": "Black Horizon Brewing Company",
+    "brewery_type": "micro",
+    "street": "7560 S Quincy St",
+    "city": "Willowbrook",
+    "state": "Illinois",
+    "postal_code": "60527-5545",
+    "website_url": "http://www.blackhorizonbrewing.com",
+    "phone": "6304134964",
+    "created_at": "2018-07-24 01:33:18.240741",
+    "updated_at": "2018-08-11 21:37:08.235001",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

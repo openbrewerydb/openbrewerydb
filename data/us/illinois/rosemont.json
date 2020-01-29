@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hofbrauhaus-chicago",
+    "name": "Hofbrauhaus Chicago",
+    "brewery_type": "brewpub",
+    "street": "5500 Park Pl",
+    "city": "Rosemont",
+    "state": "Illinois",
+    "postal_code": "60018-3730",
+    "website_url": "http://www.hofbrauhauschicago.com",
+    "phone": "8476712739",
+    "created_at": "2018-07-24 01:33:19.265706",
+    "updated_at": "2018-08-11 21:37:12.17905",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

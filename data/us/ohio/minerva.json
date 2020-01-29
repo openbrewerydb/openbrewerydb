@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sandy-springs-brewing-company",
+    "name": "Sandy Springs Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "232 N Market St",
+    "city": "Minerva",
+    "state": "Ohio",
+    "postal_code": "44657-1616",
+    "website_url": "http://www.sandyspringsbrewery.com",
+    "phone": "3304516926",
+    "created_at": "2018-07-24 01:34:02.859052",
+    "updated_at": "2018-08-24 15:44:56.171546",
+    "country": "United States",
+    "longitude": "-81.1038201428571",
+    "latitude": "40.7295667857143",
+    "tags": []
+  }
+]

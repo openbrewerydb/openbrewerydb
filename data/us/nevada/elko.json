@@ -1,0 +1,19 @@
+[
+  {
+    "id": "matties",
+    "name": "Matties",
+    "brewery_type": "bar",
+    "street": "2535 Mountain City Hwy",
+    "city": "Elko",
+    "state": "Nevada",
+    "postal_code": "89801-4496",
+    "website_url": "http://www.mattiesbar-n-grill.com/",
+    "phone": "7757535100",
+    "created_at": "2018-07-24 01:33:44.528081",
+    "updated_at": "2018-08-24 15:35:40.305889",
+    "country": "United States",
+    "longitude": "-115.793393",
+    "latitude": "40.836405",
+    "tags": []
+  }
+]

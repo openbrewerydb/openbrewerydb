@@ -1,0 +1,19 @@
+[
+  {
+    "id": "karst-brewing-llc",
+    "name": "Karst Brewing LLC",
+    "brewery_type": "micro",
+    "street": "315 1st St",
+    "city": "Fountain",
+    "state": "Minnesota",
+    "postal_code": "55935-8816",
+    "website_url": "http://www.karstbrewed.com",
+    "phone": "6127476367",
+    "created_at": "2018-07-24 01:33:38.923486",
+    "updated_at": "2018-08-24 00:45:26.313759",
+    "country": "United States",
+    "longitude": "-92.1352138553325",
+    "latitude": "43.739974040757",
+    "tags": []
+  }
+]

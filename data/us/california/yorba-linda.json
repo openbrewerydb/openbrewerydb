@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-blue-poppy-brewery",
+    "name": "The Blue Poppy Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Yorba Linda",
+    "state": "California",
+    "postal_code": "92886-7300",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:01.970293",
+    "updated_at": "2018-08-24 00:03:47.84377",
+    "country": "United States",
+    "longitude": "-117.8249705",
+    "latitude": "33.8901096",
+    "tags": []
+  }
+]

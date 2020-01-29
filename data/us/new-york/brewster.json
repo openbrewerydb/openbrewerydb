@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bull-and-barrel-brew-pub",
+    "name": "Bull and Barrel Brew Pub",
+    "brewery_type": "brewpub",
+    "street": "988 Route 22",
+    "city": "Brewster",
+    "state": "New York",
+    "postal_code": "10509-1576",
+    "website_url": "http://www.bullandbarrelbrewpub.com",
+    "phone": "8452782855",
+    "created_at": "2018-07-24 01:33:50.037165",
+    "updated_at": "2018-08-11 21:38:31.884494",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mindful-brewing-company",
+    "name": "Mindful Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "3759 Library Rd",
+    "city": "Castle Shannon",
+    "state": "Pennsylvania",
+    "postal_code": "15234-2232",
+    "website_url": "http://Www.mindfulbrewing.com",
+    "phone": "4126683857",
+    "created_at": "2018-07-24 01:34:11.657809",
+    "updated_at": "2018-08-24 16:10:25.014993",
+    "country": "United States",
+    "longitude": "-80.021632980547",
+    "latitude": "40.3644178156281",
+    "tags": []
+  }
+]

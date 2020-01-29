@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mankato-brewery",
+    "name": "Mankato Brewery",
+    "brewery_type": "micro",
+    "street": "1119 Center St",
+    "city": "North Mankato",
+    "state": "Minnesota",
+    "postal_code": "56003-2108",
+    "website_url": "http://www.mankatobrewery.com",
+    "phone": "5073862337",
+    "created_at": "2018-07-24 01:33:39.159588",
+    "updated_at": "2018-08-24 00:45:33.444825",
+    "country": "United States",
+    "longitude": "-94.013784",
+    "latitude": "44.1814427894737",
+    "tags": []
+  }
+]

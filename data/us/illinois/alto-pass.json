@@ -1,0 +1,19 @@
+[
+  {
+    "id": "von-jakob-winery",
+    "name": "Von Jakob Winery",
+    "brewery_type": "brewpub",
+    "street": "230 Illinois Hwy 127",
+    "city": "Alto Pass",
+    "state": "Illinois",
+    "postal_code": "62905",
+    "website_url": "http://www.vonjakob.com",
+    "phone": "6188934600",
+    "created_at": "2018-07-24 01:33:21.035903",
+    "updated_at": "2018-08-11 21:37:16.910587",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

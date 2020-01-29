@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lunacy-brewing-company",
+    "name": "Lunacy Brewing Company",
+    "brewery_type": "micro",
+    "street": "1500 Kings Hwy",
+    "city": "Haddon Heights",
+    "state": "New Jersey",
+    "postal_code": "08035",
+    "website_url": "http://www.lunacybrewingcompany.com",
+    "phone": "8566170681",
+    "created_at": "2018-07-24 01:33:47.123344",
+    "updated_at": "2018-08-11 21:38:24.58192",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

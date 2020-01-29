@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tripelroot",
+    "name": "Tripelroot",
+    "brewery_type": "brewpub",
+    "street": "146 E Main Ave",
+    "city": "Zeeland",
+    "state": "Michigan",
+    "postal_code": "49464-1736",
+    "website_url": "http://www.tripelroot.com",
+    "phone": "6169530050",
+    "created_at": "2018-07-24 01:33:37.254905",
+    "updated_at": "2018-08-24 00:44:32.320925",
+    "country": "United States",
+    "longitude": "-86.0146348246228",
+    "latitude": "42.81211765",
+    "tags": []
+  }
+]

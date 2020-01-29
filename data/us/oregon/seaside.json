@@ -1,0 +1,36 @@
+[
+  {
+    "id": "damarkom-inc",
+    "name": "DAMARKOM, INC.",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Seaside",
+    "state": "Oregon",
+    "postal_code": "97138-5803",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:05.638203",
+    "updated_at": "2018-08-11 21:39:12.706214",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "seaside-brewery",
+    "name": "Seaside Brewery",
+    "brewery_type": "brewpub",
+    "street": "851 Broadway St",
+    "city": "Seaside",
+    "state": "Oregon",
+    "postal_code": "97138-6823",
+    "website_url": "http://www.seasidebrewery.com",
+    "phone": "5037175451",
+    "created_at": "2018-07-24 01:34:07.736802",
+    "updated_at": "2018-08-24 16:04:47.546017",
+    "country": "United States",
+    "longitude": "-123.922384151515",
+    "latitude": "45.9929926060606",
+    "tags": []
+  }
+]

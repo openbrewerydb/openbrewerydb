@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fired-up-brewing",
+    "name": "Fired Up Brewing",
+    "brewery_type": "brewpub",
+    "street": "1235 S Main St",
+    "city": "Colville",
+    "state": "Washington",
+    "postal_code": "99114-9504",
+    "website_url": "http://www.facebook.com/firedupbrewing",
+    "phone": "5096843328",
+    "created_at": "2018-07-24 01:34:29.667497",
+    "updated_at": "2018-08-24 16:34:39.853904",
+    "country": "United States",
+    "longitude": "-117.9057561",
+    "latitude": "48.540198",
+    "tags": []
+  }
+]

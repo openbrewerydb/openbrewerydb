@@ -1,0 +1,36 @@
+[
+  {
+    "id": "galaxy-brewing-co",
+    "name": "Galaxy Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "41 Court St, 153 & 157",
+    "city": "Binghamton",
+    "state": "New York",
+    "postal_code": "13901-3104",
+    "website_url": "http://www.galaxybrewingco.com",
+    "phone": "6072174815",
+    "created_at": "2018-07-24 01:33:51.153434",
+    "updated_at": "2018-08-11 21:38:34.737242",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "water-street-brewing-co",
+    "name": "Water Street Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "168 Water St Fl 1",
+    "city": "Binghamton",
+    "state": "New York",
+    "postal_code": "13901-2736",
+    "website_url": "http://www.waterstreetbrewingco.com",
+    "phone": "6072174546",
+    "created_at": "2018-07-24 01:33:54.44193",
+    "updated_at": "2018-08-11 21:38:43.616033",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

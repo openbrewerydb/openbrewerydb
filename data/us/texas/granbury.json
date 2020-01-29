@@ -1,0 +1,19 @@
+[
+  {
+    "id": "revolver-brewing",
+    "name": "Revolver Brewing",
+    "brewery_type": "large",
+    "street": "5650 Matlock Rd",
+    "city": "Granbury",
+    "state": "Texas",
+    "postal_code": "76049-5347",
+    "website_url": "http://www.revolverbrewing.com",
+    "phone": "8177368034",
+    "created_at": "2018-07-24 01:34:20.976014",
+    "updated_at": "2018-08-11 21:39:53.701068",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

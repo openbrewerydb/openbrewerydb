@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hop-head-farms-brewing-llc",
+    "name": "Hop Head Farms Brewing, LLC",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Baroda",
+    "state": "Michigan",
+    "postal_code": "49101-9351",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:34.859208",
+    "updated_at": "2018-08-11 21:37:50.777601",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "round-barn-brewery-and-public-house",
+    "name": "Round Barn Brewery & Public House",
+    "brewery_type": "micro",
+    "street": "9151 First St",
+    "city": "Baroda",
+    "state": "Michigan",
+    "postal_code": "49101-8927",
+    "website_url": "http://www.roundbarnbrewery.com",
+    "phone": "2693267059",
+    "created_at": "2018-07-24 01:33:36.375355",
+    "updated_at": "2018-08-11 21:37:55.530974",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "round-barn-brewery-/-round-barn-winery",
+    "name": "Round Barn Brewery / Round Barn Winery",
+    "brewery_type": "micro",
+    "street": "10983 Hills Rd",
+    "city": "Baroda",
+    "state": "Michigan",
+    "postal_code": "49101-8742",
+    "website_url": "http://www.roundbarnwinery.com",
+    "phone": "8007169463",
+    "created_at": "2018-07-24 01:33:36.389037",
+    "updated_at": "2018-08-24 00:44:03.458721",
+    "country": "United States",
+    "longitude": "-86.479395",
+    "latitude": "41.950161",
+    "tags": []
+  }
+]

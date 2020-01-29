@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lake-time-brewery",
+    "name": "Lake Time Brewery",
+    "brewery_type": "micro",
+    "street": "801 Main Ave Ste C",
+    "city": "Clear Lake",
+    "state": "Iowa",
+    "postal_code": "50428-1919",
+    "website_url": "http://www.laketimebrewery.com",
+    "phone": "6413572040",
+    "created_at": "2018-07-24 01:33:23.964833",
+    "updated_at": "2018-08-11 21:37:24.167234",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

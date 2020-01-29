@@ -1,0 +1,19 @@
+[
+  {
+    "id": "spiral-brewery",
+    "name": "Spiral Brewery",
+    "brewery_type": "micro",
+    "street": "111 2nd St E",
+    "city": "Hastings",
+    "state": "Minnesota",
+    "postal_code": "55033-1265",
+    "website_url": "http://Spiralbrewery.com",
+    "phone": "6517264832",
+    "created_at": "2018-07-24 01:33:39.591999",
+    "updated_at": "2018-08-24 00:45:47.084288",
+    "country": "United States",
+    "longitude": "-92.8524399",
+    "latitude": "44.7443609",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "amherst-brewing-co-/-hangar-pub-and-grill",
+    "name": "Amherst Brewing Co / Hangar Pub and Grill",
+    "brewery_type": "brewpub",
+    "street": "10 University Dr",
+    "city": "Amherst",
+    "state": "Massachusetts",
+    "postal_code": "01002-2243",
+    "website_url": "http://www.amherstbrewing.com",
+    "phone": "4132534400",
+    "created_at": "2018-07-24 01:33:30.049963",
+    "updated_at": "2018-08-24 00:40:58.846335",
+    "country": "United States",
+    "longitude": "-72.5318418",
+    "latitude": "42.3728635",
+    "tags": []
+  },
+  {
+    "id": "high-horse-brewery-and-bistro",
+    "name": "High Horse Brewery and Bistro",
+    "brewery_type": "contract",
+    "street": "24 N Pleasant St",
+    "city": "Amherst",
+    "state": "Massachusetts",
+    "postal_code": "01002-1703",
+    "website_url": "http://www.highhorsebrewing.com",
+    "phone": "4132303034",
+    "created_at": "2018-07-24 01:33:31.101326",
+    "updated_at": "2018-08-24 00:41:22.94714",
+    "country": "United States",
+    "longitude": "-72.5201343",
+    "latitude": "42.376218",
+    "tags": []
+  }
+]

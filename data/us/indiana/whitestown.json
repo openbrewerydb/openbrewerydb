@@ -1,0 +1,19 @@
+[
+  {
+    "id": "moontown-brewing",
+    "name": "Moontown Brewing",
+    "brewery_type": "brewpub",
+    "street": "345 S Bowers St",
+    "city": "Whitestown",
+    "state": "Indiana",
+    "postal_code": "46075",
+    "website_url": "http://www.moontownbeer.com",
+    "phone": "5742503114",
+    "created_at": "2018-07-24 01:33:22.446476",
+    "updated_at": "2018-08-24 00:33:07.374291",
+    "country": "United States",
+    "longitude": "-86.346903",
+    "latitude": "39.9940992857143",
+    "tags": []
+  }
+]

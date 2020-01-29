@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mortals-key-brewing-company",
+    "name": "Mortals Key Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "4224 E Lake Rd",
+    "city": "Jamestown",
+    "state": "Pennsylvania",
+    "postal_code": "16134-4524",
+    "website_url": "http://www.mortalskey.com",
+    "phone": "7249321080",
+    "created_at": "2018-07-24 01:34:11.725509",
+    "updated_at": "2018-08-24 16:10:32.366484",
+    "country": "United States",
+    "longitude": "-80.4597990466254",
+    "latitude": "41.5124318475412",
+    "tags": []
+  }
+]

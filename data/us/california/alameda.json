@@ -1,0 +1,53 @@
+[
+  {
+    "id": "alameda-island-brewing-company",
+    "name": "Alameda Island Brewing Company",
+    "brewery_type": "micro",
+    "street": "1716 Park St",
+    "city": "Alameda",
+    "state": "California",
+    "postal_code": "94501-1416",
+    "website_url": "http://www.alamedaislandbrewingcompany.com",
+    "phone": "5102178885",
+    "created_at": "2018-07-24 01:32:51.397446",
+    "updated_at": "2018-08-23 23:24:05.893093",
+    "country": "United States",
+    "longitude": "-122.239450559516",
+    "latitude": "37.7683363123474",
+    "tags": []
+  },
+  {
+    "id": "almanac-beer-company",
+    "name": "Almanac Beer Company",
+    "brewery_type": "micro",
+    "street": "651B W Tower Ave",
+    "city": "Alameda",
+    "state": "California",
+    "postal_code": "94501-5047",
+    "website_url": "http://almanacbeer.com",
+    "phone": "4159326531",
+    "created_at": "2018-07-24 01:32:51.491145",
+    "updated_at": "2018-08-23 23:24:11.758283",
+    "country": "United States",
+    "longitude": "-122.306283180899",
+    "latitude": "37.7834497667258",
+    "tags": []
+  },
+  {
+    "id": "faction-brewing-co",
+    "name": "Faction Brewing Co",
+    "brewery_type": "micro",
+    "street": "2501 Monarch St Ste 200",
+    "city": "Alameda",
+    "state": "California",
+    "postal_code": "94501-5098",
+    "website_url": "http://www.factionbrewing.com",
+    "phone": "5105232739",
+    "created_at": "2018-07-24 01:32:55.195955",
+    "updated_at": "2018-08-23 23:28:09.182359",
+    "country": "United States",
+    "longitude": "-122.3097077",
+    "latitude": "37.7866722",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "granite-city-food-and-brewery-#30",
+    "name": "Granite City Food & Brewery (#30)",
+    "brewery_type": "brewpub",
+    "street": "1828 Abriter Ct",
+    "city": "Naperville",
+    "state": "Illinois",
+    "postal_code": "60563-9368",
+    "website_url": "http://www.gcfb.net",
+    "phone": "6305443700",
+    "created_at": "2018-07-24 01:33:19.107924",
+    "updated_at": "2018-08-24 00:31:08.272787",
+    "country": "United States",
+    "longitude": "-88.1294472718086",
+    "latitude": "41.8028389710542",
+    "tags": []
+  },
+  {
+    "id": "lake-brothers-beer-company",
+    "name": "Lake Brothers Beer Company",
+    "brewery_type": "contract",
+    "street": "25W275 Woodstock Ct",
+    "city": "Naperville",
+    "state": "Illinois",
+    "postal_code": "60540-3427",
+    "website_url": "http://www.lakebrothersbeer.com",
+    "phone": "6302583938",
+    "created_at": "2018-07-24 01:33:19.538623",
+    "updated_at": "2018-08-11 21:37:13.099486",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "solemn-oath-brewery",
+    "name": "Solemn Oath Brewery",
+    "brewery_type": "micro",
+    "street": "1661 Quincy Ave Ste 179",
+    "city": "Naperville",
+    "state": "Illinois",
+    "postal_code": "60540-3969",
+    "website_url": "http://www.solemnoathbrewery.com",
+    "phone": "6309953062",
+    "created_at": "2018-07-24 01:33:20.708792",
+    "updated_at": "2018-08-11 21:37:15.80471",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

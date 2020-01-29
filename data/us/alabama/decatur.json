@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cross-eyed-owl-brewing-co",
+    "name": "Cross-Eyed Owl Brewing Co.",
+    "brewery_type": "micro",
+    "street": "105 1st Ave NE",
+    "city": "Decatur",
+    "state": "Alabama",
+    "postal_code": "35601-2301",
+    "website_url": "http://www.xeobrewing.com",
+    "phone": "2564310931",
+    "created_at": "2018-07-24 01:32:47.462883",
+    "updated_at": "2018-08-23 23:20:10.679744",
+    "country": "United States",
+    "longitude": "-86.9866330204082",
+    "latitude": "34.6041206530612",
+    "tags": []
+  }
+]

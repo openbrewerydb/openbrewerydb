@@ -1,0 +1,36 @@
+[
+  {
+    "id": "carolina-brewery-pittsboro",
+    "name": "Carolina Brewery - Pittsboro",
+    "brewery_type": "micro",
+    "street": "120 Lowes Dr Ste 100",
+    "city": "Pittsboro",
+    "state": "North Carolina",
+    "postal_code": "27312-8872",
+    "website_url": "http://www.carolinabrewery.com",
+    "phone": "9195452337",
+    "created_at": "2018-07-24 01:33:55.717189",
+    "updated_at": "2018-08-24 15:41:24.94586",
+    "country": "United States",
+    "longitude": "-79.1652429",
+    "latitude": "35.7438093",
+    "tags": []
+  },
+  {
+    "id": "nazzd-brew-works-and-pub",
+    "name": "NAZZ'D Brew Works and Pub",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Pittsboro",
+    "state": "North Carolina",
+    "postal_code": "27312",
+    "website_url": "http://www.nazzdbrew.com",
+    "phone": "9196042081",
+    "created_at": "2018-07-24 01:33:57.373492",
+    "updated_at": "2018-08-11 21:38:50.640128",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

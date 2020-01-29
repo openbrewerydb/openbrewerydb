@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cannon-brewpub",
+    "name": "Cannon Brewpub",
+    "brewery_type": "brewpub",
+    "street": "1041 Broadway",
+    "city": "Columbus",
+    "state": "Georgia",
+    "postal_code": "31901-5256",
+    "website_url": "",
+    "phone": "7066532337",
+    "created_at": "2018-07-24 01:33:15.541834",
+    "updated_at": "2018-08-11 21:37:01.334777",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "snipes-mountain-brewing-co",
+    "name": "Snipes Mountain Brewing Co",
+    "brewery_type": "micro",
+    "street": "905 Yakima Valley Hwy",
+    "city": "Sunnyside",
+    "state": "Washington",
+    "postal_code": "98944-1334",
+    "website_url": "http://www.snipesmountain.com",
+    "phone": "5098372739",
+    "created_at": "2018-07-24 01:34:32.887626",
+    "updated_at": "2018-08-24 16:39:28.023476",
+    "country": "United States",
+    "longitude": "-120.011490159278",
+    "latitude": "46.3292117355135",
+    "tags": []
+  },
+  {
+    "id": "varietal-beer-company",
+    "name": "Varietal Beer Company",
+    "brewery_type": "micro",
+    "street": "416 E Edison Ave",
+    "city": "Sunnyside",
+    "state": "Washington",
+    "postal_code": "98944-1459",
+    "website_url": "http://www.varietalbeer.com",
+    "phone": "5093074622",
+    "created_at": "2018-07-24 01:34:33.590023",
+    "updated_at": "2018-08-24 16:40:32.359612",
+    "country": "United States",
+    "longitude": "-120.0157684375",
+    "latitude": "46.3237031875",
+    "tags": []
+  }
+]

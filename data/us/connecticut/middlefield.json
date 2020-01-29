@@ -1,0 +1,19 @@
+[
+  {
+    "id": "forest-city-brewing",
+    "name": "Forest City Brewing",
+    "brewery_type": "micro",
+    "street": "180 Johnson St.",
+    "city": "Middlefield",
+    "state": "Connecticut",
+    "postal_code": "06455",
+    "website_url": "",
+    "phone": "8607882138",
+    "created_at": "2018-07-24 01:33:09.594277",
+    "updated_at": "2018-08-11 21:36:46.481959",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

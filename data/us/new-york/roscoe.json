@@ -1,0 +1,19 @@
+[
+  {
+    "id": "roscoe-brewing-company",
+    "name": "Roscoe Brewing Company",
+    "brewery_type": "micro",
+    "street": "145 Rockland Rd",
+    "city": "Roscoe",
+    "state": "New York",
+    "postal_code": "12776-6418",
+    "website_url": "http://www.roscoebeercompany.com",
+    "phone": "6072905002",
+    "created_at": "2018-07-24 01:33:53.218941",
+    "updated_at": "2018-08-11 21:38:39.977425",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

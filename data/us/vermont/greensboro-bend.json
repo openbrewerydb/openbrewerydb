@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hill-farmstead-brewery",
+    "name": "Hill Farmstead Brewery",
+    "brewery_type": "micro",
+    "street": "403 Hill Rd",
+    "city": "Greensboro Bend",
+    "state": "Vermont",
+    "postal_code": "05842-8813",
+    "website_url": "http://www.hillfarmstead.com",
+    "phone": "8025337450",
+    "created_at": "2018-07-24 01:34:23.372109",
+    "updated_at": "2018-08-11 21:39:59.644031",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

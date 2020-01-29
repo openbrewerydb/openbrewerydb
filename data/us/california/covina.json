@@ -1,0 +1,53 @@
+[
+  {
+    "id": "arrow-lodge-brewing",
+    "name": "Arrow Lodge Brewing",
+    "brewery_type": "micro",
+    "street": "720 E Arrow Hwy Ste C",
+    "city": "Covina",
+    "state": "California",
+    "postal_code": "91722-2103",
+    "website_url": "",
+    "phone": "6264832667",
+    "created_at": "2018-07-24 01:32:51.851175",
+    "updated_at": "2018-08-11 21:35:54.871952",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "alosta-brewing-co",
+    "name": "Alosta Brewing Co",
+    "brewery_type": "micro",
+    "street": "692 Arrow Grand Cir",
+    "city": "Covina",
+    "state": "California",
+    "postal_code": "91722-2122",
+    "website_url": "http://www.alostabrewing.com",
+    "phone": "9094558707",
+    "created_at": "2018-07-24 01:32:51.50336",
+    "updated_at": "2018-08-23 23:24:12.610083",
+    "country": "United States",
+    "longitude": "-117.878146550423",
+    "latitude": "34.1036502643654",
+    "tags": []
+  },
+  {
+    "id": "rev-brewing-co",
+    "name": "REV Brewing Co",
+    "brewery_type": "micro",
+    "street": "1580 W San Bernardino Rd Ste H",
+    "city": "Covina",
+    "state": "California",
+    "postal_code": "91722-3457",
+    "website_url": "http://www.revwineryandbrewingco.com",
+    "phone": "6263889949",
+    "created_at": "2018-07-24 01:32:59.90537",
+    "updated_at": "2018-08-11 21:36:17.508763",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

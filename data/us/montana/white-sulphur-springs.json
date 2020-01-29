@@ -1,0 +1,19 @@
+[
+  {
+    "id": "2-basset-brewery",
+    "name": "2 Basset Brewery",
+    "brewery_type": "micro",
+    "street": "202 E Main St",
+    "city": "White Sulphur Springs",
+    "state": "Montana",
+    "postal_code": "59645-9081",
+    "website_url": "http://www.2bassetbrewery.com",
+    "phone": "4065472337",
+    "created_at": "2018-07-24 01:33:41.996169",
+    "updated_at": "2018-08-24 00:46:55.355806",
+    "country": "United States",
+    "longitude": "-110.900486489644",
+    "latitude": "46.5480760866913",
+    "tags": []
+  }
+]

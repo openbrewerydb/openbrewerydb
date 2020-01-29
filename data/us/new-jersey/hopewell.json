@@ -1,0 +1,19 @@
+[
+  {
+    "id": "troon-brewing",
+    "name": "Troon Brewing",
+    "brewery_type": "micro",
+    "street": "130 Hopewell Rocky Hill Rd # 5",
+    "city": "Hopewell",
+    "state": "New Jersey",
+    "postal_code": "08525-3111",
+    "website_url": "http://www.troonbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:47.501276",
+    "updated_at": "2018-08-24 15:37:10.421419",
+    "country": "United States",
+    "longitude": "-74.7502288904966",
+    "latitude": "40.3922451018063",
+    "tags": []
+  }
+]

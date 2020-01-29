@@ -1,0 +1,19 @@
+[
+  {
+    "id": "main-and-mill-brewing-company",
+    "name": "Main And Mill Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "240 E Main St",
+    "city": "Festus",
+    "state": "Missouri",
+    "postal_code": "63028-1907",
+    "website_url": "http://www.mainandmillbrewco.com",
+    "phone": "6365433031",
+    "created_at": "2018-07-24 01:33:41.295086",
+    "updated_at": "2018-08-24 00:46:34.756927",
+    "country": "United States",
+    "longitude": "-90.392652168841",
+    "latitude": "38.2197488496457",
+    "tags": []
+  }
+]

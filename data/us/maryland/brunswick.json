@@ -1,0 +1,19 @@
+[
+  {
+    "id": "smoketown-brewing-station",
+    "name": "Smoketown Brewing Station",
+    "brewery_type": "micro",
+    "street": "223 W Potomac St",
+    "city": "Brunswick",
+    "state": "Maryland",
+    "postal_code": "21716-1117",
+    "website_url": "http://www.smoketownbrewing.com",
+    "phone": "3018344828",
+    "created_at": "2018-07-24 01:33:29.677767",
+    "updated_at": "2018-08-24 00:40:49.0265",
+    "country": "United States",
+    "longitude": "-77.6302935",
+    "latitude": "39.3136514",
+    "tags": []
+  }
+]

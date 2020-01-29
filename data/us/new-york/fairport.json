@@ -1,0 +1,53 @@
+[
+  {
+    "id": "fairport-brewing-co",
+    "name": "Fairport Brewing Co",
+    "brewery_type": "micro",
+    "street": "99 S Main St",
+    "city": "Fairport",
+    "state": "New York",
+    "postal_code": "14450-2100",
+    "website_url": "http://www.fairportbrewing.com",
+    "phone": "5857520613",
+    "created_at": "2018-07-24 01:33:50.792859",
+    "updated_at": "2018-08-24 15:38:50.407527",
+    "country": "United States",
+    "longitude": "-77.4416792",
+    "latitude": "43.0988098",
+    "tags": []
+  },
+  {
+    "id": "fairport-brewing-co",
+    "name": "Fairport Brewing Co",
+    "brewery_type": "micro",
+    "street": "1000 Turk Hill Rd Ste 298",
+    "city": "Fairport",
+    "state": "New York",
+    "postal_code": "14450-8755",
+    "website_url": "",
+    "phone": "5857520613",
+    "created_at": "2018-07-24 01:33:50.779451",
+    "updated_at": "2018-08-11 21:38:33.786405",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "triphammer-bierwerks",
+    "name": "Triphammer Bierwerks",
+    "brewery_type": "micro",
+    "street": "111 Parce Ave Ste 3A-1",
+    "city": "Fairport",
+    "state": "New York",
+    "postal_code": "14450-1467",
+    "website_url": "http://www.triphammerbierwerks.com",
+    "phone": "5853888281",
+    "created_at": "2018-07-24 01:33:54.244729",
+    "updated_at": "2018-08-11 21:38:43.046984",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

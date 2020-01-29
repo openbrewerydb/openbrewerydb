@@ -1,0 +1,36 @@
+[
+  {
+    "id": "vitamin-sea-brewing",
+    "name": "Vitamin Sea Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Hull",
+    "state": "Massachusetts",
+    "postal_code": "02045-2907",
+    "website_url": "",
+    "phone": "7815894569",
+    "created_at": "2018-07-24 01:33:32.256322",
+    "updated_at": "2018-08-11 21:37:44.301716",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "brewery-in-planning-hull",
+    "name": "Brewery in Planning - Hull",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Hull",
+    "state": "Massachusetts",
+    "postal_code": "02641",
+    "website_url": "http://www.hullbound.com",
+    "phone": "5084543486",
+    "created_at": "2018-07-24 01:33:30.413533",
+    "updated_at": "2018-08-11 21:37:39.189215",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

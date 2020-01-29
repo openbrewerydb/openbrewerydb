@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lost-shirt-brewing-company",
+    "name": "Lost Shirt Brewing Company",
+    "brewery_type": "micro",
+    "street": "7025 Industrial Rd Unit B",
+    "city": "West Melbourne",
+    "state": "Florida",
+    "postal_code": "32904-1616",
+    "website_url": "http://lostshirtbrewingco@gmail.com",
+    "phone": "13214994323",
+    "created_at": "2018-07-24 01:33:13.596266",
+    "updated_at": "2018-08-11 21:36:56.136701",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

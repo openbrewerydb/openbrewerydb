@@ -1,0 +1,19 @@
+[
+  {
+    "id": "silver-harbor-brewing-company",
+    "name": "Silver Harbor Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "721 Pleasant St",
+    "city": "Saint Joseph",
+    "state": "Michigan",
+    "postal_code": "49085-1241",
+    "website_url": "http://silverharborbrewing.com",
+    "phone": "2692817100",
+    "created_at": "2018-07-24 01:33:36.566514",
+    "updated_at": "2018-08-24 00:44:09.724877",
+    "country": "United States",
+    "longitude": "-86.4802745918367",
+    "latitude": "42.1089303265306",
+    "tags": []
+  }
+]

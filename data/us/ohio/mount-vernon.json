@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stein-brewing-company",
+    "name": "Stein Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Mount Vernon",
+    "state": "Ohio",
+    "postal_code": "43050-3323",
+    "website_url": "http://www.SteinBrewCo.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:03.075326",
+    "updated_at": "2018-08-11 21:39:04.840027",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

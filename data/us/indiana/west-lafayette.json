@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brokerage-brewing-company",
+    "name": "Brokerage Brewing Company",
+    "brewery_type": "micro",
+    "street": "2516 Covington St",
+    "city": "West Lafayette",
+    "state": "Indiana",
+    "postal_code": "47906-1404",
+    "website_url": "http://www.brokeragebrewing.com",
+    "phone": "7652332767",
+    "created_at": "2018-07-24 01:33:21.589716",
+    "updated_at": "2018-08-24 00:32:38.807419",
+    "country": "United States",
+    "longitude": "-86.914146891917",
+    "latitude": "40.453611242644",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "seguin-brewing-company",
+    "name": "Seguin Brewing Company",
+    "brewery_type": "micro",
+    "street": "111 W Gonzales St",
+    "city": "Seguin",
+    "state": "Texas",
+    "postal_code": "78155-5630",
+    "website_url": "http://www.seguinbrewing.com",
+    "phone": "2107713913",
+    "created_at": "2018-07-24 01:34:21.165317",
+    "updated_at": "2018-08-24 16:23:04.284209",
+    "country": "United States",
+    "longitude": "-97.9652837755102",
+    "latitude": "29.5695708163265",
+    "tags": []
+  },
+  {
+    "id": "bs-brewing",
+    "name": "BS Brewing",
+    "brewery_type": "micro",
+    "street": "1408 Old Lehmann Rd",
+    "city": "Seguin",
+    "state": "Texas",
+    "postal_code": "78155-5048",
+    "website_url": "http://www.bsbrewingtx.com",
+    "phone": "8306608124",
+    "created_at": "2018-07-24 01:34:18.584696",
+    "updated_at": "2018-08-24 16:19:36.889252",
+    "country": "United States",
+    "longitude": "-97.9047789413549",
+    "latitude": "29.6909156069364",
+    "tags": []
+  }
+]

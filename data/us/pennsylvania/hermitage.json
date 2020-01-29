@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stone-church-pizza-and-brewpub",
+    "name": "Stone Church Pizza & Brewpub",
+    "brewery_type": "brewpub",
+    "street": "600 S Hermitage Rd",
+    "city": "Hermitage",
+    "state": "Pennsylvania",
+    "postal_code": "16148-3629",
+    "website_url": "http://www.stonechurchbrewpub.com",
+    "phone": "7243087770",
+    "created_at": "2018-07-24 01:34:12.855264",
+    "updated_at": "2018-08-24 16:12:15.846304",
+    "country": "United States",
+    "longitude": "-80.451969",
+    "latitude": "41.225649",
+    "tags": []
+  }
+]

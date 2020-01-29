@@ -1,0 +1,53 @@
+[
+  {
+    "id": "b-52-brewing",
+    "name": "B-52 Brewing",
+    "brewery_type": "micro",
+    "street": "12470 Milroy Ln",
+    "city": "Conroe",
+    "state": "Texas",
+    "postal_code": "77304-5160",
+    "website_url": "http://www.b52brewing.com",
+    "phone": "9364474677",
+    "created_at": "2018-07-24 01:34:17.666498",
+    "updated_at": "2018-08-11 21:39:45.761522",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "copperhead-brewery",
+    "name": "Copperhead Brewery",
+    "brewery_type": "micro",
+    "street": "822 N Frazier St",
+    "city": "Conroe",
+    "state": "Texas",
+    "postal_code": "77301-2305",
+    "website_url": "http://www.copperheadbrewery.com",
+    "phone": "2819196134",
+    "created_at": "2018-07-24 01:34:18.806314",
+    "updated_at": "2018-08-24 16:19:54.532076",
+    "country": "United States",
+    "longitude": "-95.46266",
+    "latitude": "30.316443",
+    "tags": []
+  },
+  {
+    "id": "southern-star-brewing",
+    "name": "Southern Star Brewing",
+    "brewery_type": "micro",
+    "street": "3525 N Frazier St",
+    "city": "Conroe",
+    "state": "Texas",
+    "postal_code": "77303-1430",
+    "website_url": "http://www.southernstarbrewing.com",
+    "phone": "9364412739",
+    "created_at": "2018-07-24 01:34:21.380332",
+    "updated_at": "2018-08-24 16:23:19.578875",
+    "country": "United States",
+    "longitude": "-95.4776897",
+    "latitude": "30.3587546",
+    "tags": []
+  }
+]

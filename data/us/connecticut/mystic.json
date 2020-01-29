@@ -1,0 +1,19 @@
+[
+  {
+    "id": "barley-head-brewery",
+    "name": "Barley Head Brewery",
+    "brewery_type": "micro",
+    "street": "12 Water St 1A",
+    "city": "Mystic",
+    "state": "Connecticut",
+    "postal_code": "06355",
+    "website_url": "http://www.barleyheadbrewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:09.094995",
+    "updated_at": "2018-08-11 21:36:45.240309",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

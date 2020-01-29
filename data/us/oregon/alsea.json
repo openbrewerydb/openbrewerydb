@@ -1,0 +1,19 @@
+[
+  {
+    "id": "siuslaw-brewing",
+    "name": "Siuslaw Brewing",
+    "brewery_type": "micro",
+    "street": "16558 Alsea Hwy",
+    "city": "Alsea",
+    "state": "Oregon",
+    "postal_code": "97324-9624",
+    "website_url": "",
+    "phone": "5417401606",
+    "created_at": "2018-07-24 01:34:07.832095",
+    "updated_at": "2018-08-24 16:04:56.528694",
+    "country": "United States",
+    "longitude": "-123.690664523597",
+    "latitude": "44.3533590022341",
+    "tags": []
+  }
+]

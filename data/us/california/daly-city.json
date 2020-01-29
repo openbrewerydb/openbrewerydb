@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brewery-in-planning-daly-city",
+    "name": "Brewery In Planning - Daly City",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Daly City",
+    "state": "California",
+    "postal_code": "94015",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:53.092935",
+    "updated_at": "2018-08-23 23:26:02.799835",
+    "country": "United States",
+    "longitude": "-122.4619205",
+    "latitude": "37.7057671",
+    "tags": []
+  }
+]

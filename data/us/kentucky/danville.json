@@ -1,0 +1,19 @@
+[
+  {
+    "id": "beer-engine",
+    "name": "Beer Engine",
+    "brewery_type": "micro",
+    "street": "107 Larrimore Ln",
+    "city": "Danville",
+    "state": "Kentucky",
+    "postal_code": "40422-1674",
+    "website_url": "http://www.kybeerengine.com",
+    "phone": "5024035680",
+    "created_at": "2018-07-24 01:33:25.348699",
+    "updated_at": "2018-08-24 00:38:43.030053",
+    "country": "United States",
+    "longitude": "-84.771328",
+    "latitude": "37.6481",
+    "tags": []
+  }
+]

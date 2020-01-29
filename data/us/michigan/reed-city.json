@@ -1,0 +1,19 @@
+[
+  {
+    "id": "reed-city-brewing-company",
+    "name": "Reed City Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "141 W Upton Ave",
+    "city": "Reed City",
+    "state": "Michigan",
+    "postal_code": "49677-1129",
+    "website_url": "",
+    "phone": "2314654222",
+    "created_at": "2018-07-24 01:33:36.253389",
+    "updated_at": "2018-08-24 00:43:58.697296",
+    "country": "United States",
+    "longitude": "-85.5107197555876",
+    "latitude": "43.875878999073",
+    "tags": []
+  }
+]

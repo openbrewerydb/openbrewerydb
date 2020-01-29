@@ -1,0 +1,19 @@
+[
+  {
+    "id": "border-town-pub",
+    "name": "Border Town Pub",
+    "brewery_type": "brewpub",
+    "street": "22 N Dixie Hwy # 28",
+    "city": "Momence",
+    "state": "Illinois",
+    "postal_code": "60954-1504",
+    "website_url": "http://www.BorderTownPub.com",
+    "phone": "8154724340",
+    "created_at": "2018-07-24 01:33:18.300795",
+    "updated_at": "2018-08-24 00:30:38.011821",
+    "country": "United States",
+    "longitude": "-87.6626183466064",
+    "latitude": "41.162382749025",
+    "tags": []
+  }
+]

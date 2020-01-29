@@ -1,0 +1,19 @@
+[
+  {
+    "id": "s-and-s-farm-brewery",
+    "name": "S & S Farm Brewery",
+    "brewery_type": "micro",
+    "street": "174 Middle Rd",
+    "city": "Nassau",
+    "state": "New York",
+    "postal_code": "12123",
+    "website_url": "http://www.sandsbrewery.com",
+    "phone": "5183360766",
+    "created_at": "2018-07-24 01:33:53.282637",
+    "updated_at": "2018-08-24 15:40:09.959191",
+    "country": "United States",
+    "longitude": "-73.5726398153558",
+    "latitude": "42.49050535",
+    "tags": []
+  }
+]

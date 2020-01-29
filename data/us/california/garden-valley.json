@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stash-brewing-co",
+    "name": "Stash Brewing Co",
+    "brewery_type": "micro",
+    "street": "3782 Winding Creek Ln",
+    "city": "Garden Valley",
+    "state": "California",
+    "postal_code": "95633-9773",
+    "website_url": "http://stashbrewingco.com",
+    "phone": "4156804181",
+    "created_at": "2018-07-24 01:33:01.318186",
+    "updated_at": "2018-08-11 21:36:22.517315",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

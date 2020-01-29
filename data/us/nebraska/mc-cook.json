@@ -1,0 +1,19 @@
+[
+  {
+    "id": "loop-brewing-co",
+    "name": "Loop Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "404 W A St",
+    "city": "Mc Cook",
+    "state": "Nebraska",
+    "postal_code": "69001-3516",
+    "website_url": "http://www.loopbrewingcompany.com",
+    "phone": "3083455198",
+    "created_at": "2018-07-24 01:33:43.833658",
+    "updated_at": "2018-08-11 21:38:15.816276",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

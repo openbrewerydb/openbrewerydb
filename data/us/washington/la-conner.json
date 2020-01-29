@@ -1,0 +1,19 @@
+[
+  {
+    "id": "la-conner-brewing-co",
+    "name": "La Conner Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "117 S 1st St",
+    "city": "La Conner",
+    "state": "Washington",
+    "postal_code": "98257",
+    "website_url": "http://www.laconnerbrewing.com",
+    "phone": "3604661415",
+    "created_at": "2018-07-24 01:34:30.675041",
+    "updated_at": "2018-08-11 21:40:18.62647",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

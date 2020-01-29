@@ -1,0 +1,19 @@
+[
+  {
+    "id": "steam-donkey-brewing-co",
+    "name": "Steam Donkey Brewing Co",
+    "brewery_type": "micro",
+    "street": "101 E Wishkah St",
+    "city": "Aberdeen",
+    "state": "Washington",
+    "postal_code": "98520-6503",
+    "website_url": "http://Steamdonkeybrewing.com",
+    "phone": "3606379431",
+    "created_at": "2018-07-24 01:34:33.008507",
+    "updated_at": "2018-08-24 16:39:40.211046",
+    "country": "United States",
+    "longitude": "-123.81773",
+    "latitude": "46.974242",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mountain-rambler-brewery",
+    "name": "Mountain Rambler Brewery",
+    "brewery_type": "micro",
+    "street": "186 S Main St",
+    "city": "Bishop",
+    "state": "California",
+    "postal_code": "93514-3415",
+    "website_url": "http://www.mountainramblerbrewery.com",
+    "phone": "7602581348",
+    "created_at": "2018-07-24 01:32:58.530148",
+    "updated_at": "2018-08-23 23:59:50.681961",
+    "country": "United States",
+    "longitude": "-118.3944494",
+    "latitude": "37.3606708",
+    "tags": []
+  }
+]

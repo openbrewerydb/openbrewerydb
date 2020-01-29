@@ -1,0 +1,19 @@
+[
+  {
+    "id": "railhouse-brewery",
+    "name": "Railhouse Brewery",
+    "brewery_type": "micro",
+    "street": "105 E South St Unit C",
+    "city": "Aberdeen",
+    "state": "North Carolina",
+    "postal_code": "28315-",
+    "website_url": "http://www.railhousebrewery.com",
+    "phone": "9107835280",
+    "created_at": "2018-07-24 01:33:57.874058",
+    "updated_at": "2018-08-11 21:38:51.787854",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

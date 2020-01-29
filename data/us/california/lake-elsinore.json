@@ -1,0 +1,36 @@
+[
+  {
+    "id": "craft-brewing-company",
+    "name": "Craft Brewing Company",
+    "brewery_type": "micro",
+    "street": "530 Crane St",
+    "city": "Lake Elsinore",
+    "state": "California",
+    "postal_code": "92530-2779",
+    "website_url": "http://www.craftbrewibgcompany.com",
+    "phone": "9516742562",
+    "created_at": "2018-07-24 01:32:54.180806",
+    "updated_at": "2018-08-23 23:27:06.203102",
+    "country": "United States",
+    "longitude": "-117.340248911765",
+    "latitude": "33.6867383235294",
+    "tags": []
+  },
+  {
+    "id": "stadium-pizza-main-st",
+    "name": "Stadium Pizza Main ST",
+    "brewery_type": "brewpub",
+    "street": "169 N Main St",
+    "city": "Lake Elsinore",
+    "state": "California",
+    "postal_code": "92530-4005",
+    "website_url": "http://www.stadiumpizza.com",
+    "phone": "9512282128",
+    "created_at": "2018-07-24 01:33:01.280826",
+    "updated_at": "2018-08-11 21:36:22.396937",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

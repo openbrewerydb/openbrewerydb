@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tucker-brewing-company",
+    "name": "Tucker Brewing Company",
+    "brewery_type": "micro",
+    "street": "2003 S Bibb Dr",
+    "city": "Tucker",
+    "state": "Georgia",
+    "postal_code": "30084-6240",
+    "website_url": "http://www.tuckerbrewing.com",
+    "phone": "8337522400",
+    "created_at": "2018-07-24 01:33:16.624197",
+    "updated_at": "2018-08-24 00:29:36.652788",
+    "country": "United States",
+    "longitude": "-84.2075880909091",
+    "latitude": "33.8426920909091",
+    "tags": []
+  }
+]

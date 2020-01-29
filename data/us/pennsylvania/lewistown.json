@@ -1,0 +1,19 @@
+[
+  {
+    "id": "shy-bear-brewing",
+    "name": "Shy Bear Brewing",
+    "brewery_type": "brewpub",
+    "street": "35 Meadowbrook Ln",
+    "city": "Lewistown",
+    "state": "Pennsylvania",
+    "postal_code": "17044-2802",
+    "website_url": "http://www.shybearbrewing.com",
+    "phone": "7174471701",
+    "created_at": "2018-07-24 01:34:12.602048",
+    "updated_at": "2018-08-11 21:39:31.243698",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

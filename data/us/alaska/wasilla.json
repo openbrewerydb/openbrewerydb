@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bearpaw-river-brewing-co",
+    "name": "Bearpaw River Brewing Co",
+    "brewery_type": "micro",
+    "street": "4605 E Palmer Wasilla Hwy",
+    "city": "Wasilla",
+    "state": "Alaska",
+    "postal_code": "99654-7679",
+    "website_url": "http://bearpawriverbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:47.967298",
+    "updated_at": "2018-08-23 23:20:40.743241",
+    "country": "United States",
+    "longitude": "-149.4127103",
+    "latitude": "61.5752695",
+    "tags": []
+  },
+  {
+    "id": "last-frontier-brewing-company",
+    "name": "Last Frontier Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "238 N Boundary St",
+    "city": "Wasilla",
+    "state": "Alaska",
+    "postal_code": "99654-7127",
+    "website_url": "",
+    "phone": "9073577200",
+    "created_at": "2018-07-24 01:32:48.342415",
+    "updated_at": "2018-08-23 23:20:59.705267",
+    "country": "United States",
+    "longitude": "-149.439553425176",
+    "latitude": "61.5814829990806",
+    "tags": []
+  },
+  {
+    "id": "quake-brewing-company-llc",
+    "name": "QUAKE! Brewing Company, LLC",
+    "brewery_type": "micro",
+    "street": "1540 N Shoreline Dr",
+    "city": "Wasilla",
+    "state": "Alaska",
+    "postal_code": "99654",
+    "website_url": "http://www.quakebrewingcompany.com",
+    "phone": "4048340997",
+    "created_at": "2018-07-24 01:32:48.394065",
+    "updated_at": "2018-08-11 21:35:45.990396",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

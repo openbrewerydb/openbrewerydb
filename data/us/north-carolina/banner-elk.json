@@ -1,0 +1,19 @@
+[
+  {
+    "id": "flat-top-mountain-brewery",
+    "name": "Flat Top Mountain Brewery",
+    "brewery_type": "micro",
+    "street": "567 Main St E",
+    "city": "Banner Elk",
+    "state": "North Carolina",
+    "postal_code": "28604-8974",
+    "website_url": "http://www.flattopbrew.com",
+    "phone": "8288988677",
+    "created_at": "2018-07-24 01:33:56.139058",
+    "updated_at": "2018-08-24 15:41:40.198474",
+    "country": "United States",
+    "longitude": "-81.8665760187748",
+    "latitude": "36.165102561231",
+    "tags": []
+  }
+]

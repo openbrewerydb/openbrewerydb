@@ -1,0 +1,19 @@
+[
+  {
+    "id": "white-birch-brewing",
+    "name": "White Birch Brewing",
+    "brewery_type": "micro",
+    "street": "1339 Hooksett Rd",
+    "city": "Hooksett",
+    "state": "New Hampshire",
+    "postal_code": "03106-1847",
+    "website_url": "http://www.whitebirchbrewing.com",
+    "phone": "6032448593",
+    "created_at": "2018-07-24 01:33:45.934798",
+    "updated_at": "2018-08-24 15:36:24.778587",
+    "country": "United States",
+    "longitude": "-71.4411445689989",
+    "latitude": "43.057125336169",
+    "tags": []
+  }
+]

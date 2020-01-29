@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brickside-brewery",
+    "name": "Brickside Brewery",
+    "brewery_type": "micro",
+    "street": "64 Gratiot Street",
+    "city": "Copper Harbor",
+    "state": "Michigan",
+    "postal_code": "49918",
+    "website_url": "http://www.bricksidebrewery.com",
+    "phone": "9062894772",
+    "created_at": "2018-07-24 01:33:33.502638",
+    "updated_at": "2018-08-11 21:37:47.159336",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

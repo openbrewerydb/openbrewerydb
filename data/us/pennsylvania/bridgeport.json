@@ -1,0 +1,19 @@
+[
+  {
+    "id": "conshohocken-brewing-bridgeport",
+    "name": "Conshohocken Brewing - Bridgeport",
+    "brewery_type": "brewpub",
+    "street": "3 DeKalb St",
+    "city": "Bridgeport",
+    "state": "Pennsylvania",
+    "postal_code": "19405-1074",
+    "website_url": "http://www.conshohockenbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:09.875114",
+    "updated_at": "2018-08-24 16:07:41.398668",
+    "country": "United States",
+    "longitude": "-75.3467908",
+    "latitude": "40.1057904",
+    "tags": []
+  }
+]

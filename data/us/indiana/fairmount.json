@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bad-dad-brewery",
+    "name": "Bad Dad Brewery",
+    "brewery_type": "micro",
+    "street": "407 W. Washington St. Ste. C",
+    "city": "Fairmount",
+    "state": "Indiana",
+    "postal_code": "46928",
+    "website_url": "http://www.baddadbrewery.com",
+    "phone": "7654990941",
+    "created_at": "2018-07-24 01:33:21.307776",
+    "updated_at": "2018-08-11 21:37:17.537502",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

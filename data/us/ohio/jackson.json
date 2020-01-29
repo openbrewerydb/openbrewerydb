@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sixth-sense-brewing-company",
+    "name": "Sixth Sense Brewing Company",
+    "brewery_type": "micro",
+    "street": "175 Main St.",
+    "city": "Jackson",
+    "state": "Ohio",
+    "postal_code": "45640",
+    "website_url": "http://www.sixthsensebrewing.com",
+    "phone": "7405773681",
+    "created_at": "2018-07-24 01:34:02.936537",
+    "updated_at": "2018-08-24 15:44:58.974477",
+    "country": "United States",
+    "longitude": "-82.6387643333333",
+    "latitude": "39.0532398888889",
+    "tags": []
+  }
+]

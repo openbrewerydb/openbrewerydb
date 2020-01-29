@@ -1,0 +1,36 @@
+[
+  {
+    "id": "catawba-brewing-co",
+    "name": "Catawba Brewing Co",
+    "brewery_type": "regional",
+    "street": "212 S Green St",
+    "city": "Morganton",
+    "state": "North Carolina",
+    "postal_code": "28655-3525",
+    "website_url": "http://www.CatawbaBrewing.com",
+    "phone": "8284306883",
+    "created_at": "2018-07-24 01:33:55.742569",
+    "updated_at": "2018-08-24 15:41:26.207857",
+    "country": "United States",
+    "longitude": "-81.6854369458732",
+    "latitude": "35.7447193415562",
+    "tags": []
+  },
+  {
+    "id": "fonta-flora-brewery",
+    "name": "Fonta Flora Brewery",
+    "brewery_type": "micro",
+    "street": "317 N Green St",
+    "city": "Morganton",
+    "state": "North Carolina",
+    "postal_code": "28655-3324",
+    "website_url": "http://www.fontaflora.com",
+    "phone": "8284750153",
+    "created_at": "2018-07-24 01:33:56.17832",
+    "updated_at": "2018-08-24 15:41:41.291583",
+    "country": "United States",
+    "longitude": "-81.6909377667023",
+    "latitude": "35.7476204",
+    "tags": []
+  }
+]

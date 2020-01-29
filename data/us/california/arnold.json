@@ -1,0 +1,19 @@
+[
+  {
+    "id": "snowshoe-brewing-co",
+    "name": "Snowshoe Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "2050 Hwy 4",
+    "city": "Arnold",
+    "state": "California",
+    "postal_code": "95223",
+    "website_url": "http://www.snowshoebrewing.com",
+    "phone": "2097952272",
+    "created_at": "2018-07-24 01:33:00.959568",
+    "updated_at": "2018-08-24 00:02:39.385762",
+    "country": "United States",
+    "longitude": "-120.3617024",
+    "latitude": "38.2423881",
+    "tags": []
+  }
+]

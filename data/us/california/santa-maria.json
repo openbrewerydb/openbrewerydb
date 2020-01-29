@@ -1,0 +1,53 @@
+[
+  {
+    "id": "coastal-star-brewing-company",
+    "name": "Coastal Star Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Santa Maria",
+    "state": "California",
+    "postal_code": "93455-1722",
+    "website_url": "http://www.coastalstarbrewing.com",
+    "phone": "8053284677",
+    "created_at": "2018-07-24 01:32:53.951254",
+    "updated_at": "2018-08-23 23:26:52.72576",
+    "country": "United States",
+    "longitude": "-120.4358577",
+    "latitude": "34.9531295",
+    "tags": []
+  },
+  {
+    "id": "santa-maria-brewing-co",
+    "name": "Santa Maria Brewing Co",
+    "brewery_type": "micro",
+    "street": "1451 Fairway Dr",
+    "city": "Santa Maria",
+    "state": "California",
+    "postal_code": "93455-1404",
+    "website_url": "http://www.santamariabrewingco.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:00.546676",
+    "updated_at": "2018-08-11 21:36:19.622069",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "shanty-irish-brewing-company/rooneys-irish-pub",
+    "name": "Shanty Irish Brewing Company/Rooney's Irish Pub",
+    "brewery_type": "brewpub",
+    "street": "241 S Broadway St",
+    "city": "Santa Maria",
+    "state": "California",
+    "postal_code": "93455-4657",
+    "website_url": "http://www.rooneysirishpub.net",
+    "phone": "8059343777",
+    "created_at": "2018-07-24 01:33:00.762621",
+    "updated_at": "2018-08-11 21:36:20.696586",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

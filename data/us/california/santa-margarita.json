@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dunbar-brewing",
+    "name": "Dunbar Brewing",
+    "brewery_type": "micro",
+    "street": "2200 El Camino Real",
+    "city": "Santa Margarita",
+    "state": "California",
+    "postal_code": "93453-8668",
+    "website_url": "",
+    "phone": "8057049050",
+    "created_at": "2018-07-24 01:32:54.700115",
+    "updated_at": "2018-08-23 23:27:41.376758",
+    "country": "United States",
+    "longitude": "-120.6112948",
+    "latitude": "35.389717",
+    "tags": []
+  }
+]

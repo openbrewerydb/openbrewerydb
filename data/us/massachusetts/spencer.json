@@ -1,0 +1,19 @@
+[
+  {
+    "id": "spencer-brewery",
+    "name": "Spencer Brewery",
+    "brewery_type": "micro",
+    "street": "167 N Spencer Rd",
+    "city": "Spencer",
+    "state": "Massachusetts",
+    "postal_code": "01562-1232",
+    "website_url": "http://www.spencerbrewery.com",
+    "phone": "5088855756",
+    "created_at": "2018-07-24 01:33:32.036292",
+    "updated_at": "2018-08-24 00:41:48.673239",
+    "country": "United States",
+    "longitude": "-72.0133159",
+    "latitude": "42.2976331",
+    "tags": []
+  }
+]

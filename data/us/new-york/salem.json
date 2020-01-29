@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rs-taylor-and-sons-brewery",
+    "name": "R.S. Taylor & Sons Brewery",
+    "brewery_type": "brewpub",
+    "street": "3602 County Route 30",
+    "city": "Salem",
+    "state": "New York",
+    "postal_code": "12865-4702",
+    "website_url": "http://www.rstaylorbrewing.com",
+    "phone": "5182090474",
+    "created_at": "2018-07-24 01:33:52.919216",
+    "updated_at": "2018-08-24 15:39:58.316959",
+    "country": "United States",
+    "longitude": "-73.360912",
+    "latitude": "43.175335",
+    "tags": []
+  }
+]

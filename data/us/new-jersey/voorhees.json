@@ -1,0 +1,19 @@
+[
+  {
+    "id": "iron-hill-brewery-and-restaurant-voorhees",
+    "name": "Iron Hill Brewery & Restaurant - Voorhees",
+    "brewery_type": "brewpub",
+    "street": "13107 Town Center Blvd",
+    "city": "Voorhees",
+    "state": "New Jersey",
+    "postal_code": "08043-2668",
+    "website_url": "http://www.ironhillbrewery.com",
+    "phone": "3028882739",
+    "created_at": "2018-07-24 01:33:46.923323",
+    "updated_at": "2018-08-24 15:36:52.858453",
+    "country": "United States",
+    "longitude": "-74.9979656",
+    "latitude": "39.8524026",
+    "tags": []
+  }
+]

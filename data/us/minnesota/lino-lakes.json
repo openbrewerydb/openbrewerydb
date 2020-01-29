@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hammerheart-brewing-company",
+    "name": "HammerHeart Brewing Company",
+    "brewery_type": "micro",
+    "street": "7785 Lake Dr",
+    "city": "Lino Lakes",
+    "state": "Minnesota",
+    "postal_code": "55014-1109",
+    "website_url": "http://www.hammerheartbrewing.com",
+    "phone": "6513482654",
+    "created_at": "2018-07-24 01:33:38.715009",
+    "updated_at": "2018-08-24 00:45:19.341259",
+    "country": "United States",
+    "longitude": "-93.1064135",
+    "latitude": "45.1890903",
+    "tags": []
+  }
+]

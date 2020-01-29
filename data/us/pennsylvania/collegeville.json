@@ -1,0 +1,36 @@
+[
+  {
+    "id": "appalachian-brewing-co-collegeville",
+    "name": "Appalachian Brewing Co - Collegeville",
+    "brewery_type": "brewpub",
+    "street": "50 W Third Ave Collegeville Station 2nd Floor",
+    "city": "Collegeville",
+    "state": "Pennsylvania",
+    "postal_code": "19426-3655",
+    "website_url": "http://www.abcbrew.com",
+    "phone": "4849736064",
+    "created_at": "2018-07-24 01:34:08.728814",
+    "updated_at": "2018-08-11 21:39:22.065512",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "intercourse-brewing-co",
+    "name": "Intercourse Brewing Co",
+    "brewery_type": "contract",
+    "street": "4166 Ironbridge Dr",
+    "city": "Collegeville",
+    "state": "Pennsylvania",
+    "postal_code": "19426-1188",
+    "website_url": "http://www.intercoursebrewingco.com",
+    "phone": "6108129426",
+    "created_at": "2018-07-24 01:34:10.984952",
+    "updated_at": "2018-08-11 21:39:27.525768",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

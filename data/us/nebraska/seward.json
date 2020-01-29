@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bottle-rocket-brewing-co",
+    "name": "Bottle Rocket Brewing Co",
+    "brewery_type": "micro",
+    "street": "230 S 5th St",
+    "city": "Seward",
+    "state": "Nebraska",
+    "postal_code": "68434-2520",
+    "website_url": "http://www.bottlerocketbrewing.com",
+    "phone": "4023045673",
+    "created_at": "2018-07-24 01:33:43.436028",
+    "updated_at": "2018-08-24 00:47:34.591596",
+    "country": "United States",
+    "longitude": "-97.0977755131352",
+    "latitude": "40.9062956397693",
+    "tags": []
+  }
+]

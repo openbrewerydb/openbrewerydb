@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fall-river-brewing-company",
+    "name": "Fall River Brewing Company",
+    "brewery_type": "micro",
+    "street": "24339 State Highway 89",
+    "city": "Burney",
+    "state": "California",
+    "postal_code": "96013-9615",
+    "website_url": "http://www.fallriverbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:55.232529",
+    "updated_at": "2018-08-11 21:36:03.194374",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-in-planning-bristol",
+    "name": "Brewery in Planning - Bristol",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Bristol",
+    "state": "Connecticut",
+    "postal_code": "06010-7955",
+    "website_url": "http://www.hopculturefarms.com",
+    "phone": "8603059556",
+    "created_at": "2018-07-24 01:33:09.18522",
+    "updated_at": "2018-08-11 21:36:45.456847",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "firefly-hollow-brewing-co",
+    "name": "Firefly Hollow Brewing Co.",
+    "brewery_type": "micro",
+    "street": "139 Center St Ste 5005",
+    "city": "Bristol",
+    "state": "Connecticut",
+    "postal_code": "06010-5086",
+    "website_url": "http://www.fireflyhollowbrewing.com",
+    "phone": "8608458977",
+    "created_at": "2018-07-24 01:33:09.566212",
+    "updated_at": "2018-08-11 21:36:46.413843",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

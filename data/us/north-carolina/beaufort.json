@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mill-whistle-brewing",
+    "name": "Mill Whistle Brewing",
+    "brewery_type": "micro",
+    "street": "1354 Lennoxville Rd",
+    "city": "Beaufort",
+    "state": "North Carolina",
+    "postal_code": "28616",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:57.228579",
+    "updated_at": "2018-08-24 15:42:13.359243",
+    "country": "United States",
+    "longitude": "-76.6504293369565",
+    "latitude": "34.7173879891304",
+    "tags": []
+  }
+]

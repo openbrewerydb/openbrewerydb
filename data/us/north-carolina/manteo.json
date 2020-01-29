@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lost-colony-brewery-and-cafe",
+    "name": "Lost Colony Brewery and Cafe",
+    "brewery_type": "brewpub",
+    "street": "208 Queen Elizabeth Ave",
+    "city": "Manteo",
+    "state": "North Carolina",
+    "postal_code": "27954-",
+    "website_url": "http://www.lostcolonybrewery.com",
+    "phone": "2524736666",
+    "created_at": "2018-07-24 01:33:57.06659",
+    "updated_at": "2018-08-24 15:42:08.698662",
+    "country": "United States",
+    "longitude": "-75.6695447386708",
+    "latitude": "35.90949405",
+    "tags": []
+  }
+]

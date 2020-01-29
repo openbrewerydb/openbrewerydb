@@ -1,0 +1,53 @@
+[
+  {
+    "id": "fore-river-brewing-company",
+    "name": "Fore River Brewing Company",
+    "brewery_type": "micro",
+    "street": "45 Huntress Ave",
+    "city": "South Portland",
+    "state": "Maine",
+    "postal_code": "04106-4115",
+    "website_url": "http://www.foreriverbrewing.com",
+    "phone": "2073700629",
+    "created_at": "2018-07-24 01:33:27.090327",
+    "updated_at": "2018-08-24 00:39:42.896808",
+    "country": "United States",
+    "longitude": "-70.2876710514231",
+    "latitude": "43.6324906649993",
+    "tags": []
+  },
+  {
+    "id": "foulmouthed-brewing",
+    "name": "Foulmouthed Brewing",
+    "brewery_type": "brewpub",
+    "street": "15 Ocean St",
+    "city": "South Portland",
+    "state": "Maine",
+    "postal_code": "04106-2838",
+    "website_url": "http://www.foulmouthedbrewing.com",
+    "phone": "2076186977",
+    "created_at": "2018-07-24 01:33:27.101971",
+    "updated_at": "2018-08-24 00:39:43.338415",
+    "country": "United States",
+    "longitude": "-70.2548007",
+    "latitude": "43.640989",
+    "tags": []
+  },
+  {
+    "id": "island-dog-brewing",
+    "name": "Island Dog Brewing",
+    "brewery_type": "micro",
+    "street": "125 John Roberts Rd",
+    "city": "South Portland",
+    "state": "Maine",
+    "postal_code": "04106-3295",
+    "website_url": "http://www.islanddogbrewing.com",
+    "phone": "2073300283",
+    "created_at": "2018-07-24 01:33:27.318983",
+    "updated_at": "2018-08-24 00:39:50.726004",
+    "country": "United States",
+    "longitude": "-70.3310144167096",
+    "latitude": "43.6305938611312",
+    "tags": []
+  }
+]

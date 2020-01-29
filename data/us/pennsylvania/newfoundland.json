@@ -1,0 +1,19 @@
+[
+  {
+    "id": "jam-room-brewing-co",
+    "name": "Jam Room Brewing Co",
+    "brewery_type": "micro",
+    "street": "875 Main St",
+    "city": "Newfoundland",
+    "state": "Pennsylvania",
+    "postal_code": "18445-5210",
+    "website_url": "http://www.jamroombrewing.net",
+    "phone": "5702526122",
+    "created_at": "2018-07-24 01:34:11.126554",
+    "updated_at": "2018-08-24 16:09:35.755638",
+    "country": "United States",
+    "longitude": "-75.324159716456",
+    "latitude": "41.3014372011081",
+    "tags": []
+  }
+]

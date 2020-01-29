@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hemlock-state-brewing-company",
+    "name": "Hemlock State Brewing Company",
+    "brewery_type": "micro",
+    "street": "18305 Sunnyside Ave N",
+    "city": "Shoreline",
+    "state": "Washington",
+    "postal_code": "98133-4627",
+    "website_url": "http://www.hemlockstate.com",
+    "phone": "2062261028",
+    "created_at": "2018-07-24 01:34:30.330006",
+    "updated_at": "2018-08-24 16:35:39.441888",
+    "country": "United States",
+    "longitude": "-122.331134015984",
+    "latitude": "47.7616169220104",
+    "tags": []
+  }
+]

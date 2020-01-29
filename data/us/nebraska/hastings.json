@@ -1,0 +1,36 @@
+[
+  {
+    "id": "first-street-brewing",
+    "name": "First Street Brewing",
+    "brewery_type": "micro",
+    "street": "119 N St Joseph Ave",
+    "city": "Hastings",
+    "state": "Nebraska",
+    "postal_code": "68901-7553",
+    "website_url": "http://www.firststreetbrewing.com",
+    "phone": "4028342400",
+    "created_at": "2018-07-24 01:33:43.58257",
+    "updated_at": "2018-08-24 00:47:38.449822",
+    "country": "United States",
+    "longitude": "-98.3877197959184",
+    "latitude": "40.5844988979592",
+    "tags": []
+  },
+  {
+    "id": "steeple-brewing-co",
+    "name": "Steeple Brewing Co",
+    "brewery_type": "micro",
+    "street": "717 W 1st St",
+    "city": "Hastings",
+    "state": "Nebraska",
+    "postal_code": "68901",
+    "website_url": "http://www.steeplebrewing.com",
+    "phone": "4025194205",
+    "created_at": "2018-07-24 01:33:44.049551",
+    "updated_at": "2018-08-24 00:47:50.280908",
+    "country": "United States",
+    "longitude": "-98.3902497346939",
+    "latitude": "40.5841823265306",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hawksbill-brewing-company",
+    "name": "Hawksbill Brewing Company",
+    "brewery_type": "micro",
+    "street": "22 Zerkel St",
+    "city": "Luray",
+    "state": "Virginia",
+    "postal_code": "22835-1913",
+    "website_url": "http://www.hawksbillbrewing.com",
+    "phone": "5408605608",
+    "created_at": "2018-07-24 01:34:25.599391",
+    "updated_at": "2018-08-24 16:29:02.826863",
+    "country": "United States",
+    "longitude": "-78.4597004474807",
+    "latitude": "38.6633577355226",
+    "tags": []
+  }
+]

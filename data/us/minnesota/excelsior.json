@@ -1,0 +1,19 @@
+[
+  {
+    "id": "excelsior-brewing-co",
+    "name": "Excelsior Brewing Co",
+    "brewery_type": "micro",
+    "street": "421 3rd St Ste 3",
+    "city": "Excelsior",
+    "state": "Minnesota",
+    "postal_code": "55331-2008",
+    "website_url": "http://www.excelsiorbrew.com",
+    "phone": "9524747837",
+    "created_at": "2018-07-24 01:33:38.375879",
+    "updated_at": "2018-08-11 21:38:01.529892",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

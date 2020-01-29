@@ -1,0 +1,36 @@
+[
+  {
+    "id": "apponaug-brewing",
+    "name": "Apponaug Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Warwick",
+    "state": "Rhode Island",
+    "postal_code": "02886",
+    "website_url": "http://www.apponaugbrewing.com",
+    "phone": "4013840512",
+    "created_at": "2018-07-24 01:34:13.65004",
+    "updated_at": "2018-08-11 21:39:33.75519",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "proclamation-ale-company",
+    "name": "Proclamation Ale Company",
+    "brewery_type": "micro",
+    "street": "298 Kilvert Street",
+    "city": "Warwick",
+    "state": "Rhode Island",
+    "postal_code": "02886",
+    "website_url": "http://www.proclamationaleco.com",
+    "phone": "4017876450",
+    "created_at": "2018-07-24 01:34:13.807839",
+    "updated_at": "2018-08-24 16:13:47.906211",
+    "country": "United States",
+    "longitude": "-71.445959",
+    "latitude": "41.730117",
+    "tags": []
+  }
+]

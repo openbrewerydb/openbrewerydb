@@ -1,0 +1,19 @@
+[
+  {
+    "id": "reads-landing-brewing-co",
+    "name": "Reads Landing Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "70555 202nd Ave",
+    "city": "Reads Landing",
+    "state": "Minnesota",
+    "postal_code": "55968-6842",
+    "website_url": "http://www.rlbrewingco.com",
+    "phone": "6515604777",
+    "created_at": "2018-07-24 01:33:39.427793",
+    "updated_at": "2018-08-11 21:38:04.305564",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

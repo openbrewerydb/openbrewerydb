@@ -1,0 +1,19 @@
+[
+  {
+    "id": "helderberg-mountain-brewing-company",
+    "name": "Helderberg Mountain Brewing Company",
+    "brewery_type": "micro",
+    "street": "83 Main St",
+    "city": "East Berne",
+    "state": "New York",
+    "postal_code": "12059-2020",
+    "website_url": "http://www.helderbergmountainbrewingcompany.com",
+    "phone": "5189373606",
+    "created_at": "2018-07-24 01:33:51.588051",
+    "updated_at": "2018-08-24 15:39:17.951531",
+    "country": "United States",
+    "longitude": "-74.0730607857677",
+    "latitude": "42.6150962690438",
+    "tags": []
+  }
+]

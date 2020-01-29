@@ -1,0 +1,19 @@
+[
+  {
+    "id": "scratchtown-brewing-company",
+    "name": "Scratchtown Brewing Company",
+    "brewery_type": "micro",
+    "street": "141 S 16th St",
+    "city": "Ord",
+    "state": "Nebraska",
+    "postal_code": "68862-1415",
+    "website_url": "http://www.scratchtownbrewingcompany.com",
+    "phone": "3087285050",
+    "created_at": "2018-07-24 01:33:44.005199",
+    "updated_at": "2018-08-24 00:47:48.852036",
+    "country": "United States",
+    "longitude": "-98.9294030925698",
+    "latitude": "41.6025300572648",
+    "tags": []
+  }
+]

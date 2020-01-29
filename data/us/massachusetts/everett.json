@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bone-up-brewing-co",
+    "name": "Bone Up Brewing Co.",
+    "brewery_type": "micro",
+    "street": "38 Norman St",
+    "city": "Everett",
+    "state": "Massachusetts",
+    "postal_code": "02149-1932",
+    "website_url": "http://www.boneup.beer",
+    "phone": "7816919092",
+    "created_at": "2018-07-24 01:33:30.323267",
+    "updated_at": "2018-08-24 00:41:06.198098",
+    "country": "United States",
+    "longitude": "-71.0663396",
+    "latitude": "42.405551",
+    "tags": []
+  },
+  {
+    "id": "down-the-road-brewery",
+    "name": "Down the Road Brewery",
+    "brewery_type": "micro",
+    "street": "199 Ashland Street",
+    "city": "Everett",
+    "state": "Massachusetts",
+    "postal_code": "02149",
+    "website_url": "http://www.downtheroadbrewery.com",
+    "phone": "6174544255",
+    "created_at": "2018-07-24 01:33:30.924855",
+    "updated_at": "2018-08-24 00:41:17.302149",
+    "country": "United States",
+    "longitude": "-71.061481",
+    "latitude": "42.397645",
+    "tags": []
+  },
+  {
+    "id": "night-shift-brewing-inc",
+    "name": "Night Shift Brewing, Inc",
+    "brewery_type": "regional",
+    "street": "87 Santilli Hwy",
+    "city": "Everett",
+    "state": "Massachusetts",
+    "postal_code": "02149-1906",
+    "website_url": "http://www.nightshiftbrewing.com",
+    "phone": "6172944233",
+    "created_at": "2018-07-24 01:33:31.58515",
+    "updated_at": "2018-08-24 00:41:35.783207",
+    "country": "United States",
+    "longitude": "-71.0677001",
+    "latitude": "42.4059393",
+    "tags": []
+  }
+]

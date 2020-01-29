@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tighthead-brewing-co",
+    "name": "Tighthead Brewing Co",
+    "brewery_type": "micro",
+    "street": "161 N Archer Ave",
+    "city": "Mundelein",
+    "state": "Illinois",
+    "postal_code": "60060-2301",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:20.87954",
+    "updated_at": "2018-08-24 00:32:14.411005",
+    "country": "United States",
+    "longitude": "-88.0011758380181",
+    "latitude": "42.2662639857079",
+    "tags": []
+  }
+]

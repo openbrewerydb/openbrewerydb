@@ -1,0 +1,19 @@
+[
+  {
+    "id": "galena-brewing-co",
+    "name": "Galena Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "227 N Main St Ste 101",
+    "city": "Galena",
+    "state": "Illinois",
+    "postal_code": "61036-2217",
+    "website_url": "http://www.galenabrewery.com",
+    "phone": "8152759469",
+    "created_at": "2018-07-24 01:33:18.926643",
+    "updated_at": "2018-08-11 21:37:10.882635",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "towerhill-brewery",
+    "name": "Towerhill Brewery",
+    "brewery_type": "brewpub",
+    "street": "237 W Butler Ave",
+    "city": "Chalfont",
+    "state": "Pennsylvania",
+    "postal_code": "18914-3020",
+    "website_url": "http://www.towerhillbrewery.com",
+    "phone": "2158228788",
+    "created_at": "2018-07-24 01:34:13.195791",
+    "updated_at": "2018-08-24 16:12:51.654416",
+    "country": "United States",
+    "longitude": "-75.21378230705",
+    "latitude": "40.2798437775317",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "new-corner-brewing-company",
+    "name": "New Corner Brewing Company",
+    "brewery_type": "micro",
+    "street": "1900 W Mt Pleasant Blvd Ste G",
+    "city": "Muncie",
+    "state": "Indiana",
+    "postal_code": "47302-9566",
+    "website_url": "http://www.newcornerbrewing.com",
+    "phone": "7657304376",
+    "created_at": "2018-07-24 01:33:22.508099",
+    "updated_at": "2018-08-11 21:37:20.626778",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "the-guardian-brewing-company",
+    "name": "The Guardian Brewing Company",
+    "brewery_type": "micro",
+    "street": "514 E Jackson Street",
+    "city": "Muncie",
+    "state": "Indiana",
+    "postal_code": "47305",
+    "website_url": "http://www.theguardianbrewingco.com",
+    "phone": "7652738918",
+    "created_at": "2018-07-24 01:33:22.963669",
+    "updated_at": "2018-08-24 00:33:28.613086",
+    "country": "United States",
+    "longitude": "-85.3814878571429",
+    "latitude": "40.1928128571429",
+    "tags": []
+  }
+]

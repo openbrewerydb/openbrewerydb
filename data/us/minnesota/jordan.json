@@ -1,0 +1,19 @@
+[
+  {
+    "id": "roets-jordan-brewery-co",
+    "name": "Roets Jordan Brewery Co.",
+    "brewery_type": "brewpub",
+    "street": "230 Broadway St S",
+    "city": "Jordan",
+    "state": "Minnesota",
+    "postal_code": "55352-1508",
+    "website_url": "http://www.roetsjordanbrewery.com",
+    "phone": "9524068865",
+    "created_at": "2018-07-24 01:33:39.478486",
+    "updated_at": "2018-08-24 00:45:42.926419",
+    "country": "United States",
+    "longitude": "-93.6261836805575",
+    "latitude": "44.6659379995722",
+    "tags": []
+  }
+]

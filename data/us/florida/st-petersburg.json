@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cycle-brewing",
+    "name": "Cycle Brewing",
+    "brewery_type": "micro",
+    "street": "534 Central Ave",
+    "city": "St Petersburg",
+    "state": "Florida",
+    "postal_code": "33701-3704",
+    "website_url": "http://www.cyclebrewing.com",
+    "phone": "7273207954",
+    "created_at": "2018-07-24 01:33:12.388697",
+    "updated_at": "2018-08-24 00:26:59.053621",
+    "country": "United States",
+    "longitude": "-82.6409282",
+    "latitude": "27.7709069",
+    "tags": []
+  },
+  {
+    "id": "flying-boat-brewing-company",
+    "name": "Flying Boat Brewing Company",
+    "brewery_type": "micro",
+    "street": "1776 11th Ave N",
+    "city": "St Petersburg",
+    "state": "Florida",
+    "postal_code": "33713-5747",
+    "website_url": "http://www.flyingboatbrewing.com",
+    "phone": "7278002999",
+    "created_at": "2018-07-24 01:33:12.834065",
+    "updated_at": "2018-08-24 00:27:16.044615",
+    "country": "United States",
+    "longitude": "-82.657199693093",
+    "latitude": "27.7828457080974",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "blue-pike-cantina",
+    "name": "Blue Pike Cantina",
+    "brewery_type": "brewpub",
+    "street": "152 S Water St",
+    "city": "Marine City",
+    "state": "Michigan",
+    "postal_code": "48039-1687",
+    "website_url": "",
+    "phone": "8107654200",
+    "created_at": "2018-07-24 01:33:33.248711",
+    "updated_at": "2018-08-24 00:42:23.643447",
+    "country": "United States",
+    "longitude": "-82.4908566938775",
+    "latitude": "42.718295755102",
+    "tags": []
+  }
+]

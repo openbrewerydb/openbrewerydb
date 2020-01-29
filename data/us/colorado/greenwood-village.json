@@ -1,0 +1,36 @@
+[
+  {
+    "id": "dive-bar-brewing-company",
+    "name": "Dive Bar Brewing Company",
+    "brewery_type": "proprietor",
+    "street": "5994 S Holly Street #146",
+    "city": "Greenwood Village",
+    "state": "Colorado",
+    "postal_code": "80111",
+    "website_url": "http://divebarbeer.com",
+    "phone": "3039134355",
+    "created_at": "2018-07-24 01:33:05.066565",
+    "updated_at": "2018-08-11 21:36:34.940213",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "peak-view-brewing-company",
+    "name": "Peak View Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Greenwood Village",
+    "state": "Colorado",
+    "postal_code": "80112",
+    "website_url": "http://www.peakviewbrewing.com",
+    "phone": "3036418731",
+    "created_at": "2018-07-24 01:33:07.053786",
+    "updated_at": "2018-08-11 21:36:40.239228",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

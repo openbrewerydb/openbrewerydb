@@ -1,0 +1,53 @@
+[
+  {
+    "id": "destihl-normal",
+    "name": "DESTIHL - Normal",
+    "brewery_type": "brewpub",
+    "street": "318 S Towanda Ave",
+    "city": "Normal",
+    "state": "Illinois",
+    "postal_code": "61761-2212",
+    "website_url": "http://www.destihl.com",
+    "phone": "3098622337",
+    "created_at": "2018-07-24 01:33:18.628516",
+    "updated_at": "2018-08-24 00:30:47.457585",
+    "country": "United States",
+    "longitude": "-88.960562",
+    "latitude": "40.509706",
+    "tags": []
+  },
+  {
+    "id": "destihl-brewery",
+    "name": "DESTIHL Brewery",
+    "brewery_type": "micro",
+    "street": "1200 Greenbriar Dr",
+    "city": "Normal",
+    "state": "Illinois",
+    "postal_code": "61761-6459",
+    "website_url": "http://www.destihl.com",
+    "phone": "3092209901",
+    "created_at": "2018-07-24 01:33:18.640768",
+    "updated_at": "2018-08-24 00:30:47.973211",
+    "country": "United States",
+    "longitude": "-88.9459821114408",
+    "latitude": "40.52905465",
+    "tags": []
+  },
+  {
+    "id": "white-oak-brewing",
+    "name": "White Oak Brewing",
+    "brewery_type": "micro",
+    "street": "1801 Industrial Park Dr",
+    "city": "Normal",
+    "state": "Illinois",
+    "postal_code": "61761-4378",
+    "website_url": "http://www.WhiteOak.beer",
+    "phone": "3098284077",
+    "created_at": "2018-07-24 01:33:21.088555",
+    "updated_at": "2018-08-24 00:32:22.303047",
+    "country": "United States",
+    "longitude": "-89.023233",
+    "latitude": "40.4987",
+    "tags": []
+  }
+]

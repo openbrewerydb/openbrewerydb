@@ -1,0 +1,36 @@
+[
+  {
+    "id": "conclave-brewing",
+    "name": "Conclave Brewing",
+    "brewery_type": "micro",
+    "street": "15 Minneakoning Rd Ste 202",
+    "city": "Flemington",
+    "state": "New Jersey",
+    "postal_code": "08822-5750",
+    "website_url": "http://www.conclavebrewing.com",
+    "phone": "9083920893",
+    "created_at": "2018-07-24 01:33:46.490515",
+    "updated_at": "2018-08-24 15:36:39.318913",
+    "country": "United States",
+    "longitude": "-74.8420790011065",
+    "latitude": "40.531329329239",
+    "tags": []
+  },
+  {
+    "id": "lone-eagle-brewing",
+    "name": "Lone Eagle Brewing",
+    "brewery_type": "brewpub",
+    "street": "44 Stangl Rd",
+    "city": "Flemington",
+    "state": "New Jersey",
+    "postal_code": "08822-1581",
+    "website_url": "http://loneeaglebrewing.com",
+    "phone": "9082372255",
+    "created_at": "2018-07-24 01:33:47.058797",
+    "updated_at": "2018-08-24 15:36:57.137807",
+    "country": "United States",
+    "longitude": "-74.8626657293505",
+    "latitude": "40.505374068364",
+    "tags": []
+  }
+]

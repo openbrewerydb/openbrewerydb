@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kaweah-brewing-co",
+    "name": "Kaweah Brewing Co.",
+    "brewery_type": "micro",
+    "street": "1054 E Walnut Ave",
+    "city": "Tulare",
+    "state": "California",
+    "postal_code": "93274",
+    "website_url": "http://www.kaweahbrewing.com",
+    "phone": "5599725573",
+    "created_at": "2018-07-24 01:32:57.31572",
+    "updated_at": "2018-08-23 23:58:26.508232",
+    "country": "United States",
+    "longitude": "-119.334979752843",
+    "latitude": "36.1930799286453",
+    "tags": []
+  }
+]

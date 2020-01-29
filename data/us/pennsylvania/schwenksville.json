@@ -1,0 +1,19 @@
+[
+  {
+    "id": "spring-mountain-brewing-company",
+    "name": "Spring Mountain Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Schwenksville",
+    "state": "Pennsylvania",
+    "postal_code": "19473-1811",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:12.765494",
+    "updated_at": "2018-08-11 21:39:31.617541",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

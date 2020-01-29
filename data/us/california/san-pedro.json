@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brouwerij-west",
+    "name": "Brouwerij West",
+    "brewery_type": "micro",
+    "street": "110 E 22nd St",
+    "city": "San Pedro",
+    "state": "California",
+    "postal_code": "90731-7202",
+    "website_url": "http://www.brouwerijwest.com",
+    "phone": "3108339330",
+    "created_at": "2018-07-24 01:32:53.370951",
+    "updated_at": "2018-08-11 21:35:58.378297",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "port-town-brewing-co",
+    "name": "Port Town Brewing Co",
+    "brewery_type": "proprietor",
+    "street": "700-726 S Centre St",
+    "city": "San Pedro",
+    "state": "California",
+    "postal_code": "90731",
+    "website_url": "http://www.porttownbrewing.com",
+    "phone": "3105086013",
+    "created_at": "2018-07-24 01:32:59.678737",
+    "updated_at": "2018-08-11 21:36:16.822647",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "san-pedro-brewing-co",
+    "name": "San Pedro Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "331 W 6th St",
+    "city": "San Pedro",
+    "state": "California",
+    "postal_code": "90731-3317",
+    "website_url": "http://www.sanpedrobrewing.com",
+    "phone": "3108315663",
+    "created_at": "2018-07-24 01:33:00.458901",
+    "updated_at": "2018-08-24 00:02:01.673299",
+    "country": "United States",
+    "longitude": "-118.2842712",
+    "latitude": "33.7386421",
+    "tags": []
+  }
+]

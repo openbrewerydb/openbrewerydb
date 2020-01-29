@@ -1,0 +1,19 @@
+[
+  {
+    "id": "triptych-brewing",
+    "name": "Triptych Brewing",
+    "brewery_type": "micro",
+    "street": "1703 Woodfield Dr",
+    "city": "Savoy",
+    "state": "Illinois",
+    "postal_code": "61874-9504",
+    "website_url": "http://www.triptychbrewing.com",
+    "phone": "2176071176",
+    "created_at": "2018-07-24 01:33:20.938786",
+    "updated_at": "2018-08-24 00:32:16.612042",
+    "country": "United States",
+    "longitude": "-88.2492759316223",
+    "latitude": "40.0768564",
+    "tags": []
+  }
+]

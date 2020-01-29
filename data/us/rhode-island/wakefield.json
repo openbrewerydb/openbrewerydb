@@ -1,0 +1,36 @@
+[
+  {
+    "id": "whalers-brewing-company",
+    "name": "Whalers Brewing Company",
+    "brewery_type": "micro",
+    "street": "1174 Kingstown Rd",
+    "city": "Wakefield",
+    "state": "Rhode Island",
+    "postal_code": "02879-8316",
+    "website_url": "https://whalers.com",
+    "phone": "4015520002",
+    "created_at": "2018-07-24 01:34:13.955356",
+    "updated_at": "2018-08-24 16:14:05.240667",
+    "country": "United States",
+    "longitude": "-71.4970673093227",
+    "latitude": "41.4506997",
+    "tags": []
+  },
+  {
+    "id": "sons-of-liberty-beer-and-spirits-co",
+    "name": "Sons of Liberty Beer & Spirits Co.",
+    "brewery_type": "micro",
+    "street": "1425 Kingstown Rd",
+    "city": "Wakefield",
+    "state": "Rhode Island",
+    "postal_code": "02879-8313",
+    "website_url": "http://www.solspirits.com",
+    "phone": "4012844006",
+    "created_at": "2018-07-24 01:34:13.888498",
+    "updated_at": "2018-08-24 16:13:57.797975",
+    "country": "United States",
+    "longitude": "-71.5052599881523",
+    "latitude": "41.4545347",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brooks-brewing",
+    "name": "Brooks Brewing",
+    "brewery_type": "micro",
+    "street": "52033 Van Dyke",
+    "city": "Shelby Charter Township",
+    "state": "Michigan",
+    "postal_code": "48316",
+    "website_url": "http://www.bbrewing.com",
+    "phone": "5868844741",
+    "created_at": "2018-07-24 01:33:33.541457",
+    "updated_at": "2018-08-11 21:37:47.257706",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

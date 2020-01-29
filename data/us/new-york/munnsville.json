@@ -1,0 +1,19 @@
+[
+  {
+    "id": "foothill-hops-farm-brewery",
+    "name": "Foothill Hops Farm Brewery",
+    "brewery_type": "micro",
+    "street": "5024 Bear Path Rd",
+    "city": "Munnsville",
+    "state": "New York",
+    "postal_code": "13409-4114",
+    "website_url": "http://www.foothillhops.com",
+    "phone": "3154952451",
+    "created_at": "2018-07-24 01:33:50.991706",
+    "updated_at": "2018-08-24 15:38:58.271764",
+    "country": "United States",
+    "longitude": "-75.5861038184634",
+    "latitude": "42.9646321304759",
+    "tags": []
+  }
+]

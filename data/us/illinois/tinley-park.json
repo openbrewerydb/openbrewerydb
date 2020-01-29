@@ -1,0 +1,53 @@
+[
+  {
+    "id": "350-brewing-co",
+    "name": "350 Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "7144 183rd St",
+    "city": "Tinley Park",
+    "state": "Illinois",
+    "postal_code": "60477-3933",
+    "website_url": "http://www.350brewing.com",
+    "phone": "7088257339",
+    "created_at": "2018-07-24 01:33:17.846245",
+    "updated_at": "2018-08-24 00:30:22.319728",
+    "country": "United States",
+    "longitude": "-87.7916028841237",
+    "latitude": "41.5586472556158",
+    "tags": []
+  },
+  {
+    "id": "hailstorm-brewing-company",
+    "name": "HailStorm Brewing Company",
+    "brewery_type": "micro",
+    "street": "8060 186th St",
+    "city": "Tinley Park",
+    "state": "Illinois",
+    "postal_code": "60487-9215",
+    "website_url": "http://www.hailstormbrewing.com",
+    "phone": "6306317173",
+    "created_at": "2018-07-24 01:33:19.159211",
+    "updated_at": "2018-08-24 00:31:09.943551",
+    "country": "United States",
+    "longitude": "-87.8135615816727",
+    "latitude": "41.5531782278958",
+    "tags": []
+  },
+  {
+    "id": "soundgrowler-brewing-co",
+    "name": "Soundgrowler Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "8201 183rd St Ste P",
+    "city": "Tinley Park",
+    "state": "Illinois",
+    "postal_code": "60487-9377",
+    "website_url": "http://www.soundgrowler.com",
+    "phone": "7082630083",
+    "created_at": "2018-07-24 01:33:20.721035",
+    "updated_at": "2018-08-11 21:37:15.870299",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

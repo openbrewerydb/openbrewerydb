@@ -1,0 +1,36 @@
+[
+  {
+    "id": "back-alley-brewing-co",
+    "name": "Back Alley Brewing Co",
+    "brewery_type": "micro",
+    "street": "211 S Main St",
+    "city": "Goshen",
+    "state": "Indiana",
+    "postal_code": "46526-3722",
+    "website_url": "",
+    "phone": "5743704049",
+    "created_at": "2018-07-24 01:33:21.270579",
+    "updated_at": "2018-08-24 00:32:27.21677",
+    "country": "United States",
+    "longitude": "-85.8345786228952",
+    "latitude": "41.5846197132255",
+    "tags": []
+  },
+  {
+    "id": "goshen-brewing-company",
+    "name": "Goshen Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "315 W Washington St",
+    "city": "Goshen",
+    "state": "Indiana",
+    "postal_code": "46526-3732",
+    "website_url": "http://www.goshenbrewing.com",
+    "phone": "5749715324",
+    "created_at": "2018-07-24 01:33:22.074019",
+    "updated_at": "2018-08-24 00:32:54.345138",
+    "country": "United States",
+    "longitude": "-85.8386783",
+    "latitude": "41.585178",
+    "tags": []
+  }
+]

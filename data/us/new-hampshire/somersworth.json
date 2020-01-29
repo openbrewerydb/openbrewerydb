@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bad-lab-beer-co",
+    "name": "Bad Lab Beer Co.",
+    "brewery_type": "brewpub",
+    "street": "460 High St",
+    "city": "Somersworth",
+    "state": "New Hampshire",
+    "postal_code": "03878-1012",
+    "website_url": "http://www.badlabbeer.com",
+    "phone": "6033192436",
+    "created_at": "2018-07-24 01:33:44.979008",
+    "updated_at": "2018-08-24 15:35:56.722302",
+    "country": "United States",
+    "longitude": "-70.8835377678124",
+    "latitude": "43.2265143234066",
+    "tags": []
+  }
+]

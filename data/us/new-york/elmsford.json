@@ -1,0 +1,19 @@
+[
+  {
+    "id": "captain-lawrence-brewing-co",
+    "name": "Captain Lawrence Brewing Co",
+    "brewery_type": "regional",
+    "street": "444 Saw Mill River Rd Ste 100",
+    "city": "Elmsford",
+    "state": "New York",
+    "postal_code": "10523-1031",
+    "website_url": "http://www.captainlawrencebrewing.com",
+    "phone": "9147412337",
+    "created_at": "2018-07-24 01:33:50.11796",
+    "updated_at": "2018-08-24 15:38:26.180086",
+    "country": "United States",
+    "longitude": "-73.839113",
+    "latitude": "41.03486",
+    "tags": []
+  }
+]

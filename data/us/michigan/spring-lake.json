@@ -1,0 +1,19 @@
+[
+  {
+    "id": "old-boys-brewhouse",
+    "name": "Old Boys Brewhouse",
+    "brewery_type": "brewpub",
+    "street": "971 W Savidge St",
+    "city": "Spring Lake",
+    "state": "Michigan",
+    "postal_code": "49456-1684",
+    "website_url": "http://www.oldboysbrewhouse.com",
+    "phone": "6168509950",
+    "created_at": "2018-07-24 01:33:35.776292",
+    "updated_at": "2018-08-24 00:43:44.765484",
+    "country": "United States",
+    "longitude": "-86.2121519411765",
+    "latitude": "43.0764282941176",
+    "tags": []
+  }
+]

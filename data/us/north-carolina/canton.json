@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bearwaters-brewing-co",
+    "name": "BearWaters Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "101 Park St",
+    "city": "Canton",
+    "state": "North Carolina",
+    "postal_code": "28716-4319",
+    "website_url": "http://www.bwbrewing.com",
+    "phone": "8282734200",
+    "created_at": "2018-07-24 01:33:55.062823",
+    "updated_at": "2018-08-24 15:41:04.510674",
+    "country": "United States",
+    "longitude": "-82.843001",
+    "latitude": "35.53137",
+    "tags": []
+  }
+]

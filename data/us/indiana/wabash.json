@@ -1,0 +1,19 @@
+[
+  {
+    "id": "chapmans-brewing-company",
+    "name": "Chapman's Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Wabash",
+    "state": "Indiana",
+    "postal_code": "46992-3131",
+    "website_url": "http://www.chapmansbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:21.723264",
+    "updated_at": "2018-08-11 21:37:18.519047",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

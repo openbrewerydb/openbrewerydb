@@ -1,0 +1,19 @@
+[
+  {
+    "id": "black-narrows-brewing-company",
+    "name": "Black Narrows Brewing Company",
+    "brewery_type": "micro",
+    "street": "4522 Chicken City Rd",
+    "city": "Chincoteague",
+    "state": "Virginia",
+    "postal_code": "23336-2303",
+    "website_url": "http://www.blacknarrowsbrewing.com",
+    "phone": "7869994877",
+    "created_at": "2018-07-24 01:34:24.549346",
+    "updated_at": "2018-08-24 16:27:41.883992",
+    "country": "United States",
+    "longitude": "-75.3621928101953",
+    "latitude": "37.931256468446",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lager-heads-brewing-co",
+    "name": "Lager Heads Brewing Co.",
+    "brewery_type": "micro",
+    "street": "325 W Smith Rd",
+    "city": "Medina",
+    "state": "Ohio",
+    "postal_code": "44256-2352",
+    "website_url": "http://www.lagerheads.us",
+    "phone": "3307212337",
+    "created_at": "2018-07-24 01:34:01.362921",
+    "updated_at": "2018-08-24 15:44:14.713552",
+    "country": "United States",
+    "longitude": "-81.8684437878401",
+    "latitude": "41.1363337718929",
+    "tags": []
+  },
+  {
+    "id": "lager-heads-smokehouse",
+    "name": "Lager Heads Smokehouse",
+    "brewery_type": "brewpub",
+    "street": "2832 Abbeyville Rd",
+    "city": "Medina",
+    "state": "Ohio",
+    "postal_code": "44256",
+    "website_url": "",
+    "phone": "3307251947",
+    "created_at": "2018-07-24 01:34:01.375978",
+    "updated_at": "2018-08-24 15:44:15.205879",
+    "country": "United States",
+    "longitude": "-81.8875505358769",
+    "latitude": "41.1998060514877",
+    "tags": []
+  }
+]

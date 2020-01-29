@@ -1,0 +1,53 @@
+[
+  {
+    "id": "buck-bald-brewing-corporation",
+    "name": "Buck Bald Brewing Corporation",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Blue Ridge",
+    "state": "Georgia",
+    "postal_code": "30513",
+    "website_url": "http://www.buckbaldbrewing.com",
+    "phone": "7703169971",
+    "created_at": "2018-07-24 01:33:15.518076",
+    "updated_at": "2018-08-11 21:37:01.258802",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "fannin-brewing",
+    "name": "Fannin Brewing",
+    "brewery_type": "micro",
+    "street": "3758 E First St",
+    "city": "Blue Ridge",
+    "state": "Georgia",
+    "postal_code": "30513-4514",
+    "website_url": "http://www.fanninbrewingcompany.com",
+    "phone": "7062582762",
+    "created_at": "2018-07-24 01:33:15.69398",
+    "updated_at": "2018-08-24 00:29:04.845927",
+    "country": "United States",
+    "longitude": "-84.3170747740377",
+    "latitude": "34.8714261335704",
+    "tags": []
+  },
+  {
+    "id": "grumpy-old-men-brewing",
+    "name": "Grumpy Old Men Brewing",
+    "brewery_type": "micro",
+    "street": "1315 E Main St",
+    "city": "Blue Ridge",
+    "state": "Georgia",
+    "postal_code": "30513-8506",
+    "website_url": "http://www.grumpyoldmenbrewing.com",
+    "phone": "7703318870",
+    "created_at": "2018-07-24 01:33:15.806744",
+    "updated_at": "2018-08-24 00:29:07.640356",
+    "country": "United States",
+    "longitude": "-84.3305083215193",
+    "latitude": "34.8574713620201",
+    "tags": []
+  }
+]

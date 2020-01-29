@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bells-brewery-inc",
+    "name": "Bell's Brewery, Inc",
+    "brewery_type": "regional",
+    "street": "8938 Krum Ave",
+    "city": "Galesburg",
+    "state": "Michigan",
+    "postal_code": "49053-9558",
+    "website_url": "http://www.bellsbeer.com",
+    "phone": "2693822338",
+    "created_at": "2018-07-24 01:33:32.965715",
+    "updated_at": "2018-08-11 21:37:45.823829",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

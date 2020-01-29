@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brookeville-beer-farm",
+    "name": "Brookeville Beer Farm",
+    "brewery_type": "micro",
+    "street": "20315 Georgia Ave",
+    "city": "Brookeville",
+    "state": "Maryland",
+    "postal_code": "20833-1711",
+    "website_url": "http://www.brookevillebeerfarm.com",
+    "phone": "3012601000",
+    "created_at": "2018-07-24 01:33:28.557759",
+    "updated_at": "2018-08-24 00:40:21.824329",
+    "country": "United States",
+    "longitude": "-77.0579247",
+    "latitude": "39.1780888",
+    "tags": []
+  }
+]

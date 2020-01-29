@@ -1,0 +1,19 @@
+[
+  {
+    "id": "boak-brewing-co",
+    "name": "Boak Brewing Co",
+    "brewery_type": "contract",
+    "street": "262 Wanaque Ave Rear",
+    "city": "Pompton Lakes",
+    "state": "New Jersey",
+    "postal_code": "07442-2116",
+    "website_url": "http://www.boaks.com",
+    "phone": "9735706381",
+    "created_at": "2018-07-24 01:33:46.193233",
+    "updated_at": "2018-08-11 21:38:22.126047",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wyold-west-brewing-company",
+    "name": "WYOld West Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "221 N Bent St",
+    "city": "Powell",
+    "state": "Wyoming",
+    "postal_code": "82435-2335",
+    "website_url": "http://www.wyoldwest.com",
+    "phone": "3077646200",
+    "created_at": "2018-07-24 01:34:37.691765",
+    "updated_at": "2018-08-24 16:47:12.24286",
+    "country": "United States",
+    "longitude": "-108.757481305962",
+    "latitude": "44.7545199305948",
+    "tags": []
+  }
+]

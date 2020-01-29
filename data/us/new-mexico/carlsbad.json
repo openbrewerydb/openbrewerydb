@@ -1,0 +1,36 @@
+[
+  {
+    "id": "guadalupe-mountain-brewing-company",
+    "name": "Guadalupe Mountain Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "3404 National Parks Hwy",
+    "city": "Carlsbad",
+    "state": "New Mexico",
+    "postal_code": "88220-5349",
+    "website_url": "",
+    "phone": "5753617761",
+    "created_at": "2018-07-24 01:33:48.13807",
+    "updated_at": "2018-08-24 15:37:31.582503",
+    "country": "United States",
+    "longitude": "-104.224021139894",
+    "latitude": "32.3821008",
+    "tags": []
+  },
+  {
+    "id": "miltons-brewing",
+    "name": "Milton's Brewing",
+    "brewery_type": "micro",
+    "street": "108 E Mermod St",
+    "city": "Carlsbad",
+    "state": "New Mexico",
+    "postal_code": "88220",
+    "website_url": "http://www.miltonsbrewing.com",
+    "phone": "5756891026",
+    "created_at": "2018-07-24 01:33:48.39271",
+    "updated_at": "2018-08-24 15:37:38.718689",
+    "country": "United States",
+    "longitude": "-104.225615792179",
+    "latitude": "32.42061065",
+    "tags": []
+  }
+]

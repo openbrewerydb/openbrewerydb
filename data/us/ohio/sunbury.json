@@ -1,0 +1,19 @@
+[
+  {
+    "id": "on-the-fly-brewing-company",
+    "name": "On The Fly Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Sunbury",
+    "state": "Ohio",
+    "postal_code": "43074-9022",
+    "website_url": "http://www.ontheflybrewing.com",
+    "phone": "6145618735",
+    "created_at": "2018-07-24 01:34:02.266686",
+    "updated_at": "2018-08-11 21:39:02.578734",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

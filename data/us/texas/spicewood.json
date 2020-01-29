@@ -1,0 +1,19 @@
+[
+  {
+    "id": "solid-rock-brewing",
+    "name": "Solid Rock Brewing",
+    "brewery_type": "micro",
+    "street": "2214 Bee Creek Rd",
+    "city": "Spicewood",
+    "state": "Texas",
+    "postal_code": "78669-5136",
+    "website_url": "http://www.solidrockbrewing.com",
+    "phone": "5124878786",
+    "created_at": "2018-07-24 01:34:21.299266",
+    "updated_at": "2018-08-11 21:39:54.450134",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

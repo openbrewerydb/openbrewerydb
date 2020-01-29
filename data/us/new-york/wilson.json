@@ -1,0 +1,19 @@
+[
+  {
+    "id": "woodcock-brothers-brewing",
+    "name": "Woodcock Brothers Brewing",
+    "brewery_type": "brewpub",
+    "street": "638 Lake St",
+    "city": "Wilson",
+    "state": "New York",
+    "postal_code": "14172-9600",
+    "website_url": "http://www.woodcockbrothersbrewery.com",
+    "phone": "7163334000",
+    "created_at": "2018-07-24 01:33:54.634358",
+    "updated_at": "2018-08-24 15:40:52.546218",
+    "country": "United States",
+    "longitude": "-78.825882",
+    "latitude": "43.299013",
+    "tags": []
+  }
+]

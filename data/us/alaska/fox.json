@@ -1,0 +1,19 @@
+[
+  {
+    "id": "silver-gulch-brewing-co",
+    "name": "Silver Gulch Brewing Co",
+    "brewery_type": "micro",
+    "street": "2195 Old Steese Highway",
+    "city": "Fox",
+    "state": "Alaska",
+    "postal_code": "99712",
+    "website_url": "http://www.silvergulch.com",
+    "phone": "9074522739",
+    "created_at": "2018-07-24 01:32:48.467818",
+    "updated_at": "2018-08-23 23:21:07.021603",
+    "country": "United States",
+    "longitude": "-147.62197608655",
+    "latitude": "64.9570858831622",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "black-flag-brewing-company",
+    "name": "Black Flag Brewing Company",
+    "brewery_type": "micro",
+    "street": "9315 Snowden River Pkwy",
+    "city": "Columbia",
+    "state": "Maryland",
+    "postal_code": "21046-2091",
+    "website_url": "http://www.blackflagbrewingco.com",
+    "phone": "4438645139",
+    "created_at": "2018-07-24 01:33:28.433303",
+    "updated_at": "2018-08-24 00:40:19.980241",
+    "country": "United States",
+    "longitude": "-76.810364",
+    "latitude": "39.192524",
+    "tags": []
+  },
+  {
+    "id": "hysteria-brewing-company",
+    "name": "Hysteria Brewing Company",
+    "brewery_type": "micro",
+    "street": "9570 Berger Rd Ste J",
+    "city": "Columbia",
+    "state": "Maryland",
+    "postal_code": "21046-1559",
+    "website_url": "http://www.hysteriabrewing.com",
+    "phone": "4103608319",
+    "created_at": "2018-07-24 01:33:29.18074",
+    "updated_at": "2018-08-11 21:37:36.583955",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "frisco-tap-house-and-push-brewery",
+    "name": "Frisco Tap House & Push Brewery",
+    "brewery_type": "brewpub",
+    "street": "6695 Dobbin Rd",
+    "city": "Columbia",
+    "state": "Maryland",
+    "postal_code": "21045-4755",
+    "website_url": "http://www.friscogrille.com",
+    "phone": "4103124907",
+    "created_at": "2018-07-24 01:33:28.964138",
+    "updated_at": "2018-08-24 00:40:32.222924",
+    "country": "United States",
+    "longitude": "-76.8252248",
+    "latitude": "39.1860574",
+    "tags": []
+  }
+]

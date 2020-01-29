@@ -1,0 +1,36 @@
+[
+  {
+    "id": "pisgah-brewing-co",
+    "name": "Pisgah Brewing Co",
+    "brewery_type": "micro",
+    "street": "150 Eastside Dr",
+    "city": "Black Mountain",
+    "state": "North Carolina",
+    "postal_code": "28711-8208",
+    "website_url": "http://www.pisgahbrewing.com",
+    "phone": "8286690190",
+    "created_at": "2018-07-24 01:33:57.789226",
+    "updated_at": "2018-08-24 15:42:28.512474",
+    "country": "United States",
+    "longitude": "-82.35826",
+    "latitude": "35.6079376",
+    "tags": []
+  },
+  {
+    "id": "lookout-brewing-company",
+    "name": "Lookout Brewing Company",
+    "brewery_type": "micro",
+    "street": "103 S Ridgeway Ave",
+    "city": "Black Mountain",
+    "state": "North Carolina",
+    "postal_code": "28711-3550",
+    "website_url": "http://www.lookoutbrewing.com",
+    "phone": "8283575169",
+    "created_at": "2018-07-24 01:33:57.052242",
+    "updated_at": "2018-08-24 15:42:08.230351",
+    "country": "United States",
+    "longitude": "-82.3179459321174",
+    "latitude": "35.619217",
+    "tags": []
+  }
+]

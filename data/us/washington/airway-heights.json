@@ -1,0 +1,19 @@
+[
+  {
+    "id": "orlison-brewing-company",
+    "name": "Orlison Brewing Company",
+    "brewery_type": "micro",
+    "street": "12921 West 17th Ave",
+    "city": "Airway Heights",
+    "state": "Washington",
+    "postal_code": "99001",
+    "website_url": "http://www.orlisonbrewing.com",
+    "phone": "5093896253",
+    "created_at": "2018-07-24 01:34:31.817802",
+    "updated_at": "2018-08-24 16:37:47.239983",
+    "country": "United States",
+    "longitude": "-117.5924443",
+    "latitude": "47.6403069",
+    "tags": []
+  }
+]

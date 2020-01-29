@@ -1,0 +1,19 @@
+[
+  {
+    "id": "millercoors-brewing-co-shenandoah-facility",
+    "name": "MillerCoors Brewing Co - Shenandoah Facility",
+    "brewery_type": "large",
+    "street": "5135 South East Side Hwy",
+    "city": "Elkton",
+    "state": "Virginia",
+    "postal_code": "22827-3469",
+    "website_url": "http://www.coors.com",
+    "phone": "5402898201",
+    "created_at": "2018-07-24 01:34:26.02406",
+    "updated_at": "2018-08-24 16:29:37.27003",
+    "country": "United States",
+    "longitude": "-78.6823961495169",
+    "latitude": "38.3577797518989",
+    "tags": []
+  }
+]

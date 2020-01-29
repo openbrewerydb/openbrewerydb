@@ -1,0 +1,19 @@
+[
+  {
+    "id": "in-law-brewing-co",
+    "name": "In-Law Brewing Co",
+    "brewery_type": "micro",
+    "street": "5868 County Route 14",
+    "city": "Chase Mills",
+    "state": "New York",
+    "postal_code": "13621-3102",
+    "website_url": "http://www.in-lawbrewingcompany.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:51.773953",
+    "updated_at": "2018-08-24 15:39:23.606007",
+    "country": "United States",
+    "longitude": "-75.048304522321",
+    "latitude": "44.8814099654999",
+    "tags": []
+  }
+]

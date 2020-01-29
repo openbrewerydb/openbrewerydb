@@ -1,0 +1,53 @@
+[
+  {
+    "id": "badger-hill-brewing",
+    "name": "Badger Hill Brewing",
+    "brewery_type": "micro",
+    "street": "4571 Valley Industrial Blvd S Ste 500",
+    "city": "Shakopee",
+    "state": "Minnesota",
+    "postal_code": "55379-1846",
+    "website_url": "http://www.badgerhillbrewing.com",
+    "phone": "6123884479",
+    "created_at": "2018-07-24 01:33:37.767201",
+    "updated_at": "2018-08-11 21:37:59.160945",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "rahr-technical-center-llc",
+    "name": "Rahr Technical Center LLC",
+    "brewery_type": "micro",
+    "street": "800 1st Ave W",
+    "city": "Shakopee",
+    "state": "Minnesota",
+    "postal_code": "55379-1148",
+    "website_url": "",
+    "phone": "9524650585",
+    "created_at": "2018-07-24 01:33:39.415687",
+    "updated_at": "2018-08-24 00:45:40.459472",
+    "country": "United States",
+    "longitude": "-93.5365005",
+    "latitude": "44.7968103",
+    "tags": []
+  },
+  {
+    "id": "shakopee-brewhall",
+    "name": "Shakopee Brewhall",
+    "brewery_type": "micro",
+    "street": "124 1st Ave E",
+    "city": "Shakopee",
+    "state": "Minnesota",
+    "postal_code": "55379-1310",
+    "website_url": "http://www.shakopeebrewhall.com",
+    "phone": "9525824292",
+    "created_at": "2018-07-24 01:33:39.541172",
+    "updated_at": "2018-08-24 00:45:45.261936",
+    "country": "United States",
+    "longitude": "-93.5258437",
+    "latitude": "44.7985452",
+    "tags": []
+  }
+]

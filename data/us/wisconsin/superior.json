@@ -1,0 +1,36 @@
+[
+  {
+    "id": "earth-rider-brewing-co",
+    "name": "Earth Rider Brewing Co",
+    "brewery_type": "micro",
+    "street": "1617 N 3rd St",
+    "city": "Superior",
+    "state": "Wisconsin",
+    "postal_code": "54880-1016",
+    "website_url": "http://www.earthrider.beer",
+    "phone": "7153947391",
+    "created_at": "2018-07-24 01:34:35.171316",
+    "updated_at": "2018-08-24 16:42:55.623853",
+    "country": "United States",
+    "longitude": "-92.1011774897959",
+    "latitude": "46.7352811632653",
+    "tags": []
+  },
+  {
+    "id": "thirsty-pagan-brewing-co",
+    "name": "Thirsty Pagan Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1623 Broadway St",
+    "city": "Superior",
+    "state": "Wisconsin",
+    "postal_code": "54880-1616",
+    "website_url": "http://www.thirstypaganbrewing.com",
+    "phone": "7153942500",
+    "created_at": "2018-07-24 01:34:36.91111",
+    "updated_at": "2018-08-24 16:46:03.738494",
+    "country": "United States",
+    "longitude": "-92.1021385",
+    "latitude": "46.7267785",
+    "tags": []
+  }
+]

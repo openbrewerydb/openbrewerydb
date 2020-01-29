@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fat-point-brewing",
+    "name": "Fat Point Brewing",
+    "brewery_type": "micro",
+    "street": "611 Charlotte St",
+    "city": "Punta Gorda",
+    "state": "Florida",
+    "postal_code": "33950-4115",
+    "website_url": "http://www.fatpoint.com",
+    "phone": "8003807405",
+    "created_at": "2018-07-24 01:33:12.759416",
+    "updated_at": "2018-08-11 21:36:54.102279",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

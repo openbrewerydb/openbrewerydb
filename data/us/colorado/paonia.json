@@ -1,0 +1,19 @@
+[
+  {
+    "id": "paonia-united-brewing-company",
+    "name": "Paonia United Brewing Company",
+    "brewery_type": "micro",
+    "street": "325 Grand Ave",
+    "city": "Paonia",
+    "state": "Colorado",
+    "postal_code": "81428",
+    "website_url": "http://www.paoniaunitedbrew.com",
+    "phone": "9704177759",
+    "created_at": "2018-07-24 01:33:06.974177",
+    "updated_at": "2018-08-24 00:24:08.045528",
+    "country": "United States",
+    "longitude": "-107.597696869091",
+    "latitude": "38.8689945454444",
+    "tags": []
+  }
+]

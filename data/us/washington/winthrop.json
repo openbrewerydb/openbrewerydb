@@ -1,0 +1,19 @@
+[
+  {
+    "id": "old-schoolhouse-brewery",
+    "name": "Old Schoolhouse Brewery",
+    "brewery_type": "brewpub",
+    "street": "155 Riverside Ave",
+    "city": "Winthrop",
+    "state": "Washington",
+    "postal_code": "98862-0577",
+    "website_url": "http://www.oldschoolhousebrewery.com",
+    "phone": "5099963183",
+    "created_at": "2018-07-24 01:34:31.760315",
+    "updated_at": "2018-08-24 16:37:42.767544",
+    "country": "United States",
+    "longitude": "-120.186635379502",
+    "latitude": "48.47814625",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cognition-brewing-company",
+    "name": "Cognition Brewing Company",
+    "brewery_type": "micro",
+    "street": "113 E Canda St",
+    "city": "Ishpeming",
+    "state": "Michigan",
+    "postal_code": "49849-1904",
+    "website_url": "http://www.cognitionbrewing.com",
+    "phone": "9062042724",
+    "created_at": "2018-07-24 01:33:33.733687",
+    "updated_at": "2018-08-24 00:42:36.276158",
+    "country": "United States",
+    "longitude": "-87.6681955",
+    "latitude": "46.4916806",
+    "tags": []
+  },
+  {
+    "id": "jasper-ridge-brewing-co",
+    "name": "Jasper Ridge Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1075 Country Ln Ste 100",
+    "city": "Ishpeming",
+    "state": "Michigan",
+    "postal_code": "49849-3402",
+    "website_url": "http://www.countryvillageresort.com/httpdocs/html/brewery.html",
+    "phone": "9064856017",
+    "created_at": "2018-07-24 01:33:34.984308",
+    "updated_at": "2018-08-24 00:43:18.154378",
+    "country": "United States",
+    "longitude": "-87.6791484954959",
+    "latitude": "46.5014824157551",
+    "tags": []
+  }
+]

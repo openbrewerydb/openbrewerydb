@@ -1,0 +1,36 @@
+[
+  {
+    "id": "half-lion-brewing-company",
+    "name": "Half Lion Brewing Company",
+    "brewery_type": "micro",
+    "street": "1723 West Valley Hwy E Ste 101",
+    "city": "Sumner",
+    "state": "Washington",
+    "postal_code": "98390-9700",
+    "website_url": "http://www.halflion.com",
+    "phone": "2537504479",
+    "created_at": "2018-07-24 01:34:30.251531",
+    "updated_at": "2018-08-11 21:40:17.419321",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "rock-wood-fired-pizza-/-keep-rockin-llc",
+    "name": "Rock Wood Fired Pizza / Keep Rockin' LLC",
+    "brewery_type": "contract",
+    "street": "14209 29th St E Ste 102",
+    "city": "Sumner",
+    "state": "Washington",
+    "postal_code": "98390-9689",
+    "website_url": "",
+    "phone": "2539875479",
+    "created_at": "2018-07-24 01:34:32.518911",
+    "updated_at": "2018-08-11 21:40:25.01857",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "doc-gs-brewing-company",
+    "name": "Doc G's Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "208 W Long Ave",
+    "city": "Du Bois",
+    "state": "Pennsylvania",
+    "postal_code": "15801-2106",
+    "website_url": "",
+    "phone": "8142997938",
+    "created_at": "2018-07-24 01:34:10.245268",
+    "updated_at": "2018-08-11 21:39:25.868226",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

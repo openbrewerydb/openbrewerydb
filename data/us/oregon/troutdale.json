@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mcmenamins-edgefield-brewery",
+    "name": "McMenamins Edgefield Brewery",
+    "brewery_type": "micro",
+    "street": "2126 SW Halsey St",
+    "city": "Troutdale",
+    "state": "Oregon",
+    "postal_code": "97060-1026",
+    "website_url": "http://www.mcmenamins.com",
+    "phone": "5036674352",
+    "created_at": "2018-07-24 01:34:06.695904",
+    "updated_at": "2018-08-24 16:03:00.587631",
+    "country": "United States",
+    "longitude": "-122.4060641",
+    "latitude": "45.5368535",
+    "tags": []
+  }
+]

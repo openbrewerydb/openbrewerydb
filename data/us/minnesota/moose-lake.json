@@ -1,0 +1,19 @@
+[
+  {
+    "id": "moose-lake-brewing-company",
+    "name": "Moose Lake Brewing Company",
+    "brewery_type": "micro",
+    "street": "244 Lakeshore Drive",
+    "city": "Moose Lake",
+    "state": "Minnesota",
+    "postal_code": "55767",
+    "website_url": "http://www.mooselakebrewing.com",
+    "phone": "2184854585",
+    "created_at": "2018-07-24 01:33:39.238605",
+    "updated_at": "2018-08-24 00:45:36.151923",
+    "country": "United States",
+    "longitude": "-92.7639787423371",
+    "latitude": "46.4499930969742",
+    "tags": []
+  }
+]

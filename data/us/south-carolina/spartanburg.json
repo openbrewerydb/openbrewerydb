@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ciclops-cyderi-and-brewery",
+    "name": "Ciclops Cyderi and Brewery",
+    "brewery_type": "brewpub",
+    "street": "197 E Saint John St",
+    "city": "Spartanburg",
+    "state": "South Carolina",
+    "postal_code": "29306-5121",
+    "website_url": "http://www.ciclopscyderiandbrewery.com",
+    "phone": "8647049080",
+    "created_at": "2018-07-24 01:34:14.212875",
+    "updated_at": "2018-08-24 16:14:18.561757",
+    "country": "United States",
+    "longitude": "-81.929521675633",
+    "latitude": "34.95241345",
+    "tags": []
+  },
+  {
+    "id": "rj-rockers-brewing-co",
+    "name": "RJ Rockers Brewing Co",
+    "brewery_type": "micro",
+    "street": "226 W Main St Ste A",
+    "city": "Spartanburg",
+    "state": "South Carolina",
+    "postal_code": "29306-2308",
+    "website_url": "http://www.rjrockers.com",
+    "phone": "8645871435",
+    "created_at": "2018-07-24 01:34:14.825249",
+    "updated_at": "2018-08-11 21:39:37.418309",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

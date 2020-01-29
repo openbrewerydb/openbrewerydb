@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kettlehead-brewing-company",
+    "name": "Kettlehead Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "407 W Main St",
+    "city": "Tilton",
+    "state": "New Hampshire",
+    "postal_code": "03276-5012",
+    "website_url": "http://www.kettleheadbrewing.com",
+    "phone": "6033258266",
+    "created_at": "2018-07-24 01:33:45.429441",
+    "updated_at": "2018-08-24 15:36:08.66987",
+    "country": "United States",
+    "longitude": "-71.6001389788579",
+    "latitude": "43.4421988112605",
+    "tags": []
+  }
+]

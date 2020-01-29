@@ -1,0 +1,53 @@
+[
+  {
+    "id": "sprecher-brewing-co-/-chameleon-brewing",
+    "name": "Sprecher Brewing Co / Chameleon Brewing",
+    "brewery_type": "micro",
+    "street": "701 W Glendale Ave",
+    "city": "Glendale",
+    "state": "Wisconsin",
+    "postal_code": "53209-6509",
+    "website_url": "http://www.sprecherbrewery.com",
+    "phone": "4149647837",
+    "created_at": "2018-07-24 01:34:36.677349",
+    "updated_at": "2018-08-24 16:45:39.187304",
+    "country": "United States",
+    "longitude": "-87.9196951139335",
+    "latitude": "43.09929865",
+    "tags": []
+  },
+  {
+    "id": "bavarian-bierhaus",
+    "name": "Bavarian Bierhaus",
+    "brewery_type": "brewpub",
+    "street": "700 W Lexington Blvd",
+    "city": "Glendale",
+    "state": "Wisconsin",
+    "postal_code": "53217-4912",
+    "website_url": "http://www.thebavarianbierhaus.com",
+    "phone": "4142367000",
+    "created_at": "2018-07-24 01:34:34.581889",
+    "updated_at": "2018-08-24 16:42:03.329029",
+    "country": "United States",
+    "longitude": "-87.9192300902041",
+    "latitude": "43.1141584541142",
+    "tags": []
+  },
+  {
+    "id": "milwaukee-premium-brewing-co",
+    "name": "Milwaukee Premium Brewing Co",
+    "brewery_type": "contract",
+    "street": "6591 N Sidney Pl",
+    "city": "Glendale",
+    "state": "Wisconsin",
+    "postal_code": "53209-3215",
+    "website_url": "",
+    "phone": "4143625000",
+    "created_at": "2018-07-24 01:34:35.912069",
+    "updated_at": "2018-08-24 16:44:15.867497",
+    "country": "United States",
+    "longitude": "-87.9486092998057",
+    "latitude": "43.1384574323742",
+    "tags": []
+  }
+]

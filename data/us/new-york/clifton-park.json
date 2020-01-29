@@ -1,0 +1,19 @@
+[
+  {
+    "id": "shmaltz-brewing-co",
+    "name": "Shmaltz Brewing Co",
+    "brewery_type": "micro",
+    "street": "6 Fairchild Sq # 1",
+    "city": "Clifton Park",
+    "state": "New York",
+    "postal_code": "12065-1254",
+    "website_url": "http://www.shmaltzbrewing.com",
+    "phone": "5184065430",
+    "created_at": "2018-07-24 01:33:53.533011",
+    "updated_at": "2018-08-11 21:38:41.276352",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

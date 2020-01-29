@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sugar-hill-brewing-company",
+    "name": "Sugar Hill Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "16622 Broad St",
+    "city": "Saint Paul",
+    "state": "Virginia",
+    "postal_code": "24283-",
+    "website_url": "http://www.sugarhillbrewing.com",
+    "phone": "2767381088",
+    "created_at": "2018-07-24 01:34:27.0083",
+    "updated_at": "2018-08-24 16:31:02.644646",
+    "country": "United States",
+    "longitude": "-82.3106732",
+    "latitude": "36.9051268666667",
+    "tags": []
+  }
+]

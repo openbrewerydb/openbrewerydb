@@ -1,0 +1,53 @@
+[
+  {
+    "id": "exhibit-a-brewing-co",
+    "name": "Exhibit 'A' Brewing Co.",
+    "brewery_type": "micro",
+    "street": "81 Morton St",
+    "city": "Framingham",
+    "state": "Massachusetts",
+    "postal_code": "01702-7153",
+    "website_url": "http://www.exhibit-A-brewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:30.979893",
+    "updated_at": "2018-08-24 00:41:19.161385",
+    "country": "United States",
+    "longitude": "-71.4018708794239",
+    "latitude": "42.27880435",
+    "tags": []
+  },
+  {
+    "id": "john-harvards-brew-house-framingham",
+    "name": "John Harvards Brew House - Framingham",
+    "brewery_type": "brewpub",
+    "street": "1 Worcester Rd",
+    "city": "Framingham",
+    "state": "Massachusetts",
+    "postal_code": "01701-5359",
+    "website_url": "http://www.johnharvards.com",
+    "phone": "5088752337",
+    "created_at": "2018-07-24 01:33:31.266792",
+    "updated_at": "2018-08-24 00:41:27.695368",
+    "country": "United States",
+    "longitude": "-71.3961924451932",
+    "latitude": "42.30411485",
+    "tags": []
+  },
+  {
+    "id": "jacks-abby-brewing",
+    "name": "Jack's Abby Brewing",
+    "brewery_type": "regional",
+    "street": "100 Clinton St",
+    "city": "Framingham",
+    "state": "Massachusetts",
+    "postal_code": "01702-6748",
+    "website_url": "http://www.jacksabbybrewing.com",
+    "phone": "5088720900",
+    "created_at": "2018-07-24 01:33:31.241731",
+    "updated_at": "2018-08-24 00:41:27.212436",
+    "country": "United States",
+    "longitude": "-71.4109021",
+    "latitude": "42.2800852",
+    "tags": []
+  }
+]

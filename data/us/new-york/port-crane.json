@@ -1,0 +1,19 @@
+[
+  {
+    "id": "beer-tree-brew-co",
+    "name": "Beer Tree Brew Co",
+    "brewery_type": "micro",
+    "street": "197 Rte 369",
+    "city": "Port Crane",
+    "state": "New York",
+    "postal_code": "13833",
+    "website_url": "http://www.beertreebrew.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:49.339245",
+    "updated_at": "2018-08-11 21:38:30.287627",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

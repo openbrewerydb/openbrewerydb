@@ -1,0 +1,36 @@
+[
+  {
+    "id": "blacksmith-brewing-co",
+    "name": "Blacksmith Brewing Co",
+    "brewery_type": "micro",
+    "street": "114 Main St",
+    "city": "Stevensville",
+    "state": "Montana",
+    "postal_code": "59870-2109",
+    "website_url": "http://www.blacksmithbrewing.com",
+    "phone": "4067770680",
+    "created_at": "2018-07-24 01:33:42.235424",
+    "updated_at": "2018-08-24 00:47:02.2893",
+    "country": "United States",
+    "longitude": "-114.092930285714",
+    "latitude": "46.5115497142857",
+    "tags": []
+  },
+  {
+    "id": "wildwood-brewing-co",
+    "name": "Wildwood Brewing Co",
+    "brewery_type": "micro",
+    "street": "4018 US Highway 93 N",
+    "city": "Stevensville",
+    "state": "Montana",
+    "postal_code": "59870-6443",
+    "website_url": "http://www.wildwoodbrewing.com",
+    "phone": "4065296919",
+    "created_at": "2018-07-24 01:33:43.303415",
+    "updated_at": "2018-08-11 21:38:14.141043",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

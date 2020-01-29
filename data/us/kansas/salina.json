@@ -1,0 +1,19 @@
+[
+  {
+    "id": "blue-skye-brewery",
+    "name": "Blue Skye Brewery",
+    "brewery_type": "brewpub",
+    "street": "116 N Santa Fe Ave",
+    "city": "Salina",
+    "state": "Kansas",
+    "postal_code": "67401-2614",
+    "website_url": "http://blueskyebrewery.com",
+    "phone": "7854521234",
+    "created_at": "2018-07-24 01:33:24.637584",
+    "updated_at": "2018-08-24 00:38:22.138615",
+    "country": "United States",
+    "longitude": "-97.608998",
+    "latitude": "38.8410029597126",
+    "tags": []
+  }
+]

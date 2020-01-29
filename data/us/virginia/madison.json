@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bald-top-brewing-company",
+    "name": "Bald Top Brewing Company",
+    "brewery_type": "micro",
+    "street": "1830 Thrift Rd",
+    "city": "Madison",
+    "state": "Virginia",
+    "postal_code": "22727-2843",
+    "website_url": "http://www.baldtopbrewing.com",
+    "phone": "5409991830",
+    "created_at": "2018-07-24 01:34:24.229059",
+    "updated_at": "2018-08-24 16:27:14.313133",
+    "country": "United States",
+    "longitude": "-78.2625296",
+    "latitude": "38.3772921",
+    "tags": []
+  }
+]

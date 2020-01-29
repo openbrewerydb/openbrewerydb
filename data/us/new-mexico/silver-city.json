@@ -1,0 +1,19 @@
+[
+  {
+    "id": "little-toad-creek-brewery-and-distillery",
+    "name": "Little Toad Creek Brewery & Distillery",
+    "brewery_type": "brewpub",
+    "street": "200 N Bullard St",
+    "city": "Silver City",
+    "state": "New Mexico",
+    "postal_code": "88061",
+    "website_url": "http://www.littletoadcreek.com",
+    "phone": "5755369649",
+    "created_at": "2018-07-24 01:33:48.327782",
+    "updated_at": "2018-08-24 15:37:36.328526",
+    "country": "United States",
+    "longitude": "-108.2764",
+    "latitude": "32.769863",
+    "tags": []
+  }
+]

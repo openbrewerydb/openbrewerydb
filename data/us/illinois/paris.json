@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lot-50-brewing",
+    "name": "Lot 50 Brewing",
+    "brewery_type": "micro",
+    "street": "112 E Court St",
+    "city": "Paris",
+    "state": "Illinois",
+    "postal_code": "61944-2210",
+    "website_url": "http://www.lot50brewing.com",
+    "phone": "2172511493",
+    "created_at": "2018-07-24 01:33:19.662128",
+    "updated_at": "2018-08-24 00:31:29.665165",
+    "country": "United States",
+    "longitude": "-87.7073255735294",
+    "latitude": "39.6110423088235",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "nickel-beer-co",
+    "name": "Nickel Beer Co",
+    "brewery_type": "micro",
+    "street": "1485 Hollow Glen Rd",
+    "city": "Julian",
+    "state": "California",
+    "postal_code": "92036",
+    "website_url": "http://www.nickelbeerco.com",
+    "phone": "7607652337",
+    "created_at": "2018-07-24 01:32:58.718862",
+    "updated_at": "2018-08-24 00:00:03.198854",
+    "country": "United States",
+    "longitude": "-116.590154368311",
+    "latitude": "33.0762994189637",
+    "tags": []
+  },
+  {
+    "id": "julian-brewing-co",
+    "name": "Julian Brewing Co",
+    "brewery_type": "micro",
+    "street": "2315 Main St",
+    "city": "Julian",
+    "state": "California",
+    "postal_code": "92065",
+    "website_url": "http://www.baileybbq.com",
+    "phone": "7607653757",
+    "created_at": "2018-07-24 01:32:57.124739",
+    "updated_at": "2018-08-23 23:58:12.138422",
+    "country": "United States",
+    "longitude": "-116.603975",
+    "latitude": "33.079171",
+    "tags": []
+  }
+]

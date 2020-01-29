@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fearless-brewing-co",
+    "name": "Fearless Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "326 S Broadway St",
+    "city": "Estacada",
+    "state": "Oregon",
+    "postal_code": "97023-7000",
+    "website_url": "http://www.fearless.beer",
+    "phone": "5036302337",
+    "created_at": "2018-07-24 01:34:05.886782",
+    "updated_at": "2018-08-24 16:01:33.639872",
+    "country": "United States",
+    "longitude": "-122.335075897959",
+    "latitude": "45.2870467959184",
+    "tags": []
+  }
+]

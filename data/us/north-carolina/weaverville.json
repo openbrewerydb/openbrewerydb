@@ -1,0 +1,53 @@
+[
+  {
+    "id": "blue-mountain-pizza-and-brew-pub",
+    "name": "Blue Mountain Pizza and Brew Pub",
+    "brewery_type": "brewpub",
+    "street": "55 N Main St",
+    "city": "Weaverville",
+    "state": "North Carolina",
+    "postal_code": "28787-6634",
+    "website_url": "http://www.bluemountainpizza.com",
+    "phone": "8286588777",
+    "created_at": "2018-07-24 01:33:55.257846",
+    "updated_at": "2018-08-24 15:41:12.024743",
+    "country": "United States",
+    "longitude": "-82.5593445733107",
+    "latitude": "35.7084955262465",
+    "tags": []
+  },
+  {
+    "id": "eluvium-brewing-co",
+    "name": "Eluvium Brewing Co.",
+    "brewery_type": "micro",
+    "street": "11 Florida Ave",
+    "city": "Weaverville",
+    "state": "North Carolina",
+    "postal_code": "28787",
+    "website_url": "http://www.eluviumbrewing.com",
+    "phone": "8284841799",
+    "created_at": "2018-07-24 01:33:56.10099",
+    "updated_at": "2018-08-24 15:41:38.720343",
+    "country": "United States",
+    "longitude": "-82.561573697509",
+    "latitude": "35.6974141411376",
+    "tags": []
+  },
+  {
+    "id": "zebulon-artisan-ales",
+    "name": "Zebulon Artisan Ales",
+    "brewery_type": "micro",
+    "street": "8 Merchents Alley",
+    "city": "Weaverville",
+    "state": "North Carolina",
+    "postal_code": "28787-8860",
+    "website_url": "http://www.zebulonbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:59.010678",
+    "updated_at": "2018-08-11 21:38:54.485126",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

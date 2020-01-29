@@ -1,0 +1,36 @@
+[
+  {
+    "id": "skagway-brewing-co",
+    "name": "Skagway Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "641 Broadway St Ste 946",
+    "city": "Skagway",
+    "state": "Alaska",
+    "postal_code": "99840-9800",
+    "website_url": "http://www.skagwaybrewing.com",
+    "phone": "9079832759",
+    "created_at": "2018-07-24 01:32:48.483537",
+    "updated_at": "2018-08-11 21:35:46.203003",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "klondike-brewing-company",
+    "name": "Klondike Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "365 2nd Ave",
+    "city": "Skagway",
+    "state": "Alaska",
+    "postal_code": "99840",
+    "website_url": "http://www.klondikebeer.com",
+    "phone": "9079832778",
+    "created_at": "2018-07-24 01:32:48.315725",
+    "updated_at": "2018-08-23 23:20:58.035832",
+    "country": "United States",
+    "longitude": "-135.318872070707",
+    "latitude": "59.4538574343434",
+    "tags": []
+  }
+]

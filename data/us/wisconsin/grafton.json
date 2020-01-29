@@ -1,0 +1,19 @@
+[
+  {
+    "id": "water-street-brewery-grafton",
+    "name": "Water Street Brewery - Grafton",
+    "brewery_type": "brewpub",
+    "street": "1251 Gateway Dr 143 & Highway 60",
+    "city": "Grafton",
+    "state": "Wisconsin",
+    "postal_code": "53024-9336",
+    "website_url": "http://www.waterstreetbrewery.com",
+    "phone": "2623752222",
+    "created_at": "2018-07-24 01:34:37.160903",
+    "updated_at": "2018-08-11 21:40:37.527215",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

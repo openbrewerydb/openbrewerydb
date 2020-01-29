@@ -1,0 +1,19 @@
+[
+  {
+    "id": "drink-me-brewing",
+    "name": "Drink Me Brewing",
+    "brewery_type": "micro",
+    "street": "210 9th St",
+    "city": "Sibley",
+    "state": "Iowa",
+    "postal_code": "51249-1812",
+    "website_url": "http://www.drinkmebrewing.com",
+    "phone": "2173161890",
+    "created_at": "2018-07-24 01:33:23.64482",
+    "updated_at": "2018-08-24 00:37:49.72857",
+    "country": "United States",
+    "longitude": "-95.7506988979592",
+    "latitude": "43.3994220612245",
+    "tags": []
+  }
+]

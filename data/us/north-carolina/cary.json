@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bond-brothers-beer-company",
+    "name": "Bond Brothers Beer Company",
+    "brewery_type": "micro",
+    "street": "202 E Cedar St",
+    "city": "Cary",
+    "state": "North Carolina",
+    "postal_code": "27511-3440",
+    "website_url": "http://www.bondbrothersbeer.com",
+    "phone": "9194592670",
+    "created_at": "2018-07-24 01:33:55.308292",
+    "updated_at": "2018-08-24 15:41:13.489685",
+    "country": "United States",
+    "longitude": "-78.7779744445373",
+    "latitude": "35.78798475",
+    "tags": []
+  },
+  {
+    "id": "fortnight-brewing-company",
+    "name": "Fortnight Brewing Company",
+    "brewery_type": "micro",
+    "street": "211 Powers Ferry Rd",
+    "city": "Cary",
+    "state": "North Carolina",
+    "postal_code": "27519-1510",
+    "website_url": "http://www.fortnightbrewing.com",
+    "phone": "9194340742",
+    "created_at": "2018-07-24 01:33:56.246813",
+    "updated_at": "2018-08-24 15:41:42.724285",
+    "country": "United States",
+    "longitude": "-78.9113371364432",
+    "latitude": "35.8057623142808",
+    "tags": []
+  },
+  {
+    "id": "jordan-lake-brewing-co",
+    "name": "Jordan Lake Brewing Co",
+    "brewery_type": "micro",
+    "street": "320 E Durham Rd",
+    "city": "Cary",
+    "state": "North Carolina",
+    "postal_code": "27513-4043",
+    "website_url": "http://jordanlakebrewing.com",
+    "phone": "9196945096",
+    "created_at": "2018-07-24 01:33:56.836521",
+    "updated_at": "2018-08-24 15:42:01.248505",
+    "country": "United States",
+    "longitude": "-78.7753789727503",
+    "latitude": "35.7902230560576",
+    "tags": []
+  }
+]

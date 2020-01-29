@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cave-mountain-brewing-co",
+    "name": "Cave Mountain Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "5359 State Route 23",
+    "city": "Windham",
+    "state": "New York",
+    "postal_code": "12496-5906",
+    "website_url": "http://www.cavemountainbrewing.com",
+    "phone": "5187349222",
+    "created_at": "2018-07-24 01:33:50.157039",
+    "updated_at": "2018-08-11 21:38:32.192985",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

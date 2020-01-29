@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-explorium-brewpub",
+    "name": "The Explorium Brewpub",
+    "brewery_type": "brewpub",
+    "street": "5300 S 76th St Unit 1450A",
+    "city": "Greendale",
+    "state": "Wisconsin",
+    "postal_code": "53129-1102",
+    "website_url": "http://exploriumbrew.com",
+    "phone": "4145537702",
+    "created_at": "2018-07-24 01:34:36.860104",
+    "updated_at": "2018-08-11 21:40:36.921572",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

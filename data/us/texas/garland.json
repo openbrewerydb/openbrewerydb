@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lakewood-brewing-co",
+    "name": "Lakewood Brewing Co",
+    "brewery_type": "micro",
+    "street": "2302 Executive Dr",
+    "city": "Garland",
+    "state": "Texas",
+    "postal_code": "75041-6121",
+    "website_url": "http://www.lakewoodbrewing.com",
+    "phone": "9728642337",
+    "created_at": "2018-07-24 01:34:20.037014",
+    "updated_at": "2018-08-24 16:21:34.21205",
+    "country": "United States",
+    "longitude": "-96.6813725967853",
+    "latitude": "32.8884228477965",
+    "tags": []
+  },
+  {
+    "id": "intrinsic-brewing",
+    "name": "Intrinsic Brewing",
+    "brewery_type": "brewpub",
+    "street": "509 W State Street",
+    "city": "Garland",
+    "state": "Texas",
+    "postal_code": "75040",
+    "website_url": "http://www.intrinsicbrewing.com",
+    "phone": "2144345429",
+    "created_at": "2018-07-24 01:34:19.878235",
+    "updated_at": "2018-08-24 16:21:23.902112",
+    "country": "United States",
+    "longitude": "-96.6370523581182",
+    "latitude": "32.91369215",
+    "tags": []
+  }
+]

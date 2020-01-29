@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bosque-brewing-co-bosque-north",
+    "name": "Bosque Brewing Co - Bosque North",
+    "brewery_type": "micro",
+    "street": "834 W. Highway 550",
+    "city": "Bernalillo",
+    "state": "New Mexico",
+    "postal_code": "87004",
+    "website_url": "",
+    "phone": "5054333889",
+    "created_at": "2018-07-24 01:33:47.80079",
+    "updated_at": "2018-08-11 21:38:26.22312",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "kaktus-brewing-co",
+    "name": "Kaktus Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "471 South Hill Rd",
+    "city": "Bernalillo",
+    "state": "New Mexico",
+    "postal_code": "87004-9199",
+    "website_url": "http://www.kaktusbrewery.com",
+    "phone": "5053795072",
+    "created_at": "2018-07-24 01:33:48.225581",
+    "updated_at": "2018-08-24 15:37:33.508391",
+    "country": "United States",
+    "longitude": "-106.538739183184",
+    "latitude": "35.3084400840777",
+    "tags": []
+  }
+]

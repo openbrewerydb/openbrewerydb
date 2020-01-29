@@ -1,0 +1,19 @@
+[
+  {
+    "id": "svendale-brewing-co",
+    "name": "Svendale Brewing Co",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Millerton",
+    "state": "New York",
+    "postal_code": "12546-4553",
+    "website_url": "http://svendale.com",
+    "phone": "9177039873",
+    "created_at": "2018-07-24 01:33:53.899252",
+    "updated_at": "2018-08-11 21:38:42.179705",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "appalachian-brewing-co-lititz",
+    "name": "Appalachian Brewing Co - Lititz",
+    "brewery_type": "brewpub",
+    "street": "55 N Water St",
+    "city": "Lititz",
+    "state": "Pennsylvania",
+    "postal_code": "17543-1612",
+    "website_url": "http://www.abcbrew.com",
+    "phone": "7172211080",
+    "created_at": "2018-07-24 01:34:08.768167",
+    "updated_at": "2018-08-24 16:06:19.554939",
+    "country": "United States",
+    "longitude": "-76.3010098601829",
+    "latitude": "40.1582737511844",
+    "tags": []
+  },
+  {
+    "id": "joboys-brew-pub",
+    "name": "JoBoy's Brew Pub",
+    "brewery_type": "brewpub",
+    "street": "27 E Main St",
+    "city": "Lititz",
+    "state": "Pennsylvania",
+    "postal_code": "17543-1926",
+    "website_url": "http://www.joboysbrewpub.com",
+    "phone": "7175688330",
+    "created_at": "2018-07-24 01:34:11.152428",
+    "updated_at": "2018-08-24 16:09:38.69572",
+    "country": "United States",
+    "longitude": "-76.3061545",
+    "latitude": "40.1571224",
+    "tags": []
+  }
+]

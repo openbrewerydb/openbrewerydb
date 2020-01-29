@@ -1,0 +1,36 @@
+[
+  {
+    "id": "voyageur-brewing-co",
+    "name": "Voyageur Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "233 W Hwy 61",
+    "city": "Grand Marais",
+    "state": "Minnesota",
+    "postal_code": "55604",
+    "website_url": "",
+    "phone": "2183873163",
+    "created_at": "2018-07-24 01:33:39.948123",
+    "updated_at": "2018-08-11 21:38:05.519671",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "gun-flint-tavern",
+    "name": "Gun Flint Tavern",
+    "brewery_type": "brewpub",
+    "street": "111 W Wisconsin St",
+    "city": "Grand Marais",
+    "state": "Minnesota",
+    "postal_code": "55604-",
+    "website_url": "http://www.gunflinttavern.com",
+    "phone": "2183872836",
+    "created_at": "2018-07-24 01:33:38.70189",
+    "updated_at": "2018-08-24 00:45:18.89176",
+    "country": "United States",
+    "longitude": "-90.3348245039283",
+    "latitude": "47.7493773303509",
+    "tags": []
+  }
+]

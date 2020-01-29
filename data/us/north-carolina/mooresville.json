@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ghostface-brewing-company",
+    "name": "Ghostface Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "427 E Statesville Ave Ste 100",
+    "city": "Mooresville",
+    "state": "North Carolina",
+    "postal_code": "28115-2595",
+    "website_url": "http://www.ghostfacebrewing.com",
+    "phone": "7047997433",
+    "created_at": "2018-07-24 01:33:56.392883",
+    "updated_at": "2018-08-11 21:38:48.302535",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "jolly-roger-brew",
+    "name": "Jolly Roger Brew",
+    "brewery_type": "micro",
+    "street": "236 Raceway Dr Ste 12",
+    "city": "Mooresville",
+    "state": "North Carolina",
+    "postal_code": "28117-6518",
+    "website_url": "http://www.jollyrogerbrew.com",
+    "phone": "9194128132",
+    "created_at": "2018-07-24 01:33:56.823767",
+    "updated_at": "2018-08-11 21:38:49.38595",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "king-canary-brewing-company",
+    "name": "King Canary Brewing Company",
+    "brewery_type": "micro",
+    "street": "562 Williamson Rd",
+    "city": "Mooresville",
+    "state": "North Carolina",
+    "postal_code": "28117-9186",
+    "website_url": "http://www.kingcanarybrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:56.887527",
+    "updated_at": "2018-08-24 15:42:03.204878",
+    "country": "United States",
+    "longitude": "-80.8683812",
+    "latitude": "35.5706022",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "big-rock-chop-house-and-brewery",
+    "name": "Big Rock Chop House & Brewery",
+    "brewery_type": "contract",
+    "street": "245 S Eton St",
+    "city": "Birmingham",
+    "state": "Michigan",
+    "postal_code": "48009-6577",
+    "website_url": "http://www.bigrockchophouse.com",
+    "phone": "2486477774",
+    "created_at": "2018-07-24 01:33:33.123982",
+    "updated_at": "2018-08-24 00:42:19.275795",
+    "country": "United States",
+    "longitude": "-83.1960391071924",
+    "latitude": "42.5469386819908",
+    "tags": []
+  },
+  {
+    "id": "griffin-claw-brewing-co",
+    "name": "Griffin Claw Brewing Co",
+    "brewery_type": "micro",
+    "street": "575 S Eton St",
+    "city": "Birmingham",
+    "state": "Michigan",
+    "postal_code": "48009-6824",
+    "website_url": "http://www.griffinclawbrewingcompany.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:34.660301",
+    "updated_at": "2018-08-24 00:43:07.451791",
+    "country": "United States",
+    "longitude": "-83.1954642945733",
+    "latitude": "42.5434572",
+    "tags": []
+  }
+]

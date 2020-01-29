@@ -1,0 +1,53 @@
+[
+  {
+    "id": "climbing-bines-craft-ale-company",
+    "name": "Climbing Bines Craft Ale Company",
+    "brewery_type": "micro",
+    "street": "511 Hanson Point Rd",
+    "city": "Penn Yan",
+    "state": "New York",
+    "postal_code": "14527-9718",
+    "website_url": "http://www.climbingbineshopfarm.com",
+    "phone": "6077450221",
+    "created_at": "2018-07-24 01:33:50.270581",
+    "updated_at": "2018-08-11 21:38:32.500812",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "lyonsmith-brewing-company",
+    "name": "Lyonsmith Brewing Company",
+    "brewery_type": "micro",
+    "street": "138 Water St",
+    "city": "Penn Yan",
+    "state": "New York",
+    "postal_code": "14527-1651",
+    "website_url": "http://www.lyonsmithbrewing.com",
+    "phone": "3155365603",
+    "created_at": "2018-07-24 01:33:52.348019",
+    "updated_at": "2018-08-24 15:39:41.825769",
+    "country": "United States",
+    "longitude": "-77.0546363495329",
+    "latitude": "42.6589947605887",
+    "tags": []
+  },
+  {
+    "id": "abandon-brewing",
+    "name": "Abandon Brewing",
+    "brewery_type": "micro",
+    "street": "2994 Merritt Hill Rd",
+    "city": "Penn Yan",
+    "state": "New York",
+    "postal_code": "14527-8938",
+    "website_url": "http://www.abandonbrewing.com",
+    "phone": "5852093276",
+    "created_at": "2018-07-24 01:33:49.014396",
+    "updated_at": "2018-08-11 21:38:29.417153",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

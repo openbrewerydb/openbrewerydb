@@ -1,0 +1,19 @@
+[
+  {
+    "id": "barkeater-craft-brewery",
+    "name": "BarkEater Craft Brewery",
+    "brewery_type": "proprietor",
+    "street": "5411 Shady Ave",
+    "city": "Lowville",
+    "state": "New York",
+    "postal_code": "13367-1601",
+    "website_url": "http://www.barkeaterbrew.com",
+    "phone": "3157758959",
+    "created_at": "2018-07-24 01:33:49.26742",
+    "updated_at": "2018-08-24 15:38:05.552793",
+    "country": "United States",
+    "longitude": "-75.4867252",
+    "latitude": "43.7874658",
+    "tags": []
+  }
+]

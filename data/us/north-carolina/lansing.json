@@ -1,0 +1,19 @@
+[
+  {
+    "id": "new-river-brewing",
+    "name": "New River Brewing",
+    "brewery_type": "micro",
+    "street": "9211 NC Hwy 194 N Unit A",
+    "city": "Lansing",
+    "state": "North Carolina",
+    "postal_code": "28643",
+    "website_url": "http://www.newriverbrewing.beer",
+    "phone": "9194528367",
+    "created_at": "2018-07-24 01:33:57.466924",
+    "updated_at": "2018-08-11 21:38:50.83108",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

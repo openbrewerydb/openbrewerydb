@@ -1,0 +1,19 @@
+[
+  {
+    "id": "briarscratch-brewing",
+    "name": "BriarScratch Brewing",
+    "brewery_type": "micro",
+    "street": "Highway 25",
+    "city": "Cottontown",
+    "state": "Tennessee",
+    "postal_code": "37048",
+    "website_url": "http://www.briarscratchbrewing.com",
+    "phone": "6153191563",
+    "created_at": "2018-07-24 01:34:15.897626",
+    "updated_at": "2018-08-24 16:16:27.819509",
+    "country": "United States",
+    "longitude": "-86.53805",
+    "latitude": "36.4514343",
+    "tags": []
+  }
+]

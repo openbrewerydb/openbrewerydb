@@ -1,0 +1,19 @@
+[
+  {
+    "id": "santa-monica-brew-works",
+    "name": "Santa Monica Brew Works",
+    "brewery_type": "micro",
+    "street": "1920 Colorado Ave Ste C",
+    "city": "Santa Monica",
+    "state": "California",
+    "postal_code": "90404-3414",
+    "website_url": "http://www.santamonicabrewworks.com",
+    "phone": "3108287629",
+    "created_at": "2018-07-24 01:33:00.559058",
+    "updated_at": "2018-08-11 21:36:19.668797",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

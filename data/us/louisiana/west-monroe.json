@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ouachita-brewing-company",
+    "name": "Ouachita Brewing Company",
+    "brewery_type": "micro",
+    "street": "95 McClendon Ave",
+    "city": "West Monroe",
+    "state": "Louisiana",
+    "postal_code": "71291-3299",
+    "website_url": "http://www.ouachitabrewing.com",
+    "phone": "383879816",
+    "created_at": "2018-07-24 01:33:26.430107",
+    "updated_at": "2018-08-24 00:39:19.925475",
+    "country": "United States",
+    "longitude": "-92.1221748974021",
+    "latitude": "32.4999044808416",
+    "tags": []
+  }
+]

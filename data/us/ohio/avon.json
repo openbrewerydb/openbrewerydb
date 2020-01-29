@@ -1,0 +1,19 @@
+[
+  {
+    "id": "railroad-brewing-company",
+    "name": "Railroad Brewing Company",
+    "brewery_type": "micro",
+    "street": "1010 Center Rd",
+    "city": "Avon",
+    "state": "Ohio",
+    "postal_code": "44011-1206",
+    "website_url": "http://www.railroadbrewingcompany.com",
+    "phone": "4407238234",
+    "created_at": "2018-07-24 01:34:02.589321",
+    "updated_at": "2018-08-24 15:44:48.690248",
+    "country": "United States",
+    "longitude": "-82.0195372450403",
+    "latitude": "41.4754617027622",
+    "tags": []
+  }
+]

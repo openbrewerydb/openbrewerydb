@@ -1,0 +1,36 @@
+[
+  {
+    "id": "rogue-ales-brewery",
+    "name": "Rogue Ales Brewery",
+    "brewery_type": "regional",
+    "street": "2320 SE Osu Dr",
+    "city": "Newport",
+    "state": "Oregon",
+    "postal_code": "97365-5261",
+    "website_url": "http://rogue.com",
+    "phone": "5032413800",
+    "created_at": "2018-07-24 01:34:07.545884",
+    "updated_at": "2018-08-11 21:39:18.198654",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "bier-one-brewing",
+    "name": "Bier One Brewing",
+    "brewery_type": "brewpub",
+    "street": "424 SW Coast Hwy",
+    "city": "Newport",
+    "state": "Oregon",
+    "postal_code": "97365-4930",
+    "website_url": "http://www.bier-one.com",
+    "phone": "5412654630",
+    "created_at": "2018-07-24 01:34:04.865169",
+    "updated_at": "2018-08-24 15:45:57.44333",
+    "country": "United States",
+    "longitude": "-124.0572864",
+    "latitude": "44.6330765",
+    "tags": []
+  }
+]

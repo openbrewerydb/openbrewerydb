@@ -1,0 +1,19 @@
+[
+  {
+    "id": "paradox-beer-co",
+    "name": "Paradox Beer Co",
+    "brewery_type": "micro",
+    "street": "10 Buffalo Ct",
+    "city": "Divide",
+    "state": "Colorado",
+    "postal_code": "80814-9178",
+    "website_url": "http://www.paradoxbeercompany.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:06.986298",
+    "updated_at": "2018-08-24 00:24:08.574011",
+    "country": "United States",
+    "longitude": "-105.155048625439",
+    "latitude": "38.94440915",
+    "tags": []
+  }
+]

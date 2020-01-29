@@ -1,0 +1,53 @@
+[
+  {
+    "id": "smugglers-brewpub",
+    "name": "Smuggler's Brewpub",
+    "brewery_type": "brewpub",
+    "street": "225 South Pine St",
+    "city": "Telluride",
+    "state": "Colorado",
+    "postal_code": "81435",
+    "website_url": "http://www.smugglersbrewpub.com",
+    "phone": "9707285620",
+    "created_at": "2018-07-24 01:33:07.776949",
+    "updated_at": "2018-08-24 00:24:39.577518",
+    "country": "United States",
+    "longitude": "-107.811427371429",
+    "latitude": "37.9358017999979",
+    "tags": []
+  },
+  {
+    "id": "stronghouse-brewery",
+    "name": "Stronghouse Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Telluride",
+    "state": "Colorado",
+    "postal_code": "81435",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:08.029593",
+    "updated_at": "2018-08-11 21:36:42.973779",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "telluride-brewing-co",
+    "name": "Telluride Brewing Co",
+    "brewery_type": "micro",
+    "street": "156 DEF Society Drive",
+    "city": "Telluride",
+    "state": "Colorado",
+    "postal_code": "81435",
+    "website_url": "http://www.telluridebrewingco.com",
+    "phone": "9707285094",
+    "created_at": "2018-07-24 01:33:08.071383",
+    "updated_at": "2018-08-11 21:36:43.070258",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

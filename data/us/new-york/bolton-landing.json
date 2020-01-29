@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bolton-landing-brewing-co",
+    "name": "Bolton Landing Brewing Co.",
+    "brewery_type": "micro",
+    "street": "4933 Lake Shore Dr",
+    "city": "Bolton Landing",
+    "state": "New York",
+    "postal_code": "12814-7757",
+    "website_url": "http://www.boltonlandingbrewing.com",
+    "phone": "5186442739",
+    "created_at": "2018-07-24 01:33:49.544546",
+    "updated_at": "2018-08-24 15:38:13.87468",
+    "country": "United States",
+    "longitude": "-73.655636",
+    "latitude": "43.555707",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "steel-bonnet-brewing-co",
+    "name": "Steel Bonnet Brewing Co",
+    "brewery_type": "micro",
+    "street": "20 Victor Sq Ste B",
+    "city": "Scotts Valley",
+    "state": "California",
+    "postal_code": "95066-3518",
+    "website_url": "http://www.steelbon.net",
+    "phone": "8314548429",
+    "created_at": "2018-07-24 01:33:01.384537",
+    "updated_at": "2018-08-11 21:36:22.714422",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

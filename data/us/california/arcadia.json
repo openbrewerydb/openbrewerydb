@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mt-lowe-brewing-company",
+    "name": "Mt Lowe Brewing Company",
+    "brewery_type": "micro",
+    "street": "150 E Saint Joseph St",
+    "city": "Arcadia",
+    "state": "California",
+    "postal_code": "91006-2851",
+    "website_url": "http://www.mtlowebrewing.com",
+    "phone": "6262447593",
+    "created_at": "2018-07-24 01:32:58.568865",
+    "updated_at": "2018-08-23 23:59:53.168299",
+    "country": "United States",
+    "longitude": "-118.026825367347",
+    "latitude": "34.1433223061224",
+    "tags": []
+  }
+]

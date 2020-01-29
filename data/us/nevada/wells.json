@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ruby-mountain-brewing-co",
+    "name": "Ruby Mountain Brewing Co",
+    "brewery_type": "micro",
+    "street": "HC 60 Box 100",
+    "city": "Wells",
+    "state": "Nevada",
+    "postal_code": "89835-9802",
+    "website_url": "http://www.rubymountainbrewing.com",
+    "phone": "7757522337",
+    "created_at": "2018-07-24 01:33:44.641947",
+    "updated_at": "2018-08-11 21:38:17.710634",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "42-north-brewing-company",
+    "name": "42 North Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "25 Pine St",
+    "city": "East Aurora",
+    "state": "New York",
+    "postal_code": "14052-1827",
+    "website_url": "http://www.42northbrewing.com",
+    "phone": "7168057500",
+    "created_at": "2018-07-24 01:33:48.960346",
+    "updated_at": "2018-08-24 15:37:56.627778",
+    "country": "United States",
+    "longitude": "-78.607989",
+    "latitude": "42.769311",
+    "tags": []
+  }
+]

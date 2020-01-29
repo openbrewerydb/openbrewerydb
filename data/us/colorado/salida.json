@@ -1,0 +1,36 @@
+[
+  {
+    "id": "moonlight-pizza",
+    "name": "Moonlight Pizza",
+    "brewery_type": "brewpub",
+    "street": "242 F St",
+    "city": "Salida",
+    "state": "Colorado",
+    "postal_code": "81201-2104",
+    "website_url": "http://www.moonlightpizza.biz",
+    "phone": "7195394277",
+    "created_at": "2018-07-24 01:33:06.60017",
+    "updated_at": "2018-08-24 00:23:52.956319",
+    "country": "United States",
+    "longitude": "-105.993161571429",
+    "latitude": "38.5350227142857",
+    "tags": []
+  },
+  {
+    "id": "soulcraft-brewing",
+    "name": "Soulcraft Brewing",
+    "brewery_type": "micro",
+    "street": "248 W US Highway 50",
+    "city": "Salida",
+    "state": "Colorado",
+    "postal_code": "81201-2347",
+    "website_url": "http://www.soulcraftbeer.com",
+    "phone": "7195395428",
+    "created_at": "2018-07-24 01:33:07.841657",
+    "updated_at": "2018-08-11 21:36:42.551318",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "trolley-barn-brewery",
+    "name": "Trolley Barn Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Quakertown",
+    "state": "Pennsylvania",
+    "postal_code": "18951",
+    "website_url": "http://www.trolleybarnpublicmarket.com",
+    "phone": "2154998959",
+    "created_at": "2018-07-24 01:34:13.250022",
+    "updated_at": "2018-08-11 21:39:32.796313",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "the-proper-brewing-company",
+    "name": "The Proper Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "117 W Broad St",
+    "city": "Quakertown",
+    "state": "Pennsylvania",
+    "postal_code": "18951-1200",
+    "website_url": "http://www.theproperbrewing.com",
+    "phone": "2674905168",
+    "created_at": "2018-07-24 01:34:13.103743",
+    "updated_at": "2018-08-24 16:12:41.263679",
+    "country": "United States",
+    "longitude": "-75.3413743667511",
+    "latitude": "40.4417752286715",
+    "tags": []
+  }
+]

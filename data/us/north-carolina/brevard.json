@@ -1,0 +1,53 @@
+[
+  {
+    "id": "oskar-blues-brewery-brevard",
+    "name": "Oskar Blues Brewery - Brevard",
+    "brewery_type": "regional",
+    "street": "342 Mountain Industrial Dr",
+    "city": "Brevard",
+    "state": "North Carolina",
+    "postal_code": "28712-5122",
+    "website_url": "http://www.oskarblues.com",
+    "phone": "3037760724",
+    "created_at": "2018-07-24 01:33:57.66185",
+    "updated_at": "2018-08-24 15:42:26.098624",
+    "country": "United States",
+    "longitude": "-82.7069595",
+    "latitude": "35.2536956",
+    "tags": []
+  },
+  {
+    "id": "brevard-brewing-co",
+    "name": "Brevard Brewing Co",
+    "brewery_type": "micro",
+    "street": "63 E Main St",
+    "city": "Brevard",
+    "state": "North Carolina",
+    "postal_code": "28712-3746",
+    "website_url": "http://www.brevard-brewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:55.386596",
+    "updated_at": "2018-08-24 15:41:16.776296",
+    "country": "United States",
+    "longitude": "-82.7303593",
+    "latitude": "35.2319789",
+    "tags": []
+  },
+  {
+    "id": "peaks-and-creeks-brewing-company",
+    "name": "Peaks and Creeks Brewing Company",
+    "brewery_type": "micro",
+    "street": "212 King St Ste B",
+    "city": "Brevard",
+    "state": "North Carolina",
+    "postal_code": "28712",
+    "website_url": "http://www.brevardlumberyard.com",
+    "phone": "8285504765",
+    "created_at": "2018-07-24 01:33:57.726689",
+    "updated_at": "2018-08-11 21:38:51.442105",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

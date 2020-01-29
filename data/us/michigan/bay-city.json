@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lumber-barons-brewery",
+    "name": "Lumber Barons Brewery",
+    "brewery_type": "brewpub",
+    "street": "804 E Midland St",
+    "city": "Bay City",
+    "state": "Michigan",
+    "postal_code": "48706-4953",
+    "website_url": "http://www.lumberbaronsbrewery.com",
+    "phone": "9898910100",
+    "created_at": "2018-07-24 01:33:35.387206",
+    "updated_at": "2018-08-11 21:37:52.399296",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "tri-city-brewing-co",
+    "name": "Tri City Brewing Co",
+    "brewery_type": "micro",
+    "street": "4170 Shrestha Dr",
+    "city": "Bay City",
+    "state": "Michigan",
+    "postal_code": "48706-2184",
+    "website_url": "http://www.tricitybrewing.com",
+    "phone": "9896861340",
+    "created_at": "2018-07-24 01:33:37.242763",
+    "updated_at": "2018-08-11 21:37:57.936751",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

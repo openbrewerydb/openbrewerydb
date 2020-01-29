@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wandering-star-brewing-co",
+    "name": "Wandering Star Brewing Co",
+    "brewery_type": "micro",
+    "street": "11 Gifford St",
+    "city": "Pittsfield",
+    "state": "Massachusetts",
+    "postal_code": "01201-3701",
+    "website_url": "http://www.wanderingstarbrewing.com",
+    "phone": "9175733942",
+    "created_at": "2018-07-24 01:33:32.280079",
+    "updated_at": "2018-08-24 00:41:56.112804",
+    "country": "United States",
+    "longitude": "-73.2120230280269",
+    "latitude": "42.4570644889269",
+    "tags": []
+  }
+]

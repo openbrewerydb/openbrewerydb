@@ -1,0 +1,36 @@
+[
+  {
+    "id": "half-moon-restaurant-and-brewery",
+    "name": "Half Moon Restaurant & Brewery",
+    "brewery_type": "brewpub",
+    "street": "4051 S Lafountain St",
+    "city": "Kokomo",
+    "state": "Indiana",
+    "postal_code": "46902-6913",
+    "website_url": "",
+    "phone": "7654552739",
+    "created_at": "2018-07-24 01:33:22.177203",
+    "updated_at": "2018-08-24 00:32:58.384738",
+    "country": "United States",
+    "longitude": "-86.1281745",
+    "latitude": "40.4362867",
+    "tags": []
+  },
+  {
+    "id": "tin-man-brewing-kokomo",
+    "name": "Tin Man Brewing Kokomo",
+    "brewery_type": "micro",
+    "street": "500 N Buckeye St Ste A",
+    "city": "Kokomo",
+    "state": "Indiana",
+    "postal_code": "46901-4544",
+    "website_url": "",
+    "phone": "5125176164",
+    "created_at": "2018-07-24 01:33:23.073517",
+    "updated_at": "2018-08-11 21:37:22.058211",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

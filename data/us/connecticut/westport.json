@@ -1,0 +1,19 @@
+[
+  {
+    "id": "beaver-beer-co",
+    "name": "Beaver Beer Co",
+    "brewery_type": "contract",
+    "street": "307 Greens Farms Rd",
+    "city": "Westport",
+    "state": "Connecticut",
+    "postal_code": "06880-6227",
+    "website_url": "http://www.beaverbeer.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:09.107595",
+    "updated_at": "2018-08-24 00:25:23.884827",
+    "country": "United States",
+    "longitude": "-73.311685",
+    "latitude": "41.12587",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pocono-brewery-company",
+    "name": "Pocono Brewery Company",
+    "brewery_type": "brewpub",
+    "street": "2092 Route 611",
+    "city": "Swiftwater",
+    "state": "Pennsylvania",
+    "postal_code": "18370-7773",
+    "website_url": "",
+    "phone": "5708391500",
+    "created_at": "2018-07-24 01:34:12.064419",
+    "updated_at": "2018-08-11 21:39:29.97724",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

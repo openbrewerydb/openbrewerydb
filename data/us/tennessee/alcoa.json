@@ -1,0 +1,19 @@
+[
+  {
+    "id": "blackhorse-brewery",
+    "name": "Blackhorse Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Alcoa",
+    "state": "Tennessee",
+    "postal_code": "37701",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:15.755589",
+    "updated_at": "2018-08-11 21:39:40.869554",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

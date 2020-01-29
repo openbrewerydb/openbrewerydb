@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tomoka-brewing-company",
+    "name": "Tomoka Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "4647 Clyde Morris Blvd Unit 504",
+    "city": "Port Orange",
+    "state": "Florida",
+    "postal_code": "32129-3001",
+    "website_url": "http://www.tomokabrewingco.com",
+    "phone": "3862564979",
+    "created_at": "2018-07-24 01:33:14.953164",
+    "updated_at": "2018-08-11 21:36:59.588126",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

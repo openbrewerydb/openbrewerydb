@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lake-louie-brewing-co",
+    "name": "Lake Louie Brewing Co",
+    "brewery_type": "micro",
+    "street": "7556 Pine Rd",
+    "city": "Arena",
+    "state": "Wisconsin",
+    "postal_code": "53503-9236",
+    "website_url": "http://www.lakelouie.com",
+    "phone": "6087532675",
+    "created_at": "2018-07-24 01:34:35.699617",
+    "updated_at": "2018-08-24 16:43:52.989513",
+    "country": "United States",
+    "longitude": "-89.9322691785827",
+    "latitude": "43.1729971906664",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "florida-keys-brewing-co",
+    "name": "Florida Keys Brewing Co.",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Islamorada",
+    "state": "Florida",
+    "postal_code": "33036",
+    "website_url": "http://www.floridakeysbrewingco.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:12.820595",
+    "updated_at": "2018-08-11 21:36:54.302543",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "islamorada-beer-company",
+    "name": "Islamorada Beer Company",
+    "brewery_type": "micro",
+    "street": "82229 Overseas Hwy",
+    "city": "Islamorada",
+    "state": "Florida",
+    "postal_code": "33036-3659",
+    "website_url": "http://www.islamoradabeerco.com",
+    "phone": "3055089093",
+    "created_at": "2018-07-24 01:33:13.400714",
+    "updated_at": "2018-08-24 00:27:39.497041",
+    "country": "United States",
+    "longitude": "-80.5805987",
+    "latitude": "24.9552722",
+    "tags": []
+  }
+]

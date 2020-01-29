@@ -1,0 +1,36 @@
+[
+  {
+    "id": "hereford-and-hops-steakhouse-and-brewpub",
+    "name": "Hereford and Hops Steakhouse and Brewpub",
+    "brewery_type": "brewpub",
+    "street": "624 Ludington St",
+    "city": "Escanaba",
+    "state": "Michigan",
+    "postal_code": "49829-3844",
+    "website_url": "http://www.herefordandhops.com",
+    "phone": "9067891945",
+    "created_at": "2018-07-24 01:33:34.785112",
+    "updated_at": "2018-08-24 00:43:12.088079",
+    "country": "United States",
+    "longitude": "-87.0564571",
+    "latitude": "45.7458964",
+    "tags": []
+  },
+  {
+    "id": "upper-hand-brewery",
+    "name": "Upper Hand Brewery",
+    "brewery_type": "micro",
+    "street": "3525 Airport Rd",
+    "city": "Escanaba",
+    "state": "Michigan",
+    "postal_code": "49829-1096",
+    "website_url": "http://www.upperhandbrewery.com",
+    "phone": "2693822338",
+    "created_at": "2018-07-24 01:33:37.353175",
+    "updated_at": "2018-08-24 00:44:35.516011",
+    "country": "United States",
+    "longitude": "-87.097528",
+    "latitude": "45.7164279",
+    "tags": []
+  }
+]

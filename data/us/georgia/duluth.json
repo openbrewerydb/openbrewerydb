@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-in-planning-suwanee",
+    "name": "Brewery In Planning Suwanee",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Duluth",
+    "state": "Georgia",
+    "postal_code": "30096-3282",
+    "website_url": "",
+    "phone": "6785717353",
+    "created_at": "2018-07-24 01:33:15.505442",
+    "updated_at": "2018-08-11 21:37:01.218115",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "good-word-brewing-and-public-house",
+    "name": "Good Word Brewing & Public House",
+    "brewery_type": "brewpub",
+    "street": "3085 Main St Ste 520",
+    "city": "Duluth",
+    "state": "Georgia",
+    "postal_code": "30096-3261",
+    "website_url": "http://www.goodwordbrewing.com",
+    "phone": "4049732077",
+    "created_at": "2018-07-24 01:33:15.768936",
+    "updated_at": "2018-08-11 21:37:01.965371",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

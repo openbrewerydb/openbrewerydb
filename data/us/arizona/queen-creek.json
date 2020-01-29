@@ -1,0 +1,19 @@
+[
+  {
+    "id": "old-ellsworth-brewing-company",
+    "name": "Old Ellsworth Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "22005 S Ellsworth Rd",
+    "city": "Queen Creek",
+    "state": "Arizona",
+    "postal_code": "85142-8707",
+    "website_url": "http://www.oldebc.com",
+    "phone": "4804330651",
+    "created_at": "2018-07-24 01:32:49.653103",
+    "updated_at": "2018-08-23 23:22:19.737951",
+    "country": "United States",
+    "longitude": "-111.634389355296",
+    "latitude": "33.2451128463629",
+    "tags": []
+  }
+]

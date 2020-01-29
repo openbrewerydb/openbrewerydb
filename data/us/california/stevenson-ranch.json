@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brewery-in-planning-stevenson-ranch",
+    "name": "Brewery in Planning - Stevenson Ranch",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Stevenson Ranch",
+    "state": "California",
+    "postal_code": "91381-1827",
+    "website_url": "",
+    "phone": "8184298572",
+    "created_at": "2018-07-24 01:32:53.2135",
+    "updated_at": "2018-08-23 23:26:07.363212",
+    "country": "United States",
+    "longitude": "-118.5826635",
+    "latitude": "34.3864721",
+    "tags": []
+  }
+]

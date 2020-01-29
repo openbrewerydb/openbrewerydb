@@ -1,0 +1,53 @@
+[
+  {
+    "id": "mine-shaft-brewing",
+    "name": "Mine Shaft Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Park City",
+    "state": "Utah",
+    "postal_code": "84098-6724",
+    "website_url": "http://www.mineshaftbrewingpc.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:22.609356",
+    "updated_at": "2018-08-11 21:39:57.54073",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "park-city-brewery",
+    "name": "Park City Brewery",
+    "brewery_type": "micro",
+    "street": "2720 Rasmussen Rd Ste A1",
+    "city": "Park City",
+    "state": "Utah",
+    "postal_code": "84098-5751",
+    "website_url": "http://www.parkcitybrewery.com",
+    "phone": "4352008906",
+    "created_at": "2018-07-24 01:34:22.651669",
+    "updated_at": "2018-08-11 21:39:57.61063",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "wasatch-brew-pub-park-city",
+    "name": "Wasatch Brew Pub - Park City",
+    "brewery_type": "micro",
+    "street": "250 Main St",
+    "city": "Park City",
+    "state": "Utah",
+    "postal_code": "84060-5113",
+    "website_url": "http://www.wasatchbeers.com",
+    "phone": "4356490900",
+    "created_at": "2018-07-24 01:34:22.946628",
+    "updated_at": "2018-08-24 16:25:22.519177",
+    "country": "United States",
+    "longitude": "-111.4945836",
+    "latitude": "40.6418424",
+    "tags": []
+  }
+]

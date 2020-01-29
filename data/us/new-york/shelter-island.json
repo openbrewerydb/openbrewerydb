@@ -1,0 +1,19 @@
+[
+  {
+    "id": "shelter-island-craft-brewery",
+    "name": "Shelter Island Craft Brewery",
+    "brewery_type": "brewpub",
+    "street": "55 N Ferry Rd",
+    "city": "Shelter Island",
+    "state": "New York",
+    "postal_code": "11964",
+    "website_url": "http://www.home.shelterislandcraftbrewery.com",
+    "phone": "6317495977",
+    "created_at": "2018-07-24 01:33:53.520598",
+    "updated_at": "2018-08-24 15:40:17.583043",
+    "country": "United States",
+    "longitude": "-72.3398761593646",
+    "latitude": "41.0714822",
+    "tags": []
+  }
+]

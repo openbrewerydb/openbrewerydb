@@ -1,0 +1,19 @@
+[
+  {
+    "id": "constantine-brewing-co",
+    "name": "Constantine Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "145 S Washington St",
+    "city": "Constantine",
+    "state": "Michigan",
+    "postal_code": "49042-1047",
+    "website_url": "http://www.constantinebrewingco.com",
+    "phone": "2694351230",
+    "created_at": "2018-07-24 01:33:33.790229",
+    "updated_at": "2018-08-24 00:42:38.080124",
+    "country": "United States",
+    "longitude": "-85.668595877551",
+    "latitude": "41.8416421632653",
+    "tags": []
+  }
+]

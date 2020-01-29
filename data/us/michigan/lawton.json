@@ -1,0 +1,19 @@
+[
+  {
+    "id": "barn-brewers",
+    "name": "Barn Brewers",
+    "brewery_type": "brewpub",
+    "street": "114 N Main St",
+    "city": "Lawton",
+    "state": "Michigan",
+    "postal_code": "49065-8634",
+    "website_url": "http://www.barnbrewersbrewery.com",
+    "phone": "2692990482",
+    "created_at": "2018-07-24 01:33:32.819408",
+    "updated_at": "2018-08-24 00:42:11.211442",
+    "country": "United States",
+    "longitude": "-85.8496644285714",
+    "latitude": "42.1683481428571",
+    "tags": []
+  }
+]

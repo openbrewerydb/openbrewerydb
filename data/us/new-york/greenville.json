@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hop-barn-brewing",
+    "name": "Hop Barn Brewing",
+    "brewery_type": "micro",
+    "street": "94 Maple Ave",
+    "city": "Greenville",
+    "state": "New York",
+    "postal_code": "12083-3311",
+    "website_url": "http://hopbarnbrewing.com",
+    "phone": "5189564762",
+    "created_at": "2018-07-24 01:33:51.655297",
+    "updated_at": "2018-08-24 15:39:19.404355",
+    "country": "United States",
+    "longitude": "-74.0551081694932",
+    "latitude": "42.4213433306986",
+    "tags": []
+  }
+]

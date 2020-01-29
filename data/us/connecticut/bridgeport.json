@@ -1,0 +1,36 @@
+[
+  {
+    "id": "aspetuck-brew-lab",
+    "name": "Aspetuck Brew Lab",
+    "brewery_type": "micro",
+    "street": "3389 Fairfield Avenue",
+    "city": "Bridgeport",
+    "state": "Connecticut",
+    "postal_code": "06605",
+    "website_url": "http://www.aspetuckbrewlab.com",
+    "phone": "2032539423",
+    "created_at": "2018-07-24 01:33:09.044235",
+    "updated_at": "2018-08-24 00:25:21.671247",
+    "country": "United States",
+    "longitude": "-73.2357109",
+    "latitude": "41.1544649",
+    "tags": []
+  },
+  {
+    "id": "brewport-brewing-co",
+    "name": "Brewport Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "225 S Frontage Rd",
+    "city": "Bridgeport",
+    "state": "Connecticut",
+    "postal_code": "06604-5031",
+    "website_url": "http://www.brewportct.com",
+    "phone": "2036124438",
+    "created_at": "2018-07-24 01:33:09.227748",
+    "updated_at": "2018-08-24 00:25:28.136769",
+    "country": "United States",
+    "longitude": "-73.1923862727273",
+    "latitude": "41.170877",
+    "tags": []
+  }
+]

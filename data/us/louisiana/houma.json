@@ -1,0 +1,19 @@
+[
+  {
+    "id": "spigots-brew-pub",
+    "name": "Spigots Brew Pub",
+    "brewery_type": "brewpub",
+    "street": "622 Barrow St",
+    "city": "Houma",
+    "state": "Louisiana",
+    "postal_code": "70360-4608",
+    "website_url": "http://www.spigotsbrewpub.com",
+    "phone": "9853333103",
+    "created_at": "2018-07-24 01:33:26.563716",
+    "updated_at": "2018-08-24 00:39:26.266657",
+    "country": "United States",
+    "longitude": "-90.7197456530612",
+    "latitude": "29.5939655102041",
+    "tags": []
+  }
+]

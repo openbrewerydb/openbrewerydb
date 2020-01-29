@@ -1,0 +1,19 @@
+[
+  {
+    "id": "humble-farmer-brewing-co-inc",
+    "name": "Humble Farmer Brewing Co., Inc.",
+    "brewery_type": "micro",
+    "street": "438 Walnut Ave",
+    "city": "Holtville",
+    "state": "California",
+    "postal_code": "92250-1343",
+    "website_url": "http://www.humblefarmerbrewing.com",
+    "phone": "7603567066",
+    "created_at": "2018-07-24 01:32:56.71098",
+    "updated_at": "2018-08-23 23:29:40.092588",
+    "country": "United States",
+    "longitude": "-115.376335",
+    "latitude": "32.8093331020408",
+    "tags": []
+  }
+]

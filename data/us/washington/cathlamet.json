@@ -1,0 +1,19 @@
+[
+  {
+    "id": "river-mile-38-brewing-co",
+    "name": "River Mile 38 Brewing Co",
+    "brewery_type": "micro",
+    "street": "285 3rd St",
+    "city": "Cathlamet",
+    "state": "Washington",
+    "postal_code": "98612-9561",
+    "website_url": "http://www.rivermile38.com",
+    "phone": "3603554662",
+    "created_at": "2018-07-24 01:34:32.465181",
+    "updated_at": "2018-08-24 16:38:43.048398",
+    "country": "United States",
+    "longitude": "-123.3853742",
+    "latitude": "46.2054338",
+    "tags": []
+  }
+]

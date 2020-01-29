@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sevens-brew-pub",
+    "name": "Sevens Brew Pub",
+    "brewery_type": "brewpub",
+    "street": "5857 Route 96",
+    "city": "Farmington",
+    "state": "New York",
+    "postal_code": "14425",
+    "website_url": "http://www.fingerlakesgaming.com",
+    "phone": "5959243232",
+    "created_at": "2018-07-24 01:33:53.5081",
+    "updated_at": "2018-08-11 21:38:41.214729",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

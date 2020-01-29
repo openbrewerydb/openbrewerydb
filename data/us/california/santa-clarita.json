@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pocock-brewing-company",
+    "name": "Pocock Brewing Company",
+    "brewery_type": "micro",
+    "street": "24907 Avenue Tibbitts Ste B",
+    "city": "Santa Clarita",
+    "state": "California",
+    "postal_code": "91355-3487",
+    "website_url": "http://www.pocockbrewing.com",
+    "phone": "6617754899",
+    "created_at": "2018-07-24 01:32:59.61209",
+    "updated_at": "2018-08-24 00:01:04.642331",
+    "country": "United States",
+    "longitude": "-118.571182040816",
+    "latitude": "34.4307943469388",
+    "tags": []
+  }
+]

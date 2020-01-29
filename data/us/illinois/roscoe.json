@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ryan-brewing-company",
+    "name": "Ryan Brewing Company",
+    "brewery_type": "micro",
+    "street": "5312 Williams Dr",
+    "city": "Roscoe",
+    "state": "Illinois",
+    "postal_code": "61073",
+    "website_url": "http://www.ryanbrewingcompany.com",
+    "phone": "8152701223",
+    "created_at": "2018-07-24 01:33:20.546116",
+    "updated_at": "2018-08-24 00:32:03.945231",
+    "country": "United States",
+    "longitude": "-89.0101578170468",
+    "latitude": "42.4211214006387",
+    "tags": []
+  }
+]

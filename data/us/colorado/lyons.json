@@ -1,0 +1,19 @@
+[
+  {
+    "id": "oskar-blues-brewery-lyons",
+    "name": "Oskar Blues Brewery - Lyons",
+    "brewery_type": "brewpub",
+    "street": "303 Main St",
+    "city": "Lyons",
+    "state": "Colorado",
+    "postal_code": "80540",
+    "website_url": "http://www.oskarblues.com",
+    "phone": "3038236685",
+    "created_at": "2018-07-24 01:33:06.85931",
+    "updated_at": "2018-08-24 00:24:04.297752",
+    "country": "United States",
+    "longitude": "-105.267693405737",
+    "latitude": "40.2245133216038",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "von-scheidt-brewing-co",
+    "name": "Von Scheidt Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "157 2nd Ave W",
+    "city": "Twin Falls",
+    "state": "Idaho",
+    "postal_code": "83301-6015",
+    "website_url": "http://www.vonscheidtbrewing.com",
+    "phone": "2083299608",
+    "created_at": "2018-07-24 01:33:17.718246",
+    "updated_at": "2018-08-24 00:30:18.042779",
+    "country": "United States",
+    "longitude": "-114.471756",
+    "latitude": "42.5556194285714",
+    "tags": []
+  }
+]

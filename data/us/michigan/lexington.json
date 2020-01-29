@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lexington-brewing-co",
+    "name": "Lexington Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "5475 Main St",
+    "city": "Lexington",
+    "state": "Michigan",
+    "postal_code": "48450-",
+    "website_url": "http://www.lexingtonbrewery.com",
+    "phone": "8103595012",
+    "created_at": "2018-07-24 01:33:35.258994",
+    "updated_at": "2018-08-24 00:43:26.971991",
+    "country": "United States",
+    "longitude": "-82.530867",
+    "latitude": "43.2678755",
+    "tags": []
+  }
+]

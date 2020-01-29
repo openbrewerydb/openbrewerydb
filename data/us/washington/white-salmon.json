@@ -1,0 +1,19 @@
+[
+  {
+    "id": "everybodys-brewing-co",
+    "name": "Everybody's Brewing Co",
+    "brewery_type": "micro",
+    "street": "151 E Jewett Blvd",
+    "city": "White Salmon",
+    "state": "Washington",
+    "postal_code": "98672-8976",
+    "website_url": "http://www.everybodysbrewing.com",
+    "phone": "5096372774",
+    "created_at": "2018-07-24 01:34:29.572855",
+    "updated_at": "2018-08-24 16:34:31.390263",
+    "country": "United States",
+    "longitude": "-121.486110272598",
+    "latitude": "45.727702985782",
+    "tags": []
+  }
+]

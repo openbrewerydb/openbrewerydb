@@ -1,0 +1,36 @@
+[
+  {
+    "id": "asbury-park-brewery",
+    "name": "Asbury Park Brewery",
+    "brewery_type": "micro",
+    "street": "810 Sewall Ave",
+    "city": "Asbury Park",
+    "state": "New Jersey",
+    "postal_code": "07712-6527",
+    "website_url": "http://www.asburyparkbrewery.com",
+    "phone": "7324555571",
+    "created_at": "2018-07-24 01:33:46.059274",
+    "updated_at": "2018-08-24 15:36:28.413935",
+    "country": "United States",
+    "longitude": "-74.0122928163265",
+    "latitude": "40.2195666122449",
+    "tags": []
+  },
+  {
+    "id": "dark-city-brewing-company",
+    "name": "Dark City Brewing Company",
+    "brewery_type": "micro",
+    "street": "801 Second Ave",
+    "city": "Asbury Park",
+    "state": "New Jersey",
+    "postal_code": "07712-",
+    "website_url": "http://www.darkcitybrewing.com",
+    "phone": "7324553792",
+    "created_at": "2018-07-24 01:33:46.565946",
+    "updated_at": "2018-08-11 21:38:23.022874",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

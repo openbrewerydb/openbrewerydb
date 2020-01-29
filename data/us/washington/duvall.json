@@ -1,0 +1,19 @@
+[
+  {
+    "id": "valley-house-brewing",
+    "name": "Valley House Brewing",
+    "brewery_type": "brewpub",
+    "street": "16111 Main St NE",
+    "city": "Duvall",
+    "state": "Washington",
+    "postal_code": "98019-8490",
+    "website_url": "http://www.valleyhousebrewing.com",
+    "phone": "4253186363",
+    "created_at": "2018-07-24 01:34:33.574726",
+    "updated_at": "2018-08-24 16:40:30.809786",
+    "country": "United States",
+    "longitude": "-121.985884591837",
+    "latitude": "47.7431528571429",
+    "tags": []
+  }
+]

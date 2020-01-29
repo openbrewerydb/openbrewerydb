@@ -1,0 +1,19 @@
+[
+  {
+    "id": "yonkers-brewing-co",
+    "name": "Yonkers Brewing Co",
+    "brewery_type": "micro",
+    "street": "92 Main St",
+    "city": "Yonkers",
+    "state": "New York",
+    "postal_code": "10701-7065",
+    "website_url": "http://www.yonkersbrewing.com",
+    "phone": "9143915805",
+    "created_at": "2018-07-24 01:33:54.712366",
+    "updated_at": "2018-08-24 15:40:54.73687",
+    "country": "United States",
+    "longitude": "-73.9029331",
+    "latitude": "40.9345744",
+    "tags": []
+  }
+]

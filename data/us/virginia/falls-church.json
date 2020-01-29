@@ -1,0 +1,53 @@
+[
+  {
+    "id": "audacious-aleworks",
+    "name": "Audacious Aleworks",
+    "brewery_type": "micro",
+    "street": "110 E Fairfax St",
+    "city": "Falls Church",
+    "state": "Virginia",
+    "postal_code": "22046",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:24.074924",
+    "updated_at": "2018-08-24 16:27:05.407781",
+    "country": "United States",
+    "longitude": "-77.1723435909091",
+    "latitude": "38.8807648181818",
+    "tags": []
+  },
+  {
+    "id": "great-american-restaurants-sweetwater-tavern",
+    "name": "Great American Restaurants, Sweetwater Tavern",
+    "brewery_type": "brewpub",
+    "street": "3066 Gate House Plz",
+    "city": "Falls Church",
+    "state": "Virginia",
+    "postal_code": "22042-1028",
+    "website_url": "http://www.greatamericanrestaurants.com",
+    "phone": "7036458100",
+    "created_at": "2018-07-24 01:34:25.455188",
+    "updated_at": "2018-08-11 21:40:05.479098",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "mad-fox-brewing-co",
+    "name": "Mad Fox Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "444 W Broad St Ste I",
+    "city": "Falls Church",
+    "state": "Virginia",
+    "postal_code": "22046-3362",
+    "website_url": "http://www.madfoxbrewing.com",
+    "phone": "7039426840",
+    "created_at": "2018-07-24 01:34:25.970814",
+    "updated_at": "2018-08-11 21:40:06.707453",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

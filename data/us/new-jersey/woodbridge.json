@@ -1,0 +1,19 @@
+[
+  {
+    "id": "jj-bitting-brewing-co",
+    "name": "J.J. Bitting Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "33 Main St",
+    "city": "Woodbridge",
+    "state": "New Jersey",
+    "postal_code": "07095-3335",
+    "website_url": "http://www.njbrewpubs.com",
+    "phone": "7326342929",
+    "created_at": "2018-07-24 01:33:46.936877",
+    "updated_at": "2018-08-24 15:36:53.314181",
+    "country": "United States",
+    "longitude": "-74.2771789476704",
+    "latitude": "40.55461595",
+    "tags": []
+  }
+]

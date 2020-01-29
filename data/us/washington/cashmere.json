@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mile-post-111-brewing",
+    "name": "Mile Post 111 Brewing",
+    "brewery_type": "brewpub",
+    "street": "407 Aplets Way",
+    "city": "Cashmere",
+    "state": "Washington",
+    "postal_code": "98815",
+    "website_url": "http://www.milepost111brewingcompany.com",
+    "phone": "5098880222",
+    "created_at": "2018-07-24 01:34:31.225453",
+    "updated_at": "2018-08-24 16:36:55.972023",
+    "country": "United States",
+    "longitude": "-120.4700494",
+    "latitude": "47.5236059",
+    "tags": []
+  }
+]

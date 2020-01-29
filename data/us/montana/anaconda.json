@@ -1,0 +1,19 @@
+[
+  {
+    "id": "smelter-city-brewing",
+    "name": "Smelter City Brewing",
+    "brewery_type": "micro",
+    "street": "101 E Commercial Ave",
+    "city": "Anaconda",
+    "state": "Montana",
+    "postal_code": "59711-2289",
+    "website_url": "http://www.smeltercitybrewing.com",
+    "phone": "4065630344",
+    "created_at": "2018-07-24 01:33:43.152951",
+    "updated_at": "2018-08-24 00:47:26.044816",
+    "country": "United States",
+    "longitude": "-112.95216",
+    "latitude": "46.130107",
+    "tags": []
+  }
+]

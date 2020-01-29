@@ -1,0 +1,36 @@
+[
+  {
+    "id": "grits-brewing",
+    "name": "GRITS Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Chamblee",
+    "state": "Georgia",
+    "postal_code": "30341-2024",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:15.794109",
+    "updated_at": "2018-08-11 21:37:02.043168",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "hopstix",
+    "name": "Hopstix",
+    "brewery_type": "brewpub",
+    "street": "3404 Pierce Dr NE",
+    "city": "Chamblee",
+    "state": "Georgia",
+    "postal_code": "30341-2444",
+    "website_url": "http://www.hopstix.com",
+    "phone": "6788882306",
+    "created_at": "2018-07-24 01:33:15.831521",
+    "updated_at": "2018-08-11 21:37:02.153859",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

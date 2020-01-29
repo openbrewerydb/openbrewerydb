@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kennebec-river-brewery",
+    "name": "Kennebec River Brewery",
+    "brewery_type": "brewpub",
+    "street": "1771 US Rte 201",
+    "city": "West Forks",
+    "state": "Maine",
+    "postal_code": "04985-0100",
+    "website_url": "http://www.northernoutdoors.com",
+    "phone": "8007657238",
+    "created_at": "2018-07-24 01:33:27.344303",
+    "updated_at": "2018-08-11 21:37:32.424095",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

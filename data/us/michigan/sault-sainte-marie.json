@@ -1,0 +1,53 @@
+[
+  {
+    "id": "superior-coast-brewery-/-karls-cuisine-winery-and-brewery",
+    "name": "Superior Coast Brewery / Karls Cuisine Winery and Brewery",
+    "brewery_type": "brewpub",
+    "street": "447 W Portage Ave",
+    "city": "Sault Sainte Marie",
+    "state": "Michigan",
+    "postal_code": "49783-1989",
+    "website_url": "http://www.karlscuisine.com",
+    "phone": "9062531900",
+    "created_at": "2018-07-24 01:33:36.793576",
+    "updated_at": "2018-08-24 00:44:17.309851",
+    "country": "United States",
+    "longitude": "-84.3534467145293",
+    "latitude": "46.5017939624522",
+    "tags": []
+  },
+  {
+    "id": "lockside-brewery-/-1668-winery",
+    "name": "Lockside Brewery / 1668 Winery",
+    "brewery_type": "brewpub",
+    "street": "100 W Portage Ave",
+    "city": "Sault Sainte Marie",
+    "state": "Michigan",
+    "postal_code": "49783-1920",
+    "website_url": "http://1668winery.com/thebeers/",
+    "phone": "9062595035",
+    "created_at": "2018-07-24 01:33:35.321646",
+    "updated_at": "2018-08-24 00:43:29.363672",
+    "country": "United States",
+    "longitude": "-84.34705",
+    "latitude": "46.500695",
+    "tags": []
+  },
+  {
+    "id": "soo-brewing-company",
+    "name": "Soo Brewing Company",
+    "brewery_type": "micro",
+    "street": "223 W Portage Ave",
+    "city": "Sault Sainte Marie",
+    "state": "Michigan",
+    "postal_code": "49783-1921",
+    "website_url": "http://www.soobrew.com",
+    "phone": "9066324400",
+    "created_at": "2018-07-24 01:33:36.617912",
+    "updated_at": "2018-08-24 00:44:11.446664",
+    "country": "United States",
+    "longitude": "-84.3482782040816",
+    "latitude": "46.5008979387755",
+    "tags": []
+  }
+]

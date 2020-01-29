@@ -1,0 +1,36 @@
+[
+  {
+    "id": "wyoming-territory-brewing-/-eric-bischoff-family-brewing",
+    "name": "Wyoming Territory Brewing / Eric Bischoff Family Brewing",
+    "brewery_type": "contract",
+    "street": "",
+    "city": "Cody",
+    "state": "Wyoming",
+    "postal_code": "82414",
+    "website_url": "http://www.buffalobillcodybeer.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:37.705745",
+    "updated_at": "2018-08-11 21:40:39.013696",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "pat-ohara-brewing-company",
+    "name": "Pat O'Hara Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "1019 15th St",
+    "city": "Cody",
+    "state": "Wyoming",
+    "postal_code": "82414-3721",
+    "website_url": "",
+    "phone": "3075865410",
+    "created_at": "2018-07-24 01:34:37.551695",
+    "updated_at": "2018-08-24 16:47:01.867662",
+    "country": "United States",
+    "longitude": "-109.058375028327",
+    "latitude": "44.526782651335",
+    "tags": []
+  }
+]

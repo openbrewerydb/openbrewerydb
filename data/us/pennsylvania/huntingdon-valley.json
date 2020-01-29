@@ -1,0 +1,53 @@
+[
+  {
+    "id": "iron-hill-brewery-and-restaurant-huntingdon-valley",
+    "name": "Iron Hill Brewery & Restaurant - Huntingdon Valley",
+    "brewery_type": "brewpub",
+    "street": "785 Huntingdon Pike",
+    "city": "Huntingdon Valley",
+    "state": "Pennsylvania",
+    "postal_code": "19006-8362",
+    "website_url": "http://www.ironhillbrewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:11.022821",
+    "updated_at": "2018-08-24 16:09:23.248769",
+    "country": "United States",
+    "longitude": "-75.0674691",
+    "latitude": "40.1192109",
+    "tags": []
+  },
+  {
+    "id": "moss-mill-brewing",
+    "name": "Moss Mill Brewing",
+    "brewery_type": "micro",
+    "street": "109 Pike Cir Ste D",
+    "city": "Huntingdon Valley",
+    "state": "Pennsylvania",
+    "postal_code": "19006-1630",
+    "website_url": "http://www.mossmillbrewing.com",
+    "phone": "2679822297",
+    "created_at": "2018-07-24 01:34:11.73968",
+    "updated_at": "2018-08-11 21:39:29.222507",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "naked-brewing-co",
+    "name": "Naked Brewing Co",
+    "brewery_type": "micro",
+    "street": "51 Buck Rd",
+    "city": "Huntingdon Valley",
+    "state": "Pennsylvania",
+    "postal_code": "19006-1501",
+    "website_url": "http://www.nakedbrewingcompany.com",
+    "phone": "2673559561",
+    "created_at": "2018-07-24 01:34:11.778909",
+    "updated_at": "2018-08-11 21:39:29.305439",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

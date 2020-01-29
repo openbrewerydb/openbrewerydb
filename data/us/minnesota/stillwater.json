@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lift-bridge-brewery",
+    "name": "Lift Bridge Brewery",
+    "brewery_type": "micro",
+    "street": "1900 Tower Dr W",
+    "city": "Stillwater",
+    "state": "Minnesota",
+    "postal_code": "55082-7515",
+    "website_url": "http://www.liftbridgebrewery.com",
+    "phone": "8884302337",
+    "created_at": "2018-07-24 01:33:39.057131",
+    "updated_at": "2018-08-24 00:45:30.262829",
+    "country": "United States",
+    "longitude": "-92.8317848",
+    "latitude": "45.0391054",
+    "tags": []
+  },
+  {
+    "id": "maple-island-brewing",
+    "name": "Maple Island Brewing",
+    "brewery_type": "micro",
+    "street": "225 Main St N",
+    "city": "Stillwater",
+    "state": "Minnesota",
+    "postal_code": "55082-5021",
+    "website_url": "http://www.mapleislandbrewing.com",
+    "phone": "6514300044",
+    "created_at": "2018-07-24 01:33:39.186487",
+    "updated_at": "2018-08-24 00:45:34.346274",
+    "country": "United States",
+    "longitude": "-92.8065391212121",
+    "latitude": "45.0577993030303",
+    "tags": []
+  }
+]

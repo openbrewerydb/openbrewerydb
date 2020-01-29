@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ballad-brewing",
+    "name": "Ballad Brewing",
+    "brewery_type": "micro",
+    "street": "600 Craghead St",
+    "city": "Danville",
+    "state": "Virginia",
+    "postal_code": "24541-1504",
+    "website_url": "http://www.balladbrewing.com",
+    "phone": "8049250109",
+    "created_at": "2018-07-24 01:34:24.241291",
+    "updated_at": "2018-08-24 16:27:15.838765",
+    "country": "United States",
+    "longitude": "-79.386371",
+    "latitude": "36.584786",
+    "tags": []
+  },
+  {
+    "id": "2-witches-winery-and-brewing-company",
+    "name": "2 Witches Winery and Brewing Company",
+    "brewery_type": "micro",
+    "street": "209 Trade St",
+    "city": "Danville",
+    "state": "Virginia",
+    "postal_code": "24541-3545",
+    "website_url": "http://www.2witcheswinebrew.com",
+    "phone": "4345492739",
+    "created_at": "2018-07-24 01:34:23.90816",
+    "updated_at": "2018-08-24 16:26:47.616314",
+    "country": "United States",
+    "longitude": "-79.4212555321536",
+    "latitude": "36.5859034854422",
+    "tags": []
+  }
+]

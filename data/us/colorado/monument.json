@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pikes-peak-brewing",
+    "name": "Pikes Peak Brewing",
+    "brewery_type": "micro",
+    "street": "1756 Lake Woodmoor Dr",
+    "city": "Monument",
+    "state": "Colorado",
+    "postal_code": "80132-9215",
+    "website_url": "http://www.pikespeakbrewing.com",
+    "phone": "7192084098",
+    "created_at": "2018-07-24 01:33:07.119067",
+    "updated_at": "2018-08-11 21:36:40.461002",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

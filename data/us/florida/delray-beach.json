@@ -1,0 +1,19 @@
+[
+  {
+    "id": "saltwater-brewery",
+    "name": "Saltwater Brewery",
+    "brewery_type": "micro",
+    "street": "1701 W Atlantic Ave",
+    "city": "Delray Beach",
+    "state": "Florida",
+    "postal_code": "33444-1566",
+    "website_url": "http://www.saltwaterbrewery.com",
+    "phone": "6092808464",
+    "created_at": "2018-07-24 01:33:14.458886",
+    "updated_at": "2018-08-24 00:28:23.012091",
+    "country": "United States",
+    "longitude": "-80.0913747",
+    "latitude": "26.4619509",
+    "tags": []
+  }
+]

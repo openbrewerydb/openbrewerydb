@@ -1,0 +1,19 @@
+[
+  {
+    "id": "chattabrewchee-southern-brewhouse",
+    "name": "Chattabrewchee Southern Brewhouse",
+    "brewery_type": "micro",
+    "street": "709 4th Ave",
+    "city": "West Point",
+    "state": "Georgia",
+    "postal_code": "31833-1506",
+    "website_url": "http://www.chattabrewchee.com",
+    "phone": "7065011151",
+    "created_at": "2018-07-24 01:33:15.554137",
+    "updated_at": "2018-08-24 00:28:59.773004",
+    "country": "United States",
+    "longitude": "-85.1853615243903",
+    "latitude": "32.8762576310151",
+    "tags": []
+  }
+]

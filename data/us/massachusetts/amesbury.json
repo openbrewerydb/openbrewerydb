@@ -1,0 +1,36 @@
+[
+  {
+    "id": "barewolf-brewing",
+    "name": "BareWolf Brewing",
+    "brewery_type": "micro",
+    "street": "12 Oakland St",
+    "city": "Amesbury",
+    "state": "Massachusetts",
+    "postal_code": "01913",
+    "website_url": "http://www.barewolfbrewing.com",
+    "phone": "9783906540",
+    "created_at": "2018-07-24 01:33:30.142799",
+    "updated_at": "2018-08-24 00:41:00.813237",
+    "country": "United States",
+    "longitude": "-70.9233651776547",
+    "latitude": "42.856069285464",
+    "tags": []
+  },
+  {
+    "id": "brewery-silvaticus",
+    "name": "Brewery Silvaticus",
+    "brewery_type": "brewpub",
+    "street": "9 Water St",
+    "city": "Amesbury",
+    "state": "Massachusetts",
+    "postal_code": "01913-2936",
+    "website_url": "http://www.silvaticusbeers.com",
+    "phone": "9785042337",
+    "created_at": "2018-07-24 01:33:30.536976",
+    "updated_at": "2018-08-24 00:41:08.672545",
+    "country": "United States",
+    "longitude": "-70.9295559",
+    "latitude": "42.8573815",
+    "tags": []
+  }
+]

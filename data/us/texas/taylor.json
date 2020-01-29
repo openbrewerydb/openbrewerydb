@@ -1,0 +1,36 @@
+[
+  {
+    "id": "texas-beer-company",
+    "name": "Texas Beer Company",
+    "brewery_type": "micro",
+    "street": "1331 W 2nd St",
+    "city": "Taylor",
+    "state": "Texas",
+    "postal_code": "76574-2434",
+    "website_url": "http://www.texasbeerco.com",
+    "phone": "5122897460",
+    "created_at": "2018-07-24 01:34:21.578433",
+    "updated_at": "2018-08-24 16:23:34.456504",
+    "country": "United States",
+    "longitude": "-97.4242441578947",
+    "latitude": "30.5678257894737",
+    "tags": []
+  },
+  {
+    "id": "texas-beer-company",
+    "name": "Texas Beer Company",
+    "brewery_type": "micro",
+    "street": "201 N Main St",
+    "city": "Taylor",
+    "state": "Texas",
+    "postal_code": "76574",
+    "website_url": "",
+    "phone": "5124666939",
+    "created_at": "2018-07-24 01:34:21.590956",
+    "updated_at": "2018-08-24 16:23:36.120246",
+    "country": "United States",
+    "longitude": "-97.409585",
+    "latitude": "30.568804",
+    "tags": []
+  }
+]

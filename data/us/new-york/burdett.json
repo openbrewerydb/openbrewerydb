@@ -1,0 +1,36 @@
+[
+  {
+    "id": "two-goats-brewing",
+    "name": "Two Goats Brewing",
+    "brewery_type": "brewpub",
+    "street": "5027 State Route 414",
+    "city": "Burdett",
+    "state": "New York",
+    "postal_code": "14818-9816",
+    "website_url": "http://www.twogoatsbrewing.com",
+    "phone": "607546",
+    "created_at": "2018-07-24 01:33:54.300287",
+    "updated_at": "2018-08-11 21:38:43.193669",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "grist-iron-brewing-co",
+    "name": "Grist Iron Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "4880 State Route 414",
+    "city": "Burdett",
+    "state": "New York",
+    "postal_code": "14818-9729",
+    "website_url": "http://www.gristironbrewing.com",
+    "phone": "6078822739",
+    "created_at": "2018-07-24 01:33:51.451677",
+    "updated_at": "2018-08-11 21:38:35.493436",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

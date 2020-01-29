@@ -1,0 +1,19 @@
+[
+  {
+    "id": "black-hat-brew-works",
+    "name": "Black Hat Brew Works",
+    "brewery_type": "micro",
+    "street": "25 Scotland Blvd # 1",
+    "city": "Bridgewater",
+    "state": "Massachusetts",
+    "postal_code": "02324-2302",
+    "website_url": "http://www.blackhatbrewworks.com",
+    "phone": "5088075172",
+    "created_at": "2018-07-24 01:33:30.286704",
+    "updated_at": "2018-08-11 21:37:38.855572",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

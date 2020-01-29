@@ -1,0 +1,19 @@
+[
+  {
+    "id": "marin-brewing-co",
+    "name": "Marin Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1809 Larkspur Landing Cir",
+    "city": "Larkspur",
+    "state": "California",
+    "postal_code": "94939-1801",
+    "website_url": "http://www.marinbrewing.com",
+    "phone": "4154614677",
+    "created_at": "2018-07-24 01:32:58.195728",
+    "updated_at": "2018-08-23 23:59:26.6007",
+    "country": "United States",
+    "longitude": "-122.5068874",
+    "latitude": "37.9458177",
+    "tags": []
+  }
+]

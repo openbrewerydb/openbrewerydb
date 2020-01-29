@@ -1,0 +1,19 @@
+[
+  {
+    "id": "canyon-club-brewery",
+    "name": "Canyon Club Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Moraga",
+    "state": "California",
+    "postal_code": "94556",
+    "website_url": "http://www.canyonclub.works",
+    "phone": "8087992005",
+    "created_at": "2018-07-24 01:32:53.546312",
+    "updated_at": "2018-08-23 23:26:27.342647",
+    "country": "United States",
+    "longitude": "-122.12883",
+    "latitude": "37.834897",
+    "tags": []
+  }
+]

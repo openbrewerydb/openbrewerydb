@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hammer-and-forge-brewing-company",
+    "name": "Hammer & Forge Brewing Company",
+    "brewery_type": "micro",
+    "street": "70 Main Street",
+    "city": "Boones Mill",
+    "state": "Virginia",
+    "postal_code": "24064",
+    "website_url": "http://www.hammerandforgebrewing.com",
+    "phone": "5406133913",
+    "created_at": "2018-07-24 01:34:25.545314",
+    "updated_at": "2018-08-24 16:28:58.358802",
+    "country": "United States",
+    "longitude": "-79.9543862595471",
+    "latitude": "37.115167300867",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "limestone-brewers",
+    "name": "Limestone Brewers",
+    "brewery_type": "micro",
+    "street": "518 Main St",
+    "city": "Osage",
+    "state": "Iowa",
+    "postal_code": "50461",
+    "website_url": "http://www.limestonebrewers.com",
+    "phone": "6418323100",
+    "created_at": "2018-07-24 01:33:23.992099",
+    "updated_at": "2018-08-24 00:38:01.706013",
+    "country": "United States",
+    "longitude": "-92.813673",
+    "latitude": "43.2839156",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-in-planning-mashpee",
+    "name": "Brewery in Planning - Mashpee",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Mashpee",
+    "state": "Massachusetts",
+    "postal_code": "02649-2248",
+    "website_url": "http://www.karmawheelbrewing.com",
+    "phone": "5082749278",
+    "created_at": "2018-07-24 01:33:30.453333",
+    "updated_at": "2018-08-11 21:37:39.314253",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "naukabout-brewery",
+    "name": "Naukabout Brewery",
+    "brewery_type": "micro",
+    "street": "13 Lake Ave",
+    "city": "Mashpee",
+    "state": "Massachusetts",
+    "postal_code": "02649-2075",
+    "website_url": "http://www.naukabout.com",
+    "phone": "7743130200",
+    "created_at": "2018-07-24 01:33:31.521118",
+    "updated_at": "2018-08-24 00:41:34.018117",
+    "country": "United States",
+    "longitude": "-70.4842590100248",
+    "latitude": "41.649362388751",
+    "tags": []
+  }
+]

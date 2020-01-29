@@ -1,0 +1,19 @@
+[
+  {
+    "id": "burkes-alewerks",
+    "name": "Burke's Alewerks",
+    "brewery_type": "micro",
+    "street": "200 Webster St Ste 3",
+    "city": "Hanover",
+    "state": "Massachusetts",
+    "postal_code": "02339-1230",
+    "website_url": "http://www.burkesalewerks.com",
+    "phone": "7813128207",
+    "created_at": "2018-07-24 01:33:30.642083",
+    "updated_at": "2018-08-11 21:37:39.702025",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

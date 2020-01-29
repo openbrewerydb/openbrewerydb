@@ -1,0 +1,19 @@
+[
+  {
+    "id": "shire-breu-hous",
+    "name": "Shire Breu Hous",
+    "brewery_type": "brewpub",
+    "street": "63 Flansburg Ave",
+    "city": "Dalton",
+    "state": "Massachusetts",
+    "postal_code": "01226",
+    "website_url": "http://www.shire.beer",
+    "phone": "4138428313",
+    "created_at": "2018-07-24 01:33:31.929123",
+    "updated_at": "2018-08-24 00:41:46.010506",
+    "country": "United States",
+    "longitude": "-73.1730985",
+    "latitude": "42.4745867",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kootenai-river-brewing-co",
+    "name": "Kootenai River Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "6424 Riverside Street",
+    "city": "Bonners Ferry",
+    "state": "Idaho",
+    "postal_code": "83805-1901",
+    "website_url": "http://kootbrew.com",
+    "phone": "2082674677",
+    "created_at": "2018-07-24 01:33:17.347338",
+    "updated_at": "2018-08-24 00:30:03.468642",
+    "country": "United States",
+    "longitude": "-116.3105154",
+    "latitude": "48.6965721",
+    "tags": []
+  }
+]

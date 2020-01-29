@@ -1,0 +1,53 @@
+[
+  {
+    "id": "escape-craft-brewery",
+    "name": "Escape Craft Brewery",
+    "brewery_type": "micro",
+    "street": "721 Nevada St Ste 401",
+    "city": "Redlands",
+    "state": "California",
+    "postal_code": "92373-8053",
+    "website_url": "http://www.escapecraftbrewery.com",
+    "phone": "9097133727",
+    "created_at": "2018-07-24 01:32:55.136135",
+    "updated_at": "2018-08-23 23:28:04.869773",
+    "country": "United States",
+    "longitude": "-117.217577166632",
+    "latitude": "34.0603401026307",
+    "tags": []
+  },
+  {
+    "id": "hangar-24-craft-brewery",
+    "name": "Hangar 24 Craft Brewery",
+    "brewery_type": "regional",
+    "street": "1710 Sessums Dr",
+    "city": "Redlands",
+    "state": "California",
+    "postal_code": "92374-1909",
+    "website_url": "http://www.hangar24brewery.com",
+    "phone": "9093891400",
+    "created_at": "2018-07-24 01:32:56.216816",
+    "updated_at": "2018-08-23 23:29:10.400563",
+    "country": "United States",
+    "longitude": "-117.1419134",
+    "latitude": "34.0831712",
+    "tags": []
+  },
+  {
+    "id": "ritual-brewing-co",
+    "name": "Ritual Brewing Co",
+    "brewery_type": "micro",
+    "street": "1315 Research Dr",
+    "city": "Redlands",
+    "state": "California",
+    "postal_code": "92374-4583",
+    "website_url": "http://www.ritualbrewing.com",
+    "phone": "9094787800",
+    "created_at": "2018-07-24 01:33:00.052727",
+    "updated_at": "2018-08-24 00:01:34.043999",
+    "country": "United States",
+    "longitude": "-117.2369995",
+    "latitude": "34.0705986",
+    "tags": []
+  }
+]

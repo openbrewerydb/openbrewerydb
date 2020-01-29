@@ -1,0 +1,19 @@
+[
+  {
+    "id": "crooked-eye-brewery",
+    "name": "Crooked Eye Brewery",
+    "brewery_type": "micro",
+    "street": "13 E Montgomery Ave Ste 2",
+    "city": "Hatboro",
+    "state": "Pennsylvania",
+    "postal_code": "19040-2618",
+    "website_url": "http://crookedeyebrewery.com",
+    "phone": "2152859253",
+    "created_at": "2018-07-24 01:34:09.998347",
+    "updated_at": "2018-08-11 21:39:25.437096",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

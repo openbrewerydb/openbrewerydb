@@ -1,0 +1,53 @@
+[
+  {
+    "id": "192-brewing",
+    "name": "192 Brewing",
+    "brewery_type": "micro",
+    "street": "7324 NE 175th St",
+    "city": "Kenmore",
+    "state": "Washington",
+    "postal_code": "98028-2500",
+    "website_url": "http://www.192brewing.com",
+    "phone": "4254242337",
+    "created_at": "2018-07-24 01:34:27.663575",
+    "updated_at": "2018-08-24 16:31:58.108557",
+    "country": "United States",
+    "longitude": "-122.241565244724",
+    "latitude": "47.75670075",
+    "tags": []
+  },
+  {
+    "id": "cairn-brewing",
+    "name": "Cairn Brewing",
+    "brewery_type": "micro",
+    "street": "7204 NE 175th St",
+    "city": "Kenmore",
+    "state": "Washington",
+    "postal_code": "98028-3561",
+    "website_url": "http://www.cairnbrewing.com",
+    "phone": "4259495295",
+    "created_at": "2018-07-24 01:34:28.766638",
+    "updated_at": "2018-08-24 16:33:20.424034",
+    "country": "United States",
+    "longitude": "-122.24408655486",
+    "latitude": "47.7571424",
+    "tags": []
+  },
+  {
+    "id": "nine-yards-brewing",
+    "name": "Nine Yards Brewing",
+    "brewery_type": "micro",
+    "street": "7324 NE 175th St Ste A",
+    "city": "Kenmore",
+    "state": "Washington",
+    "postal_code": "98028-2500",
+    "website_url": "http://www.nineyardsbrewing.com",
+    "phone": "2066932333",
+    "created_at": "2018-07-24 01:34:31.430698",
+    "updated_at": "2018-08-11 21:40:21.626921",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "voodoo-brewing-co",
+    "name": "Voodoo Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "215 1/2 Arch St",
+    "city": "Meadville",
+    "state": "Pennsylvania",
+    "postal_code": "16335-3432",
+    "website_url": "http://www.voodoobrewery.com",
+    "phone": "8143373676",
+    "created_at": "2018-07-24 01:34:13.392081",
+    "updated_at": "2018-08-24 16:13:08.235898",
+    "country": "United States",
+    "longitude": "-80.154209",
+    "latitude": "41.637124",
+    "tags": []
+  },
+  {
+    "id": "timber-creek-tap-and-table",
+    "name": "Timber Creek Tap & Table",
+    "brewery_type": "brewpub",
+    "street": "11191 Highline Dr",
+    "city": "Meadville",
+    "state": "Pennsylvania",
+    "postal_code": "16335-6589",
+    "website_url": "http://www.timbercreektapandtable.com",
+    "phone": "8148071005",
+    "created_at": "2018-07-24 01:34:13.143131",
+    "updated_at": "2018-08-11 21:39:32.518045",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "voodoo-brewing-production-facility",
+    "name": "Voodoo Brewing Production Facility",
+    "brewery_type": "brewpub",
+    "street": "834 Bessemer St",
+    "city": "Meadville",
+    "state": "Pennsylvania",
+    "postal_code": "16335",
+    "website_url": "",
+    "phone": "8143339123",
+    "created_at": "2018-07-24 01:34:13.405619",
+    "updated_at": "2018-08-24 16:13:09.73322",
+    "country": "United States",
+    "longitude": "-80.1561021666667",
+    "latitude": "41.6461046666667",
+    "tags": []
+  }
+]

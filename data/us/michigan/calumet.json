@@ -1,0 +1,19 @@
+[
+  {
+    "id": "red-jacket-brewing-at-michigan-house-cafe",
+    "name": "Red Jacket Brewing at Michigan House Cafe",
+    "brewery_type": "brewpub",
+    "street": "300 6th St",
+    "city": "Calumet",
+    "state": "Michigan",
+    "postal_code": "49913-1508",
+    "website_url": "http://www.michiganhousecafe.com/brewpub.html",
+    "phone": "9063371910",
+    "created_at": "2018-07-24 01:33:36.207625",
+    "updated_at": "2018-08-24 00:43:57.316036",
+    "country": "United States",
+    "longitude": "-88.4535254",
+    "latitude": "47.2464521",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "uncle-ernies-bayfront-grill-and-brew-house",
+    "name": "Uncle Ernies Bayfront Grill & Brew House",
+    "brewery_type": "contract",
+    "street": "1151 Bayview Ave",
+    "city": "Panama City",
+    "state": "Florida",
+    "postal_code": "32401-1452",
+    "website_url": "http://uncleerniesbayfrontgrill.com/welcome/",
+    "phone": "8507638427",
+    "created_at": "2018-07-24 01:33:15.073377",
+    "updated_at": "2018-08-24 00:28:46.128779",
+    "country": "United States",
+    "longitude": "-85.702765",
+    "latitude": "30.1698125",
+    "tags": []
+  }
+]

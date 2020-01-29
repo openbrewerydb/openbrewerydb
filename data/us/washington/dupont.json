@@ -1,0 +1,19 @@
+[
+  {
+    "id": "forward-operating-base-brewing-company-/-fob-brewing",
+    "name": "Forward Operating Base Brewing Company / FOB Brewing",
+    "brewery_type": "micro",
+    "street": "2750 Williamson Pl Ste 100",
+    "city": "Dupont",
+    "state": "Washington",
+    "postal_code": "98327-7501",
+    "website_url": "http://www.fobbrewingcompany.com",
+    "phone": "2535074667",
+    "created_at": "2018-07-24 01:34:29.861238",
+    "updated_at": "2018-08-24 16:34:59.023258",
+    "country": "United States",
+    "longitude": "-122.625039",
+    "latitude": "47.107496",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dorchester-brewing-company",
+    "name": "Dorchester Brewing Company",
+    "brewery_type": "micro",
+    "street": "1250 Massachusetts Ave",
+    "city": "Dorchester",
+    "state": "Massachusetts",
+    "postal_code": "02125-1698",
+    "website_url": "http://www.dorchesterbrewing.com",
+    "phone": "6175140900",
+    "created_at": "2018-07-24 01:33:30.911981",
+    "updated_at": "2018-08-24 00:41:16.877904",
+    "country": "United States",
+    "longitude": "-71.0615585",
+    "latitude": "42.3204879",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "flounder-brewing-co",
+    "name": "Flounder Brewing Co",
+    "brewery_type": "micro",
+    "street": "1 Ilene Ct Ste 8 Ste 16",
+    "city": "Hillsborough",
+    "state": "New Jersey",
+    "postal_code": "08844-1916",
+    "website_url": "http://www.flounderbrewing.com",
+    "phone": "9083966166",
+    "created_at": "2018-07-24 01:33:46.708706",
+    "updated_at": "2018-08-11 21:38:23.384036",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

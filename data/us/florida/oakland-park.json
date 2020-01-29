@@ -1,0 +1,19 @@
+[
+  {
+    "id": "funky-buddha-brewery",
+    "name": "Funky Buddha Brewery",
+    "brewery_type": "large",
+    "street": "1201 NE 38th St Ste A1 Bay A1",
+    "city": "Oakland Park",
+    "state": "Florida",
+    "postal_code": "33334-4504",
+    "website_url": "http://www.thefunkybuddha.com",
+    "phone": "9544400046",
+    "created_at": "2018-07-24 01:33:12.883942",
+    "updated_at": "2018-08-11 21:36:54.48251",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

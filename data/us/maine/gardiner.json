@@ -1,0 +1,19 @@
+[
+  {
+    "id": "two-gramps-brewing",
+    "name": "Two Gramps Brewing",
+    "brewery_type": "brewpub",
+    "street": "266 Water St",
+    "city": "Gardiner",
+    "state": "Maine",
+    "postal_code": "04345",
+    "website_url": "http://www.twogrampsbrewing.com",
+    "phone": "2075920776",
+    "created_at": "2018-07-24 01:33:28.182002",
+    "updated_at": "2018-08-24 00:40:15.015091",
+    "country": "United States",
+    "longitude": "-69.7729263367829",
+    "latitude": "44.2295783203444",
+    "tags": []
+  }
+]

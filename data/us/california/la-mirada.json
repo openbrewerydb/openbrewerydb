@@ -1,0 +1,19 @@
+[
+  {
+    "id": "draughtsman-brewery",
+    "name": "Draughtsman Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "La Mirada",
+    "state": "California",
+    "postal_code": "90638-3454",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:54.606791",
+    "updated_at": "2018-08-23 23:27:35.371424",
+    "country": "United States",
+    "longitude": "-118.0107092",
+    "latitude": "33.9060971",
+    "tags": []
+  }
+]

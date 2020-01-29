@@ -1,0 +1,19 @@
+[
+  {
+    "id": "granite-city-food-and-brewery",
+    "name": "Granite City Food & Brewery",
+    "brewery_type": "brewpub",
+    "street": "992 Willow Rd",
+    "city": "Northbrook",
+    "state": "Illinois",
+    "postal_code": "60062-6806",
+    "website_url": "",
+    "phone": "8475040277",
+    "created_at": "2018-07-24 01:33:19.045289",
+    "updated_at": "2018-08-24 00:31:06.249057",
+    "country": "United States",
+    "longitude": "-87.8570648",
+    "latitude": "42.1056946",
+    "tags": []
+  }
+]

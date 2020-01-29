@@ -1,0 +1,36 @@
+[
+  {
+    "id": "railport-brewing-company",
+    "name": "Railport Brewing Company",
+    "brewery_type": "micro",
+    "street": "405 W Madison St",
+    "city": "Waxahachie",
+    "state": "Texas",
+    "postal_code": "75165-3666",
+    "website_url": "http://www.railportbrewing.com",
+    "phone": "4693605383",
+    "created_at": "2018-07-24 01:34:20.848972",
+    "updated_at": "2018-08-24 16:22:40.431574",
+    "country": "United States",
+    "longitude": "-96.8514105101343",
+    "latitude": "32.38463715",
+    "tags": []
+  },
+  {
+    "id": "stoic-brewing",
+    "name": "Stoic Brewing",
+    "brewery_type": "contract",
+    "street": "667 Robinett Rd",
+    "city": "Waxahachie",
+    "state": "Texas",
+    "postal_code": "75165-6343",
+    "website_url": "http://stoicbrewing.com",
+    "phone": "5128884843",
+    "created_at": "2018-07-24 01:34:21.503773",
+    "updated_at": "2018-08-11 21:39:55.010345",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

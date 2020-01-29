@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bad-habit-brewing-company",
+    "name": "Bad Habit Brewing Company",
+    "brewery_type": "micro",
+    "street": "15 E Minnesota St Ste 108",
+    "city": "Saint Joseph",
+    "state": "Minnesota",
+    "postal_code": "56374-4691",
+    "website_url": "http://www.badhabitbeer.com",
+    "phone": "3204024442",
+    "created_at": "2018-07-24 01:33:37.741301",
+    "updated_at": "2018-08-11 21:37:59.0789",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

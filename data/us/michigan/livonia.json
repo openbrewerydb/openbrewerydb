@@ -1,0 +1,36 @@
+[
+  {
+    "id": "american-harvest-brewpub-at-schoolcraft-college",
+    "name": "American Harvest Brewpub At Schoolcraft College",
+    "brewery_type": "brewpub",
+    "street": "18600 Haggerty Rd",
+    "city": "Livonia",
+    "state": "Michigan",
+    "postal_code": "48152-3932",
+    "website_url": "http://www.schoolcraft.edu",
+    "phone": "7344627659",
+    "created_at": "2018-07-24 01:33:32.591147",
+    "updated_at": "2018-08-24 00:42:03.321753",
+    "country": "United States",
+    "longitude": "-83.4286849720443",
+    "latitude": "42.419317",
+    "tags": []
+  },
+  {
+    "id": "liberty-street-brewing-production-facility",
+    "name": "Liberty Street Brewing Production Facility",
+    "brewery_type": "micro",
+    "street": "11721 Levan Rd",
+    "city": "Livonia",
+    "state": "Michigan",
+    "postal_code": "48150-1401",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:35.285209",
+    "updated_at": "2018-08-24 00:43:27.937093",
+    "country": "United States",
+    "longitude": "-83.4016984260825",
+    "latitude": "42.3686612310946",
+    "tags": []
+  }
+]

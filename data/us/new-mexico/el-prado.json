@@ -1,0 +1,19 @@
+[
+  {
+    "id": "taos-mesa-brewing-co",
+    "name": "Taos Mesa Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "20 ABC Mesa Road",
+    "city": "El Prado",
+    "state": "New Mexico",
+    "postal_code": "87529",
+    "website_url": "http://www.taosmesabrewing.com",
+    "phone": "5757790449",
+    "created_at": "2018-07-24 01:33:48.691679",
+    "updated_at": "2018-08-11 21:38:28.360302",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

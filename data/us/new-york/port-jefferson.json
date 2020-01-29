@@ -1,0 +1,19 @@
+[
+  {
+    "id": "port-jeff-brewing-co",
+    "name": "Port Jeff Brewing Co",
+    "brewery_type": "micro",
+    "street": "22 Mill Creek Rd",
+    "city": "Port Jefferson",
+    "state": "New York",
+    "postal_code": "11777-1663",
+    "website_url": "http://www.portjeffbrewing.com",
+    "phone": "8774752739",
+    "created_at": "2018-07-24 01:33:52.858483",
+    "updated_at": "2018-08-24 15:39:55.982028",
+    "country": "United States",
+    "longitude": "-73.0677285504708",
+    "latitude": "40.9414042054245",
+    "tags": []
+  }
+]

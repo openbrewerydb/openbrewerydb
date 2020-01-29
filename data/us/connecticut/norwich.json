@@ -1,0 +1,36 @@
+[
+  {
+    "id": "epicure-brewing",
+    "name": "Epicure Brewing",
+    "brewery_type": "micro",
+    "street": "40 Franklin St",
+    "city": "Norwich",
+    "state": "Connecticut",
+    "postal_code": "06360-",
+    "website_url": "http://www.epicurebrewing.com",
+    "phone": "8603770789",
+    "created_at": "2018-07-24 01:33:09.514504",
+    "updated_at": "2018-08-24 00:25:35.668619",
+    "country": "United States",
+    "longitude": "-72.0743747727273",
+    "latitude": "41.5252134090909",
+    "tags": []
+  },
+  {
+    "id": "these-guys-brewing-company",
+    "name": "These Guys Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "78 Franklin St",
+    "city": "Norwich",
+    "state": "Connecticut",
+    "postal_code": "06360-5806",
+    "website_url": "http://www.theseguysbrewig.com",
+    "phone": "8609498550",
+    "created_at": "2018-07-24 01:33:10.226222",
+    "updated_at": "2018-08-24 00:25:53.338704",
+    "country": "United States",
+    "longitude": "-72.0747435228004",
+    "latitude": "41.5248764584876",
+    "tags": []
+  }
+]

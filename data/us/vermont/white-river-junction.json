@@ -1,0 +1,19 @@
+[
+  {
+    "id": "river-roost-brewery",
+    "name": "River Roost Brewery",
+    "brewery_type": "micro",
+    "street": "230 S Main St",
+    "city": "White River Junction",
+    "state": "Vermont",
+    "postal_code": "05001-7204",
+    "website_url": "http://www.riverroostbrewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:23.65206",
+    "updated_at": "2018-08-24 16:26:25.298021",
+    "country": "United States",
+    "longitude": "-72.3182154652398",
+    "latitude": "43.64560685",
+    "tags": []
+  }
+]

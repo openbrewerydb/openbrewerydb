@@ -1,0 +1,19 @@
+[
+  {
+    "id": "threshers-brewing-company",
+    "name": "Threshers Brewing Company",
+    "brewery_type": "micro",
+    "street": "22 Main St N Bldg 3B",
+    "city": "Searsmont",
+    "state": "Maine",
+    "postal_code": "04973-3409",
+    "website_url": "http://www.threshersbrewingco.com",
+    "phone": "2079753225",
+    "created_at": "2018-07-24 01:33:28.134035",
+    "updated_at": "2018-08-11 21:37:34.322384",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

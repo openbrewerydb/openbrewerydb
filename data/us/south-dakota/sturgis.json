@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-knuckle-brewing-company",
+    "name": "The Knuckle Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "918 2nd St",
+    "city": "Sturgis",
+    "state": "South Dakota",
+    "postal_code": "57785-1510",
+    "website_url": "",
+    "phone": "6055619846",
+    "created_at": "2018-07-24 01:34:15.540878",
+    "updated_at": "2018-08-24 16:16:02.577253",
+    "country": "United States",
+    "longitude": "-103.512573346939",
+    "latitude": "44.4147739591837",
+    "tags": []
+  }
+]

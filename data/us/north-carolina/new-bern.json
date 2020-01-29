@@ -1,0 +1,36 @@
+[
+  {
+    "id": "beer-army",
+    "name": "Beer Army",
+    "brewery_type": "brewpub",
+    "street": "",
+    "city": "New Bern",
+    "state": "North Carolina",
+    "postal_code": "28564-3051",
+    "website_url": "",
+    "phone": "2522885814",
+    "created_at": "2018-07-24 01:33:55.089811",
+    "updated_at": "2018-08-11 21:38:45.00571",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "brewery-99",
+    "name": "Brewery 99",
+    "brewery_type": "micro",
+    "street": "417 Broad St Ste F",
+    "city": "New Bern",
+    "state": "North Carolina",
+    "postal_code": "28560-4900",
+    "website_url": "http://www.brewery99.com",
+    "phone": "2522596393",
+    "created_at": "2018-07-24 01:33:55.411181",
+    "updated_at": "2018-08-11 21:38:45.964216",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

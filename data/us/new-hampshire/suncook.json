@@ -1,0 +1,19 @@
+[
+  {
+    "id": "oddball-brewing",
+    "name": "Oddball Brewing",
+    "brewery_type": "micro",
+    "street": "6 Glass St",
+    "city": "Suncook",
+    "state": "New Hampshire",
+    "postal_code": "03275-1512",
+    "website_url": "http://www.oddballbrewingnh.com",
+    "phone": "6032105654",
+    "created_at": "2018-07-24 01:33:45.569547",
+    "updated_at": "2018-08-24 15:36:13.08616",
+    "country": "United States",
+    "longitude": "-71.45239635",
+    "latitude": "43.1308185",
+    "tags": []
+  }
+]

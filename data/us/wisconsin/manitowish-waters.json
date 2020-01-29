@@ -1,0 +1,19 @@
+[
+  {
+    "id": "some-nerve-brewing-company",
+    "name": "Some Nerve Brewing Company",
+    "brewery_type": "micro",
+    "street": "5586 US Highway 51",
+    "city": "Manitowish Waters",
+    "state": "Wisconsin",
+    "postal_code": "54545-6325",
+    "website_url": "http://www.somenervebrewing.com",
+    "phone": "6085766040",
+    "created_at": "2018-07-24 01:34:36.639216",
+    "updated_at": "2018-08-11 21:40:36.397925",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

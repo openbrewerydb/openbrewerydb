@@ -1,0 +1,19 @@
+[
+  {
+    "id": "slow-pour-brewing-company",
+    "name": "Slow Pour Brewing Company",
+    "brewery_type": "micro",
+    "street": "407 N Clayton St",
+    "city": "Lawrenceville",
+    "state": "Georgia",
+    "postal_code": "30046-4818",
+    "website_url": "http://www.slowpourbrewing.com",
+    "phone": "4045108901",
+    "created_at": "2018-07-24 01:33:16.393174",
+    "updated_at": "2018-08-24 00:29:28.316635",
+    "country": "United States",
+    "longitude": "-83.9888958076867",
+    "latitude": "33.9611674735289",
+    "tags": []
+  }
+]

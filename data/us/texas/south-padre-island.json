@@ -1,0 +1,19 @@
+[
+  {
+    "id": "padre-island-brewing-co",
+    "name": "Padre Island Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "3400 Padre Blvd",
+    "city": "South Padre Island",
+    "state": "Texas",
+    "postal_code": "78597",
+    "website_url": "http://www.pibrewingcompany.com",
+    "phone": "9567619585",
+    "created_at": "2018-07-24 01:34:20.64655",
+    "updated_at": "2018-08-24 16:22:22.462739",
+    "country": "United States",
+    "longitude": "-97.165899",
+    "latitude": "26.079915",
+    "tags": []
+  }
+]

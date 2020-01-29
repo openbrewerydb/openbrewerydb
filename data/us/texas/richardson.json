@@ -1,0 +1,36 @@
+[
+  {
+    "id": "happy-hippie-brewing-company",
+    "name": "Happy Hippie Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Richardson",
+    "state": "Texas",
+    "postal_code": "75080",
+    "website_url": "http://www.happyhippiebeer.com",
+    "phone": "2146167681",
+    "created_at": "2018-07-24 01:34:19.557349",
+    "updated_at": "2018-08-11 21:39:50.417289",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "four-bullets-brewery",
+    "name": "Four Bullets Brewery",
+    "brewery_type": "micro",
+    "street": "640 N Interurban St",
+    "city": "Richardson",
+    "state": "Texas",
+    "postal_code": "75081-3317",
+    "website_url": "http://www.fourbulletsbrewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:19.217272",
+    "updated_at": "2018-08-24 16:20:27.939359",
+    "country": "United States",
+    "longitude": "-96.7268825513068",
+    "latitude": "32.958039153542",
+    "tags": []
+  }
+]

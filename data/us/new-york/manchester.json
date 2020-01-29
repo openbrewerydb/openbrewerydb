@@ -1,0 +1,19 @@
+[
+  {
+    "id": "reinvention-brewing-co",
+    "name": "Reinvention Brewing Co.",
+    "brewery_type": "micro",
+    "street": "9 N Main St PO Box 57",
+    "city": "Manchester",
+    "state": "New York",
+    "postal_code": "14504-9713",
+    "website_url": "http://www.reinventionbrewing.com",
+    "phone": "5852897309",
+    "created_at": "2018-07-24 01:33:53.053397",
+    "updated_at": "2018-08-11 21:38:39.607553",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

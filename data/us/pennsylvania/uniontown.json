@@ -1,0 +1,19 @@
+[
+  {
+    "id": "laurel-highlands-brewing",
+    "name": "Laurel Highlands Brewing",
+    "brewery_type": "micro",
+    "street": "21 Enamel St",
+    "city": "Uniontown",
+    "state": "Pennsylvania",
+    "postal_code": "15401-",
+    "website_url": "http://www.laurelhighlandsbrewing.com",
+    "phone": "7248805497",
+    "created_at": "2018-07-24 01:34:11.268743",
+    "updated_at": "2018-08-24 16:09:49.096597",
+    "country": "United States",
+    "longitude": "-79.71813225",
+    "latitude": "39.910080625",
+    "tags": []
+  }
+]

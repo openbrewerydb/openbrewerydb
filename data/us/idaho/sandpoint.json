@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mickduffs-brewing-co",
+    "name": "MickDuff's Brewing Co",
+    "brewery_type": "micro",
+    "street": "220 Cedar St",
+    "city": "Sandpoint",
+    "state": "Idaho",
+    "postal_code": "83864-1411",
+    "website_url": "http://www.mickduffs.com",
+    "phone": "2082096700",
+    "created_at": "2018-07-24 01:33:17.444249",
+    "updated_at": "2018-08-24 00:30:07.389103",
+    "country": "United States",
+    "longitude": "-116.54917522449",
+    "latitude": "48.2762009795918",
+    "tags": []
+  }
+]

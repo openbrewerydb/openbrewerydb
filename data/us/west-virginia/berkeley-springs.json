@@ -1,0 +1,19 @@
+[
+  {
+    "id": "berkeley-springs-brewing-co",
+    "name": "Berkeley Springs Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "110 Michigan Ln",
+    "city": "Berkeley Springs",
+    "state": "West Virginia",
+    "postal_code": "25411-3008",
+    "website_url": "http://www.berkeleyspringsbrewingcompany.com",
+    "phone": "3042583369",
+    "created_at": "2018-07-24 01:34:34.020134",
+    "updated_at": "2018-08-11 21:40:28.743085",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

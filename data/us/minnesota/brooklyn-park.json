@@ -1,0 +1,19 @@
+[
+  {
+    "id": "blue-wolf-brewing-company-llc",
+    "name": "Blue Wolf Brewing Company LLC",
+    "brewery_type": "micro",
+    "street": "8515 Edinburgh Centre Dr.",
+    "city": "Brooklyn Park",
+    "state": "Minnesota",
+    "postal_code": "55443",
+    "website_url": "http://www.bluewolfbrew.com",
+    "phone": "7633906700",
+    "created_at": "2018-07-24 01:33:38.013834",
+    "updated_at": "2018-08-11 21:37:59.989029",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

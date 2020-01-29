@@ -1,0 +1,36 @@
+[
+  {
+    "id": "rivertowne-brewery-production-facility",
+    "name": "Rivertowne Brewery - Production Facility",
+    "brewery_type": "micro",
+    "street": "5578 Old William Penn Hwy",
+    "city": "Export",
+    "state": "Pennsylvania",
+    "postal_code": "15632-9303",
+    "website_url": "http://www.myrivertowne.com",
+    "phone": "7245192145",
+    "created_at": "2018-07-24 01:34:12.228195",
+    "updated_at": "2018-08-24 16:11:23.639129",
+    "country": "United States",
+    "longitude": "-79.6373887951658",
+    "latitude": "40.4214737342474",
+    "tags": []
+  },
+  {
+    "id": "devout-brewing",
+    "name": "Devout Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Export",
+    "state": "Pennsylvania",
+    "postal_code": "15632",
+    "website_url": "http://www.devoutbrewingco.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:10.215727",
+    "updated_at": "2018-08-11 21:39:25.807552",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

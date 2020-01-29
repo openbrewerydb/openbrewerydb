@@ -1,0 +1,53 @@
+[
+  {
+    "id": "downdraft-brewing-co",
+    "name": "Downdraft Brewing Co",
+    "brewery_type": "micro",
+    "street": "418 W Seltice Way",
+    "city": "Post Falls",
+    "state": "Idaho",
+    "postal_code": "83854-",
+    "website_url": "http://www.downdraftbrewing.com",
+    "phone": "2082624233",
+    "created_at": "2018-07-24 01:33:17.237913",
+    "updated_at": "2018-08-24 00:29:58.943568",
+    "country": "United States",
+    "longitude": "-116.957325580404",
+    "latitude": "47.715079",
+    "tags": []
+  },
+  {
+    "id": "post-falls-brewing",
+    "name": "Post Falls Brewing",
+    "brewery_type": "micro",
+    "street": "112 N Spokane St",
+    "city": "Post Falls",
+    "state": "Idaho",
+    "postal_code": "83854-9537",
+    "website_url": "http://postfallsbrewing.com",
+    "phone": "2087737301",
+    "created_at": "2018-07-24 01:33:17.530335",
+    "updated_at": "2018-08-24 00:30:11.10984",
+    "country": "United States",
+    "longitude": "-116.947970823992",
+    "latitude": "47.7062357979551",
+    "tags": []
+  },
+  {
+    "id": "selkirk-abbey-brewing",
+    "name": "Selkirk Abbey Brewing",
+    "brewery_type": "micro",
+    "street": "6180 E Seltice Way Ste 102",
+    "city": "Post Falls",
+    "state": "Idaho",
+    "postal_code": "83854-5052",
+    "website_url": "http://www.selkirkabbey.com",
+    "phone": "2082924901",
+    "created_at": "2018-07-24 01:33:17.642935",
+    "updated_at": "2018-08-24 00:30:15.43311",
+    "country": "United States",
+    "longitude": "-116.868408493786",
+    "latitude": "47.7048437077115",
+    "tags": []
+  }
+]

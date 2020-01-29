@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ogriffs-grill-and-brewhouse",
+    "name": "O'Griffs Grill & Brewhouse",
+    "brewery_type": "brewpub",
+    "street": "415 Hampshire St",
+    "city": "Quincy",
+    "state": "Illinois",
+    "postal_code": "62301-2931",
+    "website_url": "",
+    "phone": "2172242002",
+    "created_at": "2018-07-24 01:33:20.047667",
+    "updated_at": "2018-08-24 00:31:43.560347",
+    "country": "United States",
+    "longitude": "-91.4087652857143",
+    "latitude": "39.9333041428571",
+    "tags": []
+  }
+]

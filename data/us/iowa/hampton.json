@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rustic-brew",
+    "name": "Rustic Brew",
+    "brewery_type": "brewpub",
+    "street": "117 1st St NW",
+    "city": "Hampton",
+    "state": "Iowa",
+    "postal_code": "50441-1701",
+    "website_url": "http://www.rusticbrew.com",
+    "phone": "6414562141",
+    "created_at": "2018-07-24 01:33:24.335823",
+    "updated_at": "2018-08-24 00:38:11.88174",
+    "country": "United States",
+    "longitude": "-93.2085598367347",
+    "latitude": "42.7429814897959",
+    "tags": []
+  }
+]

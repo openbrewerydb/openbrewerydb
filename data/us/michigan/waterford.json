@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rustic-leaf-brewing-company",
+    "name": "Rustic Leaf Brewing Company",
+    "brewery_type": "micro",
+    "street": "7200 Highland Rd",
+    "city": "Waterford",
+    "state": "Michigan",
+    "postal_code": "48327-1506",
+    "website_url": "http://www.rusticleafbrewingcompany.com",
+    "phone": "2485999933",
+    "created_at": "2018-07-24 01:33:36.440749",
+    "updated_at": "2018-08-24 00:44:05.39907",
+    "country": "United States",
+    "longitude": "-83.4048664",
+    "latitude": "42.659901",
+    "tags": []
+  }
+]

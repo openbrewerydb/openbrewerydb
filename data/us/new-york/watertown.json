@@ -1,0 +1,53 @@
+[
+  {
+    "id": "boots-brewing-company-inc",
+    "name": "Boots Brewing Company, Inc.",
+    "brewery_type": "micro",
+    "street": "89 Public Sq",
+    "city": "Watertown",
+    "state": "New York",
+    "postal_code": "13601-2626",
+    "website_url": "http://www.bootsbrew.com",
+    "phone": "3157670794",
+    "created_at": "2018-07-24 01:33:49.558114",
+    "updated_at": "2018-08-24 15:38:14.33385",
+    "country": "United States",
+    "longitude": "-75.909046441621",
+    "latitude": "43.9747517296925",
+    "tags": []
+  },
+  {
+    "id": "garland-city-beer-works",
+    "name": "Garland City Beer Works",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Watertown",
+    "state": "New York",
+    "postal_code": "13601-2423",
+    "website_url": "http://www.garlandcitybeerworks.com",
+    "phone": "3157832577",
+    "created_at": "2018-07-24 01:33:51.180671",
+    "updated_at": "2018-08-11 21:38:34.807009",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "skewed-brewing",
+    "name": "Skewed Brewing",
+    "brewery_type": "brewpub",
+    "street": "21182 Salmon Run Mall Loop W, Unit B219",
+    "city": "Watertown",
+    "state": "New York",
+    "postal_code": "13601-2244",
+    "website_url": "http://Skewedbrewing.com",
+    "phone": "3157882337",
+    "created_at": "2018-07-24 01:33:53.624469",
+    "updated_at": "2018-08-11 21:38:41.514348",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

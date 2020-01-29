@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bruehol-brewing-llc",
+    "name": "Bruehol Brewing LLC",
+    "brewery_type": "proprietor",
+    "street": "4828 E 2nd St",
+    "city": "Benicia",
+    "state": "California",
+    "postal_code": "94510-1023",
+    "website_url": "http://www.bruehol.com",
+    "phone": "7073276768",
+    "created_at": "2018-07-24 01:32:53.3825",
+    "updated_at": "2018-08-23 23:26:17.120474",
+    "country": "United States",
+    "longitude": "-122.127563713858",
+    "latitude": "38.0808631276286",
+    "tags": []
+  }
+]

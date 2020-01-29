@@ -1,0 +1,19 @@
+[
+  {
+    "id": "canterbury-aleworks",
+    "name": "Canterbury Aleworks",
+    "brewery_type": "micro",
+    "street": "305 Baptist Hill Rd",
+    "city": "Canterbury",
+    "state": "New Hampshire",
+    "postal_code": "03224-2509",
+    "website_url": "http://www.canterburyaleworks.com",
+    "phone": "6034914539",
+    "created_at": "2018-07-24 01:33:45.220011",
+    "updated_at": "2018-08-24 15:36:01.210078",
+    "country": "United States",
+    "longitude": "-71.514843455688",
+    "latitude": "43.3857757303691",
+    "tags": []
+  }
+]

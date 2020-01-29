@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brewjeria-company",
+    "name": "Brewjeria Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Hacienda Heights",
+    "state": "California",
+    "postal_code": "91745-1620",
+    "website_url": "http://www.brewjeriacompany.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:53.296141",
+    "updated_at": "2018-08-23 23:26:10.812372",
+    "country": "United States",
+    "longitude": "-117.9686755",
+    "latitude": "33.9930677",
+    "tags": []
+  }
+]

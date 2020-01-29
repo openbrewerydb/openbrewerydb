@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rapps-barren-brewing-company",
+    "name": "Rapp's Barren Brewing Company",
+    "brewery_type": "micro",
+    "street": "1343 E 9th St",
+    "city": "Mountain Home",
+    "state": "Arkansas",
+    "postal_code": "72653-5050",
+    "website_url": "http://www.rappsbarrenbrewing.com",
+    "phone": "8704247288",
+    "created_at": "2018-07-24 01:32:50.788018",
+    "updated_at": "2018-08-23 23:23:29.428834",
+    "country": "United States",
+    "longitude": "-92.3599724",
+    "latitude": "36.3326432",
+    "tags": []
+  }
+]

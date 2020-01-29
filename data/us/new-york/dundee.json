@@ -1,0 +1,19 @@
+[
+  {
+    "id": "seneca-lake-brewing-company",
+    "name": "Seneca Lake Brewing Company",
+    "brewery_type": "micro",
+    "street": "5430 NY-14",
+    "city": "Dundee",
+    "state": "New York",
+    "postal_code": "14837-8838",
+    "website_url": "http://www.senecalakebrewing.com",
+    "phone": "6072168369",
+    "created_at": "2018-07-24 01:33:53.45825",
+    "updated_at": "2018-08-11 21:38:41.039915",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

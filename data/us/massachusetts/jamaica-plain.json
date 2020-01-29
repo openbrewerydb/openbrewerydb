@@ -1,0 +1,19 @@
+[
+  {
+    "id": "turtle-swamp-brewing",
+    "name": "Turtle Swamp Brewing",
+    "brewery_type": "micro",
+    "street": "3377 Washington St",
+    "city": "Jamaica Plain",
+    "state": "Massachusetts",
+    "postal_code": "02130-2617",
+    "website_url": "http://www.turtleswampbrewing.com",
+    "phone": "6175220038",
+    "created_at": "2018-07-24 01:33:32.219104",
+    "updated_at": "2018-08-24 00:41:54.264984",
+    "country": "United States",
+    "longitude": "-71.1123668",
+    "latitude": "42.3014592",
+    "tags": []
+  }
+]

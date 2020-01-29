@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sunriver-brewing",
+    "name": "Sunriver Brewing",
+    "brewery_type": "micro",
+    "street": "56840 Venture Ln",
+    "city": "Sunriver",
+    "state": "Oregon",
+    "postal_code": "97707-2100",
+    "website_url": "http://www.sunriverbrewingcompany.com",
+    "phone": "5413065188",
+    "created_at": "2018-07-24 01:34:07.974194",
+    "updated_at": "2018-08-11 21:39:19.572308",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

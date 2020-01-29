@@ -1,0 +1,36 @@
+[
+  {
+    "id": "belfast-bay-brewing-co",
+    "name": "Belfast Bay Brewing Co",
+    "brewery_type": "contract",
+    "street": "100 Searsport Ave",
+    "city": "Belfast",
+    "state": "Maine",
+    "postal_code": "04915-7221",
+    "website_url": "http://www.belfastbaybrewing.com",
+    "phone": "2074608654",
+    "created_at": "2018-07-24 01:33:26.882351",
+    "updated_at": "2018-08-24 00:39:35.918614",
+    "country": "United States",
+    "longitude": "-68.9880177",
+    "latitude": "44.4309432",
+    "tags": []
+  },
+  {
+    "id": "marshall-wharf-brewing-co",
+    "name": "Marshall Wharf Brewing Co",
+    "brewery_type": "micro",
+    "street": "40 Marshall Wharf",
+    "city": "Belfast",
+    "state": "Maine",
+    "postal_code": "04915-6835",
+    "website_url": "http://www.marshallwharf.com",
+    "phone": "2073381707",
+    "created_at": "2018-07-24 01:33:27.521031",
+    "updated_at": "2018-08-11 21:37:32.981492",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

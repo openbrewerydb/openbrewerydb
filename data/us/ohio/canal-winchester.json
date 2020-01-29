@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewdog-brewing-company-llc",
+    "name": "BrewDog Brewing Company, LLC",
+    "brewery_type": "micro",
+    "street": "96 Gender Rd",
+    "city": "Canal Winchester",
+    "state": "Ohio",
+    "postal_code": "43110-7539",
+    "website_url": "http://www.brewdog.com/usa",
+    "phone": "6149083059",
+    "created_at": "2018-07-24 01:33:59.762658",
+    "updated_at": "2018-08-24 15:43:31.46258",
+    "country": "United States",
+    "longitude": "-82.8311352",
+    "latitude": "39.8225954",
+    "tags": []
+  },
+  {
+    "id": "loose-rail-brewing",
+    "name": "Loose Rail Brewing",
+    "brewery_type": "micro",
+    "street": "37 W Waterloo St",
+    "city": "Canal Winchester",
+    "state": "Ohio",
+    "postal_code": "43110-1140",
+    "website_url": "http://www.looserailbrewing.com",
+    "phone": "6143216634",
+    "created_at": "2018-07-24 01:34:01.567397",
+    "updated_at": "2018-08-24 15:44:20.779036",
+    "country": "United States",
+    "longitude": "-82.8069082",
+    "latitude": "39.84329",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "denovo-beverage-of-monmouth",
+    "name": "DeNovo Beverage of Monmouth",
+    "brewery_type": "micro",
+    "street": "105 S A St",
+    "city": "Monmouth",
+    "state": "Illinois",
+    "postal_code": "61462-1706",
+    "website_url": "http://www.denovobrewing.co",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:18.603994",
+    "updated_at": "2018-08-24 00:30:46.354279",
+    "country": "United States",
+    "longitude": "-90.6496446371254",
+    "latitude": "40.9112055017772",
+    "tags": []
+  }
+]

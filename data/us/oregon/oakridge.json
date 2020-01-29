@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brewers-union-local-180",
+    "name": "Brewers Union Local 180",
+    "brewery_type": "brewpub",
+    "street": "48329 E 1st St",
+    "city": "Oakridge",
+    "state": "Oregon",
+    "postal_code": "97463-9700",
+    "website_url": "http://www.brewersunion.com",
+    "phone": "5417822024",
+    "created_at": "2018-07-24 01:34:05.110229",
+    "updated_at": "2018-08-24 15:46:04.260908",
+    "country": "United States",
+    "longitude": "-122.45687865",
+    "latitude": "43.7478831",
+    "tags": []
+  }
+]

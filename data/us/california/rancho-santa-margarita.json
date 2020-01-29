@@ -1,0 +1,19 @@
+[
+  {
+    "id": "laguna-beach-beer-co",
+    "name": "Laguna Beach Beer Co",
+    "brewery_type": "micro",
+    "street": "29851 Aventura",
+    "city": "Rancho Santa Margarita",
+    "state": "California",
+    "postal_code": "92688-2014",
+    "website_url": "http://www.lagunabeer.com",
+    "phone": "9492646821",
+    "created_at": "2018-07-24 01:32:57.546283",
+    "updated_at": "2018-08-23 23:58:42.896613",
+    "country": "United States",
+    "longitude": "-117.610819350163",
+    "latitude": "33.6360352824446",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "outer-light-brewing-company",
+    "name": "Outer Light Brewing Company",
+    "brewery_type": "micro",
+    "street": "266 Bridge St Ste 1",
+    "city": "Groton",
+    "state": "Connecticut",
+    "postal_code": "06340-3739",
+    "website_url": "http://www.outerlightbrewing.com",
+    "phone": "4752019972",
+    "created_at": "2018-07-24 01:33:09.962381",
+    "updated_at": "2018-08-11 21:36:47.270247",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

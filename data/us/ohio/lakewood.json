@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bottlehouse-brewery",
+    "name": "BottleHouse Brewery",
+    "brewery_type": "micro",
+    "street": "13368 Madison Ave",
+    "city": "Lakewood",
+    "state": "Ohio",
+    "postal_code": "44107-4840",
+    "website_url": "http://www.thebottlehousebrewingcompany.com",
+    "phone": "2162142120",
+    "created_at": "2018-07-24 01:33:59.675448",
+    "updated_at": "2018-08-24 15:43:28.982988",
+    "country": "United States",
+    "longitude": "-81.7844570504357",
+    "latitude": "41.47721765",
+    "tags": []
+  },
+  {
+    "id": "buckeye-beer-engine",
+    "name": "Buckeye Beer Engine",
+    "brewery_type": "brewpub",
+    "street": "15315 Madison Ave",
+    "city": "Lakewood",
+    "state": "Ohio",
+    "postal_code": "44107-4020",
+    "website_url": "http://www.buckeyebeerengine.com",
+    "phone": "2162262337",
+    "created_at": "2018-07-24 01:34:00.110184",
+    "updated_at": "2018-08-24 15:43:33.862777",
+    "country": "United States",
+    "longitude": "-81.803918",
+    "latitude": "41.477245",
+    "tags": []
+  },
+  {
+    "id": "pedestrian-brewing",
+    "name": "Pedestrian Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Lakewood",
+    "state": "Ohio",
+    "postal_code": "44107-3309",
+    "website_url": "http://pedestrian.beer",
+    "phone": "2162620740",
+    "created_at": "2018-07-24 01:34:02.383463",
+    "updated_at": "2018-08-11 21:39:02.874165",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

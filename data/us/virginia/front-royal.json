@@ -1,0 +1,19 @@
+[
+  {
+    "id": "front-royal-brewing-company-llc",
+    "name": "Front Royal Brewing Company, LLC",
+    "brewery_type": "brewpub",
+    "street": "122 E Main St",
+    "city": "Front Royal",
+    "state": "Virginia",
+    "postal_code": "22630-3337",
+    "website_url": "http://www.frontroyalbrewing.com",
+    "phone": "5403610773",
+    "created_at": "2018-07-24 01:34:25.342873",
+    "updated_at": "2018-08-24 16:28:44.874314",
+    "country": "United States",
+    "longitude": "-78.1919964128219",
+    "latitude": "38.9180285",
+    "tags": []
+  }
+]

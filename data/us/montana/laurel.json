@@ -1,0 +1,19 @@
+[
+  {
+    "id": "high-plains-brewing",
+    "name": "High Plains Brewing",
+    "brewery_type": "micro",
+    "street": "611 E Main St",
+    "city": "Laurel",
+    "state": "Montana",
+    "postal_code": "59044-3124",
+    "website_url": "",
+    "phone": "4066334594",
+    "created_at": "2018-07-24 01:33:42.688734",
+    "updated_at": "2018-08-24 00:47:12.798203",
+    "country": "United States",
+    "longitude": "-108.764098952111",
+    "latitude": "45.6710214990329",
+    "tags": []
+  }
+]

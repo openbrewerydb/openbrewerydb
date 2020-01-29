@@ -1,0 +1,19 @@
+[
+  {
+    "id": "burning-beard-brewing",
+    "name": "Burning Beard Brewing",
+    "brewery_type": "micro",
+    "street": "785 Vernon Way",
+    "city": "El Cajon",
+    "state": "California",
+    "postal_code": "92020-1938",
+    "website_url": "http://www.burningbeardbrewing.com",
+    "phone": "6194569185",
+    "created_at": "2018-07-24 01:32:53.464504",
+    "updated_at": "2018-08-23 23:26:21.949356",
+    "country": "United States",
+    "longitude": "-116.971783587523",
+    "latitude": "32.8120128709882",
+    "tags": []
+  }
+]

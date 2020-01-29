@@ -1,0 +1,19 @@
+[
+  {
+    "id": "blackbeards-brewing-company",
+    "name": "Blackbeard's Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "700 W Ocean Ave",
+    "city": "Westport",
+    "state": "Washington",
+    "postal_code": "98595-9603",
+    "website_url": "http://www.blackbeardsbrewing.com",
+    "phone": "3602687662",
+    "created_at": "2018-07-24 01:34:28.374503",
+    "updated_at": "2018-08-24 16:33:02.265096",
+    "country": "United States",
+    "longitude": "-124.1175413",
+    "latitude": "46.8867861",
+    "tags": []
+  }
+]

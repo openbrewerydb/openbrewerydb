@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brew-hub-taproom",
+    "name": "Brew Hub Taproom",
+    "brewery_type": "brewpub",
+    "street": "5656 Oakland Avenue",
+    "city": "St. Louis",
+    "state": "Missouri",
+    "postal_code": "63110",
+    "website_url": "",
+    "phone": "3148335453",
+    "created_at": "2018-07-24 01:33:40.603853",
+    "updated_at": "2018-08-24 00:46:15.470951",
+    "country": "United States",
+    "longitude": "-90.2830005342466",
+    "latitude": "38.6304978630137",
+    "tags": []
+  }
+]

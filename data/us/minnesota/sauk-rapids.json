@@ -1,0 +1,19 @@
+[
+  {
+    "id": "urban-lodge-brewery",
+    "name": "Urban Lodge Brewery",
+    "brewery_type": "brewpub",
+    "street": "415 N Benton Dr",
+    "city": "Sauk Rapids",
+    "state": "Minnesota",
+    "postal_code": "56379-1534",
+    "website_url": "http://urbanlodgebrewery.com",
+    "phone": "3202815454",
+    "created_at": "2018-07-24 01:33:39.879107",
+    "updated_at": "2018-08-24 00:45:56.143904",
+    "country": "United States",
+    "longitude": "-94.1628024974759",
+    "latitude": "45.5857195333456",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "full-pint-brewing-company",
+    "name": "Full Pint Brewing Company",
+    "brewery_type": "micro",
+    "street": "1963 Lincoln Hwy",
+    "city": "North Versailles",
+    "state": "Pennsylvania",
+    "postal_code": "15137-2749",
+    "website_url": "http://fullpintbrewing.com",
+    "phone": "4124676414",
+    "created_at": "2018-07-24 01:34:10.588992",
+    "updated_at": "2018-08-24 16:08:43.615289",
+    "country": "United States",
+    "longitude": "-79.8261204",
+    "latitude": "40.385971",
+    "tags": []
+  }
+]

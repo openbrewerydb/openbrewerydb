@@ -1,0 +1,19 @@
+[
+  {
+    "id": "saltmarsh-brewery",
+    "name": "Saltmarsh Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Foxboro",
+    "state": "Massachusetts",
+    "postal_code": "02035-2299",
+    "website_url": "http://adam@saltmarshbrewery.com",
+    "phone": "6177996627",
+    "created_at": "2018-07-24 01:33:31.879098",
+    "updated_at": "2018-08-11 21:37:43.441926",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

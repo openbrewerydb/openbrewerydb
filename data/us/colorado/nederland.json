@@ -1,0 +1,36 @@
+[
+  {
+    "id": "james-peak-brewery",
+    "name": "James Peak Brewery",
+    "brewery_type": "brewpub",
+    "street": "70 E First St",
+    "city": "Nederland",
+    "state": "Colorado",
+    "postal_code": "80466",
+    "website_url": "http://www.jamespeakbrew.com",
+    "phone": "3032589453",
+    "created_at": "2018-07-24 01:33:06.119059",
+    "updated_at": "2018-08-11 21:36:37.676146",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "very-nice-brewing-co",
+    "name": "Very Nice Brewing Co",
+    "brewery_type": "micro",
+    "street": "20 Lakeview Drive Unit 112",
+    "city": "Nederland",
+    "state": "Colorado",
+    "postal_code": "80466",
+    "website_url": "http://www.verynicebrewing.com",
+    "phone": "3032583770",
+    "created_at": "2018-07-24 01:33:08.626286",
+    "updated_at": "2018-08-11 21:36:44.127336",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

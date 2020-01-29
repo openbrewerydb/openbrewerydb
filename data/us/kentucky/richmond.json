@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dreaming-creek-brewery",
+    "name": "Dreaming Creek Brewery",
+    "brewery_type": "micro",
+    "street": "109 E Irvine St",
+    "city": "Richmond",
+    "state": "Kentucky",
+    "postal_code": "40475-1521",
+    "website_url": "http://www.dreamingcreekbrewery.beer",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:25.510387",
+    "updated_at": "2018-08-24 00:38:49.316064",
+    "country": "United States",
+    "longitude": "-84.2911156533946",
+    "latitude": "37.747285",
+    "tags": []
+  }
+]

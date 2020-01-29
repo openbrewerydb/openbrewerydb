@@ -1,0 +1,53 @@
+[
+  {
+    "id": "boxcar-brewing-co-llc",
+    "name": "Boxcar Brewing Co LLC",
+    "brewery_type": "micro",
+    "street": "306 Westtown Rd Ste C",
+    "city": "West Chester",
+    "state": "Pennsylvania",
+    "postal_code": "19382-4983",
+    "website_url": "http://www.boxcarbrewingcompany.com",
+    "phone": "4849472503",
+    "created_at": "2018-07-24 01:34:09.165576",
+    "updated_at": "2018-08-11 21:39:23.379226",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "levante-brewing-company",
+    "name": "Levante Brewing Company",
+    "brewery_type": "micro",
+    "street": "208 Carter Dr Ste 2",
+    "city": "West Chester",
+    "state": "Pennsylvania",
+    "postal_code": "19382-4500",
+    "website_url": "http://levantebrewing.com",
+    "phone": "4849998761",
+    "created_at": "2018-07-24 01:34:11.318479",
+    "updated_at": "2018-08-11 21:39:28.272108",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "iron-hill-brewery-and-restaurant-west-chester",
+    "name": "Iron Hill Brewery & Restaurant - West Chester",
+    "brewery_type": "brewpub",
+    "street": "3 West Gay St",
+    "city": "West Chester",
+    "state": "Pennsylvania",
+    "postal_code": "19380-3010",
+    "website_url": "http://www.ironhillbrewery.com",
+    "phone": "6107389600",
+    "created_at": "2018-07-24 01:34:11.089411",
+    "updated_at": "2018-08-24 16:09:31.235389",
+    "country": "United States",
+    "longitude": "-75.6056410069981",
+    "latitude": "39.96059635",
+    "tags": []
+  }
+]

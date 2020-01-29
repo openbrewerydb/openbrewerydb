@@ -1,0 +1,19 @@
+[
+  {
+    "id": "johnnie-byrd-brewing-company",
+    "name": "Johnnie Byrd Brewing Company",
+    "brewery_type": "micro",
+    "street": "121 N Pearl St",
+    "city": "Wayne",
+    "state": "Nebraska",
+    "postal_code": "68787",
+    "website_url": "http://www.johnniebyrd.beer",
+    "phone": "4028331522",
+    "created_at": "2018-07-24 01:33:43.750198",
+    "updated_at": "2018-08-24 00:47:42.69019",
+    "country": "United States",
+    "longitude": "-97.0191502",
+    "latitude": "42.2294276",
+    "tags": []
+  }
+]

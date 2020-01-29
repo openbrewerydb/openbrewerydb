@@ -1,0 +1,19 @@
+[
+  {
+    "id": "texas-leaguer-brewing-company",
+    "name": "Texas Leaguer Brewing Company",
+    "brewery_type": "micro",
+    "street": "13503 Pike Rd",
+    "city": "Missouri City",
+    "state": "Texas",
+    "postal_code": "77489-1033",
+    "website_url": "http://www.txleaguer.com",
+    "phone": "8328959000",
+    "created_at": "2018-07-24 01:34:21.616046",
+    "updated_at": "2018-08-24 16:23:39.059909",
+    "country": "United States",
+    "longitude": "-95.5480643",
+    "latitude": "29.627854",
+    "tags": []
+  }
+]

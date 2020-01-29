@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ha-brewing-co",
+    "name": "H.A. Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "2525 Grave Creek Rd",
+    "city": "Eureka",
+    "state": "Montana",
+    "postal_code": "59917-9609",
+    "website_url": "http://www.habrewing.com",
+    "phone": "4068893950",
+    "created_at": "2018-07-24 01:33:42.66194",
+    "updated_at": "2018-08-11 21:38:11.846465",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

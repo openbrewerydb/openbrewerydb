@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brewery-in-planning-ipswich",
+    "name": "Brewery in Planning - Ipswich",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Ipswich",
+    "state": "Massachusetts",
+    "postal_code": "01938-1074",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:30.42697",
+    "updated_at": "2018-08-11 21:37:39.222531",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "ipswich-ale-brewery",
+    "name": "Ipswich Ale Brewery",
+    "brewery_type": "regional",
+    "street": "2 Brewery Pl",
+    "city": "Ipswich",
+    "state": "Massachusetts",
+    "postal_code": "01938-1196",
+    "website_url": "http://www.ipswichalebrewery.com",
+    "phone": "9783563329",
+    "created_at": "2018-07-24 01:33:31.214853",
+    "updated_at": "2018-08-11 21:37:41.910609",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "true-north-ale-company",
+    "name": "True North Ale Company",
+    "brewery_type": "micro",
+    "street": "116 County Rd",
+    "city": "Ipswich",
+    "state": "Massachusetts",
+    "postal_code": "01938-2501",
+    "website_url": "http://www.TrueNorthAles.com",
+    "phone": "9783126473",
+    "created_at": "2018-07-24 01:33:32.193482",
+    "updated_at": "2018-08-24 00:41:53.328507",
+    "country": "United States",
+    "longitude": "-70.837236",
+    "latitude": "42.669841",
+    "tags": []
+  }
+]

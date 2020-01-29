@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lions-tail-brewing",
+    "name": "Lion's Tail Brewing",
+    "brewery_type": "brewpub",
+    "street": "116 S Commercial St",
+    "city": "Neenah",
+    "state": "Wisconsin",
+    "postal_code": "54956-3020",
+    "website_url": "http://www.lionstailbrewing.com",
+    "phone": "9202156443",
+    "created_at": "2018-07-24 01:34:35.7968",
+    "updated_at": "2018-08-24 16:44:03.664513",
+    "country": "United States",
+    "longitude": "-88.461836",
+    "latitude": "44.1863130306122",
+    "tags": []
+  }
+]

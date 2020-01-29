@@ -1,0 +1,19 @@
+[
+  {
+    "id": "curran-brewing-co",
+    "name": "Curran Brewing Co",
+    "brewery_type": "micro",
+    "street": "6230 Bloomington Rd",
+    "city": "Moscow",
+    "state": "Pennsylvania",
+    "postal_code": "18444-6634",
+    "website_url": "http://www.curranbrewing.com",
+    "phone": "5707959490",
+    "created_at": "2018-07-24 01:34:10.100803",
+    "updated_at": "2018-08-11 21:39:25.57116",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

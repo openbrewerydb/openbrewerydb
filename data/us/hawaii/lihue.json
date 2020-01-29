@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kauai-beer-company",
+    "name": "Kauai Beer Company",
+    "brewery_type": "brewpub",
+    "street": "4265 Rice St",
+    "city": "Lihue",
+    "state": "Hawaii",
+    "postal_code": "96766",
+    "website_url": "http://www.kauaibeer.com",
+    "phone": "8082452337",
+    "created_at": "2018-07-24 01:33:16.880712",
+    "updated_at": "2018-08-24 00:29:44.819931",
+    "country": "United States",
+    "longitude": "-159.3647876",
+    "latitude": "21.9722854",
+    "tags": []
+  }
+]

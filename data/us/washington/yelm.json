@@ -1,0 +1,19 @@
+[
+  {
+    "id": "nisqually-valley-brewing",
+    "name": "Nisqually Valley Brewing",
+    "brewery_type": "micro",
+    "street": "704 W Yelm Ave",
+    "city": "Yelm",
+    "state": "Washington",
+    "postal_code": "98597-7676",
+    "website_url": "http://www.nisquallyvalleybrewing.beer",
+    "phone": "4252328191",
+    "created_at": "2018-07-24 01:34:31.445961",
+    "updated_at": "2018-08-24 16:37:15.877759",
+    "country": "United States",
+    "longitude": "-122.614652080808",
+    "latitude": "46.9464943737374",
+    "tags": []
+  }
+]

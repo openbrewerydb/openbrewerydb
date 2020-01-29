@@ -1,0 +1,19 @@
+[
+  {
+    "id": "east-channel-brewing-company",
+    "name": "East Channel Brewing Company",
+    "brewery_type": "micro",
+    "street": "209 Maple St",
+    "city": "Munising",
+    "state": "Michigan",
+    "postal_code": "49862-1084",
+    "website_url": "http://www.eastchannelbrewery.com",
+    "phone": "9063873007",
+    "created_at": "2018-07-24 01:33:34.039221",
+    "updated_at": "2018-08-24 00:42:46.85869",
+    "country": "United States",
+    "longitude": "-86.6545251836735",
+    "latitude": "46.4093414081633",
+    "tags": []
+  }
+]

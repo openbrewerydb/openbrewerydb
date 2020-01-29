@@ -1,0 +1,36 @@
+[
+  {
+    "id": "hackensack-brewing-company",
+    "name": "Hackensack Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Hackensack",
+    "state": "New Jersey",
+    "postal_code": "07601-4824",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:46.797106",
+    "updated_at": "2018-08-11 21:38:23.658791",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "the-alementary",
+    "name": "The Alementary",
+    "brewery_type": "micro",
+    "street": "58 Voorhis Ln",
+    "city": "Hackensack",
+    "state": "New Jersey",
+    "postal_code": "07601-4820",
+    "website_url": "http://www.alementary.com",
+    "phone": "2019681290",
+    "created_at": "2018-07-24 01:33:47.393259",
+    "updated_at": "2018-08-24 15:37:06.490253",
+    "country": "United States",
+    "longitude": "-74.0400401",
+    "latitude": "40.90460655",
+    "tags": []
+  }
+]

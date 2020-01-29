@@ -1,0 +1,36 @@
+[
+  {
+    "id": "magic-city-brewing-company",
+    "name": "Magic City Brewing Company",
+    "brewery_type": "micro",
+    "street": "161 2nd St NW",
+    "city": "Barberton",
+    "state": "Ohio",
+    "postal_code": "44203",
+    "website_url": "http://Www.magiccitybrewingcompany.com",
+    "phone": "3307039806",
+    "created_at": "2018-07-24 01:34:01.649078",
+    "updated_at": "2018-08-24 15:44:23.36223",
+    "country": "United States",
+    "longitude": "-81.6073882927244",
+    "latitude": "41.0144467231506",
+    "tags": []
+  },
+  {
+    "id": "ignite-brewing-company-ltd",
+    "name": "Ignite Brewing Company, Ltd.",
+    "brewery_type": "micro",
+    "street": "600 W Tuscarawas Ave",
+    "city": "Barberton",
+    "state": "Ohio",
+    "postal_code": "44203-2460",
+    "website_url": "http://www.facebook.com/Ignitebrewingcompany",
+    "phone": "3306966881",
+    "created_at": "2018-07-24 01:34:01.218185",
+    "updated_at": "2018-08-24 15:44:10.051007",
+    "country": "United States",
+    "longitude": "-81.61268",
+    "latitude": "41.012866",
+    "tags": []
+  }
+]

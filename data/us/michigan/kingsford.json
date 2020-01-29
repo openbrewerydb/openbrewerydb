@@ -1,0 +1,19 @@
+[
+  {
+    "id": "51st-state-brewing-company",
+    "name": "51st State Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "115 Harding Ave",
+    "city": "Kingsford",
+    "state": "Michigan",
+    "postal_code": "49802-3815",
+    "website_url": "http://www.51ststatebrewingcompany.com",
+    "phone": "9068282167",
+    "created_at": "2018-07-24 01:33:32.478662",
+    "updated_at": "2018-08-24 00:41:59.192756",
+    "country": "United States",
+    "longitude": "-88.08819",
+    "latitude": "45.808408",
+    "tags": []
+  }
+]

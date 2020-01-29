@@ -1,0 +1,19 @@
+[
+  {
+    "id": "north-coast-brewing-co-inc",
+    "name": "North Coast Brewing Co Inc.",
+    "brewery_type": "regional",
+    "street": "455 N Main St",
+    "city": "Fort Bragg",
+    "state": "California",
+    "postal_code": "95437-3215",
+    "website_url": "http://www.northcoastbrewing.com",
+    "phone": "7079642739",
+    "created_at": "2018-07-24 01:32:58.754148",
+    "updated_at": "2018-08-24 00:00:06.886357",
+    "country": "United States",
+    "longitude": "-123.805760387755",
+    "latitude": "39.4461840612245",
+    "tags": []
+  }
+]

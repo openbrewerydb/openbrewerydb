@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rogan-brewing-company",
+    "name": "Rogan Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Duquesne",
+    "state": "Pennsylvania",
+    "postal_code": "15110-1525",
+    "website_url": "http://www.roganbrewing.com",
+    "phone": "4125455400",
+    "created_at": "2018-07-24 01:34:12.300529",
+    "updated_at": "2018-08-11 21:39:30.570196",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "strawn-brewing-co",
+    "name": "Strawn Brewing Co",
+    "brewery_type": "micro",
+    "street": "27 Word St",
+    "city": "Fairburn",
+    "state": "Georgia",
+    "postal_code": "30213-1545",
+    "website_url": "http://www.strawnbrewing.com",
+    "phone": "6785453775",
+    "created_at": "2018-07-24 01:33:16.4749",
+    "updated_at": "2018-08-24 00:29:32.291815",
+    "country": "United States",
+    "longitude": "-84.5836887307548",
+    "latitude": "33.5606219799361",
+    "tags": []
+  }
+]

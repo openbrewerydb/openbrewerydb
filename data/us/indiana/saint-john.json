@@ -1,0 +1,36 @@
+[
+  {
+    "id": "95ate5-brewpub",
+    "name": "95ate5 Brewpub",
+    "brewery_type": "brewpub",
+    "street": "9585 N Industrial Dr",
+    "city": "Saint John",
+    "state": "Indiana",
+    "postal_code": "46373",
+    "website_url": "http://www.95ate5.com",
+    "phone": "2193656506",
+    "created_at": "2018-07-24 01:33:21.246175",
+    "updated_at": "2018-08-24 00:32:26.66408",
+    "country": "United States",
+    "longitude": "-87.4638030517554",
+    "latitude": "41.4440024584439",
+    "tags": []
+  },
+  {
+    "id": "st-john-malt-brothers-brewing",
+    "name": "St John Malt Brothers Brewing",
+    "brewery_type": "brewpub",
+    "street": "9607 Wicker Ave",
+    "city": "Saint John",
+    "state": "Indiana",
+    "postal_code": "46373-9487",
+    "website_url": "http://www.sjmaltbros.com",
+    "phone": "2196274294",
+    "created_at": "2018-07-24 01:33:22.818334",
+    "updated_at": "2018-08-24 00:33:22.623149",
+    "country": "United States",
+    "longitude": "-87.4699816326531",
+    "latitude": "41.4450700816327",
+    "tags": []
+  }
+]

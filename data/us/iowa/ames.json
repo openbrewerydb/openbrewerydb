@@ -1,0 +1,53 @@
+[
+  {
+    "id": "alluvial-brewing-company",
+    "name": "Alluvial Brewing Company",
+    "brewery_type": "micro",
+    "street": "3715 W 190th St",
+    "city": "Ames",
+    "state": "Iowa",
+    "postal_code": "50014-9316",
+    "website_url": "http://www.alluvialbrewing.com",
+    "phone": "515337118",
+    "created_at": "2018-07-24 01:33:23.366879",
+    "updated_at": "2018-08-11 21:37:22.756025",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "olde-main-brewing-co-and-restaurant",
+    "name": "Olde Main Brewing Co & Restaurant",
+    "brewery_type": "brewpub",
+    "street": "316 Main St",
+    "city": "Ames",
+    "state": "Iowa",
+    "postal_code": "50010",
+    "website_url": "http://www.oldemainbrewing.com/",
+    "phone": "5152320553",
+    "created_at": "2018-07-24 01:33:24.205978",
+    "updated_at": "2018-08-24 00:38:06.454019",
+    "country": "United States",
+    "longitude": "-93.6141004285714",
+    "latitude": "42.0250322653061",
+    "tags": []
+  },
+  {
+    "id": "torrent-brewing-co",
+    "name": "Torrent Brewing Co",
+    "brewery_type": "micro",
+    "street": "504 Burnett Ave",
+    "city": "Ames",
+    "state": "Iowa",
+    "postal_code": "50010-6178",
+    "website_url": "http://www.torrentbrewingco.com",
+    "phone": "5152333155",
+    "created_at": "2018-07-24 01:33:24.465257",
+    "updated_at": "2018-08-24 00:38:16.481894",
+    "country": "United States",
+    "longitude": "-93.6152661632653",
+    "latitude": "42.0260534081633",
+    "tags": []
+  }
+]

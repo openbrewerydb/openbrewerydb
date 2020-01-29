@@ -1,0 +1,19 @@
+[
+  {
+    "id": "atco-brewing-llc",
+    "name": "Atco Brewing LLC",
+    "brewery_type": "micro",
+    "street": "302 White Horse Pike",
+    "city": "Atco",
+    "state": "New Jersey",
+    "postal_code": "08004-2209",
+    "website_url": "http://Www.atcobrewingcompany.com",
+    "phone": "6097072628",
+    "created_at": "2018-07-24 01:33:46.087683",
+    "updated_at": "2018-08-24 15:36:28.989638",
+    "country": "United States",
+    "longitude": "-74.8997316523657",
+    "latitude": "39.77167345",
+    "tags": []
+  }
+]

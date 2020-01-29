@@ -1,0 +1,53 @@
+[
+  {
+    "id": "afterthought-brewing-company",
+    "name": "Afterthought Brewing Company",
+    "brewery_type": "micro",
+    "street": "844 N Ridge Ave",
+    "city": "Lombard",
+    "state": "Illinois",
+    "postal_code": "60148-1215",
+    "website_url": "http://afterthoughtbrewing.com",
+    "phone": "6303011615",
+    "created_at": "2018-07-24 01:33:17.945803",
+    "updated_at": "2018-08-24 00:30:25.723831",
+    "country": "United States",
+    "longitude": "-88.0223457433187",
+    "latitude": "41.9054974203246",
+    "tags": []
+  },
+  {
+    "id": "noon-whistle-brewing-company",
+    "name": "Noon Whistle Brewing Company",
+    "brewery_type": "micro",
+    "street": "800 E Roosevelt Rd Ste 3",
+    "city": "Lombard",
+    "state": "Illinois",
+    "postal_code": "60148-4765",
+    "website_url": "http://www.noonwhistlebrewing.com",
+    "phone": "7089063625",
+    "created_at": "2018-07-24 01:33:19.927093",
+    "updated_at": "2018-08-11 21:37:14.087398",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "rock-bottom-brewery-yorktown",
+    "name": "Rock Bottom Brewery - Yorktown",
+    "brewery_type": "brewpub",
+    "street": "94 Yorktown Ctr",
+    "city": "Lombard",
+    "state": "Illinois",
+    "postal_code": "60148-5529",
+    "website_url": "http://www.rockbottom.com",
+    "phone": "6304241550",
+    "created_at": "2018-07-24 01:33:20.519798",
+    "updated_at": "2018-08-11 21:37:15.348384",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "pareidolia-brewing-co",
+    "name": "Pareidolia Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "712 Cleveland St",
+    "city": "Sebastian",
+    "state": "Florida",
+    "postal_code": "32958-4178",
+    "website_url": "http://www.pareidoliabeer.com",
+    "phone": "7725840331",
+    "created_at": "2018-07-24 01:33:14.116109",
+    "updated_at": "2018-08-24 00:28:08.520686",
+    "country": "United States",
+    "longitude": "-80.4664565859044",
+    "latitude": "27.810845559901",
+    "tags": []
+  },
+  {
+    "id": "mash-monkeys-brewing-company",
+    "name": "Mash Monkeys Brewing Company",
+    "brewery_type": "micro",
+    "street": "920 U.S. Highway 1 Unit 1",
+    "city": "Sebastian",
+    "state": "Florida",
+    "postal_code": "32958",
+    "website_url": "http://Www.mashmonkeysbrewing.com",
+    "phone": "7725716283",
+    "created_at": "2018-07-24 01:33:13.657892",
+    "updated_at": "2018-08-11 21:36:56.331625",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

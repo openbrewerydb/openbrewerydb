@@ -1,0 +1,36 @@
+[
+  {
+    "id": "7-mile-brewery",
+    "name": "7 Mile Brewery",
+    "brewery_type": "micro",
+    "street": "3156 Route 9 South Ste 1-2",
+    "city": "Rio Grande",
+    "state": "New Jersey",
+    "postal_code": "08242",
+    "website_url": "http://www.7milebrew.com",
+    "phone": "6093657777",
+    "created_at": "2018-07-24 01:33:45.987391",
+    "updated_at": "2018-08-11 21:38:21.596865",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "cape-may-brewing-company-rio-grande",
+    "name": "Cape May Brewing Company - Rio Grande",
+    "brewery_type": "micro",
+    "street": "1288 Hornet Rd",
+    "city": "Rio Grande",
+    "state": "New Jersey",
+    "postal_code": "08242-2210",
+    "website_url": "http://www.capemaybrewery.com",
+    "phone": "6098499933",
+    "created_at": "2018-07-24 01:33:46.41239",
+    "updated_at": "2018-08-11 21:38:22.636084",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

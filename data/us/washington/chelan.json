@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stormy-mountain-brewing-company",
+    "name": "Stormy Mountain Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "133 E Woodin Ave",
+    "city": "Chelan",
+    "state": "Washington",
+    "postal_code": "98816-",
+    "website_url": "http://www.stormymountainbrewing.com",
+    "phone": "5098885665",
+    "created_at": "2018-07-24 01:34:33.048909",
+    "updated_at": "2018-08-24 16:39:44.923709",
+    "country": "United States",
+    "longitude": "-120.0177327",
+    "latitude": "47.8401295",
+    "tags": []
+  }
+]

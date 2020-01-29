@@ -1,0 +1,19 @@
+[
+  {
+    "id": "927-beer-company",
+    "name": "927 Beer Company",
+    "brewery_type": "micro",
+    "street": "821 Cornwall St",
+    "city": "Cambria",
+    "state": "California",
+    "postal_code": "93428-2434",
+    "website_url": "http://www.cambriabeerco.com",
+    "phone": "8052035265",
+    "created_at": "2018-07-24 01:32:51.300959",
+    "updated_at": "2018-08-23 23:23:58.143384",
+    "country": "United States",
+    "longitude": "-121.0985408",
+    "latitude": "35.5666725",
+    "tags": []
+  }
+]

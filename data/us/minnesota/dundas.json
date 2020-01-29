@@ -1,0 +1,19 @@
+[
+  {
+    "id": "chapel-brewing",
+    "name": "Chapel Brewing",
+    "brewery_type": "micro",
+    "street": "15 Hester St E",
+    "city": "Dundas",
+    "state": "Minnesota",
+    "postal_code": "55019-3942",
+    "website_url": "http://www.chapelbrewing.com",
+    "phone": "5076641300",
+    "created_at": "2018-07-24 01:33:38.223543",
+    "updated_at": "2018-08-11 21:38:01.055051",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

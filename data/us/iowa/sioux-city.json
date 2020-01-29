@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brioux-city-brewery",
+    "name": "Brioux City Brewery",
+    "brewery_type": "micro",
+    "street": "1306 Court St",
+    "city": "Sioux City",
+    "state": "Iowa",
+    "postal_code": "51105",
+    "website_url": "http://www.briouxcitybrewery.com",
+    "phone": "7122779568",
+    "created_at": "2018-07-24 01:33:23.502349",
+    "updated_at": "2018-08-24 00:33:51.410595",
+    "country": "United States",
+    "longitude": "-96.39640025",
+    "latitude": "42.50441425",
+    "tags": []
+  },
+  {
+    "id": "jackson-street-brewing",
+    "name": "Jackson Street Brewing",
+    "brewery_type": "micro",
+    "street": "607 5th St",
+    "city": "Sioux City",
+    "state": "Iowa",
+    "postal_code": "51101-1301",
+    "website_url": "",
+    "phone": "7125748403",
+    "created_at": "2018-07-24 01:33:23.910205",
+    "updated_at": "2018-08-24 00:37:58.836433",
+    "country": "United States",
+    "longitude": "-96.4032342857143",
+    "latitude": "42.4953384897959",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "dead-oak-brewing-company",
+    "name": "Dead Oak Brewing Company",
+    "brewery_type": "micro",
+    "street": "5925 Entrada Ave",
+    "city": "Atascadero",
+    "state": "California",
+    "postal_code": "93422-4223",
+    "website_url": "http://www.facebook.com/deadoakbrewing",
+    "phone": "6023327027",
+    "created_at": "2018-07-24 01:32:54.283576",
+    "updated_at": "2018-08-23 23:27:13.207386",
+    "country": "United States",
+    "longitude": "-120.6687359",
+    "latitude": "35.4897884",
+    "tags": []
+  },
+  {
+    "id": "tent-city-beer-company",
+    "name": "Tent City Beer Company",
+    "brewery_type": "micro",
+    "street": "6760 El Camino Real",
+    "city": "Atascadero",
+    "state": "California",
+    "postal_code": "93422-4205",
+    "website_url": "http://www.tentcitybeer.com",
+    "phone": "8054606454",
+    "created_at": "2018-07-24 01:33:01.944411",
+    "updated_at": "2018-08-24 00:03:46.054473",
+    "country": "United States",
+    "longitude": "-120.66767",
+    "latitude": "35.487726",
+    "tags": []
+  }
+]

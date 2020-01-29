@@ -1,0 +1,53 @@
+[
+  {
+    "id": "fiftyfifty-brewing-co",
+    "name": "FiftyFifty Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "11197 Brockway Rd Spc 1",
+    "city": "Truckee",
+    "state": "California",
+    "postal_code": "96161-3352",
+    "website_url": "http://www.fiftyfiftybrewing.com",
+    "phone": "5305872337",
+    "created_at": "2018-07-24 01:32:55.382361",
+    "updated_at": "2018-08-11 21:36:03.55562",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "fiftyfifty-brewing-production-facility",
+    "name": "FiftyFifty Brewing Production Facility",
+    "brewery_type": "micro",
+    "street": "10434 River Park Pl",
+    "city": "Truckee",
+    "state": "California",
+    "postal_code": "96161-5905",
+    "website_url": "",
+    "phone": "5305872337",
+    "created_at": "2018-07-24 01:32:55.394552",
+    "updated_at": "2018-08-23 23:28:20.890841",
+    "country": "United States",
+    "longitude": "-120.193172369243",
+    "latitude": "39.3225323692432",
+    "tags": []
+  },
+  {
+    "id": "tahoe-mountain-brewing-company",
+    "name": "Tahoe Mountain Brewing Company",
+    "brewery_type": "micro",
+    "street": "10990 Industrial Way Ste B104",
+    "city": "Truckee",
+    "state": "California",
+    "postal_code": "96161-0258",
+    "website_url": "http://tahoebrewing.com/",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:01.723355",
+    "updated_at": "2018-08-11 21:36:23.719427",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

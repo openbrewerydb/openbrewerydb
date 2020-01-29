@@ -1,0 +1,19 @@
+[
+  {
+    "id": "freebridge-brewing",
+    "name": "Freebridge Brewing",
+    "brewery_type": "brewpub",
+    "street": "710 E 2nd St Ste 1",
+    "city": "The Dalles",
+    "state": "Oregon",
+    "postal_code": "97058-2400",
+    "website_url": "http://www.freebridgebrewing.com",
+    "phone": "5417691234",
+    "created_at": "2018-07-24 01:34:05.968978",
+    "updated_at": "2018-08-11 21:39:13.589643",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

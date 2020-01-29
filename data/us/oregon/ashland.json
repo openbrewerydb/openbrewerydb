@@ -1,0 +1,36 @@
+[
+  {
+    "id": "caldera-brewing-co",
+    "name": "Caldera Brewing Co",
+    "brewery_type": "micro",
+    "street": "590 Clover Ln",
+    "city": "Ashland",
+    "state": "Oregon",
+    "postal_code": "97520-3709",
+    "website_url": "http://www.calderabrewing.com",
+    "phone": "5414824677",
+    "created_at": "2018-07-24 01:34:05.325705",
+    "updated_at": "2018-08-24 15:46:07.515668",
+    "country": "United States",
+    "longitude": "-122.663374407476",
+    "latitude": "42.1837384599099",
+    "tags": []
+  },
+  {
+    "id": "standing-stone-brewing-co",
+    "name": "Standing Stone Brewing Co",
+    "brewery_type": "micro",
+    "street": "101 Oak St",
+    "city": "Ashland",
+    "state": "Oregon",
+    "postal_code": "97520-1802",
+    "website_url": "http://www.standingstonebrewing.com",
+    "phone": "5414822448",
+    "created_at": "2018-07-24 01:34:07.908628",
+    "updated_at": "2018-08-24 16:05:04.021907",
+    "country": "United States",
+    "longitude": "-122.714579315999",
+    "latitude": "42.1976451",
+    "tags": []
+  }
+]

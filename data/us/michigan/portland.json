@@ -1,0 +1,36 @@
+[
+  {
+    "id": "confluxcity-brewing-company",
+    "name": "ConfluxCity Brewing Company",
+    "brewery_type": "micro",
+    "street": "110 N Water St",
+    "city": "Portland",
+    "state": "Michigan",
+    "postal_code": "48875",
+    "website_url": "http://www.confluxcitybrew.com",
+    "phone": "5175269091",
+    "created_at": "2018-07-24 01:33:33.776422",
+    "updated_at": "2018-08-24 00:42:37.634204",
+    "country": "United States",
+    "longitude": "-84.9032148381293",
+    "latitude": "42.8714242896063",
+    "tags": []
+  },
+  {
+    "id": "gallery-brewery",
+    "name": "Gallery Brewery",
+    "brewery_type": "brewpub",
+    "street": "143 Kent St",
+    "city": "Portland",
+    "state": "Michigan",
+    "postal_code": "48875-1456",
+    "website_url": "http://www.thegallerybrewery.com",
+    "phone": "5175269060",
+    "created_at": "2018-07-24 01:33:34.40831",
+    "updated_at": "2018-08-24 00:42:59.371091",
+    "country": "United States",
+    "longitude": "-84.9028427142857",
+    "latitude": "42.8698587142857",
+    "tags": []
+  }
+]

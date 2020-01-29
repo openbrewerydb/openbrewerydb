@@ -1,0 +1,19 @@
+[
+  {
+    "id": "snowy-mountain-brewery",
+    "name": "Snowy Mountain Brewery",
+    "brewery_type": "brewpub",
+    "street": "601 E Pic Pike Rd",
+    "city": "Saratoga",
+    "state": "Wyoming",
+    "postal_code": "82331",
+    "website_url": "",
+    "phone": "8005940178",
+    "created_at": "2018-07-24 01:34:37.615405",
+    "updated_at": "2018-08-11 21:40:38.800427",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

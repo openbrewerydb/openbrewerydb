@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pallister-brothers-brewing-company",
+    "name": "Pallister Brothers Brewing Company",
+    "brewery_type": "micro",
+    "street": "116 N Market St",
+    "city": "Ottumwa",
+    "state": "Iowa",
+    "postal_code": "52501",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:24.219168",
+    "updated_at": "2018-08-24 00:38:06.991296",
+    "country": "United States",
+    "longitude": "-92.4101724",
+    "latitude": "41.0180942",
+    "tags": []
+  }
+]

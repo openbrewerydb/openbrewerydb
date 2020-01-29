@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bitter-creek-brewing-co",
+    "name": "Bitter Creek Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "604 Broadway St",
+    "city": "Rock Springs",
+    "state": "Wyoming",
+    "postal_code": "82901-6348",
+    "website_url": "http://www.bittercreekbrewing.com",
+    "phone": "3073624782",
+    "created_at": "2018-07-24 01:34:37.322978",
+    "updated_at": "2018-08-24 16:46:39.138606",
+    "country": "United States",
+    "longitude": "-109.21812427755",
+    "latitude": "41.5868390443439",
+    "tags": []
+  },
+  {
+    "id": "square-state-brewing",
+    "name": "Square State Brewing",
+    "brewery_type": "micro",
+    "street": "422 S Main St",
+    "city": "Rock Springs",
+    "state": "Wyoming",
+    "postal_code": "82901",
+    "website_url": "",
+    "phone": "3073626159",
+    "created_at": "2018-07-24 01:34:37.628063",
+    "updated_at": "2018-08-24 16:47:07.812315",
+    "country": "United States",
+    "longitude": "-109.220640394571",
+    "latitude": "41.5862471358629",
+    "tags": []
+  }
+]

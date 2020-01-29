@@ -1,0 +1,36 @@
+[
+  {
+    "id": "johnnys-calistoga-/-mud-city-brews",
+    "name": "Johnny's Calistoga / Mud City Brews",
+    "brewery_type": "brewpub",
+    "street": "1457 Lincoln Ave",
+    "city": "Calistoga",
+    "state": "California",
+    "postal_code": "94515",
+    "website_url": "http://www.johnnyscalistoga.com",
+    "phone": "7079425938",
+    "created_at": "2018-07-24 01:32:57.086701",
+    "updated_at": "2018-08-23 23:58:09.378331",
+    "country": "United States",
+    "longitude": "-122.579054",
+    "latitude": "38.578753",
+    "tags": []
+  },
+  {
+    "id": "napa-valley-brewing-co/-calistoga-inn",
+    "name": "Napa Valley Brewing Co/ Calistoga Inn",
+    "brewery_type": "brewpub",
+    "street": "1250 Lincoln Ave",
+    "city": "Calistoga",
+    "state": "California",
+    "postal_code": "94515-1741",
+    "website_url": "http://www.napabeer.com",
+    "phone": "7079424101",
+    "created_at": "2018-07-24 01:32:58.620572",
+    "updated_at": "2018-08-23 23:59:56.34917",
+    "country": "United States",
+    "longitude": "-122.579631222222",
+    "latitude": "38.5769344444444",
+    "tags": []
+  }
+]

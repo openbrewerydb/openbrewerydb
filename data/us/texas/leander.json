@@ -1,0 +1,53 @@
+[
+  {
+    "id": "5th-element-brewing",
+    "name": "5th Element Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Leander",
+    "state": "Texas",
+    "postal_code": "78641-4009",
+    "website_url": "",
+    "phone": "9156378199",
+    "created_at": "2018-07-24 01:34:17.404824",
+    "updated_at": "2018-08-11 21:39:44.803224",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "brewery-in-planning-austin",
+    "name": "Brewery In Planning - Austin",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Leander",
+    "state": "Texas",
+    "postal_code": "78641-8632",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:18.205536",
+    "updated_at": "2018-08-11 21:39:47.020246",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "hell-or-high-water-brewing",
+    "name": "Hell or High Water Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Leander",
+    "state": "Texas",
+    "postal_code": "78641-8882",
+    "website_url": "",
+    "phone": "5129636701",
+    "created_at": "2018-07-24 01:34:19.585073",
+    "updated_at": "2018-08-11 21:39:50.49846",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

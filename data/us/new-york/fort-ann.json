@@ -1,0 +1,19 @@
+[
+  {
+    "id": "battle-hill-brewing-company",
+    "name": "Battle Hill Brewing Company",
+    "brewery_type": "micro",
+    "street": "4 Charles Street",
+    "city": "Fort Ann",
+    "state": "New York",
+    "postal_code": "12827",
+    "website_url": "http://www.battlehillbrewing.com",
+    "phone": "5186391033",
+    "created_at": "2018-07-24 01:33:49.323724",
+    "updated_at": "2018-08-24 15:38:07.32262",
+    "country": "United States",
+    "longitude": "-73.487393457003",
+    "latitude": "43.41676935",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brinx-jones-brewery",
+    "name": "Brinx Jones Brewery",
+    "brewery_type": "micro",
+    "street": "613 E Landis Ave",
+    "city": "Vineland",
+    "state": "New Jersey",
+    "postal_code": "08360",
+    "website_url": "http://www.brinxjones.com",
+    "phone": "8564056993",
+    "created_at": "2018-07-24 01:33:46.324261",
+    "updated_at": "2018-08-24 15:36:33.755233",
+    "country": "United States",
+    "longitude": "-75.02304748945",
+    "latitude": "39.485955",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "walnut-river-brewing-company",
+    "name": "Walnut River Brewing Company",
+    "brewery_type": "micro",
+    "street": "111 W Locust Ave",
+    "city": "El Dorado",
+    "state": "Kansas",
+    "postal_code": "67042-3513",
+    "website_url": "http://www.walnutriverbrewing.com",
+    "phone": "3163518086",
+    "created_at": "2018-07-24 01:33:25.13327",
+    "updated_at": "2018-08-24 00:38:36.53539",
+    "country": "United States",
+    "longitude": "-96.8500486938776",
+    "latitude": "37.8136754897959",
+    "tags": []
+  }
+]

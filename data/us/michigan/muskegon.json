@@ -1,0 +1,53 @@
+[
+  {
+    "id": "pigeon-hill-brewery-production-facility",
+    "name": "Pigeon Hill Brewery Production Facility",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Muskegon",
+    "state": "Michigan",
+    "postal_code": "49440-1109",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:36.084818",
+    "updated_at": "2018-08-11 21:37:54.61582",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "pigeon-hill-brewing-co",
+    "name": "Pigeon Hill Brewing Co",
+    "brewery_type": "micro",
+    "street": "500 W Western Ave Ste 100",
+    "city": "Muskegon",
+    "state": "Michigan",
+    "postal_code": "49440-1000",
+    "website_url": "http://www.pigeonhillbrew.com",
+    "phone": "2313755184",
+    "created_at": "2018-07-24 01:33:36.097165",
+    "updated_at": "2018-08-11 21:37:54.65856",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "unruly-brewing-company",
+    "name": "Unruly Brewing Company",
+    "brewery_type": "micro",
+    "street": "360 W Western Ave",
+    "city": "Muskegon",
+    "state": "Michigan",
+    "postal_code": "49440-1273",
+    "website_url": "http://www.unrulybrewing.com",
+    "phone": "2312881068",
+    "created_at": "2018-07-24 01:33:37.340317",
+    "updated_at": "2018-08-24 00:44:35.068768",
+    "country": "United States",
+    "longitude": "-86.2538154074074",
+    "latitude": "43.2350436666667",
+    "tags": []
+  }
+]

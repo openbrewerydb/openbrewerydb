@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bronze-owl-brewing",
+    "name": "Bronze Owl Brewing",
+    "brewery_type": "brewpub",
+    "street": "506 Vine St",
+    "city": "Poplar Bluff",
+    "state": "Missouri",
+    "postal_code": "63901-7331",
+    "website_url": "http://www.bronzeowlbrewing.com",
+    "phone": "5738405202",
+    "created_at": "2018-07-24 01:33:40.712544",
+    "updated_at": "2018-08-24 00:46:16.932549",
+    "country": "United States",
+    "longitude": "-90.3957733846154",
+    "latitude": "36.7566310769231",
+    "tags": []
+  }
+]

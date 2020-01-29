@@ -1,0 +1,53 @@
+[
+  {
+    "id": "burnem-brewing",
+    "name": "Burn'Em Brewing",
+    "brewery_type": "brewpub",
+    "street": "718 Freyer Rd",
+    "city": "Michigan City",
+    "state": "Indiana",
+    "postal_code": "46360-1911",
+    "website_url": "http://www.burnembrewing.com",
+    "phone": "2193938606",
+    "created_at": "2018-07-24 01:33:21.625741",
+    "updated_at": "2018-08-24 00:32:40.359916",
+    "country": "United States",
+    "longitude": "-86.8297919071235",
+    "latitude": "41.7384971691983",
+    "tags": []
+  },
+  {
+    "id": "shoreline-brewery",
+    "name": "Shoreline Brewery",
+    "brewery_type": "brewpub",
+    "street": "208 Wabash St",
+    "city": "Michigan City",
+    "state": "Indiana",
+    "postal_code": "46360-3244",
+    "website_url": "http://www.shorelinebrewery.com",
+    "phone": "2198794677",
+    "created_at": "2018-07-24 01:33:22.793861",
+    "updated_at": "2018-08-24 00:33:21.449196",
+    "country": "United States",
+    "longitude": "-86.9062196842105",
+    "latitude": "41.7193131052632",
+    "tags": []
+  },
+  {
+    "id": "zorn-brew-works",
+    "name": "Zorn Brew Works",
+    "brewery_type": "micro",
+    "street": "605 E 9th St",
+    "city": "Michigan City",
+    "state": "Indiana",
+    "postal_code": "46360-3651",
+    "website_url": "http://www.zornbrewworks.com",
+    "phone": "2193316322",
+    "created_at": "2018-07-24 01:33:23.284022",
+    "updated_at": "2018-08-24 00:33:41.836535",
+    "country": "United States",
+    "longitude": "-86.8921678567784",
+    "latitude": "41.714577",
+    "tags": []
+  }
+]

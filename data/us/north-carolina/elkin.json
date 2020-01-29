@@ -1,0 +1,36 @@
+[
+  {
+    "id": "angry-troll-brewing-/-222-public-house",
+    "name": "Angry Troll Brewing / 222 Public House",
+    "brewery_type": "brewpub",
+    "street": "222 E Main St Ste U2",
+    "city": "Elkin",
+    "state": "North Carolina",
+    "postal_code": "28621-3493",
+    "website_url": "http://www.angrytrollbrewing.com",
+    "phone": "3362582251",
+    "created_at": "2018-07-24 01:33:54.855685",
+    "updated_at": "2018-08-11 21:38:44.581094",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "skull-camp-brewing",
+    "name": "Skull Camp Brewing",
+    "brewery_type": "micro",
+    "street": "1980 N Bridge St",
+    "city": "Elkin",
+    "state": "North Carolina",
+    "postal_code": "28621-2106",
+    "website_url": "http://www.skullcampbrewing.com",
+    "phone": "3363525595",
+    "created_at": "2018-07-24 01:33:58.096695",
+    "updated_at": "2018-08-24 15:42:40.34196",
+    "country": "United States",
+    "longitude": "-80.8524565963092",
+    "latitude": "36.2833978851372",
+    "tags": []
+  }
+]

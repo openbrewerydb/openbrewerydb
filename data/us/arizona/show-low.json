@@ -1,0 +1,19 @@
+[
+  {
+    "id": "black-horse-brewery",
+    "name": "Black Horse Brewery",
+    "brewery_type": "micro",
+    "street": "1058 Burton Rd",
+    "city": "Show Low",
+    "state": "Arizona",
+    "postal_code": "85901-3924",
+    "website_url": "http://www.blackhorsebrewery.us",
+    "phone": "9285379349",
+    "created_at": "2018-07-24 01:32:48.744269",
+    "updated_at": "2018-08-11 21:35:46.753325",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

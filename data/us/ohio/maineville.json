@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sonder-brewing",
+    "name": "Sonder Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Maineville",
+    "state": "Ohio",
+    "postal_code": "45039-8103",
+    "website_url": "http://www.sonderbrewery.com",
+    "phone": "6303473323",
+    "created_at": "2018-07-24 01:34:02.976313",
+    "updated_at": "2018-08-11 21:39:04.502588",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

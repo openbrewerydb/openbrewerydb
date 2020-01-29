@@ -1,0 +1,36 @@
+[
+  {
+    "id": "entitled-beer-company",
+    "name": "Entitled Beer Company",
+    "brewery_type": "proprietor",
+    "street": "21 North St",
+    "city": "Hingham",
+    "state": "Massachusetts",
+    "postal_code": "02043-",
+    "website_url": "http://www.entitledbrewing.com",
+    "phone": "7817401035",
+    "created_at": "2018-07-24 01:33:30.964934",
+    "updated_at": "2018-08-24 00:41:18.710141",
+    "country": "United States",
+    "longitude": "-70.8861847258737",
+    "latitude": "42.2436072296139",
+    "tags": []
+  },
+  {
+    "id": "hingham-beer-works",
+    "name": "Hingham Beer Works",
+    "brewery_type": "brewpub",
+    "street": "18 Shipyard Dr Ste 1K",
+    "city": "Hingham",
+    "state": "Massachusetts",
+    "postal_code": "02043-1670",
+    "website_url": "",
+    "phone": "7817492337",
+    "created_at": "2018-07-24 01:33:31.113489",
+    "updated_at": "2018-08-11 21:37:41.484468",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

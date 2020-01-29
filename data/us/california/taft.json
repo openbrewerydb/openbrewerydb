@@ -1,0 +1,19 @@
+[
+  {
+    "id": "black-gold-brewing-co",
+    "name": "Black Gold Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "508 Center St",
+    "city": "Taft",
+    "state": "California",
+    "postal_code": "93268-3109",
+    "website_url": "",
+    "phone": "6617656550",
+    "created_at": "2018-07-24 01:32:52.630122",
+    "updated_at": "2018-08-23 23:25:32.19154",
+    "country": "United States",
+    "longitude": "-119.459165816327",
+    "latitude": "35.1410971836735",
+    "tags": []
+  }
+]

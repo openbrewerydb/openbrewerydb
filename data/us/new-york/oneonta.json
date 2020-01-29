@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cooperstown-brewing-co",
+    "name": "Cooperstown Brewing Co",
+    "brewery_type": "proprietor",
+    "street": "41 Browne St.",
+    "city": "Oneonta",
+    "state": "New York",
+    "postal_code": "13820",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:50.350414",
+    "updated_at": "2018-08-24 15:38:34.490096",
+    "country": "United States",
+    "longitude": "-75.1094240504556",
+    "latitude": "42.4511858633909",
+    "tags": []
+  },
+  {
+    "id": "roots-brewing-company",
+    "name": "Roots Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "175 Main St",
+    "city": "Oneonta",
+    "state": "New York",
+    "postal_code": "13820-2501",
+    "website_url": "http://www.rootsbrewingcompany.com",
+    "phone": "6074332925",
+    "created_at": "2018-07-24 01:33:53.206309",
+    "updated_at": "2018-08-24 15:40:07.54832",
+    "country": "United States",
+    "longitude": "-75.0630461",
+    "latitude": "42.45318",
+    "tags": []
+  }
+]

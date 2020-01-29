@@ -1,0 +1,19 @@
+[
+  {
+    "id": "beaver-brewery-at-mos-place",
+    "name": "Beaver Brewery At Mo's Place",
+    "brewery_type": "brewpub",
+    "street": "1908 Elm St",
+    "city": "Beaver",
+    "state": "Kansas",
+    "postal_code": "67525-9231",
+    "website_url": "http://www.mosbrewpub.com",
+    "phone": "6205872350",
+    "created_at": "2018-07-24 01:33:24.592912",
+    "updated_at": "2018-08-24 00:38:21.182243",
+    "country": "United States",
+    "longitude": "-98.667933",
+    "latitude": "38.639049",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bankhead-brewing-company",
+    "name": "Bankhead Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "3840 Main St",
+    "city": "Rowlett",
+    "state": "Texas",
+    "postal_code": "75088-5073",
+    "website_url": "http://www.bankheadbrewing.com",
+    "phone": "2143847953",
+    "created_at": "2018-07-24 01:34:17.758517",
+    "updated_at": "2018-08-24 16:18:55.287389",
+    "country": "United States",
+    "longitude": "-96.5661088275862",
+    "latitude": "32.9029137011494",
+    "tags": []
+  }
+]

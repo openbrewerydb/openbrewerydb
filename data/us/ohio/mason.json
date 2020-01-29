@@ -1,0 +1,36 @@
+[
+  {
+    "id": "16-lots-brewing",
+    "name": "16 Lots Brewing",
+    "brewery_type": "brewpub",
+    "street": "753 Reading Rd",
+    "city": "Mason",
+    "state": "Ohio",
+    "postal_code": "45040-1303",
+    "website_url": "http://www.16lots.com",
+    "phone": "5134863672",
+    "created_at": "2018-07-24 01:33:59.340292",
+    "updated_at": "2018-08-24 15:43:20.466284",
+    "country": "United States",
+    "longitude": "-84.3183801",
+    "latitude": "39.3545967",
+    "tags": []
+  },
+  {
+    "id": "the-common-beer-company",
+    "name": "The Common Beer Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Mason",
+    "state": "Ohio",
+    "postal_code": "45040",
+    "website_url": "https://commonbeercompany.com/",
+    "phone": "5136580170",
+    "created_at": "2018-07-24 01:34:03.281111",
+    "updated_at": "2018-08-11 21:39:05.678355",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

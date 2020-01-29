@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ascension-brewing-company",
+    "name": "Ascension Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "42000 Grand River Ave",
+    "city": "Novi",
+    "state": "Michigan",
+    "postal_code": "48375-1831",
+    "website_url": "http://www.ascension.beer",
+    "phone": "2483082093",
+    "created_at": "2018-07-24 01:33:32.664968",
+    "updated_at": "2018-08-24 00:42:06.270841",
+    "country": "United States",
+    "longitude": "-83.4609783",
+    "latitude": "42.4783271",
+    "tags": []
+  }
+]

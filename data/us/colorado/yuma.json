@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tumbleweed-brewing-and-wine-company",
+    "name": "Tumbleweed Brewing and Wine Company",
+    "brewery_type": "brewpub",
+    "street": "124 S Main St",
+    "city": "Yuma",
+    "state": "Colorado",
+    "postal_code": "80759",
+    "website_url": "http://www.tumbleweedbrewing.com",
+    "phone": "9706302818",
+    "created_at": "2018-07-24 01:33:08.402057",
+    "updated_at": "2018-08-24 00:25:00.693782",
+    "country": "United States",
+    "longitude": "-102.723886530612",
+    "latitude": "40.1246275918367",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sutter-buttes-brewing",
+    "name": "Sutter Buttes Brewing",
+    "brewery_type": "brewpub",
+    "street": "421 Center St",
+    "city": "Yuba City",
+    "state": "California",
+    "postal_code": "95991-4505",
+    "website_url": "http://www.sutterbuttesbrewing.com",
+    "phone": "5307907999",
+    "created_at": "2018-07-24 01:33:01.673602",
+    "updated_at": "2018-08-24 00:03:29.058101",
+    "country": "United States",
+    "longitude": "-121.614914694766",
+    "latitude": "39.1372328602599",
+    "tags": []
+  }
+]

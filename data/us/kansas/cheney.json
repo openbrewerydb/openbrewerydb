@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hank-is-wiser-brewery",
+    "name": "Hank Is Wiser Brewery",
+    "brewery_type": "brewpub",
+    "street": "213 N Main St",
+    "city": "Cheney",
+    "state": "Kansas",
+    "postal_code": "67025-9730",
+    "website_url": "http://www.hankiswiserbrewery.com",
+    "phone": "3165420113",
+    "created_at": "2018-07-24 01:33:24.810649",
+    "updated_at": "2018-08-24 00:38:27.844296",
+    "country": "United States",
+    "longitude": "-97.7812688979592",
+    "latitude": "37.628209244898",
+    "tags": []
+  }
+]

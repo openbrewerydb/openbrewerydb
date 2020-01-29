@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-boathouse-beer-co-and-boozery",
+    "name": "The Boathouse Beer Co and Boozery",
+    "brewery_type": "brewpub",
+    "street": "450 W Lake St",
+    "city": "Tawas City",
+    "state": "Michigan",
+    "postal_code": "48763-8320",
+    "website_url": "http://www.boathousebeerco.com",
+    "phone": "9899845233",
+    "created_at": "2018-07-24 01:33:36.908911",
+    "updated_at": "2018-08-24 00:44:21.588023",
+    "country": "United States",
+    "longitude": "-83.516902402774",
+    "latitude": "44.268263780187",
+    "tags": []
+  }
+]

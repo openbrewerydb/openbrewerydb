@@ -1,0 +1,19 @@
+[
+  {
+    "id": "yorkholo-brewing-co",
+    "name": "Yorkholo Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "19 N Main St",
+    "city": "Mansfield",
+    "state": "Pennsylvania",
+    "postal_code": "16933-1403",
+    "website_url": "http://www.yorkholobrewing.com",
+    "phone": "5704045805",
+    "created_at": "2018-07-24 01:34:13.605008",
+    "updated_at": "2018-08-24 16:13:29.644436",
+    "country": "United States",
+    "longitude": "-77.0783870740995",
+    "latitude": "41.8075850858057",
+    "tags": []
+  }
+]

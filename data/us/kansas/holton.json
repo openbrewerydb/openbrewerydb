@@ -1,0 +1,19 @@
+[
+  {
+    "id": "willcott-brewing-company",
+    "name": "Willcott Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Holton",
+    "state": "Kansas",
+    "postal_code": "66436-1703",
+    "website_url": "http://www.willcottbrewing.com",
+    "phone": "7853381611",
+    "created_at": "2018-07-24 01:33:25.199106",
+    "updated_at": "2018-08-11 21:37:26.818241",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

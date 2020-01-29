@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pelican-brewing-company",
+    "name": "Pelican Brewing Company",
+    "brewery_type": "regional",
+    "street": "33180 Cape Kiwanda Dr",
+    "city": "Pacific City",
+    "state": "Oregon",
+    "postal_code": "97135-8012",
+    "website_url": "http://www.pelicanbrewery.com",
+    "phone": "5039657007",
+    "created_at": "2018-07-24 01:34:07.26304",
+    "updated_at": "2018-08-24 16:03:58.68788",
+    "country": "United States",
+    "longitude": "-123.969572369891",
+    "latitude": "45.2155083180469",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "del-cielo-brewing-co",
+    "name": "Del Cielo Brewing Co.",
+    "brewery_type": "micro",
+    "street": "701 Escobar St Ste A",
+    "city": "Martinez",
+    "state": "California",
+    "postal_code": "94553-1150",
+    "website_url": "http://www.delcielobrewing.com",
+    "phone": "9253301229",
+    "created_at": "2018-07-24 01:32:54.332166",
+    "updated_at": "2018-08-11 21:36:00.991917",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "five-suns-brewing",
+    "name": "Five Suns Brewing",
+    "brewery_type": "micro",
+    "street": "701 Escobar St Ste C",
+    "city": "Martinez",
+    "state": "California",
+    "postal_code": "94553",
+    "website_url": "http://www.fivesunsbrewing.com",
+    "phone": "9259576706",
+    "created_at": "2018-07-24 01:32:55.544179",
+    "updated_at": "2018-08-11 21:36:04.115878",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "rocksteady-brewing-co",
+    "name": "Rocksteady Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "611 Escobar St",
+    "city": "Martinez",
+    "state": "California",
+    "postal_code": "94553-1111",
+    "website_url": "http://www.creekmonkey.com",
+    "phone": "9252288787",
+    "created_at": "2018-07-24 01:33:00.141947",
+    "updated_at": "2018-08-24 00:01:40.092926",
+    "country": "United States",
+    "longitude": "-122.137811869831",
+    "latitude": "38.0177998",
+    "tags": []
+  }
+]

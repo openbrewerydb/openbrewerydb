@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lena-brewing-company",
+    "name": "Lena Brewing Company",
+    "brewery_type": "micro",
+    "street": "9416 W Wagner Rd",
+    "city": "Lena",
+    "state": "Illinois",
+    "postal_code": "61048-9664",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:19.574",
+    "updated_at": "2018-08-11 21:37:13.20323",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "wishful-acres-farm-and-brewery",
+    "name": "Wishful Acres Farm and Brewery",
+    "brewery_type": "micro",
+    "street": "4679 N Flansburg Rd",
+    "city": "Lena",
+    "state": "Illinois",
+    "postal_code": "61048",
+    "website_url": "http://www.wishfulacresfarm.com",
+    "phone": "8159902380",
+    "created_at": "2018-07-24 01:33:21.126451",
+    "updated_at": "2018-08-11 21:37:17.140113",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

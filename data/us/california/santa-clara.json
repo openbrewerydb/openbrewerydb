@@ -1,0 +1,36 @@
+[
+  {
+    "id": "golden-state-brewery",
+    "name": "Golden State Brewery",
+    "brewery_type": "micro",
+    "street": "1252 Memorex Dr",
+    "city": "Santa Clara",
+    "state": "California",
+    "postal_code": "95050-2812",
+    "website_url": "http://www.goldenstate.beer",
+    "phone": "4087272337",
+    "created_at": "2018-07-24 01:32:55.910006",
+    "updated_at": "2018-08-23 23:28:53.18179",
+    "country": "United States",
+    "longitude": "-121.950316757586",
+    "latitude": "37.3625383916082",
+    "tags": []
+  },
+  {
+    "id": "taplands-brewery",
+    "name": "Taplands Brewery",
+    "brewery_type": "brewpub",
+    "street": "1171 Homestead Rd Ste 110",
+    "city": "Santa Clara",
+    "state": "California",
+    "postal_code": "95050-5479",
+    "website_url": "http://www.taplands.com",
+    "phone": "4087092990",
+    "created_at": "2018-07-24 01:33:01.776845",
+    "updated_at": "2018-08-24 00:03:36.157307",
+    "country": "United States",
+    "longitude": "-121.946024306771",
+    "latitude": "37.3481478859025",
+    "tags": []
+  }
+]

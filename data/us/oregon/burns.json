@@ -1,0 +1,19 @@
+[
+  {
+    "id": "steens-mountain-brewing-company",
+    "name": "Steens Mountain Brewing Company",
+    "brewery_type": "micro",
+    "street": "673 B W Monroe St",
+    "city": "Burns",
+    "state": "Oregon",
+    "postal_code": "97720",
+    "website_url": "",
+    "phone": "5415891159",
+    "created_at": "2018-07-24 01:34:07.922916",
+    "updated_at": "2018-08-24 16:05:05.550138",
+    "country": "United States",
+    "longitude": "-119.060813",
+    "latitude": "43.585639",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "three-twenty-brewing-co",
+    "name": "Three Twenty Brewing Co.",
+    "brewery_type": "micro",
+    "street": "135 5th St SE",
+    "city": "Pine City",
+    "state": "Minnesota",
+    "postal_code": "55063-1510",
+    "website_url": "http://www.threetwentybrewing.com",
+    "phone": "3203221237",
+    "created_at": "2018-07-24 01:33:39.753616",
+    "updated_at": "2018-08-24 00:45:52.771559",
+    "country": "United States",
+    "longitude": "-92.9697496799502",
+    "latitude": "45.8279655554068",
+    "tags": []
+  }
+]

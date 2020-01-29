@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mad-princes-brewing",
+    "name": "Mad Princes Brewing",
+    "brewery_type": "micro",
+    "street": "2537 Bogarts Tavern Rd",
+    "city": "Buckingham",
+    "state": "Pennsylvania",
+    "postal_code": "18902",
+    "website_url": "",
+    "phone": "2676146104",
+    "created_at": "2018-07-24 01:34:11.486749",
+    "updated_at": "2018-08-24 16:10:08.290708",
+    "country": "United States",
+    "longitude": "-75.0613301002464",
+    "latitude": "40.32438895",
+    "tags": []
+  }
+]

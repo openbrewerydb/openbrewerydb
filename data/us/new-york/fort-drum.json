@@ -1,0 +1,19 @@
+[
+  {
+    "id": "busters-brew-pub",
+    "name": "Buster's Brew Pub",
+    "brewery_type": "brewpub",
+    "street": "Euphrates River Valley Road Bldg P-4350",
+    "city": "Fort Drum",
+    "state": "New York",
+    "postal_code": "13602",
+    "website_url": "http://www.drummwr.com",
+    "phone": "3157721900",
+    "created_at": "2018-07-24 01:33:50.075425",
+    "updated_at": "2018-08-11 21:38:31.98815",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "berthoud-brewing-company",
+    "name": "Berthoud Brewing Company",
+    "brewery_type": "micro",
+    "street": "450 S 8th St Unit B",
+    "city": "Berthoud",
+    "state": "Colorado",
+    "postal_code": "80513",
+    "website_url": "http://www.berthoudbrewing.com",
+    "phone": "9705329850",
+    "created_at": "2018-07-24 01:33:03.673831",
+    "updated_at": "2018-08-11 21:36:31.358313",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "city-star-brewing",
+    "name": "City Star Brewing",
+    "brewery_type": "micro",
+    "street": "321 Mountain Avenue",
+    "city": "Berthoud",
+    "state": "Colorado",
+    "postal_code": "80513-",
+    "website_url": "http://www.citystarbrewing.com",
+    "phone": "9705327827",
+    "created_at": "2018-07-24 01:33:04.628581",
+    "updated_at": "2018-08-24 00:22:33.273229",
+    "country": "United States",
+    "longitude": "-105.080946465525",
+    "latitude": "40.3050521371222",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ale-spike",
+    "name": "Ale Spike",
+    "brewery_type": "micro",
+    "street": "9300 271st St NW, Ste B-5",
+    "city": "Stanwood",
+    "state": "Washington",
+    "postal_code": "98292",
+    "website_url": "http://www.alespike.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:27.807657",
+    "updated_at": "2018-08-11 21:40:11.454389",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

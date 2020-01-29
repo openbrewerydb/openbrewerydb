@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lilly-pad-hopyard-brewery",
+    "name": "Lilly Pad Hopyard Brewery",
+    "brewery_type": "brewpub",
+    "street": "920 Ridge Rd",
+    "city": "Lancing",
+    "state": "Tennessee",
+    "postal_code": "37770-1830",
+    "website_url": "http://lillypadhopyardbrewery.com",
+    "phone": "8656170984",
+    "created_at": "2018-07-24 01:34:16.602752",
+    "updated_at": "2018-08-24 16:17:17.251816",
+    "country": "United States",
+    "longitude": "-84.690323",
+    "latitude": "36.129889",
+    "tags": []
+  }
+]

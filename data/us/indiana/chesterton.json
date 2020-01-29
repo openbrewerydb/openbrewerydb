@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hunters-brewing",
+    "name": "Hunter's Brewing",
+    "brewery_type": "brewpub",
+    "street": "1535 S Calumet Rd",
+    "city": "Chesterton",
+    "state": "Indiana",
+    "postal_code": "46304-3301",
+    "website_url": "",
+    "phone": "2197286729",
+    "created_at": "2018-07-24 01:33:22.251698",
+    "updated_at": "2018-08-24 00:33:00.044826",
+    "country": "United States",
+    "longitude": "-87.0475184046949",
+    "latitude": "41.5971593002097",
+    "tags": []
+  }
+]

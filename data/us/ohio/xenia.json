@@ -1,0 +1,19 @@
+[
+  {
+    "id": "devil-wind-brewing-llc",
+    "name": "Devil Wind Brewing LLC",
+    "brewery_type": "micro",
+    "street": "130 S Detroit St",
+    "city": "Xenia",
+    "state": "Ohio",
+    "postal_code": "45385",
+    "website_url": "http://www.devilwindbrewing.com",
+    "phone": "9376090002",
+    "created_at": "2018-07-24 01:34:00.464148",
+    "updated_at": "2018-08-24 15:43:44.178504",
+    "country": "United States",
+    "longitude": "-83.9291368536585",
+    "latitude": "39.6829479756097",
+    "tags": []
+  }
+]

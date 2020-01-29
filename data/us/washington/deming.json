@@ -1,0 +1,19 @@
+[
+  {
+    "id": "north-fork-brewing-co",
+    "name": "North Fork Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "6186 Mt Baker Hwy",
+    "city": "Deming",
+    "state": "Washington",
+    "postal_code": "98244-9501",
+    "website_url": "http://www.northforkbrewery.com",
+    "phone": "3605992337",
+    "created_at": "2018-07-24 01:34:31.502287",
+    "updated_at": "2018-08-24 16:37:21.891041",
+    "country": "United States",
+    "longitude": "-122.243112",
+    "latitude": "48.833032",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "unmapped-brewing-co",
+    "name": "Unmapped Brewing Co.",
+    "brewery_type": "micro",
+    "street": "14625 Excelsior Blvd",
+    "city": "Minnetonka",
+    "state": "Minnesota",
+    "postal_code": "55345-6605",
+    "website_url": "http://www.unmappedbrewing.com",
+    "phone": "9525009622",
+    "created_at": "2018-07-24 01:33:39.853262",
+    "updated_at": "2018-08-24 00:45:55.150272",
+    "country": "United States",
+    "longitude": "-93.4655115088591",
+    "latitude": "44.9042592813386",
+    "tags": []
+  }
+]

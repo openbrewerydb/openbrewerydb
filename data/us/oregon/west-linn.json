@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mcmenamins-west-linn-brewery",
+    "name": "McMenamins West Linn Brewery",
+    "brewery_type": "micro",
+    "street": "2090 8th Ave",
+    "city": "West Linn",
+    "state": "Oregon",
+    "postal_code": "97068-4612",
+    "website_url": "http://www.mcmenamins.com",
+    "phone": "5036562935",
+    "created_at": "2018-07-24 01:34:06.887222",
+    "updated_at": "2018-08-24 16:03:21.560546",
+    "country": "United States",
+    "longitude": "-122.65206536742",
+    "latitude": "45.3460402947082",
+    "tags": []
+  }
+]

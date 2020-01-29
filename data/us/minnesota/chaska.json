@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lazy-loon-brewing-co",
+    "name": "Lazy Loon Brewing Co",
+    "brewery_type": "micro",
+    "street": "8750 County Road 43",
+    "city": "Chaska",
+    "state": "Minnesota",
+    "postal_code": "55318-9358",
+    "website_url": "http://www.lazyloonbrewing.com",
+    "phone": "9524673500",
+    "created_at": "2018-07-24 01:33:39.04449",
+    "updated_at": "2018-08-11 21:38:03.378932",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

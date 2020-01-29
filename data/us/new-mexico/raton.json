@@ -1,0 +1,19 @@
+[
+  {
+    "id": "colfax-ale-cellar",
+    "name": "Colfax Ale Cellar",
+    "brewery_type": "micro",
+    "street": "215 S 2nd St",
+    "city": "Raton",
+    "state": "New Mexico",
+    "postal_code": "87740-3907",
+    "website_url": "Http://www.ColfaxAleCellar.com",
+    "phone": "5754459727",
+    "created_at": "2018-07-24 01:33:47.92108",
+    "updated_at": "2018-08-24 15:37:24.623855",
+    "country": "United States",
+    "longitude": "-104.439663734291",
+    "latitude": "36.9009253791324",
+    "tags": []
+  }
+]

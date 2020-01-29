@@ -1,0 +1,19 @@
+[
+  {
+    "id": "black-creek-brewery",
+    "name": "Black Creek Brewery",
+    "brewery_type": "micro",
+    "street": "111 Depot St",
+    "city": "Roxboro",
+    "state": "North Carolina",
+    "postal_code": "27573-5503",
+    "website_url": "",
+    "phone": "9195244319",
+    "created_at": "2018-07-24 01:33:55.193814",
+    "updated_at": "2018-08-24 15:41:09.268164",
+    "country": "United States",
+    "longitude": "-78.9814636740729",
+    "latitude": "36.3936208490969",
+    "tags": []
+  }
+]

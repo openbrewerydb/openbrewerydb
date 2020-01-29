@@ -1,0 +1,36 @@
+[
+  {
+    "id": "breckenridge-brewery-and-pub",
+    "name": "Breckenridge Brewery & Pub",
+    "brewery_type": "large",
+    "street": "600 S Main St",
+    "city": "Breckenridge",
+    "state": "Colorado",
+    "postal_code": "80424-0075",
+    "website_url": "http://www.breckbrewpub.com",
+    "phone": "9704531550",
+    "created_at": "2018-07-24 01:33:04.051474",
+    "updated_at": "2018-08-24 00:22:12.50201",
+    "country": "United States",
+    "longitude": "-106.044566462636",
+    "latitude": "39.4762039248617",
+    "tags": []
+  },
+  {
+    "id": "broken-compass-brewing",
+    "name": "Broken Compass Brewing",
+    "brewery_type": "micro",
+    "street": "68 Continental Ct Unit B-12",
+    "city": "Breckenridge",
+    "state": "Colorado",
+    "postal_code": "80424-8515",
+    "website_url": "http://www.brokencompassbrewing.com",
+    "phone": "5419053016",
+    "created_at": "2018-07-24 01:33:04.288618",
+    "updated_at": "2018-08-11 21:36:33.126904",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wooden-bear-brewing-co",
+    "name": "Wooden Bear Brewing Co",
+    "brewery_type": "micro",
+    "street": "21 W North St",
+    "city": "Greenfield",
+    "state": "Indiana",
+    "postal_code": "46140-2171",
+    "website_url": "http://www.woodenbearbrewing.com",
+    "phone": "3173181221",
+    "created_at": "2018-07-24 01:33:23.271411",
+    "updated_at": "2018-08-24 00:33:41.229306",
+    "country": "United States",
+    "longitude": "-85.771223028949",
+    "latitude": "39.7859772600274",
+    "tags": []
+  }
+]

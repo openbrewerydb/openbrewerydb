@@ -1,0 +1,53 @@
+[
+  {
+    "id": "oak-creek-brewery-and-grill",
+    "name": "Oak Creek Brewery & Grill",
+    "brewery_type": "brewpub",
+    "street": "336 State Route 179 Ste D201",
+    "city": "Sedona",
+    "state": "Arizona",
+    "postal_code": "86336-6183",
+    "website_url": "",
+    "phone": "9282823300",
+    "created_at": "2018-07-24 01:32:49.613552",
+    "updated_at": "2018-08-11 21:35:48.925227",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "oak-creek-brewing-co",
+    "name": "Oak Creek Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "2050 Yavapai Dr Ste 2C",
+    "city": "Sedona",
+    "state": "Arizona",
+    "postal_code": "86336-4559",
+    "website_url": "http://www.oakcreekbrew.com",
+    "phone": "9282039441",
+    "created_at": "2018-07-24 01:32:49.625395",
+    "updated_at": "2018-08-11 21:35:48.956263",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "sedona-beer-company",
+    "name": "Sedona Beer Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Sedona",
+    "state": "Arizona",
+    "postal_code": "86336-4170",
+    "website_url": "http://www.sedonabeerco.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:49.92145",
+    "updated_at": "2018-08-23 23:22:36.703646",
+    "country": "United States",
+    "longitude": "-111.7929891",
+    "latitude": "34.8657757",
+    "tags": []
+  }
+]

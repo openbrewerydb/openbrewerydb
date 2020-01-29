@@ -1,0 +1,19 @@
+[
+  {
+    "id": "college-point-brewery",
+    "name": "College Point Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "College Point",
+    "state": "New York",
+    "postal_code": "11356-2715",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:50.283592",
+    "updated_at": "2018-08-11 21:38:32.538921",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "barrow-brewing-company",
+    "name": "Barrow Brewing Company",
+    "brewery_type": "micro",
+    "street": "108 Royal St",
+    "city": "Salado",
+    "state": "Texas",
+    "postal_code": "76571",
+    "website_url": "http://www.barrowbrewing.com",
+    "phone": "2549473544",
+    "created_at": "2018-07-24 01:34:17.825541",
+    "updated_at": "2018-08-24 16:18:59.830323",
+    "country": "United States",
+    "longitude": "-97.5370313333333",
+    "latitude": "30.9429598888889",
+    "tags": []
+  }
+]

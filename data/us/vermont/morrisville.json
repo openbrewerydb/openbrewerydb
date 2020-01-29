@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lost-nation-brewing",
+    "name": "Lost Nation Brewing",
+    "brewery_type": "brewpub",
+    "street": "87 Old Creamery Rd",
+    "city": "Morrisville",
+    "state": "Vermont",
+    "postal_code": "05661-6152",
+    "website_url": "http://www.lostnationbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:23.498812",
+    "updated_at": "2018-08-11 21:40:00.057992",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "rock-art-brewery",
+    "name": "Rock Art Brewery",
+    "brewery_type": "micro",
+    "street": "632 Laporte Rd",
+    "city": "Morrisville",
+    "state": "Vermont",
+    "postal_code": "05661-8322",
+    "website_url": "http://www.rockartbrewery.com",
+    "phone": "8028889400",
+    "created_at": "2018-07-24 01:34:23.665323",
+    "updated_at": "2018-08-11 21:40:00.547854",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

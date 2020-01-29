@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sweet-union-brewing",
+    "name": "Sweet Union Brewing",
+    "brewery_type": "micro",
+    "street": "13717 E Independence Blvd",
+    "city": "Indian Trail",
+    "state": "North Carolina",
+    "postal_code": "28079-7600",
+    "website_url": "http://www.sweetunionbrewing.com",
+    "phone": "7046285211",
+    "created_at": "2018-07-24 01:33:58.258727",
+    "updated_at": "2018-08-11 21:38:52.678838",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

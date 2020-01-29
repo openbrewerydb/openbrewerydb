@@ -1,0 +1,36 @@
+[
+  {
+    "id": "etna-brewing-co-llc",
+    "name": "Etna Brewing Co LLC",
+    "brewery_type": "micro",
+    "street": "131 Callahan Street",
+    "city": "Etna",
+    "state": "California",
+    "postal_code": "96027",
+    "website_url": "http://www.etnabrew.com",
+    "phone": "5304675277",
+    "created_at": "2018-07-24 01:32:55.16096",
+    "updated_at": "2018-08-23 23:28:06.52504",
+    "country": "United States",
+    "longitude": "-122.8918305",
+    "latitude": "41.4567414090909",
+    "tags": []
+  },
+  {
+    "id": "paystreak-brewing",
+    "name": "Paystreak Brewing",
+    "brewery_type": "brewpub",
+    "street": "449 Main Street",
+    "city": "Etna",
+    "state": "California",
+    "postal_code": "96027",
+    "website_url": "http://www.paystreakbrewing.com",
+    "phone": "5304672337",
+    "created_at": "2018-07-24 01:32:59.35132",
+    "updated_at": "2018-08-24 00:00:46.870621",
+    "country": "United States",
+    "longitude": "-122.893701519339",
+    "latitude": "41.4565805040105",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bull-and-bones-brewhaus-and-grill",
+    "name": "Bull & Bones Brewhaus & Grill",
+    "brewery_type": "brewpub",
+    "street": "1470 S Main St Ste 120",
+    "city": "Blacksburg",
+    "state": "Virginia",
+    "postal_code": "24060-5571",
+    "website_url": "http://www.bullandbones.com",
+    "phone": "5409532855",
+    "created_at": "2018-07-24 01:34:24.822121",
+    "updated_at": "2018-08-11 21:40:03.7441",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "right-mind-brewing",
+    "name": "Right Mind Brewing",
+    "brewery_type": "brewpub",
+    "street": "1410 S Main St",
+    "city": "Blacksburg",
+    "state": "Virginia",
+    "postal_code": "24060-5528",
+    "website_url": "http://www.rightmindbrewing.com",
+    "phone": "5405527000",
+    "created_at": "2018-07-24 01:34:26.599395",
+    "updated_at": "2018-08-24 16:30:25.015954",
+    "country": "United States",
+    "longitude": "-80.4010083",
+    "latitude": "37.2152422",
+    "tags": []
+  },
+  {
+    "id": "rising-silo-brewery",
+    "name": "Rising Silo Brewery",
+    "brewery_type": "brewpub",
+    "street": "2351 Glade Rd",
+    "city": "Blacksburg",
+    "state": "Virginia",
+    "postal_code": "24060-1928",
+    "website_url": "http://www.risingsilobrewery.com",
+    "phone": "5407500796",
+    "created_at": "2018-07-24 01:34:26.674287",
+    "updated_at": "2018-08-24 16:30:29.551585",
+    "country": "United States",
+    "longitude": "-80.4630874",
+    "latitude": "37.2361304",
+    "tags": []
+  }
+]

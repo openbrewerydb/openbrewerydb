@@ -1,0 +1,53 @@
+[
+  {
+    "id": "studebaker-brewing-company",
+    "name": "Studebaker Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "South Bend",
+    "state": "Indiana",
+    "postal_code": "46601",
+    "website_url": "http://www.studebakerbrewingco.com",
+    "phone": "5742349077",
+    "created_at": "2018-07-24 01:33:22.855136",
+    "updated_at": "2018-08-11 21:37:21.50892",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "south-bend-brew-werks",
+    "name": "South Bend Brew Werks",
+    "brewery_type": "brewpub",
+    "street": "216 S Michigan St",
+    "city": "South Bend",
+    "state": "Indiana",
+    "postal_code": "46601-2002",
+    "website_url": "http://www.southbendbrewwerks.com",
+    "phone": "5743340356",
+    "created_at": "2018-07-24 01:33:22.806117",
+    "updated_at": "2018-08-24 00:33:22.084443",
+    "country": "United States",
+    "longitude": "-86.2528557156014",
+    "latitude": "41.6261185524131",
+    "tags": []
+  },
+  {
+    "id": "crooked-ewe-brewery-and-ale-house",
+    "name": "Crooked Ewe Brewery & Ale House",
+    "brewery_type": "brewpub",
+    "street": "1047 Lincoln Way E",
+    "city": "South Bend",
+    "state": "Indiana",
+    "postal_code": "46601-3726",
+    "website_url": "http://www.crookedewe.com",
+    "phone": "5742170881",
+    "created_at": "2018-07-24 01:33:21.807109",
+    "updated_at": "2018-08-11 21:37:18.713522",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

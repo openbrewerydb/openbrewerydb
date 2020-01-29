@@ -1,0 +1,19 @@
+[
+  {
+    "id": "frye-brewing",
+    "name": "Frye Brewing",
+    "brewery_type": "micro",
+    "street": "2257 Bridge Ave",
+    "city": "Point Pleasant Boro",
+    "state": "New Jersey",
+    "postal_code": "08742-4920",
+    "website_url": "http://Www.fryebrewingco.com",
+    "phone": "7326044263",
+    "created_at": "2018-07-24 01:33:46.747343",
+    "updated_at": "2018-08-11 21:38:23.495734",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

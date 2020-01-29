@@ -1,0 +1,19 @@
+[
+  {
+    "id": "trillium-brewing",
+    "name": "Trillium Brewing",
+    "brewery_type": "regional",
+    "street": "110 Shawmut Rd",
+    "city": "Canton",
+    "state": "Massachusetts",
+    "postal_code": "02021-1412",
+    "website_url": "http://www.trilliumbrewing.com",
+    "phone": "6174538745",
+    "created_at": "2018-07-24 01:33:32.1781",
+    "updated_at": "2018-08-24 00:41:52.830227",
+    "country": "United States",
+    "longitude": "-71.1527702",
+    "latitude": "42.1847202",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bdd-brewing-company",
+    "name": "BDD Brewing Company",
+    "brewery_type": "micro",
+    "street": "1147 Falls Rd Ste 107",
+    "city": "Rocky Mount",
+    "state": "North Carolina",
+    "postal_code": "27804",
+    "website_url": "",
+    "phone": "9196327551",
+    "created_at": "2018-07-24 01:33:55.03642",
+    "updated_at": "2018-08-24 15:41:03.978557",
+    "country": "United States",
+    "longitude": "-77.8020826666667",
+    "latitude": "35.958026",
+    "tags": []
+  },
+  {
+    "id": "hopfly-brewing-company",
+    "name": "HopFly Brewing Company",
+    "brewery_type": "micro",
+    "street": "1147 Falls Rd Suite 121",
+    "city": "Rocky Mount",
+    "state": "North Carolina",
+    "postal_code": "27804",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:56.69412",
+    "updated_at": "2018-08-11 21:38:48.967442",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "koi-pond-brewing-co",
+    "name": "Koi Pond Brewing Co",
+    "brewery_type": "micro",
+    "street": "1107 Falls Rd",
+    "city": "Rocky Mount",
+    "state": "North Carolina",
+    "postal_code": "27804-4407",
+    "website_url": "http://www.koipondbrewing.com",
+    "phone": "2529035127",
+    "created_at": "2018-07-24 01:33:56.900016",
+    "updated_at": "2018-08-11 21:38:49.563211",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "strong-brewing",
+    "name": "Strong Brewing",
+    "brewery_type": "micro",
+    "street": "7 Rope Ferry Rd",
+    "city": "Sedgwick",
+    "state": "Maine",
+    "postal_code": "04676-3409",
+    "website_url": "http://strongbrewing.com/",
+    "phone": "2073598722",
+    "created_at": "2018-07-24 01:33:28.083186",
+    "updated_at": "2018-08-11 21:37:34.238517",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "new-groove-artisan-brewery",
+    "name": "New Groove Artisan Brewery",
+    "brewery_type": "brewpub",
+    "street": "4078 Highway 9",
+    "city": "Boiling Springs",
+    "state": "South Carolina",
+    "postal_code": "29316-8501",
+    "website_url": "http://www.newgroovebrew.com",
+    "phone": "8645863900",
+    "created_at": "2018-07-24 01:34:14.671977",
+    "updated_at": "2018-08-24 16:14:54.723052",
+    "country": "United States",
+    "longitude": "-82.017032",
+    "latitude": "35.072809",
+    "tags": []
+  }
+]

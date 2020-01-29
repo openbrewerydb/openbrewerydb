@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lubec-brewing-co",
+    "name": "Lubec Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "41 Water St",
+    "city": "Lubec",
+    "state": "Maine",
+    "postal_code": "04652-",
+    "website_url": "",
+    "phone": "2077334555",
+    "created_at": "2018-07-24 01:33:27.44707",
+    "updated_at": "2018-08-24 00:39:55.32726",
+    "country": "United States",
+    "longitude": "-66.9834808572428",
+    "latitude": "44.8608311821362",
+    "tags": []
+  }
+]

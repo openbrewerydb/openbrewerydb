@@ -1,0 +1,19 @@
+[
+  {
+    "id": "nailers-brewing-company",
+    "name": "Nailers Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "6001 N US Highway 31",
+    "city": "Whiteland",
+    "state": "Indiana",
+    "postal_code": "46184",
+    "website_url": "",
+    "phone": "3172813132",
+    "created_at": "2018-07-24 01:33:22.459038",
+    "updated_at": "2018-08-11 21:37:20.51021",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

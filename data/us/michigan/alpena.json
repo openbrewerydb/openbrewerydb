@@ -1,0 +1,19 @@
+[
+  {
+    "id": "austin-brothers-beer-company",
+    "name": "Austin Brothers' Beer Company",
+    "brewery_type": "brewpub",
+    "street": "821 W Miller St",
+    "city": "Alpena",
+    "state": "Michigan",
+    "postal_code": "49707-1825",
+    "website_url": "http://www.austinbrosbeerco.com",
+    "phone": "9893402300",
+    "created_at": "2018-07-24 01:33:32.72479",
+    "updated_at": "2018-08-24 00:42:08.335637",
+    "country": "United States",
+    "longitude": "-83.4358357755102",
+    "latitude": "45.0729699795918",
+    "tags": []
+  }
+]

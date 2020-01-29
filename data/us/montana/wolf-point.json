@@ -1,0 +1,19 @@
+[
+  {
+    "id": "missouri-breaks-brewing",
+    "name": "Missouri Breaks Brewing",
+    "brewery_type": "micro",
+    "street": "326 Main St",
+    "city": "Wolf Point",
+    "state": "Montana",
+    "postal_code": "59201-0654",
+    "website_url": "http://www.missouribreaksbrewing.com",
+    "phone": "4066531467",
+    "created_at": "2018-07-24 01:33:42.92746",
+    "updated_at": "2018-08-24 00:47:21.027644",
+    "country": "United States",
+    "longitude": "-105.642174830493",
+    "latitude": "48.0901300353139",
+    "tags": []
+  }
+]

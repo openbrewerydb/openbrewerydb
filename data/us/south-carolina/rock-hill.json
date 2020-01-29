@@ -1,0 +1,36 @@
+[
+  {
+    "id": "legal-remedy-brewing",
+    "name": "Legal Remedy Brewing",
+    "brewery_type": "brewpub",
+    "street": "129 Oakland Ave",
+    "city": "Rock Hill",
+    "state": "South Carolina",
+    "postal_code": "29730-4019",
+    "website_url": "http://www.legalremedybrewing.com",
+    "phone": "8033242337",
+    "created_at": "2018-07-24 01:34:14.579542",
+    "updated_at": "2018-08-24 16:14:48.681326",
+    "country": "United States",
+    "longitude": "-81.0249405",
+    "latitude": "34.9304961",
+    "tags": []
+  },
+  {
+    "id": "slow-play-brewing-company",
+    "name": "Slow Play Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Rock Hill",
+    "state": "South Carolina",
+    "postal_code": "29730-3504",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:14.881612",
+    "updated_at": "2018-08-11 21:39:37.668399",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "flying-fish-brewing-co",
+    "name": "Flying Fish Brewing Co",
+    "brewery_type": "regional",
+    "street": "900 Kennedy Blvd",
+    "city": "Somerdale",
+    "state": "New Jersey",
+    "postal_code": "08083-1031",
+    "website_url": "http://www.flyingfish.com",
+    "phone": "8565043442",
+    "created_at": "2018-07-24 01:33:46.72159",
+    "updated_at": "2018-08-24 15:36:46.874879",
+    "country": "United States",
+    "longitude": "-75.0208952567568",
+    "latitude": "39.8539417567568",
+    "tags": []
+  }
+]

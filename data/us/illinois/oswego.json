@@ -1,0 +1,19 @@
+[
+  {
+    "id": "oswego-brewing-company",
+    "name": "Oswego Brewing Company",
+    "brewery_type": "micro",
+    "street": "61 Main St",
+    "city": "Oswego",
+    "state": "Illinois",
+    "postal_code": "60543-8592",
+    "website_url": "http://www.oswegoBrewing.com",
+    "phone": "3319991991",
+    "created_at": "2018-07-24 01:33:20.148193",
+    "updated_at": "2018-08-11 21:37:14.526131",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

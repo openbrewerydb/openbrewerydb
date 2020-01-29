@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bastard-brothers-brewing-company",
+    "name": "Bastard Brothers Brewing Company",
+    "brewery_type": "micro",
+    "street": "2114 Penta Dr",
+    "city": "High Ridge",
+    "state": "Missouri",
+    "postal_code": "63049-2684",
+    "website_url": "http://www.bastardbrothersbrewery.com",
+    "phone": "3145203401",
+    "created_at": "2018-07-24 01:33:40.512527",
+    "updated_at": "2018-08-11 21:38:06.659289",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

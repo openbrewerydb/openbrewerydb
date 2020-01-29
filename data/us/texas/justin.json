@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rabbit-hole-brewing",
+    "name": "Rabbit Hole Brewing",
+    "brewery_type": "micro",
+    "street": "106 E 6th",
+    "city": "Justin",
+    "state": "Texas",
+    "postal_code": "76247-4635",
+    "website_url": "http://www.rabbitholebrewing.com",
+    "phone": "9404413528",
+    "created_at": "2018-07-24 01:34:20.807846",
+    "updated_at": "2018-08-11 21:39:53.314871",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

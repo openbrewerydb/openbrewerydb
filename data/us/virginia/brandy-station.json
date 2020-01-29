@@ -1,0 +1,19 @@
+[
+  {
+    "id": "old-trade-brewery",
+    "name": "Old Trade Brewery",
+    "brewery_type": "micro",
+    "street": "13270 Alanthus Rd",
+    "city": "Brandy Station",
+    "state": "Virginia",
+    "postal_code": "22714-1905",
+    "website_url": "http://www.oldtradebrewery.com",
+    "phone": "7742188645",
+    "created_at": "2018-07-24 01:34:26.256535",
+    "updated_at": "2018-08-24 16:29:56.346553",
+    "country": "United States",
+    "longitude": "-77.910796",
+    "latitude": "38.523145",
+    "tags": []
+  }
+]

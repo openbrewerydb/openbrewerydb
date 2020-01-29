@@ -1,0 +1,19 @@
+[
+  {
+    "id": "petrucci-brothers-brewing-co",
+    "name": "Petrucci Brothers Brewing Co",
+    "brewery_type": "micro",
+    "street": "911 5th Ave",
+    "city": "New Brighton",
+    "state": "Pennsylvania",
+    "postal_code": "15066-1923",
+    "website_url": "http://www.petruccibrothers.com",
+    "phone": "7249872579",
+    "created_at": "2018-07-24 01:34:11.983464",
+    "updated_at": "2018-08-24 16:10:59.680831",
+    "country": "United States",
+    "longitude": "-80.3119013356857",
+    "latitude": "40.7347750382959",
+    "tags": []
+  }
+]

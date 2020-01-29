@@ -1,0 +1,19 @@
+[
+  {
+    "id": "livingoods-restaurant-and-brewery",
+    "name": "Livingood's Restaurant & Brewery",
+    "brewery_type": "brewpub",
+    "street": "697 Bear Swamp Rd",
+    "city": "Peru",
+    "state": "New York",
+    "postal_code": "12972-",
+    "website_url": "http://www.livingoodsresturant.com",
+    "phone": "5184206331",
+    "created_at": "2018-07-24 01:33:52.247651",
+    "updated_at": "2018-08-24 15:39:38.061309",
+    "country": "United States",
+    "longitude": "-73.518542",
+    "latitude": "44.576563",
+    "tags": []
+  }
+]

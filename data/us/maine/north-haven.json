@@ -1,0 +1,19 @@
+[
+  {
+    "id": "north-haven-brewing-company",
+    "name": "North Haven Brewing Company",
+    "brewery_type": "micro",
+    "street": "2 Iron Point Rd # 2",
+    "city": "North Haven",
+    "state": "Maine",
+    "postal_code": "04853",
+    "website_url": "http://www.northhavenbrewing.com",
+    "phone": "2078672337",
+    "created_at": "2018-07-24 01:33:27.597838",
+    "updated_at": "2018-08-24 00:39:59.640194",
+    "country": "United States",
+    "longitude": "-68.8719897",
+    "latitude": "44.1280622",
+    "tags": []
+  }
+]

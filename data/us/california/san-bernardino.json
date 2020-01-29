@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brew-rebellion",
+    "name": "Brew Rebellion",
+    "brewery_type": "micro",
+    "street": "195 N Del Rosa Dr",
+    "city": "San Bernardino",
+    "state": "California",
+    "postal_code": "92408",
+    "website_url": "http://www.brewrebellion.com",
+    "phone": "9519074844",
+    "created_at": "2018-07-24 01:32:52.919708",
+    "updated_at": "2018-08-11 21:35:57.356409",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

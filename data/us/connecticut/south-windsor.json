@@ -1,0 +1,19 @@
+[
+  {
+    "id": "connecticut-valley-brewing-company",
+    "name": "Connecticut Valley Brewing Company",
+    "brewery_type": "micro",
+    "street": "765 Sullivan Ave",
+    "city": "South Windsor",
+    "state": "Connecticut",
+    "postal_code": "06074-1945",
+    "website_url": "http://www.ctvalleybrewing.com",
+    "phone": "8606442707",
+    "created_at": "2018-07-24 01:33:09.416723",
+    "updated_at": "2018-08-24 00:25:32.911901",
+    "country": "United States",
+    "longitude": "-72.5714790446604",
+    "latitude": "41.8487282897209",
+    "tags": []
+  }
+]

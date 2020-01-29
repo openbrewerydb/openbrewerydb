@@ -1,0 +1,53 @@
+[
+  {
+    "id": "granite-city-food-and-brewery-#32",
+    "name": "Granite City Food & Brewery (#32)",
+    "brewery_type": "brewpub",
+    "street": "39603 Traditions Dr",
+    "city": "Northville",
+    "state": "Michigan",
+    "postal_code": "48168-9496",
+    "website_url": "http://www.gcfb.net",
+    "phone": "2486623400",
+    "created_at": "2018-07-24 01:33:34.557576",
+    "updated_at": "2018-08-11 21:37:49.818249",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "northville-winery-and-brewery",
+    "name": "Northville Winery and Brewery",
+    "brewery_type": "micro",
+    "street": "630 Old Baseline Rd",
+    "city": "Northville",
+    "state": "Michigan",
+    "postal_code": "48167",
+    "website_url": "",
+    "phone": "2483206507",
+    "created_at": "2018-07-24 01:33:35.739172",
+    "updated_at": "2018-08-11 21:37:53.421411",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "north-center-brewing-co",
+    "name": "North Center Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "410 N Center St",
+    "city": "Northville",
+    "state": "Michigan",
+    "postal_code": "48167-1224",
+    "website_url": "http://www.northcenterbrewing.com",
+    "phone": "2484447967",
+    "created_at": "2018-07-24 01:33:35.676887",
+    "updated_at": "2018-08-24 00:43:41.131104",
+    "country": "United States",
+    "longitude": "-83.4831113480679",
+    "latitude": "42.4341210699655",
+    "tags": []
+  }
+]

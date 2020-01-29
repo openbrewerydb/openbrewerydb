@@ -1,0 +1,19 @@
+[
+  {
+    "id": "blowing-rock-brewing-company",
+    "name": "Blowing Rock Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "152 Sunset Dr",
+    "city": "Blowing Rock",
+    "state": "North Carolina",
+    "postal_code": "28605-7205",
+    "website_url": "http://www.blowingrockbrewing.com",
+    "phone": "8284149600",
+    "created_at": "2018-07-24 01:33:55.21865",
+    "updated_at": "2018-08-24 15:41:10.512069",
+    "country": "United States",
+    "longitude": "-81.677229",
+    "latitude": "36.1327196",
+    "tags": []
+  }
+]

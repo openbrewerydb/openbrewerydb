@@ -1,0 +1,19 @@
+[
+  {
+    "id": "maui-brewing-co-production",
+    "name": "Maui Brewing Co - Production",
+    "brewery_type": "regional",
+    "street": "605 Lipoa Pkwy",
+    "city": "Kihei",
+    "state": "Hawaii",
+    "postal_code": "96753-6947",
+    "website_url": "http://www.mauibrewingco.com",
+    "phone": "8082133002",
+    "created_at": "2018-07-24 01:33:16.943545",
+    "updated_at": "2018-08-24 00:29:47.907688",
+    "country": "United States",
+    "longitude": "-156.4402410984",
+    "latitude": "20.7496156609264",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "indian-springs-brewing-company",
+    "name": "Indian Springs Brewing Company",
+    "brewery_type": "proprietor",
+    "street": "109 E Main St",
+    "city": "Neosho",
+    "state": "Missouri",
+    "postal_code": "64850-1810",
+    "website_url": "http://www.indianspringsbrewing.com",
+    "phone": "4174549498",
+    "created_at": "2018-07-24 01:33:41.173407",
+    "updated_at": "2018-08-24 00:46:31.229516",
+    "country": "United States",
+    "longitude": "-94.3674090204082",
+    "latitude": "36.8685369795918",
+    "tags": []
+  }
+]

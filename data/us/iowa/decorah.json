@@ -1,0 +1,36 @@
+[
+  {
+    "id": "pulpit-rock-brewing-co",
+    "name": "Pulpit Rock Brewing Co.",
+    "brewery_type": "micro",
+    "street": "207 College Dr",
+    "city": "Decorah",
+    "state": "Iowa",
+    "postal_code": "52101-1304",
+    "website_url": "http://www.pulpitrockbrewing.net",
+    "phone": "5633803610",
+    "created_at": "2018-07-24 01:33:24.271118",
+    "updated_at": "2018-08-24 00:38:09.224263",
+    "country": "United States",
+    "longitude": "-91.7962545003461",
+    "latitude": "43.3065402420925",
+    "tags": []
+  },
+  {
+    "id": "toppling-goliath-brewing-co",
+    "name": "Toppling Goliath Brewing Co",
+    "brewery_type": "micro",
+    "street": "1600 Prosperity Rd",
+    "city": "Decorah",
+    "state": "Iowa",
+    "postal_code": "52101",
+    "website_url": "http://www.tgbrews.com",
+    "phone": "5633826198",
+    "created_at": "2018-07-24 01:33:24.452649",
+    "updated_at": "2018-08-24 00:38:15.99046",
+    "country": "United States",
+    "longitude": "-91.7250841",
+    "latitude": "43.2727293",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "butternuts-beer",
+    "name": "Butternuts Beer",
+    "brewery_type": "micro",
+    "street": "4021 State Highway 51",
+    "city": "Garrattsville",
+    "state": "New York",
+    "postal_code": "13342-1705",
+    "website_url": "http://www.butternutsbeer.com",
+    "phone": "6072635070",
+    "created_at": "2018-07-24 01:33:50.090114",
+    "updated_at": "2018-08-24 15:38:25.121304",
+    "country": "United States",
+    "longitude": "-75.1914973012008",
+    "latitude": "42.6239624272496",
+    "tags": []
+  }
+]

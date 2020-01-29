@@ -1,0 +1,36 @@
+[
+  {
+    "id": "smockville-brewhouse",
+    "name": "Smockville Brewhouse",
+    "brewery_type": "brewpub",
+    "street": "22793 SW Pine St",
+    "city": "Sherwood",
+    "state": "Oregon",
+    "postal_code": "97140-9303",
+    "website_url": "http://www.smockvillebrewhouse.com",
+    "phone": "5036101506",
+    "created_at": "2018-07-24 01:34:07.870301",
+    "updated_at": "2018-08-24 16:05:01.092356",
+    "country": "United States",
+    "longitude": "-122.8406694",
+    "latitude": "45.3566248",
+    "tags": []
+  },
+  {
+    "id": "two-kilts-brewing",
+    "name": "Two Kilts Brewing",
+    "brewery_type": "micro",
+    "street": "14841 SW Tualatin Sherwood Rd Ste 501",
+    "city": "Sherwood",
+    "state": "Oregon",
+    "postal_code": "97140-7127",
+    "website_url": "http://www.twokiltsbrewing.com",
+    "phone": "5036251700",
+    "created_at": "2018-07-24 01:34:08.143643",
+    "updated_at": "2018-08-24 16:05:26.648634",
+    "country": "United States",
+    "longitude": "-122.830880223407",
+    "latitude": "45.3677330501102",
+    "tags": []
+  }
+]

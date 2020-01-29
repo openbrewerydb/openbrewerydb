@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fetch-brewing-co",
+    "name": "Fetch Brewing Co",
+    "brewery_type": "micro",
+    "street": "100 W Colby St",
+    "city": "Whitehall",
+    "state": "Michigan",
+    "postal_code": "49461-1015",
+    "website_url": "http://www.fetchbrewing.com",
+    "phone": "2312157168",
+    "created_at": "2018-07-24 01:33:34.238774",
+    "updated_at": "2018-08-24 00:42:53.982986",
+    "country": "United States",
+    "longitude": "-86.3494848",
+    "latitude": "43.4097727",
+    "tags": []
+  }
+]

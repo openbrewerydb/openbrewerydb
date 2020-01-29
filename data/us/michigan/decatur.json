@@ -1,0 +1,53 @@
+[
+  {
+    "id": "final-gravity-brewing-company",
+    "name": "Final Gravity Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Decatur",
+    "state": "Michigan",
+    "postal_code": "49045-1118",
+    "website_url": "http://www.finalgravitybrew.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:34.287932",
+    "updated_at": "2018-08-11 21:37:49.02094",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "final-gravity-brewing-co",
+    "name": "Final Gravity Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "103 N Phelps St",
+    "city": "Decatur",
+    "state": "Michigan",
+    "postal_code": "49045-1008",
+    "website_url": "http://www.finalgravitybrew.com",
+    "phone": "2694368052",
+    "created_at": "2018-07-24 01:33:34.275924",
+    "updated_at": "2018-08-24 00:42:54.857199",
+    "country": "United States",
+    "longitude": "-85.9745474897959",
+    "latitude": "42.1087669387755",
+    "tags": []
+  },
+  {
+    "id": "vanmax-brewing-company-llc",
+    "name": "VanMax Brewing Company LLC",
+    "brewery_type": "micro",
+    "street": "103 N Phelps St",
+    "city": "Decatur",
+    "state": "Michigan",
+    "postal_code": "49045-1008",
+    "website_url": "http://www.vanmaxbrewing.com",
+    "phone": "2692171720",
+    "created_at": "2018-07-24 01:33:37.391818",
+    "updated_at": "2018-08-24 00:44:36.919541",
+    "country": "United States",
+    "longitude": "-85.9745474897959",
+    "latitude": "42.1087669387755",
+    "tags": []
+  }
+]

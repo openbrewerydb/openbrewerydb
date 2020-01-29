@@ -1,0 +1,36 @@
+[
+  {
+    "id": "field-brewing",
+    "name": "Field Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Westfield",
+    "state": "Indiana",
+    "postal_code": "46074-9494",
+    "website_url": "http://www.fieldbrewing.com",
+    "phone": "3174300253",
+    "created_at": "2018-07-24 01:33:21.934456",
+    "updated_at": "2018-08-11 21:37:19.026984",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "grand-junction-brewing-co",
+    "name": "Grand Junction Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "110 S Union St",
+    "city": "Westfield",
+    "state": "Indiana",
+    "postal_code": "46074-9458",
+    "website_url": "http://www.grandjunctionbrewing.com",
+    "phone": "3178045168",
+    "created_at": "2018-07-24 01:33:22.087784",
+    "updated_at": "2018-08-24 00:32:54.809413",
+    "country": "United States",
+    "longitude": "-86.1275556",
+    "latitude": "40.0424222",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "crystal-lake-brewing-co",
+    "name": "Crystal Lake Brewing Co.",
+    "brewery_type": "micro",
+    "street": "150 N Main St",
+    "city": "Crystal Lake",
+    "state": "Illinois",
+    "postal_code": "60014-4433",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:18.580141",
+    "updated_at": "2018-08-24 00:30:45.201861",
+    "country": "United States",
+    "longitude": "-88.316204",
+    "latitude": "42.2413125",
+    "tags": []
+  }
+]

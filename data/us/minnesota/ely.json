@@ -1,0 +1,19 @@
+[
+  {
+    "id": "boathouse-brewery-llc",
+    "name": "Boathouse Brewery LLC",
+    "brewery_type": "brewpub",
+    "street": "47 E Sheridan St",
+    "city": "Ely",
+    "state": "Minnesota",
+    "postal_code": "55731-1289",
+    "website_url": "http://www.frontiernet.net",
+    "phone": "2183654301",
+    "created_at": "2018-07-24 01:33:38.02625",
+    "updated_at": "2018-08-24 00:44:56.849958",
+    "country": "United States",
+    "longitude": "-91.8656329",
+    "latitude": "47.9034136",
+    "tags": []
+  }
+]

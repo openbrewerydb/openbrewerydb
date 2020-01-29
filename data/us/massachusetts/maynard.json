@@ -1,0 +1,36 @@
+[
+  {
+    "id": "amorys-tomb-brewing-co",
+    "name": "Amorys Tomb Brewing Co",
+    "brewery_type": "micro",
+    "street": "76 Main St",
+    "city": "Maynard",
+    "state": "Massachusetts",
+    "postal_code": "01754-2516",
+    "website_url": "http://amorystomb.com",
+    "phone": "9782430875",
+    "created_at": "2018-07-24 01:33:30.063307",
+    "updated_at": "2018-08-24 00:40:59.326948",
+    "country": "United States",
+    "longitude": "-71.4531564394476",
+    "latitude": "42.43203845",
+    "tags": []
+  },
+  {
+    "id": "battle-road-brewing-co",
+    "name": "Battle Road Brewing Co",
+    "brewery_type": "micro",
+    "street": "5 Clock Tower Pl",
+    "city": "Maynard",
+    "state": "Massachusetts",
+    "postal_code": "01754-2530",
+    "website_url": "http://www.battleroadbh.com",
+    "phone": "9782985229",
+    "created_at": "2018-07-24 01:33:30.195308",
+    "updated_at": "2018-08-24 00:41:02.245222",
+    "country": "United States",
+    "longitude": "-71.4541611252225",
+    "latitude": "42.43001225",
+    "tags": []
+  }
+]

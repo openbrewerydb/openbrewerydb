@@ -1,0 +1,19 @@
+[
+  {
+    "id": "weston-brewing-co-/-omalleys-pub",
+    "name": "Weston Brewing Co / O'Malley's Pub",
+    "brewery_type": "micro",
+    "street": "500 Welt St",
+    "city": "Weston",
+    "state": "Missouri",
+    "postal_code": "64098-1242",
+    "website_url": "http://www.westonirish.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:41.933088",
+    "updated_at": "2018-08-24 00:46:53.436399",
+    "country": "United States",
+    "longitude": "-94.899934",
+    "latitude": "39.411378",
+    "tags": []
+  }
+]

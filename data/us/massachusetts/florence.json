@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brew-practitioners-llc",
+    "name": "Brew Practitioners, LLC.",
+    "brewery_type": "micro",
+    "street": "36 Main St",
+    "city": "Florence",
+    "state": "Massachusetts",
+    "postal_code": "01062-3152",
+    "website_url": "http://www.brewpractitioners.com",
+    "phone": "4135842444",
+    "created_at": "2018-07-24 01:33:30.375089",
+    "updated_at": "2018-08-11 21:37:39.053973",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "building-8-brewing",
+    "name": "Building 8 Brewing",
+    "brewery_type": "micro",
+    "street": "320 Riverside Dr Ste 8",
+    "city": "Florence",
+    "state": "Massachusetts",
+    "postal_code": "01062-2750",
+    "website_url": "",
+    "phone": "4132501602",
+    "created_at": "2018-07-24 01:33:30.623652",
+    "updated_at": "2018-08-11 21:37:39.662574",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

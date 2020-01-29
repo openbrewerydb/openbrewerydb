@@ -1,0 +1,19 @@
+[
+  {
+    "id": "element-brewing-co",
+    "name": "Element Brewing Co",
+    "brewery_type": "micro",
+    "street": "16 Bridge St",
+    "city": "Millers Falls",
+    "state": "Massachusetts",
+    "postal_code": "01349-1336",
+    "website_url": "http://www.elementbeer.com",
+    "phone": "4138356340",
+    "created_at": "2018-07-24 01:33:30.952262",
+    "updated_at": "2018-08-24 00:41:18.209818",
+    "country": "United States",
+    "longitude": "-72.4951603879466",
+    "latitude": "42.5795092914357",
+    "tags": []
+  }
+]

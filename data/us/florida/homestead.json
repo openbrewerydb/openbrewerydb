@@ -1,0 +1,19 @@
+[
+  {
+    "id": "miami-brewing-co",
+    "name": "Miami Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "30205 SW 217th Ave",
+    "city": "Homestead",
+    "state": "Florida",
+    "postal_code": "33030-7601",
+    "website_url": "http://www.miamibrewing.org",
+    "phone": "3052421224",
+    "created_at": "2018-07-24 01:33:13.721792",
+    "updated_at": "2018-08-11 21:36:56.556107",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "source-brewing",
+    "name": "Source Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Colts Neck",
+    "state": "New Jersey",
+    "postal_code": "07722-2430",
+    "website_url": "http://www.sourcebrewing.com",
+    "phone": "7327785184",
+    "created_at": "2018-07-24 01:33:47.364342",
+    "updated_at": "2018-08-11 21:38:25.2217",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

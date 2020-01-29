@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cushnoc-brewing-company",
+    "name": "Cushnoc Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "243 Water St",
+    "city": "Augusta",
+    "state": "Maine",
+    "postal_code": "04330-4615",
+    "website_url": "http://www.cushnocbrewing.com",
+    "phone": "2072136332",
+    "created_at": "2018-07-24 01:33:26.980655",
+    "updated_at": "2018-08-24 00:39:38.726842",
+    "country": "United States",
+    "longitude": "-69.7734423233329",
+    "latitude": "44.3166434906408",
+    "tags": []
+  }
+]

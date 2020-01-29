@@ -1,0 +1,19 @@
+[
+  {
+    "id": "16-stone-brewpub",
+    "name": "16 Stone Brewpub",
+    "brewery_type": "brewpub",
+    "street": "9542 Main St",
+    "city": "Holland Patent",
+    "state": "New York",
+    "postal_code": "13354",
+    "website_url": "http://www.16stonebrewpub.com",
+    "phone": "3158658500",
+    "created_at": "2018-07-24 01:33:48.905838",
+    "updated_at": "2018-08-24 15:37:54.706139",
+    "country": "United States",
+    "longitude": "-75.2565195",
+    "latitude": "43.24211175",
+    "tags": []
+  }
+]

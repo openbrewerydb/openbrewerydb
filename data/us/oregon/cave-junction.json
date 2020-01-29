@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wild-river-brewing-and-pizza-co",
+    "name": "Wild River Brewing and Pizza Co",
+    "brewery_type": "brewpub",
+    "street": "249 N Redwood Hwy",
+    "city": "Cave Junction",
+    "state": "Oregon",
+    "postal_code": "97523-9023",
+    "website_url": "http://www.wildriverbrewing.com",
+    "phone": "5414717487",
+    "created_at": "2018-07-24 01:34:08.382415",
+    "updated_at": "2018-08-24 16:05:47.485985",
+    "country": "United States",
+    "longitude": "-123.6469844",
+    "latitude": "42.1622503",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "oil-horse-brewing-company",
+    "name": "Oil Horse Brewing Company",
+    "brewery_type": "micro",
+    "street": "101 W Tyler St",
+    "city": "Longview",
+    "state": "Texas",
+    "postal_code": "75601-6318",
+    "website_url": "http://Www.oilhorsebrewing.com",
+    "phone": "9032203414",
+    "created_at": "2018-07-24 01:34:20.545911",
+    "updated_at": "2018-08-24 16:22:13.153476",
+    "country": "United States",
+    "longitude": "-94.740354",
+    "latitude": "32.495365",
+    "tags": []
+  }
+]

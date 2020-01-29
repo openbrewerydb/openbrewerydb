@@ -1,0 +1,19 @@
+[
+  {
+    "id": "raritan-bay-brewing-llc",
+    "name": "Raritan Bay Brewing, LLC",
+    "brewery_type": "micro",
+    "street": "32 Church Street",
+    "city": "Keansburg",
+    "state": "New Jersey",
+    "postal_code": "07734",
+    "website_url": "http://raritanbaybrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:47.247422",
+    "updated_at": "2018-08-24 15:37:03.034953",
+    "country": "United States",
+    "longitude": "-74.131668",
+    "latitude": "40.441664",
+    "tags": []
+  }
+]

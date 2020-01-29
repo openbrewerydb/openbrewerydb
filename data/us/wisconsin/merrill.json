@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sawmill-brewing-co",
+    "name": "Sawmill Brewing Co",
+    "brewery_type": "micro",
+    "street": "1110 E 10th St",
+    "city": "Merrill",
+    "state": "Wisconsin",
+    "postal_code": "54452-1221",
+    "website_url": "http://www.sawmillbrewing.net",
+    "phone": "7157720230",
+    "created_at": "2018-07-24 01:34:36.549821",
+    "updated_at": "2018-08-24 16:45:25.118725",
+    "country": "United States",
+    "longitude": "-89.6830877979798",
+    "latitude": "45.1885922323232",
+    "tags": []
+  }
+]

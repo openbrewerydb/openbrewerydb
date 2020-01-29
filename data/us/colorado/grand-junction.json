@@ -1,0 +1,53 @@
+[
+  {
+    "id": "edgewater-brewery",
+    "name": "Edgewater Brewery",
+    "brewery_type": "brewpub",
+    "street": "905 Struthers Ave",
+    "city": "Grand Junction",
+    "state": "Colorado",
+    "postal_code": "81501-3804",
+    "website_url": "http://www.kannahcreekbrewingco.com/edgewater-brewery",
+    "phone": "9702433659",
+    "created_at": "2018-07-24 01:33:05.251084",
+    "updated_at": "2018-08-24 00:22:56.916525",
+    "country": "United States",
+    "longitude": "-108.557514387755",
+    "latitude": "39.055655877551",
+    "tags": []
+  },
+  {
+    "id": "kannah-creek-brewing-co",
+    "name": "Kannah Creek Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1960 N 12th St",
+    "city": "Grand Junction",
+    "state": "Colorado",
+    "postal_code": "81501-2912",
+    "website_url": "http://www.kannahcreekbrewingco.com",
+    "phone": "9702630111",
+    "created_at": "2018-07-24 01:33:06.159859",
+    "updated_at": "2018-08-24 00:23:34.82693",
+    "country": "United States",
+    "longitude": "-108.552261452459",
+    "latitude": "39.0851394656243",
+    "tags": []
+  },
+  {
+    "id": "rockslide-brewing-co",
+    "name": "Rockslide Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "401 Main St",
+    "city": "Grand Junction",
+    "state": "Colorado",
+    "postal_code": "81501-2511",
+    "website_url": "http://www.rockslidebrewpub.com",
+    "phone": "9702419311",
+    "created_at": "2018-07-24 01:33:07.586138",
+    "updated_at": "2018-08-24 00:24:31.100721",
+    "country": "United States",
+    "longitude": "-108.565915328517",
+    "latitude": "39.0670106",
+    "tags": []
+  }
+]

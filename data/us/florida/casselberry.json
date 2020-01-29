@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bowigens-beer-company",
+    "name": "Bowigens Beer Company",
+    "brewery_type": "micro",
+    "street": "1014 State Road 436",
+    "city": "Casselberry",
+    "state": "Florida",
+    "postal_code": "32707-5722",
+    "website_url": "http://www.bowigens.com",
+    "phone": "4079607816",
+    "created_at": "2018-07-24 01:33:11.709335",
+    "updated_at": "2018-08-11 21:36:51.709649",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

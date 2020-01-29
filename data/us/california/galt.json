@@ -1,0 +1,19 @@
+[
+  {
+    "id": "river-rock-brewery",
+    "name": "River Rock Brewery",
+    "brewery_type": "micro",
+    "street": "807 C St",
+    "city": "Galt",
+    "state": "California",
+    "postal_code": "95632-1706",
+    "website_url": "http://riverrockbrewery.com",
+    "phone": "2093316071",
+    "created_at": "2018-07-24 01:33:00.084611",
+    "updated_at": "2018-08-24 00:01:35.911965",
+    "country": "United States",
+    "longitude": "-121.300412597904",
+    "latitude": "38.253278904173",
+    "tags": []
+  }
+]

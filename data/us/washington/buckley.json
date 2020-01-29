@@ -1,0 +1,36 @@
+[
+  {
+    "id": "elk-head-brewing-co",
+    "name": "Elk Head Brewing Co",
+    "brewery_type": "micro",
+    "street": "28120 State Route 410 E",
+    "city": "Buckley",
+    "state": "Washington",
+    "postal_code": "98321-8721",
+    "website_url": "",
+    "phone": "3608292739",
+    "created_at": "2018-07-24 01:34:29.385354",
+    "updated_at": "2018-08-11 21:40:15.241443",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "farm-shed-wines-and-brews",
+    "name": "Farm Shed Wines & Brews",
+    "brewery_type": "micro",
+    "street": "22808 Sumner Buckley Hwy E",
+    "city": "Buckley",
+    "state": "Washington",
+    "postal_code": "98321-8424",
+    "website_url": "http://www.farmshedwines.com",
+    "phone": "8444379786",
+    "created_at": "2018-07-24 01:34:29.601416",
+    "updated_at": "2018-08-11 21:40:15.706632",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

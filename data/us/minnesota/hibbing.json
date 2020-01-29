@@ -1,0 +1,19 @@
+[
+  {
+    "id": "boomtown-brewery-and-woodfire-grill",
+    "name": "BoomTown Brewery and Woodfire Grill",
+    "brewery_type": "brewpub",
+    "street": "531 E Howard St",
+    "city": "Hibbing",
+    "state": "Minnesota",
+    "postal_code": "55746-1713",
+    "website_url": "http://www.boomtownwoodfire.com",
+    "phone": "2184401710",
+    "created_at": "2018-07-24 01:33:38.065631",
+    "updated_at": "2018-08-24 00:44:58.216168",
+    "country": "United States",
+    "longitude": "-92.9355964",
+    "latitude": "47.4276931",
+    "tags": []
+  }
+]

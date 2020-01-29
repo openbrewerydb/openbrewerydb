@@ -1,0 +1,36 @@
+[
+  {
+    "id": "props-brewery-and-grill",
+    "name": "Props Brewery and Grill",
+    "brewery_type": "brewpub",
+    "street": "125 Lovejoy Rd",
+    "city": "Fort Walton Beach",
+    "state": "Florida",
+    "postal_code": "32548",
+    "website_url": "http://www.propsbrewery.com",
+    "phone": "8505867117",
+    "created_at": "2018-07-24 01:33:14.264725",
+    "updated_at": "2018-08-11 21:36:57.959083",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "props-craft-brewery-taproom",
+    "name": "Props Craft Brewery Taproom",
+    "brewery_type": "micro",
+    "street": "125 Lovejoy Rd NW",
+    "city": "Fort Walton Beach",
+    "state": "Florida",
+    "postal_code": "32548-3418",
+    "website_url": "http://www.propsbrewery.com",
+    "phone": "8505867117",
+    "created_at": "2018-07-24 01:33:14.278185",
+    "updated_at": "2018-08-24 00:28:15.390173",
+    "country": "United States",
+    "longitude": "-86.6496223725262",
+    "latitude": "30.4241168932814",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "beer-hound-brewery",
+    "name": "Beer Hound Brewery",
+    "brewery_type": "contract",
+    "street": "201 Waters Pl Apt 102",
+    "city": "Culpeper",
+    "state": "Virginia",
+    "postal_code": "22701-3102",
+    "website_url": "",
+    "phone": "5403175327",
+    "created_at": "2018-07-24 01:34:24.379044",
+    "updated_at": "2018-08-11 21:40:02.414075",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "far-gohn-brewing-company",
+    "name": "Far Gohn Brewing Company",
+    "brewery_type": "micro",
+    "street": "301 S East St",
+    "city": "Culpeper",
+    "state": "Virginia",
+    "postal_code": "22701-3105",
+    "website_url": "http://www.fargohnbrewing.com",
+    "phone": "5404232089",
+    "created_at": "2018-07-24 01:34:25.242877",
+    "updated_at": "2018-08-11 21:40:05.103501",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "old-house-vineyards",
+    "name": "Old House Vineyards",
+    "brewery_type": "micro",
+    "street": "18351 Corkys Ln",
+    "city": "Culpeper",
+    "state": "Virginia",
+    "postal_code": "22701",
+    "website_url": "http://www.oldhousevineyards.com",
+    "phone": "5404231032",
+    "created_at": "2018-07-24 01:34:26.22516",
+    "updated_at": "2018-08-11 21:40:07.506479",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

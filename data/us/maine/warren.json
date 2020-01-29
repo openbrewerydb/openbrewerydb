@@ -1,0 +1,19 @@
+[
+  {
+    "id": "simplicity-brewing-company",
+    "name": "Simplicity Brewing Company",
+    "brewery_type": "micro",
+    "street": "2473 Camden Rd",
+    "city": "Warren",
+    "state": "Maine",
+    "postal_code": "04864-4113",
+    "website_url": "http://www.mkt.com/simplicitybrewingsupplies",
+    "phone": "2072730143",
+    "created_at": "2018-07-24 01:33:28.049225",
+    "updated_at": "2018-08-24 00:40:11.761071",
+    "country": "United States",
+    "longitude": "-69.18813489742",
+    "latitude": "44.1517766212074",
+    "tags": []
+  }
+]

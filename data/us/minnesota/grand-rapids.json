@@ -1,0 +1,19 @@
+[
+  {
+    "id": "klockow-brewing-company",
+    "name": "Klockow Brewing Company",
+    "brewery_type": "micro",
+    "street": "36 SE 10th St",
+    "city": "Grand Rapids",
+    "state": "Minnesota",
+    "postal_code": "55744-3947",
+    "website_url": "http://www.klockowbrewing.com",
+    "phone": "2189997229",
+    "created_at": "2018-07-24 01:33:38.949502",
+    "updated_at": "2018-08-24 00:45:27.504052",
+    "country": "United States",
+    "longitude": "-93.528335248593",
+    "latitude": "47.2210833676723",
+    "tags": []
+  }
+]

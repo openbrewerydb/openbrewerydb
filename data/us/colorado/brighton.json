@@ -1,0 +1,53 @@
+[
+  {
+    "id": "big-choice-brewing-co",
+    "name": "Big Choice Brewing Co",
+    "brewery_type": "micro",
+    "street": "21 S 1st Ave",
+    "city": "Brighton",
+    "state": "Colorado",
+    "postal_code": "80601-1603",
+    "website_url": "http://www.bigchoicebrewing.com",
+    "phone": "3034692616",
+    "created_at": "2018-07-24 01:33:03.737309",
+    "updated_at": "2018-08-24 00:05:43.462665",
+    "country": "United States",
+    "longitude": "-104.822433",
+    "latitude": "39.9864294285714",
+    "tags": []
+  },
+  {
+    "id": "floodstage-ale-works",
+    "name": "Floodstage Ale Works",
+    "brewery_type": "brewpub",
+    "street": "170 S Main St",
+    "city": "Brighton",
+    "state": "Colorado",
+    "postal_code": "80601-1611",
+    "website_url": "http://www.floodstagealeworks.com",
+    "phone": "3036547972",
+    "created_at": "2018-07-24 01:33:05.448647",
+    "updated_at": "2018-08-24 00:23:04.925569",
+    "country": "United States",
+    "longitude": "-104.822100851988",
+    "latitude": "39.9845656365982",
+    "tags": []
+  },
+  {
+    "id": "something-brewery",
+    "name": "Something Brewery",
+    "brewery_type": "micro",
+    "street": "117 N Main St Unit A",
+    "city": "Brighton",
+    "state": "Colorado",
+    "postal_code": "80601-1778",
+    "website_url": "http://www.somethingbrewery.com",
+    "phone": "7206601343",
+    "created_at": "2018-07-24 01:33:07.814477",
+    "updated_at": "2018-08-11 21:36:42.493335",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

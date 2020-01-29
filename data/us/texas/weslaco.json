@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-blue-onion-brewpub",
+    "name": "The Blue Onion Brewpub",
+    "brewery_type": "brewpub",
+    "street": "423 S International Blvd",
+    "city": "Weslaco",
+    "state": "Texas",
+    "postal_code": "78596-9114",
+    "website_url": "http://www.myblueonion.com",
+    "phone": "9564470067",
+    "created_at": "2018-07-24 01:34:21.641159",
+    "updated_at": "2018-08-11 21:39:55.377084",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

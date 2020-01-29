@@ -1,0 +1,19 @@
+[
+  {
+    "id": "folklore-brewing",
+    "name": "Folklore Brewing",
+    "brewery_type": "micro",
+    "street": "153 Mary Lou Ln",
+    "city": "Dothan",
+    "state": "Alabama",
+    "postal_code": "36301-9521",
+    "website_url": "http://www.folklorebrewing.com",
+    "phone": "3347022337",
+    "created_at": "2018-07-24 01:32:47.512816",
+    "updated_at": "2018-08-11 21:35:43.941261",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

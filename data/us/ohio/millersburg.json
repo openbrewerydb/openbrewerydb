@@ -1,0 +1,19 @@
+[
+  {
+    "id": "millersburg-brewing",
+    "name": "Millersburg Brewing",
+    "brewery_type": "brewpub",
+    "street": "60 E Jackson St",
+    "city": "Millersburg",
+    "state": "Ohio",
+    "postal_code": "44654-1257",
+    "website_url": "http://www.millersburgbrewing.com",
+    "phone": "3306744728",
+    "created_at": "2018-07-24 01:34:01.814421",
+    "updated_at": "2018-08-24 15:44:29.057266",
+    "country": "United States",
+    "longitude": "-81.9167786662561",
+    "latitude": "40.5542432241595",
+    "tags": []
+  }
+]

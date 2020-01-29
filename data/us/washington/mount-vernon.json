@@ -1,0 +1,53 @@
+[
+  {
+    "id": "farmstrong-brewing-co",
+    "name": "Farmstrong Brewing Co",
+    "brewery_type": "micro",
+    "street": "110 Stewart Rd",
+    "city": "Mount Vernon",
+    "state": "Washington",
+    "postal_code": "98273-9628",
+    "website_url": "http://www.farmstrongbrewing.com",
+    "phone": "3608738852",
+    "created_at": "2018-07-24 01:34:29.614444",
+    "updated_at": "2018-08-24 16:34:34.353744",
+    "country": "United States",
+    "longitude": "-122.3369645",
+    "latitude": "48.4431376",
+    "tags": []
+  },
+  {
+    "id": "north-sound-brewing-co",
+    "name": "North Sound Brewing Co.",
+    "brewery_type": "micro",
+    "street": "17406 State Route 536 Unit A",
+    "city": "Mount Vernon",
+    "state": "Washington",
+    "postal_code": "98273-8755",
+    "website_url": "http://northsoundbrewing.com",
+    "phone": "3609822057",
+    "created_at": "2018-07-24 01:34:31.531142",
+    "updated_at": "2018-08-11 21:40:22.090887",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "skagit-river-brewery",
+    "name": "Skagit River Brewery",
+    "brewery_type": "brewpub",
+    "street": "404 S 3rd St",
+    "city": "Mount Vernon",
+    "state": "Washington",
+    "postal_code": "98273-3824",
+    "website_url": "http://www.skagitbrew.com",
+    "phone": "3603362884",
+    "created_at": "2018-07-24 01:34:32.79217",
+    "updated_at": "2018-08-24 16:39:19.143832",
+    "country": "United States",
+    "longitude": "-122.3354271",
+    "latitude": "48.4193151",
+    "tags": []
+  }
+]

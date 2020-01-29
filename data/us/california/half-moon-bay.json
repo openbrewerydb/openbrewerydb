@@ -1,0 +1,53 @@
+[
+  {
+    "id": "half-moon-bay-brewing-co",
+    "name": "Half Moon Bay Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "390 Capistrano Road",
+    "city": "Half Moon Bay",
+    "state": "California",
+    "postal_code": "94019",
+    "website_url": "http://www.hmbbrewingco.com",
+    "phone": "6507282739",
+    "created_at": "2018-07-24 01:32:56.175329",
+    "updated_at": "2018-08-11 21:36:05.581416",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "hop-dogma-brewing-company",
+    "name": "Hop Dogma Brewing Company",
+    "brewery_type": "micro",
+    "street": "270 Capistrano Rd #22",
+    "city": "Half Moon Bay",
+    "state": "California",
+    "postal_code": "94019",
+    "website_url": "http://www.hopdogma.com",
+    "phone": "6505608729",
+    "created_at": "2018-07-24 01:32:56.602112",
+    "updated_at": "2018-08-11 21:36:06.977737",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "sacrilege-brewing-project",
+    "name": "Sacrilege Brewing Project",
+    "brewery_type": "brewpub",
+    "street": "730 Main St",
+    "city": "Half Moon Bay",
+    "state": "California",
+    "postal_code": "94019-1925",
+    "website_url": "",
+    "phone": "6502767029",
+    "created_at": "2018-07-24 01:33:00.370024",
+    "updated_at": "2018-08-24 00:01:54.898034",
+    "country": "United States",
+    "longitude": "-122.42991315",
+    "latitude": "37.460938",
+    "tags": []
+  }
+]

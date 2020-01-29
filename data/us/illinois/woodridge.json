@@ -1,0 +1,19 @@
+[
+  {
+    "id": "skeleton-key-brewery",
+    "name": "Skeleton Key Brewery",
+    "brewery_type": "micro",
+    "street": "8102 Lemont Rd Ste 300",
+    "city": "Woodridge",
+    "state": "Illinois",
+    "postal_code": "60517-7764",
+    "website_url": "http://www.skeletonkeybrewery.com",
+    "phone": "6303959033",
+    "created_at": "2018-07-24 01:33:20.658788",
+    "updated_at": "2018-08-11 21:37:15.648768",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

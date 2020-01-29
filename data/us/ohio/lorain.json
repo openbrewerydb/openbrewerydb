@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bascule-brewery-and-public-house",
+    "name": "Bascule Brewery And Public House",
+    "brewery_type": "micro",
+    "street": "1397 Colorado Ave",
+    "city": "Lorain",
+    "state": "Ohio",
+    "postal_code": "44052-3377",
+    "website_url": "http://www.basculebrewingcompany.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:59.548485",
+    "updated_at": "2018-08-24 15:43:25.54014",
+    "country": "United States",
+    "longitude": "-82.15710792",
+    "latitude": "41.46560548",
+    "tags": []
+  }
+]

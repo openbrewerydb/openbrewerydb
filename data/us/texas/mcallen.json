@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rabble-rouser-brewing-company",
+    "name": "Rabble-Rouser Brewing Company",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Mcallen",
+    "state": "Texas",
+    "postal_code": "78501",
+    "website_url": "http://www.therabble-rousers.com",
+    "phone": "9563290100",
+    "created_at": "2018-07-24 01:34:20.82142",
+    "updated_at": "2018-08-11 21:39:53.341503",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

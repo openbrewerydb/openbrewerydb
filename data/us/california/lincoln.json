@@ -1,0 +1,36 @@
+[
+  {
+    "id": "dueling-dogs-brewing-company",
+    "name": "Dueling Dogs Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Lincoln",
+    "state": "California",
+    "postal_code": "95648-8503",
+    "website_url": "http://www.duelingdogsbrewing.com",
+    "phone": "9164348141",
+    "created_at": "2018-07-24 01:32:54.685954",
+    "updated_at": "2018-08-23 23:27:40.362369",
+    "country": "United States",
+    "longitude": "-121.29318",
+    "latitude": "38.8915741",
+    "tags": []
+  },
+  {
+    "id": "goathouse-brewing-co",
+    "name": "GoatHouse Brewing Co.",
+    "brewery_type": "micro",
+    "street": "600 Wise Rd",
+    "city": "Lincoln",
+    "state": "California",
+    "postal_code": "95648-8518",
+    "website_url": "http://www.goathousebrewing.com",
+    "phone": "9167409100",
+    "created_at": "2018-07-24 01:32:55.837079",
+    "updated_at": "2018-08-11 21:36:04.786298",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

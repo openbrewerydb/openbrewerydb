@@ -1,0 +1,36 @@
+[
+  {
+    "id": "irving-cliff-brewery",
+    "name": "Irving Cliff Brewery",
+    "brewery_type": "brewpub",
+    "street": "2 Chapel St",
+    "city": "Honesdale",
+    "state": "Pennsylvania",
+    "postal_code": "18431-2094",
+    "website_url": "http://www.irvingcliffbrewery.com",
+    "phone": "5706470644",
+    "created_at": "2018-07-24 01:34:11.114506",
+    "updated_at": "2018-08-24 16:09:34.201658",
+    "country": "United States",
+    "longitude": "-75.257181",
+    "latitude": "41.574806",
+    "tags": []
+  },
+  {
+    "id": "here-and-now-brewing-co",
+    "name": "Here and Now Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "645 Main St",
+    "city": "Honesdale",
+    "state": "Pennsylvania",
+    "postal_code": "18431-1842",
+    "website_url": "http://hereandnowbrewing.com",
+    "phone": "5702530700",
+    "created_at": "2018-07-24 01:34:10.802213",
+    "updated_at": "2018-08-24 16:09:01.79614",
+    "country": "United States",
+    "longitude": "-75.2548230052216",
+    "latitude": "41.5713476",
+    "tags": []
+  }
+]

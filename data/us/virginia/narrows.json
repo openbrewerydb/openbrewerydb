@@ -1,0 +1,19 @@
+[
+  {
+    "id": "right-turn-clyde-brewing-company",
+    "name": "Right Turn, Clyde Brewing Company",
+    "brewery_type": "micro",
+    "street": "300 Main St",
+    "city": "Narrows",
+    "state": "Virginia",
+    "postal_code": "24124-1317",
+    "website_url": "http://www.rtcbrewing.com",
+    "phone": "5409217283",
+    "created_at": "2018-07-24 01:34:26.644812",
+    "updated_at": "2018-08-24 16:30:26.565492",
+    "country": "United States",
+    "longitude": "-80.807605",
+    "latitude": "37.330026",
+    "tags": []
+  }
+]

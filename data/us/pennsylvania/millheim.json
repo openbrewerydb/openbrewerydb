@@ -1,0 +1,19 @@
+[
+  {
+    "id": "elk-creek-cafe-aleworks",
+    "name": "Elk Creek Cafe + Aleworks",
+    "brewery_type": "brewpub",
+    "street": "100 W Main St",
+    "city": "Millheim",
+    "state": "Pennsylvania",
+    "postal_code": "16854",
+    "website_url": "http://www.elkcreekcafe.net",
+    "phone": "8143498850",
+    "created_at": "2018-07-24 01:34:10.403228",
+    "updated_at": "2018-08-24 16:08:25.488762",
+    "country": "United States",
+    "longitude": "-77.4769462270841",
+    "latitude": "40.8911574",
+    "tags": []
+  }
+]

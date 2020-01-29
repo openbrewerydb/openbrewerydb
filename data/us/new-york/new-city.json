@@ -1,0 +1,19 @@
+[
+  {
+    "id": "district-96-beer-factory",
+    "name": "District 96 Beer Factory",
+    "brewery_type": "brewpub",
+    "street": "395 S Main St",
+    "city": "New City",
+    "state": "New York",
+    "postal_code": "10956",
+    "website_url": "http://www.district96beer.com",
+    "phone": "8454992409",
+    "created_at": "2018-07-24 01:33:50.572782",
+    "updated_at": "2018-08-24 15:38:43.758075",
+    "country": "United States",
+    "longitude": "-73.9910007057189",
+    "latitude": "41.1345739068303",
+    "tags": []
+  }
+]

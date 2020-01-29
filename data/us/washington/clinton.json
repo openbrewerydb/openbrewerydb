@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ogres-brewing",
+    "name": "Ogres Brewing",
+    "brewery_type": "micro",
+    "street": "7693 Cultus Bay Rd Ste 1",
+    "city": "Clinton",
+    "state": "Washington",
+    "postal_code": "98236-9432",
+    "website_url": "http://www.ogresbrewing.com",
+    "phone": "4254189005",
+    "created_at": "2018-07-24 01:34:31.728349",
+    "updated_at": "2018-08-11 21:40:22.684351",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

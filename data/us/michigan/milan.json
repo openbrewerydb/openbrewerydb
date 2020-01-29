@@ -1,0 +1,19 @@
+[
+  {
+    "id": "original-gravity-brewing-co",
+    "name": "Original Gravity Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "440 County St",
+    "city": "Milan",
+    "state": "Michigan",
+    "postal_code": "48160-1504",
+    "website_url": "http://www.ogbrewing.com",
+    "phone": "7344397490",
+    "created_at": "2018-07-24 01:33:35.914948",
+    "updated_at": "2018-08-24 00:43:48.394954",
+    "country": "United States",
+    "longitude": "-83.6752359713981",
+    "latitude": "42.083974",
+    "tags": []
+  }
+]

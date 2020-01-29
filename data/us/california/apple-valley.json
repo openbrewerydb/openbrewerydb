@@ -1,0 +1,36 @@
+[
+  {
+    "id": "off-the-grid-brewing-co",
+    "name": "Off the Grid Brewing Co",
+    "brewery_type": "micro",
+    "street": "13615 John Glenn Rd Ste A",
+    "city": "Apple Valley",
+    "state": "California",
+    "postal_code": "92308-5730",
+    "website_url": "http://www.otgbrew.com",
+    "phone": "7602475600",
+    "created_at": "2018-07-24 01:32:58.921771",
+    "updated_at": "2018-08-11 21:36:14.875712",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "oggis-sports-brewhouse-pizza-apple-valley",
+    "name": "Oggi's Sports Brewhouse Pizza - Apple Valley",
+    "brewery_type": "brewpub",
+    "street": "19201 Bear Valley Rd Ste D",
+    "city": "Apple Valley",
+    "state": "California",
+    "postal_code": "92308-2704",
+    "website_url": "http://www.oggis.com",
+    "phone": "7607922622",
+    "created_at": "2018-07-24 01:32:58.972973",
+    "updated_at": "2018-08-11 21:36:14.980703",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

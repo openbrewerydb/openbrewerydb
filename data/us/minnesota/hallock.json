@@ -1,0 +1,19 @@
+[
+  {
+    "id": "revelation-ale-works",
+    "name": "Revelation Ale Works",
+    "brewery_type": "micro",
+    "street": "146 S Atlantic Ave",
+    "city": "Hallock",
+    "state": "Minnesota",
+    "postal_code": "56728",
+    "website_url": "http://www.revales.com",
+    "phone": "2185100001",
+    "created_at": "2018-07-24 01:33:39.451974",
+    "updated_at": "2018-08-24 00:45:41.983249",
+    "country": "United States",
+    "longitude": "-96.9464945560114",
+    "latitude": "48.7748278884228",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "south-haven-brewpub",
+    "name": "South Haven Brewpub",
+    "brewery_type": "brewpub",
+    "street": "515 Williams St Ste 23",
+    "city": "South Haven",
+    "state": "Michigan",
+    "postal_code": "49090-1493",
+    "website_url": "http://www.southhavenbrewpub.com",
+    "phone": "2697677105",
+    "created_at": "2018-07-24 01:33:36.631536",
+    "updated_at": "2018-08-11 21:37:56.441896",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "mcintosh-orchards",
+    "name": "McIntosh Orchards",
+    "brewery_type": "micro",
+    "street": "6431 107th Ave",
+    "city": "South Haven",
+    "state": "Michigan",
+    "postal_code": "49090-9369",
+    "website_url": "http://www.mcintoshorchards.com",
+    "phone": "7078783734",
+    "created_at": "2018-07-24 01:33:35.449837",
+    "updated_at": "2018-08-11 21:37:52.598152",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "three-blondes-brewing",
+    "name": "Three Blondes Brewing",
+    "brewery_type": "brewpub",
+    "street": "1875 Phoenix St",
+    "city": "South Haven",
+    "state": "Michigan",
+    "postal_code": "49090-7151",
+    "website_url": "http://www.threeblondesbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:37.145317",
+    "updated_at": "2018-08-24 00:44:28.491545",
+    "country": "United States",
+    "longitude": "-86.2642391",
+    "latitude": "42.4033183",
+    "tags": []
+  }
+]

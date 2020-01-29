@@ -1,0 +1,19 @@
+[
+  {
+    "id": "witchdoctor-brewing-company",
+    "name": "Witchdoctor Brewing Company",
+    "brewery_type": "micro",
+    "street": "168 Center St",
+    "city": "Southington",
+    "state": "Connecticut",
+    "postal_code": "06489",
+    "website_url": "http://www.witchdoctorbrewing.com",
+    "phone": "8604261924",
+    "created_at": "2018-07-24 01:33:10.363694",
+    "updated_at": "2018-08-24 00:25:56.528496",
+    "country": "United States",
+    "longitude": "-72.8814255526316",
+    "latitude": "41.6016981315789",
+    "tags": []
+  }
+]

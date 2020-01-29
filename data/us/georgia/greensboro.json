@@ -1,0 +1,19 @@
+[
+  {
+    "id": "oconee-brewing-company",
+    "name": "Oconee Brewing Company",
+    "brewery_type": "micro",
+    "street": "202 N West St",
+    "city": "Greensboro",
+    "state": "Georgia",
+    "postal_code": "30642-1124",
+    "website_url": "http://www.oconeebrewingco.com",
+    "phone": "7069201177",
+    "created_at": "2018-07-24 01:33:16.078157",
+    "updated_at": "2018-08-11 21:37:02.844115",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

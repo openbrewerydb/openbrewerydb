@@ -1,0 +1,36 @@
+[
+  {
+    "id": "culture-brewing-co",
+    "name": "Culture Brewing Co",
+    "brewery_type": "micro",
+    "street": "111 S Cedros Ave Ste 200",
+    "city": "Solana Beach",
+    "state": "California",
+    "postal_code": "92075-2906",
+    "website_url": "http://www.culturebrewingco.com",
+    "phone": "8583451144",
+    "created_at": "2018-07-24 01:32:54.230287",
+    "updated_at": "2018-08-11 21:36:00.712838",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "pizza-port-solana-beach",
+    "name": "Pizza Port Solana Beach",
+    "brewery_type": "brewpub",
+    "street": "135 N Highway 101",
+    "city": "Solana Beach",
+    "state": "California",
+    "postal_code": "92075-1128",
+    "website_url": "http://www.pizzaport.com",
+    "phone": "8584817332",
+    "created_at": "2018-07-24 01:32:59.548239",
+    "updated_at": "2018-08-24 00:00:59.868122",
+    "country": "United States",
+    "longitude": "-117.2737068",
+    "latitude": "32.9977749",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "rhombus-guys-brewing-co",
+    "name": "Rhombus Guys Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "116 S 3rd St",
+    "city": "Grand Forks",
+    "state": "North Dakota",
+    "postal_code": "58201-4784",
+    "website_url": "http://www.rhombusguysbrewing.com",
+    "phone": "7017570598",
+    "created_at": "2018-07-24 01:33:59.243531",
+    "updated_at": "2018-08-24 15:43:18.210233",
+    "country": "United States",
+    "longitude": "-97.0286822",
+    "latitude": "47.923923",
+    "tags": []
+  },
+  {
+    "id": "half-brothers-brewing-company",
+    "name": "Half Brothers Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "17 N 3rd St",
+    "city": "Grand Forks",
+    "state": "North Dakota",
+    "postal_code": "58203-3713",
+    "website_url": "http://www.halfbrothersbrewing.com",
+    "phone": "7017570805",
+    "created_at": "2018-07-24 01:33:59.190509",
+    "updated_at": "2018-08-24 15:43:16.515728",
+    "country": "United States",
+    "longitude": "-97.0315443",
+    "latitude": "47.9256052",
+    "tags": []
+  }
+]

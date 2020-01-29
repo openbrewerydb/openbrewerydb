@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lazy-tree-ranch-brewing",
+    "name": "Lazy Tree Ranch Brewing",
+    "brewery_type": "micro",
+    "street": "1431 County Road 264",
+    "city": "Bertram",
+    "state": "Texas",
+    "postal_code": "78605",
+    "website_url": "",
+    "phone": "5125088697",
+    "created_at": "2018-07-24 01:34:20.105187",
+    "updated_at": "2018-08-24 16:21:41.660769",
+    "country": "United States",
+    "longitude": "-98.069394",
+    "latitude": "30.749121",
+    "tags": []
+  }
+]

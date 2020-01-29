@@ -1,0 +1,36 @@
+[
+  {
+    "id": "burlington-beer-company",
+    "name": "Burlington Beer Company",
+    "brewery_type": "micro",
+    "street": "25 Omega Dr Ste 150",
+    "city": "Williston",
+    "state": "Vermont",
+    "postal_code": "05495-7334",
+    "website_url": "http://www.burlingtonbeercompany.com",
+    "phone": "8028632337",
+    "created_at": "2018-07-24 01:34:23.168965",
+    "updated_at": "2018-08-11 21:39:59.00412",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "goodwater-brewery",
+    "name": "GoodWater Brewery",
+    "brewery_type": "micro",
+    "street": "740 Marshall Ave",
+    "city": "Williston",
+    "state": "Vermont",
+    "postal_code": "05495-8978",
+    "website_url": "http://www.goodwaterbreweryvt.com",
+    "phone": "8029997396",
+    "created_at": "2018-07-24 01:34:23.318353",
+    "updated_at": "2018-08-11 21:39:59.455708",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

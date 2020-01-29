@@ -1,0 +1,19 @@
+[
+  {
+    "id": "big-island-brewhaus",
+    "name": "Big Island Brewhaus",
+    "brewery_type": "brewpub",
+    "street": "64-1066 Mamalahoa Hwy Unit 5",
+    "city": "Kamuela",
+    "state": "Hawaii",
+    "postal_code": "96743-7309",
+    "website_url": "http://www.bigislandbrewhaus.com",
+    "phone": "8088871717",
+    "created_at": "2018-07-24 01:33:16.755608",
+    "updated_at": "2018-08-11 21:37:04.422685",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

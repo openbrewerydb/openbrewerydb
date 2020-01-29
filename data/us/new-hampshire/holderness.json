@@ -1,0 +1,19 @@
+[
+  {
+    "id": "squam-brewing-co",
+    "name": "Squam Brewing Co",
+    "brewery_type": "micro",
+    "street": "118 Perch Pond Rd",
+    "city": "Holderness",
+    "state": "New Hampshire",
+    "postal_code": "03245-5234",
+    "website_url": "http://www.squambrewing.com",
+    "phone": "6032369705",
+    "created_at": "2018-07-24 01:33:45.747084",
+    "updated_at": "2018-08-24 15:36:19.166251",
+    "country": "United States",
+    "longitude": "-71.589971",
+    "latitude": "43.78514",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "southside-brewing-co",
+    "name": "Southside Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "62920 Georgetown Rd",
+    "city": "Cambridge",
+    "state": "Ohio",
+    "postal_code": "43725-9749",
+    "website_url": "http://www.southsidebrewing.net",
+    "phone": "7404353222",
+    "created_at": "2018-07-24 01:34:03.017577",
+    "updated_at": "2018-08-11 21:39:04.667304",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

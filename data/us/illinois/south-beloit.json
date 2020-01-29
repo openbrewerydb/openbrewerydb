@@ -1,0 +1,19 @@
+[
+  {
+    "id": "off-kilter-brewing",
+    "name": "Off-Kilter Brewing",
+    "brewery_type": "micro",
+    "street": "15810 Carbrey Ave",
+    "city": "South Beloit",
+    "state": "Illinois",
+    "postal_code": "61080",
+    "website_url": "http://www.OffKilterBrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:20.034853",
+    "updated_at": "2018-08-24 00:31:42.845628",
+    "country": "United States",
+    "longitude": "-89.0608245260048",
+    "latitude": "42.4896693836496",
+    "tags": []
+  }
+]

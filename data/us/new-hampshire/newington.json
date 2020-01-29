@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stoneface-brewing-co",
+    "name": "Stoneface Brewing Co",
+    "brewery_type": "micro",
+    "street": "436 Shattuck Way Ste 6",
+    "city": "Newington",
+    "state": "New Hampshire",
+    "postal_code": "03801-7838",
+    "website_url": "http://www.stonefacebrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:45.77327",
+    "updated_at": "2018-08-11 21:38:21.149782",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

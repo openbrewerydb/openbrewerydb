@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kirkwood-station-brewing",
+    "name": "Kirkwood Station Brewing",
+    "brewery_type": "brewpub",
+    "street": "105 E Jefferson Ave",
+    "city": "Kirkwood",
+    "state": "Missouri",
+    "postal_code": "63122-4025",
+    "website_url": "http://www.kirkwoodstationbrewing.com",
+    "phone": "3149662739",
+    "created_at": "2018-07-24 01:33:41.216852",
+    "updated_at": "2018-08-24 00:46:32.593688",
+    "country": "United States",
+    "longitude": "-90.4060884893617",
+    "latitude": "38.5823430425532",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "great-crescent-brewery",
+    "name": "Great Crescent Brewery",
+    "brewery_type": "micro",
+    "street": "315 Importing St",
+    "city": "Aurora",
+    "state": "Indiana",
+    "postal_code": "47001-1415",
+    "website_url": "http://www.gcbeer.com",
+    "phone": "8126559079",
+    "created_at": "2018-07-24 01:33:22.150555",
+    "updated_at": "2018-08-24 00:32:57.743275",
+    "country": "United States",
+    "longitude": "-84.9005125714286",
+    "latitude": "39.0576022857143",
+    "tags": []
+  }
+]

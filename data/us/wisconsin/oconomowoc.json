@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brewfinity-brewing-co",
+    "name": "Brewfinity Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "N58 W39800 Industrial Rd Ste D",
+    "city": "Oconomowoc",
+    "state": "Wisconsin",
+    "postal_code": "53066",
+    "website_url": "http://www.sweetmulletsbrewing.com",
+    "phone": "2624562843",
+    "created_at": "2018-07-24 01:34:34.787047",
+    "updated_at": "2018-08-11 21:40:31.400204",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "hops-and-leisure",
+    "name": "Hops and Leisure",
+    "brewery_type": "contract",
+    "street": "1225 Robruck Dr # A",
+    "city": "Oconomowoc",
+    "state": "Wisconsin",
+    "postal_code": "53066-4446",
+    "website_url": "http://www.hopsandleisure.com",
+    "phone": "2625678536",
+    "created_at": "2018-07-24 01:34:35.572351",
+    "updated_at": "2018-08-24 16:43:38.322952",
+    "country": "United States",
+    "longitude": "-88.4785190960753",
+    "latitude": "43.0922443643863",
+    "tags": []
+  },
+  {
+    "id": "sconnie-beverage",
+    "name": "Sconnie Beverage",
+    "brewery_type": "contract",
+    "street": "1403 N SUMMIT AVEÂ ",
+    "city": "Oconomowoc",
+    "state": "Wisconsin",
+    "postal_code": "53066",
+    "website_url": "http://www.sconniebeer.com",
+    "phone": "6085563112",
+    "created_at": "2018-07-24 01:34:36.575252",
+    "updated_at": "2018-08-11 21:40:36.259902",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

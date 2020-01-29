@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ffats-brewing-co-production-only",
+    "name": "Ffats Brewing Co - Production Only",
+    "brewery_type": "micro",
+    "street": "36447 Main St",
+    "city": "Whitehall",
+    "state": "Wisconsin",
+    "postal_code": "54773-9108",
+    "website_url": "http://www.ffatsbrewing.com",
+    "phone": "7155383162",
+    "created_at": "2018-07-24 01:34:35.222642",
+    "updated_at": "2018-08-24 16:43:00.062",
+    "country": "United States",
+    "longitude": "-91.3167513033617",
+    "latitude": "44.3712155010867",
+    "tags": []
+  }
+]

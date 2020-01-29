@@ -1,0 +1,19 @@
+[
+  {
+    "id": "thunder-island-brewing",
+    "name": "Thunder Island Brewing",
+    "brewery_type": "micro",
+    "street": "515 NW Portage Rd",
+    "city": "Cascade Locks",
+    "state": "Oregon",
+    "postal_code": "97014-6699",
+    "website_url": "http://www.thunderislandbrewing.com",
+    "phone": "9712314599",
+    "created_at": "2018-07-24 01:34:08.131116",
+    "updated_at": "2018-08-11 21:39:19.933442",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

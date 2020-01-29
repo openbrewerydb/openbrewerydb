@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cold-creek-brewery",
+    "name": "Cold Creek Brewery",
+    "brewery_type": "micro",
+    "street": "6 Industrial Dr",
+    "city": "Ellington",
+    "state": "Connecticut",
+    "postal_code": "06029-2632",
+    "website_url": "http://coldcreekbrewery.com",
+    "phone": "8608581900",
+    "created_at": "2018-07-24 01:33:09.390018",
+    "updated_at": "2018-08-24 00:25:32.355319",
+    "country": "United States",
+    "longitude": "-72.456028",
+    "latitude": "41.9209531",
+    "tags": []
+  }
+]

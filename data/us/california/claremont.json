@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brewery-in-planning-claremont",
+    "name": "Brewery in Planning - Claremont",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Claremont",
+    "state": "California",
+    "postal_code": "91711",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:53.057178",
+    "updated_at": "2018-08-23 23:26:01.546006",
+    "country": "United States",
+    "longitude": "-117.7197785",
+    "latitude": "34.0966764",
+    "tags": []
+  },
+  {
+    "id": "brewery-in-planning-claremont",
+    "name": "Brewery In Planning - Claremont",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Claremont",
+    "state": "California",
+    "postal_code": "91711-1764",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:53.069177",
+    "updated_at": "2018-08-23 23:26:01.964273",
+    "country": "United States",
+    "longitude": "-117.7197785",
+    "latitude": "34.0966764",
+    "tags": []
+  },
+  {
+    "id": "claremont-craft-ales",
+    "name": "Claremont Craft Ales",
+    "brewery_type": "micro",
+    "street": "1420 N Claremont Blvd Ste 204C",
+    "city": "Claremont",
+    "state": "California",
+    "postal_code": "91711-3528",
+    "website_url": "http://www.claremontcraftales.com",
+    "phone": "9096255350",
+    "created_at": "2018-07-24 01:32:53.871088",
+    "updated_at": "2018-08-11 21:35:59.558913",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

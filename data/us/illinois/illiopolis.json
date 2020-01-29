@@ -1,0 +1,19 @@
+[
+  {
+    "id": "golden-fox-brewing-llc",
+    "name": "Golden Fox Brewing, LLC",
+    "brewery_type": "micro",
+    "street": "523 W Matilda St",
+    "city": "Illiopolis",
+    "state": "Illinois",
+    "postal_code": "62539-3607",
+    "website_url": "http://www.GoldenFoxBrew.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:18.977201",
+    "updated_at": "2018-08-24 00:31:03.260463",
+    "country": "United States",
+    "longitude": "-89.2535947922078",
+    "latitude": "39.850216",
+    "tags": []
+  }
+]

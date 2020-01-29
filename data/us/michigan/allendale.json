@@ -1,0 +1,19 @@
+[
+  {
+    "id": "trail-point-brewing-co",
+    "name": "Trail Point Brewing Co.",
+    "brewery_type": "micro",
+    "street": "6035 Lake Michigan Dr",
+    "city": "Allendale",
+    "state": "Michigan",
+    "postal_code": "49401-9101",
+    "website_url": "http://www.trailpointbrewing.com",
+    "phone": "6168952739",
+    "created_at": "2018-07-24 01:33:37.218356",
+    "updated_at": "2018-08-24 00:44:30.96534",
+    "country": "United States",
+    "longitude": "-85.9354153586956",
+    "latitude": "42.9720778152174",
+    "tags": []
+  }
+]

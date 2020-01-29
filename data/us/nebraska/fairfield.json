@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fairfield-opera-house-brewery",
+    "name": "Fairfield Opera House Brewery",
+    "brewery_type": "brewpub",
+    "street": "415 N D St",
+    "city": "Fairfield",
+    "state": "Nebraska",
+    "postal_code": "68938-2114",
+    "website_url": "http://www.fairfieldoperahouse.com",
+    "phone": "4027262447",
+    "created_at": "2018-07-24 01:33:43.556382",
+    "updated_at": "2018-08-24 00:47:37.367863",
+    "country": "United States",
+    "longitude": "-98.1058865714286",
+    "latitude": "40.4306157142857",
+    "tags": []
+  }
+]

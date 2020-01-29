@@ -1,0 +1,36 @@
+[
+  {
+    "id": "feather-falls-brewing-co",
+    "name": "Feather Falls Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "3 Alverda Dr",
+    "city": "Oroville",
+    "state": "California",
+    "postal_code": "95966-9379",
+    "website_url": "http://www.featherfallscasino.com",
+    "phone": "5305344059",
+    "created_at": "2018-07-24 01:32:55.307683",
+    "updated_at": "2018-08-23 23:28:15.157001",
+    "country": "United States",
+    "longitude": "-121.521407",
+    "latitude": "39.46576",
+    "tags": []
+  },
+  {
+    "id": "mineras-alley-brewing-company",
+    "name": "Minerâs Alley Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "2053 Montgomery St",
+    "city": "Oroville",
+    "state": "California",
+    "postal_code": "95965-4947",
+    "website_url": "http://www.minersalleybrewingco.com",
+    "phone": "5306934388",
+    "created_at": "2018-07-24 01:32:58.308171",
+    "updated_at": "2018-08-23 23:59:34.843733",
+    "country": "United States",
+    "longitude": "-121.55497922449",
+    "latitude": "39.514149122449",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "palo-alto-brewing-co",
+    "name": "Palo Alto Brewing Co",
+    "brewery_type": "contract",
+    "street": "1080B La Avenida St",
+    "city": "Mountain View",
+    "state": "California",
+    "postal_code": "94043-1422",
+    "website_url": "http://www.paloaltobrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:59.292307",
+    "updated_at": "2018-08-24 00:00:43.305306",
+    "country": "United States",
+    "longitude": "-122.071765718906",
+    "latitude": "37.4132678904411",
+    "tags": []
+  },
+  {
+    "id": "tied-house-cafe-and-brewery-mtn-view",
+    "name": "Tied House Cafe and Brewery-Mtn View",
+    "brewery_type": "brewpub",
+    "street": "954 Villa St",
+    "city": "Mountain View",
+    "state": "California",
+    "postal_code": "94041-1236",
+    "website_url": "http://www.tiedhouse.com",
+    "phone": "6509652739",
+    "created_at": "2018-07-24 01:33:02.341197",
+    "updated_at": "2018-08-24 00:04:12.471968",
+    "country": "United States",
+    "longitude": "-122.0806432",
+    "latitude": "37.3946092",
+    "tags": []
+  }
+]

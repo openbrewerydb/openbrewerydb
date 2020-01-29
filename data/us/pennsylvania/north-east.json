@@ -1,0 +1,19 @@
+[
+  {
+    "id": "arundel-cellars-and-brewing-co",
+    "name": "Arundel Cellars & Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "11727 E Main Rd",
+    "city": "North East",
+    "state": "Pennsylvania",
+    "postal_code": "16428-3635",
+    "website_url": "http://www.arundelcellars.com",
+    "phone": "8147251079",
+    "created_at": "2018-07-24 01:34:08.796725",
+    "updated_at": "2018-08-24 16:06:22.583635",
+    "country": "United States",
+    "longitude": "-79.8216539",
+    "latitude": "42.2195527",
+    "tags": []
+  }
+]

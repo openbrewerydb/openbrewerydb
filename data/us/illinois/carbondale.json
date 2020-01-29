@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brewery-in-planning-carbondale",
+    "name": "Brewery in Planning - Carbondale",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Carbondale",
+    "state": "Illinois",
+    "postal_code": "62901",
+    "website_url": "http://www.fermentation.siu.edu",
+    "phone": "6184537508",
+    "created_at": "2018-07-24 01:33:18.31259",
+    "updated_at": "2018-08-11 21:37:08.430537",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

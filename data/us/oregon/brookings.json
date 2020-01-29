@@ -1,0 +1,19 @@
+[
+  {
+    "id": "chetco-brewing-company",
+    "name": "Chetco Brewing Company",
+    "brewery_type": "micro",
+    "street": "830 Railroad St",
+    "city": "Brookings",
+    "state": "Oregon",
+    "postal_code": "97415",
+    "website_url": "http://www.chetcobrew.com",
+    "phone": "5416615347",
+    "created_at": "2018-07-24 01:34:05.424649",
+    "updated_at": "2018-08-24 15:46:10.891006",
+    "country": "United States",
+    "longitude": "-124.2875954",
+    "latitude": "42.0521588",
+    "tags": []
+  }
+]

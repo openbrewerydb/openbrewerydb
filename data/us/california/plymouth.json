@@ -1,0 +1,19 @@
+[
+  {
+    "id": "amador-brewing-company",
+    "name": "Amador Brewing Company",
+    "brewery_type": "micro",
+    "street": "9659 Main St",
+    "city": "Plymouth",
+    "state": "California",
+    "postal_code": "95669-9570",
+    "website_url": "http://www.amadorbrewing.com",
+    "phone": "2095071900",
+    "created_at": "2018-07-24 01:32:51.607248",
+    "updated_at": "2018-08-23 23:24:19.562441",
+    "country": "United States",
+    "longitude": "-120.849271",
+    "latitude": "38.4808723",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "medusa-brewing-company",
+    "name": "Medusa Brewing Company",
+    "brewery_type": "micro",
+    "street": "111 Main St",
+    "city": "Hudson",
+    "state": "Massachusetts",
+    "postal_code": "01749-2210",
+    "website_url": "http://www.medusabrewing.com",
+    "phone": "5083950122",
+    "created_at": "2018-07-24 01:33:31.433271",
+    "updated_at": "2018-08-24 00:41:31.240248",
+    "country": "United States",
+    "longitude": "-71.566681",
+    "latitude": "42.3909986",
+    "tags": []
+  }
+]

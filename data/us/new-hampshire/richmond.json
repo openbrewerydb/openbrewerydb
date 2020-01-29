@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ashuelot-brewing-company",
+    "name": "Ashuelot Brewing Company",
+    "brewery_type": "micro",
+    "street": "101 Old County Rd",
+    "city": "Richmond",
+    "state": "New Hampshire",
+    "postal_code": "03470-4918",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:44.953499",
+    "updated_at": "2018-08-24 15:35:55.642159",
+    "country": "United States",
+    "longitude": "-72.232368157997",
+    "latitude": "42.7594623197317",
+    "tags": []
+  }
+]

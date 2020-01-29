@@ -1,0 +1,19 @@
+[
+  {
+    "id": "big-frog-brewing-company",
+    "name": "Big Frog Brewing Company",
+    "brewery_type": "micro",
+    "street": "2122 Dayton Blvd",
+    "city": "Red Bank",
+    "state": "Tennessee",
+    "postal_code": "37415-6414",
+    "website_url": "http://www.bigfrogbrewery.com",
+    "phone": "4238039046",
+    "created_at": "2018-07-24 01:34:15.713212",
+    "updated_at": "2018-08-24 16:16:14.556386",
+    "country": "United States",
+    "longitude": "-85.310176033573",
+    "latitude": "35.0916037009048",
+    "tags": []
+  }
+]

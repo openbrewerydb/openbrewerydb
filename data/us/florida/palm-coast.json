@@ -1,0 +1,19 @@
+[
+  {
+    "id": "alcatraz-brewing",
+    "name": "Alcatraz Brewing",
+    "brewery_type": "micro",
+    "street": "20 Ocean Vista Ln",
+    "city": "Palm Coast",
+    "state": "Florida",
+    "postal_code": "32137-2743",
+    "website_url": "http://www.alcatraz.beer",
+    "phone": "3866278909",
+    "created_at": "2018-07-24 01:33:11.246753",
+    "updated_at": "2018-08-24 00:26:25.449486",
+    "country": "United States",
+    "longitude": "-81.1928702816799",
+    "latitude": "29.6178119569148",
+    "tags": []
+  }
+]

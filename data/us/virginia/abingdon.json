@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wolf-hills-brewing-co",
+    "name": "Wolf Hills Brewing Co",
+    "brewery_type": "micro",
+    "street": "350 Park St SE",
+    "city": "Abingdon",
+    "state": "Virginia",
+    "postal_code": "24210-3314",
+    "website_url": "http://www.wolfhillsbrewing.com",
+    "phone": "2762067562",
+    "created_at": "2018-07-24 01:34:27.522092",
+    "updated_at": "2018-08-24 16:31:49.073321",
+    "country": "United States",
+    "longitude": "-81.966309",
+    "latitude": "36.7123245",
+    "tags": []
+  }
+]

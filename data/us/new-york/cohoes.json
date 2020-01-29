@@ -1,0 +1,19 @@
+[
+  {
+    "id": "table-41-brewing-co",
+    "name": "Table 41 Brewing Co.",
+    "brewery_type": "micro",
+    "street": "4 Dunsback Ferry Rd",
+    "city": "Cohoes",
+    "state": "New York",
+    "postal_code": "12047-5016",
+    "website_url": "http://www.table41brewing.com",
+    "phone": "5185270221",
+    "created_at": "2018-07-24 01:33:53.950528",
+    "updated_at": "2018-08-11 21:38:42.306947",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

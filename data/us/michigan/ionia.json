@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-sanford-beverage-company-inc-dba-steele-street-brewing",
+    "name": "The Sanford Beverage Company, Inc. D.B.A. Steele Street Brewing",
+    "brewery_type": "brewpub",
+    "street": "300 S Steele St",
+    "city": "Ionia",
+    "state": "Michigan",
+    "postal_code": "48846-2008",
+    "website_url": "http://www.steelestreetbrewing.com",
+    "phone": "6165234003",
+    "created_at": "2018-07-24 01:33:37.094769",
+    "updated_at": "2018-08-24 00:44:27.074947",
+    "country": "United States",
+    "longitude": "-85.0676624305556",
+    "latitude": "42.9813583055556",
+    "tags": []
+  }
+]

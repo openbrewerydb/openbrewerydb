@@ -1,0 +1,19 @@
+[
+  {
+    "id": "neshaminy-creek-brewing-co",
+    "name": "Neshaminy Creek Brewing Co",
+    "brewery_type": "regional",
+    "street": "909 Ray Ave",
+    "city": "Croydon",
+    "state": "Pennsylvania",
+    "postal_code": "19021-7510",
+    "website_url": "http://www.neshaminycreekbrewing.com",
+    "phone": "2154587081",
+    "created_at": "2018-07-24 01:34:11.804927",
+    "updated_at": "2018-08-24 16:10:39.971888",
+    "country": "United States",
+    "longitude": "-74.9022245454545",
+    "latitude": "40.0853767272727",
+    "tags": []
+  }
+]

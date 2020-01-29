@@ -1,0 +1,36 @@
+[
+  {
+    "id": "hoppy-trout-brewing-company",
+    "name": "Hoppy Trout Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "911 Main St",
+    "city": "Andrews",
+    "state": "North Carolina",
+    "postal_code": "28901-7087",
+    "website_url": "http://www.hoppytroutbrewing.com",
+    "phone": "8288352111",
+    "created_at": "2018-07-24 01:33:56.706113",
+    "updated_at": "2018-08-24 15:41:57.814852",
+    "country": "United States",
+    "longitude": "-83.8165709",
+    "latitude": "35.2016188",
+    "tags": []
+  },
+  {
+    "id": "andrews-brewing-co-at-calaboose-cellars",
+    "name": "Andrews Brewing Co At Calaboose Cellars",
+    "brewery_type": "micro",
+    "street": "575 Aquone Rd",
+    "city": "Andrews",
+    "state": "North Carolina",
+    "postal_code": "28901-7004",
+    "website_url": "http://www.calaboosecellars.com",
+    "phone": "8283212006",
+    "created_at": "2018-07-24 01:33:54.842593",
+    "updated_at": "2018-08-24 15:40:58.760418",
+    "country": "United States",
+    "longitude": "-83.8148779865557",
+    "latitude": "35.199581640194",
+    "tags": []
+  }
+]

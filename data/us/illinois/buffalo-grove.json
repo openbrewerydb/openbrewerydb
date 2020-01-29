@@ -1,0 +1,19 @@
+[
+  {
+    "id": "prairie-krafts-brewing-company",
+    "name": "Prairie Krafts Brewing Company",
+    "brewery_type": "micro",
+    "street": "1310 Busch Pkwy",
+    "city": "Buffalo Grove",
+    "state": "Illinois",
+    "postal_code": "60089-4505",
+    "website_url": "http://www.prairiekrafts.com",
+    "phone": "2244342189",
+    "created_at": "2018-07-24 01:33:20.27593",
+    "updated_at": "2018-08-11 21:37:14.814257",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

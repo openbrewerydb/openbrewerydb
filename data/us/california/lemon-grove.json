@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brewery-in-planning-fpo",
+    "name": "Brewery In Planning - FPO",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Lemon Grove",
+    "state": "California",
+    "postal_code": "91945",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:53.115721",
+    "updated_at": "2018-08-23 23:26:03.687606",
+    "country": "United States",
+    "longitude": "-117.0314172",
+    "latitude": "32.7425516",
+    "tags": []
+  }
+]

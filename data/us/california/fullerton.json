@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bootleggers-brewery",
+    "name": "Bootleggers Brewery",
+    "brewery_type": "micro",
+    "street": "130 S Highland Ave",
+    "city": "Fullerton",
+    "state": "California",
+    "postal_code": "92832-1803",
+    "website_url": "",
+    "phone": "7148712337",
+    "created_at": "2018-07-24 01:32:52.823677",
+    "updated_at": "2018-08-23 23:25:46.045024",
+    "country": "United States",
+    "longitude": "-117.928591",
+    "latitude": "33.87004",
+    "tags": []
+  },
+  {
+    "id": "bootleggers-brewery",
+    "name": "Bootleggers Brewery",
+    "brewery_type": "micro",
+    "street": "1100 E Truslow Ave",
+    "city": "Fullerton",
+    "state": "California",
+    "postal_code": "92831-4626",
+    "website_url": "http://www.bootleggersbrewery.com",
+    "phone": "7148712337",
+    "created_at": "2018-07-24 01:32:52.81199",
+    "updated_at": "2018-08-23 23:25:45.098953",
+    "country": "United States",
+    "longitude": "-117.908009484784",
+    "latitude": "33.8674125344355",
+    "tags": []
+  }
+]

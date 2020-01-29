@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wild-leap-brewing-company",
+    "name": "Wild Leap Brewing Company",
+    "brewery_type": "micro",
+    "street": "308 Main St",
+    "city": "Lagrange",
+    "state": "Georgia",
+    "postal_code": "30240-4504",
+    "website_url": "http://www.wildleap.com",
+    "phone": "7062986400",
+    "created_at": "2018-07-24 01:33:16.695209",
+    "updated_at": "2018-08-24 00:29:39.429899",
+    "country": "United States",
+    "longitude": "-85.0311916",
+    "latitude": "33.037368",
+    "tags": []
+  }
+]

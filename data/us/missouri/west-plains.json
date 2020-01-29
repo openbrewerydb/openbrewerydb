@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ozarks-brewing-company",
+    "name": "Ozarks Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "1872 S. U.S. Hwy. 63",
+    "city": "West Plains",
+    "state": "Missouri",
+    "postal_code": "65775",
+    "website_url": "http://www.ozarksbrewing.com",
+    "phone": "4172741507",
+    "created_at": "2018-07-24 01:33:41.465568",
+    "updated_at": "2018-08-11 21:38:08.736579",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "wages-brewing-company",
+    "name": "Wages Brewing Company",
+    "brewery_type": "micro",
+    "street": "1382 Bill Virdon Blvd",
+    "city": "West Plains",
+    "state": "Missouri",
+    "postal_code": "65775-3383",
+    "website_url": "http://www.wagesbrewco.com",
+    "phone": "4172933119",
+    "created_at": "2018-07-24 01:33:41.891176",
+    "updated_at": "2018-08-24 00:46:52.126109",
+    "country": "United States",
+    "longitude": "-91.8351090033593",
+    "latitude": "36.72461005",
+    "tags": []
+  }
+]

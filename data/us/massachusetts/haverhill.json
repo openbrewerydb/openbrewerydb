@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-tap-brewing-company",
+    "name": "The Tap Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "100 Washington St",
+    "city": "Haverhill",
+    "state": "Massachusetts",
+    "postal_code": "01832-5500",
+    "website_url": "http://www.tapbrewingcompany.com",
+    "phone": "6178358315",
+    "created_at": "2018-07-24 01:33:32.125069",
+    "updated_at": "2018-08-24 00:41:51.51922",
+    "country": "United States",
+    "longitude": "-71.084935",
+    "latitude": "42.7728879",
+    "tags": []
+  }
+]

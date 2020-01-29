@@ -1,0 +1,19 @@
+[
+  {
+    "id": "new-holland-brewing",
+    "name": "New Holland Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Battle Creek",
+    "state": "Michigan",
+    "postal_code": "49017",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:35.610501",
+    "updated_at": "2018-08-11 21:37:53.086318",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

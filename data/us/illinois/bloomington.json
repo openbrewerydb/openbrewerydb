@@ -1,0 +1,36 @@
+[
+  {
+    "id": "keg-grove-brewing-company",
+    "name": "Keg Grove Brewing Company",
+    "brewery_type": "micro",
+    "street": "712 E Empire St Ste 2",
+    "city": "Bloomington",
+    "state": "Illinois",
+    "postal_code": "61701-3252",
+    "website_url": "http://keggrovebrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:19.466033",
+    "updated_at": "2018-08-11 21:37:12.905981",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "lil-beaver-brewery",
+    "name": "Lil Beaver Brewery",
+    "brewery_type": "micro",
+    "street": "16 Currency Dr Unit B",
+    "city": "Bloomington",
+    "state": "Illinois",
+    "postal_code": "61704-9632",
+    "website_url": "http://www.lilbeaverbrewery.com",
+    "phone": "3098082590",
+    "created_at": "2018-07-24 01:33:19.612071",
+    "updated_at": "2018-08-11 21:37:13.294037",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "eola-school-restaurant",
+    "name": "Eola School Restaurant",
+    "brewery_type": "brewpub",
+    "street": "12119 FM 381 Rd",
+    "city": "Eola",
+    "state": "Texas",
+    "postal_code": "76937",
+    "website_url": "http://www.eolaschool.com",
+    "phone": "3254693314",
+    "created_at": "2018-07-24 01:34:19.059934",
+    "updated_at": "2018-08-11 21:39:49.03573",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

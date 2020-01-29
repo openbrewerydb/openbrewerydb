@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mountain-valley-brewing",
+    "name": "Mountain Valley Brewing",
+    "brewery_type": "micro",
+    "street": "4220 Mountain Valley Rd",
+    "city": "Axton",
+    "state": "Virginia",
+    "postal_code": "24054-2985",
+    "website_url": "",
+    "phone": "2768332171",
+    "created_at": "2018-07-24 01:34:26.063935",
+    "updated_at": "2018-08-24 16:29:41.602967",
+    "country": "United States",
+    "longitude": "-79.70721",
+    "latitude": "36.715687",
+    "tags": []
+  }
+]

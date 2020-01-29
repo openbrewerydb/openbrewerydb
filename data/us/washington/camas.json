@@ -1,0 +1,36 @@
+[
+  {
+    "id": "grains-of-wrath-brewing",
+    "name": "Grains of Wrath Brewing",
+    "brewery_type": "brewpub",
+    "street": "230 NE 5th Ave",
+    "city": "Camas",
+    "state": "Washington",
+    "postal_code": "98607",
+    "website_url": "http://www.gowbeer.com",
+    "phone": "3602105717",
+    "created_at": "2018-07-24 01:34:30.164099",
+    "updated_at": "2018-08-24 16:35:24.351582",
+    "country": "United States",
+    "longitude": "-122.4056003",
+    "latitude": "45.5857341",
+    "tags": []
+  },
+  {
+    "id": "mill-city-brew-werks",
+    "name": "Mill City Brew Werks",
+    "brewery_type": "brewpub",
+    "street": "339 NE Cedar St",
+    "city": "Camas",
+    "state": "Washington",
+    "postal_code": "98607-2142",
+    "website_url": "http://www.mcbwbeer.com",
+    "phone": "3602104761",
+    "created_at": "2018-07-24 01:34:31.241403",
+    "updated_at": "2018-08-24 16:36:57.447645",
+    "country": "United States",
+    "longitude": "-122.404172",
+    "latitude": "45.585626",
+    "tags": []
+  }
+]

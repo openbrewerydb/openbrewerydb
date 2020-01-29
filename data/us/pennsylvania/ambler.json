@@ -1,0 +1,36 @@
+[
+  {
+    "id": "forest-and-main-brewery-and-pub",
+    "name": "Forest & Main Brewery and Pub",
+    "brewery_type": "brewpub",
+    "street": "61 N Main St",
+    "city": "Ambler",
+    "state": "Pennsylvania",
+    "postal_code": "19002-5728",
+    "website_url": "http://www.forestandmain.com",
+    "phone": "2155421776",
+    "created_at": "2018-07-24 01:34:10.546176",
+    "updated_at": "2018-08-24 16:08:38.982752",
+    "country": "United States",
+    "longitude": "-75.2250879",
+    "latitude": "40.1553233",
+    "tags": []
+  },
+  {
+    "id": "tannery-run-brew-works",
+    "name": "Tannery Run Brew Works",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Ambler",
+    "state": "Pennsylvania",
+    "postal_code": "19002-4407",
+    "website_url": "http://www.tanneryrun.com",
+    "phone": "2156131113",
+    "created_at": "2018-07-24 01:34:12.957681",
+    "updated_at": "2018-08-11 21:39:32.104007",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

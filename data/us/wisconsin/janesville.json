@@ -1,0 +1,36 @@
+[
+  {
+    "id": "gray-brewing-co",
+    "name": "Gray Brewing Co",
+    "brewery_type": "micro",
+    "street": "2424 W Court St",
+    "city": "Janesville",
+    "state": "Wisconsin",
+    "postal_code": "53548",
+    "website_url": "",
+    "phone": "6087565430",
+    "created_at": "2018-07-24 01:34:35.419903",
+    "updated_at": "2018-08-24 16:43:19.671739",
+    "country": "United States",
+    "longitude": "-89.0497268926174",
+    "latitude": "42.6793079395973",
+    "tags": []
+  },
+  {
+    "id": "rock-county-brewing-company",
+    "name": "Rock County Brewing Company",
+    "brewery_type": "micro",
+    "street": "10 N Parker Dr",
+    "city": "Janesville",
+    "state": "Wisconsin",
+    "postal_code": "53545-",
+    "website_url": "http://www.rockcounty.beer",
+    "phone": "6085318120",
+    "created_at": "2018-07-24 01:34:36.421455",
+    "updated_at": "2018-08-24 16:45:12.688589",
+    "country": "United States",
+    "longitude": "-89.0217731417567",
+    "latitude": "42.6835456515041",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "101-brewery",
+    "name": "101 Brewery",
+    "brewery_type": "brewpub",
+    "street": "294793 US Highway 101",
+    "city": "Quilcene",
+    "state": "Washington",
+    "postal_code": "98376-9000",
+    "website_url": "http://www.101brewery.com",
+    "phone": "3607656485",
+    "created_at": "2018-07-24 01:34:27.649117",
+    "updated_at": "2018-08-11 21:40:11.160632",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

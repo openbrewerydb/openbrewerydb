@@ -1,0 +1,53 @@
+[
+  {
+    "id": "river-bend-brewing",
+    "name": "River Bend Brewing",
+    "brewery_type": "micro",
+    "street": "113 River Bend Rd",
+    "city": "Hailey",
+    "state": "Idaho",
+    "postal_code": "83333-",
+    "website_url": "",
+    "phone": "2087888087",
+    "created_at": "2018-07-24 01:33:17.59465",
+    "updated_at": "2018-08-11 21:37:06.662198",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "sawtooth-brewery",
+    "name": "Sawtooth Brewery",
+    "brewery_type": "brewpub",
+    "street": "110 N River St",
+    "city": "Hailey",
+    "state": "Idaho",
+    "postal_code": "83333-7027",
+    "website_url": "http://www.sawtoothbrewery.com",
+    "phone": "2087208437",
+    "created_at": "2018-07-24 01:33:17.630864",
+    "updated_at": "2018-08-24 00:30:14.904742",
+    "country": "United States",
+    "longitude": "-114.319764",
+    "latitude": "43.522311",
+    "tags": []
+  },
+  {
+    "id": "sun-valley-brewing-co",
+    "name": "Sun Valley Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "202 N Main St",
+    "city": "Hailey",
+    "state": "Idaho",
+    "postal_code": "83333-8413",
+    "website_url": "",
+    "phone": "2087885777",
+    "created_at": "2018-07-24 01:33:17.69269",
+    "updated_at": "2018-08-24 00:30:17.023294",
+    "country": "United States",
+    "longitude": "-114.31636504521",
+    "latitude": "43.5210688955474",
+    "tags": []
+  }
+]

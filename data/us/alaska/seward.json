@@ -1,0 +1,19 @@
+[
+  {
+    "id": "seward-brewing",
+    "name": "Seward Brewing",
+    "brewery_type": "brewpub",
+    "street": "139 4th Ave",
+    "city": "Seward",
+    "state": "Alaska",
+    "postal_code": "99664",
+    "website_url": "http://www.sewardbrewingcompany.com",
+    "phone": "9074220337",
+    "created_at": "2018-07-24 01:32:48.453956",
+    "updated_at": "2018-08-11 21:35:46.13765",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

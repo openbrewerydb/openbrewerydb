@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kelsey-creek-brewing",
+    "name": "Kelsey Creek Brewing",
+    "brewery_type": "micro",
+    "street": "3945 Main St",
+    "city": "Kelseyville",
+    "state": "California",
+    "postal_code": "95451-7424",
+    "website_url": "http://www.kelseycreekbrewing.com",
+    "phone": "7072792311",
+    "created_at": "2018-07-24 01:32:57.327964",
+    "updated_at": "2018-08-23 23:58:27.384859",
+    "country": "United States",
+    "longitude": "-122.838290326681",
+    "latitude": "38.9778256849289",
+    "tags": []
+  }
+]

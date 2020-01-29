@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hopsters",
+    "name": "Hopsters",
+    "brewery_type": "brewpub",
+    "street": "292 Centre St",
+    "city": "Newton",
+    "state": "Massachusetts",
+    "postal_code": "02458-1618",
+    "website_url": "http://www.hopstersbrew.com",
+    "phone": "6179160752",
+    "created_at": "2018-07-24 01:33:31.176164",
+    "updated_at": "2018-08-24 00:41:25.042744",
+    "country": "United States",
+    "longitude": "-71.1852104",
+    "latitude": "42.3560516",
+    "tags": []
+  }
+]

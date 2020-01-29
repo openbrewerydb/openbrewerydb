@@ -1,0 +1,53 @@
+[
+  {
+    "id": "seven-arrows-brewing-co",
+    "name": "Seven Arrows Brewing Co.",
+    "brewery_type": "micro",
+    "street": "2508 Jefferson Hwy Ste 1",
+    "city": "Waynesboro",
+    "state": "Virginia",
+    "postal_code": "22980-6500",
+    "website_url": "http://www.sevenarrowsbrewing.com",
+    "phone": "5402216968",
+    "created_at": "2018-07-24 01:34:26.730911",
+    "updated_at": "2018-08-11 21:40:08.890482",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "stable-craft-brewing",
+    "name": "Stable Craft Brewing",
+    "brewery_type": "brewpub",
+    "street": "375 Madrid Rd",
+    "city": "Waynesboro",
+    "state": "Virginia",
+    "postal_code": "22980-6230",
+    "website_url": "http://www.stablecraftbrewing.com",
+    "phone": "5404902609",
+    "created_at": "2018-07-24 01:34:26.878948",
+    "updated_at": "2018-08-11 21:40:09.389088",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "basic-city-beer-co",
+    "name": "Basic City Beer Co.",
+    "brewery_type": "micro",
+    "street": "1010 E Main St",
+    "city": "Waynesboro",
+    "state": "Virginia",
+    "postal_code": "22980-5855",
+    "website_url": "http://www.basiccitybeer.com",
+    "phone": "8162713211",
+    "created_at": "2018-07-24 01:34:24.310965",
+    "updated_at": "2018-08-24 16:27:21.896493",
+    "country": "United States",
+    "longitude": "-78.873985877551",
+    "latitude": "38.0644451020408",
+    "tags": []
+  }
+]

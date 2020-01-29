@@ -1,0 +1,19 @@
+[
+  {
+    "id": "boondoggle-brewing",
+    "name": "Boondoggle Brewing",
+    "brewery_type": "contract",
+    "street": "553 Maple St",
+    "city": "Wethersfield",
+    "state": "Connecticut",
+    "postal_code": "06109-3732",
+    "website_url": "http://www.boondogglebeers.com",
+    "phone": "8603367366",
+    "created_at": "2018-07-24 01:33:09.160507",
+    "updated_at": "2018-08-24 00:25:25.805543",
+    "country": "United States",
+    "longitude": "-72.6645867664619",
+    "latitude": "41.6838886994306",
+    "tags": []
+  }
+]

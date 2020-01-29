@@ -1,0 +1,36 @@
+[
+  {
+    "id": "exit-6-brewery",
+    "name": "Exit 6 Brewery",
+    "brewery_type": "micro",
+    "street": "5055 Highway N Ste 112",
+    "city": "Saint Charles",
+    "state": "Missouri",
+    "postal_code": "63304-8031",
+    "website_url": "http://www.exit6brewery.com",
+    "phone": "6362444343",
+    "created_at": "2018-07-24 01:33:40.972414",
+    "updated_at": "2018-08-11 21:38:07.643042",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "trailhead-brewing-co",
+    "name": "Trailhead Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "921 S Riverside Dr",
+    "city": "Saint Charles",
+    "state": "Missouri",
+    "postal_code": "63301-3489",
+    "website_url": "http://www.trailheadbrewing.com",
+    "phone": "6369462739",
+    "created_at": "2018-07-24 01:33:41.85042",
+    "updated_at": "2018-08-24 00:46:51.278984",
+    "country": "United States",
+    "longitude": "-90.4842484281908",
+    "latitude": "38.7741905718092",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "double-nickel-brewing-company",
+    "name": "Double Nickel Brewing Company",
+    "brewery_type": "micro",
+    "street": "1585 Route 73",
+    "city": "Pennsauken",
+    "state": "New Jersey",
+    "postal_code": "08110-1330",
+    "website_url": "http://www.DNBCBEER.com",
+    "phone": "8563562499",
+    "created_at": "2018-07-24 01:33:46.641493",
+    "updated_at": "2018-08-11 21:38:23.200121",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

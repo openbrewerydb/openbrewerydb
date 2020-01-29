@@ -1,0 +1,19 @@
+[
+  {
+    "id": "outlook-farm-brewery",
+    "name": "Outlook Farm Brewery",
+    "brewery_type": "micro",
+    "street": "136 Main Rd",
+    "city": "Westhampton",
+    "state": "Massachusetts",
+    "postal_code": "01027-9673",
+    "website_url": "http://www.outlookfarm.com",
+    "phone": "4135299388",
+    "created_at": "2018-07-24 01:33:31.698613",
+    "updated_at": "2018-08-24 00:41:39.445771",
+    "country": "United States",
+    "longitude": "-72.772262",
+    "latitude": "42.285973",
+    "tags": []
+  }
+]

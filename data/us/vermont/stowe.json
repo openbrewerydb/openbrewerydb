@@ -1,0 +1,36 @@
+[
+  {
+    "id": "von-trapp-brewing",
+    "name": "Von Trapp Brewing",
+    "brewery_type": "micro",
+    "street": "1333 Luce Hill Rd",
+    "city": "Stowe",
+    "state": "Vermont",
+    "postal_code": "05672",
+    "website_url": "http://www.trappfamily.com",
+    "phone": "8022535750",
+    "created_at": "2018-07-24 01:34:23.799304",
+    "updated_at": "2018-08-24 16:26:40.123564",
+    "country": "United States",
+    "longitude": "-72.791432",
+    "latitude": "44.470714",
+    "tags": []
+  },
+  {
+    "id": "idletyme-brewing-company",
+    "name": "Idletyme Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "1859 Mountain Rd",
+    "city": "Stowe",
+    "state": "Vermont",
+    "postal_code": "05672-4890",
+    "website_url": "http://www.idletymebrewing.com",
+    "phone": "8022534765",
+    "created_at": "2018-07-24 01:34:23.412946",
+    "updated_at": "2018-08-24 16:26:01.216035",
+    "country": "United States",
+    "longitude": "-72.698401",
+    "latitude": "44.473833",
+    "tags": []
+  }
+]

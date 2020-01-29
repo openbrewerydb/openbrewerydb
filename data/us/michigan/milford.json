@@ -1,0 +1,36 @@
+[
+  {
+    "id": "chillax-brewing-company-llc",
+    "name": "CHILLAX Brewing Company LLC",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Milford",
+    "state": "Michigan",
+    "postal_code": "48381-2243",
+    "website_url": "",
+    "phone": "2483883458",
+    "created_at": "2018-07-24 01:33:33.677727",
+    "updated_at": "2018-08-11 21:37:47.561961",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "rivers-edge-brewing-co",
+    "name": "River's Edge Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "125 S Main St Ste 400",
+    "city": "Milford",
+    "state": "Michigan",
+    "postal_code": "48381-1976",
+    "website_url": "http://www.riversedgebrew.com",
+    "phone": "2486851625",
+    "created_at": "2018-07-24 01:33:36.294061",
+    "updated_at": "2018-08-11 21:37:55.253113",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "midriver-brewery",
+    "name": "Midriver Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Cold Spring",
+    "state": "New York",
+    "postal_code": "10516",
+    "website_url": "",
+    "phone": "9146611790",
+    "created_at": "2018-07-24 01:33:52.415853",
+    "updated_at": "2018-08-11 21:38:37.853557",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "new-glarus-brewing-co-riverside",
+    "name": "New Glarus Brewing Co - Riverside",
+    "brewery_type": "micro",
+    "street": "2400 State Hwy 69",
+    "city": "New Glarus",
+    "state": "Wisconsin",
+    "postal_code": "53574",
+    "website_url": "http://www.newglarusbrewing.com",
+    "phone": "6085275851",
+    "created_at": "2018-07-24 01:34:36.019624",
+    "updated_at": "2018-08-11 21:40:34.752348",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "new-glarus-brewing-co",
+    "name": "New Glarus Brewing Co",
+    "brewery_type": "regional",
+    "street": "2400 State Highway 69",
+    "city": "New Glarus",
+    "state": "Wisconsin",
+    "postal_code": "53574",
+    "website_url": "http://www.newglarusbrewing.com",
+    "phone": "6085275850",
+    "created_at": "2018-07-24 01:34:36.006634",
+    "updated_at": "2018-08-24 16:44:25.112055",
+    "country": "United States",
+    "longitude": "-89.6312918",
+    "latitude": "42.8095311",
+    "tags": []
+  }
+]

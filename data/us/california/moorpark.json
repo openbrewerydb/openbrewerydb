@@ -1,0 +1,19 @@
+[
+  {
+    "id": "enegren-brewing-co",
+    "name": "Enegren Brewing Co",
+    "brewery_type": "micro",
+    "street": "444 Zachary St Unit 120",
+    "city": "Moorpark",
+    "state": "California",
+    "postal_code": "93021-2073",
+    "website_url": "http://www.enegrenbrewing.com",
+    "phone": "8055520602",
+    "created_at": "2018-07-24 01:32:55.078205",
+    "updated_at": "2018-08-11 21:36:02.790632",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

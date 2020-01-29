@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mds-sports-tavern-and-grill",
+    "name": "MDs Sports Tavern and Grill",
+    "brewery_type": "brewpub",
+    "street": "3040 N State Rd",
+    "city": "Davison",
+    "state": "Michigan",
+    "postal_code": "48423-1146",
+    "website_url": "http://www.mdsportstavern.com",
+    "phone": "8106536408",
+    "created_at": "2018-07-24 01:33:35.463873",
+    "updated_at": "2018-08-24 00:43:34.004085",
+    "country": "United States",
+    "longitude": "-83.517313303003",
+    "latitude": "43.05021425",
+    "tags": []
+  }
+]

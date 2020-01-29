@@ -1,0 +1,19 @@
+[
+  {
+    "id": "icarus-brewing-company",
+    "name": "Icarus Brewing Company",
+    "brewery_type": "micro",
+    "street": "1790 Swarthmore Ave Unit 3 Lot 2",
+    "city": "Lakewood",
+    "state": "New Jersey",
+    "postal_code": "08701-4528",
+    "website_url": "http://www.icarusbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:46.882696",
+    "updated_at": "2018-08-11 21:38:23.889956",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

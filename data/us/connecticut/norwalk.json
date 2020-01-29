@@ -1,0 +1,19 @@
+[
+  {
+    "id": "iron-brewing-company",
+    "name": "Iron Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "136 Washington St",
+    "city": "Norwalk",
+    "state": "Connecticut",
+    "postal_code": "06854",
+    "website_url": "http://www.ironbrewing.com",
+    "phone": "2033544010",
+    "created_at": "2018-07-24 01:33:09.734238",
+    "updated_at": "2018-08-24 00:25:41.198368",
+    "country": "United States",
+    "longitude": "-73.4173495360772",
+    "latitude": "41.0988878749382",
+    "tags": []
+  }
+]

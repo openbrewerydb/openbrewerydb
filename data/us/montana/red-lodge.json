@@ -1,0 +1,19 @@
+[
+  {
+    "id": "red-lodge-ales-brewing-co",
+    "name": "Red Lodge Ales Brewing Co",
+    "brewery_type": "micro",
+    "street": "1445 N Broadway Ave",
+    "city": "Red Lodge",
+    "state": "Montana",
+    "postal_code": "59068-9383",
+    "website_url": "http://www.redlodgeales.net",
+    "phone": "4064464607",
+    "created_at": "2018-07-24 01:33:43.113752",
+    "updated_at": "2018-08-24 00:47:25.147288",
+    "country": "United States",
+    "longitude": "-109.24653926506",
+    "latitude": "45.1972705301205",
+    "tags": []
+  }
+]

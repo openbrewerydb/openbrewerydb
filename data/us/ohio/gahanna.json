@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pigskin-brewing-company",
+    "name": "Pigskin Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "81 Mill St Ste 150",
+    "city": "Gahanna",
+    "state": "Ohio",
+    "postal_code": "43230-1718",
+    "website_url": "",
+    "phone": "6149449311",
+    "created_at": "2018-07-24 01:34:02.407928",
+    "updated_at": "2018-08-11 21:39:02.940371",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

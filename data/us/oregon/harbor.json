@@ -1,0 +1,19 @@
+[
+  {
+    "id": "misty-mountain-brewery",
+    "name": "Misty Mountain Brewery",
+    "brewery_type": "brewpub",
+    "street": "15440 Museum Rd Unit B",
+    "city": "Harbor",
+    "state": "Oregon",
+    "postal_code": "97415-9519",
+    "website_url": "",
+    "phone": "5418132599",
+    "created_at": "2018-07-24 01:34:06.938011",
+    "updated_at": "2018-08-11 21:39:16.253005",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

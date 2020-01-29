@@ -1,0 +1,36 @@
+[
+  {
+    "id": "fenton-winery-and-brewery",
+    "name": "Fenton Winery & Brewery",
+    "brewery_type": "brewpub",
+    "street": "1370 N Long Lake Rd",
+    "city": "Fenton",
+    "state": "Michigan",
+    "postal_code": "48430-8867",
+    "website_url": "http://www.fentonwinery.com",
+    "phone": "8103734194",
+    "created_at": "2018-07-24 01:33:34.225786",
+    "updated_at": "2018-08-24 00:42:53.525737",
+    "country": "United States",
+    "longitude": "-83.7047087631579",
+    "latitude": "42.8515555657895",
+    "tags": []
+  },
+  {
+    "id": "lynchpin-beer-company-/-the-laundry",
+    "name": "Lynchpin Beer Company / The Laundry",
+    "brewery_type": "brewpub",
+    "street": "115 W Shiawassee Ave",
+    "city": "Fenton",
+    "state": "Michigan",
+    "postal_code": "48430-2005",
+    "website_url": "http://www.lunchandbeyond.com",
+    "phone": "8106298852",
+    "created_at": "2018-07-24 01:33:35.400454",
+    "updated_at": "2018-08-24 00:43:31.764683",
+    "country": "United States",
+    "longitude": "-83.7064281428571",
+    "latitude": "42.792852",
+    "tags": []
+  }
+]

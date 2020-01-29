@@ -1,0 +1,36 @@
+[
+  {
+    "id": "southern-hops-brewing-co",
+    "name": "Southern Hops Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "911 Sunset Acres Ln",
+    "city": "Florence",
+    "state": "South Carolina",
+    "postal_code": "29501-6073",
+    "website_url": "http://www.southernhops.com",
+    "phone": "8436671900",
+    "created_at": "2018-07-24 01:34:14.921156",
+    "updated_at": "2018-08-11 21:39:37.785346",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "seminar-brewing",
+    "name": "Seminar Brewing",
+    "brewery_type": "brewpub",
+    "street": "551 W Lucas St",
+    "city": "Florence",
+    "state": "South Carolina",
+    "postal_code": "29501-2817",
+    "website_url": "http://seminar brewing.com",
+    "phone": "8436659200",
+    "created_at": "2018-07-24 01:34:14.867854",
+    "updated_at": "2018-08-24 16:15:17.340041",
+    "country": "United States",
+    "longitude": "-79.7883766616541",
+    "latitude": "34.2209957042607",
+    "tags": []
+  }
+]

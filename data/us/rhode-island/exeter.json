@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tilted-barn-brewery",
+    "name": "Tilted Barn Brewery",
+    "brewery_type": "micro",
+    "street": "1 Helmsley Pl",
+    "city": "Exeter",
+    "state": "Rhode Island",
+    "postal_code": "02822-3740",
+    "website_url": "http://www.tiltedbarnbrewery.com",
+    "phone": "4018296088",
+    "created_at": "2018-07-24 01:34:13.915078",
+    "updated_at": "2018-08-24 16:14:00.852124",
+    "country": "United States",
+    "longitude": "-71.523075",
+    "latitude": "41.554186",
+    "tags": []
+  }
+]

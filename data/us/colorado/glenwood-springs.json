@@ -1,0 +1,53 @@
+[
+  {
+    "id": "glenwood-canyon-brewing-co",
+    "name": "Glenwood Canyon Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "402 7th St",
+    "city": "Glenwood Springs",
+    "state": "Colorado",
+    "postal_code": "81601-3406",
+    "website_url": "http://www.glenwoodcanyon.com",
+    "phone": "9709451276",
+    "created_at": "2018-07-24 01:33:05.533134",
+    "updated_at": "2018-08-24 00:23:08.569559",
+    "country": "United States",
+    "longitude": "-107.323424",
+    "latitude": "39.5476563",
+    "tags": []
+  },
+  {
+    "id": "unify-brewing-company",
+    "name": "Unify Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Glenwood Springs",
+    "state": "Colorado",
+    "postal_code": "81601-3215",
+    "website_url": "http://www.UnifyBrewing.com",
+    "phone": "8164566374",
+    "created_at": "2018-07-24 01:33:08.47086",
+    "updated_at": "2018-08-11 21:36:43.808561",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "casey-brewing-and-blending",
+    "name": "Casey Brewing and Blending",
+    "brewery_type": "micro",
+    "street": "3421 Grand Ave Ste 4D",
+    "city": "Glenwood Springs",
+    "state": "Colorado",
+    "postal_code": "81601-4493",
+    "website_url": "http://www.caseybrewing.com",
+    "phone": "9702309691",
+    "created_at": "2018-07-24 01:33:04.526894",
+    "updated_at": "2018-08-11 21:36:33.680974",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

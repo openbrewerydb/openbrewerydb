@@ -1,0 +1,36 @@
+[
+  {
+    "id": "snitz-creek-brewery",
+    "name": "Snitz Creek Brewery",
+    "brewery_type": "brewpub",
+    "street": "7 N 9th St",
+    "city": "Lebanon",
+    "state": "Pennsylvania",
+    "postal_code": "17046-4902",
+    "website_url": "http://www.snitzcreekbrewery.com",
+    "phone": "7174504467",
+    "created_at": "2018-07-24 01:34:12.639535",
+    "updated_at": "2018-08-24 16:11:59.275414",
+    "country": "United States",
+    "longitude": "-76.4263773185968",
+    "latitude": "40.3393772758069",
+    "tags": []
+  },
+  {
+    "id": "lebanon-valley-craft-brewery",
+    "name": "Lebanon Valley Craft Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Lebanon",
+    "state": "Pennsylvania",
+    "postal_code": "17046",
+    "website_url": "",
+    "phone": "5134048600",
+    "created_at": "2018-07-24 01:34:11.306094",
+    "updated_at": "2018-08-11 21:39:28.244661",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "238-brewing-company",
+    "name": "238 Brewing Company",
+    "brewery_type": "micro",
+    "street": "10321 E Day Mt Spokane Rd",
+    "city": "Mead",
+    "state": "Washington",
+    "postal_code": "99021",
+    "website_url": "http://www.238brewing.com",
+    "phone": "5092382739",
+    "created_at": "2018-07-24 01:34:27.711123",
+    "updated_at": "2018-08-11 21:40:11.273402",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "big-barn-brewing-co-/-bodacious-berries-fruits-and-brews",
+    "name": "Big Barn Brewing Co / Bodacious Berries Fruits and Brews",
+    "brewery_type": "micro",
+    "street": "16004 N Applewood Ln",
+    "city": "Mead",
+    "state": "Washington",
+    "postal_code": "99021-7818",
+    "website_url": "http://www.bigbarnbrewing.com",
+    "phone": "5097102961",
+    "created_at": "2018-07-24 01:34:28.24734",
+    "updated_at": "2018-08-11 21:40:12.366346",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "brewery-in-planning-mead",
+    "name": "Brewery in Planning - Mead",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Mead",
+    "state": "Washington",
+    "postal_code": "99021-9203",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:28.510261",
+    "updated_at": "2018-08-11 21:40:12.912026",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

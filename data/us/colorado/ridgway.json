@@ -1,0 +1,19 @@
+[
+  {
+    "id": "colorado-boy-pub-and-brewery",
+    "name": "Colorado Boy Pub & Brewery",
+    "brewery_type": "brewpub",
+    "street": "602 Clinton St.",
+    "city": "Ridgway",
+    "state": "Colorado",
+    "postal_code": "81432-0877",
+    "website_url": "http://www.coloradoboy.com",
+    "phone": "9706265333",
+    "created_at": "2018-07-24 01:33:04.703515",
+    "updated_at": "2018-08-24 00:22:35.924625",
+    "country": "United States",
+    "longitude": "-107.757768545455",
+    "latitude": "38.152358",
+    "tags": []
+  }
+]

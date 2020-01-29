@@ -1,0 +1,19 @@
+[
+  {
+    "id": "nod-hill-brewery",
+    "name": "Nod Hill Brewery",
+    "brewery_type": "micro",
+    "street": "137 Ethan Allen Hwy",
+    "city": "Ridgefield",
+    "state": "Connecticut",
+    "postal_code": "06877-6238",
+    "website_url": "http://www.nodhillbrewery.com",
+    "phone": "2036171191",
+    "created_at": "2018-07-24 01:33:09.922333",
+    "updated_at": "2018-08-24 00:25:45.771755",
+    "country": "United States",
+    "longitude": "-73.4438849111635",
+    "latitude": "41.2731614754047",
+    "tags": []
+  }
+]

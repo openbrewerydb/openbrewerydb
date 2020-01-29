@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hobbs-tavern-and-brewing-co",
+    "name": "Hobbs Tavern & Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "2415 NH Route 16",
+    "city": "West Ossipee",
+    "state": "New Hampshire",
+    "postal_code": "03890",
+    "website_url": "http://www.hobbstavern.com",
+    "phone": "6035392000",
+    "created_at": "2018-07-24 01:33:45.403912",
+    "updated_at": "2018-08-11 21:38:19.714814",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

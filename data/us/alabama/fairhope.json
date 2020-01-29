@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fairhope-brewing-co",
+    "name": "Fairhope Brewing Co",
+    "brewery_type": "micro",
+    "street": "914 Nichols Ave",
+    "city": "Fairhope",
+    "state": "Alabama",
+    "postal_code": "36532-3684",
+    "website_url": "",
+    "phone": "2512797517",
+    "created_at": "2018-07-24 01:32:47.485412",
+    "updated_at": "2018-08-23 23:20:12.518399",
+    "country": "United States",
+    "longitude": "-87.898282",
+    "latitude": "30.516291",
+    "tags": []
+  }
+]

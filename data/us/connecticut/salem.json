@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fox-farm-brewery",
+    "name": "Fox Farm Brewery",
+    "brewery_type": "micro",
+    "street": "62 Music Vale Rd",
+    "city": "Salem",
+    "state": "Connecticut",
+    "postal_code": "06420-3847",
+    "website_url": "http://foxfarmbeer.com",
+    "phone": "8602870076",
+    "created_at": "2018-07-24 01:33:09.607026",
+    "updated_at": "2018-08-24 00:25:38.289501",
+    "country": "United States",
+    "longitude": "-72.2678850580078",
+    "latitude": "41.4837007101622",
+    "tags": []
+  }
+]

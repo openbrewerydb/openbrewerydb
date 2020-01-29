@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ballast-point-brewing-company",
+    "name": "Ballast Point Brewing Company",
+    "brewery_type": "large",
+    "street": "555 International Pkwy",
+    "city": "Daleville",
+    "state": "Virginia",
+    "postal_code": "24083-3028",
+    "website_url": "",
+    "phone": "5405913059",
+    "created_at": "2018-07-24 01:34:24.253618",
+    "updated_at": "2018-08-24 16:27:17.475672",
+    "country": "United States",
+    "longitude": "-79.9138029795918",
+    "latitude": "37.435756244898",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "7th-wave-brewing",
+    "name": "7th Wave Brewing",
+    "brewery_type": "micro",
+    "street": "120 N Meadows Rd Ste 8",
+    "city": "Medfield",
+    "state": "Massachusetts",
+    "postal_code": "02052-1594",
+    "website_url": "http://www.7thwavebrewing.com",
+    "phone": "6176453397",
+    "created_at": "2018-07-24 01:33:29.970514",
+    "updated_at": "2018-08-11 21:37:38.232649",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "zelus-beer-company",
+    "name": "ZeLUS Beer Company",
+    "brewery_type": "contract",
+    "street": "120 N Meadows Rd",
+    "city": "Medfield",
+    "state": "Massachusetts",
+    "postal_code": "02052-1594",
+    "website_url": "http://www.zelusbeer.com",
+    "phone": "6275100270",
+    "created_at": "2018-07-24 01:33:32.379824",
+    "updated_at": "2018-08-24 00:41:57.900035",
+    "country": "United States",
+    "longitude": "-71.335472",
+    "latitude": "42.200799",
+    "tags": []
+  }
+]

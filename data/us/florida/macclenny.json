@@ -1,0 +1,19 @@
+[
+  {
+    "id": "crooked-rooster-brewery-llc",
+    "name": "Crooked Rooster Brewery LLC.",
+    "brewery_type": "micro",
+    "street": "1478 S 6th St",
+    "city": "Macclenny",
+    "state": "Florida",
+    "postal_code": "32063",
+    "website_url": "http://www.crookedroosterbrews.com",
+    "phone": "9046532337",
+    "created_at": "2018-07-24 01:33:12.348698",
+    "updated_at": "2018-08-24 00:26:57.261014",
+    "country": "United States",
+    "longitude": "-82.1223325",
+    "latitude": "30.2707152",
+    "tags": []
+  }
+]

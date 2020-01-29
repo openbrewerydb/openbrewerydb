@@ -1,0 +1,19 @@
+[
+  {
+    "id": "penobscot-bay-brewery",
+    "name": "Penobscot Bay Brewery",
+    "brewery_type": "micro",
+    "street": "279 South Main Street",
+    "city": "Winterport",
+    "state": "Maine",
+    "postal_code": "04496-0405",
+    "website_url": "http://www.winterportwinery.com/brewery.asp",
+    "phone": "2072234500",
+    "created_at": "2018-07-24 01:33:27.82084",
+    "updated_at": "2018-08-24 00:40:05.879705",
+    "country": "United States",
+    "longitude": "-68.847883",
+    "latitude": "44.634187",
+    "tags": []
+  }
+]

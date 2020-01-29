@@ -1,0 +1,19 @@
+[
+  {
+    "id": "timber-monster-brewing-company",
+    "name": "Timber Monster Brewing Company",
+    "brewery_type": "micro",
+    "street": "410 Main Street",
+    "city": "Sultan",
+    "state": "Washington",
+    "postal_code": "98294",
+    "website_url": "",
+    "phone": "4257500814",
+    "created_at": "2018-07-24 01:34:33.301342",
+    "updated_at": "2018-08-24 16:40:07.552568",
+    "country": "United States",
+    "longitude": "-121.816215806767",
+    "latitude": "47.8624107598155",
+    "tags": []
+  }
+]

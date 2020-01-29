@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brewery-creek-inn-restaurant-and-brewery",
+    "name": "Brewery Creek Inn, Restaurant and Brewery",
+    "brewery_type": "brewpub",
+    "street": "23 Commerce St",
+    "city": "Mineral Point",
+    "state": "Wisconsin",
+    "postal_code": "53565-1368",
+    "website_url": "http://www.brewerycreek.com",
+    "phone": "6089873298",
+    "created_at": "2018-07-24 01:34:34.695534",
+    "updated_at": "2018-08-24 16:42:16.896923",
+    "country": "United States",
+    "longitude": "-90.1771217926162",
+    "latitude": "42.8572996240752",
+    "tags": []
+  }
+]

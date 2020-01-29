@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stellwagen-beer-company",
+    "name": "Stellwagen Beer Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Marshfield",
+    "state": "Massachusetts",
+    "postal_code": "02050",
+    "website_url": "http://www.stellwagenbeer.com",
+    "phone": "7817899162",
+    "created_at": "2018-07-24 01:33:32.062908",
+    "updated_at": "2018-08-11 21:37:43.836131",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

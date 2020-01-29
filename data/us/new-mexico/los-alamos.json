@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-in-planning-los-alamos",
+    "name": "Brewery in Planning - Los Alamos",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Los Alamos",
+    "state": "New Mexico",
+    "postal_code": "87547-3829",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:47.83874",
+    "updated_at": "2018-08-11 21:38:26.304167",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "bathtub-row-brewing-co-op",
+    "name": "Bathtub Row Brewing Co-op",
+    "brewery_type": "micro",
+    "street": "163 Central Park Sq",
+    "city": "Los Alamos",
+    "state": "New Mexico",
+    "postal_code": "87544-4029",
+    "website_url": "",
+    "phone": "5055008381",
+    "created_at": "2018-07-24 01:33:47.692985",
+    "updated_at": "2018-08-24 15:37:16.682846",
+    "country": "United States",
+    "longitude": "-106.3007594",
+    "latitude": "35.8839054",
+    "tags": []
+  }
+]

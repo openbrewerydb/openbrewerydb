@@ -1,0 +1,19 @@
+[
+  {
+    "id": "figueroa-mountain-brewing-arroyo-grande",
+    "name": "Figueroa Mountain Brewing - Arroyo Grande",
+    "brewery_type": "brewpub",
+    "street": "1462 E Grand Ave",
+    "city": "Arroyo Grande",
+    "state": "California",
+    "postal_code": "93420-2448",
+    "website_url": "http://www.figmtnbrew.com",
+    "phone": "8058869275",
+    "created_at": "2018-07-24 01:32:55.418758",
+    "updated_at": "2018-08-23 23:28:22.642641",
+    "country": "United States",
+    "longitude": "-120.60595819353",
+    "latitude": "35.12102175",
+    "tags": []
+  }
+]

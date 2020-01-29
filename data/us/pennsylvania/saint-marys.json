@@ -1,0 +1,19 @@
+[
+  {
+    "id": "straub-brewery",
+    "name": "Straub Brewery",
+    "brewery_type": "regional",
+    "street": "303 Sorg St",
+    "city": "Saint Marys",
+    "state": "Pennsylvania",
+    "postal_code": "15857-1592",
+    "website_url": "http://www.straubbeer.com",
+    "phone": "8143356518",
+    "created_at": "2018-07-24 01:34:12.907556",
+    "updated_at": "2018-08-24 16:12:23.486971",
+    "country": "United States",
+    "longitude": "-78.5535282090677",
+    "latitude": "41.4258662236782",
+    "tags": []
+  }
+]

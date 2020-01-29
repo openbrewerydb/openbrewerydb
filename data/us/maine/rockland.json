@@ -1,0 +1,36 @@
+[
+  {
+    "id": "rock-harbor-brewing-co",
+    "name": "Rock Harbor Brewing Co.",
+    "brewery_type": "micro",
+    "street": "5 Payne Ave",
+    "city": "Rockland",
+    "state": "Maine",
+    "postal_code": "04841",
+    "website_url": "http://www.rockharborbrewing.com",
+    "phone": "2077017811",
+    "created_at": "2018-07-24 01:33:27.849726",
+    "updated_at": "2018-08-24 00:40:06.730528",
+    "country": "United States",
+    "longitude": "-69.127326",
+    "latitude": "44.100544",
+    "tags": []
+  },
+  {
+    "id": "rock-harbor-pub-and-brewery",
+    "name": "Rock Harbor Pub & Brewery",
+    "brewery_type": "brewpub",
+    "street": "416 Main St",
+    "city": "Rockland",
+    "state": "Maine",
+    "postal_code": "04841-3345",
+    "website_url": "",
+    "phone": "2075937488",
+    "created_at": "2018-07-24 01:33:27.866152",
+    "updated_at": "2018-08-24 00:40:07.170036",
+    "country": "United States",
+    "longitude": "-69.1090755677013",
+    "latitude": "44.1049557",
+    "tags": []
+  }
+]

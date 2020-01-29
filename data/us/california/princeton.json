@@ -1,0 +1,19 @@
+[
+  {
+    "id": "farmers-brewing-co",
+    "name": "Farmers Brewing Co",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Princeton",
+    "state": "California",
+    "postal_code": "95970-9519",
+    "website_url": "http://www.farmersbrewing.com",
+    "phone": "5306246053",
+    "created_at": "2018-07-24 01:32:55.279995",
+    "updated_at": "2018-08-23 23:28:13.525699",
+    "country": "United States",
+    "longitude": "-122.009975",
+    "latitude": "39.4032192",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tin-lizard-brewing-co",
+    "name": "Tin Lizard Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1000 W Lancaster Ave",
+    "city": "Bryn Mawr",
+    "state": "Pennsylvania",
+    "postal_code": "19010-2611",
+    "website_url": "http://www.tinlizardbrewingco.com",
+    "phone": "6105251100",
+    "created_at": "2018-07-24 01:34:13.156493",
+    "updated_at": "2018-08-24 16:12:47.205898",
+    "country": "United States",
+    "longitude": "-75.322789",
+    "latitude": "40.023568",
+    "tags": []
+  }
+]

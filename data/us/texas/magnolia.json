@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lone-pint-brewery",
+    "name": "Lone Pint Brewery",
+    "brewery_type": "micro",
+    "street": "507 Commerce St",
+    "city": "Magnolia",
+    "state": "Texas",
+    "postal_code": "77355-8520",
+    "website_url": "http://www.lonepint.com",
+    "phone": "2817315466",
+    "created_at": "2018-07-24 01:34:20.156842",
+    "updated_at": "2018-08-24 16:21:46.126145",
+    "country": "United States",
+    "longitude": "-95.751352",
+    "latitude": "30.2089852",
+    "tags": []
+  }
+]

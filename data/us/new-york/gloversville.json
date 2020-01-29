@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stump-city-brewing-llc",
+    "name": "Stump City Brewing LLC",
+    "brewery_type": "micro",
+    "street": "521 W Fulton Street Ext",
+    "city": "Gloversville",
+    "state": "New York",
+    "postal_code": "12078-6309",
+    "website_url": "http://www.stumpcitybrewing.com",
+    "phone": "5188310722",
+    "created_at": "2018-07-24 01:33:53.861372",
+    "updated_at": "2018-08-11 21:38:42.081176",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

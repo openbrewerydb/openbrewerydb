@@ -1,0 +1,19 @@
+[
+  {
+    "id": "gotahold-brewing-company",
+    "name": "Gotahold Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Eureka Springs",
+    "state": "Arkansas",
+    "postal_code": "72632",
+    "website_url": "",
+    "phone": "8023569163",
+    "created_at": "2018-07-24 01:32:50.579824",
+    "updated_at": "2018-08-23 23:23:19.487925",
+    "country": "United States",
+    "longitude": "-93.7392419",
+    "latitude": "36.4000796",
+    "tags": []
+  }
+]

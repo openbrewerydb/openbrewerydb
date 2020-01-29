@@ -1,0 +1,36 @@
+[
+  {
+    "id": "clermont-brewing-company",
+    "name": "Clermont Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Clermont",
+    "state": "Florida",
+    "postal_code": "34711-2108",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:12.213854",
+    "updated_at": "2018-08-11 21:36:52.809447",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "suncreek-brewery",
+    "name": "Suncreek Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Clermont",
+    "state": "Florida",
+    "postal_code": "34711-2135",
+    "website_url": "http://www.suncreekbrewery.com",
+    "phone": "4078508810",
+    "created_at": "2018-07-24 01:33:14.689903",
+    "updated_at": "2018-08-11 21:36:58.972436",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

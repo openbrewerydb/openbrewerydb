@@ -1,0 +1,19 @@
+[
+  {
+    "id": "granite-city-food-and-brewery",
+    "name": "Granite City Food & Brewery",
+    "brewery_type": "brewpub",
+    "street": "200 American Way",
+    "city": "Oxon Hill",
+    "state": "Maryland",
+    "postal_code": "20745-4502",
+    "website_url": "",
+    "phone": "2404933900",
+    "created_at": "2018-07-24 01:33:29.053464",
+    "updated_at": "2018-08-11 21:37:36.305642",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

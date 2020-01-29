@@ -1,0 +1,19 @@
+[
+  {
+    "id": "granite-falls-brewing-co",
+    "name": "Granite Falls Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "47 Duke St",
+    "city": "Granite Falls",
+    "state": "North Carolina",
+    "postal_code": "28630-1807",
+    "website_url": "http://www.GraniteFallsBrewing.com",
+    "phone": "8282121399",
+    "created_at": "2018-07-24 01:33:56.457364",
+    "updated_at": "2018-08-24 15:41:49.586356",
+    "country": "United States",
+    "longitude": "-81.4285158",
+    "latitude": "35.7894173",
+    "tags": []
+  }
+]

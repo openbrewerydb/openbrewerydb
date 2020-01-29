@@ -1,0 +1,36 @@
+[
+  {
+    "id": "taps-fish-house-and-brewery-brea",
+    "name": "TAPS Fish House and Brewery - Brea",
+    "brewery_type": "brewpub",
+    "street": "101 E Imperial Hwy",
+    "city": "Brea",
+    "state": "California",
+    "postal_code": "92821-4924",
+    "website_url": "http://www.tapsbrea.com",
+    "phone": "7142570101",
+    "created_at": "2018-07-24 01:33:01.802734",
+    "updated_at": "2018-08-24 00:03:37.619237",
+    "country": "United States",
+    "longitude": "-117.9018387",
+    "latitude": "33.9171643",
+    "tags": []
+  },
+  {
+    "id": "bjs-restaurant-and-brewery-brea",
+    "name": "BJs Restaurant & Brewery - Brea",
+    "brewery_type": "brewpub",
+    "street": "600 Brea Mall Dr",
+    "city": "Brea",
+    "state": "California",
+    "postal_code": "92821-5764",
+    "website_url": "http://www.bjsrestaurants.com",
+    "phone": "7149902095",
+    "created_at": "2018-07-24 01:32:52.583675",
+    "updated_at": "2018-08-23 23:25:28.578212",
+    "country": "United States",
+    "longitude": "-117.88632452245",
+    "latitude": "33.9152037",
+    "tags": []
+  }
+]

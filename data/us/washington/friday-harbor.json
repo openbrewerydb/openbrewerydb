@@ -1,0 +1,36 @@
+[
+  {
+    "id": "friday-harbor-brewing",
+    "name": "Friday Harbor Brewing",
+    "brewery_type": "micro",
+    "street": "665B Mullis St",
+    "city": "Friday Harbor",
+    "state": "Washington",
+    "postal_code": "98250-7902",
+    "website_url": "http://www.fridayharborbrewhouse.com",
+    "phone": "3603786205",
+    "created_at": "2018-07-24 01:34:29.943247",
+    "updated_at": "2018-08-24 16:35:06.946504",
+    "country": "United States",
+    "longitude": "-123.022332659091",
+    "latitude": "48.5302680302843",
+    "tags": []
+  },
+  {
+    "id": "san-juan-island-brewing-company",
+    "name": "San Juan Island Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "410 A St",
+    "city": "Friday Harbor",
+    "state": "Washington",
+    "postal_code": "98250",
+    "website_url": "http://www.sanjuanbrew.com",
+    "phone": "3603782017",
+    "created_at": "2018-07-24 01:34:32.644943",
+    "updated_at": "2018-08-24 16:39:02.719852",
+    "country": "United States",
+    "longitude": "-123.015023275862",
+    "latitude": "48.5327654137931",
+    "tags": []
+  }
+]

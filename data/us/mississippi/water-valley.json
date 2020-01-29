@@ -1,0 +1,19 @@
+[
+  {
+    "id": "yalobusha-brewing-company",
+    "name": "Yalobusha Brewing Company",
+    "brewery_type": "micro",
+    "street": "102 S Main St",
+    "city": "Water Valley",
+    "state": "Mississippi",
+    "postal_code": "38965-2906",
+    "website_url": "http://www.yalobrew.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:40.339951",
+    "updated_at": "2018-08-24 00:46:08.371565",
+    "country": "United States",
+    "longitude": "-89.6366568",
+    "latitude": "34.1422633",
+    "tags": []
+  }
+]

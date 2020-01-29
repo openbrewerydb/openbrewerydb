@@ -1,0 +1,19 @@
+[
+  {
+    "id": "big-bend-brewing-co",
+    "name": "Big Bend Brewing Co",
+    "brewery_type": "micro",
+    "street": "3401 W Highway 90",
+    "city": "Alpine",
+    "state": "Texas",
+    "postal_code": "79830-4127",
+    "website_url": "http://www.bigbendbrewing.com",
+    "phone": "4328373700",
+    "created_at": "2018-07-24 01:34:17.924893",
+    "updated_at": "2018-08-11 21:39:46.352635",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

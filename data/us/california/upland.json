@@ -1,0 +1,53 @@
+[
+  {
+    "id": "last-name-brewing",
+    "name": "Last Name Brewing",
+    "brewery_type": "micro",
+    "street": "2120 Porterfield Way",
+    "city": "Upland",
+    "state": "California",
+    "postal_code": "91786-2111",
+    "website_url": "http://www.lastnamebrewing.com",
+    "phone": "9095790032",
+    "created_at": "2018-07-24 01:32:57.617801",
+    "updated_at": "2018-08-11 21:36:11.407479",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "rescue-brewing-co",
+    "name": "Rescue Brewing Co",
+    "brewery_type": "micro",
+    "street": "167 N 2nd Ave",
+    "city": "Upland",
+    "state": "California",
+    "postal_code": "91786-6019",
+    "website_url": "http://www.rescuebrewingco.com",
+    "phone": "9095362739",
+    "created_at": "2018-07-24 01:32:59.881406",
+    "updated_at": "2018-08-24 00:01:24.421404",
+    "country": "United States",
+    "longitude": "-117.648520315882",
+    "latitude": "34.0958210564326",
+    "tags": []
+  },
+  {
+    "id": "rok-house-brewing-co-llc",
+    "name": "Rok House Brewing Co., LLC",
+    "brewery_type": "micro",
+    "street": "1939 W 11th St Ste A",
+    "city": "Upland",
+    "state": "California",
+    "postal_code": "91786-3559",
+    "website_url": "http://www.rokhousebrewing.com",
+    "phone": "9099810020",
+    "created_at": "2018-07-24 01:33:00.185444",
+    "updated_at": "2018-08-11 21:36:18.292501",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

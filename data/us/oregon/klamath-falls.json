@@ -1,0 +1,36 @@
+[
+  {
+    "id": "klamath-basin-brewing-co",
+    "name": "Klamath Basin Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1320 Main St",
+    "city": "Klamath Falls",
+    "state": "Oregon",
+    "postal_code": "97601-5914",
+    "website_url": "http://www.kbbrewing.com",
+    "phone": "5412735222",
+    "created_at": "2018-07-24 01:34:06.3599",
+    "updated_at": "2018-08-24 16:02:23.880091",
+    "country": "United States",
+    "longitude": "-121.7763705",
+    "latitude": "42.2280361",
+    "tags": []
+  },
+  {
+    "id": "mia-and-pias-pizzeria/brewhouse",
+    "name": "Mia and Pias Pizzeria/Brewhouse",
+    "brewery_type": "brewpub",
+    "street": "3545 Summers Ln",
+    "city": "Klamath Falls",
+    "state": "Oregon",
+    "postal_code": "97603-7411",
+    "website_url": "",
+    "phone": "5418844880",
+    "created_at": "2018-07-24 01:34:06.900343",
+    "updated_at": "2018-08-24 16:03:23.025617",
+    "country": "United States",
+    "longitude": "-121.737571924922",
+    "latitude": "42.1932497819248",
+    "tags": []
+  }
+]

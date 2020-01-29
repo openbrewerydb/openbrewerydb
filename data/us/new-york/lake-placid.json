@@ -1,0 +1,53 @@
+[
+  {
+    "id": "big-slide-brewery",
+    "name": "Big Slide Brewery",
+    "brewery_type": "brewpub",
+    "street": "5686 Cascade Road",
+    "city": "Lake Placid",
+    "state": "New York",
+    "postal_code": "12946",
+    "website_url": "http://www.bigslidebrewery.com",
+    "phone": "5185237844",
+    "created_at": "2018-07-24 01:33:49.406361",
+    "updated_at": "2018-08-24 15:38:08.685015",
+    "country": "United States",
+    "longitude": "-73.9697761501818",
+    "latitude": "44.2646123713898",
+    "tags": []
+  },
+  {
+    "id": "great-adirondack-brewing-company",
+    "name": "Great Adirondack Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "2442 Main St",
+    "city": "Lake Placid",
+    "state": "New York",
+    "postal_code": "12946-3300",
+    "website_url": "http://www.adksteakandseafood.com",
+    "phone": "5185231629",
+    "created_at": "2018-07-24 01:33:51.329923",
+    "updated_at": "2018-08-24 15:39:08.980387",
+    "country": "United States",
+    "longitude": "-73.985385",
+    "latitude": "44.288397",
+    "tags": []
+  },
+  {
+    "id": "lake-placid-pub-and-brewery",
+    "name": "Lake Placid Pub and Brewery",
+    "brewery_type": "brewpub",
+    "street": "813 Mirror Lake Dr",
+    "city": "Lake Placid",
+    "state": "New York",
+    "postal_code": "12946-3829",
+    "website_url": "http://www.ubuale.com",
+    "phone": "5185233813",
+    "created_at": "2018-07-24 01:33:52.118798",
+    "updated_at": "2018-08-24 15:39:34.120499",
+    "country": "United States",
+    "longitude": "-73.9810830644859",
+    "latitude": "44.2834097317484",
+    "tags": []
+  }
+]

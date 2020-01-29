@@ -1,0 +1,19 @@
+[
+  {
+    "id": "buon-appetito-ristorante",
+    "name": "Buon Appetito Ristorante",
+    "brewery_type": "brewpub",
+    "street": "6147 York Rd",
+    "city": "Spring Grove",
+    "state": "Pennsylvania",
+    "postal_code": "17362-9120",
+    "website_url": "http://www.buon-appetito-ristorante.com",
+    "phone": "7172250666",
+    "created_at": "2018-07-24 01:34:09.641537",
+    "updated_at": "2018-08-11 21:39:24.474046",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

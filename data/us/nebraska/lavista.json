@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kros-strain-brewing-company",
+    "name": "Kros Strain Brewing Company",
+    "brewery_type": "micro",
+    "street": "10411 Portal Rd, Ste 102",
+    "city": "LaVista",
+    "state": "Nebraska",
+    "postal_code": "68128-5527",
+    "website_url": "http://www.krosstrainbrewing.com",
+    "phone": "4027797990",
+    "created_at": "2018-07-24 01:33:43.791827",
+    "updated_at": "2018-08-11 21:38:15.682229",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

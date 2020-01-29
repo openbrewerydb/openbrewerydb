@@ -1,0 +1,19 @@
+[
+  {
+    "id": "eb-coffee-and-pub",
+    "name": "EB Coffee and Pub",
+    "brewery_type": "brewpub",
+    "street": "8980 N Rodgers Ct SE",
+    "city": "Caledonia",
+    "state": "Michigan",
+    "postal_code": "49316-8051",
+    "website_url": "http://www.ebcoffeepub.com",
+    "phone": "6168917700",
+    "created_at": "2018-07-24 01:33:34.09044",
+    "updated_at": "2018-08-24 00:42:48.755467",
+    "country": "United States",
+    "longitude": "-85.5083933304401",
+    "latitude": "42.8014568202072",
+    "tags": []
+  }
+]

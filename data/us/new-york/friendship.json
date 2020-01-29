@@ -1,0 +1,19 @@
+[
+  {
+    "id": "country-town-farm-brewery",
+    "name": "Country Town Farm Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Friendship",
+    "state": "New York",
+    "postal_code": "14739",
+    "website_url": "",
+    "phone": "5858088995",
+    "created_at": "2018-07-24 01:33:50.414094",
+    "updated_at": "2018-08-11 21:38:32.872827",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

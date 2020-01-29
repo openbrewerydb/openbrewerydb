@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cedar-creek-brewing-co",
+    "name": "Cedar Creek Brewing Co.",
+    "brewery_type": "micro",
+    "street": "3820 Leonard Rd",
+    "city": "Martinsville",
+    "state": "Indiana",
+    "postal_code": "46151-5600",
+    "website_url": "http://www.drinkatthecreek.com",
+    "phone": "7653429000",
+    "created_at": "2018-07-24 01:33:21.687648",
+    "updated_at": "2018-08-11 21:37:18.42965",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "three-pints-brewpub",
+    "name": "Three Pints Brewpub",
+    "brewery_type": "brewpub",
+    "street": "610 W Mitchell Ave",
+    "city": "Martinsville",
+    "state": "Indiana",
+    "postal_code": "46151-2734",
+    "website_url": "http://www.threepints.com",
+    "phone": "7653499888",
+    "created_at": "2018-07-24 01:33:23.048177",
+    "updated_at": "2018-08-11 21:37:21.973652",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

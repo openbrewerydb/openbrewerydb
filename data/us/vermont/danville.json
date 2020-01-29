@@ -1,0 +1,19 @@
+[
+  {
+    "id": "red-barn-brewing",
+    "name": "Red Barn Brewing",
+    "brewery_type": "micro",
+    "street": "2170 Oneida Rd",
+    "city": "Danville",
+    "state": "Vermont",
+    "postal_code": "05828-",
+    "website_url": "http://www.redbarnbrewingvt.com",
+    "phone": "8026849749",
+    "created_at": "2018-07-24 01:34:23.63971",
+    "updated_at": "2018-08-24 16:26:23.825803",
+    "country": "United States",
+    "longitude": "-72.1774857648902",
+    "latitude": "44.3946042903555",
+    "tags": []
+  }
+]

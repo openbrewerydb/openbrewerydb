@@ -1,0 +1,19 @@
+[
+  {
+    "id": "public-house-brewing-co",
+    "name": "Public House Brewing Co",
+    "brewery_type": "micro",
+    "street": "551 State Route B",
+    "city": "Saint James",
+    "state": "Missouri",
+    "postal_code": "65559-1055",
+    "website_url": "http://www.publichousebrewery.com",
+    "phone": "5732613333",
+    "created_at": "2018-07-24 01:33:41.556411",
+    "updated_at": "2018-08-11 21:38:08.953573",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

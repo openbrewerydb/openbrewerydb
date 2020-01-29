@@ -1,0 +1,53 @@
+[
+  {
+    "id": "saint-somewhere-brewing-co",
+    "name": "Saint Somewhere Brewing Co",
+    "brewery_type": "micro",
+    "street": "312 E Tarpon Ave",
+    "city": "Tarpon Springs",
+    "state": "Florida",
+    "postal_code": "34689-4320",
+    "website_url": "http://www.saintsomewherebrewing.com",
+    "phone": "8135036181",
+    "created_at": "2018-07-24 01:33:14.446788",
+    "updated_at": "2018-08-24 00:28:22.329916",
+    "country": "United States",
+    "longitude": "-82.7533537346939",
+    "latitude": "28.1461555102041",
+    "tags": []
+  },
+  {
+    "id": "silverking-brewing-company",
+    "name": "Silverking Brewing Company",
+    "brewery_type": "micro",
+    "street": "325 E Lemon St",
+    "city": "Tarpon Springs",
+    "state": "Florida",
+    "postal_code": "34689-4309",
+    "website_url": "http://www.silverkingbrewing.com",
+    "phone": "7276472524",
+    "created_at": "2018-07-24 01:33:14.568253",
+    "updated_at": "2018-08-24 00:28:27.328396",
+    "country": "United States",
+    "longitude": "-82.7532536938776",
+    "latitude": "28.1450902653061",
+    "tags": []
+  },
+  {
+    "id": "two-frogs-brewing-company",
+    "name": "Two Frogs Brewing Company",
+    "brewery_type": "micro",
+    "street": "151 E Tarpon Ave",
+    "city": "Tarpon Springs",
+    "state": "Florida",
+    "postal_code": "34689-3451",
+    "website_url": "",
+    "phone": "7279406077",
+    "created_at": "2018-07-24 01:33:15.035664",
+    "updated_at": "2018-08-24 00:28:44.180904",
+    "country": "United States",
+    "longitude": "-82.7550308787879",
+    "latitude": "28.1463248181818",
+    "tags": []
+  }
+]

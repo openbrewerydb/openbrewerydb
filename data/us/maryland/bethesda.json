@@ -1,0 +1,36 @@
+[
+  {
+    "id": "rock-bottom-brewery-bethesda",
+    "name": "Rock Bottom Brewery - Bethesda",
+    "brewery_type": "brewpub",
+    "street": "7900 Norfolk Ave",
+    "city": "Bethesda",
+    "state": "Maryland",
+    "postal_code": "20814-2502",
+    "website_url": "http://www.rockbottom.com",
+    "phone": "3016521311",
+    "created_at": "2018-07-24 01:33:29.55252",
+    "updated_at": "2018-08-24 00:40:45.335139",
+    "country": "United States",
+    "longitude": "-77.0976716",
+    "latitude": "38.9890033",
+    "tags": []
+  },
+  {
+    "id": "tuppers-hop-pocket-ale",
+    "name": "Tuppers Hop Pocket Ale",
+    "brewery_type": "contract",
+    "street": "6404 Redwing Rd",
+    "city": "Bethesda",
+    "state": "Maryland",
+    "postal_code": "20817-5920",
+    "website_url": "http://www.tuppersbeers.com",
+    "phone": "3012292027",
+    "created_at": "2018-07-24 01:33:29.811655",
+    "updated_at": "2018-08-11 21:37:37.923966",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

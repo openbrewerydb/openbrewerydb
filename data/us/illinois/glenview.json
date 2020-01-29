@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ten-ninety-brewing-co",
+    "name": "Ten Ninety Brewing Co",
+    "brewery_type": "micro",
+    "street": "1025 Waukegan Rd",
+    "city": "Glenview",
+    "state": "Illinois",
+    "postal_code": "60025",
+    "website_url": "http://www.ten-ninety.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:20.818614",
+    "updated_at": "2018-08-24 00:32:12.72955",
+    "country": "United States",
+    "longitude": "-87.7996254",
+    "latitude": "42.0589281",
+    "tags": []
+  }
+]

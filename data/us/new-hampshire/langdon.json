@@ -1,0 +1,19 @@
+[
+  {
+    "id": "monadnock-brewing-company-llc",
+    "name": "Monadnock Brewing Company LLC",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Langdon",
+    "state": "New Hampshire",
+    "postal_code": "03602-8604",
+    "website_url": "http://www.monadnockbrewing.com",
+    "phone": "6033136317",
+    "created_at": "2018-07-24 01:33:45.530844",
+    "updated_at": "2018-08-11 21:38:20.311712",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

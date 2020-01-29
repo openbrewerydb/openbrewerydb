@@ -1,0 +1,36 @@
+[
+  {
+    "id": "seneca-lodge-craft-brewing-at-seneca-lodge",
+    "name": "Seneca Lodge Craft Brewing At Seneca Lodge",
+    "brewery_type": "brewpub",
+    "street": "3600 Walnut Rd",
+    "city": "Watkins Glen",
+    "state": "New York",
+    "postal_code": "14891-0272",
+    "website_url": "http://www.senecalodge.com",
+    "phone": "6075352014",
+    "created_at": "2018-07-24 01:33:53.471093",
+    "updated_at": "2018-08-24 15:40:15.622315",
+    "country": "United States",
+    "longitude": "-76.873392",
+    "latitude": "42.369461",
+    "tags": []
+  },
+  {
+    "id": "roosterfish-brewing-co",
+    "name": "Roosterfish Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "301 N Franklin St",
+    "city": "Watkins Glen",
+    "state": "New York",
+    "postal_code": "14891-1202",
+    "website_url": "http://www.roosterfishbrewing.com",
+    "phone": "6075359797",
+    "created_at": "2018-07-24 01:33:53.19389",
+    "updated_at": "2018-08-24 15:40:07.063747",
+    "country": "United States",
+    "longitude": "-76.87362",
+    "latitude": "42.38063",
+    "tags": []
+  }
+]

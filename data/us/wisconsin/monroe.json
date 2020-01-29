@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bullquarian-brewhouse-llc",
+    "name": "Bullquarian Brewhouse, LLC",
+    "brewery_type": "brewpub",
+    "street": "1128 17th Ave",
+    "city": "Monroe",
+    "state": "Wisconsin",
+    "postal_code": "53566-2007",
+    "website_url": "",
+    "phone": "6084266720",
+    "created_at": "2018-07-24 01:34:34.866586",
+    "updated_at": "2018-08-24 16:42:25.901074",
+    "country": "United States",
+    "longitude": "-89.6383092995843",
+    "latitude": "42.60032375",
+    "tags": []
+  },
+  {
+    "id": "minhas-craft-brewery",
+    "name": "Minhas Craft Brewery",
+    "brewery_type": "regional",
+    "street": "1208 14th Ave",
+    "city": "Monroe",
+    "state": "Wisconsin",
+    "postal_code": "53566-2055",
+    "website_url": "http://www.minhasbrewery.com",
+    "phone": "6083289120",
+    "created_at": "2018-07-24 01:34:35.925633",
+    "updated_at": "2018-08-24 16:44:17.35575",
+    "country": "United States",
+    "longitude": "-89.641509",
+    "latitude": "42.5986305132204",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "hoodoo-brewing-co",
+    "name": "HooDoo Brewing Co",
+    "brewery_type": "micro",
+    "street": "1951 Fox Ave",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "postal_code": "99701-2701",
+    "website_url": "http://www.hoodoobrew.com",
+    "phone": "9074592337",
+    "created_at": "2018-07-24 01:32:48.221957",
+    "updated_at": "2018-08-23 23:20:52.424551",
+    "country": "United States",
+    "longitude": "-147.759819939718",
+    "latitude": "64.8485550111944",
+    "tags": []
+  },
+  {
+    "id": "midnite-mine-brewpub",
+    "name": "Midnite Mine Brewpub",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "postal_code": "99701-4838",
+    "website_url": "",
+    "phone": "9073784067",
+    "created_at": "2018-07-24 01:32:48.365397",
+    "updated_at": "2018-08-23 23:21:00.948738",
+    "country": "United States",
+    "longitude": "-147.716675",
+    "latitude": "64.837845",
+    "tags": []
+  }
+]

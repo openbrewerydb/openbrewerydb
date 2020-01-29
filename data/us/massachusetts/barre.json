@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stone-cow-brewery",
+    "name": "Stone Cow Brewery",
+    "brewery_type": "micro",
+    "street": "500 West St (Route 122)",
+    "city": "Barre",
+    "state": "Massachusetts",
+    "postal_code": "01005",
+    "website_url": "",
+    "phone": "4135526048",
+    "created_at": "2018-07-24 01:33:32.087499",
+    "updated_at": "2018-08-11 21:37:43.893504",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

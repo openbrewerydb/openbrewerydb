@@ -1,0 +1,36 @@
+[
+  {
+    "id": "clubhouse-brewing-company-ltd",
+    "name": "Clubhouse Brewing Company Ltd",
+    "brewery_type": "micro",
+    "street": "668 N River Rd NW",
+    "city": "Warren",
+    "state": "Ohio",
+    "postal_code": "44483",
+    "website_url": "",
+    "phone": "3305487854",
+    "created_at": "2018-07-24 01:34:00.256668",
+    "updated_at": "2018-08-24 15:43:38.690746",
+    "country": "United States",
+    "longitude": "-80.8267686739182",
+    "latitude": "41.2660285565131",
+    "tags": []
+  },
+  {
+    "id": "modern-methods-brewing-company",
+    "name": "Modern Methods Brewing Company",
+    "brewery_type": "micro",
+    "street": "125 David Grohl Alley",
+    "city": "Warren",
+    "state": "Ohio",
+    "postal_code": "44481",
+    "website_url": "http://www.modernmethodsbrew.com",
+    "phone": "3303331594",
+    "created_at": "2018-07-24 01:34:01.855138",
+    "updated_at": "2018-08-11 21:39:01.498465",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "full-spectrum-brewing-co",
+    "name": "Full Spectrum Brewing Co",
+    "brewery_type": "micro",
+    "street": "2180 Carolina Place Dr Ste 101",
+    "city": "Fort Mill",
+    "state": "South Carolina",
+    "postal_code": "29708-7002",
+    "website_url": "http://www.fullspectrumbrewingco.com",
+    "phone": "8037924556",
+    "created_at": "2018-07-24 01:34:14.423827",
+    "updated_at": "2018-08-24 16:14:38.16636",
+    "country": "United States",
+    "longitude": "-80.9664999359971",
+    "latitude": "35.0326818386014",
+    "tags": []
+  }
+]

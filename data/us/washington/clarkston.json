@@ -1,0 +1,19 @@
+[
+  {
+    "id": "riverport-brewing-co",
+    "name": "Riverport Brewing Co",
+    "brewery_type": "micro",
+    "street": "150 9th St Ste B",
+    "city": "Clarkston",
+    "state": "Washington",
+    "postal_code": "99403-1856",
+    "website_url": "http://www.riverportbrewing.com",
+    "phone": "5097588889",
+    "created_at": "2018-07-24 01:34:32.491785",
+    "updated_at": "2018-08-11 21:40:24.908084",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

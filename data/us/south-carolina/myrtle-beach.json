@@ -1,0 +1,53 @@
+[
+  {
+    "id": "new-south-brewing-co",
+    "name": "New South Brewing Co",
+    "brewery_type": "micro",
+    "street": "1109 Campbell St",
+    "city": "Myrtle Beach",
+    "state": "South Carolina",
+    "postal_code": "29577-3527",
+    "website_url": "http://www.newsouthbrewing.com",
+    "phone": "8439162337",
+    "created_at": "2018-07-24 01:34:14.684799",
+    "updated_at": "2018-08-24 16:14:56.181352",
+    "country": "United States",
+    "longitude": "-78.8898911334989",
+    "latitude": "33.6973479679603",
+    "tags": []
+  },
+  {
+    "id": "gordon-biersch-brewery-restaurant-myrtle-beach",
+    "name": "Gordon Biersch Brewery Restaurant - Myrtle Beach",
+    "brewery_type": "brewpub",
+    "street": "3060 Howard Ave",
+    "city": "Myrtle Beach",
+    "state": "South Carolina",
+    "postal_code": "29577-1643",
+    "website_url": "http://www.craftworksrestaurants.com",
+    "phone": "8438390249",
+    "created_at": "2018-07-24 01:34:14.474338",
+    "updated_at": "2018-08-24 16:14:41.209627",
+    "country": "United States",
+    "longitude": "-78.939092",
+    "latitude": "33.668327",
+    "tags": []
+  },
+  {
+    "id": "liberty-steakhouse-and-brewery",
+    "name": "Liberty Steakhouse and Brewery",
+    "brewery_type": "brewpub",
+    "street": "1321 Celebrity Cir",
+    "city": "Myrtle Beach",
+    "state": "South Carolina",
+    "postal_code": "29577-7445",
+    "website_url": "http://www.libertybreweryandgrill.com/home",
+    "phone": "8436264677",
+    "created_at": "2018-07-24 01:34:14.605804",
+    "updated_at": "2018-08-24 16:14:50.143771",
+    "country": "United States",
+    "longitude": "-78.8794320626304",
+    "latitude": "33.7193132439979",
+    "tags": []
+  }
+]

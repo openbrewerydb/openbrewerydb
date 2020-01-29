@@ -1,0 +1,19 @@
+[
+  {
+    "id": "river-hawk-brewing",
+    "name": "River Hawk Brewing",
+    "brewery_type": "micro",
+    "street": "24735 W Eames St",
+    "city": "Channahon",
+    "state": "Illinois",
+    "postal_code": "60410-8705",
+    "website_url": "http://www.riverhawkbrewing.com",
+    "phone": "8152552202",
+    "created_at": "2018-07-24 01:33:20.437234",
+    "updated_at": "2018-08-24 00:32:00.25491",
+    "country": "United States",
+    "longitude": "-88.2173202524447",
+    "latitude": "41.4354253920254",
+    "tags": []
+  }
+]

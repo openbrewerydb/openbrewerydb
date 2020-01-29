@@ -1,0 +1,19 @@
+[
+  {
+    "id": "beachfly-brewing-company",
+    "name": "BeachFly Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Indian Harbour Beach",
+    "state": "Florida",
+    "postal_code": "32937",
+    "website_url": "",
+    "phone": "3214124900",
+    "created_at": "2018-07-24 01:33:11.474546",
+    "updated_at": "2018-08-11 21:36:51.149503",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "7th-settlement-brewery",
+    "name": "7th Settlement Brewery",
+    "brewery_type": "brewpub",
+    "street": "47 Washington St",
+    "city": "Dover",
+    "state": "New Hampshire",
+    "postal_code": "03820-3877",
+    "website_url": "http://www.7thsettlement.com",
+    "phone": "6033731001",
+    "created_at": "2018-07-24 01:33:44.88778",
+    "updated_at": "2018-08-24 15:35:53.022305",
+    "country": "United States",
+    "longitude": "-70.872837902544",
+    "latitude": "43.1953787",
+    "tags": []
+  },
+  {
+    "id": "garrison-city-beerworks",
+    "name": "Garrison City Beerworks",
+    "brewery_type": "micro",
+    "street": "455 Central Ave",
+    "city": "Dover",
+    "state": "New Hampshire",
+    "postal_code": "03820-3406",
+    "website_url": "http://www.GarrisonCityBeerworks.com",
+    "phone": "6033434231",
+    "created_at": "2018-07-24 01:33:45.325063",
+    "updated_at": "2018-08-24 15:36:05.122743",
+    "country": "United States",
+    "longitude": "-70.8739150714286",
+    "latitude": "43.1975976071429",
+    "tags": []
+  }
+]

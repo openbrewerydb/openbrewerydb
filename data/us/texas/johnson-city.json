@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pecan-street-brewing-co",
+    "name": "Pecan Street Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "106 East Pecan Drive",
+    "city": "Johnson City",
+    "state": "Texas",
+    "postal_code": "78636-1504",
+    "website_url": "http://www.pecanstreetbrewing.com",
+    "phone": "8308682131",
+    "created_at": "2018-07-24 01:34:20.688121",
+    "updated_at": "2018-08-24 16:22:27.094572",
+    "country": "United States",
+    "longitude": "-98.4113503982321",
+    "latitude": "30.2776200408824",
+    "tags": []
+  }
+]

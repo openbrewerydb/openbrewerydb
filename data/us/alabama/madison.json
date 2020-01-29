@@ -1,0 +1,53 @@
+[
+  {
+    "id": "blue-pants-brewery",
+    "name": "Blue Pants Brewery",
+    "brewery_type": "micro",
+    "street": "500 Lanier Rd, Bld 1 - Ste A",
+    "city": "Madison",
+    "state": "Alabama",
+    "postal_code": "35758-8675",
+    "website_url": "http://www.bluepantsbrew.com",
+    "phone": "2566796330",
+    "created_at": "2018-07-24 01:32:47.341973",
+    "updated_at": "2018-08-11 21:35:43.498166",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "old-black-bear-brewing",
+    "name": "Old Black Bear Brewing",
+    "brewery_type": "micro",
+    "street": "208 Main St",
+    "city": "Madison",
+    "state": "Alabama",
+    "postal_code": "35758-1813",
+    "website_url": "",
+    "phone": "2568504639",
+    "created_at": "2018-07-24 01:32:47.633848",
+    "updated_at": "2018-08-23 23:20:21.567625",
+    "country": "United States",
+    "longitude": "-86.7492240909091",
+    "latitude": "34.6932934545455",
+    "tags": []
+  },
+  {
+    "id": "rocket-republic-brewing-company",
+    "name": "Rocket Republic Brewing Company",
+    "brewery_type": "micro",
+    "street": "289 Production Ave",
+    "city": "Madison",
+    "state": "Alabama",
+    "postal_code": "35758-8991",
+    "website_url": "http://www.rocketrepublicbrewing.com",
+    "phone": "2563254677",
+    "created_at": "2018-07-24 01:32:47.693908",
+    "updated_at": "2018-08-23 23:20:24.482938",
+    "country": "United States",
+    "longitude": "-86.7740173304273",
+    "latitude": "34.6728014",
+    "tags": []
+  }
+]

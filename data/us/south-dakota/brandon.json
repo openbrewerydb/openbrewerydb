@@ -1,0 +1,19 @@
+[
+  {
+    "id": "severance-brewing-company",
+    "name": "Severance Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Brandon",
+    "state": "South Dakota",
+    "postal_code": "57005-3048",
+    "website_url": "http://www.severancebrewingcompany.com",
+    "phone": "6052164256",
+    "created_at": "2018-07-24 01:34:15.494198",
+    "updated_at": "2018-08-11 21:39:39.681958",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

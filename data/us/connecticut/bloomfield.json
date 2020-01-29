@@ -1,0 +1,36 @@
+[
+  {
+    "id": "thomas-hooker-brewing-co-llc",
+    "name": "Thomas Hooker Brewing Co LLC",
+    "brewery_type": "micro",
+    "street": "16 Tobey Rd",
+    "city": "Bloomfield",
+    "state": "Connecticut",
+    "postal_code": "06002-3522",
+    "website_url": "http://www.hookerbeer.com",
+    "phone": "8602423111",
+    "created_at": "2018-07-24 01:33:10.265174",
+    "updated_at": "2018-08-24 00:25:54.35276",
+    "country": "United States",
+    "longitude": "-72.7115431",
+    "latitude": "41.8089235",
+    "tags": []
+  },
+  {
+    "id": "back-east-brewing",
+    "name": "Back East Brewing",
+    "brewery_type": "micro",
+    "street": "1296 Blue Hills Ave Ste A",
+    "city": "Bloomfield",
+    "state": "Connecticut",
+    "postal_code": "06002-5312",
+    "website_url": "http://www.backeastbrewing.com",
+    "phone": "8602421793",
+    "created_at": "2018-07-24 01:33:09.070324",
+    "updated_at": "2018-08-11 21:36:45.155994",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

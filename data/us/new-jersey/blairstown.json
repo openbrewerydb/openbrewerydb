@@ -1,0 +1,19 @@
+[
+  {
+    "id": "buck-hill-brewery-and-restaurant",
+    "name": "Buck Hill Brewery and Restaurant",
+    "brewery_type": "brewpub",
+    "street": "45 Route 94",
+    "city": "Blairstown",
+    "state": "New Jersey",
+    "postal_code": "07825",
+    "website_url": "http://www.buckhillbrewery.com",
+    "phone": "9088545300",
+    "created_at": "2018-07-24 01:33:46.362923",
+    "updated_at": "2018-08-11 21:38:22.508241",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

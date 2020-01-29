@@ -1,0 +1,19 @@
+[
+  {
+    "id": "river-barge-brewing",
+    "name": "River Barge Brewing",
+    "brewery_type": "brewpub",
+    "street": "71 Grovedale Ln",
+    "city": "Wyalusing",
+    "state": "Pennsylvania",
+    "postal_code": "18853-7854",
+    "website_url": "http://www.riverbargebrewing.com",
+    "phone": "5707461400",
+    "created_at": "2018-07-24 01:34:12.197091",
+    "updated_at": "2018-08-11 21:39:30.300052",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "honey-hollow-brewery",
+    "name": "Honey Hollow Brewery",
+    "brewery_type": "micro",
+    "street": "376 E. Honey Rd.",
+    "city": "Earlton",
+    "state": "New York",
+    "postal_code": "12058",
+    "website_url": "http://www.honeyhollowbrewery.com",
+    "phone": "5189665560",
+    "created_at": "2018-07-24 01:33:51.640044",
+    "updated_at": "2018-08-11 21:38:36.030341",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "jarfly-brewing-co",
+    "name": "Jarfly Brewing Co",
+    "brewery_type": "micro",
+    "street": "103 W Mount Vernon St",
+    "city": "Somerset",
+    "state": "Kentucky",
+    "postal_code": "42501-1627",
+    "website_url": "http://www.jarflybrewing.com",
+    "phone": "6064254962",
+    "created_at": "2018-07-24 01:33:25.730358",
+    "updated_at": "2018-08-24 00:38:58.009062",
+    "country": "United States",
+    "longitude": "-84.6055800081565",
+    "latitude": "37.0917950355628",
+    "tags": []
+  },
+  {
+    "id": "tap-on-main-brewing-company",
+    "name": "Tap on Main Brewing Company",
+    "brewery_type": "micro",
+    "street": "601A N Main St",
+    "city": "Somerset",
+    "state": "Kentucky",
+    "postal_code": "42501",
+    "website_url": "http://www.taponmainst.com",
+    "phone": "6064511525",
+    "created_at": "2018-07-24 01:33:25.940497",
+    "updated_at": "2018-08-24 00:39:05.805222",
+    "country": "United States",
+    "longitude": "-84.608383",
+    "latitude": "37.100832",
+    "tags": []
+  }
+]

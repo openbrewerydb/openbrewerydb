@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bent-river-brewing-co",
+    "name": "Bent River Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1413 5th Ave",
+    "city": "Moline",
+    "state": "Illinois",
+    "postal_code": "61265-1335",
+    "website_url": "http://www.bentriverbrewing.com",
+    "phone": "3097972722",
+    "created_at": "2018-07-24 01:33:18.180322",
+    "updated_at": "2018-08-24 00:30:32.481336",
+    "country": "United States",
+    "longitude": "-90.5173633673469",
+    "latitude": "41.5059051632653",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "barley-forge-brewing",
+    "name": "Barley Forge Brewing",
+    "brewery_type": "micro",
+    "street": "2957 Randolph Ave Ste B",
+    "city": "Costa Mesa",
+    "state": "California",
+    "postal_code": "92626-4375",
+    "website_url": "http://www.barleyforge.com",
+    "phone": "7146412084",
+    "created_at": "2018-07-24 01:32:52.121952",
+    "updated_at": "2018-08-11 21:35:55.426175",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "gunwhale-ales",
+    "name": "Gunwhale Ales",
+    "brewery_type": "micro",
+    "street": "2960 Randolph Ave Unit A",
+    "city": "Costa Mesa",
+    "state": "California",
+    "postal_code": "92626-4312",
+    "website_url": "http://www.gunwhaleales.com",
+    "phone": "9492399074",
+    "created_at": "2018-07-24 01:32:56.118528",
+    "updated_at": "2018-08-11 21:36:05.453539",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "karl-strauss-brewing-co-costa-mesa",
+    "name": "Karl Strauss Brewing Co - Costa Mesa",
+    "brewery_type": "brewpub",
+    "street": "901 S Coast Dr Ste A",
+    "city": "Costa Mesa",
+    "state": "California",
+    "postal_code": "92626-7790",
+    "website_url": "http://www.karlstrauss.com",
+    "phone": "7145462739",
+    "created_at": "2018-07-24 01:32:57.244524",
+    "updated_at": "2018-08-11 21:36:09.850969",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

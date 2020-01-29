@@ -1,0 +1,19 @@
+[
+  {
+    "id": "only-child-brewing-company",
+    "name": "Only Child Brewing Company",
+    "brewery_type": "micro",
+    "street": "1350 Tri State Pkwy Ste 124",
+    "city": "Gurnee",
+    "state": "Illinois",
+    "postal_code": "60031-9135",
+    "website_url": "http://www.onlychildbrewing.com",
+    "phone": "2246565241",
+    "created_at": "2018-07-24 01:33:20.123811",
+    "updated_at": "2018-08-24 00:31:46.492452",
+    "country": "United States",
+    "longitude": "-87.9558129",
+    "latitude": "42.3826426",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "charter-oak-brewing-company-llc",
+    "name": "Charter Oak Brewing Company LLC",
+    "brewery_type": "contract",
+    "street": "39B Shelter Rock Rd",
+    "city": "Danbury",
+    "state": "Connecticut",
+    "postal_code": "06810-7043",
+    "website_url": "http://www.charteroakbrewing.com",
+    "phone": "2036165268",
+    "created_at": "2018-07-24 01:33:09.337139",
+    "updated_at": "2018-08-24 00:25:30.749973",
+    "country": "United States",
+    "longitude": "-73.4042171054818",
+    "latitude": "41.3961903023823",
+    "tags": []
+  }
+]

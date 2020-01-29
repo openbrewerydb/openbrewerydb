@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rapp-brewing-company",
+    "name": "Rapp Brewing Company",
+    "brewery_type": "micro",
+    "street": "10930 Endeavour Way Ste C",
+    "city": "Seminole",
+    "state": "Florida",
+    "postal_code": "33777-1632",
+    "website_url": "http://www.rapp.beer",
+    "phone": "7276927912",
+    "created_at": "2018-07-24 01:33:14.303089",
+    "updated_at": "2018-08-11 21:36:58.066231",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

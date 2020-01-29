@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-norwich-inn-jasper-murdocks-alehouse",
+    "name": "The Norwich Inn - Jasper Murdock's Alehouse",
+    "brewery_type": "brewpub",
+    "street": "325 Main St",
+    "city": "Norwich",
+    "state": "Vermont",
+    "postal_code": "05055-9453",
+    "website_url": "http://www.norwichinn.com",
+    "phone": "8026491143",
+    "created_at": "2018-07-24 01:34:23.746822",
+    "updated_at": "2018-08-24 16:26:35.696847",
+    "country": "United States",
+    "longitude": "-72.3091387",
+    "latitude": "43.7150119",
+    "tags": []
+  }
+]

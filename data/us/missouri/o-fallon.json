@@ -1,0 +1,53 @@
+[
+  {
+    "id": "good-news-brewing-company",
+    "name": "Good News Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "330 Sonderen St",
+    "city": "O Fallon",
+    "state": "Missouri",
+    "postal_code": "63366-2629",
+    "website_url": "http://goodnewsbrewing.com",
+    "phone": "6362946593",
+    "created_at": "2018-07-24 01:33:41.049167",
+    "updated_at": "2018-08-11 21:38:07.794288",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "missouri-beer-company",
+    "name": "Missouri Beer Company",
+    "brewery_type": "micro",
+    "street": "22 W Industrial Dr",
+    "city": "O Fallon",
+    "state": "Missouri",
+    "postal_code": "63366-1926",
+    "website_url": "http://www.mobeerco.com",
+    "phone": "6362946672",
+    "created_at": "2018-07-24 01:33:41.372636",
+    "updated_at": "2018-08-11 21:38:08.531297",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "wild-water",
+    "name": "Wild Water",
+    "brewery_type": "micro",
+    "street": "9995 Winghaven Blvd",
+    "city": "O Fallon",
+    "state": "Missouri",
+    "postal_code": "63368-3623",
+    "website_url": "",
+    "phone": "6362650751",
+    "created_at": "2018-07-24 01:33:41.959318",
+    "updated_at": "2018-08-11 21:38:10.06422",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

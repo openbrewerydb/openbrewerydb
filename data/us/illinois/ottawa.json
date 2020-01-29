@@ -1,0 +1,36 @@
+[
+  {
+    "id": "radium-city-brewing",
+    "name": "Radium City Brewing",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Ottawa",
+    "state": "Illinois",
+    "postal_code": "61350",
+    "website_url": "http://www.radiumcitybrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:20.326363",
+    "updated_at": "2018-08-11 21:37:14.930045",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "tangled-roots-brewing-company",
+    "name": "Tangled Roots Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "130 E Madison St",
+    "city": "Ottawa",
+    "state": "Illinois",
+    "postal_code": "61350-5098",
+    "website_url": "http://www.tangledrootsbrewingco.com",
+    "phone": "8153249549",
+    "created_at": "2018-07-24 01:33:20.794509",
+    "updated_at": "2018-08-24 00:32:11.623621",
+    "country": "United States",
+    "longitude": "-88.8409131632653",
+    "latitude": "41.3469230816327",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "franklin-street-brewing-company",
+    "name": "Franklin Street Brewing Company",
+    "brewery_type": "micro",
+    "street": "116 S Franklin St",
+    "city": "Manchester",
+    "state": "Iowa",
+    "postal_code": "52057-2121",
+    "website_url": "http://www.franklinstreetbrewing.com",
+    "phone": "5639272722",
+    "created_at": "2018-07-24 01:33:23.78142",
+    "updated_at": "2018-08-24 00:37:54.640356",
+    "country": "United States",
+    "longitude": "-91.4577792857143",
+    "latitude": "42.483293244898",
+    "tags": []
+  }
+]

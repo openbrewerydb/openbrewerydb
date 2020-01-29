@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bad-shepherd-beer-company",
+    "name": "Bad Shepherd Beer Company",
+    "brewery_type": "brewpub",
+    "street": "702 Quarrier St",
+    "city": "Charleston",
+    "state": "West Virginia",
+    "postal_code": "25301-2627",
+    "website_url": "http://www.blacksheepwv.com",
+    "phone": "3045527569",
+    "created_at": "2018-07-24 01:34:33.957718",
+    "updated_at": "2018-08-24 16:41:08.875247",
+    "country": "United States",
+    "longitude": "-81.6361201460031",
+    "latitude": "38.3509494335983",
+    "tags": []
+  }
+]

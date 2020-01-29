@@ -1,0 +1,19 @@
+[
+  {
+    "id": "somers-point-brewing-company",
+    "name": "Somers Point Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Somers Point",
+    "state": "New Jersey",
+    "postal_code": "08244-1822",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:47.351972",
+    "updated_at": "2018-08-11 21:38:25.186326",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

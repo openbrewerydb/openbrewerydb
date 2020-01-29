@@ -1,0 +1,19 @@
+[
+  {
+    "id": "crue-brew-brewery",
+    "name": "Crue Brew Brewery",
+    "brewery_type": "micro",
+    "street": "95 Ryan Dr Ste 6",
+    "city": "Raynham",
+    "state": "Massachusetts",
+    "postal_code": "02767-1992",
+    "website_url": "http://www.cruebrewbrewery.com",
+    "phone": "5082726090",
+    "created_at": "2018-07-24 01:33:30.840266",
+    "updated_at": "2018-08-11 21:37:40.614751",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

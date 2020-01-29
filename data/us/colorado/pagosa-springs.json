@@ -1,0 +1,36 @@
+[
+  {
+    "id": "riff-raff-brewing",
+    "name": "Riff Raff Brewing",
+    "brewery_type": "brewpub",
+    "street": "274 Pagosa St",
+    "city": "Pagosa Springs",
+    "state": "Colorado",
+    "postal_code": "81147",
+    "website_url": "http://www.riffraffbrewing.com",
+    "phone": "9702644677",
+    "created_at": "2018-07-24 01:33:07.439936",
+    "updated_at": "2018-08-24 00:24:24.727892",
+    "country": "United States",
+    "longitude": "-107.008154647924",
+    "latitude": "37.268740056181",
+    "tags": []
+  },
+  {
+    "id": "pagosa-brewing-and-grill",
+    "name": "Pagosa Brewing & Grill",
+    "brewery_type": "brewpub",
+    "street": "118 N Pagosa Blvd",
+    "city": "Pagosa Springs",
+    "state": "Colorado",
+    "postal_code": "81147-8470",
+    "website_url": "http://www.pagosabrewing.com",
+    "phone": "9707312739",
+    "created_at": "2018-07-24 01:33:06.95098",
+    "updated_at": "2018-08-11 21:36:39.890595",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

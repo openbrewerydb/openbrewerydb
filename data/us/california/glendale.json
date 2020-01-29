@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brewyard-beer-company-llc",
+    "name": "Brewyard Beer Company LLC",
+    "brewery_type": "micro",
+    "street": "906 Western Ave",
+    "city": "Glendale",
+    "state": "California",
+    "postal_code": "91201",
+    "website_url": "http://www.brewyardbeercompany.com",
+    "phone": "8184099448",
+    "created_at": "2018-07-24 01:32:53.333742",
+    "updated_at": "2018-08-23 23:26:13.541581",
+    "country": "United States",
+    "longitude": "-118.3018112",
+    "latitude": "34.159644",
+    "tags": []
+  },
+  {
+    "id": "can-of-worms-brewing",
+    "name": "Can Of Worms Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Glendale",
+    "state": "California",
+    "postal_code": "91214-1713",
+    "website_url": "http://www.canofwormsbrewing.com",
+    "phone": "8187975520",
+    "created_at": "2018-07-24 01:32:53.534612",
+    "updated_at": "2018-08-23 23:26:26.866709",
+    "country": "United States",
+    "longitude": "-118.246248614754",
+    "latitude": "34.192912",
+    "tags": []
+  },
+  {
+    "id": "oak-grove-brewing-company",
+    "name": "Oak Grove Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Glendale",
+    "state": "California",
+    "postal_code": "91208-1836",
+    "website_url": "http://Www.oakgrovebrewingcompany.com",
+    "phone": "8183199577",
+    "created_at": "2018-07-24 01:32:58.812542",
+    "updated_at": "2018-08-24 00:00:11.255788",
+    "country": "United States",
+    "longitude": "-118.246248614754",
+    "latitude": "34.192912",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cowboy-state-brewing",
+    "name": "Cowboy State Brewing",
+    "brewery_type": "micro",
+    "street": "316 S Birch St",
+    "city": "Glenrock",
+    "state": "Wyoming",
+    "postal_code": "82637",
+    "website_url": "",
+    "phone": "3077971224",
+    "created_at": "2018-07-24 01:34:37.387742",
+    "updated_at": "2018-08-11 21:40:38.146414",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cedar-point-brewery",
+    "name": "Cedar Point Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Scituate",
+    "state": "Massachusetts",
+    "postal_code": "02066-1317",
+    "website_url": "",
+    "phone": "7818311724",
+    "created_at": "2018-07-24 01:33:30.733379",
+    "updated_at": "2018-08-11 21:37:39.971459",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "untold-brewing",
+    "name": "Untold Brewing",
+    "brewery_type": "micro",
+    "street": "6 Old Country Way",
+    "city": "Scituate",
+    "state": "Massachusetts",
+    "postal_code": "02066-3773",
+    "website_url": "http://www.untoldbrewing.com",
+    "phone": "7813780559",
+    "created_at": "2018-07-24 01:33:32.231722",
+    "updated_at": "2018-08-24 00:41:54.696104",
+    "country": "United States",
+    "longitude": "-70.7475028582983",
+    "latitude": "42.180807761562",
+    "tags": []
+  }
+]

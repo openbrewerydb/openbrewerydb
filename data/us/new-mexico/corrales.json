@@ -1,0 +1,36 @@
+[
+  {
+    "id": "casa-vieja-llc",
+    "name": "Casa Vieja LLC",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Corrales",
+    "state": "New Mexico",
+    "postal_code": "87048-8616",
+    "website_url": "http://www.casaviejaevents.com",
+    "phone": "5052691919",
+    "created_at": "2018-07-24 01:33:47.892785",
+    "updated_at": "2018-08-11 21:38:26.414689",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "corrales-bistro-brewery",
+    "name": "Corrales Bistro Brewery",
+    "brewery_type": "brewpub",
+    "street": "4908 Corrales Rd",
+    "city": "Corrales",
+    "state": "New Mexico",
+    "postal_code": "87048-8613",
+    "website_url": "http://www.cbbistro.com",
+    "phone": "5058971036",
+    "created_at": "2018-07-24 01:33:47.948341",
+    "updated_at": "2018-08-24 15:37:25.528264",
+    "country": "United States",
+    "longitude": "-106.6127225",
+    "latitude": "35.2298508",
+    "tags": []
+  }
+]

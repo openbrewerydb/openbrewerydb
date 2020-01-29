@@ -1,0 +1,19 @@
+[
+  {
+    "id": "goliad-brewing-company",
+    "name": "Goliad Brewing Company",
+    "brewery_type": "micro",
+    "street": "252 Metting Rd",
+    "city": "Goliad",
+    "state": "Texas",
+    "postal_code": "77963-3966",
+    "website_url": "http://www.goliadbrewing.com",
+    "phone": "2817827860",
+    "created_at": "2018-07-24 01:34:19.42499",
+    "updated_at": "2018-08-24 16:20:47.76273",
+    "country": "United States",
+    "longitude": "-97.3980634535387",
+    "latitude": "28.6907958269906",
+    "tags": []
+  }
+]

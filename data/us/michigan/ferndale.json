@@ -1,0 +1,53 @@
+[
+  {
+    "id": "axle-brewing-company",
+    "name": "Axle Brewing Company",
+    "brewery_type": "micro",
+    "street": "567 Livernois St",
+    "city": "Ferndale",
+    "state": "Michigan",
+    "postal_code": "48220-2303",
+    "website_url": "http://www.axlebrewing.com",
+    "phone": "2486137002",
+    "created_at": "2018-07-24 01:33:32.740815",
+    "updated_at": "2018-08-24 00:42:08.765118",
+    "country": "United States",
+    "longitude": "-83.1428144",
+    "latitude": "42.4508021",
+    "tags": []
+  },
+  {
+    "id": "urbanrest-brewing-company",
+    "name": "Urbanrest Brewing Company",
+    "brewery_type": "micro",
+    "street": "2615 Wolcott St",
+    "city": "Ferndale",
+    "state": "Michigan",
+    "postal_code": "48220-1422",
+    "website_url": "http://www.urbanrest.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:37.365604",
+    "updated_at": "2018-08-24 00:44:35.943634",
+    "country": "United States",
+    "longitude": "-83.1274188",
+    "latitude": "42.4679929",
+    "tags": []
+  },
+  {
+    "id": "woodward-avenue-brewers",
+    "name": "Woodward Avenue Brewers",
+    "brewery_type": "brewpub",
+    "street": "22646 Woodward Ave",
+    "city": "Ferndale",
+    "state": "Michigan",
+    "postal_code": "48220-1810",
+    "website_url": "http://www.thewabsite.com",
+    "phone": "2485463696",
+    "created_at": "2018-07-24 01:33:37.545525",
+    "updated_at": "2018-08-24 00:44:42.249413",
+    "country": "United States",
+    "longitude": "-83.133331090021",
+    "latitude": "42.4596444",
+    "tags": []
+  }
+]

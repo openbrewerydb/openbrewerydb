@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kretschmann-brewing-company",
+    "name": "Kretschmann Brewing Company",
+    "brewery_type": "micro",
+    "street": "9 Frederick St",
+    "city": "Webster",
+    "state": "Massachusetts",
+    "postal_code": "01570-2286",
+    "website_url": "http://kbcbrewery.com",
+    "phone": "5086717711",
+    "created_at": "2018-07-24 01:33:31.293086",
+    "updated_at": "2018-08-24 00:41:28.144719",
+    "country": "United States",
+    "longitude": "-71.8807960968361",
+    "latitude": "42.0500419070128",
+    "tags": []
+  }
+]

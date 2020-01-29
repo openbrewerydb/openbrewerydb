@@ -1,0 +1,19 @@
+[
+  {
+    "id": "old-firehouse-brewery",
+    "name": "Old Firehouse Brewery",
+    "brewery_type": "micro",
+    "street": "237 W Main St",
+    "city": "Williamsburg",
+    "state": "Ohio",
+    "postal_code": "45176-1342",
+    "website_url": "http://www.oldfirehousebrewery.com",
+    "phone": "5135369071",
+    "created_at": "2018-07-24 01:34:02.239893",
+    "updated_at": "2018-08-24 15:44:39.318887",
+    "country": "United States",
+    "longitude": "-84.0530761824684",
+    "latitude": "39.0539839584237",
+    "tags": []
+  }
+]

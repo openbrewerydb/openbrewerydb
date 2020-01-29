@@ -1,0 +1,19 @@
+[
+  {
+    "id": "switchgear-brewing-co",
+    "name": "SwitchGear Brewing Co",
+    "brewery_type": "micro",
+    "street": "44 D Gottfried St",
+    "city": "Elkhart Lake",
+    "state": "Wisconsin",
+    "postal_code": "53020",
+    "website_url": "http://www.switchgearbrewing.com",
+    "phone": "9207815120",
+    "created_at": "2018-07-24 01:34:36.820909",
+    "updated_at": "2018-08-24 16:45:54.555007",
+    "country": "United States",
+    "longitude": "-88.019601",
+    "latitude": "43.834243",
+    "tags": []
+  }
+]

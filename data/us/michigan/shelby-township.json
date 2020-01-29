@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sherwood-brewing-co",
+    "name": "Sherwood Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "45689 Hayes Rd",
+    "city": "Shelby Township",
+    "state": "Michigan",
+    "postal_code": "48315-6214",
+    "website_url": "http://www.sherwoodbrewing.com",
+    "phone": "5865329669",
+    "created_at": "2018-07-24 01:33:36.515054",
+    "updated_at": "2018-08-24 00:44:07.869757",
+    "country": "United States",
+    "longitude": "-82.9736141428571",
+    "latitude": "42.6320201428571",
+    "tags": []
+  }
+]

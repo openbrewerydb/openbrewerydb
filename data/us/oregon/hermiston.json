@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hermiston-brewing-co",
+    "name": "Hermiston Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "125 N 1st St",
+    "city": "Hermiston",
+    "state": "Oregon",
+    "postal_code": "97838-1850",
+    "website_url": "",
+    "phone": "5412897415",
+    "created_at": "2018-07-24 01:34:06.231569",
+    "updated_at": "2018-08-24 16:02:09.995621",
+    "country": "United States",
+    "longitude": "-119.290593462667",
+    "latitude": "45.8409084",
+    "tags": []
+  }
+]

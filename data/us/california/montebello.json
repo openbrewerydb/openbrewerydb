@@ -1,0 +1,19 @@
+[
+  {
+    "id": "angry-horse-brewing",
+    "name": "Angry Horse Brewing",
+    "brewery_type": "micro",
+    "street": "603 W Whittier Blvd",
+    "city": "Montebello",
+    "state": "California",
+    "postal_code": "90640-5235",
+    "website_url": "http://angryhorsebrewing.com",
+    "phone": "3235300015",
+    "created_at": "2018-07-24 01:32:51.72819",
+    "updated_at": "2018-08-23 23:24:28.112129",
+    "country": "United States",
+    "longitude": "-118.1003743",
+    "latitude": "34.0084152",
+    "tags": []
+  }
+]

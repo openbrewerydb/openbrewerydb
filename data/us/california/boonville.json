@@ -1,0 +1,19 @@
+[
+  {
+    "id": "anderson-valley-brewing-co",
+    "name": "Anderson Valley Brewing Co",
+    "brewery_type": "regional",
+    "street": "17700 CA-253",
+    "city": "Boonville",
+    "state": "California",
+    "postal_code": "95415",
+    "website_url": "http://www.avbc.com",
+    "phone": "7078952337",
+    "created_at": "2018-07-24 01:32:51.703048",
+    "updated_at": "2018-08-11 21:35:54.610626",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

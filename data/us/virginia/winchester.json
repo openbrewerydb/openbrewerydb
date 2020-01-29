@@ -1,0 +1,53 @@
+[
+  {
+    "id": "alesatian-brewing-co",
+    "name": "Alesatian Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "21 N Loudoun St",
+    "city": "Winchester",
+    "state": "Virginia",
+    "postal_code": "22601-4715",
+    "website_url": "http://www.alesatianbrewing.com",
+    "phone": "5406672743",
+    "created_at": "2018-07-24 01:34:23.978626",
+    "updated_at": "2018-08-24 16:26:54.915217",
+    "country": "United States",
+    "longitude": "-78.1655920769231",
+    "latitude": "39.1844644615385",
+    "tags": []
+  },
+  {
+    "id": "escutcheon-brewing-co",
+    "name": "Escutcheon Brewing Co.",
+    "brewery_type": "micro",
+    "street": "142 W Commercial St",
+    "city": "Winchester",
+    "state": "Virginia",
+    "postal_code": "22601-4828",
+    "website_url": "http://www.escutcheonbrewing.com",
+    "phone": "5407733042",
+    "created_at": "2018-07-24 01:34:25.203667",
+    "updated_at": "2018-08-24 16:28:32.700738",
+    "country": "United States",
+    "longitude": "-78.1634731985498",
+    "latitude": "39.19554463971",
+    "tags": []
+  },
+  {
+    "id": "winchester-brew-works-llc",
+    "name": "Winchester Brew Works LLC",
+    "brewery_type": "micro",
+    "street": "320 N Cameron St",
+    "city": "Winchester",
+    "state": "Virginia",
+    "postal_code": "22601-6052",
+    "website_url": "http://winchesterbrewworks.com",
+    "phone": "5406929242",
+    "created_at": "2018-07-24 01:34:27.509603",
+    "updated_at": "2018-08-24 16:31:47.568729",
+    "country": "United States",
+    "longitude": "-78.1622130515464",
+    "latitude": "39.1885771237113",
+    "tags": []
+  }
+]

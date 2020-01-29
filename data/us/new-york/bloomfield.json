@@ -1,0 +1,36 @@
+[
+  {
+    "id": "irish-mafia-brewing-co",
+    "name": "Irish Mafia Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "2971 Whalen Rd",
+    "city": "Bloomfield",
+    "state": "New York",
+    "postal_code": "14469-9786",
+    "website_url": "http://www.irishmafiabrewing.com",
+    "phone": "5852715172",
+    "created_at": "2018-07-24 01:33:51.805647",
+    "updated_at": "2018-08-24 15:39:24.759527",
+    "country": "United States",
+    "longitude": "-77.3893869584766",
+    "latitude": "42.8926813391929",
+    "tags": []
+  },
+  {
+    "id": "noble-shepherd-craft-brewery",
+    "name": "Noble Shepherd Craft Brewery",
+    "brewery_type": "micro",
+    "street": "7853 State Route 20a",
+    "city": "Bloomfield",
+    "state": "New York",
+    "postal_code": "14469-9659",
+    "website_url": "http://www.nobleshepherdbrewery.com",
+    "phone": "5852297661",
+    "created_at": "2018-07-24 01:33:52.587245",
+    "updated_at": "2018-08-11 21:38:38.420628",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

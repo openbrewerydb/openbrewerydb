@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bank-brewing-co",
+    "name": "Bank Brewing Co",
+    "brewery_type": "micro",
+    "street": "218 N Main St",
+    "city": "Hendricks",
+    "state": "Minnesota",
+    "postal_code": "56136-9501",
+    "website_url": "http://www.bankbrewing.com",
+    "phone": "6123092513",
+    "created_at": "2018-07-24 01:33:37.804854",
+    "updated_at": "2018-08-24 00:44:50.20165",
+    "country": "United States",
+    "longitude": "-96.4258165510204",
+    "latitude": "44.5083982653061",
+    "tags": []
+  }
+]

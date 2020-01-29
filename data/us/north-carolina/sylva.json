@@ -1,0 +1,36 @@
+[
+  {
+    "id": "balsam-falls-brewing",
+    "name": "Balsam Falls Brewing",
+    "brewery_type": "micro",
+    "street": "506 W Main St",
+    "city": "Sylva",
+    "state": "North Carolina",
+    "postal_code": "28779-5544",
+    "website_url": "",
+    "phone": "8286311987",
+    "created_at": "2018-07-24 01:33:54.949836",
+    "updated_at": "2018-08-24 15:41:01.787318",
+    "country": "United States",
+    "longitude": "-83.2218237",
+    "latitude": "35.3737065",
+    "tags": []
+  },
+  {
+    "id": "innovation-brewing",
+    "name": "Innovation Brewing",
+    "brewery_type": "brewpub",
+    "street": "414 W Main St",
+    "city": "Sylva",
+    "state": "North Carolina",
+    "postal_code": "28779-5548",
+    "website_url": "http://www.innovationbrewing.com",
+    "phone": "8285869678",
+    "created_at": "2018-07-24 01:33:56.773535",
+    "updated_at": "2018-08-24 15:41:59.754657",
+    "country": "United States",
+    "longitude": "-83.2220858919431",
+    "latitude": "35.3736192260195",
+    "tags": []
+  }
+]

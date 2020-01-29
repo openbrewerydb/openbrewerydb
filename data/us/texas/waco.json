@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brotherwell-brewing",
+    "name": "Brotherwell Brewing",
+    "brewery_type": "micro",
+    "street": "400 E Bridge St",
+    "city": "Waco",
+    "state": "Texas",
+    "postal_code": "76704-2505",
+    "website_url": "",
+    "phone": "2147638755",
+    "created_at": "2018-07-24 01:34:18.572674",
+    "updated_at": "2018-08-24 16:19:35.425686",
+    "country": "United States",
+    "longitude": "-97.124214",
+    "latitude": "31.56428",
+    "tags": []
+  },
+  {
+    "id": "yaxx-brewing-company",
+    "name": "Yaxx Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Waco",
+    "state": "Texas",
+    "postal_code": "76712-3284",
+    "website_url": "",
+    "phone": "8014730669",
+    "created_at": "2018-07-24 01:34:22.34488",
+    "updated_at": "2018-08-11 21:39:56.914324",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "bare-arms-brewing",
+    "name": "Bare Arms Brewing",
+    "brewery_type": "micro",
+    "street": "2515 La Salle Ave",
+    "city": "Waco",
+    "state": "Texas",
+    "postal_code": "76706-3929",
+    "website_url": "http://www.barearmsbrewing.com",
+    "phone": "2547598480",
+    "created_at": "2018-07-24 01:34:17.784097",
+    "updated_at": "2018-08-24 16:18:58.302521",
+    "country": "United States",
+    "longitude": "-97.1308195853569",
+    "latitude": "31.5248846162896",
+    "tags": []
+  }
+]

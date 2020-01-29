@@ -1,0 +1,19 @@
+[
+  {
+    "id": "jailhouse-brewing-co",
+    "name": "Jailhouse Brewing Co",
+    "brewery_type": "micro",
+    "street": "8 Cherry St",
+    "city": "Hampton",
+    "state": "Georgia",
+    "postal_code": "30228-5575",
+    "website_url": "http://www.jailhousebrewing.com",
+    "phone": "4047297681",
+    "created_at": "2018-07-24 01:33:15.872306",
+    "updated_at": "2018-08-24 00:29:09.217584",
+    "country": "United States",
+    "longitude": "-84.282374",
+    "latitude": "33.387534",
+    "tags": []
+  }
+]

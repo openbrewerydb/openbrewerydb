@@ -1,0 +1,53 @@
+[
+  {
+    "id": "front-street-brewery-ia",
+    "name": "Front Street Brewery - IA",
+    "brewery_type": "brewpub",
+    "street": "208 E River Dr",
+    "city": "Davenport",
+    "state": "Iowa",
+    "postal_code": "52801-1609",
+    "website_url": "http://www.frontstreetbrew.com",
+    "phone": "5633221569",
+    "created_at": "2018-07-24 01:33:23.79438",
+    "updated_at": "2018-08-24 00:37:55.114576",
+    "country": "United States",
+    "longitude": "-90.572491",
+    "latitude": "41.520329",
+    "tags": []
+  },
+  {
+    "id": "granite-city-food-and-brewery-#6",
+    "name": "Granite City Food & Brewery (#6)",
+    "brewery_type": "brewpub",
+    "street": "5270 Utica Ridge Rd",
+    "city": "Davenport",
+    "state": "Iowa",
+    "postal_code": "52807-3872",
+    "website_url": "http://www.gcfb.net",
+    "phone": "5633449700",
+    "created_at": "2018-07-24 01:33:23.834497",
+    "updated_at": "2018-08-24 00:37:56.492258",
+    "country": "United States",
+    "longitude": "-90.5135797543194",
+    "latitude": "41.5745721094442",
+    "tags": []
+  },
+  {
+    "id": "great-river-brewery",
+    "name": "Great River Brewery",
+    "brewery_type": "micro",
+    "street": "332 E 2nd St",
+    "city": "Davenport",
+    "state": "Iowa",
+    "postal_code": "52801-1702",
+    "website_url": "http://www.greatriverbrewery.com",
+    "phone": "3195415160",
+    "created_at": "2018-07-24 01:33:23.859903",
+    "updated_at": "2018-08-24 00:37:57.397744",
+    "country": "United States",
+    "longitude": "-90.5706393674667",
+    "latitude": "41.5213880458938",
+    "tags": []
+  }
+]

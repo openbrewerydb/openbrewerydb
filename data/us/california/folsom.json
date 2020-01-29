@@ -1,0 +1,19 @@
+[
+  {
+    "id": "red-bus-brewing-company",
+    "name": "Red Bus Brewing Company",
+    "brewery_type": "micro",
+    "street": "802 Reading St Ste A",
+    "city": "Folsom",
+    "state": "California",
+    "postal_code": "95630-3061",
+    "website_url": "http://www.redbusbrew.com",
+    "phone": "9169857299",
+    "created_at": "2018-07-24 01:32:59.792017",
+    "updated_at": "2018-08-11 21:36:17.152596",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

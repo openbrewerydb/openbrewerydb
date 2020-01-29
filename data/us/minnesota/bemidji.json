@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bemidji-brewing-company",
+    "name": "Bemidji Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "211 America Ave NW",
+    "city": "Bemidji",
+    "state": "Minnesota",
+    "postal_code": "56601-3176",
+    "website_url": "http://www.bemidjibeer.com",
+    "phone": "2184447011",
+    "created_at": "2018-07-24 01:33:37.871506",
+    "updated_at": "2018-08-24 00:44:52.44842",
+    "country": "United States",
+    "longitude": "-94.884827470259",
+    "latitude": "47.4699022",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "broken-horn-brewing-company",
+    "name": "Broken Horn Brewing Company",
+    "brewery_type": "micro",
+    "street": "201 S Mission St",
+    "city": "McCall",
+    "state": "Idaho",
+    "postal_code": "83638-",
+    "website_url": "http://www.brokenhornbrewing.com",
+    "phone": "2083155772",
+    "created_at": "2018-07-24 01:33:17.148041",
+    "updated_at": "2018-08-11 21:37:05.370366",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "mccall-brewing-co",
+    "name": "McCall Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "807 N 3rd St",
+    "city": "McCall",
+    "state": "Idaho",
+    "postal_code": "83638-3806",
+    "website_url": "http://www.Mccallbrew.com",
+    "phone": "2086343309",
+    "created_at": "2018-07-24 01:33:17.432067",
+    "updated_at": "2018-08-24 00:30:06.710466",
+    "country": "United States",
+    "longitude": "-116.097991",
+    "latitude": "44.904411",
+    "tags": []
+  },
+  {
+    "id": "salmon-river-brewery",
+    "name": "Salmon River Brewery",
+    "brewery_type": "brewpub",
+    "street": "300 Colorado Street",
+    "city": "McCall",
+    "state": "Idaho",
+    "postal_code": "83638-4132",
+    "website_url": "http://www.salmonriverbrewery.com",
+    "phone": "2086344772",
+    "created_at": "2018-07-24 01:33:17.618916",
+    "updated_at": "2018-08-24 00:30:14.363344",
+    "country": "United States",
+    "longitude": "-116.099161627764",
+    "latitude": "44.9058227732648",
+    "tags": []
+  }
+]

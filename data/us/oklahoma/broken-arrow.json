@@ -1,0 +1,19 @@
+[
+  {
+    "id": "broken-arrow-brewing-co",
+    "name": "Broken Arrow Brewing Co.",
+    "brewery_type": "micro",
+    "street": "333 W Dallas St",
+    "city": "Broken Arrow",
+    "state": "Oklahoma",
+    "postal_code": "74012-4026",
+    "website_url": "http://www.brokenarrowbrewingco.com",
+    "phone": "9182868101",
+    "created_at": "2018-07-24 01:34:03.976693",
+    "updated_at": "2018-08-24 15:45:30.319806",
+    "country": "United States",
+    "longitude": "-95.7944889512195",
+    "latitude": "36.0502661951219",
+    "tags": []
+  }
+]

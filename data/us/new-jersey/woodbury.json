@@ -1,0 +1,19 @@
+[
+  {
+    "id": "eight-and-sand-beer-co",
+    "name": "Eight & Sand Beer Co",
+    "brewery_type": "micro",
+    "street": "1003 N Evergreen Ave",
+    "city": "Woodbury",
+    "state": "New Jersey",
+    "postal_code": "08096-",
+    "website_url": "http://www.eightandsandbeer.com",
+    "phone": "8565371339",
+    "created_at": "2018-07-24 01:33:46.690854",
+    "updated_at": "2018-08-24 15:36:45.871092",
+    "country": "United States",
+    "longitude": "-75.1422203358405",
+    "latitude": "39.8493472478197",
+    "tags": []
+  }
+]

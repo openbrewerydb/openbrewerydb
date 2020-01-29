@@ -1,0 +1,19 @@
+[
+  {
+    "id": "long-way-brewing",
+    "name": "Long Way Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Radford",
+    "state": "Virginia",
+    "postal_code": "24141-1403",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:25.905835",
+    "updated_at": "2018-08-11 21:40:06.544435",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

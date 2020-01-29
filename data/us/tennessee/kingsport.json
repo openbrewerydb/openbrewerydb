@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sleepy-owl-brewery",
+    "name": "Sleepy Owl Brewery",
+    "brewery_type": "micro",
+    "street": "151 E Main St Ste 200",
+    "city": "Kingsport",
+    "state": "Tennessee",
+    "postal_code": "37660-4380",
+    "website_url": "http://www.sleepyowlbrewery.com",
+    "phone": "4232744458",
+    "created_at": "2018-07-24 01:34:16.958115",
+    "updated_at": "2018-08-11 21:39:43.790358",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

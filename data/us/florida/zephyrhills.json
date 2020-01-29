@@ -1,0 +1,19 @@
+[
+  {
+    "id": "zephyrhills-brewing-company",
+    "name": "Zephyrhills Brewing Company",
+    "brewery_type": "proprietor",
+    "street": "38530 5th Ave",
+    "city": "Zephyrhills",
+    "state": "Florida",
+    "postal_code": "33542-4318",
+    "website_url": "http://www.zbcbeer.com",
+    "phone": "8137152683",
+    "created_at": "2018-07-24 01:33:15.268561",
+    "updated_at": "2018-08-24 00:28:54.37417",
+    "country": "United States",
+    "longitude": "-82.1792178291844",
+    "latitude": "28.2344403872726",
+    "tags": []
+  }
+]

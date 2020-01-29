@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stesti-brewing-company",
+    "name": "Stesti Brewing Company",
+    "brewery_type": "micro",
+    "street": "1314 FM 2915",
+    "city": "Lovelady",
+    "state": "Texas",
+    "postal_code": "75851",
+    "website_url": "",
+    "phone": "9362046858",
+    "created_at": "2018-07-24 01:34:21.491503",
+    "updated_at": "2018-08-11 21:39:54.976945",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

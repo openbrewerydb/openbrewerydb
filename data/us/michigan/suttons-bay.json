@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hop-lot-brewing-co",
+    "name": "Hop Lot Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "658 S West Bay Shore Dr",
+    "city": "Suttons Bay",
+    "state": "Michigan",
+    "postal_code": "49682-9587",
+    "website_url": "http://www.hoplotbrewing.com",
+    "phone": "2318664445",
+    "created_at": "2018-07-24 01:33:34.874048",
+    "updated_at": "2018-08-11 21:37:50.811622",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

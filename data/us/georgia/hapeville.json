@@ -1,0 +1,19 @@
+[
+  {
+    "id": "arches-brewing",
+    "name": "Arches Brewing",
+    "brewery_type": "micro",
+    "street": "3361 Dogwood Dr",
+    "city": "Hapeville",
+    "state": "Georgia",
+    "postal_code": "30354-1439",
+    "website_url": "",
+    "phone": "6786532739",
+    "created_at": "2018-07-24 01:33:15.408243",
+    "updated_at": "2018-08-11 21:37:00.962932",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

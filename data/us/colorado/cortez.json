@@ -1,0 +1,53 @@
+[
+  {
+    "id": "main-street-brewery/four-corners",
+    "name": "Main Street Brewery/Four Corners",
+    "brewery_type": "brewpub",
+    "street": "21 E Main St",
+    "city": "Cortez",
+    "state": "Colorado",
+    "postal_code": "81321-3240",
+    "website_url": "",
+    "phone": "9705649112",
+    "created_at": "2018-07-24 01:33:06.464144",
+    "updated_at": "2018-08-24 00:23:48.228693",
+    "country": "United States",
+    "longitude": "-108.5846644",
+    "latitude": "37.3484244",
+    "tags": []
+  },
+  {
+    "id": "j-fargos-family-dining-and-micro-brewery-/-coyote-j-brewing-co",
+    "name": "J. Fargo's Family Dining & Micro Brewery / Coyote J Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1209 E Main St",
+    "city": "Cortez",
+    "state": "Colorado",
+    "postal_code": "81321-2910",
+    "website_url": "http://www.jfargos.com",
+    "phone": "9705640242",
+    "created_at": "2018-07-24 01:33:06.07782",
+    "updated_at": "2018-08-24 00:23:31.405094",
+    "country": "United States",
+    "longitude": "-108.570199",
+    "latitude": "37.348775",
+    "tags": []
+  },
+  {
+    "id": "wildedge-brewing-collective",
+    "name": "WildEdge Brewing Collective",
+    "brewery_type": "brewpub",
+    "street": "111 N Market St",
+    "city": "Cortez",
+    "state": "Colorado",
+    "postal_code": "81321-3214",
+    "website_url": "http://www.wildedgebrewing.com",
+    "phone": "9705659445",
+    "created_at": "2018-07-24 01:33:08.841404",
+    "updated_at": "2018-08-24 00:25:14.040493",
+    "country": "United States",
+    "longitude": "-108.585311695355",
+    "latitude": "37.3499005750932",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bandon-brewing-company",
+    "name": "Bandon Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "395 2nd St SE",
+    "city": "Bandon",
+    "state": "Oregon",
+    "postal_code": "97411-9605",
+    "website_url": "http://www.bandonbrewingco.com",
+    "phone": "5413473911",
+    "created_at": "2018-07-24 01:34:04.740289",
+    "updated_at": "2018-08-24 15:45:53.265854",
+    "country": "United States",
+    "longitude": "-124.412249423341",
+    "latitude": "43.1191571987033",
+    "tags": []
+  }
+]

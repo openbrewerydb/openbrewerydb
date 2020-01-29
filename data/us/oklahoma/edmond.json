@@ -1,0 +1,36 @@
+[
+  {
+    "id": "battered-boar-brewing-co",
+    "name": "Battered Boar Brewing Co",
+    "brewery_type": "micro",
+    "street": "14700 Metro Plaza Blvd Ste F",
+    "city": "Edmond",
+    "state": "Oklahoma",
+    "postal_code": "73013-1991",
+    "website_url": "http://www.batteredboar.com",
+    "phone": "4052545000",
+    "created_at": "2018-07-24 01:34:03.8621",
+    "updated_at": "2018-08-11 21:39:07.408437",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "frenzy-brewing-company",
+    "name": "Frenzy Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Edmond",
+    "state": "Oklahoma",
+    "postal_code": "73003-6250",
+    "website_url": "",
+    "phone": "4059225437",
+    "created_at": "2018-07-24 01:34:04.068943",
+    "updated_at": "2018-08-11 21:39:07.974343",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

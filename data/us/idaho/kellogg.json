@@ -1,0 +1,19 @@
+[
+  {
+    "id": "radio-brewing-company",
+    "name": "Radio Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "319 Main St",
+    "city": "Kellogg",
+    "state": "Idaho",
+    "postal_code": "83837",
+    "website_url": "http://www.radiobrewingcompany.com",
+    "phone": "2087866633",
+    "created_at": "2018-07-24 01:33:17.55527",
+    "updated_at": "2018-08-24 00:30:12.251733",
+    "country": "United States",
+    "longitude": "-116.122511561223",
+    "latitude": "47.5339164285319",
+    "tags": []
+  }
+]

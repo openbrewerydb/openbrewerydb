@@ -1,0 +1,53 @@
+[
+  {
+    "id": "jigsaw-brewing-llc",
+    "name": "Jigsaw Brewing, LLC",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "High Point",
+    "state": "North Carolina",
+    "postal_code": "27260-5056",
+    "website_url": "http://www.jigsawbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:56.810687",
+    "updated_at": "2018-08-11 21:38:49.35429",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "liberty-brewery-and-grill",
+    "name": "Liberty Brewery & Grill",
+    "brewery_type": "brewpub",
+    "street": "914 Mall Loop Rd",
+    "city": "High Point",
+    "state": "North Carolina",
+    "postal_code": "27262-7654",
+    "website_url": "http://www.hp.libertybreweryandgrill.com",
+    "phone": "3368824677",
+    "created_at": "2018-07-24 01:33:56.977993",
+    "updated_at": "2018-08-11 21:38:49.74254",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "brown-truck-brewery",
+    "name": "Brown Truck Brewery",
+    "brewery_type": "micro",
+    "street": "1234 N Main St",
+    "city": "High Point",
+    "state": "North Carolina",
+    "postal_code": "27262-3118",
+    "website_url": "http://www.browntruckbrewery.com",
+    "phone": "3368861234",
+    "created_at": "2018-07-24 01:33:55.611897",
+    "updated_at": "2018-08-24 15:41:21.185174",
+    "country": "United States",
+    "longitude": "-80.0158688027711",
+    "latitude": "35.9709266",
+    "tags": []
+  }
+]

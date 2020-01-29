@@ -1,0 +1,19 @@
+[
+  {
+    "id": "red-clay-brewing-company",
+    "name": "Red Clay Brewing Company",
+    "brewery_type": "micro",
+    "street": "704 N Railroad Ave",
+    "city": "Opelika",
+    "state": "Alabama",
+    "postal_code": "36801-4344",
+    "website_url": "http://www.redclaybrewingcompany.com",
+    "phone": "3347375409",
+    "created_at": "2018-07-24 01:32:47.66073",
+    "updated_at": "2018-08-23 23:20:22.832892",
+    "country": "United States",
+    "longitude": "-85.3787541825702",
+    "latitude": "32.6493954206225",
+    "tags": []
+  }
+]

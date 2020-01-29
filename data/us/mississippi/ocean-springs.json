@@ -1,0 +1,36 @@
+[
+  {
+    "id": "crooked-letter-brewing-co",
+    "name": "Crooked Letter Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "503 Porter Ave",
+    "city": "Ocean Springs",
+    "state": "Mississippi",
+    "postal_code": "39564",
+    "website_url": "http://www.crookedletterbrewery.com",
+    "phone": "2282353994",
+    "created_at": "2018-07-24 01:33:40.197588",
+    "updated_at": "2018-08-11 21:38:05.971776",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "hops-and-growlers",
+    "name": "Hops and Growlers",
+    "brewery_type": "micro",
+    "street": "2339 Government St",
+    "city": "Ocean Springs",
+    "state": "Mississippi",
+    "postal_code": "39564",
+    "website_url": "http://www.hopsandgrowlers.com",
+    "phone": "2283345585",
+    "created_at": "2018-07-24 01:33:40.210787",
+    "updated_at": "2018-08-24 00:46:04.041277",
+    "country": "United States",
+    "longitude": "-88.8090062028846",
+    "latitude": "30.4136478456894",
+    "tags": []
+  }
+]

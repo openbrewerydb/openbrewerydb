@@ -1,0 +1,19 @@
+[
+  {
+    "id": "elmhurst-brewing-company",
+    "name": "Elmhurst Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "171 N Addison Ave",
+    "city": "Elmhurst",
+    "state": "Illinois",
+    "postal_code": "60126-2720",
+    "website_url": "http://www.elmhurstbrewing.com",
+    "phone": "6308342739",
+    "created_at": "2018-07-24 01:33:18.712799",
+    "updated_at": "2018-08-24 00:30:51.451106",
+    "country": "United States",
+    "longitude": "-87.9414632727273",
+    "latitude": "41.9028593636364",
+    "tags": []
+  }
+]

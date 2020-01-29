@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sapphire-mountain-brewing-co",
+    "name": "Sapphire Mountain Brewing Co",
+    "brewery_type": "contract",
+    "street": "50 Slicers Ave",
+    "city": "Sapphire",
+    "state": "North Carolina",
+    "postal_code": "28774-9405",
+    "website_url": "http://www.sapphiremountainbrewingcompany.com",
+    "phone": "8287430220",
+    "created_at": "2018-07-24 01:33:58.026633",
+    "updated_at": "2018-08-11 21:38:52.156308",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

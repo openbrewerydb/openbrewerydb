@@ -1,0 +1,36 @@
+[
+  {
+    "id": "big-truck-brewery",
+    "name": "Big Truck Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Parkton",
+    "state": "Maryland",
+    "postal_code": "21120-9004",
+    "website_url": "http://www.bigtruckfarms.com",
+    "phone": "4436775451",
+    "created_at": "2018-07-24 01:33:28.403157",
+    "updated_at": "2018-08-11 21:37:34.921667",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "heart-and-solar-brewing",
+    "name": "Heart & Solar Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Parkton",
+    "state": "Maryland",
+    "postal_code": "21120-9253",
+    "website_url": "http://www.heartandsolarbrewing.com",
+    "phone": "4104938030",
+    "created_at": "2018-07-24 01:33:29.125159",
+    "updated_at": "2018-08-11 21:37:36.46019",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

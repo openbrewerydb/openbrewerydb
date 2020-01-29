@@ -1,0 +1,19 @@
+[
+  {
+    "id": "gore-range-brewery",
+    "name": "Gore Range Brewery",
+    "brewery_type": "brewpub",
+    "street": "105 Edwards Village Blvd",
+    "city": "Edwards",
+    "state": "Colorado",
+    "postal_code": "81632-2970",
+    "website_url": "http://www.gorerangebrewery.com",
+    "phone": "9709262739",
+    "created_at": "2018-07-24 01:33:05.630743",
+    "updated_at": "2018-08-24 00:23:13.199037",
+    "country": "United States",
+    "longitude": "-106.595322816081",
+    "latitude": "39.6436746055544",
+    "tags": []
+  }
+]

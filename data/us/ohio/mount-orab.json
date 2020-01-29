@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bardwell-winery-and-brewery",
+    "name": "Bardwell Winery and Brewery",
+    "brewery_type": "micro",
+    "street": "716 N High St",
+    "city": "Mount Orab",
+    "state": "Ohio",
+    "postal_code": "45154",
+    "website_url": "http://www.bardwellwinery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:59.521928",
+    "updated_at": "2018-08-24 15:43:24.632375",
+    "country": "United States",
+    "longitude": "-83.9209789",
+    "latitude": "39.0419795",
+    "tags": []
+  },
+  {
+    "id": "sons-of-toil-brewing-llc",
+    "name": "Sons Of Toil Brewing LLC",
+    "brewery_type": "micro",
+    "street": "14090 Klein Rd",
+    "city": "Mount Orab",
+    "state": "Ohio",
+    "postal_code": "45154-8312",
+    "website_url": "http://www.sonsoftoilllc.com/",
+    "phone": "5132509082",
+    "created_at": "2018-07-24 01:34:02.98979",
+    "updated_at": "2018-08-11 21:39:04.580291",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

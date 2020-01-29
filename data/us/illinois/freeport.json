@@ -1,0 +1,36 @@
+[
+  {
+    "id": "generations-brewing-company",
+    "name": "Generations Brewing Company",
+    "brewery_type": "micro",
+    "street": "1400 S Adams Ave",
+    "city": "Freeport",
+    "state": "Illinois",
+    "postal_code": "61032-9717",
+    "website_url": "http://www.generationsbrewing.com",
+    "phone": "8156165941",
+    "created_at": "2018-07-24 01:33:18.938571",
+    "updated_at": "2018-08-24 00:31:01.318986",
+    "country": "United States",
+    "longitude": "-89.615349",
+    "latitude": "42.2962963",
+    "tags": []
+  },
+  {
+    "id": "ill-stylez-brewing",
+    "name": "ILL STYLEZ BREWING",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Freeport",
+    "state": "Illinois",
+    "postal_code": "61032-4761",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:19.353704",
+    "updated_at": "2018-08-11 21:37:12.550066",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

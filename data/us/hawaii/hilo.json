@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hawaii-nui-brewing",
+    "name": "Hawaii Nui Brewing",
+    "brewery_type": "micro",
+    "street": "275 E Kawili St",
+    "city": "Hilo",
+    "state": "Hawaii",
+    "postal_code": "96720-5074",
+    "website_url": "http://www.hawaiinuibrewing.com",
+    "phone": "8089348211",
+    "created_at": "2018-07-24 01:33:16.830675",
+    "updated_at": "2018-08-24 00:29:42.298411",
+    "country": "United States",
+    "longitude": "-155.069788476413",
+    "latitude": "19.7058759551431",
+    "tags": []
+  }
+]

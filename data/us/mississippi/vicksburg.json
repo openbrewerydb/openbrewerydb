@@ -1,0 +1,19 @@
+[
+  {
+    "id": "key-city-brewing-co",
+    "name": "Key City Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "1311 Washington St.",
+    "city": "Vicksburg",
+    "state": "Mississippi",
+    "postal_code": "39180",
+    "website_url": "http://keycitybeer.com",
+    "phone": "6264871330",
+    "created_at": "2018-07-24 01:33:40.222973",
+    "updated_at": "2018-08-24 00:46:04.548882",
+    "country": "United States",
+    "longitude": "-90.8821644466135",
+    "latitude": "32.3492729109236",
+    "tags": []
+  }
+]

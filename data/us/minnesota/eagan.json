@@ -1,0 +1,53 @@
+[
+  {
+    "id": "granite-city-food-and-brewery-#10",
+    "name": "Granite City Food & Brewery (#10)",
+    "brewery_type": "brewpub",
+    "street": "3330 Pilot Knob Rd",
+    "city": "Eagan",
+    "state": "Minnesota",
+    "postal_code": "55121-2055",
+    "website_url": "http://www.gcfb.net",
+    "phone": "6514524600",
+    "created_at": "2018-07-24 01:33:38.633963",
+    "updated_at": "2018-08-24 00:45:16.600843",
+    "country": "United States",
+    "longitude": "-93.1671452352941",
+    "latitude": "44.8377987058824",
+    "tags": []
+  },
+  {
+    "id": "bald-man-brewing-company",
+    "name": "Bald Man Brewing Company",
+    "brewery_type": "micro",
+    "street": "2020 Silver Bell Rd Ste 25",
+    "city": "Eagan",
+    "state": "Minnesota",
+    "postal_code": "55122-1030",
+    "website_url": "http://www.BaldManBrewing.com",
+    "phone": "6516003164",
+    "created_at": "2018-07-24 01:33:37.779333",
+    "updated_at": "2018-08-11 21:37:59.19993",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "union-32-crafthouse",
+    "name": "Union 32 Crafthouse",
+    "brewery_type": "micro",
+    "street": "2864 Highway 55 Ste 200",
+    "city": "Eagan",
+    "state": "Minnesota",
+    "postal_code": "55121-1455",
+    "website_url": "http://www.union32crafthouse.com",
+    "phone": "9528079777",
+    "created_at": "2018-07-24 01:33:39.828071",
+    "updated_at": "2018-08-11 21:38:05.254482",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

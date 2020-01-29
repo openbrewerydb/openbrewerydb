@@ -1,0 +1,36 @@
+[
+  {
+    "id": "2-way-brewing-company",
+    "name": "2 Way Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "18 W Main St",
+    "city": "Beacon",
+    "state": "New York",
+    "postal_code": "12508-2512",
+    "website_url": "http://www.2waybrewingcompany.com",
+    "phone": "8452027334",
+    "created_at": "2018-07-24 01:33:48.933011",
+    "updated_at": "2018-08-24 15:37:55.658694",
+    "country": "United States",
+    "longitude": "-73.9809868",
+    "latitude": "41.5082102",
+    "tags": []
+  },
+  {
+    "id": "hudson-valley-brewery",
+    "name": "Hudson Valley Brewery",
+    "brewery_type": "micro",
+    "street": "7 E Main St",
+    "city": "Beacon",
+    "state": "New York",
+    "postal_code": "12508-3301",
+    "website_url": "http://www.hudsonvalleybrewery.com",
+    "phone": "8452189156",
+    "created_at": "2018-07-24 01:33:51.698422",
+    "updated_at": "2018-08-24 15:39:21.052506",
+    "country": "United States",
+    "longitude": "-73.9630491",
+    "latitude": "41.5016501",
+    "tags": []
+  }
+]

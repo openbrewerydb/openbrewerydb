@@ -1,0 +1,19 @@
+[
+  {
+    "id": "alpenglow-beer-co",
+    "name": "Alpenglow Beer Co",
+    "brewery_type": "contract",
+    "street": "",
+    "city": "Lafayette",
+    "state": "California",
+    "postal_code": "94549-4621",
+    "website_url": "http://www.buckwildbrew.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:51.515933",
+    "updated_at": "2018-08-23 23:24:13.026334",
+    "country": "United States",
+    "longitude": "-122.1180201",
+    "latitude": "37.8857582",
+    "tags": []
+  }
+]

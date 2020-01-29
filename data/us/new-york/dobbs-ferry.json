@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ferrari-beer-company",
+    "name": "Ferrari Beer Company",
+    "brewery_type": "micro",
+    "street": "160 Ashford Ave",
+    "city": "Dobbs Ferry",
+    "state": "New York",
+    "postal_code": "10522-1906",
+    "website_url": "http://www.ferraribeer.com",
+    "phone": "9146937340",
+    "created_at": "2018-07-24 01:33:50.819796",
+    "updated_at": "2018-08-24 15:38:51.558149",
+    "country": "United States",
+    "longitude": "-73.861616145289",
+    "latitude": "41.0145232646406",
+    "tags": []
+  }
+]

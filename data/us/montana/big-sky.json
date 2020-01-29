@@ -1,0 +1,36 @@
+[
+  {
+    "id": "beehive-basin-brewery",
+    "name": "Beehive Basin Brewery",
+    "brewery_type": "micro",
+    "street": "245 Town Center Ave",
+    "city": "Big Sky",
+    "state": "Montana",
+    "postal_code": "59716",
+    "website_url": "http://www.beehivebasinbrewery.com",
+    "phone": "4069957444",
+    "created_at": "2018-07-24 01:33:42.156603",
+    "updated_at": "2018-08-24 00:46:59.450897",
+    "country": "United States",
+    "longitude": "-111.3037009",
+    "latitude": "45.259632",
+    "tags": []
+  },
+  {
+    "id": "lone-peak-brewery",
+    "name": "Lone Peak Brewery",
+    "brewery_type": "brewpub",
+    "street": "48 Market Pl",
+    "city": "Big Sky",
+    "state": "Montana",
+    "postal_code": "59716",
+    "website_url": "http://www.lonepeakbrewery.com",
+    "phone": "4069953939",
+    "created_at": "2018-07-24 01:33:42.852198",
+    "updated_at": "2018-08-24 00:47:18.36471",
+    "country": "United States",
+    "longitude": "-111.291285374965",
+    "latitude": "45.2671806",
+    "tags": []
+  }
+]

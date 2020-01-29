@@ -1,0 +1,19 @@
+[
+  {
+    "id": "chapmans-brewing-company",
+    "name": "Chapman's Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "300 Industrial Dr",
+    "city": "Angola",
+    "state": "Indiana",
+    "postal_code": "46703-1053",
+    "website_url": "http://www.chapmansbrewing.com",
+    "phone": "2603195495",
+    "created_at": "2018-07-24 01:33:21.735207",
+    "updated_at": "2018-08-24 00:32:42.926823",
+    "country": "United States",
+    "longitude": "-85.0016478242249",
+    "latitude": "41.6483625562721",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "covered-bridge-brewhaus-taproom",
+    "name": "Covered Bridge Brewhaus Taproom",
+    "brewery_type": "micro",
+    "street": "506 N 8th St",
+    "city": "Shamokin",
+    "state": "Pennsylvania",
+    "postal_code": "17872-5302",
+    "website_url": "http://squareup.com/store/covered-bridge-brewhaus",
+    "phone": "5702054867",
+    "created_at": "2018-07-24 01:34:09.957654",
+    "updated_at": "2018-08-24 16:07:51.088563",
+    "country": "United States",
+    "longitude": "-76.5568208393969",
+    "latitude": "40.7907603702511",
+    "tags": []
+  }
+]

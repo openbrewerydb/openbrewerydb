@@ -1,0 +1,19 @@
+[
+  {
+    "id": "madcap-brew-co",
+    "name": "Madcap Brew Co.",
+    "brewery_type": "micro",
+    "street": "1422 Mogadore Rd",
+    "city": "Kent",
+    "state": "Ohio",
+    "postal_code": "44240-7536",
+    "website_url": "",
+    "phone": "3305489654",
+    "created_at": "2018-07-24 01:34:01.607767",
+    "updated_at": "2018-08-24 15:44:21.826119",
+    "country": "United States",
+    "longitude": "-81.372012",
+    "latitude": "41.139183",
+    "tags": []
+  }
+]

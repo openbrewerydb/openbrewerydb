@@ -1,0 +1,36 @@
+[
+  {
+    "id": "contrary-brewing-co",
+    "name": "Contrary Brewing Co",
+    "brewery_type": "micro",
+    "street": "411 W Mississippi Dr",
+    "city": "Muscatine",
+    "state": "Iowa",
+    "postal_code": "52761-3150",
+    "website_url": "http://www.contrarybrewing.com",
+    "phone": "5632997894",
+    "created_at": "2018-07-24 01:33:23.569047",
+    "updated_at": "2018-08-24 00:33:54.630952",
+    "country": "United States",
+    "longitude": "-91.051214547691",
+    "latitude": "41.417005217179",
+    "tags": []
+  },
+  {
+    "id": "dubuque-star-brands-/-otter-tail-brewery",
+    "name": "Dubuque Star Brands / Otter Tail Brewery",
+    "brewery_type": "contract",
+    "street": "132 Sheridan St",
+    "city": "Muscatine",
+    "state": "Iowa",
+    "postal_code": "52761-5543",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:23.656512",
+    "updated_at": "2018-08-24 00:37:50.224905",
+    "country": "United States",
+    "longitude": "-91.0293753592479",
+    "latitude": "41.4334673722347",
+    "tags": []
+  }
+]

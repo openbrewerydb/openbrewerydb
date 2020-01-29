@@ -1,0 +1,36 @@
+[
+  {
+    "id": "beards-brewery-production-facility",
+    "name": "Beards Brewery Production Facility",
+    "brewery_type": "micro",
+    "street": "6328 Ferry Ave",
+    "city": "Charlevoix",
+    "state": "Michigan",
+    "postal_code": "49720-9504",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:32.898605",
+    "updated_at": "2018-08-24 00:42:13.648726",
+    "country": "United States",
+    "longitude": "-85.249116",
+    "latitude": "45.304738",
+    "tags": []
+  },
+  {
+    "id": "lake-charlevoix-brewing-company",
+    "name": "Lake Charlevoix Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "111 Bridge Park Dr",
+    "city": "Charlevoix",
+    "state": "Michigan",
+    "postal_code": "49720-1397",
+    "website_url": "http://www.lakecharlevoixbrewing.com",
+    "phone": "2314373220",
+    "created_at": "2018-07-24 01:33:35.181734",
+    "updated_at": "2018-08-24 00:43:24.144126",
+    "country": "United States",
+    "longitude": "-85.2580011223289",
+    "latitude": "45.3172830722043",
+    "tags": []
+  }
+]

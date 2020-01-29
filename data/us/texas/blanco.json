@@ -1,0 +1,19 @@
+[
+  {
+    "id": "real-ale-brewing-co",
+    "name": "Real Ale Brewing Co",
+    "brewery_type": "regional",
+    "street": "231 San Saba Ct",
+    "city": "Blanco",
+    "state": "Texas",
+    "postal_code": "78606-4810",
+    "website_url": "http://www.realalebrewing.com",
+    "phone": "8308332534",
+    "created_at": "2018-07-24 01:34:20.888872",
+    "updated_at": "2018-08-24 16:22:44.828833",
+    "country": "United States",
+    "longitude": "-98.4128525",
+    "latitude": "30.113319",
+    "tags": []
+  }
+]

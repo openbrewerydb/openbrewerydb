@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1718-ocracoke-brewing",
+    "name": "1718 Ocracoke Brewing",
+    "brewery_type": "brewpub",
+    "street": "1129 Irvin Garrish Hwy",
+    "city": "Ocracoke",
+    "state": "North Carolina",
+    "postal_code": "27960",
+    "website_url": "http://www.ocracokebrewing.com",
+    "phone": "2529282337",
+    "created_at": "2018-07-24 01:33:54.779974",
+    "updated_at": "2018-08-24 15:40:56.290278",
+    "country": "United States",
+    "longitude": "-75.9717606279572",
+    "latitude": "35.1071536760532",
+    "tags": []
+  }
+]

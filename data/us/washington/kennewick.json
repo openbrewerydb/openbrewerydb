@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ice-harbor-brewing-co",
+    "name": "Ice Harbor Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "206 N Benton St Ste C",
+    "city": "Kennewick",
+    "state": "Washington",
+    "postal_code": "99336-3608",
+    "website_url": "http://www.iceharbor.com",
+    "phone": "5095825340",
+    "created_at": "2018-07-24 01:34:30.488173",
+    "updated_at": "2018-08-11 21:40:18.054349",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mt-rushmore-brewing-company",
+    "name": "Mt. Rushmore Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "140 Mt Rushmore Rd",
+    "city": "Custer",
+    "state": "South Dakota",
+    "postal_code": "57730-1829",
+    "website_url": "http://www.mtrushmorebrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:15.450115",
+    "updated_at": "2018-08-24 16:15:58.097106",
+    "country": "United States",
+    "longitude": "-103.605392",
+    "latitude": "43.764722",
+    "tags": []
+  }
+]

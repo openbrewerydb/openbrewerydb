@@ -1,0 +1,19 @@
+[
+  {
+    "id": "one-trick-pony-brewery",
+    "name": "One Trick Pony Brewery",
+    "brewery_type": "micro",
+    "street": "17845 Chappel Ave # 17851",
+    "city": "Lansing",
+    "state": "Illinois",
+    "postal_code": "60438-4525",
+    "website_url": "http://www.onetrickponybrewery.com",
+    "phone": "7088896683",
+    "created_at": "2018-07-24 01:33:20.111137",
+    "updated_at": "2018-08-11 21:37:14.445364",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

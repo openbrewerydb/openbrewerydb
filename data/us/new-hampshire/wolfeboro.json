@@ -1,0 +1,36 @@
+[
+  {
+    "id": "burnt-timber-brewing",
+    "name": "Burnt Timber Brewing",
+    "brewery_type": "brewpub",
+    "street": "96 Lehner St",
+    "city": "Wolfeboro",
+    "state": "New Hampshire",
+    "postal_code": "03894",
+    "website_url": "http://www.burnttimbertavern.com",
+    "phone": "6036303605",
+    "created_at": "2018-07-24 01:33:45.19397",
+    "updated_at": "2018-08-24 15:36:00.043144",
+    "country": "United States",
+    "longitude": "-71.2096892439711",
+    "latitude": "43.5863231590006",
+    "tags": []
+  },
+  {
+    "id": "the-lone-wolfe-brewing-co",
+    "name": "The Lone Wolfe Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "36 Mill St",
+    "city": "Wolfeboro",
+    "state": "New Hampshire",
+    "postal_code": "03894-4485",
+    "website_url": "http://www.thelonewolfe.com",
+    "phone": "6035151273",
+    "created_at": "2018-07-24 01:33:45.830988",
+    "updated_at": "2018-08-24 15:36:21.749969",
+    "country": "United States",
+    "longitude": "-71.2150330458599",
+    "latitude": "43.5857241507431",
+    "tags": []
+  }
+]

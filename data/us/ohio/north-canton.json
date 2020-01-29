@@ -1,0 +1,19 @@
+[
+  {
+    "id": "shale-brewing-co",
+    "name": "Shale Brewing Co",
+    "brewery_type": "micro",
+    "street": "7253 Whipple Ave NW",
+    "city": "North Canton",
+    "state": "Ohio",
+    "postal_code": "44720",
+    "website_url": "http://www.shalebrewing.com",
+    "phone": "3307768812",
+    "created_at": "2018-07-24 01:34:02.898532",
+    "updated_at": "2018-08-24 15:44:57.536028",
+    "country": "United States",
+    "longitude": "-81.422424",
+    "latitude": "40.866706",
+    "tags": []
+  }
+]

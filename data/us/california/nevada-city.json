@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ol-republic-brewery",
+    "name": "Ol' Republic Brewery",
+    "brewery_type": "micro",
+    "street": "124 Argall Way",
+    "city": "Nevada City",
+    "state": "California",
+    "postal_code": "95959-3002",
+    "website_url": "http://www.olrepublicbrewery.com",
+    "phone": "5302647263",
+    "created_at": "2018-07-24 01:32:59.010688",
+    "updated_at": "2018-08-24 00:00:24.017756",
+    "country": "United States",
+    "longitude": "-121.024460185452",
+    "latitude": "39.2527230322759",
+    "tags": []
+  },
+  {
+    "id": "three-forks-bakery-and-brewing-company",
+    "name": "Three Forks Bakery & Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "211 Commercial St",
+    "city": "Nevada City",
+    "state": "California",
+    "postal_code": "95959-2506",
+    "website_url": "http://threeforksnc.com",
+    "phone": "5304708333",
+    "created_at": "2018-07-24 01:33:02.251108",
+    "updated_at": "2018-08-24 00:04:05.739611",
+    "country": "United States",
+    "longitude": "-121.017467013289",
+    "latitude": "39.2629979755326",
+    "tags": []
+  }
+]

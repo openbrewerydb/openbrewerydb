@@ -1,0 +1,36 @@
+[
+  {
+    "id": "badass-backyard-brewing",
+    "name": "Badass Backyard Brewing",
+    "brewery_type": "micro",
+    "street": "1415 N Argonne Rd",
+    "city": "Spokane Valley",
+    "state": "Washington",
+    "postal_code": "99212-2685",
+    "website_url": "http://badassbackyardbrewing.com",
+    "phone": "5092423225",
+    "created_at": "2018-07-24 01:34:27.993332",
+    "updated_at": "2018-08-24 16:32:31.158279",
+    "country": "United States",
+    "longitude": "-117.282919",
+    "latitude": "47.6699039393939",
+    "tags": []
+  },
+  {
+    "id": "genus-brewing-/-nu-home-brew-and-bottles",
+    "name": "Genus Brewing / Nu Home Brew and Bottles",
+    "brewery_type": "micro",
+    "street": "14109 E Sprague Ave Ste 8",
+    "city": "Spokane Valley",
+    "state": "Washington",
+    "postal_code": "99216-2171",
+    "website_url": "http://www.nuhomebrewery.com",
+    "phone": "5098082395",
+    "created_at": "2018-07-24 01:34:30.051544",
+    "updated_at": "2018-08-11 21:40:17.014527",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

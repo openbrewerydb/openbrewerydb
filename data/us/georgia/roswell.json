@@ -1,0 +1,53 @@
+[
+  {
+    "id": "from-the-earth-brewing-company",
+    "name": "From The Earth Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "1570 Holcomb Bridge Rd Suite 405",
+    "city": "Roswell",
+    "state": "Georgia",
+    "postal_code": "30076",
+    "website_url": "http://www.ftebrewing.com",
+    "phone": "7709109799",
+    "created_at": "2018-07-24 01:33:15.717852",
+    "updated_at": "2018-08-11 21:37:01.822181",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "gate-city-brewing-company",
+    "name": "Gate City Brewing Company",
+    "brewery_type": "micro",
+    "street": "43 Magnolia St",
+    "city": "Roswell",
+    "state": "Georgia",
+    "postal_code": "30075-4289",
+    "website_url": "http://www.gatecitybrewingco.com",
+    "phone": "6784040961",
+    "created_at": "2018-07-24 01:33:15.730791",
+    "updated_at": "2018-08-24 00:29:05.880754",
+    "country": "United States",
+    "longitude": "-84.3639530669006",
+    "latitude": "34.0229342592006",
+    "tags": []
+  },
+  {
+    "id": "variant-brewing-company",
+    "name": "Variant Brewing Company",
+    "brewery_type": "micro",
+    "street": "66 Norcross St",
+    "city": "Roswell",
+    "state": "Georgia",
+    "postal_code": "30075-3866",
+    "website_url": "",
+    "phone": "6782428189",
+    "created_at": "2018-07-24 01:33:16.669145",
+    "updated_at": "2018-08-24 00:29:38.360634",
+    "country": "United States",
+    "longitude": "-84.35907858443",
+    "latitude": "34.02576775",
+    "tags": []
+  }
+]

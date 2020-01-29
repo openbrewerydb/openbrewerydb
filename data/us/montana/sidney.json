@@ -1,0 +1,19 @@
+[
+  {
+    "id": "meadowlark-brewing",
+    "name": "Meadowlark Brewing",
+    "brewery_type": "brewpub",
+    "street": "117 S Central Ave",
+    "city": "Sidney",
+    "state": "Montana",
+    "postal_code": "59270-4123",
+    "website_url": "http://www.meadowlarkbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:42.889365",
+    "updated_at": "2018-08-24 00:47:19.69559",
+    "country": "United States",
+    "longitude": "-104.1602945",
+    "latitude": "47.7105211",
+    "tags": []
+  }
+]

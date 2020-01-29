@@ -1,0 +1,36 @@
+[
+  {
+    "id": "clarion-river-brewing-company",
+    "name": "Clarion River Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "600 Main St # 604",
+    "city": "Clarion",
+    "state": "Pennsylvania",
+    "postal_code": "16214-1108",
+    "website_url": "http://www.clarionriverbrew.com",
+    "phone": "8142978399",
+    "created_at": "2018-07-24 01:34:09.776851",
+    "updated_at": "2018-08-24 16:07:30.724692",
+    "country": "United States",
+    "longitude": "-79.6789282956162",
+    "latitude": "41.1464916218955",
+    "tags": []
+  },
+  {
+    "id": "mechanistic-brewing",
+    "name": "Mechanistic Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Clarion",
+    "state": "Pennsylvania",
+    "postal_code": "16214-2018",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:11.611312",
+    "updated_at": "2018-08-11 21:39:28.960636",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

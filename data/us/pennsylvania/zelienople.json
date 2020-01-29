@@ -1,0 +1,36 @@
+[
+  {
+    "id": "burghaers-brewing",
+    "name": "Burghâers Brewing",
+    "brewery_type": "micro",
+    "street": "22410 Perry Hwy Ste 410E",
+    "city": "Zelienople",
+    "state": "Pennsylvania",
+    "postal_code": "16063-2935",
+    "website_url": "http://Burgherspgh.com",
+    "phone": "4129739628",
+    "created_at": "2018-07-24 01:34:09.655839",
+    "updated_at": "2018-08-11 21:39:24.515127",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "shubrew-llc",
+    "name": "ShuBrew, LLC",
+    "brewery_type": "brewpub",
+    "street": "210 S Main St",
+    "city": "Zelienople",
+    "state": "Pennsylvania",
+    "postal_code": "16063-1150",
+    "website_url": "",
+    "phone": "7247664426",
+    "created_at": "2018-07-24 01:34:12.586276",
+    "updated_at": "2018-08-24 16:11:53.370991",
+    "country": "United States",
+    "longitude": "-80.136358917809",
+    "latitude": "40.7928506347067",
+    "tags": []
+  }
+]

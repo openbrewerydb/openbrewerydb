@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dakota-shivers-brewing",
+    "name": "Dakota Shivers Brewing",
+    "brewery_type": "micro",
+    "street": "717 W Main St",
+    "city": "Lead",
+    "state": "South Dakota",
+    "postal_code": "57754-1539",
+    "website_url": "http://www.dakotashiversbrewing.com",
+    "phone": "6054155352",
+    "created_at": "2018-07-24 01:34:15.250862",
+    "updated_at": "2018-08-24 16:15:41.180956",
+    "country": "United States",
+    "longitude": "-103.772162595213",
+    "latitude": "44.3511162245966",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "baithouse-brewery",
+    "name": "Baithouse Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Sandusky",
+    "state": "Ohio",
+    "postal_code": "44870",
+    "website_url": "http://www.baithousebrewery.com",
+    "phone": "4193665372",
+    "created_at": "2018-07-24 01:33:59.499576",
+    "updated_at": "2018-08-11 21:38:55.796958",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cheaha-brewing-co",
+    "name": "Cheaha Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1208 Walnut Ave",
+    "city": "Anniston",
+    "state": "Alabama",
+    "postal_code": "36201-4526",
+    "website_url": "http://www.cheahabrewingcompany.com",
+    "phone": "2567707300",
+    "created_at": "2018-07-24 01:32:47.439657",
+    "updated_at": "2018-08-23 23:20:08.838388",
+    "country": "United States",
+    "longitude": "-85.8337740514949",
+    "latitude": "33.6601671",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bone-island-brewing",
+    "name": "Bone Island Brewing",
+    "brewery_type": "micro",
+    "street": "1111 Eaton St",
+    "city": "Key West",
+    "state": "Florida",
+    "postal_code": "33040-6926",
+    "website_url": "http://www.boneislandbrewing.com",
+    "phone": "3053043472",
+    "created_at": "2018-07-24 01:33:11.683398",
+    "updated_at": "2018-08-24 00:26:40.244734",
+    "country": "United States",
+    "longitude": "-81.7965146398266",
+    "latitude": "24.5614170685523",
+    "tags": []
+  },
+  {
+    "id": "waterfront-brewery-llc",
+    "name": "Waterfront Brewery LLC",
+    "brewery_type": "brewpub",
+    "street": "201 William St",
+    "city": "Key West",
+    "state": "Florida",
+    "postal_code": "33040-6679",
+    "website_url": "http://www.thewaterfrontbrewery.com",
+    "phone": "3054402270",
+    "created_at": "2018-07-24 01:33:15.14513",
+    "updated_at": "2018-08-24 00:28:48.926214",
+    "country": "United States",
+    "longitude": "-81.801344",
+    "latitude": "24.561016",
+    "tags": []
+  },
+  {
+    "id": "first-flight-island-restaurant-and-brewery",
+    "name": "First Flight Island Restaurant & Brewery",
+    "brewery_type": "brewpub",
+    "street": "301 Whitehead St",
+    "city": "Key West",
+    "state": "Florida",
+    "postal_code": "33040-6542",
+    "website_url": "http://firstflightkw.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:12.771067",
+    "updated_at": "2018-08-24 00:27:13.612802",
+    "country": "United States",
+    "longitude": "-81.805413",
+    "latitude": "24.557321",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wagner-valley-brewing-co",
+    "name": "Wagner Valley Brewing Co",
+    "brewery_type": "micro",
+    "street": "9322 Route 414",
+    "city": "Lodi",
+    "state": "New York",
+    "postal_code": "14860-9641",
+    "website_url": "http://www.wagnerbrewing.com",
+    "phone": "6075826450",
+    "created_at": "2018-07-24 01:33:54.392295",
+    "updated_at": "2018-08-11 21:38:43.458288",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

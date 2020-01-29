@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tin-cannon-brewing-company",
+    "name": "Tin Cannon Brewing Company",
+    "brewery_type": "micro",
+    "street": "7679 Limestone Dr Ste 130",
+    "city": "Gainesville",
+    "state": "Virginia",
+    "postal_code": "20155-4041",
+    "website_url": "http://www.tincannonbrewing.com",
+    "phone": "5712480489",
+    "created_at": "2018-07-24 01:34:27.240174",
+    "updated_at": "2018-08-11 21:40:10.351817",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

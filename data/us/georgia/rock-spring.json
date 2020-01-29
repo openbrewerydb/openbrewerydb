@@ -1,0 +1,19 @@
+[
+  {
+    "id": "phantom-horse-brewing",
+    "name": "Phantom Horse Brewing",
+    "brewery_type": "brewpub",
+    "street": "56-A Fieldstone Village Dr",
+    "city": "Rock Spring",
+    "state": "Georgia",
+    "postal_code": "30739",
+    "website_url": "http://www.phantomhorsebrewing.com",
+    "phone": "4233144978",
+    "created_at": "2018-07-24 01:33:16.154862",
+    "updated_at": "2018-08-11 21:37:03.064906",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

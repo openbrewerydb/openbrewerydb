@@ -1,0 +1,19 @@
+[
+  {
+    "id": "death-valley-brewing",
+    "name": "Death Valley Brewing",
+    "brewery_type": "micro",
+    "street": "102 Old Spanish Trail Hwy",
+    "city": "Tecopa",
+    "state": "California",
+    "postal_code": "92389",
+    "website_url": "http://www.deathvalleybrewing.com",
+    "phone": "7608524273",
+    "created_at": "2018-07-24 01:32:54.308118",
+    "updated_at": "2018-08-23 23:27:14.914327",
+    "country": "United States",
+    "longitude": "-116.206339351428",
+    "latitude": "35.8488923548575",
+    "tags": []
+  }
+]

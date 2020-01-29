@@ -1,0 +1,36 @@
+[
+  {
+    "id": "tommyknocker-brewery-and-pub",
+    "name": "Tommyknocker Brewery & Pub",
+    "brewery_type": "micro",
+    "street": "1401 Miner St",
+    "city": "Idaho Springs",
+    "state": "Colorado",
+    "postal_code": "80452",
+    "website_url": "http://www.tommyknocker.com",
+    "phone": "3035674419",
+    "created_at": "2018-07-24 01:33:08.323217",
+    "updated_at": "2018-08-24 00:24:58.299152",
+    "country": "United States",
+    "longitude": "-105.5176775",
+    "latitude": "39.7417505",
+    "tags": []
+  },
+  {
+    "id": "westbound-and-down-brewing-company",
+    "name": "Westbound & Down Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "1617 Miner St",
+    "city": "Idaho Springs",
+    "state": "Colorado",
+    "postal_code": "80452",
+    "website_url": "http://www.westboundanddown.com",
+    "phone": "7205023121",
+    "created_at": "2018-07-24 01:33:08.734746",
+    "updated_at": "2018-08-24 00:25:10.805338",
+    "country": "United States",
+    "longitude": "-105.5155002",
+    "latitude": "39.7419049",
+    "tags": []
+  }
+]

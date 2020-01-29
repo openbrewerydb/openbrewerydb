@@ -1,0 +1,19 @@
+[
+  {
+    "id": "eddyline-brewing-llc",
+    "name": "Eddyline Brewing LLC",
+    "brewery_type": "micro",
+    "street": "102 Linderman Ave",
+    "city": "Buena Vista",
+    "state": "Colorado",
+    "postal_code": "81211-5106",
+    "website_url": "http://eddylinebrewery.com",
+    "phone": "7199666018",
+    "created_at": "2018-07-24 01:33:05.239136",
+    "updated_at": "2018-08-24 00:22:56.391174",
+    "country": "United States",
+    "longitude": "-106.131606",
+    "latitude": "38.84025",
+    "tags": []
+  }
+]

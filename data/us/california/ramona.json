@@ -1,0 +1,53 @@
+[
+  {
+    "id": "chuckalek-independent-brewers",
+    "name": "ChuckAlek Independent Brewers",
+    "brewery_type": "brewpub",
+    "street": "2330 Main St Ste C",
+    "city": "Ramona",
+    "state": "California",
+    "postal_code": "92065-2539",
+    "website_url": "http://www.chuckalek.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:53.785576",
+    "updated_at": "2018-08-11 21:35:59.360264",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "smoking-cannon-brewery",
+    "name": "Smoking Cannon Brewery",
+    "brewery_type": "micro",
+    "street": "780 Main St Ste I",
+    "city": "Ramona",
+    "state": "California",
+    "postal_code": "92065-2079",
+    "website_url": "http://www.smokingcannonbrewery.com",
+    "phone": "7604077557",
+    "created_at": "2018-07-24 01:33:00.945308",
+    "updated_at": "2018-08-11 21:36:21.234402",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "star-b-ranch",
+    "name": "Star B Ranch",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Ramona",
+    "state": "California",
+    "postal_code": "92065-6714",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:01.305374",
+    "updated_at": "2018-08-24 00:03:02.880454",
+    "country": "United States",
+    "longitude": "-116.867513220741",
+    "latitude": "33.035378",
+    "tags": []
+  }
+]

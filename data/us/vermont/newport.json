@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kingdom-brewing",
+    "name": "Kingdom Brewing",
+    "brewery_type": "micro",
+    "street": "1876 Vt Route 105",
+    "city": "Newport",
+    "state": "Vermont",
+    "postal_code": "05855-9915",
+    "website_url": "http://www.kingdombrewingvt.com",
+    "phone": "8023347096",
+    "created_at": "2018-07-24 01:34:23.453804",
+    "updated_at": "2018-08-11 21:39:59.930525",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

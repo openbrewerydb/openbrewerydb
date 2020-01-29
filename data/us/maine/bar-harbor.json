@@ -1,0 +1,53 @@
+[
+  {
+    "id": "atlantic-brewing-co",
+    "name": "Atlantic Brewing Co",
+    "brewery_type": "micro",
+    "street": "15 Knox Rd",
+    "city": "Bar Harbor",
+    "state": "Maine",
+    "postal_code": "04609-7770",
+    "website_url": "http://atlanticbrewing.com",
+    "phone": "2072882337",
+    "created_at": "2018-07-24 01:33:26.720517",
+    "updated_at": "2018-08-11 21:37:30.310463",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "atlantic-brewing-co-/-bar-harbor-brewing",
+    "name": "Atlantic Brewing Co / Bar Harbor Brewing",
+    "brewery_type": "brewpub",
+    "street": "52 Cottage Street Bar Harbor",
+    "city": "Bar Harbor",
+    "state": "Maine",
+    "postal_code": "04609",
+    "website_url": "http://www.barharborbrewing.com",
+    "phone": "2072884592",
+    "created_at": "2018-07-24 01:33:26.734138",
+    "updated_at": "2018-08-24 00:39:31.014808",
+    "country": "United States",
+    "longitude": "-68.20607075",
+    "latitude": "44.389488",
+    "tags": []
+  },
+  {
+    "id": "jack-russells-steakhouse-and-brewery-/-maine-coast-brewing-co",
+    "name": "Jack Russell's Steakhouse and Brewery / Maine Coast Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "102 Eden St",
+    "city": "Bar Harbor",
+    "state": "Maine",
+    "postal_code": "04609-1106",
+    "website_url": "http://www.jackrussellssteakhouse.com",
+    "phone": "2072885214",
+    "created_at": "2018-07-24 01:33:27.332152",
+    "updated_at": "2018-08-24 00:39:51.187383",
+    "country": "United States",
+    "longitude": "-68.2231868",
+    "latitude": "44.3946497",
+    "tags": []
+  }
+]

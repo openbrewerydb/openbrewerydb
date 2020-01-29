@@ -1,0 +1,19 @@
+[
+  {
+    "id": "oakbrook-brewing-company",
+    "name": "Oakbrook Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "628 Park Ave",
+    "city": "Reading",
+    "state": "Pennsylvania",
+    "postal_code": "19611-1926",
+    "website_url": "http://www.oakbrookbrew.com",
+    "phone": "4847555289",
+    "created_at": "2018-07-24 01:34:11.881361",
+    "updated_at": "2018-08-24 16:10:48.831696",
+    "country": "United States",
+    "longitude": "-75.9347891875",
+    "latitude": "40.3168494375",
+    "tags": []
+  }
+]

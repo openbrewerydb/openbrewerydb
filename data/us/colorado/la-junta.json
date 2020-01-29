@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dean-and-co",
+    "name": "Dean and Co",
+    "brewery_type": "micro",
+    "street": "201 Grant St",
+    "city": "La Junta",
+    "state": "Colorado",
+    "postal_code": "81050",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:04.927276",
+    "updated_at": "2018-08-11 21:36:34.644372",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

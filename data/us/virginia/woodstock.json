@@ -1,0 +1,19 @@
+[
+  {
+    "id": "woodstock-brewhouse",
+    "name": "Woodstock Brewhouse",
+    "brewery_type": "brewpub",
+    "street": "123 E Court St",
+    "city": "Woodstock",
+    "state": "Virginia",
+    "postal_code": "22664-1761",
+    "website_url": "http://www.woodstockbrewhouse.com",
+    "phone": "5404592739",
+    "created_at": "2018-07-24 01:34:27.560873",
+    "updated_at": "2018-08-24 16:31:52.220209",
+    "country": "United States",
+    "longitude": "-78.5041423486997",
+    "latitude": "38.881426480554",
+    "tags": []
+  }
+]

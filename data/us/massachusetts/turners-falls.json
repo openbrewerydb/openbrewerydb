@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brick-and-feather-brewery",
+    "name": "Brick and Feather Brewery",
+    "brewery_type": "micro",
+    "street": "78 11th St",
+    "city": "Turners Falls",
+    "state": "Massachusetts",
+    "postal_code": "01376-1020",
+    "website_url": "http://www.brickandfeatherbrewery.com",
+    "phone": "4138632574",
+    "created_at": "2018-07-24 01:33:30.572898",
+    "updated_at": "2018-08-11 21:37:39.599656",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

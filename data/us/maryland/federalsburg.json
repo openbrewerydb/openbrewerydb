@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-federal-brewing-company",
+    "name": "The Federal Brewing Company",
+    "brewery_type": "micro",
+    "street": "102 S Main St",
+    "city": "Federalsburg",
+    "state": "Maryland",
+    "postal_code": "21632-1215",
+    "website_url": "http://www.fedbrew.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:29.785459",
+    "updated_at": "2018-08-24 00:40:52.539601",
+    "country": "United States",
+    "longitude": "-75.77333325",
+    "latitude": "38.693604875",
+    "tags": []
+  }
+]

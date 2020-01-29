@@ -1,0 +1,19 @@
+[
+  {
+    "id": "buzzards-bay-brewing-co",
+    "name": "Buzzards Bay Brewing Co",
+    "brewery_type": "micro",
+    "street": "98 Horseneck Rd",
+    "city": "Westport",
+    "state": "Massachusetts",
+    "postal_code": "02790-1399",
+    "website_url": "http://www.buzzardsbrew.com",
+    "phone": "5086362288",
+    "created_at": "2018-07-24 01:33:30.655062",
+    "updated_at": "2018-08-24 00:41:11.09863",
+    "country": "United States",
+    "longitude": "-71.0497046109378",
+    "latitude": "41.5520745592303",
+    "tags": []
+  }
+]

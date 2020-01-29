@@ -1,0 +1,19 @@
+[
+  {
+    "id": "coachella-valley-brewing-co",
+    "name": "Coachella Valley Brewing Co",
+    "brewery_type": "micro",
+    "street": "30-640 Gunther St",
+    "city": "Thousand Palms",
+    "state": "California",
+    "postal_code": "92276-2333",
+    "website_url": "http://www.cvbco.com",
+    "phone": "7603435973",
+    "created_at": "2018-07-24 01:32:53.936262",
+    "updated_at": "2018-08-23 23:26:52.131964",
+    "country": "United States",
+    "longitude": "-116.401697",
+    "latitude": "33.826202",
+    "tags": []
+  }
+]

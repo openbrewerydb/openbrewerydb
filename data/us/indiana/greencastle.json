@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wasser-brewing-company",
+    "name": "Wasser Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "102 E Franklin St",
+    "city": "Greencastle",
+    "state": "Indiana",
+    "postal_code": "46135-1220",
+    "website_url": "http://www.wasserbrewing.com",
+    "phone": "7653019363",
+    "created_at": "2018-07-24 01:33:23.21051",
+    "updated_at": "2018-08-24 00:33:39.585081",
+    "country": "United States",
+    "longitude": "-86.8633102289789",
+    "latitude": "39.6446717121844",
+    "tags": []
+  }
+]

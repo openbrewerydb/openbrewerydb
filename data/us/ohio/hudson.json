@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hop-tree-brewing-company-ltd",
+    "name": "Hop Tree Brewing Company Ltd",
+    "brewery_type": "brewpub",
+    "street": "1297 Hudson Gate Dr",
+    "city": "Hudson",
+    "state": "Ohio",
+    "postal_code": "44236-3764",
+    "website_url": "http://www.hoptreebrewing.com",
+    "phone": "3303420060",
+    "created_at": "2018-07-24 01:34:01.179083",
+    "updated_at": "2018-08-24 15:44:08.582497",
+    "country": "United States",
+    "longitude": "-81.4451820505962",
+    "latitude": "41.20893905",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "parkers-steakhouse-and-brewery",
+    "name": "Parker's Steakhouse and Brewery",
+    "brewery_type": "brewpub",
+    "street": "1300 Mt Saint Helens Way NE",
+    "city": "Castle Rock",
+    "state": "Washington",
+    "postal_code": "98611-9014",
+    "website_url": "http://www.parkerssteakhouse.com",
+    "phone": "3609672333",
+    "created_at": "2018-07-24 01:34:31.953677",
+    "updated_at": "2018-08-24 16:37:56.306651",
+    "country": "United States",
+    "longitude": "-122.898886",
+    "latitude": "46.287285",
+    "tags": []
+  }
+]

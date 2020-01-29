@@ -1,0 +1,19 @@
+[
+  {
+    "id": "throwback-brewery",
+    "name": "Throwback Brewery",
+    "brewery_type": "brewpub",
+    "street": "7 Hobbs Rd",
+    "city": "North Hampton",
+    "state": "New Hampshire",
+    "postal_code": "03862-2120",
+    "website_url": "http://www.throwbackbrewery.com",
+    "phone": "6034980123",
+    "created_at": "2018-07-24 01:33:45.889077",
+    "updated_at": "2018-08-11 21:38:21.420695",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

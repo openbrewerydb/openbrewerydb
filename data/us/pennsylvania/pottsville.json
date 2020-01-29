@@ -1,0 +1,36 @@
+[
+  {
+    "id": "d-g-yuengling-and-son-inc",
+    "name": "D. G. Yuengling and Son Inc",
+    "brewery_type": "regional",
+    "street": "500 Mahantongo St",
+    "city": "Pottsville",
+    "state": "Pennsylvania",
+    "postal_code": "17901",
+    "website_url": "http://www.yuengling.com",
+    "phone": "5706224141",
+    "created_at": "2018-07-24 01:34:10.114535",
+    "updated_at": "2018-08-24 16:08:03.070965",
+    "country": "United States",
+    "longitude": "-76.198585",
+    "latitude": "40.682674",
+    "tags": []
+  },
+  {
+    "id": "d-g-yuengling-and-son-inc",
+    "name": "D. G. Yuengling and Son Inc",
+    "brewery_type": "regional",
+    "street": "310 Mill Creek Ave",
+    "city": "Pottsville",
+    "state": "Pennsylvania",
+    "postal_code": "17901-8692",
+    "website_url": "http://www.yuengling.com",
+    "phone": "2156319461",
+    "created_at": "2018-07-24 01:34:10.131113",
+    "updated_at": "2018-08-24 16:08:04.547903",
+    "country": "United States",
+    "longitude": "-76.1832368",
+    "latitude": "40.6982044",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ahnapee-brewery",
+    "name": "Ahnapee Brewery",
+    "brewery_type": "micro",
+    "street": "N9153 Cherry Tree Rd Apt 4",
+    "city": "Algoma",
+    "state": "Wisconsin",
+    "postal_code": "54201-9501",
+    "website_url": "http://www.ahnapeebrewery.com",
+    "phone": "9202178527",
+    "created_at": "2018-07-24 01:34:34.479419",
+    "updated_at": "2018-08-11 21:40:30.396445",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

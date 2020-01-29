@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cellarmans-pub-and-brewery",
+    "name": "Cellarman's Pub & Brewery",
+    "brewery_type": "brewpub",
+    "street": "2130 Texoma Pkwy",
+    "city": "Sherman",
+    "state": "Texas",
+    "postal_code": "75090-2622",
+    "website_url": "http://www.cellarmanspub.com",
+    "phone": "9038130994",
+    "created_at": "2018-07-24 01:34:18.692159",
+    "updated_at": "2018-08-24 16:19:45.696627",
+    "country": "United States",
+    "longitude": "-96.5995301069266",
+    "latitude": "33.66188865",
+    "tags": []
+  },
+  {
+    "id": "903-brewers",
+    "name": "903 Brewers",
+    "brewery_type": "micro",
+    "street": "1718 S Elm St",
+    "city": "Sherman",
+    "state": "Texas",
+    "postal_code": "75090-8725",
+    "website_url": "http://www.903brewers.com",
+    "phone": "2142438090",
+    "created_at": "2018-07-24 01:34:17.445521",
+    "updated_at": "2018-08-24 16:18:28.265528",
+    "country": "United States",
+    "longitude": "-96.6069805510298",
+    "latitude": "33.617887318202",
+    "tags": []
+  }
+]

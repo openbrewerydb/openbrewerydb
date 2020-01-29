@@ -1,0 +1,19 @@
+[
+  {
+    "id": "red-shed-brewing-company",
+    "name": "Red Shed Brewing Company",
+    "brewery_type": "micro",
+    "street": "817 Butter Bowl Rd",
+    "city": "Cherry Valley",
+    "state": "New York",
+    "postal_code": "13320-3106",
+    "website_url": "http://www.redshedbrewing.com",
+    "phone": "6077316454",
+    "created_at": "2018-07-24 01:33:53.041077",
+    "updated_at": "2018-08-11 21:38:39.580223",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

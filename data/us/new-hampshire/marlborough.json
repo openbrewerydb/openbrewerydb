@@ -1,0 +1,19 @@
+[
+  {
+    "id": "frogg-brewing",
+    "name": "Frogg Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Marlborough",
+    "state": "New Hampshire",
+    "postal_code": "03455-0252",
+    "website_url": "",
+    "phone": "6039033774",
+    "created_at": "2018-07-24 01:33:45.300119",
+    "updated_at": "2018-08-11 21:38:19.437609",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

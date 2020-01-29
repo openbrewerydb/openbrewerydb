@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tilted-axis-brewing-company",
+    "name": "Tilted Axis Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "303 W Nepessing St",
+    "city": "Lapeer",
+    "state": "Michigan",
+    "postal_code": "48446-2105",
+    "website_url": "http://www.tiltedaxis.beer",
+    "phone": "8109694477",
+    "created_at": "2018-07-24 01:33:37.169738",
+    "updated_at": "2018-08-24 00:44:29.430028",
+    "country": "United States",
+    "longitude": "-83.3124754897959",
+    "latitude": "43.053775755102",
+    "tags": []
+  }
+]

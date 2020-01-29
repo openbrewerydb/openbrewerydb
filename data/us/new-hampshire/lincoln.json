@@ -1,0 +1,19 @@
+[
+  {
+    "id": "one-love-brewery",
+    "name": "One Love Brewery",
+    "brewery_type": "brewpub",
+    "street": "25 S Mountain Rd",
+    "city": "Lincoln",
+    "state": "New Hampshire",
+    "postal_code": "03251-4268",
+    "website_url": "http://www.onelovebrewery.com",
+    "phone": "6037457290",
+    "created_at": "2018-07-24 01:33:45.582589",
+    "updated_at": "2018-08-11 21:38:20.44699",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

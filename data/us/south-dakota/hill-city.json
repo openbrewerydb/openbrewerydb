@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sick-n-twisted-brewing-co",
+    "name": "Sick N Twisted Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "23851 Highway 385 Ste A",
+    "city": "Hill City",
+    "state": "South Dakota",
+    "postal_code": "57745-6544",
+    "website_url": "",
+    "phone": "6055742454",
+    "created_at": "2018-07-24 01:34:15.509042",
+    "updated_at": "2018-08-11 21:39:39.715275",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "miner-brewing-co",
+    "name": "Miner Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "23845 Highway 385",
+    "city": "Hill City",
+    "state": "South Dakota",
+    "postal_code": "57745-6517",
+    "website_url": "http://www.minerbrewing.com",
+    "phone": "6055742886",
+    "created_at": "2018-07-24 01:34:15.434442",
+    "updated_at": "2018-08-11 21:39:39.438205",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

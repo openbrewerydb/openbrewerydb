@@ -1,0 +1,36 @@
+[
+  {
+    "id": "rock-wood-fired-pizza-and-brewery-lynnwood",
+    "name": "Rock Wood Fired Pizza and Brewery - Lynnwood",
+    "brewery_type": "contract",
+    "street": "4010 196th St SW",
+    "city": "Lynnwood",
+    "state": "Washington",
+    "postal_code": "98036-6715",
+    "website_url": "http://www.therockwfp.com",
+    "phone": "4256976007",
+    "created_at": "2018-07-24 01:34:32.53644",
+    "updated_at": "2018-08-24 16:38:50.62955",
+    "country": "United States",
+    "longitude": "-122.287641610199",
+    "latitude": "47.82048455",
+    "tags": []
+  },
+  {
+    "id": "ellersick-brewing/-big-e-ales",
+    "name": "Ellersick Brewing/ Big E Ales",
+    "brewery_type": "brewpub",
+    "street": "5030 208th St SW Ste A",
+    "city": "Lynnwood",
+    "state": "Washington",
+    "postal_code": "98036-7642",
+    "website_url": "http://www.bigeales.com",
+    "phone": "4256727051",
+    "created_at": "2018-07-24 01:34:29.398801",
+    "updated_at": "2018-08-11 21:40:15.270256",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

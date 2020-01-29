@@ -1,0 +1,19 @@
+[
+  {
+    "id": "four-stacks-brewing",
+    "name": "Four Stacks Brewing",
+    "brewery_type": "micro",
+    "street": "5469 N US Highway 41",
+    "city": "Apollo Beach",
+    "state": "Florida",
+    "postal_code": "33572-3505",
+    "website_url": "http://fourstacksbrewing.com",
+    "phone": "8136412036",
+    "created_at": "2018-07-24 01:33:12.87089",
+    "updated_at": "2018-08-11 21:36:54.45454",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

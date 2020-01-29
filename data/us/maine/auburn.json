@@ -1,0 +1,53 @@
+[
+  {
+    "id": "lost-valley-brewing-co",
+    "name": "Lost Valley Brewing Co",
+    "brewery_type": "micro",
+    "street": "200 Lost Valley Rd",
+    "city": "Auburn",
+    "state": "Maine",
+    "postal_code": "04210",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:27.434389",
+    "updated_at": "2018-08-24 00:39:54.884057",
+    "country": "United States",
+    "longitude": "-70.280399",
+    "latitude": "44.130958",
+    "tags": []
+  },
+  {
+    "id": "gritty-mcduffs-lewiston/auburn",
+    "name": "Gritty McDuffs - Lewiston/Auburn",
+    "brewery_type": "brewpub",
+    "street": "68 Main St",
+    "city": "Auburn",
+    "state": "Maine",
+    "postal_code": "04210-5812",
+    "website_url": "",
+    "phone": "2073762739",
+    "created_at": "2018-07-24 01:33:27.25184",
+    "updated_at": "2018-08-24 00:39:48.311665",
+    "country": "United States",
+    "longitude": "-70.2244866515385",
+    "latitude": "44.0971728",
+    "tags": []
+  },
+  {
+    "id": "side-by-each-brewing-co",
+    "name": "Side By Each Brewing Co",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Auburn",
+    "state": "Maine",
+    "postal_code": "04210-3739",
+    "website_url": "",
+    "phone": "2073479920",
+    "created_at": "2018-07-24 01:33:28.035343",
+    "updated_at": "2018-08-11 21:37:34.14074",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

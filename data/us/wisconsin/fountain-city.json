@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fountain-city-brewing-co-/-monarch-public-house",
+    "name": "Fountain City Brewing Co / Monarch Public House",
+    "brewery_type": "contract",
+    "street": "19 N Main St",
+    "city": "Fountain City",
+    "state": "Wisconsin",
+    "postal_code": "54629-",
+    "website_url": "http://www.monarchtavern.com",
+    "phone": "6086874231",
+    "created_at": "2018-07-24 01:34:35.260158",
+    "updated_at": "2018-08-24 16:43:04.643645",
+    "country": "United States",
+    "longitude": "-91.717370392497",
+    "latitude": "44.1312440098884",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "penrose-brewing-company",
+    "name": "Penrose Brewing Company",
+    "brewery_type": "micro",
+    "street": "509 Stevens St",
+    "city": "Geneva",
+    "state": "Illinois",
+    "postal_code": "60134-1363",
+    "website_url": "http://www.penrosebrewing.com",
+    "phone": "6302322115",
+    "created_at": "2018-07-24 01:33:20.187149",
+    "updated_at": "2018-08-24 00:31:49.454741",
+    "country": "United States",
+    "longitude": "-88.3098488571429",
+    "latitude": "41.892531122449",
+    "tags": []
+  },
+  {
+    "id": "stockholms-vardshus",
+    "name": "Stockholms Vardshus",
+    "brewery_type": "brewpub",
+    "street": "306 W State St",
+    "city": "Geneva",
+    "state": "Illinois",
+    "postal_code": "60134-2103",
+    "website_url": "http://www.stockholmsbrewpub.com",
+    "phone": "6302081400",
+    "created_at": "2018-07-24 01:33:20.757445",
+    "updated_at": "2018-08-24 00:32:10.429682",
+    "country": "United States",
+    "longitude": "-88.3073530285714",
+    "latitude": "41.8877686857143",
+    "tags": []
+  }
+]

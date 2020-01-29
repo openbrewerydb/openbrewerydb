@@ -1,0 +1,19 @@
+[
+  {
+    "id": "union-barrel-works",
+    "name": "Union Barrel Works",
+    "brewery_type": "brewpub",
+    "street": "6 N Reamstown Rd",
+    "city": "Stevens",
+    "state": "Pennsylvania",
+    "postal_code": "17578",
+    "website_url": "",
+    "phone": "7173357837",
+    "created_at": "2018-07-24 01:34:13.314692",
+    "updated_at": "2018-08-11 21:39:32.957865",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

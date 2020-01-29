@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wachusett-brewing-co",
+    "name": "Wachusett Brewing Co",
+    "brewery_type": "regional",
+    "street": "175 State Rd E",
+    "city": "Westminster",
+    "state": "Massachusetts",
+    "postal_code": "01473-1208",
+    "website_url": "http://www.wachusettbrew.com",
+    "phone": "9788749965",
+    "created_at": "2018-07-24 01:33:32.268252",
+    "updated_at": "2018-08-24 00:41:55.642676",
+    "country": "United States",
+    "longitude": "-71.872940157432",
+    "latitude": "42.557835421284",
+    "tags": []
+  }
+]

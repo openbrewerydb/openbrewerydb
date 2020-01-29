@@ -1,0 +1,36 @@
+[
+  {
+    "id": "oak-and-iron-brewing-co",
+    "name": "Oak & Iron Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "18 Red Spring Rd",
+    "city": "Andover",
+    "state": "Massachusetts",
+    "postal_code": "01810-3448",
+    "website_url": "http://www.oakandironbrewing.com",
+    "phone": "9784754077",
+    "created_at": "2018-07-24 01:33:31.622953",
+    "updated_at": "2018-08-24 00:41:37.236512",
+    "country": "United States",
+    "longitude": "-71.1478857877187",
+    "latitude": "42.656149077407",
+    "tags": []
+  },
+  {
+    "id": "paramount-brewing-company",
+    "name": "Paramount Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Andover",
+    "state": "Massachusetts",
+    "postal_code": "01810-5011",
+    "website_url": "",
+    "phone": "6178691388",
+    "created_at": "2018-07-24 01:33:31.723714",
+    "updated_at": "2018-08-11 21:37:43.08113",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

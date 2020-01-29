@@ -1,0 +1,19 @@
+[
+  {
+    "id": "inoculum-ale-works",
+    "name": "Inoculum Ale Works",
+    "brewery_type": "micro",
+    "street": "1320 Commercial Way",
+    "city": "Spring Hill",
+    "state": "Florida",
+    "postal_code": "34606",
+    "website_url": "http://www.inoculumaleworks.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:13.337891",
+    "updated_at": "2018-08-24 00:27:36.698817",
+    "country": "United States",
+    "longitude": "-82.551896",
+    "latitude": "28.6060793",
+    "tags": []
+  }
+]

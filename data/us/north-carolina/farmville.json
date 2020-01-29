@@ -1,0 +1,19 @@
+[
+  {
+    "id": "duck-rabbit-craft-brewery",
+    "name": "Duck Rabbit Craft Brewery",
+    "brewery_type": "micro",
+    "street": "4519 West Pine St",
+    "city": "Farmville",
+    "state": "North Carolina",
+    "postal_code": "27828-8526",
+    "website_url": "http://duckrabbitbrewery.com",
+    "phone": "2527537745",
+    "created_at": "2018-07-24 01:33:56.020304",
+    "updated_at": "2018-08-24 15:41:35.445784",
+    "country": "United States",
+    "longitude": "-77.591863",
+    "latitude": "35.5980644",
+    "tags": []
+  }
+]

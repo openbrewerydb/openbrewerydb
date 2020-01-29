@@ -1,0 +1,19 @@
+[
+  {
+    "id": "belly-up-beer-company",
+    "name": "Belly Up Beer Company",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Western Springs",
+    "state": "Illinois",
+    "postal_code": "60558",
+    "website_url": "http://www.bellyupbeer.com",
+    "phone": "7088379762",
+    "created_at": "2018-07-24 01:33:18.168294",
+    "updated_at": "2018-08-11 21:37:08.068139",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

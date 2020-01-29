@@ -1,0 +1,36 @@
+[
+  {
+    "id": "golden-block-brewery",
+    "name": "Golden Block Brewery",
+    "brewery_type": "brewpub",
+    "street": "1227 Greene St",
+    "city": "Silverton",
+    "state": "Colorado",
+    "postal_code": "81433",
+    "website_url": "http://www.goldenblockbrewery.com",
+    "phone": "9703875962",
+    "created_at": "2018-07-24 01:33:05.5692",
+    "updated_at": "2018-08-24 00:23:10.194993",
+    "country": "United States",
+    "longitude": "-107.664230711091",
+    "latitude": "37.8119443404304",
+    "tags": []
+  },
+  {
+    "id": "avalanche-brewing-co",
+    "name": "Avalanche Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1067 Blair St",
+    "city": "Silverton",
+    "state": "Colorado",
+    "postal_code": "81433-0377",
+    "website_url": "http://www.avalanchebrewing.com",
+    "phone": "9703875282",
+    "created_at": "2018-07-24 01:33:03.551584",
+    "updated_at": "2018-08-24 00:05:31.622879",
+    "country": "United States",
+    "longitude": "-107.664790985118",
+    "latitude": "37.8098898995374",
+    "tags": []
+  }
+]

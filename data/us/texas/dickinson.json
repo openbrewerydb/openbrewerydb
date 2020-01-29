@@ -1,0 +1,53 @@
+[
+  {
+    "id": "galveston-bay-beer-company-inc",
+    "name": "Galveston Bay Beer Company, Inc.",
+    "brewery_type": "micro",
+    "street": "12900 FM 3436 Rd",
+    "city": "Dickinson",
+    "state": "Texas",
+    "postal_code": "77539-2565",
+    "website_url": "http://www.galvestonbaybeer.com",
+    "phone": "2813393210",
+    "created_at": "2018-07-24 01:34:19.392408",
+    "updated_at": "2018-08-11 21:39:49.813589",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "galactic-coast-brewing",
+    "name": "Galactic Coast Brewing",
+    "brewery_type": "micro",
+    "street": "1675 Dickinson Ave C",
+    "city": "Dickinson",
+    "state": "Texas",
+    "postal_code": "77539-4213",
+    "website_url": "http://www.galacticcoastbrewing.com",
+    "phone": "8327381960",
+    "created_at": "2018-07-24 01:34:19.379161",
+    "updated_at": "2018-08-24 16:20:44.873059",
+    "country": "United States",
+    "longitude": "-95.04696",
+    "latitude": "29.478",
+    "tags": []
+  },
+  {
+    "id": "texas-beer-refinery",
+    "name": "Texas Beer Refinery",
+    "brewery_type": "micro",
+    "street": "1825 Dickinson Ave Unit B",
+    "city": "Dickinson",
+    "state": "Texas",
+    "postal_code": "77539-7799",
+    "website_url": "http://www.texasbeerrefinery.com",
+    "phone": "8327791221",
+    "created_at": "2018-07-24 01:34:21.603257",
+    "updated_at": "2018-08-11 21:39:55.285248",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

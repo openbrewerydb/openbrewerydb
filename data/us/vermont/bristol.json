@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bobcat-brewery-and-cafe",
+    "name": "Bobcat Brewery & Cafe",
+    "brewery_type": "brewpub",
+    "street": "5 Main St",
+    "city": "Bristol",
+    "state": "Vermont",
+    "postal_code": "05443-1317",
+    "website_url": "http://www.bobcatcafe.com",
+    "phone": "8024533311",
+    "created_at": "2018-07-24 01:34:23.096614",
+    "updated_at": "2018-08-24 16:25:31.399741",
+    "country": "United States",
+    "longitude": "-73.0781120400805",
+    "latitude": "44.13284975",
+    "tags": []
+  },
+  {
+    "id": "hogback-mountain-brewery",
+    "name": "Hogback Mountain Brewery",
+    "brewery_type": "micro",
+    "street": "51 North St",
+    "city": "Bristol",
+    "state": "Vermont",
+    "postal_code": "05443-1026",
+    "website_url": "http://hogbackbrew.com",
+    "phone": "8023498195",
+    "created_at": "2018-07-24 01:34:23.385232",
+    "updated_at": "2018-08-24 16:25:58.152187",
+    "country": "United States",
+    "longitude": "-73.079007",
+    "latitude": "44.136511",
+    "tags": []
+  }
+]

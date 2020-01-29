@@ -1,0 +1,19 @@
+[
+  {
+    "id": "common-sense-brewing",
+    "name": "Common Sense Brewing",
+    "brewery_type": "micro",
+    "street": "102 Farnsworth Ave",
+    "city": "Bordentown",
+    "state": "New Jersey",
+    "postal_code": "08505-1308",
+    "website_url": "http://www.commonsensebrewing.com",
+    "phone": "6095268651",
+    "created_at": "2018-07-24 01:33:46.477152",
+    "updated_at": "2018-08-24 15:36:38.818521",
+    "country": "United States",
+    "longitude": "-74.7137284444444",
+    "latitude": "40.1484716666667",
+    "tags": []
+  }
+]

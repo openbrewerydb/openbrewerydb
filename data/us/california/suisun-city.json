@@ -1,0 +1,36 @@
+[
+  {
+    "id": "right-eye-brewing-co",
+    "name": "Right Eye Brewing Co",
+    "brewery_type": "micro",
+    "street": "301 Spring St",
+    "city": "Suisun City",
+    "state": "California",
+    "postal_code": "94585",
+    "website_url": "http://www.righteyebrewing.com",
+    "phone": "7074161347",
+    "created_at": "2018-07-24 01:32:59.917699",
+    "updated_at": "2018-08-24 00:01:27.572591",
+    "country": "United States",
+    "longitude": "-122.041544",
+    "latitude": "38.242484",
+    "tags": []
+  },
+  {
+    "id": "true-symmetry-brewing-company",
+    "name": "True Symmetry Brewing Company",
+    "brewery_type": "micro",
+    "street": "315 Marina Ctr",
+    "city": "Suisun City",
+    "state": "California",
+    "postal_code": "94585-2518",
+    "website_url": "http://Www.truesymmetry.beer",
+    "phone": "7072026000",
+    "created_at": "2018-07-24 01:33:02.592088",
+    "updated_at": "2018-08-11 21:36:26.470529",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

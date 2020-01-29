@@ -1,0 +1,36 @@
+[
+  {
+    "id": "destihl-champaign",
+    "name": "DESTIHL - Champaign",
+    "brewery_type": "brewpub",
+    "street": "301 N Neil St",
+    "city": "Champaign",
+    "state": "Illinois",
+    "postal_code": "61820-3163",
+    "website_url": "http://www.destihl.com",
+    "phone": "2173560301",
+    "created_at": "2018-07-24 01:33:18.615776",
+    "updated_at": "2018-08-24 00:30:46.915001",
+    "country": "United States",
+    "longitude": "-88.2437783",
+    "latitude": "40.1184918",
+    "tags": []
+  },
+  {
+    "id": "blind-pig-brewery",
+    "name": "Blind Pig Brewery",
+    "brewery_type": "brewpub",
+    "street": "120 N Neil St",
+    "city": "Champaign",
+    "state": "Illinois",
+    "postal_code": "61820-4023",
+    "website_url": "http://www.blindpigbrewery.com",
+    "phone": "2173985133",
+    "created_at": "2018-07-24 01:33:18.253048",
+    "updated_at": "2018-08-24 00:30:35.897563",
+    "country": "United States",
+    "longitude": "-88.2434108181818",
+    "latitude": "40.1171460909091",
+    "tags": []
+  }
+]

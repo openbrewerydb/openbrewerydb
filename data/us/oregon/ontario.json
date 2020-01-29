@@ -1,0 +1,36 @@
+[
+  {
+    "id": "tandem-brewing-co",
+    "name": "Tandem Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "17 SE 3rd Ave",
+    "city": "Ontario",
+    "state": "Oregon",
+    "postal_code": "97914-2803",
+    "website_url": "http://www.tandembrewing.com",
+    "phone": "2087416774",
+    "created_at": "2018-07-24 01:34:08.019225",
+    "updated_at": "2018-08-24 16:05:14.576014",
+    "country": "United States",
+    "longitude": "-116.962771930002",
+    "latitude": "44.0239107528541",
+    "tags": []
+  },
+  {
+    "id": "beer-valley-brewing-co",
+    "name": "Beer Valley Brewing Co",
+    "brewery_type": "micro",
+    "street": "937 SE 12th Ave",
+    "city": "Ontario",
+    "state": "Oregon",
+    "postal_code": "97914-4473",
+    "website_url": "http://www.beervalleybrewing.com",
+    "phone": "5418819088",
+    "created_at": "2018-07-24 01:34:04.802511",
+    "updated_at": "2018-08-24 15:45:55.649033",
+    "country": "United States",
+    "longitude": "-116.953980599592",
+    "latitude": "44.0150430706896",
+    "tags": []
+  }
+]

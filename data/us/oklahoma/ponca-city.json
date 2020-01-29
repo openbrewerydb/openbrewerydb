@@ -1,0 +1,19 @@
+[
+  {
+    "id": "vortex-alley-brewery",
+    "name": "Vortex Alley Brewery",
+    "brewery_type": "micro",
+    "street": "220 E. Central Ave",
+    "city": "Ponca City",
+    "state": "Oklahoma",
+    "postal_code": "74601",
+    "website_url": "",
+    "phone": "5803044781",
+    "created_at": "2018-07-24 01:34:04.359659",
+    "updated_at": "2018-08-24 15:45:41.394225",
+    "country": "United States",
+    "longitude": "-97.08161761185",
+    "latitude": "36.7024928980082",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "thunderhead-brewing-co",
+    "name": "Thunderhead Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "18 E 21st St",
+    "city": "Kearney",
+    "state": "Nebraska",
+    "postal_code": "68847-5402",
+    "website_url": "http://www.thunderheadbrewing.com",
+    "phone": "3082371558",
+    "created_at": "2018-07-24 01:33:44.064362",
+    "updated_at": "2018-08-24 00:47:50.76176",
+    "country": "United States",
+    "longitude": "-99.080732",
+    "latitude": "40.6966518333333",
+    "tags": []
+  }
+]

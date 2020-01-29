@@ -1,0 +1,19 @@
+[
+  {
+    "id": "oswald-brewing-company",
+    "name": "Oswald Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "110 S Main St",
+    "city": "Blue Earth",
+    "state": "Minnesota",
+    "postal_code": "56013-2007",
+    "website_url": "http://www.oswaldbrewingcompany.com",
+    "phone": "5075263101",
+    "created_at": "2018-07-24 01:33:39.304952",
+    "updated_at": "2018-08-24 00:45:38.476046",
+    "country": "United States",
+    "longitude": "-94.2184542040816",
+    "latitude": "44.1061044897959",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "two-bandits-brewing-company",
+    "name": "Two Bandits Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "106 E High St",
+    "city": "Hicksville",
+    "state": "Ohio",
+    "postal_code": "43526",
+    "website_url": "",
+    "phone": "4195421087",
+    "created_at": "2018-07-24 01:34:03.479882",
+    "updated_at": "2018-08-24 15:45:14.982938",
+    "country": "United States",
+    "longitude": "-84.7617010816327",
+    "latitude": "41.2936116326531",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "main-channel-brewing-company",
+    "name": "Main Channel Brewing Company",
+    "brewery_type": "micro",
+    "street": "2090 Gunter Ave",
+    "city": "Guntersville",
+    "state": "Alabama",
+    "postal_code": "35976-2113",
+    "website_url": "http://www.mainchannelbeer.com",
+    "phone": "2569605070",
+    "created_at": "2018-07-24 01:32:47.615464",
+    "updated_at": "2018-08-23 23:20:20.700157",
+    "country": "United States",
+    "longitude": "-86.3121603492064",
+    "latitude": "34.3387368412698",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "3-sons-brewing-co",
+    "name": "3 Sons Brewing Co.",
+    "brewery_type": "proprietor",
+    "street": "236 N Federal Hwy",
+    "city": "Dania",
+    "state": "Florida",
+    "postal_code": "33004-2870",
+    "website_url": "http://www.3sonsbrewingco.com",
+    "phone": "9546013833",
+    "created_at": "2018-07-24 01:33:11.128936",
+    "updated_at": "2018-08-24 00:26:22.191595",
+    "country": "United States",
+    "longitude": "-80.1436102851501",
+    "latitude": "26.0480023822368",
+    "tags": []
+  }
+]

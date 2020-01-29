@@ -1,0 +1,53 @@
+[
+  {
+    "id": "estes-park-brewery",
+    "name": "Estes Park Brewery",
+    "brewery_type": "micro",
+    "street": "470 Prospect Village Dr",
+    "city": "Estes Park",
+    "state": "Colorado",
+    "postal_code": "80517",
+    "website_url": "http://www.epbrewery.net",
+    "phone": "9705865421",
+    "created_at": "2018-07-24 01:33:05.341264",
+    "updated_at": "2018-08-24 00:23:00.338955",
+    "country": "United States",
+    "longitude": "-105.5261317",
+    "latitude": "40.3714876",
+    "tags": []
+  },
+  {
+    "id": "lumpy-ridge-brewing-co",
+    "name": "Lumpy Ridge Brewing Co",
+    "brewery_type": "micro",
+    "street": "531 S St Vrain Ave",
+    "city": "Estes Park",
+    "state": "Colorado",
+    "postal_code": "80517-7416",
+    "website_url": "http://www.lumpyridgebrewing.com",
+    "phone": "9702351752",
+    "created_at": "2018-07-24 01:33:06.42834",
+    "updated_at": "2018-08-24 00:23:46.402072",
+    "country": "United States",
+    "longitude": "-105.503658",
+    "latitude": "40.367158",
+    "tags": []
+  },
+  {
+    "id": "rock-cut-brewing-company",
+    "name": "Rock Cut Brewing Company",
+    "brewery_type": "micro",
+    "street": "390 W Riverside Dr",
+    "city": "Estes Park",
+    "state": "Colorado",
+    "postal_code": "80517",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:07.574292",
+    "updated_at": "2018-08-24 00:24:30.429097",
+    "country": "United States",
+    "longitude": "-105.523210505317",
+    "latitude": "40.3723782473414",
+    "tags": []
+  }
+]

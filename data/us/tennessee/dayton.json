@@ -1,0 +1,19 @@
+[
+  {
+    "id": "monkey-town-brewing-company",
+    "name": "Monkey Town Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "287 1st Ave",
+    "city": "Dayton",
+    "state": "Tennessee",
+    "postal_code": "37321-1248",
+    "website_url": "http://www.monkeytownbrewing.com",
+    "phone": "4237751800",
+    "created_at": "2018-07-24 01:34:16.792917",
+    "updated_at": "2018-08-24 16:17:36.568357",
+    "country": "United States",
+    "longitude": "-85.0127523750029",
+    "latitude": "35.4931380380085",
+    "tags": []
+  }
+]

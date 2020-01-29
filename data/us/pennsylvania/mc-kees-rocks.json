@@ -1,0 +1,36 @@
+[
+  {
+    "id": "412-brews",
+    "name": "412 Brews",
+    "brewery_type": "brewpub",
+    "street": "706 Island Ave",
+    "city": "Mc Kees Rocks",
+    "state": "Pennsylvania",
+    "postal_code": "15136-3287",
+    "website_url": "http://www.412brews.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:08.622854",
+    "updated_at": "2018-08-11 21:39:21.650596",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "abjuration-brewing",
+    "name": "Abjuration Brewing",
+    "brewery_type": "micro",
+    "street": "644 Broadway Ave",
+    "city": "Mc Kees Rocks",
+    "state": "Pennsylvania",
+    "postal_code": "15136-3008",
+    "website_url": "http://www.abjurationbrewing.com",
+    "phone": "4127661668",
+    "created_at": "2018-07-24 01:34:08.636218",
+    "updated_at": "2018-08-11 21:39:21.697205",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

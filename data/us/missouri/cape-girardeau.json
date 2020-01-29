@@ -1,0 +1,19 @@
+[
+  {
+    "id": "minglewood-brewery",
+    "name": "Minglewood Brewery",
+    "brewery_type": "brewpub",
+    "street": "121 Broadway St",
+    "city": "Cape Girardeau",
+    "state": "Missouri",
+    "postal_code": "63701-7326",
+    "website_url": "http://www.minglewoodbrewery.com",
+    "phone": "5738030524",
+    "created_at": "2018-07-24 01:33:41.360134",
+    "updated_at": "2018-08-24 00:46:37.297176",
+    "country": "United States",
+    "longitude": "-89.5185209550299",
+    "latitude": "37.3058363554378",
+    "tags": []
+  }
+]

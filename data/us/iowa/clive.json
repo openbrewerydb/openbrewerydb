@@ -1,0 +1,36 @@
+[
+  {
+    "id": "515-brewing-co",
+    "name": "515 Brewing Co",
+    "brewery_type": "micro",
+    "street": "7700 University Ave",
+    "city": "Clive",
+    "state": "Iowa",
+    "postal_code": "50325-1271",
+    "website_url": "http://www.515brewing.com",
+    "phone": "5156614615",
+    "created_at": "2018-07-24 01:33:23.330244",
+    "updated_at": "2018-08-24 00:33:43.585221",
+    "country": "United States",
+    "longitude": "-93.7228408",
+    "latitude": "41.599992",
+    "tags": []
+  },
+  {
+    "id": "granite-city-food-and-brewery-#4",
+    "name": "Granite City Food & Brewery (#4)",
+    "brewery_type": "brewpub",
+    "street": "12801 University Ave",
+    "city": "Clive",
+    "state": "Iowa",
+    "postal_code": "50325-8219",
+    "website_url": "http://www.gcfb.net",
+    "phone": "5152241300",
+    "created_at": "2018-07-24 01:33:23.807394",
+    "updated_at": "2018-08-24 00:37:55.618086",
+    "country": "United States",
+    "longitude": "-93.795293",
+    "latitude": "41.600494",
+    "tags": []
+  }
+]

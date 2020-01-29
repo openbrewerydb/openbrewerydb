@@ -1,0 +1,19 @@
+[
+  {
+    "id": "black-magic-brewing",
+    "name": "Black Magic Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Fountain Valley",
+    "state": "California",
+    "postal_code": "92708-6431",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:52.655332",
+    "updated_at": "2018-08-23 23:25:33.486354",
+    "country": "United States",
+    "longitude": "-117.9627349",
+    "latitude": "33.7038145",
+    "tags": []
+  }
+]

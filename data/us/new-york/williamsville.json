@@ -1,0 +1,19 @@
+[
+  {
+    "id": "12-gates-brewing-company",
+    "name": "12 Gates Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "80 Earhart Dr Ste 20",
+    "city": "Williamsville",
+    "state": "New York",
+    "postal_code": "14221-7804",
+    "website_url": "http://www.12gatesbrewing.com",
+    "phone": "7169066600",
+    "created_at": "2018-07-24 01:33:48.89093",
+    "updated_at": "2018-08-11 21:38:28.876513",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

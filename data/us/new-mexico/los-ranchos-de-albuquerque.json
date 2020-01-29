@@ -1,0 +1,19 @@
+[
+  {
+    "id": "steel-bender-brewyard",
+    "name": "Steel Bender Brewyard",
+    "brewery_type": "brewpub",
+    "street": "8305 2nd St NW",
+    "city": "Los Ranchos de Albuquerque",
+    "state": "New Mexico",
+    "postal_code": "87114-1038",
+    "website_url": "http://www.steelbenderbrewyard.com",
+    "phone": "5054333537",
+    "created_at": "2018-07-24 01:33:48.663792",
+    "updated_at": "2018-08-11 21:38:28.27982",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

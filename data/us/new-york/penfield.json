@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rogers-beer",
+    "name": "Rogers Beer",
+    "brewery_type": "contract",
+    "street": "23 Woodline Dr",
+    "city": "Penfield",
+    "state": "New York",
+    "postal_code": "14526-2413",
+    "website_url": "http://www.rogersbeer.com",
+    "phone": "5852980483",
+    "created_at": "2018-07-24 01:33:53.155078",
+    "updated_at": "2018-08-24 15:40:05.624172",
+    "country": "United States",
+    "longitude": "-77.4672381785714",
+    "latitude": "43.1286876785714",
+    "tags": []
+  }
+]

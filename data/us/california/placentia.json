@@ -1,0 +1,53 @@
+[
+  {
+    "id": "offshoot-beer-co",
+    "name": "Offshoot Beer Co.",
+    "brewery_type": "micro",
+    "street": "737 Dunn Way",
+    "city": "Placentia",
+    "state": "California",
+    "postal_code": "92870",
+    "website_url": "http://www.offshootbeer.com",
+    "phone": "7149966258",
+    "created_at": "2018-07-24 01:32:58.933507",
+    "updated_at": "2018-08-24 00:00:18.556994",
+    "country": "United States",
+    "longitude": "-117.880181995951",
+    "latitude": "33.8611259658639",
+    "tags": []
+  },
+  {
+    "id": "stereo-brewing-co",
+    "name": "Stereo Brewing Co",
+    "brewery_type": "micro",
+    "street": "950 S Via Rodeo",
+    "city": "Placentia",
+    "state": "California",
+    "postal_code": "92870-6775",
+    "website_url": "http://www.stereobrewing.com",
+    "phone": "7149933390",
+    "created_at": "2018-07-24 01:33:01.431239",
+    "updated_at": "2018-08-24 00:03:11.573632",
+    "country": "United States",
+    "longitude": "-117.820080198027",
+    "latitude": "33.8633095660543",
+    "tags": []
+  },
+  {
+    "id": "bruery-the",
+    "name": "Bruery, The",
+    "brewery_type": "micro",
+    "street": "717 Dunn Way",
+    "city": "Placentia",
+    "state": "California",
+    "postal_code": "92870-6806",
+    "website_url": "http://www.thebruery.com",
+    "phone": "7149966258",
+    "created_at": "2018-07-24 01:32:53.409581",
+    "updated_at": "2018-08-23 23:26:18.815465",
+    "country": "United States",
+    "longitude": "-117.8791616",
+    "latitude": "33.8623093",
+    "tags": []
+  }
+]

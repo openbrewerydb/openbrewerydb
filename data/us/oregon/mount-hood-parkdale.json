@@ -1,0 +1,19 @@
+[
+  {
+    "id": "solera-brewery",
+    "name": "Solera Brewery",
+    "brewery_type": "micro",
+    "street": "4945 Baseline Dr",
+    "city": "Mount Hood Parkdale",
+    "state": "Oregon",
+    "postal_code": "97041-",
+    "website_url": "http://www.solerabrewery.com",
+    "phone": "5413525500",
+    "created_at": "2018-07-24 01:34:07.882298",
+    "updated_at": "2018-08-11 21:39:19.319266",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mishap-brewing-company",
+    "name": "Mishap! Brewing Company",
+    "brewery_type": "micro",
+    "street": "48 S Main St",
+    "city": "Buffalo",
+    "state": "Wyoming",
+    "postal_code": "82834-1823",
+    "website_url": "http://www.mishapbrewing.com",
+    "phone": "3076205688",
+    "created_at": "2018-07-24 01:34:37.526597",
+    "updated_at": "2018-08-24 16:46:58.850658",
+    "country": "United States",
+    "longitude": "-106.698501170831",
+    "latitude": "44.3457000865667",
+    "tags": []
+  }
+]

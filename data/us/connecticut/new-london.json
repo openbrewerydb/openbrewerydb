@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tox-brewing-company",
+    "name": "Tox Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "New London",
+    "state": "Connecticut",
+    "postal_code": "06320",
+    "website_url": "http://www.toxbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:10.285433",
+    "updated_at": "2018-08-11 21:36:47.789649",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

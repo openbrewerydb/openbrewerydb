@@ -1,0 +1,36 @@
+[
+  {
+    "id": "grand-canyon-brewing-company",
+    "name": "Grand Canyon Brewing Company",
+    "brewery_type": "micro",
+    "street": "233 W Route 66",
+    "city": "Williams",
+    "state": "Arizona",
+    "postal_code": "86046-2530",
+    "website_url": "http://www.grandcanyonbrewingco.com",
+    "phone": "8005132072",
+    "created_at": "2018-07-24 01:32:49.251333",
+    "updated_at": "2018-08-23 23:21:53.397668",
+    "country": "United States",
+    "longitude": "-112.1892168",
+    "latitude": "35.2500282",
+    "tags": []
+  },
+  {
+    "id": "grand-canyon-brewing",
+    "name": "Grand Canyon Brewing",
+    "brewery_type": "brewpub",
+    "street": "301 N 7th St Ste 101",
+    "city": "Williams",
+    "state": "Arizona",
+    "postal_code": "86046",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:49.238222",
+    "updated_at": "2018-08-11 21:35:47.924993",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

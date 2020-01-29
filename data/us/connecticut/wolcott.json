@@ -1,0 +1,19 @@
+[
+  {
+    "id": "shebeen-brewing-company",
+    "name": "Shebeen Brewing Company",
+    "brewery_type": "micro",
+    "street": "1 Wolcott Rd",
+    "city": "Wolcott",
+    "state": "Connecticut",
+    "postal_code": "06716-2611",
+    "website_url": "http://www.shebeenbrewing.com",
+    "phone": "2035142336",
+    "created_at": "2018-07-24 01:33:10.079911",
+    "updated_at": "2018-08-24 00:25:49.321407",
+    "country": "United States",
+    "longitude": "-73.000062",
+    "latitude": "41.575855",
+    "tags": []
+  }
+]

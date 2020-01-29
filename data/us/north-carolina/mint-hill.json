@@ -1,0 +1,19 @@
+[
+  {
+    "id": "barking-duck-brewing-company",
+    "name": "Barking Duck Brewing Company",
+    "brewery_type": "micro",
+    "street": "4400 Morris Park Dr Ste R",
+    "city": "Mint Hill",
+    "state": "North Carolina",
+    "postal_code": "28227-9269",
+    "website_url": "http://www.barkingduckbrew.com",
+    "phone": "9809386300",
+    "created_at": "2018-07-24 01:33:54.978148",
+    "updated_at": "2018-08-11 21:38:44.828153",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

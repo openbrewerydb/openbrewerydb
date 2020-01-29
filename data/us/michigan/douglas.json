@@ -1,0 +1,19 @@
+[
+  {
+    "id": "saugatuck-brewing-co",
+    "name": "Saugatuck Brewing Co",
+    "brewery_type": "micro",
+    "street": "2948 Blue Star Hwy",
+    "city": "Douglas",
+    "state": "Michigan",
+    "postal_code": "49406-5195",
+    "website_url": "http://www.saugatuckbrewing.com",
+    "phone": "2698577222",
+    "created_at": "2018-07-24 01:33:36.48991",
+    "updated_at": "2018-08-24 00:44:06.736852",
+    "country": "United States",
+    "longitude": "-86.2120076981151",
+    "latitude": "42.6298938561253",
+    "tags": []
+  }
+]

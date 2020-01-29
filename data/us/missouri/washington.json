@@ -1,0 +1,36 @@
+[
+  {
+    "id": "augusta-brewing-co",
+    "name": "Augusta Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "109 W Main St",
+    "city": "Washington",
+    "state": "Missouri",
+    "postal_code": "63090-2191",
+    "website_url": "http://www.augustabrewing.com",
+    "phone": "6362395010",
+    "created_at": "2018-07-24 01:33:40.483507",
+    "updated_at": "2018-08-24 00:46:12.114022",
+    "country": "United States",
+    "longitude": "-91.0117347240948",
+    "latitude": "38.56026935",
+    "tags": []
+  },
+  {
+    "id": "deep-sleep-brewing-company-llc",
+    "name": "Deep Sleep Brewing Company LLC",
+    "brewery_type": "micro",
+    "street": "6891 Whiskey Creek Rd.",
+    "city": "Washington",
+    "state": "Missouri",
+    "postal_code": "63090",
+    "website_url": "",
+    "phone": "3142395801",
+    "created_at": "2018-07-24 01:33:40.894301",
+    "updated_at": "2018-08-11 21:38:07.47729",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

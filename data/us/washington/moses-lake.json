@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ten-pin-brewing-production-facility",
+    "name": "Ten Pin Brewing - Production Facility",
+    "brewery_type": "micro",
+    "street": "1149 N Stratford Rd",
+    "city": "Moses Lake",
+    "state": "Washington",
+    "postal_code": "98837-1514",
+    "website_url": "http://www.tenpinbrewing.com",
+    "phone": "5097662739",
+    "created_at": "2018-07-24 01:34:33.14064",
+    "updated_at": "2018-08-24 16:39:55.353982",
+    "country": "United States",
+    "longitude": "-119.278173739206",
+    "latitude": "47.1448735537829",
+    "tags": []
+  },
+  {
+    "id": "ten-pin-brewing-co",
+    "name": "Ten Pin Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1165 N Stratford Rd",
+    "city": "Moses Lake",
+    "state": "Washington",
+    "postal_code": "98837-1514",
+    "website_url": "http://www.tenpinbrewing.com",
+    "phone": "5097651265",
+    "created_at": "2018-07-24 01:34:33.156104",
+    "updated_at": "2018-08-24 16:39:56.865844",
+    "country": "United States",
+    "longitude": "-119.278169917565",
+    "latitude": "47.145064411016",
+    "tags": []
+  },
+  {
+    "id": "st-brigids-brewery",
+    "name": "St Brigid's Brewery",
+    "brewery_type": "brewpub",
+    "street": "606 W Broadway Ave",
+    "city": "Moses Lake",
+    "state": "Washington",
+    "postal_code": "98837-1900",
+    "website_url": "http://www.stbrigidsbrewery.com",
+    "phone": "5097508357",
+    "created_at": "2018-07-24 01:34:32.983017",
+    "updated_at": "2018-08-24 16:39:37.231644",
+    "country": "United States",
+    "longitude": "-119.285096155572",
+    "latitude": "47.1280836846376",
+    "tags": []
+  }
+]

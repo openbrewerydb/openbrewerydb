@@ -1,0 +1,19 @@
+[
+  {
+    "id": "spilled-grain-brewhouse",
+    "name": "Spilled Grain Brewhouse",
+    "brewery_type": "micro",
+    "street": "300 Elm St E",
+    "city": "Annandale",
+    "state": "Minnesota",
+    "postal_code": "55302-9406",
+    "website_url": "http://www.spilledgrainbrewhouse.com",
+    "phone": "3202741129",
+    "created_at": "2018-07-24 01:33:39.579671",
+    "updated_at": "2018-08-24 00:45:46.610069",
+    "country": "United States",
+    "longitude": "-94.1194613181467",
+    "latitude": "45.2595823784151",
+    "tags": []
+  }
+]

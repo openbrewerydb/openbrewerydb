@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brush-creek-brewing-company",
+    "name": "Brush Creek Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "102 N Main St",
+    "city": "Atkinson",
+    "state": "Nebraska",
+    "postal_code": "68713-4946",
+    "website_url": "",
+    "phone": "4029252629",
+    "created_at": "2018-07-24 01:33:43.492037",
+    "updated_at": "2018-08-24 00:47:35.515868",
+    "country": "United States",
+    "longitude": "-98.9783672653061",
+    "latitude": "42.5314150204082",
+    "tags": []
+  }
+]

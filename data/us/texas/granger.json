@@ -1,0 +1,19 @@
+[
+  {
+    "id": "granger-city-brewing-company",
+    "name": "Granger City Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "109 W Davilla St",
+    "city": "Granger",
+    "state": "Texas",
+    "postal_code": "76530",
+    "website_url": "http://www.grangercitybrewingcompany.com",
+    "phone": "5127171859",
+    "created_at": "2018-07-24 01:34:19.513502",
+    "updated_at": "2018-08-11 21:39:50.152775",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

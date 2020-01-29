@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mother-stewarts-brewing-co",
+    "name": "Mother Stewart's Brewing Co",
+    "brewery_type": "micro",
+    "street": "109 W North St",
+    "city": "Springfield",
+    "state": "Ohio",
+    "postal_code": "45504-2546",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:01.922876",
+    "updated_at": "2018-08-24 15:44:31.724232",
+    "country": "United States",
+    "longitude": "-83.8119656562835",
+    "latitude": "39.9271684098324",
+    "tags": []
+  }
+]

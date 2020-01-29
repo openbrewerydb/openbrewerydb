@@ -1,0 +1,36 @@
+[
+  {
+    "id": "crawford-brew-works",
+    "name": "Crawford Brew Works",
+    "brewery_type": "micro",
+    "street": "3659 Devils Glen Rd",
+    "city": "Bettendorf",
+    "state": "Iowa",
+    "postal_code": "52722",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:23.593928",
+    "updated_at": "2018-08-24 00:33:55.965161",
+    "country": "United States",
+    "longitude": "-90.483443779661",
+    "latitude": "41.5592441864407",
+    "tags": []
+  },
+  {
+    "id": "five-cities-brewing",
+    "name": "Five Cities Brewing",
+    "brewery_type": "micro",
+    "street": "2255 Falcon Ave",
+    "city": "Bettendorf",
+    "state": "Iowa",
+    "postal_code": "52722",
+    "website_url": "http://www.fivecitiesbrewing.com",
+    "phone": "5632326105",
+    "created_at": "2018-07-24 01:33:23.736863",
+    "updated_at": "2018-08-24 00:37:52.805799",
+    "country": "United States",
+    "longitude": "-90.5012637754947",
+    "latitude": "41.5743051839499",
+    "tags": []
+  }
+]

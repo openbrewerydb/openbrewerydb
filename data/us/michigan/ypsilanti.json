@@ -1,0 +1,53 @@
+[
+  {
+    "id": "734-brewing-company",
+    "name": "734 Brewing Company",
+    "brewery_type": "micro",
+    "street": "15 E Cross St",
+    "city": "Ypsilanti",
+    "state": "Michigan",
+    "postal_code": "48198",
+    "website_url": "",
+    "phone": "7346496453",
+    "created_at": "2018-07-24 01:33:32.495551",
+    "updated_at": "2018-08-24 00:41:59.719275",
+    "country": "United States",
+    "longitude": "-83.61103475",
+    "latitude": "42.24586784375",
+    "tags": []
+  },
+  {
+    "id": "mishigama-craft-brewing-/-ypsi-alehouse",
+    "name": "Mishigama Craft Brewing / Ypsi Alehouse",
+    "brewery_type": "brewpub",
+    "street": "124 Pearl St Ste 100",
+    "city": "Ypsilanti",
+    "state": "Michigan",
+    "postal_code": "48197-5374",
+    "website_url": "http://www.ypsialehouse.com",
+    "phone": "7344871555",
+    "created_at": "2018-07-24 01:33:35.530198",
+    "updated_at": "2018-08-11 21:37:52.843486",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "arbor-brewing-co-microbrewery",
+    "name": "Arbor Brewing Co. Microbrewery",
+    "brewery_type": "micro",
+    "street": "720 Norris St",
+    "city": "Ypsilanti",
+    "state": "Michigan",
+    "postal_code": "48198-2825",
+    "website_url": "",
+    "phone": "7344802739",
+    "created_at": "2018-07-24 01:33:32.614485",
+    "updated_at": "2018-08-24 00:42:04.230403",
+    "country": "United States",
+    "longitude": "-83.6099915",
+    "latitude": "42.250158",
+    "tags": []
+  }
+]

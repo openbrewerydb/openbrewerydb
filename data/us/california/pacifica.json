@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pedro-point-brewing",
+    "name": "Pedro Point Brewing",
+    "brewery_type": "micro",
+    "street": "55A Bill Drake Way",
+    "city": "Pacifica",
+    "state": "California",
+    "postal_code": "94044",
+    "website_url": "http://www.pedropointbrewing.com",
+    "phone": "6502889149",
+    "created_at": "2018-07-24 01:32:59.362993",
+    "updated_at": "2018-08-24 00:00:47.756204",
+    "country": "United States",
+    "longitude": "-122.491021666667",
+    "latitude": "37.6511615833333",
+    "tags": []
+  }
+]

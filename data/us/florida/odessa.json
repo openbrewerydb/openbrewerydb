@@ -1,0 +1,19 @@
+[
+  {
+    "id": "big-storm-brewing",
+    "name": "Big Storm Brewing",
+    "brewery_type": "micro",
+    "street": "2330 Success Dr",
+    "city": "Odessa",
+    "state": "Florida",
+    "postal_code": "33556",
+    "website_url": "",
+    "phone": "7273762890",
+    "created_at": "2018-07-24 01:33:11.563236",
+    "updated_at": "2018-08-24 00:26:35.417839",
+    "country": "United States",
+    "longitude": "-82.6261876198197",
+    "latitude": "28.1919217801414",
+    "tags": []
+  }
+]

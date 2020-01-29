@@ -1,0 +1,19 @@
+[
+  {
+    "id": "loonys-brew",
+    "name": "Loony's Brew",
+    "brewery_type": "brewpub",
+    "street": "3481 Main St",
+    "city": "Ranier",
+    "state": "Minnesota",
+    "postal_code": "56668",
+    "website_url": "http://www.loonysbrew.com",
+    "phone": "2185401001",
+    "created_at": "2018-07-24 01:33:39.082186",
+    "updated_at": "2018-08-24 00:45:30.720115",
+    "country": "United States",
+    "longitude": "-93.3474314",
+    "latitude": "48.6152185",
+    "tags": []
+  }
+]

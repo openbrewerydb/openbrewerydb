@@ -1,0 +1,19 @@
+[
+  {
+    "id": "black-pond-brews",
+    "name": "Black Pond Brews",
+    "brewery_type": "micro",
+    "street": "21A Furnace St",
+    "city": "Danielson",
+    "state": "Connecticut",
+    "postal_code": "06239-3040",
+    "website_url": "http://www.blackpondbrews.com",
+    "phone": "8602075295",
+    "created_at": "2018-07-24 01:33:09.133989",
+    "updated_at": "2018-08-24 00:25:24.980232",
+    "country": "United States",
+    "longitude": "-71.8839447345293",
+    "latitude": "41.8047008489267",
+    "tags": []
+  }
+]

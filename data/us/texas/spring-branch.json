@@ -1,0 +1,36 @@
+[
+  {
+    "id": "rough-diamond-brewery",
+    "name": "Rough Diamond Brewery",
+    "brewery_type": "micro",
+    "street": "101 Kendalia Cir",
+    "city": "Spring Branch",
+    "state": "Texas",
+    "postal_code": "78070-6621",
+    "website_url": "http://rdbrewery.com",
+    "phone": "8308856616",
+    "created_at": "2018-07-24 01:34:21.018492",
+    "updated_at": "2018-08-11 21:39:53.798464",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "shade-tree-saloon-and-grill",
+    "name": "Shade Tree Saloon & Grill",
+    "brewery_type": "brewpub",
+    "street": "13530 Hwy 281 N",
+    "city": "Spring Branch",
+    "state": "Texas",
+    "postal_code": "78070",
+    "website_url": "http://www.shadetreesaloon.com",
+    "phone": "8308855550",
+    "created_at": "2018-07-24 01:34:21.179027",
+    "updated_at": "2018-08-11 21:39:54.119024",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

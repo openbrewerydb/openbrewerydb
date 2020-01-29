@@ -1,0 +1,19 @@
+[
+  {
+    "id": "goat-island-brewing",
+    "name": "Goat Island Brewing",
+    "brewery_type": "micro",
+    "street": "1646 A John H Cooper Drive",
+    "city": "Cullman",
+    "state": "Alabama",
+    "postal_code": "35055",
+    "website_url": "http://www.goatislandbrewing.com",
+    "phone": "2565909081",
+    "created_at": "2018-07-24 01:32:47.539453",
+    "updated_at": "2018-08-11 21:35:43.99911",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "old-klaverack-brewery",
+    "name": "Old Klaverack Brewery",
+    "brewery_type": "micro",
+    "street": "150 Thielman Rd",
+    "city": "Hudson",
+    "state": "New York",
+    "postal_code": "12534-3716",
+    "website_url": "http://www.oldklaverackbrewery.com",
+    "phone": "5189651437",
+    "created_at": "2018-07-24 01:33:52.662142",
+    "updated_at": "2018-08-11 21:38:38.606428",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "suarez-family-brewery",
+    "name": "Suarez Family Brewery",
+    "brewery_type": "micro",
+    "street": "2278 RT. 9",
+    "city": "Hudson",
+    "state": "New York",
+    "postal_code": "12534-4701",
+    "website_url": "http://www.suarezfamilybrewery.com",
+    "phone": "5185376464",
+    "created_at": "2018-07-24 01:33:53.873607",
+    "updated_at": "2018-08-11 21:38:42.117558",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

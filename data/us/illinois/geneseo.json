@@ -1,0 +1,36 @@
+[
+  {
+    "id": "geneseo-brewing-company",
+    "name": "Geneseo Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "102 S State St",
+    "city": "Geneseo",
+    "state": "Illinois",
+    "postal_code": "61254-1348",
+    "website_url": "http://www.geneseobrewingcompany.com",
+    "phone": "3099451422",
+    "created_at": "2018-07-24 01:33:18.951549",
+    "updated_at": "2018-08-24 00:31:01.94498",
+    "country": "United States",
+    "longitude": "-90.15561",
+    "latitude": "41.4520320615141",
+    "tags": []
+  },
+  {
+    "id": "lionstone-brewing",
+    "name": "Lionstone Brewing",
+    "brewery_type": "brewpub",
+    "street": "1225 S Oakwood Ave",
+    "city": "Geneseo",
+    "state": "Illinois",
+    "postal_code": "61254-1990",
+    "website_url": "http://www.lionstonebrewing.com",
+    "phone": "3092696220",
+    "created_at": "2018-07-24 01:33:19.62384",
+    "updated_at": "2018-08-24 00:31:27.993357",
+    "country": "United States",
+    "longitude": "-90.1575271790662",
+    "latitude": "41.435503432772",
+    "tags": []
+  }
+]

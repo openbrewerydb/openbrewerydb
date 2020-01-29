@@ -1,0 +1,19 @@
+[
+  {
+    "id": "aiken-brewing-co",
+    "name": "Aiken Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "140 Laurens St SW",
+    "city": "Aiken",
+    "state": "South Carolina",
+    "postal_code": "29801-3848",
+    "website_url": "http://www.aikenbrewingcompany.com",
+    "phone": "8035020707",
+    "created_at": "2018-07-24 01:34:13.999153",
+    "updated_at": "2018-08-24 16:14:08.10786",
+    "country": "United States",
+    "longitude": "-81.7228141",
+    "latitude": "33.5603084",
+    "tags": []
+  }
+]

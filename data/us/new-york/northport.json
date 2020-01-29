@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sand-city-brewing-co",
+    "name": "Sand City Brewing Co.",
+    "brewery_type": "micro",
+    "street": "60 Main St",
+    "city": "Northport",
+    "state": "New York",
+    "postal_code": "11768-1722",
+    "website_url": "http://www.sandcitybeer.com",
+    "phone": "9177965672",
+    "created_at": "2018-07-24 01:33:53.380601",
+    "updated_at": "2018-08-24 15:40:12.570394",
+    "country": "United States",
+    "longitude": "-73.3508587",
+    "latitude": "40.8998983",
+    "tags": []
+  },
+  {
+    "id": "harbor-head-brewing-co",
+    "name": "Harbor Head Brewing Co",
+    "brewery_type": "micro",
+    "street": "81 Fort Salonga Rd",
+    "city": "Northport",
+    "state": "New York",
+    "postal_code": "11768-2889",
+    "website_url": "http://www.harborheadbrew.com",
+    "phone": "6318155588",
+    "created_at": "2018-07-24 01:33:51.508546",
+    "updated_at": "2018-08-24 15:39:14.743783",
+    "country": "United States",
+    "longitude": "-73.3539709",
+    "latitude": "40.8908555",
+    "tags": []
+  }
+]

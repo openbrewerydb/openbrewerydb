@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dry-county-brewing",
+    "name": "Dry County Brewing",
+    "brewery_type": "brewpub",
+    "street": "585 Oak Ave",
+    "city": "Spruce Pine",
+    "state": "North Carolina",
+    "postal_code": "28777-2727",
+    "website_url": "http://www.drycountybrewing.com",
+    "phone": "8287654583",
+    "created_at": "2018-07-24 01:33:56.004648",
+    "updated_at": "2018-08-24 15:41:34.943932",
+    "country": "United States",
+    "longitude": "-82.063578",
+    "latitude": "35.9158912",
+    "tags": []
+  }
+]

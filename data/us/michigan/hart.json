@@ -1,0 +1,19 @@
+[
+  {
+    "id": "big-hart-brewing-company",
+    "name": "Big Hart Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "4086 W Polk Rd",
+    "city": "Hart",
+    "state": "Michigan",
+    "postal_code": "49420-8172",
+    "website_url": "http://www.bighartbrewing.com",
+    "phone": "2313018226",
+    "created_at": "2018-07-24 01:33:33.07509",
+    "updated_at": "2018-08-11 21:37:46.069313",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

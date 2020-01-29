@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brewery-in-planning-camarillo-ca",
+    "name": "Brewery in Planning - Camarillo, CA",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Camarillo",
+    "state": "California",
+    "postal_code": "93012-9406",
+    "website_url": "",
+    "phone": "8054077641",
+    "created_at": "2018-07-24 01:32:53.045416",
+    "updated_at": "2018-08-23 23:26:01.10296",
+    "country": "United States",
+    "longitude": "-119.0376024",
+    "latitude": "34.2163939",
+    "tags": []
+  },
+  {
+    "id": "institution-ale-company",
+    "name": "Institution Ale Company",
+    "brewery_type": "brewpub",
+    "street": "3841 Mission Oaks Blvd",
+    "city": "Camarillo",
+    "state": "California",
+    "postal_code": "93012-5036",
+    "website_url": "http://www.institutionales.com",
+    "phone": "8054823777",
+    "created_at": "2018-07-24 01:32:56.930905",
+    "updated_at": "2018-08-23 23:29:56.054601",
+    "country": "United States",
+    "longitude": "-119.020337176471",
+    "latitude": "34.2164669058823",
+    "tags": []
+  },
+  {
+    "id": "flat-fish-brewing",
+    "name": "Flat Fish Brewing",
+    "brewery_type": "micro",
+    "street": "126 N Wood Rd Ste 104",
+    "city": "Camarillo",
+    "state": "California",
+    "postal_code": "93010-8334",
+    "website_url": "http://www.flatfishbrewing.com",
+    "phone": "8054849600",
+    "created_at": "2018-07-24 01:32:55.582726",
+    "updated_at": "2018-08-11 21:36:04.216496",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

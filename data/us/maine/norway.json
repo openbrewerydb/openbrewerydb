@@ -1,0 +1,19 @@
+[
+  {
+    "id": "norway-brewing-company",
+    "name": "Norway Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "237 Main St",
+    "city": "Norway",
+    "state": "Maine",
+    "postal_code": "04268-5913",
+    "website_url": "http://www.norwaybrewing.com",
+    "phone": "2077392126",
+    "created_at": "2018-07-24 01:33:27.625823",
+    "updated_at": "2018-08-24 00:40:01.014025",
+    "country": "United States",
+    "longitude": "-70.5268344",
+    "latitude": "44.1973621",
+    "tags": []
+  }
+]

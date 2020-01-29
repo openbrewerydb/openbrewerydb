@@ -1,0 +1,19 @@
+[
+  {
+    "id": "great-dane-pub-and-brewing-co-fitchburg",
+    "name": "Great Dane Pub and Brewing Co - Fitchburg",
+    "brewery_type": "brewpub",
+    "street": "2980 Cahill Main",
+    "city": "Fitchburg",
+    "state": "Wisconsin",
+    "postal_code": "53711-7146",
+    "website_url": "http://www.greatdanepub.com",
+    "phone": "6084429000",
+    "created_at": "2018-07-24 01:34:35.444842",
+    "updated_at": "2018-08-24 16:43:22.913492",
+    "country": "United States",
+    "longitude": "-89.4237090342225",
+    "latitude": "43.0181626711064",
+    "tags": []
+  }
+]

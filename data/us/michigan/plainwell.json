@@ -1,0 +1,19 @@
+[
+  {
+    "id": "old-mill-brewpub-and-grill",
+    "name": "Old Mill Brewpub and Grill",
+    "brewery_type": "brewpub",
+    "street": "717 E Bridge St",
+    "city": "Plainwell",
+    "state": "Michigan",
+    "postal_code": "49080-1801",
+    "website_url": "http://www.oldmillbrew.com",
+    "phone": "2692046601",
+    "created_at": "2018-07-24 01:33:35.801023",
+    "updated_at": "2018-08-24 00:43:45.218174",
+    "country": "United States",
+    "longitude": "-85.6322453673469",
+    "latitude": "42.442939",
+    "tags": []
+  }
+]

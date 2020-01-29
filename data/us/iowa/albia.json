@@ -1,0 +1,19 @@
+[
+  {
+    "id": "albia-brewing-co",
+    "name": "Albia Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "11 Benton Ave E",
+    "city": "Albia",
+    "state": "Iowa",
+    "postal_code": "52531-2032",
+    "website_url": "http://www.albiabrewingcompany.blogspot.com",
+    "phone": "6419324085",
+    "created_at": "2018-07-24 01:33:23.354695",
+    "updated_at": "2018-08-24 00:33:44.626483",
+    "country": "United States",
+    "longitude": "-92.8073711031576",
+    "latitude": "41.0271890321554",
+    "tags": []
+  }
+]

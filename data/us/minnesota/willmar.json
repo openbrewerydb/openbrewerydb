@@ -1,0 +1,19 @@
+[
+  {
+    "id": "foxhole-brewhouse",
+    "name": "Foxhole Brewhouse",
+    "brewery_type": "micro",
+    "street": "313 4th St SW",
+    "city": "Willmar",
+    "state": "Minnesota",
+    "postal_code": "56201",
+    "website_url": "http://www.foxholebrewhouse.com",
+    "phone": "3204412071",
+    "created_at": "2018-07-24 01:33:38.47908",
+    "updated_at": "2018-08-24 00:45:11.81195",
+    "country": "United States",
+    "longitude": "-95.0477073500236",
+    "latitude": "45.1205663290406",
+    "tags": []
+  }
+]

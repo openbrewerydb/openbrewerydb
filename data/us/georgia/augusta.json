@@ -1,0 +1,36 @@
+[
+  {
+    "id": "riverwatch-brewery",
+    "name": "Riverwatch Brewery",
+    "brewery_type": "micro",
+    "street": "1150 5th St Bldg 61",
+    "city": "Augusta",
+    "state": "Georgia",
+    "postal_code": "30901-5861",
+    "website_url": "http://www.riverwatchbrewery.com",
+    "phone": "7064217177",
+    "created_at": "2018-07-24 01:33:16.295665",
+    "updated_at": "2018-08-11 21:37:03.365231",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "savannah-river-brewing-company",
+    "name": "Savannah River Brewing Company",
+    "brewery_type": "micro",
+    "street": "813 5th St",
+    "city": "Augusta",
+    "state": "Georgia",
+    "postal_code": "30901-2414",
+    "website_url": "http://www.savannahriverbrew.com",
+    "phone": "7064268212",
+    "created_at": "2018-07-24 01:33:16.345409",
+    "updated_at": "2018-08-24 00:29:26.129101",
+    "country": "United States",
+    "longitude": "-81.9628808233695",
+    "latitude": "33.4653453607462",
+    "tags": []
+  }
+]

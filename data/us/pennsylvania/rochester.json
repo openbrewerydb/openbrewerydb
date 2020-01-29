@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brixton-brewing",
+    "name": "Brixton Brewing",
+    "brewery_type": "brewpub",
+    "street": "165 Brighton Ave",
+    "city": "Rochester",
+    "state": "Pennsylvania",
+    "postal_code": "15074-2203",
+    "website_url": "http://www.brixtonbrewing.com",
+    "phone": "7247282227",
+    "created_at": "2018-07-24 01:34:09.544303",
+    "updated_at": "2018-08-24 16:07:06.979303",
+    "country": "United States",
+    "longitude": "-80.2828549",
+    "latitude": "40.70091875",
+    "tags": []
+  }
+]

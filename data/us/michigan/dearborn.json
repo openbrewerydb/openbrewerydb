@@ -1,0 +1,36 @@
+[
+  {
+    "id": "dearborn-brewing",
+    "name": "Dearborn Brewing",
+    "brewery_type": "micro",
+    "street": "21930 Michigan Ave",
+    "city": "Dearborn",
+    "state": "Michigan",
+    "postal_code": "48124-2351",
+    "website_url": "http://www.dearbornbrewing.com",
+    "phone": "3139144187",
+    "created_at": "2018-07-24 01:33:33.905754",
+    "updated_at": "2018-08-24 00:42:42.458559",
+    "country": "United States",
+    "longitude": "-83.2433835",
+    "latitude": "42.30664415",
+    "tags": []
+  },
+  {
+    "id": "downey-brewing-company",
+    "name": "Downey Brewing Company",
+    "brewery_type": "micro",
+    "street": "13121 Prospect St",
+    "city": "Dearborn",
+    "state": "Michigan",
+    "postal_code": "48126-3603",
+    "website_url": "http://www.downeybrewingcompany.com",
+    "phone": "3132888442",
+    "created_at": "2018-07-24 01:33:33.946018",
+    "updated_at": "2018-08-24 00:42:43.882762",
+    "country": "United States",
+    "longitude": "-83.1735072471655",
+    "latitude": "42.3162529546485",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "evil-czech-brewery",
+    "name": "Evil Czech Brewery",
+    "brewery_type": "brewpub",
+    "street": "3703 N Main St",
+    "city": "Mishawaka",
+    "state": "Indiana",
+    "postal_code": "46545-3111",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:21.911064",
+    "updated_at": "2018-08-24 00:32:48.656777",
+    "country": "United States",
+    "longitude": "-86.1823337",
+    "latitude": "41.6939205",
+    "tags": []
+  },
+  {
+    "id": "granite-city-food-and-brewery-#26",
+    "name": "Granite City Food & Brewery (#26)",
+    "brewery_type": "brewpub",
+    "street": "6501 Grape Rd Ste 1000",
+    "city": "Mishawaka",
+    "state": "Indiana",
+    "postal_code": "46545-1010",
+    "website_url": "http://www.gcfb.net",
+    "phone": "5742430900",
+    "created_at": "2018-07-24 01:33:22.126492",
+    "updated_at": "2018-08-24 00:32:56.609052",
+    "country": "United States",
+    "longitude": "-86.1923429",
+    "latitude": "41.7177604",
+    "tags": []
+  }
+]

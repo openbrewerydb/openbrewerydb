@@ -1,0 +1,19 @@
+[
+  {
+    "id": "biere-de-mac-brew-works",
+    "name": "Biere De Mac Brew Works",
+    "brewery_type": "micro",
+    "street": "14277 N Mackinaw Hwy",
+    "city": "Mackinaw City",
+    "state": "Michigan",
+    "postal_code": "49701-8622",
+    "website_url": "http://www.bieredemac.com",
+    "phone": "2314277007",
+    "created_at": "2018-07-24 01:33:33.021636",
+    "updated_at": "2018-08-11 21:37:45.98503",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

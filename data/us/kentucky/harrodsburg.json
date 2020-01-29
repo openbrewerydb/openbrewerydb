@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lemons-mill-brewery",
+    "name": "Lemons Mill Brewery",
+    "brewery_type": "micro",
+    "street": "166 Marimon Ave",
+    "city": "Harrodsburg",
+    "state": "Kentucky",
+    "postal_code": "40330-1311",
+    "website_url": "http://www.lemonsmillbrewery.com",
+    "phone": "8592650872",
+    "created_at": "2018-07-24 01:33:25.743372",
+    "updated_at": "2018-08-24 00:38:58.486049",
+    "country": "United States",
+    "longitude": "-84.8386262396979",
+    "latitude": "37.7608082035243",
+    "tags": []
+  }
+]

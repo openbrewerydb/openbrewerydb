@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rocky-coulee-brewing",
+    "name": "Rocky Coulee Brewing",
+    "brewery_type": "micro",
+    "street": "205 E 1st Ave",
+    "city": "Odessa",
+    "state": "Washington",
+    "postal_code": "99159-9865",
+    "website_url": "http://www.rockycouleebrewingco.com",
+    "phone": "5093452216",
+    "created_at": "2018-07-24 01:34:32.562821",
+    "updated_at": "2018-08-24 16:38:53.606569",
+    "country": "United States",
+    "longitude": "-118.686746526088",
+    "latitude": "47.3331973855202",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cotton-brewing-co",
+    "name": "Cotton Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "626 Oak St",
+    "city": "Adrian",
+    "state": "Michigan",
+    "postal_code": "49221-3367",
+    "website_url": "http://www.cottonbrewing.com",
+    "phone": "5179026608",
+    "created_at": "2018-07-24 01:33:33.80399",
+    "updated_at": "2018-08-24 00:42:38.568232",
+    "country": "United States",
+    "longitude": "-84.0246341818182",
+    "latitude": "41.8913613636364",
+    "tags": []
+  }
+]

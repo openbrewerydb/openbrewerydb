@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-beer-diviner",
+    "name": "The Beer Diviner",
+    "brewery_type": "micro",
+    "street": "243 Bly Hollow Rd",
+    "city": "Petersburg",
+    "state": "New York",
+    "postal_code": "12040",
+    "website_url": "http://www.thebeerdiviner.com",
+    "phone": "5182106196",
+    "created_at": "2018-07-24 01:33:53.963511",
+    "updated_at": "2018-08-11 21:38:42.334255",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "port-huron-brewing-co",
+    "name": "Port Huron Brewing Co",
+    "brewery_type": "micro",
+    "street": "805 Business Park Dr",
+    "city": "Wisconsin Dells",
+    "state": "Wisconsin",
+    "postal_code": "53965-9440",
+    "website_url": "http://www.porthuronbeer.com",
+    "phone": "6082530340",
+    "created_at": "2018-07-24 01:34:36.255404",
+    "updated_at": "2018-08-24 16:44:50.940089",
+    "country": "United States",
+    "longitude": "-89.7465766666667",
+    "latitude": "43.6285166666667",
+    "tags": []
+  },
+  {
+    "id": "wisconsin-dells-brewing-company",
+    "name": "Wisconsin Dells Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "110 Wisconsin Dells Pkwy S",
+    "city": "Wisconsin Dells",
+    "state": "Wisconsin",
+    "postal_code": "53965-8304",
+    "website_url": "http://www.dellsmoosejaw.com",
+    "phone": "6082541122",
+    "created_at": "2018-07-24 01:34:37.239723",
+    "updated_at": "2018-08-11 21:40:37.742274",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

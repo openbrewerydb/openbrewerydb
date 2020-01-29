@@ -1,0 +1,19 @@
+[
+  {
+    "id": "garvies-point-brewery",
+    "name": "Garvies Point Brewery",
+    "brewery_type": "micro",
+    "street": "1 Garvies Point Rd",
+    "city": "Glen Cove",
+    "state": "New York",
+    "postal_code": "11542-2821",
+    "website_url": "http://www.garviespointbrewery.com",
+    "phone": "5168151999",
+    "created_at": "2018-07-24 01:33:51.193749",
+    "updated_at": "2018-08-24 15:39:04.481968",
+    "country": "United States",
+    "longitude": "-73.644083",
+    "latitude": "40.858979",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rome-city-brewing-co",
+    "name": "Rome City Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "325 Broad St",
+    "city": "Rome",
+    "state": "Georgia",
+    "postal_code": "30161-3005",
+    "website_url": "http://www.romebrewhouse.com",
+    "phone": "7062048474",
+    "created_at": "2018-07-24 01:33:16.307799",
+    "updated_at": "2018-08-24 00:29:25.578211",
+    "country": "United States",
+    "longitude": "-85.1726223061224",
+    "latitude": "34.2541039795918",
+    "tags": []
+  }
+]

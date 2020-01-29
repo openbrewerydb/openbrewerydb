@@ -1,0 +1,19 @@
+[
+  {
+    "id": "jafb-brewery",
+    "name": "JAFB Brewery",
+    "brewery_type": "micro",
+    "street": "120 Beall Ave",
+    "city": "Wooster",
+    "state": "Ohio",
+    "postal_code": "44691-3673",
+    "website_url": "http://www.jafbbeer.com",
+    "phone": "3306011827",
+    "created_at": "2018-07-24 01:34:01.309371",
+    "updated_at": "2018-08-24 15:44:12.683138",
+    "country": "United States",
+    "longitude": "-81.93429705",
+    "latitude": "40.7995432",
+    "tags": []
+  }
+]

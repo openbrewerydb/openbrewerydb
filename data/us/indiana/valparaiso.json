@@ -1,0 +1,53 @@
+[
+  {
+    "id": "figure-eight-brewing-co",
+    "name": "Figure Eight Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "150 Washington St",
+    "city": "Valparaiso",
+    "state": "Indiana",
+    "postal_code": "46383-5507",
+    "website_url": "http://www.figureeightbrewing.com",
+    "phone": "2194772000",
+    "created_at": "2018-07-24 01:33:21.946301",
+    "updated_at": "2018-08-11 21:37:19.054683",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "four-fathers-brewing",
+    "name": "Four Fathers Brewing",
+    "brewery_type": "micro",
+    "street": "1555 W Lincolnway Ste 105",
+    "city": "Valparaiso",
+    "state": "Indiana",
+    "postal_code": "46385-3801",
+    "website_url": "http://www.fourfathersbrewing.com",
+    "phone": "2194649712",
+    "created_at": "2018-07-24 01:33:22.023382",
+    "updated_at": "2018-08-24 00:32:52.694671",
+    "country": "United States",
+    "longitude": "-87.0790657249009",
+    "latitude": "41.4732834349405",
+    "tags": []
+  },
+  {
+    "id": "ironwood-brewing-co-llc",
+    "name": "Ironwood Brewing Co LLC",
+    "brewery_type": "micro",
+    "street": "6 Roosevelt Rd",
+    "city": "Valparaiso",
+    "state": "Indiana",
+    "postal_code": "46383-5136",
+    "website_url": "http://www.ironwoodbrewing.beer",
+    "phone": "2194054644",
+    "created_at": "2018-07-24 01:33:22.289556",
+    "updated_at": "2018-08-24 00:33:02.046774",
+    "country": "United States",
+    "longitude": "-87.046457",
+    "latitude": "41.4684063333333",
+    "tags": []
+  }
+]

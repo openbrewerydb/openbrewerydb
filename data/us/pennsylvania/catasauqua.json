@@ -1,0 +1,19 @@
+[
+  {
+    "id": "taylor-house-brewing-co",
+    "name": "Taylor House Brewing Co",
+    "brewery_type": "micro",
+    "street": "76 Lehigh St",
+    "city": "Catasauqua",
+    "state": "Pennsylvania",
+    "postal_code": "18032",
+    "website_url": "http://www.taylorhousebrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:12.981924",
+    "updated_at": "2018-08-24 16:12:29.493025",
+    "country": "United States",
+    "longitude": "-75.4680534197733",
+    "latitude": "40.6481783182778",
+    "tags": []
+  }
+]

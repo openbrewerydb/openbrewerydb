@@ -1,0 +1,19 @@
+[
+  {
+    "id": "waters-end-brewery",
+    "name": "Water's End Brewery",
+    "brewery_type": "micro",
+    "street": "12425 Dillingham Sq",
+    "city": "Lake Ridge",
+    "state": "Virginia",
+    "postal_code": "22192-5252",
+    "website_url": "http://watersendbrewery.com",
+    "phone": "5409075689",
+    "created_at": "2018-07-24 01:34:27.432384",
+    "updated_at": "2018-08-24 16:31:41.651884",
+    "country": "United States",
+    "longitude": "-77.3179100711535",
+    "latitude": "38.6847496694963",
+    "tags": []
+  }
+]

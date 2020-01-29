@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brewtus-brewing-co",
+    "name": "Brewtus Brewing Co",
+    "brewery_type": "micro",
+    "street": "23 Chestnut Ave",
+    "city": "Sharon",
+    "state": "Pennsylvania",
+    "postal_code": "16146-",
+    "website_url": "http://www.brewtusbrewing.com",
+    "phone": "7243086293",
+    "created_at": "2018-07-24 01:34:09.528705",
+    "updated_at": "2018-08-24 16:07:05.49025",
+    "country": "United States",
+    "longitude": "-80.5074993646832",
+    "latitude": "41.2326788756257",
+    "tags": []
+  }
+]

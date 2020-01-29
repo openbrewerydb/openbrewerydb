@@ -1,0 +1,19 @@
+[
+  {
+    "id": "finback-brewery",
+    "name": "Finback Brewery",
+    "brewery_type": "micro",
+    "street": "78-01 77th Ave",
+    "city": "Queens",
+    "state": "New York",
+    "postal_code": "11385-7518",
+    "website_url": "http://www.finbackbrewery.com",
+    "phone": "7186288600",
+    "created_at": "2018-07-24 01:33:50.85866",
+    "updated_at": "2018-08-24 15:38:53.097577",
+    "country": "United States",
+    "longitude": "-73.8732597",
+    "latitude": "40.7067227",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "port-opints-brewing-co",
+    "name": "Port O'Pints Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "1215 Northcrest Dr",
+    "city": "Crescent City",
+    "state": "California",
+    "postal_code": "95531-2320",
+    "website_url": "http://www.portopints.com",
+    "phone": "7074601154",
+    "created_at": "2018-07-24 01:32:59.665729",
+    "updated_at": "2018-08-24 00:01:08.26",
+    "country": "United States",
+    "longitude": "-124.199308523735",
+    "latitude": "41.7686313926072",
+    "tags": []
+  },
+  {
+    "id": "seaquake-brewing",
+    "name": "Seaquake Brewing",
+    "brewery_type": "brewpub",
+    "street": "400 Front St",
+    "city": "Crescent City",
+    "state": "California",
+    "postal_code": "95531-4369",
+    "website_url": "http://www.seaquakebrewing.com",
+    "phone": "7074654444",
+    "created_at": "2018-07-24 01:33:00.646465",
+    "updated_at": "2018-08-24 00:02:16.798618",
+    "country": "United States",
+    "longitude": "-124.200063",
+    "latitude": "41.749045",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mcmenamins-john-barleycorns",
+    "name": "McMenamins John Barleycorns",
+    "brewery_type": "brewpub",
+    "street": "14610 SW Sequoia Pkwy",
+    "city": "Tigard",
+    "state": "Oregon",
+    "postal_code": "97224-7185",
+    "website_url": "http://www.mcmenamins.com",
+    "phone": "5036846253",
+    "created_at": "2018-07-24 01:34:06.76733",
+    "updated_at": "2018-08-24 16:03:08.015681",
+    "country": "United States",
+    "longitude": "-122.746646597164",
+    "latitude": "45.41452585",
+    "tags": []
+  }
+]

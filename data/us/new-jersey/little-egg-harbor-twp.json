@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pinelands-brewing",
+    "name": "Pinelands Brewing",
+    "brewery_type": "micro",
+    "street": "140 7th Ave Unit 15",
+    "city": "Little Egg Harbor Twp",
+    "state": "New Jersey",
+    "postal_code": "08087-4259",
+    "website_url": "http://www.pinelandsbrewing.com",
+    "phone": "6092966169",
+    "created_at": "2018-07-24 01:33:47.233528",
+    "updated_at": "2018-08-11 21:38:24.861423",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

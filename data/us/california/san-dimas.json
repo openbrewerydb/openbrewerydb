@@ -1,0 +1,36 @@
+[
+  {
+    "id": "clayton-brewing-co",
+    "name": "Clayton Brewing Co",
+    "brewery_type": "contract",
+    "street": "661 W Arrow Hwy",
+    "city": "San Dimas",
+    "state": "California",
+    "postal_code": "91773-2936",
+    "website_url": "http://www.claytonbrewingco.com",
+    "phone": "9093944900",
+    "created_at": "2018-07-24 01:32:53.882599",
+    "updated_at": "2018-08-23 23:26:49.049859",
+    "country": "United States",
+    "longitude": "-117.826752",
+    "latitude": "34.1066017",
+    "tags": []
+  },
+  {
+    "id": "feathered-serpent-brewery",
+    "name": "Feathered Serpent Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "San Dimas",
+    "state": "California",
+    "postal_code": "91773-1477",
+    "website_url": "",
+    "phone": "3237079238",
+    "created_at": "2018-07-24 01:32:55.333373",
+    "updated_at": "2018-08-23 23:28:16.423426",
+    "country": "United States",
+    "longitude": "-117.8067257",
+    "latitude": "34.1066756",
+    "tags": []
+  }
+]

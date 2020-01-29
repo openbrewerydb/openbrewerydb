@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lake-rat-brewing",
+    "name": "Lake Rat Brewing",
+    "brewery_type": "brewpub",
+    "street": "108 S Main St",
+    "city": "Celina",
+    "state": "Ohio",
+    "postal_code": "45822",
+    "website_url": "http://www.lakeratbrewing.com",
+    "phone": "4197331830",
+    "created_at": "2018-07-24 01:34:01.388694",
+    "updated_at": "2018-08-24 15:44:15.711034",
+    "country": "United States",
+    "longitude": "-84.5706936734694",
+    "latitude": "40.5482005714286",
+    "tags": []
+  }
+]

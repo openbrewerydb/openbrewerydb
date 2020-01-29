@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kauai-island-brewery",
+    "name": "Kauai Island Brewery",
+    "brewery_type": "brewpub",
+    "street": "4350 Waialo Rd",
+    "city": "Port Allen",
+    "state": "Hawaii",
+    "postal_code": "96705",
+    "website_url": "http://www.kauaiislandbrewing.com",
+    "phone": "8083350006",
+    "created_at": "2018-07-24 01:33:16.893251",
+    "updated_at": "2018-08-11 21:37:04.691717",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

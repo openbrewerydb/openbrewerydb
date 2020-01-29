@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-red-yeti",
+    "name": "The Red Yeti",
+    "brewery_type": "brewpub",
+    "street": "256 Spring St",
+    "city": "Jeffersonville",
+    "state": "Indiana",
+    "postal_code": "47130-3340",
+    "website_url": "http://www.redyetijeff.com",
+    "phone": "8122885788",
+    "created_at": "2018-07-24 01:33:22.988612",
+    "updated_at": "2018-08-24 00:33:29.74378",
+    "country": "United States",
+    "longitude": "-85.7401585",
+    "latitude": "38.2718249",
+    "tags": []
+  }
+]

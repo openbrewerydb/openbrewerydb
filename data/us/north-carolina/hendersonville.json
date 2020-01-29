@@ -1,0 +1,53 @@
+[
+  {
+    "id": "southern-appalachian-brewery",
+    "name": "Southern Appalachian Brewery",
+    "brewery_type": "micro",
+    "street": "822 Locust St Ste 100",
+    "city": "Hendersonville",
+    "state": "North Carolina",
+    "postal_code": "28792-3758",
+    "website_url": "",
+    "phone": "8286841235",
+    "created_at": "2018-07-24 01:33:58.135451",
+    "updated_at": "2018-08-11 21:38:52.390327",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "sanctuary-brewing-company",
+    "name": "Sanctuary Brewing Company",
+    "brewery_type": "micro",
+    "street": "147 1st Ave E",
+    "city": "Hendersonville",
+    "state": "North Carolina",
+    "postal_code": "28792-5191",
+    "website_url": "http://www.sanctuarybrewco.com",
+    "phone": "8285959956",
+    "created_at": "2018-07-24 01:33:58.013046",
+    "updated_at": "2018-08-24 15:42:37.406902",
+    "country": "United States",
+    "longitude": "-82.458814122449",
+    "latitude": "35.3145325918367",
+    "tags": []
+  },
+  {
+    "id": "triskelion-brewing-company",
+    "name": "Triskelion Brewing Company",
+    "brewery_type": "micro",
+    "street": "340 7th Avenue East",
+    "city": "Hendersonville",
+    "state": "North Carolina",
+    "postal_code": "28792",
+    "website_url": "http://www.triskelionbrewing.com",
+    "phone": "8283887051",
+    "created_at": "2018-07-24 01:33:58.556152",
+    "updated_at": "2018-08-24 15:42:55.346688",
+    "country": "United States",
+    "longitude": "-82.4578969903109",
+    "latitude": "35.3206001746298",
+    "tags": []
+  }
+]

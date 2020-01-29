@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-mason-jar-brewing-company",
+    "name": "The Mason Jar Brewing Company",
+    "brewery_type": "micro",
+    "street": "29683 New Hub Dr Ste A",
+    "city": "Menifee",
+    "state": "California",
+    "postal_code": "92586-6545",
+    "website_url": "http://www.masonjarbrewing.com",
+    "phone": "9512445277",
+    "created_at": "2018-07-24 01:33:02.107551",
+    "updated_at": "2018-08-11 21:36:24.589311",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

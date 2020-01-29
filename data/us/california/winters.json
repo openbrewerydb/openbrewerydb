@@ -1,0 +1,19 @@
+[
+  {
+    "id": "berryessa-brewing-co",
+    "name": "Berryessa Brewing Co",
+    "brewery_type": "micro",
+    "street": "27260 State Highway 128",
+    "city": "Winters",
+    "state": "California",
+    "postal_code": "95694-9066",
+    "website_url": "http://www.berryessabrewingco.com",
+    "phone": "5303042202",
+    "created_at": "2018-07-24 01:32:52.44404",
+    "updated_at": "2018-08-11 21:35:56.218091",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

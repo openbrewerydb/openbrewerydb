@@ -1,0 +1,19 @@
+[
+  {
+    "id": "loes-brewing-company",
+    "name": "Loe's Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "1048 Harper Ave NW",
+    "city": "Lenoir",
+    "state": "North Carolina",
+    "postal_code": "28645-5085",
+    "website_url": "http://www.loesbrewing.com",
+    "phone": "8287543652",
+    "created_at": "2018-07-24 01:33:57.02537",
+    "updated_at": "2018-08-24 15:42:07.26506",
+    "country": "United States",
+    "longitude": "-81.5423534777728",
+    "latitude": "35.91276115",
+    "tags": []
+  }
+]

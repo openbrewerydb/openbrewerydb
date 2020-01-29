@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hayes-public-house",
+    "name": "Hayes Public House",
+    "brewery_type": "micro",
+    "street": "112 1st St S",
+    "city": "Buffalo",
+    "state": "Minnesota",
+    "postal_code": "55313-1402",
+    "website_url": "http://www.hayespublichouse.com",
+    "phone": "7637466389",
+    "created_at": "2018-07-24 01:33:38.728863",
+    "updated_at": "2018-08-24 00:45:19.780324",
+    "country": "United States",
+    "longitude": "-93.8745292239674",
+    "latitude": "45.1708480605313",
+    "tags": []
+  }
+]

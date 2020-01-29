@@ -1,0 +1,19 @@
+[
+  {
+    "id": "monks-cellar",
+    "name": "Monk's Cellar",
+    "brewery_type": "brewpub",
+    "street": "240 Vernon St",
+    "city": "Roseville",
+    "state": "California",
+    "postal_code": "95678-2633",
+    "website_url": "http://monkscellar.com",
+    "phone": "9167866665",
+    "created_at": "2018-07-24 01:32:58.424665",
+    "updated_at": "2018-08-23 23:59:42.860479",
+    "country": "United States",
+    "longitude": "-121.283398265306",
+    "latitude": "38.7495873673469",
+    "tags": []
+  }
+]

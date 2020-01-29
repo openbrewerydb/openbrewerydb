@@ -1,0 +1,53 @@
+[
+  {
+    "id": "braeloch-brewing-company",
+    "name": "Braeloch Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Kennett Square",
+    "state": "Pennsylvania",
+    "postal_code": "19348-3605",
+    "website_url": "",
+    "phone": "3026056473",
+    "created_at": "2018-07-24 01:34:09.180893",
+    "updated_at": "2018-08-11 21:39:23.433595",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "kennett-brewing-company",
+    "name": "Kennett Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "109 S Broad St Ste 2",
+    "city": "Kennett Square",
+    "state": "Pennsylvania",
+    "postal_code": "19348-3101",
+    "website_url": "http://www.kennettbrewingcompany.com",
+    "phone": "6104440440",
+    "created_at": "2018-07-24 01:34:11.189672",
+    "updated_at": "2018-08-11 21:39:27.990101",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "victory-brewing-co",
+    "name": "Victory Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "650 W Cypress St Ste 1",
+    "city": "Kennett Square",
+    "state": "Pennsylvania",
+    "postal_code": "19348-3059",
+    "website_url": "http://www.victorybeer.com",
+    "phone": "4847301870",
+    "created_at": "2018-07-24 01:34:13.378675",
+    "updated_at": "2018-08-11 21:39:33.115131",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

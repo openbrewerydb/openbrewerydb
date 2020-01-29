@@ -1,0 +1,36 @@
+[
+  {
+    "id": "grace-ridge-brewing-inc",
+    "name": "Grace Ridge Brewing, Inc.",
+    "brewery_type": "micro",
+    "street": "3388 B St Suite 2",
+    "city": "Homer",
+    "state": "Alaska",
+    "postal_code": "99603-7905",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:48.168751",
+    "updated_at": "2018-08-11 21:35:45.387544",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "homer-brewing-co",
+    "name": "Homer Brewing Co",
+    "brewery_type": "micro",
+    "street": "1411 Lake Shore Dr",
+    "city": "Homer",
+    "state": "Alaska",
+    "postal_code": "99603-7945",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:48.209057",
+    "updated_at": "2018-08-11 21:35:45.514526",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

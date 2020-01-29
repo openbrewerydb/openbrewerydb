@@ -1,0 +1,36 @@
+[
+  {
+    "id": "divine-swine-bbq",
+    "name": "Divine Swine BBQ",
+    "brewery_type": "brewpub",
+    "street": "2684 Lebanon Rd",
+    "city": "Manheim",
+    "state": "Pennsylvania",
+    "postal_code": "17545-9524",
+    "website_url": "http://www.divine-swine-bbq.com",
+    "phone": "7178799494",
+    "created_at": "2018-07-24 01:34:10.229947",
+    "updated_at": "2018-08-11 21:39:25.834268",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "swashbuckler-brewing-co",
+    "name": "Swashbuckler Brewing Co",
+    "brewery_type": "micro",
+    "street": "2775 Lebanon Rd",
+    "city": "Manheim",
+    "state": "Pennsylvania",
+    "postal_code": "17545-8711",
+    "website_url": "http://www.parenfaire.com",
+    "phone": "7176657021",
+    "created_at": "2018-07-24 01:34:12.945705",
+    "updated_at": "2018-08-11 21:39:32.071969",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

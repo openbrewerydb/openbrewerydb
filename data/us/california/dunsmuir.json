@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dunsmuir-brewery-works",
+    "name": "Dunsmuir Brewery Works",
+    "brewery_type": "brewpub",
+    "street": "5701 Dunsmuir Ave",
+    "city": "Dunsmuir",
+    "state": "California",
+    "postal_code": "96025-2008",
+    "website_url": "http://www.dunsmuirbreweryworks.com",
+    "phone": "5302351900",
+    "created_at": "2018-07-24 01:32:54.72647",
+    "updated_at": "2018-08-23 23:27:43.145863",
+    "country": "United States",
+    "longitude": "-122.271862",
+    "latitude": "41.211366",
+    "tags": []
+  }
+]

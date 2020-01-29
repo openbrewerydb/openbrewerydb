@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dueling-barrels",
+    "name": "Dueling Barrels",
+    "brewery_type": "micro",
+    "street": "745 Hambley Blvd",
+    "city": "Pikeville",
+    "state": "Kentucky",
+    "postal_code": "41501-9078",
+    "website_url": "http://www.duelingbarrels.com",
+    "phone": "6067663835",
+    "created_at": "2018-07-24 01:33:25.54165",
+    "updated_at": "2018-08-24 00:38:50.478046",
+    "country": "United States",
+    "longitude": "-82.5188190003997",
+    "latitude": "37.4817633464127",
+    "tags": []
+  }
+]

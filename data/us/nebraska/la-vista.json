@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lucky-bucket-brewing-co",
+    "name": "Lucky Bucket Brewing Co",
+    "brewery_type": "micro",
+    "street": "11941 Centennial Rd Ste 1",
+    "city": "La Vista",
+    "state": "Nebraska",
+    "postal_code": "68128-5623",
+    "website_url": "http://www.luckybucketbrewing.com",
+    "phone": "4027638868",
+    "created_at": "2018-07-24 01:33:43.862813",
+    "updated_at": "2018-08-11 21:38:15.881785",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "nebraska-brewing-co-la-vista",
+    "name": "Nebraska Brewing Co - La Vista",
+    "brewery_type": "micro",
+    "street": "6950 S 108th St",
+    "city": "La Vista",
+    "state": "Nebraska",
+    "postal_code": "68128-5701",
+    "website_url": "",
+    "phone": "4029340950",
+    "created_at": "2018-07-24 01:33:43.892283",
+    "updated_at": "2018-08-24 00:47:46.098515",
+    "country": "United States",
+    "longitude": "-96.0813295",
+    "latitude": "41.1772046",
+    "tags": []
+  }
+]

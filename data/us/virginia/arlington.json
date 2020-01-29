@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lidl-us-llc",
+    "name": "Lidl US LLC",
+    "brewery_type": "contract",
+    "street": "3500 S Clark St",
+    "city": "Arlington",
+    "state": "Virginia",
+    "postal_code": "22202-4045",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:25.880664",
+    "updated_at": "2018-08-24 16:29:25.248762",
+    "country": "United States",
+    "longitude": "-77.051863",
+    "latitude": "38.842856",
+    "tags": []
+  },
+  {
+    "id": "new-district-brewing-company",
+    "name": "New District Brewing Company",
+    "brewery_type": "micro",
+    "street": "2709 S Oakland St",
+    "city": "Arlington",
+    "state": "Virginia",
+    "postal_code": "22206-2309",
+    "website_url": "http://www.newdistrictbrewing.com",
+    "phone": "7038885820",
+    "created_at": "2018-07-24 01:34:26.105841",
+    "updated_at": "2018-08-24 16:29:46.089076",
+    "country": "United States",
+    "longitude": "-77.0896629884113",
+    "latitude": "38.8442198418856",
+    "tags": []
+  }
+]

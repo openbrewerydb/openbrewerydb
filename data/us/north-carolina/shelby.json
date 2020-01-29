@@ -1,0 +1,19 @@
+[
+  {
+    "id": "newgrass-brewing-company",
+    "name": "Newgrass Brewing Company",
+    "brewery_type": "micro",
+    "street": "213 S Lafayette St",
+    "city": "Shelby",
+    "state": "North Carolina",
+    "postal_code": "28150-5349",
+    "website_url": "http://www.newgrassbrewing.com",
+    "phone": "7049371280",
+    "created_at": "2018-07-24 01:33:57.508598",
+    "updated_at": "2018-08-24 15:42:21.589531",
+    "country": "United States",
+    "longitude": "-81.5403575555556",
+    "latitude": "35.2906197777778",
+    "tags": []
+  }
+]

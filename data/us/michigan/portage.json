@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bravo-restaurant-and-cafe",
+    "name": "Bravo! Restaurant & Cafe",
+    "brewery_type": "brewpub",
+    "street": "5402 Portage Rd",
+    "city": "Portage",
+    "state": "Michigan",
+    "postal_code": "49002-1718",
+    "website_url": "http://www.bravokalamazoo.com",
+    "phone": "2693447700",
+    "created_at": "2018-07-24 01:33:33.300293",
+    "updated_at": "2018-08-24 00:42:25.553522",
+    "country": "United States",
+    "longitude": "-85.5602313076769",
+    "latitude": "42.2389291819283",
+    "tags": []
+  },
+  {
+    "id": "latitude-42",
+    "name": "Latitude 42",
+    "brewery_type": "brewpub",
+    "street": "7842 Portage Rd Attn: Scott Freitas",
+    "city": "Portage",
+    "state": "Michigan",
+    "postal_code": "49002-4472",
+    "website_url": "http://www.latitude42brewingco.com",
+    "phone": "2694594242",
+    "created_at": "2018-07-24 01:33:35.221356",
+    "updated_at": "2018-08-11 21:37:51.776339",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "presidential-brewing-co",
+    "name": "Presidential Brewing Co.",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Portage",
+    "state": "Michigan",
+    "postal_code": "49024",
+    "website_url": "http://www.presidentialbrewing.com",
+    "phone": "2694689765",
+    "created_at": "2018-07-24 01:33:36.162902",
+    "updated_at": "2018-08-11 21:37:54.899409",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

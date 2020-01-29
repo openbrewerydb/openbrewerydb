@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sierra-blanca-brewing-co",
+    "name": "Sierra Blanca Brewing Co",
+    "brewery_type": "micro",
+    "street": "1016 Industrial Rd",
+    "city": "Moriarty",
+    "state": "New Mexico",
+    "postal_code": "87035-3567",
+    "website_url": "http://www.sierrablancabrewery.com",
+    "phone": "5058322337",
+    "created_at": "2018-07-24 01:33:48.621407",
+    "updated_at": "2018-08-11 21:38:28.178432",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

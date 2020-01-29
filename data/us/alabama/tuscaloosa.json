@@ -1,0 +1,53 @@
+[
+  {
+    "id": "band-of-brothers-brewing-company",
+    "name": "Band of Brothers Brewing Company",
+    "brewery_type": "micro",
+    "street": "1605 23rd Ave",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "postal_code": "35401-4653",
+    "website_url": "http://www.bandofbrosbrewing.com",
+    "phone": "2052665137",
+    "created_at": "2018-07-24 01:32:47.279898",
+    "updated_at": "2018-08-23 23:19:59.46244",
+    "country": "United States",
+    "longitude": "-87.5621551272424",
+    "latitude": "33.1984907123707",
+    "tags": []
+  },
+  {
+    "id": "black-warrior-brewing-co",
+    "name": "Black Warrior Brewing Co.",
+    "brewery_type": "micro",
+    "street": "2216 University Blvd",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "postal_code": "35401-1542",
+    "website_url": "http://www.blackwarriorbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:47.329972",
+    "updated_at": "2018-08-23 23:20:02.508761",
+    "country": "United States",
+    "longitude": "-87.565915",
+    "latitude": "33.2106175454545",
+    "tags": []
+  },
+  {
+    "id": "druid-city-brewing",
+    "name": "Druid City Brewing",
+    "brewery_type": "micro",
+    "street": "607 14th St",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "postal_code": "35401-3439",
+    "website_url": "http://www.druidcitybrewing.com",
+    "phone": "2058868140",
+    "created_at": "2018-07-24 01:32:47.47438",
+    "updated_at": "2018-08-23 23:20:11.558377",
+    "country": "United States",
+    "longitude": "-87.5437361470987",
+    "latitude": "33.1999747350306",
+    "tags": []
+  }
+]

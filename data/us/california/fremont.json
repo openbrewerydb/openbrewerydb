@@ -1,0 +1,53 @@
+[
+  {
+    "id": "fossil-fuels-brewing-co",
+    "name": "Fossil Fuels Brewing Co",
+    "brewery_type": "contract",
+    "street": "45928 Omega Dr",
+    "city": "Fremont",
+    "state": "California",
+    "postal_code": "94539-6848",
+    "website_url": "",
+    "phone": "5103815739",
+    "created_at": "2018-07-24 01:32:55.656844",
+    "updated_at": "2018-08-23 23:28:37.779068",
+    "country": "United States",
+    "longitude": "-121.9215949",
+    "latitude": "37.4989939",
+    "tags": []
+  },
+  {
+    "id": "jacks-brewing-co",
+    "name": "Jack's Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "39176 Argonaut Way",
+    "city": "Fremont",
+    "state": "California",
+    "postal_code": "94538-1304",
+    "website_url": "",
+    "phone": "5107962036",
+    "created_at": "2018-07-24 01:32:57.050895",
+    "updated_at": "2018-08-23 23:58:07.258868",
+    "country": "United States",
+    "longitude": "-121.988402464161",
+    "latitude": "37.5442084028756",
+    "tags": []
+  },
+  {
+    "id": "jp-dasbrew",
+    "name": "JP DasBrew",
+    "brewery_type": "micro",
+    "street": "44356 S Grimmer Blvd",
+    "city": "Fremont",
+    "state": "California",
+    "postal_code": "94538-6385",
+    "website_url": "http://www.dasbrewinc.com",
+    "phone": "5102705345",
+    "created_at": "2018-07-24 01:32:57.101163",
+    "updated_at": "2018-08-23 23:58:10.360652",
+    "country": "United States",
+    "longitude": "-121.9577836",
+    "latitude": "37.5043737",
+    "tags": []
+  }
+]

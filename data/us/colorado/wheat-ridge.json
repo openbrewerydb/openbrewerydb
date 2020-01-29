@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-rickoli",
+    "name": "Brewery Rickoli",
+    "brewery_type": "micro",
+    "street": "4335 Wadsworth Blvd",
+    "city": "Wheat Ridge",
+    "state": "Colorado",
+    "postal_code": "80033-4621",
+    "website_url": "http://www.breweryrickoli.com",
+    "phone": "3034316862",
+    "created_at": "2018-07-24 01:33:04.227869",
+    "updated_at": "2018-08-24 00:22:14.380034",
+    "country": "United States",
+    "longitude": "-105.0818046",
+    "latitude": "39.7757286",
+    "tags": []
+  },
+  {
+    "id": "colorado-plus",
+    "name": "Colorado Plus",
+    "brewery_type": "brewpub",
+    "street": "6995 W 38th Ave",
+    "city": "Wheat Ridge",
+    "state": "Colorado",
+    "postal_code": "80033-4965",
+    "website_url": "http://coloradoplus.net",
+    "phone": "3038775957",
+    "created_at": "2018-07-24 01:33:04.75369",
+    "updated_at": "2018-08-24 00:22:38.137364",
+    "country": "United States",
+    "longitude": "-105.0916384",
+    "latitude": "39.7693524",
+    "tags": []
+  }
+]

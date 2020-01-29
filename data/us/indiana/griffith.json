@@ -1,0 +1,53 @@
+[
+  {
+    "id": "pokro-brewing-company-the",
+    "name": "Pokro Brewing Company, The",
+    "brewery_type": "micro",
+    "street": "311 N Broad St",
+    "city": "Griffith",
+    "state": "Indiana",
+    "postal_code": "46319-2222",
+    "website_url": "http://www.pokrobrewing.com",
+    "phone": "2199247950",
+    "created_at": "2018-07-24 01:33:22.643436",
+    "updated_at": "2018-08-24 00:33:14.975229",
+    "country": "United States",
+    "longitude": "-87.4275573320627",
+    "latitude": "41.5266943049435",
+    "tags": []
+  },
+  {
+    "id": "new-oberpfalz-brewing",
+    "name": "New Oberpfalz Brewing",
+    "brewery_type": "brewpub",
+    "street": "121 E Main St",
+    "city": "Griffith",
+    "state": "Indiana",
+    "postal_code": "46319-2243",
+    "website_url": "http://www.newoberpfalz.com",
+    "phone": "3127381308",
+    "created_at": "2018-07-24 01:33:22.520594",
+    "updated_at": "2018-08-24 00:33:10.121422",
+    "country": "United States",
+    "longitude": "-87.4272757058824",
+    "latitude": "41.5227021176471",
+    "tags": []
+  },
+  {
+    "id": "wildrose-brewing-company",
+    "name": "Wildrose Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "1104 E Main St",
+    "city": "Griffith",
+    "state": "Indiana",
+    "postal_code": "46319-2826",
+    "website_url": "http://www.wildrosebrewing.com",
+    "phone": "2195955054",
+    "created_at": "2018-07-24 01:33:23.24699",
+    "updated_at": "2018-08-24 00:33:40.228704",
+    "country": "United States",
+    "longitude": "-87.4155241021932",
+    "latitude": "41.5227592264415",
+    "tags": []
+  }
+]

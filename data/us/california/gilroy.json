@@ -1,0 +1,19 @@
+[
+  {
+    "id": "golden-state-brew-and-grill",
+    "name": "Golden State Brew and Grill",
+    "brewery_type": "brewpub",
+    "street": "7560 Monterey Rd Ste 100",
+    "city": "Gilroy",
+    "state": "California",
+    "postal_code": "95020",
+    "website_url": "",
+    "phone": "4088467070",
+    "created_at": "2018-07-24 01:32:55.897835",
+    "updated_at": "2018-08-23 23:28:52.339361",
+    "country": "United States",
+    "longitude": "-121.569583923907",
+    "latitude": "37.0088398004623",
+    "tags": []
+  }
+]

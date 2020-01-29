@@ -1,0 +1,19 @@
+[
+  {
+    "id": "biloxi-brewing-co",
+    "name": "Biloxi Brewing Co",
+    "brewery_type": "micro",
+    "street": "186 Bohn St",
+    "city": "Biloxi",
+    "state": "Mississippi",
+    "postal_code": "39530-3812",
+    "website_url": "http://www.biloxibrewing.com",
+    "phone": "2282731638",
+    "created_at": "2018-07-24 01:33:40.156993",
+    "updated_at": "2018-08-24 00:46:02.621328",
+    "country": "United States",
+    "longitude": "-88.8936191295261",
+    "latitude": "30.3982915",
+    "tags": []
+  }
+]

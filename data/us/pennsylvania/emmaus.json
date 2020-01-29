@@ -1,0 +1,53 @@
+[
+  {
+    "id": "funk-brewing-company",
+    "name": "Funk Brewing Company",
+    "brewery_type": "micro",
+    "street": "19 S 6th St",
+    "city": "Emmaus",
+    "state": "Pennsylvania",
+    "postal_code": "18049-3741",
+    "website_url": "http://www.funkbrewing.com",
+    "phone": "6104218270",
+    "created_at": "2018-07-24 01:34:10.6038",
+    "updated_at": "2018-08-24 16:08:45.112679",
+    "country": "United States",
+    "longitude": "-75.4950185714286",
+    "latitude": "40.532105",
+    "tags": []
+  },
+  {
+    "id": "separatist-beer-project",
+    "name": "Separatist Beer Project",
+    "brewery_type": "proprietor",
+    "street": "",
+    "city": "Emmaus",
+    "state": "Pennsylvania",
+    "postal_code": "18049",
+    "website_url": "http://www.soleales.com",
+    "phone": "6103309114",
+    "created_at": "2018-07-24 01:34:12.548732",
+    "updated_at": "2018-08-11 21:39:31.105985",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "yergey-brewing",
+    "name": "Yergey Brewing",
+    "brewery_type": "micro",
+    "street": "518B Bank St",
+    "city": "Emmaus",
+    "state": "Pennsylvania",
+    "postal_code": "18049-2008",
+    "website_url": "http://yergeybrewing.com",
+    "phone": "6104172804",
+    "created_at": "2018-07-24 01:34:13.591689",
+    "updated_at": "2018-08-24 16:13:28.078352",
+    "country": "United States",
+    "longitude": "-75.4936659183674",
+    "latitude": "40.5337932244898",
+    "tags": []
+  }
+]

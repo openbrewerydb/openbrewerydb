@@ -1,0 +1,36 @@
+[
+  {
+    "id": "happy-valley-brewing-company",
+    "name": "Happy Valley Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "137 Elmwood St",
+    "city": "State College",
+    "state": "Pennsylvania",
+    "postal_code": "16801-6851",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:10.741161",
+    "updated_at": "2018-08-11 21:39:26.972755",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "ottos-pub-and-brewery",
+    "name": "Ottos Pub & Brewery",
+    "brewery_type": "brewpub",
+    "street": "2235 N Atherton St",
+    "city": "State College",
+    "state": "Pennsylvania",
+    "postal_code": "16803-1529",
+    "website_url": "http://www.ottospubandbrewery.com",
+    "phone": "8144701394",
+    "created_at": "2018-07-24 01:34:11.945922",
+    "updated_at": "2018-08-24 16:10:56.623792",
+    "country": "United States",
+    "longitude": "-77.8742944",
+    "latitude": "40.7977695",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mad-county-brewing",
+    "name": "Mad County Brewing",
+    "brewery_type": "brewpub",
+    "street": "45 N Main St",
+    "city": "Marshall",
+    "state": "North Carolina",
+    "postal_code": "28753-0040",
+    "website_url": "http://www.madisoncountybrewing.com",
+    "phone": "8286498600",
+    "created_at": "2018-07-24 01:33:57.132673",
+    "updated_at": "2018-08-24 15:42:10.960077",
+    "country": "United States",
+    "longitude": "-82.6858548433499",
+    "latitude": "35.7977289749748",
+    "tags": []
+  }
+]

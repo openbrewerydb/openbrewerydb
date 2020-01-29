@@ -1,0 +1,19 @@
+[
+  {
+    "id": "powder-hollow-brewery",
+    "name": "Powder Hollow Brewery",
+    "brewery_type": "micro",
+    "street": "504 Hazard Ave",
+    "city": "Enfield",
+    "state": "Connecticut",
+    "postal_code": "06082-",
+    "website_url": "http://www.powderhollowbrewery.com",
+    "phone": "8602050942",
+    "created_at": "2018-07-24 01:33:10.038422",
+    "updated_at": "2018-08-24 00:25:48.040962",
+    "country": "United States",
+    "longitude": "-72.5778709",
+    "latitude": "41.9896523",
+    "tags": []
+  }
+]

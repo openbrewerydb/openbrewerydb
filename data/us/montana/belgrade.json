@@ -1,0 +1,53 @@
+[
+  {
+    "id": "game-bag-brewing",
+    "name": "Game Bag Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Belgrade",
+    "state": "Montana",
+    "postal_code": "59714-8809",
+    "website_url": "",
+    "phone": "5092208584",
+    "created_at": "2018-07-24 01:33:42.58917",
+    "updated_at": "2018-08-11 21:38:11.629763",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "bar-3-bbq-and-brewing",
+    "name": "Bar 3 BBQ and Brewing",
+    "brewery_type": "brewpub",
+    "street": "100 S Broadway",
+    "city": "Belgrade",
+    "state": "Montana",
+    "postal_code": "59714-3909",
+    "website_url": "http://www.bar3bbq.com",
+    "phone": "4063889182",
+    "created_at": "2018-07-24 01:33:42.091491",
+    "updated_at": "2018-08-24 00:46:57.704054",
+    "country": "United States",
+    "longitude": "-111.1770268",
+    "latitude": "45.7751537",
+    "tags": []
+  },
+  {
+    "id": "madison-river-brewing-co",
+    "name": "Madison River Brewing Co",
+    "brewery_type": "micro",
+    "street": "20900 Frontage Rd Ste B",
+    "city": "Belgrade",
+    "state": "Montana",
+    "postal_code": "59714-8558",
+    "website_url": "http://www.madisonriverbrewing.com",
+    "phone": "4063880322",
+    "created_at": "2018-07-24 01:33:42.864291",
+    "updated_at": "2018-08-11 21:38:12.556389",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

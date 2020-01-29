@@ -1,0 +1,53 @@
+[
+  {
+    "id": "flagship-brewery-llc",
+    "name": "Flagship Brewery, LLC.",
+    "brewery_type": "micro",
+    "street": "40 Minthorne St",
+    "city": "Staten Island",
+    "state": "New York",
+    "postal_code": "10301-3241",
+    "website_url": "http://www.flagshipbrewery.nyc",
+    "phone": "7184485284",
+    "created_at": "2018-07-24 01:33:50.926629",
+    "updated_at": "2018-08-24 15:38:55.659685",
+    "country": "United States",
+    "longitude": "-74.0756332",
+    "latitude": "40.6372257",
+    "tags": []
+  },
+  {
+    "id": "kills-boro-brewing-company",
+    "name": "Kills Boro Brewing Company",
+    "brewery_type": "micro",
+    "street": "62 Van Duzer St",
+    "city": "Staten Island",
+    "state": "New York",
+    "postal_code": "10301-3226",
+    "website_url": "http://www.killsboro.com",
+    "phone": "3472778680",
+    "created_at": "2018-07-24 01:33:52.002778",
+    "updated_at": "2018-08-24 15:39:30.523492",
+    "country": "United States",
+    "longitude": "-74.077407875",
+    "latitude": "40.636479",
+    "tags": []
+  },
+  {
+    "id": "staten-island-beer-company",
+    "name": "Staten Island Beer Company",
+    "brewery_type": "micro",
+    "street": "20 Kinsey Pl",
+    "city": "Staten Island",
+    "state": "New York",
+    "postal_code": "10303-1427",
+    "website_url": "http://www.sibeerco.com",
+    "phone": "7183908445",
+    "created_at": "2018-07-24 01:33:53.743279",
+    "updated_at": "2018-08-24 15:40:24.602454",
+    "country": "United States",
+    "longitude": "-74.1703372857143",
+    "latitude": "40.6287474285714",
+    "tags": []
+  }
+]

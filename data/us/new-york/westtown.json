@@ -1,0 +1,19 @@
+[
+  {
+    "id": "westtown-brew-works",
+    "name": "Westtown Brew Works",
+    "brewery_type": "micro",
+    "street": "236 Schefflers Rd",
+    "city": "Westtown",
+    "state": "New York",
+    "postal_code": "10998-",
+    "website_url": "http://www.westtownbrewworks.com",
+    "phone": "8453044152",
+    "created_at": "2018-07-24 01:33:54.49449",
+    "updated_at": "2018-08-24 15:40:48.61535",
+    "country": "United States",
+    "longitude": "-74.5370795478446",
+    "latitude": "41.3143129456744",
+    "tags": []
+  }
+]

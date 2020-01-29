@@ -1,0 +1,19 @@
+[
+  {
+    "id": "river-ridge-brewing",
+    "name": "River Ridge Brewing",
+    "brewery_type": "micro",
+    "street": "118 N Riverview St",
+    "city": "Bellevue",
+    "state": "Iowa",
+    "postal_code": "52031-1248",
+    "website_url": "http://www.riverridgebrewing.com",
+    "phone": "5632310299",
+    "created_at": "2018-07-24 01:33:24.323507",
+    "updated_at": "2018-08-11 21:37:24.806755",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

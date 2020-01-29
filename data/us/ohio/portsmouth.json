@@ -1,0 +1,19 @@
+[
+  {
+    "id": "portsmouth-brewing-co/maults",
+    "name": "Portsmouth Brewing Co/Maults",
+    "brewery_type": "brewpub",
+    "street": "224 Second St",
+    "city": "Portsmouth",
+    "state": "Ohio",
+    "postal_code": "45662-0218",
+    "website_url": "http://www.portsmouthohbrewing.com",
+    "phone": "7403546106",
+    "created_at": "2018-07-24 01:34:02.492315",
+    "updated_at": "2018-08-11 21:39:03.180028",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

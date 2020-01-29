@@ -1,0 +1,19 @@
+[
+  {
+    "id": "short-story-brewing",
+    "name": "Short Story Brewing",
+    "brewery_type": "brewpub",
+    "street": "5904 Fairmont Rd",
+    "city": "Rivesville",
+    "state": "West Virginia",
+    "postal_code": "26588-8844",
+    "website_url": "http://www.shortstorybrewing.com",
+    "phone": "3049332165",
+    "created_at": "2018-07-24 01:34:34.295488",
+    "updated_at": "2018-08-11 21:40:29.538835",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

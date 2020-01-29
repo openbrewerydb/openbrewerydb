@@ -1,0 +1,19 @@
+[
+  {
+    "id": "off-main-brewing",
+    "name": "Off Main Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Davidson",
+    "state": "North Carolina",
+    "postal_code": "28036-6945",
+    "website_url": "http://OffMainBrewing.com",
+    "phone": "5124153075",
+    "created_at": "2018-07-24 01:33:57.595821",
+    "updated_at": "2018-08-11 21:38:51.159236",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

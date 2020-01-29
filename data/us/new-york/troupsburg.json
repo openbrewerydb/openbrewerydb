@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tripend-brewing",
+    "name": "TripEnd Brewing",
+    "brewery_type": "micro",
+    "street": "3072 Prutsman Rd",
+    "city": "Troupsburg",
+    "state": "New York",
+    "postal_code": "14885-9613",
+    "website_url": "http://www.tripendbrewing.com",
+    "phone": "6073467472",
+    "created_at": "2018-07-24 01:33:54.232089",
+    "updated_at": "2018-08-24 15:40:40.629861",
+    "country": "United States",
+    "longitude": "-77.5526894569569",
+    "latitude": "42.0912103379534",
+    "tags": []
+  }
+]

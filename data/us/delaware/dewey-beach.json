@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dewey-beer-co",
+    "name": "Dewey Beer Co.",
+    "brewery_type": "brewpub",
+    "street": "2100 Coastal Hwy",
+    "city": "Dewey Beach",
+    "state": "Delaware",
+    "postal_code": "19971-2317",
+    "website_url": "http://www.deweybeerco.com",
+    "phone": "3022271182",
+    "created_at": "2018-07-24 01:33:10.525507",
+    "updated_at": "2018-08-24 00:26:02.659721",
+    "country": "United States",
+    "longitude": "-75.07497503008",
+    "latitude": "38.6961465",
+    "tags": []
+  }
+]

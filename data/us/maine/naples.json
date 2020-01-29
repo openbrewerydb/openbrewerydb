@@ -1,0 +1,19 @@
+[
+  {
+    "id": "garys-olde-towne-tavern",
+    "name": "Gary's Olde Towne Tavern",
+    "brewery_type": "micro",
+    "street": "678 Roosevelt Trl",
+    "city": "Naples",
+    "state": "Maine",
+    "postal_code": "04055-5335",
+    "website_url": "http://www.garysoldetownetavern.com",
+    "phone": "2076936806",
+    "created_at": "2018-07-24 01:33:27.151896",
+    "updated_at": "2018-08-24 00:39:45.189174",
+    "country": "United States",
+    "longitude": "-70.601073",
+    "latitude": "43.969705",
+    "tags": []
+  }
+]

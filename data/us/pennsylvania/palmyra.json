@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mount-gretna-craft-brewery",
+    "name": "Mount Gretna Craft Brewery",
+    "brewery_type": "micro",
+    "street": "2701 Horseshoe Pike",
+    "city": "Palmyra",
+    "state": "Pennsylvania",
+    "postal_code": "17078-8949",
+    "website_url": "http://www.gretnabrewery.com",
+    "phone": "7178383545",
+    "created_at": "2018-07-24 01:34:11.752633",
+    "updated_at": "2018-08-11 21:39:29.252814",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

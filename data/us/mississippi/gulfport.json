@@ -1,0 +1,19 @@
+[
+  {
+    "id": "chandeleur-island-brewing-company",
+    "name": "Chandeleur Island Brewing Company",
+    "brewery_type": "micro",
+    "street": "2711 14th St",
+    "city": "Gulfport",
+    "state": "Mississippi",
+    "postal_code": "39501-1928",
+    "website_url": "http://www.chandeleurbrew.com",
+    "phone": "2287019985",
+    "created_at": "2018-07-24 01:33:40.172716",
+    "updated_at": "2018-08-24 00:46:03.091007",
+    "country": "United States",
+    "longitude": "-89.0954070161456",
+    "latitude": "30.367827",
+    "tags": []
+  }
+]

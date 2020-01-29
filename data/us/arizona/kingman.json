@@ -1,0 +1,36 @@
+[
+  {
+    "id": "black-bridge-brewery",
+    "name": "Black Bridge Brewery",
+    "brewery_type": "micro",
+    "street": "421 E Beale St",
+    "city": "Kingman",
+    "state": "Arizona",
+    "postal_code": "86401-5833",
+    "website_url": "http://www.blackbridgebrewery.com",
+    "phone": "9283773618",
+    "created_at": "2018-07-24 01:32:48.73024",
+    "updated_at": "2018-08-23 23:21:22.085179",
+    "country": "United States",
+    "longitude": "-114.051737005448",
+    "latitude": "35.1895876968531",
+    "tags": []
+  },
+  {
+    "id": "rickety-cricket-brewing",
+    "name": "Rickety Cricket Brewing",
+    "brewery_type": "brewpub",
+    "street": "312 E Beale St",
+    "city": "Kingman",
+    "state": "Arizona",
+    "postal_code": "86401-5832",
+    "website_url": "http://www.ricketycricketbrewing.com",
+    "phone": "9287532337",
+    "created_at": "2018-07-24 01:32:49.809207",
+    "updated_at": "2018-08-23 23:22:30.332719",
+    "country": "United States",
+    "longitude": "-114.061498100513",
+    "latitude": "35.19028906381",
+    "tags": []
+  }
+]

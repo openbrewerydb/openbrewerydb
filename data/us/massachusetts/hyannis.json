@@ -1,0 +1,36 @@
+[
+  {
+    "id": "barnstable-brewing",
+    "name": "Barnstable Brewing",
+    "brewery_type": "micro",
+    "street": "485 W Main St",
+    "city": "Hyannis",
+    "state": "Massachusetts",
+    "postal_code": "02601-3644",
+    "website_url": "http://www.barnstablebrewing.com",
+    "phone": "7744706989",
+    "created_at": "2018-07-24 01:33:30.155448",
+    "updated_at": "2018-08-24 00:41:01.290465",
+    "country": "United States",
+    "longitude": "-70.311595943756",
+    "latitude": "41.6491351739202",
+    "tags": []
+  },
+  {
+    "id": "cape-cod-beer",
+    "name": "Cape Cod Beer",
+    "brewery_type": "micro",
+    "street": "1336 Phinneys Ln Ste 2-2",
+    "city": "Hyannis",
+    "state": "Massachusetts",
+    "postal_code": "02601-1875",
+    "website_url": "http://www.capecodbeer.com",
+    "phone": "5087904200",
+    "created_at": "2018-07-24 01:33:30.70887",
+    "updated_at": "2018-08-11 21:37:39.887927",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

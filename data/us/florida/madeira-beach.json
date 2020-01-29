@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mad-beach-brewing",
+    "name": "Mad Beach Brewing",
+    "brewery_type": "micro",
+    "street": "12945 Village Blvd",
+    "city": "Madeira Beach",
+    "state": "Florida",
+    "postal_code": "33708-2656",
+    "website_url": "http://www.madbeachbrewing.com",
+    "phone": "7273620008",
+    "created_at": "2018-07-24 01:33:13.620874",
+    "updated_at": "2018-08-24 00:27:47.7749",
+    "country": "United States",
+    "longitude": "-82.7835534",
+    "latitude": "27.7865945",
+    "tags": []
+  }
+]

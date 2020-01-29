@@ -1,0 +1,53 @@
+[
+  {
+    "id": "octopi-brewing-/-untitled-art",
+    "name": "Octopi Brewing / Untitled Art",
+    "brewery_type": "micro",
+    "street": "1131 Uniek Dr",
+    "city": "Waunakee",
+    "state": "Wisconsin",
+    "postal_code": "53597-8947",
+    "website_url": "http://www.octopibrewing.com",
+    "phone": "6086204705",
+    "created_at": "2018-07-24 01:34:36.071664",
+    "updated_at": "2018-08-24 16:44:32.979296",
+    "country": "United States",
+    "longitude": "-89.4223579",
+    "latitude": "43.1858364",
+    "tags": []
+  },
+  {
+    "id": "parched-eagle-brewpub",
+    "name": "Parched Eagle Brewpub",
+    "brewery_type": "brewpub",
+    "street": "5440 Willow Rd Ste 112",
+    "city": "Waunakee",
+    "state": "Wisconsin",
+    "postal_code": "53597-8431",
+    "website_url": "http://www.parchedeaglebrewpub.com",
+    "phone": "6082049192",
+    "created_at": "2018-07-24 01:34:36.174262",
+    "updated_at": "2018-08-11 21:40:35.268849",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "the-lone-girl-brewing-company",
+    "name": "The Lone Girl Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "114 E Main St Ste 101",
+    "city": "Waunakee",
+    "state": "Wisconsin",
+    "postal_code": "53597-1274",
+    "website_url": "http://www.thelonegirl.com",
+    "phone": "6088507175",
+    "created_at": "2018-07-24 01:34:36.885779",
+    "updated_at": "2018-08-11 21:40:37.016923",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

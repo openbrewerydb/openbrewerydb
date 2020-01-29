@@ -1,0 +1,53 @@
+[
+  {
+    "id": "twisted-vine-brewery",
+    "name": "Twisted Vine Brewery",
+    "brewery_type": "micro",
+    "street": "3320 Westown Pkwy",
+    "city": "West Des Moines",
+    "state": "Iowa",
+    "postal_code": "50266-1111",
+    "website_url": "http://www.twistedvinebrewery.com",
+    "phone": "5157202940",
+    "created_at": "2018-07-24 01:33:24.49535",
+    "updated_at": "2018-08-24 00:38:17.525868",
+    "country": "United States",
+    "longitude": "-93.7489517002412",
+    "latitude": "41.5936597",
+    "tags": []
+  },
+  {
+    "id": "barn-town-brewing-co",
+    "name": "Barn Town Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "9500 University Ave",
+    "city": "West Des Moines",
+    "state": "Iowa",
+    "postal_code": "50266-1888",
+    "website_url": "",
+    "phone": "5159786767",
+    "created_at": "2018-07-24 01:33:23.405241",
+    "updated_at": "2018-08-24 00:33:46.68512",
+    "country": "United States",
+    "longitude": "-93.8385143",
+    "latitude": "41.5996472",
+    "tags": []
+  },
+  {
+    "id": "fox-brewing",
+    "name": "Fox Brewing",
+    "brewery_type": "micro",
+    "street": "103 S 11th St",
+    "city": "West Des Moines",
+    "state": "Iowa",
+    "postal_code": "50265-4410",
+    "website_url": "http://www.foxbrewco.com",
+    "phone": "5156350323",
+    "created_at": "2018-07-24 01:33:23.766861",
+    "updated_at": "2018-08-24 00:37:54.139044",
+    "country": "United States",
+    "longitude": "-93.718210375",
+    "latitude": "41.569708625",
+    "tags": []
+  }
+]

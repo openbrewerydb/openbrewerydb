@@ -1,0 +1,19 @@
+[
+  {
+    "id": "shattuck-brewery",
+    "name": "Shattuck Brewery",
+    "brewery_type": "micro",
+    "street": "52106 Hwy 8",
+    "city": "Elk River",
+    "state": "Idaho",
+    "postal_code": "83827",
+    "website_url": "http://www.shattuckbrewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:17.655237",
+    "updated_at": "2018-08-11 21:37:06.825534",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

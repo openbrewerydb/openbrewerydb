@@ -1,0 +1,53 @@
+[
+  {
+    "id": "discovery-bay-brewing",
+    "name": "Discovery Bay Brewing",
+    "brewery_type": "micro",
+    "street": "948 N Park Avenue",
+    "city": "Port Townsend",
+    "state": "Washington",
+    "postal_code": "98368-1512",
+    "website_url": "",
+    "phone": "3603442999",
+    "created_at": "2018-07-24 01:34:29.174842",
+    "updated_at": "2018-08-24 16:33:52.848325",
+    "country": "United States",
+    "longitude": "-122.8030594",
+    "latitude": "48.1065812",
+    "tags": []
+  },
+  {
+    "id": "port-townsend-brewing-co",
+    "name": "Port Townsend Brewing Co",
+    "brewery_type": "micro",
+    "street": "330 10th St Ste C",
+    "city": "Port Townsend",
+    "state": "Washington",
+    "postal_code": "98368-1815",
+    "website_url": "http://www.porttownsendbrewing.com",
+    "phone": "3603859967",
+    "created_at": "2018-07-24 01:34:32.087105",
+    "updated_at": "2018-08-11 21:40:23.566813",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "propolis-brewing-llc",
+    "name": "Propolis Brewing LLC",
+    "brewery_type": "micro",
+    "street": "2457 Jefferson St",
+    "city": "Port Townsend",
+    "state": "Washington",
+    "postal_code": "98368-4634",
+    "website_url": "http://www.propolisbrewing.com",
+    "phone": "7652155850",
+    "created_at": "2018-07-24 01:34:32.124625",
+    "updated_at": "2018-08-24 16:38:11.410883",
+    "country": "United States",
+    "longitude": "-122.773444081983",
+    "latitude": "48.1091519285644",
+    "tags": []
+  }
+]

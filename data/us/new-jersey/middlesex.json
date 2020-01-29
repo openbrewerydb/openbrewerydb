@@ -1,0 +1,19 @@
+[
+  {
+    "id": "demented-brewing-co",
+    "name": "Demented Brewing Co.",
+    "brewery_type": "micro",
+    "street": "600 Lincoln Blvd",
+    "city": "Middlesex",
+    "state": "New Jersey",
+    "postal_code": "08846-2443",
+    "website_url": "http://www.dementedbrewing.com",
+    "phone": "7326298260",
+    "created_at": "2018-07-24 01:33:46.590704",
+    "updated_at": "2018-08-24 15:36:42.500706",
+    "country": "United States",
+    "longitude": "-74.4946841991471",
+    "latitude": "40.5707752",
+    "tags": []
+  }
+]

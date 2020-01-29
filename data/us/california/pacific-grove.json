@@ -1,0 +1,19 @@
+[
+  {
+    "id": "craft-artisan-ales",
+    "name": "Craft Artisan Ales",
+    "brewery_type": "contract",
+    "street": "",
+    "city": "Pacific Grove",
+    "state": "California",
+    "postal_code": "93950-7093",
+    "website_url": "",
+    "phone": "8317177543",
+    "created_at": "2018-07-24 01:32:54.168959",
+    "updated_at": "2018-08-23 23:27:05.258684",
+    "country": "United States",
+    "longitude": "-121.9155906",
+    "latitude": "36.6174432",
+    "tags": []
+  }
+]

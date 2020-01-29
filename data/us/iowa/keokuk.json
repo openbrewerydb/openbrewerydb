@@ -1,0 +1,19 @@
+[
+  {
+    "id": "vs-restaurant-and-brewpub",
+    "name": "V's Restaurant and Brewpub",
+    "brewery_type": "brewpub",
+    "street": "3461 Main St",
+    "city": "Keokuk",
+    "state": "Iowa",
+    "postal_code": "52632-2227",
+    "website_url": "",
+    "phone": "3193138384",
+    "created_at": "2018-07-24 01:33:24.507086",
+    "updated_at": "2018-08-24 00:38:18.039237",
+    "country": "United States",
+    "longitude": "-91.4089421100193",
+    "latitude": "40.4205561441476",
+    "tags": []
+  }
+]

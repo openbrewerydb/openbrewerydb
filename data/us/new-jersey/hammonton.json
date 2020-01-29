@@ -1,0 +1,53 @@
+[
+  {
+    "id": "three-3s-brewery",
+    "name": "Three 3's Brewery",
+    "brewery_type": "micro",
+    "street": "50 13th St",
+    "city": "Hammonton",
+    "state": "New Jersey",
+    "postal_code": "08037-1559",
+    "website_url": "http://www.three3sbrewing.com",
+    "phone": "7328141396",
+    "created_at": "2018-07-24 01:33:47.431232",
+    "updated_at": "2018-08-24 15:37:08.107301",
+    "country": "United States",
+    "longitude": "-74.8114726140078",
+    "latitude": "39.6385625",
+    "tags": []
+  },
+  {
+    "id": "tomfoolery-brewing",
+    "name": "Tomfoolery Brewing",
+    "brewery_type": "micro",
+    "street": "334 N Washington St Unit 24B",
+    "city": "Hammonton",
+    "state": "New Jersey",
+    "postal_code": "08037-1558",
+    "website_url": "http://www.tomfoolerybrewing.beer",
+    "phone": "6095611762",
+    "created_at": "2018-07-24 01:33:47.443532",
+    "updated_at": "2018-08-11 21:38:25.418176",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "vinyl-brewing-company-llc",
+    "name": "Vinyl Brewing Company, LLC",
+    "brewery_type": "micro",
+    "street": "300B 12th St",
+    "city": "Hammonton",
+    "state": "New Jersey",
+    "postal_code": "08037-",
+    "website_url": "http://www.vinylbrewingnj.com",
+    "phone": "6096665460",
+    "created_at": "2018-07-24 01:33:47.584571",
+    "updated_at": "2018-08-24 15:37:13.233988",
+    "country": "United States",
+    "longitude": "-74.8069071358696",
+    "latitude": "39.6330491956522",
+    "tags": []
+  }
+]

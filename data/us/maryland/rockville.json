@@ -1,0 +1,53 @@
+[
+  {
+    "id": "saints-row-brewing",
+    "name": "Saints Row Brewing",
+    "brewery_type": "micro",
+    "street": "1211 Taft St",
+    "city": "Rockville",
+    "state": "Maryland",
+    "postal_code": "20850-1344",
+    "website_url": "http://www.saintsrowbeer.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:29.615319",
+    "updated_at": "2018-08-24 00:40:47.652887",
+    "country": "United States",
+    "longitude": "-77.1340180802385",
+    "latitude": "39.0936171503817",
+    "tags": []
+  },
+  {
+    "id": "7-locks-brewing",
+    "name": "7 Locks Brewing",
+    "brewery_type": "micro",
+    "street": "12227 Wilkins Ave",
+    "city": "Rockville",
+    "state": "Maryland",
+    "postal_code": "20852-1833",
+    "website_url": "http://www.7locksbrewing.com",
+    "phone": "3018417123",
+    "created_at": "2018-07-24 01:33:28.273967",
+    "updated_at": "2018-08-11 21:37:34.634016",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "gordon-biersch-brewery-restaurant-rockville",
+    "name": "Gordon Biersch Brewery Restaurant - Rockville",
+    "brewery_type": "brewpub",
+    "street": "200 E Middle Ln Unit A",
+    "city": "Rockville",
+    "state": "Maryland",
+    "postal_code": "20850-2206",
+    "website_url": "http://www.craftworksrestaurants.com",
+    "phone": "3013407159",
+    "created_at": "2018-07-24 01:33:29.026847",
+    "updated_at": "2018-08-11 21:37:36.235421",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

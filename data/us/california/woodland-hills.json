@@ -1,0 +1,36 @@
+[
+  {
+    "id": "firemans-brew",
+    "name": "Fireman's Brew",
+    "brewery_type": "contract",
+    "street": "6433 Topanga Canyon Blvd # 189",
+    "city": "Woodland Hills",
+    "state": "California",
+    "postal_code": "91303-2621",
+    "website_url": "http://www.firemansbrew.com",
+    "phone": "8188832739",
+    "created_at": "2018-07-24 01:32:55.479469",
+    "updated_at": "2018-08-23 23:28:26.846594",
+    "country": "United States",
+    "longitude": "-118.6057591",
+    "latitude": "34.1667962",
+    "tags": []
+  },
+  {
+    "id": "paperback-brewing-company",
+    "name": "Paperback Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Woodland Hills",
+    "state": "California",
+    "postal_code": "91367-2912",
+    "website_url": "http://www.paperback.la",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:59.316109",
+    "updated_at": "2018-08-24 00:00:44.19353",
+    "country": "United States",
+    "longitude": "-118.6059197",
+    "latitude": "34.1683386",
+    "tags": []
+  }
+]

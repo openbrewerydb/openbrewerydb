@@ -1,0 +1,19 @@
+[
+  {
+    "id": "weeping-radish-farm-brewery",
+    "name": "Weeping Radish Farm Brewery",
+    "brewery_type": "micro",
+    "street": "6810 Caratoke Hwy",
+    "city": "Grandy",
+    "state": "North Carolina",
+    "postal_code": "27939-9635",
+    "website_url": "http://www.weepingradish.com",
+    "phone": "2524915205",
+    "created_at": "2018-07-24 01:33:58.770848",
+    "updated_at": "2018-08-24 15:43:02.637472",
+    "country": "United States",
+    "longitude": "-75.891944",
+    "latitude": "36.253775",
+    "tags": []
+  }
+]

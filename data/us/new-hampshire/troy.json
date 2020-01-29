@@ -1,0 +1,19 @@
+[
+  {
+    "id": "granite-roots-brewing",
+    "name": "Granite Roots Brewing",
+    "brewery_type": "micro",
+    "street": "244 N Main St",
+    "city": "Troy",
+    "state": "New Hampshire",
+    "postal_code": "03465-",
+    "website_url": "http://www.graniterootsbrewing.com",
+    "phone": "6032423435",
+    "created_at": "2018-07-24 01:33:45.337239",
+    "updated_at": "2018-08-24 15:36:05.634162",
+    "country": "United States",
+    "longitude": "-72.1897314449854",
+    "latitude": "42.8440135755583",
+    "tags": []
+  }
+]

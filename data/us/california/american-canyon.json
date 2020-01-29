@@ -1,0 +1,19 @@
+[
+  {
+    "id": "junction-brewery-and-grill",
+    "name": "Junction Brewery & Grill",
+    "brewery_type": "brewpub",
+    "street": "110 W American Canyon Rd",
+    "city": "American Canyon",
+    "state": "California",
+    "postal_code": "94503-4196",
+    "website_url": "http://www.junctionbreweryandgrill.com",
+    "phone": "7076492285",
+    "created_at": "2018-07-24 01:32:57.136502",
+    "updated_at": "2018-08-23 23:58:13.080659",
+    "country": "United States",
+    "longitude": "-122.261689",
+    "latitude": "38.1658134",
+    "tags": []
+  }
+]

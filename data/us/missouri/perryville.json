@@ -1,0 +1,19 @@
+[
+  {
+    "id": "jackson-street-brew-co",
+    "name": "Jackson Street Brew Co.",
+    "brewery_type": "brewpub",
+    "street": "106 N Jackson St",
+    "city": "Perryville",
+    "state": "Missouri",
+    "postal_code": "63775-1336",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:41.187827",
+    "updated_at": "2018-08-24 00:46:31.655464",
+    "country": "United States",
+    "longitude": "-89.8637548367347",
+    "latitude": "37.7259728571429",
+    "tags": []
+  }
+]

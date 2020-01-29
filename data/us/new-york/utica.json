@@ -1,0 +1,36 @@
+[
+  {
+    "id": "saranac-brewery-/-matt-brewing-co",
+    "name": "Saranac Brewery / Matt Brewing Co",
+    "brewery_type": "regional",
+    "street": "811 Edward St",
+    "city": "Utica",
+    "state": "New York",
+    "postal_code": "13502-4001",
+    "website_url": "http://www.saranac.com",
+    "phone": "3156242400",
+    "created_at": "2018-07-24 01:33:53.393798",
+    "updated_at": "2018-08-24 15:40:13.047292",
+    "country": "United States",
+    "longitude": "-75.2441462244898",
+    "latitude": "43.1035556734694",
+    "tags": []
+  },
+  {
+    "id": "woodland-farm-brewery",
+    "name": "Woodland Farm Brewery",
+    "brewery_type": "micro",
+    "street": "6002 Trenton Rd",
+    "city": "Utica",
+    "state": "New York",
+    "postal_code": "13502-6224",
+    "website_url": "http://www.woodlandbeer.com",
+    "phone": "3158643051",
+    "created_at": "2018-07-24 01:33:54.660687",
+    "updated_at": "2018-08-24 15:40:53.071119",
+    "country": "United States",
+    "longitude": "-75.212678",
+    "latitude": "43.148929",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hasseman-brewing",
+    "name": "Hasseman Brewing",
+    "brewery_type": "micro",
+    "street": "115 S 6th St",
+    "city": "Coshocton",
+    "state": "Ohio",
+    "postal_code": "43812-1625",
+    "website_url": "http://www.hassemanbrewing.com",
+    "phone": "7402941364",
+    "created_at": "2018-07-24 01:34:01.044087",
+    "updated_at": "2018-08-24 15:44:03.442905",
+    "country": "United States",
+    "longitude": "-81.8617655714286",
+    "latitude": "40.2723994285714",
+    "tags": []
+  }
+]

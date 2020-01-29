@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cold-harbor-brewing-company",
+    "name": "Cold Harbor Brewing Company",
+    "brewery_type": "micro",
+    "street": "108 Milk St Ste 6",
+    "city": "Westborough",
+    "state": "Massachusetts",
+    "postal_code": "01581-1228",
+    "website_url": "http://www.coldharborbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:30.81183",
+    "updated_at": "2018-08-11 21:37:40.519809",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "owen-olearys-restaurant-and-brewery",
+    "name": "Owen OLearys Restaurant and Brewery",
+    "brewery_type": "brewpub",
+    "street": "17 Connector Rd",
+    "city": "Westborough",
+    "state": "Massachusetts",
+    "postal_code": "01581-3916",
+    "website_url": "http://www.owenolearys.com",
+    "phone": "5083669262",
+    "created_at": "2018-07-24 01:33:31.710946",
+    "updated_at": "2018-08-24 00:41:39.893868",
+    "country": "United States",
+    "longitude": "-71.5859197866303",
+    "latitude": "42.2899655860842",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "wonky-brew-factory",
+    "name": "Wonky Brew Factory",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Aurora",
+    "state": "Illinois",
+    "postal_code": "60506-5749",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:21.139389",
+    "updated_at": "2018-08-11 21:37:17.16517",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "hopvine-brewing-company",
+    "name": "Hopvine Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "4030 Fox Valley Center Dr",
+    "city": "Aurora",
+    "state": "Illinois",
+    "postal_code": "60504-4109",
+    "website_url": "http://www.hopvinebrewingcompany.com",
+    "phone": "6302296030",
+    "created_at": "2018-07-24 01:33:19.325648",
+    "updated_at": "2018-08-24 00:31:16.408905",
+    "country": "United States",
+    "longitude": "-88.2136400185474",
+    "latitude": "41.7608229153453",
+    "tags": []
+  }
+]

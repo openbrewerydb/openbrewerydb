@@ -1,0 +1,19 @@
+[
+  {
+    "id": "steelhead-brewing-co-burlingame-station",
+    "name": "Steelhead Brewing Co - Burlingame Station",
+    "brewery_type": "brewpub",
+    "street": "333 California Dr",
+    "city": "Burlingame",
+    "state": "California",
+    "postal_code": "94010-4114",
+    "website_url": "http://www.steelheadbrewery.com",
+    "phone": "6503446050",
+    "created_at": "2018-07-24 01:33:01.418677",
+    "updated_at": "2018-08-24 00:03:10.673036",
+    "country": "United States",
+    "longitude": "-122.346260663132",
+    "latitude": "37.5799728",
+    "tags": []
+  }
+]

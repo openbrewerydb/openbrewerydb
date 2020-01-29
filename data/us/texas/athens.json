@@ -1,0 +1,19 @@
+[
+  {
+    "id": "athens-brewing-co",
+    "name": "Athens Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "101 E Tyler St",
+    "city": "Athens",
+    "state": "Texas",
+    "postal_code": "75751-2547",
+    "website_url": "http://www.athensbrewingco.com",
+    "phone": "9039527493",
+    "created_at": "2018-07-24 01:34:17.626462",
+    "updated_at": "2018-08-24 16:18:41.711542",
+    "country": "United States",
+    "longitude": "-95.852642",
+    "latitude": "32.205458",
+    "tags": []
+  }
+]

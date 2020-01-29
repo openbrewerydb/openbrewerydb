@@ -1,0 +1,19 @@
+[
+  {
+    "id": "oyster-bay-brewing",
+    "name": "Oyster Bay Brewing",
+    "brewery_type": "micro",
+    "street": "36 Audrey Ave",
+    "city": "Oyster Bay",
+    "state": "New York",
+    "postal_code": "11771-1548",
+    "website_url": "http://www.oysterbaybrewing.com",
+    "phone": "5168025546",
+    "created_at": "2018-07-24 01:33:52.710542",
+    "updated_at": "2018-08-24 15:39:51.785189",
+    "country": "United States",
+    "longitude": "-73.5314032282192",
+    "latitude": "40.8730496670743",
+    "tags": []
+  }
+]

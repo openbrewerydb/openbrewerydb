@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sonoma-springs-brewing-co",
+    "name": "Sonoma Springs Brewing Co",
+    "brewery_type": "micro",
+    "street": "19449 Riverside Dr Ste 101",
+    "city": "Sonoma",
+    "state": "California",
+    "postal_code": "95476-6357",
+    "website_url": "http://www.sonomaspringsbrewing.com",
+    "phone": "7079387422",
+    "created_at": "2018-07-24 01:33:01.073608",
+    "updated_at": "2018-08-24 00:02:47.771893",
+    "country": "United States",
+    "longitude": "-122.477788",
+    "latitude": "38.294506",
+    "tags": []
+  },
+  {
+    "id": "sonoma-grille",
+    "name": "Sonoma Grille",
+    "brewery_type": "brewpub",
+    "street": "165 W Napa St",
+    "city": "Sonoma",
+    "state": "California",
+    "postal_code": "95476-6626",
+    "website_url": "http://www.sonomagrilleandbar.com",
+    "phone": "7079387542",
+    "created_at": "2018-07-24 01:33:01.061454",
+    "updated_at": "2018-08-24 00:02:46.687842",
+    "country": "United States",
+    "longitude": "-122.459982098514",
+    "latitude": "38.2920432165175",
+    "tags": []
+  }
+]

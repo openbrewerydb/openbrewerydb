@@ -1,0 +1,19 @@
+[
+  {
+    "id": "whitehorse-brewing-llc",
+    "name": "Whitehorse Brewing LLC",
+    "brewery_type": "micro",
+    "street": "824 Diamond St",
+    "city": "Berlin",
+    "state": "Pennsylvania",
+    "postal_code": "15530-1539",
+    "website_url": "",
+    "phone": "8144442436",
+    "created_at": "2018-07-24 01:34:13.506833",
+    "updated_at": "2018-08-24 16:13:20.362332",
+    "country": "United States",
+    "longitude": "-78.9569570696799",
+    "latitude": "39.9253058551013",
+    "tags": []
+  }
+]

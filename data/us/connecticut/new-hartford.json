@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brewery-legitimus",
+    "name": "Brewery Legitimus",
+    "brewery_type": "micro",
+    "street": "283 Main St",
+    "city": "New Hartford",
+    "state": "Connecticut",
+    "postal_code": "06057-2750",
+    "website_url": "http://www.brewerylegitimus.com",
+    "phone": "8608108894",
+    "created_at": "2018-07-24 01:33:09.212948",
+    "updated_at": "2018-08-11 21:36:45.536807",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

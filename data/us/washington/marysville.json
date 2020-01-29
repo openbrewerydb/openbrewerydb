@@ -1,0 +1,53 @@
+[
+  {
+    "id": "5-rights-brewing-co",
+    "name": "5 Rights Brewing Co",
+    "brewery_type": "micro",
+    "street": "7028 46th St NE",
+    "city": "Marysville",
+    "state": "Washington",
+    "postal_code": "98270-6989",
+    "website_url": "http://www.5rightsbrewing.com",
+    "phone": "4253341026",
+    "created_at": "2018-07-24 01:34:27.731123",
+    "updated_at": "2018-08-24 16:32:04.084222",
+    "country": "United States",
+    "longitude": "-122.136104",
+    "latitude": "48.037429",
+    "tags": []
+  },
+  {
+    "id": "swinnerton-brewery",
+    "name": "Swinnerton Brewery",
+    "brewery_type": "micro",
+    "street": "1809 8th St",
+    "city": "Marysville",
+    "state": "Washington",
+    "postal_code": "98270-4610",
+    "website_url": "http://www.swinnertonbrewery.com",
+    "phone": "4253877045",
+    "created_at": "2018-07-24 01:34:33.10095",
+    "updated_at": "2018-08-24 16:39:50.875771",
+    "country": "United States",
+    "longitude": "-122.171023514565",
+    "latitude": "48.0554713187144",
+    "tags": []
+  },
+  {
+    "id": "whitewall-brewing-company",
+    "name": "Whitewall Brewing Company",
+    "brewery_type": "micro",
+    "street": "14524 Smokey Point Blvd Ste 1",
+    "city": "Marysville",
+    "state": "Washington",
+    "postal_code": "98271-8921",
+    "website_url": "http://www.whitewallbrewing.com",
+    "phone": "3604540464",
+    "created_at": "2018-07-24 01:34:33.832795",
+    "updated_at": "2018-08-11 21:40:28.268574",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

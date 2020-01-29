@@ -1,0 +1,53 @@
+[
+  {
+    "id": "nine-band-brewing-co",
+    "name": "Nine Band Brewing Co.",
+    "brewery_type": "micro",
+    "street": "9 Prestige Cir",
+    "city": "Allen",
+    "state": "Texas",
+    "postal_code": "75002-3419",
+    "website_url": "http://www.ninebandbrewing.com",
+    "phone": "9726635707",
+    "created_at": "2018-07-24 01:34:20.370664",
+    "updated_at": "2018-08-24 16:22:02.538874",
+    "country": "United States",
+    "longitude": "-96.6728078612257",
+    "latitude": "33.0931001",
+    "tags": []
+  },
+  {
+    "id": "two-rows-restaurant-and-brewery-allen",
+    "name": "Two Rows Restaurant and Brewery - Allen",
+    "brewery_type": "contract",
+    "street": "711 Central Expy S",
+    "city": "Allen",
+    "state": "Texas",
+    "postal_code": "75013-8012",
+    "website_url": "http://www.tworows.com/",
+    "phone": "9723968670",
+    "created_at": "2018-07-24 01:34:22.034913",
+    "updated_at": "2018-08-24 16:24:09.279916",
+    "country": "United States",
+    "longitude": "-96.6798728886911",
+    "latitude": "33.0921542",
+    "tags": []
+  },
+  {
+    "id": "brewery-in-planning-lucas",
+    "name": "Brewery In Planning - Lucas",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Allen",
+    "state": "Texas",
+    "postal_code": "75002",
+    "website_url": "",
+    "phone": "2147358587",
+    "created_at": "2018-07-24 01:34:18.408865",
+    "updated_at": "2018-08-11 21:39:47.526362",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

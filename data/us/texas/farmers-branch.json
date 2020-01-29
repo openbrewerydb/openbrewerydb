@@ -1,0 +1,53 @@
+[
+  {
+    "id": "dauntless-brewing-company",
+    "name": "Dauntless Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Farmers Branch",
+    "state": "Texas",
+    "postal_code": "75234-2334",
+    "website_url": "",
+    "phone": "9035213472",
+    "created_at": "2018-07-24 01:34:18.859237",
+    "updated_at": "2018-08-11 21:39:48.599533",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "hop-and-sting-brewing-company",
+    "name": "Hop And Sting Brewing Company",
+    "brewery_type": "micro",
+    "street": "2405 Squire Pl Ste 200",
+    "city": "Farmers Branch",
+    "state": "Texas",
+    "postal_code": "75234-4714",
+    "website_url": "http://www.hopandsting.com",
+    "phone": "6828889614",
+    "created_at": "2018-07-24 01:34:19.651534",
+    "updated_at": "2018-08-24 16:21:05.639823",
+    "country": "United States",
+    "longitude": "-96.8988312755102",
+    "latitude": "32.9304433571429",
+    "tags": []
+  },
+  {
+    "id": "3-nations-brewing",
+    "name": "3 Nations Brewing",
+    "brewery_type": "micro",
+    "street": "2405 Squire Pl Ste 200",
+    "city": "Farmers Branch",
+    "state": "Texas",
+    "postal_code": "75234-4714",
+    "website_url": "http://www.threenationsbrewing.com",
+    "phone": "4696607184",
+    "created_at": "2018-07-24 01:34:17.365575",
+    "updated_at": "2018-08-24 16:18:22.135715",
+    "country": "United States",
+    "longitude": "-96.8988312755102",
+    "latitude": "32.9304433571429",
+    "tags": []
+  }
+]

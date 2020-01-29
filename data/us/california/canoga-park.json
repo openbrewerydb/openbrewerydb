@@ -1,0 +1,19 @@
+[
+  {
+    "id": "8one8-brewing-company",
+    "name": "8one8 Brewing Company",
+    "brewery_type": "micro",
+    "street": "8951 de Soto Ave",
+    "city": "Canoga Park",
+    "state": "California",
+    "postal_code": "91304-5901",
+    "website_url": "http://www.818brewing.com",
+    "phone": "8188352286",
+    "created_at": "2018-07-24 01:32:51.289275",
+    "updated_at": "2018-08-23 23:23:57.283768",
+    "country": "United States",
+    "longitude": "-118.5885323",
+    "latitude": "34.2218019",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "offshore-ale-co",
+    "name": "Offshore Ale Co",
+    "brewery_type": "brewpub",
+    "street": "30 Kennebec Ave",
+    "city": "Oak Bluffs",
+    "state": "Massachusetts",
+    "postal_code": "02557",
+    "website_url": "http://www.offshoreale.com",
+    "phone": "5086932626",
+    "created_at": "2018-07-24 01:33:31.647989",
+    "updated_at": "2018-08-24 00:41:37.670054",
+    "country": "United States",
+    "longitude": "-70.5579095857058",
+    "latitude": "41.4548832424099",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "buffalo-creek-brewing",
+    "name": "Buffalo Creek Brewing",
+    "brewery_type": "micro",
+    "street": "360 Historical Ln",
+    "city": "Long Grove",
+    "state": "Illinois",
+    "postal_code": "60047-9613",
+    "website_url": "http://www.facebook.com/buffalocreekbrewing",
+    "phone": "8478216140",
+    "created_at": "2018-07-24 01:33:18.444449",
+    "updated_at": "2018-08-24 00:30:40.230735",
+    "country": "United States",
+    "longitude": "-87.9977622244898",
+    "latitude": "42.1771945714286",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "surly-brewing-company",
+    "name": "Surly Brewing Company",
+    "brewery_type": "regional",
+    "street": "4811 Dusharme Dr",
+    "city": "Brooklyn Ctr",
+    "state": "Minnesota",
+    "postal_code": "55429-3940",
+    "website_url": "http://www.surlybrewing.com",
+    "phone": "7635353330",
+    "created_at": "2018-07-24 01:33:39.654801",
+    "updated_at": "2018-08-24 00:45:48.832032",
+    "country": "United States",
+    "longitude": "-93.3243894264181",
+    "latitude": "45.04294225",
+    "tags": []
+  }
+]

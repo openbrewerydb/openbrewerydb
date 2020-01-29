@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lunar-brewing-co",
+    "name": "Lunar Brewing Co",
+    "brewery_type": "proprietor",
+    "street": "54 E Saint Charles Rd",
+    "city": "Villa Park",
+    "state": "Illinois",
+    "postal_code": "60181-2434",
+    "website_url": "http://www.mypsace.com/LunaRbrewingco",
+    "phone": "6305302077",
+    "created_at": "2018-07-24 01:33:19.688024",
+    "updated_at": "2018-08-24 00:31:30.211554",
+    "country": "United States",
+    "longitude": "-87.9772030555556",
+    "latitude": "41.8898700555556",
+    "tags": []
+  },
+  {
+    "id": "more-brewing-co",
+    "name": "More Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "126 S Villa Ave",
+    "city": "Villa Park",
+    "state": "Illinois",
+    "postal_code": "60181-2653",
+    "website_url": "http://Www.morebrewing.com",
+    "phone": "7735517506",
+    "created_at": "2018-07-24 01:33:19.879255",
+    "updated_at": "2018-08-24 00:31:37.16738",
+    "country": "United States",
+    "longitude": "-87.969272",
+    "latitude": "41.891984",
+    "tags": []
+  }
+]

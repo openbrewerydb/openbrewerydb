@@ -1,0 +1,19 @@
+[
+  {
+    "id": "new-paltz-brewing-company",
+    "name": "New Paltz Brewing Company",
+    "brewery_type": "micro",
+    "street": "7174 Route 209",
+    "city": "Wawarsing",
+    "state": "New York",
+    "postal_code": "12489",
+    "website_url": "http://www.pfalzerbrau.com",
+    "phone": "8454193040",
+    "created_at": "2018-07-24 01:33:52.538988",
+    "updated_at": "2018-08-11 21:38:38.297214",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

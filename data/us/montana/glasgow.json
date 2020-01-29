@@ -1,0 +1,19 @@
+[
+  {
+    "id": "busted-knuckle-brewery",
+    "name": "Busted Knuckle Brewery",
+    "brewery_type": "micro",
+    "street": "303 1st Ave S",
+    "city": "Glasgow",
+    "state": "Montana",
+    "postal_code": "59230-2308",
+    "website_url": "",
+    "phone": "4062282277",
+    "created_at": "2018-07-24 01:33:42.350247",
+    "updated_at": "2018-08-24 00:47:04.130079",
+    "country": "United States",
+    "longitude": "-106.633546376276",
+    "latitude": "48.1938471991415",
+    "tags": []
+  }
+]

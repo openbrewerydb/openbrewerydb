@@ -1,0 +1,19 @@
+[
+  {
+    "id": "big-bottom-brewery",
+    "name": "Big Bottom Brewery",
+    "brewery_type": "micro",
+    "street": "6 Tristan Dr",
+    "city": "Dillsburg",
+    "state": "Pennsylvania",
+    "postal_code": "17019-1627",
+    "website_url": "http://www.facebook.com/bigbottombrewery",
+    "phone": "7175028800",
+    "created_at": "2018-07-24 01:34:08.982369",
+    "updated_at": "2018-08-11 21:39:22.869446",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

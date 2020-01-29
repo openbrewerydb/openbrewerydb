@@ -1,0 +1,36 @@
+[
+  {
+    "id": "whichcraft-brews",
+    "name": "WhichCraft Brews",
+    "brewery_type": "brewpub",
+    "street": "1900 Empire Blvd",
+    "city": "Webster",
+    "state": "New York",
+    "postal_code": "14580-1934",
+    "website_url": "http://www.whichcraftbrews.com",
+    "phone": "5852222739",
+    "created_at": "2018-07-24 01:33:54.509016",
+    "updated_at": "2018-08-24 15:40:49.088042",
+    "country": "United States",
+    "longitude": "-77.501948",
+    "latitude": "43.193429",
+    "tags": []
+  },
+  {
+    "id": "knucklehead-craft-brewing",
+    "name": "Knucklehead Craft Brewing",
+    "brewery_type": "brewpub",
+    "street": "426 Ridge Rd",
+    "city": "Webster",
+    "state": "New York",
+    "postal_code": "14580-1793",
+    "website_url": "http://www.knuckleheadcraftbrewing.com",
+    "phone": "5853476236",
+    "created_at": "2018-07-24 01:33:52.052954",
+    "updated_at": "2018-08-24 15:39:31.912604",
+    "country": "United States",
+    "longitude": "-77.5112872598513",
+    "latitude": "43.2057292163707",
+    "tags": []
+  }
+]

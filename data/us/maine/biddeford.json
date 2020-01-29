@@ -1,0 +1,53 @@
+[
+  {
+    "id": "banded-brewing-company",
+    "name": "Banded Brewing Company",
+    "brewery_type": "micro",
+    "street": "32 Main St. Bldg 13-W Ste 102",
+    "city": "Biddeford",
+    "state": "Maine",
+    "postal_code": "04005-5145",
+    "website_url": "http://www.bandedhorn.com",
+    "phone": "2076021561",
+    "created_at": "2018-07-24 01:33:26.785399",
+    "updated_at": "2018-08-11 21:37:30.445497",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "dirigo-brewing-co",
+    "name": "Dirigo Brewing Co.",
+    "brewery_type": "micro",
+    "street": "28 Pearl St",
+    "city": "Biddeford",
+    "state": "Maine",
+    "postal_code": "04005-2040",
+    "website_url": "http://www.dirigobrewingcompany.com",
+    "phone": "2078385321",
+    "created_at": "2018-07-24 01:33:27.032708",
+    "updated_at": "2018-08-24 00:39:40.600128",
+    "country": "United States",
+    "longitude": "-70.4560858434247",
+    "latitude": "43.4954570369912",
+    "tags": []
+  },
+  {
+    "id": "nuts-and-bolts-brewing",
+    "name": "Nuts and Bolts Brewing",
+    "brewery_type": "micro",
+    "street": "10 Westpoint Ln Bldg 10 Ste 204",
+    "city": "Biddeford",
+    "state": "Maine",
+    "postal_code": "04005",
+    "website_url": "http://www.nutsnboltsbeer.com",
+    "phone": "2074681538",
+    "created_at": "2018-07-24 01:33:27.640185",
+    "updated_at": "2018-08-11 21:37:33.326308",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

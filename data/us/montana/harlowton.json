@@ -1,0 +1,19 @@
+[
+  {
+    "id": "gallys-brewing-co",
+    "name": "Gally's Brewing Co",
+    "brewery_type": "micro",
+    "street": "30 Central Ave S",
+    "city": "Harlowton",
+    "state": "Montana",
+    "postal_code": "59036",
+    "website_url": "http://www.gallysbrewing.com",
+    "phone": "4066325838",
+    "created_at": "2018-07-24 01:33:42.576484",
+    "updated_at": "2018-08-24 00:47:09.408652",
+    "country": "United States",
+    "longitude": "-109.83186554326",
+    "latitude": "46.4351371751918",
+    "tags": []
+  }
+]

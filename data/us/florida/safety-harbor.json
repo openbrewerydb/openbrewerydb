@@ -1,0 +1,36 @@
+[
+  {
+    "id": "crooked-thumb-brewery",
+    "name": "Crooked Thumb Brewery",
+    "brewery_type": "micro",
+    "street": "555 10th Ave S",
+    "city": "Safety Harbor",
+    "state": "Florida",
+    "postal_code": "34695-3821",
+    "website_url": "http://www.crookedthumbbrew.com",
+    "phone": "7277245953",
+    "created_at": "2018-07-24 01:33:12.361438",
+    "updated_at": "2018-08-24 00:26:57.86469",
+    "country": "United States",
+    "longitude": "-82.6986687",
+    "latitude": "27.9874212",
+    "tags": []
+  },
+  {
+    "id": "troubled-waters-brewing-co",
+    "name": "troubled waters brewing co.",
+    "brewery_type": "contract",
+    "street": "670 Main Street",
+    "city": "Safety Harbor ",
+    "state": "Florida",
+    "postal_code": "34695",
+    "website_url": "http://www.troubledwatersbeer.com",
+    "phone": "6303357890",
+    "created_at": "2018-07-24 01:33:14.970455",
+    "updated_at": "2018-08-24 00:28:43.138657",
+    "country": "United States",
+    "longitude": "-82.6939118571429",
+    "latitude": "27.9907332857143",
+    "tags": []
+  }
+]

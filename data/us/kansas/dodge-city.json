@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dodge-city-brewing",
+    "name": "Dodge City Brewing",
+    "brewery_type": "brewpub",
+    "street": "701 3rd Ave",
+    "city": "Dodge City",
+    "state": "Kansas",
+    "postal_code": "67801-4336",
+    "website_url": "http://www.dodgecitybrewing.com",
+    "phone": "6203713999",
+    "created_at": "2018-07-24 01:33:24.710305",
+    "updated_at": "2018-08-24 00:38:24.216815",
+    "country": "United States",
+    "longitude": "-100.020307",
+    "latitude": "37.754632",
+    "tags": []
+  }
+]

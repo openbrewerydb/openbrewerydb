@@ -1,0 +1,19 @@
+[
+  {
+    "id": "noble-creature-cask-house",
+    "name": "Noble Creature Cask House",
+    "brewery_type": "brewpub",
+    "street": "126 E Rayen Ave",
+    "city": "Youngstown",
+    "state": "Ohio",
+    "postal_code": "44503-1619",
+    "website_url": "http://www.noblecreaturebeer.com",
+    "phone": "2347191827",
+    "created_at": "2018-07-24 01:34:02.135796",
+    "updated_at": "2018-08-24 15:44:36.494376",
+    "country": "United States",
+    "longitude": "-80.6457616215263",
+    "latitude": "41.1022792972554",
+    "tags": []
+  }
+]

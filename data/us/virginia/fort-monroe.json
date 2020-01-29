@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-oozlefinch-craft-brewery",
+    "name": "The Oozlefinch Craft Brewery",
+    "brewery_type": "micro",
+    "street": "81 Patch Rd",
+    "city": "Fort Monroe",
+    "state": "Virginia",
+    "postal_code": "23651-1052",
+    "website_url": "http://www.oozlefinchbeers.com",
+    "phone": "7572247042",
+    "created_at": "2018-07-24 01:34:27.113989",
+    "updated_at": "2018-08-11 21:40:10.067663",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

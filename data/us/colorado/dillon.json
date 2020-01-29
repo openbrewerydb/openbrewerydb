@@ -1,0 +1,36 @@
+[
+  {
+    "id": "dillon-dam-brewery",
+    "name": "Dillon Dam Brewery",
+    "brewery_type": "brewpub",
+    "street": "100 Little Dam Street",
+    "city": "Dillon",
+    "state": "Colorado",
+    "postal_code": "80435-4845",
+    "website_url": "http://www.dambrewery.com",
+    "phone": "9702627777",
+    "created_at": "2018-07-24 01:33:05.054439",
+    "updated_at": "2018-08-24 00:22:49.679207",
+    "country": "United States",
+    "longitude": "-106.060312902355",
+    "latitude": "39.62760465",
+    "tags": []
+  },
+  {
+    "id": "pug-ryans-brewing-company",
+    "name": "Pug Ryan's Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "104 Village Pl",
+    "city": "Dillon",
+    "state": "Colorado",
+    "postal_code": "80435-2515",
+    "website_url": "http://www.pugryans.com",
+    "phone": "9704682145",
+    "created_at": "2018-07-24 01:33:07.224514",
+    "updated_at": "2018-08-24 00:24:17.353177",
+    "country": "United States",
+    "longitude": "-106.046759752977",
+    "latitude": "39.6283267476565",
+    "tags": []
+  }
+]

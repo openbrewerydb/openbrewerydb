@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rocky-river-brewing-co",
+    "name": "Rocky River Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "21290 Center Ridge Rd",
+    "city": "Rocky River",
+    "state": "Ohio",
+    "postal_code": "44116-3204",
+    "website_url": "http://www.rockyriverbrewco.com",
+    "phone": "4408952739",
+    "created_at": "2018-07-24 01:34:02.765828",
+    "updated_at": "2018-08-24 15:44:53.919071",
+    "country": "United States",
+    "longitude": "-81.8553198004012",
+    "latitude": "41.4610006539348",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lil-paws-winery",
+    "name": "Lil Paws Winery",
+    "brewery_type": "micro",
+    "street": "17574-A Mahoning Ave",
+    "city": "Lake Milton",
+    "state": "Ohio",
+    "postal_code": "44429-9583",
+    "website_url": "http://www.lilpawswinery.com",
+    "phone": "3309709463",
+    "created_at": "2018-07-24 01:34:01.446673",
+    "updated_at": "2018-08-11 21:39:00.222448",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

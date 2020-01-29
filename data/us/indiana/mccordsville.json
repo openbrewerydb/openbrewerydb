@@ -1,0 +1,19 @@
+[
+  {
+    "id": "scarlet-lane-brewing-company-llc",
+    "name": "Scarlet Lane Brewing Company LLC",
+    "brewery_type": "micro",
+    "street": "7724 Depot St",
+    "city": "McCordsville",
+    "state": "Indiana",
+    "postal_code": "46055-6173",
+    "website_url": "http://www.scarletlanebrew.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:22.768924",
+    "updated_at": "2018-08-24 00:33:20.24577",
+    "country": "United States",
+    "longitude": "-85.9243815918367",
+    "latitude": "39.8947728571429",
+    "tags": []
+  }
+]

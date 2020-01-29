@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cb-craft-brewers",
+    "name": "CB Craft Brewers",
+    "brewery_type": "micro",
+    "street": "300 Village Square Blvd",
+    "city": "Honeoye Falls",
+    "state": "New York",
+    "postal_code": "14472-1180",
+    "website_url": "http://www.cbcraftbrewers.com",
+    "phone": "5856244386",
+    "created_at": "2018-07-24 01:33:50.170878",
+    "updated_at": "2018-08-11 21:38:32.222201",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

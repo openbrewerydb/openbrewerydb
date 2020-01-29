@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lookout-farm-brewing-and-cider-co",
+    "name": "Lookout Farm Brewing And Cider Co",
+    "brewery_type": "micro",
+    "street": "89 Pleasant St",
+    "city": "Natick",
+    "state": "Massachusetts",
+    "postal_code": "01760-5669",
+    "website_url": "http://www.lookoutfarmbrewing.com",
+    "phone": "5086511539",
+    "created_at": "2018-07-24 01:33:31.332293",
+    "updated_at": "2018-08-24 00:41:29.025816",
+    "country": "United States",
+    "longitude": "-71.3709688823615",
+    "latitude": "42.3223551642537",
+    "tags": []
+  }
+]

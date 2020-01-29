@@ -1,0 +1,19 @@
+[
+  {
+    "id": "iron-monk-brewing-company",
+    "name": "Iron Monk Brewing Company",
+    "brewery_type": "micro",
+    "street": "519 S Husband St",
+    "city": "Stillwater",
+    "state": "Oklahoma",
+    "postal_code": "74074-4031",
+    "website_url": "http://www.ironmonkbeer.com",
+    "phone": "4057142585",
+    "created_at": "2018-07-24 01:34:04.136727",
+    "updated_at": "2018-08-24 15:45:35.251652",
+    "country": "United States",
+    "longitude": "-97.0595399",
+    "latitude": "36.1163409",
+    "tags": []
+  }
+]

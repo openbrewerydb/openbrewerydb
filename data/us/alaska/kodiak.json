@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kodiak-island-brewing-co-llc",
+    "name": "Kodiak Island Brewing Co, LLC",
+    "brewery_type": "micro",
+    "street": "117 Lower Mill Bay Rd",
+    "city": "Kodiak",
+    "state": "Alaska",
+    "postal_code": "99615-6580",
+    "website_url": "http://www.kodiakbrewery.com",
+    "phone": "9074862537",
+    "created_at": "2018-07-24 01:32:48.329911",
+    "updated_at": "2018-08-23 23:20:58.86045",
+    "country": "United States",
+    "longitude": "-152.40715497121",
+    "latitude": "57.7900825595856",
+    "tags": []
+  }
+]

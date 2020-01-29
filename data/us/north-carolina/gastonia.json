@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cavendish-brewing-company",
+    "name": "Cavendish Brewing Company",
+    "brewery_type": "micro",
+    "street": "207 N Chester St",
+    "city": "Gastonia",
+    "state": "North Carolina",
+    "postal_code": "28052-2234",
+    "website_url": "http://www.cavendishbrewing.com",
+    "phone": "7048300435",
+    "created_at": "2018-07-24 01:33:55.785571",
+    "updated_at": "2018-08-24 15:41:27.654966",
+    "country": "United States",
+    "longitude": "-81.1874122346736",
+    "latitude": "35.2657750702449",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kozy-yak-brewery-and-fresar-winery",
+    "name": "Kozy Yak Brewery & Fresar Winery",
+    "brewery_type": "brewpub",
+    "street": "197 N Main St",
+    "city": "Rosholt",
+    "state": "Wisconsin",
+    "postal_code": "54473-9741",
+    "website_url": "http://www.kozyyak.com",
+    "phone": "7156773082",
+    "created_at": "2018-07-24 01:34:35.673523",
+    "updated_at": "2018-08-24 16:43:50.030838",
+    "country": "United States",
+    "longitude": "-89.3091476326531",
+    "latitude": "44.6293434285714",
+    "tags": []
+  }
+]

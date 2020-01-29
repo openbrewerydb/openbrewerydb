@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ellicott-mills-brewing-co",
+    "name": "Ellicott Mills Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "8308 Main St",
+    "city": "Ellicott City",
+    "state": "Maryland",
+    "postal_code": "21043-4601",
+    "website_url": "http://www.ellicottmillsbrewing.com",
+    "phone": "4103138141",
+    "created_at": "2018-07-24 01:33:28.856864",
+    "updated_at": "2018-08-24 00:40:28.994767",
+    "country": "United States",
+    "longitude": "-76.7994431375514",
+    "latitude": "39.2681041",
+    "tags": []
+  },
+  {
+    "id": "manor-hill-brewing",
+    "name": "Manor Hill Brewing",
+    "brewery_type": "micro",
+    "street": "4411 Manor Ln",
+    "city": "Ellicott City",
+    "state": "Maryland",
+    "postal_code": "21042-6111",
+    "website_url": "http://www.manorhillbrewing.com",
+    "phone": "4109977771",
+    "created_at": "2018-07-24 01:33:29.267804",
+    "updated_at": "2018-08-11 21:37:36.76425",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

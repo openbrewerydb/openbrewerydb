@@ -1,0 +1,19 @@
+[
+  {
+    "id": "depot-saloon",
+    "name": "Depot Saloon",
+    "brewery_type": "brewpub",
+    "street": "9 S Race St",
+    "city": "Greenville",
+    "state": "Pennsylvania",
+    "postal_code": "16125-2213",
+    "website_url": "http://www.depotsaloon.com",
+    "phone": "7245884201",
+    "created_at": "2018-07-24 01:34:10.179231",
+    "updated_at": "2018-08-24 16:08:07.573814",
+    "country": "United States",
+    "longitude": "-80.390239",
+    "latitude": "41.40444",
+    "tags": []
+  }
+]

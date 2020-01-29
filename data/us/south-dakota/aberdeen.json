@@ -1,0 +1,36 @@
+[
+  {
+    "id": "dakota-territory-brewing",
+    "name": "Dakota Territory Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Aberdeen",
+    "state": "South Dakota",
+    "postal_code": "57401-4138",
+    "website_url": "",
+    "phone": "6052166650",
+    "created_at": "2018-07-24 01:34:15.263563",
+    "updated_at": "2018-08-11 21:39:38.704873",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "one-legged-pheasant-brewery",
+    "name": "One Legged Pheasant Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Aberdeen",
+    "state": "South Dakota",
+    "postal_code": "57401-6016",
+    "website_url": "",
+    "phone": "6164859226",
+    "created_at": "2018-07-24 01:34:15.464299",
+    "updated_at": "2018-08-11 21:39:39.577029",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

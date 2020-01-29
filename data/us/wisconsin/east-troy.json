@@ -1,0 +1,19 @@
+[
+  {
+    "id": "east-troy-brewery",
+    "name": "East Troy Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "East Troy",
+    "state": "Wisconsin",
+    "postal_code": "53120-1245",
+    "website_url": "http://www.etbrew.com",
+    "phone": "2624703026",
+    "created_at": "2018-07-24 01:34:35.183433",
+    "updated_at": "2018-08-11 21:40:32.442507",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

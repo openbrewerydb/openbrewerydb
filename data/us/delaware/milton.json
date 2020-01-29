@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dogfish-head-craft-brewery",
+    "name": "Dogfish Head Craft Brewery",
+    "brewery_type": "regional",
+    "street": "6 Cannery Village Ctr",
+    "city": "Milton",
+    "state": "Delaware",
+    "postal_code": "19968-1308",
+    "website_url": "http://www.dogfish.com",
+    "phone": "3026841000",
+    "created_at": "2018-07-24 01:33:10.552989",
+    "updated_at": "2018-08-24 00:26:03.880786",
+    "country": "United States",
+    "longitude": "-75.3115820590213",
+    "latitude": "38.76691205",
+    "tags": []
+  }
+]

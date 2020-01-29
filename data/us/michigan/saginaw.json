@@ -1,0 +1,36 @@
+[
+  {
+    "id": "oracle-brewing-company",
+    "name": "Oracle Brewing Company",
+    "brewery_type": "micro",
+    "street": "122 N Michigan Ave",
+    "city": "Saginaw",
+    "state": "Michigan",
+    "postal_code": "48602-4234",
+    "website_url": "http://www.oraclebeer.com",
+    "phone": "9894017446",
+    "created_at": "2018-07-24 01:33:35.89016",
+    "updated_at": "2018-08-24 00:43:47.539876",
+    "country": "United States",
+    "longitude": "-83.9640135102041",
+    "latitude": "43.417723",
+    "tags": []
+  },
+  {
+    "id": "loggers-brewing-company",
+    "name": "Loggers Brewing Company",
+    "brewery_type": "micro",
+    "street": "1215 S River Rd",
+    "city": "Saginaw",
+    "state": "Michigan",
+    "postal_code": "48609-5208",
+    "website_url": "http://www.loggersbrewingcompany.com",
+    "phone": "9894013085",
+    "created_at": "2018-07-24 01:33:35.335822",
+    "updated_at": "2018-08-24 00:43:29.843379",
+    "country": "United States",
+    "longitude": "-84.051935416668",
+    "latitude": "43.4051822502285",
+    "tags": []
+  }
+]

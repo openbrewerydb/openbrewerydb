@@ -1,0 +1,19 @@
+[
+  {
+    "id": "point-labaddie-brewery",
+    "name": "Point Labaddie Brewery",
+    "brewery_type": "micro",
+    "street": "1029 Thiebes Rd",
+    "city": "Labadie",
+    "state": "Missouri",
+    "postal_code": "63055-1712",
+    "website_url": "http://www.pointlabaddiebrewery.com",
+    "phone": "6367422861",
+    "created_at": "2018-07-24 01:33:41.506456",
+    "updated_at": "2018-08-11 21:38:08.840128",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

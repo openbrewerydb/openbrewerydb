@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kegg-brewing-company",
+    "name": "Kegg Brewing Company",
+    "brewery_type": "micro",
+    "street": "117 Faust Ln",
+    "city": "Champion",
+    "state": "Pennsylvania",
+    "postal_code": "15622-2107",
+    "website_url": "",
+    "phone": "7249722350",
+    "created_at": "2018-07-24 01:34:11.177354",
+    "updated_at": "2018-08-11 21:39:27.95367",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

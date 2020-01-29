@@ -1,0 +1,19 @@
+[
+  {
+    "id": "four-saints-brewing",
+    "name": "Four Saints Brewing",
+    "brewery_type": "micro",
+    "street": "218 S Fayetteville St",
+    "city": "Asheboro",
+    "state": "North Carolina",
+    "postal_code": "27203-5725",
+    "website_url": "http://www.foursaintsbrewing.com",
+    "phone": "3366103722",
+    "created_at": "2018-07-24 01:33:56.260775",
+    "updated_at": "2018-08-24 15:41:43.245509",
+    "country": "United States",
+    "longitude": "-79.8144777142857",
+    "latitude": "35.7036855714286",
+    "tags": []
+  }
+]

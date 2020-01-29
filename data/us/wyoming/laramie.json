@@ -1,0 +1,53 @@
+[
+  {
+    "id": "altitude-chophouse-and-brewery",
+    "name": "Altitude Chophouse and Brewery",
+    "brewery_type": "brewpub",
+    "street": "320 S 2nd St",
+    "city": "Laramie",
+    "state": "Wyoming",
+    "postal_code": "82070-3612",
+    "website_url": "http://www.altitudechophouse.com",
+    "phone": "3077214031",
+    "created_at": "2018-07-24 01:34:37.296495",
+    "updated_at": "2018-08-24 16:46:36.032491",
+    "country": "United States",
+    "longitude": "-105.5953366",
+    "latitude": "41.31038565",
+    "tags": []
+  },
+  {
+    "id": "coal-creek-tap",
+    "name": "Coal Creek TAP",
+    "brewery_type": "micro",
+    "street": "108 E Grand Ave",
+    "city": "Laramie",
+    "state": "Wyoming",
+    "postal_code": "82070-3638",
+    "website_url": "http://www.coalcreektap.com",
+    "phone": "3074609556",
+    "created_at": "2018-07-24 01:34:37.375224",
+    "updated_at": "2018-08-24 16:46:42.211699",
+    "country": "United States",
+    "longitude": "-105.595218404732",
+    "latitude": "41.3110557847974",
+    "tags": []
+  },
+  {
+    "id": "library-sports-grill-and-brewery",
+    "name": "Library Sports Grill and Brewery",
+    "brewery_type": "brewpub",
+    "street": "201 E Custer St",
+    "city": "Laramie",
+    "state": "Wyoming",
+    "postal_code": "82070-3633",
+    "website_url": "http://laramie.librarysportsgrille.com",
+    "phone": "3077420500",
+    "created_at": "2018-07-24 01:34:37.475558",
+    "updated_at": "2018-08-24 16:46:52.722208",
+    "country": "United States",
+    "longitude": "-105.594711797678",
+    "latitude": "41.3093843",
+    "tags": []
+  }
+]

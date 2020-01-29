@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rhinelander-brewing-co",
+    "name": "Rhinelander Brewing Co",
+    "brewery_type": "contract",
+    "street": "59 S Brown St",
+    "city": "Rhinelander",
+    "state": "Wisconsin",
+    "postal_code": "54501-3450",
+    "website_url": "http://www.rhinelanderbrewery.com",
+    "phone": "7155502337",
+    "created_at": "2018-07-24 01:34:36.383023",
+    "updated_at": "2018-08-24 16:45:06.678279",
+    "country": "United States",
+    "longitude": "-89.4126462244898",
+    "latitude": "45.637332877551",
+    "tags": []
+  }
+]

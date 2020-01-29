@@ -1,0 +1,19 @@
+[
+  {
+    "id": "light-the-lamp-brewery",
+    "name": "Light the Lamp Brewery",
+    "brewery_type": "micro",
+    "street": "10 N Lake St Ste 107",
+    "city": "Grayslake",
+    "state": "Illinois",
+    "postal_code": "60030-3636",
+    "website_url": "http://www.lightthelampbrewery.com",
+    "phone": "8477528489",
+    "created_at": "2018-07-24 01:33:19.598147",
+    "updated_at": "2018-08-11 21:37:13.26529",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

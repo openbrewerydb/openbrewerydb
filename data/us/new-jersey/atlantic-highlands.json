@@ -1,0 +1,19 @@
+[
+  {
+    "id": "carton-brewing-co",
+    "name": "Carton Brewing Co",
+    "brewery_type": "micro",
+    "street": "6 E Washington Ave",
+    "city": "Atlantic Highlands",
+    "state": "New Jersey",
+    "postal_code": "07716-1230",
+    "website_url": "http://www.cartonbrewing.com",
+    "phone": "7326542337",
+    "created_at": "2018-07-24 01:33:46.426159",
+    "updated_at": "2018-08-24 15:36:36.858562",
+    "country": "United States",
+    "longitude": "-74.0381651",
+    "latitude": "40.4117685",
+    "tags": []
+  }
+]

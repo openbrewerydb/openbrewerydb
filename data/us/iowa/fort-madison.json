@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lost-duck-brewing-co",
+    "name": "Lost Duck Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "723 Avenue H # 725",
+    "city": "Fort Madison",
+    "state": "Iowa",
+    "postal_code": "52627-2935",
+    "website_url": "http://www.duckbrewing.com",
+    "phone": "3193728255",
+    "created_at": "2018-07-24 01:33:24.020412",
+    "updated_at": "2018-08-24 00:38:02.675163",
+    "country": "United States",
+    "longitude": "-91.3102600901203",
+    "latitude": "40.6300701726018",
+    "tags": []
+  }
+]

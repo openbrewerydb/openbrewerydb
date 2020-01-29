@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mountain-state-brewing-co",
+    "name": "Mountain State Brewing Co",
+    "brewery_type": "micro",
+    "street": "1 Nelson Blvd",
+    "city": "Thomas",
+    "state": "West Virginia",
+    "postal_code": "26292",
+    "website_url": "http://www.mountainstatebrewing.com",
+    "phone": "3044634500",
+    "created_at": "2018-07-24 01:34:34.20558",
+    "updated_at": "2018-08-24 16:41:29.457528",
+    "country": "United States",
+    "longitude": "-79.498521",
+    "latitude": "39.142037",
+    "tags": []
+  }
+]

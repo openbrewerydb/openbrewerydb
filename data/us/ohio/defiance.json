@@ -1,0 +1,19 @@
+[
+  {
+    "id": "4kd-crick-brewery",
+    "name": "4kd Crick Brewery",
+    "brewery_type": "brewpub",
+    "street": "211 Carpenter Rd",
+    "city": "Defiance",
+    "state": "Ohio",
+    "postal_code": "43512-1718",
+    "website_url": "http://Www.4kdcrickbrewery.com",
+    "phone": "4199562863",
+    "created_at": "2018-07-24 01:33:59.379617",
+    "updated_at": "2018-08-24 15:43:20.950956",
+    "country": "United States",
+    "longitude": "-84.341647",
+    "latitude": "41.296252",
+    "tags": []
+  }
+]

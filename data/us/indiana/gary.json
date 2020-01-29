@@ -1,0 +1,19 @@
+[
+  {
+    "id": "18th-street-brewery",
+    "name": "18th Street Brewery",
+    "brewery_type": "micro",
+    "street": "5725 Miller Ave",
+    "city": "Gary",
+    "state": "Indiana",
+    "postal_code": "46403-2871",
+    "website_url": "http://www.18thstreetbrewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:21.193756",
+    "updated_at": "2018-08-24 00:32:25.536345",
+    "country": "United States",
+    "longitude": "-87.2688778553589",
+    "latitude": "41.5992834347567",
+    "tags": []
+  }
+]

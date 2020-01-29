@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cricket-hill-brewing-co-inc",
+    "name": "Cricket Hill Brewing Co. Inc.",
+    "brewery_type": "micro",
+    "street": "24 Kulick Rd",
+    "city": "Fairfield",
+    "state": "New Jersey",
+    "postal_code": "07004-3308",
+    "website_url": "http://www.crickethillbrewery.com",
+    "phone": "9732769415",
+    "created_at": "2018-07-24 01:33:46.516123",
+    "updated_at": "2018-08-24 15:36:39.745071",
+    "country": "United States",
+    "longitude": "-74.2963174",
+    "latitude": "40.872626",
+    "tags": []
+  },
+  {
+    "id": "magnify-brewing-company",
+    "name": "Magnify Brewing Company",
+    "brewery_type": "micro",
+    "street": "1275 Bloomfield Ave Ste 7 Unit 40C",
+    "city": "Fairfield",
+    "state": "New Jersey",
+    "postal_code": "07004-2736",
+    "website_url": "http://www.magnifybrewing.com",
+    "phone": "9732876099",
+    "created_at": "2018-07-24 01:33:47.138517",
+    "updated_at": "2018-08-11 21:38:24.607834",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

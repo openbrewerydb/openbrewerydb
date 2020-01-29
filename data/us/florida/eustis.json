@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wolf-branch-brewing-co",
+    "name": "Wolf Branch Brewing Co.",
+    "brewery_type": "micro",
+    "street": "119 N Bay St",
+    "city": "Eustis",
+    "state": "Florida",
+    "postal_code": "32726-3402",
+    "website_url": "http://www.wolfbranchbrewing.com",
+    "phone": "4072761510",
+    "created_at": "2018-07-24 01:33:15.205351",
+    "updated_at": "2018-08-24 00:28:51.456569",
+    "country": "United States",
+    "longitude": "-81.6855684693878",
+    "latitude": "28.8538698367347",
+    "tags": []
+  }
+]

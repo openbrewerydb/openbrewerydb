@@ -1,0 +1,19 @@
+[
+  {
+    "id": "grumpy-troll-the",
+    "name": "Grumpy Troll, The",
+    "brewery_type": "micro",
+    "street": "105 S 2nd St",
+    "city": "Mount Horeb",
+    "state": "Wisconsin",
+    "postal_code": "53572-2105",
+    "website_url": "http://www.thegrumpytroll.com",
+    "phone": "6084372739",
+    "created_at": "2018-07-24 01:34:35.484492",
+    "updated_at": "2018-08-24 16:43:27.471949",
+    "country": "United States",
+    "longitude": "-89.7383040408163",
+    "latitude": "43.0084144285714",
+    "tags": []
+  }
+]

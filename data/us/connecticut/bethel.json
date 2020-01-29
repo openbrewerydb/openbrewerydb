@@ -1,0 +1,19 @@
+[
+  {
+    "id": "broken-symmetry-gastro-brewery",
+    "name": "Broken Symmetry Gastro Brewery",
+    "brewery_type": "brewpub",
+    "street": "5 Depot Pl",
+    "city": "Bethel",
+    "state": "Connecticut",
+    "postal_code": "06801-2507",
+    "website_url": "",
+    "phone": "2037311735",
+    "created_at": "2018-07-24 01:33:09.273516",
+    "updated_at": "2018-08-24 00:25:29.149789",
+    "country": "United States",
+    "longitude": "-73.4142477614171",
+    "latitude": "41.3709733353379",
+    "tags": []
+  }
+]

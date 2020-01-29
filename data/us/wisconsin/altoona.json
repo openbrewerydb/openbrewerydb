@@ -1,0 +1,19 @@
+[
+  {
+    "id": "modicum-brewing",
+    "name": "Modicum Brewing",
+    "brewery_type": "micro",
+    "street": "3732 Spooner Ave Ste A",
+    "city": "Altoona",
+    "state": "Wisconsin",
+    "postal_code": "54720-1097",
+    "website_url": "http://www.modicumbrewing.com",
+    "phone": "7158958585",
+    "created_at": "2018-07-24 01:34:35.964034",
+    "updated_at": "2018-08-11 21:40:34.613663",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

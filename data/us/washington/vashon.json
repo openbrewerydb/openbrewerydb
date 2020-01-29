@@ -1,0 +1,53 @@
+[
+  {
+    "id": "enso-brewing-company",
+    "name": "Enso Brewing Company",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Vashon",
+    "state": "Washington",
+    "postal_code": "98070",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:29.542346",
+    "updated_at": "2018-08-11 21:40:15.585523",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "camp-colvos-brewing",
+    "name": "Camp Colvos Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Vashon",
+    "state": "Washington",
+    "postal_code": "98070-6052",
+    "website_url": "http://www.campcolvos.com",
+    "phone": "2069473527",
+    "created_at": "2018-07-24 01:34:28.780468",
+    "updated_at": "2018-08-11 21:40:13.501789",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "vashon-brewing-co",
+    "name": "Vashon Brewing Co",
+    "brewery_type": "micro",
+    "street": "",
+    "city": "Vashon",
+    "state": "Washington",
+    "postal_code": "98070-5900",
+    "website_url": "http://www.vashonbrewingco.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:33.60418",
+    "updated_at": "2018-08-11 21:40:27.611924",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

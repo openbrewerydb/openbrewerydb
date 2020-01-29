@@ -1,0 +1,19 @@
+[
+  {
+    "id": "minocqua-brewing-co",
+    "name": "Minocqua Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "238 Lake Shore Dr",
+    "city": "Minocqua",
+    "state": "Wisconsin",
+    "postal_code": "54548-0081",
+    "website_url": "http://minocquabrewingcompany.com",
+    "phone": "7153562600",
+    "created_at": "2018-07-24 01:34:35.939031",
+    "updated_at": "2018-08-11 21:40:34.545041",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

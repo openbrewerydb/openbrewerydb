@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mastiff-brewery",
+    "name": "Mastiff Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Middle River",
+    "state": "Maryland",
+    "postal_code": "21220-2818",
+    "website_url": "",
+    "phone": "3023127011",
+    "created_at": "2018-07-24 01:33:29.295979",
+    "updated_at": "2018-08-11 21:37:36.826916",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "flywheel-brewing-company",
+    "name": "Flywheel Brewing Company",
+    "brewery_type": "micro",
+    "street": "218 S Mulberry St Ste 103",
+    "city": "Elizabethtown",
+    "state": "Kentucky",
+    "postal_code": "42701-1431",
+    "website_url": "http://www.flywheelbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:25.584926",
+    "updated_at": "2018-08-11 21:37:27.739846",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

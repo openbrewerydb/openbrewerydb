@@ -1,0 +1,19 @@
+[
+  {
+    "id": "emmetts-brewing-co-west-dundee",
+    "name": "Emmett's Brewing Co - West Dundee",
+    "brewery_type": "brewpub",
+    "street": "128 W Main St",
+    "city": "West Dundee",
+    "state": "Illinois",
+    "postal_code": "60118-2017",
+    "website_url": "http://www.emmettsbrewingco.com",
+    "phone": "8474284500",
+    "created_at": "2018-07-24 01:33:18.748903",
+    "updated_at": "2018-08-24 00:30:53.184789",
+    "country": "United States",
+    "longitude": "-88.2784177",
+    "latitude": "42.0984146",
+    "tags": []
+  }
+]

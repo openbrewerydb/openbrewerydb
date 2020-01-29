@@ -1,0 +1,19 @@
+[
+  {
+    "id": "high-alpine-brewing-company",
+    "name": "High Alpine Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "111 N Main St",
+    "city": "Gunnison",
+    "state": "Colorado",
+    "postal_code": "81230-2330",
+    "website_url": "http://www.highalpinebrewing.com",
+    "phone": "9706424500",
+    "created_at": "2018-07-24 01:33:05.8499",
+    "updated_at": "2018-08-24 00:23:23.068821",
+    "country": "United States",
+    "longitude": "-106.927037673469",
+    "latitude": "38.5446227755102",
+    "tags": []
+  }
+]

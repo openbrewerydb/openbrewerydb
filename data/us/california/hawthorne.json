@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brewery-in-planning-appleton",
+    "name": "Brewery in Planning - Appleton",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Hawthorne",
+    "state": "California",
+    "postal_code": "90250-6602",
+    "website_url": "",
+    "phone": "3102089613",
+    "created_at": "2018-07-24 01:32:53.018648",
+    "updated_at": "2018-08-23 23:26:00.091195",
+    "country": "United States",
+    "longitude": "-118.34816",
+    "latitude": "33.911454",
+    "tags": []
+  },
+  {
+    "id": "common-space-brewery",
+    "name": "Common Space Brewery",
+    "brewery_type": "micro",
+    "street": "3411 W El Segundo Blvd",
+    "city": "Hawthorne",
+    "state": "California",
+    "postal_code": "90250-4816",
+    "website_url": "http://www.commonspace.la",
+    "phone": "3106662825",
+    "created_at": "2018-07-24 01:32:53.979477",
+    "updated_at": "2018-08-23 23:26:54.609618",
+    "country": "United States",
+    "longitude": "-118.332857374938",
+    "latitude": "33.9165311870278",
+    "tags": []
+  },
+  {
+    "id": "los-angeles-ale-works",
+    "name": "Los Angeles Ale Works",
+    "brewery_type": "micro",
+    "street": "12918 Cerise Ave",
+    "city": "Hawthorne",
+    "state": "California",
+    "postal_code": "90250-5521",
+    "website_url": "http://www.laaleworks.com",
+    "phone": "4244564191",
+    "created_at": "2018-07-24 01:32:57.92305",
+    "updated_at": "2018-08-23 23:59:10.10859",
+    "country": "United States",
+    "longitude": "-118.3322768",
+    "latitude": "33.9149155",
+    "tags": []
+  }
+]

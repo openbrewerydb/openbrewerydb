@@ -1,0 +1,19 @@
+[
+  {
+    "id": "west-kill-brewing",
+    "name": "West Kill Brewing",
+    "brewery_type": "micro",
+    "street": "2173 Spruceton Rd",
+    "city": "West Kill",
+    "state": "New York",
+    "postal_code": "12492-5823",
+    "website_url": "http://www.westkillbrewing.com",
+    "phone": "5189896001",
+    "created_at": "2018-07-24 01:33:54.467624",
+    "updated_at": "2018-08-24 15:40:47.696882",
+    "country": "United States",
+    "longitude": "-74.382878",
+    "latitude": "42.205758",
+    "tags": []
+  }
+]

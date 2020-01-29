@@ -1,0 +1,19 @@
+[
+  {
+    "id": "red-wing-brewing-company",
+    "name": "Red Wing Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "1411 Old West Main St",
+    "city": "Red Wing",
+    "state": "Minnesota",
+    "postal_code": "55066-2162",
+    "website_url": "http://www.redwingbrewing.com",
+    "phone": "6513272200",
+    "created_at": "2018-07-24 01:33:39.439791",
+    "updated_at": "2018-08-24 00:45:41.508457",
+    "country": "United States",
+    "longitude": "-92.5469839591837",
+    "latitude": "44.5627106326531",
+    "tags": []
+  }
+]

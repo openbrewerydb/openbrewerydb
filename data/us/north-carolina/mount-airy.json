@@ -1,0 +1,53 @@
+[
+  {
+    "id": "thirsty-souls-community-brewing",
+    "name": "Thirsty Souls Community Brewing",
+    "brewery_type": "micro",
+    "street": "238 Market St",
+    "city": "Mount Airy",
+    "state": "North Carolina",
+    "postal_code": "27030-3514",
+    "website_url": "http://www.thirstysoulscommunitybrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:58.447993",
+    "updated_at": "2018-08-24 15:42:52.456504",
+    "country": "United States",
+    "longitude": "-80.6087621",
+    "latitude": "36.5008814",
+    "tags": []
+  },
+  {
+    "id": "skull-camp-brewing",
+    "name": "Skull Camp Brewing",
+    "brewery_type": "micro",
+    "street": "765 Round Peak Church Rd",
+    "city": "Mount Airy",
+    "state": "North Carolina",
+    "postal_code": "27030-8421",
+    "website_url": "http://www.skullcampbrewing.com",
+    "phone": "3363525595",
+    "created_at": "2018-07-24 01:33:58.110053",
+    "updated_at": "2018-08-11 21:38:52.325543",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "white-elephant-beer-company",
+    "name": "White Elephant Beer Company",
+    "brewery_type": "micro",
+    "street": "225 Market St",
+    "city": "Mount Airy",
+    "state": "North Carolina",
+    "postal_code": "27030-3513",
+    "website_url": "http://www.whiteelephantbeer.com",
+    "phone": "3366488277",
+    "created_at": "2018-07-24 01:33:58.811531",
+    "updated_at": "2018-08-24 15:43:04.078539",
+    "country": "United States",
+    "longitude": "-80.6090865",
+    "latitude": "36.5006581",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ordnance-brewing",
+    "name": "Ordnance Brewing",
+    "brewery_type": "micro",
+    "street": "405 NE Olson Rd",
+    "city": "Boardman",
+    "state": "Oregon",
+    "postal_code": "97818-",
+    "website_url": "http://www.ordnancebrewing.com",
+    "phone": "5413148568",
+    "created_at": "2018-07-24 01:34:07.212681",
+    "updated_at": "2018-08-11 21:39:17.163427",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

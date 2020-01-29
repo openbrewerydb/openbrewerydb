@@ -1,0 +1,19 @@
+[
+  {
+    "id": "third-wheel-brewing",
+    "name": "Third Wheel Brewing",
+    "brewery_type": "brewpub",
+    "street": "4008 N Service Rd",
+    "city": "Saint Peters",
+    "state": "Missouri",
+    "postal_code": "63376-6462",
+    "website_url": "http://www.thirdwheelbrewing.com",
+    "phone": "6363239810",
+    "created_at": "2018-07-24 01:33:41.791398",
+    "updated_at": "2018-08-24 00:46:49.296971",
+    "country": "United States",
+    "longitude": "-90.5702331498145",
+    "latitude": "38.7957811617137",
+    "tags": []
+  }
+]

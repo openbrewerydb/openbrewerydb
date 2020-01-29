@@ -1,0 +1,36 @@
+[
+  {
+    "id": "iron-hill-brewery-and-restaurant-media",
+    "name": "Iron Hill Brewery & Restaurant - Media",
+    "brewery_type": "brewpub",
+    "street": "30 E State Street",
+    "city": "Media",
+    "state": "Pennsylvania",
+    "postal_code": "19063-2904",
+    "website_url": "http://www.ironhillbrewery.com",
+    "phone": "6106279000",
+    "created_at": "2018-07-24 01:34:11.049021",
+    "updated_at": "2018-08-24 16:09:26.636421",
+    "country": "United States",
+    "longitude": "-75.3883184729763",
+    "latitude": "39.9174642",
+    "tags": []
+  },
+  {
+    "id": "sterling-pig-brewery",
+    "name": "Sterling Pig Brewery",
+    "brewery_type": "brewpub",
+    "street": "609 W State St",
+    "city": "Media",
+    "state": "Pennsylvania",
+    "postal_code": "19063-2641",
+    "website_url": "http://www.sterlingpigbrewery.com",
+    "phone": "4844442526",
+    "created_at": "2018-07-24 01:34:12.804692",
+    "updated_at": "2018-08-24 16:12:11.272984",
+    "country": "United States",
+    "longitude": "-75.3949477",
+    "latitude": "39.918688",
+    "tags": []
+  }
+]

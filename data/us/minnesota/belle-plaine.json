@@ -1,0 +1,19 @@
+[
+  {
+    "id": "u4ic-brewing-inc",
+    "name": "U4ic Brewing, Inc.",
+    "brewery_type": "micro",
+    "street": "23436 Union Trl Ste 1",
+    "city": "Belle Plaine",
+    "state": "Minnesota",
+    "postal_code": "56011-9008",
+    "website_url": "http://www.u4icbrewing.com",
+    "phone": "9528733303",
+    "created_at": "2018-07-24 01:33:39.803661",
+    "updated_at": "2018-08-24 00:45:53.705452",
+    "country": "United States",
+    "longitude": "-93.8017001",
+    "latitude": "44.6232246",
+    "tags": []
+  }
+]

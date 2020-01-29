@@ -1,0 +1,53 @@
+[
+  {
+    "id": "pitt-street-brewing-company",
+    "name": "Pitt Street Brewing Company",
+    "brewery_type": "micro",
+    "street": "630 S Pitt St",
+    "city": "Greenville",
+    "state": "North Carolina",
+    "postal_code": "27834-3159",
+    "website_url": "http://www.pittstreetbrewing.com",
+    "phone": "2522274151",
+    "created_at": "2018-07-24 01:33:57.801579",
+    "updated_at": "2018-08-24 15:42:29.032567",
+    "country": "United States",
+    "longitude": "-77.3769482237884",
+    "latitude": "35.6095882954837",
+    "tags": []
+  },
+  {
+    "id": "uptown-brewing-co",
+    "name": "Uptown Brewing Co",
+    "brewery_type": "micro",
+    "street": "418 Evans St",
+    "city": "Greenville",
+    "state": "North Carolina",
+    "postal_code": "27858-1834",
+    "website_url": "http://www.uptownbrewingcompany.com",
+    "phone": "2526712633",
+    "created_at": "2018-07-24 01:33:58.67684",
+    "updated_at": "2018-08-11 21:38:53.591831",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "trollingwood-taproom-and-brewery",
+    "name": "Trollingwood Taproom & Brewery",
+    "brewery_type": "micro",
+    "street": "707 Dickinson Ave",
+    "city": "Greenville",
+    "state": "North Carolina",
+    "postal_code": "27834-3147",
+    "website_url": "http://www.trollingwoodbrewery.com",
+    "phone": "2522106295",
+    "created_at": "2018-07-24 01:33:58.570251",
+    "updated_at": "2018-08-24 15:42:55.865506",
+    "country": "United States",
+    "longitude": "-77.37544525",
+    "latitude": "35.60994375",
+    "tags": []
+  }
+]

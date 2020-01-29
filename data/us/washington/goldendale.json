@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dwinell-country-ales",
+    "name": "Dwinell Country Ales",
+    "brewery_type": "micro",
+    "street": "206 W Broadway St",
+    "city": "Goldendale",
+    "state": "Washington",
+    "postal_code": "98620-9130",
+    "website_url": "http://www.countryales.com",
+    "phone": "5097733138",
+    "created_at": "2018-07-24 01:34:29.328569",
+    "updated_at": "2018-08-24 16:34:09.583583",
+    "country": "United States",
+    "longitude": "-120.824777313583",
+    "latitude": "45.822927",
+    "tags": []
+  }
+]

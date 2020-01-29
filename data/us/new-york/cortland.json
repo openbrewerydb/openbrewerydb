@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cortland-beer-company",
+    "name": "Cortland Beer Company",
+    "brewery_type": "micro",
+    "street": "16 Court St",
+    "city": "Cortland",
+    "state": "New York",
+    "postal_code": "13045-2604",
+    "website_url": "http://www.cortlandbeer.com",
+    "phone": "6076624389",
+    "created_at": "2018-07-24 01:33:50.388557",
+    "updated_at": "2018-08-24 15:38:36.160424",
+    "country": "United States",
+    "longitude": "-76.1798977083333",
+    "latitude": "42.5994031041667",
+    "tags": []
+  }
+]

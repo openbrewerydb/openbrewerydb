@@ -1,0 +1,19 @@
+[
+  {
+    "id": "laht-neppur-brewing",
+    "name": "Laht Neppur Brewing",
+    "brewery_type": "brewpub",
+    "street": "444 Preston Ave",
+    "city": "Waitsburg",
+    "state": "Washington",
+    "postal_code": "99361-0738",
+    "website_url": "http://lahtneppur.com",
+    "phone": "5093376261",
+    "created_at": "2018-07-24 01:34:30.732357",
+    "updated_at": "2018-08-24 16:36:10.883103",
+    "country": "United States",
+    "longitude": "-118.148767",
+    "latitude": "46.270046",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lake-ann-brewing-co",
+    "name": "Lake Ann Brewing Co",
+    "brewery_type": "micro",
+    "street": "6535 First St",
+    "city": "Lake Ann",
+    "state": "Michigan",
+    "postal_code": "49650-9549",
+    "website_url": "http://www.lakeannbrewing.com",
+    "phone": "2316402327",
+    "created_at": "2018-07-24 01:33:35.169497",
+    "updated_at": "2018-08-11 21:37:51.595377",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

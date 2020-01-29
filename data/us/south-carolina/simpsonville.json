@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rail-line-brewing",
+    "name": "Rail Line Brewing",
+    "brewery_type": "brewpub",
+    "street": "301 N Main St",
+    "city": "Simpsonville",
+    "state": "South Carolina",
+    "postal_code": "29681-2311",
+    "website_url": "http://www.raillinebrewing.com",
+    "phone": "8645939722",
+    "created_at": "2018-07-24 01:34:14.77497",
+    "updated_at": "2018-08-24 16:15:06.756604",
+    "country": "United States",
+    "longitude": "-82.2578248084272",
+    "latitude": "34.7414657",
+    "tags": []
+  }
+]

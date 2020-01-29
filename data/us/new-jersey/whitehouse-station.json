@@ -1,0 +1,19 @@
+[
+  {
+    "id": "backman-brewing-company",
+    "name": "Backman Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Whitehouse Station",
+    "state": "New Jersey",
+    "postal_code": "08889-3562",
+    "website_url": "http://backmanbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:46.115489",
+    "updated_at": "2018-08-11 21:38:21.906911",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hollywood-brewing-co",
+    "name": "Hollywood Brewing Co",
+    "brewery_type": "micro",
+    "street": "3410 N 29th Ave",
+    "city": "Hollywood",
+    "state": "Florida",
+    "postal_code": "33020-1002",
+    "website_url": "http://www.hollywood.beer",
+    "phone": "3054144757",
+    "created_at": "2018-07-24 01:33:13.159373",
+    "updated_at": "2018-08-24 00:27:29.200998",
+    "country": "United States",
+    "longitude": "-80.1658845",
+    "latitude": "26.0405657",
+    "tags": []
+  },
+  {
+    "id": "department-coffee",
+    "name": "Department Coffee",
+    "brewery_type": "contract",
+    "street": "1940 N 30th Rd",
+    "city": "Hollywood",
+    "state": "Florida",
+    "postal_code": "33021-4401",
+    "website_url": "http://www.depatmentcoffee.com",
+    "phone": "3235382955",
+    "created_at": "2018-07-24 01:33:12.55875",
+    "updated_at": "2018-08-24 00:27:05.002315",
+    "country": "United States",
+    "longitude": "-80.1683619916553",
+    "latitude": "26.0261832406292",
+    "tags": []
+  },
+  {
+    "id": "hollywood-brewing-co",
+    "name": "Hollywood Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "290 N Broadwalk",
+    "city": "Hollywood",
+    "state": "Florida",
+    "postal_code": "33019-1787",
+    "website_url": "http://www.hollywood.beer",
+    "phone": "9546749674",
+    "created_at": "2018-07-24 01:33:13.172864",
+    "updated_at": "2018-08-11 21:36:55.125295",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

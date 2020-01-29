@@ -1,0 +1,36 @@
+[
+  {
+    "id": "baxter-brewing-co-llc",
+    "name": "Baxter Brewing Co, LLC",
+    "brewery_type": "regional",
+    "street": "130 Mill St",
+    "city": "Lewiston",
+    "state": "Maine",
+    "postal_code": "04240-7774",
+    "website_url": "http://www.baxterbrewing.com",
+    "phone": "2073336769",
+    "created_at": "2018-07-24 01:33:26.847222",
+    "updated_at": "2018-08-24 00:39:34.549134",
+    "country": "United States",
+    "longitude": "-70.219607",
+    "latitude": "44.0956772791922",
+    "tags": []
+  },
+  {
+    "id": "bear-bones-beer",
+    "name": "Bear Bones Beer",
+    "brewery_type": "micro",
+    "street": "43 Lisbon St",
+    "city": "Lewiston",
+    "state": "Maine",
+    "postal_code": "04240-7115",
+    "website_url": "http://www.bearbonesbeer.com",
+    "phone": "2072001324",
+    "created_at": "2018-07-24 01:33:26.870666",
+    "updated_at": "2018-08-24 00:39:35.481253",
+    "country": "United States",
+    "longitude": "-70.0960551875",
+    "latitude": "44.0201273229167",
+    "tags": []
+  }
+]

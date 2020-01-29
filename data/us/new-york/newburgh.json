@@ -1,0 +1,19 @@
+[
+  {
+    "id": "newburgh-brewing-company",
+    "name": "Newburgh Brewing Company",
+    "brewery_type": "micro",
+    "street": "88 S Colden St",
+    "city": "Newburgh",
+    "state": "New York",
+    "postal_code": "12550-5640",
+    "website_url": "http://www.newburghbrewing.com",
+    "phone": "8455692337",
+    "created_at": "2018-07-24 01:33:52.563149",
+    "updated_at": "2018-08-24 15:39:47.830347",
+    "country": "United States",
+    "longitude": "-74.0081169897959",
+    "latitude": "41.4965911938775",
+    "tags": []
+  }
+]

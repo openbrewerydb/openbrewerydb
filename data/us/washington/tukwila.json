@@ -1,0 +1,19 @@
+[
+  {
+    "id": "odin-brewing-co",
+    "name": "Odin Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "402 Baker Blvd",
+    "city": "Tukwila",
+    "state": "Washington",
+    "postal_code": "98188-2905",
+    "website_url": "http://www.odinbrewing.com",
+    "phone": "2062432363",
+    "created_at": "2018-07-24 01:34:31.698575",
+    "updated_at": "2018-08-24 16:37:36.650366",
+    "country": "United States",
+    "longitude": "-122.2520643",
+    "latitude": "47.4586237",
+    "tags": []
+  }
+]

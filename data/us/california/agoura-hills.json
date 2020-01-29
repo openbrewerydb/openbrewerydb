@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lab-brewing-co-/-twisted-oak-tavern",
+    "name": "LAB Brewing Co / Twisted Oak Tavern",
+    "brewery_type": "brewpub",
+    "street": "30105 Agoura Rd",
+    "city": "Agoura Hills",
+    "state": "California",
+    "postal_code": "91301-2003",
+    "website_url": "http://www.twistedoaktavern.pub",
+    "phone": "8187350091",
+    "created_at": "2018-07-24 01:32:57.522984",
+    "updated_at": "2018-08-23 23:58:41.134127",
+    "country": "United States",
+    "longitude": "-118.779913319513",
+    "latitude": "34.1451193082735",
+    "tags": []
+  },
+  {
+    "id": "ladyface-ale-companie",
+    "name": "Ladyface Ale Companie",
+    "brewery_type": "brewpub",
+    "street": "29281 Agoura Rd",
+    "city": "Agoura Hills",
+    "state": "California",
+    "postal_code": "91301-2597",
+    "website_url": "http://www.ladyfaceale.com",
+    "phone": "8184774566",
+    "created_at": "2018-07-24 01:32:57.534876",
+    "updated_at": "2018-08-23 23:58:42.021725",
+    "country": "United States",
+    "longitude": "-118.766153587872",
+    "latitude": "34.1440421589215",
+    "tags": []
+  }
+]

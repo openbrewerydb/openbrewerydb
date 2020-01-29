@@ -1,0 +1,19 @@
+[
+  {
+    "id": "blue-heron-brewing",
+    "name": "Blue Heron Brewing",
+    "brewery_type": "micro",
+    "street": "2214 New Mexico 68",
+    "city": "Embudo",
+    "state": "New Mexico",
+    "postal_code": "87531",
+    "website_url": "http://www.blueheronbrews.com",
+    "phone": "5055799188",
+    "created_at": "2018-07-24 01:33:47.746422",
+    "updated_at": "2018-08-11 21:38:26.086549",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

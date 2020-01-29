@@ -1,0 +1,36 @@
+[
+  {
+    "id": "arrowhead-ales-brewing-company",
+    "name": "Arrowhead Ales Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "2101 Calistoga Dr",
+    "city": "New Lenox",
+    "state": "Illinois",
+    "postal_code": "60451-4826",
+    "website_url": "http://www.arrowheadales.com",
+    "phone": "8157176068",
+    "created_at": "2018-07-24 01:33:18.092468",
+    "updated_at": "2018-08-24 00:30:30.144362",
+    "country": "United States",
+    "longitude": "-87.9572694141028",
+    "latitude": "41.4820584426614",
+    "tags": []
+  },
+  {
+    "id": "hickory-creek-brewing-company-llc",
+    "name": "Hickory Creek Brewing Company LLC",
+    "brewery_type": "micro",
+    "street": "1005 W Laraway Rd Unit 260",
+    "city": "New Lenox",
+    "state": "Illinois",
+    "postal_code": "60451",
+    "website_url": "http://www.hickorycreekbrewingil.com",
+    "phone": "8152456042",
+    "created_at": "2018-07-24 01:33:19.253887",
+    "updated_at": "2018-08-11 21:37:12.13997",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

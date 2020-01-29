@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brewery-in-planning-morgantown-wv",
+    "name": "Brewery in Planning - Morgantown, WV",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Morgantown",
+    "state": "West Virginia",
+    "postal_code": "26501",
+    "website_url": "http://www.BeertopiaWV.com",
+    "phone": "3044764871",
+    "created_at": "2018-07-24 01:34:34.08077",
+    "updated_at": "2018-08-11 21:40:28.879832",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "chestnut-brew-works",
+    "name": "Chestnut Brew Works",
+    "brewery_type": "micro",
+    "street": "444 Brockway Ave",
+    "city": "Morgantown",
+    "state": "West Virginia",
+    "postal_code": "26501",
+    "website_url": "http://www.chestnutbrewworks.com",
+    "phone": "3042762737",
+    "created_at": "2018-07-24 01:34:34.124265",
+    "updated_at": "2018-08-24 16:41:21.11923",
+    "country": "United States",
+    "longitude": "-79.9507513",
+    "latitude": "39.6272755",
+    "tags": []
+  },
+  {
+    "id": "morgantown-brewing-co",
+    "name": "Morgantown Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1291 University Ave",
+    "city": "Morgantown",
+    "state": "West Virginia",
+    "postal_code": "26505-5450",
+    "website_url": "http://www.morgantownbrewing.com",
+    "phone": "3042926959",
+    "created_at": "2018-07-24 01:34:34.19147",
+    "updated_at": "2018-08-24 16:41:27.935709",
+    "country": "United States",
+    "longitude": "-79.9579978",
+    "latitude": "39.6305115",
+    "tags": []
+  }
+]

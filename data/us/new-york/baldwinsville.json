@@ -1,0 +1,36 @@
+[
+  {
+    "id": "anheuser-busch-inc-a-baldwinsville",
+    "name": "Anheuser-Busch Inc â Baldwinsville",
+    "brewery_type": "large",
+    "street": "2885 Belgium Rd",
+    "city": "Baldwinsville",
+    "state": "New York",
+    "postal_code": "13027-2706",
+    "website_url": "",
+    "phone": "3156354000",
+    "created_at": "2018-07-24 01:33:49.131943",
+    "updated_at": "2018-08-24 15:38:01.274977",
+    "country": "United States",
+    "longitude": "-76.3115934287994",
+    "latitude": "43.1651092543768",
+    "tags": []
+  },
+  {
+    "id": "wt-brews-llc",
+    "name": "WT Brews LLC",
+    "brewery_type": "micro",
+    "street": "3 W Genesee St",
+    "city": "Baldwinsville",
+    "state": "New York",
+    "postal_code": "13027-1104",
+    "website_url": "http://www.wtbrews.com",
+    "phone": "3158573266",
+    "created_at": "2018-07-24 01:33:54.686356",
+    "updated_at": "2018-08-24 15:40:53.652011",
+    "country": "United States",
+    "longitude": "-76.3328857142857",
+    "latitude": "43.1585531428571",
+    "tags": []
+  }
+]

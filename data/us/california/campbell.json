@@ -1,0 +1,36 @@
+[
+  {
+    "id": "campbell-brewing-co",
+    "name": "Campbell Brewing Co",
+    "brewery_type": "micro",
+    "street": "200 E Campbell Ave",
+    "city": "Campbell",
+    "state": "California",
+    "postal_code": "95008-2010",
+    "website_url": "",
+    "phone": "4088662699",
+    "created_at": "2018-07-24 01:32:53.522897",
+    "updated_at": "2018-08-23 23:26:26.346973",
+    "country": "United States",
+    "longitude": "-121.9332743",
+    "latitude": "37.2870748",
+    "tags": []
+  },
+  {
+    "id": "rock-bottom-brewery-san-jose",
+    "name": "Rock Bottom Brewery - San Jose",
+    "brewery_type": "brewpub",
+    "street": "1875 S Bascom Ave Ste 700",
+    "city": "Campbell",
+    "state": "California",
+    "postal_code": "95008-2310",
+    "website_url": "http://www.rockbottom.com",
+    "phone": "4083770707",
+    "created_at": "2018-07-24 01:33:00.12908",
+    "updated_at": "2018-08-11 21:36:18.122861",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

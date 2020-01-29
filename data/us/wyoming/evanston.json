@@ -1,0 +1,19 @@
+[
+  {
+    "id": "suds-brothers-brewing-co",
+    "name": "Suds Brothers Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1012 Main St",
+    "city": "Evanston",
+    "state": "Wyoming",
+    "postal_code": "82930-3443",
+    "website_url": "http://www.sudsbrothersbrewery.com",
+    "phone": "3074447837",
+    "created_at": "2018-07-24 01:34:37.653285",
+    "updated_at": "2018-08-24 16:47:09.293947",
+    "country": "United States",
+    "longitude": "-110.966093616751",
+    "latitude": "41.2679868715664",
+    "tags": []
+  }
+]

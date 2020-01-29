@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bierwerks",
+    "name": "BierWerks",
+    "brewery_type": "brewpub",
+    "street": "121 E. Midland Ave",
+    "city": "Woodland Park",
+    "state": "Colorado",
+    "postal_code": "80863",
+    "website_url": "http://www.bierwerks.com",
+    "phone": "7196868100",
+    "created_at": "2018-07-24 01:33:03.712545",
+    "updated_at": "2018-08-24 00:05:41.424417",
+    "country": "United States",
+    "longitude": "-105.0519462",
+    "latitude": "38.9941414",
+    "tags": []
+  },
+  {
+    "id": "ute-pass-brewing-co",
+    "name": "Ute Pass Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "209 E Midland Ave",
+    "city": "Woodland Park",
+    "state": "Colorado",
+    "postal_code": "80863-3101",
+    "website_url": "http://www.utepassbrewingcompany.com",
+    "phone": "7196868722",
+    "created_at": "2018-07-24 01:33:08.563761",
+    "updated_at": "2018-08-24 00:25:04.697135",
+    "country": "United States",
+    "longitude": "-105.05133569001",
+    "latitude": "38.9944899",
+    "tags": []
+  }
+]

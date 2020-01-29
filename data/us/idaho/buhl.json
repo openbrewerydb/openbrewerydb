@@ -1,0 +1,19 @@
+[
+  {
+    "id": "magic-valley-brewing",
+    "name": "Magic Valley Brewing",
+    "brewery_type": "brewpub",
+    "street": "208 Broadway Ave N",
+    "city": "Buhl",
+    "state": "Idaho",
+    "postal_code": "83316-1625",
+    "website_url": "",
+    "phone": "2084206021",
+    "created_at": "2018-07-24 01:33:17.407983",
+    "updated_at": "2018-08-24 00:30:06.195405",
+    "country": "United States",
+    "longitude": "-114.761052755102",
+    "latitude": "42.6000951428571",
+    "tags": []
+  }
+]

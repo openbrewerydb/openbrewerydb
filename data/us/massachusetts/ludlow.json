@@ -1,0 +1,53 @@
+[
+  {
+    "id": "brewery-in-planning-ludlow",
+    "name": "Brewery in Planning - Ludlow",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Ludlow",
+    "state": "Massachusetts",
+    "postal_code": "01056-3517",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:30.439853",
+    "updated_at": "2018-08-11 21:37:39.282539",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "iron-duke-brewing-co",
+    "name": "Iron Duke Brewing Co",
+    "brewery_type": "micro",
+    "street": "100 State St Ste 122",
+    "city": "Ludlow",
+    "state": "Massachusetts",
+    "postal_code": "01056-3435",
+    "website_url": "http://www.irondukebrewing.com",
+    "phone": "4136246258",
+    "created_at": "2018-07-24 01:33:31.227272",
+    "updated_at": "2018-08-11 21:37:41.939355",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "vanished-valley-brewing-company",
+    "name": "Vanished Valley Brewing Company",
+    "brewery_type": "micro",
+    "street": "782 Center Street",
+    "city": "Ludlow ",
+    "state": "Massachusetts",
+    "postal_code": "01056",
+    "website_url": "http://www.vanishedvalley.com",
+    "phone": "4132710503",
+    "created_at": "2018-07-24 01:33:32.244647",
+    "updated_at": "2018-08-24 00:41:55.205198",
+    "country": "United States",
+    "longitude": "-72.4702163876732",
+    "latitude": "42.1829274074559",
+    "tags": []
+  }
+]

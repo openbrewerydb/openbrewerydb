@@ -1,0 +1,19 @@
+[
+  {
+    "id": "elevation-66-brewing-co",
+    "name": "Elevation 66 Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "10082 San Pablo Ave",
+    "city": "El Cerrito",
+    "state": "California",
+    "postal_code": "94530-3927",
+    "website_url": "http://www.elevation66.com",
+    "phone": "5308489176",
+    "created_at": "2018-07-24 01:32:54.983334",
+    "updated_at": "2018-08-23 23:27:59.348354",
+    "country": "United States",
+    "longitude": "-122.3030241",
+    "latitude": "37.9020418",
+    "tags": []
+  }
+]

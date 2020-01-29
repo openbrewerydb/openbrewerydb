@@ -1,0 +1,19 @@
+[
+  {
+    "id": "karl-strauss-brewing-co-universal-citywalk",
+    "name": "Karl Strauss Brewing Co - Universal CityWalk",
+    "brewery_type": "brewpub",
+    "street": "1000 Universal Studios Blvd",
+    "city": "Universal City",
+    "state": "California",
+    "postal_code": "91608-1008",
+    "website_url": "http://www.karlstrauss.com",
+    "phone": "8187532739",
+    "created_at": "2018-07-24 01:32:57.291875",
+    "updated_at": "2018-08-23 23:58:24.659093",
+    "country": "United States",
+    "longitude": "-118.3529336",
+    "latitude": "34.1322144",
+    "tags": []
+  }
+]

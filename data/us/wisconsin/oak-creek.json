@@ -1,0 +1,19 @@
+[
+  {
+    "id": "water-street-brewery-oak-creek",
+    "name": "Water Street Brewery - Oak Creek",
+    "brewery_type": "brewpub",
+    "street": "140 W Town Square Way",
+    "city": "Oak Creek",
+    "state": "Wisconsin",
+    "postal_code": "53154-6811",
+    "website_url": "",
+    "phone": "4143015288",
+    "created_at": "2018-07-24 01:34:37.185892",
+    "updated_at": "2018-08-24 16:46:25.240573",
+    "country": "United States",
+    "longitude": "-87.9121000699205",
+    "latitude": "42.90064865",
+    "tags": []
+  }
+]

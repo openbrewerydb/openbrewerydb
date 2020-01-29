@@ -1,0 +1,19 @@
+[
+  {
+    "id": "manitou-brewing-company",
+    "name": "Manitou Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "725 Manitou Ave",
+    "city": "Manitou Springs",
+    "state": "Colorado",
+    "postal_code": "80829-1809",
+    "website_url": "http://www.manitou-brewing.com",
+    "phone": "7192827709",
+    "created_at": "2018-07-24 01:33:06.488179",
+    "updated_at": "2018-08-24 00:23:49.245809",
+    "country": "United States",
+    "longitude": "-104.915741327052",
+    "latitude": "38.8569869",
+    "tags": []
+  }
+]

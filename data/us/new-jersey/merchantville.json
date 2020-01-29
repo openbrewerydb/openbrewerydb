@@ -1,0 +1,19 @@
+[
+  {
+    "id": "eclipse-brewing",
+    "name": "Eclipse Brewing",
+    "brewery_type": "micro",
+    "street": "25 E Park Ave",
+    "city": "Merchantville",
+    "state": "New Jersey",
+    "postal_code": "08109-2607",
+    "website_url": "",
+    "phone": "6093203979",
+    "created_at": "2018-07-24 01:33:46.665456",
+    "updated_at": "2018-08-24 15:36:44.901585",
+    "country": "United States",
+    "longitude": "-75.0483130816327",
+    "latitude": "39.9516441632653",
+    "tags": []
+  }
+]

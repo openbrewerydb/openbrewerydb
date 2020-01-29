@@ -1,0 +1,19 @@
+[
+  {
+    "id": "big-leaf-brewing",
+    "name": "Big Leaf Brewing",
+    "brewery_type": "micro",
+    "street": "1320 Durkees Ferry Rd",
+    "city": "West Terre Haute",
+    "state": "Indiana",
+    "postal_code": "47885-9626",
+    "website_url": "",
+    "phone": "8122812187",
+    "created_at": "2018-07-24 01:33:21.37049",
+    "updated_at": "2018-08-11 21:37:17.678485",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

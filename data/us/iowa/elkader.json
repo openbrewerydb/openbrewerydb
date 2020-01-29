@@ -1,0 +1,19 @@
+[
+  {
+    "id": "debs-brewtopia",
+    "name": "Deb's Brewtopia",
+    "brewery_type": "micro",
+    "street": "106 Cedar St",
+    "city": "Elkader",
+    "state": "Iowa",
+    "postal_code": "52043",
+    "website_url": "http://www.debsbrewtopia.com",
+    "phone": "5632453737",
+    "created_at": "2018-07-24 01:33:23.606936",
+    "updated_at": "2018-08-24 00:33:56.5006",
+    "country": "United States",
+    "longitude": "-91.4060835272074",
+    "latitude": "42.8548668119706",
+    "tags": []
+  }
+]

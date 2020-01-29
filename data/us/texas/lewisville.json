@@ -1,0 +1,36 @@
+[
+  {
+    "id": "old-town-brewhouse",
+    "name": "Old Town Brewhouse",
+    "brewery_type": "micro",
+    "street": "146 Whatley Ave",
+    "city": "Lewisville",
+    "state": "Texas",
+    "postal_code": "75057-3961",
+    "website_url": "http://www.cobrabrewingco.com",
+    "phone": "9722212337",
+    "created_at": "2018-07-24 01:34:20.57365",
+    "updated_at": "2018-08-24 16:22:14.586197",
+    "country": "United States",
+    "longitude": "-96.9935314081633",
+    "latitude": "33.044038",
+    "tags": []
+  },
+  {
+    "id": "tko-libations",
+    "name": "TKO Libations",
+    "brewery_type": "micro",
+    "street": "2520 King Arthur Blvd Ste 109",
+    "city": "Lewisville",
+    "state": "Texas",
+    "postal_code": "75056-6082",
+    "website_url": "http://www.tkolibations.com",
+    "phone": "4696302337",
+    "created_at": "2018-07-24 01:34:21.84414",
+    "updated_at": "2018-08-11 21:39:55.904701",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

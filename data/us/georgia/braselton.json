@@ -1,0 +1,19 @@
+[
+  {
+    "id": "braselton-brewing-company",
+    "name": "Braselton Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Braselton",
+    "state": "Georgia",
+    "postal_code": "30517",
+    "website_url": "",
+    "phone": "7068701458",
+    "created_at": "2018-07-24 01:33:15.4327",
+    "updated_at": "2018-08-11 21:37:01.050129",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

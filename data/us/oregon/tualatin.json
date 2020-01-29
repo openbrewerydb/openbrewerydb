@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ancestry-brewery",
+    "name": "Ancestry Brewery",
+    "brewery_type": "brewpub",
+    "street": "20585 SW 115th Ave",
+    "city": "Tualatin",
+    "state": "Oregon",
+    "postal_code": "97062-6857",
+    "website_url": "http://www.ancestrybrewing.com",
+    "phone": "5037060448",
+    "created_at": "2018-07-24 01:34:04.621515",
+    "updated_at": "2018-08-24 15:45:49.45896",
+    "country": "United States",
+    "longitude": "-122.7967838",
+    "latitude": "45.3711546",
+    "tags": []
+  },
+  {
+    "id": "g-man-brewery-/-g-man-sports-bar",
+    "name": "G Man Brewery / G-Man Sports Bar",
+    "brewery_type": "micro",
+    "street": "18791 SW Martinazzi Ave",
+    "city": "Tualatin",
+    "state": "Oregon",
+    "postal_code": "97062-6808",
+    "website_url": "http://www.hotseatsportsbar.com",
+    "phone": "5033105159",
+    "created_at": "2018-07-24 01:34:06.026018",
+    "updated_at": "2018-08-24 16:01:48.583156",
+    "country": "United States",
+    "longitude": "-122.7598045",
+    "latitude": "45.3841006",
+    "tags": []
+  }
+]

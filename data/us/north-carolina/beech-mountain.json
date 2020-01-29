@@ -1,0 +1,19 @@
+[
+  {
+    "id": "beech-mountain-brewing-company",
+    "name": "Beech Mountain Brewing Company",
+    "brewery_type": "micro",
+    "street": "1007 Beech Mountain Pkwy",
+    "city": "Beech Mountain",
+    "state": "North Carolina",
+    "postal_code": "28604-8018",
+    "website_url": "http://www.beechmountainresort.com",
+    "phone": "8283872011",
+    "created_at": "2018-07-24 01:33:55.076483",
+    "updated_at": "2018-08-24 15:41:04.994664",
+    "country": "United States",
+    "longitude": "-81.8733560040101",
+    "latitude": "36.1681958415096",
+    "tags": []
+  }
+]

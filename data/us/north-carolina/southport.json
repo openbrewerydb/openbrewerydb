@@ -1,0 +1,19 @@
+[
+  {
+    "id": "check-six-brewing-co",
+    "name": "Check Six Brewing Co",
+    "brewery_type": "micro",
+    "street": "5130 Southport Supply Rd SE",
+    "city": "Southport",
+    "state": "North Carolina",
+    "postal_code": "28461-9261",
+    "website_url": "http://www.checksixbeer.com",
+    "phone": "9104779280",
+    "created_at": "2018-07-24 01:33:55.815377",
+    "updated_at": "2018-08-24 15:41:28.749662",
+    "country": "United States",
+    "longitude": "-78.0477587",
+    "latitude": "33.952339",
+    "tags": []
+  }
+]

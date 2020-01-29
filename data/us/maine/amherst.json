@@ -1,0 +1,19 @@
+[
+  {
+    "id": "airline-brewing-company",
+    "name": "Airline Brewing Company",
+    "brewery_type": "micro",
+    "street": "22 Mill Ln",
+    "city": "Amherst",
+    "state": "Maine",
+    "postal_code": "04428",
+    "website_url": "http://www.abcmaine.beer",
+    "phone": "2075842337",
+    "created_at": "2018-07-24 01:33:26.681364",
+    "updated_at": "2018-08-24 00:39:29.447538",
+    "country": "United States",
+    "longitude": "-68.3677435",
+    "latitude": "44.8329462",
+    "tags": []
+  }
+]

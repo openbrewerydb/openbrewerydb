@@ -1,0 +1,19 @@
+[
+  {
+    "id": "willimantic-brewing-co-and-main-street-cafe",
+    "name": "Willimantic Brewing Co and Main Street Cafe",
+    "brewery_type": "brewpub",
+    "street": "967 Main St",
+    "city": "Willimantic",
+    "state": "Connecticut",
+    "postal_code": "06226-2330",
+    "website_url": "http://www.willibrew.com",
+    "phone": "8604236777",
+    "created_at": "2018-07-24 01:33:10.348637",
+    "updated_at": "2018-08-24 00:25:56.024818",
+    "country": "United States",
+    "longitude": "-72.2171493809593",
+    "latitude": "41.7131866",
+    "tags": []
+  }
+]

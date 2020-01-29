@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mill-creek-brewing-co",
+    "name": "Mill Creek Brewing Co.",
+    "brewery_type": "micro",
+    "street": "2008B Johnson Industrial Blvd",
+    "city": "Nolensville",
+    "state": "Tennessee",
+    "postal_code": "37135-9773",
+    "website_url": "http://www.millcreekbrewingco.com",
+    "phone": "6157763377",
+    "created_at": "2018-07-24 01:34:16.765441",
+    "updated_at": "2018-08-24 16:17:33.681849",
+    "country": "United States",
+    "longitude": "-86.6700957287462",
+    "latitude": "35.9575301024276",
+    "tags": []
+  }
+]

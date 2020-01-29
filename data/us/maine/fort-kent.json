@@ -1,0 +1,19 @@
+[
+  {
+    "id": "first-mile-brewing-company",
+    "name": "First Mile Brewing Company",
+    "brewery_type": "micro",
+    "street": "28 Market St Ste 103",
+    "city": "Fort Kent",
+    "state": "Maine",
+    "postal_code": "04743",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:27.05546",
+    "updated_at": "2018-08-11 21:37:31.54305",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

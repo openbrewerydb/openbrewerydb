@@ -1,0 +1,36 @@
+[
+  {
+    "id": "rush-river-brewing-co",
+    "name": "Rush River Brewing Co",
+    "brewery_type": "micro",
+    "street": "990 Antler Ct",
+    "city": "River Falls",
+    "state": "Wisconsin",
+    "postal_code": "54022-4880",
+    "website_url": "http://www.rushriverbeer.com",
+    "phone": "7154262054",
+    "created_at": "2018-07-24 01:34:36.498543",
+    "updated_at": "2018-08-24 16:45:20.381416",
+    "country": "United States",
+    "longitude": "-92.6386153347867",
+    "latitude": "44.8911208",
+    "tags": []
+  },
+  {
+    "id": "swinging-bridge-brewing-co",
+    "name": "Swinging Bridge Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "122 S Main St",
+    "city": "River Falls",
+    "state": "Wisconsin",
+    "postal_code": "54022-2423",
+    "website_url": "http://swingingbridgebrewing.com",
+    "phone": "7156291464",
+    "created_at": "2018-07-24 01:34:36.808033",
+    "updated_at": "2018-08-24 16:45:53.045628",
+    "country": "United States",
+    "longitude": "-92.6262914897959",
+    "latitude": "44.8577474285714",
+    "tags": []
+  }
+]

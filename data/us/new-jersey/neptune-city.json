@@ -1,0 +1,19 @@
+[
+  {
+    "id": "little-dog-brewing-co",
+    "name": "Little Dog Brewing Co.",
+    "brewery_type": "micro",
+    "street": "141 Steiner Ave",
+    "city": "Neptune City",
+    "state": "New Jersey",
+    "postal_code": "07753-6500",
+    "website_url": "http://Www.littledogbrewing.com",
+    "phone": "7323613555",
+    "created_at": "2018-07-24 01:33:47.045526",
+    "updated_at": "2018-08-24 15:36:56.68091",
+    "country": "United States",
+    "longitude": "-74.0230725681818",
+    "latitude": "40.2000368181818",
+    "tags": []
+  }
+]

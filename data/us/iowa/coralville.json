@@ -1,0 +1,53 @@
+[
+  {
+    "id": "backpocket-brewing-co",
+    "name": "Backpocket Brewing Co",
+    "brewery_type": "micro",
+    "street": "903 Quarry Rd",
+    "city": "Coralville",
+    "state": "Iowa",
+    "postal_code": "52241-2208",
+    "website_url": "http://www.backpocketbrewing.com",
+    "phone": "3194493700",
+    "created_at": "2018-07-24 01:33:23.380021",
+    "updated_at": "2018-08-24 00:33:45.669162",
+    "country": "United States",
+    "longitude": "-91.5598133684211",
+    "latitude": "41.6813948421053",
+    "tags": []
+  },
+  {
+    "id": "boot-n-flute-brewery-/-guild-wurst-tavern",
+    "name": "Boot N Flute Brewery / Guild Wurst Tavern",
+    "brewery_type": "brewpub",
+    "street": "53 2nd St",
+    "city": "Coralville",
+    "state": "Iowa",
+    "postal_code": "52241",
+    "website_url": "http://www.guildwursttavern.com",
+    "phone": "3193331740",
+    "created_at": "2018-07-24 01:33:23.490032",
+    "updated_at": "2018-08-24 00:33:50.720774",
+    "country": "United States",
+    "longitude": "-91.5627174423354",
+    "latitude": "41.6678846837987",
+    "tags": []
+  },
+  {
+    "id": "reunion-brewery",
+    "name": "ReUnion Brewery",
+    "brewery_type": "brewpub",
+    "street": "516 2nd St",
+    "city": "Coralville",
+    "state": "Iowa",
+    "postal_code": "52241-2614",
+    "website_url": "http://www.reunionbrewery.com",
+    "phone": "3193373000",
+    "created_at": "2018-07-24 01:33:24.310361",
+    "updated_at": "2018-08-24 00:38:10.77472",
+    "country": "United States",
+    "longitude": "-91.5749860709225",
+    "latitude": "41.6717143146739",
+    "tags": []
+  }
+]

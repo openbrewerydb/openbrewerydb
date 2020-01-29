@@ -1,0 +1,36 @@
+[
+  {
+    "id": "jim-dandy-brewing",
+    "name": "Jim Dandy Brewing",
+    "brewery_type": "micro",
+    "street": "305 E Lander St",
+    "city": "Pocatello",
+    "state": "Idaho",
+    "postal_code": "83201",
+    "website_url": "http://www.jimdandybrewing.com",
+    "phone": "2082400470",
+    "created_at": "2018-07-24 01:33:17.334997",
+    "updated_at": "2018-08-24 00:30:02.936179",
+    "country": "United States",
+    "longitude": "-112.4482702",
+    "latitude": "42.8663043",
+    "tags": []
+  },
+  {
+    "id": "portneuf-valley-brewing-co",
+    "name": "Portneuf Valley Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "615 S 1st Ave",
+    "city": "Pocatello",
+    "state": "Idaho",
+    "postal_code": "83201-6557",
+    "website_url": "http://www.portneufvalleybrewing.com",
+    "phone": "2082321644",
+    "created_at": "2018-07-24 01:33:17.517996",
+    "updated_at": "2018-08-24 00:30:10.502646",
+    "country": "United States",
+    "longitude": "-112.443181857143",
+    "latitude": "42.8599887142857",
+    "tags": []
+  }
+]

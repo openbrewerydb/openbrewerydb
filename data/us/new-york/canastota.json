@@ -1,0 +1,19 @@
+[
+  {
+    "id": "erie-canal-brewing-company",
+    "name": "Erie Canal Brewing Company",
+    "brewery_type": "micro",
+    "street": "135 S Peterboro St",
+    "city": "Canastota",
+    "state": "New York",
+    "postal_code": "13032-1409",
+    "website_url": "http://www.eriecanalbrewingcompany.com",
+    "phone": "3155105001",
+    "created_at": "2018-07-24 01:33:50.766183",
+    "updated_at": "2018-08-24 15:38:49.380611",
+    "country": "United States",
+    "longitude": "-75.7515320204082",
+    "latitude": "43.0785763673469",
+    "tags": []
+  }
+]

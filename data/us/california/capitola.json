@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sante-adairius-rustic-ales",
+    "name": "Sante Adairius Rustic Ales",
+    "brewery_type": "micro",
+    "street": "103 Kennedy Dr",
+    "city": "Capitola",
+    "state": "California",
+    "postal_code": "95010-3641",
+    "website_url": "http://www.rusticales.com",
+    "phone": "8313454867",
+    "created_at": "2018-07-24 01:33:00.572509",
+    "updated_at": "2018-08-24 00:02:11.049318",
+    "country": "United States",
+    "longitude": "-121.9405748",
+    "latitude": "36.9822865",
+    "tags": []
+  }
+]

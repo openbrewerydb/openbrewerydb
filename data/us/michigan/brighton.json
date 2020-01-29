@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brewery-becker",
+    "name": "Brewery Becker",
+    "brewery_type": "brewpub",
+    "street": "500 W Main St",
+    "city": "Brighton",
+    "state": "Michigan",
+    "postal_code": "48116-1471",
+    "website_url": "http://www.brauereibecker.us",
+    "phone": "8108440225",
+    "created_at": "2018-07-24 01:33:33.349998",
+    "updated_at": "2018-08-24 00:42:27.372844",
+    "country": "United States",
+    "longitude": "-83.785481",
+    "latitude": "42.529522",
+    "tags": []
+  }
+]

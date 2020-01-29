@@ -1,0 +1,19 @@
+[
+  {
+    "id": "braxton-brewing-company",
+    "name": "Braxton Brewing Company",
+    "brewery_type": "micro",
+    "street": "27 W 7th St",
+    "city": "Covington",
+    "state": "Kentucky",
+    "postal_code": "41011-2301",
+    "website_url": "http://www.braxtonbrewing.com",
+    "phone": "859615600",
+    "created_at": "2018-07-24 01:33:25.40458",
+    "updated_at": "2018-08-24 00:38:45.411924",
+    "country": "United States",
+    "longitude": "-84.510807612036",
+    "latitude": "39.08292505",
+    "tags": []
+  }
+]

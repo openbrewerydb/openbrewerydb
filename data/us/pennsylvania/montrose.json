@@ -1,0 +1,36 @@
+[
+  {
+    "id": "2-dogz-and-a-guy-brewing",
+    "name": "2 Dogz and A Guy Brewing",
+    "brewery_type": "micro",
+    "street": "228 Church St",
+    "city": "Montrose",
+    "state": "Pennsylvania",
+    "postal_code": "18801-1271",
+    "website_url": "http://2dogzandaguybrewing.com",
+    "phone": "5704320069",
+    "created_at": "2018-07-24 01:34:08.577115",
+    "updated_at": "2018-08-24 16:06:00.754311",
+    "country": "United States",
+    "longitude": "-75.8800318",
+    "latitude": "41.8336364",
+    "tags": []
+  },
+  {
+    "id": "endless-brewing",
+    "name": "Endless Brewing",
+    "brewery_type": "micro",
+    "street": "20610 Pa-29",
+    "city": "Montrose",
+    "state": "Pennsylvania",
+    "postal_code": "18801",
+    "website_url": "http://www.endlessbrewing.com",
+    "phone": "5709670985",
+    "created_at": "2018-07-24 01:34:10.418912",
+    "updated_at": "2018-08-11 21:39:26.261889",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

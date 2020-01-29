@@ -1,0 +1,36 @@
+[
+  {
+    "id": "mountain-layers-brewing-company",
+    "name": "Mountain Layers Brewing Company",
+    "brewery_type": "micro",
+    "street": "90 Everett Street",
+    "city": "Bryson City",
+    "state": "North Carolina",
+    "postal_code": "28713",
+    "website_url": "http://www.mtnlayersbeer.com",
+    "phone": "8285380115",
+    "created_at": "2018-07-24 01:33:57.30488",
+    "updated_at": "2018-08-24 15:42:15.312574",
+    "country": "United States",
+    "longitude": "-83.446029",
+    "latitude": "35.428795",
+    "tags": []
+  },
+  {
+    "id": "nantahala-brewing-co",
+    "name": "Nantahala Brewing Co",
+    "brewery_type": "micro",
+    "street": "61 Depot Street",
+    "city": "Bryson City",
+    "state": "North Carolina",
+    "postal_code": "28713-0483",
+    "website_url": "http://www.nantahalabrewing.com",
+    "phone": "8287886185",
+    "created_at": "2018-07-24 01:33:57.331104",
+    "updated_at": "2018-08-24 15:42:16.362314",
+    "country": "United States",
+    "longitude": "-83.446278",
+    "latitude": "35.4311525",
+    "tags": []
+  }
+]

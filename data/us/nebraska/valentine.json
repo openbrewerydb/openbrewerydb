@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bolo-beer-co",
+    "name": "Bolo Beer Co",
+    "brewery_type": "micro",
+    "street": "420 E 1st St",
+    "city": "Valentine",
+    "state": "Nebraska",
+    "postal_code": "69201-1904",
+    "website_url": "http://www.bolobeer.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:43.409986",
+    "updated_at": "2018-08-24 00:47:33.704648",
+    "country": "United States",
+    "longitude": "-100.545727666667",
+    "latitude": "42.8720473333333",
+    "tags": []
+  }
+]

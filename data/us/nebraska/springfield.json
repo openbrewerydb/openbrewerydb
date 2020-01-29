@@ -1,0 +1,19 @@
+[
+  {
+    "id": "soaring-wings-brewing",
+    "name": "Soaring Wings Brewing",
+    "brewery_type": "micro",
+    "street": "17111 S 138th St",
+    "city": "Springfield",
+    "state": "Nebraska",
+    "postal_code": "68059-4810",
+    "website_url": "http://www.soaringwingswine.com",
+    "phone": "4022532479",
+    "created_at": "2018-07-24 01:33:44.033201",
+    "updated_at": "2018-08-11 21:38:16.224964",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

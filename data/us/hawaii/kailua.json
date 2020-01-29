@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-in-planning-honolulu-hi",
+    "name": "Brewery In Planning - Honolulu HI",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Kailua",
+    "state": "Hawaii",
+    "postal_code": "96734-4059",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:16.76795",
+    "updated_at": "2018-08-11 21:37:04.457994",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "lanikai-brewing-co",
+    "name": "Lanikai Brewing Co",
+    "brewery_type": "micro",
+    "street": "175-C Hamakua Dr",
+    "city": "Kailua",
+    "state": "Hawaii",
+    "postal_code": "96734",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:16.931421",
+    "updated_at": "2018-08-24 00:29:47.185939",
+    "country": "United States",
+    "longitude": "-157.740326634477",
+    "latitude": "21.3904428646501",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "crying-eagle-brewing-company",
+    "name": "Crying Eagle Brewing Company",
+    "brewery_type": "micro",
+    "street": "1165 E McNeese St",
+    "city": "Lake Charles",
+    "state": "Louisiana",
+    "postal_code": "70607-4753",
+    "website_url": "http://www.cryingeagle.com",
+    "phone": "3379904871",
+    "created_at": "2018-07-24 01:33:26.2285",
+    "updated_at": "2018-08-24 00:39:12.9478",
+    "country": "United States",
+    "longitude": "-93.2051513265306",
+    "latitude": "30.1762643877551",
+    "tags": []
+  }
+]

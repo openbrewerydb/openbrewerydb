@@ -1,0 +1,53 @@
+[
+  {
+    "id": "allentown-brew-works",
+    "name": "Allentown Brew Works",
+    "brewery_type": "brewpub",
+    "street": "812 Hamilton St",
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "postal_code": "18101-2437",
+    "website_url": "http://www.thebrewworks.com",
+    "phone": "6104337777",
+    "created_at": "2018-07-24 01:34:08.690116",
+    "updated_at": "2018-08-24 16:06:11.185634",
+    "country": "United States",
+    "longitude": "-75.4575021",
+    "latitude": "40.6060468",
+    "tags": []
+  },
+  {
+    "id": "fegleys-brew-works",
+    "name": "Fegley's Brew Works",
+    "brewery_type": "brewpub",
+    "street": "812 Hamilton St",
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "postal_code": "18101-2437",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:10.49153",
+    "updated_at": "2018-08-24 16:08:33.057946",
+    "country": "United States",
+    "longitude": "-75.4575021",
+    "latitude": "40.6060468",
+    "tags": []
+  },
+  {
+    "id": "hijinx-brewing-co",
+    "name": "HiJinx Brewing Co",
+    "brewery_type": "micro",
+    "street": "905 Harrison St",
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "postal_code": "18103-3188",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:10.856524",
+    "updated_at": "2018-08-24 16:09:06.225608",
+    "country": "United States",
+    "longitude": "-75.4745370824742",
+    "latitude": "40.5934361752577",
+    "tags": []
+  }
+]

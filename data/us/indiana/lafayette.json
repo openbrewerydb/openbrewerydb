@@ -1,0 +1,53 @@
+[
+  {
+    "id": "lafayette-brewing-co",
+    "name": "Lafayette Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "622 Main St",
+    "city": "Lafayette",
+    "state": "Indiana",
+    "postal_code": "47901-1451",
+    "website_url": "http://www.lafayettebrewingco.com",
+    "phone": "7657422591",
+    "created_at": "2018-07-24 01:33:22.313928",
+    "updated_at": "2018-08-24 00:33:03.340898",
+    "country": "United States",
+    "longitude": "-86.8899492425727",
+    "latitude": "40.4192173219319",
+    "tags": []
+  },
+  {
+    "id": "teays-river-brewing",
+    "name": "Teays River Brewing",
+    "brewery_type": "brewpub",
+    "street": "3000 S 9th St Ste A",
+    "city": "Lafayette",
+    "state": "Indiana",
+    "postal_code": "47909-6702",
+    "website_url": "http://www.teaysriverbrewing.com",
+    "phone": "7657466614",
+    "created_at": "2018-07-24 01:33:22.938977",
+    "updated_at": "2018-08-11 21:37:21.725644",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "peoples-brewing-co",
+    "name": "Peoples Brewing Co",
+    "brewery_type": "micro",
+    "street": "2006 N 9th Street Rd",
+    "city": "Lafayette",
+    "state": "Indiana",
+    "postal_code": "47904-1036",
+    "website_url": "http://www.peoplesbrew.com",
+    "phone": "7657924677",
+    "created_at": "2018-07-24 01:33:22.606057",
+    "updated_at": "2018-08-24 00:33:13.328719",
+    "country": "United States",
+    "longitude": "-86.885995",
+    "latitude": "40.437006875",
+    "tags": []
+  }
+]

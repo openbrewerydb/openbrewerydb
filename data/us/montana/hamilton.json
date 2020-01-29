@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bandit-brewing-co",
+    "name": "Bandit Brewing Co",
+    "brewery_type": "micro",
+    "street": "610 N 1st St Ste 5-228",
+    "city": "Hamilton",
+    "state": "Montana",
+    "postal_code": "59840-2149",
+    "website_url": "http://www.banditbeer.com",
+    "phone": "4066466003",
+    "created_at": "2018-07-24 01:33:42.077407",
+    "updated_at": "2018-08-11 21:38:10.298097",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "bitter-root-brewing-co",
+    "name": "Bitter Root Brewing Co",
+    "brewery_type": "micro",
+    "street": "101 Marcus St",
+    "city": "Hamilton",
+    "state": "Montana",
+    "postal_code": "59840-2541",
+    "website_url": "http://www.bitterrootbrewing.com",
+    "phone": "4063637468",
+    "created_at": "2018-07-24 01:33:42.193616",
+    "updated_at": "2018-08-24 00:47:00.86465",
+    "country": "United States",
+    "longitude": "-114.155194559549",
+    "latitude": "46.2473377752819",
+    "tags": []
+  },
+  {
+    "id": "higherground-brewing-co",
+    "name": "Higherground Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "518 N 1st St",
+    "city": "Hamilton",
+    "state": "Montana",
+    "postal_code": "59840-2130",
+    "website_url": "http://www.highergroundbrewing.com",
+    "phone": "4063755204",
+    "created_at": "2018-07-24 01:33:42.701096",
+    "updated_at": "2018-08-24 00:47:13.294013",
+    "country": "United States",
+    "longitude": "-114.156081666667",
+    "latitude": "46.2516766",
+    "tags": []
+  }
+]

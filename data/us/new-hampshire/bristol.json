@@ -1,0 +1,19 @@
+[
+  {
+    "id": "woodmans-brewery",
+    "name": "Woodman's Brewery",
+    "brewery_type": "micro",
+    "street": "195 Peaked Hill Rd",
+    "city": "Bristol",
+    "state": "New Hampshire",
+    "postal_code": "03222-3331",
+    "website_url": "http://www.facebook.com/woodmansbrewery",
+    "phone": "6037443669",
+    "created_at": "2018-07-24 01:33:45.947593",
+    "updated_at": "2018-08-24 15:36:25.320041",
+    "country": "United States",
+    "longitude": "-71.7095581521551",
+    "latitude": "43.6071164460837",
+    "tags": []
+  }
+]

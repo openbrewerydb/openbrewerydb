@@ -1,0 +1,19 @@
+[
+  {
+    "id": "barnstar-brewing",
+    "name": "Barnstar Brewing",
+    "brewery_type": "micro",
+    "street": "4050 North Tonto Road (Forest Service Rd.102)",
+    "city": "Skull Valley",
+    "state": "Arizona",
+    "postal_code": "86338",
+    "website_url": "http://www.barnstarbrew.com",
+    "phone": "9284422337",
+    "created_at": "2018-07-24 01:32:48.663674",
+    "updated_at": "2018-08-11 21:35:46.552395",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

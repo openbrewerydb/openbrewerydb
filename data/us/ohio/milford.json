@@ -1,0 +1,19 @@
+[
+  {
+    "id": "little-miami-brewing-company",
+    "name": "Little Miami Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "208 Mill St",
+    "city": "Milford",
+    "state": "Ohio",
+    "postal_code": "45150-1072",
+    "website_url": "http://www.littlemiamibrewing.com",
+    "phone": "5137131121",
+    "created_at": "2018-07-24 01:34:01.502344",
+    "updated_at": "2018-08-24 15:44:19.329048",
+    "country": "United States",
+    "longitude": "-84.2962316155259",
+    "latitude": "39.1716103489388",
+    "tags": []
+  }
+]

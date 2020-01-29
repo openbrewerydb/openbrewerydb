@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bjs-restaurant-and-brewery-west-covina",
+    "name": "BJs Restaurant & Brewery - West Covina",
+    "brewery_type": "brewpub",
+    "street": "2917 E Eastland Ctr Dr",
+    "city": "West Covina",
+    "state": "California",
+    "postal_code": "91791-1603",
+    "website_url": "http://www.bjsrestaurants.com",
+    "phone": "6268580054",
+    "created_at": "2018-07-24 01:32:52.59516",
+    "updated_at": "2018-08-23 23:25:29.477196",
+    "country": "United States",
+    "longitude": "-117.886798829661",
+    "latitude": "34.0729895180052",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pigs-eye-pub",
+    "name": "Pigs Eye Pub",
+    "brewery_type": "proprietor",
+    "street": "10107 Bridgewater Pkwy",
+    "city": "Woodbury",
+    "state": "Minnesota",
+    "postal_code": "55129-8587",
+    "website_url": "http://www.pigseyebeer.com",
+    "phone": "6517341661",
+    "created_at": "2018-07-24 01:33:39.374493",
+    "updated_at": "2018-08-24 00:45:38.948439",
+    "country": "United States",
+    "longitude": "-92.9013396159542",
+    "latitude": "44.9227784282144",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bubes-brewery",
+    "name": "Bubes Brewery",
+    "brewery_type": "brewpub",
+    "street": "102 N Market St",
+    "city": "Mount Joy",
+    "state": "Pennsylvania",
+    "postal_code": "17552-1306",
+    "website_url": "http://www.bubesbrewery.com",
+    "phone": "7176532056",
+    "created_at": "2018-07-24 01:34:09.585303",
+    "updated_at": "2018-08-24 16:07:11.606527",
+    "country": "United States",
+    "longitude": "-76.5029015230525",
+    "latitude": "40.111807623211",
+    "tags": []
+  },
+  {
+    "id": "twisted-bine-beer-co",
+    "name": "Twisted Bine Beer Co.",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Mount Joy",
+    "state": "Pennsylvania",
+    "postal_code": "17552-1424",
+    "website_url": "",
+    "phone": "7179178577",
+    "created_at": "2018-07-24 01:34:13.289663",
+    "updated_at": "2018-08-11 21:39:32.898335",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

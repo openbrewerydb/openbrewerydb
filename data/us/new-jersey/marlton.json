@@ -1,0 +1,19 @@
+[
+  {
+    "id": "zeds-beer/bado-brewing",
+    "name": "Zed's Beer/Bado Brewing",
+    "brewery_type": "micro",
+    "street": "19 N Maple Ave Unit B",
+    "city": "Marlton",
+    "state": "New Jersey",
+    "postal_code": "08053-3007",
+    "website_url": "http://drinkzeds.com",
+    "phone": "8568727632",
+    "created_at": "2018-07-24 01:33:47.614058",
+    "updated_at": "2018-08-11 21:38:25.79697",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

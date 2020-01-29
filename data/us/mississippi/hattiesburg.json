@@ -1,0 +1,36 @@
+[
+  {
+    "id": "colludium-brewery",
+    "name": "Colludium Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Hattiesburg",
+    "state": "Mississippi",
+    "postal_code": "39401",
+    "website_url": "http://www.colludiumbrewery.com",
+    "phone": "6015202789",
+    "created_at": "2018-07-24 01:33:40.185368",
+    "updated_at": "2018-08-11 21:38:05.942952",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "southern-prohibition-brewing",
+    "name": "Southern Prohibition Brewing",
+    "brewery_type": "micro",
+    "street": "301 Mobile St",
+    "city": "Hattiesburg",
+    "state": "Mississippi",
+    "postal_code": "39401-3406",
+    "website_url": "http://www.soprobrewing.com",
+    "phone": "6014671057",
+    "created_at": "2018-07-24 01:33:40.311806",
+    "updated_at": "2018-08-24 00:46:07.432246",
+    "country": "United States",
+    "longitude": "-89.2899201053982",
+    "latitude": "31.3312346426886",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "sheridan-brewing-company",
+    "name": "Sheridan Brewing company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Sheridan",
+    "state": "Wyoming",
+    "postal_code": "82801",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:37.589878",
+    "updated_at": "2018-08-11 21:40:38.743651",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "luminous-brewhouse",
+    "name": "Luminous Brewhouse",
+    "brewery_type": "micro",
+    "street": "504 Broadway St",
+    "city": "Sheridan",
+    "state": "Wyoming",
+    "postal_code": "82801-3619",
+    "website_url": "http://www.luminousbrewhouse.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:37.488333",
+    "updated_at": "2018-08-24 16:46:54.239634",
+    "country": "United States",
+    "longitude": "-106.953486",
+    "latitude": "44.8029717346939",
+    "tags": []
+  },
+  {
+    "id": "black-tooth-brewing-co",
+    "name": "Black Tooth Brewing Co",
+    "brewery_type": "micro",
+    "street": "312 Broadway St",
+    "city": "Sheridan",
+    "state": "Wyoming",
+    "postal_code": "82801-3917",
+    "website_url": "http://www.blacktoothbrewingcompany.com",
+    "phone": "3076752337",
+    "created_at": "2018-07-24 01:34:37.335865",
+    "updated_at": "2018-08-24 16:46:40.667485",
+    "country": "United States",
+    "longitude": "-106.953506",
+    "latitude": "44.800895122449",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "junkyard-brewing-company",
+    "name": "Junkyard Brewing Company",
+    "brewery_type": "micro",
+    "street": "1416 1st Ave N",
+    "city": "Moorhead",
+    "state": "Minnesota",
+    "postal_code": "56560-2208",
+    "website_url": "http://www.junkyardbeer.com",
+    "phone": "7012618403",
+    "created_at": "2018-07-24 01:33:38.910854",
+    "updated_at": "2018-08-24 00:45:25.881912",
+    "country": "United States",
+    "longitude": "-96.7570697363097",
+    "latitude": "46.8762135668339",
+    "tags": []
+  }
+]

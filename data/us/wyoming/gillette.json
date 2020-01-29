@@ -1,0 +1,53 @@
+[
+  {
+    "id": "big-lost-meadery-and-brewery",
+    "name": "Big Lost Meadery and Brewery",
+    "brewery_type": "micro",
+    "street": "106 S Gillette Ave",
+    "city": "Gillette",
+    "state": "Wyoming",
+    "postal_code": "82716",
+    "website_url": "http://www.biglostmeadery.com",
+    "phone": "3076603199",
+    "created_at": "2018-07-24 01:34:37.30975",
+    "updated_at": "2018-08-24 16:46:37.61334",
+    "country": "United States",
+    "longitude": "-105.5046114",
+    "latitude": "44.2866583",
+    "tags": []
+  },
+  {
+    "id": "brewery-in-planning-gilette",
+    "name": "Brewery In Planning - Gilette",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Gillette",
+    "state": "Wyoming",
+    "postal_code": "82718-7246",
+    "website_url": "",
+    "phone": "3076891393",
+    "created_at": "2018-07-24 01:34:37.348734",
+    "updated_at": "2018-08-11 21:40:38.03866",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "gillette-brewing-company",
+    "name": "Gillette Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "301 S Gillette Ave",
+    "city": "Gillette",
+    "state": "Wyoming",
+    "postal_code": "82716-3705",
+    "website_url": "http://www.gillettebrewingcompany.com",
+    "phone": "3076708948",
+    "created_at": "2018-07-24 01:34:37.423654",
+    "updated_at": "2018-08-24 16:46:48.21566",
+    "country": "United States",
+    "longitude": "-105.503614485757",
+    "latitude": "44.29203825",
+    "tags": []
+  }
+]

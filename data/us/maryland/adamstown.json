@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mad-science-brewing-company",
+    "name": "Mad Science Brewing Company",
+    "brewery_type": "micro",
+    "street": "1619 Buckeystown Pike",
+    "city": "Adamstown",
+    "state": "Maryland",
+    "postal_code": "21710",
+    "website_url": "http://www.madsciencebrewing.com",
+    "phone": "2404098723",
+    "created_at": "2018-07-24 01:33:29.253843",
+    "updated_at": "2018-08-11 21:37:36.738646",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

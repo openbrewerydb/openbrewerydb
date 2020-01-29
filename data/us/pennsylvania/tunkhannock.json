@@ -1,0 +1,19 @@
+[
+  {
+    "id": "nimble-hill-brewing-co",
+    "name": "Nimble Hill Brewing Co",
+    "brewery_type": "micro",
+    "street": "3971 SR 6",
+    "city": "Tunkhannock",
+    "state": "Pennsylvania",
+    "postal_code": "18657",
+    "website_url": "http://www.nimblehillbrewingcompany.com",
+    "phone": "5708369463",
+    "created_at": "2018-07-24 01:34:11.830761",
+    "updated_at": "2018-08-11 21:39:29.423078",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

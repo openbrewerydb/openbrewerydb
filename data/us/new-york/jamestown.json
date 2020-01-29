@@ -1,0 +1,19 @@
+[
+  {
+    "id": "jamestown-brewing-company",
+    "name": "Jamestown Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Jamestown",
+    "state": "New York",
+    "postal_code": "14701-5110",
+    "website_url": "",
+    "phone": "7168644257",
+    "created_at": "2018-07-24 01:33:51.906022",
+    "updated_at": "2018-08-11 21:38:36.661214",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

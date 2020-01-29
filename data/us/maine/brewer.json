@@ -1,0 +1,53 @@
+[
+  {
+    "id": "masons-brewing-company",
+    "name": "Mason's Brewing Company",
+    "brewery_type": "micro",
+    "street": "15 Hardy St",
+    "city": "Brewer",
+    "state": "Maine",
+    "postal_code": "04412-2207",
+    "website_url": "http://www.masonsbrewingcompany.com",
+    "phone": "2079896300",
+    "created_at": "2018-07-24 01:33:27.533054",
+    "updated_at": "2018-08-24 00:39:57.57573",
+    "country": "United States",
+    "longitude": "-68.7695709213165",
+    "latitude": "44.7914659606583",
+    "tags": []
+  },
+  {
+    "id": "blank-canvas-brewery",
+    "name": "Blank Canvas Brewery",
+    "brewery_type": "micro",
+    "street": "46 Betton St Ste 3",
+    "city": "Brewer",
+    "state": "Maine",
+    "postal_code": "04412-2636",
+    "website_url": "http://www.blankcanvasbrewery.wordpress.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:26.929735",
+    "updated_at": "2018-08-11 21:37:31.002617",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "geaghan-brothers-brewing-co",
+    "name": "Geaghan Brothers Brewing Co",
+    "brewery_type": "micro",
+    "street": "34 Abbott St",
+    "city": "Brewer",
+    "state": "Maine",
+    "postal_code": "04412-2202",
+    "website_url": "http://www.geaghanspub.com",
+    "phone": "2079453730",
+    "created_at": "2018-07-24 01:33:27.166298",
+    "updated_at": "2018-08-24 00:39:45.634504",
+    "country": "United States",
+    "longitude": "-68.7731077570875",
+    "latitude": "44.7820807899116",
+    "tags": []
+  }
+]

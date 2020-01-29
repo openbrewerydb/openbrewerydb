@@ -1,0 +1,19 @@
+[
+  {
+    "id": "meddlesome-brewing-company",
+    "name": "Meddlesome Brewing Company",
+    "brewery_type": "micro",
+    "street": "7750 Trinity Rd Ste 114",
+    "city": "Cordova",
+    "state": "Tennessee",
+    "postal_code": "38018-2736",
+    "website_url": "http://www.meddlesomebrewing.com",
+    "phone": "6185218036",
+    "created_at": "2018-07-24 01:34:16.720105",
+    "updated_at": "2018-08-24 16:17:30.543521",
+    "country": "United States",
+    "longitude": "-89.802564",
+    "latitude": "35.14057",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mikerphone-brewing",
+    "name": "Mikerphone Brewing",
+    "brewery_type": "micro",
+    "street": "121 Garlisch Dr",
+    "city": "Elk Grove Village",
+    "state": "Illinois",
+    "postal_code": "60007-1322",
+    "website_url": "http://www.mikerphonebrewing.com",
+    "phone": "8472648904",
+    "created_at": "2018-07-24 01:33:19.838874",
+    "updated_at": "2018-08-24 00:31:35.4615",
+    "country": "United States",
+    "longitude": "-87.9670453491875",
+    "latitude": "42.0290920767364",
+    "tags": []
+  }
+]

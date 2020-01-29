@@ -1,0 +1,19 @@
+[
+  {
+    "id": "crossroads-brewing-co",
+    "name": "Crossroads Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "21 2nd St",
+    "city": "Athens",
+    "state": "New York",
+    "postal_code": "12015-1327",
+    "website_url": "http://www.crossroadsbrewingco.com",
+    "phone": "5189452337",
+    "created_at": "2018-07-24 01:33:50.492891",
+    "updated_at": "2018-08-24 15:38:40.380344",
+    "country": "United States",
+    "longitude": "-73.8100641",
+    "latitude": "42.2605541",
+    "tags": []
+  }
+]

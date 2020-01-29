@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bear-bones-beer",
+    "name": "Bear Bones Beer",
+    "brewery_type": "micro",
+    "street": "2 Cottage St Ste 1",
+    "city": "Bridgton",
+    "state": "Maine",
+    "postal_code": "04009-1137",
+    "website_url": "",
+    "phone": "2076478000",
+    "created_at": "2018-07-24 01:33:26.858675",
+    "updated_at": "2018-08-11 21:37:30.742683",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "drumming-grouse-brewery-llc",
+    "name": "Drumming Grouse Brewery, LLC",
+    "brewery_type": "micro",
+    "street": "318 Fosterville Rd",
+    "city": "Bridgton",
+    "state": "Maine",
+    "postal_code": "04009-4032",
+    "website_url": "http://www.drumminggrousebrewery.com",
+    "phone": "4109609679",
+    "created_at": "2018-07-24 01:33:27.044196",
+    "updated_at": "2018-08-24 00:39:41.064889",
+    "country": "United States",
+    "longitude": "-70.68838325",
+    "latitude": "43.97416125",
+    "tags": []
+  }
+]

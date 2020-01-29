@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mantorville-brewing-co-llc",
+    "name": "Mantorville Brewing Co LLC",
+    "brewery_type": "contract",
+    "street": "101 5th St E",
+    "city": "Mantorville",
+    "state": "Minnesota",
+    "postal_code": "55955-8087",
+    "website_url": "http://www.mantorvillebeer.com",
+    "phone": "6513870708",
+    "created_at": "2018-07-24 01:33:39.173084",
+    "updated_at": "2018-08-24 00:45:33.886516",
+    "country": "United States",
+    "longitude": "-92.753035",
+    "latitude": "44.067031",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "capitol-creek-brewery",
+    "name": "Capitol Creek Brewery",
+    "brewery_type": "brewpub",
+    "street": "371 Market St",
+    "city": "Basalt",
+    "state": "Colorado",
+    "postal_code": "81621-7409",
+    "website_url": "http://www.capitolcreekbrewery.com",
+    "phone": "8704043657",
+    "created_at": "2018-07-24 01:33:04.486516",
+    "updated_at": "2018-08-11 21:36:33.592309",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

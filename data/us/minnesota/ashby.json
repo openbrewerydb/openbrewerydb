@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ashby-brewing-company",
+    "name": "Ashby Brewing Company",
+    "brewery_type": "micro",
+    "street": "109 Main St",
+    "city": "Ashby",
+    "state": "Minnesota",
+    "postal_code": "56309-4687",
+    "website_url": "http://www.abcbrewing.net",
+    "phone": "8886350291",
+    "created_at": "2018-07-24 01:33:37.702655",
+    "updated_at": "2018-08-24 00:44:46.602748",
+    "country": "United States",
+    "longitude": "-95.8162175623495",
+    "latitude": "46.0930063905874",
+    "tags": []
+  }
+]

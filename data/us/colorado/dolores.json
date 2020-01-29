@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dolores-river-brewery",
+    "name": "Dolores River Brewery",
+    "brewery_type": "brewpub",
+    "street": "100 S. 4th St.",
+    "city": "Dolores",
+    "state": "Colorado",
+    "postal_code": "81323-1003",
+    "website_url": "http://www.doloresriverbrewery.com",
+    "phone": "9708824677",
+    "created_at": "2018-07-24 01:33:05.091078",
+    "updated_at": "2018-08-24 00:22:50.953708",
+    "country": "United States",
+    "longitude": "-108.504562",
+    "latitude": "37.47323",
+    "tags": []
+  }
+]

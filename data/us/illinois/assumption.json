@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1905-brewing-company",
+    "name": "1905 Brewing Company",
+    "brewery_type": "micro",
+    "street": "1301 S Chestnut St",
+    "city": "Assumption",
+    "state": "Illinois",
+    "postal_code": "62510-8504",
+    "website_url": "http://1905BrewingCompany.com",
+    "phone": "2172549374",
+    "created_at": "2018-07-24 01:33:17.83435",
+    "updated_at": "2018-08-24 00:30:21.69246",
+    "country": "United States",
+    "longitude": "-89.0503635",
+    "latitude": "39.5172564",
+    "tags": []
+  }
+]

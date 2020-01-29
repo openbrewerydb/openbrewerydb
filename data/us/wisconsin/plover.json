@@ -1,0 +1,19 @@
+[
+  {
+    "id": "oso-brewing",
+    "name": "O'so Brewing",
+    "brewery_type": "micro",
+    "street": "3028 Village Park Dr",
+    "city": "Plover",
+    "state": "Wisconsin",
+    "postal_code": "54467-4300",
+    "website_url": "http://www.osobrewing.com",
+    "phone": "7152542163",
+    "created_at": "2018-07-24 01:34:36.148086",
+    "updated_at": "2018-08-24 16:44:39.019495",
+    "country": "United States",
+    "longitude": "-89.5234305300291",
+    "latitude": "44.4534004372744",
+    "tags": []
+  }
+]

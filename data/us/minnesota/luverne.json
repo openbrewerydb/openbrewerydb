@@ -1,0 +1,19 @@
+[
+  {
+    "id": "take-16-brewing-company",
+    "name": "Take 16 Brewing Company",
+    "brewery_type": "micro",
+    "street": "509 E Main St",
+    "city": "Luverne",
+    "state": "Minnesota",
+    "postal_code": "56156-1905",
+    "website_url": "http://www.take16beer.com",
+    "phone": "8666639986",
+    "created_at": "2018-07-24 01:33:39.679548",
+    "updated_at": "2018-08-24 00:45:49.858583",
+    "country": "United States",
+    "longitude": "-96.2031743526169",
+    "latitude": "43.6542167250569",
+    "tags": []
+  }
+]

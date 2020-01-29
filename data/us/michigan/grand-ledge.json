@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brickhaven-brewing-company",
+    "name": "BrickHaven Brewing Company",
+    "brewery_type": "micro",
+    "street": "200 E Jefferson St",
+    "city": "Grand Ledge",
+    "state": "Michigan",
+    "postal_code": "48837-1537",
+    "website_url": "",
+    "phone": "5179251319",
+    "created_at": "2018-07-24 01:33:33.488547",
+    "updated_at": "2018-08-24 00:42:29.174955",
+    "country": "United States",
+    "longitude": "-84.745273",
+    "latitude": "42.752301",
+    "tags": []
+  },
+  {
+    "id": "sanctuary-spirits",
+    "name": "Sanctuary Spirits",
+    "brewery_type": "micro",
+    "street": "902 E Saginaw Hwy",
+    "city": "Grand Ledge",
+    "state": "Michigan",
+    "postal_code": "48837-9419",
+    "website_url": "http://www.sanctuaryspirits.com",
+    "phone": "5179251930",
+    "created_at": "2018-07-24 01:33:36.465058",
+    "updated_at": "2018-08-24 00:44:06.312468",
+    "country": "United States",
+    "longitude": "-84.7345363820225",
+    "latitude": "42.7407776966292",
+    "tags": []
+  }
+]

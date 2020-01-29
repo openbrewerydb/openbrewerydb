@@ -1,0 +1,36 @@
+[
+  {
+    "id": "crystal-coast-brewing-company-llc",
+    "name": "Crystal Coast Brewing Company LLC",
+    "brewery_type": "micro",
+    "street": "702 Arendell St",
+    "city": "Morehead City",
+    "state": "North Carolina",
+    "postal_code": "28557-4234",
+    "website_url": "http://www.CrystalCoastBrewingCompany.com",
+    "phone": "7044513618",
+    "created_at": "2018-07-24 01:33:55.897081",
+    "updated_at": "2018-08-24 15:41:31.325238",
+    "country": "United States",
+    "longitude": "-76.7113740769231",
+    "latitude": "34.7210521923077",
+    "tags": []
+  },
+  {
+    "id": "tight-lines-pub",
+    "name": "Tight Lines Pub",
+    "brewery_type": "brewpub",
+    "street": "709 Arendell St",
+    "city": "Morehead City",
+    "state": "North Carolina",
+    "postal_code": "28557-4214",
+    "website_url": "http://www.tightlinesbrewing.com",
+    "phone": "2527730641",
+    "created_at": "2018-07-24 01:33:58.474627",
+    "updated_at": "2018-08-24 15:42:53.450447",
+    "country": "United States",
+    "longitude": "-76.7116896153846",
+    "latitude": "34.7210745384615",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ole-shed-brewing-company",
+    "name": "Ole Shed Brewing Company",
+    "brewery_type": "micro",
+    "street": "516 E Carroll St",
+    "city": "Tullahoma",
+    "state": "Tennessee",
+    "postal_code": "37388-3983",
+    "website_url": "http://www.oleshedbrewing.com",
+    "phone": "9312124277",
+    "created_at": "2018-07-24 01:34:16.832514",
+    "updated_at": "2018-08-24 16:17:39.583862",
+    "country": "United States",
+    "longitude": "-86.1982374055717",
+    "latitude": "35.3607568616136",
+    "tags": []
+  }
+]

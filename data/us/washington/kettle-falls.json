@@ -1,0 +1,19 @@
+[
+  {
+    "id": "northern-ales",
+    "name": "Northern Ales",
+    "brewery_type": "brewpub",
+    "street": "325 W 3rd Ave",
+    "city": "Kettle Falls",
+    "state": "Washington",
+    "postal_code": "99141-0993",
+    "website_url": "http://northernales.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:31.557865",
+    "updated_at": "2018-08-24 16:37:26.953831",
+    "country": "United States",
+    "longitude": "-118.065184317399",
+    "latitude": "48.6097979307548",
+    "tags": []
+  }
+]

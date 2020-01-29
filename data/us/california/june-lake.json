@@ -1,0 +1,19 @@
+[
+  {
+    "id": "june-lake-brewing",
+    "name": "June Lake Brewing",
+    "brewery_type": "micro",
+    "street": "131 S Crawford Ave",
+    "city": "June Lake",
+    "state": "California",
+    "postal_code": "93529",
+    "website_url": "http://www.junelakebrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:57.14792",
+    "updated_at": "2018-08-23 23:58:14.003598",
+    "country": "United States",
+    "longitude": "-119.077203195397",
+    "latitude": "37.7783528228924",
+    "tags": []
+  }
+]

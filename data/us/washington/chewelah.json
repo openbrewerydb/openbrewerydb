@@ -1,0 +1,19 @@
+[
+  {
+    "id": "quartzite-brewing-company",
+    "name": "Quartzite Brewing Company",
+    "brewery_type": "micro",
+    "street": "105 W Main Ave",
+    "city": "Chewelah",
+    "state": "Washington",
+    "postal_code": "99109-9257",
+    "website_url": "",
+    "phone": "5099363686",
+    "created_at": "2018-07-24 01:34:32.162177",
+    "updated_at": "2018-08-24 16:38:14.375986",
+    "country": "United States",
+    "longitude": "-117.71646",
+    "latitude": "48.27618",
+    "tags": []
+  }
+]

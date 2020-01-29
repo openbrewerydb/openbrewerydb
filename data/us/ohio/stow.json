@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-in-planning-stow-oh",
+    "name": "Brewery in Planning - Stow, OH",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Stow",
+    "state": "Ohio",
+    "postal_code": "44224-1009",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:59.92737",
+    "updated_at": "2018-08-11 21:38:56.930462",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "headtrip-brewery",
+    "name": "Headtrip Brewery",
+    "brewery_type": "micro",
+    "street": "1634 Norton Rd",
+    "city": "Stow",
+    "state": "Ohio",
+    "postal_code": "44224-1412",
+    "website_url": "http://www.headtripbrewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:01.057827",
+    "updated_at": "2018-08-24 15:44:03.986943",
+    "country": "United States",
+    "longitude": "-81.442913",
+    "latitude": "41.202942",
+    "tags": []
+  }
+]

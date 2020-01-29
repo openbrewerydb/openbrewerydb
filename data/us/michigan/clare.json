@@ -1,0 +1,19 @@
+[
+  {
+    "id": "four-leaf-brewing",
+    "name": "Four Leaf Brewing",
+    "brewery_type": "brewpub",
+    "street": "412 N McEwan St",
+    "city": "Clare",
+    "state": "Michigan",
+    "postal_code": "48617-1403",
+    "website_url": "http://www.fourleafcraftbeer.com",
+    "phone": "9894246114",
+    "created_at": "2018-07-24 01:33:34.384277",
+    "updated_at": "2018-08-24 00:42:58.455711",
+    "country": "United States",
+    "longitude": "-84.7683591",
+    "latitude": "43.8256884",
+    "tags": []
+  }
+]

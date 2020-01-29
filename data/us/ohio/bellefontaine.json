@@ -1,0 +1,19 @@
+[
+  {
+    "id": "roundhouse-depot-brewing",
+    "name": "Roundhouse Depot Brewing",
+    "brewery_type": "micro",
+    "street": "217 W Chillicothe Ave",
+    "city": "Bellefontaine",
+    "state": "Ohio",
+    "postal_code": "43311",
+    "website_url": "",
+    "phone": "5403231295",
+    "created_at": "2018-07-24 01:34:02.808539",
+    "updated_at": "2018-08-24 15:44:54.811389",
+    "country": "United States",
+    "longitude": "-83.76289625",
+    "latitude": "40.3598153181818",
+    "tags": []
+  }
+]

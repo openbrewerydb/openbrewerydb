@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mispillion-river-brewing",
+    "name": "Mispillion River Brewing",
+    "brewery_type": "micro",
+    "street": "255 Mullet Run St",
+    "city": "Milford",
+    "state": "Delaware",
+    "postal_code": "19963",
+    "website_url": "http://www.mispillionriverbrewing.com",
+    "phone": "3024916623",
+    "created_at": "2018-07-24 01:33:10.668842",
+    "updated_at": "2018-08-24 00:26:07.476341",
+    "country": "United States",
+    "longitude": "-75.450838711807",
+    "latitude": "38.9307888466891",
+    "tags": []
+  }
+]

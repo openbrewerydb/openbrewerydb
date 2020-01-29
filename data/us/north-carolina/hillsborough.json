@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mystery-brewing-co",
+    "name": "Mystery Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "437 Dimmocks Mill Rd Ste 41",
+    "city": "Hillsborough",
+    "state": "North Carolina",
+    "postal_code": "27278-2379",
+    "website_url": "http://www.mysterybrewing.com",
+    "phone": "9196978379",
+    "created_at": "2018-07-24 01:33:57.317691",
+    "updated_at": "2018-08-24 15:42:15.921503",
+    "country": "United States",
+    "longitude": "-79.1135558",
+    "latitude": "36.0695647",
+    "tags": []
+  }
+]

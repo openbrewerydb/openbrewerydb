@@ -1,0 +1,53 @@
+[
+  {
+    "id": "big-lick-brewing-company",
+    "name": "Big Lick Brewing Company",
+    "brewery_type": "micro",
+    "street": "409 Salem Ave SW",
+    "city": "Roanoke",
+    "state": "Virginia",
+    "postal_code": "24016",
+    "website_url": "http://www.biglickbrewingco.com",
+    "phone": "5405628383",
+    "created_at": "2018-07-24 01:34:24.460922",
+    "updated_at": "2018-08-24 16:27:32.430208",
+    "country": "United States",
+    "longitude": "-79.9487314447406",
+    "latitude": "37.2724143983581",
+    "tags": []
+  },
+  {
+    "id": "starr-hill-pilot-brewery-and-side-stage",
+    "name": "Starr Hill Pilot Brewery & Side Stage",
+    "brewery_type": "micro",
+    "street": "6 Old Whitmore Ave SE",
+    "city": "Roanoke",
+    "state": "Virginia",
+    "postal_code": "24016-1212",
+    "website_url": "",
+    "phone": "4348235671",
+    "created_at": "2018-07-24 01:34:26.904279",
+    "updated_at": "2018-08-11 21:40:09.455822",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "soaring-ridge-craft-brewers",
+    "name": "Soaring Ridge Craft Brewers",
+    "brewery_type": "micro",
+    "street": "523 Shenandoah Ave NW",
+    "city": "Roanoke",
+    "state": "Virginia",
+    "postal_code": "24016-2318",
+    "website_url": "http://www.soaringridge.com",
+    "phone": "5405292140",
+    "created_at": "2018-07-24 01:34:26.819368",
+    "updated_at": "2018-08-24 16:30:42.903091",
+    "country": "United States",
+    "longitude": "-79.9496258205239",
+    "latitude": "37.2747342322484",
+    "tags": []
+  }
+]

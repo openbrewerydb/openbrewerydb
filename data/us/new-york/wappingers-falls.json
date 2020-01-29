@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cousins-revolution-ale-works",
+    "name": "Cousins Revolution Ale Works",
+    "brewery_type": "micro",
+    "street": "1582 US 9",
+    "city": "Wappingers Falls",
+    "state": "New York",
+    "postal_code": "12590",
+    "website_url": "http://www.cousinsrevolution.com",
+    "phone": "8452932739",
+    "created_at": "2018-07-24 01:33:50.426667",
+    "updated_at": "2018-08-24 15:38:37.877945",
+    "country": "United States",
+    "longitude": "-73.9114627851586",
+    "latitude": "41.5980334465102",
+    "tags": []
+  },
+  {
+    "id": "north-river-hops-and-brewing",
+    "name": "North River Hops And Brewing",
+    "brewery_type": "micro",
+    "street": "1571 Route 9",
+    "city": "Wappingers Falls",
+    "state": "New York",
+    "postal_code": "12590-2827",
+    "website_url": "http://www.northriverbrews.com",
+    "phone": "8452972190",
+    "created_at": "2018-07-24 01:33:52.637521",
+    "updated_at": "2018-08-11 21:38:38.534053",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

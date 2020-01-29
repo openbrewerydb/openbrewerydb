@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hudson-ale-works",
+    "name": "Hudson Ale Works",
+    "brewery_type": "brewpub",
+    "street": "17 Milton Ave",
+    "city": "Highland",
+    "state": "New York",
+    "postal_code": "12528-1409",
+    "website_url": "http://www.hudsonaleworks.com",
+    "phone": "8453842531",
+    "created_at": "2018-07-24 01:33:51.683247",
+    "updated_at": "2018-08-24 15:39:20.366578",
+    "country": "United States",
+    "longitude": "-73.9639039323876",
+    "latitude": "41.717539",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "progress-brewing",
+    "name": "Progress Brewing",
+    "brewery_type": "micro",
+    "street": "1822 Chico Ave",
+    "city": "South El Monte",
+    "state": "California",
+    "postal_code": "91733-2944",
+    "website_url": "http://progress-brewing.com",
+    "phone": "6265529603",
+    "created_at": "2018-07-24 01:32:59.703916",
+    "updated_at": "2018-08-24 00:01:11.22857",
+    "country": "United States",
+    "longitude": "-118.059884749276",
+    "latitude": "34.0493571836516",
+    "tags": []
+  }
+]

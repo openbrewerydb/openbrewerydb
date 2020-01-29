@@ -1,0 +1,36 @@
+[
+  {
+    "id": "foothills-brewing-and-beverage-co",
+    "name": "Foothills Brewing and Beverage Co",
+    "brewery_type": "micro",
+    "street": "25312 Kanaskat Dr",
+    "city": "Black Diamond",
+    "state": "Washington",
+    "postal_code": "98010",
+    "website_url": "",
+    "phone": "3608862215",
+    "created_at": "2018-07-24 01:34:29.832861",
+    "updated_at": "2018-08-24 16:34:55.984387",
+    "country": "United States",
+    "longitude": "-122.006345",
+    "latitude": "47.328838",
+    "tags": []
+  },
+  {
+    "id": "lumber-house-brewing-company",
+    "name": "Lumber House Brewing Company",
+    "brewery_type": "micro",
+    "street": "30741 3rd AVE Suite 133",
+    "city": "Black Diamond",
+    "state": "Washington",
+    "postal_code": "98010",
+    "website_url": "http://www.lumberjackbrewing.com",
+    "phone": "4254320121",
+    "created_at": "2018-07-24 01:34:30.936869",
+    "updated_at": "2018-08-11 21:40:19.605397",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

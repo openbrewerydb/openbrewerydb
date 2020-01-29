@@ -1,0 +1,19 @@
+[
+  {
+    "id": "second-state-brewing-company",
+    "name": "Second State Brewing Company",
+    "brewery_type": "micro",
+    "street": "203 State St",
+    "city": "Cedar Falls",
+    "state": "Iowa",
+    "postal_code": "50613-3360",
+    "website_url": "",
+    "phone": "3192400692",
+    "created_at": "2018-07-24 01:33:24.348877",
+    "updated_at": "2018-08-24 00:38:12.387035",
+    "country": "United States",
+    "longitude": "-92.4442681020408",
+    "latitude": "42.536744244898",
+    "tags": []
+  }
+]

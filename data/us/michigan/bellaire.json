@@ -1,0 +1,19 @@
+[
+  {
+    "id": "shorts-brewing-co",
+    "name": "Short's Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "121 N Bridge St",
+    "city": "Bellaire",
+    "state": "Michigan",
+    "postal_code": "49615-9509",
+    "website_url": "http://www.shortsbrewing.com",
+    "phone": "2315336622",
+    "created_at": "2018-07-24 01:33:36.540944",
+    "updated_at": "2018-08-24 00:44:08.778163",
+    "country": "United States",
+    "longitude": "-85.2101242857143",
+    "latitude": "44.975604",
+    "tags": []
+  }
+]

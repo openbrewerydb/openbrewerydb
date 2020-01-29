@@ -1,0 +1,53 @@
+[
+  {
+    "id": "rileys-brewing-co",
+    "name": "Riley's Brewing Co",
+    "brewery_type": "micro",
+    "street": "28777 Avenue 15 1/2",
+    "city": "Madera",
+    "state": "California",
+    "postal_code": "93638-2316",
+    "website_url": "http://www.rileysbrewing.us",
+    "phone": "5596738021",
+    "created_at": "2018-07-24 01:32:59.957173",
+    "updated_at": "2018-08-24 00:01:30.444077",
+    "country": "United States",
+    "longitude": "-120.020622554844",
+    "latitude": "36.9744555309876",
+    "tags": []
+  },
+  {
+    "id": "second-son-brews",
+    "name": "Second Son Brews",
+    "brewery_type": "micro",
+    "street": "12810 Road 38",
+    "city": "Madera",
+    "state": "California",
+    "postal_code": "93636-8671",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:00.671196",
+    "updated_at": "2018-08-24 00:02:18.194192",
+    "country": "United States",
+    "longitude": "-119.858096535425",
+    "latitude": "36.9341605917925",
+    "tags": []
+  },
+  {
+    "id": "three-monkeys-brewing-co",
+    "name": "Three Monkeys Brewing Co",
+    "brewery_type": "contract",
+    "street": "455 S Pine St Ste 3",
+    "city": "Madera",
+    "state": "California",
+    "postal_code": "93637-5242",
+    "website_url": "http://www.3monkeysbrewing.com",
+    "phone": "5593632709",
+    "created_at": "2018-07-24 01:33:02.276116",
+    "updated_at": "2018-08-11 21:36:25.218647",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

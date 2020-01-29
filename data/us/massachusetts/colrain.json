@@ -1,0 +1,19 @@
+[
+  {
+    "id": "stoneman-brewery",
+    "name": "Stoneman Brewery",
+    "brewery_type": "micro",
+    "street": "20 Stetson Bros Rd",
+    "city": "Colrain",
+    "state": "Massachusetts",
+    "postal_code": "01340-9733",
+    "website_url": "",
+    "phone": "4136245195",
+    "created_at": "2018-07-24 01:33:32.100161",
+    "updated_at": "2018-08-11 21:37:43.925685",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

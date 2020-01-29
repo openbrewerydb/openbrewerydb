@@ -1,0 +1,53 @@
+[
+  {
+    "id": "beer-is-good-brewing-company",
+    "name": "Beer Is Good Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Norman",
+    "state": "Oklahoma",
+    "postal_code": "73071-3914",
+    "website_url": "",
+    "phone": "4058507678",
+    "created_at": "2018-07-24 01:34:03.894443",
+    "updated_at": "2018-08-11 21:39:07.476494",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "405-brewing-co",
+    "name": "(405) Brewing Co",
+    "brewery_type": "micro",
+    "street": "1716 Topeka St",
+    "city": "Norman",
+    "state": "Oklahoma",
+    "postal_code": "73069-8224",
+    "website_url": "http://www.405brewing.com",
+    "phone": "4058160490",
+    "created_at": "2018-07-24 01:34:03.808678",
+    "updated_at": "2018-08-24 15:45:25.884075",
+    "country": "United States",
+    "longitude": "-97.4681822227123",
+    "latitude": "35.2573889069693",
+    "tags": []
+  },
+  {
+    "id": "black-mesa-brewing-company",
+    "name": "Black Mesa Brewing Company",
+    "brewery_type": "micro",
+    "street": "3901 N Flood Ave",
+    "city": "Norman",
+    "state": "Oklahoma",
+    "postal_code": "73069",
+    "website_url": "http://www.blackmesabrewing.com",
+    "phone": "4054081848",
+    "created_at": "2018-07-24 01:34:03.921292",
+    "updated_at": "2018-08-24 15:45:29.113642",
+    "country": "United States",
+    "longitude": "-97.4819196",
+    "latitude": "35.2761135",
+    "tags": []
+  }
+]

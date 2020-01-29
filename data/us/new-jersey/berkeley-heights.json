@@ -1,0 +1,19 @@
+[
+  {
+    "id": "trap-rock-restaurant-and-brewery",
+    "name": "Trap Rock Restaurant And Brewery",
+    "brewery_type": "brewpub",
+    "street": "279 Springfield Ave",
+    "city": "Berkeley Heights",
+    "state": "New Jersey",
+    "postal_code": "07922-1214",
+    "website_url": "http://www.traprockrestaurant.net",
+    "phone": "9086651755",
+    "created_at": "2018-07-24 01:33:47.472897",
+    "updated_at": "2018-08-24 15:37:09.47202",
+    "country": "United States",
+    "longitude": "-74.4348121711718",
+    "latitude": "40.6890382",
+    "tags": []
+  }
+]

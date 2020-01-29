@@ -1,0 +1,36 @@
+[
+  {
+    "id": "elk-avenue-brewing-company",
+    "name": "Elk Avenue Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "215 Elk Avenue",
+    "city": "Crested Butte",
+    "state": "Colorado",
+    "postal_code": "81224",
+    "website_url": "",
+    "phone": "7733307876",
+    "created_at": "2018-07-24 01:33:05.286519",
+    "updated_at": "2018-08-24 00:22:58.393712",
+    "country": "United States",
+    "longitude": "-106.986168851588",
+    "latitude": "38.8698468478177",
+    "tags": []
+  },
+  {
+    "id": "irwin-brewing-company",
+    "name": "Irwin Brewing Company",
+    "brewery_type": "micro",
+    "street": "326 Belleview",
+    "city": "Crested Butte",
+    "state": "Colorado",
+    "postal_code": "81224-8706",
+    "website_url": "http://www.irwinbrewingco.com",
+    "phone": "9702757578",
+    "created_at": "2018-07-24 01:33:06.053002",
+    "updated_at": "2018-08-24 00:23:29.397539",
+    "country": "United States",
+    "longitude": "-106.985301204786",
+    "latitude": "38.8669557341938",
+    "tags": []
+  }
+]

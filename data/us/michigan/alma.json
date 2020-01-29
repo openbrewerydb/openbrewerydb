@@ -1,0 +1,19 @@
+[
+  {
+    "id": "alma-brewing-co",
+    "name": "Alma Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "208 E Superior St",
+    "city": "Alma",
+    "state": "Michigan",
+    "postal_code": "48801-1819",
+    "website_url": "http://www.almabrewing.com",
+    "phone": "9894620208",
+    "created_at": "2018-07-24 01:33:32.551507",
+    "updated_at": "2018-08-24 00:42:01.941812",
+    "country": "United States",
+    "longitude": "-84.6588718983051",
+    "latitude": "43.3788880847458",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "farnham-ale-and-lager",
+    "name": "Farnham Ale & Lager",
+    "brewery_type": "micro",
+    "street": "82 Ethan Allen Dr",
+    "city": "South Burlington",
+    "state": "Vermont",
+    "postal_code": "05403-5971",
+    "website_url": "http://www.farnham-alelager.com",
+    "phone": "8027351288",
+    "created_at": "2018-07-24 01:34:23.212495",
+    "updated_at": "2018-08-24 16:25:38.815347",
+    "country": "United States",
+    "longitude": "-73.1539127449664",
+    "latitude": "44.482903885906",
+    "tags": []
+  },
+  {
+    "id": "halyard-brewing-company",
+    "name": "Halyard Brewing Company",
+    "brewery_type": "micro",
+    "street": "80 Ethan Allen Dr Ste 2",
+    "city": "South Burlington",
+    "state": "Vermont",
+    "postal_code": "05403-5971",
+    "website_url": "http://www.halyardbrewing.us",
+    "phone": "9048742734",
+    "created_at": "2018-07-24 01:34:23.330884",
+    "updated_at": "2018-08-11 21:39:59.499896",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "magic-hat-brewing-co/-north-american-breweries",
+    "name": "Magic Hat Brewing Co/ North American Breweries",
+    "brewery_type": "regional",
+    "street": "5 Bartlett Bay Rd",
+    "city": "South Burlington",
+    "state": "Vermont",
+    "postal_code": "05403-7727",
+    "website_url": "",
+    "phone": "8026582739",
+    "created_at": "2018-07-24 01:34:23.524748",
+    "updated_at": "2018-08-24 16:26:11.832576",
+    "country": "United States",
+    "longitude": "-73.2161677321332",
+    "latitude": "44.4280869177478",
+    "tags": []
+  }
+]

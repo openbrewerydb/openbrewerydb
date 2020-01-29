@@ -1,0 +1,19 @@
+[
+  {
+    "id": "railhouse-restaurant-and-brewery",
+    "name": "Railhouse Restaurant and Brewery",
+    "brewery_type": "brewpub",
+    "street": "2029 Old Peshtigo Ct",
+    "city": "Marinette",
+    "state": "Wisconsin",
+    "postal_code": "54143-1066",
+    "website_url": "http://www.railhousebrewpub.com",
+    "phone": "7157324646",
+    "created_at": "2018-07-24 01:34:36.3303",
+    "updated_at": "2018-08-24 16:45:00.676828",
+    "country": "United States",
+    "longitude": "-87.6543602",
+    "latitude": "45.085149",
+    "tags": []
+  }
+]

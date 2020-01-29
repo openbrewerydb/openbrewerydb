@@ -1,0 +1,19 @@
+[
+  {
+    "id": "northern-oak-brewery",
+    "name": "Northern Oak Brewery",
+    "brewery_type": "brewpub",
+    "street": "806 N Saginaw St",
+    "city": "Holly",
+    "state": "Michigan",
+    "postal_code": "48442-1347",
+    "website_url": "http://www.northernoakbrewery.com",
+    "phone": "2486347515",
+    "created_at": "2018-07-24 01:33:35.727173",
+    "updated_at": "2018-08-24 00:43:43.023031",
+    "country": "United States",
+    "longitude": "-83.6273796449824",
+    "latitude": "42.8002627292793",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "island-hoppin-brewery",
+    "name": "Island Hoppin' Brewery",
+    "brewery_type": "micro",
+    "street": "33 Hope Ln",
+    "city": "Eastsound",
+    "state": "Washington",
+    "postal_code": "98245-8915",
+    "website_url": "http://www.islandhoppinbrewery.com",
+    "phone": "3603769253",
+    "created_at": "2018-07-24 01:34:30.555722",
+    "updated_at": "2018-08-24 16:36:02.018662",
+    "country": "United States",
+    "longitude": "-122.915252600923",
+    "latitude": "48.7026805323222",
+    "tags": []
+  }
+]

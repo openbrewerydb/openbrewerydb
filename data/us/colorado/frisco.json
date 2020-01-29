@@ -1,0 +1,36 @@
+[
+  {
+    "id": "highside-brewery",
+    "name": "HighSide Brewery",
+    "brewery_type": "micro",
+    "street": "720 Main St",
+    "city": "Frisco",
+    "state": "Colorado",
+    "postal_code": "80443",
+    "website_url": "http://www.highsidebrewing.com",
+    "phone": "9706682337",
+    "created_at": "2018-07-24 01:33:05.874154",
+    "updated_at": "2018-08-24 00:23:24.024949",
+    "country": "United States",
+    "longitude": "-106.093541588347",
+    "latitude": "39.5766332871669",
+    "tags": []
+  },
+  {
+    "id": "outer-range-brewing-co",
+    "name": "Outer Range Brewing Co",
+    "brewery_type": "micro",
+    "street": "182 Lusher Court #2",
+    "city": "Frisco",
+    "state": "Colorado",
+    "postal_code": "80443-6601",
+    "website_url": "http://www.outerrange.com",
+    "phone": "9703683101",
+    "created_at": "2018-07-24 01:33:06.927894",
+    "updated_at": "2018-08-24 00:24:06.893939",
+    "country": "United States",
+    "longitude": "-106.0989298",
+    "latitude": "39.5892615",
+    "tags": []
+  }
+]

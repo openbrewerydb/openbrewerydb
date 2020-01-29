@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-in-planning-jamestown",
+    "name": "Brewery in Planning - Jamestown",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Jamestown",
+    "state": "North Carolina",
+    "postal_code": "27282",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:55.488884",
+    "updated_at": "2018-08-11 21:38:46.263301",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "the-other-side-of-the-moon-jamestown",
+    "name": "The Other Side of the Moon - Jamestown",
+    "brewery_type": "brewpub",
+    "street": "103 W Main St",
+    "city": "Jamestown",
+    "state": "North Carolina",
+    "postal_code": "27282",
+    "website_url": "",
+    "phone": "3633072887",
+    "created_at": "2018-07-24 01:33:58.394042",
+    "updated_at": "2018-08-24 15:42:50.49479",
+    "country": "United States",
+    "longitude": "-79.9376516451772",
+    "latitude": "35.992845973017",
+    "tags": []
+  }
+]

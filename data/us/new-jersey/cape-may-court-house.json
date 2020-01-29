@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bucket-brigade-brewery",
+    "name": "Bucket Brigade Brewery",
+    "brewery_type": "micro",
+    "street": "205 N Main St",
+    "city": "Cape May Court House",
+    "state": "New Jersey",
+    "postal_code": "08210-2121",
+    "website_url": "http://www.bucketbrigadebrewery.com",
+    "phone": "6097782641",
+    "created_at": "2018-07-24 01:33:46.376695",
+    "updated_at": "2018-08-24 15:36:35.302873",
+    "country": "United States",
+    "longitude": "-74.8194635306123",
+    "latitude": "39.086856",
+    "tags": []
+  },
+  {
+    "id": "slack-tide-brewing-company",
+    "name": "Slack Tide Brewing Company",
+    "brewery_type": "micro",
+    "street": "1072 Route 83 Unit 3",
+    "city": "Cape May Court House",
+    "state": "New Jersey",
+    "postal_code": "08210-1200",
+    "website_url": "http://www.slacktidebrewingco.com",
+    "phone": "6094782343",
+    "created_at": "2018-07-24 01:33:47.327137",
+    "updated_at": "2018-08-11 21:38:25.114565",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

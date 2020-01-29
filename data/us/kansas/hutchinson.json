@@ -1,0 +1,19 @@
+[
+  {
+    "id": "salt-city-brewing",
+    "name": "Salt City Brewing",
+    "brewery_type": "micro",
+    "street": "514 N Main Street",
+    "city": "Hutchinson",
+    "state": "Kansas",
+    "postal_code": "67501",
+    "website_url": "",
+    "phone": "6209606210",
+    "created_at": "2018-07-24 01:33:24.989617",
+    "updated_at": "2018-08-24 00:38:33.791146",
+    "country": "United States",
+    "longitude": "-97.9317530573845",
+    "latitude": "38.0586914288921",
+    "tags": []
+  }
+]

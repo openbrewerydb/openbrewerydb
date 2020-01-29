@@ -1,0 +1,19 @@
+[
+  {
+    "id": "left-nut-brewing-co",
+    "name": "Left Nut Brewing Co",
+    "brewery_type": "micro",
+    "street": "2100 Atlanta Rd",
+    "city": "Gainesville",
+    "state": "Georgia",
+    "postal_code": "30504-7168",
+    "website_url": "http://www.leftnutbrewing.com",
+    "phone": "6788276678",
+    "created_at": "2018-07-24 01:33:15.911963",
+    "updated_at": "2018-08-24 00:29:11.023348",
+    "country": "United States",
+    "longitude": "-83.8475963368642",
+    "latitude": "34.25442345",
+    "tags": []
+  }
+]

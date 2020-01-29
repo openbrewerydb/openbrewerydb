@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bluebird-brasserie",
+    "name": "Bluebird Brasserie",
+    "brewery_type": "brewpub",
+    "street": "13730 Ventura Blvd",
+    "city": "Sherman Oaks",
+    "state": "California",
+    "postal_code": "91423",
+    "website_url": "http://www.bluebirdbrasserie.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:52.752142",
+    "updated_at": "2018-08-23 23:25:40.496207",
+    "country": "United States",
+    "longitude": "-118.4365891",
+    "latitude": "34.1489109",
+    "tags": []
+  },
+  {
+    "id": "brewery-in-planning-sherman-oaks",
+    "name": "Brewery in Planning - Sherman Oaks",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Sherman Oaks",
+    "state": "California",
+    "postal_code": "91403",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:53.201685",
+    "updated_at": "2018-08-23 23:26:06.884475",
+    "country": "United States",
+    "longitude": "-118.4489865",
+    "latitude": "34.1508718",
+    "tags": []
+  }
+]

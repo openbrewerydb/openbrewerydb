@@ -1,0 +1,36 @@
+[
+  {
+    "id": "kingston-standard-brewing-co",
+    "name": "Kingston Standard Brewing Co.",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Kingston",
+    "state": "New York",
+    "postal_code": "12401",
+    "website_url": "http://www.kingstonstandard.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:52.037156",
+    "updated_at": "2018-08-11 21:38:36.94238",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "keegan-ales",
+    "name": "Keegan Ales",
+    "brewery_type": "micro",
+    "street": "20 Saint James St",
+    "city": "Kingston",
+    "state": "New York",
+    "postal_code": "12401-4534",
+    "website_url": "http://www.keeganales.com",
+    "phone": "8453312739",
+    "created_at": "2018-07-24 01:33:51.934664",
+    "updated_at": "2018-08-24 15:39:28.166469",
+    "country": "United States",
+    "longitude": "-74.012151",
+    "latitude": "41.931636",
+    "tags": []
+  }
+]

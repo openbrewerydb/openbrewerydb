@@ -1,0 +1,36 @@
+[
+  {
+    "id": "tecumseh-brewing-company",
+    "name": "Tecumseh Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "128 W Chicago Blvd",
+    "city": "Tecumseh",
+    "state": "Michigan",
+    "postal_code": "49286-1553",
+    "website_url": "http://www.tecumsehbrewingco.com",
+    "phone": "5178151726",
+    "created_at": "2018-07-24 01:33:36.844381",
+    "updated_at": "2018-08-24 00:44:19.24282",
+    "country": "United States",
+    "longitude": "-83.946191",
+    "latitude": "42.004052",
+    "tags": []
+  },
+  {
+    "id": "black-fire-winery",
+    "name": "Black Fire Winery",
+    "brewery_type": "micro",
+    "street": "1261 E Munger Rd",
+    "city": "Tecumseh",
+    "state": "Michigan",
+    "postal_code": "49286-8714",
+    "website_url": "",
+    "phone": "5174249232",
+    "created_at": "2018-07-24 01:33:33.164856",
+    "updated_at": "2018-08-11 21:37:46.255043",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

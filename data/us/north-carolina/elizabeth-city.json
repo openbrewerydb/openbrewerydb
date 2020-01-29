@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ghost-harbor-brewing-company",
+    "name": "Ghost Harbor Brewing Company",
+    "brewery_type": "micro",
+    "street": "606 B E Colonial Ave",
+    "city": "Elizabeth City",
+    "state": "North Carolina",
+    "postal_code": "27909",
+    "website_url": "http://www.ghostharborbrewing.com",
+    "phone": "2525991030",
+    "created_at": "2018-07-24 01:33:56.380381",
+    "updated_at": "2018-08-24 15:41:47.030702",
+    "country": "United States",
+    "longitude": "-76.2187962244898",
+    "latitude": "36.3004222857143",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "double-barley-brewing",
+    "name": "Double Barley Brewing",
+    "brewery_type": "brewpub",
+    "street": "3174 US Highway 70 W",
+    "city": "Smithfield",
+    "state": "North Carolina",
+    "postal_code": "27577-7613",
+    "website_url": "http://www.doublebarleybrewing.com",
+    "phone": "9199343433",
+    "created_at": "2018-07-24 01:33:55.990108",
+    "updated_at": "2018-08-11 21:38:47.431692",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

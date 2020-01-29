@@ -1,0 +1,19 @@
+[
+  {
+    "id": "big-elm-brewing",
+    "name": "Big Elm Brewing",
+    "brewery_type": "micro",
+    "street": "65 Silver St",
+    "city": "Sheffield",
+    "state": "Massachusetts",
+    "postal_code": "01257",
+    "website_url": "http://www.bigelmbrewery.com",
+    "phone": "4132292348",
+    "created_at": "2018-07-24 01:33:30.272528",
+    "updated_at": "2018-08-24 00:41:04.144706",
+    "country": "United States",
+    "longitude": "-73.351236",
+    "latitude": "42.093595",
+    "tags": []
+  }
+]

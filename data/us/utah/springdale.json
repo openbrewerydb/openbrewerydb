@@ -1,0 +1,19 @@
+[
+  {
+    "id": "zion-canyon-brewing-co",
+    "name": "Zion Canyon Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "95 Zion Park Blvd",
+    "city": "Springdale",
+    "state": "Utah",
+    "postal_code": "84767-0420",
+    "website_url": "http://www.zioncanyonbrewingco.com",
+    "phone": "4357720404",
+    "created_at": "2018-07-24 01:34:22.973187",
+    "updated_at": "2018-08-24 16:25:25.555821",
+    "country": "United States",
+    "longitude": "-113.03584844898",
+    "latitude": "37.1606331836735",
+    "tags": []
+  }
+]

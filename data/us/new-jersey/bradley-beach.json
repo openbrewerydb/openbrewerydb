@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bradley-brew-project",
+    "name": "Bradley Brew Project",
+    "brewery_type": "micro",
+    "street": "714 Main St",
+    "city": "Bradley Beach",
+    "state": "New Jersey",
+    "postal_code": "07720-1013",
+    "website_url": "http://www.bradleybrew.com",
+    "phone": "732455804",
+    "created_at": "2018-07-24 01:33:46.234025",
+    "updated_at": "2018-08-24 15:36:33.29722",
+    "country": "United States",
+    "longitude": "-74.0174242765957",
+    "latitude": "40.204270787234",
+    "tags": []
+  }
+]

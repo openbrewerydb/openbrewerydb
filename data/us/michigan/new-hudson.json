@@ -1,0 +1,19 @@
+[
+  {
+    "id": "draught-horse-brewery",
+    "name": "Draught Horse Brewery",
+    "brewery_type": "brewpub",
+    "street": "57721 Grand River Ave",
+    "city": "New Hudson",
+    "state": "Michigan",
+    "postal_code": "48165-8542",
+    "website_url": "http://www.draughthorsebrewery.com",
+    "phone": "2486173000",
+    "created_at": "2018-07-24 01:33:33.998224",
+    "updated_at": "2018-08-24 00:42:45.501541",
+    "country": "United States",
+    "longitude": "-83.61459",
+    "latitude": "42.5113546",
+    "tags": []
+  }
+]

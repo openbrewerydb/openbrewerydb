@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pizza-by-elizabeths",
+    "name": "Pizza By Elizabeths",
+    "brewery_type": "brewpub",
+    "street": "3801 Kennett Pike",
+    "city": "Greenville",
+    "state": "Delaware",
+    "postal_code": "19807-2321",
+    "website_url": "http://www.pizzabyelizabeths.com",
+    "phone": "3026544478",
+    "created_at": "2018-07-24 01:33:10.682376",
+    "updated_at": "2018-08-24 00:26:08.041396",
+    "country": "United States",
+    "longitude": "-75.5956684811067",
+    "latitude": "39.7756024886891",
+    "tags": []
+  }
+]

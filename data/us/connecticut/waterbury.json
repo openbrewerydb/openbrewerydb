@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brass-works-brewing-company-llc",
+    "name": "Brass Works Brewing Company LLC",
+    "brewery_type": "micro",
+    "street": "2066 Thomaston Ave",
+    "city": "Waterbury",
+    "state": "Connecticut",
+    "postal_code": "06704-1038",
+    "website_url": "http://www.brassworksbrewing.com",
+    "phone": "2035276223",
+    "created_at": "2018-07-24 01:33:09.172873",
+    "updated_at": "2018-08-24 00:25:27.172675",
+    "country": "United States",
+    "longitude": "-73.0575366209305",
+    "latitude": "41.5974763265155",
+    "tags": []
+  }
+]

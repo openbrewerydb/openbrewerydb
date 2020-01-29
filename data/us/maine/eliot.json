@@ -1,0 +1,19 @@
+[
+  {
+    "id": "shipyard-brew-pub-eliot",
+    "name": "Shipyard Brew Pub Eliot",
+    "brewery_type": "brewpub",
+    "street": "28 Levesque Dr Ste 4 C/O Eliot Commons",
+    "city": "Eliot",
+    "state": "Maine",
+    "postal_code": "03903-2073",
+    "website_url": "http://www.shipyard.com",
+    "phone": "2076862026",
+    "created_at": "2018-07-24 01:33:27.998563",
+    "updated_at": "2018-08-11 21:37:34.085214",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tonopah-brewing-co",
+    "name": "Tonopah Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "315 S Main St",
+    "city": "Tonopah",
+    "state": "Nevada",
+    "postal_code": "89049",
+    "website_url": "http://www.tonopahbrewing.com",
+    "phone": "7754822000",
+    "created_at": "2018-07-24 01:33:44.780527",
+    "updated_at": "2018-08-24 15:35:48.724249",
+    "country": "United States",
+    "longitude": "-117.231982349599",
+    "latitude": "38.070350236911",
+    "tags": []
+  }
+]

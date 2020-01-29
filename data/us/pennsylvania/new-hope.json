@@ -1,0 +1,36 @@
+[
+  {
+    "id": "great-barn-brewery",
+    "name": "Great Barn Brewery",
+    "brewery_type": "micro",
+    "street": "12 W Mechanic St",
+    "city": "New Hope",
+    "state": "Pennsylvania",
+    "postal_code": "18938",
+    "website_url": "http://www.greatbarnbrewery.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:10.693311",
+    "updated_at": "2018-08-24 16:08:52.985289",
+    "country": "United States",
+    "longitude": "-74.9507767455011",
+    "latitude": "40.3619958505527",
+    "tags": []
+  },
+  {
+    "id": "triumph-brewing-co-of-new-hope",
+    "name": "Triumph Brewing Co of New Hope",
+    "brewery_type": "brewpub",
+    "street": "400 Union Square Dr",
+    "city": "New Hope",
+    "state": "Pennsylvania",
+    "postal_code": "18938-1367",
+    "website_url": "http://www.triumphbrew.com",
+    "phone": "2158628300",
+    "created_at": "2018-07-24 01:34:13.223458",
+    "updated_at": "2018-08-11 21:39:32.710949",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

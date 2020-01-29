@@ -1,0 +1,19 @@
+[
+  {
+    "id": "maple-lawn-brewery",
+    "name": "Maple Lawn Brewery",
+    "brewery_type": "micro",
+    "street": "110 Mulberry Ave",
+    "city": "Pomeroy",
+    "state": "Ohio",
+    "postal_code": "45769-1004",
+    "website_url": "http://www.maplelawnbrew.com",
+    "phone": "7406915018",
+    "created_at": "2018-07-24 01:34:01.692736",
+    "updated_at": "2018-08-24 15:44:24.897035",
+    "country": "United States",
+    "longitude": "-82.034268",
+    "latitude": "39.027513",
+    "tags": []
+  }
+]

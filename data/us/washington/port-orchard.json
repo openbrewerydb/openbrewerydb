@@ -1,0 +1,19 @@
+[
+  {
+    "id": "slaughter-county-brewing",
+    "name": "Slaughter County Brewing",
+    "brewery_type": "brewpub",
+    "street": "1307 Bay St",
+    "city": "Port Orchard",
+    "state": "Washington",
+    "postal_code": "98366-5105",
+    "website_url": "http://www.slaughtercountybrewing.com",
+    "phone": "3603292340",
+    "created_at": "2018-07-24 01:34:32.832607",
+    "updated_at": "2018-08-24 16:39:23.615165",
+    "country": "United States",
+    "longitude": "-122.62600103808",
+    "latitude": "47.5426193131665",
+    "tags": []
+  }
+]

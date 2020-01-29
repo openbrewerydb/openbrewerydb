@@ -1,0 +1,19 @@
+[
+  {
+    "id": "heavy-reel-brewing",
+    "name": "Heavy Reel Brewing",
+    "brewery_type": "micro",
+    "street": "613 Boulevard",
+    "city": "Seaside Heights",
+    "state": "New Jersey",
+    "postal_code": "08751",
+    "website_url": "http://www.heavyreelbrewingco.com",
+    "phone": "7322502879",
+    "created_at": "2018-07-24 01:33:46.821421",
+    "updated_at": "2018-08-11 21:38:23.742968",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

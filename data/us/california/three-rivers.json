@@ -1,0 +1,19 @@
+[
+  {
+    "id": "three-rivers-brewing-co",
+    "name": "Three Rivers Brewing Co",
+    "brewery_type": "micro",
+    "street": "41763 Sierra Dr Ste B",
+    "city": "Three Rivers",
+    "state": "California",
+    "postal_code": "93271-9671",
+    "website_url": "http://www.threeriversbrewingco.com",
+    "phone": "5599095483",
+    "created_at": "2018-07-24 01:33:02.289331",
+    "updated_at": "2018-08-11 21:36:25.255722",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "moby-dick-brewing-co",
+    "name": "Moby Dick Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "16 S Water St",
+    "city": "New Bedford",
+    "state": "Massachusetts",
+    "postal_code": "02740-7235",
+    "website_url": "http://www.mobydickbrewing.com",
+    "phone": "7742026961",
+    "created_at": "2018-07-24 01:33:31.472534",
+    "updated_at": "2018-08-24 00:41:32.621498",
+    "country": "United States",
+    "longitude": "-70.9225132461967",
+    "latitude": "41.6338210074871",
+    "tags": []
+  },
+  {
+    "id": "greasy-luck-brewery",
+    "name": "Greasy Luck Brewery",
+    "brewery_type": "brewpub",
+    "street": "791 Purchase St",
+    "city": "New Bedford",
+    "state": "Massachusetts",
+    "postal_code": "02740-6345",
+    "website_url": "http://www.greasyluckbrewery.com",
+    "phone": "7744254600",
+    "created_at": "2018-07-24 01:33:31.048489",
+    "updated_at": "2018-08-24 00:41:21.12769",
+    "country": "United States",
+    "longitude": "-70.9260752678464",
+    "latitude": "41.6350707856424",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "white-lion-brewing-company",
+    "name": "White Lion Brewing Company",
+    "brewery_type": "contract",
+    "street": "36 Garland St",
+    "city": "Springfield",
+    "state": "Massachusetts",
+    "postal_code": "01118-2128",
+    "website_url": "http://www.whitelionbrewing.com",
+    "phone": "4133261829",
+    "created_at": "2018-07-24 01:33:32.320737",
+    "updated_at": "2018-08-24 00:41:57.003082",
+    "country": "United States",
+    "longitude": "-72.5338092445335",
+    "latitude": "42.089818555939",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "scantic-river-brewery",
+    "name": "Scantic River Brewery",
+    "brewery_type": "micro",
+    "street": "25 Mill Rd",
+    "city": "Hampden",
+    "state": "Massachusetts",
+    "postal_code": "01036-9624",
+    "website_url": "http://www.scanticriverbrewery.com",
+    "phone": "4132049163",
+    "created_at": "2018-07-24 01:33:31.892421",
+    "updated_at": "2018-08-24 00:41:45.094572",
+    "country": "United States",
+    "longitude": "-72.5833168788771",
+    "latitude": "42.0430361118982",
+    "tags": []
+  }
+]

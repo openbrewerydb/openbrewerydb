@@ -1,0 +1,19 @@
+[
+  {
+    "id": "starry-eyed-brewing-company",
+    "name": "Starry Eyed Brewing Company",
+    "brewery_type": "micro",
+    "street": "16757 11th St NE",
+    "city": "Little Falls",
+    "state": "Minnesota",
+    "postal_code": "56345-2203",
+    "website_url": "http://www.starryeyedbrewing.com",
+    "phone": "3202320382",
+    "created_at": "2018-07-24 01:33:39.616747",
+    "updated_at": "2018-08-24 00:45:47.525148",
+    "country": "United States",
+    "longitude": "-94.3451474",
+    "latitude": "45.9831733",
+    "tags": []
+  }
+]

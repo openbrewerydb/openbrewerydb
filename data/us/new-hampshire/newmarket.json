@@ -1,0 +1,19 @@
+[
+  {
+    "id": "deciduous-brewing-company",
+    "name": "Deciduous Brewing Company",
+    "brewery_type": "micro",
+    "street": "12 Weaver St",
+    "city": "Newmarket",
+    "state": "New Hampshire",
+    "postal_code": "03857-2307",
+    "website_url": "",
+    "phone": "6032925809",
+    "created_at": "2018-07-24 01:33:45.247136",
+    "updated_at": "2018-08-11 21:38:19.247379",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

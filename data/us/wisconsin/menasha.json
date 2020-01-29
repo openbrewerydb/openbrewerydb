@@ -1,0 +1,19 @@
+[
+  {
+    "id": "old-bavarian-brewing-co",
+    "name": "Old Bavarian Brewing Co",
+    "brewery_type": "contract",
+    "street": "1515 Greendale St",
+    "city": "Menasha",
+    "state": "Wisconsin",
+    "postal_code": "54952-2620",
+    "website_url": "http://www.oldbavarian.com",
+    "phone": "9207300202",
+    "created_at": "2018-07-24 01:34:36.097018",
+    "updated_at": "2018-08-24 16:44:34.495151",
+    "country": "United States",
+    "longitude": "-88.416059",
+    "latitude": "44.217357",
+    "tags": []
+  }
+]

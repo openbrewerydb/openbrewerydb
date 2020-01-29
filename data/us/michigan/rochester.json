@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rochester-mills-beer-co",
+    "name": "Rochester Mills Beer Co",
+    "brewery_type": "brewpub",
+    "street": "400 Water St Ste 101",
+    "city": "Rochester",
+    "state": "Michigan",
+    "postal_code": "48307-2089",
+    "website_url": "http://www.beercos.com",
+    "phone": "2486505080",
+    "created_at": "2018-07-24 01:33:36.323092",
+    "updated_at": "2018-08-11 21:37:55.349597",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

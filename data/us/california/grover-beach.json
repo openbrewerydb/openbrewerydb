@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bittersweet-brewing-company-llc",
+    "name": "Bittersweet Brewing Company, LLC",
+    "brewery_type": "micro",
+    "street": "191 S Oak Park Blvd Ste 3",
+    "city": "Grover Beach",
+    "state": "California",
+    "postal_code": "93433-2265",
+    "website_url": "http://www.bittersweetbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:52.572166",
+    "updated_at": "2018-08-11 21:35:56.544721",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "manrock-brewing",
+    "name": "ManRock Brewing",
+    "brewery_type": "brewpub",
+    "street": "1750 El Camino Real Ste A",
+    "city": "Grover Beach",
+    "state": "California",
+    "postal_code": "93433-1416",
+    "website_url": "http://www.manrockbrewing.com",
+    "phone": "7022172826",
+    "created_at": "2018-07-24 01:32:58.164113",
+    "updated_at": "2018-08-11 21:36:13.00919",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

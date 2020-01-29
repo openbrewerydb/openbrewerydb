@@ -1,0 +1,19 @@
+[
+  {
+    "id": "beaver-brewing-co",
+    "name": "Beaver Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "1820 7th Ave",
+    "city": "Beaver Falls",
+    "state": "Pennsylvania",
+    "postal_code": "15010-4001",
+    "website_url": "http://www.beaverbrewingcompany.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:08.924424",
+    "updated_at": "2018-08-24 16:06:31.601053",
+    "country": "United States",
+    "longitude": "-80.3192793",
+    "latitude": "40.7650557",
+    "tags": []
+  }
+]

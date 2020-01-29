@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-twenty-five",
+    "name": "Brewery Twenty Five",
+    "brewery_type": "micro",
+    "street": "106 3rd St",
+    "city": "Hollister",
+    "state": "California",
+    "postal_code": "95023",
+    "website_url": "http://www.brewerytwentyfive.com",
+    "phone": "8316367640",
+    "created_at": "2018-07-24 01:32:53.273073",
+    "updated_at": "2018-08-23 23:26:09.967231",
+    "country": "United States",
+    "longitude": "-121.400836918367",
+    "latitude": "36.8535938163265",
+    "tags": []
+  },
+  {
+    "id": "grillin-and-chillin-alehouse",
+    "name": "Grillin & Chillin Alehouse",
+    "brewery_type": "brewpub",
+    "street": "401 McCray St # B24",
+    "city": "Hollister",
+    "state": "California",
+    "postal_code": "95023-2225",
+    "website_url": "http://www.relaxgrillinchillin.com",
+    "phone": "8316372337",
+    "created_at": "2018-07-24 01:32:56.072557",
+    "updated_at": "2018-08-23 23:29:02.708752",
+    "country": "United States",
+    "longitude": "-121.398518972827",
+    "latitude": "36.851857298284",
+    "tags": []
+  }
+]

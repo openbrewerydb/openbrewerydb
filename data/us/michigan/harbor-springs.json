@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tunnel-vision-brewery",
+    "name": "Tunnel Vision Brewery",
+    "brewery_type": "brewpub",
+    "street": "5699 S Lake Shore Dr",
+    "city": "Harbor Springs",
+    "state": "Michigan",
+    "postal_code": "49740-9784",
+    "website_url": "http://www.pondhill.com",
+    "phone": "2315263276",
+    "created_at": "2018-07-24 01:33:37.299408",
+    "updated_at": "2018-08-24 00:44:33.669668",
+    "country": "United States",
+    "longitude": "-85.065042",
+    "latitude": "45.471828",
+    "tags": []
+  }
+]

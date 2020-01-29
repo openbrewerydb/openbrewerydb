@@ -1,0 +1,19 @@
+[
+  {
+    "id": "windy-brew",
+    "name": "Windy Brew",
+    "brewery_type": "micro",
+    "street": "733 Route 20a",
+    "city": "Strykersville",
+    "state": "New York",
+    "postal_code": "14145-9584",
+    "website_url": "http://www.windybrews.com",
+    "phone": "5858054006",
+    "created_at": "2018-07-24 01:33:54.563304",
+    "updated_at": "2018-08-11 21:38:43.882153",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

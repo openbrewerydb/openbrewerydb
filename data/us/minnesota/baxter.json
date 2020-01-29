@@ -1,0 +1,19 @@
+[
+  {
+    "id": "jack-pine-brewery",
+    "name": "Jack Pine Brewery",
+    "brewery_type": "micro",
+    "street": "15593 Edgewood Dr",
+    "city": "Baxter",
+    "state": "Minnesota",
+    "postal_code": "56401-6952",
+    "website_url": "http://www.jackpinebrewery.com",
+    "phone": "2182708072",
+    "created_at": "2018-07-24 01:33:38.885133",
+    "updated_at": "2018-08-11 21:38:03.006442",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

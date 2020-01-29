@@ -1,0 +1,19 @@
+[
+  {
+    "id": "rocky-reef-brewing-company",
+    "name": "Rocky Reef Brewing Company",
+    "brewery_type": "micro",
+    "street": "1101 1st Ave",
+    "city": "Woodruff",
+    "state": "Wisconsin",
+    "postal_code": "54568-0615",
+    "website_url": "http://www.rockyreefbrewing.com",
+    "phone": "2623391230",
+    "created_at": "2018-07-24 01:34:36.447603",
+    "updated_at": "2018-08-24 16:45:15.838214",
+    "country": "United States",
+    "longitude": "-89.695183",
+    "latitude": "45.895883",
+    "tags": []
+  }
+]

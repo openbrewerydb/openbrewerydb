@@ -1,0 +1,19 @@
+[
+  {
+    "id": "the-outlaw-brewing-company",
+    "name": "The Outlaw Brewing Company",
+    "brewery_type": "micro",
+    "street": "215 Scotland Rd",
+    "city": "Winchester",
+    "state": "New Hampshire",
+    "postal_code": "03470-3006",
+    "website_url": "http://Www.theoutlawbrewingcompany.com",
+    "phone": "4136279700",
+    "created_at": "2018-07-24 01:33:45.85884",
+    "updated_at": "2018-08-24 15:36:22.878098",
+    "country": "United States",
+    "longitude": "-72.3562004469969",
+    "latitude": "42.7501251872036",
+    "tags": []
+  }
+]

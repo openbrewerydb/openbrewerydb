@@ -1,0 +1,19 @@
+[
+  {
+    "id": "selins-grove-brewing-co",
+    "name": "Selins Grove Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "119 N Market St",
+    "city": "Selinsgrove",
+    "state": "Pennsylvania",
+    "postal_code": "17870-1905",
+    "website_url": "http://www.selinsgrovebrewing.com",
+    "phone": "5703747308",
+    "created_at": "2018-07-24 01:34:12.535924",
+    "updated_at": "2018-08-24 16:11:50.364952",
+    "country": "United States",
+    "longitude": "-76.8615297931946",
+    "latitude": "40.8005695222946",
+    "tags": []
+  }
+]

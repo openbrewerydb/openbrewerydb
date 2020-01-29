@@ -1,0 +1,19 @@
+[
+  {
+    "id": "long-branch-brewery",
+    "name": "Long Branch Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Long Branch",
+    "state": "New Jersey",
+    "postal_code": "07740",
+    "website_url": "",
+    "phone": "7325013025",
+    "created_at": "2018-07-24 01:33:47.071049",
+    "updated_at": "2018-08-11 21:38:24.447141",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tuned-up-brewing-company",
+    "name": "Tuned Up Brewing Company",
+    "brewery_type": "micro",
+    "street": "135 N Main St",
+    "city": "Spring City",
+    "state": "Pennsylvania",
+    "postal_code": "19475-1874",
+    "website_url": "",
+    "phone": "6103063182",
+    "created_at": "2018-07-24 01:34:13.263149",
+    "updated_at": "2018-08-24 16:12:56.152519",
+    "country": "United States",
+    "longitude": "-75.5475216265687",
+    "latitude": "40.1799027858692",
+    "tags": []
+  }
+]

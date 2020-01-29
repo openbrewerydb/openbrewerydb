@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cold-iron-brewing",
+    "name": "Cold Iron Brewing",
+    "brewery_type": "micro",
+    "street": "104 S Lowell St",
+    "city": "Ironwood",
+    "state": "Michigan",
+    "postal_code": "49938-2044",
+    "website_url": "http://www.coldironbrewing.com",
+    "phone": "9062857020",
+    "created_at": "2018-07-24 01:33:33.761974",
+    "updated_at": "2018-08-24 00:42:37.175915",
+    "country": "United States",
+    "longitude": "-90.169849131419",
+    "latitude": "46.4539057533536",
+    "tags": []
+  }
+]

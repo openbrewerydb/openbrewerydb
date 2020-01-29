@@ -1,0 +1,36 @@
+[
+  {
+    "id": "blue-mountain-brewery",
+    "name": "Blue Mountain Brewery",
+    "brewery_type": "micro",
+    "street": "9519 Critzers Shop Rd",
+    "city": "Afton",
+    "state": "Virginia",
+    "postal_code": "22920-2415",
+    "website_url": "http://www.bluemountainbrewery.com",
+    "phone": "5404568020",
+    "created_at": "2018-07-24 01:34:24.588091",
+    "updated_at": "2018-08-11 21:40:02.960016",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "brewing-tree-beer-company",
+    "name": "Brewing Tree Beer Company",
+    "brewery_type": "micro",
+    "street": "9278 Rockfish Valley Hwy",
+    "city": "Afton",
+    "state": "Virginia",
+    "postal_code": "22920",
+    "website_url": "",
+    "phone": "5403810990",
+    "created_at": "2018-07-24 01:34:24.756701",
+    "updated_at": "2018-08-11 21:40:03.46372",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

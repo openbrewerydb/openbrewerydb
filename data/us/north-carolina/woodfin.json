@@ -1,0 +1,19 @@
+[
+  {
+    "id": "zillicoah-beer-company",
+    "name": "Zillicoah Beer Company",
+    "brewery_type": "proprietor",
+    "street": "870 Riverside Dr",
+    "city": "Woodfin",
+    "state": "North Carolina",
+    "postal_code": "28804-3222",
+    "website_url": "",
+    "phone": "8284846502",
+    "created_at": "2018-07-24 01:33:59.024647",
+    "updated_at": "2018-08-24 15:43:11.247669",
+    "country": "United States",
+    "longitude": "-82.5756108862719",
+    "latitude": "35.6177654739794",
+    "tags": []
+  }
+]

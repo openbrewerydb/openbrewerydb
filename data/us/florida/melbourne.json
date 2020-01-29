@@ -1,0 +1,53 @@
+[
+  {
+    "id": "charlie-and-jakes-brewery-and-grille",
+    "name": "Charlie and Jakes Brewery and Grille",
+    "brewery_type": "brewpub",
+    "street": "6300 N Wickham Rd Ste 137",
+    "city": "Melbourne",
+    "state": "Florida",
+    "postal_code": "32940-2037",
+    "website_url": "http://www.cjbrewery.com",
+    "phone": "3217527675",
+    "created_at": "2018-07-24 01:33:12.1586",
+    "updated_at": "2018-08-11 21:36:52.694398",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "hell-n-blazes-brewing-company",
+    "name": "Hell 'n Blazes Brewing Company",
+    "brewery_type": "micro",
+    "street": "1002 E New Haven Ave",
+    "city": "Melbourne",
+    "state": "Florida",
+    "postal_code": "32901-5437",
+    "website_url": "http://www.HellnBlazesBrewing.com",
+    "phone": "3218214052",
+    "created_at": "2018-07-24 01:33:13.133979",
+    "updated_at": "2018-08-24 00:27:27.883449",
+    "country": "United States",
+    "longitude": "-80.6045506735687",
+    "latitude": "28.0783524492751",
+    "tags": []
+  },
+  {
+    "id": "intracoastal-brewing-co",
+    "name": "Intracoastal Brewing Co.",
+    "brewery_type": "micro",
+    "street": "652 W Eau Gallie Blvd",
+    "city": "Melbourne",
+    "state": "Florida",
+    "postal_code": "32935-6509",
+    "website_url": "http://www.intracoastalbrewingcompany.com",
+    "phone": "3218727395",
+    "created_at": "2018-07-24 01:33:13.349568",
+    "updated_at": "2018-08-24 00:27:37.404908",
+    "country": "United States",
+    "longitude": "-80.7039168",
+    "latitude": "28.1206522",
+    "tags": []
+  }
+]

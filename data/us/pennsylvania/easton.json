@@ -1,0 +1,53 @@
+[
+  {
+    "id": "the-brewery-ba¶ser-geist-brewing-co-llc",
+    "name": "The Brewery BÃ¶ser Geist Brewing Co., LLC",
+    "brewery_type": "micro",
+    "street": "1250 Simon Blvd Unit K100",
+    "city": "Easton",
+    "state": "Pennsylvania",
+    "postal_code": "18042-1474",
+    "website_url": "",
+    "phone": "4842938005",
+    "created_at": "2018-07-24 01:34:13.022444",
+    "updated_at": "2018-08-11 21:39:32.246718",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "weyerbacher-brewing-co",
+    "name": "Weyerbacher Brewing Co",
+    "brewery_type": "regional",
+    "street": "905 Line St Ste G",
+    "city": "Easton",
+    "state": "Pennsylvania",
+    "postal_code": "18042-7379",
+    "website_url": "http://www.weyerbacher.com",
+    "phone": "6105595561",
+    "created_at": "2018-07-24 01:34:13.481854",
+    "updated_at": "2018-08-11 21:39:33.342139",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "two-rivers-brewing-co",
+    "name": "Two Rivers Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "542 Northampton St",
+    "city": "Easton",
+    "state": "Pennsylvania",
+    "postal_code": "18042-3517",
+    "website_url": "http://www.tworiversbrewing.com",
+    "phone": "6108291131",
+    "created_at": "2018-07-24 01:34:13.302011",
+    "updated_at": "2018-08-24 16:12:59.115744",
+    "country": "United States",
+    "longitude": "-75.214292",
+    "latitude": "40.69072655",
+    "tags": []
+  }
+]

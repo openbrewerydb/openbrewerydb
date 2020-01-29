@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bad-martha-farmers-brewery",
+    "name": "Bad Martha Farmer's Brewery",
+    "brewery_type": "brewpub",
+    "street": "270 Upper Main St",
+    "city": "Edgartown",
+    "state": "Massachusetts",
+    "postal_code": "02539-",
+    "website_url": "http://www.badmarthabeer.com",
+    "phone": "5089394415",
+    "created_at": "2018-07-24 01:33:30.129902",
+    "updated_at": "2018-08-24 00:40:59.760978",
+    "country": "United States",
+    "longitude": "-70.52732",
+    "latitude": "41.394402",
+    "tags": []
+  }
+]

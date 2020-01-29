@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ram-restaurant-and-brewery-wheeling",
+    "name": "RAM Restaurant and Brewery - Wheeling",
+    "brewery_type": "brewpub",
+    "street": "700 N Milwaukee Ave",
+    "city": "Wheeling",
+    "state": "Illinois",
+    "postal_code": "60090-3026",
+    "website_url": "http://www.theram.com",
+    "phone": "8475201222",
+    "created_at": "2018-07-24 01:33:20.350119",
+    "updated_at": "2018-08-24 00:31:55.741024",
+    "country": "United States",
+    "longitude": "-87.9155543",
+    "latitude": "42.1541156",
+    "tags": []
+  }
+]

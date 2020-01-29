@@ -1,0 +1,19 @@
+[
+  {
+    "id": "clinch-river-brewing",
+    "name": "Clinch River Brewing",
+    "brewery_type": "brewpub",
+    "street": "2045 Norris Freeway",
+    "city": "Norris",
+    "state": "Tennessee",
+    "postal_code": "37828",
+    "website_url": "http://www.clinchriverbrewing.com",
+    "phone": "2763561847",
+    "created_at": "2018-07-24 01:34:15.943182",
+    "updated_at": "2018-08-24 16:16:32.215922",
+    "country": "United States",
+    "longitude": "-84.0448186",
+    "latitude": "36.1696625",
+    "tags": []
+  }
+]

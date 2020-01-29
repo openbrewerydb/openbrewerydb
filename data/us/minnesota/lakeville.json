@@ -1,0 +1,36 @@
+[
+  {
+    "id": "angry-inch-brewing",
+    "name": "Angry Inch Brewing",
+    "brewery_type": "micro",
+    "street": "20841 Holyoke Ave",
+    "city": "Lakeville",
+    "state": "Minnesota",
+    "postal_code": "55044-",
+    "website_url": "http://www.angryinchbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:37.678263",
+    "updated_at": "2018-08-24 00:44:46.133604",
+    "country": "United States",
+    "longitude": "-93.2432718",
+    "latitude": "44.6476022",
+    "tags": []
+  },
+  {
+    "id": "lakeville-brewing-co-llc",
+    "name": "Lakeville Brewing Co., LLC",
+    "brewery_type": "brewpub",
+    "street": "8790 Upper 208th Street W",
+    "city": "Lakeville",
+    "state": "Minnesota",
+    "postal_code": "55044",
+    "website_url": "http://www.lakevillebrewing.com",
+    "phone": "9524692739",
+    "created_at": "2018-07-24 01:33:39.032434",
+    "updated_at": "2018-08-24 00:45:29.359335",
+    "country": "United States",
+    "longitude": "-93.2438161",
+    "latitude": "44.6477282",
+    "tags": []
+  }
+]

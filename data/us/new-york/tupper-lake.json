@@ -1,0 +1,36 @@
+[
+  {
+    "id": "big-tupper-brewing",
+    "name": "Big Tupper Brewing",
+    "brewery_type": "brewpub",
+    "street": "12 Cliff Ave",
+    "city": "Tupper Lake",
+    "state": "New York",
+    "postal_code": "12986-1719",
+    "website_url": "http://www.bigtupperbrewing.com",
+    "phone": "5183596350",
+    "created_at": "2018-07-24 01:33:49.419438",
+    "updated_at": "2018-08-24 15:38:09.134391",
+    "country": "United States",
+    "longitude": "-74.4657636666667",
+    "latitude": "44.223293",
+    "tags": []
+  },
+  {
+    "id": "raquette-river-brewing",
+    "name": "Raquette River Brewing",
+    "brewery_type": "micro",
+    "street": "11 Balsam St # 2",
+    "city": "Tupper Lake",
+    "state": "New York",
+    "postal_code": "12986-1033",
+    "website_url": "http://www.raquetteriverbrewing.com",
+    "phone": "5183595219",
+    "created_at": "2018-07-24 01:33:52.98325",
+    "updated_at": "2018-08-24 15:40:00.188421",
+    "country": "United States",
+    "longitude": "-74.4865214489796",
+    "latitude": "44.243473755102",
+    "tags": []
+  }
+]

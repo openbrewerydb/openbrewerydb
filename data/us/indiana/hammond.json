@@ -1,0 +1,36 @@
+[
+  {
+    "id": "byway-brewing-company",
+    "name": "Byway Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "2825 Carlson Dr",
+    "city": "Hammond",
+    "state": "Indiana",
+    "postal_code": "46323-1183",
+    "website_url": "http://www.bywaybrewing.beer",
+    "phone": "2198445458",
+    "created_at": "2018-07-24 01:33:21.638197",
+    "updated_at": "2018-08-11 21:37:18.308304",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "18th-street-brewery",
+    "name": "18th Street Brewery",
+    "brewery_type": "micro",
+    "street": "5417 Oakley Ave",
+    "city": "Hammond",
+    "state": "Indiana",
+    "postal_code": "46320-1817",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:21.206464",
+    "updated_at": "2018-08-24 00:32:26.04772",
+    "country": "United States",
+    "longitude": "-87.517422",
+    "latitude": "41.6155679591837",
+    "tags": []
+  }
+]

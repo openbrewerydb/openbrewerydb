@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pivo-brewery",
+    "name": "PIVO Brewery",
+    "brewery_type": "micro",
+    "street": "101 Huber Dr",
+    "city": "Calmar",
+    "state": "Iowa",
+    "postal_code": "52132",
+    "website_url": "http://www.pivoblepta.com",
+    "phone": "5635621053",
+    "created_at": "2018-07-24 01:33:24.258214",
+    "updated_at": "2018-08-11 21:37:24.657385",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

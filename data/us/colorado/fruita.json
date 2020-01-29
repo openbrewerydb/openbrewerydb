@@ -1,0 +1,36 @@
+[
+  {
+    "id": "copper-club-brewing-co",
+    "name": "Copper Club Brewing Co",
+    "brewery_type": "micro",
+    "street": "233 E Aspen Ave",
+    "city": "Fruita",
+    "state": "Colorado",
+    "postal_code": "81521-2205",
+    "website_url": "http://www.copperclubbrew.com",
+    "phone": "9708588318",
+    "created_at": "2018-07-24 01:33:04.790966",
+    "updated_at": "2018-08-24 00:22:39.797028",
+    "country": "United States",
+    "longitude": "-108.731492100058",
+    "latitude": "39.1591638",
+    "tags": []
+  },
+  {
+    "id": "suds-brothers-brewing-co-#2",
+    "name": "Suds Brothers Brewing Co #2",
+    "brewery_type": "brewpub",
+    "street": "127 E Aspen Ave",
+    "city": "Fruita",
+    "state": "Colorado",
+    "postal_code": "81521-2543",
+    "website_url": "http://www.sudsbrothers2fruita.com",
+    "phone": "9708581571",
+    "created_at": "2018-07-24 01:33:08.044764",
+    "updated_at": "2018-08-24 00:24:49.190257",
+    "country": "United States",
+    "longitude": "-108.73268805",
+    "latitude": "39.1591622",
+    "tags": []
+  }
+]

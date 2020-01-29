@@ -1,0 +1,36 @@
+[
+  {
+    "id": "grist-brewing-company-lone-tree",
+    "name": "Grist Brewing Company - Lone Tree",
+    "brewery_type": "micro",
+    "street": "9535 Park Meadows Dr Ste F",
+    "city": "Lone Tree",
+    "state": "Colorado",
+    "postal_code": "80124",
+    "website_url": "",
+    "phone": "3037289394",
+    "created_at": "2018-07-24 01:33:05.778751",
+    "updated_at": "2018-08-11 21:36:36.830258",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "lone-tree-brewing-co",
+    "name": "Lone Tree Brewing Co",
+    "brewery_type": "micro",
+    "street": "8222 Park Meadows Dr",
+    "city": "Lone Tree",
+    "state": "Colorado",
+    "postal_code": "80124-2746",
+    "website_url": "http://www.lonetreebrewingco.com",
+    "phone": "3037925822",
+    "created_at": "2018-07-24 01:33:06.342472",
+    "updated_at": "2018-08-24 00:23:42.832656",
+    "country": "United States",
+    "longitude": "-104.894207450861",
+    "latitude": "39.5629869684277",
+    "tags": []
+  }
+]

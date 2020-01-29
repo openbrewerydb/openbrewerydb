@@ -1,0 +1,53 @@
+[
+  {
+    "id": "double-edge-brewing-co",
+    "name": "Double Edge Brewing Co",
+    "brewery_type": "micro",
+    "street": "158 W Chestnut St",
+    "city": "Lancaster",
+    "state": "Ohio",
+    "postal_code": "43130-4308",
+    "website_url": "http://www.double-edge.beer",
+    "phone": "7402777465",
+    "created_at": "2018-07-24 01:34:00.508397",
+    "updated_at": "2018-08-24 15:43:45.629197",
+    "country": "United States",
+    "longitude": "-82.6042529",
+    "latitude": "39.7123647",
+    "tags": []
+  },
+  {
+    "id": "mosaic-brewing",
+    "name": "Mosaic Brewing",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Lancaster",
+    "state": "Ohio",
+    "postal_code": "43130-4308",
+    "website_url": "http://www.double.edge.beer",
+    "phone": "6149402500",
+    "created_at": "2018-07-24 01:34:01.909991",
+    "updated_at": "2018-08-11 21:39:01.657933",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "rockmill-brewing-co",
+    "name": "Rockmill Brewing Co",
+    "brewery_type": "micro",
+    "street": "5705 Lithopolis Rd NW",
+    "city": "Lancaster",
+    "state": "Ohio",
+    "postal_code": "43130-9515",
+    "website_url": "http://www.rockmillbrewery.com",
+    "phone": "7402058076",
+    "created_at": "2018-07-24 01:34:02.752955",
+    "updated_at": "2018-08-11 21:39:03.765795",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

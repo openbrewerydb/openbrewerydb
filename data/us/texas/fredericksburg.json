@@ -1,0 +1,36 @@
+[
+  {
+    "id": "altstadt-brewery",
+    "name": "Altstadt Brewery",
+    "brewery_type": "micro",
+    "street": "6120 E US Highway 290",
+    "city": "Fredericksburg",
+    "state": "Texas",
+    "postal_code": "78624-2176",
+    "website_url": "http://www.altstadtbeer.com",
+    "phone": "8303042337",
+    "created_at": "2018-07-24 01:34:17.528954",
+    "updated_at": "2018-08-24 16:18:34.340135",
+    "country": "United States",
+    "longitude": "-98.8467263",
+    "latitude": "30.2468574",
+    "tags": []
+  },
+  {
+    "id": "fredericksburg-brewing-co",
+    "name": "Fredericksburg Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "245 E Main St",
+    "city": "Fredericksburg",
+    "state": "Texas",
+    "postal_code": "78624-4114",
+    "website_url": "http://www.yourbrewery.com",
+    "phone": "8309971646",
+    "created_at": "2018-07-24 01:34:19.270237",
+    "updated_at": "2018-08-24 16:20:33.95629",
+    "country": "United States",
+    "longitude": "-98.865629",
+    "latitude": "30.2703349",
+    "tags": []
+  }
+]

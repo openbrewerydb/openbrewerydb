@@ -1,0 +1,36 @@
+[
+  {
+    "id": "the-phoenix-brewing-company",
+    "name": "The Phoenix Brewing Company",
+    "brewery_type": "micro",
+    "street": "131 N Diamond St",
+    "city": "Mansfield",
+    "state": "Ohio",
+    "postal_code": "44902-1331",
+    "website_url": "http://www.phoenixbrewing.com",
+    "phone": "4195222552",
+    "created_at": "2018-07-24 01:34:03.333563",
+    "updated_at": "2018-08-24 15:45:10.239327",
+    "country": "United States",
+    "longitude": "-82.513951877551",
+    "latitude": "40.7620183673469",
+    "tags": []
+  },
+  {
+    "id": "laxton-hollow-brewing-works",
+    "name": "Laxton Hollow Brewing Works",
+    "brewery_type": "micro",
+    "street": "302 E Main St",
+    "city": "Mansfield",
+    "state": "Ohio",
+    "postal_code": "44904-1300",
+    "website_url": "http://www.laxtonhollow.com",
+    "phone": "4195252842",
+    "created_at": "2018-07-24 01:34:01.421064",
+    "updated_at": "2018-08-11 21:39:00.148681",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

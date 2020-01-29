@@ -1,0 +1,19 @@
+[
+  {
+    "id": "two-henrys-brewing-company",
+    "name": "Two Henrys Brewing Company",
+    "brewery_type": "micro",
+    "street": "5210 Thonotosassa Rd",
+    "city": "Plant City",
+    "state": "Florida",
+    "postal_code": "33565-5700",
+    "website_url": "",
+    "phone": "8137529100",
+    "created_at": "2018-07-24 01:33:15.048378",
+    "updated_at": "2018-08-24 00:28:44.83793",
+    "country": "United States",
+    "longitude": "-82.1366836",
+    "latitude": "28.0158875",
+    "tags": []
+  }
+]

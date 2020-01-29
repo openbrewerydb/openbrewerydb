@@ -1,0 +1,53 @@
+[
+  {
+    "id": "jc-brewhouse",
+    "name": "JC Brewhouse",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Issaquah",
+    "state": "Washington",
+    "postal_code": "98029-8902",
+    "website_url": "",
+    "phone": "4252816502",
+    "created_at": "2018-07-24 01:34:30.569214",
+    "updated_at": "2018-08-11 21:40:18.333976",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "manfish-brewing",
+    "name": "Manfish Brewing",
+    "brewery_type": "micro",
+    "street": "19611 276th Ave SE",
+    "city": "Issaquah",
+    "state": "Washington",
+    "postal_code": "98027-8292",
+    "website_url": "http://www.manfishbrewing.com",
+    "phone": "4255847264",
+    "created_at": "2018-07-24 01:34:31.003884",
+    "updated_at": "2018-08-11 21:40:19.848369",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "rogue-ales-issaquah-brewhouse",
+    "name": "Rogue Ales Issaquah Brewhouse",
+    "brewery_type": "brewpub",
+    "street": "35 W Sunset Way Ste C",
+    "city": "Issaquah",
+    "state": "Washington",
+    "postal_code": "98027-3843",
+    "website_url": "http://www.rogue.com",
+    "phone": "4255571911",
+    "created_at": "2018-07-24 01:34:32.575824",
+    "updated_at": "2018-08-11 21:40:25.185958",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

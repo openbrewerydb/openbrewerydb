@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lake-bluff-brewing-company",
+    "name": "Lake Bluff Brewing Company",
+    "brewery_type": "micro",
+    "street": "16 E Scranton Ave",
+    "city": "Lake Bluff",
+    "state": "Illinois",
+    "postal_code": "60044-2543",
+    "website_url": "http://www.lbbrew.com",
+    "phone": "2245445179",
+    "created_at": "2018-07-24 01:33:19.526344",
+    "updated_at": "2018-08-24 00:31:24.008852",
+    "country": "United States",
+    "longitude": "-87.8453204",
+    "latitude": "42.2798322",
+    "tags": []
+  }
+]

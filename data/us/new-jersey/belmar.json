@@ -1,0 +1,19 @@
+[
+  {
+    "id": "beach-haus-brewery",
+    "name": "Beach Haus Brewery",
+    "brewery_type": "micro",
+    "street": "801 Main St",
+    "city": "Belmar",
+    "state": "New Jersey",
+    "postal_code": "07719-2705",
+    "website_url": "http://Www.beachhausbeer.com",
+    "phone": "7322027782",
+    "created_at": "2018-07-24 01:33:46.140294",
+    "updated_at": "2018-08-24 15:36:29.975964",
+    "country": "United States",
+    "longitude": "-74.0251959",
+    "latitude": "40.1812131",
+    "tags": []
+  }
+]

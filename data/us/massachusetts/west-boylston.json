@@ -1,0 +1,19 @@
+[
+  {
+    "id": "henry-and-fran-brewing",
+    "name": "Henry And Fran Brewing",
+    "brewery_type": "micro",
+    "street": "185 Laurel St",
+    "city": "West Boylston",
+    "state": "Massachusetts",
+    "postal_code": "01583-1535",
+    "website_url": "",
+    "phone": "4253273457",
+    "created_at": "2018-07-24 01:33:31.089641",
+    "updated_at": "2018-08-24 00:41:22.468031",
+    "country": "United States",
+    "longitude": "-71.8102670314576",
+    "latitude": "42.3916689698943",
+    "tags": []
+  }
+]

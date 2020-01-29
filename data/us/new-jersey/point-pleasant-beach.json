@@ -1,0 +1,19 @@
+[
+  {
+    "id": "last-wave-brewing-co",
+    "name": "Last Wave Brewing Co",
+    "brewery_type": "micro",
+    "street": "601 Bay Ave",
+    "city": "Point Pleasant Beach",
+    "state": "New Jersey",
+    "postal_code": "08742-2536",
+    "website_url": "http://www.lastwavebrewing.com",
+    "phone": "7329035278",
+    "created_at": "2018-07-24 01:33:47.032495",
+    "updated_at": "2018-08-24 15:36:56.20205",
+    "country": "United States",
+    "longitude": "-74.051905",
+    "latitude": "40.089573",
+    "tags": []
+  }
+]

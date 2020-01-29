@@ -1,0 +1,19 @@
+[
+  {
+    "id": "railhead-brewing-company",
+    "name": "Railhead Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "40 Park Dr",
+    "city": "Hornell",
+    "state": "New York",
+    "postal_code": "14843-2213",
+    "website_url": "http://www.railheadbrewing.com",
+    "phone": "6073243286",
+    "created_at": "2018-07-24 01:33:52.957779",
+    "updated_at": "2018-08-11 21:38:39.405405",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

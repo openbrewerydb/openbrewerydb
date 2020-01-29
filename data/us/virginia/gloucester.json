@@ -1,0 +1,19 @@
+[
+  {
+    "id": "gloucester-brewing-company",
+    "name": "Gloucester Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Gloucester",
+    "state": "Virginia",
+    "postal_code": "23061",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:25.375135",
+    "updated_at": "2018-08-11 21:40:05.313877",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

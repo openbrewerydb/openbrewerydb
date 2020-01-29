@@ -1,0 +1,19 @@
+[
+  {
+    "id": "smoky-mountain-brewery-#2-gatlinburg",
+    "name": "Smoky Mountain Brewery (#2) - Gatlinburg",
+    "brewery_type": "brewpub",
+    "street": "1004 Parkway Ste 501",
+    "city": "Gatlinburg",
+    "state": "Tennessee",
+    "postal_code": "37738-3172",
+    "website_url": "http://www.smoky-mtn-brewery.com",
+    "phone": "8654364200",
+    "created_at": "2018-07-24 01:34:16.998449",
+    "updated_at": "2018-08-24 16:17:53.46231",
+    "country": "United States",
+    "longitude": "-83.5205350353755",
+    "latitude": "35.7090180126524",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "jackrabbit-brewing-co",
+    "name": "Jackrabbit Brewing Co",
+    "brewery_type": "micro",
+    "street": "1323 Terminal St",
+    "city": "West Sacramento",
+    "state": "California",
+    "postal_code": "95691-3514",
+    "website_url": "http://www.jackrabbitbrewingcompany.com",
+    "phone": "2096120259",
+    "created_at": "2018-07-24 01:32:57.039424",
+    "updated_at": "2018-08-23 23:58:06.289052",
+    "country": "United States",
+    "longitude": "-121.54112",
+    "latitude": "38.5719882",
+    "tags": []
+  },
+  {
+    "id": "bike-dog-brewing-co",
+    "name": "Bike Dog Brewing Co",
+    "brewery_type": "micro",
+    "street": "2534 Industrial Blvd Ste 110",
+    "city": "West Sacramento",
+    "state": "California",
+    "postal_code": "95691-3471",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:52.521362",
+    "updated_at": "2018-08-23 23:25:23.942757",
+    "country": "United States",
+    "longitude": "-121.5433734",
+    "latitude": "38.5660851",
+    "tags": []
+  },
+  {
+    "id": "yolo-brewing-co",
+    "name": "Yolo Brewing Co",
+    "brewery_type": "micro",
+    "street": "1520 Terminal St",
+    "city": "West Sacramento",
+    "state": "California",
+    "postal_code": "95691-3814",
+    "website_url": "http://www.yolobrew.com",
+    "phone": "9163797585",
+    "created_at": "2018-07-24 01:33:03.12755",
+    "updated_at": "2018-08-24 00:05:07.315355",
+    "country": "United States",
+    "longitude": "-121.541958488954",
+    "latitude": "38.56942885",
+    "tags": []
+  }
+]

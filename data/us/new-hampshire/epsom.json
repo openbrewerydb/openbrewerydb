@@ -1,0 +1,19 @@
+[
+  {
+    "id": "blasty-bough-brewing-company",
+    "name": "Blasty Bough Brewing Company",
+    "brewery_type": "micro",
+    "street": "3 Griffin Rd",
+    "city": "Epsom",
+    "state": "New Hampshire",
+    "postal_code": "03234-4816",
+    "website_url": "http://www.blastybough.com",
+    "phone": "6037384717",
+    "created_at": "2018-07-24 01:33:45.155605",
+    "updated_at": "2018-08-24 15:35:59.083501",
+    "country": "United States",
+    "longitude": "-71.2932628990987",
+    "latitude": "43.2038250218184",
+    "tags": []
+  }
+]

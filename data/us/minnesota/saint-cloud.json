@@ -1,0 +1,53 @@
+[
+  {
+    "id": "beaver-island-brewing-company",
+    "name": "Beaver Island Brewing Company",
+    "brewery_type": "micro",
+    "street": "216 6th Ave S",
+    "city": "Saint Cloud",
+    "state": "Minnesota",
+    "postal_code": "56301-4304",
+    "website_url": "http://www.beaverislandbrew.com",
+    "phone": "3202535907",
+    "created_at": "2018-07-24 01:33:37.85781",
+    "updated_at": "2018-08-24 00:44:51.999673",
+    "country": "United States",
+    "longitude": "-94.157333115584",
+    "latitude": "45.5585455013487",
+    "tags": []
+  },
+  {
+    "id": "pantown-brewing-company",
+    "name": "Pantown Brewing Company",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Saint Cloud",
+    "state": "Minnesota",
+    "postal_code": "56303-3047",
+    "website_url": "http://www.pantownBrewing.com",
+    "phone": "3209803100",
+    "created_at": "2018-07-24 01:33:39.353064",
+    "updated_at": "2018-08-11 21:38:04.173764",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "granite-city-food-and-brewery-#1",
+    "name": "Granite City Food & Brewery (#1)",
+    "brewery_type": "brewpub",
+    "street": "3945 2nd St S",
+    "city": "Saint Cloud",
+    "state": "Minnesota",
+    "postal_code": "56301-3792",
+    "website_url": "http://www.gcfb.net",
+    "phone": "3202039000",
+    "created_at": "2018-07-24 01:33:38.620736",
+    "updated_at": "2018-08-24 00:45:16.046051",
+    "country": "United States",
+    "longitude": "-94.2053715",
+    "latitude": "45.5497329",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "roosevelt-brewing-company",
+    "name": "Roosevelt Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "201 S Main Ave",
+    "city": "Portales",
+    "state": "New Mexico",
+    "postal_code": "88130-6216",
+    "website_url": "http://www.rooseveltbrewing.com",
+    "phone": "5752262739",
+    "created_at": "2018-07-24 01:33:48.527283",
+    "updated_at": "2018-08-24 15:37:43.401987",
+    "country": "United States",
+    "longitude": "-103.335715",
+    "latitude": "34.185293",
+    "tags": []
+  }
+]

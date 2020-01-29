@@ -1,0 +1,19 @@
+[
+  {
+    "id": "good-neighbor-brews",
+    "name": "Good Neighbor Brews",
+    "brewery_type": "micro",
+    "street": "211 Regency Dr",
+    "city": "Wylie",
+    "state": "Texas",
+    "postal_code": "75098-7089",
+    "website_url": "http://www.goodneighborbrews.com",
+    "phone": "4694714287",
+    "created_at": "2018-07-24 01:34:19.440568",
+    "updated_at": "2018-08-24 16:20:49.2267",
+    "country": "United States",
+    "longitude": "-96.5858334736842",
+    "latitude": "33.0044938421053",
+    "tags": []
+  }
+]

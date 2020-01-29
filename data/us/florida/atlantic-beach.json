@@ -1,0 +1,36 @@
+[
+  {
+    "id": "atlantic-beach-brewing-company",
+    "name": "Atlantic Beach Brewing Company",
+    "brewery_type": "micro",
+    "street": "725 Atlantic Blvd Suite 3",
+    "city": "Atlantic Beach",
+    "state": "Florida",
+    "postal_code": "32233-3946",
+    "website_url": "http://www.atlanticbeachbrewingcompany.com",
+    "phone": "9048948426",
+    "created_at": "2018-07-24 01:33:11.380064",
+    "updated_at": "2018-08-11 21:36:50.884257",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "ragtime-tavern-seafood-and-grill",
+    "name": "Ragtime Tavern Seafood and Grill",
+    "brewery_type": "brewpub",
+    "street": "207 Atlantic Blvd",
+    "city": "Atlantic Beach",
+    "state": "Florida",
+    "postal_code": "32233-5273",
+    "website_url": "http://www.ragtimetavern.com",
+    "phone": "9042417877",
+    "created_at": "2018-07-24 01:33:14.291088",
+    "updated_at": "2018-08-24 00:28:15.871519",
+    "country": "United States",
+    "longitude": "-81.3964898",
+    "latitude": "30.3247964",
+    "tags": []
+  }
+]

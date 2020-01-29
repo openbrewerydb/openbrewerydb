@@ -1,0 +1,19 @@
+[
+  {
+    "id": "woodstock-brewing",
+    "name": "Woodstock Brewing",
+    "brewery_type": "micro",
+    "street": "5581 NY-28",
+    "city": "Phoenicia",
+    "state": "New York",
+    "postal_code": "12464",
+    "website_url": "http://www.drinkwoodstock.com",
+    "phone": "8456880054",
+    "created_at": "2018-07-24 01:33:54.674159",
+    "updated_at": "2018-08-11 21:38:44.144385",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

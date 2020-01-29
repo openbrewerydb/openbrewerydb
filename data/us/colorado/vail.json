@@ -1,0 +1,19 @@
+[
+  {
+    "id": "vail-brewing-company",
+    "name": "Vail Brewing Company",
+    "brewery_type": "micro",
+    "street": "41290 US Hwy 6",
+    "city": "Vail",
+    "state": "Colorado",
+    "postal_code": "81657",
+    "website_url": "http://www.vailbrewingco.com",
+    "phone": "9704704351",
+    "created_at": "2018-07-24 01:33:08.597052",
+    "updated_at": "2018-08-11 21:36:44.063753",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

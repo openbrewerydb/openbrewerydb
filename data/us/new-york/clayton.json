@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wood-boat-brewery",
+    "name": "Wood Boat Brewery",
+    "brewery_type": "brewpub",
+    "street": "625 Mary St Ste A",
+    "city": "Clayton",
+    "state": "New York",
+    "postal_code": "13624-1131",
+    "website_url": "http://www.woodboatbrewery.com",
+    "phone": "3156863233",
+    "created_at": "2018-07-24 01:33:54.604729",
+    "updated_at": "2018-08-11 21:38:43.995469",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

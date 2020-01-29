@@ -1,0 +1,19 @@
+[
+  {
+    "id": "chatham-brewing-llc",
+    "name": "Chatham Brewing LLC",
+    "brewery_type": "micro",
+    "street": "59 Main St",
+    "city": "Chatham",
+    "state": "New York",
+    "postal_code": "12037-1249",
+    "website_url": "http://www.chathambrewing.com",
+    "phone": "5186970202",
+    "created_at": "2018-07-24 01:33:50.195956",
+    "updated_at": "2018-08-24 15:38:29.207959",
+    "country": "United States",
+    "longitude": "-73.5954693147021",
+    "latitude": "42.3631506491011",
+    "tags": []
+  }
+]

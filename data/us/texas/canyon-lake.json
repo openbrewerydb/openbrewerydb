@@ -1,0 +1,19 @@
+[
+  {
+    "id": "guadalupe-brewery",
+    "name": "Guadalupe Brewery",
+    "brewery_type": "micro",
+    "street": "168 Rachel Dr",
+    "city": "Canyon Lake",
+    "state": "Texas",
+    "postal_code": "78133-3527",
+    "website_url": "http://www.guadalupebrew.com",
+    "phone": "5128789214",
+    "created_at": "2018-07-24 01:34:19.54196",
+    "updated_at": "2018-08-11 21:39:50.384482",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

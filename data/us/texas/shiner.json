@@ -1,0 +1,19 @@
+[
+  {
+    "id": "spoetzl-brewery",
+    "name": "Spoetzl Brewery",
+    "brewery_type": "regional",
+    "street": "603 E Brewery St",
+    "city": "Shiner",
+    "state": "Texas",
+    "postal_code": "77984-0368",
+    "website_url": "http://www.shiner.com",
+    "phone": "3615943383",
+    "created_at": "2018-07-24 01:34:21.418383",
+    "updated_at": "2018-08-11 21:39:54.672851",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

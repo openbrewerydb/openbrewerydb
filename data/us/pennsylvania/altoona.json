@@ -1,0 +1,19 @@
+[
+  {
+    "id": "railroad-city-brewing-company",
+    "name": "Railroad City Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "1415 11th Ave Ste 1",
+    "city": "Altoona",
+    "state": "Pennsylvania",
+    "postal_code": "16601-3303",
+    "website_url": "http://www.railroadcitybrewing.com",
+    "phone": "8142012827",
+    "created_at": "2018-07-24 01:34:12.120792",
+    "updated_at": "2018-08-11 21:39:30.141139",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

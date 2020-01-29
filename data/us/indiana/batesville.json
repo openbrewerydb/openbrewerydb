@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lil-charlies-restaurant-and-brewery",
+    "name": "Lil' Charlie's Restaurant & Brewery",
+    "brewery_type": "contract",
+    "street": "504 E Pearl St",
+    "city": "Batesville",
+    "state": "Indiana",
+    "postal_code": "47006-1585",
+    "website_url": "http://www.lilcharlies.com",
+    "phone": "8129346392",
+    "created_at": "2018-07-24 01:33:22.339654",
+    "updated_at": "2018-08-24 00:33:04.529419",
+    "country": "United States",
+    "longitude": "-85.2161451812081",
+    "latitude": "39.295641966443",
+    "tags": []
+  }
+]

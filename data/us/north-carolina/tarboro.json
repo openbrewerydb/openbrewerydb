@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tarboro-brewing-company",
+    "name": "Tarboro Brewing Company",
+    "brewery_type": "micro",
+    "street": "526 N Main St",
+    "city": "Tarboro",
+    "state": "North Carolina",
+    "postal_code": "27886-4313",
+    "website_url": "http://www.tarborobrewingcompany.com",
+    "phone": "2525636522",
+    "created_at": "2018-07-24 01:33:58.298541",
+    "updated_at": "2018-08-24 15:42:47.642275",
+    "country": "United States",
+    "longitude": "-77.5355731668211",
+    "latitude": "35.8985564050046",
+    "tags": []
+  }
+]

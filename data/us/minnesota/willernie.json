@@ -1,0 +1,19 @@
+[
+  {
+    "id": "roma-brewery",
+    "name": "Roma Brewery",
+    "brewery_type": "brewpub",
+    "street": "310 Stillwater Rd",
+    "city": "Willernie",
+    "state": "Minnesota",
+    "postal_code": "55090-4400",
+    "website_url": "http://www.roman-market.com",
+    "phone": "6516534733",
+    "created_at": "2018-07-24 01:33:39.490841",
+    "updated_at": "2018-08-24 00:45:43.392716",
+    "country": "United States",
+    "longitude": "-92.957644",
+    "latitude": "45.057136",
+    "tags": []
+  }
+]

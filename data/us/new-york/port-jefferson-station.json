@@ -1,0 +1,19 @@
+[
+  {
+    "id": "poboy-brewing",
+    "name": "Po'Boy Brewing",
+    "brewery_type": "micro",
+    "street": "200 Wilson St Unit E3",
+    "city": "Port Jefferson Station",
+    "state": "New York",
+    "postal_code": "11776-1145",
+    "website_url": "http://www.poboybrewery.com",
+    "phone": "6318281131",
+    "created_at": "2018-07-24 01:33:52.846003",
+    "updated_at": "2018-08-11 21:38:39.146954",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "appalachian-brewing-co-mechanicsburg",
+    "name": "Appalachian Brewing Co - Mechanicsburg",
+    "brewery_type": "brewpub",
+    "street": "6462 Carlisle Pike",
+    "city": "Mechanicsburg",
+    "state": "Pennsylvania",
+    "postal_code": "17050-2384",
+    "website_url": "http://www.abcbrew.com",
+    "phone": "7177954660",
+    "created_at": "2018-07-24 01:34:08.782784",
+    "updated_at": "2018-08-11 21:39:22.26694",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "brewery-in-planning-marysville",
+    "name": "Brewery In Planning - Marysville",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Mechanicsburg",
+    "state": "Pennsylvania",
+    "postal_code": "17050",
+    "website_url": "http://www.mellowmink.com",
+    "phone": "7176937687",
+    "created_at": "2018-07-24 01:34:09.446809",
+    "updated_at": "2018-08-11 21:39:23.918114",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "harty-brewing-company",
+    "name": "Harty Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "146 Walden Way",
+    "city": "Mechanicsburg",
+    "state": "Pennsylvania",
+    "postal_code": "17050-4105",
+    "website_url": "http://www.hartybrewco.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:10.756308",
+    "updated_at": "2018-08-11 21:39:26.998155",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

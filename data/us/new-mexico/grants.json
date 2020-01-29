@@ -1,0 +1,36 @@
+[
+  {
+    "id": "elkins-brewing-company",
+    "name": "Elkins Brewing Company",
+    "brewery_type": "micro",
+    "street": "1901 E Santa Fe Ave",
+    "city": "Grants",
+    "state": "New Mexico",
+    "postal_code": "87020",
+    "website_url": "http://www.elkinsbrewing.com",
+    "phone": "5052878665",
+    "created_at": "2018-07-24 01:33:48.06698",
+    "updated_at": "2018-08-11 21:38:26.726598",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "route-66-junkyard-brewery",
+    "name": "Route 66 Junkyard Brewery",
+    "brewery_type": "brewpub",
+    "street": "1634 E Hwy 66",
+    "city": "Grants",
+    "state": "New Mexico",
+    "postal_code": "87020",
+    "website_url": "http://www.facebook.com/Route66JunkyardBrewery/",
+    "phone": "5052855000",
+    "created_at": "2018-07-24 01:33:48.54088",
+    "updated_at": "2018-08-11 21:38:27.98041",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

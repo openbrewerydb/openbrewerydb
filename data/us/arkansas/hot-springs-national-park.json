@@ -1,0 +1,36 @@
+[
+  {
+    "id": "core-brewing-hot-springs",
+    "name": "Core Brewing - Hot Springs",
+    "brewery_type": "brewpub",
+    "street": "833 Central Ave",
+    "city": "Hot Springs National Park",
+    "state": "Arkansas",
+    "postal_code": "71901",
+    "website_url": "",
+    "phone": "4793068898",
+    "created_at": "2018-07-24 01:32:50.435378",
+    "updated_at": "2018-08-11 21:35:51.428863",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "superior-bathhouse-brewery",
+    "name": "Superior Bathhouse Brewery",
+    "brewery_type": "brewpub",
+    "street": "329 Central Ave",
+    "city": "Hot Springs National Park",
+    "state": "Arkansas",
+    "postal_code": "71901-3525",
+    "website_url": "http://www.superiorbathhouse.com",
+    "phone": "5016242337",
+    "created_at": "2018-07-24 01:32:50.88326",
+    "updated_at": "2018-08-11 21:35:52.500612",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

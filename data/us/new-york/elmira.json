@@ -1,0 +1,19 @@
+[
+  {
+    "id": "upstate-brewing-co",
+    "name": "Upstate Brewing Co",
+    "brewery_type": "micro",
+    "street": "3028 Lake Rd",
+    "city": "Elmira",
+    "state": "New York",
+    "postal_code": "14903-1409",
+    "website_url": "http://www.upstatebrewing.com",
+    "phone": "6175198381",
+    "created_at": "2018-07-24 01:33:54.325718",
+    "updated_at": "2018-08-11 21:38:43.259767",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

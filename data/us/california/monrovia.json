@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hop-secret-brewing-co",
+    "name": "Hop Secret Brewing Co",
+    "brewery_type": "micro",
+    "street": "162 W Pomona Ave",
+    "city": "Monrovia",
+    "state": "California",
+    "postal_code": "91016-4558",
+    "website_url": "http://www.hopsecretbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:32:56.614397",
+    "updated_at": "2018-08-23 23:29:32.990266",
+    "country": "United States",
+    "longitude": "-118.001973040816",
+    "latitude": "34.134155",
+    "tags": []
+  },
+  {
+    "id": "trader-joes-west-coast-office",
+    "name": "Trader Joes - West Coast Office",
+    "brewery_type": "contract",
+    "street": "800 S. Shamrock Ave",
+    "city": "Monrovia",
+    "state": "California",
+    "postal_code": "91016",
+    "website_url": "",
+    "phone": "6265993700",
+    "created_at": "2018-07-24 01:33:02.521108",
+    "updated_at": "2018-08-11 21:36:26.055016",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "pacific-plate-brewing-co",
+    "name": "Pacific Plate Brewing Co",
+    "brewery_type": "micro",
+    "street": "1999 S Myrtle Ave",
+    "city": "Monrovia",
+    "state": "California",
+    "postal_code": "91016-4854",
+    "website_url": "http://www.pacificplatebrewing.com",
+    "phone": "6262398456",
+    "created_at": "2018-07-24 01:32:59.255896",
+    "updated_at": "2018-08-24 00:00:40.6332",
+    "country": "United States",
+    "longitude": "-118.0010497",
+    "latitude": "34.1492456",
+    "tags": []
+  }
+]

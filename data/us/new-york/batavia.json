@@ -1,0 +1,19 @@
+[
+  {
+    "id": "eli-fish-brewing-company",
+    "name": "Eli Fish Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "109 Main St",
+    "city": "Batavia",
+    "state": "New York",
+    "postal_code": "14020-2110",
+    "website_url": "http://www.elifishbrewing.com",
+    "phone": "5858150401",
+    "created_at": "2018-07-24 01:33:50.677461",
+    "updated_at": "2018-08-24 15:38:46.811586",
+    "country": "United States",
+    "longitude": "-78.1821989795918",
+    "latitude": "42.9973274693878",
+    "tags": []
+  }
+]

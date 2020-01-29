@@ -1,0 +1,53 @@
+[
+  {
+    "id": "atom-brewing-company",
+    "name": "Atom Brewing Company",
+    "brewery_type": "micro",
+    "street": "654 Moffat St",
+    "city": "Erie",
+    "state": "Colorado",
+    "postal_code": "80516",
+    "website_url": "http://www.atombrewingcompany.com",
+    "phone": "8634120917",
+    "created_at": "2018-07-24 01:33:03.526786",
+    "updated_at": "2018-08-24 00:05:29.675968",
+    "country": "United States",
+    "longitude": "-105.054232695768",
+    "latitude": "40.0488359023256",
+    "tags": []
+  },
+  {
+    "id": "echo-brewing-cask-and-barrel",
+    "name": "Echo Brewing Cask and Barrel",
+    "brewery_type": "brewpub",
+    "street": "600 Briggs St",
+    "city": "Erie",
+    "state": "Colorado",
+    "postal_code": "80516-0794",
+    "website_url": "",
+    "phone": "7203612332",
+    "created_at": "2018-07-24 01:33:05.214033",
+    "updated_at": "2018-08-24 00:22:55.384898",
+    "country": "United States",
+    "longitude": "-105.047767891486",
+    "latitude": "40.05042825",
+    "tags": []
+  },
+  {
+    "id": "industrial-revolution-brewing-company",
+    "name": "Industrial Revolution Brewing Company",
+    "brewery_type": "micro",
+    "street": "285 Cheesman St",
+    "city": "Erie",
+    "state": "Colorado",
+    "postal_code": "80516-8464",
+    "website_url": "",
+    "phone": "3038281200",
+    "created_at": "2018-07-24 01:33:05.980006",
+    "updated_at": "2018-08-24 00:23:26.828864",
+    "country": "United States",
+    "longitude": "-105.047755571429",
+    "latitude": "40.0516152857143",
+    "tags": []
+  }
+]

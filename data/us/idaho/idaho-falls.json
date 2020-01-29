@@ -1,0 +1,36 @@
+[
+  {
+    "id": "idaho-brewing-co",
+    "name": "Idaho Brewing Co",
+    "brewery_type": "micro",
+    "street": "775 S Capital Ave",
+    "city": "Idaho Falls",
+    "state": "Idaho",
+    "postal_code": "83402-3965",
+    "website_url": "http://www.idahobrewing.com",
+    "phone": "2085897233",
+    "created_at": "2018-07-24 01:33:17.322357",
+    "updated_at": "2018-08-24 00:30:02.135112",
+    "country": "United States",
+    "longitude": "-112.045984509756",
+    "latitude": "43.4872400878334",
+    "tags": []
+  },
+  {
+    "id": "snow-eagle-brewing",
+    "name": "Snow Eagle Brewing",
+    "brewery_type": "brewpub",
+    "street": "455 River Pkwy",
+    "city": "Idaho Falls",
+    "state": "Idaho",
+    "postal_code": "83402-3314",
+    "website_url": "http://www.snoweaglebrewing.com",
+    "phone": "2085570455",
+    "created_at": "2018-07-24 01:33:17.667621",
+    "updated_at": "2018-08-24 00:30:15.919345",
+    "country": "United States",
+    "longitude": "-112.0452184",
+    "latitude": "43.4950536",
+    "tags": []
+  }
+]

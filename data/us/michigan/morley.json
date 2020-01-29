@@ -1,0 +1,19 @@
+[
+  {
+    "id": "heavenly-vineyards",
+    "name": "Heavenly Vineyards",
+    "brewery_type": "micro",
+    "street": "15946 Jefferson Rd",
+    "city": "Morley",
+    "state": "Michigan",
+    "postal_code": "49336-9705",
+    "website_url": "http://heavenlyvineyards.weebly.com",
+    "phone": "6167102751",
+    "created_at": "2018-07-24 01:33:34.773316",
+    "updated_at": "2018-08-24 00:43:11.649692",
+    "country": "United States",
+    "longitude": "-85.463503",
+    "latitude": "43.489827",
+    "tags": []
+  }
+]

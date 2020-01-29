@@ -1,0 +1,53 @@
+[
+  {
+    "id": "final-draft-brewing-company",
+    "name": "Final Draft Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "1600 California St",
+    "city": "Redding",
+    "state": "California",
+    "postal_code": "96001-1001",
+    "website_url": "http://www.finaldraftbrewingcompany.com",
+    "phone": "3105693868",
+    "created_at": "2018-07-24 01:32:55.454948",
+    "updated_at": "2018-08-23 23:28:25.39555",
+    "country": "United States",
+    "longitude": "-122.3913371",
+    "latitude": "40.5820505",
+    "tags": []
+  },
+  {
+    "id": "wildcard-brewing-company",
+    "name": "Wildcard Brewing Company",
+    "brewery_type": "micro",
+    "street": "9565 Crossroads Dr",
+    "city": "Redding",
+    "state": "California",
+    "postal_code": "96003-6814",
+    "website_url": "http://www.wildcardbrewingco.com",
+    "phone": "5307229239",
+    "created_at": "2018-07-24 01:33:02.959747",
+    "updated_at": "2018-08-24 00:04:56.381814",
+    "country": "United States",
+    "longitude": "-122.298177",
+    "latitude": "40.562008",
+    "tags": []
+  },
+  {
+    "id": "woodys-brewery",
+    "name": "Woody's Brewery",
+    "brewery_type": "brewpub",
+    "street": "1257 Oregon St",
+    "city": "Redding",
+    "state": "California",
+    "postal_code": "96001-0414",
+    "website_url": "http://www.woodysbrewing.com",
+    "phone": "5307681034",
+    "created_at": "2018-07-24 01:33:03.068988",
+    "updated_at": "2018-08-24 00:05:03.984641",
+    "country": "United States",
+    "longitude": "-122.395336666667",
+    "latitude": "40.585948",
+    "tags": []
+  }
+]

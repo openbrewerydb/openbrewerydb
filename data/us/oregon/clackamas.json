@@ -1,0 +1,36 @@
+[
+  {
+    "id": "drinking-horse-brewing-company",
+    "name": "Drinking Horse Brewing Company",
+    "brewery_type": "micro",
+    "street": "11517 SE Highway 212",
+    "city": "Clackamas",
+    "state": "Oregon",
+    "postal_code": "97015-9053",
+    "website_url": "http://www.drinkinghorsebeer.com",
+    "phone": "5035648165",
+    "created_at": "2018-07-24 01:34:05.810211",
+    "updated_at": "2018-08-24 16:01:27.718838",
+    "country": "United States",
+    "longitude": "-122.378124",
+    "latitude": "45.4288733",
+    "tags": []
+  },
+  {
+    "id": "ram-restaurant-and-brewery-clackamas",
+    "name": "RAM Restaurant and Brewery - Clackamas",
+    "brewery_type": "brewpub",
+    "street": "9073 SE Sunnyside Rd",
+    "city": "Clackamas",
+    "state": "Oregon",
+    "postal_code": "97015-9759",
+    "website_url": "",
+    "phone": "5036591282",
+    "created_at": "2018-07-24 01:34:07.421824",
+    "updated_at": "2018-08-24 16:04:17.275272",
+    "country": "United States",
+    "longitude": "-122.57159941524",
+    "latitude": "45.43365785",
+    "tags": []
+  }
+]

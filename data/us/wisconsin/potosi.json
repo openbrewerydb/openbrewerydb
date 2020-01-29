@@ -1,0 +1,36 @@
+[
+  {
+    "id": "potosi-brewing-co",
+    "name": "Potosi Brewing Co",
+    "brewery_type": "micro",
+    "street": "209 S Main St",
+    "city": "Potosi",
+    "state": "Wisconsin",
+    "postal_code": "53820-9675",
+    "website_url": "http://www.potosibrewery.com",
+    "phone": "6087634002",
+    "created_at": "2018-07-24 01:34:36.268024",
+    "updated_at": "2018-08-24 16:44:52.809573",
+    "country": "United States",
+    "longitude": "-90.7248719244345",
+    "latitude": "42.6755069",
+    "tags": []
+  },
+  {
+    "id": "potosi-brewing-production-facility",
+    "name": "Potosi Brewing Production Facility",
+    "brewery_type": "micro",
+    "street": "215 S Main St",
+    "city": "Potosi",
+    "state": "Wisconsin",
+    "postal_code": "53820",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:36.280609",
+    "updated_at": "2018-08-24 16:44:54.492501",
+    "country": "United States",
+    "longitude": "-87.7836648",
+    "latitude": "42.7318273846154",
+    "tags": []
+  }
+]

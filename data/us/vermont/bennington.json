@@ -1,0 +1,36 @@
+[
+  {
+    "id": "madison-brewing-co-pub-and-restaurant",
+    "name": "Madison Brewing Co, Pub and Restaurant",
+    "brewery_type": "brewpub",
+    "street": "428 Main St",
+    "city": "Bennington",
+    "state": "Vermont",
+    "postal_code": "05201-2109",
+    "website_url": "http://www.madisonbrewingco.com",
+    "phone": "8024427397",
+    "created_at": "2018-07-24 01:34:23.511769",
+    "updated_at": "2018-08-24 16:26:10.271439",
+    "country": "United States",
+    "longitude": "-73.1963588",
+    "latitude": "42.8783819",
+    "tags": []
+  },
+  {
+    "id": "northshire-brewery-inc",
+    "name": "Northshire Brewery, Inc",
+    "brewery_type": "micro",
+    "street": "108 County St",
+    "city": "Bennington",
+    "state": "Vermont",
+    "postal_code": "05201-1807",
+    "website_url": "http://www.northshirebrewery.com",
+    "phone": "8026810201",
+    "created_at": "2018-07-24 01:34:23.577093",
+    "updated_at": "2018-08-24 16:26:17.856275",
+    "country": "United States",
+    "longitude": "-73.2005387655444",
+    "latitude": "42.8845716422375",
+    "tags": []
+  }
+]

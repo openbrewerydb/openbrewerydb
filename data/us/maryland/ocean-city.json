@@ -1,0 +1,36 @@
+[
+  {
+    "id": "backshore-brewing-co",
+    "name": "Backshore Brewing Co.",
+    "brewery_type": "brewpub",
+    "street": "913 Atlantic Ave",
+    "city": "Ocean City",
+    "state": "Maryland",
+    "postal_code": "21842-6689",
+    "website_url": "http://www.BackshoreBrew.com",
+    "phone": "4102890008",
+    "created_at": "2018-07-24 01:33:28.361849",
+    "updated_at": "2018-08-11 21:37:34.836405",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "ocean-city-brewing-company",
+    "name": "Ocean City Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "5509 Coastal Hwy",
+    "city": "Ocean City",
+    "state": "Maryland",
+    "postal_code": "21842-3144",
+    "website_url": "http://www.ocbrewingcompany.com",
+    "phone": "4436646842",
+    "created_at": "2018-07-24 01:33:29.414683",
+    "updated_at": "2018-08-24 00:40:41.102112",
+    "country": "United States",
+    "longitude": "-75.0683876080806",
+    "latitude": "38.3796575943299",
+    "tags": []
+  }
+]

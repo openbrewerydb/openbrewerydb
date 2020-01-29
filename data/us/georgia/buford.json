@@ -1,0 +1,36 @@
+[
+  {
+    "id": "brewery-in-planning-buford",
+    "name": "Brewery in Planning - Buford",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Buford",
+    "state": "Georgia",
+    "postal_code": "30515-0568",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:15.444806",
+    "updated_at": "2018-08-11 21:37:01.091561",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "the-split-batch-brewery",
+    "name": "The Split Batch Brewery",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Buford",
+    "state": "Georgia",
+    "postal_code": "30519-2236",
+    "website_url": "http://www.splitbatchbrewery.com",
+    "phone": "4049834303",
+    "created_at": "2018-07-24 01:33:16.538883",
+    "updated_at": "2018-08-11 21:37:03.951611",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

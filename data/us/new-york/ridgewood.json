@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bridge-and-tunnel-brewery",
+    "name": "Bridge And Tunnel Brewery",
+    "brewery_type": "micro",
+    "street": "15-35 Decatur St",
+    "city": "Ridgewood",
+    "state": "New York",
+    "postal_code": "11385-5818",
+    "website_url": "http://www.bridgeandtunnelbrewery.com",
+    "phone": "3473928593",
+    "created_at": "2018-07-24 01:33:49.880017",
+    "updated_at": "2018-08-24 15:38:18.841255",
+    "country": "United States",
+    "longitude": "-73.9017521",
+    "latitude": "40.6943348",
+    "tags": []
+  },
+  {
+    "id": "queens-brewery",
+    "name": "Queens Brewery",
+    "brewery_type": "proprietor",
+    "street": "1539 Covert St",
+    "city": "Ridgewood",
+    "state": "New York",
+    "postal_code": "11385-5356",
+    "website_url": "http://www.queensbrewery.com",
+    "phone": "6462652049",
+    "created_at": "2018-07-24 01:33:52.906969",
+    "updated_at": "2018-08-24 15:39:57.754937",
+    "country": "United States",
+    "longitude": "-73.9042850786782",
+    "latitude": "40.6949116",
+    "tags": []
+  }
+]

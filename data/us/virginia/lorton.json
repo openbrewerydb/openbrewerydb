@@ -1,0 +1,53 @@
+[
+  {
+    "id": "fair-winds-brewing-company",
+    "name": "Fair Winds Brewing Company",
+    "brewery_type": "micro",
+    "street": "7000 Newington Rd Ste K& # L",
+    "city": "Lorton",
+    "state": "Virginia",
+    "postal_code": "22079-1133",
+    "website_url": "http://www.fairwindsbrewing.com",
+    "phone": "7033722001",
+    "created_at": "2018-07-24 01:34:25.229261",
+    "updated_at": "2018-08-11 21:40:05.073237",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "forge-brew-works",
+    "name": "Forge Brew Works",
+    "brewery_type": "brewpub",
+    "street": "8532 Terminal Rd Ste M",
+    "city": "Lorton",
+    "state": "Virginia",
+    "postal_code": "22079-1428",
+    "website_url": "http://www.forgebrewworks.com",
+    "phone": "7033722979",
+    "created_at": "2018-07-24 01:34:25.326148",
+    "updated_at": "2018-08-11 21:40:05.22837",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "guanacaste-brewing-llc",
+    "name": "Guanacaste Brewing LLC",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Lorton",
+    "state": "Virginia",
+    "postal_code": "22079",
+    "website_url": "http://www.guanacastebrewingllc.com",
+    "phone": "7038537687",
+    "created_at": "2018-07-24 01:34:25.531576",
+    "updated_at": "2018-08-11 21:40:05.634438",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

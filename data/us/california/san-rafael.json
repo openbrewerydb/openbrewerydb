@@ -1,0 +1,19 @@
+[
+  {
+    "id": "state-room-brewery",
+    "name": "State Room Brewery",
+    "brewery_type": "brewpub",
+    "street": "1132 4th St",
+    "city": "San Rafael",
+    "state": "California",
+    "postal_code": "94901-3007",
+    "website_url": "http://stateroombrewery.com",
+    "phone": "4152957929",
+    "created_at": "2018-07-24 01:33:01.342113",
+    "updated_at": "2018-08-24 00:03:05.588681",
+    "country": "United States",
+    "longitude": "-122.52865849686",
+    "latitude": "37.9732744779465",
+    "tags": []
+  }
+]

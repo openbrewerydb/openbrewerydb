@@ -1,0 +1,19 @@
+[
+  {
+    "id": "beales",
+    "name": "Beale's",
+    "brewery_type": "brewpub",
+    "street": "510 Grove St",
+    "city": "Bedford",
+    "state": "Virginia",
+    "postal_code": "24523",
+    "website_url": "http://www.bealesbeer.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:24.336281",
+    "updated_at": "2018-08-24 16:27:23.383103",
+    "country": "United States",
+    "longitude": "-79.51785",
+    "latitude": "37.33585",
+    "tags": []
+  }
+]

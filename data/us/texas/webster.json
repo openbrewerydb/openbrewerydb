@@ -1,0 +1,19 @@
+[
+  {
+    "id": "saloon-door-brewing-co",
+    "name": "Saloon Door Brewing Co",
+    "brewery_type": "brewpub",
+    "street": "105 Magellan Cir Ste A",
+    "city": "Webster",
+    "state": "Texas",
+    "postal_code": "77598-2033",
+    "website_url": "http://www.saloondoorbrewing.com",
+    "phone": "4099393992",
+    "created_at": "2018-07-24 01:34:21.089412",
+    "updated_at": "2018-08-11 21:39:53.951063",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cross-keys-brewing-co",
+    "name": "Cross Keys Brewing Co",
+    "brewery_type": "micro",
+    "street": "1038 N Main St",
+    "city": "Williamstown",
+    "state": "New Jersey",
+    "postal_code": "08094-3161",
+    "website_url": "http://www.ckbcbeer.com",
+    "phone": "8569066481",
+    "created_at": "2018-07-24 01:33:46.528656",
+    "updated_at": "2018-08-24 15:36:40.227351",
+    "country": "United States",
+    "longitude": "-75.0079984048307",
+    "latitude": "39.6962724645366",
+    "tags": []
+  }
+]

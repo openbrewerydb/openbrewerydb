@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mayhew-junction-brewing-company",
+    "name": "Mayhew Junction Brewing Company",
+    "brewery_type": "micro",
+    "street": "106 Eckford Dr",
+    "city": "Starkville",
+    "state": "Mississippi",
+    "postal_code": "39759-3710",
+    "website_url": "http://www.mayhewjunction.com",
+    "phone": "6625460510",
+    "created_at": "2018-07-24 01:33:40.260521",
+    "updated_at": "2018-08-11 21:38:06.14732",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

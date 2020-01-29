@@ -1,0 +1,19 @@
+[
+  {
+    "id": "3rd-rock-brewing-company",
+    "name": "3rd Rock Brewing Company",
+    "brewery_type": "micro",
+    "street": "134 Industrial Park Dr",
+    "city": "Trenton",
+    "state": "North Carolina",
+    "postal_code": "28585-9593",
+    "website_url": "http://www.3rockbrew.com",
+    "phone": "2526319213",
+    "created_at": "2018-07-24 01:33:54.829277",
+    "updated_at": "2018-08-24 15:40:58.306771",
+    "country": "United States",
+    "longitude": "-77.3674928534173",
+    "latitude": "35.0693987667722",
+    "tags": []
+  }
+]

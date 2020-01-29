@@ -1,0 +1,19 @@
+[
+  {
+    "id": "apocalypse-ale-works",
+    "name": "Apocalypse Ale Works",
+    "brewery_type": "micro",
+    "street": "1257 Burnbridge Rd",
+    "city": "Forest",
+    "state": "Virginia",
+    "postal_code": "24551-3803",
+    "website_url": "http://www.apocalypsebrewworks.com",
+    "phone": "4342588761",
+    "created_at": "2018-07-24 01:34:24.03538",
+    "updated_at": "2018-08-24 16:27:00.94075",
+    "country": "United States",
+    "longitude": "-79.2891789878175",
+    "latitude": "37.3630212377705",
+    "tags": []
+  }
+]

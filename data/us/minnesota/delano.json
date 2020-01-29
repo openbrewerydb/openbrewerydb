@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lupine-brewing-co",
+    "name": "LuPine Brewing Co",
+    "brewery_type": "micro",
+    "street": "248 River St N",
+    "city": "Delano",
+    "state": "Minnesota",
+    "postal_code": "55328-8264",
+    "website_url": "http://www.lupinebrewing.com",
+    "phone": "7633331033",
+    "created_at": "2018-07-24 01:33:39.122122",
+    "updated_at": "2018-08-11 21:38:03.560782",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

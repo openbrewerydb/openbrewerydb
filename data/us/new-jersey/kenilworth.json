@@ -1,0 +1,19 @@
+[
+  {
+    "id": "two-ton-brewing",
+    "name": "Two Ton Brewing",
+    "brewery_type": "micro",
+    "street": "730 Federal Ave",
+    "city": "Kenilworth",
+    "state": "New Jersey",
+    "postal_code": "07033",
+    "website_url": "http://www.twotonbrewing.com",
+    "phone": "",
+    "created_at": "2018-07-24 01:33:47.558955",
+    "updated_at": "2018-08-24 15:37:12.346514",
+    "country": "United States",
+    "longitude": "-74.2866399183673",
+    "latitude": "40.6787182244898",
+    "tags": []
+  }
+]

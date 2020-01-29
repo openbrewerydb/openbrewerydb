@@ -1,0 +1,36 @@
+[
+  {
+    "id": "gentile-brewing-company",
+    "name": "Gentile Brewing Company",
+    "brewery_type": "micro",
+    "street": "59 Park St # 1",
+    "city": "Beverly",
+    "state": "Massachusetts",
+    "postal_code": "01915-4253",
+    "website_url": "http://www.gentilebrewing.com",
+    "phone": "9789696496",
+    "created_at": "2018-07-24 01:33:31.021788",
+    "updated_at": "2018-08-11 21:37:41.134639",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "old-planters-brewing-co",
+    "name": "Old Planters Brewing Co.",
+    "brewery_type": "micro",
+    "street": "100 Corning St",
+    "city": "Beverly",
+    "state": "Massachusetts",
+    "postal_code": "01915-3837",
+    "website_url": "http://www.oldplanters.com",
+    "phone": "9785226446",
+    "created_at": "2018-07-24 01:33:31.673601",
+    "updated_at": "2018-08-24 00:41:38.541192",
+    "country": "United States",
+    "longitude": "-70.8628713936456",
+    "latitude": "42.554996452917",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "flying-tiger-brewery",
+    "name": "Flying Tiger Brewery",
+    "brewery_type": "micro",
+    "street": "506 N 2nd St",
+    "city": "Monroe",
+    "state": "Louisiana",
+    "postal_code": "71201-6234",
+    "website_url": "http://www.flyingtigerbeer.com",
+    "phone": "3185471738",
+    "created_at": "2018-07-24 01:33:26.282319",
+    "updated_at": "2018-08-24 00:39:15.00251",
+    "country": "United States",
+    "longitude": "-92.1197066231833",
+    "latitude": "32.5058647478199",
+    "tags": []
+  }
+]

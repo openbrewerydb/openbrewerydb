@@ -1,0 +1,19 @@
+[
+  {
+    "id": "montauk-brewing-co",
+    "name": "Montauk Brewing Co",
+    "brewery_type": "micro",
+    "street": "62 S Erie Ave",
+    "city": "Montauk",
+    "state": "New York",
+    "postal_code": "11954-5370",
+    "website_url": "http://www.montaukbrewingco.com",
+    "phone": "6316688471",
+    "created_at": "2018-07-24 01:33:52.477337",
+    "updated_at": "2018-08-24 15:39:45.222929",
+    "country": "United States",
+    "longitude": "-71.9440878",
+    "latitude": "41.0366959",
+    "tags": []
+  }
+]

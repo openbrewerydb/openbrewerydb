@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lazy-magnolia-brewing-co-llc",
+    "name": "Lazy Magnolia Brewing Co, LLC",
+    "brewery_type": "micro",
+    "street": "7030 Roscoe Turner Rd",
+    "city": "Kiln",
+    "state": "Mississippi",
+    "postal_code": "39556-8000",
+    "website_url": "http://www.lazymagnolia.com",
+    "phone": "2284672727",
+    "created_at": "2018-07-24 01:33:40.234968",
+    "updated_at": "2018-08-24 00:46:05.012863",
+    "country": "United States",
+    "longitude": "-89.4494876938776",
+    "latitude": "30.376901755102",
+    "tags": []
+  }
+]

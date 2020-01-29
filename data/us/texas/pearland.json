@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bakfish-brewing-company",
+    "name": "BAKFISH Brewing Company",
+    "brewery_type": "micro",
+    "street": "1231 Broadway St",
+    "city": "Pearland",
+    "state": "Texas",
+    "postal_code": "77581-6303",
+    "website_url": "http://www.bakfishbrewing.com",
+    "phone": "2819938658",
+    "created_at": "2018-07-24 01:34:17.733379",
+    "updated_at": "2018-08-24 16:18:52.241189",
+    "country": "United States",
+    "longitude": "-95.4174149",
+    "latitude": "29.5551351",
+    "tags": []
+  },
+  {
+    "id": "three-empires-brewing-company-llc",
+    "name": "Three Empires Brewing Company, LLC",
+    "brewery_type": "planning",
+    "street": "",
+    "city": "Pearland",
+    "state": "Texas",
+    "postal_code": "77584",
+    "website_url": "",
+    "phone": "",
+    "created_at": "2018-07-24 01:34:21.83084",
+    "updated_at": "2018-08-11 21:39:55.873827",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  },
+  {
+    "id": "vallensons-brewing-co",
+    "name": "Vallensons Brewing Co.",
+    "brewery_type": "micro",
+    "street": "4081 Rice Drier Road",
+    "city": "Pearland",
+    "state": "Texas",
+    "postal_code": "77581",
+    "website_url": "http://www.vallensons.com",
+    "phone": "2817054063",
+    "created_at": "2018-07-24 01:34:22.130453",
+    "updated_at": "2018-08-24 16:24:18.296476",
+    "country": "United States",
+    "longitude": "-95.28716205",
+    "latitude": "29.57569295",
+    "tags": []
+  }
+]

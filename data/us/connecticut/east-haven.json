@@ -1,0 +1,36 @@
+[
+  {
+    "id": "armada-brewing",
+    "name": "Armada Brewing",
+    "brewery_type": "contract",
+    "street": "250 Bradley Street",
+    "city": "East Haven",
+    "state": "Connecticut",
+    "postal_code": "06512",
+    "website_url": "http://www.armadabeer.com",
+    "phone": "4754413759",
+    "created_at": "2018-07-24 01:33:09.032401",
+    "updated_at": "2018-08-24 00:25:21.160808",
+    "country": "United States",
+    "longitude": "-72.8739756331215",
+    "latitude": "41.2900430077911",
+    "tags": []
+  },
+  {
+    "id": "overshores-brewing-co",
+    "name": "Overshores Brewing Co",
+    "brewery_type": "micro",
+    "street": "250 Bradley St",
+    "city": "East Haven",
+    "state": "Connecticut",
+    "postal_code": "06512-",
+    "website_url": "http://www.overshores.com",
+    "phone": "2039096224",
+    "created_at": "2018-07-24 01:33:09.97642",
+    "updated_at": "2018-08-24 00:25:47.511908",
+    "country": "United States",
+    "longitude": "-72.8739756331215",
+    "latitude": "41.2900430077911",
+    "tags": []
+  }
+]

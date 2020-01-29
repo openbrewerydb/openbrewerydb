@@ -1,0 +1,19 @@
+[
+  {
+    "id": "jack-masons-tavern-and-brewery",
+    "name": "Jack Mason's Tavern and Brewery",
+    "brewery_type": "brewpub",
+    "street": "400 E Ridgeway St",
+    "city": "Clifton Forge",
+    "state": "Virginia",
+    "postal_code": "24422-1327",
+    "website_url": "http://www.jackmasonstavern.com",
+    "phone": "5408625624",
+    "created_at": "2018-07-24 01:34:25.749615",
+    "updated_at": "2018-08-24 16:29:13.299759",
+    "country": "United States",
+    "longitude": "-79.8274621767694",
+    "latitude": "37.8150547905795",
+    "tags": []
+  }
+]

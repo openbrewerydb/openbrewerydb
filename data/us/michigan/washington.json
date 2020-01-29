@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brown-iron-brewhouse",
+    "name": "Brown Iron Brewhouse",
+    "brewery_type": "brewpub",
+    "street": "57695 Van Dyke Rd",
+    "city": "Washington",
+    "state": "Michigan",
+    "postal_code": "48094-2879",
+    "website_url": "http://www.browniron.com",
+    "phone": "586697330",
+    "created_at": "2018-07-24 01:33:33.557718",
+    "updated_at": "2018-08-24 00:42:31.547997",
+    "country": "United States",
+    "longitude": "-83.0357852068965",
+    "latitude": "42.7192993103448",
+    "tags": []
+  }
+]

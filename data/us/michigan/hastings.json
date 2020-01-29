@@ -1,0 +1,36 @@
+[
+  {
+    "id": "walldorff-brewpub-and-bistro",
+    "name": "Walldorff Brewpub & Bistro",
+    "brewery_type": "brewpub",
+    "street": "105 E State St",
+    "city": "Hastings",
+    "state": "Michigan",
+    "postal_code": "49058-1808",
+    "website_url": "http://www.walldorffbrewpub.com",
+    "phone": "2699454400",
+    "created_at": "2018-07-24 01:33:37.428416",
+    "updated_at": "2018-08-24 00:44:38.94581",
+    "country": "United States",
+    "longitude": "-85.284584",
+    "latitude": "42.6487487",
+    "tags": []
+  },
+  {
+    "id": "glass-creek-winery",
+    "name": "Glass Creek Winery",
+    "brewery_type": "micro",
+    "street": "450 N Whitmore Rd",
+    "city": "Hastings",
+    "state": "Michigan",
+    "postal_code": "49058-9791",
+    "website_url": "http://www.glasscreekwinery.com",
+    "phone": "2699482752",
+    "created_at": "2018-07-24 01:33:34.43125",
+    "updated_at": "2018-08-11 21:37:49.437757",
+    "country": "United States",
+    "longitude": "",
+    "latitude": "",
+    "tags": []
+  }
+]

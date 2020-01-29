@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mark-twain-brewing-company",
+    "name": "Mark Twain Brewing Company",
+    "brewery_type": "brewpub",
+    "street": "422 N Main St",
+    "city": "Hannibal",
+    "state": "Missouri",
+    "postal_code": "63401-3324",
+    "website_url": "http://www.marktwainbrewery.com",
+    "phone": "5734061300",
+    "created_at": "2018-07-24 01:33:41.307245",
+    "updated_at": "2018-08-24 00:46:35.251206",
+    "country": "United States",
+    "longitude": "-91.3574422522266",
+    "latitude": "39.71293685",
+    "tags": []
+  }
+]
