@@ -4,7 +4,7 @@ This is the Open Brewery DB data set. It is a work in progress, but please feel 
 
 ## Why
 
-Provide a way for the community to provide updates to [Open Brewery DB](https://www.openbrewerydb.org/).
+Provide a way for the community to suggest updates to [Open Brewery DB](https://www.openbrewerydb.org/).
 
 ## Roadmap
 
