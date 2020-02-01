@@ -17,21 +17,20 @@
     "tags": []
   },
   {
-    "id": "brewery-in-planning-san-diego",
-    "name": "Brewery in Planning - San Diego",
-    "brewery_type": "planning",
-    "street": "",
+    "name": "Gravity Heights",
+    "brewery_type": "micro",
+    "street": "9920 Pacific Heights Blvd",
     "city": "San Diego",
     "state": "California",
-    "postal_code": "92121-4396",
+    "postal_code": "92121",
     "website_url": "http://WWW.gravityheights.com",
-    "phone": "8588882188",
+    "phone": "+1 858 283 8206",
     "created_at": "2018-07-24 01:32:53.189216",
-    "updated_at": "2018-08-23 23:26:06.455378",
+    "updated_at": "2020-01-31",
     "country": "United States",
-    "longitude": "-117.1627714",
-    "latitude": "32.7174209",
-    "tags": []
+    "longitude": "-117.190850",
+    "latitude": "32.900160",
+    "tags": ["dogs", "patio", "brewpub", "kid-friendly"]
   },
   {
     "id": "eppig-brewing",
