@@ -8,14 +8,14 @@ Provide a way for the community to provide updates to [Open Brewery DB](https://
 
 ## Roadmap
 
-- [x] Release data set
-- [x] Import JSON (i.e., /breweries.json ➡️ /data)
-- [x] Export JSON (i.e., /data ➡️ /breweries.json)
-- [ ] Import CSV (i.e., /breweries.csv ➡️ /data)
-- [ ] Export CSV (i.e., /data ➡️ /breweries.csv)
-- [ ] Github Action > Validate Data
-- [ ] Github Action > Update Open Brewery DB API
-- [ ] Unit Tests
+- [x] 📤 Release data set
+- [x] ✅ Task > Import JSON (i.e., /breweries.json ➡️ /data)
+- [x] ✅ Task > Export JSON (i.e., /data ➡️ /breweries.json)
+- [ ] ✅ Task > Import CSV (i.e., /breweries.csv ➡️ /data)
+- [ ] ✅ Task > Export CSV (i.e., /data ➡️ /breweries.csv)
+- [ ] ⚙️ Github Action > Validate Data
+- [ ] ⚙️ Github Action > Update Open Brewery DB API
+- [ ] 🤖 Unit Tests > Tasks
 
 ## How to contribute
 
@@ -32,9 +32,9 @@ You can create a pull request via:
 
 ### 2. Validation
 
-The auto-validation process is a work in progress. 
+The validation process is a work in progress.
 
-TODO: Issue
+TODO: Create issues
 
 ### 3. Peer Review
 
