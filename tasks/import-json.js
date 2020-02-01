@@ -1,4 +1,4 @@
-// Split breweries.json into multiple files by state
+// Import /breweries.json into /data
 
 import {
   readFile, existsSync, mkdirSync, writeFileSync, readFileSync,
@@ -6,13 +6,13 @@ import {
 import jsonFormat from 'json-format';
 import slugify from 'slugify';
 import { join } from 'path';
-import STATES from './states';
+import STATES from './utils/states';
 
-const filePath = join(__dirname, '../data/breweries.json');
+const importFilePath = join(__dirname, '../breweries.json');
 const storePath = join(__dirname, '../data/us');
 const slugifyOptions = { remove: /[*+~.,()'"!:@]/g };
 
-readFile(filePath, { encoding: 'utf-8' }, (err, data) => {
+readFile(importFilePath, { encoding: 'utf-8' }, (err, data) => {
   if (!err) {
     const breweries = JSON.parse(data);
     let errors = 0;
@@ -53,11 +53,9 @@ readFile(filePath, { encoding: 'utf-8' }, (err, data) => {
       const updatedBrewery = brewery;
       updatedBrewery.tags = [];
 
-      // Replace ID with brewery slug
-      updatedBrewery.id = slugify(updatedBrewery.name.toLowerCase(), slugifyOptions);
-
-      // Remove updated_at since this will be automatica
+      // Remove updated_at and id since this will be automated
       delete updatedBrewery.updated_at;
+      delete updatedBrewery.id;
 
       // Append current brewery
       cityBreweries.push(updatedBrewery);

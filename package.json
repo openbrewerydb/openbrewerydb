@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
-    "split-json": "npx babel-node ./src/split-json",
-    "csvtojson": "./node_modules/.bin/csvtojson ./data/breweries.csv > ./data/breweries.json"
+    "import:json": "npx babel-node ./tasks/import-json",
+    "csvtojson": "./node_modules/.bin/csvtojson ./breweries.csv > ./breweries.json"
   },
   "repository": {
     "type": "git",
