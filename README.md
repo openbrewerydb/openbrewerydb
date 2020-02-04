@@ -30,17 +30,17 @@ You can create a pull request via:
 - [Edit file](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository) & [create pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 - [Create a pull request from a fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
 
-### 2. Validation
+### 2. Validation (WIP)
 
 The validation process is a work in progress.
 
-TODO: Create issues
+See issues: #2, #3
 
 ### 3. Peer Review
 
-If everything is green, me or a moderator will review the data for validity.
+If everything is green, me or a moderator will manually review the data for validity.
 
-TODO: Get moderators (want to be a moderator? [email me](mailto:chris@openbrewerydb.org)!
+TODO: Get moderators. Want to be a moderator? [email me](mailto:chris@openbrewerydb.org)!
 
 ### 4. Merge
 
