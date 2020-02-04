@@ -44,11 +44,11 @@ You can create a pull request via:
 - Data (validate CSV via [goodtables](https://goodtables.io/))
 - Duplicates (TBD)
 
-See issues: #2, #3
+NOTE: This is a work in progress. See issues: [#2](https://github.com/openbrewerydb/openbrewerydb/issues/2), [#3](https://github.com/openbrewerydb/openbrewerydb/issues/3)
 
 ### 3. Peer Review
 
-If everything is green, me or a moderator will manually review the data for validity.
+If everything is green, a moderator or I will manually review the data for validity.
 
 TODO: Get moderators. Want to be a moderator? [email me](mailto:chris@openbrewerydb.org)!
 
