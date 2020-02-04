@@ -41,7 +41,8 @@ You can create a pull request via:
 ### 2. Validation
 
 - ESlint (validate JavaScript and JSON)
-- Data (validate CSV via [goodtables](https://goodtables.io/)
+- Data (validate CSV via [goodtables](https://goodtables.io/))
+- Duplicates (TBD)
 
 See issues: #2, #3
 
