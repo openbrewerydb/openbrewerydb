@@ -270,5 +270,22 @@
     "longitude": "-77.0052971",
     "latitude": "38.8766834",
     "tags": []
+  },
+  {
+    "id": "supreme-core-cider",
+    "name": "Supreme Core Cider",
+    "brewery_type": "micro",
+    "street": "2400 T St SE",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "postal_code": "20002",
+    "website_url": "https://supremecorecider.com/",
+    "phone": "2022155029",
+    "created_at": "2020-02-14",
+    "updated_at": "2020-02-14",
+    "country": "United States",
+    "longitude": "-77.025991",
+    "latitude": "38.9099469",
+    "tags": []
   }
 ]
