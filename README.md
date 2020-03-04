@@ -1,18 +1,17 @@
-# Open Brewery DB
+# Open Brewery DB Dataset
 
-This is the Open Brewery DB data set for [Open Brewery DB](https://www.openbrewerydb.org/).
+This is the entire dataset for [Open Brewery DB](https://www.openbrewerydb.org/).
 
-It is a work in progress, but please feel free to start contributing!
+The intended purpose is to provide an approval-based pipeline to update the dataset and API.
+
+The pipeline is a work in progress, but please feel free to start contributing!
 
 Thank you!
 
-## The data set
+## Datasets
 
+[CSV](/breweries.csv)
 [JSON](/breweries.json)
-
-## Why
-
-Provide a way for the community to suggest updates to [Open Brewery DB](https://www.openbrewerydb.org/).
 
 ## Roadmap
 
@@ -27,10 +26,6 @@ Provide a way for the community to suggest updates to [Open Brewery DB](https://
 
 ## How to contribute
 
-Create a pull request for any additions, deletions, and/or updates.
-
-## The process
-
 ### 1. Create Pull Request
 
 You can create a pull request via:
@@ -38,7 +33,7 @@ You can create a pull request via:
 - [Edit file](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository) & [create pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 - [Create a pull request from a fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
 
-### 2. Validation
+### 2. Validation (WIP)
 
 - ESlint (validate JavaScript and JSON)
 - Data (validate CSV via [goodtables](https://goodtables.io/))
@@ -56,8 +51,8 @@ TODO: Get moderators. Want to be a moderator? [email me](mailto:chris@openbrewer
 
 Hooray! Once the peer reviewer approves, the pull request will be approved and the data will be merged into the master data set.
 
-TODO: Automate the update. In the meantime, this will happen manually. Thank you for your patience. 😊
+TODO: Automate the API database update pipeline. In the meantime, this will happen manually. Thank you for your patience. 😊
 
 ## Feedback
 
-Any feedback, please email me at chris@openbrewerydb.org. Thanks!
+Any feedback, please [email me](mailto:chris@openbrewerydb.org). Cheers! 🍻
