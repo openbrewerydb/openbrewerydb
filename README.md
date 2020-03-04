@@ -1,8 +1,8 @@
 # Open Brewery DB
 
-This is the Open Brewery DB data set for [Open Brewery DB](https://www.openbrewerydb.org/). 
+This is the Open Brewery DB data set for [Open Brewery DB](https://www.openbrewerydb.org/).
 
-It is a work in progress, but please feel free to start contributing! 
+It is a work in progress, but please feel free to start contributing!
 
 Thank you!
 
@@ -19,11 +19,11 @@ Provide a way for the community to suggest updates to [Open Brewery DB](https://
 - [x] 📤 Release data set
 - [x] ✅ Task > Import JSON (i.e., /breweries.json ➡️ /data)
 - [x] ✅ Task > Export JSON (i.e., /data ➡️ /breweries.json)
+- [x] ✅ Task > Export CSV (i.e., /data ➡️ /breweries.csv)
 - [ ] ✅ Task > Import CSV (i.e., /breweries.csv ➡️ /data)
-- [ ] ✅ Task > Export CSV (i.e., /data ➡️ /breweries.csv)
 - [ ] ⚙️ Github Action > Validate Data
-- [ ] ⚙️ Github Action > Update Open Brewery DB API
 - [ ] 🤖 Unit Tests > Tasks
+- [ ] ⚙️ Github Action > Update Open Brewery DB API
 
 ## How to contribute
 
