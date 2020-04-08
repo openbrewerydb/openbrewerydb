@@ -2,8 +2,8 @@
   {
     "id": "tantrum-brewing-company",
     "name": "Tantrum Brewing Company",
-    "brewery_type": "planning",
-    "street": "",
+    "brewery_type": "brewpub",
+    "street": "1939 Helen Hwy",
     "city": "Cleveland",
     "state": "Georgia",
     "postal_code": "30528-7804",
@@ -12,8 +12,8 @@
     "created_at": "2018-07-24 01:33:16.500633",
     "updated_at": "2018-08-11 21:37:03.858256",
     "country": "United States",
-    "longitude": "",
-    "latitude": "",
+    "longitude": "-83.756000",
+    "latitude": "34.629120",
     "tags": []
   }
 ]
