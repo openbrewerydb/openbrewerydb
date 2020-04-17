@@ -1,0 +1,19 @@
+[
+    {
+      "id": "reformation-brewery-smyrna",
+      "name": "Reformation Brewery (Smyrna)",
+      "brewery_type": "micro",
+      "street": "6255 Riverview Rd SE Bldg 4000 Suite 200",
+      "city": "Mableton",
+      "state": "Georgia",
+      "postal_code": "30126-3034",
+      "website_url": "http://www.reformationbrewery.com",
+      "phone": "6787167131",
+      "created_at": "2020-04-16 19:58:26.000000",
+      "updated_at": "2020-04-16 19:58:26.000000",
+      "country": "United States",
+      "longitude": "-84.50383175533018",
+      "latitude": "33.800123706679635",
+      "tags": []
+    }
+  ]

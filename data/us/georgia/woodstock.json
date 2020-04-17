@@ -3,17 +3,17 @@
     "id": "reformation-brewery",
     "name": "Reformation Brewery",
     "brewery_type": "micro",
-    "street": "500 Arnold Mill Way Ste A",
+    "street": "105 Elm St",
     "city": "Woodstock",
     "state": "Georgia",
-    "postal_code": "30188-6842",
+    "postal_code": "30188-4931",
     "website_url": "http://www.reformationbrewery.com",
     "phone": "6783410828",
     "created_at": "2018-07-24 01:33:16.269212",
-    "updated_at": "2018-08-11 21:37:03.297393",
+    "updated_at": "2020-04-16 19:58:26.000000",
     "country": "United States",
-    "longitude": "",
-    "latitude": "",
+    "longitude": "-84.5205274",
+    "latitude": "34.0999783",
     "tags": []
   }
 ]
