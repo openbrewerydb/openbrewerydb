@@ -1,0 +1,19 @@
+[
+    {
+      "id": "reformation-brewery-canton",
+      "name": "Reformation Brewery (Canton)",
+      "brewery_type": "micro",
+      "street": "225 Reformation Pkwy Suite 500",
+      "city": "Canton",
+      "state": "Georgia",
+      "postal_code": "30114-2798",
+      "website_url": "http://www.reformationbrewery.com",
+      "phone": "6783410828",
+      "created_at": "2020-04-16 19:58:26.000000",
+      "updated_at": "2020-04-16 19:58:26.000000",
+      "country": "United States",
+      "longitude": "-84.4953245",
+      "latitude": "34.2351928",
+      "tags": []
+    }
+  ]

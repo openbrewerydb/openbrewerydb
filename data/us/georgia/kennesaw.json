@@ -10,10 +10,10 @@
     "website_url": "http://www.DryCountyBrewCo.com",
     "phone": "4045799846",
     "created_at": "2018-07-24 01:33:15.630532",
-    "updated_at": "2018-08-11 21:37:01.550554",
+    "updated_at": "2020-04-16 19:58:26.000000",
     "country": "United States",
-    "longitude": "",
-    "latitude": "",
+    "longitude": "-84.53130519863443",
+    "latitude": "34.044482827049656",
     "tags": []
   },
   {
@@ -34,23 +34,6 @@
     "tags": []
   },
   {
-    "id": "southern-sky-brewing-co",
-    "name": "Southern Sky Brewing Co",
-    "brewery_type": "micro",
-    "street": "1590 N Roberts Rd NW Ste 208",
-    "city": "Kennesaw",
-    "state": "Georgia",
-    "postal_code": "30144-3636",
-    "website_url": "http://www.southernskybrewing.com",
-    "phone": "7707028318",
-    "created_at": "2018-07-24 01:33:16.438401",
-    "updated_at": "2018-08-11 21:37:03.735497",
-    "country": "United States",
-    "longitude": "",
-    "latitude": "",
-    "tags": []
-  },
-  {
     "id": "burnt-hickory-brewery",
     "name": "Burnt Hickory Brewery",
     "brewery_type": "micro",
@@ -61,10 +44,10 @@
     "website_url": "http://www.burnthickorybrewery.com",
     "phone": "7705148812",
     "created_at": "2018-07-24 01:33:15.529901",
-    "updated_at": "2018-08-11 21:37:01.299848",
+    "updated_at": "2020-04-16 19:58:26.000000",
     "country": "United States",
-    "longitude": "",
-    "latitude": "",
+    "longitude": "-84.6170986",
+    "latitude": "34.0335135",
     "tags": []
   }
 ]
