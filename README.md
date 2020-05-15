@@ -1,19 +1,21 @@
-# Open Brewery DB Dataset
+![Open Brewery DB Logo](OpenBreweryDBLogo.png)
 
-This is the entire dataset for [Open Brewery DB](https://www.openbrewerydb.org/).
+# 🍻 Open Brewery DB Dataset
 
-The intended purpose is to provide an approval-based pipeline to update the dataset and API.
+## Overview
 
-The pipeline is a work in progress, but please feel free to start contributing!
+This is the dataset for the [Open Brewery DB API](https://www.openbrewerydb.org/).
 
-Thank you!
+## Purpose
 
-## Datasets
+Provide an approval-based pipeline to update the dataset and API.
+
+## Data Formats
 
 [CSV](/breweries.csv)
 [JSON](/breweries.json)
 
-## Roadmap
+## Roadmap Progress
 
 - [x] 📤 Release data set
 - [x] ✅ Task > Import JSON (i.e., /breweries.json ➡️ /data)
@@ -22,15 +24,15 @@ Thank you!
 - [ ] ✅ Task > Import CSV (i.e., /breweries.csv ➡️ /data)
 - [ ] ⚙️ Github Action > Validate Data
 - [ ] 🤖 Unit Tests > Tasks
-- [ ] ⚙️ Github Action > Update Open Brewery DB API
+- [ ] ⚙️ Github Action > Update Open Brewery DB API [#12](https://github.com/openbrewerydb/openbrewerydb/issues/12)
 
-## How to contribute
+## Contributing
 
 ### 1. Create Pull Request
 
-You can create a pull request via:
+Create a pull request. There are two ways to do this:
 
-- [Edit file](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository) & [create pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+- [Edit file directly](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository) & [create pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 - [Create a pull request from a fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
 
 ### 2. Validation (WIP)
@@ -41,17 +43,9 @@ You can create a pull request via:
 
 NOTE: This is a work in progress. See issues: [#2](https://github.com/openbrewerydb/openbrewerydb/issues/2), [#3](https://github.com/openbrewerydb/openbrewerydb/issues/3)
 
-### 3. Peer Review
-
-If everything is green, a moderator or I will manually review the data for validity.
-
-TODO: Get moderators. Want to be a moderator? [email me](mailto:chris@openbrewerydb.org)!
-
 ### 4. Merge
 
-Hooray! Once the peer reviewer approves, the pull request will be approved and the data will be merged into the master data set.
-
-TODO: Automate the API database update pipeline. In the meantime, this will happen manually. Thank you for your patience. 😊
+Note: The automatic "update API on Github merge" pipeline is a work in progess. See Issue [#12](https://github.com/openbrewerydb/openbrewerydb/issues/12).
 
 ## Feedback
 
