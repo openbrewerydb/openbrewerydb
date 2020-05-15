@@ -2,7 +2,7 @@
 
 ## Welcome to the Open Brewery DB community
 
-Thank you for considering contributing to Open Brewery DB! It's fellow beer lovers like you that make Open Brewery DB such a great resource. 🍻
+Thank you for contributing to Open Brewery DB! It's fellow beer lovers like you that make Open Brewery DB such a great resource. 🍻
 
 ## Why the guidelines
 
@@ -10,7 +10,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ## What to contribute
 
-Open Brewery DB is a fully transparent, open source project and we love to receive contributions from our community — you! There are many ways to contribute, from suggesting brewery updates, writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into Open Brewery DB itself.
+Open Brewery DB is a fully transparent, open source project and we love to receive any contributions from our community — you! There are many ways to contribute, from suggesting brewery updates, writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into Open Brewery DB itself.
 
 ## Responsibilities
 
@@ -37,7 +37,7 @@ Connect your local repository to the original `upstream` repository by adding it
 Pull in changes from `upstream` often so that you stay up to date and so when you submit your pull request,
 merge conflicts will be less likely. See more detailed instructions [here][syncing-link].
 * Create a [branch][branch-link] for your edits.
-* Contribute in the style of the project (TODO: Create guidelines). This makes it easier for the collaborators to merge
+* Contribute in the style of the project. This makes it easier for the collaborators to merge
 and for others to understand and maintain in the future.
 * Please try to squash all commits together before opening a pull request, but it's not currently required. If your pull request requires changes upon review, and you're already in the habit, please squash all additional commits as well. [This wiki page][squash-link] outlines the squash process.
 
