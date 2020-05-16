@@ -2,51 +2,34 @@
 
 # 🍻 Open Brewery DB Dataset
 
-## Overview
+This is the dataset for the [Open Brewery DB API](https://www.openbrewerydb.org/) which is served by the [Open Brewery DB API](https://github.com/chrisjm/openbrewerydb-rails-api)
 
-This is the dataset for the [Open Brewery DB API](https://www.openbrewerydb.org/).
-
-## Purpose
+## 🎯 Purpose
 
 Provide an approval-based pipeline to update the dataset and API.
 
-## Data Formats
+## 🗄 Data Formats
 
-[CSV](/breweries.csv)
-[JSON](/breweries.json)
+* [CSV](breweries.csv)
+* [JSON](breweries.json)
 
-## Roadmap Progress
+## 🚛 Roadmap
 
-- [x] 📤 Release data set
-- [x] ✅ Task > Import JSON (i.e., /breweries.json ➡️ /data)
-- [x] ✅ Task > Export JSON (i.e., /data ➡️ /breweries.json)
-- [x] ✅ Task > Export CSV (i.e., /data ➡️ /breweries.csv)
-- [ ] ✅ Task > Import CSV (i.e., /breweries.csv ➡️ /data)
-- [ ] ⚙️ Github Action > Validate Data
-- [ ] 🤖 Unit Tests > Tasks
-- [ ] ⚙️ Github Action > Update Open Brewery DB API [#12](https://github.com/openbrewerydb/openbrewerydb/issues/12)
+| Task | Status |
+| --- | --- |
+| 📤 Release dataset in JSON and CSV | ✅ |
+| ⚙️ Task > Import JSON (i.e., /breweries.json ➡️ /data) | ✅ |
+| ⚙️ Task > Export JSON (i.e., /data ➡️ /breweries.json) | ✅ |
+| ⚙️ Task > Export CSV (i.e., /data ➡️ /breweries.csv)   | ✅ |
+| ⚙️ Task > Import CSV (i.e., /breweries.csv ➡️ /data) | ✘ |
+| ⚙️ Github Action > Validate Data | ✘ |
+| ⚙️ Github Action > Update Open Brewery DB API [#12](https://github.com/openbrewerydb/openbrewerydb/issues/12) | ✘ |
+| 🤖 Unit Tests > Tasks | ✘ |
 
-## Contributing
+## 🤝 Contributing
 
-### 1. Create Pull Request
+For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md) and our [code of conduct](CODE_OF_CONDUCT.md).
 
-Create a pull request. There are two ways to do this:
-
-- [Edit file directly](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository) & [create pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-- [Create a pull request from a fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
-
-### 2. Validation (WIP)
-
-- ESlint (validate JavaScript and JSON)
-- Data (validate CSV via [goodtables](https://goodtables.io/))
-- Duplicates (TBD)
-
-NOTE: This is a work in progress. See issues: [#2](https://github.com/openbrewerydb/openbrewerydb/issues/2), [#3](https://github.com/openbrewerydb/openbrewerydb/issues/3)
-
-### 4. Merge
-
-Note: The automatic "update API on Github merge" pipeline is a work in progess. See Issue [#12](https://github.com/openbrewerydb/openbrewerydb/issues/12).
-
-## Feedback
+## 📫 Feedback
 
 Any feedback, please [email me](mailto:chris@openbrewerydb.org). Cheers! 🍻
