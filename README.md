@@ -30,6 +30,13 @@ Provide an approval-based pipeline to update the dataset and API.
 
 For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md) and our [code of conduct](CODE_OF_CONDUCT.md).
 
+## 👾 Community
+
+* [Join the Newsletter](http://eepurl.com/dBjS0j)
+* [Join the Discord](https://discord.gg/SHtpdEN)
+
 ## 📫 Feedback
 
-Any feedback, please [email me](mailto:chris@openbrewerydb.org). Cheers! 🍻
+Any feedback, please [email me](mailto:chris@openbrewerydb.org). 
+
+Cheers! 🍻
