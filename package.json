@@ -1,7 +1,7 @@
 {
   "name": "openbrewerydb",
   "version": "0.0.1",
-  "description": "A free and open-source data set of breweries, cideries, brewpubs, and bottleshops.",
+  "description": "An open-source dataset of breweries, cideries, brewpubs, and bottleshops.",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
