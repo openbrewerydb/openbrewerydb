@@ -4,35 +4,23 @@ import {
   writeFileSync, readFileSync,
 } from 'fs';
 import { join } from 'path';
-import glob from 'glob';
+import Papa from 'papaparse';
 
-const fileGlob = join(__dirname, '../data/**/*.json');
-const filePath = join(__dirname, '../breweries.json');
+const csvFilePath = join(__dirname, '../breweries.csv');
+const jsonFilePath = join(__dirname, '../breweries.json');
 
-glob(fileGlob, {}, (globError, files) => {
-  const breweries = [];
+try {
+  const data = readFileSync(csvFilePath, { encoding: 'utf-8' });
+  const result = Papa.parse(data, { header: true });
+  const breweries = result.data;
 
-  if (!globError) {
-    files.forEach((file) => {
-      try {
-        const data = readFileSync(file, { encoding: 'utf-8' });
-        const cityBreweries = JSON.parse(data);
-        breweries.push(...cityBreweries);
-      } catch (error) {
-        console.error(error);
-      }
-    });
+  if (breweries) {
+    console.log(`📝 Writing to ${jsonFilePath}`);
+    writeFileSync(jsonFilePath, JSON.stringify(breweries));
 
-    if (breweries.length) {
-      console.log(`🗂 Total Files: ${files.length}`);
-      console.log(`🍺 Total Breweries: ${breweries.length}`);
-
-      writeFileSync(filePath, JSON.stringify(breweries));
-      console.log(`📝 Wrote to ${filePath}`);
-    } else {
-      console.log('👎 No breweries found.');
-    }
-  } else {
-    console.error(globError);
+    console.log('Summary:');
+    console.log(`🍺 Total Breweries: ${breweries.length}`);
   }
-});
+} catch (error) {
+  console.error(`🛑 ${error}`);
+}
