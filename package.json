@@ -1,13 +1,13 @@
 {
   "name": "openbrewerydb",
   "version": "0.0.1",
-  "description": "A free and open-source data set of breweries, cideries, brewpubs, and bottleshops.",
+  "description": "An open-source dataset of breweries, cideries, brewpubs, and bottleshops.",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
-    "import:json": "npx babel-node ./tasks/import-json",
-    "export:json": "npx babel-node ./tasks/export-json",
-    "export:csv": "npx babel-node ./tasks/export-csv"
+    "json:export": "npx babel-node ./tasks/export-json",
+    "csv:split": "npx babel-node ./tasks/split-csv",
+    "csv:combine": "npx babel-node ./tasks/combine-csv"
   },
   "repository": {
     "type": "git",
@@ -20,9 +20,7 @@
   },
   "homepage": "https://github.com/openbrewerydb/openbrewerydb#readme",
   "dependencies": {
-    "csvtojson": "^2.0.10",
     "glob": "^7.1.6",
-    "json-format": "^1.0.1",
     "papaparse": "^5.2.0",
     "slugify": "^1.4.0"
   },
