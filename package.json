@@ -20,9 +20,7 @@
   },
   "homepage": "https://github.com/openbrewerydb/openbrewerydb#readme",
   "dependencies": {
-    "csvtojson": "^2.0.10",
     "glob": "^7.1.6",
-    "json-format": "^1.0.1",
     "papaparse": "^5.2.0",
     "slugify": "^1.4.0"
   },
