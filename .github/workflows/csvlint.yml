@@ -7,8 +7,12 @@ jobs:
     runs-on: ubuntu-latest
     name: csv lint
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@ec106b438a1ff6ff109590de34ddc62c540232e0
+      with:
+        ruby-version: 2.6
+    - name: Install dependencies
+      run: gem install csvlint
     - name: Run csv-lint
-      uses: openbrewerydb/docker-csvlint@master
-      env:
-        ACTION_STATE_NAME: "breweries.csv"
+      run: csvlint breweries.csv --schema=schema.json
