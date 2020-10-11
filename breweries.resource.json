@@ -1,0 +1,124 @@
+{
+  "name": "breweries",
+  "profile": "tabular-data-resource",
+  "path": "breweries.csv",
+  "scheme": "file",
+  "format": "csv",
+  "hashing": "md5",
+  "encoding": "utf-8",
+  "compression": "no",
+  "compressionPath": "",
+  "control": {
+    "newline": ""
+  },
+  "dialect": {},
+  "query": {},
+  "schema": {
+    "fields": [
+      {
+        "name": "id",
+        "type": "string",
+        "constraints": {
+          "required": true
+        }
+      },
+      {
+        "name": "name",
+        "type": "string",
+        "constraints": {
+          "required": true
+        }
+      },
+      {
+        "name": "brewery_type",
+        "type": "string",
+        "constraints": {
+          "required": true,
+          "enum": [
+            "micro",
+            "regional",
+            "brewpub",
+            "large",
+            "planning",
+            "bar",
+            "contract",
+            "proprietor",
+            "closed"
+          ]
+        }
+      },
+      {
+        "name": "street",
+        "type": "string"
+      },
+      {
+        "name": "city",
+        "type": "string",
+        "constraints": {
+          "required": true
+        }
+      },
+      {
+        "name": "state",
+        "type": "string",
+        "constraints": {
+          "required": true
+        }
+      },
+      {
+        "name": "postal_code",
+        "type": "string",
+        "constraints": {
+          "required": true
+        }
+      },
+      {
+        "name": "website_url",
+        "type": "string"
+      },
+      {
+        "name": "phone",
+        "type": "integer"
+      },
+      {
+        "name": "created_at",
+        "type": "datetime",
+        "constraints": {
+          "required": true
+        }
+      },
+      {
+        "name": "updated_at",
+        "type": "datetime",
+        "constraints": {
+          "required": true
+        }
+      },
+      {
+        "name": "country",
+        "type": "string",
+        "constraints": {
+          "required": true
+        }
+      },
+      {
+        "name": "longitude",
+        "type": "number"
+      },
+      {
+        "name": "latitude",
+        "type": "number"
+      },
+      {
+        "name": "tags",
+        "type": "any"
+      }
+    ]
+  },
+  "stats": {
+    "hash": "422b1406fc5e750869e300728998307a",
+    "bytes": 1771027,
+    "fields": 15,
+    "rows": 7923
+  }
+}

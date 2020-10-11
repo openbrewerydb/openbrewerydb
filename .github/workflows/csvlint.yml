@@ -15,6 +15,6 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install goodtables
+        pip install pandas frictionless
     - name: Run csv-lint
-      run: goodtables $GITHUB_WORKSPACE/breweries.csv
+      run: frictionless validate $GITHUB_WORKSPACE/breweries.resource.json
