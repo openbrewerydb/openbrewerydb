@@ -11,8 +11,8 @@ jobs:
     - name: Set up Ruby
       uses: ruby/setup-ruby@ec106b438a1ff6ff109590de34ddc62c540232e0
       with:
-        ruby-version: 2.6
+        ruby-version: 2.5
     - name: Install dependencies
       run: gem install csvlint
     - name: Run csv-lint
-      run: csvlint breweries.csv --schema=schema.json
+      run: csvlint $GITHUB_WORKSPACE/data/us/california/california.csv --schema=$GITHUB_WORKSPACE/schema.json
