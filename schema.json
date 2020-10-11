@@ -1,0 +1,107 @@
+{
+	"fields": [
+		{
+      "name": "id",
+      "constraints": {
+				"required": true,
+				"unique": true
+			}
+		},
+		{
+			"name": "name",
+			"constraints": {
+				"required": true
+			}
+    },
+    {
+			"name": "brewery_type",
+			"constraints": {
+				"required": true,
+				"pattern": "micro|regional|brewpub|large|planning|bar|contract|proprietor|closed"
+			}
+		},
+		{
+      "name": "street",
+      "constraints": {
+				"required": false
+			}
+		},
+		{
+      "name": "city",
+      "constraints": {
+				"required": true
+			}
+		},
+		{
+      "name": "state",
+      "constraints": {
+				"required": true
+			}
+		},
+		{
+			"name": "postal_code",
+      "constraints": {
+				"required": true
+			}
+		},
+		{
+			"name": "website_url",
+      "constraints": {
+        "required": false,
+        "type": "http://www.w3.org/2001/XMLSchema#anyURI"
+			}
+		},
+		{
+      "name": "phone",
+      "constraints": {
+        "required": false
+			}
+		},
+		{
+      "name": "created_at",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#dateTime"
+			}
+		},
+		{
+      "name": "updated_at",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#dateTime"
+			}
+		},
+		{
+      "name": "country",
+      "constraints": {
+        "required": true
+			}
+		},
+		{
+      "name": "longitude",
+      "constraints": {
+        "required": false,
+        "type": "http://www.w3.org/2001/XMLSchema#float"
+			}
+		},
+		{
+      "name": "latitude",
+      "constraints": {
+        "required": false,
+        "type": "http://www.w3.org/2001/XMLSchema#float"
+			}
+		},
+		{
+      "name": "tags",
+      "constraints": {
+        "required": false
+			}
+		},
+		{
+      "name": "notes",
+      "constraints": {
+        "required": false
+			}
+		}
+	]
+}
