@@ -1,0 +1,133 @@
+{
+  "fields": [
+    {
+      "name": "id",
+      "type": "string",
+      "constraints": {
+        "required": true,
+        "unique": true
+      }
+    },
+    {
+      "name": "name",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "brewery_type",
+      "type": "string",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "micro",
+          "regional",
+          "brewpub",
+          "large",
+          "planning",
+          "bar",
+          "contract",
+          "proprietor",
+          "closed"
+        ]
+      }
+    },
+    {
+      "name": "street",
+      "type": "string",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "city",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "state",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "postal_code",
+      "type": "string",
+      "rdfType": "https://schema.org/postalCode",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "website_url",
+      "type": "string",
+      "rdfType": "https://schema.org/URL",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "phone",
+      "type": "string",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "created_at",
+      "type": "string",
+      "rdfType": "https://schema.org/DateTime",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "updated_at",
+      "type": "string",
+      "rdfType": "https://schema.org/DateTime",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "Country",
+      "type": "string",
+      "rdfType": "http://schema.org/Country",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "longitude",
+      "type": "number",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "latitude",
+      "type": "number",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "tags",
+      "type": "string",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "notes",
+      "type": "string",
+      "constraints": {
+        "required": false
+      }
+    }
+  ]
+}

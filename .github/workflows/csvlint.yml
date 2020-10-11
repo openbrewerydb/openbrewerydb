@@ -8,11 +8,13 @@ jobs:
     name: csv lint
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@ec106b438a1ff6ff109590de34ddc62c540232e0
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
       with:
-        ruby-version: 2.5
+        python-version: 3.8
     - name: Install dependencies
-      run: gem install csvlint
+      run: |
+        python -m pip install --upgrade pip
+        pip install goodtables
     - name: Run csv-lint
-      run: csvlint $GITHUB_WORKSPACE/data/us/california/california.csv --schema=$GITHUB_WORKSPACE/schema.json
+      run: goodtables $GITHUB_WORKSPACE/breweries.csv
