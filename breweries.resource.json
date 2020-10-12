@@ -112,13 +112,21 @@
       {
         "name": "tags",
         "type": "any"
+      },
+      {
+        "name": "notes",
+        "type": "string",
+        "constraints": {
+          "required": false,
+          "maxLength": 144
+        }
       }
     ]
   },
   "stats": {
-    "hash": "422b1406fc5e750869e300728998307a",
-    "bytes": 1771027,
-    "fields": 15,
+    "hash": "3fed739487953ec088baf5ff02c52e4e",
+    "bytes": 1646143,
+    "fields": 16,
     "rows": 7923
   }
 }
