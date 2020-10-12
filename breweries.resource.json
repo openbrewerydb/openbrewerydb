@@ -110,6 +110,14 @@
         "type": "number"
       },
       {
+        "name": "notes",
+        "type": "string",
+        "constraints": {
+          "required": false,
+          "maxLength": 144
+        }
+      },
+      {
         "name": "tags",
         "type": "any"
       }
