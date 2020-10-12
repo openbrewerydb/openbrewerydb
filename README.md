@@ -21,7 +21,7 @@ Provide an approval-based pipeline to update the dataset and API.
 | ✅ | ⚙️ Task > Export JSON (/breweries.csv ➡️ /breweries.json) |
 | ✅ | ⚙️ Task > Split CSV (/breweries.csv ➡️ /data) |
 | ✅ | ⚙️ Task > Combine CSV (/data ➡️ /breweries.csv) |
-|  | ⚙️ Github Action > Validate Data |
+| ✅ | ⚙️ Github Action > Validate Data |
 |  | ⚙️ Github Action > Update Open Brewery DB API [#12](https://github.com/openbrewerydb/openbrewerydb/issues/12) |
 |  | 🤖 Unit Tests > Tasks |
 
