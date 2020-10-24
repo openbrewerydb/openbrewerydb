@@ -7,7 +7,8 @@
     "lint": "eslint .",
     "json:export": "npx babel-node ./tasks/export-json",
     "csv:split": "npx babel-node ./tasks/split-csv",
-    "csv:combine": "npx babel-node ./tasks/combine-csv"
+    "csv:combine": "npx babel-node ./tasks/combine-csv",
+    "csv:validate": "frictionless validate data/**/*.csv; frictionless validate breweries.resource.json"
   },
   "repository": {
     "type": "git",
