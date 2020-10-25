@@ -52,6 +52,14 @@
         "type": "string"
       },
       {
+        "name": "address_2",
+        "type": "string"
+      },
+      {
+        "name": "address_3",
+        "type": "string"
+      },
+      {
         "name": "city",
         "type": "string",
         "constraints": {
@@ -60,17 +68,15 @@
       },
       {
         "name": "state",
-        "type": "string",
-        "constraints": {
-          "required": true
-        }
+        "type": "string"
+      },
+      {
+        "name": "county_province",
+        "type": "string"
       },
       {
         "name": "postal_code",
-        "type": "string",
-        "constraints": {
-          "required": true
-        }
+        "type": "string"
       },
       {
         "name": "website_url",
@@ -78,7 +84,7 @@
       },
       {
         "name": "phone",
-        "type": "integer"
+        "type": "string"
       },
       {
         "name": "created_at",
@@ -112,21 +118,10 @@
       {
         "name": "tags",
         "type": "any"
-      },
-      {
-        "name": "notes",
-        "type": "string",
-        "constraints": {
-          "required": false,
-          "maxLength": 144
-        }
       }
     ]
   },
   "stats": {
-    "hash": "3fed739487953ec088baf5ff02c52e4e",
-    "bytes": 1646143,
-    "fields": 16,
-    "rows": 7923
+    "fields": 18
   }
 }
