@@ -13,7 +13,7 @@ const headers =
 
 try {
   const csvFile = readFileSync(csvFilePath, { encoding: "utf-8" });
-  const results = Papa.parse(csvFile, { header: true });
+  const results = Papa.parse(csvFile, { header: true, skipEmptyLines: true });
 
   console.log("✂️ Splitting breweries.csv...");
   results.data.forEach((brewery) => {
@@ -54,7 +54,10 @@ try {
 
     // Read appropriate state file into variable
     const stateFile = readFileSync(stateFilePath, { encoding: "utf-8" });
-    const stateBreweries = Papa.parse(stateFile, { header: true });
+    const stateBreweries = Papa.parse(stateFile, {
+      header: true,
+      skipEmptyLines: true,
+    });
 
     // Add to stateBreweries array
     console.log(`✍️ Adding ${brewery.name} to ${stateFilePath}`);
@@ -69,6 +72,7 @@ try {
       Papa.unparse(stateBreweries.data, {
         header: true,
         columns: headers,
+        skipEmptyLines: true,
       })
     );
   });

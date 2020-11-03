@@ -19,7 +19,7 @@ glob(fileGlob, {}, (globError, files) => {
       console.log(`📖 Reading ${file}...`);
       try {
         const data = readFileSync(file, { encoding: "utf-8" });
-        const result = Papa.parse(data, { header: true });
+        const result = Papa.parse(data, { header: true, skipEmptyLines: true });
         console.log(`✍️ Adding ${result.data.length} breweries...`);
         breweries.push(...result.data);
       } catch (error) {
@@ -32,7 +32,14 @@ glob(fileGlob, {}, (globError, files) => {
 
     if (breweries.length) {
       console.log(`📝 Writing to ${filePath}`);
-      writeFileSync(filePath, Papa.unparse(breweries));
+      writeFileSync(
+        filePath,
+        Papa.unparse(breweries, {
+          headers: true,
+          columns: headers,
+          skipEmptyLines: true,
+        })
+      );
     }
 
     console.log("Summary:");
