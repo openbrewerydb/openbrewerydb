@@ -1,32 +1,32 @@
 // Export /breweries.json to /breweries.csv
 
-import {
-  existsSync, mkdirSync, writeFileSync, readFileSync,
-} from 'fs';
-import Papa from 'papaparse';
-import { join } from 'path';
-import slugify from 'slugify';
+import { existsSync, mkdirSync, writeFileSync, readFileSync } from "fs";
+import Papa from "papaparse";
+import { join } from "path";
+import slugify from "slugify";
 
 const slugifyOptions = { remove: /[*+~.,()'"!:@/]/g };
-const csvFilePath = join(__dirname, '../breweries.csv');
-const storePath = join(__dirname, '../data');
-const headers = 'id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags';
-
-const skippedBreweries = [];
+const csvFilePath = join(__dirname, "../breweries.csv");
+const storePath = join(__dirname, "../data");
+const headers =
+  "id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags";
 
 try {
-  const csvFile = readFileSync(csvFilePath, { encoding: 'utf-8' });
+  const csvFile = readFileSync(csvFilePath, { encoding: "utf-8" });
   const results = Papa.parse(csvFile, { header: true });
 
-  console.log('✂️ Splitting breweries.csv...');
+  console.log("✂️ Splitting breweries.csv...");
   results.data.forEach((brewery) => {
     if (!brewery.id) return;
 
     const countrySlug = slugify(brewery.country.toLowerCase(), slugifyOptions);
-    let stateSlug = '';
+    let stateSlug = "";
 
-    if (brewery.state === '') {
-      stateSlug = slugify(brewery.county_province.toLowerCase(), slugifyOptions);
+    if (brewery.state === "") {
+      stateSlug = slugify(
+        brewery.county_province.toLowerCase(),
+        slugifyOptions
+      );
     } else {
       stateSlug = slugify(brewery.state.toLowerCase(), slugifyOptions);
     }
@@ -52,30 +52,28 @@ try {
       writeFileSync(stateFilePath, headers);
     }
 
-    // Read file into variable
-    const stateFile = readFileSync(stateFilePath, { encoding: 'utf-8' });
+    // Read appropriate state file into variable
+    const stateFile = readFileSync(stateFilePath, { encoding: "utf-8" });
     const stateBreweries = Papa.parse(stateFile, { header: true });
 
-    if (stateBreweries.data.find((b) => b.id === brewery.id)) {
-      console.log(`⏭ Skipping ${brewery.name}. (reason: duplicate)`);
-      skippedBreweries.push(brewery);
-    } else {
-      console.log(`✍️ Adding ${brewery.name} to ${stateFilePath}`);
-      stateBreweries.data.push(brewery);
-    }
+    // Add to stateBreweries array
+    console.log(`✍️ Adding ${brewery.name} to ${stateFilePath}`);
+    stateBreweries.data.push(brewery);
 
-    writeFileSync(stateFilePath, Papa.unparse(stateBreweries.data));
+    // Sort breweries by ID
+    stateBreweries.data.sort((a, b) => a.id.localeCompare(b.id));
+
+    // Write to state file
+    writeFileSync(
+      stateFilePath,
+      Papa.unparse(stateBreweries.data, {
+        header: true,
+        columns: headers,
+      })
+    );
   });
 
-  if (skippedBreweries.length) {
-    const csvSkippedFilePath = join(__dirname, '../skipped.csv');
-    if (!existsSync(csvSkippedFilePath)) {
-      writeFileSync(csvSkippedFilePath, headers);
-    }
-    writeFileSync(csvSkippedFilePath, Papa.unparse(skippedBreweries));
-  }
-
-  console.log('✅ Success!');
+  console.log("✅ Success!");
 } catch (error) {
   console.error(`🛑 ${error}`);
 }
