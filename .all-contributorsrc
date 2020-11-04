@@ -1,0 +1,24 @@
+{
+  "projectName": "openbrewerydb",
+  "projectOwner": "Open Brewery DB",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [
+    {
+      "login": "mikeputnam",
+      "name": "Mike Putnam",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/213371?v=4",
+      "profile": "https://theputnams.net/mike/",
+      "contributions": [
+        "data"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
