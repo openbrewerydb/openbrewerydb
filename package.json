@@ -6,6 +6,8 @@
   "scripts": {
     "lint": "eslint .",
     "json:export": "npx babel-node ./tasks/export-json",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate",
     "csv:split": "npx babel-node ./tasks/split-csv",
     "csv:combine": "npx babel-node ./tasks/combine-csv",
     "csv:validate": "frictionless validate data/**/*.csv; frictionless validate breweries.resource.json"
@@ -30,6 +32,7 @@
     "@babel/core": "^7.9.6",
     "@babel/node": "^7.8.7",
     "@babel/preset-env": "^7.9.6",
+    "all-contributors-cli": "^6.19.0",
     "babel-loader": "^8.1.0",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.1.0",
