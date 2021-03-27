@@ -4,22 +4,23 @@ import { writeFileSync, readFileSync } from "fs";
 import { join } from "path";
 import glob from "glob";
 import Papa from "papaparse";
+import type { Brewery } from './utils/types';
 
 const fileGlob = join(__dirname, "../data/**/*.csv");
 const filePath = join(__dirname, "../breweries.csv");
 
-const headers =
+const headers: string =
   "id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags";
 
 glob(fileGlob, {}, (globError, files) => {
-  const breweries = [];
+  const breweries: Brewery[] = [];
 
   if (!globError) {
     files.forEach((file) => {
       console.log(`📖 Reading ${file}...`);
       try {
         const data = readFileSync(file, { encoding: "utf-8" });
-        const result = Papa.parse(data, { header: true, skipEmptyLines: true });
+        const result = Papa.parse<Brewery>(data, { header: true, skipEmptyLines: true });
         console.log(`✍️ Adding ${result.data.length} breweries...`);
         breweries.push(...result.data);
       } catch (error) {
@@ -35,8 +36,7 @@ glob(fileGlob, {}, (globError, files) => {
       writeFileSync(
         filePath,
         Papa.unparse(breweries, {
-          headers: true,
-          columns: headers,
+          columns: headers.split(','),
           skipEmptyLines: true,
         })
       );

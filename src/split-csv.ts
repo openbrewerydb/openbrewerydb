@@ -4,6 +4,7 @@ import { existsSync, mkdirSync, writeFileSync, readFileSync } from "fs";
 import Papa from "papaparse";
 import { join } from "path";
 import slugify from "slugify";
+import type { Brewery } from "./utils/types";
 
 const slugifyOptions = { remove: /[*+~.,()'"!:@/]/g };
 const csvFilePath = join(__dirname, "../breweries.csv");
@@ -13,7 +14,10 @@ const headers =
 
 try {
   const csvFile = readFileSync(csvFilePath, { encoding: "utf-8" });
-  const results = Papa.parse(csvFile, { header: true, skipEmptyLines: true });
+  const results = Papa.parse<Brewery>(csvFile, {
+    header: true,
+    skipEmptyLines: true,
+  });
 
   console.log("✂️ Splitting breweries.csv...");
   results.data.forEach((brewery) => {
@@ -54,7 +58,7 @@ try {
 
     // Read appropriate state file into variable
     const stateFile = readFileSync(stateFilePath, { encoding: "utf-8" });
-    const stateBreweries = Papa.parse(stateFile, {
+    const stateBreweries = Papa.parse<Brewery>(stateFile, {
       header: true,
       skipEmptyLines: true,
     });
@@ -70,8 +74,7 @@ try {
     writeFileSync(
       stateFilePath,
       Papa.unparse(stateBreweries.data, {
-        header: true,
-        columns: headers,
+        columns: headers.split(","),
         skipEmptyLines: true,
       })
     );
