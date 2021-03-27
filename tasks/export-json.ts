@@ -1,5 +1,4 @@
 // Export /data to /breweries.json
-
 import {
   writeFileSync, readFileSync,
 } from 'fs';
