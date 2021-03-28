@@ -22,7 +22,7 @@ Here are a couple of helpful tutorials:
 
 * [Make a Pull Request](http://makeapullrequest.com/)
 * [First Timers Only](http://www.firsttimersonly.com/)
-* [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
+* [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
 
 ## Pull Request
 
