@@ -9,78 +9,97 @@ import type { Brewery } from "./utils/types";
 const slugifyOptions = { remove: /[*+~.,()'"!:@/]/g };
 const csvFilePath = join(__dirname, "../breweries.csv");
 const storePath = join(__dirname, "../data");
-const headers =
-  "id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags";
+const headers = [
+  "id",
+  "name",
+  "brewery_type",
+  "street",
+  "address_2",
+  "address_3",
+  "city",
+  "state",
+  "county_province",
+  "postal_code",
+  "website_url",
+  "phone",
+  "created_at",
+  "updated_at",
+  "country",
+  "longitude",
+  "latitude",
+  "tags",
+];
 
-try {
-  const csvFile = readFileSync(csvFilePath, { encoding: "utf-8" });
-  const results = Papa.parse<Brewery>(csvFile, {
-    header: true,
-    skipEmptyLines: true,
-  });
+type Country = string;
+type Region = string;
 
-  console.log("✂️ Splitting breweries.csv...");
-  results.data.forEach((brewery) => {
-    if (!brewery.id) return;
+const main = () => {
+  try {
+    let output: Record<Country, Record<Region, Brewery[]>> = {};
 
-    const countrySlug = slugify(brewery.country.toLowerCase(), slugifyOptions);
-    let stateSlug = "";
-
-    if (brewery.state === "") {
-      stateSlug = slugify(
-        brewery.county_province.toLowerCase(),
-        slugifyOptions
-      );
-    } else {
-      stateSlug = slugify(brewery.state.toLowerCase(), slugifyOptions);
-    }
-
-    // Create empty folder for brewery country
-    const countryPath = `${storePath}/${countrySlug}`;
-    if (!existsSync(countryPath)) {
-      console.log(`🌟 Creating ${countryPath}...`);
-      mkdirSync(countryPath);
-    }
-
-    // Create empty folder for brewery state or county/province
-    const statePath = `${countryPath}/${stateSlug}`;
-    if (!existsSync(statePath)) {
-      console.log(`🌟 Creating ${statePath}...`);
-      mkdirSync(statePath);
-    }
-
-    // Create state file with headers
-    const stateFilePath = `${statePath}/${stateSlug}.csv`;
-    if (!existsSync(stateFilePath)) {
-      console.log(`🌟 Creating ${stateFilePath}...`);
-      writeFileSync(stateFilePath, headers);
-    }
-
-    // Read appropriate state file into variable
-    const stateFile = readFileSync(stateFilePath, { encoding: "utf-8" });
-    const stateBreweries = Papa.parse<Brewery>(stateFile, {
+    const csvFile = readFileSync(csvFilePath, { encoding: "utf-8" });
+    const results = Papa.parse<Brewery>(csvFile, {
       header: true,
       skipEmptyLines: true,
     });
 
-    // Add to stateBreweries array
-    console.log(`✍️ Adding ${brewery.name} to ${stateFilePath}`);
-    stateBreweries.data.push(brewery);
+    console.log("✂️ Splitting breweries.csv...");
 
-    // Sort breweries by ID
-    stateBreweries.data.sort((a, b) => a.id.localeCompare(b.id));
+    const breweries = results.data;
 
-    // Write to state file
-    writeFileSync(
-      stateFilePath,
-      Papa.unparse(stateBreweries.data, {
-        columns: headers.split(","),
-        skipEmptyLines: true,
-      })
-    );
-  });
+    for (let brewery of breweries) {
+      if (!brewery.id) continue;
 
-  console.log("✅ Success!");
-} catch (error) {
-  console.error(`🛑 ${error}`);
+      const region =
+        brewery.state === "" ? brewery.county_province : brewery.state;
+      const countrySlug = slugify(brewery.country.toLowerCase(), slugifyOptions);
+      const regionSlug = slugify(region.toLowerCase(), slugifyOptions);
+
+      if (output[countrySlug] === undefined) {
+        output[countrySlug] = {};
+      }
+
+      if (output[countrySlug][regionSlug] === undefined) {
+        output[countrySlug][regionSlug] = [];
+      }
+
+      output[countrySlug][regionSlug].push(brewery);
+    }
+
+    for (let country of Object.keys(output)) {
+      // Create empty folder for brewery country
+      const countryPath = `${storePath}/${country}`;
+      if (!existsSync(countryPath)) {
+        console.log(`🌟 Creating ${countryPath}...`);
+        mkdirSync(countryPath);
+      }
+
+      for (let region of Object.keys(output[country])) {
+        // Create state file with headers
+        const regionFilePath = `${countryPath}/${region}.csv`;
+        if (!existsSync(regionFilePath)) {
+          console.log(`🌟 Creating ${regionFilePath}...`);
+          writeFileSync(regionFilePath, headers.join(","));
+        }
+
+        // Sort breweries by ID
+        output[country][region].sort((a, b) => a.id.localeCompare(b.id));
+
+        // Write to state file
+        writeFileSync(
+          regionFilePath,
+          Papa.unparse(output[country][region], {
+            columns: headers,
+            skipEmptyLines: true,
+          })
+        );
+      }
+    }
+
+    console.log("✅ Success!");
+  } catch (error) {
+    console.error(`🛑 ${error}`);
+  }
 }
+
+main();
