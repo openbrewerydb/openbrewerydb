@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./lib",
+    "target": "es2020",
+    "lib": ["ES2019"],
+    "alwaysStrict": true,
+    "module": "commonjs",
+    "declaration": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "importHelpers": true,
+    "sourceMap": true,
+    "baseUrl": "."
+  },
+  "include": ["./src/**/*.ts"]
+}
