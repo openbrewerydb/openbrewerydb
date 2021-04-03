@@ -1,8 +1,11 @@
 import { writeFileSync, readFileSync } from "fs";
 import { join } from "path";
 import glob from "glob-promise";
-import csval from "csval";
 import type { Brewery } from "./utils/types";
+
+// @ts-ignore
+// csval is a newer library and doesn't have any published types yet
+import csval from "csval";
 
 const BREWERY_TYPES = [
   "micro",
