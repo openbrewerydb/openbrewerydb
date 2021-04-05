@@ -2,7 +2,7 @@
 import { writeFileSync, readFileSync } from "fs";
 import { join } from "path";
 import type { Brewery, BreweryKey } from "./utils/types";
-import { headers, column_set } from "./config";
+import { headers } from "./config";
 import Papa from "papaparse";
 import pgpromise from "pg-promise";
 
