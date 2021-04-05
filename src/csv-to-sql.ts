@@ -12,6 +12,8 @@ const pgp = pgpromise({
 const csvPath = join(__dirname, "../breweries.csv");
 const sqlPath = join(__dirname, "../breweries.sql");
 
+const cs = new pgp.helpers.ColumnSet(headers, {table: "breweries"});
+
 try {
   const data = readFileSync(csvPath, { encoding: "utf-8" });
   const result = Papa.parse<Brewery>(data, {
@@ -24,12 +26,10 @@ try {
 
   console.log(breweries);
 
-  let sql = pgp.helpers.insert(breweries, headers, "breweries");
+  let sql = pgp.helpers.insert(breweries, cs) +
+      " ON CONFLICT(obdb_id) DO UPDATE SET " +
+      cs.assignColumns({from: "EXCLUDED", skip: "obdb_id"});
 
-  // Build ON CONFLICT update without `obdb_id` column
-  const excluded = headers.slice(1).map((col) => `${col}=EXCLUDED.${col}`);
-
-  sql += `ON CONFLICT(obdb_id) DO UPDATE SET ${excluded.join(", ")}`;
   writeFileSync(sqlPath, sql);
 
   console.log(`✅ Wrote ${sql.length} bytes to ${sqlPath}...`);
