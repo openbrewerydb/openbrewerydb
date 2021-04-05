@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 21st-st-brewers-bar-saint-louis,21st St Brewers Bar,brewpub,2017 Chouteau Ave,,,Saint Louis,Missouri,,63103,http://www.21stbrew.com,3142416969,2020-10-12 14:51:36,2020-10-12 14:51:38,United States,-90.213781,38.624291,
 2nd-shift-brewing-co-saint-louis,2nd Shift Brewing Co,brewpub,1601 Sublette Ave,,,Saint Louis,Missouri,,63110-1924,http://www.2ndshiftbrewing.com,6187910728,2018-07-24 01:33:40,2018-08-24 00:46:09,United States,-90.280526,38.621943,
 3-trails-brewing-co-independence,3 Trails Brewing Co,micro,"111 N Main St ",,,Independence,Missouri,,64050,http://www.3trailsbrewing.com,8168866256,2020-10-12 14:53:01,2020-10-12 14:53:05,United States,-94.41265,39.122385,

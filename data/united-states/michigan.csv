@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 127-brewing-jackson,127 Brewing,micro,3090 Shirley Dr,,,Jackson,Michigan,,49201-7010,,5172581346,2018-07-24 01:33:32,2018-08-24 00:41:58,United States,-84.43116792,42.28667212,
 5-lakes-brewing-co-dorr,5 Lakes Brewing Co.,brewpub,1638 142nd Ave,,,Dorr,Michigan,,49323-9312,http://www.5lakesbrewing.com,6163599555,2018-07-24 01:33:32,2018-08-24 00:41:59,United States,-85.70445518,42.72497157,
 51st-state-brewing-company-kingsford,51st State Brewing Company,brewpub,115 Harding Ave,,,Kingsford,Michigan,,49802-3815,http://www.51ststatebrewingcompany.com,9068282167,2018-07-24 01:33:32,2018-08-24 00:41:59,United States,-88.08819,45.808408,

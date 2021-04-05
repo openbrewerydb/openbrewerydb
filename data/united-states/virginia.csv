@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 1781-brewing-company-spotsylvania,1781 Brewing Company,micro,11109 Plank Rd,,,Spotsylvania,Virginia,,22553-4258,,5408412598,2018-07-24 01:34:37,2018-07-24 01:34:37,United States,,,
 2-silos-brewing-company-manassas,2 Silos Brewing Company,micro,9925 Discovery Blvd,,,Manassas,Virginia,,20109,http://www.2silosbrewing.com,7034202257,2018-07-24 01:34:37,2018-07-24 01:34:37,United States,,,
 2-witches-winery-and-brewing-company-danville,2 Witches Winery and Brewing Company,micro,209 Trade St,,,Danville,Virginia,,24541-3545,http://www.2witcheswinebrew.com,4345492739,2018-07-24 01:34:37,2018-07-24 01:34:37,United States,-79.42125553,36.58590349,

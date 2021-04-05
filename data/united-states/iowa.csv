@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 5-alarm-brewing-co-lake-mills,5 Alarm Brewing Co,micro,211 W Main St,,,Lake Mills,Iowa,,50450,,6415922739,2018-07-24 01:33:23,2018-08-24 00:33:43,United States,-93.53398788,43.41926615,
 515-brewing-co-clive,515 Brewing Co,micro,7700 University Ave,,,Clive,Iowa,,50325-1271,http://www.515brewing.com,5156614615,2018-07-24 01:33:23,2018-08-24 00:33:44,United States,-93.7228408,41.599992,
 7-hills-brewing-company-dubuque,7 Hills Brewing Company,brewpub,1085 Washington St,,,Dubuque,Iowa,,52001-4932,http://www.7hillsbrew.com,5635878306,2018-07-24 01:33:23,2018-08-24 00:33:44,United States,-90.6635263,42.5045556,

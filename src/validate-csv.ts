@@ -37,7 +37,7 @@ const main = async () => {
       "updated_at",
     ],
     properties: {
-      id: {
+      obdb_id: {
         type: "string",
       },
       name: {

@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 3-stars-brewing-co-washington,3 Stars Brewing Co,micro,6400 Chillum Pl NW Ste B,,,Washington,District of Columbia,,20012-2111,http://www.3starsbrewing.com,2026700333,2018-07-24 01:33:11,2018-08-11 21:36:49,United States,,,
 admerk-corp-inc-washington,AdMerk Corp. Inc.,contract,20 F St NW,,,Washington,District of Columbia,,20001-6700,http://www.paugustin.com,6172028069,2018-07-24 01:33:11,2018-08-24 00:26:12,United States,-77.0094205,38.89742205,
 atlas-brew-works-washington,Atlas Brew Works,micro,2052 W Virginia Ave NE Ste 102,,,Washington,District of Columbia,,20002-1832,http://www.atlasbrewworks.com,2028320420,2018-07-24 01:33:11,2018-08-11 21:36:49,United States,,,

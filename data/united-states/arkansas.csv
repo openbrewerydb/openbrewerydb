@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 apple-blossom-brewing-co-fayetteville,Apple Blossom Brewing Co,brewpub,1550 E Zion Rd,,,Fayetteville,Arkansas,,72703-5017,http://www.appleblossombrewing.com,4792874344,2018-07-24 01:32:50,2018-08-23 23:23:00,United States,-94.1372796,36.1297079,
 bentonville-brewing-co-rogers,Bentonville Brewing Co,micro,1700 S 1st St,,,Rogers,Arkansas,,72756-5923,http://www.bentonvillebrewing.com,4799037330,2018-07-24 01:32:50,2018-08-23 23:23:01,United States,-94.1178372,36.3168272,
 bike-rack-brewing-co-8th-street-market-bentonville,Bike Rack Brewing Co - 8th Street Market,micro,801 SE 8th St,,,Bentonville,Arkansas,,72712-6409,http://www.bikerackbrewing.com,4793196593,2018-07-24 01:32:50,2018-08-23 23:23:03,United States,-94.200584,36.364069,

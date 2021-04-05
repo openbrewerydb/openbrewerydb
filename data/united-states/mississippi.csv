@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 1817-brewery-okolona,1817 Brewery,micro,100 B South Olive St,,,okolona,Mississippi,,38860,,6623055907,2018-07-24 01:33:40,2018-08-24 00:46:02,United States,-88.750264,34.001703,
 biloxi-brewing-co-biloxi,Biloxi Brewing Co,micro,186 Bohn St,,,Biloxi,Mississippi,,39530-3812,http://www.biloxibrewing.com,2282731638,2018-07-24 01:33:40,2018-08-24 00:46:03,United States,-88.89361913,30.3982915,
 chandeleur-island-brewing-company-gulfport,Chandeleur Island Brewing Company,micro,2711 14th St,,,Gulfport,Mississippi,,39501-1928,http://www.chandeleurbrew.com,2287019985,2018-07-24 01:33:40,2018-08-24 00:46:03,United States,-89.09540702,30.367827,

@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 5-rivers-brewing-llc-spanish-fort,5 Rivers Brewing LLC,planning,,,,Spanish Fort,Alabama,,36527-3161,http://5riversbrewing.com,2516897483,2018-07-24 01:32:47,2018-08-23 23:19:57,United States,-87.9152724,30.6749127,
 avondale-brewing-co-birmingham,Avondale Brewing Co,micro,201 41st St S,,,Birmingham,Alabama,,35222-1932,http://www.avondalebrewing.com,2057775456,2018-07-24 01:32:47,2018-08-23 23:19:58,United States,-86.774322,33.524521,
 back-forty-beer-co-gadsden,Back Forty Beer Co,micro,200 N 6th St,,,Gadsden,Alabama,,35901-3361,http://www.backfortybeer.com,2564674912,2018-07-24 01:32:47,2018-08-23 23:19:59,United States,-86.005006,34.016888,

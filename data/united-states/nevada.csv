@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 10-torr-distilling-and-brewing-reno,10 Torr Distilling and Brewing,micro,490 Mill St,,,Reno,Nevada,,89502,http://www.10torr.com,7755307014,2018-07-24 01:33:44,2018-08-24 00:47:53,United States,-119.7732015,39.5171702,
 able-baker-brewing-henderson,Able Baker Brewing,micro,1051 Mary Crest Rd #K,,,Henderson,Nevada,,89104,http://www.ablebakerbrewing.com,7025817742,2018-07-24 01:33:44,2018-08-11 21:38:16,United States,,,
 alibi-ale-works-incline-village,Alibi Ale Works,micro,204 E Enterprise St,,,Incline Village,Nevada,,89451-9456,http://www.alibialeworks.com,7752987001,2018-07-24 01:33:44,2018-08-24 00:47:54,United States,-119.9537117,39.24819328,

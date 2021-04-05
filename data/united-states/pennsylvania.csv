@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 180-and-tapped-coraopolis,180 and Tapped,micro,2010 A State Ave,,,Coraopolis,Pennsylvania,,15108,http://www.180andtapped.com,4127375273,2018-07-24 01:34:09,2018-08-24 16:05:59,United States,-80.15020356,40.50984957,
 2-dogz-and-a-guy-brewing-montrose,2 Dogz and A Guy Brewing,micro,228 Church St,,,Montrose,Pennsylvania,,18801-1271,http://2dogzandaguybrewing.com,5704320069,2018-07-24 01:34:09,2018-08-24 16:06:01,United States,-75.8800318,41.8336364,
 2nd-story-brewing-company-philadelphia,2nd Story Brewing Company,brewpub,117 Chestnut St Frnt,,,Philadelphia,Pennsylvania,,19106-4700,http://www.2ndstorybrewing.com/,2673145770,2018-07-24 01:34:09,2018-08-11 21:39:22,United States,,,

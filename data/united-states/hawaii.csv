@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 aloha-beer-co-honolulu,Aloha Beer Co,brewpub,700 Queen St,,,Honolulu,Hawaii,,96813-5110,http://www.alohabeer.com,8085455959,2018-07-24 01:33:17,2018-08-24 00:29:40,United States,-157.857248,21.301249,
 beer-lab-hi-honolulu,Beer Lab HI,micro,1010 University Ave Ste B1,,,Honolulu,Hawaii,,96826-1537,http://www.beerlabhi.com,8088880913,2018-07-24 01:33:17,2018-08-24 00:29:40,United States,-157.8218784,21.29214406,
 big-island-brewhaus-kamuela,Big Island Brewhaus,brewpub,64-1066 Mamalahoa Hwy Unit 5,,,Kamuela,Hawaii,,96743-7309,http://www.bigislandbrewhaus.com,8088871717,2018-07-24 01:33:17,2018-08-11 21:37:04,United States,-155.661471,20.025552,

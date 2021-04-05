@@ -1,34 +1,14 @@
-// Export /data to /breweries-combined.csv
+// Export /data/* to /breweries.csv
 
 import { writeFileSync, readFileSync } from "fs";
 import { join } from "path";
 import glob from "glob";
 import Papa from "papaparse";
+import { headers } from "./config";
 import type { Brewery } from "./utils/types";
 
 const fileGlob = join(__dirname, "../data/**/*.csv");
 const filePath = join(__dirname, "../breweries.csv");
-
-const headers = [
-  "id",
-  "name",
-  "brewery_type",
-  "street",
-  "address_2",
-  "address_3",
-  "city",
-  "state",
-  "county_province",
-  "postal_code",
-  "website_url",
-  "phone",
-  "created_at",
-  "updated_at",
-  "country",
-  "longitude",
-  "latitude",
-  "tags",
-];
 
 glob(fileGlob, {}, (globError, files) => {
   const breweries: Brewery[] = [];
@@ -50,7 +30,7 @@ glob(fileGlob, {}, (globError, files) => {
     });
 
     // Sort breweries by ID
-    breweries.sort((a, b) => a.id.localeCompare(b.id));
+    breweries.sort((a, b) => a.obdb_id.localeCompare(b.obdb_id));
 
     if (breweries.length) {
       console.log(`📝 Writing to ${filePath}`);

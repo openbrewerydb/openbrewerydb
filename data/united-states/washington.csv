@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 101-brewery-quilcene,101 Brewery,brewpub,294793 US Highway 101,,,Quilcene,Washington,,98376-9000,http://www.101brewery.com,3607656485,2018-07-24 01:34:00,2018-08-11 21:40:00,United States,,,
 122-west-brewing-co-bellingham,122 West Brewing Co,closed,2416 Meridian St,,,Bellingham,Washington,,98225-2405,https://www.122westbrew.com/,3603063285,2020-10-11 11:12:00,2020-10-11 11:12:00,United States,-122.485982,48.7621709,
 192-brewing-kenmore,192 Brewing,micro,7324 NE 175th St,,,Kenmore,Washington,,98028-2500,http://www.192brewing.com,4254242337,2018-07-24 01:34:00,2018-08-24 16:31:00,United States,-122.2415652,47.75670075,

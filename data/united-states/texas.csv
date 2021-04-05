@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 11-below-brewing-company-houston,11 Below Brewing Company,micro,6820 Bourgeois Rd,,,Houston,Texas,,77066-3107,http://www.11belowbrewing.com,2814442337,2018-07-24 01:34:37,2018-07-24 01:34:37,United States,-95.5186591,29.9515464,
 28th-state-brewing-houston,28th State Brewing,planning,,,,Houston,Texas,,77095-6933,,,2018-07-24 01:34:37,2018-07-24 01:34:37,United States,,,
 3-nations-brewing-farmers-branch,3 Nations Brewing,micro,2405 Squire Pl Ste 200,,,Farmers Branch,Texas,,75234-4714,http://www.threenationsbrewing.com,4696607184,2018-07-24 01:34:37,2018-07-24 01:34:37,United States,-96.89883128,32.93044336,

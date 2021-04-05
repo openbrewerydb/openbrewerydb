@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 apponaug-brewing-warwick,Apponaug Brewing,planning,,,,Warwick,Rhode Island,,2886,http://www.apponaugbrewing.com,4013840512,2018-07-24 01:34:14,2018-08-11 21:39:34,United States,,,
 brutopia-brewery-and-kitchen-cranston,Brutopia Brewery and Kitchen,brewpub,505 Atwood Ave,,,Cranston,Rhode Island,,02920-5327,http://www.brutopiabrewery.com,4014648877,2018-07-24 01:34:14,2018-08-24 16:13:33,United States,-71.47169613,41.78983825,
 buttonwoods-brewery-cranston,Buttonwoods Brewery,micro,530 Wellington Ave Ste 22,,,Cranston,Rhode Island,,02910-2997,http://www.buttonwoodsbrewery.com,4014612337,2018-07-24 01:34:14,2018-08-11 21:39:34,United States,,,

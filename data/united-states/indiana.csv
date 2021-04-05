@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 10-56-brewing-company-knox,10-56 Brewing Company,micro,400 Brown Cir,,,Knox,Indiana,,46534,,6308165790,2018-07-24 01:33:21,2018-08-24 00:32:25,United States,-86.627954,41.289715,
 18th-street-brewery-gary,18th Street Brewery,micro,5725 Miller Ave,,,Gary,Indiana,,46403-2871,http://www.18thstreetbrewery.com,,2018-07-24 01:33:21,2018-08-24 00:32:26,United States,-87.26887786,41.59928343,
 18th-street-brewery-hammond,18th Street Brewery,micro,5417 Oakley Ave,,,Hammond,Indiana,,46320-1817,,,2018-07-24 01:33:21,2018-08-24 00:32:26,United States,-87.517422,41.61556796,

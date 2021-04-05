@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 1648-brewing-lewes,The 1648 Brewing Co Ltd,micro,Mill Lane,East Hoathly,,Lewes,,East Sussex,BN8 6QB,http://www.1648brewing.co.uk/,1825840830,2020-12-30 09:24,2020-12-30 09:24,England,-0.02828,50.93968,
 360-degree-sheffield-park,360 Degree Brewing Company,micro,Bluebell Business Estate,,,Sheffield Park,,East Sussex,TN22 3HQ,https://www.360degreebrewing.com/,1825722375,2020-12-30 09:24,2020-12-30 09:24,England,-0.00086,50.993912,
 abyss-brewing-uckfield,Abyss Brewing Ltd,micro,Palehouse Common,,,Uckfield,,East Sussex,TN22 5RB,https://abyssbrewing.co.uk/,1825840561,2020-12-30 09:51,2020-12-30 09:51,England,0.14604,50.945743,

@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 49th-state-brewing-co-anchorage-anchorage,49th State Brewing Co - Anchorage,brewpub,717 W 3rd Ave,,,Anchorage,Alaska,,99501-2104,http://www.49statebrewing.com/,9076832739,2018-07-24 01:32:48,2018-08-23 23:20:45,United States,-149.8958196,61.2197366,
 49th-state-brewing-co-healy,49th State Brewing Co,micro,248.4 Parks Hwy 5 Mile,,,Healy,Alaska,,99743,https://www.49statebrewing.com/denali,9076832739,2018-07-24 01:32:48,2020-10-11 18:44:00,United States,-149.017877,63.864759,
 alaskan-brewing-co-juneau,Alaskan Brewing Co.,regional,5429 Shaune Dr,,,Juneau,Alaska,,99801-9540,http://www.alaskanbeer.com,9077805866,2018-07-24 01:32:48,2018-08-23 23:20:45,United States,-134.4918763,58.35681231,

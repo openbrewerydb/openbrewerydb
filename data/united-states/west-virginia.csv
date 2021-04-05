@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 abolitionist-ale-works-charles-town,Abolitionist Ale Works,brewpub,129 W Washington St,,,Charles Town,West Virginia,,25414-1529,http://www.abolitionistaleworks.com,6812521548,2018-07-24 01:34:34,2018-08-24 16:41:07,United States,-77.8607888,39.28867207,
 bad-shepherd-beer-company-charleston,Bad Shepherd Beer Company,brewpub,702 Quarrier St,,,Charleston,West Virginia,,25301-2627,http://www.blacksheepwv.com,3045527569,2018-07-24 01:34:34,2018-08-24 16:41:09,United States,-81.63612015,38.35094943,
 banjo-brewing-fayetteville,Banjo Brewing,planning,,,,Fayetteville,West Virginia,,25840,,3042164231,2018-07-24 01:34:34,2018-08-11 21:40:29,United States,,,

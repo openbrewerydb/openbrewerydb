@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 12-west-brewing-company-gilbert,12 West Brewing Company,micro,3000 E Ray Rd Bldg 6,,,Gilbert,Arizona,,85296-7832,http://www.12westbrewing.com,6023395014,2018-07-24 01:32:49,2018-08-11 21:35:46,United States,,,
 12-west-brewing-company-production-facility-mesa,12 West Brewing Company - Production Facility,micro,,,,Mesa,Arizona,,85207,,,2018-07-24 01:32:49,2018-08-23 23:21:10,United States,-111.5860662,33.436188,
 1912-brewing-tucson,1912 Brewing,micro,2045 N Forbes Blvd Ste 105,,,Tucson,Arizona,,85745-1444,http://www.1912brewing.com,5202564851,2018-07-24 01:32:49,2018-08-23 23:21:11,United States,-110.9927505,32.24673727,

@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 10-barrel-brewing-co-denver-denver,10 Barrel Brewing Co - Denver,large,2620 Walnut St,,,Denver,Colorado,,80205-2231,,7205738992,2018-07-24 01:33:03,2018-08-24 00:05:11,United States,-104.9853655,39.7592508,
 105-west-brewing-co-castle-rock,105 West Brewing Co,micro,1043 Park St,,,Castle Rock,Colorado,,80109-1585,http://www.105westbrewing.com,3033257321,2018-07-24 01:33:03,2018-08-24 00:05:12,United States,-104.8667206,39.38269495,
 12degree-brewing-louisville,12Degree Brewing,brewpub,820 Main St,,,Louisville,Colorado,,80027-1865,http://www.12degree.com,3035791004,2018-07-24 01:33:03,2018-08-24 00:05:13,United States,-105.1319826,39.9782443,

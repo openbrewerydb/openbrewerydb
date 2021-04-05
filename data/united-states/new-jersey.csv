@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 7-mile-brewery-rio-grande,7 Mile Brewery,micro,3156 Route 9 South Ste 1-2,,,Rio Grande,New Jersey,,8242,http://www.7milebrew.com,6093657777,2018-07-24 01:33:46,2018-08-11 21:38:22,United States,,,
 angry-erik-brewing-lafayette,Angry Erik Brewing,micro,10 Millpond Dr Unit 8,,,Lafayette,New Jersey,,07848-3825,http://www.angryerik.com,8624329003,2018-07-24 01:33:46,2018-08-11 21:38:22,United States,,,
 anheuser-busch-inc-a-newark-newark,Anheuser-Busch Inc â Newark,large,200 US Highway 1,,,Newark,New Jersey,,07114-2298,http://www.anheuser-busch.com,9736457700,2018-07-24 01:33:46,2018-08-11 21:38:22,United States,,,

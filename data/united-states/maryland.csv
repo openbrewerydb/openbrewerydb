@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 1623-brewing-co-llc-westminister,"1623 Brewing CO, llc",contract,1146 colonel Joshua Ct,,,Westminister,Maryland,,21157,,,2018-07-24 01:33:28,2018-08-11 21:37:35,United States,,,
 7-locks-brewing-rockville,7 Locks Brewing,micro,12227 Wilkins Ave,,,Rockville,Maryland,,20852-1833,http://www.7locksbrewing.com,3018417123,2018-07-24 01:33:28,2018-08-11 21:37:35,United States,,,
 antietam-brewery-llc-hagerstown,"Antietam Brewery,LLC",micro,140 Western Maryland Pkwy Unit G,,,Hagerstown,Maryland,,21740-5197,http://www.antietambrewery.com,3017915915,2018-07-24 01:33:28,2018-08-11 21:37:35,United States,,,

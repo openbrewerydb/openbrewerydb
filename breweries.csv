@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 10-56-brewing-company-knox,10-56 Brewing Company,micro,400 Brown Cir,,,Knox,Indiana,,46534,,6308165790,2018-07-24 01:33:21,2018-08-24 00:32:25,United States,-86.627954,41.289715,
 10-barrel-brewing-co-bend,10 Barrel Brewing Co,large,62970 18th St,,,Bend,Oregon,,97701-9847,http://www.10barrel.com,5415851007,2018-07-24 01:34:04,2018-08-11 21:39:09,United States,,,
 10-barrel-brewing-co-bend-2,10 Barrel Brewing Co,large,1135 NW Galveston Ave Ste B,,,Bend,Oregon,,97703-2465,,5415851007,2018-07-24 01:34:04,2018-08-11 21:39:09,United States,,,

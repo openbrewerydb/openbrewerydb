@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 81-artisan-chichester,81 Artisan,micro,Chilgrove Road,Lavant,,Chichester,,West Sussex,PO18 9HP,https://81artisan.com/,7990035736,2020-12-30 09:24,2020-12-30 09:24,England,-0.81111,50.89212,
 adur-brewery-steyning,Adur Brewery,micro,Mouse Lane,,,Steyning,,West Sussex,BN44 3DG,https://www.adurbrewery.co.uk/,1903867614,2020-12-30 09:51,2020-12-30 09:51,England,-0.340173,50.893624,
 arundel-brewery-arundel,Arundel Brewery Ltd,brewpub,Lyminster Road,,,Arundel,,West Sussex,BN17 7QL,https://www.arundelbrewery.co.uk/,1903733111,2020-12-30 10:45,2020-12-30 10:45,England,-0.534301,50.839971,

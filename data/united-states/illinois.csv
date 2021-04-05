@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 1905-brewing-company-assumption,1905 Brewing Company,micro,1301 S Chestnut St,,,Assumption,Illinois,,62510-8504,http://1905BrewingCompany.com,2172549374,2018-07-24 01:33:18,2018-08-24 00:30:22,United States,-89.0503635,39.5172564,
 350-brewing-co-tinley-park,350 Brewing Co,brewpub,7144 183rd St,,,Tinley Park,Illinois,,60477-3933,http://www.350brewing.com,7088257339,2018-07-24 01:33:18,2018-08-24 00:30:22,United States,-87.79160288,41.55864726,
 4204-main-street-brewing-co-belleville,4204 Main Street Brewing Co,brewpub,4204 W Main St,,,Belleville,Illinois,,62226,,6184167261,2018-07-24 01:33:18,2018-08-24 00:30:23,United States,-90.02053343,38.53796122,

@@ -4,31 +4,12 @@ import { existsSync, mkdirSync, writeFileSync, readFileSync } from "fs";
 import Papa from "papaparse";
 import { join } from "path";
 import slugify from "slugify";
+import { headers } from "./config";
 import type { Brewery } from "./utils/types";
 
 const slugifyOptions = { remove: /[*+~.,()'"!:@/]/g };
 const csvFilePath = join(__dirname, "../breweries.csv");
 const storePath = join(__dirname, "../data");
-const headers = [
-  "id",
-  "name",
-  "brewery_type",
-  "street",
-  "address_2",
-  "address_3",
-  "city",
-  "state",
-  "county_province",
-  "postal_code",
-  "website_url",
-  "phone",
-  "created_at",
-  "updated_at",
-  "country",
-  "longitude",
-  "latitude",
-  "tags",
-];
 
 type Country = string;
 type Region = string;
@@ -48,11 +29,14 @@ const main = () => {
     const breweries = results.data;
 
     for (let brewery of breweries) {
-      if (!brewery.id) continue;
+      if (!brewery.obdb_id) continue;
 
       const region =
         brewery.state === "" ? brewery.county_province : brewery.state;
-      const countrySlug = slugify(brewery.country.toLowerCase(), slugifyOptions);
+      const countrySlug = slugify(
+        brewery.country.toLowerCase(),
+        slugifyOptions
+      );
       const regionSlug = slugify(region.toLowerCase(), slugifyOptions);
 
       if (output[countrySlug] === undefined) {
@@ -83,7 +67,7 @@ const main = () => {
         }
 
         // Sort breweries by ID
-        output[country][region].sort((a, b) => a.id.localeCompare(b.id));
+        output[country][region].sort((a, b) => a.obdb_id.localeCompare(b.obdb_id));
 
         // Write to state file
         writeFileSync(
@@ -100,6 +84,6 @@ const main = () => {
   } catch (error) {
     console.error(`🛑 ${error}`);
   }
-}
+};
 
 main();

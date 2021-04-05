@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 23rd-street-brewery-lawrence,23rd Street Brewery,brewpub,3512 Clinton Pkwy,,,Lawrence,Kansas,,66047-2145,http://www.brew23.com,7858562337,2018-07-24 01:33:25,2018-08-24 00:38:19,United States,-95.28093353,38.9429674,
 aero-plains-brewing-wichita,Aero Plains Brewing,micro,117 N Handley St,,,Wichita,Kansas,,67203-6114,http://www.aeroplainsbrewing.com,3164482811,2018-07-24 01:33:25,2018-08-24 00:38:20,United States,-97.35071131,37.68455054,
 augustino-brewing-wichita,Augustino Brewing,brewpub,756 N Tyler Rd,,,Wichita,Kansas,,67212-3617,http://www.augustinobrew.com,3167215554,2018-07-24 01:33:25,2018-08-24 00:38:21,United States,-97.44431468,37.69517328,

@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 13-below-brewery-cincinnati,13 Below Brewery,micro,7391 Forbes Rd,,,Cincinnati,Ohio,,45233-1013,http://www.13belowbrewery.com,5139750613,2018-07-24 01:34:37,2018-07-24 01:34:37,United States,-84.70634815,39.12639764,
 16-lots-brewing-mason,16 Lots Brewing,brewpub,753 Reading Rd,,,Mason,Ohio,,45040-1303,http://www.16lots.com,5134863672,2018-07-24 01:34:37,2018-07-24 01:34:37,United States,-84.3183801,39.3545967,
 2-tones-brewing-co-whitehall,2 Tones Brewing Co.,micro,4539 E Broad St,,,Whitehall,Ohio,,43213-1308,http://www.2tonesbrewingco.com,,2018-07-24 01:34:37,2020-10-11 19:04:00,United States,-82.9118174,40.0030689,

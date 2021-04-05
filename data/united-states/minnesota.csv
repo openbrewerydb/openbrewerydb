@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 10k-brewing-anoka,10K Brewing,micro,2005 2nd Ave,,,Anoka,Minnesota,,55303-2243,http://10KBrew.com,7633924753,2018-07-24 01:33:38,2018-08-24 00:44:43,United States,-93.38952559,45.19812039,
 12welve-eyes-brewing-saint-paul,12welve Eyes Brewing,micro,141 E 4th St Ste LL2,,,Saint Paul,Minnesota,,55101-1639,http://www.12welveEyes.com,6514938106,2018-07-24 01:33:38,2018-08-11 21:37:59,United States,,,
 14-lakes-brewery-crosslake,14 Lakes Brewery,micro,,,,Crosslake,Minnesota,,56442,,2186924129,2018-07-24 01:33:38,2018-08-11 21:37:59,United States,,,

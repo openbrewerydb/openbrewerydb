@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 backswing-brewing-co-lincoln,Backswing Brewing Co.,micro,500 W South St Ste 8,,,Lincoln,Nebraska,,68522-1744,http://www.backswingbrewing.com,4025154263,2018-07-24 01:33:43,2018-08-11 21:38:14,United States,,,
 barley-boys-brewery-omaha,Barley Boys Brewery,planning,,,,Omaha,Nebraska,,68144-1922,http://www.barleyboysbrewery.com,4025986096,2018-07-24 01:33:43,2018-08-11 21:38:14,United States,,,
 benson-brewery-omaha,Benson Brewery,brewpub,6059 Maple St,,,Omaha,Nebraska,,68104-4050,http://www.bensonbrewery.com,4029348668,2018-07-24 01:33:43,2018-08-24 00:47:32,United States,-96.00634511,41.28489756,

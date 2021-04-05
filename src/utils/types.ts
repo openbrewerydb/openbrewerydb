@@ -1,5 +1,25 @@
+export type BreweryKey =
+  | "obdb_id"
+  | "name"
+  | "brewery_type"
+  | "street"
+  | "address_2"
+  | "address_3"
+  | "city"
+  | "state"
+  | "county_province"
+  | "postal_code"
+  | "website_url"
+  | "phone"
+  | "created_at"
+  | "updated_at"
+  | "country"
+  | "longitude"
+  | "latitude"
+  | "tags";
+
 export interface Brewery {
-  id: string;
+  obdb_id: string;
   name: string;
   brewery_type: string;
   street: string;

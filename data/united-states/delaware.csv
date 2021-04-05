@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 16-mile-brewing-co-georgetown,16 Mile Brewing Co,micro,413 S Bedford St,,,Georgetown,Delaware,,19947-1849,http://www.16milebrewery.com,3022538816,2018-07-24 01:33:10,2018-08-24 00:25:58,United States,-75.37816436,38.6788938,
 38adeg-75adeg-brewing-rehoboth-beach,38Â°-75Â° Brewing,brewpub,2000 Coastal Highway STE 105,,,Rehoboth Beach,Delaware,,19971,,3022278519,2018-07-24 01:33:10,2018-08-24 00:25:58,United States,-75.090191,38.7074994,
 3rd-wave-brewing-co-delmar,3rd Wave Brewing Co,micro,501 N Bi State Blvd,,,Delmar,Delaware,,19940-1106,http://www.3rdwavebrewingco.com,3029070423,2018-07-24 01:33:10,2018-08-11 21:36:48,United States,,,

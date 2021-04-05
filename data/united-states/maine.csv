@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 2-feet-brewing-company-bangor,2 Feet Brewing Company,brewpub,80 Columbia St,,,Bangor,Maine,,04401-6319,http://www.2feetbrewing.com,2075731979,2018-07-24 01:33:27,2018-08-24 00:39:29,United States,-68.77283099,44.80012684,
 airline-brewing-company-amherst,Airline Brewing Company,micro,22 Mill Ln,,,Amherst,Maine,,4428,http://www.abcmaine.beer,2075842337,2018-07-24 01:33:27,2018-08-24 00:39:29,United States,-68.3677435,44.8329462,
 allagash-brewing-co-portland,Allagash Brewing Co,regional,50 Industrial Way,,,Portland,Maine,,04103-1270,http://www.allagash.com,2078785385,2018-07-24 01:33:27,2018-08-24 00:39:30,United States,-70.3179518,43.7030951,

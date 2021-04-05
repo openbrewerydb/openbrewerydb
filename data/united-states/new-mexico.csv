@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 550-brewing-aztec,550 Brewing,proprietor,119 E Chuska St,,,Aztec,New Mexico,,87410-2110,http://Www.550brew.com,5054861094,2018-07-24 01:33:48,2018-08-24 15:37:15,United States,-107.9950235,36.8213739,
 abbey-brewing-company-llc-santa-fe,"Abbey Brewing Company, LLC",micro,215 W. Alicante Rd,,,Santa Fe,New Mexico,,87505,http://www.abbeybrewing.biz,5056706802,2018-07-24 01:33:48,2018-08-24 15:37:15,United States,-105.9465207,35.66555826,
 ale-republic-cedar-crest,Ale Republic,micro,28 Arroyo Seco,,,Cedar Crest,New Mexico,,87008,http://www.alerepublic.com,5052812828,2018-07-24 01:33:48,2018-08-11 21:38:26,United States,,,

@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 10-barrel-brewing-co-san-diego,10 Barrel Brewing Co,large,1501 E St,,,San Diego,California,,92101-6618,http://10barrel.com,6195782311,2018-07-24 01:32:51,2018-08-23 23:23:42,United States,-117.129593,32.714813,
 101-north-brewing-company-petaluma,101 North Brewing Company,micro,1304 Scott St Ste D,,,Petaluma,California,,94954-7100,http://www.101northbeer.com,7077534934,2018-07-24 01:32:51,2018-08-11 21:35:53,United States,,,
 14-cannons-brewing-company-westlake-village,14 Cannons Brewing Company,micro,31125 Via Colinas Ste 907,,,Westlake Village,California,,91362-3974,http://14cannons.com,8186996165,2018-07-24 01:32:51,2018-08-23 23:23:43,United States,-118.802397,34.15334,

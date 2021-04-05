@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 13-stripes-brewery-taylors,13 Stripes Brewery,brewpub,"250 Mill St, Suite PW3101",,,Taylors,South Carolina,,29687,http://www.13StripesBrewery.com,8643491430,2018-07-24 01:34:14,2018-08-11 21:39:35,United States,,,
 aiken-brewing-co-aiken,Aiken Brewing Co,brewpub,140 Laurens St SW,,,Aiken,South Carolina,,29801-3848,http://www.aikenbrewingcompany.com,8035020707,2018-07-24 01:34:14,2018-08-24 16:14:08,United States,-81.7228141,33.5603084,
 angry-fish-brewing-company-lexington,Angry Fish Brewing Company,micro,106 Fabrister Ln Ste C,,,Lexington,South Carolina,,29072,http://angryfishbewingco.com,8035707470,2018-07-24 01:34:14,2018-08-11 21:39:35,United States,,,

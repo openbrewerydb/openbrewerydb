@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 1840-brewing-company-milwaukee,1840 Brewing Company,micro,342 E Ward St,,,Milwaukee,Wisconsin,,53207-1348,http://www.1840brewing.com,4142364056,2018-07-24 01:34:34,2018-08-24 16:41:45,United States,-87.90606942,43.00436242,
 3-sheeps-brewing-co-sheboygan,3 Sheeps Brewing Co,micro,1837 North Ave,,,Sheboygan,Wisconsin,,53083-4620,http://www.3sheepsbrewing.com,9209469715,2018-07-24 01:34:34,2018-08-24 16:41:47,United States,-87.73006524,43.77384561,
 608-brewing-company-la-crosse,608 Brewing Company,planning,,,,La Crosse,Wisconsin,,54603,http://www.608brewingcompany.com,,2018-07-24 01:34:34,2018-08-11 21:40:30,United States,,,

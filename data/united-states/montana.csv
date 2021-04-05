@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 2-basset-brewery-white-sulphur-springs,2 Basset Brewery,micro,202 E Main St,,,White Sulphur Springs,Montana,,59645-9081,http://www.2bassetbrewery.com,4065472337,2018-07-24 01:33:42,2018-08-24 00:46:55,United States,-110.9004865,46.54807609,
 380-brewing-company-clancy,380 Brewing Company,planning,,,,Clancy,Montana,,59634,,2065796509,2018-07-24 01:33:42,2018-08-11 21:38:10,United States,,,
 406-brewing-company-bozeman,406 Brewing Company,micro,"101 E Oak St,Â Ste D",,,Bozeman,Montana,,59715-2967,http://www.406brewingcompany.com,4065853745,2018-07-24 01:33:42,2018-08-11 21:38:10,United States,,,

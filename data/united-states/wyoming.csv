@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 accomplice-beer-company-cheyenne,Accomplice Beer Company,brewpub,115 W 15th St,,,Cheyenne,Wyoming,,82001-4564,http://www.accomplicebeer.com,3076322337,2018-07-24 01:34:37,2018-08-24 16:46:34,United States,-104.819296,41.130063,
 altitude-chophouse-and-brewery-laramie,Altitude Chophouse and Brewery,brewpub,320 S 2nd St,,,Laramie,Wyoming,,82070-3612,http://www.altitudechophouse.com,3077214031,2018-07-24 01:34:37,2018-08-24 16:46:36,United States,-105.5953366,41.31038565,
 big-lost-meadery-and-brewery-gillette,Big Lost Meadery and Brewery,micro,106 S Gillette Ave,,,Gillette,Wyoming,,82716,http://www.biglostmeadery.com,3076603199,2018-07-24 01:34:37,2018-08-24 16:46:38,United States,-105.5046114,44.2866583,

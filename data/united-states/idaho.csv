@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 10-barrel-brewing-co-boise-boise,10 Barrel Brewing Co - Boise,large,826 W Bannock St,,,Boise,Idaho,,83702-5857,http://www.10barrel.com,2083445870,2018-07-24 01:33:17,2020-10-11 17:00:13,United States,-116.202929,43.618516,
 2c-family-brewing-co-nampa,2C Family Brewing Co.,micro,1215 1st St S,,,Nampa,Idaho,,83651-3957,,2084753981,2018-07-24 01:33:17,2020-10-11 18:03:11,United States,-116.559282,43.578989,
 barbarian-brewing-downtown-taproom-boise,Barbarian Brewing - Downtown Taproom,micro,1022 W Main St,,,Boise,Idaho,,83702-5705,https://barbarianbrewing.com,2083872739,2020-10-11 17:37:49,2020-10-11 17:37:49,United States,-116.206883,43.618407,

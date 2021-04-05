@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 23-brewing-company-lizzie-b-s-cafe-prestonsburg,23 Brewing Company / Lizzie B's Cafe,brewpub,2010 KY Route 321,,,Prestonsburg,Kentucky,,41653-9103,http://www.23brewingcompany.com,6068862844,2018-07-24 01:33:25,2018-08-11 21:37:27,United States,,,
 3rd-turn-brewing-louisville,3rd Turn Brewing,micro,10408 Watterson Trl,,,Louisville,Kentucky,,40299-3702,http://www.3rdturnbrewing.com,,2018-07-24 01:33:25,2018-08-24 00:38:39,United States,-85.56656078,38.19322725,
 against-the-grain-beer-garden-louisville,Against the Grain Beer Garden,planning,,,,Louisville,Kentucky,,40217,,,2018-07-24 01:33:25,2018-08-11 21:37:27,United States,,,

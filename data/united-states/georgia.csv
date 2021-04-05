@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 400-north-brewing-sugarhill,400 North Brewing,planning,,,,Sugarhill,Georgia,,30518-7916,http://400northbrewing.com,4047911119,2018-07-24 01:33:15,2018-08-11 21:37:01,United States,,,
 5-seasons-brewing-co-prado-sandy-springs,5 Seasons Brewing Co - Prado,brewpub,5600 Roswell Rd,,,Sandy Springs,Georgia,,30342-1150,http://www.5seasonsbrewing.com,4042555911,2018-07-24 01:33:15,2018-08-24 00:28:56,United States,-84.3796711,33.9078086,
 5-seasons-brewing-co-westside-atlanta,5 Seasons Brewing Co - Westside,brewpub,1000 Marietta St NW Ste 204,,,Atlanta,Georgia,,30318-0683,http://www.5seasonsbrewing.com,4048753232,2018-07-24 01:33:15,2018-08-11 21:37:01,United States,,,

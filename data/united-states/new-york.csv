@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 12-gates-brewing-company-williamsville,12 Gates Brewing Company,brewpub,80 Earhart Dr Ste 20,,,Williamsville,New York,,14221-7804,http://www.12gatesbrewing.com,7169066600,2018-07-24 01:33:49,2018-08-11 21:38:29,United States,,,
 16-stone-brewpub-holland-patent,16 Stone Brewpub,brewpub,9542 Main St,,,Holland Patent,New York,,13354,http://www.16stonebrewpub.com,3158658500,2018-07-24 01:33:49,2018-08-24 15:37:55,United States,-75.2565195,43.24211175,
 1940-s-brewing-company-holbrook,1940's Brewing Company,micro,1337 Lincoln Ave Unit 1,,,Holbrook,New York,,11741-2275,http://www.1940sbrewingcompany.com,6315334838,2018-07-24 01:33:49,2018-08-11 21:38:29,United States,,,

@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 603-brewery-londonderry,603 Brewery,micro,12 Liberty Dr Unit 7,,,Londonderry,New Hampshire,,03053-2286,http://www.603brewery.com,6036307745,2018-07-24 01:33:45,2018-08-11 21:38:18,United States,,,
 7th-settlement-brewery-dover,7th Settlement Brewery,brewpub,47 Washington St,,,Dover,New Hampshire,,03820-3877,http://www.7thsettlement.com,6033731001,2018-07-24 01:33:45,2018-08-24 15:35:53,United States,-70.8728379,43.1953787,
 able-ebenezer-brewing-company-merrimack,Able Ebenezer Brewing Company,micro,31 Columbia Cir,,,Merrimack,New Hampshire,,03054-4161,http://www.ableebenezer.com,8442232253,2018-07-24 01:33:45,2018-08-24 15:35:54,United States,-71.493705,42.851742,

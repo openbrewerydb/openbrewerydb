@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 405-brewing-co-norman,(405) Brewing Co,micro,1716 Topeka St,,,Norman,Oklahoma,,73069-8224,http://www.405brewing.com,4058160490,2018-07-24 01:34:04,2018-08-24 15:45:26,United States,-97.46818222,35.25738891,
 american-solera-tulsa,American Solera,micro,1702 E 6th St,,,Tulsa,Oklahoma,,74104,http://www.americansolera.com,9189494318,2018-07-24 01:34:04,2020-10-19 22:00:00,United States,-95.9667403,36.1518928,
 angry-scotsman-brewing-oklahoma-city,Angry Scotsman Brewing,contract,704 W Reno Ave,,,Oklahoma City,Oklahoma,,73102-2434,http://www.angryscotbrew.com,4056737713,2018-07-24 01:34:04,2020-10-19 22:00:00,United States,-97.6002769,35.4644206,

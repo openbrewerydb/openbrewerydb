@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 26-degree-brewing-company-pompano-beach,26 Degree Brewing Company,micro,2600 E Atlantic Blvd,,,Pompano Beach,Florida,,33062-4940,,9545326964,2018-07-24 01:33:11,2018-08-24 00:26:20,United States,-80.1224169,26.2316338,
 3-daughters-brewing-saint-petersburg,3 Daughters Brewing,micro,222 22nd St S,,,Saint Petersburg,Florida,,33712-1240,http://www.3dbrewing.com,7274956002,2018-07-24 01:33:11,2018-08-24 00:26:21,United States,-82.6629721,27.76899022,
 3-keys-brewing-company-llc-bradenton,"3 Keys Brewing Company, LLC",brewpub,2505 Manatee Ave E,,,Bradenton,Florida,,34208-2421,http://www.3keysbrewing.com,9412180396,2018-07-24 01:33:11,2018-08-24 00:26:22,United States,-82.53393502,27.49645026,

@@ -1,4 +1,4 @@
-id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
 30-mile-brewing-co-old-saybrook,30 Mile Brewing Co.,micro,39 Ragged Rock Rd Unit 5,,,Old Saybrook,Connecticut,,06475-1518,http://www.30milebrewingco.com,8603395238,2018-07-24 01:33:09,2018-08-11 21:36:45,United States,,,
 alvarium-beer-company-new-britain,Alvarium Beer Company,micro,365 John Downey Dr Ste B,,,New Britain,Connecticut,,06051-2922,http://www.alvariumbeer.com,8603572039,2018-07-24 01:33:09,2018-08-11 21:36:45,United States,,,
 armada-brewing-east-haven,Armada Brewing,contract,250 Bradley Street,,,East Haven,Connecticut,,6512,http://www.armadabeer.com,4754413759,2018-07-24 01:33:09,2018-08-24 00:25:21,United States,-72.87397563,41.29004301,
