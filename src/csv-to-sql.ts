@@ -24,8 +24,6 @@ try {
   const breweries = result.data;
   console.log(`📖 Read ${breweries.length} rows from ${csvPath}...`);
 
-  console.log(breweries);
-
   let sql = pgp.helpers.insert(breweries, cs) +
       " ON CONFLICT(obdb_id) DO UPDATE SET " +
       cs.assignColumns({from: "EXCLUDED", skip: "obdb_id"});
