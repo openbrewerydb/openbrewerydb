@@ -15,6 +15,21 @@ Provide an approval-based pipeline to update the dataset and API.
 
 * [CSV](breweries.csv)
 * [JSON](breweries.json)
+* [PostgreSQL SQL](breweries.sql)
+
+## 🚀 Getting Started
+
+### Contributing
+
+1. Fork the repository
+2. Add or update breweries in the CSV (Excel, Google Sheets)
+3. Submit a Pull Request
+
+#### Tips
+
+* CSVs are organized by `data/[country]/[state]` or `data/[country]/[county_province]`
+* Required fields/columns: `name`, `street`, `brewery_type`, `city`, `state` (or `county_province`), `postal_code`, and `country`
+* Dates are formatted `YYYY-MM-DD` ()
 
 ## 🚛 Roadmap
 
