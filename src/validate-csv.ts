@@ -74,7 +74,8 @@ const main = async () => {
     }
     console.log(`✅  All ${files.length} files are valid!`);
   } catch (error) {
-    console.error(`🛑 ${error}`);
+    console.error(`${error}`);
+    throw new Error("🛑 Invalid CSV");
   }
 };
 
