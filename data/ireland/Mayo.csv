@@ -1,0 +1,3 @@
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,country,longitude,latitude,phone,website_url,updated_at,created_at,tags
+mescan-brewery-kilsallagh,Mescan Brewery,micro,Cartoor,,,Kilsallagh,,Mayo,F28 FW70,Ireland,9.73047,53.7471934,+353868320320,https://www.mescanbrewery.com/,2021-03-26,2021-03-26,
+reel-deel-brewery-crossmolina,Reel Deel Brewery,micro,Unit 1 Ind Park,Knockalegan,,Crossmolina,,Mayo,F26 FA09,Ireland,-9.312703,54.1008129,+353860779391,http://reeldeelbrewery.ie/,2021-03-26,2021-03-26,
