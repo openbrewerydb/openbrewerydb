@@ -1,0 +1,4 @@
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,country,longitude,latitude,phone,website_url,updated_at,created_at,tags
+costellos-brewing-company-kilkenny,Costellos Brewing Company,micro,58D Hebron Industrial Estate,Hebron Road,,Kilkenny,,Kilkenny,R95 AFN8,Ireland,-7.2312229,52.6542803,+353868102320,http://www.costellosbrewco.ie/,2021-03-26,2021-03-26,
+smithwicks-diageo-kilkenny,Smithwick's (Diageo),regional,44 Parliament St,Gardens,,Kilkenny,,Kilkenny,R95 VK54,Ireland,-7.2562989,52.6543719,+353567786377,https://www.smithwicksexperience.com/,2021-03-26,2021-03-26,
+sullivans-brewing-company-kilkenny,Sullivan's Brewing Company,regional,15 John Street Lower,Collegepark,,Kilkenny,,Kilkenny,R95 H2CE,Ireland,-7.2511279,52.652832,+353567797980,https://www.sullivansbrewingcompany.com/,2021-03-26,2021-03-26,

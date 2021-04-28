@@ -1,0 +1,4 @@
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,country,longitude,latitude,phone,website_url,updated_at,created_at,tags
+killarney-brewing-company-killarney,Killarney Brewing Company,micro,Muckross Rd ,,,Killarney,,Kerry,V93 RC95,Ireland,-9.5092943,52.0543192,+353646636505,http://www.killarneybrewing.com/,2021-03-26,2021-03-26,
+tig-bhric-west-kerry-brewery-ballyferriter,Tig Bhric & West Kerry Brewery,brewpub,Reask,Dingle Peninsula,,Ballyferriter,,Kerry,V92 P681,Ireland,-10.3932719,52.1697735,+353876822834,https://westkerrybrewery.ie/,2021-03-26,2021-03-26,
+torc-brewing-killarney,Torc Brewing,micro,JD Industrial Park,Scart,,Killarney,,Kerry,V93 H761,Ireland,-9.5564852,52.1402528,+353876595858,http://www.torcbrewing.ie/,2021-03-26,2021-03-26,
