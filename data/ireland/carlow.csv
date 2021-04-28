@@ -1,2 +1,2 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,country,longitude,latitude,phone,website_url,updated_at,created_at,tags
-carlow-brewing-company-bagenalstown,Carlow Brewing Company,micro,Muine Bheag Business Park,Royal Oak Rd,Moneybeg,Bagenalstown,,Carlow,R21 DR77,Ireland,-6.9783782,52.6965818,+353599720509,http://www.carlowbrewing.com/,2021-03-26,2021-03-26,
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+carlow-brewing-company-bagenalstown,Carlow Brewing Company,micro,Muine Bheag Business Park,Royal Oak Rd,Moneybeg,Bagenalstown,,Carlow,R21 DR77,http://www.carlowbrewing.com/,3.536E+11,2021-03-26,2021-03-26,Ireland,-6.9783782,52.6965818,

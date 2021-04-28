@@ -1,5 +1,5 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,country,longitude,latitude,phone,website_url,updated_at,created_at,tags
-boghopper-brewery-muff,Boghopper Brewery,micro,Kilderry Business Park,6 Kilderry Ln,Ardmore,Muff,,Donegal,F93 WN63,Ireland,-7.262928485870362,55.06640125312684,+353873256993,,2021-03-26,2021-03-26,
-donegal-brewing-company-ballyshannon,Donegal Brewing Company,regional,Unit 1 Erneside Business Park,Portnason,,Ballyshannon,,Donegal,F94 Y2NE,Ireland,-8.2142367,54.4977199,+353719852434,https://mcmbrands.ie/beer/,2021-03-26,2021-03-26,
-kinnegar-brewing-letterkenny,Kinnegar Brewing,micro,K2,Ballyraine Industrial Estate,,Letterkenny,,Donegal,F92 R263,Ireland,-7.7083241,54.9557214,+353749103890,,2021-03-26,2021-03-26,
-old-mill-brewing-company-convoy,Old Mill Brewing Company,micro,Convoy Enterprise Centre,,,Convoy,,Donegal,F93 X314,Ireland,-7.6664472,54.8605864,+353833447788,,2021-03-26,2021-03-26,
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+boghopper-brewery-muff,Boghopper Brewery,micro,Kilderry Business Park,6 Kilderry Ln,Ardmore,Muff,,Donegal,F93 WN63,,3.53873E+11,2021-03-26,2021-03-26,Ireland,-7.262928486,55.06640125,
+donegal-brewing-company-ballyshannon,Donegal Brewing Company,regional,Unit 1 Erneside Business Park,Portnason,,Ballyshannon,,Donegal,F94 Y2NE,https://mcmbrands.ie/beer/,3.5372E+11,2021-03-26,2021-03-26,Ireland,-8.2142367,54.4977199,
+kinnegar-brewing-letterkenny,Kinnegar Brewing,micro,K2,Ballyraine Industrial Estate,,Letterkenny,,Donegal,F92 R263,,3.53749E+11,2021-03-26,2021-03-26,Ireland,-7.7083241,54.9557214,
+old-mill-brewing-company-convoy,Old Mill Brewing Company,micro,Convoy Enterprise Centre,,,Convoy,,Donegal,F93 X314,,3.53833E+11,2021-03-26,2021-03-26,Ireland,-7.6664472,54.8605864,

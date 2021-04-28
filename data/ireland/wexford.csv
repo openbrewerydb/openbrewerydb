@@ -1,3 +1,3 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,country,longitude,latitude,phone,website_url,updated_at,created_at,tags
-drew-fox-brewing-company-wexford,Drew Fox Brewing Company,micro,Unit 8,Clonard Rd,Westpoint Business Park,Wexford,,Wexford,Y35 HN50,Ireland,-6.4921242,52.3311164,,http://www.cleverman.ie/,2021-03-26,2021-03-26,
-yellowbelly-beer-wexford,YellowBelly Beer,micro,Whiterock Hill,Pembrokestown,,Wexford,,Wexford,Y35 HW27,Ireland,-6.5241152,52.3231087,+353539142555,http://www.yellowbellybeer.ie/,2021-03-26,2021-03-26,
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+drew-fox-brewing-company-wexford,Drew Fox Brewing Company,micro,Unit 8,Clonard Rd,Westpoint Business Park,Wexford,,Wexford,Y35 HN50,http://www.cleverman.ie/,,2021-03-26,2021-03-26,Ireland,-6.4921242,52.3311164,
+yellowbelly-beer-wexford,YellowBelly Beer,micro,Whiterock Hill,Pembrokestown,,Wexford,,Wexford,Y35 HW27,http://www.yellowbellybeer.ie/,3.53539E+11,2021-03-26,2021-03-26,Ireland,-6.5241152,52.3231087,

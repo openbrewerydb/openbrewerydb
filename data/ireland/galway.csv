@@ -1,4 +1,4 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,country,longitude,latitude,phone,website_url,updated_at,created_at,tags
-bridewell-brewery-clifden,Bridewell Brewery,micro,Bridewell Lane,,,Clifden,,Galway,H71 AW08,Ireland,-10.020415421663486,53.487148700000006,+353871279346,https://www.bridewellbrewery.ie/,2021-03-26,2021-03-26,
-galway-bay-brewery-oranmore,Galway Bay Brewery,regional,Carrowmoneash,Station Rd,,Oranmore,,Galway,H91 FA31,Ireland,-8.9290923,53.2817059,+353861700458,http://www.galwaybaybrewery.com/,2021-03-26,2021-03-26,
-galway-hooker-brewery-oranmore,Galway Hooker Brewery,regional,Deerpark,,,Oranmore,,Galway,H91 DX6N,Ireland,-8.9290923,53.2817059,+35391483912,http://www.galwayhooker.ie/,2021-03-26,2021-03-26,
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+bridewell-brewery-clifden,Bridewell Brewery,micro,Bridewell Lane,,,Clifden,,Galway,H71 AW08,https://www.bridewellbrewery.ie/,3.53871E+11,2021-03-26,2021-03-26,Ireland,-10.02041542,53.4871487,
+galway-bay-brewery-oranmore,Galway Bay Brewery,regional,Carrowmoneash,Station Rd,,Oranmore,,Galway,H91 FA31,http://www.galwaybaybrewery.com/,3.53862E+11,2021-03-26,2021-03-26,Ireland,-8.9290923,53.2817059,
+galway-hooker-brewery-oranmore,Galway Hooker Brewery,regional,Deerpark,,,Oranmore,,Galway,H91 DX6N,http://www.galwayhooker.ie/,35391483912,2021-03-26,2021-03-26,Ireland,-8.9290923,53.2817059,

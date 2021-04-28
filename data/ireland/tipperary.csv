@@ -1,3 +1,3 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,country,longitude,latitude,phone,website_url,updated_at,created_at,tags
-canvas-brewery-roscrea,Canvas Brewery,micro,Fortmoy Aglish,,,Roscrea,,Tipperary,E53 D822,Ireland,-8.11651136368225,53.047928600000006,+353871268539,https://www.canvasbrewery.com/,2021-03-26,2021-03-26,
-white-gypsy-brewery-templemore,White Gypsy Brewery,micro,Templemore Enterprise Centre,Railway Rd,Kiltillane,Templemore,,Tipperary,E41 W110,Ireland,-7.8294975,52.7929206,+35350456572,http://www.whitegypsy.ie/,2021-03-26,2021-03-26,
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
+canvas-brewery-roscrea,Canvas Brewery,micro,Fortmoy Aglish,,,Roscrea,,Tipperary,E53 D822,https://www.canvasbrewery.com/,3.53871E+11,2021-03-26,2021-03-26,Ireland,-8.116511364,53.0479286,
+white-gypsy-brewery-templemore,White Gypsy Brewery,micro,Templemore Enterprise Centre,Railway Rd,Kiltillane,Templemore,,Tipperary,E41 W110,http://www.whitegypsy.ie/,35350456572,2021-03-26,2021-03-26,Ireland,-7.8294975,52.7929206,
