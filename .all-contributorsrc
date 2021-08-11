@@ -180,6 +180,21 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "chrisjm",
+      "name": "Chris Mears",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96110?v=4",
+      "profile": "https://chrisjmears.com/",
+      "contributions": [
+        "question",
+        "code",
+        "data",
+        "maintenance",
+        "projectManagement",
+        "tool",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7
