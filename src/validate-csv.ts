@@ -33,8 +33,6 @@ const main = async () => {
       "brewery_type",
       "city",
       "country",
-      "created_at",
-      "updated_at",
     ],
     properties: {
       obdb_id: {
@@ -50,12 +48,6 @@ const main = async () => {
         type: "string",
       },
       city: {
-        type: "string",
-      },
-      created_at: {
-        type: "string",
-      },
-      updated_at: {
         type: "string",
       },
       country: {

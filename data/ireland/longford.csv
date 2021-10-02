@@ -1,2 +1,2 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
-st-mels-brewing-company-longford,St. Mel's Brewing Company,micro,Unit 4 Longford Community Enterprise Centre,Ballinalee Rd,,Longford,,Longford,N39 K2Y0,https://www.stmelsbrewing.com/,3.53433E+11,2021-03-26,2021-03-26,Ireland,-7.7844491,53.7335776,
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
+st-mels-brewing-company-longford,St. Mel's Brewing Company,micro,Unit 4 Longford Community Enterprise Centre,Ballinalee Rd,,Longford,,Longford,N39 K2Y0,https://www.stmelsbrewing.com/,3.53433E+11,Ireland,-7.7844491,53.7335776,

@@ -1,4 +1,4 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
-costellos-brewing-company-kilkenny,Costellos Brewing Company,micro,58D Hebron Industrial Estate,Hebron Road,,Kilkenny,,Kilkenny,R95 AFN8,http://www.costellosbrewco.ie/,3.53868E+11,2021-03-26,2021-03-26,Ireland,-7.2312229,52.6542803,
-smithwicks-diageo-kilkenny,Smithwick's (Diageo),regional,44 Parliament St,Gardens,,Kilkenny,,Kilkenny,R95 VK54,https://www.smithwicksexperience.com/,3.53568E+11,2021-03-26,2021-03-26,Ireland,-7.2562989,52.6543719,
-sullivans-brewing-company-kilkenny,Sullivan's Brewing Company,regional,15 John Street Lower,Collegepark,,Kilkenny,,Kilkenny,R95 H2CE,https://www.sullivansbrewingcompany.com/,3.53568E+11,2021-03-26,2021-03-26,Ireland,-7.2511279,52.652832,
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
+costellos-brewing-company-kilkenny,Costellos Brewing Company,micro,58D Hebron Industrial Estate,Hebron Road,,Kilkenny,,Kilkenny,R95 AFN8,http://www.costellosbrewco.ie/,3.53868E+11,Ireland,-7.2312229,52.6542803,
+smithwicks-diageo-kilkenny,Smithwick's (Diageo),regional,44 Parliament St,Gardens,,Kilkenny,,Kilkenny,R95 VK54,https://www.smithwicksexperience.com/,3.53568E+11,Ireland,-7.2562989,52.6543719,
+sullivans-brewing-company-kilkenny,Sullivan's Brewing Company,regional,15 John Street Lower,Collegepark,,Kilkenny,,Kilkenny,R95 H2CE,https://www.sullivansbrewingcompany.com/,3.53568E+11,Ireland,-7.2511279,52.652832,

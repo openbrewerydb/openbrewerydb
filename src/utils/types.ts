@@ -11,8 +11,6 @@ export type BreweryKey =
   | "postal_code"
   | "website_url"
   | "phone"
-  | "created_at"
-  | "updated_at"
   | "country"
   | "longitude"
   | "latitude"
@@ -31,8 +29,6 @@ export interface Brewery {
   postal_code: string;
   website_url: string;
   phone: string;
-  created_at: string;
-  updated_at: string;
   country: string;
   longitude: Float64Array;
   latitude: Float64Array;
