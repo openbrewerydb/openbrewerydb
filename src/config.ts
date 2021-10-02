@@ -11,8 +11,6 @@ export const headers = [
   "postal_code",
   "website_url",
   "phone",
-  "created_at",
-  "updated_at",
   "country",
   "longitude",
   "latitude",

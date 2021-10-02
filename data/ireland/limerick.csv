@@ -1,3 +1,3 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
-crew-brewing-company-limerick,Crew Brewing Company,micro,35 Thomas St,,,Limerick,,Limerick,V94 A5X4,http://www.crewbrewing.ie/,,2021-03-26,2021-03-26,Ireland,-8.6258884,52.6619598,
-treaty-city-brewing-co-limerick,Treaty City Brewing Co.,micro,24 & 25 Nicholas St,Medieval Quarter,,Limerick,,Limerick,V94 EH57,http://treatycitybrewery.ie/,3.53871E+11,2021-03-26,2021-03-26,Ireland,-8.6264874,52.6696543,
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
+crew-brewing-company-limerick,Crew Brewing Company,micro,35 Thomas St,,,Limerick,,Limerick,V94 A5X4,http://www.crewbrewing.ie/,,Ireland,-8.6258884,52.6619598,
+treaty-city-brewing-co-limerick,Treaty City Brewing Co.,micro,24 & 25 Nicholas St,Medieval Quarter,,Limerick,,Limerick,V94 EH57,http://treatycitybrewery.ie/,3.53871E+11,Ireland,-8.6264874,52.6696543,
