@@ -10,7 +10,7 @@
     "csv:split": "ts-eager ./src/split-csv.ts",
     "csv:combine": "ts-eager ./src/combine-csv.ts",
     "csv:validate": "ts-eager ./src/validate-csv.ts",
-    "sql": "ts-eager ./src/csv-to-sql.ts"
+    "csv:sql": "ts-eager ./src/csv-to-sql.ts"
   },
   "repository": {
     "type": "git",
