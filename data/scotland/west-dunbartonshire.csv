@@ -1,5 +1,5 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,created_at,updated_at,country,longitude,latitude,tags
-glen-luss-craft-brewery-distillery-alexandria,Glen Luss Craft Brewery & Distillery,micro,Church Road,Luss,,Alexandria,,West Dunbartonshire,G83 8NZ,https://glenluss.co.uk/,7913413699,2020-10-15,2020-10-15,Scotland,,,
-late-night-hype-brewing-co-clydebank,Late Night Hype Brewing Co,micro,Unit 17,Andrew Court,South Douglas Streeet,Clydebank,,West Dunbartonshire,G81 1PD,http://www.latenighthypebrewing.com/,1412611278,2020-10-15,2020-10-15,Scotland,55.8959515,-4.4023283,
-lennox-brewery-dumbarton,Lennox Brewery,micro,25 Lime Road,Broadmeadow Industrial Estate,,Dumbarton,,West Dunbartonshire,G82 2RP,https://www.lennoxbrewery.com/,1389298642,2020-10-15,2020-10-15,Scotland,55.9478947,-4.5708885,
-loch-lomond-brewery-dumbarton,Loch Lomond Brewery,micro,Block 2 Unit 11,Vale of Leven Industrial Estate,,Dumbarton,,West Dunbartonshire,G82 3PD,https://www.lochlomondbrewery.com/,1389755698,2020-10-15,2020-10-15,Scotland,55.969774,-4.576255,
+obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
+glen-luss-craft-brewery-distillery-alexandria,Glen Luss Craft Brewery & Distillery,micro,Church Road,Luss,,Alexandria,,West Dunbartonshire,G83 8NZ,https://glenluss.co.uk/,7913413699,Scotland,,,
+late-night-hype-brewing-co-clydebank,Late Night Hype Brewing Co,micro,Unit 17,Andrew Court,South Douglas Streeet,Clydebank,,West Dunbartonshire,G81 1PD,http://www.latenighthypebrewing.com/,1412611278,Scotland,55.8959515,-4.4023283,
+lennox-brewery-dumbarton,Lennox Brewery,micro,25 Lime Road,Broadmeadow Industrial Estate,,Dumbarton,,West Dunbartonshire,G82 2RP,https://www.lennoxbrewery.com/,1389298642,Scotland,55.9478947,-4.5708885,
+loch-lomond-brewery-dumbarton,Loch Lomond Brewery,micro,Block 2 Unit 11,Vale of Leven Industrial Estate,,Dumbarton,,West Dunbartonshire,G82 3PD,https://www.lochlomondbrewery.com/,1389755698,Scotland,55.969774,-4.576255,
