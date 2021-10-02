@@ -29,19 +29,6 @@ Provide an approval-based pipeline to update the dataset and API.
 
 * CSVs are organized by `data/[country]/[state]` or `data/[country]/[county_province]`
 * Required fields/columns: `name`, `street`, `brewery_type`, `city`, `state` (or `county_province`), `postal_code`, and `country`
-* Dates are formatted `YYYY-MM-DD` (**NOTE**: Be aware that Excel likes to automatically format dates incorrectly)
-
-## 🚛 Roadmap
-
-| Task | Status |
-| --- | --- |
-| ✅ | 📤 Release dataset in JSON and CSV |
-| ✅ | ⚙️ Task > Export JSON (/breweries.csv ➡️ /breweries.json) |
-| ✅ | ⚙️ Task > Split CSV (/breweries.csv ➡️ /data) |
-| ✅ | ⚙️ Task > Combine CSV (/data ➡️ /breweries.csv) |
-| ✅ | ⚙️ Github Action > Validate Data |
-|  | ⚙️ Github Action > Update Open Brewery DB API [#12](https://github.com/openbrewerydb/openbrewerydb/issues/12) |
-|  | 🤖 Unit Tests > Tasks |
 
 ## 🤝 Contributing
 
