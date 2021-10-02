@@ -6,6 +6,7 @@
     "json:export": "ts-eager ./src/export-json.ts",
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate",
+    "contributors:check": "all-contributors check",
     "csv:split": "ts-eager ./src/split-csv.ts",
     "csv:combine": "ts-eager ./src/combine-csv.ts",
     "csv:validate": "ts-eager ./src/validate-csv.ts",
