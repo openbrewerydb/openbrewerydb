@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/openbrewerydb/openbrewerydb#readme",
   "dependencies": {
+    "ajv": "^8.6.3",
     "glob": "^7.1.6",
     "glob-promise": "^4.1.0",
     "papaparse": "^5.2.0",
@@ -34,7 +35,6 @@
     "@types/papaparse": "^5.2.5",
     "all-contributors-cli": "^6.19.0",
     "ansi-regex": ">=5.0.1",
-    "csval": "^1.1.1",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.1.0",
     "eslint-plugin-import": "^2.20.2",
