@@ -1,3 +1,17 @@
+export enum BreweryType {
+  "micro",
+  "nano",
+  "regional",
+  "brewpub",
+  "large",
+  "planning",
+  "bar",
+  "contract",
+  "proprietor",
+  "taproom",
+  "closed",
+}
+
 export type BreweryKey =
   | "obdb_id"
   | "name"

@@ -1,28 +1,14 @@
 import { readFileSync } from "fs";
 import { join } from "path";
-import glob from "glob-promise";
-import type { Brewery } from "./utils/types";
-import Papa from "papaparse";
 import Ajv from "ajv";
+import glob from "glob-promise";
+import Papa from "papaparse";
+import { Brewery, BreweryType } from "./utils/types";
 
-const BREWERY_TYPES = [
-  "micro",
-  "nano",
-  "regional",
-  "brewpub",
-  "large",
-  "planning",
-  "bar",
-  "contract",
-  "proprietor",
-  "taproom",
-  "closed",
-];
-
-const fileGlob = join(__dirname, "../data/**/*.csv");
-
-// JSON Schema Validation
 const ajv = new Ajv();
+const ids: Record<string, Brewery> = {};
+
+/** JSON Schema */
 const schema = {
   type: "object",
   required: ["obdb_id", "name", "brewery_type", "city", "country"],
@@ -34,7 +20,7 @@ const schema = {
       type: "string",
     },
     brewery_type: {
-      enum: BREWERY_TYPES,
+      enum: Object.values(BreweryType),
     },
     street: {
       type: "string",
@@ -58,7 +44,6 @@ function checkValidity(data: Brewery) {
   }
 }
 
-const ids: Record<string, Brewery> = {};
 function checkUniqueness(data: Brewery) {
   if (ids[data.obdb_id]) {
     console.log(ids[data.obdb_id]);
@@ -71,6 +56,7 @@ function checkUniqueness(data: Brewery) {
 const main = async () => {
   try {
     const startTime = new Date().getTime();
+    const fileGlob = join(__dirname, "../data/**/*.csv");
     const files = await glob(fileGlob);
 
     for (let file of files) {
