@@ -4,10 +4,9 @@ import { existsSync, mkdirSync, writeFileSync, readFileSync } from "fs";
 import Papa from "papaparse";
 import { join } from "path";
 import slugify from "slugify";
-import { headers } from "./config";
+import { headers, slugifyOptions } from "./config";
 import type { Brewery } from "./utils/types";
 
-const slugifyOptions = { remove: /[*+~.,()'"!:@/]/g };
 const csvFilePath = join(__dirname, "../breweries.csv");
 const storePath = join(__dirname, "../data");
 

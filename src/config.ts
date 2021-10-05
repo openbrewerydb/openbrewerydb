@@ -16,3 +16,9 @@ export const headers = [
   "latitude",
   "tags",
 ];
+
+export const slugifyOptions = {
+  remove: /[*+~.,()'"!:@/]/g,
+  lower: true,
+  strict: true,
+};

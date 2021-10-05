@@ -15,14 +15,13 @@ glob(fileGlob, {}, (globError, files) => {
 
   if (!globError) {
     files.forEach((file) => {
-      console.log(`📖 Reading ${file}...`);
       try {
         const data = readFileSync(file, { encoding: "utf-8" });
         const result = Papa.parse<Brewery>(data, {
           header: true,
           skipEmptyLines: true,
         });
-        console.log(`✍️ Adding ${result.data.length} breweries...`);
+        console.log(`✍️ Adding ${result.data.length} breweries from ${file}`);
         breweries.push(...result.data);
       } catch (error) {
         console.error(error);
