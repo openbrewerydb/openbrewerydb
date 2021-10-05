@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "An open-source dataset of breweries, cideries, brewpubs, and bottleshops.",
   "scripts": {
+    "generate:ids": "ts-eager ./src/generate-ids.ts",
     "json:export": "ts-eager ./src/export-json.ts",
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate",
