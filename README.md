@@ -19,6 +19,10 @@ Provide an approval-based pipeline to update the dataset and API.
 
 ## 🚀 Getting Started
 
+A shared Postman collection containing all the API requests to fetch breweries information from the open-source dataset.
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1913239-1eef575a-1e78-4d6e-9678-f4649acce4ef?action=collection%2Ffork&collection-url=entityId%3D1913239-1eef575a-1e78-4d6e-9678-f4649acce4ef%26entityType%3Dcollection%26workspaceId%3D4d34510d-0d62-465a-a884-20c6ae1d468d)
+
 ### Contributing
 
 1. Fork the repository
