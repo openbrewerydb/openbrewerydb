@@ -3,37 +3,12 @@ import { join } from "path";
 import Ajv from "ajv";
 import glob from "glob-promise";
 import Papa from "papaparse";
-import { Brewery, BreweryType } from "./utils/types";
+import { Brewery } from "./utils/types";
+import { schema } from "./config";
 
 const ajv = new Ajv();
-const ids: Record<string, Brewery> = {};
-
-/** JSON Schema */
-const schema = {
-  type: "object",
-  required: ["obdb_id", "name", "brewery_type", "city", "country"],
-  properties: {
-    obdb_id: {
-      type: "string",
-    },
-    name: {
-      type: "string",
-    },
-    brewery_type: {
-      enum: Object.values(BreweryType),
-    },
-    street: {
-      type: "string",
-    },
-    city: {
-      type: "string",
-    },
-    country: {
-      type: "string",
-    },
-  },
-};
 const validate = ajv.compile(schema);
+const ids: Record<string, Brewery> = {};
 
 function checkValidity(data: Brewery) {
   const valid = validate(data);
@@ -65,6 +40,10 @@ const main = async () => {
       const breweries = await Papa.parse<Brewery>(csv, {
         header: true,
         skipEmptyLines: true,
+        dynamicTyping: true,
+        transform: (value) => {
+          return value === "" ? null : value;
+        },
       });
 
       for (let data of breweries.data) {
