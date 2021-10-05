@@ -11,7 +11,8 @@
     "csv:split": "ts-eager ./src/split-csv.ts",
     "csv:combine": "ts-eager ./src/combine-csv.ts",
     "csv:validate": "ts-eager ./src/validate-csv.ts",
-    "csv:sql": "ts-eager ./src/csv-to-sql.ts"
+    "csv:sql": "ts-eager ./src/csv-to-sql.ts",
+    "validate": "npm run csv:validate"
   },
   "repository": {
     "type": "git",
