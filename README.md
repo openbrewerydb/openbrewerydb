@@ -85,7 +85,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/donkeyslaps"><img src="https://avatars.githubusercontent.com/u/91644699?v=4?s=100" width="100px;" alt=""/><br /><sub><b>donkeyslaps</b></sub></a><br /><a href="#data-donkeyslaps" title="Data">🔣</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/cipherwizard"><img src="https://avatars.githubusercontent.com/u/6799306?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cipherwizard</b></sub></a><br /><a href="#tool-cipherwizard" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://deciphermiddleware.blogspot.com/"><img src="https://avatars.githubusercontent.com/u/30888879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pranav Davar</b></sub></a><br /><a href="#tool-cipherwizard9" title="Tools">🔧</a></td>
   </tr>
 </table>
 
