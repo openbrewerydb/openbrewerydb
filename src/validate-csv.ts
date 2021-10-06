@@ -6,7 +6,7 @@ import Papa from "papaparse";
 import { Brewery } from "./utils/types";
 import { schema } from "./config";
 
-const ajv = new Ajv();
+const ajv = new Ajv({ allowUnionTypes: true });
 const validate = ajv.compile(schema);
 const ids: Record<string, Brewery> = {};
 
