@@ -11,7 +11,7 @@
     "generate:ids": "ts-eager ./src/generate-ids.ts",
     "generate:json": "ts-eager ./src/generate-json.ts",
     "generate:sql": "ts-eager ./src/generate-sql.ts",
-    "validate": "ts-eager ./src/validate-csv.ts"
+    "validate": "ts-eager --unhandled-rejections=strict ./src/validate-csv.ts"
   },
   "repository": {
     "type": "git",
