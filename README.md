@@ -34,6 +34,21 @@ A shared Postman collection containing all the API requests to fetch breweries i
 * CSVs are organized by `data/[country]/[state]` or `data/[country]/[county_province]`
 * Required fields/columns: `name`, `street`, `brewery_type`, `city`, `state` (or `county_province`), `postal_code`, and `country`
 
+### Scripts
+
+These are the npm scripts used to maintain this dataset.
+
+* `npm run generate:ids` - Generate unique OBDB IDs based on the brewery name and city
+* `npm run json:export` - Export JSON from `breweries.csv`
+* `npm run contributors:add` - Add contributor (interactive CLI)
+* `npm run contributors:generate` - Generate contributors into `README.md`
+* `npm run contributors:check` - Check if there are any missing contributors
+* `npm run csv:split` - Split `breweries.csv` into country/state-region/city CSVs
+* `npm run csv:combine` - Combine CSVs from country/state-region folders into `breweries.csv`
+* `npm run csv:validate` - Validate CSVs based on JSON Schema
+* `npm run csv:sql` - Export PostgreSQL SQL from `breweries.csv`
+* `npm run validate` - Alias for `csv:validate`
+
 ## 🤝 Contributing
 
 For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md) and our [code of conduct](CODE_OF_CONDUCT.md).
