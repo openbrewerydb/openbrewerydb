@@ -8,33 +8,27 @@ import { schema } from "./config";
 
 const ajv = new Ajv({ allowUnionTypes: true });
 const validate = ajv.compile(schema);
-const ids: Record<string, Brewery> = {};
 
-function checkValidity(data: Brewery) {
-  const valid = validate(data);
-  if (!valid) {
-    console.log(data);
-    console.error(validate.errors);
-    throw new Error("Invalid schema");
+function validateFiles(files: string[]) {
+  const ids: Record<string, Brewery> = {};
+
+  function checkValidity(data: Brewery) {
+    const valid = validate(data);
+    if (!valid) {
+      console.log(data);
+      console.error(validate.errors);
+      throw new Error("Invalid schema");
+    }
   }
-}
 
-function checkUniqueness(data: Brewery) {
-  if (ids[data.obdb_id]) {
-    console.log(ids[data.obdb_id]);
-    console.log(data);
-    throw new Error("ID is not unique");
+  function checkUniqueness(data: Brewery) {
+    if (ids[data.obdb_id]) {
+      console.log(ids[data.obdb_id]);
+      console.log(data);
+      throw new Error("ID is not unique");
+    }
+    ids[data.obdb_id] = data;
   }
-  ids[data.obdb_id] = data;
-}
-
-const main = async () => {
-  const startTime = new Date().getTime();
-  const fileGlob = join(__dirname, "../data/**/*.csv");
-  let files = await glob(fileGlob);
-
-  // Include full CSV
-  files.push(join(__dirname, "../breweries.csv"));
 
   for (let file of files) {
     console.log(`📋 Validating ${file}...`);
@@ -53,9 +47,21 @@ const main = async () => {
       checkUniqueness(data);
     }
   }
+}
+
+const main = async () => {
+  const startTime = new Date().getTime();
+  const fileGlob = join(__dirname, "../data/**/*.csv");
+
+  // Validate individual files
+  let files = await glob(fileGlob);
+  validateFiles(files);
+
+  // Separately validate full dataset CSV
+  validateFiles([join(__dirname, "../breweries.csv")]);
 
   console.log(
-    `✅  All ${files.length} files are valid! (${
+    `✅  All ${files.length + 1} files are valid! (${
       new Date().getTime() - startTime
     }ms)`
   );
