@@ -40,7 +40,7 @@ const main = async () => {
     for (let file of files) {
       console.log(`📋 Validating ${file}...`);
       const csv = readFileSync(file, { encoding: "utf-8" });
-      const breweries = await Papa.parse<Brewery>(csv, {
+      const breweries = Papa.parse<Brewery>(csv, {
         header: true,
         skipEmptyLines: true,
         dynamicTyping: true,
