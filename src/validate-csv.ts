@@ -32,7 +32,10 @@ const main = async () => {
   try {
     const startTime = new Date().getTime();
     const fileGlob = join(__dirname, "../data/**/*.csv");
-    const files = await glob(fileGlob);
+    let files = await glob(fileGlob);
+
+    // Include full CSV
+    files.push(join(__dirname, "../breweries.csv"));
 
     for (let file of files) {
       console.log(`📋 Validating ${file}...`);

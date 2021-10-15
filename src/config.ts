@@ -35,6 +35,7 @@ export const schema = {
     },
     name: {
       type: "string",
+      minLength: 1,
     },
     brewery_type: {
       enum: Object.values(BreweryType),
@@ -50,6 +51,7 @@ export const schema = {
     },
     city: {
       type: "string",
+      minLength: 2,
     },
     state: {
       type: ["string", "null"],
@@ -59,6 +61,7 @@ export const schema = {
     },
     postal_code: {
       type: ["string", "number"],
+      minLength: 5,
     },
     phone: {
       type: ["string", "number", "null"],
@@ -68,6 +71,7 @@ export const schema = {
     },
     country: {
       type: "string",
+      minLength: 2,
     },
     longitude: {
       type: ["number", "null"],
