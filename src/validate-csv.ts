@@ -62,6 +62,7 @@ const main = async () => {
     );
   } catch (error) {
     console.error(error);
+    throw new Error("Data is not valid. See above.");
   }
 };
 
