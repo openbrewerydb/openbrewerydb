@@ -29,41 +29,41 @@ function checkUniqueness(data: Brewery) {
 }
 
 const main = async () => {
-  try {
-    const startTime = new Date().getTime();
-    const fileGlob = join(__dirname, "../data/**/*.csv");
-    let files = await glob(fileGlob);
+  const startTime = new Date().getTime();
+  const fileGlob = join(__dirname, "../data/**/*.csv");
+  let files = await glob(fileGlob);
 
-    // Include full CSV
-    files.push(join(__dirname, "../breweries.csv"));
+  // Include full CSV
+  files.push(join(__dirname, "../breweries.csv"));
 
-    for (let file of files) {
-      console.log(`📋 Validating ${file}...`);
-      const csv = readFileSync(file, { encoding: "utf-8" });
-      const breweries = Papa.parse<Brewery>(csv, {
-        header: true,
-        skipEmptyLines: true,
-        dynamicTyping: true,
-        transform: (value) => {
-          return value === "" ? null : value;
-        },
-      });
+  for (let file of files) {
+    console.log(`📋 Validating ${file}...`);
+    const csv = readFileSync(file, { encoding: "utf-8" });
+    const breweries = Papa.parse<Brewery>(csv, {
+      header: true,
+      skipEmptyLines: true,
+      dynamicTyping: true,
+      transform: (value) => {
+        return value === "" ? null : value;
+      },
+    });
 
-      for (let data of breweries.data) {
-        checkValidity(data);
-        checkUniqueness(data);
-      }
+    for (let data of breweries.data) {
+      checkValidity(data);
+      checkUniqueness(data);
     }
-
-    console.log(
-      `✅  All ${files.length} files are valid! (${
-        new Date().getTime() - startTime
-      }ms)`
-    );
-  } catch (error) {
-    console.error(error);
-    throw new Error("Data is not valid. See above.");
   }
+
+  console.log(
+    `✅  All ${files.length} files are valid! (${
+      new Date().getTime() - startTime
+    }ms)`
+  );
 };
 
-main();
+try {
+  main();
+} catch (error) {
+  console.error(error);
+  process.exit(1);
+}
