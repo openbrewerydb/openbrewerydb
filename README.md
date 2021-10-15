@@ -1,6 +1,9 @@
 # 🍻 Open Brewery DB Dataset
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -13,9 +16,9 @@ Provide an approval-based pipeline to update the dataset and API.
 
 ## 🗄 Data Formats
 
-* [CSV](breweries.csv)
-* [JSON](breweries.json)
-* [PostgreSQL SQL](breweries.sql)
+- [CSV](breweries.csv)
+- [JSON](breweries.json)
+- [PostgreSQL SQL](breweries.sql)
 
 ## 🚀 Getting Started
 
@@ -31,23 +34,22 @@ A shared Postman collection containing all the API requests to fetch breweries i
 
 #### Tips
 
-* CSVs are organized by `data/[country]/[state]` or `data/[country]/[county_province]`
-* Required fields/columns: `name`, `street`, `brewery_type`, `city`, `state` (or `county_province`), `postal_code`, and `country`
+- CSVs are organized by `data/[country]/[state]` or `data/[country]/[county_province]`
+- Required fields/columns: `name`, `street`, `brewery_type`, `city`, `state` (or `county_province`), `postal_code`, and `country`
 
 ### Scripts
 
 These are the npm scripts used to maintain this dataset.
 
-* `npm run generate:ids` - Generate unique OBDB IDs based on the brewery name and city
-* `npm run json:export` - Export JSON from `breweries.csv`
-* `npm run contributors:add` - Add contributor (interactive CLI)
-* `npm run contributors:generate` - Generate contributors into `README.md`
-* `npm run contributors:check` - Check if there are any missing contributors
-* `npm run csv:split` - Split `breweries.csv` into country/state-region/city CSVs
-* `npm run csv:combine` - Combine CSVs from country/state-region folders into `breweries.csv`
-* `npm run csv:validate` - Validate CSVs based on JSON Schema
-* `npm run csv:sql` - Export PostgreSQL SQL from `breweries.csv`
-* `npm run validate` - Alias for `csv:validate`
+- `npm run csv:combine` - Combine CSVs from country/state-region folders into `breweries.csv`
+- `npm run csv:split` - Split `breweries.csv` into country/state-region/city CSVs
+- `npm run contributors:add` - Add contributor (interactive CLI)
+- `npm run contributors:check` - Check if there are any missing contributors
+- `npm run contributors:generate` - Generate contributors into `README.md`
+- `npm run generate:ids` - Generate unique OBDB IDs based on the brewery name and city and overwrite `breweries.csv`
+- `npm run generate:json` - Generate JSON from `breweries.csv` output to `breweries.json`
+- `npm run generate:sql` - Generate PostgreSQL SQL from `breweries.csv` output to `breweries.sql`
+- `npm run validate` - Validate CSVs based on JSON Schema
 
 ## 🤝 Contributing
 
@@ -55,8 +57,8 @@ For information on contributing to this project, please see the [contributing gu
 
 ## 👾 Community
 
-* [Join the Newsletter](http://eepurl.com/dBjS0j)
-* [Join the Discord](https://discord.gg/SHtpdEN)
+- [Join the Newsletter](http://eepurl.com/dBjS0j)
+- [Join the Discord](https://discord.gg/SHtpdEN)
 
 ## 📫 Feedback
 
