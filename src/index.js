@@ -10,4 +10,9 @@ document.addEventListener('DOMContentLoaded', (e) => {
 })
 
 function getBrewData() {
+    fetch('https://api.openbrewerydb.org/breweries')
+    .then(res => res.json())
+    .then(data => {
+        console.log(data);
+    })
 }
