@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Brewery Search</title>
+  <title>Brewery List</title>
   <script defer src="src/index.js"></script>
   <link href="style.css" rel="stylesheet">
 </head>
@@ -12,12 +12,12 @@
   <!-- cover image -->
   <div class='hero-image'>
     <div class='hero-text'>
-      <h1>Brewery Search</h1>
+      <h1>Brewery List</h1>
     </div>
   </div>
 
   <!-- search form -->
-  <div id='form-container'>
+  <div class='form-container'>
     <form id='search-form'>
       <label for='keywords'>Search for a brewery!</label>
       <br>
@@ -33,30 +33,68 @@
   </div>
 
   <!-- add brewery form -->
-  <div>
+  <div class='form-container'>
     <form id='new-brewery-form'>
       <h4>Add a New Brewery</h4>
+      <br>
       <label for='name'>Name: </label>
+      <br>
       <input type='text' name='name' id='new-name' />
+      <br>
       <label for='brewery-type'>Brewery Type: </label>
+      <br>
       <input type='text' name='brewery-type' id='new-brewery-type' />
+      <br>
       <label for='street'>Street: </label>
+      <br>
       <input type='text' name='street' id='new-street' />
+      <br>
       <label for='city'>City: </label>
+      <br>
       <input type='text' name='city' id='new-city' />
+      <br>
       <label for='state'>State: </label>
+      <br>
       <input type='text' name='state' id='new-state' />
+      <br>
       <label for='postal-code'>Postal code: </label>
+      <br>
       <input type='text' name='postal-code' id='new-postal-code' />
+      <br>
       <label for='country'>Country: </label>
+      <br>
       <input type='text' name='country' id='new-country' />
+      <br>
       <label for='phone'>Phone: </label>
+      <br>
       <input type='text' name='phone' id='new-phone' />
+      <br>
       <label for='website-url'>Website: </label>
+      <br>
       <input type='text' name='website-url' id='new-website-url' />
       <br>
-      <input type='submit' value='Submit' />
+      <input type='submit' id='add-submit' value='Add' />
     </form>
   </div>
 </body>
 </html>
+
+<!--
+  "id": "10-56-brewing-company-knox",
+    "name": "10-56 Brewing Company",
+    "brewery_type": "micro",
+    "street": "400 Brown Cir",
+    "address_2": null,
+    "address_3": null,
+    "city": "Knox",
+    "state": "Indiana",
+    "county_province": null,
+    "postal_code": "46534",
+    "country": "United States",
+    "longitude": "-86.627954",
+    "latitude": "41.289715",
+    "phone": "6308165790",
+    "website_url": null,
+    "updated_at": "2021-10-23T02:24:55.243Z",
+    "created_at": "2021-10-23T02:24:55.243Z"
+-->
