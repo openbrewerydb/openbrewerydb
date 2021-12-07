@@ -17,12 +17,12 @@ body {
 }
 
 .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://cdn.hopculture.com/wp-content/uploads/2020/10/20200818_150028_original-1024x634.jpg");
-    height: 50%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://cdn.hopculture.com/wp-content/uploads/2020/10/GW-taproom-1.jpg");
     background-position: center;
     width: 100vw;
-    height: 60vh;
+    height: 70vh;
     background-repeat: no-repeat;
+    background-size: cover;
     position: relative;
     margin-bottom: 50px;
 }
@@ -37,35 +37,36 @@ body {
     font-size: 3em;
 }
 
-#form-container {
-    margin-left: 30%;
+.form-container {
+    margin-left: 40%;
     margin-right: 30%;
 }
 
 form {
-    border-radius: 10px;
-    background-color: #D5D0CD;
     padding: 20px;
 }
 
-#keywords {
+#keywords, #new-brew {
     border-radius: 5px;
     border: none;
+    box-shadow: 1px 1px 1px 1px #d7d7d7;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
-input[value="keywords"] {
+input[value="keywords"], input[value="brewery"] {
     color: #d7d7d7;
-    padding: 6px;
+    padding: 7px;
+    padding-right: 50px;
 }
 
-#search-submit {
+#search-submit, #add-submit {
     border: none;
     border-radius: 10px;
     box-shadow: 1px 1px 1px 1px rgb(187, 181, 181);
     background-color: #fff;
     padding: 6px;
+    letter-spacing: .6px;
 }
 
 #search-results {}
