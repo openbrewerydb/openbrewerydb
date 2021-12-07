@@ -1,3 +1,4 @@
+// * Data Structure -> array of objects
 /*
 Events:
  - submit form 
