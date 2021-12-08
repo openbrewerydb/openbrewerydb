@@ -14,7 +14,8 @@ Provide an approval-based pipeline to update the dataset and API.
 
 ## 🗄 Data Formats
 
-- [CSV](breweries.csv)
+- [CSV - Full Dataset](breweries.csv) (1.5 MB)
+- [CSV - Lite Dataset](breweries-lite.csv) (465 KB) - Only the features `name`, `city`, `state`, and `country`.
 - [JSON](breweries.json)
 - [PostgreSQL SQL](breweries.sql)
 
