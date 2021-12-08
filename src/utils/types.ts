@@ -48,3 +48,10 @@ export interface Brewery {
   latitude: Float64Array;
   tags: string[];
 }
+
+export interface BreweryLite {
+  name: string;
+  city: string;
+  state: string;
+  country: string;
+}
