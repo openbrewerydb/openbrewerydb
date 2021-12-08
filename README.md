@@ -1,7 +1,9 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -15,7 +17,7 @@ Provide an approval-based pipeline to update the dataset and API.
 ## 🗄 Data Formats
 
 - [CSV - Full Dataset](breweries.csv) (1.5 MB)
-- [CSV - Lite Dataset](breweries-lite.csv) (465 KB) - Only the features `name`, `city`, `state`, and `country`.
+- [CSV - Lite Dataset](breweries-lite.csv) (460 KB) - Only the features `name`, `city`, `state`, and `country` for breweries without the `closed` brewery type.
 - [JSON](breweries.json)
 - [PostgreSQL SQL](breweries.sql)
 

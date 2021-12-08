@@ -5,7 +5,7 @@ import { join } from "path";
 import glob from "glob";
 import Papa from "papaparse";
 import { headers, headersLite } from "./config";
-import type { Brewery, BreweryLite } from "./utils/types";
+import { Brewery, BreweryLite } from "./utils/types";
 
 const fileGlob = join(__dirname, "../data/**/*.csv");
 const fullFilePath = join(__dirname, "../breweries.csv");
@@ -23,21 +23,31 @@ glob(fileGlob, {}, (globError, files) => {
           header: true,
           skipEmptyLines: true,
         });
-        console.log(`✍️ Adding ${result.data.length} breweries from ${file}`);
+        console.log(
+          `+ ${result.data.length} breweries from ` +
+            `${
+              result.data[0].state
+                ? result.data[0].state
+                : result.data[0].county_province
+            }, ` +
+            `${result.data[0].country}`
+        );
 
         // Full dataset
         const dataFull = result.data;
         breweries.push(...dataFull);
 
         // Go through each data object and create new lite version
-        const dataLite: BreweryLite[] = result.data.map((brewery) => {
-          return {
-            name: brewery.name,
-            city: brewery.city,
-            state: brewery.state,
-            country: brewery.country,
-          };
-        });
+        const dataLite: BreweryLite[] = result.data
+          .filter((brewery) => brewery.brewery_type !== "closed")
+          .map((brewery) => {
+            return {
+              name: brewery.name,
+              city: brewery.city,
+              state: brewery.state,
+              country: brewery.country,
+            };
+          });
         breweriesLite.push(...dataLite);
       } catch (error) {
         console.error(error);
@@ -49,7 +59,9 @@ glob(fileGlob, {}, (globError, files) => {
       breweries.sort((a, b) => a.obdb_id.localeCompare(b.obdb_id));
       breweriesLite.sort((a, b) => a.name.localeCompare(b.name));
 
-      console.log(`📝 Writing full dataset to ${fullFilePath}`);
+      console.log(
+        `Writing full dataset to ${fullFilePath} (${breweries.length} breweries)`
+      );
       writeFileSync(
         fullFilePath,
         Papa.unparse(breweries, {
@@ -58,7 +70,9 @@ glob(fileGlob, {}, (globError, files) => {
         })
       );
 
-      console.log(`📝 Writing lite dataset to ${liteFilePath}`);
+      console.log(
+        `Writing lite dataset to ${liteFilePath} (${breweriesLite.length} breweries)`
+      );
       writeFileSync(
         liteFilePath,
         Papa.unparse(breweriesLite, {
@@ -67,10 +81,6 @@ glob(fileGlob, {}, (globError, files) => {
         })
       );
     }
-
-    console.log("Summary:");
-    console.log(`🗂 Total Files: ${files.length}`);
-    console.log(`🍺 Total Breweries: ${breweries.length}`);
   } else {
     console.error(globError);
   }
