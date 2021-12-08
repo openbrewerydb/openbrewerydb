@@ -11,7 +11,6 @@ name,city,state,country
 10 Torr Distilling and Brewing,Reno,Nevada,United States
 10-56 Brewing Company,Knox,Indiana,United States
 101 Brewery,Quilcene,Washington,United States
-101 North Brewing Company,Petaluma,California,United States
 105 West Brewing Co,Castle Rock,Colorado,United States
 10K Brewing,Anoka,Minnesota,United States
 10th District Brewing Company,Abington,Massachusetts,United States
@@ -88,7 +87,6 @@ name,city,state,country
 3 Trails Brewing Co,Independence,Missouri,United States
 30 Mile Brewing Co.,Old Saybrook,Connecticut,United States
 300 Suns Brewing Company,Longmont,Colorado,United States
-32 North Brewing Co,San Diego,California,United States
 34 Degree North Experiment Station,Shallotte,North Carolina,United States
 350 Brewing Co,Tinley Park,Illinois,United States
 360 Degree Brewing Company,Sheffield Park,,England
@@ -203,7 +201,6 @@ Accomplice Beer Company,Cheyenne,Wyoming,United States
 Acidulous Brewing Company,Littleton,Colorado,United States
 Acopon Brewing Co,Dripping Springs,Texas,United States
 Acorn Brewing,Edgewood,Washington,United States
-Acoustic Ales Brewing Experiment,San Diego,California,United States
 "Actual Brewing Company, LLC",Columbus,Ohio,United States
 Adam's Northwest Bistro / Twin Rivers Brewing,Monroe,Washington,United States
 Adelbert's Brewery LLC,Austin,Texas,United States
@@ -610,7 +607,6 @@ Barley Boys Brewery,Omaha,Nebraska,United States
 Barley Brothers Brewery,Lake Havasu City,Arizona,United States
 Barley Browns Brewpub,Baker City,Oregon,United States
 Barley Creek Brewing Co,Tannersville,Pennsylvania,United States
-Barley Forge Brewing,Costa Mesa,California,United States
 Barley Head Brewery,Mystic,Connecticut,United States
 Barley Island Brewing Co,Noblesville,Indiana,United States
 Barley Johns Brewpub,New Brighton,Minnesota,United States
@@ -634,7 +630,6 @@ Barrage Brewing Co,Farmingdale,New York,United States
 Barrel 41 Brewing Co,Neenah,Wisconsin,United States
 Barrel and Beam,Marquette,Michigan,United States
 Barrel Assembly,Austin,Texas,United States
-Barrel Brothers Brewing Company,Windsor,California,United States
 "Barrel Brothers Brewing Company, LLC",Windsor,California,United States
 Barrel Culture Brewing And Blending,Durham,North Carolina,United States
 Barrel Dog Brewing,Evergreen,Colorado,United States
@@ -777,7 +772,6 @@ Beltway Brewing Company,Sterling,Virginia,United States
 Bemidji Brewing Company,Bemidji,Minnesota,United States
 Ben's Brewing Station,Yankton,South Dakota,United States
 Ben's Tune-Up / Ben's Beer,Asheville,North Carolina,United States
-Benchmark Brewing Co,San Diego,California,United States
 Benchtop Brewing Company,Norfolk,Virginia,United States
 Bend Brewing Co,Bend,Oregon,United States
 Benford Brewing Co.,Lancaster,South Carolina,United States
@@ -1076,7 +1070,6 @@ BlueTarp Brewing Co,Decatur,Georgia,United States
 Bluewater Brewing Co,Florence,Alabama,United States
 Bluewood Brewing,Saint Louis,Missouri,United States
 "Bnaf, LLC",Austin,Texas,United States
-BNS Brewing & Distilling Co.,Santee,California,United States
 Bo Bristle Brewing Co.,Banagher,,Ireland
 Boak Brewing Co,Pompton Lakes,New Jersey,United States
 Boat Town Brewing,Phillipsburg,Missouri,United States
@@ -1234,7 +1227,6 @@ Brew Link Brewing,Plainfield,Indiana,United States
 "Brew Practitioners, LLC.",Florence,Massachusetts,United States
 Brew Pub and Kitchen,Durango,Colorado,United States
 Brew Rebellion,Banning,California,United States
-Brew Rebellion,San Bernardino,California,United States
 Brew Republic Bierwerks,Woodbridge,Virginia,United States
 Brew Studio,Lancing,,England
 Brew Works of Fremont,Fremont,Michigan,United States
@@ -1322,7 +1314,6 @@ Bricktown Brewery,Oklahoma City,Oklahoma,United States
 Bricktowne Brewing Co,Medford,Oregon,United States
 Brickway Brewery and Distillery,Omaha,Nebraska,United States
 Brickyard Brewing Company,Lewiston,New York,United States
-Bridal Veil Brewing,Mariposa,California,United States
 Bridewell Brewery,Clifden,,Ireland
 Bridge 99 Brewery,Bend,Oregon,United States
 Bridge And Tunnel Brewery,Ridgewood,New York,United States
@@ -1691,13 +1682,12 @@ Chili Line Brewing Co.,Santa Fe,New Mexico,United States
 CHILLAX Brewing Company LLC,Milford,Michigan,United States
 Chilly Water Brewing Company,Indianapolis,Indiana,United States
 Chimera Brewing Company,Fort Worth,Texas,United States
-Chino Valley Brewery,Ontario,California,United States
+Chino Hills Brewing Co.,Chino Hills,California,United States
 Choc Beer Co,Krebs,Oklahoma,United States
 ChopHouse and Brewery - Denver,Denver,Colorado,United States
 Choteau Creek Brewing Company,Wagner,South Dakota,United States
 Christian Moerlein Brewing Co,Cincinnati,Ohio,United States
 Chubby Squirrel Brewing Company,Fairfax,Virginia,United States
-ChuckAlek Independent Brewers,Ramona,California,United States
 Chuckanut - South Nut,Burlington,Washington,United States
 Chuckanut Brewery - North Nut,Bellingham,Washington,United States
 Chula Vista Brewery,Chula Vista,California,United States
@@ -1842,7 +1832,6 @@ Conquest Brewing Co.,Columbia,South Carolina,United States
 Conshohocken Brewing - Bridgeport,Bridgeport,Pennsylvania,United States
 Conshohocken Brewing Co.,Conshohocken,Pennsylvania,United States
 Constantine Brewing Co,Constantine,Michigan,United States
-Constellation Brands,San Diego,California,United States
 Contrary Brewing Co,Muscatine,Iowa,United States
 Converge Brewing Company,Paso Robles,California,United States
 Conversion Brewing,Lebanon,Oregon,United States
@@ -2004,6 +1993,8 @@ Crystal Springs Brewing Co,Louisville,Colorado,United States
 Cueni Brewing Co.,Dunedin,Florida,United States
 Culmination Brewing Co,Portland,Oregon,United States
 Cult Classic Brewing,Stevensville,Maryland,United States
+Culture Brewing Co,Encinitas,California,United States
+Culture Brewing Co,Manhattan Beach,California,United States
 Culture Brewing Co,Solana Beach,California,United States
 Culver Beer Company,Carlsbad,California,United States
 Cumberland Brewery,Louisville,Kentucky,United States
@@ -2105,7 +2096,6 @@ Definitive Brewing Company,Portland,Maine,United States
 Deft Brewing,San Diego,California,United States
 Del Cielo Brewing Co.,Martinez,California,United States
 Delafield Brewhaus,Delafield,Wisconsin,United States
-Delicious Science Brewing,Riverside,California,United States
 Delta Sunshine Brewing Company,Memphis,Tennessee,United States
 Deluxe Brewing Co,Albany,Oregon,United States
 Demented Brewing Co.,Middlesex,New Jersey,United States
@@ -2164,7 +2154,6 @@ Devour Brewing Co,Boynton Beach,Florida,United States
 Devout Brewing,Export,Pennsylvania,United States
 Dew Point Brewing,Yorklyn,Delaware,United States
 Dewey Beer Co.,Dewey Beach,Delaware,United States
-Dfamle Enterprises LP (DBA Four Sons Brewing),Huntington Beach,California,United States
 Dialectic Brewing Company,Mandan,North Dakota,United States
 Dialogue Brewing,Albuquerque,New Mexico,United States
 Diamond Bear Brewing Co,North Little Rock,Arkansas,United States
@@ -2269,7 +2258,7 @@ Dragon's Gate Brewery,Milton Freewater,Oregon,United States
 Dragon's Tale Brewery,Montclair,California,United States
 Dragonmead Microbrewery,Warren,Michigan,United States
 Dragoon Brewing Co,Tucson,Arizona,United States
-Drake's Brewing Co,San Leandro,California,United States
+Drake's Brewing Co.,San Leandro,California,United States
 Draper Brewing,Roseburg,Oregon,United States
 Dratz Brewing Company,Loveland,Colorado,United States
 Draught Horse Brewery,New Hudson,Michigan,United States
@@ -2339,7 +2328,8 @@ Dwinell Country Ales,Goldendale,Washington,United States
 Dyckman Beer Co,Bronx,New York,United States
 Dynasty Brewing Company,Ashburn,Virginia,United States
 Dystopian State Brewing,Tacoma,Washington,United States
-E.J. Phair Brewing Co,Concord,California,United States
+E.J. Phair Brewing Co.,Alamo,California,United States
+E.J. Phair Brewing Co.,Concord,California,United States
 E.J. Phair Brewing Co.,Pittsburg,California,United States
 E2W Brewing,Olalla,Washington,United States
 E9 Brewing Company,Tacoma,Washington,United States
@@ -2349,7 +2339,6 @@ Eagle Rock Brewery,Los Angeles,California,United States
 EagleMonk Pub and Brewery,Lansing,Michigan,United States
 Earlybird Brewing Company,Cleveland,Ohio,United States
 Earnest Brew Works,Toledo,Ohio,United States
-Earth And Fire Brewing Company,Paso Robles,California,United States
 Earth Bread + Brewery,Philadelphia,Pennsylvania,United States
 Earth Eagle Brewing,Portsmouth,New Hampshire,United States
 Earth Rider Brewing Co,Superior,Wisconsin,United States
@@ -2374,6 +2363,7 @@ Eastwood Brewing Company,Syracuse,New York,United States
 Eaton Pub & Grille Brewery / Charlotte Brewing Co,Charlotte,Michigan,United States
 Eavesdrop Brewery,Manassas,Virginia,United States
 EB Coffee and Pub,Caledonia,Michigan,United States
+Ebullition Brew Works,Carlsbad,California,United States
 Ebullition Brew Works,Vista,California,United States
 Echo Brewing Cask and Barrel,Erie,Colorado,United States
 Echo Brewing Company,Frederick,Colorado,United States
@@ -2536,7 +2526,7 @@ Fairhope Brewing Co,Fairhope,Alabama,United States
 Fairport Brewing Co,Fairport,New York,United States
 Fairport Brewing Co,Fairport,New York,United States
 Fall Brewing Company,San Diego,California,United States
-Fall River Brewing Company,Burney,California,United States
+Fall River Brewing Company,Redding,California,United States
 Fallbrook Brewing Co,Fallbrook,California,United States
 Falling Branch Brewery,Street,Maryland,United States
 Falling Down Beer Co.,Warren,Michigan,United States
@@ -2928,7 +2918,6 @@ Gaslight Brewery and Restaurant,South Orange,New Jersey,United States
 Gate City Brewing Company,Roswell,Georgia,United States
 "Gateway Brewing, Inc",Portland,Oregon,United States
 Gathering Place Brewing Company,Milwaukee,Wisconsin,United States
-GBC,Murrieta,California,United States
 Geaghan Brothers Brewing Co,Brewer,Maine,United States
 Geaghan's Pub & Craft Brewery,Bangor,Maine,United States
 GearHouse Brewing Company,Chambersburg,Pennsylvania,United States
@@ -2992,7 +2981,7 @@ Goat Island Brewing,Cullman,Alabama,United States
 Goat Lips Chew and Brewhouse / Redneck Riviera Brewing,Pensacola,Florida,United States
 Goat Patch Brewing Co.,Colorado Springs,Colorado,United States
 Goat Ridge Brewing,New London,Minnesota,United States
-GoatHouse Brewing Co.,Lincoln,California,United States
+GoatHouse Brewing Co,Lincoln,California,United States
 Gold Camp Brewing Co,Colorado Springs,Colorado,United States
 Gold Hill Brewery,Placerville,California,United States
 Golden Avalanche Brewing Co,Kutztown,Pennsylvania,United States
@@ -3183,6 +3172,7 @@ Greater Good Imperial Brew Co,Worcester,Massachusetts,United States
 Green Bench Brewing Co,Saint Petersburg,Florida,United States
 Green Bird Cellars and Organic Farms,Northport,Michigan,United States
 Green Bus Brewing,Huntsville,Alabama,United States
+Green Cheek Beer Company,Costa Mesa,California,United States
 Green Cheek Beer Company,Orange,California,United States
 Green Earth Brewing Company,Greeley,Colorado,United States
 Green Feet Brewing,Tucson,Arizona,United States
@@ -3384,7 +3374,7 @@ Hell or High Water Brewing,Leander,Texas,United States
 Hellbender Brewing Company,Washington,District of Columbia,United States
 Hellbent Brewing Company,Seattle,Washington,United States
 Helltown Brewing,Mount Pleasant,Pennsylvania,United States
-"Helm's Brewing Company, LLC",San Diego,California,United States
+Helmsman Alehouse - Newport Beach Brewing Co,Newport Beach,California,United States
 Helton Brewing Company,Phoenix,Arizona,United States
 Hemisphere Brewing Co,Rockwall,Texas,United States
 Hemlock State Brewing Company,Lake Forest Park,Washington,United States
@@ -3498,6 +3488,7 @@ Holston River Brewing Company,Bristol,Tennessee,United States
 Holy City Brewing,Charleston,South Carolina,United States
 Holy Mackerel Small Batch Beers,Pompano Beach,Florida,United States
 Holy Mountain Brewing Co,Seattle,Washington,United States
+Homage Brewing,Los Angeles,California,United States
 Homage Brewing,Pomona,California,United States
 Home Brewing Co Of Pennsylvania,Conneaut Lake,Pennsylvania,United States
 Home Brewing Co.,San Diego,California,United States
@@ -3547,7 +3538,6 @@ Hop Tree Brewing Company Ltd,Hudson,Ohio,United States
 Hop Valley Brewing Co,Eugene,Oregon,United States
 Hop Valley Brewing Co,Springfield,Oregon,United States
 Hop'n Moose Brewing Company,Rutland,Vermont,United States
-Hoparazzi Brewing Co,Anaheim,California,United States
 Hopcat,Grand Rapids,Michigan,United States
 Hopcat - Louisville,Louisville,Kentucky,United States
 Hope Craft Brewery,Dublin,,Ireland
@@ -3585,7 +3575,6 @@ Horse & Dragon Brewing Company,Fort Collins,Colorado,United States
 Horse Heaven Hills Brewery,Prosser,Washington,United States
 Horse Thief Hollow Brewery,Chicago,Illinois,United States
 Horsefly Brewing Co,Montrose,Colorado,United States
-Horus Aged Ales,Oceanside,California,United States
 Hoster Brewing Co,Columbus,Ohio,United States
 Hourglass Brewing,Longwood,Florida,United States
 Housatonic River Brewing,New Milford,Connecticut,United States
@@ -3730,7 +3719,6 @@ Iron Beard Brewing,Jersey City,New Jersey,United States
 Iron Bird Brewing Co.,Colorado Springs,Colorado,United States
 Iron Brewing Company,Norwalk,Connecticut,United States
 Iron Duke Brewing Co,Ludlow,Massachusetts,United States
-Iron Fist Brewing Co,Vista,California,United States
 Iron Flamingo Brewery,Corning,New York,United States
 Iron Goat Brewing,Spokane,Washington,United States
 Iron Hart,Carbondale,Pennsylvania,United States
@@ -3928,7 +3916,6 @@ Kennett Brewing Company,Kennett Square,Pennsylvania,United States
 Kensington Barrel Project,Philadelphia,Pennsylvania,United States
 Kent Falls Brewing Company,Kent,Connecticut,United States
 Kern River Brewing Co,Kernville,California,United States
-Kern River Brewing Company Back Yard,Kernville,California,United States
 Kernersville Brewing Company,Kernersville,North Carolina,United States
 "Kettle and Spoke Brewery, LLC",Boulder,Colorado,United States
 Kettle House Brewing Co.,Bonner,Montana,United States
@@ -3977,8 +3964,8 @@ Klamath Basin Brewing Co,Klamath Falls,Oregon,United States
 Klaus Brewing Company,Houston,Texas,United States
 Klockow Brewing Company,Grand Rapids,Minnesota,United States
 Klondike Brewing Company,Skagway,Alaska,United States
-Knee Deep Brewing Co.,Auburn,California,United States
-Knotty Brewing Co.,San Diego,California,United States
+Knee Deep Brewing Co,Auburn,California,United States
+Knotty Brewing Co,San Diego,California,United States
 Knotty Pine Brewing,Columbus,Ohio,United States
 Knox County Brewing Co.,Galesburg,Illinois,United States
 Knucklehead Craft Brewing,Webster,New York,United States
@@ -4080,7 +4067,7 @@ Lark Brewing,Waterloo,Iowa,United States
 Larrikin Beer,Hove,,England
 Las Cazuelas Brewing,Rio Rancho,New Mexico,United States
 Lassen Ale Works @ The Pioneer Saloon,Susanville,California,United States
-Last Call Brewing Company,Oakdale,California,United States
+Last Call Brewing Co,Oakdale,California,United States
 Last Days of Autumn Brewing,Knoxville,Tennessee,United States
 Last Frontier Brewing Company,Wasilla,Alaska,United States
 Last Mile Brewery,Keystone,South Dakota,United States
@@ -4089,7 +4076,7 @@ Last Name Brewing,Upland,California,United States
 Last Stand Brewing Company,Austin,Texas,United States
 Last Wave Brewing Co,Point Pleasant Beach,New Jersey,United States
 Lasting Brass Craft Brewing,Oakville,Connecticut,United States
-Latchkey Brewing Company,San Diego,California,United States
+Latchkey Brewing Co,San Diego,California,United States
 Late Night Hype Brewing Co,Clydebank,,Scotland
 Latitude 33 Brewing Co,Vista,California,United States
 Latitude 42,Portage,Michigan,United States
@@ -4265,7 +4252,7 @@ Loggers Brewing Company,Saginaw,Michigan,United States
 LogOff Brewing LLC,Carmichael,California,United States
 Logsdon Farmhouse Ales,Hood River,Oregon,United States
 Lolo Peak Brewing Company,Lolo,Montana,United States
-Loma Brewing Company,Los Gatos,California,United States
+Loma Brewing Co,Los Gatos,California,United States
 Lone Eagle Brewing,Flemington,New Jersey,United States
 Lone Peak Brewery,Big Sky,Montana,United States
 Lone Pine Brewing Company,Portland,Maine,United States
@@ -4285,7 +4272,6 @@ Long Trail Brewing Co,Bridgewater Corners,Vermont,United States
 Long Valley Pub and Brewery,Long Valley,New Jersey,United States
 Long Way Brewing,Radford,Virginia,United States
 Long Wooden Spoon Brewing,Amarillo,Texas,United States
-Longship Brewery,San Diego,California,United States
 Longtab Brewing Company LLC,San Antonio,Texas,United States
 Look Long Brewing Company,Portland,Oregon,United States
 Looking Glass Brewing Company,Dewitt,Michigan,United States
@@ -4325,7 +4311,7 @@ Lost Tavern Brewing,Hellertown,Pennsylvania,United States
 Lost Valley Brewing Co,Auburn,Maine,United States
 Lost Viking Brewing Company,Harwinton,Connecticut,United States
 Lost Way Brewery,Holdrege,Nebraska,United States
-Lost Winds Brewing Company,San Clemente,California,United States
+Lost Winds Brewing Co,San Clemente,California,United States
 Lot 50 Brewing,Paris,Illinois,United States
 Lot 713 Craft Brewery,Riverside,California,United States
 Loud Brewing Company,Duncannon,Pennsylvania,United States
@@ -4348,7 +4334,7 @@ Lubec Brewing Co,Lubec,Maine,United States
 Lucette Brewing Co,Menomonie,Wisconsin,United States
 Lucky Bucket Brewing Co,La Vista,Nebraska,United States
 Lucky City Brewing Co.,Reidsville,North Carolina,United States
-Lucky Devil Brewing,Berkeley,California,United States
+Lucky Devil Brewing,Oakland,California,United States
 Lucky Envelope Brewing,Seattle,Washington,United States
 Lucky Girl Brewing Co Crossroads,Paw Paw,Michigan,United States
 "Lucky Hare Brewing Company, Inc.",Hector,New York,United States
@@ -4384,6 +4370,7 @@ Lyons Den Brewing Co.,Wrentham,Massachusetts,United States
 Lyonsmith Brewing Company,Penn Yan,New York,United States
 M.I.A. Beer Co,Doral,Florida,United States
 M.Special Brewing Company,Goleta,California,United States
+M.Special Brewing Company,Santa Barbara,California,United States
 Mac and Jacks Brewery Inc,Redmond,Washington,United States
 Macatawa Ale Company,Holland,Michigan,United States
 Machias River Brewing Company,Machias,Maine,United States
@@ -4438,6 +4425,7 @@ Main And Mill Brewing Company,Festus,Missouri,United States
 Main Channel Brewing Company,Guntersville,Alabama,United States
 Main Line Brewery,Richmond,Virginia,United States
 Main Sail Brewery / Atwood Yacht Club,Sherrodsville,Ohio,United States
+Main St Brewery,Pleasanton,California,United States
 Main Street Brewery,Corona,California,United States
 Main Street Brewery/Four Corners,Cortez,Colorado,United States
 Main Street Brewing Inc/Turonis Pizza,Evansville,Indiana,United States
@@ -4529,7 +4517,6 @@ Mayday Brewery,Murfreesboro,Tennessee,United States
 Mayflower Brewing Co,Plymouth,Massachusetts,United States
 Mayhew Junction Brewing Company,Starkville,Mississippi,United States
 Mazama Brewing Co,Corvallis,Oregon,United States
-MBF Brewing Co,Los Angeles,California,United States
 McArthur's Brew House,Cuyahoga Falls,Ohio,United States
 McCall Brewing Co,McCall,Idaho,United States
 McClellan's Brewing Company,Fort Collins,Colorado,United States
@@ -4668,7 +4655,7 @@ Mindful Brewing Company,Castle Shannon,Pennsylvania,United States
 Mine Shaft Brewing,Park City,Utah,United States
 Miner Brewing Co,Hill City,South Dakota,United States
 Miner Brewing Co,Sioux Falls,South Dakota,United States
-Minerâs Alley Brewing Company,Oroville,California,United States
+Miners Alley Brewing Company,Oroville,California,United States
 Minglewood Brewery,Cape Girardeau,Missouri,United States
 Minhas Craft Brewery,Monroe,Wisconsin,United States
 Minneapolis Town Hall Brewery,Minneapolis,Minnesota,United States
@@ -4752,7 +4739,7 @@ Moon Tower Sudworks,Houston,Texas,United States
 Moonlight Brewing Co,Santa Rosa,California,United States
 Moonlight Meadery/Hidden Moon Brewing,Londonderry,New Hampshire,United States
 Moonlight Pizza,Salida,Colorado,United States
-Moonraker Brewing Co.,Auburn,California,United States
+Moonraker Brewing Co,Auburn,California,United States
 Moonraker Brewing Company (Production Facility),Auburn,California,United States
 MoonRidge Brewpub,Cornell,Wisconsin,United States
 Moonshot Brewing,Kennewick,Washington,United States
@@ -4925,7 +4912,6 @@ Newaygo Brewing Co,Newaygo,Michigan,United States
 Newburgh Brewing Company,Newburgh,New York,United States
 Newburyport Brewing Co,Newburyport,Massachusetts,United States
 Newgrass Brewing Company,Shelby,North Carolina,United States
-Newport Beach Brewing Co,Newport Beach,California,United States
 Newport Storm Brewery / Coastal Extreme Brewing Company,Newport,Rhode Island,United States
 Next Chapter Brewpub,Auburn,New York,United States
 Next Door Brewing Company,Madison,Wisconsin,United States
@@ -5017,6 +5003,7 @@ Norway Brewing Company,Norway,Maine,United States
 Nostrum Brewing,Alexandria,Virginia,United States
 Notch Brewing,Salem,Massachusetts,United States
 Nothing's Left Brewing Co.,Tulsa,Oklahoma,United States
+Nova Brewing Co,Covina,California,United States
 Novel Brewing Company,Oakland,California,United States
 Novel Strand Brewing,Denver,Colorado,United States
 Novo Brazil Brewing Company,Chula Vista,California,United States
@@ -5106,6 +5093,7 @@ Off-Kilter Brewing,South Beloit,Illinois,United States
 Offshoot Beer Co.,Placentia,California,United States
 Offshore Ale Co,Oak Bluffs,Massachusetts,United States
 Oggi's Sports Brewhouse Pizza - Apple Valley,Apple Valley,California,United States
+Oggi's Sports Brewhouse Pizza - Upland,Upland,California,United States
 Oggis Pizza & Brewing Co - Carmel Mountain Ranch,San Diego,California,United States
 Oggis Pizza & Brewing Co - Mission Valley,San Diego,California,United States
 Ogopogo Brewing,San Gabriel,California,United States
@@ -5113,6 +5101,7 @@ Ogres Brewing,Clinton,Washington,United States
 Ohana Brewing Co,Los Angeles,California,United States
 Ohio Brewing Company,Cuyahoga Falls,Ohio,United States
 Oil Horse Brewing Company,Longview,Texas,United States
+OK3 Brewing Company,Lemoore,California,United States
 Okoboji Brewing Co,Spirit Lake,Iowa,United States
 Ol' Republic Brewery,Nevada City,California,United States
 Ol' Republic Brewery Rancho Cordova,Rancho Cordova,California,United States
@@ -5156,7 +5145,6 @@ Old Ox Brewery LLC,Ashburn,Virginia,United States
 Old Planters Brewing Co.,Beverly,Massachusetts,United States
 Old Possum Brewing Company,Santa Rosa,California,United States
 Old Rail Brewing Co,Mandeville,Louisiana,United States
-Old Redwood Brewing Co.,Windsor,California,United States
 Old Schoolhouse Brewery,Winthrop,Washington,United States
 Old Soul Brewing,Fort Myers,Florida,United States
 Old Spruce Brewing,Snowshoe,West Virginia,United States
@@ -5287,7 +5275,6 @@ Ozone's Brewhouse,Lansing,Michigan,United States
 Pabst Milwaukee Brewery,Milwaukee,Wisconsin,United States
 Pacific Beach Ale House,San Diego,California,United States
 Pacific Brew Haus,Pacific,Missouri,United States
-Pacific Brew Lab,Belmont,California,United States
 Pacific Brewing and Malting,Tacoma,Washington,United States
 Pacific Islander Beer Company,Santee,California,United States
 "Pacific Northwest Brewing Center, LLC",Everett,Washington,United States
@@ -5387,7 +5374,6 @@ Pennyweight Craft Brewing,Livermore,California,United States
 Penobscot Bay Brewery,Winterport,Maine,United States
 Penrose Brewing Company,Geneva,Illinois,United States
 Pensacola Bay Brewery,Pensacola,Florida,United States
-Pentagonal Brewing Co,Imperial,California,United States
 Peoples Brewing Co,Lafayette,Indiana,United States
 Peoria Artisan Brewery,Peoria,Arizona,United States
 Peoria Artisan Brewery,Peoria,Arizona,United States
@@ -5499,7 +5485,6 @@ Plattsburgh Brewing Co,Plattsburgh,New York,United States
 Platypus Brewing,Houston,Texas,United States
 Playalinda Brewing Company,Titusville,Florida,United States
 Playalinda Brewing Company -  Brix Project,Titusville,Florida,United States
-Pleasanton Main St Brewery,Pleasanton,California,United States
 Pleasure House Brewing,Virginia Beach,Virginia,United States
 Plow Brewing Company,Santa Rosa,California,United States
 Plymouth Beer Company / Dirty Water Distillery,Plymouth,Massachusetts,United States
@@ -5771,8 +5756,8 @@ Redlight Redlight Beer Parlour and Brewery,Orlando,Florida,United States
 Redline Brewing Company,Burton,Michigan,United States
 Redwood Brewing Co,Flint,Michigan,United States
 Redwood Curtain Brewing Co,Arcata,California,United States
+Redwood Curtain Brewing Co,Eureka,California,United States
 Reed City Brewing Company,Reed City,Michigan,United States
-Reel Brew Co.,Los Angeles,California,United States
 Reel Deel Brewery,Crossmolina,,Ireland
 Refined Ale Brewery,Little Rock,Arkansas,United States
 Reformation Brewery,Woodstock,Georgia,United States
@@ -5803,7 +5788,6 @@ Resurgence Brewing Company,Buffalo,New York,United States
 Reuben's Brews,Seattle,Washington,United States
 Reuben's Brews Taproom,Seattle,Washington,United States
 ReUnion Brewery,Coralville,Iowa,United States
-REV Brewing Co,Covina,California,United States
 Revel Urban Winery / Revel OTR,Cincinnati,Ohio,United States
 Revelation Ale Works,Hallock,Minnesota,United States
 Revelation Craft Brewing Co,Rehoboth Beach,Delaware,United States
@@ -5951,7 +5935,6 @@ Rocksteady Brewing Co.,Martinez,California,United States
 Rockwell Beer Company,Saint Louis,Missouri,United States
 Rockwell Brewery,Frederick,Maryland,United States
 Rocky Coulee Brewing,Odessa,Washington,United States
-Rocky Hill Brewing,Exeter,California,United States
 Rocky Mountain Brewery,Colorado Springs,Colorado,United States
 "Rocky Mountain Taphouse, LLC",Greeley,Colorado,United States
 Rocky Point Artisan Ales,Rocky Point,New York,United States
@@ -6028,7 +6011,6 @@ Ruby Valley Brew,Sheridan,Montana,United States
 Ruckus Brewing Co,New York,New York,United States
 Rudbeckia Farm,Petoskey,Michigan,United States
 Ruddy Duck Brewery and Grill,Dowell,Maryland,United States
-Rugged Coast Brewing,Santa Rosa,California,United States
 Ruggedman Brewing Company,New Braunfels,Texas,United States
 Ruhlman Brewery/Our Ales,Hampstead,Maryland,United States
 Ruhstaller Beer,Dixon,California,United States
@@ -6065,7 +6047,6 @@ Sacrament Brewing,Sacramento,California,United States
 Sacred Lake Brewing,Herrin,Illinois,United States
 Sacred Waters Brewing Company,Kalispell,Montana,United States
 Sacrilege Brewing Project,Half Moon Bay,California,United States
-Sactown Union Brewery,Sacramento,California,United States
 Saddle Mountain Brewing Company,Goodyear,Arizona,United States
 Saddle Rock Pub & Brewery,Wenatchee,Washington,United States
 Saddlebock Brewery,Springdale,Arkansas,United States
@@ -6112,11 +6093,10 @@ San Gabriel River Brewery Inc,Liberty Hill,Texas,United States
 San Jacinto Brewing Company,Montgomery,Texas,United States
 San Juan Island Brewing Company,Friday Harbor,Washington,United States
 San Luis Valley Brewing Co,Alamosa,Colorado,United States
-San Marcos Brewery and Grill,San Marcos,California,United States
 San Pedro Brewing Co,San Pedro,California,United States
 Sanctuary Brewing Company,Hendersonville,North Carolina,United States
 Sanctuary Spirits,Grand Ledge,Michigan,United States
-Sanctum Brewing Co,Pomona,California,United States
+Sanctum Alehouse,Chula Vista,California,United States
 Sand City Brewing Co.,Northport,New York,United States
 Sand Creek Brewing Co,Black River Falls,Wisconsin,United States
 Sand Mtn brewery,Section,Alabama,United States
@@ -6128,10 +6108,10 @@ Sanford Brewing Company,Sanford,Florida,United States
 Sanitas Brewing Co,Boulder,Colorado,United States
 Santa Barbara Brewing Co,Santa Barbara,California,United States
 Santa Clara Valley Brewing,San Jose,California,United States
-Santa Cruz Aleworks,Santa Cruz,California,United States
 Santa Cruz Mountain Brewing,Santa Cruz,California,United States
 Santa Fe Brewing Co,Santa Fe,New Mexico,United States
-Santa Maria Brewing Co,Santa Maria,California,United States
+Santa Maria Brewing Co,Atascadero,California,United States
+Santa Maria Brewing Co,Nipomo,California,United States
 Santa Monica Brew Works,Santa Monica,California,United States
 SanTan Brewing Co,Chandler,Arizona,United States
 SanTan Brewing Co,Phoenix,Arizona,United States
@@ -6175,7 +6155,6 @@ Schnitz Brewery,Jasper,Indiana,United States
 Scholb Premium Ales,Torrance,California,United States
 Schooner Exact Brewing Co,Seattle,Washington,United States
 Schram Vineyards Winery & Brewery,Waconia,Minnesota,United States
-Schubros Brewery,San Ramon,California,United States
 Schulz Brau Brewing Company,Knoxville,Tennessee,United States
 Science,Phoenix,Arizona,United States
 Scissortail Brewing Co.,Bartlesville,Oklahoma,United States
@@ -6241,6 +6220,7 @@ Seven Bridges Grille and Brewery,Jacksonville,Florida,United States
 Seven Jars Products,Charlotte,North Carolina,United States
 Seven Sirens Brewing Company,Bethlehem,Pennsylvania,United States
 Seven Stills,San Francisco,California,United States
+Seven Stills,San Francisco,California,United States
 Sevens Brew Pub,Farmington,New York,United States
 Seventh Son Brewing Co,Columbus,Ohio,United States
 Severance Brewing Company,Sioux Falls,South Dakota,United States
@@ -6258,7 +6238,6 @@ Shakopee Brewhall,Shakopee,Minnesota,United States
 Shale Brewing Co,North Canton,Ohio,United States
 Shamrock Brewing Company,Pueblo,Colorado,United States
 "Shannon Brewing Company, LLC",Keller,Texas,United States
-Shanty Irish Brewing Company/Rooney's Irish Pub,Santa Maria,California,United States
 Shanty Shack Brewing,Santa Cruz,California,United States
 Shattuck Brewery,Elk River,Idaho,United States
 Shawnee Craft Brewery,Shawnee on Delaware,Pennsylvania,United States
@@ -6276,7 +6255,6 @@ Shipwrecked Restaurant and Brewery,Egg Harbor,Wisconsin,United States
 Shipyard Brew Pub Eliot,Eliot,Maine,United States
 Shipyard Brewing Co,Portland,Maine,United States
 Shire Breu Hous,Dalton,Massachusetts,United States
-Shire Station Brewing Company,Lemoore,California,United States
 Shmaltz Brewing Co,Clifton Park,New York,United States
 Shoe Tree Brewing Co.,Carson City,Nevada,United States
 Shoes & Brews,Longmont,Colorado,United States
@@ -6334,7 +6312,7 @@ Single Speed Brewing Co Tap Room,Waterloo,Iowa,United States
 Singlecut Beersmiths,Astoria,New York,United States
 Sinistral Brewing Company,Manassas,Virginia,United States
 Siren Rock Brewing Company,Rockwall,Texas,United States
-Siskiyou Brew Works,Mccloud,California,United States
+Siskiyou Brew Works,McCloud,California,United States
 Sister Lakes Brewing Company,Dowagiac,Michigan,United States
 Sisyphus Brewing,Minneapolis,Minnesota,United States
 Siuslaw Brewing,Alsea,Oregon,United States
@@ -6543,7 +6521,6 @@ Square State Brewing,Rock Springs,Wyoming,United States
 Square Wheel Brewing Co,Spokane,Washington,United States
 SquareHead Brewing,Holbrook,New York,United States
 SQZBX Brewery,Hot Springs,Arkansas,United States
-SR 76 Beerworks,Valley Center,California,United States
 SS Fermentations Ltd.,Montrose,Colorado,United States
 St Ambrose Cellars,Beulah,Michigan,United States
 St Arnulf Alery,Cadiz,Kentucky,United States
@@ -6554,7 +6531,6 @@ St John Malt Brothers Brewing,Saint John,Indiana,United States
 St Nicholas Brewing Co,Du Quoin,Illinois,United States
 St. Benedict's Brew Works,Ferdinand,Indiana,United States
 St. Elmo Brewing Company,Austin,Texas,United States
-St. Florian's Brewery,Windsor,California,United States
 St. Francis Brewing Company,Saint Francis,Wisconsin,United States
 St. Joseph Brewery & Public House,Indianapolis,Indiana,United States
 St. Mel's Brewing Company,Longford,,Ireland
@@ -6584,11 +6560,9 @@ Starr Hill Pilot Brewery & Side Stage,Roanoke,Virginia,United States
 Starry Eyed Brewing Company,Little Falls,Minnesota,United States
 Start Line Brewing Company,Hopkinton,Massachusetts,United States
 Starving Artist Brewing,Ludington,Michigan,United States
-Stash Brewing Co,Garden Valley,California,United States
 State 48 Barrel and Lager House,Scottsdale,Arizona,United States
 State 48 Brewery,Phoenix,Arizona,United States
 State 48 Brewery,Surprise,Arizona,United States
-State Brewing Co LLC,Gardena,California,United States
 State Room Brewery,San Rafael,California,United States
 Stateline Brewery,South Lake Tahoe,California,United States
 Staten Island Beer Company,Staten Island,New York,United States
@@ -6647,7 +6621,6 @@ Stoker's Brewing Company,Tamaqua,Pennsylvania,United States
 Stone Barrel Brewing Company,Dublin,,Ireland
 Stone Brewing Co,Escondido,California,United States
 Stone Brewing Co- Richmond,Richmond,Virginia,United States
-Stone Brewing Napa,Napa,California,United States
 Stone Brewing World Bistro & Gardens- Liberty Station,San Diego,California,United States
 Stone Cellar Brewpub / Stone Arch Brew House,Appleton,Wisconsin,United States
 Stone Church Brewing,Corona,California,United States
@@ -6751,7 +6724,6 @@ Super Fun Time Brewing Company,Bangor,Pennsylvania,United States
 Super Owl Brewing,Davis,California,United States
 Superior Bathhouse Brewery,Hot Springs National Park,Arkansas,United States
 Superior Coast Brewery / Karls Cuisine Winery and Brewery,Sault Sainte Marie,Michigan,United States
-Surf Brewery,Ventura,California,United States
 Surfridge Brewing Company,El Segundo,California,United States
 Surly Brewing Company,Brooklyn Ctr,Minnesota,United States
 Surly Brewing Company,Minneapolis,Minnesota,United States
@@ -6778,6 +6750,7 @@ SwitchGear Brewing Co,Elkhart Lake,Wisconsin,United States
 Switchyard Brewing Company,Bloomington,Indiana,United States
 Swover Creek Farm Brewery,Edinburg,Virginia,United States
 Sycamore Brewing,Charlotte,North Carolina,United States
+Syncopated Brewing Co,Lakewood,California,United States
 Syracuse Suds Factory,Syracuse,New York,United States
 T.F. Brewing Co,Salt Lake City,Utah,United States
 Table 41 Brewing Co.,Cohoes,New York,United States
@@ -6790,7 +6763,6 @@ Tactical OPS Brewing Inc.,Fresno,California,United States
 Taft's Ale House,Cincinnati,Ohio,United States
 Taft's Brewing Co,Cincinnati,Ohio,United States
 Tahoe Mountain Brewing Company,Tahoe City,California,United States
-Tahoe Mountain Brewing Company,Truckee,California,United States
 Tahquamenon Falls Brewery and Pub,Paradise,Michigan,United States
 Tailgate Brewery,Nashville,Tennessee,United States
 TailGate Brewery Music Row,Nashville,Tennessee,United States
@@ -6812,7 +6784,7 @@ Tandem Brewing Co,Ontario,Oregon,United States
 Taneum Creek Brewing,Cle Elum,Washington,United States
 Tangled Roots Brewing Company,Ottawa,Illinois,United States
 TangleTown Public House,Seattle,Washington,United States
-Tannery Bend Beerworks,Napa,California,United States
+Tannery Bend Beerworks,Oakland,California,United States
 Tannery Run Brew Works,Ambler,Pennsylvania,United States
 Tantrum Brewing Company,Cleveland,Georgia,United States
 Tanzenwald Brewing Company,Northfield,Minnesota,United States
@@ -6821,7 +6793,6 @@ Taos Mesa Brewing Co,El Prado,New Mexico,United States
 Taos Trail Inn Brewery & Steakhouse,Ojo Caliente,New Mexico,United States
 Tap and Screw Brewery,Cincinnati,Ohio,United States
 Tap and Vine,Auburn,California,United States
-Tap It Brewing Co,San Luis Obispo,California,United States
 Tap on Main Brewing Company,Somerset,Kentucky,United States
 Tapistry Brewing Company,Bridgman,Michigan,United States
 Taplands Brewery,Santa Clara,California,United States
@@ -6930,7 +6901,7 @@ The Brewery At Hershey,Middletown,Pennsylvania,United States
 The Brewery LBK,Lubbock,Texas,United States
 The Brewery of Broken Dreams,Hammondsport,New York,United States
 The Brewhouse,Santa Barbara,California,United States
-The Brewing Lair,Blairsden-Graeagle,California,United States
+The Brewing Lair,Blairsden,California,United States
 The Brewing Projekt,Eau Claire,Wisconsin,United States
 The Brewtorium,Austin,Texas,United States
 The Brick Oven Brewpub,Akron,Ohio,United States
@@ -7174,7 +7145,6 @@ Timber Creek Tap & Table,Meadville,Pennsylvania,United States
 Timber Monster Brewing Company,Sultan,Washington,United States
 Timberyard Brewing Co.,East Brookfield,Massachusetts,United States
 Timbukbru,Clarion,Iowa,United States
-Timeless Pints Brewing Co,Lakewood,California,United States
 Timnath Beerwerks,Timnath,Colorado,United States
 Timotheus Brothers Brewery,Springfield,Illinois,United States
 Tin Bridge Brewing,Westfield,Massachusetts,United States
@@ -7225,10 +7195,10 @@ Toro Creek Brewing Co,Paso Robles,California,United States
 Torrent Brewing Co,Ames,Iowa,United States
 Tortugo Brewing Company,Inglewood,California,United States
 Touchstone Brewing Company,Sacramento,California,United States
+Tower Brewing Co,Sacramento,California,United States
 Towerhill Brewery,Chalfont,Pennsylvania,United States
 Town Branch Distillery,Lexington,Kentucky,United States
 "Town In City Brewing Co, LLC",Houston,Texas,United States
-Towne Park Brew Co,Silverado,California,United States
 Townies Brewery,Ann Arbor,Michigan,United States
 Township 7 Brewing Co. LLC,Dickinson Center,New York,United States
 Tox Brewing Company,New London,Connecticut,United States
@@ -7411,7 +7381,6 @@ Uncle Bear's Brewery,Phoenix,Arizona,United States
 Uncle Billy's Brewery,Austin,Texas,United States
 Uncle Buck's Brewery And Steakhouse,Grapevine,Texas,United States
 Uncle Ernies Bayfront Grill & Brew House,Panama City,Florida,United States
-Uncommon Brewers,Santa Cruz,California,United States
 Uncrafted Territory Brewing Company,Beaver Dam,Kentucky,United States
 Under Pressure Brewing Company,Plymouth,Minnesota,United States
 Under The Radar Brewery,Houston,Texas,United States
@@ -7439,7 +7408,6 @@ Unleashed Brewing Company,Stonington,Connecticut,United States
 Unmapped Brewing Co.,Minnetonka,Minnesota,United States
 "Unnamed Beer Company, LLC",Boulder,Colorado,United States
 Unruly Brewing Company,Muskegon,Michigan,United States
-Unsung Brewing Company,Tustin,California,United States
 Unsung Brewing Company- Taproom,Anaheim,California,United States
 "Untapped Territory, LLC",Lincolnton,North Carolina,United States
 Untold Brewing,Scituate,Massachusetts,United States
@@ -7744,7 +7712,6 @@ Wide Awake Brewing Company,Summerville,South Carolina,United States
 Widmer Brothers Brewing,Portland,Oregon,United States
 Widowmaker Brewing,Braintree,Massachusetts,United States
 "Wiedemann Brewing Co, LLC",Cincinnati,Ohio,United States
-Wiens Brewing Co,Temecula,California,United States
 Wild Acre Brewing Company,Fort Worth,Texas,United States
 Wild Barrel Brewing Company,San Marcos,California,United States
 "Wild Bunch Brewing Co, LLC",Georgetown,Texas,United States
@@ -7849,7 +7816,6 @@ Wooly Pig Farm Brewery,Fresno,Ohio,United States
 WopsHops Brewing Company,Sanford,Florida,United States
 Working Class Brewery,Cleveland,Ohio,United States
 Working Draft Beer Company,Madison,Wisconsin,United States
-Working Man Brewing Co,Livermore,California,United States
 Workshop Brewing Co,Traverse City,Michigan,United States
 World's End Brewpub,Grand Lake,Colorado,United States
 Wormtown Brewery,Worcester,Massachusetts,United States
@@ -7865,7 +7831,6 @@ Wynwood Brewing Company,Miami,Florida,United States
 WYOld West Brewing Company,Powell,Wyoming,United States
 Wyoming Territory Brewing / Eric Bischoff Family Brewing,Cody,Wyoming,United States
 Xicha Brewing Co.,Salem,Oregon,United States
-Ximix Craft Exploration,Gardena,California,United States
 Y Bridge Brewing Company,Zanesville,Ohio,United States
 Yachats Brewing,Yachats,Oregon,United States
 Yakima Craft Brewing Co,Yakima,Washington,United States
