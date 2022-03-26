@@ -85,7 +85,6 @@ name,city,state,country
 3 Sons Brewing Co.,Dania,Florida,United States
 3 Stars Brewing Co,Washington,District of Columbia,United States
 3 Trails Brewing Co,Independence,Missouri,United States
-30 Mile Brewing Co.,Old Saybrook,Connecticut,United States
 300 Suns Brewing Company,Longmont,Colorado,United States
 34 Degree North Experiment Station,Shallotte,North Carolina,United States
 350 Brewing Co,Tinley Park,Illinois,United States
@@ -136,6 +135,7 @@ name,city,state,country
 559 Local Brewing,Clovis,California,United States
 56 Brewing,Minneapolis,Minnesota,United States
 5770 Brewery,Teutopolis,Illinois,United States
+583 양조장(583 Brewery),Jangsu-gun,Jeollabukdo,South Korea
 5th Element Brewing,Leander,Texas,United States
 5th Line Brewing Co,Yakima,Washington,United States
 5x5 Brewing Co.,Mission,Texas,United States
@@ -277,6 +277,7 @@ Alluvial Brewing Company,Ames,Iowa,United States
 Alma Brewing Co,Alma,Michigan,United States
 Alma Mader Brewing,Kansas City,Missouri,United States
 Almanac Beer Company,Alameda,California,United States
+Almost Famous Brewing Company,East Granby,Connecticut,United States
 Aloha Beer Co,Honolulu,Hawaii,United States
 Alosta Brewing Co,Covina,California,United States
 Alpenglow Beer Co,Lafayette,California,United States
@@ -1886,7 +1887,6 @@ Cotee River Brewing Company,New Port Richey,Florida,United States
 Cotton Ball Brewing Company,Mayfield,,Ireland
 Cotton Brewing Co,Adrian,Michigan,United States
 CottonTown Brew Lab,Columbia,South Carolina,United States
-Cottrell Brewing Co,Pawcatuck,Connecticut,United States
 Couch Brewery,Pittsburgh,Pennsylvania,United States
 Council Brewing - Magic Factory,San Diego,California,United States
 Council Brewing Company,San Diego,California,United States
@@ -1915,6 +1915,7 @@ Craft Brewing Company,Lake Elsinore,California,United States
 Craft Kitchen and Brewery,Bend,Oregon,United States
 Craft Life Brewing,Land O Lakes,Florida,United States
 CraftHaus Brewery,Henderson,Nevada,United States
+CRAFTROOT,Sokcho-si,Gangwondo,South Korea
 "CraftRoots Brewing, LLC.",Milford,Massachusetts,United States
 Craftsman Brewing Co,Pasadena,California,United States
 Craftwerk Orange Brewing Company,West Orange,New Jersey,United States
@@ -4297,7 +4298,6 @@ Lost Coast Brew House,Eureka,California,United States
 "Lost Coast Brewery and Cafe - Table Bluff Brewing, Inc.",Eureka,California,United States
 Lost Colony Brewery and Cafe,Manteo,North Carolina,United States
 Lost Duck Brewing Co.,Fort Madison,Iowa,United States
-Lost Elm Artisanal Ales,Stafford Springs,Connecticut,United States
 Lost Forty Brewing,Little Rock,Arkansas,United States
 Lost Friend Brewing Company,Colorado Springs,Colorado,United States
 Lost Grove Brewing,Boise,Idaho,United States
@@ -6243,7 +6243,6 @@ Shamrock Brewing Company,Pueblo,Colorado,United States
 Shanty Shack Brewing,Santa Cruz,California,United States
 Shattuck Brewery,Elk River,Idaho,United States
 Shawnee Craft Brewery,Shawnee on Delaware,Pennsylvania,United States
-Shebeen Brewing Company,Wolcott,Connecticut,United States
 Sheepscot Valley Brewing Co,Whitefield,Maine,United States
 Shelter Island Craft Brewery,Shelter Island,New York,United States
 Shenandoah Valley Brewing Company,Staunton,Virginia,United States
@@ -6574,7 +6573,6 @@ Stats Brewpub,Atlanta,Georgia,United States
 Staunton River Brewing Company,Brookneal,Virginia,United States
 Steadfast Beer Co,Albany,New York,United States
 Steady Brewing,Long Beach,California,United States
-Steady Habit Brewing Company,Haddam,Connecticut,United States
 Steam Bell Beer Works,Midlothian,Virginia,United States
 Steam Donkey Brewing Co,Aberdeen,Washington,United States
 Steam Plant Grill,Spokane,Washington,United States
@@ -7893,28 +7891,60 @@ Zwei Brewing Co,Fort Collins,Colorado,United States
 Zydeco Brew Werks,Tampa,Florida,United States
 Zymurcracy Beer Company,Rapid City,South Dakota,United States
 Zymurgy Brew Works,Torrance,California,United States
+가나다라브루어리(Ganadara Brewing),Mungyeong-si,Gyeongsangbukdo,South Korea
+갈매기 브루어리(Galmegi Brewing),Gangseo-gu," Busan",South Korea
+감자아일랜드(Gamja Island),Chuncheon-si,Gangwondo,South Korea
+강릉브루어리 바이 현 (Gangneung_Brewery),Gangneung-si,Gangwondo,South Korea
+고릴라브루잉(Gorilla Brewing),Suyeong-gu,Busan,South Korea
+고브루(Gobrew),Seogwipo-si,Jejudo,South Korea
 굿맨브루어리(Goodman Brewery),Guri-si,Gyeonggido,South Korea
 "끽비어컴퍼니 (Ggeek Beer Co,.)",Jung-gu,Seoul,South Korea
+노매딕 브루잉 컴퍼니(Nomadic Brewing Co.),Jeonju-si,Jeollabukdo,South Korea
+더랜치 브루잉(The Ranch Brewing),Seo-gu,Daejeon,South Korea
 동두천브루어리(Dongducheon Brewery),Dongducheon-si,Gyeonggido,South Korea
+라미브루잉(Rami Brewing),Changwon-si,Gyeongsangnamdo,South Korea
+라인도이치(Reindeutsch Brewery),Tongyeong-si,Gyeongsangnamdo,South Korea
 매직트리브루어리(Magictree Brewery),Yongin-si,Gyeonggido,South Korea
+맥파이 브루어리(Magpie Brewing Co.),Jeju-si,Jejudo,South Korea
 미스터리 브루잉 (MysterLee Brewing Co.),Mapo-gu,Seoul,South Korea
 바네하임브루어리(Vaneheim Brewery),Namyangju-si,Gyeonggido,South Korea
+바이젠하우스(WeizenHouse),Gongju-si,Chungcheongnamdo,South Korea
+버드나무 브루어리(Budnamu Brewery),Gangneung-si,Gangwondo,South Korea
+부산프라이드브루어리(Busanpride Brewery),Gijang-eup,Busan,South Korea
 브루어리304 (Brewery 304),Seodaemun-gu,Seoul,South Korea
+블루웨일브루하우스(BlueWhale Brewhouse),Chungju-si,Chungcheongbukdo,South Korea
+비아브루어리(Via Brewery),Gwangsan-gu,Gwangju,South Korea
 비어바나 (Beer Vana Brewing Co.),Yeongdeungpo-gu,Seoul,South Korea
 서울 브루어리 (Seoul Brewery),Mapo-gu,Seoul,South Korea
 서울집시 (Seoul Gypsy),Jongno-gu,Seoul,South Korea
+순성브루어리(Sunseong Brewery),Dangjin-si,Chungcheongnamdo,South Korea
+순천양조장(Suncheon Brewery),Suncheon-si,Jeollanamdo,South Korea
+스퀴즈브루어리(Squeeze Brewery),Chuncheon-si,Gangwondo,South Korea
+아리랑 브루어리(Alilang-Brewery),Jeongseon-gun,Gangwondo,South Korea
 아쉬트리 (Ash Tree Brewery),Gwangjin-gu,Seoul,South Korea
 아톤브루어리 (Aton Brewery),Yongsan-gu,Seoul,South Korea
+안동맥주(Andong Brewing Co.),Andong-si,Gyeongsangbukdo,South Korea
+안동맥주퍼블릭하우스(Andong Brewing Public House),Andong-si,Gyeongsangbukdo,South Korea
 어메이징브루잉컴퍼니 (Amazing Brewing Company),Seongdong-gu,Seoul,South Korea
 어메이징브루잉컴퍼니(AmazingBrewing Co.),Yeonsu-gu,Incheon,South Korea
 에일크루브루잉 (Alecrew Brewing),Mapo-gu,Seoul,South Korea
 에잇피플 브루어리(Eight People Brewery),Namyangju-si,Gyeonggido,South Korea
+와일드웨이브(Wild Wave Brewing Co.),Haeundae-gu,Busan,South Korea
+완벽한인생(Perfectlife Brewery),Namhae-gun,Gyeongsangnamdo,South Korea
 인천맥주(incheon_brewery),Jung-gu,Incheon,South Korea
+제주약수터(Jejubeerfountain),Seogwipo-si,Jejudo,South Korea
+칠홉스브루잉(Chillhops Brewing Co.),Seosan-si,Chungcheongnamdo,South Korea
 카브루 (Ka-Brew),Songpa-gu,Seoul,South Korea
 크래머리 브루어리(Kraemerlee Brewery),Gapyeong-gun,Gyeonggido,South Korea
 크래프트브로스 탭하우스 & 바틀샵 (Craftbros Tap House & Bottle Shop),Seocho-gu,Seoul,South Korea
+테트라포드 브루잉(Tetrapod Brewing),Busanjin-gu,Busan,South Korea
+툼브로이(Turmbräu),Haeundae-gu,Busan,South Korea
+파머스브루어리(Farmers Brewery),Jeonju-si,Jeollabukdo,South Korea
 펀더멘탈 브루잉(Fundamental Brewing Co.),Suwon-si,Gyeonggido,South Korea
+프라하993(993 Praha),Suyeong-gu,Busan,South Korea
 플레이그라운드(playground Brewery),Goyang-si,Gyeonggido,South Korea
 핸드앤몰트 (Hand and Malt),Yongsan-gu,Seoul,South Korea
+허심청브로이(Hursimchung Bräu),Dongnae-gu,Busan,South Korea
 헤이스탁 브루어리(Haystack Brewery),Seongnam-si,Gyeonggido,South Korea
+화이트크로우 브루잉(Whitecrow Brewing),Pyeongchang-gun,Gangwondo,South Korea
 히든트랙브루잉(Hiddentrack Brewing Co.),Yangju-si,Gyeonggido,South Korea
