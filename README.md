@@ -1,7 +1,9 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -25,18 +27,23 @@ A shared Postman collection containing all the API requests to fetch breweries i
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1913239-1eef575a-1e78-4d6e-9678-f4649acce4ef?action=collection%2Ffork&collection-url=entityId%3D1913239-1eef575a-1e78-4d6e-9678-f4649acce4ef%26entityType%3Dcollection%26workspaceId%3D4d34510d-0d62-465a-a884-20c6ae1d468d)
 
-### Contributing
+1. `git clone git@github.com:openbrewerydb/openbrewerydb.git`
+2. `cd openbrewerydb && npm install`
+
+## 🤝 Contributing
+
+For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md) and our [code of conduct](CODE_OF_CONDUCT.md).
 
 1. Fork the repository
 2. Add or update breweries in the CSV (Excel, Google Sheets)
 3. Submit a Pull Request
 
-#### Tips
+### Tips
 
 - CSVs are organized by `data/[country]/[state]` or `data/[country]/[county_province]`
 - Required fields/columns: `name`, `street`, `brewery_type`, `city`, `state` (or `county_province`), `postal_code`, and `country`
 
-### Scripts
+## ⚙️ Scripts
 
 These are the npm scripts used to maintain this dataset.
 
@@ -49,10 +56,7 @@ These are the npm scripts used to maintain this dataset.
 - `npm run generate:json` - Generate JSON from `breweries.csv` output to `breweries.json`
 - `npm run generate:sql` - Generate PostgreSQL SQL from `breweries.csv` output to `breweries.sql`
 - `npm run validate` - Validate CSVs based on JSON Schema
-
-## 🤝 Contributing
-
-For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md) and our [code of conduct](CODE_OF_CONDUCT.md).
+- `npm run workflow:maintain` - Combine, generate, split (used when updating individual CSVs)
 
 ## 👾 Community
 
