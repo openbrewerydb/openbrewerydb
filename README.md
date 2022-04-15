@@ -30,6 +30,11 @@ A shared Postman collection containing all the API requests to fetch breweries i
 1. `git clone git@github.com:openbrewerydb/openbrewerydb.git`
 2. `cd openbrewerydb && npm install`
 
+## Run through [databar.ai](https://databar.ai)
+If you don't know how to use APIs, you can use Brewery DB without code through the [databar.ai](https://databar.ai) platform.
+
+[![Run without code](https://databar.ai/external/ref_button.svg)](https://databar.ai/source/36?utm_source=brewery&utm_campaign=apiref)
+
 ## 🤝 Contributing
 
 For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md) and our [code of conduct](CODE_OF_CONDUCT.md).
