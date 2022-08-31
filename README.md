@@ -26,7 +26,7 @@ Access the dataset programmatically via the [Open Brewery DB API](https://www.op
 #### [databar.ai](https://databar.ai)
 If you don't know how to use APIs, you can use Brewery DB without code through the [databar.ai](https://databar.ai) platform.
 
-[![Run without code](https://databar.ai/external/ref_button.svg)](https://databar.ai/source/36?utm_source=brewery&utm_campaign=apiref)
+[![Run without code](https://databar.ai/external/ref_button.svg)](https://databar.ai/explore/open-brewery-db?utm_source=brewery&utm_campaign=apiref)
 
 #### [Postman](https://www.postman.com/)
 A shared Postman collection containing all the API requests to fetch breweries information from the open-source dataset.
