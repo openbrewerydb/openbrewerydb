@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -19,24 +19,40 @@ Provide an approval-based pipeline to update the dataset and API.
 - [JSON](breweries.json)
 - [PostgreSQL SQL](breweries.sql)
 
-## 🚀 Getting Started
+### API
 
+Access the dataset programmatically via the [Open Brewery DB API](https://www.openbrewerydb.org/). Use the following tools to get started without any code:
+
+#### [databar.ai](https://databar.ai)
+If you don't know how to use APIs, you can use Brewery DB without code through the [databar.ai](https://databar.ai) platform.
+
+[![Run without code](https://databar.ai/external/ref_button.svg)](https://databar.ai/source/36?utm_source=brewery&utm_campaign=apiref)
+
+#### [Postman](https://www.postman.com/)
 A shared Postman collection containing all the API requests to fetch breweries information from the open-source dataset.
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1913239-1eef575a-1e78-4d6e-9678-f4649acce4ef?action=collection%2Ffork&collection-url=entityId%3D1913239-1eef575a-1e78-4d6e-9678-f4649acce4ef%26entityType%3Dcollection%26workspaceId%3D4d34510d-0d62-465a-a884-20c6ae1d468d)
 
-### Contributing
+## 🚀 Getting Started
+
+1. `git clone git@github.com:openbrewerydb/openbrewerydb.git`
+2. `cd openbrewerydb && npm install`
+
+
+## 🤝 Contributing
+
+For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md) and our [code of conduct](CODE_OF_CONDUCT.md).
 
 1. Fork the repository
 2. Add or update breweries in the CSV (Excel, Google Sheets)
 3. Submit a Pull Request
 
-#### Tips
+### Tips
 
 - CSVs are organized by `data/[country]/[state]` or `data/[country]/[county_province]`
 - Required fields/columns: `name`, `street`, `brewery_type`, `city`, `state` (or `county_province`), `postal_code`, and `country`
 
-### Scripts
+## ⚙️ Scripts
 
 These are the npm scripts used to maintain this dataset.
 
@@ -49,10 +65,7 @@ These are the npm scripts used to maintain this dataset.
 - `npm run generate:json` - Generate JSON from `breweries.csv` output to `breweries.json`
 - `npm run generate:sql` - Generate PostgreSQL SQL from `breweries.csv` output to `breweries.sql`
 - `npm run validate` - Validate CSVs based on JSON Schema
-
-## 🤝 Contributing
-
-For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md) and our [code of conduct](CODE_OF_CONDUCT.md).
+- `npm run workflow:maintain` - Combine, generate, split (used when updating individual CSVs)
 
 ## 👾 Community
 
@@ -105,6 +118,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ahbarrozo"><img src="https://avatars.githubusercontent.com/u/36050690?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alexandre Hernandes Barrozo</b></sub></a><br /><a href="#data-ahbarrozo" title="Data">🔣</a></td>
     <td align="center"><a href="https://github.com/Resten1497"><img src="https://avatars.githubusercontent.com/u/19689492?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Resten</b></sub></a><br /><a href="#data-Resten1497" title="Data">🔣</a></td>
     <td align="center"><a href="https://matthiggins.dev/"><img src="https://avatars.githubusercontent.com/u/8033424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matt Higgins</b></sub></a><br /><a href="#data-vextor22" title="Data">🔣</a></td>
+    <td align="center"><a href="https://alexjustesen.com/"><img src="https://avatars.githubusercontent.com/u/1144087?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alex Justesen</b></sub></a><br /><a href="#data-alexjustesen" title="Data">🔣</a></td>
+    <td align="center"><a href="https://www.binarydolphin.com/"><img src="https://avatars.githubusercontent.com/u/4139590?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Craig Kelly</b></sub></a><br /><a href="#data-CraigKelly" title="Data">🔣</a></td>
   </tr>
 </table>
 
