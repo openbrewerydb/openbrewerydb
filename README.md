@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -120,6 +120,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://matthiggins.dev/"><img src="https://avatars.githubusercontent.com/u/8033424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matt Higgins</b></sub></a><br /><a href="#data-vextor22" title="Data">🔣</a></td>
     <td align="center"><a href="https://alexjustesen.com/"><img src="https://avatars.githubusercontent.com/u/1144087?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alex Justesen</b></sub></a><br /><a href="#data-alexjustesen" title="Data">🔣</a></td>
     <td align="center"><a href="https://www.binarydolphin.com/"><img src="https://avatars.githubusercontent.com/u/4139590?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Craig Kelly</b></sub></a><br /><a href="#data-CraigKelly" title="Data">🔣</a></td>
+    <td align="center"><a href="http://rewak.pl/"><img src="https://avatars.githubusercontent.com/u/10898728?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krzysztof Rewak</b></sub></a><br /><a href="#data-krzysztofrewak" title="Data">🔣</a></td>
   </tr>
 </table>
 
