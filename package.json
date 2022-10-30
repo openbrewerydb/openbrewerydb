@@ -26,14 +26,17 @@
   "homepage": "https://github.com/openbrewerydb/openbrewerydb#readme",
   "dependencies": {
     "ajv": "^8.6.3",
+    "date-fns": "^2.29.3",
     "glob": "^7.1.6",
     "glob-promise": "^4.1.0",
+    "mustache": "^4.2.0",
     "papaparse": "^5.2.0",
     "pg-promise": "^10.10.1",
     "slugify": "^1.4.0"
   },
   "devDependencies": {
     "@types/glob": "^7.2.0",
+    "@types/mustache": "^4.2.1",
     "@types/papaparse": "^5.3.2",
     "all-contributors-cli": "^6.20.0",
     "ansi-regex": ">=5.0.1",
