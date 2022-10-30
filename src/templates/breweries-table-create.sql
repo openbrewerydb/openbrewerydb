@@ -1,5 +1,5 @@
 CREATE SCHEMA IF NOT EXISTS breweries;
-CREATE TABLE IF NOT EXISTS breweries.breweries_20220819 (
+CREATE TABLE IF NOT EXISTS breweries.breweries_{{date}} (
     id BIGSERIAL PRIMARY KEY,
     name character varying,
     brewery_type character varying,
@@ -20,5 +20,5 @@ CREATE TABLE IF NOT EXISTS breweries.breweries_20220819 (
     obdb_id character varying,
     tags text
 );
-CREATE UNIQUE INDEX IF NOT EXISTS breweries_pkey ON breweries.breweries_20220819(id int8_ops);
-CREATE UNIQUE INDEX IF NOT EXISTS breweries_obdb_id_key ON breweries.breweries_20220819(obdb_id text_ops);
+CREATE UNIQUE INDEX IF NOT EXISTS breweries_pkey ON breweries.breweries_{{date}}(id int8_ops);
+CREATE UNIQUE INDEX IF NOT EXISTS breweries_obdb_id_key ON breweries.breweries_{{date}}(obdb_id text_ops);
