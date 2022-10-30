@@ -5,14 +5,29 @@ import { Brewery } from "./utils/types";
 import { headers } from "./config";
 import Papa from "papaparse";
 import pgpromise from "pg-promise";
+import Mustache from "mustache";
+import { format } from "date-fns";
 
 const pgp = pgpromise({
   capSQL: true,
 });
+const tableCreateTemplatePath = join(
+  __dirname,
+  "./templates/breweries-table-create.sql"
+);
 const csvPath = join(__dirname, "../breweries.csv");
 const sqlPath = join(__dirname, "../breweries.sql");
 
-const cs = new pgp.helpers.ColumnSet(headers, { table: "breweries" });
+const dateString = format(new Date(), "yyyyMMdd");
+const cs = new pgp.helpers.ColumnSet(headers, {
+  table: `breweries_${dateString}`,
+});
+const tableCreateSql = readFileSync(tableCreateTemplatePath, {
+  encoding: "utf-8",
+});
+const tableCreateSqlTemplate = Mustache.render(tableCreateSql, {
+  date: dateString,
+});
 
 try {
   const data = readFileSync(csvPath, { encoding: "utf-8" });
@@ -29,7 +44,7 @@ try {
     " ON CONFLICT(obdb_id) DO UPDATE SET " +
     cs.assignColumns({ from: "EXCLUDED", skip: "obdb_id" });
 
-  writeFileSync(sqlPath, sql);
+  writeFileSync(sqlPath, tableCreateSqlTemplate + sql);
 
   console.log(`✅ Wrote ${sql.length} bytes to ${sqlPath}...`);
 } catch (error) {
