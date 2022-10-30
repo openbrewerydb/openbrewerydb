@@ -1,7 +1,9 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -15,7 +17,6 @@ Provide an approval-based pipeline to update the dataset and API.
 ## 🗄 Data Formats
 
 - [CSV - Full Dataset](breweries.csv) (1.5 MB)
-- [CSV - Lite Dataset](breweries-lite.csv) (460 KB) - Only the features `name`, `city`, `state`, and `country` for breweries without the `closed` brewery type.
 - [JSON](breweries.json)
 - [PostgreSQL SQL](breweries.sql)
 
@@ -24,11 +25,13 @@ Provide an approval-based pipeline to update the dataset and API.
 Access the dataset programmatically via the [Open Brewery DB API](https://www.openbrewerydb.org/). Use the following tools to get started without any code:
 
 #### [databar.ai](https://databar.ai)
+
 If you don't know how to use APIs, you can use Brewery DB without code through the [databar.ai](https://databar.ai) platform.
 
 [![Run without code](https://databar.ai/external/ref_button.svg)](https://databar.ai/explore/open-brewery-db?utm_source=brewery&utm_campaign=apiref)
 
 #### [Postman](https://www.postman.com/)
+
 A shared Postman collection containing all the API requests to fetch breweries information from the open-source dataset.
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1913239-1eef575a-1e78-4d6e-9678-f4649acce4ef?action=collection%2Ffork&collection-url=entityId%3D1913239-1eef575a-1e78-4d6e-9678-f4649acce4ef%26entityType%3Dcollection%26workspaceId%3D4d34510d-0d62-465a-a884-20c6ae1d468d)
@@ -37,7 +40,6 @@ A shared Postman collection containing all the API requests to fetch breweries i
 
 1. `git clone git@github.com:openbrewerydb/openbrewerydb.git`
 2. `cd openbrewerydb && npm install`
-
 
 ## 🤝 Contributing
 
