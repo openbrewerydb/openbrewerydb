@@ -20,7 +20,10 @@ const sqlPath = join(__dirname, "../breweries.sql");
 
 const dateString = format(new Date(), "yyyyMMdd");
 const cs = new pgp.helpers.ColumnSet(headers, {
-  table: `breweries_${dateString}`,
+  table: {
+    table: `breweries_${dateString}`,
+    schema: "breweries",
+  },
 });
 const tableCreateSql = readFileSync(tableCreateTemplatePath, {
   encoding: "utf-8",
@@ -39,10 +42,7 @@ try {
   const breweries = result.data;
   console.log(`📖 Read ${breweries.length} rows from ${csvPath}...`);
 
-  let sql =
-    pgp.helpers.insert(breweries, cs) +
-    " ON CONFLICT(obdb_id) DO UPDATE SET " +
-    cs.assignColumns({ from: "EXCLUDED", skip: "obdb_id" });
+  let sql = pgp.helpers.insert(breweries, cs);
 
   writeFileSync(sqlPath, tableCreateSqlTemplate + sql);
 
