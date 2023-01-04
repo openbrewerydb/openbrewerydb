@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-31-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -125,6 +125,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://johnbaumert.com/"><img src="https://avatars.githubusercontent.com/u/36886175?v=4?s=100" width="100px;" alt=""/><br /><sub><b>John Baumert</b></sub></a><br /><a href="#data-baumertjohn" title="Data">🔣</a></td>
     <td align="center"><a href="https://github.com/phortysiks"><img src="https://avatars.githubusercontent.com/u/25803180?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Charlie Cox</b></sub></a><br /><a href="#data-phortysiks" title="Data">🔣</a></td>
+    <td align="center"><a href="https://github.com/milsman2"><img src="https://avatars.githubusercontent.com/u/72627575?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Miles Kane</b></sub></a><br /><a href="#data-milsman2" title="Data">🔣</a></td>
   </tr>
 </table>
 
