@@ -258,6 +258,42 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "krzysztofrewak",
+      "name": "Krzysztof Rewak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10898728?v=4",
+      "profile": "http://rewak.pl/",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "baumertjohn",
+      "name": "John Baumert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36886175?v=4",
+      "profile": "https://johnbaumert.com/",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "phortysiks",
+      "name": "Charlie Cox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25803180?v=4",
+      "profile": "https://github.com/phortysiks",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "milsman2",
+      "name": "Miles Kane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72627575?v=4",
+      "profile": "https://github.com/milsman2",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7

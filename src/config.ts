@@ -19,13 +19,6 @@ export const headers = [
   "tags",
 ];
 
-export const headersLite = [
-  "name",
-  "city",
-  "state",
-  "country",
-];
-
 export const slugifyOptions = {
   remove: /[*+~.,()'"!:@/]/g,
   lower: true,
