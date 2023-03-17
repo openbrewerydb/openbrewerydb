@@ -70,7 +70,7 @@ These are the npm scripts used to maintain this dataset.
 ## 👾 Community
 
 - [Join the Newsletter](http://eepurl.com/dBjS0j)
-- [Join the Discord](https://discord.gg/SHtpdEN)
+- [Join the Discord](https://discord.gg/3G3syaD)
 
 ## 📫 Feedback
 
