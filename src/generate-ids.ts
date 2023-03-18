@@ -4,7 +4,7 @@ import slugify from "slugify";
 import Papa from "papaparse";
 
 import { headers, slugifyOptions } from "./config";
-import { Brewery } from "./utils/types";
+import { Brewery } from "./types";
 
 const csvFilePath = join(__dirname, "../breweries.csv");
 

@@ -1,88 +1,22 @@
-import { BreweryType } from "./utils/types";
-
 export const headers = [
-  "obdb_id",
+  "id",
   "name",
   "brewery_type",
-  "street",
+  "address_1",
   "address_2",
   "address_3",
   "city",
-  "state",
-  "county_province",
+  "state_province",
   "postal_code",
-  "website_url",
-  "phone",
   "country",
+  "phone",
+  "website_url",
   "longitude",
   "latitude",
-  "tags",
 ];
 
 export const slugifyOptions = {
   remove: /[*+~.,()'"!:@/]/g,
   lower: true,
   strict: true,
-};
-
-/** JSON Schema */
-export const schema = {
-  type: "object",
-  required: ["name", "brewery_type", "city", "postal_code", "country"],
-  properties: {
-    obdb_id: {
-      type: ["string", "null"],
-    },
-    name: {
-      type: "string",
-      minLength: 1,
-    },
-    brewery_type: {
-      enum: Object.values(BreweryType),
-    },
-    street: {
-      type: ["string", "null"],
-    },
-    address_2: {
-      type: ["string", "null"],
-    },
-    address_3: {
-      type: ["string", "null"],
-    },
-    city: {
-      type: "string",
-      minLength: 2,
-    },
-    state: {
-      type: ["string", "null"],
-    },
-    county_province: {
-      type: ["string", "null"],
-    },
-    postal_code: {
-      type: ["string", "number"],
-      minLength: 5,
-    },
-    phone: {
-      type: ["string", "number", "null"],
-    },
-    website_url: {
-      type: ["string", "null"],
-    },
-    country: {
-      type: "string",
-      minLength: 2,
-    },
-    longitude: {
-      type: ["number", "null"],
-    },
-    latitude: {
-      type: ["number", "null"],
-    },
-    tags: {
-      type: ["array", "null"],
-      uniqueItems: true,
-      items: { type: "string" },
-    },
-  },
 };

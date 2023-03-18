@@ -1,7 +1,7 @@
 // Convert CSV to SQL INSERTs
 import { writeFileSync, readFileSync } from "fs";
 import { join } from "path";
-import { Brewery } from "./utils/types";
+import { Brewery } from "./types";
 import { headers } from "./config";
 import Papa from "papaparse";
 import pgpromise from "pg-promise";
