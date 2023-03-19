@@ -1,11 +1,11 @@
 import { writeFileSync, readFileSync } from "fs";
+import { format } from "date-fns";
 import { join } from "path";
-import { Brewery } from "./types";
-import { headers } from "./config";
 import Papa from "papaparse";
 import pgpromise from "pg-promise";
 import Mustache from "mustache";
-import { format } from "date-fns";
+import { headers } from "./config";
+import { Brewery } from "./types";
 
 const pgp = pgpromise({
   capSQL: true,

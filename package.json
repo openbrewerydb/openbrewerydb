@@ -18,11 +18,10 @@
     "contributors:generate": "all-contributors generate",
     "csv:combine": "ts-eager ./src/combine-csv.ts",
     "csv:split": "ts-eager ./src/split-csv.ts",
-    "generate:ids": "ts-eager ./src/generate-ids.ts",
     "generate:json": "ts-eager ./src/generate-json.ts",
     "generate:sql": "ts-eager ./src/generate-sql.ts",
     "validate": "ts-eager --unhandled-rejections=strict ./src/validate-csv.ts",
-    "workflow:maintain": "run-s validate csv:combine generate:ids generate:json generate:sql csv:split"
+    "workflow:maintain": "run-s validate csv:combine csv:split generate:json generate:sql"
   },
   "devDependencies": {
     "@types/glob": "^7.2.0",
