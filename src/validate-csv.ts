@@ -26,12 +26,16 @@ function validateFiles(files: string[]) {
     for (let data of breweries.data) {
       const result = Brewery.safeParse(data);
       if (!result.success) {
-        errors.push({
-          brewery: data.name,
-          error: result.error,
-        });
         valid = false;
-        console.log({ name: data.name, error: result.error });
+        for (let error of result.error.issues) {
+          errors.push({
+            brewery: data.name,
+            error: error,
+          });
+          console.log(
+            `${data.name}: ${error.path.join(" > ")} - ${error.message}`
+          );
+        }
       }
     }
     if (errors.length) {
