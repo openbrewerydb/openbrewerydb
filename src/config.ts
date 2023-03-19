@@ -15,7 +15,7 @@ export const headers = [
   "latitude",
 ];
 
-export const brewery_types = [
+export const BREWERY_TYPES = [
   "micro",
   "nano",
   "regional",
@@ -26,7 +26,8 @@ export const brewery_types = [
   "contract",
   "proprietor",
   "closed",
-];
+  "taproom",
+] as const;
 
 export const slugifyOptions = {
   remove: /[*+~.,()'"!:@/]/g,

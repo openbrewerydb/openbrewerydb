@@ -1,15 +1,15 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-4cc60614-30c4-406a-9fec-c5dc01b22863,Goose Island Brewhouse Seoul,brewpub,"118, Yeoksam-ro",,,Gangnam-gu,Seoul,6251,South Korea,02-6205-1785,https://gooseisland.kr,127.0323206,37.49360307
-928e682d-b4d2-445b-8147-3fe8b727b0b7,"끽비어컴퍼니 (Ggeek Beer Co,.)",brewpub,"157, Eulji-ro",,,Jung-gu,Seoul,4545,South Korea,070-8152-1234,http://www.ggeekbeer.com,126.9955347,37.56670438
-dbe868ec-d1f5-4624-9661-c14d150d6071,미스터리 브루잉 (MysterLee Brewing Co.),brewpub,"311, Dongmak-ro",,,Mapo-gu,Seoul,4156,South Korea,02-3272-6337,http://www.mysterleebrewing.com/,126.9474136,37.5438955
-a489a154-1f69-4eaa-9680-22e0646c192a,브루어리304 (Brewery 304),brewpub,"7, Tongil-ro 11-gil",,,Seodaemun-gu,Seoul,3734,South Korea,02-363-7304,https://www.brewery304.com/,126.962571,37.56924092
-9ad6ad04-85ec-453d-b18c-c6c099794f69,비어바나 (Beer Vana Brewing Co.),brewpub,"5-1, Dorim-ro 129-gil",,,Yeongdeungpo-gu,Seoul,7290,South Korea,02-2634-6277,https://www.instagram.com/beervana_brewery_seoul/,126.8952771,37.5133648
-115b67f2-e2ec-4d54-9efb-a5dc5a38933a,서울 브루어리 (Seoul Brewery),brewpub,"10, Tojeong-ro 3an-gil",,,Mapo-gu,Seoul,4083,South Korea,070-7756-0915,https://www.seoulbrewery.com/home,126.9146756,37.54594861
-7d5a3056-0c03-4a76-ba08-befd4f61b5e9,서울집시 (Seoul Gypsy),brewpub,"107, Seosulla-gil",,,Jongno-gu,Seoul,3134,South Korea,02-743-1212,http://instagram.com/seoulgypsy,126.9915676,37.57504419
-09c1e42a-8e73-4097-af34-f1ff0cd6034e,아쉬트리 (Ash Tree Brewery),brewpub,22 Achasan-ro 49-gil,,,Gwangjin-gu,Seoul,5043,South Korea,02-6339-4858,https://www.ashtreebrewery.com/,127.0323206,37.49360307
-930d5e04-4234-4bf4-9d32-ad0d812d1a95,아톤브루어리 (Aton Brewery),brewpub,"23, Jangmun-ro",,,Yongsan-gu,Seoul,4392,South Korea,070-4009-5849,http://www.instagram.com/aton_brewery,126.9930459,37.52846912
-363c5d1f-99e3-4b8a-afc7-acd4a7c30a1f,어메이징브루잉컴퍼니 (Amazing Brewing Company),brewpub,"4, Seongsuil-ro 4-gil",,,Seongdong-gu,Seoul,4780,South Korea,02-465-5208,http://www.amazingbrewing.co.kr,127.0495044,37.54297518
-0616a0ff-c23f-4cf3-a4c6-34b7f47f581c,에일크루브루잉 (Alecrew Brewing),brewpub,"87, Moraenae-ro",,,Mapo-gu,Seoul,3949,South Korea,02-304-8663,https://www.instagram.com/alecrew_brewing,126.912452,37.56657473
-bc6e84e7-5020-4b1a-b81d-ec55683bc92d,카브루 (Ka-Brew),brewpub,"403, Songpa-daero",,,Songpa-gu,Seoul,5686,South Korea,02-3143-4082,http://www.kabrew.co.kr/,127.1087119,37.50309293
-fd23a3cb-6b21-44d3-b40c-008564f2f4f0,크래프트브로스 탭하우스 & 바틀샵 (Craftbros Tap House & Bottle Shop),brewpub,18 Sapyeong-daero 22-gil,,,Seocho-gu,Seoul,6576,South Korea,02-537-7451,http://www.craftbros.co.kr/,126.9977006,37.498793
-64a4f65c-47a9-4d8e-ad2e-3cc898b9689c,핸드앤몰트 (Hand and Malt),brewpub,"19, Hangang-daero 38ga-gil",,,Yongsan-gu,Seoul,4386,South Korea,070-7178-4011,http://handandmalt.com/,126.9705831,37.52985655
+4cc60614-30c4-406a-9fec-c5dc01b22863,Goose Island Brewhouse Seoul,brewpub,"118, Yeoksam-ro",,,Gangnam-gu,Seoul,06251,South Korea,02-6205-1785,https://gooseisland.kr,127.0323206,37.49360307
+928e682d-b4d2-445b-8147-3fe8b727b0b7,"끽비어컴퍼니 (Ggeek Beer Co,.)",brewpub,"157, Eulji-ro",,,Jung-gu,Seoul,04545,South Korea,070-8152-1234,http://www.ggeekbeer.com,126.9955347,37.56670438
+dbe868ec-d1f5-4624-9661-c14d150d6071,미스터리 브루잉 (MysterLee Brewing Co.),brewpub,"311, Dongmak-ro",,,Mapo-gu,Seoul,04156,South Korea,02-3272-6337,http://www.mysterleebrewing.com/,126.9474136,37.5438955
+a489a154-1f69-4eaa-9680-22e0646c192a,브루어리304 (Brewery 304),brewpub,"7, Tongil-ro 11-gil",,,Seodaemun-gu,Seoul,03734,South Korea,02-363-7304,https://www.brewery304.com/,126.962571,37.56924092
+9ad6ad04-85ec-453d-b18c-c6c099794f69,비어바나 (Beer Vana Brewing Co.),brewpub,"5-1, Dorim-ro 129-gil",,,Yeongdeungpo-gu,Seoul,07290,South Korea,02-2634-6277,https://www.instagram.com/beervana_brewery_seoul/,126.8952771,37.5133648
+115b67f2-e2ec-4d54-9efb-a5dc5a38933a,서울 브루어리 (Seoul Brewery),brewpub,"10, Tojeong-ro 3an-gil",,,Mapo-gu,Seoul,04083,South Korea,070-7756-0915,https://www.seoulbrewery.com/home,126.9146756,37.54594861
+7d5a3056-0c03-4a76-ba08-befd4f61b5e9,서울집시 (Seoul Gypsy),brewpub,"107, Seosulla-gil",,,Jongno-gu,Seoul,03134,South Korea,02-743-1212,http://instagram.com/seoulgypsy,126.9915676,37.57504419
+09c1e42a-8e73-4097-af34-f1ff0cd6034e,아쉬트리 (Ash Tree Brewery),brewpub,22 Achasan-ro 49-gil,,,Gwangjin-gu,Seoul,05043,South Korea,02-6339-4858,https://www.ashtreebrewery.com/,127.0323206,37.49360307
+930d5e04-4234-4bf4-9d32-ad0d812d1a95,아톤브루어리 (Aton Brewery),brewpub,"23, Jangmun-ro",,,Yongsan-gu,Seoul,04392,South Korea,070-4009-5849,http://www.instagram.com/aton_brewery,126.9930459,37.52846912
+363c5d1f-99e3-4b8a-afc7-acd4a7c30a1f,어메이징브루잉컴퍼니 (Amazing Brewing Company),brewpub,"4, Seongsuil-ro 4-gil",,,Seongdong-gu,Seoul,04780,South Korea,02-465-5208,http://www.amazingbrewing.co.kr,127.0495044,37.54297518
+0616a0ff-c23f-4cf3-a4c6-34b7f47f581c,에일크루브루잉 (Alecrew Brewing),brewpub,"87, Moraenae-ro",,,Mapo-gu,Seoul,03949,South Korea,02-304-8663,https://www.instagram.com/alecrew_brewing,126.912452,37.56657473
+bc6e84e7-5020-4b1a-b81d-ec55683bc92d,카브루 (Ka-Brew),brewpub,"403, Songpa-daero",,,Songpa-gu,Seoul,05686,South Korea,02-3143-4082,http://www.kabrew.co.kr/,127.1087119,37.50309293
+fd23a3cb-6b21-44d3-b40c-008564f2f4f0,크래프트브로스 탭하우스 & 바틀샵 (Craftbros Tap House & Bottle Shop),brewpub,18 Sapyeong-daero 22-gil,,,Seocho-gu,Seoul,06576,South Korea,02-537-7451,http://www.craftbros.co.kr/,126.9977006,37.498793
+64a4f65c-47a9-4d8e-ad2e-3cc898b9689c,핸드앤몰트 (Hand and Malt),brewpub,"19, Hangang-daero 38ga-gil",,,Yongsan-gu,Seoul,04386,South Korea,070-7178-4011,http://handandmalt.com/,126.9705831,37.52985655

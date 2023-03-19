@@ -2,8 +2,8 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 6c53984f-fac1-4ea7-9c44-44e25897c71a,14th Star Brewing,micro,133 N Main St Ste 7,,,Saint Albans,Vermont,05478-1735,United States,8025285988,http://www.14thstarbrewing.com,,
 4dcaeaa3-d7cc-4016-9392-5bde4e3a8f4d,1st Republic Brewing Co,micro,39 River Rd Ste 6,,,Essex Junction,Vermont,05452-3879,United States,8028575318,http://www.1strepublic-homebrew.com,,
 091edbcc-f9fc-484e-9c04-c18ed505e2ac,Alchemist Cannery,regional,35 Crossroad,,,Waterbury,Vermont,05676-9003,United States,8022447744,http://www.alchemistbeer.com,,
-b48ce764-abf5-41cb-b9c5-93cf4fdc6b57,Backacre Beermakers,micro,,,,Weston,Vermont,5161,United States,,http://www.backacrebeermakers.com,,
-3c2c022b-b5c3-438e-b7fc-67b76b715f86,Beer Naked Brewery,brewpub,7678 VT-RTE 9,,,Marlboro,Vermont,5344,United States,8024647702,http://www.beernakedbrewery.com,,
+b48ce764-abf5-41cb-b9c5-93cf4fdc6b57,Backacre Beermakers,micro,,,,Weston,Vermont,05161,United States,,http://www.backacrebeermakers.com,,
+3c2c022b-b5c3-438e-b7fc-67b76b715f86,Beer Naked Brewery,brewpub,7678 VT-RTE 9,,,Marlboro,Vermont,05344,United States,8024647702,http://www.beernakedbrewery.com,,
 f4431225-2c10-4479-9ece-0090a958c1c1,Bent Hill Brewery,micro,1972 Bent Hill Rd,,,Randolph,Vermont,05060-8833,United States,8022491125,http://www.benthilbrewery.com,,
 add8f33d-d999-4acd-a8cc-11cac7434700,Bobcat Brewery & Cafe,brewpub,5 Main St,,,Bristol,Vermont,05443-1317,United States,8024533311,http://www.bobcatcafe.com,-73.07811204,44.13284975
 ab8115a1-d3ee-4d85-9914-ed54b78ed94f,Brewster River Pub & Brewery,brewpub,4087 Vt Route 108 S,,,Jeffersonville,Vermont,05464-9509,United States,8026446366,http://www.brewsterriverpubnbrewery.com,,
@@ -30,13 +30,13 @@ bba56fa4-5787-426b-9eab-621c4a57d805,Hogback Mountain Brewery,micro,51 North St,
 bc36be6b-e3ad-4821-9b7f-f1844919ad22,J'ville Brewery,micro,201 Vt Route 112,,,Jacksonville,Vermont,05342-9634,United States,8023682233,http://www.jvillebrewery.com,,
 43345a90-663e-4e85-9434-777cc8be53e1,Kickback Brewery,micro,934 Osgood Hill Rd,,,Westford,Vermont,05494-9740,United States,8029994997,http://www.kickbackbrewery.com,-72.99402467,44.582023
 3fb492d0-f799-4678-ac00-f5b43b6e808e,Kingdom Brewing,micro,1876 Vt Route 105,,,Newport,Vermont,05855-9915,United States,8023347096,http://www.kingdombrewingvt.com,,
-1100b021-9189-4b09-9d0b-73c66782136b,Lawson's Finest Liquids,micro,,,,Warren,Vermont,5674,United States,8024964677,http://www.lawsonsfinest.com,,
-95fc1431-cef6-4551-b221-cc6fa0fedba4,Long Trail Brewing Co,regional,5520 US Route 4 Jct. Route 4 & 100A,,,Bridgewater Corners,Vermont,5035,United States,8026725011,http://www.longtrail.com,,
+1100b021-9189-4b09-9d0b-73c66782136b,Lawson's Finest Liquids,micro,,,,Warren,Vermont,05674,United States,8024964677,http://www.lawsonsfinest.com,,
+95fc1431-cef6-4551-b221-cc6fa0fedba4,Long Trail Brewing Co,regional,5520 US Route 4 Jct. Route 4 & 100A,,,Bridgewater Corners,Vermont,05035,United States,8026725011,http://www.longtrail.com,,
 e26dc654-64c9-4d6e-a139-95a7b009d0ee,Lost Nation Brewing,brewpub,87 Old Creamery Rd,,,Morrisville,Vermont,05661-6152,United States,,http://www.lostnationbrewing.com,,
 9cfdc1bb-b22c-4e9d-a569-c277a7e44b53,"Madison Brewing Co, Pub and Restaurant",brewpub,428 Main St,,,Bennington,Vermont,05201-2109,United States,8024427397,http://www.madisonbrewingco.com,-73.1963588,42.8783819
 f781db23-6391-4db3-a70e-885517e9a6d8,Magic Hat Brewing Co/ North American Breweries,regional,5 Bartlett Bay Rd,,,South Burlington,Vermont,05403-7727,United States,8026582739,,-73.21616773,44.42808692
 4d1ba278-c182-4c2c-8185-a0d133342486,McNeills Brewery,brewpub,90 Elliot St,,,Brattleboro,Vermont,05301-3269,United States,8022542553,,-72.55933779,42.8518861
-a04edd75-2b83-4aa5-9dc1-d89bf61f2e38,Mill River Brewing BBQ & Smokehouse,brewpub,10 Beauregard Dr,,,Saint Albans City,Vermont,5478,United States,8025824182,http://www.millriverbrewing.com,,
+a04edd75-2b83-4aa5-9dc1-d89bf61f2e38,Mill River Brewing BBQ & Smokehouse,brewpub,10 Beauregard Dr,,,Saint Albans City,Vermont,05478,United States,8025824182,http://www.millriverbrewing.com,,
 0d6daf79-df94-4045-966e-20dae3433511,Next Trick Brewing LLC,brewpub,2370 US Route 5,,,West Burke,Vermont,05871-,United States,8023281364,http://www.nexttrickbrewing.com,,
 479157a8-7e68-4983-91a5-9b6b2a5ee470,"Northshire Brewery, Inc",micro,108 County St,,,Bennington,Vermont,05201-1807,United States,8026810201,http://www.northshirebrewery.com,-73.20053877,42.88457164
 1cbec9c9-522a-4d61-9848-34f8d9230a99,Otter Creek Brewing Co,regional,793 Exchange St,,,Middlebury,Vermont,05753-1193,United States,8023880727,http://www.ottercreekbrewing.com,-73.17075772,44.03315644
@@ -52,9 +52,9 @@ b02a3dcf-6e21-4ae4-9c14-efdd618b42d6,Stone Corral Brewery,micro,83 Huntington Rd
 45d47b1f-2968-4adb-848c-f46e0d43362f,Switchback Brewing Co,regional,160 Flynn Ave,,,Burlington,Vermont,05401-5400,United States,8026514114,http://www.switchbackvt.com,-73.22068075,44.45680085
 b68a7e7e-29fa-427a-a40b-1216a00af829,Ten Bends Beer,micro,590 E Main St,,,Hyde Park,Vermont,05655-9267,United States,8025217139,http://wwwtenbendsbeer.com,-72.60515022,44.58894694
 5e3c3edf-7aa5-4c52-92ef-769f6ac6e918,The Norwich Inn - Jasper Murdock's Alehouse,brewpub,325 Main St,,,Norwich,Vermont,05055-9453,United States,8026491143,http://www.norwichinn.com,-72.3091387,43.7150119
-f8768842-899b-4df1-841e-d377b7f9c337,Trout River Brewing Co,micro,100 River Street RR 5,,,Springfield,Vermont,5156,United States,,http://www.troutriverbrewing.com,,
+f8768842-899b-4df1-841e-d377b7f9c337,Trout River Brewing Co,micro,100 River Street RR 5,,,Springfield,Vermont,05156,United States,,http://www.troutriverbrewing.com,,
 784b40eb-252d-4e8e-a002-e11de9c3b59a,Vermont Pub and Brewery,brewpub,144 College St,,,Burlington,Vermont,05401-8416,United States,8028650500,http://www.vermontbrewery.com,-73.2143746,44.4772683
-77a8265c-2d3b-4f30-babe-87a1e0a4c37d,Von Trapp Brewing,micro,1333 Luce Hill Rd,,,Stowe,Vermont,5672,United States,8022535750,http://www.trappfamily.com,-72.791432,44.470714
+77a8265c-2d3b-4f30-babe-87a1e0a4c37d,Von Trapp Brewing,micro,1333 Luce Hill Rd,,,Stowe,Vermont,05672,United States,8022535750,http://www.trappfamily.com,-72.791432,44.470714
 0609948f-d8d4-4d29-899a-9983abe982fa,Whetstone Craft Beers @ Whetstone Station,brewpub,36 Bridge St,,,Brattleboro,Vermont,05301-3301,United States,8024902354,http://www.whetstonestation.com,-72.55627012,42.85164595
-c9de9083-60d9-46d4-9544-b20b5f5d1556,Zero Gravity Craft Brewery,micro,716 Pinte Street,,,Burlington,Vermont,5401,United States,8024970054,,,
+c9de9083-60d9-46d4-9544-b20b5f5d1556,Zero Gravity Craft Brewery,micro,716 Pinte Street,,,Burlington,Vermont,05401,United States,8024970054,,,
 f192e49e-e2c9-485a-bdee-35ce3189ef93,Zero Gravity Craft Brewery,brewpub,716 Pine St,,,Burlington,Vermont,05401-4922,United States,8024970054,http://www.zerogravitybeer.com,-73.2140363,44.4595462
