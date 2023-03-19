@@ -34,9 +34,9 @@ function validateFiles(files: string[]) {
         console.log({ name: data.name, error: result.error });
       }
     }
-    console.log(
-      `${errors.length ? "🛑" : "✅"} There are ${errors.length} errors.\n`
-    );
+    if (errors.length) {
+      console.log(`🛑 There are ${errors.length} errors!\n`);
+    }
     totalErrors += errors.length;
   }
 
@@ -51,18 +51,17 @@ const main = async () => {
   let files = await glob(fileGlob);
   const filesResult = validateFiles(files);
 
-  const fullDatasetResult = { valid: false, totalErrors: 0 };
   // Separately validate full dataset CSV
-  // const fullDatasetResult = validateFiles([
-  //   join(__dirname, "../breweries.csv"),
-  // ]);
+  const fullDatasetResult = validateFiles([
+    join(__dirname, "../breweries.csv"),
+  ]);
 
   const resultText =
     filesResult.valid && fullDatasetResult.valid
       ? `✅  All ${files.length + 1} files are valid!`
       : `🛑 ${
           filesResult.totalErrors + fullDatasetResult.totalErrors
-        } errors were found. Be ashamed. 😞`;
+        } errors were found.`;
 
   console.log(`${resultText} (${new Date().getTime() - startTime}ms)`);
 };
