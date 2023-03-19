@@ -3,6 +3,7 @@ import { join } from "path";
 import glob from "glob-promise";
 import Papa from "papaparse";
 import { Brewery } from "./types";
+import { papaParseOptions } from "./config";
 
 function validateFiles(files: string[]) {
   let valid = true;
@@ -11,16 +12,7 @@ function validateFiles(files: string[]) {
   for (let file of files) {
     console.log(`📋 Validating ${file}...`);
     const csv = readFileSync(file, { encoding: "utf-8" });
-    const breweries = Papa.parse<Brewery>(csv, {
-      header: true,
-      skipEmptyLines: true,
-      dynamicTyping: {
-        postal_code: false,
-        website_url: true,
-        longitude: true,
-        latitude: true,
-      },
-    });
+    const breweries = Papa.parse<Brewery>(csv, papaParseOptions);
 
     let errors = [];
     for (let data of breweries.data) {

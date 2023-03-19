@@ -29,6 +29,19 @@ export const BREWERY_TYPES = [
   "taproom",
 ] as const;
 
+export const papaParseOptions = {
+  header: true,
+  skipEmptyLines: true,
+  dynamicTyping: {
+    postal_code: false,
+    longitude: true,
+    latitude: true,
+  },
+  transform: (value: string | number | null | undefined) => {
+    return value === "" ? null : value;
+  },
+};
+
 export const slugifyOptions = {
   remove: /[*+~.,()'"!:@/]/g,
   lower: true,

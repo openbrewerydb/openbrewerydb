@@ -4,7 +4,7 @@ import { join } from "path";
 import Papa from "papaparse";
 import pgpromise from "pg-promise";
 import Mustache from "mustache";
-import { headers } from "./config";
+import { papaParseOptions, headers } from "./config";
 import { Brewery } from "./types";
 
 const pgp = pgpromise({
@@ -33,11 +33,7 @@ const tableCreateSqlTemplate = Mustache.render(tableCreateSql, {
 
 try {
   const data = readFileSync(csvPath, { encoding: "utf-8" });
-  const result = Papa.parse<Brewery>(data, {
-    header: true,
-    skipEmptyLines: true,
-    dynamicTyping: true,
-  });
+  const result = Papa.parse<Brewery>(data, papaParseOptions);
   const breweries = result.data;
   console.log(`📖 Read ${breweries.length} rows from ${csvPath}...`);
 

@@ -3,7 +3,7 @@ import { join } from "path";
 import Papa from "papaparse";
 import slugify from "slugify";
 import { v4 as uuidv4 } from "uuid";
-import { headers, slugifyOptions } from "./config";
+import { papaParseOptions, headers, slugifyOptions } from "./config";
 import type { Brewery } from "./types";
 
 const csvFilePath = join(__dirname, "../breweries.csv");
@@ -17,10 +17,7 @@ const main = () => {
     > = {};
 
     const csvFile = readFileSync(csvFilePath, { encoding: "utf-8" });
-    const results = Papa.parse<Brewery>(csvFile, {
-      header: true,
-      skipEmptyLines: true,
-    });
+    const results = Papa.parse<Brewery>(csvFile, papaParseOptions);
 
     console.log("✂️ Splitting breweries.csv...");
 
