@@ -22,22 +22,18 @@ const main = () => {
 
   const breweries = results.data;
 
-  // Validate
-  console.log("📋 Validating breweries...");
-  breweries.map((b) => {
-    const result = Brewery.safeParse(b);
-    if (!result.success) {
-      const message = result.error.issues.map((e) => e.message).join(", ");
-      console.error(
-        `🛑 ${b.name} (${b.state_province}, ${b.country}) validation error: ${message}`
-      );
-      throw new Error(message);
-    }
-  });
-
   for (let brewery of breweries) {
     if (!brewery.id) {
       brewery.id = uuidv4();
+    }
+
+    const result = Brewery.safeParse(brewery);
+    if (!result.success) {
+      const message = result.error.issues.map((e) => e.message).join(", ");
+      console.error(
+        `🛑 ${brewery.name} (${brewery.state_province}, ${brewery.country}) validation error: ${message}`
+      );
+      throw new Error(message);
     }
 
     const regionSlug = slugify(
@@ -87,6 +83,12 @@ const main = () => {
       );
     }
   }
+
+  console.log(
+    `✅ ${breweries.length} breweries split into ${
+      Object.keys(output).length
+    } countries.`
+  );
 };
 
 main();
