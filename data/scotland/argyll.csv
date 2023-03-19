@@ -1,5 +1,5 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-colonsay-ales-isle-of-colonsay,Colonsay Ales,micro,Colonsay Brewery,Dunoran,Scalasaig,Isle of Colonsay,,Argyll,PA61 7YZ,https://colonsaybrewery.co.uk/,1951200190,Scotland,-6.2600129,56.0703454,
-fyne-ales-cairndow,Fyne Ales,micro,Achadunan,,,Cairndow,,Argyll,PA26 8BJ,https://www.fyneales.com/,1499600120,Scotland,-4.9139856,56.2761719,
-islay-ales-isle-of-islay,Islay Ales,micro,Islay House Square,Bridgend,,Isle of Islay,,Argyll,PA44 7NZ,https://www.islayales.com/,1496810014,Scotland,-6.2511858,55.7845598,
-oban-bay-oban,Oban Bay,micro,60 George Street,,,Oban,,Argyll,PA34 5SD,http://obanbaybrewery.co.uk/,1631564492,Scotland,-5.4725942,56.4146637,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+ad5ab314-fdc4-4f12-a3d5-6fbb4f8ed7a3,Colonsay Ales,micro,Colonsay Brewery,Dunoran,Scalasaig,Isle of Colonsay,Argyll,PA61 7YZ,Scotland,1951200190,https://colonsaybrewery.co.uk/,-6.2600129,56.0703454
+e3029b7a-f730-4cda-bb4d-d6b31720386a,Fyne Ales,micro,Achadunan,,,Cairndow,Argyll,PA26 8BJ,Scotland,1499600120,https://www.fyneales.com/,-4.9139856,56.2761719
+29f0a24d-a6b6-4b3b-999f-37ae825c6e5e,Islay Ales,micro,Islay House Square,Bridgend,,Isle of Islay,Argyll,PA44 7NZ,Scotland,1496810014,https://www.islayales.com/,-6.2511858,55.7845598
+58bc0ff5-5ada-4b37-a5c0-325746773116,Oban Bay,micro,60 George Street,,,Oban,Argyll,PA34 5SD,Scotland,1631564492,http://obanbaybrewery.co.uk/,-5.4725942,56.4146637

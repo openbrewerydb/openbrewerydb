@@ -1,3 +1,3 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-bo-bristle-brewing-co-banagher,Bo Bristle Brewing Co.,micro,"Unit 5, Banagher Enterprise Centre",Church St,Kylebeg,Banagher,,Offaly,R42 KX30,,+353861250283,Ireland,-7.9921729,53.1866197,
-slieve-bloom-brewing-company-kinnitty,Slieve Bloom Brewing Company,micro,Main Street,The Walk,,Kinnitty,,Offaly,R42 W542,https://slievebloombrewing.com/,+353579137010,Ireland,-7.7211856,53.0978092,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+033c99f9-ac36-4169-8721-1e90548a253a,Bo Bristle Brewing Co.,micro,"Unit 5, Banagher Enterprise Centre",Church St,Kylebeg,Banagher,Offaly,R42 KX30,Ireland,353861250283,,-7.9921729,53.1866197
+f237ee78-7b14-4d09-bead-202fd79be7d5,Slieve Bloom Brewing Company,micro,Main Street,The Walk,,Kinnitty,Offaly,R42 W542,Ireland,353579137010,https://slievebloombrewing.com/,-7.7211856,53.0978092

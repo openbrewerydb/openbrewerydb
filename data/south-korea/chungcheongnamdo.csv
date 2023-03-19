@@ -1,4 +1,4 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-chillhops-brewing-co-seosan-si,칠홉스 브루잉(Chillhops Brewing Co.),micro,"148-3, Dongseo 1-ro",,,Seosan-si,Chungcheongnamdo,,31999,https://www.instagram.com/chillhopsbrewingco/,010-3022-4997,South Korea,126.4545751,36.76696044,
-sunseong-brewery-dangjin-si,순성양조장(Sunseong Brewery),brewpub,"394, Maesil-ro",Sunseong-myeon,,Dangjin-si,Chungcheongnamdo,,31757,https://www.instagram.com/sunseongbrew,041-354-1204,South Korea,126.7071635,36.83056542,
-weizenhouse-gongju-si,바이젠하우스(WeizenHouse),micro,"125,Seonggok-gil",Useong-myeon,,Gongju-si,Chungcheongnamdo,,32531,http://www.weizenhaus.com/,1661-5869,South Korea,127.0708877,36.48886677,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+3a89c7d1-cddb-4036-af38-a95b2b9a08bd,바이젠하우스(WeizenHouse),micro,"125,Seonggok-gil",Useong-myeon,,Gongju-si,Chungcheongnamdo,32531,South Korea,1661-5869,http://www.weizenhaus.com/,127.0708877,36.48886677
+b38a706c-f137-4c9f-8f9e-4d26332e86a4,순성양조장(Sunseong Brewery),brewpub,"394, Maesil-ro",Sunseong-myeon,,Dangjin-si,Chungcheongnamdo,31757,South Korea,041-354-1204,https://www.instagram.com/sunseongbrew,126.7071635,36.83056542
+faefcbd2-3178-44c7-9520-de488f8ac4d1,칠홉스 브루잉(Chillhops Brewing Co.),micro,"148-3, Dongseo 1-ro",,,Seosan-si,Chungcheongnamdo,31999,South Korea,010-3022-4997,https://www.instagram.com/chillhopsbrewingco/,126.4545751,36.76696044

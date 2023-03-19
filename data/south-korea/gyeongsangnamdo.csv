@@ -1,4 +1,4 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-perfectlife-brewery-namhae-gun,완벽한인생(Perfectlife Brewery),brewpub,"30, Dogil-ro",Samdong-myeon,,Namhae-gun,Gyeongsangnamdo,,52447,http://www.instagram.com/perfectlife.official,055-867-0108,South Korea,128.0435747,34.79733881,
-rami-brewing-changwon-si,라미브루잉(Rami Brewing),brewpub,"177, Samgwi-ro",Seongsan-gu,,Changwon-si,Gyeongsangnamdo,,51705,http://instagram.com/ramibrewing,055-266-2881,South Korea,128.5981608,35.16977871,
-reindeutsch-brewery-tongyeong-si,라인도이치(Reindeutsch Brewery),brewpub,"103, Miujihaean-ro",,,Tongyeong-si,Gyeongsangnamdo,,53069,http://www.reindeutsch.com,055-643-7758,South Korea,128.3962616,34.82563356,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+71a7d2ab-a710-4c5e-923f-1e08161b659e,라미브루잉(Rami Brewing),brewpub,"177, Samgwi-ro",Seongsan-gu,,Changwon-si,Gyeongsangnamdo,51705,South Korea,055-266-2881,http://instagram.com/ramibrewing,128.5981608,35.16977871
+9889fc71-4552-4291-8bc4-badc5ce30033,라인도이치(Reindeutsch Brewery),brewpub,"103, Miujihaean-ro",,,Tongyeong-si,Gyeongsangnamdo,53069,South Korea,055-643-7758,http://www.reindeutsch.com,128.3962616,34.82563356
+1ca23f38-8691-4f9f-93e8-4d3f6c777f92,완벽한인생(Perfectlife Brewery),brewpub,"30, Dogil-ro",Samdong-myeon,,Namhae-gun,Gyeongsangnamdo,52447,South Korea,055-867-0108,http://www.instagram.com/perfectlife.official,128.0435747,34.79733881

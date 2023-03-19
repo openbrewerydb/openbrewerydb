@@ -1,4 +1,4 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-biere-de-la-plaine-marseille,Bière de la Plaine,micro,16 Rue Saint Pierre,,,Marseille,Bouche du Rhône,,13006,https://brasseriedelaplaine.fr/,0491473254,France,5.387671540113359,43.293661922761046,
-la-minotte-vitrolles,La Minotte,micro,14 Blvd de l'Europe,,,Vitrolles,Bouche du Rhône,,13127,https://www.minot-brasserie.fr/,0465948644,France,5.24158474011782,43.4396502637125,
-zoumai-marseille,Zoumaï,micro,7 Cours Gouffé,,,Marseille,Bouche du Rhône,,13005,https://www.brasseriezoumai.fr/,0953870379,France,5.386584040113172,43.286428877281104,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+701239cb-5319-4d2e-92c1-129ab0b3b440,Bière de la Plaine,micro,16 Rue Saint Pierre,,,Marseille,Bouche du Rhône,13006,France,491473254,https://brasseriedelaplaine.fr/,5.38767154,43.29366192
+ac41870a-13d1-446c-80e4-6cb4570f5fbb,La Minotte,micro,14 Blvd de l'Europe,,,Vitrolles,Bouche du Rhône,13127,France,465948644,https://www.minot-brasserie.fr/,5.24158474,43.43965026
+b636a9f8-4caa-41e2-996a-5707a9cbd220,Zoumaï,micro,7 Cours Gouffé,,,Marseille,Bouche du Rhône,13005,France,953870379,https://www.brasseriezoumai.fr/,5.38658404,43.28642888

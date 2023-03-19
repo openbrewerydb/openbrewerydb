@@ -1,35 +1,35 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-anders-browar-sycow,Anders Browar,brewpub,Broniewskiego 33,,,Syców,,dolnośląskie,56-500,,,Poland,17.7046519,51.3044034,
-browar-caminus-katy-wroclawskie,Browar Caminus,brewpub,1 Maja 11,,,Kąty Wrocławskie,,dolnośląskie,55-080,,,Poland,16.7665208,51.0308894,
-browar-cztery-sciany-trzebnica,Browar Cztery Ściany,micro,Milicka 32,,,Trzebnica,,dolnośląskie,55-100,,,Poland,17.0722456,51.3226873,
-browar-dolina-bobru-wlen,Browar Dolina Bobru,micro,Zarzecze 1,,,Wleń,,dolnośląskie,59-610,,,Poland,15.6675929,51.0220276,
-browar-jamrozowa-polana-duszniki-zdroj,Browar Jamrozowa Polana,micro,Olimpijska 1,,,Duszniki-Zdrój,,dolnośląskie,57-340,,,Poland,16.367628,50.3893103,
-browar-jedlinka-jedlina-zdroj,Browar Jedlinka,micro,Zamkowa 8,,,Jedlina-Zdrój,,dolnośląskie,58-330,,,Poland,16.3587951,50.712874,
-browar-kamienica-kamienica,Browar Kamienica,micro,Kamienica 1a,,,Kamienica,,dolnośląskie,57-550,,,Poland,16.8867481,50.251714,
-browar-lazany-zarow,Browar Łażany,micro,Słowiańska 23,,,Żarów,,dolnośląskie,58-130,,,Poland,16.5012637,50.9372257,
-browar-lwowek-lwowek-slaski,Browar Lwówek,regional,Traugutta 7,,,Lwówek Śląski,,dolnośląskie,59-600,,,Poland,15.5841981,51.109468,
-browar-mariental-szklarska-poreba,Browar Mariental,brewpub,1 Maja 11,,,Szklarska Poręba,,dolnośląskie,58-580,,,Poland,15.5249165,50.8259305,
-browar-miedzianka-miedzianka,Browar Miedzianka,micro,Miedzianka 57B,,,Miedzianka,,dolnośląskie,58-520,,,Poland,15.9390136,50.877833,
-browar-milicz-milicz,Browar Milicz,micro,Zielona 5,,,Milicz,,dolnośląskie,56-300,,,Poland,17.2844713,51.5228333,
-browar-profesja-wroclaw,Browar Profesja,regional,Kwidzyńska 6E,,,Wrocław,,dolnośląskie,51-416,,,Poland,17.0946435,51.1297761,
-browar-restauracyjny-prost-wroclaw,Browar Restauracyjny Prost,brewpub,Paprotna 4,,,Wrocław,,dolnośląskie,51-117,,,Poland,17.0228782,51.1507632,
-browar-roch-nowe-rochowice,Browar Roch,micro,Nowe Rochowice 22,,,Nowe Rochowice,,dolnośląskie,59-420,,,Poland,16.0398406,50.9407953,
-browar-sowiduch-karpacz,Browar Sowiduch,brewpub,Konstytucji 3 Maja 45A,,,Karpacz,,dolnośląskie,58-540,,,Poland,15.7558721,50.7751604,
-browar-stu-mostow-wroclaw,Browar Stu Mostów,regional,Jana Długosza 2/6,,,Wrocław,,dolnośląskie,51-162,,,Poland,17.0592865,51.1318701,
-browar-swidnica-swidnica,Browar Świdnica,micro,Bystrzycka 28B,,,"Świdnica ",,dolnośląskie,58-100,,,Poland,16.4994665,50.828839,
-browar-wagabunda-niechlow,Browar Wagabunda,micro,Przemysłowa 8,,,Niechlów,,dolnośląskie,56-215,,,Poland,16.3703998,51.6903932,
-browar-widawa-chrzastawa-mala,Browar Widawa,micro,Wrocławska 97,,,Chrząstawa Mała,,dolnośląskie,55-003,,,Poland,17.284289,51.0839992,
-browar-wielka-sowa-bielawa,Browar Wielka Sowa,micro,Żeromskiego 9,,,Bielawa,,dolnośląskie,58-260,,,Poland,16.6361506,50.696817,
-browar-wiezyca-sobotka,Browar Wieżyca,micro,Armii Krajowej 13,,,Sobótka,,dolnośląskie,55-050,,,Poland,16.7270842,50.892739,
-browar-zbrozlo-oborniki-slaskie,Browar Zbrozło,micro,Grunwaldzka 25,,,Oborniki Śląskie,,dolnośląskie,55-120,,,Poland,16.8990216,51.2960637,
-browar-zielone-wzgorze-sulistrowiczki,Browar Zielone Wzgórze,micro,Parkowa 3,,,Sulistrowiczki,,dolnośląskie,55-050,,,Poland,16.7350128,50.8458752,
-browar-zloty-pies-wroclaw,Browar Złoty Pies,brewpub,Wita Stwosza 1-2,,,Wrocław,,dolnośląskie,51-116,,,Poland,17.0336486,51.110441,
-browarnia-sobotka-sobotka-gorka,Browarnia Sobótka,micro,Osiedle Browarniane 34,,,Sobótka-Górka,,dolnośląskie,55-050,,,Poland,16.7040764,50.8919594,
-ctkir-browar-probus-olawa,CTKiR Browar Probus,brewpub,Młyńska 16,,,Oława,,dolnośląskie,55-200,,,Poland,17.3013828,50.9419716,
-czesc-brat-jelcz-laskowice,Cześć Brat!,micro,Polna 38,,,Jelcz-Laskowice,,dolnośląskie,55-220,,,Poland,17.3502609,51.0389077,
-jaworzynski-browar-rzemieslniczy-jauer-legnickie-pole,Jaworzyński Browar Rzemieślniczy Jauer,brewpub,Nowa Wieś Legnicka 55B,,,Legnickie Pole,,dolnośląskie,59-241,,,Poland,16.1744342,51.1555463,
-legnicki-browar-ksiazecy-legnica,Legnicki Browar Książęcy,brewpub,Dworcowa 9,,,Legnica,,dolnośląskie,59-220,,,Poland,16.1681601,51.2122419,
-manufaktura-piwowarska-zlota-woda-lomnica,Manufaktura Piwowarska Złota Woda,micro,Sudecka,,,Łomnica,,dolnośląskie,58-340,,,Poland,16.3447144,50.6793293,
-minibrowar-spiz-wroclaw,Minibrowar Spiż,brewpub,Rynek-Ratusz 9,,,Wrocław,,dolnośląskie,50-106,,,Poland,17.0312678,51.1100309,
-odra-barrels-wroclaw,Odra Barrels,micro,Międzyleska 2/4,,,Wrocław,,dolnośląskie,50-514,,,Poland,17.0706993,51.0817502,
-piwnica-swidnicka-wroclaw,Piwnica Świdnicka,brewpub,Rynek 50,,,Wrocław,,dolnośląskie,50-996,,,Poland,17.0320275,51.1095636,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+1d690623-2a47-4bb2-aecb-08f51a8ef390,Anders Browar,brewpub,Broniewskiego 33,,,Syców,dolnośląskie,56-500,Poland,,,17.7046519,51.3044034
+6bb73725-a04f-4453-bfb4-103c88d1dcac,Browar Caminus,brewpub,1 Maja 11,,,Kąty Wrocławskie,dolnośląskie,55-080,Poland,,,16.7665208,51.0308894
+a9d8d2a9-23f3-4975-85fe-77de5ea72a43,Browar Cztery Ściany,micro,Milicka 32,,,Trzebnica,dolnośląskie,55-100,Poland,,,17.0722456,51.3226873
+e46b3eae-e40f-4624-b606-b2abc8d25dab,Browar Dolina Bobru,micro,Zarzecze 1,,,Wleń,dolnośląskie,59-610,Poland,,,15.6675929,51.0220276
+1457f05e-4ca2-4788-b76e-8c77a3d38998,Browar Jamrozowa Polana,micro,Olimpijska 1,,,Duszniki-Zdrój,dolnośląskie,57-340,Poland,,,16.367628,50.3893103
+c53ce4ff-0b18-4759-80b9-c3d632162909,Browar Jedlinka,micro,Zamkowa 8,,,Jedlina-Zdrój,dolnośląskie,58-330,Poland,,,16.3587951,50.712874
+c6794a77-7c9e-42d6-8baf-99841750d529,Browar Kamienica,micro,Kamienica 1a,,,Kamienica,dolnośląskie,57-550,Poland,,,16.8867481,50.251714
+886dedd2-fecc-4183-ba3b-746e9ae5f5fa,Browar Łażany,micro,Słowiańska 23,,,Żarów,dolnośląskie,58-130,Poland,,,16.5012637,50.9372257
+da14fe75-eedf-47d8-a83f-7c2d23932637,Browar Lwówek,regional,Traugutta 7,,,Lwówek Śląski,dolnośląskie,59-600,Poland,,,15.5841981,51.109468
+acaf83f9-7aaf-48db-baa7-f1a2c13926c2,Browar Mariental,brewpub,1 Maja 11,,,Szklarska Poręba,dolnośląskie,58-580,Poland,,,15.5249165,50.8259305
+4943fcf7-31fa-4156-ba4c-6e0fcf3b2abf,Browar Miedzianka,micro,Miedzianka 57B,,,Miedzianka,dolnośląskie,58-520,Poland,,,15.9390136,50.877833
+c88968bb-bd4a-4606-ad4e-583bd1797974,Browar Milicz,micro,Zielona 5,,,Milicz,dolnośląskie,56-300,Poland,,,17.2844713,51.5228333
+b26c3126-b9f8-450a-994d-1f19f3bf1262,Browar Profesja,regional,Kwidzyńska 6E,,,Wrocław,dolnośląskie,51-416,Poland,,,17.0946435,51.1297761
+e163f605-c2e2-45cf-b684-77f60dde6c9f,Browar Restauracyjny Prost,brewpub,Paprotna 4,,,Wrocław,dolnośląskie,51-117,Poland,,,17.0228782,51.1507632
+99eacd23-0305-4a47-87ed-086e0da1ae35,Browar Roch,micro,Nowe Rochowice 22,,,Nowe Rochowice,dolnośląskie,59-420,Poland,,,16.0398406,50.9407953
+12738d11-80b2-41af-b991-fd5fed99f3d3,Browar Sowiduch,brewpub,Konstytucji 3 Maja 45A,,,Karpacz,dolnośląskie,58-540,Poland,,,15.7558721,50.7751604
+95e49f64-c6ad-476e-8012-c87463562f18,Browar Stu Mostów,regional,Jana Długosza 2/6,,,Wrocław,dolnośląskie,51-162,Poland,,,17.0592865,51.1318701
+adb8817e-9b7c-4dd3-a3cd-09755d9f36d0,Browar Świdnica,micro,Bystrzycka 28B,,,"Świdnica ",dolnośląskie,58-100,Poland,,,16.4994665,50.828839
+dfd46e8d-b3b0-4a2e-b4d2-28b9cc19f3c8,Browar Wagabunda,micro,Przemysłowa 8,,,Niechlów,dolnośląskie,56-215,Poland,,,16.3703998,51.6903932
+34b1ec5d-e881-4e08-b075-93eab766c992,Browar Widawa,micro,Wrocławska 97,,,Chrząstawa Mała,dolnośląskie,55-003,Poland,,,17.284289,51.0839992
+2e352c87-84e1-4cc3-8d87-75815cc89e3a,Browar Wielka Sowa,micro,Żeromskiego 9,,,Bielawa,dolnośląskie,58-260,Poland,,,16.6361506,50.696817
+89d617ce-5481-4421-937a-4996789cb583,Browar Wieżyca,micro,Armii Krajowej 13,,,Sobótka,dolnośląskie,55-050,Poland,,,16.7270842,50.892739
+14fa56bf-a922-44bb-aac2-2844a5710797,Browar Zbrozło,micro,Grunwaldzka 25,,,Oborniki Śląskie,dolnośląskie,55-120,Poland,,,16.8990216,51.2960637
+a90fa39a-8a9e-4d6a-92a1-8d6b2e34261f,Browar Zielone Wzgórze,micro,Parkowa 3,,,Sulistrowiczki,dolnośląskie,55-050,Poland,,,16.7350128,50.8458752
+5137aaa8-be5a-40b1-95b1-2f3e0e0770e9,Browar Złoty Pies,brewpub,Wita Stwosza 1-2,,,Wrocław,dolnośląskie,51-116,Poland,,,17.0336486,51.110441
+41ce95a9-1acd-4019-afcc-9abeded5c31f,Browarnia Sobótka,micro,Osiedle Browarniane 34,,,Sobótka-Górka,dolnośląskie,55-050,Poland,,,16.7040764,50.8919594
+02523ad4-26bb-4dc1-8349-c9fe53180604,CTKiR Browar Probus,brewpub,Młyńska 16,,,Oława,dolnośląskie,55-200,Poland,,,17.3013828,50.9419716
+b5e8e408-be62-4fbb-9798-7f6473f7bdbd,Cześć Brat!,micro,Polna 38,,,Jelcz-Laskowice,dolnośląskie,55-220,Poland,,,17.3502609,51.0389077
+1e7750e9-d014-407c-80ca-a3f70183a7b4,Jaworzyński Browar Rzemieślniczy Jauer,brewpub,Nowa Wieś Legnicka 55B,,,Legnickie Pole,dolnośląskie,59-241,Poland,,,16.1744342,51.1555463
+02259841-ba83-4903-bf26-e206b396ba2f,Legnicki Browar Książęcy,brewpub,Dworcowa 9,,,Legnica,dolnośląskie,59-220,Poland,,,16.1681601,51.2122419
+a0637ba4-fc85-4dd3-b1f2-e23e5ad5c862,Manufaktura Piwowarska Złota Woda,micro,Sudecka,,,Łomnica,dolnośląskie,58-340,Poland,,,16.3447144,50.6793293
+087974c8-a0fb-4f21-9905-06ef4bb902e4,Minibrowar Spiż,brewpub,Rynek-Ratusz 9,,,Wrocław,dolnośląskie,50-106,Poland,,,17.0312678,51.1100309
+4520147b-3286-4029-bbc7-c6faf486a166,Odra Barrels,micro,Międzyleska 2/4,,,Wrocław,dolnośląskie,50-514,Poland,,,17.0706993,51.0817502
+190d46ba-0081-44f8-b7be-b08f374d44ff,Piwnica Świdnicka,brewpub,Rynek 50,,,Wrocław,dolnośląskie,50-996,Poland,,,17.0320275,51.1095636

@@ -1,2 +1,2 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-dead-centre-brewing-athlone,Dead Centre Brewing,brewpub,Custume Pier Appartments,,,Athlone,,Westmeath,N37 N1F2,http://deadcentrebrewing.com/,+353906420883,Ireland,-7.9428529,53.4236546,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+e34b5399-e300-423a-8c2e-34f1091878b1,Dead Centre Brewing,brewpub,Custume Pier Appartments,,,Athlone,Westmeath,N37 N1F2,Ireland,353906420883,http://deadcentrebrewing.com/,-7.9428529,53.4236546

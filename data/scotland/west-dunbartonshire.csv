@@ -1,5 +1,5 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-glen-luss-craft-brewery-and-distillery-alexandria,Glen Luss Craft Brewery & Distillery,micro,Church Road,Luss,,Alexandria,,West Dunbartonshire,G83 8NZ,https://glenluss.co.uk/,7913413699,Scotland,-4.637915,56.101269,
-late-night-hype-brewing-co-clydebank,Late Night Hype Brewing Co,micro,Unit 17,Andrew Court,South Douglas Streeet,Clydebank,,West Dunbartonshire,G81 1PD,http://www.latenighthypebrewing.com/,1412611278,Scotland,-4.4023283,55.8959515,
-lennox-brewery-dumbarton,Lennox Brewery,micro,25 Lime Road,Broadmeadow Industrial Estate,,Dumbarton,,West Dunbartonshire,G82 2RP,https://www.lennoxbrewery.com/,1389298642,Scotland,-4.5708885,55.9478947,
-loch-lomond-brewery-dumbarton,Loch Lomond Brewery,micro,Block 2 Unit 11,Vale of Leven Industrial Estate,,Dumbarton,,West Dunbartonshire,G82 3PD,https://www.lochlomondbrewery.com/,1389755698,Scotland,-4.576255,55.969774,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+a4e28559-81cb-4485-b923-c3f56b7fe24e,Glen Luss Craft Brewery & Distillery,micro,Church Road,Luss,,Alexandria,West Dunbartonshire,G83 8NZ,Scotland,7913413699,https://glenluss.co.uk/,-4.637915,56.101269
+df0c8917-503f-4c64-916c-8ea9870dab60,Late Night Hype Brewing Co,micro,Unit 17,Andrew Court,South Douglas Streeet,Clydebank,West Dunbartonshire,G81 1PD,Scotland,1412611278,http://www.latenighthypebrewing.com/,-4.4023283,55.8959515
+01353cfd-2215-40a9-b41a-20a2e139e870,Lennox Brewery,micro,25 Lime Road,Broadmeadow Industrial Estate,,Dumbarton,West Dunbartonshire,G82 2RP,Scotland,1389298642,https://www.lennoxbrewery.com/,-4.5708885,55.9478947
+04e9e7ce-5f20-4861-acbe-ac4be5628b49,Loch Lomond Brewery,micro,Block 2 Unit 11,Vale of Leven Industrial Estate,,Dumbarton,West Dunbartonshire,G82 3PD,Scotland,1389755698,https://www.lochlomondbrewery.com/,-4.576255,55.969774

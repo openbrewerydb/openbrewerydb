@@ -1,4 +1,4 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-583-583-brewery-jangsu-gun,583 양조장(583 Brewery),brewpub,"583-8, Uiam-ro",Janggye-myeon,,Jangsu-gun,Jeollabukdo,,55621,http://www.583beer.modoo.at,063-353-5515,South Korea,127.6205123,35.68271721,
-farmers-brewery-jeonju-si,파머스브루어리(Farmers Brewery),brewpub,"15, Jeonjugaeksa 1-gil",Wansan-gu,,Jeonju-si,Jeollabukdo,,54999,http://www.gdcbeer.co.kr/new/,070-8803-3915,South Korea,127.140034,35.81724263,
-nomadic-brewing-co-jeonju-si,노매딕 브루잉 컴퍼니(Nomadic Brewing Co.),brewpub,"12-10, Jeollagamyeong 3-gil",Wansan-gu,,Jeonju-si,Jeollabukdo,,55038,http://instagram.com/nomadicbrewingco,063-902-3924,South Korea,127.1437952,35.81642148,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+90d1fa86-77d7-4a21-9818-e338fa6fdb96,583 양조장(583 Brewery),brewpub,"583-8, Uiam-ro",Janggye-myeon,,Jangsu-gun,Jeollabukdo,55621,South Korea,063-353-5515,http://www.583beer.modoo.at,127.6205123,35.68271721
+94afa064-fd4d-422e-8490-b87eeeb22b5a,노매딕 브루잉 컴퍼니(Nomadic Brewing Co.),brewpub,"12-10, Jeollagamyeong 3-gil",Wansan-gu,,Jeonju-si,Jeollabukdo,55038,South Korea,063-902-3924,http://instagram.com/nomadicbrewingco,127.1437952,35.81642148
+c5c523b9-d8f4-402e-baee-c95cbc65ee21,파머스브루어리(Farmers Brewery),brewpub,"15, Jeonjugaeksa 1-gil",Wansan-gu,,Jeonju-si,Jeollabukdo,54999,South Korea,070-8803-3915,http://www.gdcbeer.co.kr/new/,127.140034,35.81724263

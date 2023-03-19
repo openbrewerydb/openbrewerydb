@@ -1,4 +1,3 @@
-// Export /data to /breweries.json
 import { writeFileSync, readFileSync } from "fs";
 import { join } from "path";
 import Papa from "papaparse";

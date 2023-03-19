@@ -1,2 +1,2 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-suncheon-brewery-suncheon-si,순천양조장(Suncheon Brewery),brewpub,"57, Yeokjeon-gil",,,Suncheon-si,Jeollanamdo,,57964,https://www.instagram.com/suncheon_brewery/,061-745-2545,South Korea,127.4987434,34.94739604,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+b5c4192b-902c-4073-ab22-128e7833ae17,순천양조장(Suncheon Brewery),brewpub,"57, Yeokjeon-gil",,,Suncheon-si,Jeollanamdo,57964,South Korea,061-745-2545,https://www.instagram.com/suncheon_brewery/,127.4987434,34.94739604

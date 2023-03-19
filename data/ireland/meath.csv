@@ -1,2 +1,2 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-bru-brewery-trim,BRÚ Brewery,micro,Unit 5 – Site 6,Oaktree Business Park,,Trim,,Meath,C15 RW10,https://www.brubrewery.ie/,+353469438616,Ireland,-6.794949763,53.5660948,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+a623138e-cc2d-4549-abca-4bc2021b8c45,BRÚ Brewery,micro,Unit 5 – Site 6,Oaktree Business Park,,Trim,Meath,C15 RW10,Ireland,353469438616,https://www.brubrewery.ie/,-6.794949763,53.5660948

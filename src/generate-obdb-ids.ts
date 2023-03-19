@@ -17,16 +17,8 @@ function generateId(brewery: Brewery, suffix: null | string = null) {
   );
 }
 
-function isUnique(
-  id: string,
-  ids: Record<string, Brewery> | Record<string, Brewery[]>
-) {
-  return ids[id] ? false : true;
-}
-
 const main = () => {
-  let breweries: Record<string, Brewery> = {};
-  let duplicates: Record<string, Brewery[]> = {};
+  let obdbIdMapping = new Map<string, string>();
 
   try {
     const csvFile = readFileSync(csvFilePath, { encoding: "utf-8" });
@@ -36,6 +28,7 @@ const main = () => {
     });
 
     // Build hash table of breweries; collect duplicates
+ 
     for (let brewery of result.data) {
       const obdbId = generateId(brewery);
       if (isUnique(obdbId, breweries) && isUnique(obdbId, duplicates)) {

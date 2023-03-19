@@ -1,5 +1,5 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-gosser-heineken-leoben,Gösser (Heineken),large,Brauhausgasse 1,,,Leoben,Styria,,8700,https://www.goesser.at,+438102069791,Austria,47.362557227478526,15.09334420582467,
-murauer-murau,Murauer,large,Raffaltpl. 19,,,Murau,Styria,,8850,https://www.murauerbier.at,+43353232660,Austria,47.11101605760986,14.165060917014614,
-puntigamer-heineken-graz,Puntigamer (Heineken),large,Triester Str. 361,,,Graz,Styria,,8055,https://www.puntigamer.at,+4331629710013,Austria,47.029627917574615,15.432570096538111,
-schladminger-heineken-schladming,Schladminger (Heineken),large,Hammerfeldweg 163,,,Schladming,Styria,,8970,https://www.schladmingerbier.at,+433687225910,Austria,47.390297330890185,13.685049237310041,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+fcd9312c-7531-4801-b481-52f4267cf628,Gösser (Heineken),large,Brauhausgasse 1,,,Leoben,Styria,8700,Austria,+438102069791,https://www.goesser.at,47.362557227478526,15.09334420582467
+524ab865-1df1-4655-b19f-0eb427cfa0d6,Murauer,large,Raffaltpl. 19,,,Murau,Styria,8850,Austria,+43353232660,https://www.murauerbier.at,47.11101605760986,14.165060917014614
+56758247-521c-4219-afa2-0665c48c50ef,Puntigamer (Heineken),large,Triester Str. 361,,,Graz,Styria,8055,Austria,+4331629710013,https://www.puntigamer.at,47.029627917574615,15.432570096538111
+eb82907e-7f0d-4453-b07e-4e00763e1cf6,Schladminger (Heineken),large,Hammerfeldweg 163,,,Schladming,Styria,8970,Austria,+433687225910,https://www.schladmingerbier.at,47.390297330890185,13.685049237310041

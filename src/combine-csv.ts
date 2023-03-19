@@ -34,8 +34,8 @@ glob(fileGlob, {}, (globError, files) => {
     });
 
     if (breweries.length) {
-      // Sort breweries by ID
-      breweries.sort((a, b) => a.id.localeCompare(b.id));
+      // Sort breweries by Name
+      breweries.sort((a, b) => a.name.localeCompare(b.name));
 
       console.log(
         `Writing full dataset to ${fullFilePath} (${breweries.length} breweries)`

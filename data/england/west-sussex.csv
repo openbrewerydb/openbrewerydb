@@ -1,32 +1,32 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-81-artisan-chichester,81 Artisan,micro,Chilgrove Road,Lavant,,Chichester,,West Sussex,PO18 9HP,https://81artisan.com/,7990035736,England,-0.81111,50.89212,
-adur-brewery-steyning,Adur Brewery,micro,Mouse Lane,,,Steyning,,West Sussex,BN44 3DG,https://www.adurbrewery.co.uk/,1903867614,England,-0.340173,50.893624,
-arundel-brewery-ltd-arundel,Arundel Brewery Ltd,brewpub,Lyminster Road,,,Arundel,,West Sussex,BN17 7QL,https://www.arundelbrewery.co.uk/,1903733111,England,-0.534301,50.839971,
-bestens-brewery-ltd-horsham,Bestens Brewery Ltd,taproom,Church Lane,,,Horsham,,West Sussex,RH13 6LU,https://www.bestensbrewery.co.uk/,1403892556,England,-0.26049,51.041848,
-brew-studio-lancing,Brew Studio,micro,Meadowview Road,,,Lancing,,West Sussex,BN15 0HU,https://www.brewstudio.co.uk/,7980978350,England,-0.330956,50.838777,
-brewhouse-and-kitchen-horsham,Brewhouse & Kitchen,brewpub,East Street,,,Horsham,,West Sussex,RH12 1HL,https://www.brewhouseandkitchen.com/,2073543761,England,-0.327295,51.061642,
-brolly-brewing-billinghurst,Brolly Brewing,taproom,Fittleworth Road,,,Billinghurst,,West Sussex,RH14 0ES,https://www.brollybrewing.co.uk/,7720847017,England,-0.521971,51.010214,
-chapeau-brewing-co-horsham,Chapeau Brewing Co,micro,Redkiln Close,,,Horsham,,West Sussex,RH13 5QL,https://www.chapeaubrewing.com/,1403252459,England,-0.30833,51.070596,
-dark-star-brewing-co-ltd-horsham,Dark Star Brewing Co Ltd,taproom,Star Road,,,Horsham,,West Sussex,RH13 8RA,https://www.darkstarbrewing.co.uk/,1403713085,England,-0.304978,50.957145,
-firebird-brewing-company-ltd-horsham,Firebird Brewing Company Ltd,taproom,Lynwick Street,,,Horsham,,West Sussex,RH12 3UW,https://firebirdbrewing.com/,1403823180,England,-0.45414,51.09654,
-goldmark-craft-beers-ltd-arundel,Goldmark Craft Beers LTd,taproom,The Vinery,,,Arundel,,West Sussex,BN18 9PY,https://goldmarkbeers.co.uk/?v=79cba1185463,1903297838,England,-0.507102,50.84058,
-goodwood-brewery-chichester,Goodwood Brewery,micro,Goodwood Farm,,,Chichester,,West Sussex,PO18 0QF,https://www.goodwood.com/,1243755154,England,-0.721936,50.871619,
-greyhound-brewery-ltd-pulborough,Greyhound Brewery ltd,micro,Smock Alley,,,Pulborough,,West Sussex,RH20 2QX,https://www.greyhoundbrewery.co.uk/,1798815822,England,-0.447595,50.942971,
-heathen-brewers-partnership-haywards-heath,Heathen Brewers Partnership,micro,The Broadway,,,Haywards Heath,,West Sussex,RH16 3AS,http://www.heathenbrewers.co.uk/,1444456217,England,-0.105976,51.000799,
-hepworth-and-company-brewing-ltd-pulborough,Hepworth & Company Brewing Ltd,micro,Stane Street,,,Pulborough,,West Sussex,RH20 1DJ,https://hepworthbrewery.co.uk/,1403269696,England,-0.478064,50.989042,
-hurst-brewery-hassocks,Hurst Brewery,brewpub,College Lane,,,Hassocks,,West Sussex,BN6 9JT,http://www.hurstbrewery.com/,7866438953,England,-0.161461,50.941632,
-kissingate-brewery-horsham,Kissingate Brewery,taproom,Church Lane,,,Horsham,,West Sussex,RH13 6LU,http://www.kissingate.co.uk/,1403891335,England,-0.26049,51.041848,
-laines-brew-hub-pulborough,Laines Brew Hub,micro,Stane Street,,,Pulborough,,West Sussex,RH20 1DJ,http://laine.beer/,1273550000,England,-0.478064,50.989042,
-listers-brewery-limited-worthing,Lister's Brewery Limited,micro,Michelgrove Lane,,,Worthing,,West Sussex,BN13 3XW,http://www.listersbrewery.com/,1903885950,England,-0.478855,50.872653,
-missing-link-brewery-ltd-east-grinstead,Missing Link Brewery Ltd,taproom,Selsfield Road,,,East Grinstead,,West Sussex,RH16 4QS,https://missinglinkbrewing.com/,7515336785,England,-0.070719,51.079995,
-polarity-brewing-ltd-worthing,Polarity Brewing Ltd,micro,Abbotts Close,,,Worthing,,West Sussex,BN11 1JB,http://www.polaritybrewing.co.uk/,7872105300,England,-0.375446,50.814845,
-rectory-ales-ltd-hassocks,Rectory Ales Ltd,micro,Streat Hill,,,Hassocks,,West Sussex,BN6 8RP,,1273890570,England,-0.080361,50.895782,
-riverside-brewing-ltd-steyning,Riverside Brewing Ltd,micro,Shoreham Road,,,Steyning,,West Sussex,BN44 3TN,http://www.riversidebreweryltd.co.uk/,1903898030,England,-0.300906,50.877797,
-silver-rocket-brewing-ltd-hassocks,Silver Rocket Brewing Ltd,micro,Meadows,,,Hassocks,,West Sussex,BN6 8EH,https://silverrocketbrewing.co.uk/,7950099424,England,-0.143993,50.931319,
-the-downlands-brewery-shoreham-by-sea,The Downlands Brewery,micro,Henfield Road,,,Shoreham-by-Sea,,West Sussex,BN5 9XR,http://www.downlandsbrewery.com/,1273495596,England,-0.272849,50.899278,
-the-gribble-brewery-chichester,The Gribble Brewery,brewpub,Gribble Lane,,,Chichester,,West Sussex,PO20 2BP,http://gribbleinn.co.uk/,1243786893,England,-0.723958,50.838143,
-the-kiln-brewery-east-grinstead,The Kiln Brewery,micro,Selsfield Road,,,East Grinstead,,West Sussex,RH19 4QS,https://www.thekilnbrewery.co.uk/,7800556729,England,-0.070719,51.079995,
-the-langham-brewery-llp-petworth,The Langham Brewery llp,micro,Langham Lane,,,Petworth,,West Sussex,GU28 9BU,https://langhambrewery.co.uk/,1798860861,England,-0.679379,50.994711,
-the-top-notch-brewing-company-ltd-haywards-heath,The Top-Notch Brewing Company Ltd,micro,Wickham Way,,,Haywards Heath,,West Sussex,RH16 1UQ,,7963829368,England,-0.10313,51.011152,
-the-vine-brewery-worthing,The Vine Brewery,brewpub,High Street,,,Worthing,,West Sussex,BN14 7NN,http://www.vine-tarring.co.uk/,1903201121,England,-0.393395,50.825427,
-weltons-brewery-horsham,Weltons Brewery,micro,Foundry Lane,,,Horsham,,West Sussex,RH13 5PX,https://weltonsbeer.co.uk/,1403242901,England,-0.315544,51.070853,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+745272b9-5d04-4468-b1f7-e76a75c22de9,81 Artisan,micro,Chilgrove Road,Lavant,,Chichester,West Sussex,PO18 9HP,England,7990035736,https://81artisan.com/,-0.81111,50.89212
+ef2e3826-f9b5-44d2-b901-331aa728a8cd,Adur Brewery,micro,Mouse Lane,,,Steyning,West Sussex,BN44 3DG,England,1903867614,https://www.adurbrewery.co.uk/,-0.340173,50.893624
+6f83ab76-9ebd-4b2c-a290-effaa2dca8b9,Arundel Brewery Ltd,brewpub,Lyminster Road,,,Arundel,West Sussex,BN17 7QL,England,1903733111,https://www.arundelbrewery.co.uk/,-0.534301,50.839971
+45e5c569-1abb-496c-a961-9d2f2686b2d3,Bestens Brewery Ltd,taproom,Church Lane,,,Horsham,West Sussex,RH13 6LU,England,1403892556,https://www.bestensbrewery.co.uk/,-0.26049,51.041848
+87a67e8d-eb75-4c9a-b32d-0c4c55e884cc,Brew Studio,micro,Meadowview Road,,,Lancing,West Sussex,BN15 0HU,England,7980978350,https://www.brewstudio.co.uk/,-0.330956,50.838777
+fe3c1834-e95f-4e16-bb58-56ffd676689c,Brewhouse & Kitchen,brewpub,East Street,,,Horsham,West Sussex,RH12 1HL,England,2073543761,https://www.brewhouseandkitchen.com/,-0.327295,51.061642
+2ebb09a1-929b-4a1b-8f02-0a5536728b3c,Brolly Brewing,taproom,Fittleworth Road,,,Billinghurst,West Sussex,RH14 0ES,England,7720847017,https://www.brollybrewing.co.uk/,-0.521971,51.010214
+fa90e092-28ce-4e31-98d3-d2afd28c26f3,Chapeau Brewing Co,micro,Redkiln Close,,,Horsham,West Sussex,RH13 5QL,England,1403252459,https://www.chapeaubrewing.com/,-0.30833,51.070596
+bb8e4f8e-3197-4ce7-9ee5-41f3f8f2c192,Dark Star Brewing Co Ltd,taproom,Star Road,,,Horsham,West Sussex,RH13 8RA,England,1403713085,https://www.darkstarbrewing.co.uk/,-0.304978,50.957145
+5591fbd3-5000-439c-b685-5a785829aa08,Firebird Brewing Company Ltd,taproom,Lynwick Street,,,Horsham,West Sussex,RH12 3UW,England,1403823180,https://firebirdbrewing.com/,-0.45414,51.09654
+f75b8bf1-6fc4-467b-ba8e-cdb09b515042,Goldmark Craft Beers LTd,taproom,The Vinery,,,Arundel,West Sussex,BN18 9PY,England,1903297838,https://goldmarkbeers.co.uk/?v=79cba1185463,-0.507102,50.84058
+0eba6b3c-8158-4610-a120-c0a90e5922c9,Goodwood Brewery,micro,Goodwood Farm,,,Chichester,West Sussex,PO18 0QF,England,1243755154,https://www.goodwood.com/,-0.721936,50.871619
+3b4eee5b-3094-46fe-b4df-198617fee502,Greyhound Brewery ltd,micro,Smock Alley,,,Pulborough,West Sussex,RH20 2QX,England,1798815822,https://www.greyhoundbrewery.co.uk/,-0.447595,50.942971
+0e33f372-58f3-4a7e-9126-18898e957351,Heathen Brewers Partnership,micro,The Broadway,,,Haywards Heath,West Sussex,RH16 3AS,England,1444456217,http://www.heathenbrewers.co.uk/,-0.105976,51.000799
+388c4362-24d8-493c-95c2-fc86d6ac2a1e,Hepworth & Company Brewing Ltd,micro,Stane Street,,,Pulborough,West Sussex,RH20 1DJ,England,1403269696,https://hepworthbrewery.co.uk/,-0.478064,50.989042
+48c4fc12-7c05-4a6a-8771-135bd810f38a,Hurst Brewery,brewpub,College Lane,,,Hassocks,West Sussex,BN6 9JT,England,7866438953,http://www.hurstbrewery.com/,-0.161461,50.941632
+793f55c2-e8d8-4e30-91d6-e92d649adcc7,Kissingate Brewery,taproom,Church Lane,,,Horsham,West Sussex,RH13 6LU,England,1403891335,http://www.kissingate.co.uk/,-0.26049,51.041848
+f8cc3f9d-2d0f-4063-b6a8-f79cc4f4ced7,Laines Brew Hub,micro,Stane Street,,,Pulborough,West Sussex,RH20 1DJ,England,1273550000,http://laine.beer/,-0.478064,50.989042
+c567a823-0817-45f3-a8f2-32b46d10364f,Lister's Brewery Limited,micro,Michelgrove Lane,,,Worthing,West Sussex,BN13 3XW,England,1903885950,http://www.listersbrewery.com/,-0.478855,50.872653
+4791280b-8d59-4ae5-9bd4-36911124cb09,Missing Link Brewery Ltd,taproom,Selsfield Road,,,East Grinstead,West Sussex,RH16 4QS,England,7515336785,https://missinglinkbrewing.com/,-0.070719,51.079995
+f84fe98f-6767-4f6a-94cf-315a70d35dbf,Polarity Brewing Ltd,micro,Abbotts Close,,,Worthing,West Sussex,BN11 1JB,England,7872105300,http://www.polaritybrewing.co.uk/,-0.375446,50.814845
+b4440f12-2d59-4dc7-bdec-19df793f27b4,Rectory Ales Ltd,micro,Streat Hill,,,Hassocks,West Sussex,BN6 8RP,England,1273890570,,-0.080361,50.895782
+4413789e-c56c-4c2b-935e-de2e5e334cb2,Riverside Brewing Ltd,micro,Shoreham Road,,,Steyning,West Sussex,BN44 3TN,England,1903898030,http://www.riversidebreweryltd.co.uk/,-0.300906,50.877797
+ae3391c5-bc85-47dc-a407-53803ebdb136,Silver Rocket Brewing Ltd,micro,Meadows,,,Hassocks,West Sussex,BN6 8EH,England,7950099424,https://silverrocketbrewing.co.uk/,-0.143993,50.931319
+8db55e6b-421c-4881-a5fc-8f016dad9c5f,The Downlands Brewery,micro,Henfield Road,,,Shoreham-by-Sea,West Sussex,BN5 9XR,England,1273495596,http://www.downlandsbrewery.com/,-0.272849,50.899278
+a079d8be-71e9-41b7-a139-5b08b2ccaeb4,The Gribble Brewery,brewpub,Gribble Lane,,,Chichester,West Sussex,PO20 2BP,England,1243786893,http://gribbleinn.co.uk/,-0.723958,50.838143
+0fd552f9-4945-4187-94c4-5372e3f645a5,The Kiln Brewery,micro,Selsfield Road,,,East Grinstead,West Sussex,RH19 4QS,England,7800556729,https://www.thekilnbrewery.co.uk/,-0.070719,51.079995
+5ba7b38b-b805-4d49-a671-194a2c7975bf,The Langham Brewery llp,micro,Langham Lane,,,Petworth,West Sussex,GU28 9BU,England,1798860861,https://langhambrewery.co.uk/,-0.679379,50.994711
+cd77bbc5-a335-4602-814a-a7f74f4e72e3,The Top-Notch Brewing Company Ltd,micro,Wickham Way,,,Haywards Heath,West Sussex,RH16 1UQ,England,7963829368,,-0.10313,51.011152
+c1c83b65-fc4f-46ee-9570-819d7313ddd8,The Vine Brewery,brewpub,High Street,,,Worthing,West Sussex,BN14 7NN,England,1903201121,http://www.vine-tarring.co.uk/,-0.393395,50.825427
+ee1c61ff-a24e-44db-87ac-a22a0add4559,Weltons Brewery,micro,Foundry Lane,,,Horsham,West Sussex,RH13 5PX,England,1403242901,https://weltonsbeer.co.uk/,-0.315544,51.070853

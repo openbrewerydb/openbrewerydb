@@ -1,2 +1,2 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-via-brewery-gwangsan-gu,비아브루어리(Via Brewery),brewpub,"47, Imbangul-daero 826beon-gil",,,Gwangsan-gu,Gwangju,,62279,https://www.instagram.com/via_pub/,070-4126-4110,South Korea,126.8492063,35.21530647,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+4065feb7-008b-4010-bc89-9220d39ab2af,비아브루어리(Via Brewery),brewpub,"47, Imbangul-daero 826beon-gil",,,Gwangsan-gu,Gwangju,62279,South Korea,070-4126-4110,https://www.instagram.com/via_pub/,126.8492063,35.21530647

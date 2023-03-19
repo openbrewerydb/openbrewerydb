@@ -1,4 +1,3 @@
-// Convert CSV to SQL INSERTs
 import { writeFileSync, readFileSync } from "fs";
 import { join } from "path";
 import { Brewery } from "./types";

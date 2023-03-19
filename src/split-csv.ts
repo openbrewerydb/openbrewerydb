@@ -1,21 +1,20 @@
-// Export /breweries.json to /breweries.csv
-
 import { existsSync, mkdirSync, writeFileSync, readFileSync } from "fs";
-import Papa from "papaparse";
 import { join } from "path";
+import Papa from "papaparse";
 import slugify from "slugify";
+import { v4 as uuidv4 } from "uuid";
 import { headers, slugifyOptions } from "./config";
 import type { Brewery } from "./types";
 
 const csvFilePath = join(__dirname, "../breweries.csv");
 const storePath = join(__dirname, "../data");
 
-type Country = string;
-type StateProvince = string;
-
 const main = () => {
   try {
-    let output: Record<Country, Record<StateProvince, Brewery[]>> = {};
+    let output: Record<
+      Brewery["country"],
+      Record<Brewery["state_province"], Brewery[]>
+    > = {};
 
     const csvFile = readFileSync(csvFilePath, { encoding: "utf-8" });
     const results = Papa.parse<Brewery>(csvFile, {
@@ -28,12 +27,15 @@ const main = () => {
     const breweries = results.data;
 
     for (let brewery of breweries) {
-      if (!brewery.id) continue;
+      if (!brewery.id) {
+        brewery.id = uuidv4();
+      }
 
       const regionSlug = slugify(
         brewery.state_province.toLowerCase(),
         slugifyOptions
       );
+
       const countrySlug = slugify(
         brewery.country.toLowerCase(),
         slugifyOptions
@@ -55,7 +57,7 @@ const main = () => {
       const countryPath = `${storePath}/${country}`;
       if (!existsSync(countryPath)) {
         console.log(`🌟 Creating ${countryPath}...`);
-        mkdirSync(countryPath);
+        mkdirSync(countryPath, { recursive: true });
       }
 
       for (let region of Object.keys(output[country])) {
@@ -67,7 +69,7 @@ const main = () => {
         }
 
         // Sort breweries by ID
-        output[country][region].sort((a, b) => a.id.localeCompare(b.id));
+        output[country][region].sort((a, b) => a.name.localeCompare(b.name));
 
         // Write to state file
         writeFileSync(
