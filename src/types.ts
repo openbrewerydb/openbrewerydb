@@ -10,7 +10,7 @@ export const Brewery = z.object({
   address_3: z.string().nullable().optional(),
   city: z.string().min(2),
   state_province: z.string().min(2),
-  postal_code: z.coerce.string().min(5),
+  postal_code: z.coerce.string().min(3),
   country: z.string().min(2),
   phone: z.coerce.string().nullable().optional(),
   website_url: z.string().url().nullable().optional(),
