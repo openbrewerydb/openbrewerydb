@@ -60,11 +60,14 @@ const main = async () => {
         } errors were found.`;
 
   console.log(`${resultText} (${new Date().getTime() - startTime}ms)`);
+
+  if (!filesResult.valid || !fullDatasetResult.valid) {
+    throw new Error("invalid");
+  }
 };
 
 try {
   main();
 } catch (error) {
-  console.error(error);
   process.exit(1);
 }
