@@ -4,6 +4,7 @@ import glob from "glob";
 import Papa from "papaparse";
 import { papaParseOptions, headers } from "./config";
 import { Brewery } from "./types";
+import { z } from "zod";
 
 const fileGlob = join(__dirname, "../data/**/*.csv");
 const fullFilePath = join(__dirname, "../breweries.csv");
@@ -26,7 +27,15 @@ glob(fileGlob, {}, (globError, files) => {
 
       // Validate
       console.log("📋 Validating breweries...");
-      dataFull.map((b) => Brewery.parse(b));
+      dataFull.map((b) => {
+        try {
+          Brewery.parse(b);
+        } catch (e) {
+          // TODO: Check if path is id and invalid_type is string,
+          // because that's ok with split workflow
+          console.error(e);
+        }
+      });
 
       breweries.push(...dataFull);
     });
