@@ -1,3 +1,3 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-lough-gill-brewery-cleveragh,Lough Gill Brewery,micro,Cleveragh Business Park,The Back Ave,,Cleveragh,,Sligo,F91 H6CV,https://loughgillbrewery.com/,+353872108159,Ireland,-8.4572863,54.2667763,
-the-white-hag-brewery-ballymote,The White Hag Brewery,micro,"Unit 1, Block 2",Ballymote Business Park,,Ballymote,,Sligo,F56 YR52,http://www.thewhitehag.com/,,Ireland,-8.5249166,54.0893242,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+8b909c6f-b067-45df-b156-d5072b63db57,Lough Gill Brewery,micro,Cleveragh Business Park,The Back Ave,,Cleveragh,Sligo,F91 H6CV,Ireland,353872108159,https://loughgillbrewery.com/,-8.4572863,54.2667763
+95cdf2c9-d9ba-4114-9adc-619590c15688,The White Hag Brewery,micro,"Unit 1, Block 2",Ballymote Business Park,,Ballymote,Sligo,F56 YR52,Ireland,,http://www.thewhitehag.com/,-8.5249166,54.0893242

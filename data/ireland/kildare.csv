@@ -1,4 +1,4 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-kildare-brewing-company-sallins,Kildare Brewing Company,micro,Canal View,,,Sallins,,Kildare,W91 DFK2,https://www.kildarebrewing.ie/,+35345850500,Ireland,-6.6668728,53.2494668,
-rye-river-brewing-company-celbridge,Rye River Brewing Company,micro,Donaghcumper,Dublin Rd,,Celbridge,,Kildare,W23 AX07,https://www.ryeriverbrewingco.com/,+35316287255,Ireland,-6.5246196,53.3409641,
-trouble-brewing-kill,Trouble Brewing,micro,Unit A,Oldmill Industrial Estate,,Kill,,Kildare,W91 DR58,https://troublebrewing.ie/,+353879086658,Ireland,-6.5406264,53.2523451,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+e5feb9e8-459d-46d0-845e-cdb52c2f5f3f,Kildare Brewing Company,micro,Canal View,,,Sallins,Kildare,W91 DFK2,Ireland,35345850500,https://www.kildarebrewing.ie/,-6.6668728,53.2494668
+9e0bf529-9a78-4899-8404-61b00d8c13ec,Rye River Brewing Company,micro,Donaghcumper,Dublin Rd,,Celbridge,Kildare,W23 AX07,Ireland,35316287255,https://www.ryeriverbrewingco.com/,-6.5246196,53.3409641
+92ebf606-d8f9-4c93-a9b0-afc704575d75,Trouble Brewing,micro,Unit A,Oldmill Industrial Estate,,Kill,Kildare,W91 DR58,Ireland,353879086658,https://troublebrewing.ie/,-6.5406264,53.2523451

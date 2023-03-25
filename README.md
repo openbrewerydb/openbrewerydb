@@ -14,7 +14,7 @@ Provide an approval-based pipeline to update the dataset and API.
 
 ## 🗄 Data Formats
 
-- [CSV - Full Dataset](breweries.csv) (1.5 MB)
+- [CSV - Full Dataset](breweries.csv)
 - [JSON](breweries.json)
 - [PostgreSQL SQL](breweries.sql)
 
@@ -49,8 +49,12 @@ For information on contributing to this project, please see the [contributing gu
 
 ### Tips
 
-- CSVs are organized by `data/[country]/[state]` or `data/[country]/[county_province]`
-- Required fields/columns: `name`, `street`, `brewery_type`, `city`, `state` (or `county_province`), `postal_code`, and `country`
+First and foremost, don't worry about messing up! 🙂 Thank you so much for contributing! 🙌
+
+- CSVs are organized by `data/[country]/[state_province]`
+- Required fields/columns: `name`, `brewery_type`, `city`, `state_province`, `postal_code`, and `country`
+- When adding a brewery, do not include an `id`. This will be created after review.
+- Please either add to `breweries.csv` (preferred if adding breweries for a new country) or the individual state/province CSV file. Adding to both at the same time may introduce duplicates/errors.
 
 ## ⚙️ Scripts
 

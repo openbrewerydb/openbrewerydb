@@ -1,4 +1,4 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-killarney-brewing-company-killarney,Killarney Brewing Company,micro,"Muckross Rd ",,,Killarney,,Kerry,V93 RC95,http://www.killarneybrewing.com/,+353646636505,Ireland,-9.5092943,52.0543192,
-tig-bhric-and-west-kerry-brewery-ballyferriter,Tig Bhric & West Kerry Brewery,brewpub,Reask,Dingle Peninsula,,Ballyferriter,,Kerry,V92 P681,https://westkerrybrewery.ie/,+353876822834,Ireland,-10.3932719,52.1697735,
-torc-brewing-killarney,Torc Brewing,micro,JD Industrial Park,Scart,,Killarney,,Kerry,V93 H761,http://www.torcbrewing.ie/,+353876595858,Ireland,-9.5564852,52.1402528,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+80c6ae17-20f4-45a1-ac71-bb5fe6f821fa,Killarney Brewing Company,micro,"Muckross Rd ",,,Killarney,Kerry,V93 RC95,Ireland,353646636505,http://www.killarneybrewing.com/,-9.5092943,52.0543192
+0db8caaa-153e-4fc4-a4b7-9c9a2dc4cd13,Tig Bhric & West Kerry Brewery,brewpub,Reask,Dingle Peninsula,,Ballyferriter,Kerry,V92 P681,Ireland,353876822834,https://westkerrybrewery.ie/,-10.3932719,52.1697735
+0cd8d2ab-c637-4f3f-b135-5d510fae588d,Torc Brewing,micro,JD Industrial Park,Scart,,Killarney,Kerry,V93 H761,Ireland,353876595858,http://www.torcbrewing.ie/,-9.5564852,52.1402528

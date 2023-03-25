@@ -1,2 +1,2 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-the-ranch-brewing-seo-gu,더랜치 브루잉(The Ranch Brewing),brewpub,"62, Gyebaek-ro 1249beonan-gil",,,Seo-gu,Daejeon,,35341,http://ranchbrewing.com/landing/,042-581-2060,South Korea,127.3577529,36.31151337,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+bbe3d2b7-7c04-413b-82d0-a7bb9428c4d2,더랜치 브루잉(The Ranch Brewing),brewpub,"62, Gyebaek-ro 1249beonan-gil",,,Seo-gu,Daejeon,35341,South Korea,042-581-2060,http://ranchbrewing.com/landing/,127.3577529,36.31151337

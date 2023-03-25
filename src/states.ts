@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   Alabama: { abbreviation: "AL" },
   Alaska: { abbreviation: "AK" },
   Arizona: { abbreviation: "AZ" },

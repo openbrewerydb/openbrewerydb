@@ -1,3 +1,3 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-cinco-chagas-anadia,Cinco Chagas,micro,Rua das Cavadas N8,Vale do Boi,Moita,Anadia,,Aveiro,3780-482,https://cincochagas.pt,,Portugal,,,
-vadia-oliveira-de-azemeis,Vadia,brewpub,Rua Comendador Artur J. G. Barbosa nº576,,,Oliveira de Azemeis,,Aveiro,3720-005,https://www.cervejavadia.pt,+351 256 482 151,Portugal,40.84133461624508,-8.434270976824363,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+863f291f-32aa-40df-8810-f37911e4ae6a,Cinco Chagas,micro,Rua das Cavadas N8,Vale do Boi,Moita,Anadia,Aveiro,3780-482,Portugal,,https://cincochagas.pt,,
+bcc9f869-4952-4137-a502-5ac716b0a360,Vadia,brewpub,Rua Comendador Artur J. G. Barbosa nº576,,,Oliveira de Azemeis,Aveiro,3720-005,Portugal,+351 256 482 151,https://www.cervejavadia.pt,40.84133461624508,-8.434270976824363

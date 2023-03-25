@@ -1,4 +1,4 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-gobrew-seogwipo-si,고브루(Gobrew),brewpub,"171, Namseongjung-ro",,,Seogwipo-si,Jejudo,,63594,http://www.instagram.com/gobrew_jeju,064-733-5747,South Korea,"126.55253248432831 "," 33.24705984636476",
-jejubeerfountain-seogwipo-si,제주약수터(Jejubeerfountain),brewpub,"35, Jungang-ro",,,Seogwipo-si,Jejudo,,63592,http://www.instagram.com/jeju_beer_fountain,064-805-6572,South Korea,"126.5617043689411 "," 33.24773327682641",
-magpie-brewing-co-jeju-si,맥파이 브루어리(Magpie Brewing Co.),brewpub,"23, Donghoecheon 1-gil",,,Jeju-si,Jejudo,,63329,http://www.magpiebrewing.com/,064-721-0227,South Korea,"126.6173029678339 "," 33.50290817463424",
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+b8c16e2e-ca1a-4e17-869c-a51995c898c8,고브루(Gobrew),brewpub,"171, Namseongjung-ro",,,Seogwipo-si,Jejudo,63594,South Korea,064-733-5747,http://www.instagram.com/gobrew_jeju,126.5525325,33.24705985
+df058920-2603-47b9-9c61-b524fde39f7b,맥파이 브루어리(Magpie Brewing Co.),brewpub,"23, Donghoecheon 1-gil",,,Jeju-si,Jejudo,63329,South Korea,064-721-0227,http://www.magpiebrewing.com/,126.617303,33.50290817
+9ca48b41-3962-4c18-a8be-a95bf73fa2cb,제주약수터(Jejubeerfountain),brewpub,"35, Jungang-ro",,,Seogwipo-si,Jejudo,63592,South Korea,064-805-6572,http://www.instagram.com/jeju_beer_fountain,126.5617044,33.24773328

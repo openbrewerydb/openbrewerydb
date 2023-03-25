@@ -1,17 +1,17 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-5-lamps-brewery-dublin,5 Lamps Brewery,regional,84-87 Camden St.,Saint Kevin's,Dublin 2,Dublin,,Dublin,D02 DH36,https://the5lampsbrewery.com/home/,,Ireland,-6.26585621,53.33596635,
-barrelhead-brewery-dublin,Barrelhead Brewery,micro,2 Fairview Strand,Ballybough,Dublin 3,Dublin,,Dublin,D03 R8P3,https://barrelheadbrewery.com/,+353879900914,Ireland,-6.2400171,53.3625745,
-dot-brew-dublin,DOT Brew,micro,9 Dolphin's Barn,Ushers,,Dublin,,Dublin,D08 WD35,https://dotbrew.ie/,,Ireland,-6.2950084,53.3337548,
-dublin-city-brewing-co-dublin,Dublin City Brewing Co.,micro,The Parnell Centre,Parnell St,Rotunda,Dublin,,Dublin,D01 Y9T3,http://www.dublincitybrewingco.com/,,Ireland,-6.2693974,53.3506256,
-four-provinces-brewing-co-kimmage,Four Provinces Brewing Co.,brewpub,25 Ravensdale Park,Dublin 12,,Kimmage,,Dublin,D12 X965,https://www.fourprovinces.ie/,+35315890152,Ireland,-6.3031169,53.3146444,
-guinness-brewing-diageo-dublin,Guinness Brewing (Diageo),large,St. James's Gate,Dublin 8,,Dublin,,Dublin,D08 VF8H,https://www.guinness-storehouse.com/en,+35314084800,Ireland,-6.286729743,53.34193275,
-hope-craft-brewery-dublin,Hope Craft Brewery,micro,Unit 1 Howth Junction Business Park,Kilbarrack Road,Kilbarrack,Dublin,,Dublin,D05 H2K2,https://hopebeer.ie/,+353874562669,Ireland,-6.1569422,53.3902607,
-jw-sweetman-dublin,J.W. Sweetman,brewpub,1-2 Burgh Quay,Dublin 2,,Dublin,,Dublin,D02 F243,,+35316705777,Ireland,-6.2603268,53.3469777,
-lineman-brewing-rathcoole,Lineman Brewing,micro,Unit 16/17,Block 613 Greenogue Industrial Estate,,Rathcoole,,Dublin,D24 H567,https://lineman.ie/,+353 01 401 6486,Ireland,-6.4653408,53.2988667,
-priory-brewing-tallaght,Priory Brewing,micro,"Unit 5, Tallaght Enterprise Centre",Main Road,Dublin 24,Tallaght,,Dublin,D24 TYX9,https://www.priorybrewing.ie/,+35314685300,Ireland,-6.3538952,53.2872173,
-rascals-brewing-company-inchicore,Rascals Brewing Company,brewpub,Goldenbridge Estate,Tyrconnell Rd,,Inchicore,,Dublin,D08 HF68,https://rascalsbrewing.com/,+35315382051,Ireland,-6.3262538,53.3361014,
-stone-barrel-brewing-company-dublin,Stone Barrel Brewing Company,regional,Bluebell Avenue,Bluebell Industrial Estate,Dublin 12,Dublin,,Dublin,D12 NPF9,http://www.stonebarrelbrewing.ie/,+353862381267,Ireland,-6.3506651,53.3308805,
-the-porterhouse-brewing-company-dublin,The Porterhouse Brewing Company,micro,3-4 Stag Industrial Estate,Ballyboggan Road,Dublin 11,Dublin,,Dublin,D11 AY91,http://www.porterhousebrewco.ie/,+35318227415,Ireland,-6.2998473,53.3735147,
-third-barrel-brewing-dublin,Third Barrel Brewing,micro,Bluebell Avenue,Bluebell Industrial Estate,Dublin 12,Dublin,,Dublin,D12 NPF9,https://thirdbarrel.com/,+353014604387,Ireland,-6.3506651,53.3308805,
-whiplash-brewing-ballyfermot,Whiplash Brewing,micro,Cherry Orchard Industrial Estate,Unit 67B,Dublin 10,Ballyfermot,,Dublin,D10 F627,http://www.whiplashbeer.com/,,Ireland,-6.3773273,53.3468597,
-wood-key-brewing-dublin,Wood Key Brewing,micro,22 Kilbarrack Avenue,Kilbarrack,Dublin 5,Dublin,,Dublin,D05 VW89,,+353851372499,Ireland,-6.1515127,53.3853135,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+75eff8e1-7c25-483a-a2b2-49ecdbf16d31,5 Lamps Brewery,regional,84-87 Camden St.,Saint Kevin's,Dublin 2,Dublin,Dublin,D02 DH36,Ireland,,https://the5lampsbrewery.com/home/,-6.26585621,53.33596635
+9bf73e25-63d1-48df-a3b8-f916d9f9edeb,Barrelhead Brewery,micro,2 Fairview Strand,Ballybough,Dublin 3,Dublin,Dublin,D03 R8P3,Ireland,353879900914,https://barrelheadbrewery.com/,-6.2400171,53.3625745
+beb3aa65-0024-42a1-8943-74017faed659,DOT Brew,micro,9 Dolphin's Barn,Ushers,,Dublin,Dublin,D08 WD35,Ireland,,https://dotbrew.ie/,-6.2950084,53.3337548
+e6a545be-d8a4-4f02-a9f8-f62e4b3c257e,Dublin City Brewing Co.,micro,The Parnell Centre,Parnell St,Rotunda,Dublin,Dublin,D01 Y9T3,Ireland,,http://www.dublincitybrewingco.com/,-6.2693974,53.3506256
+b16403e4-c0ba-4bcb-9181-ba235204a694,Four Provinces Brewing Co.,brewpub,25 Ravensdale Park,Dublin 12,,Kimmage,Dublin,D12 X965,Ireland,35315890152,https://www.fourprovinces.ie/,-6.3031169,53.3146444
+b82b05d8-ca46-4954-b9a9-bb91a98406e5,Guinness Brewing (Diageo),large,St. James's Gate,Dublin 8,,Dublin,Dublin,D08 VF8H,Ireland,35314084800,https://www.guinness-storehouse.com/en,-6.286729743,53.34193275
+d79cd8ec-6144-4b10-b096-6ad985063cde,Hope Craft Brewery,micro,Unit 1 Howth Junction Business Park,Kilbarrack Road,Kilbarrack,Dublin,Dublin,D05 H2K2,Ireland,353874562669,https://hopebeer.ie/,-6.1569422,53.3902607
+d4027a1d-bf45-4db4-aaa2-241636f359b5,J.W. Sweetman,brewpub,1-2 Burgh Quay,Dublin 2,,Dublin,Dublin,D02 F243,Ireland,35316705777,,-6.2603268,53.3469777
+481d3558-d8d9-4ccf-8963-9de8f588060a,Lineman Brewing,micro,Unit 16/17,Block 613 Greenogue Industrial Estate,,Rathcoole,Dublin,D24 H567,Ireland,+353 01 401 6486,https://lineman.ie/,-6.4653408,53.2988667
+196c769f-4df9-4bea-bee4-41399bfc8d7f,Priory Brewing,micro,"Unit 5, Tallaght Enterprise Centre",Main Road,Dublin 24,Tallaght,Dublin,D24 TYX9,Ireland,35314685300,https://www.priorybrewing.ie/,-6.3538952,53.2872173
+59be3ba3-38aa-4ec0-9d2f-97256dca012e,Rascals Brewing Company,brewpub,Goldenbridge Estate,Tyrconnell Rd,,Inchicore,Dublin,D08 HF68,Ireland,35315382051,https://rascalsbrewing.com/,-6.3262538,53.3361014
+985764fc-a5cf-4634-8bf3-e89dde5e6531,Stone Barrel Brewing Company,regional,Bluebell Avenue,Bluebell Industrial Estate,Dublin 12,Dublin,Dublin,D12 NPF9,Ireland,353862381267,http://www.stonebarrelbrewing.ie/,-6.3506651,53.3308805
+0c76b63a-b885-4f71-9c03-1274cc347cb9,The Porterhouse Brewing Company,micro,3-4 Stag Industrial Estate,Ballyboggan Road,Dublin 11,Dublin,Dublin,D11 AY91,Ireland,35318227415,http://www.porterhousebrewco.ie/,-6.2998473,53.3735147
+0fd31f1d-0bc5-402a-ab2c-86d414218398,Third Barrel Brewing,micro,Bluebell Avenue,Bluebell Industrial Estate,Dublin 12,Dublin,Dublin,D12 NPF9,Ireland,353014604387,https://thirdbarrel.com/,-6.3506651,53.3308805
+04fda7ff-4bf9-4a3e-b65a-1136ed3ebc87,Whiplash Brewing,micro,Cherry Orchard Industrial Estate,Unit 67B,Dublin 10,Ballyfermot,Dublin,D10 F627,Ireland,,http://www.whiplashbeer.com/,-6.3773273,53.3468597
+158b3651-e46b-4d58-a88a-37c1666d701a,Wood Key Brewing,micro,22 Kilbarrack Avenue,Kilbarrack,Dublin 5,Dublin,Dublin,D05 VW89,Ireland,353851372499,,-6.1515127,53.3853135

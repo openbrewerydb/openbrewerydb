@@ -1,4 +1,4 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-o-brother-brewing-kilcool,O Brother Brewing,micro,G3,Network Enterprise Park,,Kilcool,,Wicklow,A63 DX47,https://www.obrotherbrewing.com/,+353872028465,Ireland,-6.0642913,53.0986762,
-the-wicklow-brewery-redcross,The Wicklow Brewery,micro,Main Street,Ballygillaroe,,Redcross,,Wicklow,A67 H799,http://www.wicklowbrewery.ie/,+35340441661,Ireland,-6.1471627,52.8893592,
-wicklow-wolf-brewing-company-bray,Wicklow Wolf Brewing Company,regional,Wicklow Wolf,Moneycarroll,Newtown Mount Kennedy,Bray,,Wicklow,A63 A243,http://www.wicklowwolf.com/,+35315676993,Ireland,-6.1109949,53.0842111,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+7585139f-7a98-4552-862c-388de1fe1d59,O Brother Brewing,micro,G3,Network Enterprise Park,,Kilcool,Wicklow,A63 DX47,Ireland,353872028465,https://www.obrotherbrewing.com/,-6.0642913,53.0986762
+5c1cd6fb-fea3-43d7-871b-54c2019d8271,The Wicklow Brewery,micro,Main Street,Ballygillaroe,,Redcross,Wicklow,A67 H799,Ireland,35340441661,http://www.wicklowbrewery.ie/,-6.1471627,52.8893592
+401d45ca-4c04-4bf6-af19-55b45748ef91,Wicklow Wolf Brewing Company,regional,Wicklow Wolf,Moneycarroll,Newtown Mount Kennedy,Bray,Wicklow,A63 A243,Ireland,35315676993,http://www.wicklowwolf.com/,-6.1109949,53.0842111

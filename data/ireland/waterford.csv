@@ -1,3 +1,3 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-dungarvan-brewing-dungarvan,Dungarvan Brewing,micro,Unit 5 No. 2,Westgate Business Park,,Dungarvan,,Waterford,X35 HY48,https://dungarvanbrewingcompany.com/,3535824000,Ireland,-7.6330624,52.0960325,
-metalman-brewing-company-waterford,Metalman Brewing Company,micro,Unit 14,Tycor Business Centre,Tycor,Waterford,,Waterford,X91 HP89,http://www.metalmanbrewing.com/,35351348448,Ireland,-7.1302473,52.2562844,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+bedeb77e-ec21-49a3-9caf-874786adb180,Dungarvan Brewing,micro,Unit 5 No. 2,Westgate Business Park,,Dungarvan,Waterford,X35 HY48,Ireland,3535824000,https://dungarvanbrewingcompany.com/,-7.6330624,52.0960325
+58d4385e-b363-4d10-b5dd-a0cc7aeb965e,Metalman Brewing Company,micro,Unit 14,Tycor Business Centre,Tycor,Waterford,Waterford,X91 HP89,Ireland,35351348448,http://www.metalmanbrewing.com/,-7.1302473,52.2562844

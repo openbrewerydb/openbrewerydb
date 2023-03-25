@@ -1,2 +1,2 @@
-obdb_id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,website_url,phone,country,longitude,latitude,tags
-zipfer-zipf,Zipfer,large,Zipf 22,,,Zipf,Lower Austria,,4871,https://www.zipfer.at,+4376823600,Austria,48.036812902437156,13.503957656337409,
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+4f6709d0-02d0-4c45-8cfa-7101f5fc6d85,Zipfer,large,Zipf 22,,,Zipf,Lower Austria,4871,Austria,+4376823600,https://www.zipfer.at,48.036812902437156,13.503957656337409

@@ -3,8 +3,8 @@ import { join } from "path";
 import slugify from "slugify";
 import Papa from "papaparse";
 
-import { headers, slugifyOptions } from "./config";
-import { Brewery } from "./utils/types";
+import { papaParseOptions, headers, slugifyOptions } from "./config";
+import { Brewery } from "./types";
 
 const csvFilePath = join(__dirname, "../breweries.csv");
 
@@ -17,25 +17,15 @@ function generateId(brewery: Brewery, suffix: null | string = null) {
   );
 }
 
-function isUnique(
-  id: string,
-  ids: Record<string, Brewery> | Record<string, Brewery[]>
-) {
-  return ids[id] ? false : true;
-}
-
 const main = () => {
-  let breweries: Record<string, Brewery> = {};
-  let duplicates: Record<string, Brewery[]> = {};
+  let obdbIdMapping = new Map<string, string>();
 
   try {
     const csvFile = readFileSync(csvFilePath, { encoding: "utf-8" });
-    const result = Papa.parse<Brewery>(csvFile, {
-      header: true,
-      skipEmptyLines: true,
-    });
+    const result = Papa.parse<Brewery>(csvFile, papaParseOptions);
 
     // Build hash table of breweries; collect duplicates
+
     for (let brewery of result.data) {
       const obdbId = generateId(brewery);
       if (isUnique(obdbId, breweries) && isUnique(obdbId, duplicates)) {
