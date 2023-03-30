@@ -2,9 +2,10 @@ import { writeFileSync, readFileSync } from "fs";
 import { join } from "path";
 import glob from "glob";
 import Papa from "papaparse";
+import { v4 as uuidv4 } from "uuid";
 import { papaParseOptions, headers } from "./config";
 import { Brewery } from "./types";
-import { z } from "zod";
+import { ZodError } from "zod";
 
 const fileGlob = join(__dirname, "../data/**/*.csv");
 const fullFilePath = join(__dirname, "../breweries.csv");
@@ -30,10 +31,14 @@ glob(fileGlob, {}, (globError, files) => {
       dataFull.map((b) => {
         try {
           Brewery.parse(b);
-        } catch (e) {
-          // TODO: Check if path is id and invalid_type is string,
-          // because that's ok with split workflow
-          console.error(e);
+        } catch (e: unknown) {
+          for (let error of (e as ZodError).issues) {
+            if (error.code === "invalid_type" && error.path[0] === "id") {
+              b.id = uuidv4();
+            } else {
+              throw e;
+            }
+          }
         }
       });
 
