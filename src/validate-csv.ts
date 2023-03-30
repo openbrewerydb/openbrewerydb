@@ -18,8 +18,13 @@ function validateFiles(files: string[]) {
     for (let data of breweries.data) {
       const result = Brewery.safeParse(data);
       if (!result.success) {
-        valid = false;
         for (let error of result.error.issues) {
+          // IDs are added during the maintance workflow so ignore for now
+          if (error.code === 'invalid_type' && error.path[0] === 'id') {
+            continue;
+          }
+          valid = false;
+
           errors.push({
             brewery: data.name,
             error: error,
