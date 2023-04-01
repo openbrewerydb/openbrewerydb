@@ -2,13 +2,19 @@ import * as fs from "fs";
 import path from "path";
 import stringSimilarity from "string-similarity";
 
-interface Data {
+interface Brewery {
   id: string;
   name: string;
-  address_1?: string;
+  brewery_type: string;
+  address_1: string;
   city: string;
   state_province: string;
+  postal_code: string;
   country: string;
+  phone: string;
+  website: string;
+  latitude: number;
+  longitude: number;
 }
 
 interface AbaData {
@@ -48,7 +54,7 @@ const abaFilePath = path.join(
 );
 const breweriesFilePath = path.join(__dirname, "../breweries.json");
 let abaBreweries: AbaData[];
-let breweries: Data[];
+let breweries: Brewery[];
 
 try {
   abaBreweries = JSON.parse(fs.readFileSync(abaFilePath, "utf-8"));
@@ -62,7 +68,12 @@ const numBreweries = breweries.length;
 const craftBreweries = abaBreweries.filter((b) => b.Is_Craft_Brewery__c);
 const matches: { [id: string]: string } = {};
 
-const formattedBreweries: Data[] = craftBreweries
+const breweriesById = breweries.reduce((m: Record<string, Brewery>, b) => {
+  m[b.id] = b;
+  return m;
+}, {});
+
+const formattedBreweries: Brewery[] = craftBreweries
   .filter(
     (brewery) => brewery.BillingAddress.city && brewery.BillingAddress.state
   )
@@ -70,7 +81,7 @@ const formattedBreweries: Data[] = craftBreweries
     return {
       id: brewery.Id,
       name: brewery.Name,
-      brewery_type: brewery.Brewery_Type__c,
+      brewery_type: brewery.Brewery_Type__c?.toLowerCase(),
       address_1: brewery.BillingAddress.street,
       city: brewery.BillingAddress.city,
       state_province: brewery.BillingAddress.state,
@@ -83,13 +94,13 @@ const formattedBreweries: Data[] = craftBreweries
     };
   });
 
-interface Brewery {
-  id: string;
-  name: string;
-  city: string;
-  state_province: string;
-  address_1?: string;
-}
+const abaBreweriesById = formattedBreweries.reduce(
+  (m: Record<string, Brewery>, b) => {
+    m[b.id] = b;
+    return m;
+  },
+  {}
+);
 
 const breweryTable: { [key: string]: Brewery } = {};
 
@@ -145,3 +156,11 @@ console.log(
     (numMatches / numBreweries) * 100
   )}%)`
 );
+
+Object.entries(matches)
+  .slice(0, 5)
+  .forEach(([abaId, breweryId]) => {
+    console.log(`${abaId} = ${breweryId}`);
+    console.log('ABA', abaBreweriesById[abaId]);
+    console.log('OBDB', breweriesById[breweryId]);
+  });
