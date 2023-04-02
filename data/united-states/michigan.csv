@@ -1,376 +1,535 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 d5cb896d-3e99-4e19-9693-5e06ce987e53,127 Brewing,micro,3090 Shirley Dr,,,Jackson,Michigan,49201-7010,United States,5172581346,,-84.43116792,42.28667212
+ed1f677d-cb65-4066-b9af-b1a1206f0e4e,3 North Lexington,brewpub,5475 Main St,,,Lexington,Michigan,48450,United States,8106962034,http://www.3northvines.com/taphouse-and-eatery,-82.530648,43.268983
+14d0ab06-48dc-46b3-bf1b-919b31bc4725,5 Lakes Brew Pub,brewpub,350 84th St SW,,,Byron Center,Michigan,49315-7001,United States,6163599555,http://www.5lakesbrewing.com,-85.672108,42.809505
 c17a3e56-4d4e-405e-a21b-85f415903674,5 Lakes Brewing Co.,brewpub,1638 142nd Ave,,,Dorr,Michigan,49323-9312,United States,6163599555,http://www.5lakesbrewing.com,-85.70445518,42.72497157
-132540a2-23c8-4720-8c58-31292d264c4a,51st State Brewing Company,brewpub,115 Harding Ave,,,Kingsford,Michigan,49802-3815,United States,9068282167,http://www.51ststatebrewingcompany.com,-88.08819,45.808408
-c00f57cf-acdd-46da-9269-d182cb87a7e4,734 Brewing Company,micro,15 E Cross St,,,Ypsilanti,Michigan,48198,United States,7346496453,,-83.61103475,42.24586784
-30d8f77b-aeec-4435-a280-16bacd1b1c97,Aberrant Ales,brewpub,219 W Grand River Ave,,,Howell,Michigan,48843,United States,5175188699,http://www.aberrantales.com,-83.93094539,42.60773722
+132540a2-23c8-4720-8c58-31292d264c4a,51st State Brewing Company,brewpub,115 Harding Ave,,,Kingsford,Michigan,49802-3815,United States,9068282167,http://www.51ststatebrewingcompany.com,-88.088241,45.808079
+d0e8535f-181c-4c22-82a1-4052b77ee211,707 Winery and Brewery,taproom,9175 Cherry Valley Ave SE,,,Caledonia,Michigan,49316,United States,6167100796,,-85.50781,42.798337
+c00f57cf-acdd-46da-9269-d182cb87a7e4,734 Brewing Company,taproom,15 E Cross St,,,Ypsilanti,Michigan,48198,United States,7346496453,,-83.610358,42.246084
+30d8f77b-aeec-4435-a280-16bacd1b1c97,Aberrant Ales,brewpub,219 W Grand River Ave,,,Howell,Michigan,48843,United States,5175188699,http://www.aberrantales.com,-83.931545,42.607483
 00221d0f-2ed7-41d1-95b8-d8b1bfbc8b0e,Abner's Restaurant Inc / Northern Michigan Beer,brewpub,7528 N Woodbridge (M37),,,Brohman,Michigan,49312,United States,2316892295,,,
-4c8a98d1-1012-4814-82a5-20c68b131442,Albion Malleable Brewing Company,brewpub,420 S Superior St,,,Albion,Michigan,49224,United States,5173432202,http://www.albionmalleable.com,-84.7532755,42.2423188
-4d43c467-2e30-4b93-a25c-d1e46998dc07,Alma Brewing Co,brewpub,208 E Superior St,,,Alma,Michigan,48801-1819,United States,9894620208,http://www.almabrewing.com,-84.6588719,43.37888808
+46f4aa5a-f921-470a-bdad-e5967f21d425,Adesanya Mead & Microbrewery,taproom,3012 28th St SW,,,Grandville,Michigan,49418,United States,6164607404,http://adesanyamead.com,-85.739228,42.91352
+4c8a98d1-1012-4814-82a5-20c68b131442,Albion Malleable Brewing Company,brewpub,420 S Superior St,,,Albion,Michigan,49224-2136,United States,5173432202,http://www.albionmalleable.com,-84.753205,42.242748
+f87dce1f-dd5c-4131-a214-c0b29ac40019,Alcona Brew Haus,brewpub,676 US-23,,,Harrisville,Michigan,48740,United States,9897246338,,-83.290215,44.675652
+74ff961c-c693-4779-bc06-cdc7a885af2d,Alebird Taphouse and Brewery,brewpub,2619 84th St SW,,,Byron Center,Michigan,49315-5126,United States,,http://www.alebird.com,-85.728375,42.812512
+4d43c467-2e30-4b93-a25c-d1e46998dc07,Alma Brewing Co,taproom,208 E Superior St,,,Alma,Michigan,48801-1819,United States,9894620208,http://www.almabrewing.com,-84.659622,43.378651
 5e4e7f13-1e56-4715-b575-37522b595062,American Badass Beer,contract,1401 Abbott St Corktown,,,Detroit,Michigan,48216-1946,United States,,http://www.americanbadassbeer.com,,
-2b3bdfe8-47fd-4105-939e-57c9864e83b4,American Brewers Inc,micro,3408 Miller Rd,,,Kalamazoo,Michigan,49001-4111,United States,2692171920,http://www.americanbrewers.us,-85.5378194,42.26671998
+2b3bdfe8-47fd-4105-939e-57c9864e83b4,American Brewers Inc,micro,3408 Miller Rd,,,Kalamazoo,Michigan,49001-4111,United States,2694432015,http://www.norsenectar.com,-85.537824,42.266334
 538f360a-f2b7-48fc-aa66-3ed35af0f62e,American Harvest Brewpub At Schoolcraft College,brewpub,18600 Haggerty Rd,,,Livonia,Michigan,48152-3932,United States,7344627659,http://www.schoolcraft.edu,-83.42868497,42.419317
+9407d1fe-cedf-4b59-ac8f-190445e31e77,Apoptosis Brewing Company,taproom,3811 S Westnedge Ave,,,Kalamazoo,Michigan,49008,United States,,http://www.apoptosisbrewing.com,-85.589219,42.253472
 250d36ec-b9f2-46f4-a4d9-17216f6490b6,Arbor Brewing Co,brewpub,114 E Washington St,,,Ann Arbor,Michigan,48104-1905,United States,7342131393,http://www.arborbrewing.com,-83.74822471,42.28041029
+bd86eb02-84af-4353-891f-248e0cb34bb1,Arbor Brewing Co,brewpub,12296 Hubbard St,,,Livonia,Michigan,48150,United States,7342131393,http://www.arborbrewing.com,-83.361984,42.374787
 90fa4058-a971-4fd5-8783-559c670cddde,Arbor Brewing Co. Microbrewery,micro,720 Norris St,,,Ypsilanti,Michigan,48198-2825,United States,7344802739,,-83.6099915,42.250158
+9aa1c724-7d5a-43d7-8b24-aba62a41d553,Arbor Brewing Company,micro,720 Norris St,,,Ypsilanti,Michigan,48198-2825,United States,7344802739,,-83.609819,42.25028
+03c8bdb0-f7af-4802-8f65-a48dfde7c283,Arbor Brewing Company - Plymouth Taproom,brewpub,777 W Ann Arbor Trail,,,Plymouth,Michigan,48170,United States,7342336201,,-83.468979,42.369448
 30561ae5-f2b9-4690-a94c-12bd52df29bb,Arcadia Brewing Co,micro,701 E Michigan Ave,,,Kalamazoo,Michigan,49007-4946,United States,2692760458,http://www.arcadiaales.com,-85.5715368,42.2950789
-fc552937-9245-4091-94b2-645ed0599756,Arclight Brewing Company,micro,544 N Main St,,,Watervliet,Michigan,49098-9797,United States,2693320718,http://www.arclightbrewing.com,-86.25939238,42.19104832
+adeebff7-199b-4683-aa54-b1f4c418f112,Arcadia Smokehouse,brewpub,2101 E Michigan Ave,,,Lansing,Michigan,48912,United States,5174822739,http://www.arcadialansing.net,-84.520818,42.733956
+127051d6-bb97-42d2-bc77-5b848b8a77d9,Archival Brewing,brewpub,6266 West River Dr,,,Belmont,Michigan,49306,United States,6162783194,http://www.archivalbrewing.com,-85.602086,43.063524
+fc552937-9245-4091-94b2-645ed0599756,Arclight Brewing Company,taproom,544 N Main St,,,Watervliet,Michigan,49098-9797,United States,2693320718,http://www.arclightbrewing.com,-86.258329,42.191082
+9a4b5420-1091-4258-b066-e0e84fb9c1c4,Arctic Circle Brewing Company,taproom,27663 23 Mile Rd,,,New Baltimore,Michigan,48051,United States,5862292497,http://www.arcticcirclebrewing.com,-82.8335,42.674937
+fce144fc-2e8e-4d48-b37f-e0f09884b669,"Artisan Reserve, Inc.",taproom,36542 Goddard Road,,,Romulus,Michigan,48174,United States,7349928331,http://ARbrew.com,-83.396948,42.222167
 ed6c7254-d6f6-40a1-a330-135a1e3a09ad,Arvon Brewing Co.,micro,3057 Broadway Ave SW,,,Grandville,Michigan,49418-1528,United States,6162240086,http://www.arvonbrewingco.com,-85.7720434,42.909272
-ce507918-f969-4d44-a218-daca121c4bd0,Ascension Brewing Company,brewpub,42000 Grand River Ave,,,Novi,Michigan,48375-1831,United States,2483082093,http://www.ascension.beer,-83.4609783,42.4783271
+c34699e4-97a1-4354-ae72-7176a32e0661,Arvon Brewing Co.,taproom,1006 Division Ave S,,,Grand Rapids,Michigan,49507-1022,United States,6163409372,http://www.arvonbrewingco.com,-85.666815,42.944938
+ce507918-f969-4d44-a218-daca121c4bd0,Ascension Brewing Company,brewpub,42000 Grand River Ave,,,Novi,Michigan,48375-1831,United States,2483082093,http://www.ascension.beer,-83.461745,42.477869
 70fc7667-dda2-4cf0-ae7e-cbb43b5c43c4,Atwater Brewing Co,regional,237 Joseph Campau St,,,Detroit,Michigan,48207-4107,United States,3138779205,http://www.atwaterbeer.com,-83.072904,42.4190883
 14693124-55bc-43e9-817e-b99a85f662ac,Atwater Grand Rapids,brewpub,201 Michigan St NW,,,Grand Rapids,Michigan,49503-2323,United States,6166493020,,-85.672454,42.970463
 89d36a6d-1226-4c61-b4c6-22676a55a364,Atwater In the Park Biergarten and Tap House,brewpub,1175 Lakepointe St,,,Grosse Pointe Park,Michigan,48230-1319,United States,3133445104,http://www.atwaterbeer.com,-82.9399103,42.3814617
-26079ee9-0313-425a-84b6-25d0eda4f596,Austin Brothers' Beer Company,brewpub,821 W Miller St,,,Alpena,Michigan,49707-1825,United States,9893402300,http://www.austinbrosbeerco.com,-83.43583578,45.07296998
+26079ee9-0313-425a-84b6-25d0eda4f596,Austin Brothers' Beer Company,micro,821 W Miller St,,,Alpena,Michigan,49707-1825,United States,9893402300,http://www.austinbrosbeerco.com,-83.433803,45.075646
 f42d1652-6001-490f-ad55-ed573c47c38d,Axle Brewing Company,micro,567 Livernois St,,,Ferndale,Michigan,48220-2303,United States,2486137002,http://www.axlebrewing.com,-83.1428144,42.4508021
 22d43b9c-e8ba-412b-bb36-da1fc749fe80,B.O.B's Brewery,brewpub,20 Monroe Ave NW,,,Grand Rapids,Michigan,49503-6208,United States,6163562000,http://thebobsbrewery.thebob.com,-85.67248446,42.9638257
-cec378ba-bb45-4988-a654-30e6d3f1a3fd,BAD Brewing Co,micro,440 S Jefferson St,,,Mason,Michigan,48854-1654,United States,5176767664,http://www.badbrewing.com,-84.4433383,42.5786176
-a79c77fa-dd4c-4e3f-bf34-c50ae8032f5c,Baffin Brewing Co,micro,25113 Jefferson Ave,,,Saint Clair Shores,Michigan,48081-2303,United States,5862187990,http://baffinbrewing.com,-82.888964,42.472227
+cec378ba-bb45-4988-a654-30e6d3f1a3fd,BAD Brewing Co,taproom,440 S Jefferson St,,,Mason,Michigan,48854-1654,United States,5176767664,http://www.badbrewing.com,-84.443455,42.578626
+a79c77fa-dd4c-4e3f-bf34-c50ae8032f5c,Baffin Brewing Co,taproom,25113 Jefferson Ave,,,Saint Clair Shores,Michigan,48081-2303,United States,5862187990,http://baffinbrewing.com,-82.889704,42.47823
 4b2cb700-2a42-4a22-8811-b15879b6b401,Bam Entertainment Center,brewpub,478 E 16th St,,,Holland,Michigan,49423-3793,United States,6163927086,http://www.gobamgo.com,-86.08555156,42.7812873
 545b51b8-caf4-4c63-aea4-48910ddef4c7,Barn Brewers,brewpub,114 N Main St,,,Lawton,Michigan,49065-8634,United States,2692990482,http://www.barnbrewersbrewery.com,-85.84966443,42.16834814
-4fc60749-c0d0-4f94-ab92-e5bf566d455e,Barrel and Beam,micro,260 Northwoods RD,,,Marquette,Michigan,49855,United States,9062732559,http://www.barrelandbeam.com,-87.4722168,46.54578
+4fc60749-c0d0-4f94-ab92-e5bf566d455e,Barrel and Beam,taproom,260 Northwoods RD,,,Marquette,Michigan,49855,United States,9062732559,http://www.barrelandbeam.com,-87.471136,46.545781
 e48f036b-e371-4e7e-b78f-08a976dc26db,Bastone Brewery,brewpub,419 S Main St,,,Royal Oak,Michigan,48067-2615,United States,2485446250,http://www.bastone.net/br/bastone-brewery,-83.1440578,42.4836283
-e9ce69e2-13cf-48bd-81e2-10235db692aa,Batch Brewing Co,brewpub,1400 Porter St,,,Detroit,Michigan,48216-1934,United States,3133388008,http://www.BatchBrewingCompany.com,-83.088689,42.3184806
-b4e2e758-52bb-4745-b36a-6732aae2a4c2,Beards Brewery,brewpub,215 E Lake St,,,Petoskey,Michigan,49770-2415,United States,2317532221,http://www.beardsbrewery.com,-84.95425838,45.37533801
-882b9abc-a864-42f2-9cc3-f35286b0aaec,Beards Brewery Production Facility,micro,6328 Ferry Ave,,,Charlevoix,Michigan,49720-9504,United States,,,-85.249116,45.304738
-4d71267a-d27f-4322-afc6-403e860fc107,Beer Church Brewing Company,contract,24 S Whittaker St,,,New Buffalo,Michigan,49117-1820,United States,2192413876,http://www.beerchurchbrewing.com,-86.74311848,41.79322148
+a45ae51c-1daa-44a6-bc43-15b78b01ebbc,Batch Brewing Co - Funk Room,micro,2841 E Grand Blvd,,,Detroit,Michigan,48216-1934,United States,3133388008,,-83.064092,42.373249
+e9ce69e2-13cf-48bd-81e2-10235db692aa,Batch Brewing Company,brewpub,1400 Porter St,,,Detroit,Michigan,48216-1934,United States,3133388008,http://www.BatchBrewingCompany.com,-83.063201,42.3285
+95c64fdb-5e58-47d2-b5ae-3b8ad4be9e75,Bearded Lamb Brewing Company,taproom,149 W Liberty St Ste 1,,,Plymouth,Michigan,48170-8001,United States,2487054171,http://www.libertystreetbeer.com,-83.461226,42.379135
+90a7bbe6-dd9a-42e0-a2a8-6b8d3ce13f9d,Bearded Lamb Brewing Company Production Facility,micro,11721 Levan Rd,,,Livonia,Michigan,48150-1401,United States,,,-83.401757,42.368449
+b4e2e758-52bb-4745-b36a-6732aae2a4c2,Beards Brewery,brewpub,215 E Lake St,,,Petoskey,Michigan,49770-2415,United States,2317532221,http://www.beardsbrewery.com,-84.957866,45.375209
+882b9abc-a864-42f2-9cc3-f35286b0aaec,Beards Brewery Production Facility,micro,6328 Ferry Ave,,,Charlevoix,Michigan,49720-9504,United States,,,-85.249682,45.296605
+4d71267a-d27f-4322-afc6-403e860fc107,Beer Church Brewing Company,taproom,24 S Whittaker St,,,New Buffalo,Michigan,49117-1820,United States,2192413876,http://www.beerchurchbrewing.com,-86.743475,41.79355
 c351a7a3-6003-4573-962c-16d51a56bd53,Belding Brewing Company,planning,,,,Belding,Michigan,48809-1678,United States,6163086285,,,
 753c642c-4239-427f-a7e1-7c8d2d4f28e3,"Bell's Brewery, Inc",regional,8938 Krum Ave,,,Galesburg,Michigan,49053-9558,United States,2693822338,http://www.bellsbeer.com,,
 ddb10d3b-41f8-4a89-a91a-5e751230f8ec,Bell's Eccentric Cafe,brewpub,355 E Kalamazoo Ave,,,Kalamazoo,Michigan,49007-3807,United States,2693822332,http://www.bellsbeer.com,-85.57887292,42.29491555
 767cf890-0184-4c32-afd8-0260ce1a0f0b,Bella Casa Di Vino,brewpub,201 N Riverside Ave,,,Saint Clair,Michigan,48079-5491,United States,8103261212,http://www.suescoffeehouse.com,-82.48591,42.823895
-6b5ae555-89e4-4363-baac-a21e3e93a5d1,Bier Distillery,micro,5295 West River Dr NE Ste 100,,,Comstock Park,Michigan,49321-8030,United States,6168889746,http://bierdistillery.com,,
-4af8972b-a42f-43c7-a871-c28ba96f378a,Biercamp,brewpub,1643 S State St,,,Ann Arbor,Michigan,48104-4302,United States,7349952437,http://www.bier-camp.com,-83.740111,42.2586786
-71ed116d-2a0c-405f-9595-66b00f37030d,Biere De Mac Brew Works,micro,14277 N Mackinaw Hwy,,,Mackinaw City,Michigan,49701-8622,United States,2314277007,http://www.bieredemac.com,,
-5071d551-c086-4480-a57f-d2dbfcd7fbcc,Big Boiler Brewing,brewpub,318 E Main St,,,Lowell,Michigan,49331-1714,United States,6169873155,http://bigboilerbrewing.com,-85.33655351,42.93462931
+6b5ae555-89e4-4363-baac-a21e3e93a5d1,Bier Distillery,taproom,5295 West River Dr NE Ste 100,,,Comstock Park,Michigan,49321-8030,United States,6168889746,http://bierdistillery.com,-85.641435,43.059872
+06d68d7f-7caf-4669-a7b6-0debb681bc23,Bier's Inwood Brewery,taproom,17959 Ferry Rd,,,Charlevoix,Michigan,49720,United States,2316757632,http://www.biersinwoodbrewery.com,-85.3415,45.258111
+4af8972b-a42f-43c7-a871-c28ba96f378a,Biercamp,brewpub,1643 S State St,,,Ann Arbor,Michigan,48104-4302,United States,7349952437,http://www.bier-camp.com,-83.7398,42.258421
+71ed116d-2a0c-405f-9595-66b00f37030d,Biere De Mac Brew Works,taproom,14277 N Mackinaw Hwy,,,Mackinaw City,Michigan,49701-8622,United States,2314277007,http://www.bieredemac.com,-84.732834,45.757039
+5071d551-c086-4480-a57f-d2dbfcd7fbcc,Big Boiler Brewing,brewpub,318 E Main St,,,Lowell,Michigan,49331-1714,United States,6169873155,http://bigboilerbrewing.com,-85.335753,42.934418
+560d0d0e-d3c1-4a81-ac4e-729d29f85ec1,Big Buck Brewery and Steakhouse - Gaylord,taproom,550 S Wisconsin Ave,,,Gaylord,Michigan,49735-1742,United States,9896196299,http://www.bigbuckbrewery.com,-84.683988,45.021718
 b203b9a5-a84a-461f-a64a-938adf44a7d4,Big Cat Brewing Company,brewpub,8699 S Good Harbor Trl,,,Cedar,Michigan,49621-8580,United States,2312282282,http://www.bigcatbrewingco.com,-85.79311511,44.85319287
-f59742d0-8848-414d-a1e1-59b428315374,Big Hart Brewing Company,brewpub,4086 W Polk Rd,,,Hart,Michigan,49420-8172,United States,2313018226,http://www.bighartbrewing.com,,
-4383b079-c8fe-49c0-9999-9ff23a8f4f8e,Big Lake Brewing,micro,13 W 7th St,,,Holland,Michigan,49423-2821,United States,6167968888,http://www.biglakebrewing.com,-86.10791587,42.79149405
-0a229c47-5c8f-46e8-bf5c-e9866e006341,Big Lake Brewing Production Facility,micro,166 E 19th St,,,Holland,Michigan,49423-4230,United States,,,-86.09988824,42.78029471
+f59742d0-8848-414d-a1e1-59b428315374,Big Hart Brewing Company,brewpub,4086 W Polk Rd,,,Hart,Michigan,49420-8172,United States,2313018226,http://www.bighartbrewing.com,-86.380011,43.689619
+4383b079-c8fe-49c0-9999-9ff23a8f4f8e,Big Lake Brewing,micro,13 W 7th St,,,Holland,Michigan,49423-2821,United States,6167968888,http://www.biglakebrewing.com,-86.107921,42.79174
+0a229c47-5c8f-46e8-bf5c-e9866e006341,Big Lake Brewing Production Facility,micro,166 E 19th St,,,Holland,Michigan,49423-4230,United States,,,-86.099902,42.780223
 f0570db4-92b3-4b86-8b98-9628d917ffcc,Big Rock Chop House & Brewery,contract,245 S Eton St,,,Birmingham,Michigan,48009-6577,United States,2486477774,http://www.bigrockchophouse.com,-83.19603911,42.54693868
-5e549a83-df46-462c-aa98-3bd6dd0e65fd,Bilbo's Pizza and Brewery,brewpub,3307 Stadium Dr,,,Kalamazoo,Michigan,49008-1528,United States,2693825544,http://www.bilbospizza.com,-85.63122494,42.27160225
+ed92a2d6-14c7-4158-ae74-e272d62e85b3,Big T Brew Pub,brewpub,155 N Main St,,,Lawton,Michigan,49065-8634,United States,2696241200,http://www.bigtrestaurant.com,-85.850126,42.168404
+5e549a83-df46-462c-aa98-3bd6dd0e65fd,Bilbo's Pizza and Brewery,brewpub,3307 Stadium Dr,,,Kalamazoo,Michigan,49008-1528,United States,2693825544,http://www.bilbospizza.com,-85.630038,42.271476
 80dd3663-71f9-46db-811e-7b1610731542,Bitter Old Fecker Rustic Ales,micro,12855 E Old US Hwy 12,,,Chelsea,Michigan,48118-9229,United States,7344445201,,-83.98452281,42.2995379
-d7ae324d-dcc4-4b52-b857-35dca78f8c37,Black Fire Winery,micro,1261 E Munger Rd,,,Tecumseh,Michigan,49286-8714,United States,5174249232,,,
+130f3b69-747c-44d0-af78-38f54c825373,Black & Blue Brewery,brewpub,330 Quay St,,,Port Huron,Michigan,48060,United States,8104789606,http://www.wingsetc.com/port-huron/,-82.42328,42.975579
+d7ae324d-dcc4-4b52-b857-35dca78f8c37,Black Fire Winery,taproom,1261 E Munger Rd,,,Tecumseh,Michigan,49286-8714,United States,5174249232,,-83.999024,42.023574
 a0603777-7481-46fd-805e-a00d194829d5,Black Lotus Brewing Co,brewpub,1 E 14 Mile Rd,,,Clawson,Michigan,48017-2132,United States,2485771878,http://WWW.BLACKLOTUSBEER.COM,-83.141428,42.533563
-4da03934-2c69-466f-9f84-937efbc8b74a,Blackrocks Brewery,micro,424 N 3rd St,,,Marquette,Michigan,49855-3555,United States,9062731333,http://www.blackrocksbrewery.com,-87.39462133,46.5464589
-e6d1cb57-2a2e-4ec1-a91d-dab1b0b2a3cc,Blackrocks Brewery - Production Facility,micro,950 W Washington St,,,Marquette,Michigan,49855-4019,United States,9062731333,http://www.blackrocksbrewery.com,-87.41368794,46.54594024
-7e39a579-8605-49a5-9988-a4d594650d1e,Block Brewing Company,brewpub,1140 S Michigan Ave,,,Howell,Michigan,48843-2669,United States,,http://www.blockbrewingcompany.com,-83.931806,42.603858
+4da03934-2c69-466f-9f84-937efbc8b74a,Blackrocks Brewery,micro,424 N 3rd St,,,Marquette,Michigan,49855-3555,United States,9062731333,http://www.blackrocksbrewery.com,-87.394399,46.54699
+e6d1cb57-2a2e-4ec1-a91d-dab1b0b2a3cc,Blackrocks Brewery - Production Facility,micro,950 W Washington St,,,Marquette,Michigan,49855-4019,United States,9062731333,http://www.blackrocksbrewery.com,-87.413769,46.546004
+ae650275-7024-48b5-b6d2-fdfbfd63a65d,Blake's Brewing Co.,brewpub,17985 Armada Center Rd,,,Armada,Michigan,48005-2323,United States,9894501524,http://www.blakeshardcider.com,-82.950398,42.853668
+7e39a579-8605-49a5-9988-a4d594650d1e,Block Brewing Company,brewpub,1140 S Michigan Ave,,,Howell,Michigan,48843-2669,United States,,http://www.blockbrewingcompany.com,-83.934153,42.594709
+645eacd6-cdc8-4492-a2f7-c5cd37ab399d,Blom Meadworks,micro,100 S 4th Ave,,,Ann Arbor,Michigan,48104,United States,7345489729,http://www.drinkblom.com,-83.747614,42.281099
 b0d6f266-fc2c-4902-ac56-8037f58608c3,Blue Cow Cafe/Big Rapids Brewing Co,brewpub,119 N Michigan Ave,,,Big Rapids,Michigan,49307-1401,United States,2317960100,http://www.bluecowcafe.com,-85.48211793,43.69871439
 2305e910-7a97-4d2e-bc7d-573216936035,Blue Pike Cantina,brewpub,152 S Water St,,,Marine City,Michigan,48039-1687,United States,8107654200,,-82.49085669,42.71829576
-eeef44bf-a841-4f54-94d3-d9864b81785c,Blue Tractor Brewing Co,brewpub,207 E Washington St,,,Ann Arbor,Michigan,48104-2007,United States,7342224095,,-83.74704578,42.28052759
+34d7da97-3695-420e-831d-8e25bfa69761,Blue Skies Brewery,brewpub,12000 Pentecost Hwy,,,Onsted,Michigan,49265,United States,5174464052,http://www.chateauaeronautiquewinery.com,-84.127241,42.058213
+427df858-41f5-4cf3-a16f-264358d3d66c,Blue Skies Brewery - Auburn Hills,taproom,3358 Auburn Rd,,,Auburn Hills,Michigan,48326,United States,2485642710,,-83.221167,42.633273
+eeef44bf-a841-4f54-94d3-d9864b81785c,Blue Tractor Brewing Co,brewpub,207 E Washington St,,,Ann Arbor,Michigan,48104-2007,United States,7342224095,,-83.747022,42.280582
 cb05f966-8048-44d9-87a7-a52ea80fdd7b,Boatyard Brewing Co,micro,432 E Paterson St,,,Kalamazoo,Michigan,49007-2599,United States,2692260300,http://www.boatyardbrewing.com,-85.578439,42.303203
 2de96915-c8c4-478d-ad67-0c8aa5828ab4,Brass Ring Brewery,brewpub,2404 Eastern Ave SE,,,Grand Rapids,Michigan,49507-3632,United States,6164601587,http://www.brassringbrewing.com,-85.64741488,42.91987422
+350ae8fa-891e-41d5-8585-a7c438fa72b7,Brass Ring Brewing Company,brewpub,2404 Eastern Ave SE,,,Grand Rapids,Michigan,49507,United States,6164601587,http://www.brassringbrewing.com,-85.647168,42.91985
 cf316d34-15c7-4e3c-a9d2-c76ee68a7d81,Bravo! Restaurant & Cafe,brewpub,5402 Portage Rd,,,Portage,Michigan,49002-1718,United States,2693447700,http://www.bravokalamazoo.com,-85.56023131,42.23892918
-8aadd633-ee8b-4550-9b3a-ffdf6fee2b44,Brew Detroit,micro,1401 Abbott St,,,Detroit,Michigan,48216-1946,United States,3139747366,http://www.brewdetroit.com,-83.0619769,42.32770289
-80792259-7b13-4e7c-a574-f044714302a4,Brew Works of Fremont,brewpub,5909 S Warner Ave,,,Fremont,Michigan,49412,United States,2313355105,http://www.thecommonsoffremont.com,-85.94003325,43.44380716
-4cd1320b-4f5f-4117-916f-d70be24a44bf,Brewery 4 Two 4,micro,321 Douglas Ave Ste 120,,,Holland,Michigan,49424-6599,United States,6163777773,http://brewery424.com,,
-783c1657-bb0f-4718-87eb-676a8094d167,Brewery Becker,brewpub,500 W Main St,,,Brighton,Michigan,48116-1471,United States,8108440225,http://www.brauereibecker.us,-83.785481,42.529522
+8aadd633-ee8b-4550-9b3a-ffdf6fee2b44,Brew Detroit,micro,1401 Abbott St,,,Detroit,Michigan,48216-1946,United States,3139747366,http://www.brewdetroit.com,-83.062027,42.327601
+80792259-7b13-4e7c-a574-f044714302a4,Brew Works of Fremont,brewpub,5909 S Warner Ave,,,Fremont,Michigan,49412,United States,2313355105,http://www.thecommonsoffremont.com,-85.940782,43.44732
+4cd1320b-4f5f-4117-916f-d70be24a44bf,Brewery 4 Two 4,taproom,321 Douglas Ave Ste 120,,,Holland,Michigan,49424-6599,United States,6163777773,http://brewery424.com,-86.122532,42.798291
+783c1657-bb0f-4718-87eb-676a8094d167,Brewery Becker,taproom,500 W Main St,,,Brighton,Michigan,48116-1471,United States,8108440225,http://www.brauereibecker.us,-83.785416,42.529743
 e0bf1313-ecf0-45c9-8b70-8ed121ec6a27,Brewery Faisan,planning,,,,Detroit,Michigan,48207,United States,5867032030,http://www.breweryfaisan.com,,
 189be7db-796b-40db-87bf-daac88a4fac7,Brewery Ferment,micro,511 S Union St,,,Traverse City,Michigan,49684-3246,United States,2317358113,http://www.breweryferment.com,-85.62353552,44.75888715
-b6de3e97-fdec-4ac0-924d-5775fa7006bf,Brewery Terra Firma,micro,2959 Hartman Rd,,,Traverse City,Michigan,49685-8838,United States,2319291600,http://www.breweryterrafirma.com,-85.63510581,44.71509875
-6be8cb90-0919-46ce-af30-435d51aa06b8,Brewery Vivant,brewpub,925 Cherry St SE,,,Grand Rapids,Michigan,49506-1403,United States,6167191604,http://www.breweryvivant.com,-85.64683809,42.95961591
-3a4d9601-a590-40f3-b6ba-5551188fd6b3,BrickHaven Brewing Company,micro,200 E Jefferson St,,,Grand Ledge,Michigan,48837-1537,United States,5179251319,,-84.745273,42.752301
-df1088cc-00ba-4947-8239-a4b7ddcfb966,Brickside Brewery,micro,64 Gratiot Street,,,Copper Harbor,Michigan,49918,United States,9062894772,http://www.bricksidebrewery.com,,
-0b3fde08-24cd-4523-b824-cf558568a608,Brite Eyes Brewing Co,brewpub,1156 S Burdick St,,,Kalamazoo,Michigan,49001-2741,United States,2692205001,,-85.582846,42.27977268
+5850ad50-4e0c-4fa1-90c7-ddf1f2b81362,Brewery Nyx,micro,506 Oakland Ave SW,,,Grand Rapids,Michigan,49503,United States,,http://www.brewerynyx.com,-85.679261,42.953945
+36f59795-8fb0-4eff-b44f-fd284ddf26f0,Brewery Outré,taproom,567 E Ransom St,,,Kalamazoo,Michigan,49007,United States,,http://www.breweryoutre.com,-85.575677,42.297108
+b6de3e97-fdec-4ac0-924d-5775fa7006bf,Brewery Terra Firma,taproom,2959 Hartman Rd,,,Traverse City,Michigan,49685-8838,United States,2319291600,http://www.breweryterrafirma.com,-85.634913,44.715324
+6be8cb90-0919-46ce-af30-435d51aa06b8,Brewery Vivant,brewpub,925 Cherry St SE,,,Grand Rapids,Michigan,49506-1403,United States,6167191604,http://www.breweryvivant.com,-85.646282,42.959888
+7243611f-bf18-41c8-8e63-d118d58ffb51,Brick Haus Brews,brewpub,133 E Division St,,,Sparta,Michigan,49345,United States,6163831155,http://www.brickhausbrews.com,-85.706687,43.160979
+3a4d9601-a590-40f3-b6ba-5551188fd6b3,BrickHaven Brewing Company,brewpub,200 E Jefferson St,,,Grand Ledge,Michigan,48837-1537,United States,5179251319,,-84.745523,42.752049
+df1088cc-00ba-4947-8239-a4b7ddcfb966,Brickside Brewery,taproom,64 Gratiot Street,,,Copper Harbor,Michigan,49918,United States,9062894772,http://www.bricksidebrewery.com,-87.886509,47.46748
+0b3fde08-24cd-4523-b824-cf558568a608,Brite Eyes Brewing Co,brewpub,1156 S Burdick St,,,Kalamazoo,Michigan,49001-2741,United States,2692205001,,-85.58326,42.279476
+ed3b98bf-6a80-4824-bd23-34c2eba54e34,Broad Leaf Brewery & Spirits,brewpub,2885 Lake Eastbrook Blvd,,,Kentwood,Michigan,49512,United States,,http://www.broadleafbeer.com,-85.575608,42.909899
+9e097472-e23c-4a4b-b295-653c1933c43f,Broad Leaf Westside,brewpub,443 Bridge Street NW,,,Grand Rapids,Michigan,49504,United States,,,-85.680674,42.970829
 cadced11-9b86-49ba-a329-f8dcdd51426f,Broken Rock Brewery,brewpub,282 Grindstone Rd Bird Creek Farms,,,Port Austin,Michigan,48467-9390,United States,2487033114,http://birdcreekfarms.com,,
-3899ff1a-adc2-45a9-87f9-695cd1f9644f,Brooks Brewing,micro,52033 Van Dyke,,,Shelby Charter Township,Michigan,48316,United States,5868844741,http://www.bbrewing.com,,
+3899ff1a-adc2-45a9-87f9-695cd1f9644f,Brooks Brewing,taproom,52033 Van Dyke,,,Shelby Charter Township,Michigan,48316,United States,5868844741,http://www.bbrewing.com,-83.034343,42.677151
+47af64d7-58bb-4017-af6f-a58badbe95b0,Brooks Brewing,taproom,22925 Woodward Ave,,,Ferndale,Michigan,48220,United States,,,-83.136054,42.461901
 b09140d2-fce4-4996-86ea-2c0aafc6682d,Brown Iron Brewhouse,brewpub,57695 Van Dyke Rd,,,Washington,Michigan,48094-2879,United States,586697330,http://www.browniron.com,-83.03578521,42.71929931
-53d04d81-f93b-44ce-83aa-f2b0baa852ed,Burt Lake Brewery / Seasons of the North Winery,micro,9090 W M-68 Hwy,,,Alanson,Michigan,49706,United States,2315481280,http://www.burtlakebrewery.com,,
-1b4e8f0d-b445-4221-a357-975287794915,"Canton Brew Works, LLC",micro,8521 N Lilley Rd,,,Canton,Michigan,48187-2091,United States,7349277081,http://www.cantonbrewworks.com,-83.4586331,42.3224786
+a8020dcb-6d49-42f5-82ce-59657e460aae,Burnt Marshmallow Brewing At Rudbeckia Farm,taproom,3379 Lake Grove Rd,,,Petoskey,Michigan,49770-9751,United States,2316224173,http://www.rudbeckiafarm.com,-85.026906,45.32763
+53d04d81-f93b-44ce-83aa-f2b0baa852ed,Burt Lake Brewery / Seasons of the North Winery,taproom,9090 W M-68 Hwy,,,Alanson,Michigan,49706,United States,2315481280,http://www.burtlakebrewery.com,-84.670691,45.405739
+4c822ca5-ad14-4d1f-8116-25bff23d119f,"Burzurk Brewing Company, LLC",taproom,1442 Washington Ave,,,Grand Haven,Michigan,49417,United States,6165020658,http://burzurkbrewing.com,-86.20726,43.06109
+143f0586-9639-4f42-a20c-3089fb913088,ByGeorge Brewing Co.,taproom,231 E Superior St,,,Munising,Michigan,49862,United States,9063872739,http://www.bygeorgebrewing.com,-86.652245,46.409843
+1b4e8f0d-b445-4221-a357-975287794915,"Canton Brew Works, LLC",taproom,8521 N Lilley Rd,,,Canton,Michigan,48187-2091,United States,7349277081,http://www.cantonbrewworks.com,-83.460125,42.348292
+84f0a931-8153-44f5-b663-c3c943e827e4,Cap N Cork Brewing,taproom,16776 21 Mile Rd,,,Macomb,Michigan,48044-2600,United States,5862173576,http://www.capncorkbrewing.com,-82.955015,42.642063
 1b1cb9a2-6eeb-4995-9639-86e6b7610fe0,Castle Brewing Co,brewpub,1310 W Washington,,,Greenville,Michigan,48838,United States,6167126226,http://www.castlebrewingco.com,,
 9552b15e-81e1-4941-a0a7-86f07ffa5d0e,Cedar Springs Brewing Company,brewpub,95 N Main # 34,,,Cedar Springs,Michigan,49319-5140,United States,616696,http://www.CSBrew.com,,
 86bb1d32-ad5f-42c6-a7b9-70c92801d1d9,Cellar Brewing Co,brewpub,133 E Division St,,,Sparta,Michigan,49345-1329,United States,6168830777,http://www.cellarbrewingco.com,-85.70639839,43.16082496
 15ceab0b-ebef-46a3-9bf9-7915a219eeda,"Cellarmen's Meadery, Microbrewery and Cidery",micro,24310 John R Rd,,,Hazel Park,Michigan,48030-1112,United States,5864134206,http://www.cellarmens.com,,
-b7f56781-add6-4bba-a3df-62a254f64971,Cheboygan Brewing Co,micro,101 N Main St,,,Cheboygan,Michigan,49721-1637,United States,2312683277,http://www.cheboyganbrewing.com,-84.4743633,45.647403
+b7f56781-add6-4bba-a3df-62a254f64971,Cheboygan Brewing Co,micro,101 N Main St,,,Cheboygan,Michigan,49721-1637,United States,2312683277,http://www.cheboyganbrewing.com,-84.478216,45.643318
 307dd9fc-a513-4e7a-902b-6f9c75a33db5,Chelsea Alehouse Brewery,brewpub,420 N Main St Ste 100,,,Chelsea,Michigan,48118-1299,United States,7344335500,http://www.chelseaalehouse.com,,
+38cb799d-9fd7-4585-9516-b0ebd1c00f15,Chelsea Alehouse Brewery,brewpub,115 South Main St,,,Chelsea,Michigan,48118,United States,7344752337,http://www.chelseaalehouse.com,-84.020119,42.317554
+ec2c4359-034d-47f4-ae16-3accecb33951,Cherry Republic Brewing,brewpub,6026 South Lake Street,,,Glen Arbor,Michigan,49636,United States,2312263033,http://www.cherryrepublic.com,-85.989307,44.896409
 0e0f9002-fe65-4484-a951-03045a1e08b1,CHILLAX Brewing Company LLC,planning,,,,Milford,Michigan,48381-2243,United States,2483883458,,,
-6812d6f9-b113-48c1-902a-dd2b0f1e5874,City Built Brewing Company,brewpub,820 Monroe Ave NW Ste 155,,,Grand Rapids,Michigan,49503-1413,United States,6168055755,http://www.citybuiltbrewing.com,,
-cba5abaf-d710-42d9-9ba8-e73cf378c245,CJs Brewing Co,brewpub,8115 Richardson Rd,,,Commerce Township,Michigan,48390-4131,United States,2483667979,http://www.cjsbrewingcompany.com,-83.44295839,42.57743694
-18783ef1-06c4-496e-a25b-110032b07619,Clam Lake Beer Co,brewpub,106 S Mitchell St Ste A,,,Cadillac,Michigan,49601-2177,United States,2317756150,http://www.clamlakebeerco.com,,
-87b5537d-1ade-42da-9df2-1274eaf3298d,Cognition Brewing Company,micro,113 E Canda St,,,Ishpeming,Michigan,49849-1904,United States,9062042724,http://www.cognitionbrewing.com,-87.6681955,46.4916806
+6812d6f9-b113-48c1-902a-dd2b0f1e5874,City Built Brewing Company,taproom,820 Monroe Ave NW Ste 155,,,Grand Rapids,Michigan,49503-1413,United States,6168055755,http://www.citybuiltbrewing.com,-85.671887,42.977698
+cba5abaf-d710-42d9-9ba8-e73cf378c245,CJs Brewing Co,brewpub,8115 Richardson Rd,,,Commerce Township,Michigan,48390-4131,United States,2483667979,http://www.cjsbrewingcompany.com,-83.442668,42.576646
+18783ef1-06c4-496e-a25b-110032b07619,Clam Lake Beer Co,brewpub,106 S Mitchell St Ste A,,,Cadillac,Michigan,49601-2177,United States,2317756150,http://www.clamlakebeerco.com,-85.399513,44.249879
+87b5537d-1ade-42da-9df2-1274eaf3298d,Cognition Brewing Company,taproom,113 E Canda St,,,Ishpeming,Michigan,49849-1904,United States,9062042724,http://www.cognition-brewing-company.square.site,-87.668263,46.491574
 2d069653-3988-44e6-a58e-89de3d646223,Cognito Brewing Company,brewpub,142 W Monroe St,,,Bangor,Michigan,49013-1333,United States,9718088863,http://www.cognitobrewingcompany.com,-86.11152208,42.31308099
-8adecd1d-7e2e-4724-836a-a13c4d145996,Cold Iron Brewing,micro,104 S Lowell St,,,Ironwood,Michigan,49938-2044,United States,9062857020,http://www.coldironbrewing.com,-90.16984913,46.45390575
-4f1c4d66-e46d-46bf-97e9-ed62f2355058,ConfluxCity Brewing Company,micro,110 N Water St,,,Portland,Michigan,48875,United States,5175269091,http://www.confluxcitybrew.com,-84.90321484,42.87142429
+8adecd1d-7e2e-4724-836a-a13c4d145996,Cold Iron Brewing,taproom,104 S Lowell St,,,Ironwood,Michigan,49938-2044,United States,9062857020,http://www.coldironbrewing.com,-90.170335,46.454464
+4f1c4d66-e46d-46bf-97e9-ed62f2355058,ConfluxCity Brewing Company,brewpub,110 N Water St,,,Portland,Michigan,48875,United States,5175269091,http://www.confluxcitybrew.com,-84.903838,42.871393
 9c2b12cc-2909-47a2-8d5e-39fc21ba51d4,Constantine Brewing Co,brewpub,145 S Washington St,,,Constantine,Michigan,49042-1047,United States,2694351230,http://www.constantinebrewingco.com,-85.66859588,41.84164216
+a828f4f1-d534-4251-81fe-d979735e2908,Coopersville Brewing Company,taproom,1275 W Randall St,,,Coopersville,Michigan,49404,United States,6163843364,http://www.coopersvillebrewing.com,-85.958252,43.060462
+7010b788-2102-428c-a059-7e019e8d7d96,Copper Country Brewery / The Library,brewpub,62 Isle Royale St,,,Houghton,Michigan,49931-1827,United States,9064812665,http://www.thelibraryhoughton.com,-88.567097,47.122138
+d07e22e9-704c-4023-985c-be6406d2ea46,Copper Hop Brewing Company,taproom,23401 Greater Mack Avenue,,,Saint Clair Shores,Michigan,48080,United States,5869447282,http://www.thecopperhop.com,-82.898732,42.465946
 d2d3de44-bc8b-4fcc-921d-2340cc0bf346,Cotton Brewing Co,brewpub,626 Oak St,,,Adrian,Michigan,49221-3367,United States,5179026608,http://www.cottonbrewing.com,-84.02463418,41.89136136
-7925a3a2-254e-4112-b9d8-0ab1af31664c,Cranker's Brewery,brewpub,213 S State St,,,Big Rapids,Michigan,49307-1758,United States,2317961919,,-85.483723,43.688013
+7925a3a2-254e-4112-b9d8-0ab1af31664c,Cranker's Brewery,brewpub,213 S State St,,,Big Rapids,Michigan,49307-1758,United States,2317961919,,-85.483442,43.696453
 6fd44e32-4616-4f8d-9925-85a724dc188c,Cranker's Restaurant & Brewery,brewpub,454 68th St SW,,,Grand Rapids,Michigan,49548-7115,United States,6168271919,http://www.crankersbrewery.com,,
-d89a9d3f-30ff-45ff-9ae7-ca09c96d0484,Cranker's Restaurant & Brewery,brewpub,1207 E Pickard St,,,Mount Pleasant,Michigan,48858-1901,United States,9897791919,http://www.crankersbrewery.com,-84.76071102,43.61176916
+d89a9d3f-30ff-45ff-9ae7-ca09c96d0484,Cranker's Restaurant & Brewery,brewpub,1207 E Pickard St,,,Mount Pleasant,Michigan,48858-1901,United States,9897791919,http://www.crankersbrewery.com,-84.762527,43.612473
 15453364-b83a-45cf-9aa9-e6ff5997fb45,Cravings Bistro & Pub,brewpub,1599 Mall Dr Ste B,,,Benton Harbor,Michigan,49022-2330,United States,2699349700,,,
-0e1b23f1-d957-4890-a38c-c21f687b5e96,Creston Brewery,brewpub,1504 Plainfield Ave NE,,,Grand Rapids,Michigan,49505-4923,United States,6168054523,http://www.crestonbrewery.com,-85.66252661,42.99120192
-70dbd577-56bb-4480-b51c-6f33123147d3,Dark Horse Brewing Co,micro,511 S Kalamazoo Ave,,,Marshall,Michigan,49068-1718,United States,2697819940,http://www.darkhorsebrewery.com,-84.96397652,42.26638824
-629f9712-6143-43a5-a29c-bf2a8396ea1d,Dead Bear Brewing Co,brewpub,2552 S I 75 Business Loop,,,Grayling,Michigan,49738-2010,United States,9897456289,,,
-1d6ae265-d8dd-4a19-9524-801019b356c6,Dearborn Brewing,micro,21930 Michigan Ave,,,Dearborn,Michigan,48124-2351,United States,3139144187,http://www.dearbornbrewing.com,-83.2433835,42.30664415
-51d1d1c9-4e63-4517-8538-419e8fb18042,Detroit Beer Co,brewpub,1529 Broadway St Ste 100,,,Detroit,Michigan,48226-2141,United States,3139621529,http://www.detroitbeerco.com,-83.04871786,42.335962
-fd4412ec-311a-4e87-8b55-10dca2b00b94,Dimes Brewhouse,micro,145 N Bridge St,,,Dimondale,Michigan,48821-9201,United States,5173032067,http://www.dimesbrewhouse.com,-84.6483014,42.64660055
-51421b18-93e4-4d09-b694-388dcb5df2fe,Downey Brewing Company,micro,13121 Prospect St,,,Dearborn,Michigan,48126-3603,United States,3132888442,http://www.downeybrewingcompany.com,-83.17350725,42.31625295
+0e1b23f1-d957-4890-a38c-c21f687b5e96,Creston Brewery,taproom,1504 Plainfield Ave NE,,,Grand Rapids,Michigan,49505-4923,United States,6168054523,http://www.crestonbrewery.com,-85.663467,42.989584
+70dbd577-56bb-4480-b51c-6f33123147d3,Dark Horse Brewing Co.,micro,511 S Kalamazoo Ave,,,Marshall,Michigan,49068-1718,United States,2697819940,http://www.darkhorsebrewery.com,-84.963903,42.266621
+629f9712-6143-43a5-a29c-bf2a8396ea1d,Dead Bear Brewing Co,brewpub,2552 S I 75 Business Loop,,,Grayling,Michigan,49738-2010,United States,9897456289,,-84.709352,44.648783
+1d6ae265-d8dd-4a19-9524-801019b356c6,Dearborn Brewing,taproom,21930 Michigan Ave,,,Dearborn,Michigan,48124-2351,United States,3139144187,http://www.dearbornbrewing.com,-83.243687,42.306451
+c1962995-0a03-48df-b916-4a82e787fbc1,DeHop's Brewing Company and Cafe,brewpub,363 Cummings Ave NW,,,Walker,Michigan,49534,United States,6168053363,http://www.dehops.com,-85.77172,42.971635
+51d1d1c9-4e63-4517-8538-419e8fb18042,Detroit Beer Co,brewpub,1529 Broadway St Ste 100,,,Detroit,Michigan,48226-2141,United States,3139621529,http://www.detroitbeerco.com,-83.04892,42.335813
+fd4412ec-311a-4e87-8b55-10dca2b00b94,Dimes Brewhouse,micro,145 N Bridge St,,,Dimondale,Michigan,48821-9201,United States,5173032067,http://www.dimesbrewhouse.com,-84.648409,42.646593
+9a94c2fe-e00e-4da9-b6a9-fb695acbac34,Dixie Saloon Brewery,brewpub,401 E Central Ave,,,Mackinaw City,Michigan,49701,United States,2314365449,http://www.dixiesaloon.com,-84.725162,45.781891
+5c5f73a4-7331-456e-8e5f-9c4fe948bd09,Dog and Pony Show Brewing,taproom,14661 W 11 Mile Rd,,,Oak Park,Michigan,48237,United States,2488508910,http://www.dogandponyshowbrewing.com,-83.193713,42.488402
+56386e12-cc1e-4e6a-a527-d9d3d5972ae8,Doster Brewing Co,micro,501 E VW Ave,,,Vicksburg,Michigan,49097,United States,2698234742,http://www.dosterbrew.com,-85.582469,42.123185
+51421b18-93e4-4d09-b694-388dcb5df2fe,Downey Brewing Company,taproom,13121 Prospect St,,,Dearborn,Michigan,48126-3603,United States,3132888442,http://www.downeybrewingcompany.com,-83.171026,42.316442
 85478ddc-a830-43e5-beeb-66cead1a99c4,Drafting Table Brewing Company,micro,49438 Pontiac Trl,,,Wixom,Michigan,48393-2005,United States,2489567279,http://www.draftingtablebeer.com,-83.53663792,42.52440117
-f10850c4-f516-4ecd-9b8c-3fc20f134187,Dragonmead Microbrewery,micro,14600 E 11 Mile Rd,,,Warren,Michigan,48089-1556,United States,5867769428,,-83.0278041,42.492142
-b70bb5a2-bcc5-43c5-8370-58d292c4625d,Draught Horse Brewery,brewpub,57721 Grand River Ave,,,New Hudson,Michigan,48165-8542,United States,2486173000,http://www.draughthorsebrewery.com,-83.61459,42.5113546
-1996e0fa-b821-4d44-a6ea-d5fda91c7d47,EagleMonk Pub and Brewery,brewpub,4906 W Mount Hope Hwy,,,Lansing,Michigan,48917-9588,United States,5177087350,,-84.662048,42.712054
-21a0d567-e70c-49fa-bb93-a073ed29e93b,Earthen Ales,micro,1371 Gray Dr Ste 200,,,Traverse City,Michigan,49684-7805,United States,2312524270,http://www.earthenales.com,-85.6454249,44.755294
-98890002-074d-438f-9d82-ffc4317bc079,East Channel Brewing Company,micro,209 Maple St,,,Munising,Michigan,49862-1084,United States,9063873007,http://www.eastchannelbrewery.com,-86.65452518,46.40934141
+0186b07b-df23-4f06-ab5b-9d9d2d151681,Dragon's Landing,brewpub,24409 Jefferson Ave,,,Saint Clair Shores,Michigan,48080,United States,5862188090,,-82.889344,42.471461
+f10850c4-f516-4ecd-9b8c-3fc20f134187,Dragonmead Microbrewery,taproom,14600 E 11 Mile Rd,,,Warren,Michigan,48089-1556,United States,5867769428,,-82.975263,42.492653
+b70bb5a2-bcc5-43c5-8370-58d292c4625d,Draught Horse Brewery,brewpub,57721 Grand River Ave,,,New Hudson,Michigan,48165-8542,United States,2486173000,http://www.draughthorsebrewery.com,-83.623381,42.512733
+eca60dbf-37f7-41b3-a960-12eaf9aec059,Drifa Brewing Company,taproom,501 South Lake Street,,,Marquette,Michigan,49855,United States,9062731300,http://www.drifabrewing.beer,-87.394753,46.531141
+1996e0fa-b821-4d44-a6ea-d5fda91c7d47,EagleMonk Pub and Brewery,brewpub,4906 W Mount Hope Hwy,,,Lansing,Michigan,48917-9588,United States,5177087350,http://www.eaglemonkbrewing.com,-84.619556,42.712235
+21a0d567-e70c-49fa-bb93-a073ed29e93b,Earthen Ales,taproom,1371 Gray Dr Ste 200,,,Traverse City,Michigan,49684-7805,United States,2312524270,http://www.earthenales.com,-85.645665,44.755251
+98890002-074d-438f-9d82-ffc4317bc079,East Channel Brewing Company,taproom,209 Maple St,,,Munising,Michigan,49862-1084,United States,9063873007,http://www.eastchannelbrewery.com,-86.654477,46.40956
 ae17030a-3073-42f2-bdc2-ad4f468b3156,East West Brewing Co,brewpub,1400 Lake Dr SE,,,Grand Rapids,Michigan,49506,United States,6162885250,http://www.eastwestbrewingcompany.com,-85.634947,42.957318
-9ef70c89-a7e9-4759-a71e-4adca64c543a,Eastern Market Brewing Company,micro,2515 Riopelle St,,,Detroit,Michigan,48207-4526,United States,,http://www.easternmarket.beer,-83.03876229,42.346625
-85c8ea1f-2db6-4ea3-9380-dcd26faa40a2,Eaton Pub & Grille Brewery / Charlotte Brewing Co,brewpub,214 S Cochran Ave,,,Charlotte,Michigan,48813-1551,United States,5175438882,http://www.eatonpub.com,-84.83579,42.549391
-497485a3-1317-450d-894b-0c079b1668b6,EB Coffee and Pub,brewpub,8980 N Rodgers Ct SE,,,Caledonia,Michigan,49316-8051,United States,6168917700,http://www.ebcoffeepub.com,-85.50839333,42.80145682
+9ef70c89-a7e9-4759-a71e-4adca64c543a,Eastern Market Brewing Co,taproom,2515 Riopelle St,,,Detroit,Michigan,48207-4526,United States,,http://www.easternmarket.beer,-83.038884,42.346674
+9efd735a-ef18-49e8-85bf-5d48dedbe88c,Eastern Market Brewing Company - Ferndale Project,brewpub,567 Livernois,,,Ferndale,Michigan,48220,United States,2485565512,http://www.ferndaleproject.com,-83.142987,42.450571
+85c8ea1f-2db6-4ea3-9380-dcd26faa40a2,Eaton Pub & Grille Brewery / Charlotte Brewing Co,brewpub,214 S Cochran Ave,,,Charlotte,Michigan,48813-1551,United States,5175438882,http://www.eatonpub.com,-84.836265,42.562019
+497485a3-1317-450d-894b-0c079b1668b6,EB Coffee and Pub,brewpub,8980 N Rodgers Ct SE,,,Caledonia,Michigan,49316-8051,United States,6168917700,http://www.ebcoffeepub.com,-85.507822,42.801579
 84e0a77b-3442-442d-a275-8f8135620905,Edelbrau Brewing Company,planning,,,,Ann Arbor,Michigan,48108-3393,United States,7347075184,http://www.edelbrau.com,,
 a89d6a63-9639-405f-b783-c6dd4c5fbab0,Elk Brewing Co,brewpub,400 Dodge Rd NE,,,Comstock Park,Michigan,49321-8041,United States,6162385227,,,
 ce34c0ef-c2ae-4f78-a4ee-de33c58c1744,Elk Brewing Co,brewpub,700 Wealthy St SE,,,Grand Rapids,Michigan,49503-5539,United States,6162385227,http://www.elkbrewing.com,-85.6515221,42.9554463
-33420b64-b564-4d19-b134-364a4721e50f,Elk Street Brewery,brewpub,3 S Elk St,,,Sandusky,Michigan,48471-1353,United States,8103008049,http://www.elkstreetbrewery.com,-82.82977088,43.42036406
-818be285-2a92-49d5-8164-6ab9c058d1ec,Ellison Brewery & Spirits,micro,4903 Dawn Ave,,,East Lansing,Michigan,48823-5610,United States,5172035498,http://www.ellisonbrewing.com,,
-b8b99a39-f008-4bde-9824-c5aaf4ba6b61,Eternity Brewing Co,micro,4060 E Grand River Ave,,,Howell,Michigan,48843-8583,United States,5172954904,http://www.eternitybrewing.com,-83.9948055,42.63273017
+33420b64-b564-4d19-b134-364a4721e50f,Elk Street Brewery & Tap Room LLC,brewpub,3 S Elk St,,,Sandusky,Michigan,48471-1353,United States,8102697556,,-82.829586,43.421202
+818be285-2a92-49d5-8164-6ab9c058d1ec,Ellison Brewery & Spirits,micro,4903 Dawn Ave,,,East Lansing,Michigan,48823-5610,United States,5172035498,http://www.ellisonbrewing.com,-84.451658,42.724088
+03823a93-0242-4ba7-81e2-b49a761fa63f,Ellison Brewing Co. - Reo Town Lansing,brewpub,1314 S Washington,,,Lansing,Michigan,48910,United States,,,-84.55315,42.718874
+a69889e3-288e-474e-9067-c01f5961d694,Erratic Ale Co.,taproom,8080 Grand St,,,Dexter,Michigan,48130,United States,7345456913,http://www.erraticale.com,-83.890449,42.335884
+b8b99a39-f008-4bde-9824-c5aaf4ba6b61,Eternity Brewing Co,taproom,4060 E Grand River Ave,,,Howell,Michigan,48843-8583,United States,5172954904,http://www.eternitybrewing.com,-83.8726,42.586089
 9e2133f8-4aba-4b9b-830f-13f9c3626c44,Exferimentation Brewing Company,micro,7 N Saginaw St,,,Pontiac,Michigan,48342-2182,United States,2486481377,http://www.exferimentationbrewing.com,-83.292346,42.6369922
 e986a09e-8f49-456c-b9dc-950b744484d4,Falling Down Beer Co.,brewpub,2270 E 10 Mile Rd,,,Warren,Michigan,48091-3701,United States,,,-82.9805361,42.4787048
+2ae237f9-8285-45a4-80d9-20ceb9fdd07c,Farm Club,brewpub,10051 S. Lake Leelanau Dr,,,Traverse City,Michigan,49684,United States,,http://www.farmclubtc.com,-85.689716,44.835
 b2a43962-9a78-4e6d-882c-d3cb13129327,Farmington Brewing Company LLC,micro,33336 Grand River Ave,,,Farmington,Michigan,48336-3124,United States,2489579543,http://fbcbrewing.com,-83.37603742,42.4649541
 6cbd8d7c-b5af-4eda-802c-550643b62d42,Farmington Underground Canning and Kegging,micro,,,,Farmington,Michigan,48336,United States,,,,
-2a824990-9f77-4b8a-ae7b-76aba05c5504,Fenton Winery & Brewery,brewpub,1370 N Long Lake Rd,,,Fenton,Michigan,48430-8867,United States,8103734194,http://www.fentonwinery.com,-83.70470876,42.85155557
+6f042dc3-2e76-4cac-a9cb-5f7725dcca50,Farmington Underground Canning and Kegging,micro,33336 Grand River Ave.,,,Farmington,Michigan,48336,United States,,,-83.375795,42.464779
+2a824990-9f77-4b8a-ae7b-76aba05c5504,Fenton Winery & Brewery,taproom,1370 N Long Lake Rd,,,Fenton,Michigan,48430-8867,United States,8103734194,http://www.fentonwinery.com,-83.703335,42.851972
 d57db05d-f227-458d-b3cd-10fc76c182f1,Fetch Brewing Co,micro,100 W Colby St,,,Whitehall,Michigan,49461-1015,United States,2312157168,http://www.fetchbrewing.com,-86.3494848,43.4097727
 c3a96041-0f74-4538-9daf-a8eb7594fd5f,Fife Lake Brewery,planning,,,,Fife Lake,Michigan,49633-9319,United States,2313926757,,,
-5913b262-fbb5-4279-b50f-24843d149b94,Fillmore 13 Brewery,brewpub,7 N Saginaw St,,,Pontiac,Michigan,48342-2182,United States,2489773972,http://www.fillmore13brewery.com,-83.292346,42.6369922
+5913b262-fbb5-4279-b50f-24843d149b94,Fillmore 13 Brewery,brewpub,7 N Saginaw St,,,Pontiac,Michigan,48342-2182,United States,2489773972,http://www.fillmore13brewery.com,-83.292205,42.636936
 10ea014e-22e8-4c4f-b988-9a46e656c1d7,Final Gravity Brewing Co,brewpub,103 N Phelps St,,,Decatur,Michigan,49045-1008,United States,2694368052,http://www.finalgravitybrew.com,-85.97454749,42.10876694
+cb439091-9de6-4748-bbe3-3eb08b44a90a,Final Gravity Brewing Co,brewpub,103 N Phelps St,,,Decatur,Michigan,49045-1008,United States,2694368052,http://www.finalgravitybrew.com,-85.974752,42.10874
 7bb60663-b700-4b29-80fd-f196f5c33c9d,Final Gravity Brewing Company,planning,,,,Decatur,Michigan,49045-1118,United States,,http://www.finalgravitybrew.com,,
-493075c7-501d-4e01-ad6d-75308f0db95f,Final Gravity Brewing Company,micro,246 N Burdick St,,,Kalamazoo,Michigan,49007-3828,United States,,http://www.finalgravitybrew.com,-85.58315888,42.29324471
+493075c7-501d-4e01-ad6d-75308f0db95f,Final Gravity Brewing Company,micro,246 N Burdick St,,,Kalamazoo,Michigan,49007-3828,United States,,http://www.finalgravitybrew.com,-85.583115,42.293323
 b3fe866f-48ce-49d1-bae3-abfa6326047f,Fireside Brewing Co.,micro,430 W 17th St Ste 27,,,Holland,Michigan,49423-3403,United States,6162943777,,,
+f1eeb7ac-d877-4f64-8927-aa35b7847fc4,Five Shores Brewing,brewpub,163 S. Benzie Blvd,,,Beulah,Michigan,49617,United States,2319943986,http://FiveShoresBrewing.com,-86.093931,44.629415
+0d0cc2fb-1a52-4ab6-baab-010ce9d8ce45,Five Sons Brewing,taproom,236 Main St,,,Marenisco,Michigan,49947,United States,9067872000,,-89.696859,46.380291
+db77fbf5-1bc0-4711-972c-c184a95c34b4,Flat River Brewing,brewpub,300 W Greenville West Dr,,,Greenville,Michigan,48838,United States,6162322447,http://www.flatriverbrewingco.com,-85.25671,43.192751
 06246179-ac7f-4884-b36f-13f36391e284,Fort Street Brewery,brewpub,1660 Fort St,,,Lincoln Park,Michigan,48146-1909,United States,3133899620,http://www.fortstreetbeer.com,-83.17610229,42.25215845
 195e9808-a949-4f43-ad81-c6da0529fc96,Founders Brewing Co,regional,456 Charlotte St,,,Detroit,Michigan,48201-2640,United States,,,-83.0605729,42.34299565
 e4da6e5d-1e64-4701-ab21-786b0f3a1ff4,Founders Brewing Co,regional,235 Grandville Ave SW,,,Grand Rapids,Michigan,49503-4037,United States,6167761195,http://www.foundersbrewing.com,-85.6765753,42.9524964
 687105f2-ab5e-41b4-adad-73daabd7c087,Founders Brewing Production Facility,regional,900 Hynes Ave SW,,,Grand Rapids,Michigan,49507-1085,United States,,,-85.67523323,42.94662234
-2969ce00-5f8d-4687-aa79-31a003b8b5f7,Fountain Hill Brewery,brewpub,151 Fountain St NE,,,Grand Rapids,Michigan,49503-3263,United States,6162343690,,-85.664754,42.965489
-cd99ac7a-641c-4293-9e5e-fb8b37e3ff0d,Four Leaf Brewing,brewpub,412 N McEwan St,,,Clare,Michigan,48617-1403,United States,9894246114,http://www.fourleafcraftbeer.com,-84.7683591,43.8256884
-50c4067b-c763-454f-81ed-7f8fdff2ed56,Frankenmuth Brewing Co,micro,425 S Main St,,,Frankenmuth,Michigan,48734-1615,United States,2489309440,http://www.frankenmuthbrewery.com,-83.73929404,43.32893336
+2969ce00-5f8d-4687-aa79-31a003b8b5f7,Fountain Hill Brewery,taproom,151 Fountain St NE,,,Grand Rapids,Michigan,49503-3263,United States,6162343690,,-85.663889,42.965954
+04947671-1b09-4a1b-af3c-c8454c1d0993,Four Keys Brewing,taproom,133 S. Lane St.,,,Blissfield,Michigan,49228,United States,5176053400,http://www.starlingloungemi.com/four-keys-brewing,-83.8629,41.831561
+cd99ac7a-641c-4293-9e5e-fb8b37e3ff0d,Four Leaf Brewing,brewpub,412 N McEwan St,,,Clare,Michigan,48617-1403,United States,9894246114,http://www.fourleafcraftbeer.com,-84.767845,43.818329
+50c4067b-c763-454f-81ed-7f8fdff2ed56,Frankenmuth Brewing Co,micro,425 S Main St,,,Frankenmuth,Michigan,48734-1615,United States,2487035404,http://www.frankenmuthbrewery.com,-83.738069,43.331293
+2807f769-4561-432d-9381-132d0b74e574,Fresh Coast Beer Works,taproom,120 Park St,,,Traverse City,Michigan,49684,United States,2319432016,http://www.fcbeerworks.com,-85.677958,44.685676
 6674fe33-f3c4-499e-ae89-41735f7dc72b,Gallery Brewery,brewpub,143 Kent St,,,Portland,Michigan,48875-1456,United States,5175269060,http://www.thegallerybrewery.com,-84.90284271,42.86985871
 537b5242-7341-43e4-bab7-5a31b4b2ee23,Ghost Isle Brewing Company,planning,,,,New Buffalo,Michigan,49117,United States,2195611219,,,
-5b22de55-7a06-4584-9424-a838f1b8481b,Glass Creek Winery,micro,450 N Whitmore Rd,,,Hastings,Michigan,49058-9791,United States,2699482752,http://www.glasscreekwinery.com,,
+42b50181-6b15-458c-b39f-85eb76bb7808,Ghost Isle Brewing Company,brewpub,17684 US Highway 12,,,New Buffalo,Michigan,49117-9714,United States,2694699069,,-86.727743,41.799246
+5b22de55-7a06-4584-9424-a838f1b8481b,Glass Creek Winery,taproom,450 N Whitmore Rd,,,Hastings,Michigan,49058-9791,United States,2699482752,http://www.glasscreekwinery.com,-85.40741,42.66985
 4c381866-9fca-4612-91e9-bb8294374386,Gonzo's BigDogg Brewery,brewpub,140 S Westnedge Ave,,,Kalamazoo,Michigan,49007-4600,United States,2693822739,http://www.gonzosbiggdoggbrewing.com,-85.59008261,42.2908852
-078de717-a4b4-459a-adb9-192533be58d9,Grand Armory Brewing Co,micro,17 S 2nd St,,,Grand Haven,Michigan,49417-3328,United States,6164147822,http://www.grandarmorybrewing.com,-86.2312558,43.06378759
+078de717-a4b4-459a-adb9-192533be58d9,Grand Armory Brewing Co,micro,17 S 2nd St,,,Grand Haven,Michigan,49417-3328,United States,6164147822,http://www.grandarmorybrewing.com,-86.231684,43.063379
 37250bc7-8131-4fa7-a203-51297a45dd20,Grand Armory Brewing Production Facility,micro,1734 Airpark Dr,,,Grand Haven,Michigan,49417-8943,United States,3106978958,,-86.19774282,43.03862147
 6f3036b7-a9a3-491f-891a-d937c05e5d79,Grand Rapids Brewing Company,brewpub,1 Ionia Ave SW Ste 100,,,Grand Rapids,Michigan,49503-5122,United States,6164587000,http://www.grbrewingcompany.com,,
-6be94240-b669-4729-839a-6828321f7566,Grand River Brewery,brewpub,117 W Louis Glick Hwy,,,Jackson,Michigan,49201-1327,United States,5179622427,http://www.grandrivermarketplace.com,-84.406597,42.249334
+a30e7658-075b-4296-917c-a133f6bd2d35,Grand Rapids Brewing Company,brewpub,1 Ionia Ave SW,,,Grand Rapids,Michigan,49503,United States,6164587000,http://grbrewingcompany.com,-85.670588,42.963061
+6be94240-b669-4729-839a-6828321f7566,Grand River Brewery,brewpub,117 W Louis Glick Hwy,,,Jackson,Michigan,49201-1327,United States,5179622427,http://www.grandriverbrewery.com,-84.407157,42.249018
 edc4a449-22c1-46c0-a70a-31b347140ed6,Grand River Brewery,planning,,,,Marshall,Michigan,49068-1521,United States,,,,
-75074a28-7aff-4047-bebc-b93e2cf17ffd,Grande Mere Inn / Cranberry Bog Bar,brewpub,5800 Red Arrow Hwy,,,Stevensville,Michigan,49127-1118,United States,2694293591,http://www.grandemereinn.com,-86.5287857,42.01274111
+1f48447d-7241-4284-863c-8878553935e2,Grand River Brewery,brewpub,101 W Michigan Ave,,,Marshall,Michigan,49068-1521,United States,,,-84.958972,42.271751
+6a4adcc1-b314-4118-a3d2-33b015cf14a7,Grand Traverse Brewing Company,micro,"1974 Cass-Hartman Ct., Suite C",,,Traverse City,Michigan,49685,United States,5419771580,http://www.gtbeer.com,-85.623582,44.714729
+75074a28-7aff-4047-bebc-b93e2cf17ffd,Grande Mere Inn / Cranberry Bog Bar,brewpub,5800 Red Arrow Hwy,,,Stevensville,Michigan,49127-1118,United States,2694293591,http://www.grandemereinn.com,-86.529174,42.012465
 6e254f25-f604-465e-96ed-5e995ad04059,Granite City Food & Brewery,brewpub,100 Renaissance Ctr,,,Detroit,Michigan,48243-1114,United States,,,-83.04053931,42.32916295
-eb977cf8-8cf8-4c2d-8017-8eea84379ed5,Granite City Food & Brewery (#28),brewpub,699 W Big Beaver Rd,,,Troy,Michigan,48084-4920,United States,2485191040,http://www.gcfb.com,-83.1616138,42.56225169
-dffebed5-2cdf-4cfc-931e-9362d79864e9,Granite City Food & Brewery (#32),brewpub,39603 Traditions Dr,,,Northville,Michigan,48168-9496,United States,2486623400,http://www.gcfb.net,,
-283bb159-494a-47b1-a58b-0229bbcb4891,Gravel Bottom Craft Brewery,micro,452 Ada Dr SE,,,Ada,Michigan,49301,United States,6169207398,http://www.gravelbottom.com,-85.4857858,42.955144
-a92779ca-47e3-4b0b-ab0a-59050ebac620,Great Baraboo Brewing Co,brewpub,35905 Utica Rd,,,Clinton Township,Michigan,48035-2155,United States,5867927397,http://www.greatbaraboo.com,-82.96514018,42.56028034
+eb977cf8-8cf8-4c2d-8017-8eea84379ed5,Granite City Food & Brewery (#28),brewpub,699 W Big Beaver Rd,,,Troy,Michigan,48084-4920,United States,2485191040,http://www.gcfb.com,-83.161073,42.561439
+dffebed5-2cdf-4cfc-931e-9362d79864e9,Granite City Food & Brewery (#32),brewpub,39603 Traditions Dr,,,Northville,Michigan,48168-9496,United States,2486623400,http://www.gcfb.net,-83.435892,42.422784
+283bb159-494a-47b1-a58b-0229bbcb4891,Gravel Bottom Craft Brewery,brewpub,452 Ada Dr SE,,,Ada,Michigan,49301,United States,6169207398,http://www.gravelbottom.com,-85.484084,42.955252
+44c06140-ad1d-4876-afa4-ab8db4628e30,Gravel Capital Brewing,taproom,14 N Washington St,,,Oxford,Michigan,48371,United States,2485724522,http://www.gravelcapital.com,-83.264903,42.825307
+a92779ca-47e3-4b0b-ab0a-59050ebac620,Great Baraboo Brewing Co,brewpub,35905 Utica Rd,,,Clinton Township,Michigan,48035-2155,United States,5867927397,http://www.greatbaraboo.com,-82.965711,42.560318
 20230888-8096-4466-8d22-29d016781c9c,"Great Legs Winery, Brewery, and Distillery",micro,332 E Lakewood Blvd,,,Holland,Michigan,49424-3306,United States,6169169729,http://www.greatlegswinery.com,,
+4aed118e-0f57-47a3-9ade-67c4478b23a8,Great White Buffalo Brewing Company,taproom,101 West Main Street,,,Northville,Michigan,48167,United States,3133184116,,-83.483359,42.430933
 7eda7b52-0edb-46d1-ab98-6a6fb5a00855,Green Bird Cellars and Organic Farms,micro,9825 E Engles Rd,,,Northport,Michigan,49670-9408,United States,2313865636,http://www.greenbirdcellars.com,,
-aca6e2d8-e3b8-4a29-b77b-f5d91b3179dc,Greenbush Annex,micro,5870 Sawyer Rd,,,Sawyer,Michigan,49125,United States,,,-86.59404729,41.88540971
-295e2956-574d-4cf1-a472-2df77d81bbc3,Greenbush Brewing Co,micro,5885 Sawyer Rd,,,Sawyer,Michigan,49125-9380,United States,2694051076,http://greenbushbrewing.com,-86.59431314,41.88557686
-54b5f341-23dd-4c5d-bae9-15c0327c53fe,Greyline Brewing,brewpub,1727 Alpine Ave NW,,,Grand Rapids,Michigan,49504-,United States,6168213786,,-85.68843549,42.99474375
-b421957f-cf1e-4a49-a263-3452c9e1cd61,Griffin Claw Brewing Co,micro,575 S Eton St,,,Birmingham,Michigan,48009-6824,United States,,http://www.griffinclawbrewingcompany.com,-83.19546429,42.5434572
-91361172-9875-4337-8a10-e12765e47071,Grizzly Peak Brewing Co,brewpub,120 W Washington St Ste 1,,,Ann Arbor,Michigan,48104-1356,United States,7347417325,http://www.grizzlypeak.net,,
+aca6e2d8-e3b8-4a29-b77b-f5d91b3179dc,Greenbush Annex,micro,5870 Sawyer Rd,,,Sawyer,Michigan,49125,United States,,,-86.594177,41.885361
+295e2956-574d-4cf1-a472-2df77d81bbc3,Greenbush Brewing Co,micro,5885 Sawyer Rd,,,Sawyer,Michigan,49125-9380,United States,2694051076,http://greenbushbrewing.com,-86.594462,41.885919
+54b5f341-23dd-4c5d-bae9-15c0327c53fe,Greyline Brewing,brewpub,1727 Alpine Ave NW,,,Grand Rapids,Michigan,49504,United States,616.821.3786,,-85.688707,42.995206
+b421957f-cf1e-4a49-a263-3452c9e1cd61,Griffin Claw Brewing Co,micro,575 S Eton St,,,Birmingham,Michigan,48009-6824,United States,,http://www.griffinclawbrewingcompany.com,-83.195043,42.543374
+5b90e43f-b4e8-43b4-ba20-397ce3c24d76,Griffin Claw Brewing Co. - Think Tank,micro,2273 Crooks Rd,,,Rochester Hills,Michigan,48309,United States,2487124050,http://www.griffinclawbrewingcompany.com,-83.169854,42.647213
+91361172-9875-4337-8a10-e12765e47071,Grizzly Peak Brewing Co,brewpub,120 W Washington St Ste 1,,,Ann Arbor,Michigan,48104-1356,United States,7347417325,http://www.grizzlypeak.net,-83.749412,42.280721
 c67959ff-a884-4d4a-be84-a194b410b969,Guardian Brewing Company,planning,,,,Saugatuck,Michigan,49453,United States,8125213611,http://www.guardianbrewingco.com,,
-063bdb40-056e-489a-b952-0746b4b9e512,Harmony Brewing Co,brewpub,1551 Lake Dr SE,,,Grand Rapids,Michigan,49506-2705,United States,6162330063,,-85.63066846,42.95501346
-a3bd0375-cc0f-48cf-82f9-48151f0c411b,Harmony Brewing Company - Harmony Hall,brewpub,401 Stocking Ave NW,,,Grand Rapids,Michigan,49504-5501,United States,,,-85.684118,42.970732
-5f945959-5237-4b15-83f7-8f8c73e4c50c,Harpers Restaurant and Brewpub,brewpub,131 Albert Ave,,,East Lansing,Michigan,48823-4315,United States,5173334040,http://www.harpersbrewpub.com,-84.48282452,42.73626665
+96e88be9-3868-4721-9f5f-78575e917ced,Handmap Brewing LLC,taproom,15 Carlyle Street,,,Battle Creek,Michigan,49017,United States,7738606813,http://www.handmapbrewing.com,-85.186207,42.322041
+42768a03-ffee-4021-9121-e9cd5367851c,Harbor Light Brewery,taproom,516 Phoenix St,,,South Haven,Michigan,49090,United States,6162917732,http://www.harborlightbrewing.com,-86.273294,42.402872
+063bdb40-056e-489a-b952-0746b4b9e512,Harmony Brewing Co,brewpub,1551 Lake Dr SE,,,Grand Rapids,Michigan,49506-2705,United States,6162330063,,-85.630875,42.955266
+a3bd0375-cc0f-48cf-82f9-48151f0c411b,Harmony Brewing Company - Harmony Hall,brewpub,401 Stocking Ave NW,,,Grand Rapids,Michigan,49504-5501,United States,,,-85.684658,42.970933
+5f945959-5237-4b15-83f7-8f8c73e4c50c,Harpers Restaurant and Brewpub,brewpub,131 Albert Ave,,,East Lansing,Michigan,48823-4315,United States,5173334040,http://www.harpersbrewpub.com,-84.482716,42.736291
 8d425e76-0127-4b57-9ddf-b9be4b6ab068,Harsens Island Beer Co.,brewpub,808 Gratiot Blvd,,,Marysville,Michigan,48040-1127,United States,,,-82.47149301,42.92247389
+62fb470a-05d9-4050-b263-2626e7f8c54f,Hartland Brewing Company,brewpub,1836 Old US 23,,,Howell,Michigan,48843,United States,8107469141,http://www.hartlandbrewco.com,-83.752719,42.631511
 541b415e-b1ff-4b39-8af8-6a5b7dd6f27b,HawkPeak Brewing Company DBA Grand Haven Brew House,brewpub,101 Washington Ave # 2B,,,Grand Haven,Michigan,49417-1302,United States,6166072060,http://www.grandhavenbrewhouse.com,,
-3b737ad4-2770-48e6-8897-644fa1886e7a,Haymarket Brewery and Taproom,micro,9301 Red Arrow Hwy,,,Bridgman,Michigan,49106-9558,United States,3126380707,,-86.55947806,41.94715363
-c8d6c8d2-8e70-4e37-9e97-7311e04b396d,Heavenly Vineyards,micro,15946 Jefferson Rd,,,Morley,Michigan,49336-9705,United States,6167102751,http://heavenlyvineyards.weebly.com,-85.463503,43.489827
-35f260d2-ead8-45da-8f9a-136c9ebf62d1,Hereford and Hops Steakhouse and Brewpub,brewpub,624 Ludington St,,,Escanaba,Michigan,49829-3844,United States,9067891945,http://www.herefordandhops.com,-87.0564571,45.7458964
+3b737ad4-2770-48e6-8897-644fa1886e7a,Haymarket Brewery and Taproom,taproom,9301 Red Arrow Hwy,,,Bridgman,Michigan,49106-9558,United States,3126380707,,-86.555708,41.948212
+c8d6c8d2-8e70-4e37-9e97-7311e04b396d,Heavenly Vineyards,taproom,15946 Jefferson Rd,,,Morley,Michigan,49336-9705,United States,6167102751,http://heavenlyvineyards.weebly.com,-85.401512,43.490627
+35f260d2-ead8-45da-8f9a-136c9ebf62d1,Hereford and Hops Steakhouse and Brewpub,brewpub,624 Ludington St,,,Escanaba,Michigan,49829-3844,United States,9067891945,http://www.herefordandhops.com,-87.053915,45.745861
 0cb8a74d-bea4-4fcd-8b90-dbdcbe5b0657,Hideout Brewing Co,brewpub,3113 Plaza Dr NE,,,Grand Rapids,Michigan,49525-2901,United States,6163619658,http://www.hideoutbrewing.com,,
-987c6bc6-0a4b-4536-856a-e8be22d544b5,Hillsdale Brewing Company,brewpub,25 Hillsdale St,,,Hillsdale,Michigan,49242-1208,United States,5172128182,,-84.63154725,41.92470888
-3bc09d93-e165-4c5a-81ee-9228b5e3d54d,HomeGrown Brewing Company,brewpub,28 N Washington St,,,Oxford,Michigan,48371-4665,United States,2488918290,http://www.homegrownbrewco.com,-83.26650386,42.82656071
-bf32b0e2-4258-4f4a-9b72-744d0582034c,HOMES Brewery,brewpub,2321 Jackson Ave,,,Ann Arbor,Michigan,48103-3814,United States,7349546637,http://www.homesbrewery.com,-83.77845211,42.28032635
+987c6bc6-0a4b-4536-856a-e8be22d544b5,Hillsdale Brewing Company,brewpub,25 Hillsdale St,,,Hillsdale,Michigan,49242-1208,United States,5172128182,,-84.631384,41.92372
+3bc09d93-e165-4c5a-81ee-9228b5e3d54d,HomeGrown Brewing Company,brewpub,28 N Washington St,,,Oxford,Michigan,48371-4665,United States,2488918290,http://www.homegrownbrewco.com,-83.265262,42.825629
+bf32b0e2-4258-4f4a-9b72-744d0582034c,HOMES Brewery,brewpub,2321 Jackson Ave,,,Ann Arbor,Michigan,48103-3814,United States,7349546637,http://www.homesbrewery.com,-83.778446,42.280025
+ff0bd17b-582a-4211-bcd9-bc0ed42c0858,HOMES Campus,brewpub,112 Jackson Plaza,,,Ann Arbor,Michigan,48103,United States,7349546637,,-83.803082,42.282992
 f64883a1-c4ee-475b-8ab1-629af24daf85,Hometown Cellars Winery & Brewery,micro,108 E Center St Ste D,,,Ithaca,Michigan,48847-1453,United States,9898756010,http://www.hometowncellars.com,,
 ff207d8f-3e3f-4e00-b29e-316b89314d2c,"Hop Head Farms Brewing, LLC",planning,,,,Baroda,Michigan,49101-9351,United States,,,,
-afc8e516-fcfa-4911-918b-176ff208914e,Hop Lot Brewing Co.,brewpub,658 S West Bay Shore Dr,,,Suttons Bay,Michigan,49682-9587,United States,2318664445,http://www.hoplotbrewing.com,,
+048f4ab9-efa0-461b-8094-5a38f2f71cbf,Hop Hog Backyard Brewpub,brewpub,1310 W Washington,,,Greenville,Michigan,48838,United States,6167126226,http://www.hop-hog.com,-85.272963,43.17779
+afc8e516-fcfa-4911-918b-176ff208914e,Hop Lot Brewing Co.,brewpub,658 S West Bay Shore Dr,,,Suttons Bay,Michigan,49682-9587,United States,2318664445,http://www.hoplotbrewing.com,-85.648224,44.967862
 6b30dd4f-8617-411a-87c7-d6feb2239201,Hopcat,brewpub,25 Ionia Ave SW Ste 100,,,Grand Rapids,Michigan,49503-4179,United States,6164514677,http://www.hopcat.com,,
+71684f70-909a-4ff2-b71f-1c6be6bbaa2a,Hopland Brewstillery,taproom,977 Butternut Dr Ste 4,,,Holland,Michigan,49424,United States,6165461313,http://www.hoplandbrewstillery.com,-86.135142,42.82814
 efd73076-9808-46b8-8a58-c490fca726df,"Hops, Bitters, And Mash",planning,,,,Allen Park,Michigan,48101-2539,United States,,,,
 6efacac4-73ee-4c49-8ef1-bf8cd03fb072,"Howell's MainStreet Winery, Brewery & Pizzeria",brewpub,201 W Grand River Ave,,,Howell,Michigan,48843-2238,United States,5175459463,http://www.howellsmainstreetwinery.com,-83.93080102,42.60768396
+30ecfa27-7f2a-4d36-888f-c15f9692a033,HUCO Brew Co.,brewpub,2212 E Main St,,,Ubly,Michigan,48475,United States,9896582643,,-82.931461,43.709849
 a488e5b0-f8ac-43b0-9851-e9c21b10568d,Hunter's Ale House,brewpub,4855 E Blue Grass Rd,,,Mount Pleasant,Michigan,48858-7527,United States,9897792626,,,
-45076e61-0e44-46f4-a85b-58ad50988a2b,Ironbark Brewery,micro,2610 Kibby Rd,,,Jackson,Michigan,49203-4908,United States,5177487988,,-84.43762976,42.2188971
-a6a00d6b-d6f2-42c1-8810-6709a1a064be,Jaden James Brewery @ The Cascade Winery,brewpub,4665 Broadmoor Ave SE Ste 135,,,Grand Rapids,Michigan,49512-5387,United States,6166564665,http://jadenjamesbrewery.com,-85.583194,42.909899
-9c26b2c6-1017-4c43-876b-17f7a0d1afa5,Jamesport Brewing Co,brewpub,410 S James St,,,Ludington,Michigan,49431-2159,United States,2318452522,http://www.jamesportbrewingcompany.com,-86.44787302,43.95168567
-f5951169-a180-4970-aa22-28c534adf3a5,Jamex Brewing Co,micro,21721 Harper Ave,,,Saint Clair Shores,Michigan,48080-2213,United States,5869442030,http://www.jamexbrewing.com,-82.8986171,42.5171113
-bc25a7f0-db79-4f7c-b405-dbf468b39443,Jasper Ridge Brewing Co,brewpub,1075 Country Ln Ste 100,,,Ishpeming,Michigan,49849-3402,United States,9064856017,http://www.countryvillageresort.com/httpdocs/html/brewery.html,-87.6791485,46.50148242
-6edc70c0-9b5a-4ab6-8b2f-0d2b1e46e2bb,Jolly Pumpkin Artisan Ales,micro,2319 Bishop Cir E,,,Dexter,Michigan,48130-1567,United States,7344264962,http://www.jollypumpkin.com,-83.87683682,42.32487277
-fc6aa7bd-8e48-4ff6-814d-ee16cfa86fc5,Jolly Pumpkin Cafe and Brewery,brewpub,311 S Main St,,,Ann Arbor,Michigan,48104-2107,United States,7349132730,http://www.jollypumpkin.com,-83.7484551,42.2791598
-d35177e2-9b5b-4677-b05f-860a1a3b48e4,Jolly Pumpkin Pizzeria and Brewery,brewpub,428 Bridge St NW,,,Grand Rapids,Michigan,49504,United States,6164194676,,-85.6800865,42.970511
+794e4669-40da-4121-b92a-7e4b7d56af20,Hunter's Handmade Brewery,micro,4855 E Blue Grass Rd,,,Mount Pleasant,Michigan,48858-7527,United States,9897792626,,-84.750252,43.575498
+14a61ec3-1379-4bee-b75a-4f678fb93748,Innovation Beerworks,brewpub,9264 W Saginaw,,,Richville,Michigan,48758,United States,9898632016,http://www.innovationbeerworks.com,-83.6772,43.4091
+45076e61-0e44-46f4-a85b-58ad50988a2b,Ironbark Brewery,taproom,2610 Kibby Rd,,,Jackson,Michigan,49203-4908,United States,5177487988,,-84.438004,42.218588
+a6a00d6b-d6f2-42c1-8810-6709a1a064be,Jaden James Brewery @ The Cascade Winery,micro,4665 Broadmoor Ave SE Ste 135,,,Grand Rapids,Michigan,49512-5387,United States,6166564665,http://jadenjamesbrewery.com,-85.562318,42.879266
+9c26b2c6-1017-4c43-876b-17f7a0d1afa5,Jamesport Brewing Co,brewpub,410 S James St,,,Ludington,Michigan,49431-2159,United States,2318452522,http://www.jamesportbrewingcompany.com,-86.447996,43.952219
+f5951169-a180-4970-aa22-28c534adf3a5,Jamex Brewing Co,taproom,21721 Harper Ave,,,Saint Clair Shores,Michigan,48080-2213,United States,5869442030,http://www.jamexbrewing.com,-82.912674,42.456464
+bc25a7f0-db79-4f7c-b405-dbf468b39443,Jasper Ridge Brewing Co,brewpub,1075 Country Ln Ste 100,,,Ishpeming,Michigan,49849-3402,United States,9064856017,http://www.countryvillageresort.com/httpdocs/html/brewery.html,-87.679239,46.50106
+6edc70c0-9b5a-4ab6-8b2f-0d2b1e46e2bb,Jolly Pumpkin Artisan Ales,micro,2319 Bishop Cir E,,,Dexter,Michigan,48130-1567,United States,7347929102,http://www.jollypumpkin.com,-83.879213,42.323729
+ad656511-7b20-42c3-ac1e-21b05b1402d8,Jolly Pumpkin Cafe & Brewery,brewpub,218 Albert Ave,,,East Lansing,Michigan,48823,United States,5158582100,http://www.east-lansing.jollypumpkin.com,-84.482346,42.735716
+fc6aa7bd-8e48-4ff6-814d-ee16cfa86fc5,Jolly Pumpkin Cafe and Brewery,brewpub,311 S Main St,,,Ann Arbor,Michigan,48104-2107,United States,7349132730,http://www.jollypumpkin.com,-83.748247,42.279149
+d35177e2-9b5b-4677-b05f-860a1a3b48e4,Jolly Pumpkin Pizzeria and Brewery,brewpub,428 Bridge St NW,,,Grand Rapids,Michigan,49504,United States,6164194676,,-85.680202,42.970352
+6bdd9e9d-1827-4c9b-89ac-7b0950e2531c,Jolly Pumpkin Restaurant and Taphouse,micro,419 S Main ST,,,Royal Oak,Michigan,48067,United States,2485446250,,-83.143763,42.486639
 40500db9-a3c6-44b5-b7d3-b4fee71c5f48,"Jolly Pumpkin Restaurant, Brewery & Distillery",micro,13512 Peninsula Dr Old Mission Peninsula,,,Traverse City,Michigan,49686-9717,United States,2312234333,http://www.jollypumpkin.com,,
+e2a0e55c-705d-4b43-afb1-95115e4805e5,"Jolly Pumpkin Restaurant, Brewery & Distillery",micro,13512 Peninsula Dr,,,Traverse City,Michigan,49686-9717,United States,2312234333,http://www.jollypumpkin.com,-85.528802,44.886186
+3b901daf-3b83-4d79-a384-217c41452f98,Kalamazoo Valley Community College,brewpub,418 E Walnut Street,,,Kalamazoo,Michigan,49007,United States,2695483205,http://www.kvcc.edu/dining/,-85.57819,42.285696
+2f5135cc-28a4-4241-8ca6-aa83d1f3f46e,Kasteel USA LLC,alt prop,"2701 Troy Center Dr., Ste 255",,,Troy,Michigan,48084,United States,5162346499,http://www.kasteelusa.com,-83.163967,42.558811
 48d6fc6c-48a8-4e73-bb2b-6ae47c3f6361,Kelsey Block Brewing Company,brewpub,41 N Main St,,,Three Rivers,Michigan,49093-1531,United States,2697183667,http://www.kelseyblock.com,-85.63333961,41.94474661
 bfe89204-c3f6-4a97-b084-d45bd61e09c2,Keweenaw Brewing Co,micro,408 Shelden Ave,,,Houghton,Michigan,49931-2138,United States,9064825596,http://www.keweenawbrewing.com,-88.5687729,47.1219857
+ea2eab69-666d-435c-aec7-cfbf90fd311a,Keweenaw Brewing Co,taproom,408 Shelden Ave,,,Houghton,Michigan,49931-2138,United States,9064825596,http://www.keweenawbrewing.com,-88.568739,47.121999
 84d261cb-a580-4ae6-bc2d-4a95246a91e3,Keweenaw Brewing Co - Production Facility,micro,408 Shelden Ave,,,Houghton,Michigan,49931,United States,9064821937,http://www.keweenawbrewing.com,-88.5687729,47.1219857
-b5901cf4-8a11-4fac-a4e7-5297c96258a0,Kickstand Brewing Co,brewpub,3050 Union Lake Rd Ste 4A,,,Commerce Township,Michigan,48382-4543,United States,2483015941,http://www.kickstandbrewingco.com,,
+dbd07a70-6a3b-4fd0-9086-da66ea295071,Keweenaw Brewing Co - Production Facility,micro,10 4th Street,,,South Range,Michigan,49963,United States,9064821937,http://www.keweenawbrewing.com,-88.639793,47.073093
+b5901cf4-8a11-4fac-a4e7-5297c96258a0,Kickstand Brewing Co,taproom,3050 Union Lake Rd Ste 4A,,,Commerce Township,Michigan,48382-4543,United States,2483015941,http://www.kickstandbrewingco.com,-83.447124,42.590081
 32f4a19a-3950-4d44-9241-d5f02227ba08,Kitzingen Brewery,brewpub,1760 44th St SW Ste 8,,,Wyoming,Michigan,49519-6422,United States,6168055077,http://www.Kitzingen-Brewery.com,,
-7266a350-71d2-4127-b1a4-9ab430d2bc16,Kuhnhenn Brewing Co,micro,5919 Chicago Rd,,,Warren,Michigan,48092-1606,United States,5869798361,http://www.kuhnhenn.beer,-83.023691,42.523306
-1f1ed563-c408-4140-a284-fb41c5fbbe1a,Kuhnhenn Clinton Township,micro,36000 Groesbeck Hwy,,,Clinton Township,Michigan,48035-1541,United States,5862310249,,-82.91782739,42.56179646
-8a240e31-0084-4199-9c3b-ae9b40785cfa,Lake Ann Brewing Co,micro,6535 First St,,,Lake Ann,Michigan,49650-9549,United States,2316402327,http://www.lakeannbrewing.com,,
+7266a350-71d2-4127-b1a4-9ab430d2bc16,Kuhnhenn Brewing Co,micro,5919 Chicago Rd,,,Warren,Michigan,48092-1606,United States,5869798361,http://www.kuhnhenn.beer,-83.046759,42.527752
+1f1ed563-c408-4140-a284-fb41c5fbbe1a,Kuhnhenn Clinton Township,micro,36000 Groesbeck Hwy,,,Clinton Township,Michigan,48035-1541,United States,5862310249,,-82.916928,42.561889
+c082bab5-be80-416c-ba48-ccfa621943b8,Kusterer Brauhaus,taproom,642 Bridge Street NW,,,Grand Rapids,Michigan,49504,United States,,,-85.684463,42.970453
+a3a863fc-f3b2-4754-985b-107a0b1e5262,Lagerhaus No. 5,taproom,1529 Adelaide St,,,Detroit,Michigan,48207,United States,,,-83.038527,42.347591
+8a240e31-0084-4199-9c3b-ae9b40785cfa,Lake Ann Brewing Co,taproom,6535 First St,,,Lake Ann,Michigan,49650-9549,United States,2316402327,http://www.lakeannbrewing.com,-85.842831,44.724279
 dce821fa-491a-41a5-b8c3-0ae142f7e382,Lake Charlevoix Brewing Company,brewpub,111 Bridge Park Dr,,,Charlevoix,Michigan,49720-1397,United States,2314373220,http://www.lakecharlevoixbrewing.com,-85.25800112,45.31728307
 39958031-1672-4ef4-aa2f-c143a352ae05,Lake Superior Brewing Co,brewpub,N-14283 Lake Avenue,,,Grand Marais,Michigan,49839,United States,9064942337,http://www.grandmaraismichigan.com/LSBC,,
-8a3a7075-3f20-4947-b093-b685a18caf7e,Lansing Brewing Company,brewpub,518 E Shiawassee St,,,Lansing,Michigan,48912-1214,United States,5175996001,,-84.5455093,42.7368424
+1fc608b3-6f0b-4019-82b1-f4e39ec7e6df,Lake Superior Smokehouse Brewpub,brewpub,200 W Main St,,,Marquette,Michigan,49855,United States,9062730952,http://www.lakesuperiorsmokehouse.com,-87.350963,46.495108
+8a3a7075-3f20-4947-b093-b685a18caf7e,Lansing Brewing Company,brewpub,518 E Shiawassee St,,,Lansing,Michigan,48912-1214,United States,5175996001,,-84.545821,42.736737
 6eea2677-7c24-43d8-9735-53c6a1584d7a,Latitude 42,brewpub,7842 Portage Rd Attn: Scott Freitas,,,Portage,Michigan,49002-4472,United States,2694594242,http://www.latitude42brewingco.com,,
-77783d5a-bd52-4428-9425-7446f126ca5b,Lehmans Orchard Brewery and Farmhouse,brewpub,204 N Red Bud Trl,,,Buchanan,Michigan,49107-1366,United States,2693624063,http://www.lehmansfarmhouse.com,-86.35834031,41.82910596
-e8496c18-2615-4e81-a29f-ea64ea88269c,Les Cheneaux Distillers,brewpub,172 S Meridian St,,,Cedarville,Michigan,49719,United States,9064841213,http://www.lescheneauxdistillers.com,-84.36301089,45.99742724
+20fb40d9-d901-4fb2-9656-ba0c55d233c9,Latitude 42,brewpub,7842 Portage Rd,,,Portage,Michigan,49002-4472,United States,2694594242,http://www.latitude42brewingco.com,-85.560739,42.20256
+16669c2a-f891-47ac-a7b7-b126f17a18c2,Latitude 42 Oshtemo,brewpub,6101 W Main St,,,Kalamazoo,Michigan,49009,United States,2697757242,,-85.669573,42.295048
+9d873330-10b9-41ca-9f8f-b3463cca47fe,Latulip Brewing Co,micro,11858 W US-2,,,Cooks,Michigan,49817,United States,,http://www.facebook.com/latulipbrewingco,-86.483652,45.908472
+77783d5a-bd52-4428-9425-7446f126ca5b,Lehmans Orchard Brewery and Farmhouse,taproom,204 N Red Bud Trl,,,Buchanan,Michigan,49107-1366,United States,2693624063,http://www.lehmansfarmhouse.com,-86.357685,41.82888
+e8496c18-2615-4e81-a29f-ea64ea88269c,Les Cheneaux Distillers,brewpub,172 S Meridian St,,,Cedarville,Michigan,49719,United States,9064841213,http://www.lescheneauxdistillers.com,-84.363392,45.996756
 3d3c8ed5-4f99-4b44-a466-68346e35bc94,Lexington Brewing Co,brewpub,5475 Main St,,,Lexington,Michigan,48450-,United States,8103595012,http://www.lexingtonbrewery.com,-82.530867,43.2678755
 979248e5-f4cb-4077-8611-ea5b1c2a9b93,Liberty Street Brewing Co,micro,149 W Liberty St Ste 1,,,Plymouth,Michigan,48170-8001,United States,2487054171,http://www.libertystreetbeer.com,,
 06d4945e-56dd-41bf-af98-e3bf2ba4784e,Liberty Street Brewing Production Facility,micro,11721 Levan Rd,,,Livonia,Michigan,48150-1401,United States,,,-83.40169843,42.36866123
 562fa562-87ba-4a7a-8fe1-b53b4de1e24e,"Library Restaurant, Bar and Brewpub",brewpub,62 Isle Royale St,,,Houghton,Michigan,49931-1827,United States,9064875882,http://www.librarybrewpub.com,-88.56701063,47.12215913
+1b945f8e-0b30-443e-98ae-ac49bb41b601,Lily's Seafood Grill and Brewery,brewpub,410 S Washington Ave,,,Royal Oak,Michigan,48067-3824,United States,2485915459,http://www.lilysseafood.com,-83.146761,42.487097
 346bdeda-331c-44b7-b7f5-d8b22eda1dd2,Lilys Seafood Restaurant and Brewery,brewpub,410 S Washington Ave,,,Royal Oak,Michigan,48067-3824,United States,2485915459,,-83.14668688,42.487039
+75f6245f-4441-4b57-9996-99e8e45e6e43,Liquid Note Brewing,brewpub,117 East Allegan Street,,,Otsego,Michigan,49078,United States,2692076844,http://www.liquidnotebrewing.com,-85.696251,42.460659
+c8579ca8-41f8-4f02-a8da-7e11b1317b86,Loaded Dice Brewery,taproom,1725 Rochester Road,,,Troy,Michigan,48083,United States,,http://www.loadeddicebrewery.com,-83.131967,42.550455
 36a3f792-14f7-427e-9668-ed2f05cfab99,Lockside Brewery / 1668 Winery,brewpub,100 W Portage Ave,,,Sault Sainte Marie,Michigan,49783-1920,United States,9062595035,http://1668winery.com/thebeers/,-84.34705,46.500695
-cbc134e4-e2c4-45cf-add4-89435412bce8,Loggers Brewing Company,micro,1215 S River Rd,,,Saginaw,Michigan,48609-5208,United States,9894013085,http://www.loggersbrewingcompany.com,-84.05193542,43.40518225
-ae2c76cc-3dd1-4e80-8b90-ebaa1bedec19,Looking Glass Brewing Company,brewpub,115 N Bridge St,,,Dewitt,Michigan,48820-8901,United States,5175827287,http://www.facebook.com/DeWittBreweryProject/,-84.56922371,42.84243629
-14562b70-98a6-4fe4-bbac-b71fdd5c1be3,Lucky Girl Brewing Co Crossroads,brewpub,34016 M 43,,,Paw Paw,Michigan,49079-8464,United States,2696280054,http://luckygirlcrossroads.com,,
-1d395c71-54a6-4af8-a0a3-21f5946f49ee,Ludington Bay Brewing Co,brewpub,515 S James St,,,Ludington,Michigan,49431-2325,United States,2312396690,http://ludingtonbaybrewing.com,-86.44763415,43.95070214
+1e6c20bd-d405-4240-90e9-0fb4dc16940b,Loco Boys Brewing Company,brewpub,901 W Front St,,,Traverse City,Michigan,49684,United States,,http://https://www.locoboysbrewing.com/,-85.638497,44.763707
+cbc134e4-e2c4-45cf-add4-89435412bce8,Loggers Brewing Company,taproom,1215 S River Rd,,,Saginaw,Michigan,48609-5208,United States,9894013085,http://www.loggersbrewingcompany.com,-84.051304,43.40536
+ae2c76cc-3dd1-4e80-8b90-ebaa1bedec19,Looking Glass Brewing Company,brewpub,115 N Bridge St,,,Dewitt,Michigan,48820-8901,United States,5175827287,http://www.lookingglassbrewingcompany.com,-84.569548,42.842627
+14562b70-98a6-4fe4-bbac-b71fdd5c1be3,Lucky Girl Brewing Co Crossroads,micro,34016 M 43,,,Paw Paw,Michigan,49079-8464,United States,2696280054,http://luckygirlcrossroads.com,-85.879061,42.302989
+1d395c71-54a6-4af8-a0a3-21f5946f49ee,Ludington Bay Brewing Co,brewpub,515 S James St,,,Ludington,Michigan,49431-2325,United States,2312396690,http://ludingtonbaybrewing.com,-86.447586,43.950928
 51652e93-207c-47c3-8c98-dd4f1c81fd39,Lumber Barons Brewery,brewpub,804 E Midland St,,,Bay City,Michigan,48706-4953,United States,9898910100,http://www.lumberbaronsbrewery.com,,
 44349854-3a4e-41f1-be35-70dd6bbc9107,Lynchpin Beer Company / The Laundry,brewpub,115 W Shiawassee Ave,,,Fenton,Michigan,48430-2005,United States,8106298852,http://www.lunchandbeyond.com,-83.70642814,42.792852
 2ef707fa-134a-4660-8523-64c0ab830e55,Macatawa Ale Company,micro,102 S River Ave,,,Holland,Michigan,49423-2851,United States,6168487677,http://www.macatawaalecompany.com,-86.10911659,42.79223968
-9ef4af01-189b-4196-a1cf-96ed6696840e,Mackinaw Brewing Co,brewpub,161 E Front St,,,Traverse City,Michigan,49684-5779,United States,2319331100,http://www.mackinawbrewing.com,-85.62124459,44.76426455
+9ef4af01-189b-4196-a1cf-96ed6696840e,Mackinaw Brewing Co,brewpub,161 E Front St,,,Traverse City,Michigan,49684-5779,United States,2319331100,http://www.mackinawbrewing.com,-85.621233,44.764335
 42cbe82e-95a3-4fd4-8d2c-1c3b277fa533,Mackinaw Trail Brewing Company / Mackinaw Trail Winery and Brewery,micro,103 W Lakeshore Dr,,,Manistique,Michigan,49854-1579,United States,9063412303,http://www.mackinawtrailwinery.com,-86.2503664,45.9535761
+97f2ed09-2cc6-4635-b957-7f95f7293e7c,Mackinaw Trail Brewing Company / Mackinaw Trail Winery and Brewery,taproom,3423 US-131,,,Petoskey,Michigan,49770,United States,9063412303,http://www.mackinawtrailwinery.com,-84.965685,45.327732
 0e6bc707-ecba-4651-852f-45f698a1bceb,McIntosh Orchards,micro,6431 107th Ave,,,South Haven,Michigan,49090-9369,United States,7078783734,http://www.mcintoshorchards.com,,
 66ba9cf3-e15c-41c6-8f52-a38637a570a1,MDs Sports Tavern and Grill,brewpub,3040 N State Rd,,,Davison,Michigan,48423-1146,United States,8106536408,http://www.mdsportstavern.com,-83.5173133,43.05021425
-9b407952-8478-4c53-aced-81a006a1dddb,MI Brewery / Kayla Rae Cellars,micro,31 Courtland St,,,Rockford,Michigan,49341-1080,United States,6169517001,http://www.kaylaraecellars.com,,
-b43a8593-0e7e-42dd-b3f1-0c1ec9da44bf,Michigan Brewing Works,brewpub,3435 Dietz Rd,,,Williamston,Michigan,48895-9506,United States,5176557777,,,
-146870a5-aad1-4b3a-9b25-c4af2a711f1a,Midland Brewing Co,brewpub,5011 N Saginaw Road,,,Midland,Michigan,48642,United States,9892597210,http://www.midlandbrewing.com,-84.2910925,43.6408678
+3dab3633-b861-422b-9c79-d249441542c1,Meckley's Brewing Co.,brewpub,11035 S. Jackson Rd,,,Cement City,Michigan,49233,United States,5176883455,http://www.flavrofruitfarm.com,-84.404039,42.06058
+9b407952-8478-4c53-aced-81a006a1dddb,MI Brewery / Kayla Rae Cellars,taproom,31 Courtland St,,,Rockford,Michigan,49341-1080,United States,6169517001,http://www.kaylaraecellars.com,-85.560863,43.121167
+c2da7a28-8679-4595-b4cd-be9d788d62db,MI Element Grains & Grounds,regional,3124 Jefferson Ave,,,Midland,Michigan,48640,United States,9894869392,http://www.mielementgrainsgrounds.com,-84.226759,43.62782
+b43a8593-0e7e-42dd-b3f1-0c1ec9da44bf,Michigan Brewing Works,taproom,3435 Dietz Rd,,,Williamston,Michigan,48895-9506,United States,5172942280,http://www.michiganbrewing.com,-84.23008,42.684504
+6ca5ac9b-03d1-4e45-8ef5-d1fe6bac51fc,MiddleCoast Brewing Company,taproom,329 East State Street,,,Traverse City,Michigan,18966,United States,2319432739,http://www.middlecoastbrewingco.com,-85.616939,44.763241
+146870a5-aad1-4b3a-9b25-c4af2a711f1a,Midland Brewing Co,brewpub,5011 N. Saginaw Road,,,Midland,Michigan,48641,United States,9892597210,http://www.midlandbrewing.com,-84.290837,43.640698
 4958cab7-db40-4cc5-a30c-f3f6db5c47e8,Midtown Brewing Co,micro,402 S Washington Sq,,,Lansing,Michigan,48933-2172,United States,5179771349,http://www.midtownbrewingco.com,,
-85bd87d6-6db4-4bac-86d1-fc8f6d2d174c,Mishigama Craft Brewing / Ypsi Alehouse,brewpub,124 Pearl St Ste 100,,,Ypsilanti,Michigan,48197-5374,United States,7344871555,http://www.ypsialehouse.com,,
-01812623-d7f6-46db-80fa-b50dbea7db36,Mitten Brewing Co - Northport,brewpub,112 W Nagonaba St,,,Northport,Michigan,49670-5018,United States,6163182448,,-85.61801909,45.129833
-82718ba8-c506-467b-88e2-5f5b714a4999,Motor City Brewing Works,brewpub,470 W Canfield St,,,Detroit,Michigan,48201-1220,United States,3138322700,http://www.motorcitybeer.com,-83.06603733,42.3518156
-9a7bc77f-ac7d-4ed8-bb95-3f374523a01f,Motor City Brewing Works Warehouse,micro,441 W Canfield St,,,Detroit,Michigan,48201-1231,United States,,,-83.06474893,42.35151997
+85bd87d6-6db4-4bac-86d1-fc8f6d2d174c,Mishigama Craft Brewing / Ypsi Alehouse,taproom,124 Pearl St Ste 100,,,Ypsilanti,Michigan,48197-5374,United States,7344871555,http://www.ypsialehouse.com,-83.614212,42.2426
+01812623-d7f6-46db-80fa-b50dbea7db36,Mitten Brewing Co - Northport,brewpub,112 W Nagonaba St,,,Northport,Michigan,49670-5018,United States,6163182448,,-85.616738,45.130054
+74a73f43-9664-4933-97e2-53a08984097f,Mothfire Brewing Co.,micro,2290 South Industrial Highway,,,Ann Arbor,Michigan,48104,United States,7343696290,http://www.mothfire.com,-83.734401,42.253554
+82718ba8-c506-467b-88e2-5f5b714a4999,Motor City Brewing Works,brewpub,470 W Canfield St,,,Detroit,Michigan,48201-1220,United States,3138322700,http://www.motorcitybeer.com,-83.066023,42.351793
+cc6d736c-8fe9-403b-9fce-d81a98ebb962,Motor City Brewing Works - Livernois,brewpub,19350 Livernois Ave,,,Detroit,Michigan,48221,United States,,,-83.141239,42.434292
+9a7bc77f-ac7d-4ed8-bb95-3f374523a01f,Motor City Brewing Works Warehouse,micro,441 W Canfield St,,,Detroit,Michigan,48201-1231,United States,,,-83.065278,42.350998
 6e501b8a-a337-4bd2-bdb9-d22ab3e166a9,Mountain Town Brewing Co,micro,614 W Pickard St,,,Mt Pleasant,Michigan,48858-1504,United States,9894004666,http://www.mountaintownbrew.com,-84.78689552,43.61180948
-335bffa7-c0f1-4593-929c-1f80ed7ab7c6,Mountain Town Station Restaurant & Brew Pub,brewpub,506 W Broadway St,,,Mt Pleasant,Michigan,48858-2441,United States,9894004666,http://www.mountaintownbrew.com,-84.7822205,43.604568
+335bffa7-c0f1-4593-929c-1f80ed7ab7c6,Mountain Town Station Restaurant & Brew Pub,brewpub,506 W Broadway St,,,Mt Pleasant,Michigan,48858-2441,United States,9894004666,http://www.mountaintownbrew.com,-84.78175,43.605253
+c919f406-683e-4ca6-ba80-bd2c0caa3a85,Murray Street Brewing,taproom,57620 Murray St,,,Mattawan,Michigan,49071,United States,2692713775,http://www.murraystreetbrewing.com,-85.787363,42.209364
+308ff12d-8581-4ce8-a418-5549cbae6846,Nain Rouge Brewery,taproom,666 Selden St,,,Detroit,Michigan,48201,United States,,http://www.nainrougebrewery.com,-83.0659,42.347382
 c0b2baea-ccb7-4bd2-8793-9e2691a9a6ad,New Holland Brewing,planning,,,,Battle Creek,Michigan,49017,United States,,,,
-c141e061-ebed-4b52-8ab6-3b5d53955f18,New Holland Brewing Co,regional,66 E 8th St,,,Holland,Michigan,49423-3504,United States,6163556422,http://www.newhollandbrew.com,-86.10411872,42.79010355
+c141e061-ebed-4b52-8ab6-3b5d53955f18,New Holland Brewing - Pub On 8th,brewpub,66 E 8th St,,,Holland,Michigan,49423,United States,6163556422,,-86.104124,42.790026
 7228225d-87b3-450e-bb6d-838d21e0975f,New Holland Brewing Co - Production Facility,regional,690 Commerce Ct,,,Holland,Michigan,49424-2913,United States,6165102259,,,
-88c6fe70-e9aa-4658-b6d8-0b4859be19aa,New Union Brewing,micro,400 W Main St,,,Lowell,Michigan,49331-1617,United States,6163197171,http://www.newunionbrewery.com,-85.355545,42.931398
-9b0aded2-f485-490f-b527-7cf3218af77b,Newaygo Brewing Co,brewpub,19 State Rd,,,Newaygo,Michigan,49337-7951,United States,2314526551,http://www.newaygobrewing.com,-85.79585808,43.42386642
-2fe4a822-2435-4f5c-bebf-66a40909e8d4,North Center Brewing Co.,brewpub,410 N Center St,,,Northville,Michigan,48167-1224,United States,2484447967,http://www.northcenterbrewing.com,-83.48311135,42.43412107
-2983edd7-074e-4a0e-970f-6fc938c07e94,North Channel Brewing Co.,brewpub,86 Washington St,,,Manistee,Michigan,49660-1231,United States,2312991020,http://www.NorthChannelBrewing.com,-86.32379888,44.24929388
-7bfc1562-4643-4470-9f03-caaabfb82e21,North Peak Brewing Co,brewpub,400 W Front St,,,Traverse City,Michigan,49684-2800,United States,2319417325,http://www.northpeak.net,-85.6285431,44.7643155
-8e765472-33c8-4e1d-8923-20973d75e6f4,North Pier Brewing,micro,670 N Shore Dr,,,Benton Harbor,Michigan,49022-3646,United States,2697577163,http://www.northpierbrewing.com,-86.45499315,42.12454349
-a4e574c0-4323-43ac-bb45-475c32413d06,Northern Oak Brewery,brewpub,806 N Saginaw St,,,Holly,Michigan,48442-1347,United States,2486347515,http://www.northernoakbrewery.com,-83.62737964,42.80026273
-e19854be-9a28-4587-b055-90e13fcbd7fb,Northville Winery and Brewery,micro,630 Old Baseline Rd,,,Northville,Michigan,48167,United States,2483206507,,,
+88c6fe70-e9aa-4658-b6d8-0b4859be19aa,New Union Brewing,taproom,400 W Main St,,,Lowell,Michigan,49331-1617,United States,6163197171,http://www.newunionbrewery.com,-85.342127,42.933342
+9b0aded2-f485-490f-b527-7cf3218af77b,Newaygo Brewing Co,brewpub,19 State Rd,,,Newaygo,Michigan,49337-7951,United States,2314526551,http://www.newaygobrewing.com,-85.800082,43.419853
+2fe4a822-2435-4f5c-bebf-66a40909e8d4,North Center Brewing Co.,taproom,410 N Center St,,,Northville,Michigan,48167-1224,United States,2484447967,http://www.northcenterbrewing.com,-83.483026,42.434694
+2983edd7-074e-4a0e-970f-6fc938c07e94,North Channel Brewing Co.,taproom,86 Washington St,,,Manistee,Michigan,49660-1231,United States,2312991020,http://www.NorthChannelBrewing.com,-86.32381,44.249311
+ccfff4c7-a498-44da-baac-34caffbd743f,North Grove Brewers,brewpub,8735 Water St,,,Montague,Michigan,49437,United States,2318940144,http://www.northgrovebrewers.com,-86.35496,43.417406
+7bfc1562-4643-4470-9f03-caaabfb82e21,North Peak Brewing Co,brewpub,400 W Front St,,,Traverse City,Michigan,49684-2800,United States,2319417325,http://www.northpeak.net,-85.628702,44.764456
+8e765472-33c8-4e1d-8923-20973d75e6f4,North Pier Brewing,brewpub,670 N Shore Dr,,,Benton Harbor,Michigan,49022-3646,United States,2697577163,http://www.northpierbrewing.com,-86.455969,42.126329
+30512865-8c34-46bb-856c-c3ca98341974,North Pier Brewing - Production Facility,micro,725 North Shore Dr,,,Benton Harbor,Michigan,49022,United States,2697577163,,-86.455068,42.127596
+a4e574c0-4323-43ac-bb45-475c32413d06,Northern Oak Brewery,taproom,806 N Saginaw St,,,Holly,Michigan,48442-1347,United States,2486347515,http://www.northernoakbrewery.com,-83.626898,42.800352
+6c016dcc-bed9-42d1-96a6-26dbc29c6b99,Northern United Brewing Co,office only location,2319 Bishop Cir E,,,Dexter,Michigan,48130-1567,United States,7344264962,http://www.jollypumpkin.com,-83.879213,42.323729
+cf238393-5598-4886-9db1-6d305476de71,Northland Brewing Co,taproom,3798 S Straits Hwy,,,Indian River,Michigan,49749,United States,2315909248,http://www.northlandbrewing.com,-84.614586,45.407478
+e19854be-9a28-4587-b055-90e13fcbd7fb,Northville Winery and Brewery,taproom,630 Old Baseline Rd,,,Northville,Michigan,48167,United States,2483206507,,-83.4938,42.4366
 3718d688-1dab-4e58-835d-b76ed69ba1cb,Odd Side Ales,micro,41 Washington Ave Ste 160,,,Grand Haven,Michigan,49417-1392,United States,6169357326,http://www.oddsideales.com,,
-dc89cfaa-5024-46ca-b73f-ef654ed15a16,Odd Side Ales Production Facility,micro,1810 Industrial Dr,,,Grand Haven,Michigan,49417-8930,United States,,,-86.1983973,43.03124408
+2bb77657-ad88-4906-9a83-643535bece96,Odd Side Ales,micro,"41 Washington Avenue
+Suite 160",,,Grand Haven,Michigan,49417,United States,6169357326,http://jim@oddsideales.com,-86.232757,43.065035
+dc89cfaa-5024-46ca-b73f-ef654ed15a16,Odd Side Ales Production Facility,micro,1810 Industrial Dr,,,Grand Haven,Michigan,49417-8930,United States,,,-86.196389,43.031393
 9698719a-2987-488e-aa75-6b1c5ae568fc,Old Boys Brewhouse,brewpub,971 W Savidge St,,,Spring Lake,Michigan,49456-1684,United States,6168509950,http://www.oldboysbrewhouse.com,-86.21215194,43.07642829
 65c4f76c-6d0e-4e7f-a668-1e0eb8971506,Old Detroit Brewing Co,planning,,,,Bloomfield Hills,Michigan,48304-3817,United States,,,,
 fd4d4773-1ead-4f71-9f61-55cdfe620267,Old Mill Brewpub and Grill,brewpub,717 E Bridge St,,,Plainwell,Michigan,49080-1801,United States,2692046601,http://www.oldmillbrew.com,-85.63224537,42.442939
-caf2d686-872a-423f-9593-6ec537c7f13e,Old Nation Brewing Company,micro,1500 W. Grand River Ave,,,Williamston,Michigan,48895-97ND,United States,5176551301,http://www.oldnationbrewing.com,-84.2899561,42.6878555
+caf2d686-872a-423f-9593-6ec537c7f13e,Old Nation Brewing Company,regional,1500 W. Grand River Ave,,,Williamston,Michigan,48895,United States,5176551301,http://www.oldnationbrewing.com,-84.302065,42.687955
 f32515b5-61f3-4a83-9c8e-34a05734158a,Olde Peninsula Brewpub and Restaurant,brewpub,200 E Michigan Ave,,,Kalamazoo,Michigan,49007-3961,United States,2693432739,http://www.oldepeninsula.com,-85.581578,42.2916484
+70aa5097-f548-48e7-907d-e1dd128e5419,One Drop Brewing Company,taproom,130 Oakdell St,,,Oxford,Michigan,48370,United States,3039035519,http://www.onedropbrewingcompany.com,-83.254173,42.815317
 59764d11-cd2b-4d85-8e4c-a7d64cdc5754,One Well Brewing,planning,,,,Kalamazoo,Michigan,49001-5264,United States,2694599240,,,
-ea5c0b16-2adc-444c-a5c4-77c28c07a5cd,One Well Brewing,brewpub,4213 Portage St,,,Kalamazoo,Michigan,49001-5264,United States,2694599240,http://www.onewellbrewing.com,-85.5591755,42.2485915
-53744872-6d32-41fb-87a0-863dfe3d9afa,OpenRoad Brewery,brewpub,128 S Main St,,,Wayland,Michigan,49348-1209,United States,6162937855,http://www.openroadbrewing.com,-85.64331774,42.67311202
-26e42c3c-141b-4da5-848c-14c7111498bc,Oracle Brewing Company,micro,122 N Michigan Ave,,,Saginaw,Michigan,48602-4234,United States,9894017446,http://www.oraclebeer.com,-83.96401351,43.417723
-b778b875-6f29-41fc-94f9-23c09e872530,Ore Dock Brewing Co,micro,114 W Spring St,,,Marquette,Michigan,49855-4608,United States,9068675309,http://www.oredockbrewingcompany.com,-87.39388593,46.54189135
-39db40da-0ee5-465d-9a9a-38f9eb51ba09,Original Gravity Brewing Co,brewpub,440 County St,,,Milan,Michigan,48160-1504,United States,7344397490,http://www.ogbrewing.com,-83.67523597,42.083974
+ea5c0b16-2adc-444c-a5c4-77c28c07a5cd,One Well Brewing,taproom,4213 Portage St,,,Kalamazoo,Michigan,49001-5264,United States,2694599240,http://www.onewellbrewing.com,-85.560042,42.248683
+1d2f8876-b5fd-4886-ba22-daebb4d75be3,One Well Brewing Production Facility,taproom,3618 Gembrit Cir,,,Kalamazoo,Michigan,49001,United States,2694599240,,-85.536141,42.257816
+53744872-6d32-41fb-87a0-863dfe3d9afa,OpenRoad Brewery,brewpub,128 S Main St,,,Wayland,Michigan,49348-1209,United States,6162937855,http://www.openroadbrewing.com,-85.643924,42.673261
+26e42c3c-141b-4da5-848c-14c7111498bc,Oracle Brewing Company,taproom,122 N Michigan Ave,,,Saginaw,Michigan,48602-4234,United States,9894017446,http://www.oraclebeer.com,-83.963849,43.417776
+b778b875-6f29-41fc-94f9-23c09e872530,Ore Dock Brewing Co,taproom,114 W Spring St,,,Marquette,Michigan,49855-4608,United States,9062288888,http://www.oredockbrewingcompany.com,-87.394083,46.541851
+39db40da-0ee5-465d-9a9a-38f9eb51ba09,Original Gravity Brewing Co,brewpub,440 County St,,,Milan,Michigan,48160-1504,United States,7344397490,http://www.ogbrewing.com,-83.675152,42.083986
 b9c27692-5db5-44dd-aa88-b8b66b944f3c,Osgood Brewing,brewpub,4051 Chicago Dr SW,,,Grandville,Michigan,49418-1257,United States,,http://www.osgoodbrewing.com,-85.76493039,42.90907804
-8565cb64-f9be-4ba3-b845-e878cffb4f05,Our Brewing Co,micro,76 E 8th St,,,Holland,Michigan,49423-3556,United States,6169948417,http://www.ourbrewingcompany.com,-86.1037537,42.7901898
-9ed590d8-b54b-41f5-be70-ac9d695378a0,Ozone's Brewhouse,micro,305 Beaver St,,,Lansing,Michigan,48906-4411,United States,5179992739,http://www.ozonesbrewhouse.com,-84.54860983,42.7505921
-4c9cdd7b-ea79-4d81-b629-fbfdf899dce6,Paddle Hard Brewing,micro,118 Michigan Ave,,,Grayling,Michigan,49738-1741,United States,9897456388,http://paddlehardbrewing.com,-84.709584,44.66521
+8565cb64-f9be-4ba3-b845-e878cffb4f05,Our Brewing Co,taproom,76 E 8th St,,,Holland,Michigan,49423-3556,United States,6169948417,http://www.ourbrewingcompany.com,-86.103738,42.790063
+9ed590d8-b54b-41f5-be70-ac9d695378a0,Ozone's Brewhouse,taproom,305 Beaver St,,,Lansing,Michigan,48906-4411,United States,5179992739,http://www.ozonesbrewhouse.com,-84.549279,42.750794
+4c9cdd7b-ea79-4d81-b629-fbfdf899dce6,Paddle Hard Brewing,taproom,118 Michigan Ave,,,Grayling,Michigan,49738-1741,United States,9897456388,http://paddlehardbrewing.com,-84.714644,44.66098
 6ea02eb4-7386-46bf-ac13-fc452dabc976,Paddle Hard Brewing,brewpub,227 E Michigan Ave,,,Grayling,Michigan,49738-1742,United States,9897456388,,-84.71675164,44.6600473
 ceb076d0-abb4-41df-b085-6799d5356f13,Paper City Development LLC,planning,,,,Vicksburg,Michigan,49097,United States,6049961400,http://papercitymillworks.com,,
-fb80ac7b-2db7-4d36-83a8-0b32ca21140a,Parkers Hilltop Brewery,brewpub,6110 Dixie Hwy,,,Clarkston,Michigan,48346-3409,United States,2483838444,http://www.hilltopbrew.com,-83.4149011,42.7174413
+fb80ac7b-2db7-4d36-83a8-0b32ca21140a,Parker's Hilltop Brewery,brewpub,6110 Dixie Hwy,,,Clarkston,Michigan,48346-3409,United States,2483838444,http://www.hilltopbrew.com,-83.406389,42.710128
+b2643f86-b42f-4d0d-8de5-ad1015252985,Pavlov's Brewing Company,micro,7548 Lewis Ave,,,Temperance,Michigan,48182,United States,7348071046,http://www.pavlovsbrew.com,-83.567134,41.752807
 5575c888-ae31-4c95-93af-3f76a5f11242,Paw Paw Brewing Company,brewpub,929 E Michigan Ave,,,Paw Paw,Michigan,49079-9488,United States,2694150145,http://pawpawbrewery.com,-85.87748984,42.2192304
-f6ae3e02-e4dd-4aa3-961b-107a6b9706ae,Paw Paw Brewing Company LLC,micro,780 S Gremps street,,,PAW PAW,Michigan,49079,United States,2695015241,http://www.pawpawbrewing.com,-85.89437423,42.2131394
+f6ae3e02-e4dd-4aa3-961b-107a6b9706ae,Paw Paw Brewing Company LLC,micro,780 S Gremps Street,,,PAW PAW,Michigan,49079,United States,2695015241,http://www.pawpawbrewing.com,-85.894556,42.212102
 3d619b2b-ece6-478b-a46b-752087ff4a10,Paw Paw Brewing Company Production Facility,micro,780 S Gremps St,,,Paw Paw,Michigan,49079,United States,,,-85.89437423,42.2131394
-745138de-12aa-4167-9302-1fb84642e899,Perrin Brewing Company,regional,5910 Comstock Park Dr NW,,,Comstock Park,Michigan,49321-8256,United States,6165511957,http://www.perrinbrewing.com,,
-067530c6-4848-4418-9a45-92dd720cc681,Petoskey Brewing,micro,1844 M 119 Harbor-Petoskey Rd,,,Petoskey,Michigan,49770-9341,United States,2317532057,http://www.petoskeybrewing.com,,
+745138de-12aa-4167-9302-1fb84642e899,Perrin Brewing Company,regional,5910 Comstock Park Dr NW,,,Comstock Park,Michigan,49321-8256,United States,6165511957,http://www.perrinbrewing.com,-85.680899,43.07142
+067530c6-4848-4418-9a45-92dd720cc681,Petoskey Brewing,micro,1844 M 119 Harbor-Petoskey Rd,,,Petoskey,Michigan,49770-9341,United States,2317532057,http://www.petoskeybrewing.com,-84.9031,45.397
 88293b57-bdc4-4fb7-afb4-1de24a9e82e9,Pigeon Hill Brewery Production Facility,planning,,,,Muskegon,Michigan,49440-1109,United States,,,,
 c7296318-3def-485e-9f58-b76d2db04b25,Pigeon Hill Brewing Co,micro,500 W Western Ave Ste 100,,,Muskegon,Michigan,49440-1000,United States,2313755184,http://www.pigeonhillbrew.com,,
-a98948f7-7271-475a-b681-fb52c09d8506,Pike 51 Brewing,brewpub,3768 Chicago Dr,,,Hudsonville,Michigan,49426-1637,United States,6166624589,http://www.hudsonvillewinery.com,-85.87944718,42.8606644
+efb65e10-7173-4ab8-b8ad-80963a190764,Pigeon Hill Brewing Company,micro,895 4th St,,,Muskegon,Michigan,49440,United States,2313755184,http://www.pigeonhillbrew.com,-86.256966,43.23553
+a98948f7-7271-475a-b681-fb52c09d8506,Pike 51 Brewing,taproom,3768 Chicago Dr,,,Hudsonville,Michigan,49426-1637,United States,6166624589,http://www.hudsonvillewinery.com,-85.87574,42.862103
 9078765f-0ed2-4b9e-8ab4-108885f696df,Pileated Brewing Co,micro,2290 South Industrial Highway,,,Ann Arbor,Michigan,48104,United States,7343696290,http://www.pileatedbrewing.com,-83.73385304,42.2528625
+3fc83b6a-5cae-4892-a6ad-30391ddc526d,Pink Barrel Cellars,taproom,3025 Six Mile Road,,,Grand Rapids,Michigan,49544,United States,6167840058,http://www.pinkbarrelcellars.com,-85.745865,43.060692
 e0a4a050-03c1-422b-91e1-d0bb315d9752,Pointless Brewery,micro,3014 Packard St,,,Ann Arbor,Michigan,48108-1935,United States,9894554484,http://www.pointlessbrew.com,-83.7297662,42.260633
 c6447b87-5325-42ff-9406-46484ce38d67,Poison Frog Brewing Company,brewpub,1908 Horton Rd,,,Jackson,Michigan,49203-5520,United States,5177485997,,-84.4374522,42.20141178
 46ee6aab-af12-44ff-aa5a-ed12944370fd,Presidential Brewing Co.,planning,,,,Portage,Michigan,49024,United States,2694689765,http://www.presidentialbrewing.com,,
-3af17697-4c50-47bb-9b31-dfb2b5518ea5,Railtown Brewing Co,micro,3595 68th St SE,,,Dutton,Michigan,49316-8503,United States,6168812364,http://www.railtownbrewing.com,-85.57833065,42.84118888
+11c006cc-e360-4f8f-8c24-3ced34ee4c0a,Presidential Brewing Co.,brewpub,8302 Portage Rd,,,Portage,Michigan,49024,United States,2694689765,http://www.presidentialbrewing.com,-85.561819,42.196767
+3af17697-4c50-47bb-9b31-dfb2b5518ea5,Railtown Brewing Co,brewpub,3595 68th St SE,,,Dutton,Michigan,49316-8503,United States,6168812364,http://www.railtownbrewing.com,-85.575693,42.841613
+fe0221b7-c5da-4c09-a83e-1405082206da,Rake Beer Project,taproom,794 Pine St,,,Muskegon,Michigan,49442,United States,,http://www.rakebeerproject.com,-86.245179,43.238118
+d14293d4-a0d0-4033-bf8b-6319af6d23db,Ramshackle Brewing Company,taproom,209 E Chicago St,,,Jonesville,Michigan,49250,United States,5178265030,http://www.ramshacklebrewing.com,-84.663218,41.98355
 305b584c-df57-4c6f-98d2-491736bbe7e9,Rare Bird Brewpub,brewpub,229 Lake Ave,,,Traverse City,Michigan,49684-2532,United States,2319432053,http://rarebirdbrewpub.com,-85.61932337,44.75978039
-153f0d04-5f71-4096-ab07-6255c3563b4e,Red Jacket Brewing at Michigan House Cafe,brewpub,300 6th St,,,Calumet,Michigan,49913-1508,United States,9063371910,http://www.michiganhousecafe.com/brewpub.html,-88.4535254,47.2464521
-396f0a00-1910-4667-a65d-79ce19556af7,Redline Brewing Company,micro,5470 Lapeer Rd,,,Burton,Michigan,48509-2235,United States,8102592009,http://redlinebrewingcompany.com,-83.59795244,43.01100775
-cdc826d3-05d0-42b1-85c8-3c12724c1ac0,Redwood Brewing Co,brewpub,5304 Gateway Ctr,,,Flint,Michigan,48507-3930,United States,8102338000,http://www.redwoodbrewingco.com,,
+2a604577-97b3-4f2c-8149-226ccbaeaec1,Raven Brewing & BBQ,brewpub,121 N Michigan Ave,,,Big Rapids,Michigan,49307,United States,2314446396,http://www.ravenbrewingandbbq.com,-85.482398,43.699132
+153f0d04-5f71-4096-ab07-6255c3563b4e,Red Jacket Brewing at Michigan House Cafe,brewpub,300 6th St,,,Calumet,Michigan,49913-1508,United States,9063371910,http://www.michiganhousecafe.com/brewpub.html,-88.453372,47.246795
+90bab4f2-6997-4136-85b5-25e273d32ad2,"Red Tail Brewing Company, LLC",brewpub,141 W Upton Avenue,,,Reed City,Michigan,49677,United States,2314654222,http://www.reedcitybeer.com,-85.510729,43.875878
+396f0a00-1910-4667-a65d-79ce19556af7,Redline Brewing Company,taproom,5470 Lapeer Rd,,,Burton,Michigan,48509-2235,United States,8102592009,http://therealredline.com,-83.597081,43.010623
+cdc826d3-05d0-42b1-85c8-3c12724c1ac0,Redwood Brewing Co,brewpub,5304 Gateway Ctr,,,Flint,Michigan,48507-3930,United States,8102338000,http://www.redwoodbrewingco.com,-83.722798,42.947332
 cfc4d4d4-7f70-4648-b744-9f397f782dad,Reed City Brewing Company,brewpub,141 W Upton Ave,,,Reed City,Michigan,49677-1129,United States,2314654222,,-85.51071976,43.875879
-a1867f65-c945-46c3-90df-68b176d61d2a,Right Brain Brewery,micro,225 E Sixteenth St Ste A,,,Traverse City,Michigan,49684-4190,United States,2319441239,http://www.rightbrainbrewery.com,,
+a1867f65-c945-46c3-90df-68b176d61d2a,Right Brain Brewery,micro,225 E Sixteenth St Ste A,,,Traverse City,Michigan,49684-4190,United States,2319441239,http://www.rightbrainbrewery.com,-85.619633,44.74975
 dd8e7ee8-f9d4-4f2b-8b74-dc76d840264e,River Rouge Brewing Company,micro,406 E 4th St,,,Royal Oak,Michigan,48067-2757,United States,2488020555,http://www.riverrougebrew.com,-83.14059587,42.48726531
+80874847-fa15-41d5-b143-d109eb79d013,River Rouge Brewing Company,taproom,14401 W. Eleven Mile Road,,,Oak Park,Michigan,48237,United States,2488020555,http://www.unexpectedcraft.com,-83.190374,42.488451
+77ba4898-aeed-42ff-bd9f-5d0bd9ab30d5,River Saint Joe,brewpub,15475 Walton Rd,,,Buchanan,Michigan,49107,United States,6307722199,http://www.riversaintjoe.com,-86.341779,41.838008
 cad4e26e-fb01-4cda-be91-070fc3503e23,River's Edge Brewing Co,brewpub,125 S Main St Ste 400,,,Milford,Michigan,48381-1976,United States,2486851625,http://www.riversedgebrew.com,,
+3b296a49-123e-4339-ad9e-61e00b25f86d,River's Edge Brewing Co,taproom,125 S Main St,,,Milford,Michigan,48381-1976,United States,2486851625,http://www.riversedgebrew.com,-83.600022,42.586323
 5771cc53-3ba2-49c0-9517-b8f7b218eefc,Roak Brewing Co.,micro,330 E Lincoln Ave,,,Royal Oak,Michigan,48067-2700,United States,2482688780,http://www.roakbrewing.com,-83.14209914,42.48342093
-7fab3d6d-5621-42d7-ba8c-7bac81bd4df9,Rochester Mills Beer Co,brewpub,400 Water St Ste 101,,,Rochester,Michigan,48307-2089,United States,2486505080,http://www.beercos.com,,
-54dbff86-41fe-421c-937e-2903bac3c9f7,Rochester Mills Production Brewery,micro,3275 Lapeer W Rd,,,Auburn Hills,Michigan,48326-1723,United States,2483773130,http://www.beercos.com,,
-94de03d1-716f-4c18-a2f4-9fff96851648,Rockford Brewing Company,brewpub,12 E Bridge St,,,Rockford,Michigan,49341-1265,United States,6169514677,http://www.RockfordBrewing.com,,
-bbc83a19-c5a5-44f1-bf6f-969f209cdfc0,Rolling Oak Brewing Co,micro,509 Norway St,,,Grayling,Michigan,49738-1719,United States,9897456280,http://rollingoakbrewing.com,-84.716671,44.661765
+7fab3d6d-5621-42d7-ba8c-7bac81bd4df9,Rochester Mills Beer Co,brewpub,400 Water St Ste 101,,,Rochester,Michigan,48307-2089,United States,2486505080,http://www.beercos.com,-83.130857,42.680625
+54dbff86-41fe-421c-937e-2903bac3c9f7,Rochester Mills Production Brewery,micro,3275 Lapeer W Rd,,,Auburn Hills,Michigan,48326-1723,United States,2483773130,http://www.beercos.com,-83.244453,42.689861
+94de03d1-716f-4c18-a2f4-9fff96851648,Rockford Brewing Company,brewpub,12 E Bridge St,,,Rockford,Michigan,49341-1265,United States,6169514677,http://www.RockfordBrewing.com,-85.56119,43.119645
+bbc83a19-c5a5-44f1-bf6f-969f209cdfc0,Rolling Oak Brewing Co,micro,509 Norway St,,,Grayling,Michigan,49738-1719,United States,9897456280,http://rollingoakbrewing.com,-84.717681,44.66218
 eb65fa0c-3e45-41cb-bcc3-de1a1060b67e,Round Barn Brewery / Round Barn Winery,micro,10983 Hills Rd,,,Baroda,Michigan,49101-8742,United States,8007169463,http://www.roundbarnwinery.com,-86.479395,41.950161
-0654ac67-ff7f-4b63-a876-bbd24a31fb57,Round Barn Brewery & Public House,micro,9151 First St,,,Baroda,Michigan,49101-8927,United States,2693267059,http://www.roundbarnbrewery.com,,
-6d3ba99f-057a-446b-925a-50ae1c284df5,Royal Oak Brewery,brewpub,215 E 4th St,,,Royal Oak,Michigan,48067-2606,United States,2485441141,http://www.royaloakbrewery.com,-83.14271229,42.48739557
+0654ac67-ff7f-4b63-a876-bbd24a31fb57,Round Barn Brewery and Public House,brewpub,9151 First St.,,,Baroda,Michigan,49101,United States,2693267059,http://https://roundbarn.com/,-86.485214,41.953145
 a2479c24-2ed6-42b6-9432-2b306558b0ae,Rudbeckia Farm,micro,3379 Lake Grove Rd,,,Petoskey,Michigan,49770-9751,United States,2316224173,http://www.rudbeckiafarm.com,,
 969a6832-1577-487f-a325-fd5350678dbe,Rupert's Brew House,micro,773 W Michigan Ave,,,Kalamazoo,Michigan,49007-4518,United States,2693379911,http://www.rupertsbrewhouse.com,-85.5941774,42.29072325
-5bc03c91-fce7-4e14-9aeb-05303d7e6bbb,Rustic Leaf Brewing Company,micro,7200 Highland Rd,,,Waterford,Michigan,48327-1506,United States,2485999933,http://www.rusticleafbrewingcompany.com,-83.4048664,42.659901
+256b9cdc-8a33-4ce0-8d9b-739513d0a87e,Rusted Spoke Brewing Co.,brewpub,810 S Huron Ave,,,Mackinaw City,Michigan,49701,United States,2314365773,http://www.rustedspoke.com,-84.727315,45.772305
+5bc03c91-fce7-4e14-9aeb-05303d7e6bbb,Rustic Leaf Brewing Company,taproom,7200 Highland Rd,,,Waterford,Michigan,48327-1506,United States,2485999933,http://www.rusticleafbrewingcompany.com,-83.428841,42.66004
+1870ae2c-96a9-467e-b4ee-7a9fb572e401,Rusty Rocket Brewing,taproom,790 53rd St,,,Pullman,Michigan,49450,United States,,http://www.rustyrocketbrewing.com,-86.062793,42.475551
 11f843b1-c0af-406a-9324-7abb436817cb,Salt Springs Brewery,brewpub,117 S Ann Arbor St,,,Saline,Michigan,48176-1320,United States,7342959191,http://wwww.saltpsringsbrewery.com,-83.78105412,42.16646594
-b2d75de8-293f-4e95-a6fb-fce2df0d81f8,Sanctuary Spirits,micro,902 E Saginaw Hwy,,,Grand Ledge,Michigan,48837-9419,United States,5179251930,http://www.sanctuaryspirits.com,-84.73453638,42.7407777
-75b2ab04-6d86-4928-8953-d60c4b1c172e,Sandhill Crane Vineyards,micro,4724 Walz Rd,,,Jackson,Michigan,49201-9613,United States,5177640679,http://www.sandhillcranevineyards.com,,
-3318789a-72b4-44fd-ba6c-64200fbe52bd,Saugatuck Brewing Co,micro,2948 Blue Star Hwy,,,Douglas,Michigan,49406-5195,United States,2698577222,http://www.saugatuckbrewing.com,-86.2120077,42.62989386
-a239dc38-7483-4766-8ac7-5eace6440bf7,Schmohz Brewery,micro,2600 Patterson Ave SE Ste 1,,,Grand Rapids,Michigan,49546-6394,United States,6169490860,http://www.schmohz.com,,
-80300e21-0491-4835-8d5e-660c45fcc2c6,Sherwood Brewing Co,brewpub,45689 Hayes Rd,,,Shelby Township,Michigan,48315-6214,United States,5865329669,http://www.sherwoodbrewing.com,-82.97361414,42.63202014
+76f9bf12-f1d1-4bce-a38b-5dc4c95982ca,Salty Pecker Brewing Company,taproom,255 Seminole Rd,,,Muskegon,Michigan,49444,United States,2317260802,http://www.saltypeckerbrewing.com,-86.250614,43.188841
+b2d75de8-293f-4e95-a6fb-fce2df0d81f8,Sanctuary Spirits,taproom,902 E Saginaw Hwy,,,Grand Ledge,Michigan,48837-9419,United States,5179251930,http://www.sanctuaryspirits.com,-84.735448,42.739938
+884ea280-2b69-424e-b329-cae0b8552147,Sand Lake Micro Brewery,taproom,1353 N Sand Lake Rd,,,National City,Michigan,48748,United States,9894691220,,-83.684723,44.313862
+75b2ab04-6d86-4928-8953-d60c4b1c172e,Sandhill Crane Vineyards,taproom,4724 Walz Rd,,,Jackson,Michigan,49201-9613,United States,5177640679,http://www.sandhillcranevineyards.com,-84.297926,42.300972
+89694a39-672b-42db-b8c3-d82c800dfa8d,Saucy Brew Works - Detroit,brewpub,2671 John R St,,,Detroit,Michigan,48201,United States,2166662568,,-83.052541,42.343403
+3318789a-72b4-44fd-ba6c-64200fbe52bd,Saugatuck Brewing Co,micro,2948 Blue Star Hwy,,,Douglas,Michigan,49406-5195,United States,2698577222,http://www.saugatuckbrewing.com,-86.215579,42.631809
+57cf94fa-df57-4ab1-af74-0de603c012dc,Saugatuck Brewing Company - Kalamazoo,brewpub,140 S Westnedge Ave,,,Kalamazoo,Michigan,49007-4600,United States,2693822739,http://www.gonzosbiggdoggbrewing.com,-85.590104,42.290853
+466f8b36-9d10-41c5-b32d-f36ae944f038,Sawyers Brewing Company,taproom,4574 Dowling St,,,Montague,Michigan,49437,United States,2319231986,http://www.sawyersbrewing.com,-86.355037,43.416566
+4064ed44-5094-482f-b236-30103c1377c2,Schaendorf Brewing Company,brewpub,420 Water St,,,Allegan,Michigan,49010-1309,United States,2692861059,http://www.schaendorfbrewingco.com,-85.849119,42.529353
+a239dc38-7483-4766-8ac7-5eace6440bf7,Schmohz Brewery,micro,2600 Patterson Ave SE Ste 1,,,Grand Rapids,Michigan,49546-6394,United States,6169490860,http://www.schmohz.com,-85.548512,42.915993
+359a3f80-72d8-4b73-84a4-ed82facfbbff,Schoolcraft Brewery,brewpub,18600 Haggerty Rd,,,Livonia,Michigan,48152-3932,United States,7344627659,http://www.schoolcraft.edu,-83.428248,42.415611
+80300e21-0491-4835-8d5e-660c45fcc2c6,Sherwood Brewing Co,brewpub,45689 Hayes Rd,,,Shelby Township,Michigan,48315-6214,United States,5865329669,http://www.sherwoodbrewing.com,-82.973683,42.632507
 b0a53b92-378b-4e92-86b2-904b865837a0,Shipwreck Brewing Company,brewpub,24409 Jefferson Ave,,,Saint Clair Shores,Michigan,48080-1318,United States,5869442266,http://www.shipwreckbrewingcompany.com,-82.88877859,42.47122231
-41af66db-d524-43e4-a866-7c4ddefe8752,Short's Brewing Co,brewpub,121 N Bridge St,,,Bellaire,Michigan,49615-9509,United States,2315336622,http://www.shortsbrewing.com,-85.21012429,44.975604
-3463ed54-79e2-46ff-8626-acdd29dc08ba,Short's Brewing Co - Production Facility,regional,211 Industrial Park Dr,,,Elk Rapids,Michigan,49629-9452,United States,2314982300,http://www.shortsbrewing.com,,
-74f8802c-da96-40d7-8e37-3fd4dd2cb381,Silver Harbor Brewing Company,brewpub,721 Pleasant St,,,Saint Joseph,Michigan,49085-1241,United States,2692817100,http://silverharborbrewing.com,-86.48027459,42.10893033
+41af66db-d524-43e4-a866-7c4ddefe8752,Short's Brewing Co,brewpub,121 N Bridge St,,,Bellaire,Michigan,49615-9509,United States,2315336622,http://www.shortsbrewing.com,-85.210354,44.976263
+3463ed54-79e2-46ff-8626-acdd29dc08ba,Short's Brewing Co - Production Facility,regional,211 Industrial Park Dr,,,Elk Rapids,Michigan,49629-9452,United States,2314982300,http://www.shortsbrewing.com,-85.407105,44.903519
+74f8802c-da96-40d7-8e37-3fd4dd2cb381,Silver Harbor Brewing Company,brewpub,721 Pleasant St,,,Saint Joseph,Michigan,49085-1241,United States,2692817100,http://silverharborbrewing.com,-86.479669,42.108764
+226dfbfd-1bcc-47fc-89d9-66e84f8cd4c2,Silver Spruce Brewing Company,taproom,439 E Eight St,,,Traverse City,Michigan,49684,United States,,,-85.614047,44.759717
 598e9aa4-8f65-40e9-a2eb-d6822fbdaacb,Sister Lakes Brewing Company,brewpub,92500 County Road 690,,,Dowagiac,Michigan,49047-9021,United States,2693325135,http://www.sisterlakesbrewing.com,,
+669f14c6-1d2a-4593-b5e8-aa3f283d441e,Sleepwalker Spirits and Ale,brewpub,1101 S Washington Ave,,,Lansing,Michigan,48910,United States,5179184046,http://www.drinksleepwalker.com,-84.551999,42.721703
 3467fc4d-c507-46c1-a962-31d470bb204c,Snowbelt Brewing Company,brewpub,132 W Main St Unit 1,,,Gaylord,Michigan,49735-2304,United States,9894487077,,,
-14fdc2e7-b2a0-482f-9bea-f7894b659797,Soo Brewing Company,micro,223 W Portage Ave,,,Sault Sainte Marie,Michigan,49783-1921,United States,9066324400,http://www.soobrew.com,-84.3482782,46.50089794
-b73a9ae9-403b-4e07-bc2c-eb77d042ef8e,South Haven Brewpub,brewpub,515 Williams St Ste 23,,,South Haven,Michigan,49090-1493,United States,2697677105,http://www.southhavenbrewpub.com,,
+422acad5-f12a-43eb-9ed6-6f51e9f4d444,Snowbelt Brewing Company,brewpub,132 W Main St,,,Gaylord,Michigan,49735-2304,United States,9894487077,http://www.snowbelt.beer,-84.675194,45.027758
+14fdc2e7-b2a0-482f-9bea-f7894b659797,Soo Brewing Company / 1668 Winery,taproom,223 W Portage Ave,,,Sault Sainte Marie,Michigan,49783-1921,United States,9066324400,http://www.soobrew.com,-84.347835,46.500698
+b73a9ae9-403b-4e07-bc2c-eb77d042ef8e,South Haven Brewpub,brewpub,515 Williams St Ste 23,,,South Haven,Michigan,49090-1493,United States,2697677105,http://www.southhavenbrewpub.com,-86.27343,42.405164
 61181a27-5fe3-4f0b-843a-62cbe818139f,Spartan Brewpub,brewpub,3056 Okemos Rd,,,Mason,Michigan,48854-9300,United States,5175075098,http://spartanbrewpub.com/,-84.43276467,42.67095756
 4678264d-4bc5-4649-8628-1759040efa82,Speciation Artisan Ales,micro,3720 West River Dr NE Ste 201,,,Comstock Park,Michigan,49321-8980,United States,6166666783,http://speciationartisanales.com,,
+7e17ab8f-6819-47c5-a44c-55ff56b731d6,Speciation Artisan Ales,taproom,928 Wealthy St SE,,,Grand Rapids,Michigan,49504,United States,,http://speciationartisanales.com,-85.646099,42.955436
 914c6a0a-cc97-4db2-9956-cee2505194c7,Sports Brewpub,brewpub,166 Maple St,,,Wyandotte,Michigan,48192-5928,United States,7342855060,,-83.15132628,42.20229805
-e2876f5d-0f50-4cae-8d00-76b8edfe7ba0,St Ambrose Cellars,micro,841 S Pioneer Rd,,,Beulah,Michigan,49617,United States,2313834262,http://www.stambrose-mead-wine.com,,
-481a0ead-5e95-451e-a431-ba8972b7e5ea,Starving Artist Brewing,micro,634 S Stiles Rd,,,Ludington,Michigan,49431-9311,United States,2317941399,http://starvingartist.beer,,
+e2876f5d-0f50-4cae-8d00-76b8edfe7ba0,St Ambrose Cellars,taproom,841 S Pioneer Rd,,,Beulah,Michigan,49617,United States,2313834262,http://www.stambrose-mead-wine.com,-85.997024,44.61835
+4811b9cd-112d-4503-a413-bc396801a58e,St. Johns Brewing Co.,brewpub,200 N Clinton Ave,,,Saint Johns,Michigan,48879,United States,9892277700,http://www.stjohnsbrew.com,-84.557931,43.002622
+d26cc325-9059-4a78-84d8-8024f0865b5f,Starr Craft Brewery,taproom,69209 N Forest Ave,,,Richmond,Michigan,48062,United States,5864301564,,-82.756226,42.810876
+481a0ead-5e95-451e-a431-ba8972b7e5ea,Starving Artist Brewing,micro,634 S Stiles Rd,,,Ludington,Michigan,49431-9311,United States,2317941399,http://starvingartist.beer,-86.338219,43.944059
 9a678cf5-99b6-4877-bf49-d5b7bc268386,Stiggs Brewery & Kitchen,brewpub,112 S Park St,,,Boyne City,Michigan,49712-1251,United States,2314976100,http://www.stiggsbrewingcompany.com,,
-2540a41e-870c-4298-b711-e9b1da63bc2d,Stony Lake Brewing Company,micro,447 E Michigan Ave,,,Saline,Michigan,48176-1547,United States,7343167919,http://www.stonylakebrewing.com,-83.7735354,42.17041729
+5fe0ea47-8668-4367-bff7-f8632c391320,Stone Hound Brewing Co,taproom,3593 Bunker Hill Road,,,Williamsburg,Michigan,49690,United States,2314215010,http://www.stonehoundbrewing.com,-85.505583,44.764323
+2540a41e-870c-4298-b711-e9b1da63bc2d,Stony Lake Brewing Company,taproom,447 E Michigan Ave,,,Saline,Michigan,48176-1547,United States,7343167919,http://www.stonylakebrewing.com,-83.772458,42.170949
 906c9e56-8260-4ea5-ade4-4d73e3dd7246,Stormcloud Brewing Company,brewpub,303 Main St,,,Frankfort,Michigan,49635-9047,United States,2316519080,http://www.stormcloudbrewing.com,-86.24100175,44.63290605
-3ba0c759-64a6-4c73-8f41-d5d2317ce86d,Stormcloud Brewing Company Production Facility,micro,366 Parkview Ln,,,Frankfort,Michigan,49635,United States,,,-86.2218117,44.6373933
-618e8707-d2ef-4e27-9fd9-ef3a01daf7cb,Strand Brewery,brewpub,93415 County Road 690,,,Dowagiac,Michigan,49047-9025,United States,2694247500,http://www.strandbrewery.com,,
+3ba0c759-64a6-4c73-8f41-d5d2317ce86d,Stormcloud Brewing Company,micro,366 Parkview Ln,,,Frankfort,Michigan,49635,United States,,,-86.221233,44.634718
+618e8707-d2ef-4e27-9fd9-ef3a01daf7cb,Strand Brewery,brewpub,93415 County Road 690,,,Dowagiac,Michigan,49047-9025,United States,2694247500,http://www.strandbrewery.com,-86.202253,42.080658
 390e3daa-7276-4370-a45c-31eb41baa18b,Sugarfoot Saloon,brewpub,4997 S Good Harbor Trl,,,Cedar,Michigan,49621-8543,United States,2312286166,,-85.79625698,44.90785082
-a7cd132d-aa7b-4d28-8495-e8660cb6b708,Superior Coast Brewery / Karls Cuisine Winery and Brewery,brewpub,447 W Portage Ave,,,Sault Sainte Marie,Michigan,49783-1989,United States,9062531900,http://www.karlscuisine.com,-84.35344671,46.50179396
+a7cd132d-aa7b-4d28-8495-e8660cb6b708,Superior Coast Brewery / Karls Cuisine Winery and Brewery,brewpub,447 W Portage Ave,,,Sault Sainte Marie,Michigan,49783-1989,United States,9062531900,http://www.karlscuisine.com,-84.353336,46.501747
+408b506c-e6b9-4465-a8ac-a4d053e96377,Superior Culture,taproom,717 N 3rd St,,,Marquette,Michigan,49855,United States,9062730927,http://www.superiorculturemqt.com,-87.395174,46.54977
+32784167-fb8e-42ab-8f5b-b74861c481df,Supernatural Brewing and Spirits,brewpub,36685 Plymouth Rd,,,Livonia,Michigan,48150,United States,7344692251,http://www.supernaturalbrewing.com,-83.406416,42.367093
 791e86a0-657e-4f59-9f3f-58a610e7bd5a,Tahquamenon Falls Brewery and Pub,brewpub,M-123 Upper Falls Dr,,,Paradise,Michigan,49768,United States,9064923300,http://www.tahquamenonfallsbrewery.com,,
-a2cff25c-2552-4941-b7da-cd671f81249b,Tapistry Brewing Company,micro,4236 Lake St,,,Bridgman,Michigan,49106-9109,United States,2692667349,http://www.tapistrybrewing.com,-86.5561575,41.9427559
+6e0146ef-c3b4-42f1-bbc9-bcbd25b74031,Tahquamenon Falls Brewery and Pub,brewpub,24019 Upper Falls Drive,,,Paradise,Michigan,49768,United States,9064923300,http://www.tahquamenonfallsbrewery.com,-85.0895,46.6766
+0e562a40-6a73-47eb-afd7-c74fbf5adb44,Tantrick Brewing Co,taproom,134 Water St,,,Allegan,Michigan,49010,United States,2695127016,http://www.tantrickbrewing.com,-85.846828,42.527279
+a2cff25c-2552-4941-b7da-cd671f81249b,Tapistry Brewing Company,brewpub,4236 Lake St,,,Bridgman,Michigan,49106-9109,United States,2692667349,http://www.tapistrybrewing.com,-86.556007,41.942679
 a65b0d05-2ee4-4b4e-9aa0-3dc6ba18cc2c,TBD,micro,17985 Armada Center Rd,,,Armada,Michigan,48005-2323,United States,5869897454,http://www.blakeshardcider.com,-82.95124856,42.84942455
-3bc7477e-6b51-4ec4-9879-106902e23f21,Tecumseh Brewing Company,brewpub,128 W Chicago Blvd,,,Tecumseh,Michigan,49286-1553,United States,5178151726,http://www.tecumsehbrewingco.com,-83.946191,42.004052
-00a78d20-3da2-4f63-9270-44b4722f4883,Tenacity Brewing,micro,119 N Grand Traverse St,,,Flint,Michigan,48503-5620,United States,8103396676,http://www.tenacitybrewing.com,-83.69663179,43.01522788
+3bc7477e-6b51-4ec4-9879-106902e23f21,Tecumseh Brewing Company,taproom,128 W Chicago Blvd,,,Tecumseh,Michigan,49286-1553,United States,5178151726,http://www.tecumsehbrewingco.com,-83.945515,42.003927
+00a78d20-3da2-4f63-9270-44b4722f4883,Tenacity Brewing,taproom,119 N Grand Traverse St,,,Flint,Michigan,48503-5620,United States,8103396676,http://www.tenacitybrewing.com,-83.697462,43.015328
 2c7a936f-eed9-48b4-9f00-7309dd34277c,Territorial Brewing Company,brewpub,256 Helmer Rd N,,,Springfield,Michigan,49037-7914,United States,2692821694,http://www.territorialbrewing.com,-85.23565712,42.3151618
-9dcd48bb-9b48-498a-ada4-91d77cfef610,Territorial Brewing Company Production Facility,micro,2815 6th Ave,,,Springfield,Michigan,49037-7986,United States,2694410030,,-85.22954317,42.31466956
-eb50673e-fea6-4b57-b295-0654561eb908,Texas Corners Brewing Company,brewpub,6970 Texas Dr,,,Kalamazoo,Michigan,49009-9795,United States,2698707724,http://www.texascornersbrewing.com,-85.6486336,42.2300087
-491c8c8d-594c-4b82-b3bc-2caab02068a4,The Boathouse Beer Co and Boozery,brewpub,450 W Lake St,,,Tawas City,Michigan,48763-8320,United States,9899845233,http://www.boathousebeerco.com,-83.5169024,44.26826378
+7bcec6c4-96a4-468a-a3a6-e2acac7e4a6e,Territorial Brewing Company,brewpub,1600 Avenue A,,,Springfield,Michigan,49037-7612,United States,2692821694,http://www.territorialbrewing.com,-85.256488,42.32821
+9dcd48bb-9b48-498a-ada4-91d77cfef610,Territorial Brewing Company Production Facility,micro,2815 6th Ave,,,Springfield,Michigan,49037-7986,United States,2694410030,,-85.229569,42.314384
+eb50673e-fea6-4b57-b295-0654561eb908,Texas Corners Brewing Company,brewpub,6970 Texas Dr,,,Kalamazoo,Michigan,49009-9795,United States,2698707724,http://www.texascornersbrewing.com,-85.686522,42.202322
+ad6c2a92-ed4d-4186-a3b2-f69e0499e1ea,Texas Corners Brewing Company,brewpub,60139 County Road 652,,,Mattawan,Michigan,49071-9514,United States,2696683724,,-85.782463,42.197068
+491c8c8d-594c-4b82-b3bc-2caab02068a4,The Boathouse Beer Co and Boozery,brewpub,450 W Lake St,,,Tawas City,Michigan,48763-8320,United States,9899845233,http://www.boathousebeerco.com,-83.519021,44.266479
 ad43dd25-02a6-4196-b268-afb686787e37,The Distant Whistle Brewhouse,micro,118 S Main St,,,Vicksburg,Michigan,49097-1289,United States,2693707549,http://www.distantwhistle.com,-85.53248776,42.11909502
-2d83cc3f-3967-41ae-a3b9-7cd75c40edc3,The Filling Station Microbrewery,micro,642 Railroad Pl,,,Traverse City,Michigan,49686-3633,United States,2319468168,http://www.thefillingstationmicrobrewery.com,-85.609476,44.7580963
+2d83cc3f-3967-41ae-a3b9-7cd75c40edc3,The Filling Station Microbrewery,brewpub,642 Railroad Pl,,,Traverse City,Michigan,49686-3633,United States,2319468168,http://www.thefillingstationmicrobrewery.com,-85.609146,44.758128
 fedd7659-93ad-477b-b1fd-114ea7286a0b,The Highway Brewing Co.,brewpub,209 W Houghton Ave,,,West Branch,Michigan,48661-1219,United States,9897090716,http://www.highwaybrewingco.com,-84.23751651,44.27635208
-be30234d-bd7e-4525-80d6-bf4c1f3bcb57,The Knickerbocker/ New Holland Brewing,brewpub,417 Bridge St NW,,,Grand Rapids,Michigan,49504-5305,United States,6163455642,,-85.68044312,42.97068214
-81af98d0-0d70-4e84-8b4f-2804dd75e227,The Livery,brewpub,190 5th St,,,Benton Harbor,Michigan,49022-3484,United States,2699258760,http://www.liverybrew.com,-86.45330019,42.11813538
-0f1463ef-9547-4387-bcdd-cf2704a1f035,The Maple Grille LLC,brewpub,13105 Gratiot Rd,,,Hemlock,Michigan,48626-8444,United States,,,-84.1741049,43.4157758
-f49b6091-444c-46ea-99d6-e798815ab4ee,The Mitten Brewing Co,brewpub,527 Leonard St NW,,,Grand Rapids,Michigan,49504-4278,United States,6166085612,http://www.mittenbrewing.com,-85.68101,42.98507733
-7550c372-1e49-49f5-b7d9-764e260fdba5,The Mitten Brewing Company - Saugatuck,brewpub,329 Water St,,,Saugatuck,Michigan,49453,United States,6166085612,,-86.20524129,42.65689129
-4d0ab1cf-bb3a-4432-8108-3bd91cb900d4,The Mitten Brewing Company Production Facility,micro,540 Leonard St NW,,,Grand Rapids,Michigan,49504-4260,United States,,,-85.68100276,42.98491266
+be30234d-bd7e-4525-80d6-bf4c1f3bcb57,The Knickerbocker/ New Holland Brewing,brewpub,417 Bridge St NW,,,Grand Rapids,Michigan,49504-5305,United States,6163455642,,-85.679753,42.970732
+81af98d0-0d70-4e84-8b4f-2804dd75e227,The Livery,brewpub,190 5th St,,,Benton Harbor,Michigan,49022-3484,United States,2699258760,http://www.liverybrew.com,-86.453645,42.118074
+b9c4bb71-ac59-46db-9a70-5a866fc6a08d,The Longboard By Jolly Pumpkin,brewpub,21931 Michigan Ave #100,,,Dearborn,Michigan,48124,United States,3139144510,http://www.longboardjp.com,-83.243568,42.305963
+0f1463ef-9547-4387-bcdd-cf2704a1f035,The Maple Grille LLC,taproom,13105 Gratiot Rd,,,Hemlock,Michigan,48626-8444,United States,9892970370,http://themaplegrille.net,-84.172896,43.416276
+f49b6091-444c-46ea-99d6-e798815ab4ee,The Mitten Brewing Co,brewpub,527 Leonard St NW,,,Grand Rapids,Michigan,49504-4278,United States,6166085612,http://www.mittenbrewing.com,-85.681006,42.98533
+7550c372-1e49-49f5-b7d9-764e260fdba5,The Mitten Brewing Company - Saugatuck,brewpub,329 Water St,,,Saugatuck,Michigan,49453,United States,6166085612,,-86.205138,42.657139
+4d0ab1cf-bb3a-4432-8108-3bd91cb900d4,The Mitten Brewing Company Production Facility,micro,540 Leonard St NW,,,Grand Rapids,Michigan,49504-4260,United States,,,-85.681942,42.984469
 15c5f1c0-f36a-42a0-89ce-dfff6bf9636e,The Parlor,brewpub,205 Lake Ave,,,Traverse City,Michigan,49684-2532,United States,2319414422,http://www.bigtoebrewery.com,-85.6204308,44.7601402
 e7757500-d0bf-4060-8da7-be9734e4397d,The Red Baron,brewpub,2495 S Center Rd,,,Burton,Michigan,48519-1145,United States,8107441310,http://www.baronburger.com,-83.63373728,42.9924788
+6d3ba99f-057a-446b-925a-50ae1c284df5,The Royal Oak Brewery,brewpub,215 E 4th St,,,Royal Oak,Michigan,48067-2606,United States,2485441141,http://www.royaloakbrewery.com,-83.142396,42.487456
 d9c28f8d-fe6b-4964-9e4e-df297410772c,"The Sanford Beverage Company, Inc. D.B.A. Steele Street Brewing",brewpub,300 S Steele St,,,Ionia,Michigan,48846-2008,United States,6165234003,http://www.steelestreetbrewing.com,-85.06766243,42.98135831
-f3c4eedf-18d8-4005-9b92-5bb286560290,Third Monk Brewing Co,micro,228 S Lafayette St,,,South Lyon,Michigan,48178-1406,United States,2482786366,http://www.thirdmonkbrewingco.com,-83.65116644,42.45482138
+f3c4eedf-18d8-4005-9b92-5bb286560290,Third Monk Brewing Co,taproom,228 S Lafayette St,,,South Lyon,Michigan,48178-1406,United States,2482786366,http://www.thirdmonkbrewingco.com,-83.651544,42.458922
 33253e4f-6acd-4cf7-8ed6-2fbabee79b2b,Third Nature Brewing Co.,planning,,,,Rockford,Michigan,49341,United States,,,,
-0c110b22-05b3-4fc1-b5e4-7e8d370a1e15,Thornapple Brewing Company,micro,6262 28th st SE,,,Grand rapids,Michigan,49546,United States,6164226209,http://Www.thornapplebrewing.com,-85.6506666,42.9128114
+7c6da730-08dd-439a-a045-c279f52f7d08,Third Nature Brewing Co.,brewpub,7733 Childsdale Ave NE,,,Rockford,Michigan,49341,United States,9892893077,,-85.578768,43.103287
+0c110b22-05b3-4fc1-b5e4-7e8d370a1e15,Thornapple Brewing Company,taproom,6262 28th st SE,,,Grand Rapids,Michigan,49546,United States,6164226209,http://Www.thornapplebrewing.com,-85.513541,42.912962
 5c8d8884-ab03-4de2-9370-2cd781eb7b07,Three Blondes Brewing,brewpub,1875 Phoenix St,,,South Haven,Michigan,49090-7151,United States,,http://www.threeblondesbrewing.com,-86.2642391,42.4033183
+98b75fb9-fbe3-4510-a9a1-9b54d244fd88,Three Bridge Brewing Company,taproom,2221 13th Street,,,Menominee,Michigan,49858,United States,,,-87.618512,45.119107
+24b9aa4c-fcc1-44d1-89b4-2ad173fa8ed5,Three Bridges Distillery and Taproom,taproom,240 E Main St,,,Midland,Michigan,48640,United States,,,-84.24461,43.612293
+91f11ffd-26cd-47aa-a98a-1d57cbfb1946,Thumb Brewery,brewpub,6758 Pine St,,,Caseville,Michigan,48725-9544,United States,9895536758,http://www.thumbbrewery.com,-83.271782,43.942938
 959d0c53-7a7e-4f9d-970e-6bb17e48586e,Tibbs Brewing Co,brewpub,402 S Burdick St,,,Kalamazoo,Michigan,49007-5218,United States,8777627397,,-85.58320831,42.28859949
-37cde8b1-1aaf-4181-aee9-e6481769d59c,Tilted Axis Brewing Company,brewpub,303 W Nepessing St,,,Lapeer,Michigan,48446-2105,United States,8109694477,http://www.tiltedaxis.beer,-83.31247549,43.05377576
+37cde8b1-1aaf-4181-aee9-e6481769d59c,Tilted Axis Brewing Company,brewpub,303 W Nepessing St,,,Lapeer,Michigan,48446-2105,United States,8109694477,http://www.tiltedaxis.beer,-83.311647,43.05391
 84c1e0e9-5adc-423b-a1db-08bc1d946412,Tootsie's Brewery / Lone Oak Vineyard,brewpub,8400 Ann Arbor Rd,,,Grass Lake,Michigan,49240-9586,United States,5175228167,http://www.tootsiesbrewery.com,,
-8e300f8a-fce3-446f-bbb4-aac35ff1a08e,Townies Brewery,brewpub,2350 W Liberty Rd,,,Ann Arbor,Michigan,48103,United States,,,-83.7891745,42.2730356
+8e300f8a-fce3-446f-bbb4-aac35ff1a08e,Townies Brewery,brewpub,2350 W Liberty Rd,,,Ann Arbor,Michigan,48103,United States,,,-83.779083,42.274029
 9a256c21-3a8b-480b-9cb5-fc52084fedca,Traffic Jam and Snug,brewpub,4268 2nd Ave,,,Detroit,Michigan,48201-1706,United States,3138319470,http://www.trafficjamdetroit.com,-83.086546,42.384371
 4ed098f5-5ff6-40b9-b238-538961222e90,Trail Point Brewing Co.,micro,6035 Lake Michigan Dr,,,Allendale,Michigan,49401-9101,United States,6168952739,http://www.trailpointbrewing.com,-85.93541536,42.97207782
+ba467434-5eb6-4fbc-a614-48ef99c93be5,Trail Point Brewing Company,taproom,6035 Lake Michigan Drive,,,Allendale,Michigan,49401,United States,2312882753,http://www.trailpointbrewing.com,-85.934658,42.972496
 c9f36d18-efb4-419c-8acf-b4598bbf2326,Transient Artisan Ales,micro,4229 Lake St,,,Bridgman,Michigan,49106-9109,United States,,,-86.55570937,41.94299804
-100fc1b1-c30f-4aeb-80bd-ab2914e7483a,Tri City Brewing Co,micro,4170 Shrestha Dr,,,Bay City,Michigan,48706-2184,United States,9896861340,http://www.tricitybrewing.com,,
-1065e4e8-e366-4b90-8461-f7bbb8ea6653,Tripelroot,brewpub,146 E Main Ave,,,Zeeland,Michigan,49464-1736,United States,6169530050,http://www.tripelroot.com,-86.01463482,42.81211765
-277d6217-6c92-4f58-a227-7fb0a79ab3a4,Tripelroot Production Facility,micro,2262 112th Ave,,,Holland,Michigan,49424-9638,United States,,,-86.0580859,42.802587
+100fc1b1-c30f-4aeb-80bd-ab2914e7483a,Tri City Brewing Co,taproom,4170 Shrestha Dr,,,Bay City,Michigan,48706-2184,United States,9896861340,http://www.tricitybrewing.com,-83.910842,43.619485
+1065e4e8-e366-4b90-8461-f7bbb8ea6653,Tripelroot,brewpub,146 E Main Ave,,,Zeeland,Michigan,49464-1736,United States,6169530050,http://www.tripelroot.com,-86.014647,42.812104
+277d6217-6c92-4f58-a227-7fb0a79ab3a4,Tripelroot Production Facility,micro,2262 112th Ave,,,Holland,Michigan,49424-9638,United States,,,-86.057016,42.809805
 c90a15c5-1a4d-495a-94f5-62fe78425b81,Tujax Tavern,brewpub,103 S Grove St,,,Delton,Michigan,49046-9470,United States,2696238310,,-85.407991,42.496258
-b0ff46ea-e5fe-4086-9773-8632ecf1ff28,Tunnel Vision Brewery,brewpub,5699 S Lake Shore Dr,,,Harbor Springs,Michigan,49740-9784,United States,2315263276,http://www.pondhill.com,-85.065042,45.471828
-de49adbf-37b7-4f7f-8ae1-58210e67f073,TwoGuys Brewing,brewpub,2356 Porter St SW,,,Wyoming,Michigan,49519,United States,6165529690,http://www.twoguysbrewing.beer,-85.72355013,42.92114925
+e1a43eed-fe93-442a-b6bc-674ffe189cd5,Tulip City Brewstillery,taproom,430 W 17th St Suite 27,,,Holland,Michigan,49423,United States,6165461313,,-86.128104,42.781558
+b0ff46ea-e5fe-4086-9773-8632ecf1ff28,Tunnel Vision Brewery,taproom,5699 S Lake Shore Dr,,,Harbor Springs,Michigan,49740-9784,United States,2315263276,http://www.pondhill.com,-85.054644,45.475282
+dfb800ec-de52-43aa-ae37-81274e43e8f4,Two Bandits Brewing Company,brewpub,61 W. Chicago Street,,,Coldwater,Michigan,43526,United States,4195421087,,-85.004119,41.940859
+4f8c805d-b4f4-4b1c-aad5-00bc3669f445,Two Roots Brewing Co,micro,3275 Lapeer West Rd.,,,Auburn Hills,Michigan,48326,United States,5869954455,http://www.tworootsbrewingco.com,-83.244453,42.689861
+de49adbf-37b7-4f7f-8ae1-58210e67f073,TwoGuys Brewing,taproom,2356 Porter St SW,,,Wyoming,Michigan,49519,United States,6165529690,http://www.twoguysbrewing.beer,-85.724775,42.921111
 a14412d4-f656-45df-a0ea-453201dc5f31,UBrew Nanobrewery,micro,3054 Cass Rd Unit F,,,Traverse City,Michigan,49684-8800,United States,2319432016,http://www.ubrewtc.com,,
-a2a27dba-f20a-4d98-a29c-005a2dfbe724,Unruly Brewing Company,micro,360 W Western Ave,,,Muskegon,Michigan,49440-1273,United States,2312881068,http://www.unrulybrewing.com,-86.25381541,43.23504367
+1ea53ced-b766-47b0-8f6f-2d1699a980ef,Unexpected Craft Brewing Company,taproom,14401 W. 11 Mile Road,,,Oak Park,Michigan,48237,United States,2488020555,http://www.unexpectedcraft.com,-83.190374,42.488451
+a2a27dba-f20a-4d98-a29c-005a2dfbe724,Unruly Brewing Company,brewpub,360 W Western Ave,,,Muskegon,Michigan,49440-1273,United States,2312881068,http://www.unrulybrewing.com,-86.252603,43.236075
+78fd4756-4b5d-4a14-aa47-fb182ffc3b63,Unruly Brewing Company - Production Facility,micro,2221 Lemuel St,,,Muskegon Heights,Michigan,49444,United States,2312881068,,-86.258614,43.211685
 fe976b5b-744d-4ba8-b9b8-af2c2e249b8b,Upper Hand Brewery,micro,3525 Airport Rd,,,Escanaba,Michigan,49829-1096,United States,2693822338,http://www.upperhandbrewery.com,-87.097528,45.7164279
-eae54355-ebca-400e-a9d9-7ce4ce866341,Urbanrest Brewing Company,micro,2615 Wolcott St,,,Ferndale,Michigan,48220-1422,United States,,http://www.urbanrest.com,-83.1274188,42.4679929
-729aa416-177d-4e58-8700-9e9c51d6808d,Vander Mill,brewpub,505 Ball Ave NE,,,Grand Rapids,Michigan,49503-2011,United States,6162598828,http://www.vandermill.com,-85.6305954,42.9712724
+725d1f48-ff94-4fa4-9894-b358b41a3724,Upper Peninsula Brewing Company,taproom,342 Rail Street,,,Negaunee,Michigan,49866,United States,9064758722,http://www.upperpeninsulabrewingcompany.com,-87.611201,46.498024
+eae54355-ebca-400e-a9d9-7ce4ce866341,Urbanrest Brewing Company,taproom,2615 Wolcott St,,,Ferndale,Michigan,48220-1422,United States,,http://www.urbanrest.com,-83.127856,42.467756
+27107259-7528-4f5e-a629-5952332d9b72,Useless Creatures Brewing Company,brewpub,41 N Main St,,,Three Rivers,Michigan,49093-1531,United States,,http://www.uselesscreaturesbrewing.com,-85.633667,41.944671
+729aa416-177d-4e58-8700-9e9c51d6808d,Vander Mill,brewpub,505 Ball Ave NE,,,Grand Rapids,Michigan,49503-2011,United States,6162598828,http://www.vandermill.com,-85.63086,42.971417
 7ce7a516-c6e4-42c2-b357-a4dfd53f7236,VanMax Brewing Company LLC,micro,103 N Phelps St,,,Decatur,Michigan,49045-1008,United States,2692171720,http://www.vanmaxbrewing.com,-85.97454749,42.10876694
-60fad081-4a4e-4415-95d8-b478cb0ce9c1,Vierling Restaurant & Marquette Harbor Brewery,brewpub,119 S Front St,,,Marquette,Michigan,49855-4642,United States,9062283533,http://www.thevierling.com,-87.3928955,46.5425586
+60fad081-4a4e-4415-95d8-b478cb0ce9c1,Vierling Restaurant & Marquette Harbor Brewery,brewpub,119 S Front St,,,Marquette,Michigan,49855-4642,United States,9062283533,http://www.thevierling.com,-87.392714,46.542965
 ba813e75-fa19-44a3-bab2-7927849962c2,Vivio's Food,planning,,,,Detroit,Michigan,48207-4516,United States,3133931711,http://www.viviosdetroit.com,,
-6a6b79df-5cd8-4b54-9cf7-021fd47069bb,Walldorff Brewpub & Bistro,brewpub,105 E State St,,,Hastings,Michigan,49058-1808,United States,2699454400,http://www.walldorffbrewpub.com,-85.284584,42.6487487
-86ac6974-4c49-4e84-8d51-47f97fda5ac4,WAR WATER BREWERY,brewpub,201 N Riverside Ave Ste C1-11,,,Saint Clair,Michigan,48079-5498,United States,8102893921,http://www.warwaterbrewery.com,,
+6a6b79df-5cd8-4b54-9cf7-021fd47069bb,Walldorff Brewpub & Bistro,brewpub,105 E State St,,,Hastings,Michigan,49058-1808,United States,2699454400,http://www.walldorffbrewpub.com,-85.28742,42.649046
+86ac6974-4c49-4e84-8d51-47f97fda5ac4,WAR WATER BREWERY,brewpub,201 N Riverside Ave Ste C1-11,,,Saint Clair,Michigan,48079-5498,United States,8102893921,http://www.warwaterbrewery.com,-82.486125,42.825479
+151100fe-658d-4a34-affa-55e583a620b1,Warner Vineyards,taproom,706 S Kalamazoo St,,,Paw Paw,Michigan,49079,United States,2696573165,http://www.warnerwines.com,-85.892097,42.213095
 309cfb01-0cde-4775-91c6-95e492b5eb4b,Watermark Brewing Company,micro,5781 Saint Joseph Ave,,,Stevensville,Michigan,49127-1238,United States,2692810872,http://www.watermarkbrewing.com,-86.51963025,42.01286668
+e1e45def-d51c-4632-84e8-6b49fdcbcc5f,Watermark Brewing Company,taproom,5781 St Joseph Ave,,,Stevensville,Michigan,49127-1219,United States,2692810872,http://www.watermarkbrewing.com,-86.519385,42.013085
+d324d88c-7a95-44ee-9ef2-d7c2c7dd072e,Wax Wings Brewing Co,taproom,3840 Gull Rd,,,Kalamazoo,Michigan,49048,United States,2694599494,http://www.waxwingsbrewing.com,-85.532528,42.318186
 8e46e558-55b6-4c93-bf99-2ba3f2ba2a59,Waypost Brewing Co.,planning,,,,Fennville,Michigan,49408,United States,6169162362,http://waypostbeer.com,,
+9698d399-d768-4962-bc42-12c1276bdb05,Waypost Brewing Co.,taproom,1630 Blue Star Hwy,,,Fennville,Michigan,49408,United States,2694965096,http://waypostbeer.com,-86.213209,42.536728
 debc3cf5-e1c4-4de1-adb0-d6bd5f001ec3,Whiskey Point Brewing Company,planning,,,,Beaver Island,Michigan,49782-5105,United States,2313737842,http://www.whiskeypointbrewing.com,,
-dd296d03-e327-41d5-8fcb-7cf99a3682ce,White Flame Brewing Co,brewpub,5234 36th Ave,,,Hudsonville,Michigan,49426-1636,United States,6162095098,http://www.whiteflamebrewing.com,,
-54d22718-da66-4c00-9fba-00179644935b,Wiltse's Brew Pub and Family Restaurant,brewpub,5606 F 41,,,Oscoda,Michigan,48750-8611,United States,9897392231,http://www.wiltsebrewpub.com,,
-fd24f694-6436-458c-a0d5-d35ab5ff4497,Witch's Hat Brewing,micro,601 S Lafayette St,,,South Lyon,Michigan,48178-1453,United States,2484862595,http://www.witchshatbrewing.com,-83.65099308,42.45542522
-932f3a05-590e-49dc-bba5-0c6c7c174125,Wolverine State Brewing Co,brewpub,2019 W Stadium Blvd # 103,,,Ann Arbor,Michigan,48103-4557,United States,7343692990,http://www.wolverinebeer.com,-83.7745473,42.2694316
-e5eb754a-eb95-4a9f-81f4-3f0a294f2c3c,Woodward Avenue Brewers,brewpub,22646 Woodward Ave,,,Ferndale,Michigan,48220-1810,United States,2485463696,http://www.thewabsite.com,-83.13333109,42.4596444
-a7aeca98-8bf2-430e-9579-a09ee6bb8e0e,Workshop Brewing Co,brewpub,221 Garland St Ste A,,,Traverse City,Michigan,49684-2372,United States,12314218966,http://www.traversecityworkshop.com,,
+dd296d03-e327-41d5-8fcb-7cf99a3682ce,White Flame Brewing Co,taproom,5234 36th Ave,,,Hudsonville,Michigan,49426-1636,United States,6162095098,http://www.whiteflamebrewing.com,-85.870714,42.864324
+54d22718-da66-4c00-9fba-00179644935b,Wiltse's Brew Pub and Family Restaurant,brewpub,5606 F 41,,,Oscoda,Michigan,48750-8611,United States,9897392231,http://www.wiltsebrewpub.com,-83.358906,44.46273
+fd24f694-6436-458c-a0d5-d35ab5ff4497,Witch's Hat Brewing Co.,taproom,601 S Lafayette St,,,South Lyon,Michigan,48178-1453,United States,2484862595,http://www.witchshatbrewing.com,-83.650416,42.454633
+932f3a05-590e-49dc-bba5-0c6c7c174125,Wolverine State Brewing Co,brewpub,2019 W Stadium Blvd # 103,,,Ann Arbor,Michigan,48103-4557,United States,7343692990,http://www.wolverinebeer.com,-83.774369,42.2695
+e5eb754a-eb95-4a9f-81f4-3f0a294f2c3c,Woodward Avenue Brewers,brewpub,22646 Woodward Ave,,,Ferndale,Michigan,48220-1810,United States,2485463696,http://www.thewabsite.com,-83.133345,42.459434
+a7aeca98-8bf2-430e-9579-a09ee6bb8e0e,Workshop Brewing Company,brewpub,221 Garland St Ste A,,,Traverse City,Michigan,49684-2372,United States,12314218966,http://www.traversecityworkshop.com,-85.625999,44.765197
+e56132fc-1e75-4872-8d81-f1291a239104,Wyandotte Beer Co,brewpub,3016 1st St,,,Wyandotte,Michigan,48192,United States,,,-83.150185,42.202866

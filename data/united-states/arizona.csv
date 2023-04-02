@@ -1,125 +1,191 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 fb94830f-6196-4f59-9189-c9060b778085,12 West Brewing Company,micro,3000 E Ray Rd Bldg 6,,,Gilbert,Arizona,85296-7832,United States,6023395014,http://www.12westbrewing.com,,
 0faa0fb2-fffa-416d-9eab-46f67477c8ef,12 West Brewing Company - Production Facility,micro,,,,Mesa,Arizona,85207,United States,,,-111.5860662,33.436188
-4f4b5b34-d572-4dff-a18f-47e507c073e6,1912 Brewing,micro,2045 N Forbes Blvd Ste 105,,,Tucson,Arizona,85745-1444,United States,5202564851,http://www.1912brewing.com,-110.9927505,32.24673727
+d4bfa9cb-0989-45ac-9898-29564183d462,12 West Brewing Company - Production Facility,micro,7733 E McDowell Rd,,,Mesa,Arizona,85207,United States,,,-111.663779,33.465648
+4f4b5b34-d572-4dff-a18f-47e507c073e6,1912 Brewing,taproom,2045 N Forbes Blvd Ste 105,,,Tucson,Arizona,85745-1444,United States,5202564851,http://www.1912brewing.com,-110.993874,32.24646
 eef94d73-65e8-4d94-b1de-0d4b45efe090,8-Bit Aleworks,micro,1050 N Fairway Dr Bldg F Ste 10,,,Avondale,Arizona,85323-5206,United States,6239251650,http://www.8-bitaleworks.com,,
+7e532466-0153-43ac-8be7-2ed9ead3b5a1,8-Bit Aleworks,taproom,1050 N Fairway Dr Bldg F Ste 101,,,Avondale,Arizona,85323-5206,United States,6239251650,http://www.8-bitaleworks.com,-112.326034,33.453571
+ddbf9024-d400-4662-99a0-6b1267e10efd,Ad Astra Brewing Company,taproom,123 n Cortez st.,,,Prescott,Arizona,86301,United States,9513977303,http://adastrabrewing.com,-112.468404,34.543206
+db4376f1-207f-4e17-ac91-70a15757e6bf,AFT Brewery,micro,19312 E Calle De Flores,,,Queen Creek,Arizona,85142-9780,United States,6026289036,http://aftbrewery.com,-111.666139,33.237522
 264be80a-dc5e-40cf-93f9-cd4914656440,Arizona Craft Brewing,micro,"473 Elgin Road, Suite BH",,,Elgin,Arizona,85611,United States,520369342,,,
 701f00a8-fa71-4b74-9fb9-cf82c24c5b38,Arizona Wilderness Brewing,brewpub,721 N Arizona Ave,,,Gilbert,Arizona,85233-3405,United States,4804972739,http://Azwbeer.com,,
+ffa3d8f7-4a97-4a9a-bb20-fb28cffb2eff,Arizona Wilderness Brewing,brewpub,912 N Colorado St.,,,Gilbert,Arizona,85233-3405,United States,4804972739,http://Azwbeer.com,-111.839348,33.366262
+624cc0fe-0984-400a-baec-be916de8713a,Arizona Wilderness Brewing - Wilderness Woodnotes Cellar,taproom,912 N Colorado St,,,Gilbert,Arizona,85233,United States,4804972739,,-111.839348,33.366262
 ac773861-5642-46b6-98c5-ad065ee9b4df,Bad Water Brewing,contract,4216 N Brown Ave,,,Scottsdale,Arizona,85251-3914,United States,5207459175,http://www.badwaterbrewing.com,-111.9244743,33.49726157
-3f876682-7dcf-4465-8880-63253506e3e4,Barley Brothers Brewery,brewpub,1425 McCulloch Blvd N,,,Lake Havasu City,Arizona,86403-6597,United States,9285057837,http://www.barleybrothers.com,-114.3206399,34.4770677
+3f876682-7dcf-4465-8880-63253506e3e4,Barley Brothers Brewery,brewpub,1425 McCulloch Blvd N,,,Lake Havasu City,Arizona,86403-6597,United States,9285057837,http://www.barleybrothers.com,-114.348884,34.47129
 54222b6c-3be1-4bf2-95b7-5085f07a6461,Barnstar Brewing,micro,4050 North Tonto Road (Forest Service Rd.102),,,Skull Valley,Arizona,86338,United States,9284422337,http://www.barnstarbrew.com,,
-01f591c5-3a87-4685-af4f-c4e9fccb3a47,Barrio Brewing Co,micro,800 E 16th St,,,Tucson,Arizona,85719-6603,United States,5207912739,http://www.barriobrewing.co,-110.959665,32.214613
-92089237-a5bc-40cc-b7c8-b666f1db822a,Beaver Street Brewery,brewpub,11 S Beaver St Ste 1,,,Flagstaff,Arizona,86001-5500,United States,9287790079,http://www.beaverstreetbrewery.com,,
+01f591c5-3a87-4685-af4f-c4e9fccb3a47,Barrio Brewing Co,micro,800 E 16th St,,,Tucson,Arizona,85719-6603,United States,5207912739,http://www.barriobrewing.co,-110.958614,32.21456
+92089237-a5bc-40cc-b7c8-b666f1db822a,Beaver Street Brewery,brewpub,11 S Beaver St Ste 1,,,Flagstaff,Arizona,86001-5500,United States,9287790079,http://www.beaverstreetbrewery.com,-111.650938,35.196636
 2d71ef89-cdf4-4e5a-b862-14aca5e47c93,"Beer Research Institute, The",brewpub,1641 S Stateley Dr Ste 104,,,Mesa,Arizona,85204,United States,4808922020,http://www.bri.beer,,
-a9888981-3b31-4cb8-80ec-83b4e089dc04,BJs Restaurant & Brewery - Chandler,brewpub,3155 W Chandler Blvd,,,Chandler,Arizona,85226-5175,United States,4809170631,http://www.bjsrestaurants.com,-111.911126,33.3053455
-c616ab6b-bba4-4d23-b341-b325251f3420,Black Bridge Brewery,micro,421 E Beale St,,,Kingman,Arizona,86401-5833,United States,9283773618,http://www.blackbridgebrewery.com,-114.051737,35.1895877
+278831c9-b16b-42c6-a648-f7b76cf7f110,"Beer Research Institute, The",brewpub,1641 S Stapley Dr Ste 104,,,Mesa,Arizona,85204,United States,4808922020,http://www.bri.beer,-111.8029,33.384883
+a4d68e5f-5d21-4612-b1a2-a4bd67ceb6e8,Belfry Brewery,brewpub,791 N. Main St.,,,Cottonwood,Arizona,86326,United States,9282394595,http://www.belfrybrewery.com,-112.026564,34.745741
+a9888981-3b31-4cb8-80ec-83b4e089dc04,BJs Restaurant & Brewery - Chandler,brewpub,3155 W Chandler Blvd,,,Chandler,Arizona,85226-5175,United States,4809170631,http://www.bjsrestaurants.com,-111.898409,33.305508
+c616ab6b-bba4-4d23-b341-b325251f3420,Black Bridge Brewery,taproom,421 E Beale St,,,Kingman,Arizona,86401-5833,United States,9283773618,http://www.blackbridgebrewery.com,-114.052253,35.189706
 7d158044-9d6a-40d2-8bb6-746035b3bc96,Black Horse Brewery,micro,1058 Burton Rd,,,Show Low,Arizona,85901-3924,United States,9285379349,http://www.blackhorsebrewery.us,,
-a3da9d07-5d9c-4bb5-998d-71d01fe752e4,BlackRock Brewers,micro,1664 S Research Loop Ste 200,,,Tucson,Arizona,85710-6767,United States,5202073203,http://www.brb.beer,-110.8217786,32.20160831
+a3da9d07-5d9c-4bb5-998d-71d01fe752e4,BlackRock Brewers,taproom,1664 S Research Loop Ste 200,,,Tucson,Arizona,85710-6767,United States,5202073203,http://www.brb.beer,-110.822062,32.201741
 4ab37f9a-f9dc-4fba-8b59-581c8968c668,Blasted Barley Beer Company,brewpub,404 S Mill Ave Ste 101,,,Tempe,Arizona,85281-2879,United States,4809675887,http://www.blastedbarley.com,,
 0f840953-1dd8-478d-a6b6-3ea6ce3a65ac,Borderlands Brewing Co,micro,119 E Toole Ave,,,Tucson,Arizona,85701-1210,United States,5202618773,http://www.borderlandsbrewing.com,-110.9676305,32.22334681
+69fd79f2-6bc6-4776-b889-43a3ec52bc04,Borderlands Brewing Co.,micro,330 S Toole Ave,,,Tucson,Arizona,85701-1210,United States,5202618773,http://www.borderlandsbrewing.com,-110.961619,32.217654
 8626498b-4e07-433b-92ac-41a27a0676f3,"Button Brew House, LLC",micro,6800 N Camino Martin Ste 160,,,Tucson,Arizona,85741-2395,United States,5202688543,http://www.button.beer,,
-f8d5fa60-f3d6-41b1-8e60-750dc9baf9e4,Catalina Brewing Company,micro,6918 N Camino Martin,,,Tucson,Arizona,85741-2281,United States,5203293622,http://www.catalinabrewingco.com/,,
-c96029a1-cb59-4de2-9a2b-3a8380964bde,College Street Brewhouse and Pub,micro,1940 College Dr,,,Lake Havasu City,Arizona,86403-1981,United States,9288542739,,-114.3475961,34.50754044
-85ad59c1-6545-4ab2-84a4-219d39e47cea,Copper Brothel Brewery,micro,3112 Hwy 83,,,Sonoita,Arizona,85637,United States,5204056721,http://www.copperbrothelbrewery.com,,
-49cb4f39-b586-4949-911c-a05435c9850f,Copper Mine Brewing Co,micro,3455 S Palo Verde Rd STE 135,,,Tucson,Arizona,85713,United States,5203336140,http://www.copperminebrewing.com,,
+f8d5fa60-f3d6-41b1-8e60-750dc9baf9e4,Catalina Brewing Company,taproom,6918 N Camino Martin,,,Tucson,Arizona,85741-2281,United States,5203293622,http://http://www.catalinabrewingco.com/,-111.057045,32.332327
+c96029a1-cb59-4de2-9a2b-3a8380964bde,College Street Brewhouse and Pub,micro,1940 College Dr,,,Lake Havasu City,Arizona,86403-1981,United States,9288542739,,-114.347449,34.5072
+85ad59c1-6545-4ab2-84a4-219d39e47cea,Copper Brothel Brewery,brewpub,3112 Hwy 83,,,Sonoita,Arizona,85637,United States,5204056721,http://www.copperbrothelbrewery.com,-110.65595,31.679584
+1261a812-c9ec-4c9e-9132-1e9542cb8a50,Copper Hop Brewing Co/Copper Hop Ranch,taproom,5 Fairview Ln,,,Elgin,Arizona,85611,United States,5204554673,http://www.copperhopranch.com,-110.582298,31.607071
+49cb4f39-b586-4949-911c-a05435c9850f,Copper Mine Brewing Co,taproom,3455 S Palo Verde Rd STE 135,,,Tucson,Arizona,85713,United States,5203336140,http://www.copperminebrewing.com,-110.917233,32.183886
 2810105c-ee25-4e8b-9fc7-4c1042f3434b,Coppertop Alehouse and Still Works,brewpub,220 S Montezuma St,,,Prescott,Arizona,86303-4720,United States,9283517712,http://www.coppertopalehouse.com,-112.470304,34.53851944
-36d6a22f-9824-44f8-b095-9435e0314276,Corbett Brewing Company,micro,309 E 7th St,,,Tucson,Arizona,85705,United States,,,-110.96679,32.22634085
+36d6a22f-9824-44f8-b095-9435e0314276,Corbett Brewing Company,taproom,309 E 7th St,,,Tucson,Arizona,85705,United States,5206222200,,-110.96674,32.22674
 728019cb-061f-45e9-b3af-6b8ea811258d,CRAFT 64,contract,6922 E Main St,,,Scottsdale,Arizona,85251-4312,United States,4809460542,http://www.craft64.com,-111.9319271,33.493153
+51aad680-daed-44a5-9b11-d67ec8de15e4,Craft Beverage Cooperative,office only location,7150 E Camelback Rd,,,Scottsdale,Arizona,85251,United States,,http://www.craftbevcoop.com,-111.926869,33.502787
 df821532-ffc3-417b-9b56-3de17c9bceac,Crooked Tooth Brewing Co.,micro,228 E 6th St,,,Tucson,Arizona,85705-8424,United States,5204445305,http://www.crookedtoothbrewing.com,-110.9677332,32.22762302
 f9d22f56-1b7d-4483-afe6-66526c954861,Dark Sky Brewing Co.,micro,117 N Beaver St Ste A,,,Flagstaff,Arizona,86001-5677,United States,9282354525,http://www.darkskybrewing.com,,
+8daf492f-6e55-439a-b080-bfcb8040b56b,Dark Sky Brewing Co.,taproom,117 N Beaver St,,,Flagstaff,Arizona,86001-5677,United States,9282354525,http://www.darkskybrewing.com,-111.649835,35.199496
 26540a50-0fa6-4fcc-85e0-5079d118c6ee,Deep Roots Brewing,planning,,,,Phoenix,Arizona,85007-3115,United States,6023306790,http://www.deeprootsbrewing.com,-112.0773456,33.4485866
 9c367e3f-82fc-4d51-bc2c-05c6aa90d708,Desert Eagle Brewing Company,micro,150 W Main St,,,Mesa,Arizona,85201-7310,United States,4806562662,http://www.deserteaglebrewing.com,-111.8568311,33.4148261
 f6253cbe-624f-4eb4-8aa5-5e6e0eca41ae,Desert Monks Brewing Co.,planning,,,,Gilbert,Arizona,85296-3480,United States,4805257444,https://www.desertmonksbrewing.com/,-111.7890239,33.3528259
-dac4379b-8ecd-4a9c-ba7f-8042580c72fc,Dillinger Brewing Company,micro,3895 N Oracle Rd,,,Tucson,Arizona,85705-3228,United States,5202072312,http://www.dillingerbrewing.com,-110.9785303,32.2997436
-71eb91ae-4d50-4f01-840c-7552df4d96bd,Dragoon Brewing Co,micro,1859 W Grant Rd Ste 111,,,Tucson,Arizona,85745-1214,United States,5203293606,http://www.dragoonbrewing.com,-111.0054521,32.25049461
+a5dfe8d6-446f-490b-8361-eb204945f47e,Desert Monks Brewing Co.,taproom,1094 S Gilbert Rd Ste 101,,,Gilbert,Arizona,85296-3480,United States,4805257444,http://https://www.desertmonksbrewing.com/,-111.790367,33.329945
+dac4379b-8ecd-4a9c-ba7f-8042580c72fc,Dillinger Brewing Company,micro,3895 N Oracle Rd,,,Tucson,Arizona,85705-3228,United States,5202072312,http://www.dillingerbrewing.com,-110.979782,32.277169
+455259a9-b747-4b3b-bf62-990d1325f4d7,Dillinger Brewing Company,taproom,198 W Cushing St,,,Tucson,Arizona,85705-3228,United States,5202072312,,-110.973031,32.216693
+71eb91ae-4d50-4f01-840c-7552df4d96bd,Dragoon Brewing Co,micro,1859 W Grant Rd Ste 111,,,Tucson,Arizona,85745-1214,United States,5203293606,http://www.dragoonbrewing.com,-111.005789,32.249227
 13024a14-b475-4d4f-8aad-f28b028eae6f,Dubina Brewing Co.,brewpub,17035 N 67th Ave Ste 6,,,Glendale,Arizona,85308-3655,United States,6234127770,http://www.dubinabrewing.com,,
 0898a2bf-6fc4-4156-8d97-08ce6b1ae29a,Edge Of The World Brewery,micro,70 N Central St,,,Colorado City,Arizona,86021-1524,United States,9288758710,http://edgeoftheworld.bar,-112.9740725,36.9941047
+019365d1-f4ba-45fd-9c47-8de75cd2e824,Edge Of The World Brewery,brewpub,70 N Central Street,,,Colorado City,Arizona,86021,United States,4352123145,http://edgeoftheworld.bar,-112.749605,36.910551
+9cc2a171-9ca0-416f-a644-ea07bc6f7f24,Electric Brewing,brewpub,1326 W Hwy 92,,,Bisbee,Arizona,85603,United States,5202270035,http://www.electricbrewing.com,-109.929975,31.39714
 59dee189-7a16-4a13-a913-620994d7b548,Elevate Your Passion Brewing,micro,2209 W 1st St # A107,,,Tempe,Arizona,85281-7245,United States,8883972337,http://www.elevateyourpassion.com,,
-4b9222e3-f231-4d53-8890-c5c26c8c05fd,Flagstaff Brewing Co,brewpub,16 E Route 66,,,Flagstaff,Arizona,86001-5792,United States,9287731442,http://www.flagbrew.com,-111.523296,35.2109064
-aecbe0a5-c680-45a0-b1dd-8bf5b04d9f3a,Flying Basset Brewing,brewpub,720 W Ray Rd,,,Gilbert,Arizona,85233,United States,4804261373,http://www.flyingbassetbrewing.com,-111.8054389,33.32098148
+c2b0f72c-c305-40b5-919e-19f7542f6609,Fate Brewing Company,brewpub,1312 N Scottsdale Rd,,,Scottsdale,Arizona,85257-3488,United States,,,-111.926522,33.462306
+5ff5cba4-2a30-4969-8c96-bfcff8caff8f,Fate Brewing Company,brewpub,201 E Southern Ave,,,Tempe,Arizona,85282,United States,4806569100,http://www.fatebrewing.com,-111.936449,33.392362
+fb49a213-fa62-4889-acae-1146f3afc238,Fate Tap + Barrel,brewpub,7337 E Shea Blvd Ste 105,,,Scottsdale,Arizona,85260-6465,United States,4809941275,http://www.fatebrewing.com,-111.923418,33.581503
+04d11a9e-9d69-469b-8d97-d2743951b459,Fire And Fury Brewing Company,taproom,13825 N 32nd St,,,Phoenix,Arizona,85032,United States,4803491841,http://www.fireandfurybrewing.com,-112.012569,33.612391
+ec2f3d65-8fbf-460f-8cdf-9fe24ec008e1,FireTruck Brewing Company,micro,4746 E Grant Rd,,,Tucson,Arizona,85712-2703,United States,5207779456,http://www.firetruckbrewing.com,-110.891159,32.249227
+4b9222e3-f231-4d53-8890-c5c26c8c05fd,Flagstaff Brewing Co,brewpub,16 E Route 66,,,Flagstaff,Arizona,86001-5792,United States,9287731442,http://www.flagbrew.com,-111.648374,35.197609
+aecbe0a5-c680-45a0-b1dd-8bf5b04d9f3a,Flying Basset Brewing,taproom,720 W Ray Rd,,,Gilbert,Arizona,85233,United States,4804261373,http://www.flyingbassetbrewing.com,-111.805622,33.321046
 dd03f4d8-8690-4895-8755-1dab15c6c160,Four Peaks Brewery & Taproom,large,2401 S Wilson St,,,Tempe,Arizona,85282-2054,United States,4803039967,http://www.fourpeaks.com,-111.9446549,33.40287138
 49fb70b9-b353-4a39-b4c8-a0c4eef09879,Four Peaks Brewing Co,large,1340 E 8th St Ste 104,,,Tempe,Arizona,85281-4396,United States,4803039967,http://www.fourpeaks.com,,
 d28230b2-df56-4b85-aefc-d8e31e1e28c9,Freak'N Brewing Company,micro,9299 W Olive Ave Ste 513,,,Peoria,Arizona,85345-8385,United States,6237385804,http://www.freaknbrew.com,,
+39b6074a-0294-4a4b-9362-92ce6d3eeb93,Front Pourch Brewing,taproom,1611 W Whispering Wind Dr Ste 7,,,Phoenix,Arizona,85085,United States,6232770526,,-112.095018,33.710143
 1a2ef664-c118-4079-9513-9f374aef67cd,Goldwater Brewing Co,micro,3608 N Scottsdale Rd,,,Scottsdale,Arizona,85251-5612,United States,4803507305,http://www.goldwaterbrewing.com,-111.9254955,33.658427
 67640d3f-1f88-4f7e-b603-4c52cac5aa1b,Good Bad Ugly Brewing Co. @ Tavern+Bowl Westgate,brewpub,6770 N Sunrise Blvd Ste G100,,,Glendale,Arizona,85305-3224,United States,9282088376,http://www.tavernbowlwestgate.com,,
 f065cdd4-4548-4d3f-9f63-de811f696110,Gordon Biersch Brewery Restaurant - Glendale,brewpub,6915 N 95th Ave,,,Glendale,Arizona,85305-2488,United States,6238774300,http://www.craftworksrestaurants.com,-112.2638679,33.5050851
 12bbf8b5-aa4a-412b-be50-be1375bf618f,Gordon Biersch Brewery Restaurant - Tempe,brewpub,420 S Mill Ave Ste 201,,,Tempe,Arizona,85281-2870,United States,4807360033,http://www.craftworksrestaurants.com,,
+2073f4d6-2dee-4d4d-ba53-b3e3067613ee,Grand Avenue Brewing Company,taproom,1205 W Pierce St,,,Phoenix,Arizona,85007-2348,United States,6026705465,http://www.grandavebrew.com,-112.08841,33.455746
 a48bf221-575d-4581-96cc-9239aeefa100,Grand Canyon Brewing,brewpub,301 N 7th St Ste 101,,,Williams,Arizona,86046,United States,,,,
+ec59afe3-39f1-4751-b0da-43d1bd22734e,Grand Canyon Brewing,brewpub,1800 South Milton,,,Flagstaff,Arizona,86001,United States,9287741114,,-111.6603,35.182619
 64d350e2-cf89-4b54-bc58-95bbedc251c4,Grand Canyon Brewing Company,micro,233 W Route 66,,,Williams,Arizona,86046-2530,United States,8005132072,http://www.grandcanyonbrewingco.com,-112.1892168,35.2500282
+8691c99b-141c-4134-ae8e-4f473a891c77,Grand Canyon Brewing Company,micro,301 N 7th St,,,Williams,Arizona,86046-1906,United States,9286351911,http://www.grandcanyonbrewery.com,-112.196043,35.251691
 a4ab98db-77ec-4f71-a838-44b06827fbbd,Granite Mountain Brewing,micro,123 N Cortez St,,,Prescott,Arizona,86302-1109,United States,9287785535,http://www.granitemountainbrewing.com,-112.4686018,34.54238481
 3fece130-900d-4f23-99cc-5b35402a403c,Green Feet Brewing,micro,3669 E 44th St,,,Tucson,Arizona,85713-6814,United States,5209771691,http://www.greenfeetbrewing.com,-110.9232648,32.1843632
 94009625-38ed-40cc-b7bc-df48ddd75b32,Greenwood Brewing LLC,contract,600 N 4th St Apt 210,,,Phoenix,Arizona,85004-4489,United States,4802089500,http://www.greenwoodbrews.com,,
+dc5259df-4fd9-4732-8549-dc3ef6282ce0,Greenwood Brewing LLC,taproom,922 N 5th St,,,Phoenix,Arizona,85004,United States,4802089500,http://www.greenwoodbrews.com,-112.067748,33.458481
+5c68d91f-aa47-4034-8199-029f8f6eb93a,Hangar 24 Craft Brewing - Lake Havasu City,brewpub,5600 AZ-95 Ste 6,,,Lake Havasu City,Arizona,86404,United States,9288464447,,-114.359155,34.571219
+1c74030a-d684-4863-9d8a-22a06e6450e8,Harbottle Brewing Company,brewpub,3820 S Palo Verde Rd Ste 102,,,Tucson,Arizona,85714-2075,United States,5204992518,http://www.harbottlebrewing.com,-110.918836,32.177387
 d99076a4-18ea-4c9c-9d7d-0d3fdc0d0986,Helio Basin Brewing Company,brewpub,3935 E Thomas Rd,,,Phoenix,Arizona,85018-7511,United States,6023543525,http://www.heliobasinbrewing.com,-112.0028173,33.4804619
+5e1c3cf3-d779-4e90-9321-3e1612da0b27,Helluva Brewing Company,brewpub,3950 W Ray Rd Ste 5,,,Chandler,Arizona,85226,United States,4806646488,,-111.910089,33.321067
 76e24e7f-4edc-4126-81d5-0cd7dc42fc80,Helton Brewing Company,brewpub,2144 E Indian School Rd,,,Phoenix,Arizona,85016-6130,United States,,,-111.9805956,33.4946865
-832752d5-0acd-4a50-a607-36f8552dd94d,Historic Brewing Company,micro,4366 E Huntington Dr Bldg 2,,,Flagstaff,Arizona,86004-9400,United States,8554844677,http://www.historicbrewingcompany.com,,
+832752d5-0acd-4a50-a607-36f8552dd94d,Historic Brewing Company,micro,4366 E Huntington Dr Bldg 2,,,Flagstaff,Arizona,86004-9400,United States,8554844677,http://www.historicbrewingcompany.com,-111.586559,35.218412
 8e9415ac-0125-48ab-a575-0323b0e8c0f1,HOP Central Brewery and Taproom,micro,5055 W Ray Rd Ste 2,,,Chandler,Arizona,85226-6111,United States,6026971494,http://www.hopcentraltaproom.com,,
-8c10201d-d42a-4573-9384-dd75d08255bd,Huss Brewing,micro,1520 W Mineral Rd Ste 102,,,Tempe,Arizona,85283-4343,United States,4802647611,,,
-e2c014f0-d1c8-43cc-a8c7-639fa846abcb,Insurgent Brewing Co. LLC,micro,990 N State Route 89 Ste B,,,Chino Valley,Arizona,86323-5139,United States,9289254773,http://www.insurgentbrewingco.com,,
-2764f826-fa1f-4b3a-9240-9e620c06f220,Iron John's Brewing Company,micro,245 S Plumer Ave Ste 27,,,Tucson,Arizona,85719-6348,United States,5202373448,http://www.ironjohnsbrewing.com,,
+d125edff-2320-494f-b0d0-22eae670d1fd,Hundred Mile Brewing,brewpub,6202 E. Earll Drive,,,Scottsdale,Arizona,85251,United States,3107225066,http://www.hundredmilebrewing.com,-111.948203,33.484188
+8c10201d-d42a-4573-9384-dd75d08255bd,Huss Brewing Co.,regional,1520 W Mineral Rd Ste 102,,,Tempe,Arizona,85283-4343,United States,4802647611,http://www.hussbrewing.com,-111.964419,33.356866
+e2c014f0-d1c8-43cc-a8c7-639fa846abcb,Insurgent Brewing Co. LLC,brewpub,990 N State Route 89 Ste B,,,Chino Valley,Arizona,86323-5139,United States,9289254773,http://www.insurgentbrewingco.com,-112.454372,34.759844
+a7542dc0-9bcc-4661-886d-c4d874c084d3,Iron John's Brewing Company,office only location,5350 E Broadway Blvd,,,Tucson,Arizona,85711,United States,5207751727,http://www.ironjohnsbrewing.com,-110.878269,32.220996
+2764f826-fa1f-4b3a-9240-9e620c06f220,Iron John's Brewing Company - 18th St,taproom,245 S Plumer Ave Ste 27,,,Tucson,Arizona,85719-6348,United States,8015181536,http://www.ironjohnsbrewing.com,-110.938575,32.219062
+897ae2f2-3e48-415a-a8ba-18745d013c23,Iron John's Brewing Company - Congress,taproom,222 E Congress Ave,,,Tucson,Arizona,85701,United States,5207751727,,-110.968179,32.221907
+d5791d3d-2dbe-42d5-8d20-133c21579724,Kitsune Brewing Co.,taproom,3321 East Bell Road Suite 5,,,Phoenix,Arizona,85032,United States,6029992956,http://www.kitsunebrewingco.com,-112.010733,33.640395
+e39ca094-8754-465b-b2a6-4d4ef59c0206,Lake Pleasant Brewing Company,taproom,1950 W Rose Garden Ln,,,Phoenix,Arizona,85085,United States,6029030823,http://lakepleasantbrewing.com,-112.101646,33.676998
 6b105e5d-a0d6-4368-8766-5d1cc4bee458,LazyG Brewhouse,planning,,,,Prescott,Arizona,86303-4270,United States,4806951218,,-112.469518,34.5402813
-80c95ce3-5826-4673-b5b0-2d6a9b87aeb6,Lochiel Brewing,micro,7143 E Southern Ave Ste 131,,,Mesa,Arizona,85209-2657,United States,4806660915,http://lochielbrewing.com,,
-6f65c0a8-ef15-4ad4-8498-ecd13f22fbe5,Loco Patron Mexican Brewery,brewpub,14950 N Northsight Blvd,,,Scottsdale,Arizona,85260,United States,4806997271,http://www.locopatron.com,-111.8977707,33.6216475
-01f78943-0aa0-4158-b1a4-52160c97a87f,Lonesome Valley Brewing,brewpub,3040 N Windsong Dr Ste 101,,,Prescott Valley,Arizona,86314-2250,United States,9285153541,http://www.lonesomevalleybrewing.com,,
-97fb454b-8b8b-42e7-a89e-9355de3b76f2,Lumberyard Brewing Co Taproom and Grille,micro,5 S San Francisco St,,,Flagstaff,Arizona,86001-5736,United States,9287792739,http://www.lumberyardbrewingcompany.com,-111.648578,35.1964377
-c2b0f72c-c305-40b5-919e-19f7542f6609,McFate Brewing Company,brewpub,1312 N Scottsdale Rd,,,Scottsdale,Arizona,85257-3488,United States,4806569100,http://mcfatebrewing.com,-111.9254955,33.658427
-fb49a213-fa62-4889-acae-1146f3afc238,McFate's Tap + Barrel,brewpub,7337 E Shea Blvd Ste 105,,,Scottsdale,Arizona,85260-6465,United States,4809941275,http://www.fatebrewing.com,,
+80c95ce3-5826-4673-b5b0-2d6a9b87aeb6,Lochiel Brewing,micro,7143 E Southern Ave Ste 131,,,Mesa,Arizona,85209-2657,United States,4806660915,http://lochielbrewing.com,-111.677539,33.393204
+6f65c0a8-ef15-4ad4-8498-ecd13f22fbe5,Loco Patron Mexican Brewery,brewpub,14950 N Northsight Blvd,,,Scottsdale,Arizona,85260,United States,4806997271,http://www.locopatron.com,-111.897899,33.621507
+01f78943-0aa0-4158-b1a4-52160c97a87f,Lonesome Valley Brewing,brewpub,3040 N Windsong Dr Ste 101,,,Prescott Valley,Arizona,86314-2250,United States,9285153541,http://www.lonesomevalleybrewing.com,-112.327259,34.587219
+589f8ea1-171c-4005-bfb0-ab146386595c,LOOK Brewing Co.,brewpub,1 W. Chandler Blvd,,,Chandler,Arizona,85225,United States,5053624353,http://www.lookcinemas.com,-111.841673,33.306004
+97fb454b-8b8b-42e7-a89e-9355de3b76f2,Lumberyard Brewing Co Taproom and Grille,micro,5 S San Francisco St,,,Flagstaff,Arizona,86001-5736,United States,9287792739,http://www.lumberyardbrewingcompany.com,-111.648982,35.196705
 a674f295-8d93-4266-b2bf-e4cfcb4adc6a,Mesquite River Brewing,micro,"13610 N Scottsdale Rd, Suite 18",,,Scottsdale,Arizona,85254-4037,United States,4806567696,http://www.mesquiteriverbrewing.com,,
 c0437356-f02d-4d5d-9b2c-8e8c45aa29cf,"Mother Bunch Brewing, Inc.",micro,825 N 7th St,,,Phoenix,Arizona,85006-3793,United States,6023683580,http://www.motherbunchbrew.com,-112.0649987,33.4572674
 83d19a6e-a9d0-4278-8407-6bb3aa54ab17,Mother Road Brewery and Taproom,micro,1300 East Butler Ave Ste 200,,,Flagstaff,Arizona,86001,United States,9287740492,http://www.motherroadbeer.com/butler-brewery,,
 3c7df0a0-ad62-4b98-9d34-eddab912ce88,Mother Road Brewing Co,micro,7 S Mikes Pike,,,Flagstaff,Arizona,86001-5589,United States,9287749139,http://www.motherroadbeer.com,-111.6524478,35.196928
-b9694c75-826d-486d-82ca-b21db45e8008,Mudshark Brewing Co,micro,210 Swanson Ave,,,Lake Havasu City,Arizona,86403-0966,United States,9284532981,http://www.mudsharkbrewingco.com,-114.3424335,34.46897363
-c9891cfa-d6dd-4499-bad9-0fa9bfb39342,North Mountain Brewing Co,brewpub,522 E Dunlap Ave,,,Phoenix,Arizona,85020-2916,United States,6028615999,http://www.northmountainbrewing.com,-112.0660919,33.56787865
+1ee4c6ba-456b-4119-b379-2d2631eb07fb,Mother Road Brewing Co Downtown,micro,7 S Mikes Pike St,,,Flagstaff,Arizona,86001,United States,9282352057,http://www.motherroadbeer.com/downtownbrewery,-111.6839,35.2384
+94327ae4-b952-4e18-aa61-4531d2db381a,Mother Road Brewing Company,regional,"1300 East Butler Avenue, Suite 200",,,Flagstaff,Arizona,86001,United States,9287749139,http://www.motherroadbeer.com,-111.634453,35.192394
+f1f1fa86-b365-4047-bf3b-1f708834cfc4,MotoSonora Brewing Company,taproom,1015 South Park Avenue,,,Tucson,Arizona,85719,United States,5204166686,http://www.motosonora.com,-110.955788,32.208996
+9164fb3e-8903-4b70-abd1-4990183210c4,Mudshark Brewery and Public House,brewpub,1095 Aviation Drive,,,Lake Havasu City,Arizona,86404,United States,9284539302,http://www.mudsharkbreweryandpublichouse.com,-114.357428,34.50599
+b9694c75-826d-486d-82ca-b21db45e8008,Mudshark Brewing Co,micro,210 Swanson Ave,,,Lake Havasu City,Arizona,86403-0966,United States,9284532981,http://www.mudsharkbeer.com,-114.34115,34.468554
+c9891cfa-d6dd-4499-bad9-0fa9bfb39342,North Mountain Brewing Co,brewpub,522 E Dunlap Ave,,,Phoenix,Arizona,85020-2916,United States,6028615999,http://www.northmountainbrewing.com,-112.066363,33.568262
 5a27af9d-5a16-408e-b9c3-525ff59636c3,O.H.S.O. Brewery,brewpub,10810 N Tatum Blvd Ste 126,,,Phoenix,Arizona,85028-6057,United States,6029009003,http://www.ohsobrewery.com,,
-9848a316-3ec6-415c-bca6-a6a8514decf6,O.H.S.O. Brewery - Gilbert,brewpub,335 N Gilbert Rd,,,Gilbert,Arizona,85234-5766,United States,6029009004,,-111.7896117,33.3508552
-02affaa6-de24-4d80-ba61-889f9c5752d9,O.H.S.O. Eatery + NanoBrewery,brewpub,4900 E Indian School Rd,,,Phoenix,Arizona,85018-5554,United States,6029550358,http://www.ohsobrewery.com,-111.975831,33.49501715
-9fd8f231-917e-4a85-9511-0c7eda622d18,Oak Creek Brewery & Grill,brewpub,336 State Route 179 Ste D201,,,Sedona,Arizona,86336-6183,United States,9282823300,,,
-1e6a90d9-5819-4bf8-90b9-5099daa6f16f,Oak Creek Brewing Co,brewpub,2050 Yavapai Dr Ste 2C,,,Sedona,Arizona,86336-4559,United States,9282039441,http://www.oakcreekbrew.com,,
+9848a316-3ec6-415c-bca6-a6a8514decf6,O.H.S.O. Brewery - Gilbert,brewpub,335 N Gilbert Rd,,,Gilbert,Arizona,85234-5766,United States,6029009004,,-111.789142,33.356255
+8fd0d8a3-74f6-40b3-800e-4ca290fcb5c5,O.H.S.O. Brewery- Paradise Valley,micro,10810 N Tatum Blvd Ste 126,,,Phoenix,Arizona,85028-6057,United States,6029009003,http://www.ohsobrewery.com,-111.979082,33.584361
+02affaa6-de24-4d80-ba61-889f9c5752d9,O.H.S.O. Eatery + NanoBrewery,brewpub,4900 E Indian School Rd,,,Phoenix,Arizona,85018-5554,United States,6029550358,http://www.ohsobrewery.com,-111.975894,33.495015
+9fd8f231-917e-4a85-9511-0c7eda622d18,Oak Creek Brewery & Grill,brewpub,336 State Route 179 Ste D201,,,Sedona,Arizona,86336-6183,United States,9282823300,,-111.762804,34.861948
+1e6a90d9-5819-4bf8-90b9-5099daa6f16f,Oak Creek Brewing Co,brewpub,2050 Yavapai Dr Ste 2C,,,Sedona,Arizona,86336-4559,United States,9282039441,http://www.oakcreekbrew.com,-111.796532,34.866704
 af3289a4-80a1-4aaa-872d-3699402bfbe2,Old Bisbee Brewing,micro,23 Brewery Ave,,,Bisbee,Arizona,85603,United States,5204322739,http://www.oldbisbeebrewingcompany.com,-109.9138438,31.44272169
-60ad3e0d-4848-4049-8fc1-1960fe170fbd,Old Ellsworth Brewing Company,brewpub,22005 S Ellsworth Rd,,,Queen Creek,Arizona,85142-8707,United States,4804330651,http://www.oldebc.com,-111.6343894,33.24511285
-c1357ef9-d471-4c4c-98a7-b740c6c013ab,Oro Brewing Company,micro,210 W Main St,,,Mesa,Arizona,85201-7312,United States,4803988247,http://www.orobrewing.com,-111.8370503,33.41519982
-6d1b585a-6e1b-4452-8d1d-2b0d1f061a4f,Pedal Haus Brewery,brewpub,730 S Mill Ave. Suite 102,,,Tempe,Arizona,85281-3618,United States,4803142337,http://www.pedalhausbrewery.com,,
+33c91ac2-2025-43c2-a102-38606ff77cdd,Old Bisbee Brewing,taproom,200 Review Alley,,,Bisbee,Arizona,85603,United States,5204322739,http://www.oldbisbeebrewingcompany.com,-109.913565,31.442999
+60ad3e0d-4848-4049-8fc1-1960fe170fbd,Old Ellsworth Brewing Company,brewpub,22005 S Ellsworth Rd,,,Queen Creek,Arizona,85142-8707,United States,4804330651,http://www.oldebc.com,-111.633888,33.248282
+c1357ef9-d471-4c4c-98a7-b740c6c013ab,Oro Brewing Company,taproom,210 W Main St,,,Mesa,Arizona,85201-7312,United States,4803988247,http://www.orobrewing.com,-111.837087,33.415351
+b9e18925-fdcf-4e43-8050-9b4819f625df,Patent 139 Brewing Co.,brewpub,1949 W Ray Road,,,Chandler,Arizona,85224,United States,4805977138,http://www.patent139brewingco.com,-111.874968,33.31939
+6d1b585a-6e1b-4452-8d1d-2b0d1f061a4f,Pedal Haus Brewery,brewpub,730 S Mill Ave. Suite 102,,,Tempe,Arizona,85281-3618,United States,4803142337,http://www.pedalhausbrewery.com,-111.940217,33.422604
 5feefc62-8f0b-4150-a4d0-1817f292a3f0,Peoria Artisan Brewery,brewpub,10144 W. Lake Pleasant Parkway Suite 1130,,,Peoria,Arizona,85382,United States,6236959357,http://www.peoriaartisanbrewing.com,,
-8f8dec1e-8d9e-4328-bf6c-2df4521cd661,Peoria Artisan Brewery,brewpub,10144 W Lake Pleasant Pkwy Ste 1130,,,Peoria,Arizona,85382-9716,United States,6235364804,http://www.peoriaartisanbrewing.com,,
-d93bb3a9-c080-4c8a-8a4e-5181fc15b35a,Pinetop Brewing Company,brewpub,159 W White Mountain Blvd,,,Lakeside,Arizona,85929-6527,United States,9283581971,http://www.pinetopbeer.com,-109.9561769,34.14301231
+8f8dec1e-8d9e-4328-bf6c-2df4521cd661,Peoria Artisan Brewery,brewpub,10144 W Lake Pleasant Pkwy Ste 1130,,,Peoria,Arizona,85382-9716,United States,6235364804,http://www.peoriaartisanbrewing.com,-112.277248,33.677805
+e16d16cb-fb47-4e45-8287-3f65d193259a,Peoria Artisan Brewery,office only location,10144 W Lake Pleasant Parkway,,,Peoria,Arizona,85382,United States,6235722816,http://www.peoriaartisanbrewing.com,-112.277248,33.677805
+8cbfb27e-80e0-4d52-bfdc-f32f048e3778,PHX Beer Co.,micro,3002 E Washington St # 3002,,,Phoenix,Arizona,85034-1518,United States,6022755049,http://www.phxbeerco.com,-112.016904,33.448679
+d93bb3a9-c080-4c8a-8a4e-5181fc15b35a,Pinetop Brewing Company,brewpub,159 W White Mountain Blvd,,,Lakeside,Arizona,85929-6527,United States,9283581971,http://www.pinetopbeer.com,-109.956634,34.142955
 288a1501-5129-46e7-8c3e-1692cb0939b7,Prescott Brewing Co,brewpub,130 W Gurley St Ste A,,,Prescott,Arizona,86301-3603,United States,9287712795,http://www.prescottbrewingcompany.com,,
 1b6e6fff-249d-4673-bf57-fa7af2aec4b1,Prescott Brewing Co - Production Facility,micro,6396 Lear Ln,,,Prescott,Arizona,86301-9118,United States,9287712795,http://www.prescottbrewingcompany.com,-112.4132617,34.649529
 0c9c1cb2-6f27-4325-9166-a34a991c573d,Prison Hill Brewing Co,brewpub,278 S Main St,,,Yuma,Arizona,85364-1425,United States,9282764001,,-114.6181995,32.7229185
 87961052-082b-4070-a77d-044a353c4e53,Public Brewhouse,micro,209 N Hoff Ave,,,Tucson,Arizona,85705-8537,United States,5207752337,http://www.publicbrewhouse.com,-110.9648848,32.22401718
-e8797224-010f-4448-9b2a-a7455f8a768f,Pueblo Vida Brewing Co,micro,115 E Broadway Blvd,,,Tucson,Arizona,85701-2011,United States,5206237168,http://www.pueblovidabrewing.com,-110.9451764,32.2214274
-536187da-6f21-4ccd-89f1-33a0c47516cb,Richter Aleworks,micro,8279 W Lake Pleasant Pkwy Ste 110,,,Peoria,Arizona,85382-7434,United States,6029086553,http://www.richteraleworks.com,-112.2380541,33.6687745
-4dc524ab-af98-4f2d-828e-e6df7078ad9f,Rickety Cricket Brewing,brewpub,312 E Beale St,,,Kingman,Arizona,86401-5832,United States,9287532337,http://www.ricketycricketbrewing.com,-114.0614981,35.19028906
+e8797224-010f-4448-9b2a-a7455f8a768f,Pueblo Vida Brewing Company,taproom,115 E Broadway Blvd,,,Tucson,Arizona,85701-2011,United States,5206237168,http://www.pueblovidabrewing.com,-110.968256,32.221399
+35803b36-7cf1-4b69-af61-52929b672d71,Ranch Hand Brewing,micro,6565 N. Toltec Buttes Rd.,,,Eloy,Arizona,85131,United States,5203072931,http://www.ranchhandbrewing.com,-111.635724,32.832191
+9e033c3f-e150-41ae-858e-f64391af5e81,Ranch House Brewery,brewpub,31143 S amenity drive,,,Oracle,Arizona,85623,United States,5203072931,http://Josh.johnson@robson.com,-110.7817,32.6083
+536187da-6f21-4ccd-89f1-33a0c47516cb,Richter Aleworks,taproom,8279 W Lake Pleasant Pkwy Ste 110,,,Peoria,Arizona,85382-7434,United States,6029086553,http://www.richteraleworks.com,-112.23947,33.669222
+4dc524ab-af98-4f2d-828e-e6df7078ad9f,Rickety Cricket Brewing,micro,312 E Beale St,,,Kingman,Arizona,86401-5832,United States,9282638444,http://www.ricketycricketbrewing.com,-114.053891,35.189414
 be7ced94-d8cd-47c2-8789-31a4010490bf,Roadrunner Abbey Brewing,planning,,,,Chandler,Arizona,85249-4724,United States,4805708283,,-111.8408489,33.3067132
 3a26e910-305e-445b-8d44-2d2b4993bf01,Rock Bottom Brewery - Arrowhead,brewpub,7640 W Bell Rd,,,Glendale,Arizona,85308-8619,United States,6238788822,http://www.rockbottom.com,,
-2a94fbb0-2e87-4063-b496-09a4be6c6126,Saddle Mountain Brewing Company,brewpub,15651 W Roosevelt St,,,Goodyear,Arizona,85338-9309,United States,6239809524,,-112.3970112,33.4572737
+16acda33-9bf1-48a2-bd0a-3c2898f4d497,Roses by the Stairs Brewing,taproom,509 W Mcdowell Rd,,,Phoenix,Arizona,85003,United States,4155278206,,-112.081136,33.465497
+2a94fbb0-2e87-4063-b496-09a4be6c6126,Saddle Mountain Brewing Company,brewpub,15651 W Roosevelt St,,,Goodyear,Arizona,85338-9309,United States,6239809524,,-112.395659,33.456414
 85619fb4-6a1c-48b5-8280-4962b2eb67df,SanTan Brewing Co,regional,8 S San Marcos Pl,,,Chandler,Arizona,85225-7862,United States,4809178700,http://www.santanbrewing.com,-111.8423459,33.3032436
 6b294403-76c6-411c-b991-6d9c853f514f,SanTan Brewing Co,planning,,,,Phoenix,Arizona,85014-2435,United States,,,-112.0773456,33.4485866
 a48a79db-2554-4e84-8112-088ceaa4f2ad,SanTan Brewing Co - Uptown Chandler,micro,495 E. Warner Rd.,,,Chandler,Arizona,85225,United States,4809178700,,-111.8384052,33.3352048
+cf40e39d-d650-4abe-915f-06c4190e41ac,SanTan Brewing Co - Uptown Chandler,brewpub,8 S. San Marcos Pl,,,Chandler,Arizona,85225,United States,4809178700,,-111.842539,33.30323
+9c5bbba6-ee86-4d5a-94dc-06dd54685e2a,SanTan Brewing Company,regional,495 E. Warner Rd.,,,Chandler,Arizona,85225,United States,4809178700,http://www.santanbrewing.com,-111.833593,33.334338
 71ded1fd-3d39-42df-b7e3-15aa83ab2d88,Science,planning,,,,Phoenix,Arizona,85020-5620,United States,,,-112.0773456,33.4485866
 71b905fe-e308-47aa-a165-0c9f2c658b78,Scottsdale Beer Company,brewpub,8608 E Shea Blvd,,,Scottsdale,Arizona,85260-6614,United States,4802191844,http://www.scottsdalebeercompany.com,-111.8951852,33.5828595
 09173c6a-63d6-435d-893a-d7fb2fff3f2d,Sedona Beer Company,planning,,,,Sedona,Arizona,86336-4170,United States,,http://www.sedonabeerco.com,-111.7929891,34.8657757
+b5386f35-7220-4061-ae52-b5c58698ba4e,Sedona Beer Company,brewpub,465 Jordan Rd Ste 1,,,Sedona,Arizona,86336-4170,United States,9288624148,http://www.sedonabeerco.com,-111.76127,34.873499
 01360f98-4f2b-4893-bdb7-d44f75e152a6,Sentinel Peak Brewing Company,brewpub,4746 E Grant Rd,,,Tucson,Arizona,85712-2703,United States,5207779456,http://www.sentinelpeakbrewing.com,-110.8552229,32.2505857
-a2bdb22b-3649-43a7-85b8-7821e09c1d7c,Sleepy Dog Brewing Co,micro,1920 E University Dr,,,Tempe,Arizona,85281-4608,United States,4809675476,,-111.9041833,33.422606
+35b3fdf8-3239-49a5-8702-dba68613f9db,Simple Machine Brewing Company,taproom,701 W Deer Valley Rd,,,Phoenix,Arizona,85027,United States,6234699199,http://www.simplemachinebrewing.com,-112.084072,33.683215
+a2bdb22b-3649-43a7-85b8-7821e09c1d7c,Sleepy Dog Brewing Co,micro,1920 E University Dr,,,Tempe,Arizona,85281-4608,United States,4809675476,,-111.904149,33.422615
+0d6b815d-d7ea-4495-b074-1fd68494c82a,Smelter Town Brewery,micro,921 Main Street,,,Clarkdale,Arizona,86324,United States,9288210814,http://www.smeltertownbrewery.com,-112.058472,34.770887
 4032ebf7-ed73-4dd4-b57c-a898a13ffbca,Sonoran Brewing,contract,3002 E Washington St,,,Phoenix,Arizona,85034-1518,United States,6025108996,http://www.sonoranbrewing.com,-111.9805737,33.4475332
 436846b7-4538-4d89-b919-2396c7f00ab8,State 48 Barrel and Lager House,planning,,,,Scottsdale,Arizona,85260-1924,United States,,,-111.8992365,33.5091215
+d848b7b8-9466-4f27-a374-840fbd200145,State 48 Barrel and Lager House,brewpub,15600 N Hayden Rd,,,Scottsdale,Arizona,85260-1924,United States,4086590048,,-111.896992,33.627302
 6260eac2-6949-4c19-aec9-739c2cdcf849,State 48 Brewery,planning,,,,Phoenix,Arizona,85003-1626,United States,,,-112.0773456,33.4485866
-733fcd37-636e-469f-b8fa-6b928d009d89,State 48 Brewery,brewpub,13823 W Bell Rd,,,Surprise,Arizona,85374-3873,United States,6235841095,,-112.3578138,33.63822125
-44dbdaea-02c1-4459-b259-0605a7a219b8,Sun Up Brewing Co.,brewpub,322 E Camelback Rd,,,Phoenix,Arizona,85012-1614,United States,6026708924,http://sunup.beer,-112.0687773,33.50950925
+733fcd37-636e-469f-b8fa-6b928d009d89,State 48 Brewery,brewpub,13823 W Bell Rd,,,Surprise,Arizona,85374-3873,United States,6235841095,,-112.357789,33.637975
+e21db89d-d25b-4292-a37e-bfd68462270a,State 48 Brewery,micro,345 W Van Buren St,,,Phoenix,Arizona,85003-1626,United States,,,-112.078587,33.451107
+5e5e095d-d6b1-43d5-a01c-68700a419bce,State 48 Funkhouse,brewpub,6770 N Sunrise Blvd,,,Glendale,Arizona,85305,United States,6238774448,,-112.260761,33.533857
+d2ca4814-71f0-46cb-aa9d-bf243d2fd013,Steel Cactus Brewing,taproom,761 N Monterey Street,,,Gilbert,Arizona,85233,United States,9712359665,http://www.steelcactusbrewing.com,-111.79991,33.363174
 64203bc5-a848-4d03-a025-01b0df322b3b,Sun Up Brewing Company 330,planning,,,,Phoenix,Arizona,85012,United States,,,-112.0773456,33.4485866
+0eb52d1f-01b2-49e1-a146-8e0d2270ff4f,Sun Up Brewing Company Taproom,taproom,330 E Camelback Rd,,,Phoenix,Arizona,85012,United States,,,-112.068379,33.509535
+44dbdaea-02c1-4459-b259-0605a7a219b8,SunUp Brewing Co.,brewpub,322 E Camelback Rd,,,Phoenix,Arizona,85012,United States,6022798909,http://sunup.beer,-112.068662,33.509535
 6ef59986-4d00-46b4-880c-8e202f6f5a7b,Ten Fifty Five Brewing,micro,3810 E 44th St Ste 315,,,Tucson,Arizona,85713-5474,United States,5204618073,http://www.1055brewing.com,,
-f3e387ba-a709-4788-8be7-40544b60d002,THAT Brewery - Cottonwood,micro,300 E Cherry St Unit B,,,Cottonwood,Arizona,86326-6178,United States,9282023013,http://www.thatbrewery.com,,
+c49903c6-3475-499d-bdd0-bfcdea189d6d,THAT Brewery,brewpub,3270 N Az Highway 87,,,Pine,Arizona,85544-5036,United States,9284763349,http://www.thatbrewery.com,-111.449882,34.37694
+f3e387ba-a709-4788-8be7-40544b60d002,THAT Brewery - Cottonwood,micro,300 E Cherry St Unit B,,,Cottonwood,Arizona,86326-6178,United States,9282023013,http://www.thatbrewery.com,-112.025015,34.733569
 3d20ed64-08b1-4d6e-ab7b-556365e66c3f,THAT Brewery & Pub - Pine,brewpub,3270 N Az Highway 87,,,Pine,Arizona,85544-5036,United States,9284763349,http://www.thatbrewery.com,,
 964e02eb-eda8-45e4-a21c-cd679757dbfc,The Address Brewing / 1702 Beer & Pizza,micro,1702 E Speedway Blvd,,,Tucson,Arizona,85719-4515,United States,5203251702,http://www.1702az.com,-110.9465853,32.23567665
-0bec1266-0d4a-4df2-bfb5-6b2c405c9983,The Perch Pub & Brewery,brewpub,232 S Wall St,,,Chandler,Arizona,85225-9528,United States,4805808044,http://www.perchpubbrewery.com,-111.8424808,33.3000878
+0bec1266-0d4a-4df2-bfb5-6b2c405c9983,The Perch Pub & Brewery,brewpub,232 S Wall St,,,Chandler,Arizona,85225-9528,United States,4807737688,http://www.perchpubbrewery.com,-111.842338,33.300123
 916c862e-98d5-4dcb-aba7-20389e5676fd,The Phoenix Ale Brewery,micro,3002 E Washington St # 3002,,,Phoenix,Arizona,85034-1518,United States,6022755049,http://phoenixale.com,-111.9642922,33.4457883
-8408c237-93da-4528-9127-4429128898fe,The Shop Beer Co.,micro,922 W 1st St,,,Tempe,Arizona,85281-2674,United States,6027174237,http://www.theshop.beer,-111.9514292,33.42917384
+8408c237-93da-4528-9127-4429128898fe,The Shop Beer Co.,micro,922 W 1st St,,,Tempe,Arizona,85281-2674,United States,6027174237,http://www.theshop.beer,-111.951099,33.429663
+abf58356-5438-4b7a-b353-e7da36af8215,Throne Brewing,brewpub,17035 N 67th Ave Ste 6,,,Glendale,Arizona,85308-3655,United States,6234127770,http://www.dubinabrewing.com,-112.202364,33.639533
 21fcf2f2-1db4-4189-a3ef-cc4c629a6e8e,Thunder Canyon Brewery,brewpub,220 E Broadway Blvd Ste 2,,,Tucson,Arizona,85701-2043,United States,5203963480,http://www.thundercanyonbrewery.com,,
+194c83c6-b4c6-47fb-870c-6447903eab13,Tirrito Farm,micro,6150 S. Kansas Settlement Road,,,Willcox,Arizona,85643,United States,5208346830,http://www.tirritofarm.com,-109.756227,32.139415
 47df5771-9c01-422d-82f6-98a5d2e4e246,Tombstone Brewing Company,micro,107 E Toughnut,,,Tombstone,Arizona,85638,United States,5202226781,http://www.tombstone.beer,-110.0722818,31.71360268
+ab0ccd45-9360-4b53-b58b-7db2017396f8,Tombstone Brewing Company,micro,107 E Toughnut St,,,Tombstone,Arizona,85638,United States,5202226781,http://www.tombstone.beer,-110.070479,31.712442
+83dbffd1-0ed6-4bb2-878c-2f7fea458b5a,Tombstone Brewing North,taproom,3935 E Thomas Rd,,,Phoenix,Arizona,85018,United States,,,-111.996226,33.479802
 0f1ed8ab-a282-40c9-8a58-1dfc03e7ce6f,Trail Crest Brewing Company,brewpub,1800 S Milton Rd Ste 11,,,Flagstaff,Arizona,86001,United States,9284405085,http://www.trailcrestbrewing.com,,
+4e90451b-41ba-421e-b7df-fe2791ee0886,Transplant City Beer Co,taproom,107 W Honeysuckle Ave,,,Litchfield Park,Arizona,85340,United States,6235353911,,-112.358356,33.49442
 287e8cd1-bfb6-4c9c-b38f-bcde56ccb472,Two Brothers Scottsdale Tap House and Brewery,brewpub,4321 N Scottsdale Rd,,,Scottsdale,Arizona,85251-3329,United States,4803783001,,-111.9254955,33.658427
 c339e1ba-09e5-4f0e-933a-b18fff765eba,Uncle Bear's Brewery,brewpub,4921 E Ray Rd Ste 103,,,Phoenix,Arizona,85044-6495,United States,4802770765,http://www.unclebearsaz.com,,
+563e18c6-36e9-4e35-8443-6ed61eb32eb9,Uncle Bear's Brewery,micro,612 E Germann Rd,,,Gilbert,Arizona,85297,United States,4802770765,http://http://unclebearsaz.com,-111.776689,33.277662
+36983efd-5de4-4a81-ac98-83f3be474ccc,Verde Brewing Co,brewpub,724 N. Industrial dr. Suite 7A,,,Camp Verde,Arizona,86322,United States,7039695047,http://verdebrewing.com,-111.88143,34.580284
 2d9ff9d8-6a92-49fd-b03c-d77bbb371600,Verde Brewing Company,micro,724 Industrial Dr Unit 7A,,,Camp Verde,Arizona,86322,United States,9285678626,http://www.verdebrewing.com,,
+56e47fae-05b9-40a2-bc22-735e4205eb6d,Voltron Brewing Company,micro,330 S Toole Ave,,,Tucson,Arizona,85701-1837,United States,5204712034,,-110.961619,32.217654
 4435d82d-70bf-4e0d-90df-d9b849ed8931,Walter Station Brewery,planning,,,,Phoenix,Arizona,85034-1820,United States,2674216316,http://www.walterstation.beer,-112.0773456,33.4485866
-4c4bc3c0-81f1-483c-831f-64994ae72105,Wanderlust Brewing Company,micro,1519 N Main St Ste 102,,,Flagstaff,Arizona,86004-4970,United States,9283517952,http://www.wanderlustbrewing.com,,
+fae55291-ba35-4eb1-a675-dd1b30ad4747,Walter Station Brewery,brewpub,4056 E Washington St,,,Phoenix,Arizona,85034-1820,United States,2674216316,http://www.walterstation.beer,-111.992997,33.448442
+4c4bc3c0-81f1-483c-831f-64994ae72105,Wanderlust Brewing Company,taproom,1519 N Main St Ste 102,,,Flagstaff,Arizona,86004-4970,United States,9283517952,http://www.wanderlustbrewing.com,-111.618189,35.202419
 35279122-92ea-403b-a946-dbc578ce4bcd,Whirling Skirmish Brewing Company,planning,,,,Scottsdale,Arizona,85254-2513,United States,6023592489,,-111.8992365,33.5091215
 86217917-be17-4445-8056-4f8b734200af,Wicked Monkey Brewing Co,planning,,,,Marana,Arizona,85653-8154,United States,,,-111.2157091,32.4446988
 68d84faa-3c71-4fa0-b643-6d4dc8a12f86,Wren House Brewing Company,micro,2125 N 24th St,,,Phoenix,Arizona,85008-2713,United States,6022449184,http://www.wrenhousebrewing.com,-112.0301125,33.516633
+c6b05cc1-34e0-4225-8497-1ef5bc865053,Wren House Brewing Company - Production Facility,micro,6396 Lear Lane,,,Prescott,Arizona,86301,United States,,,-112.413709,34.650172

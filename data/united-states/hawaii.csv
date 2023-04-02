@@ -1,24 +1,38 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 cc1c18dc-77d7-4ca5-b3b7-8180f77feecd,Aloha Beer Co,brewpub,700 Queen St,,,Honolulu,Hawaii,96813-5110,United States,8085455959,http://www.alohabeer.com,-157.857248,21.301249
+e345e4a8-8771-4afa-bd2f-1cf824bfb2f2,Aloha Beer Waikiki,brewpub,2155 Kalakaua Ave,,,Honolulu,Hawaii,96815,United States,,http://www.alohabeer.com/location/aloha-beer-waikiki,-157.830447,21.280951
 bf244193-89cd-4321-906c-abda26f7199d,Beer Lab HI,micro,1010 University Ave Ste B1,,,Honolulu,Hawaii,96826-1537,United States,8088880913,http://www.beerlabhi.com,-157.8218784,21.29214406
-d2699492-6d8c-492d-a52d-e71342e717ca,Big Island Brewhaus,brewpub,64-1066 Mamalahoa Hwy Unit 5,,,Kamuela,Hawaii,96743-7309,United States,8088871717,http://www.bigislandbrewhaus.com,-155.661471,20.025552
+86743af3-2aea-430a-96de-9074a80b60f7,Beer Lab HI,micro,94-515 Ukee Street,,,Waipahu,Hawaii,96797,United States,8085173128,http://www.beerlabhi.com,-158.005622,21.423085
+d2699492-6d8c-492d-a52d-e71342e717ca,Big Island Brewhaus,brewpub,64-1066 Mamalahoa Hwy Unit 5,,,Kamuela,Hawaii,96743-7309,United States,8088871717,http://www.bigislandbrewhaus.com,-155.661503,20.024883
+816508d2-1727-457b-bc49-459ce31c24e9,Broken Boundary Brewery,taproom,740A Moowaa Street Ste. A,,,Honolulu,Hawaii,96817,United States,8087546816,http://www.brokenboundarybrewery.com,-157.873174,21.324597
 abba7334-109f-4923-89de-c3ba7d83aad1,Gordon Biersch Brewery Restaurant - Honolulu,closed,1 Aloha Tower Dr Ste 1123,,,Honolulu,Hawaii,96813-4815,United States,8085994877,http://www.gordonbiersch.com/restaurant,-157.86622,21.306704
 5fe91dd7-0dac-41d0-aac9-7c2fd664a929,Hana Koa Brewing Company,brewpub,962 Kawaiahao St,,,Honolulu,Hawaii,96814,United States,8085912337,http://www.hanakoabrewing.com,-157.852894,21.297494
 6244855f-97dd-487a-bb90-348b8c3b26f5,Hawaii Nui Brewing,closed,275 E Kawili St,,,Hilo,Hawaii,96720-5074,United States,8089348211,http://www.hawaiinuibrewing.com,-155.0697885,19.70587596
-ad2d6466-b1a2-45f2-9782-67b1f3b8bfdb,Hilo Brewing Co,micro,275 E Kawili St,,,Hilo,Hawaii,96720-5074,United States,8089348211,https://hilobrewingco.com,-155.0697885,19.70587596
+ad2d6466-b1a2-45f2-9782-67b1f3b8bfdb,"Hilo Brewing, CO",micro,275 E Kawili St,,,Hilo,Hawaii,96720-5074,United States,8089348211,http://www.hilobrewingco.com,-155.069142,19.706046
 ad3d52fd-8b41-48f9-82a2-168aeb548402,Home of the Brave Brewing Company,closed,909 Waimanu St,,,Honolulu,Hawaii,96814-3309,United States,8083968112,http://www.hotbbc.com,-157.8535966,21.29875689
-31963341-be39-4151-bac5-f69af74f3469,Honolulu BeerWorks,brewpub,328 Cooke St,,,Honolulu,Hawaii,96813-5531,United States,8085892337,http://www.honolulubeerworks.com,-157.860634,21.29690603
+31963341-be39-4151-bac5-f69af74f3469,Honolulu BeerWorks,micro,328 Cooke St,,,Honolulu,Hawaii,96813-5531,United States,8085892337,http://www.honolulubeerworks.com,-157.86043,21.297119
 f042a269-ee40-4b80-8bdf-dda3af3d37b2,Inu Island Ales,micro,46-147 Kahuhipa St STE E,,,Kaneohe,Hawaii,96744,United States,4088888586,http://www.inuislandales.com,-157.805414,21.416279
-581746ff-1964-4836-8176-966bf9cd3bd7,Kauai Beer Company,brewpub,4265 Rice St,,,Lihue,Hawaii,96766,United States,8082452337,http://www.kauaibeer.com,-159.3647876,21.9722854
+023ec35a-3dc0-4802-b112-d08b8e4262e0,Inu Island Ales,taproom,46-147 Kahuhipa St,,,Kaneohe,Hawaii,96744,United States,8082023684,http://www.inuislandales.com,-157.804062,21.417334
+581746ff-1964-4836-8176-966bf9cd3bd7,Kauai Beer Company,brewpub,4265 Rice St,,,Lihue,Hawaii,96766,United States,8082452337,http://www.kauaibeer.com,-159.364818,21.972105
 9374fec3-c538-4132-a158-9543aedd32df,Kauai Island Brewery,brewpub,4350 Waialo Rd,,,Eleele,Hawaii,96705,United States,8083350006,http://www.kauaiislandbrewing.com,-159.586522,21.901641
-5f56a466-73e1-4146-89eb-efaa6db0c27c,Kohola Brewery,micro,910 Honoapiilani Hwy,,,Lahaina,Hawaii,96761-1507,United States,8088683198,http://www.koholabrewery.com,-156.653963,20.845329
+b1155b12-f9d3-46ad-9405-f7eb3ddc5e17,Kauai Island Brewing Co. LLC,brewpub,4350 Waialo Rd,,,Port Allen,Hawaii,96705,United States,8087555331,http://www.kauaiislandbrewing.com,-159.586563,21.901422
+bf3583b8-f148-40db-a176-4f6290f6d2b2,Kohanaiki,taproom,73-2055 Ala Kohanaiki,,,Kona,Hawaii,96740,United States,8085575084,http://Kohanaiki.com,-155.9846,19.6757
+5f56a466-73e1-4146-89eb-efaa6db0c27c,Kohola Brewery,micro,910 Honoapiilani Hwy,,,Lahaina,Hawaii,96761-1507,United States,8088683198,http://www.koholabrewery.com,-156.678438,20.879763
 54b5153a-ae15-47c0-8e81-b58a3ce58d40,Kona Brewing Co,regional,74-5612 Pawai Pl,,,Kailua Kona,Hawaii,96740-1617,United States,8083341133,http://www.konabrewingco.com,-155.997661,19.643069
-602d2208-7f70-4996-b6cd-2e7b12f1be66,Lanikai Brewing Co,micro,175-C Hamakua Dr,,,Kailua,Hawaii,96734,United States,,https://www.lanikaibrewing.com,-157.7403266,21.39044286
+6981a0a4-c118-42e9-b27b-183d7659c926,Kona Brewing Hawaii,regional,74-5588 Pawai Place,,,Kailua-Kona,Hawaii,96740,United States,8084431800,http://www.konabrewinghawaii.com,-155.999614,19.643487
+602d2208-7f70-4996-b6cd-2e7b12f1be66,Lanikai Brewing Co,micro,175-C Hamakua Dr,,,Kailua,Hawaii,96734,United States,,,-157.741518,21.390532
+4352ec3f-7561-4bf7-bba2-df64e989a183,Lanikai Brewing Co Tap and Barrel,brewpub,167 Hamakua Dr,,,Kailua,Hawaii,96734,United States,,,-157.742082,21.390729
+2ef7ebab-9c9f-40f0-b102-41f7ed25d00b,Lokahi Brewing Company LLC,taproom,1160 S. King St.,,,Honolulu,Hawaii,96814,United States,8088668323,http://www.lokahibrewing.com,-157.844583,21.30034
+3ca1f42f-d0c9-44bf-90fc-5addab6df531,Mahalo Aleworks,taproom,30 Kupaoa St,,,Makawao,Hawaii,96768,United States,,http://www.mahaloaleworks.com,-156.330516,20.821855
+20fd17d0-4276-415a-93cc-8091993fa700,Maui Brewing - Production,regional,605 Lipoa Pkwy,,,Kihei,Hawaii,96753,United States,8082133002,,-156.437308,20.74893
 a47e6f5c-22fb-4166-a10f-e5032764da84,Maui Brewing Co - Kihei,brewpub,605 Lipoa Pkwy,,,Kihei,Hawaii,96753-6947,United States,8082133002,http://www.mauibrewingco.com,-156.4402411,20.74961566
 1c2fd1ee-d81c-4408-a584-bbedc2a23c6e,Maui Brewing Co - Lahaina,brewpub,4405 Honoapiilani Hwy Ste 217,,,Lahaina,Hawaii,96761-9272,United States,8086693474,http://www.mauibrewingco.com,-156.653963,20.845329
 4cfbbdc1-142e-4a66-8f3b-54bb830d2c20,Maui Brewing Co - Waikiki,brewpub,2300 Kalakua Ave,,,Honolulu,Hawaii,96815,United States,8088432739,https://www.mauibrewingco.com,-157.826624,21.278349
-74ecf1e8-780b-4fdf-a910-722bb60f8abb,Ola Brew Co.,micro,74-5598 Luhia St Ste A,,,Kailua Kona,Hawaii,96740-3151,United States,8083393565,http://www.olabrewco.com,-155.99806,19.646861
+bfd17dc6-5f07-4016-80ab-016983f081b6,"Maui Brewing Co, Brewpub",brewpub,4405 Honoapiilani Hwy Ste 217,,,Lahaina,Hawaii,96761-9272,United States,8086693474,http://www.mauibrewingco.com,-156.67764,20.972614
+74ecf1e8-780b-4fdf-a910-722bb60f8abb,Ola Brew Co.,micro,74-5598 Luhia St Ste A,,,Kailua Kona,Hawaii,96740-3151,United States,8083393565,http://www.olabrewco.com,-155.998069,19.646779
 5d48eb13-35d2-4724-be47-4095fd49426a,Stewbum,brewpub,96 N King St,,,Honolulu,Hawaii,96817-5109,United States,8086646684,http://www.stewbumandstonewall.com,-157.8634762,21.31171513
-ea0ef1dd-af5c-4936-983b-22e5f190baac,Taps and Apps,brewpub,95-1830 Meheula Pkwy Ste C-6,,,Mililani,Hawaii,96789-6311,United States,8086268277,http://www.tapsandappsbrewpub.com,-158.002414,21.467355
-150e5041-28b6-4a3c-9dbe-2b739c4f1a1f,Waikiki Brewing Company,brewpub,1945 Kalakaua Ave,,,Honolulu,Hawaii,96815-1851,United States,,http://www.waikikibrewing.com,-157.8334964,21.2858755
-7e06716a-cf35-431f-8097-611364da644c,"Waikiki Brewing Company, Kaka'ako",micro,831 Queen St,,,Honolulu,Hawaii,96813-5203,United States,,,-157.8559271,21.29964432
+ea0ef1dd-af5c-4936-983b-22e5f190baac,Taps and Apps,brewpub,95-1830 Meheula Pkwy Ste C-6,,,Mililani,Hawaii,96789-6311,United States,8086268277,http://www.tapsandappsbrewpub.com,-158.001094,21.467688
+150e5041-28b6-4a3c-9dbe-2b739c4f1a1f,Waikiki Brewing Company,brewpub,1945 Kalakaua Ave,,,Honolulu,Hawaii,96815-1851,United States,,http://www.waikikibrewing.com,-157.833619,21.285922
+26a9f6df-7b85-48da-bf5f-8f894eb73425,Waikiki Brewing Company Lahaina,brewpub,900 Front St,,,Lahaina,Hawaii,96761,United States,8088560036,http://www.waikikibrewing.com/lahaina,-156.680773,20.878605
+b02b4451-a0e0-40b9-9c63-bb44ae2ed6cf,Waikiki Brewing Company South Side,brewpub,3750 Wailea Ala Nui Dr,,,Wailea,Hawaii,96753,United States,8088680935,http://www.waikikibrewing.com/south-side,-156.440368,20.687173
+7e06716a-cf35-431f-8097-611364da644c,"Waikiki Brewing Company, Kaka'ako",micro,831 Queen St,,,Honolulu,Hawaii,96813-5203,United States,,,-157.855988,21.299232

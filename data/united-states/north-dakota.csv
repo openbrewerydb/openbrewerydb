@@ -1,27 +1,34 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 65706566-c0f6-4995-ae18-0b07feea8396,Atypical Brewery & Barrelworks,micro,510 Central Ave E,,,Minot,North Dakota,58701-4056,United States,7018330567,https://www.facebook.com/AtypicalBrew,-101.2854035,48.23634956
-105076f0-ca29-4fb5-8c91-73e1d7dbfb9d,Bismarck Brewing,brewpub,1100 Canada Ave Suite 1,,,Bismarck,North Dakota,58503-1814,United States,,http://www.bismarckbrew.com,-100.7737552,46.86270313
-4ec0bd38-0ab1-4c4e-84bb-63510b63f4a0,Black Leg Brewery,micro,24750 62nd Ave SE,,,McKenzie,North Dakota,58572-9649,United States,,http://blacklegranch.com,-100.3978304,46.74842764
+fad2b6ae-b411-42f8-bdba-d7e21970b17a,Atypical Brewery & Barrelworks,brewpub,510 E Central Ave,,,Minot,North Dakota,58701-4056,United States,7017205812,,-101.285676,48.23626
+105076f0-ca29-4fb5-8c91-73e1d7dbfb9d,Bismarck Brewing,taproom,1100 Canada Ave. Suite 1,,,Bismarck,North Dakota,58503,United States,7017518820,http://www.bismarckbrew.com,-100.774083,46.862621
+4ec0bd38-0ab1-4c4e-84bb-63510b63f4a0,Black Leg Brewery,micro,24750 62nd Ave SE,,,McKenzie,North Dakota,58572-9649,United States,,http://www.BlackLegRanch.com,-100.400316,46.739365
+3b24e2a1-8337-4fb2-bf5f-99dde7cd05e7,Black Paws Brewing Company,taproom,424 4th St,,,Devils Lake,North Dakota,58301,United States,,http://www.blackpawsbrewingco.com,-98.859091,48.111439
 45b4f628-b1fb-4d61-baf9-29b557e987ad,Brockopp Brewing,nano,114 Main St E,,,Valley City,North Dakota,58072-3450,United States,,https://www.facebook.com/BrockoppBrewing,-98.00272896,46.92586281
-6bd08522-4294-441d-8727-1e7c61e19e41,Buffalo Commons Brewing Company,micro,2307 Memorial Hwy,,,Mandan,North Dakota,58554-4624,United States,7015952255,http://www.buffalocommonsbeer.com,-100.8618267,46.82409056
-678c1f63-2b15-4900-84bd-c11c47dcf26a,Busted Knuckle Brewery,micro,213 11th St W,,,Williston,North Dakota,58801-5125,United States,7015772277,http://bkbwilliston.com,-103.6271886,48.15635372
-74ded0c0-4d57-423b-943c-166cb125402c,Dialectic Brewing Company,micro,416 W Main St,,,Mandan,North Dakota,58554-3145,United States,7013181328,http://www.dialecticbrewingcompany.com,-100.8950937,46.82578828
-3799434f-4c20-4d7b-9085-6c83db87c1c7,Drekker Brewing Company,micro,1666 1st Ave N,,,Fargo,North Dakota,58102-4246,United States,7015320506,http://www.drekkerbrewing.com,-96.80829701,46.87930301
+0f0ce2cf-6247-4e6d-a9bb-8621c0118e25,Brockopp Brewing LLC,taproom,114 E Main St,,,Valley City,North Dakota,58072,United States,7018409866,http://www.brockoppbrewing.com,-98.002782,46.923238
+6bd08522-4294-441d-8727-1e7c61e19e41,Buffalo Commons Brewing Co,taproom,2307 Memorial Hwy,,,Mandan,North Dakota,58554-4624,United States,7015952255,http://www.buffalocommonsbeer.com,-100.863856,46.824201
+678c1f63-2b15-4900-84bd-c11c47dcf26a,Busted Knuckle Brewery,taproom,213 11th St W,,,Williston,North Dakota,58801,United States,7015772277,,-103.626829,48.153781
+74ded0c0-4d57-423b-943c-166cb125402c,Dialectic Brewing Company,taproom,416 W Main St,,,Mandan,North Dakota,58554,United States,7013181328,http://www.dialecticbrewingcompany.com,-100.895253,46.826002
+3799434f-4c20-4d7b-9085-6c83db87c1c7,Drekker Brewing Company,micro,1666 1ST AVE N,,,Fargo,North Dakota,58102-4246,United States,7015320506,http://www.drekkerbrewing.com,-96.807811,46.877268
 1b1fa0ef-7e76-474a-88d2-7f22b56bb3ff,Drumconrath Brewing Company,micro,630 1st Ave N,,,Fargo,North Dakota,58102-5268,United States,7016453786,http://www.drumconrathbrewing.com,-96.78936674,46.8773031
 97826164-b0b6-4012-b8d7-a25d2eb3b252,Edwinton Brewing Company,closed,407 E Main Ave,,,Bismarck,North Dakota,58501-4043,United States,7017127700,http://www.edwinton.com,-100.7859036,46.80535377
 e87d9efb-c71e-45fb-a54c-3bdc71391046,Fargo Brewing Co,micro,610 University Dr N,,,Fargo,North Dakota,58102-4342,United States,7014782337,http://www.fargobrewing.com,-96.79937236,46.88326389
 0999dab4-ac44-4694-8acf-e9e50d95cb92,Flatland Brewery,closed,"3140 Bluestem Dr, Ste 105",,,West Fargo,North Dakota,58078-8009,United States,7013531178,http://www.flatlandbrewery.com,-96.88473642,46.8342508
 e82fff5f-5eb0-4a01-bd19-94a27691a925,Front Street Taproom,bar,614 Main Ave,,,Fargo,North Dakota,58103-1945,United States,7015667226,http://www.frontstreettaproom.com,-96.78887169,46.87489994
-8b812476-b04a-47c3-b4b5-2e83393dac30,Gideon's Brewing Company,micro,107 N 5th St,,,Bismarck,North Dakota,58501-4026,United States,7017511044,http://gideonsbrewing.com,-100.7844514,46.80607237
-56feb638-f0e8-4ee7-945e-1a5402702dea,Granite City Food & Brewery (#3),brewpub,1636 42nd St SW,,,Fargo,North Dakota,58103-3324,United States,7012933000,http://www.gcfb.net,-96.8500756,46.8559768
+8b812476-b04a-47c3-b4b5-2e83393dac30,Gideon's Brewing Company,micro,107 N 5th St,,,Bismarck,North Dakota,58501,United States,7017511044,http://https://gideonsbrewing.com,-100.784439,46.805675
+56feb638-f0e8-4ee7-945e-1a5402702dea,Granite City Food & Brewery (#3),brewpub,1636 42nd St SW,,,Fargo,North Dakota,58103-3324,United States,7012933000,http://www.gcfb.net,-96.850832,46.8556
 86fab29c-89f5-4a48-99f6-06ef4240e508,Half Brothers Brewing Company,brewpub,17 N 3rd St,,,Grand Forks,North Dakota,58203-3713,United States,7017570805,http://www.halfbrothersbrewing.com,-97.0315443,47.9256052
+e54529b0-08b3-4f26-ac54-483fd5791390,Half Brothers Brewing Company,brewpub,17 North Third St,,,Grand Forks,North Dakota,58201,United States,7017570805,http://www.halfbrothersbrewing.com,-97.0639,47.894
 c2ad7c70-841a-47a0-b863-271f292ab056,Icewind Brewing,micro,349 Knutson St Unit B,,,Mapleton,North Dakota,58059-4065,United States,7012033579,http://www.icewindbrewing.com,-97.04609108,46.88200095
 2d6e2ddc-da91-43d2-87e6-56e50cbde70c,Kilstone Brewing,closed,764 34th St N Unit R,,,Fargo,North Dakota,58102-3097,United States,7018935224,http://www.kilstonebrewing.com,,
 1f975c95-1cf7-45d7-b3c4-1393462508fc,Laughing Sun Brewing,micro,1023 E Front Ave,,,Bismarck,North Dakota,58504-5652,United States,7014009750,http://www.laughingsunbrewing.com,-100.7757809,46.80388227
-7768bd2f-906c-450b-9520-2fb57d0b4799,Oxford Brewing Company,nano,1215 N 20th St,,,Grand Forks,North Dakota,58203-2343,United States,7017574565,,-97.05511709,47.93241078
+018b3dcb-9d2f-4840-bc00-a40660c8deef,Laughing Sun Brewing,brewpub,1023 East Front Avenue,,,Bismarck,North Dakota,58504,United States,7017513881,http://www.laughingsunbrewing.com,-100.776239,46.803908
+7768bd2f-906c-450b-9520-2fb57d0b4799,Oxford Brewing Company,taproom,1215 N 20th St,,,Grand Forks,North Dakota,58203,United States,,,-97.055444,47.931697
 d1646dcc-bbf1-4ffe-ac3f-47e3e7031bf1,Phat Fish Brewing,brewpub,1031 W Villard St,,,Dickinson,North Dakota,58601-4845,United States,7017610170,http://www.phatfishbrewing.com,-102.8019477,46.88119882
-cf7d04c2-de19-4843-8e23-d58fe9a99720,Pixeled Brewing Company,micro,1100 NP Ave #101,,,Fargo,North Dakota,58102-4794,United States,7015320915,http://pixeled.beer,-96.79606487,46.87589876
-5917501f-0771-4345-8d0f-b1bb591bc319,Rhombus Guys Brewing Co,brewpub,116 S 3rd St,,,Grand Forks,North Dakota,58201-4784,United States,7017570598,http://www.rhombusguysbrewing.com,-97.0286822,47.923923
-d656000d-73b8-45fb-8ad7-bf87103cb160,Souris River Brewing,brewpub,32 3rd St NE,,,Minot,North Dakota,58703-3108,United States,7018371884,http://www.sourisriverbrewing.com,-101.2883218,48.23686523
-0330697d-08ce-4f09-948c-9928532c5755,Stonehome Brewing Company,brewpub,1601 N 12th St,,,Bismarck,North Dakota,58501-2713,United States,7017511445,http://www.stonehomebrewing.com,-100.773737,46.82365579
+a5098d2b-3cab-45a6-8077-1cb052bf4e64,Phat Fish Brewing,brewpub,1031 W Villard,,,Dickinson,North Dakota,58601,United States,7017610170,http://https://www.phatfishbrewing.com/,-102.801016,46.878373
+cf7d04c2-de19-4843-8e23-d58fe9a99720,Pixeled Brewing Co.,taproom,1100 NP Ave #101,,,Fargo,North Dakota,58103,United States,7015320915,http://www.pixeled.beer,-96.795731,46.875828
+5917501f-0771-4345-8d0f-b1bb591bc319,Rhombus Guys Brewing Co,micro,116 S 3rd St,,,Grand Forks,North Dakota,58201-4784,United States,7017570598,http://www.rhombusguysbrewing.com,-97.028726,47.92378
+d656000d-73b8-45fb-8ad7-bf87103cb160,Souris River Brewing,brewpub,32 3rd St NE,,,Minot,North Dakota,58703-3108,United States,7018371884,http://www.sourisriverbrewing.com,-101.288025,48.237438
+0330697d-08ce-4f09-948c-9928532c5755,Stonehome Brewing Company,brewpub,1601 N 12th St,,,Bismarck,North Dakota,58501,United States,,,-100.773552,46.822813
 86b7e9cb-6267-4f6b-a5da-6293aae28ced,Stonehome Brewing Company,brewpub,313 Fox Hills Pkwy N,,,Watford City,North Dakota,58854,United States,7014442337,http://www.stonehomebrewing.com,-103.2580566,47.8821014
+0a6cc68b-fad7-41a7-8185-c3ea1f19694b,Stonehome Brewing Company,brewpub,313 Fox Hills Pkwy,,,Watford City,North Dakota,58854,United States,7014442337,http://www.stonehomebrewing.com,-103.2171,47.8213

@@ -3,294 +3,422 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 e2e78bd8-80ff-4a61-a65c-3bfbd9d76ce2,10 Barrel Brewing Co,large,1135 NW Galveston Ave Ste B,,,Bend,Oregon,97703-2465,United States,5415851007,,-121.3288021,44.0575649
 e432899b-7f58-455f-9c7b-9a6e2130a1e0,10 Barrel Brewing Co,large,1411 NW Flanders St,,,Portland,Oregon,97209-2620,United States,5032241700,http://www.10barrel.com,-122.6855056,45.5259786
 9f1852da-c312-42da-9a31-097bac81c4c0,10 Barrel Brewing Co - Bend Pub,large,62950 NE 18th St,,,Bend,Oregon,97701,United States,5415851007,,-121.2809536,44.0912109
-58293321-14ae-49d7-9a7b-08436c9e63a6,1188 Brewing Co,brewpub,141 E Main St,,,John Day,Oregon,97845-1210,United States,5415751188,http://www.1188brewing.com,-118.9218754,44.4146563
-936c3d7e-5d54-4459-b72c-117cdda059b4,13 Virtues Brewing Co,brewpub,6410 SE Milwaukie Ave,,,Portland,Oregon,97202-5518,United States,5032393831,http://www.13virtuesbrewing.com,-122.6487531,45.4762536
+58293321-14ae-49d7-9a7b-08436c9e63a6,1188 Brewing Company,brewpub,141 E Main St,,,John Day,Oregon,97845-1210,United States,5416201357,http://www.1188brewing.com,-118.952003,44.416234
+936c3d7e-5d54-4459-b72c-117cdda059b4,13 Virtues Brewing Co,brewpub,6410 SE Milwaukie Ave,,,Portland,Oregon,97202-5518,United States,5032393831,http://www.13virtuesbrewing.com,-122.648721,45.476246
+b3a51bfe-25b6-40b2-836c-65f0fd4d2ae6,3 Legged Crane Pub and Brewhouse,brewpub,48329 E 1st St,,,Oakridge,Oregon,97463-9700,United States,5417822024,http://www.3leggedcrane.com,-122.456658,43.74796
 5595bb24-e2b8-4a6e-9f0b-451fac8dd903,3 Sheets Brewery,micro,136 W 1st Ave,,,Albany,Oregon,97321,United States,5416190183,http://www.3sheetsbrewery.com,,
-6a928a00-bf8e-4481-ae27-a2a5b14f56e2,7 Devils Brewing Co,brewpub,247 S 2nd St,,,Coos Bay,Oregon,97420-1642,United States,5418083738,http://www.7devilsbrewery.com,-124.2147508,43.36654751
+6a928a00-bf8e-4481-ae27-a2a5b14f56e2,7 Devils Brewing Co,brewpub,247 S 2nd St,,,Coos Bay,Oregon,97420-1642,United States,5418083738,http://www.7devilsbrewery.com,-124.2148,43.366509
 f1ed5260-13cb-4f22-a4ac-0e1f7f676a12,"Agrarian Ales, LLC",closed,31115 W Crossroads Ln,,,Eugene,Oregon,97408-9220,United States,5416323803,http://www.agales.com,-123.1277712,44.18922784
 b7db853a-e8aa-430f-84c8-d49b72184d01,Alameda Brewing Co,micro,4736 SE 24th Ave,,,Portland,Oregon,97202-4787,United States,5034609025,,-122.6412495,45.48882655
 07ad4030-fb5b-4eb7-9b28-d7f5556b145d,Alameda Brewing Co,micro,4765 NE Fremont St,,,Portland,Oregon,97213-1724,United States,5034609025,http://www.alamedabrewing.com,-122.6136209,45.54849565
+46f74239-10f6-41c4-8e8b-3f06cf84dcaa,Alesong Brewing & Tasting Room,micro,1000 Conger,,,Eugene,Oregon,97402,United States,5419723303,http://www.alesongbrewing.com,-123.134427,44.04872
 40093c50-b89d-443f-9ac7-b24a000d8f48,Alesong Brewing and Blending,micro,1000 Conger St Ste C,,,Eugene,Oregon,97402-2950,United States,5419723303,http://www.alesongbrewing.com,-123.2384193,43.85285684
 f15f6ebf-0d80-4e6b-ad38-fb0ca9f3d3ed,Alesong Brewing and Tasting Room,micro,1000 Conger Unit C,,,Eugene,Oregon,97402,United States,5419723303,http://www.alesongbrewing.com,-123.2384193,43.85285684
+66a44ff9-64f4-4c9d-8af6-9e323b4b3ff6,Aletruism Brewing/Oregon Public House,brewpub,700 NE Dekum St,,,Portland,Oregon,97211,United States,5038280884,http://www.oregonpublichouse.com,-122.658149,45.571538
 9b4f31d5-61b4-46ed-b501-6acc4d428666,Allegory Brewing,micro,777 NE 4th St,,,McMinnville,Oregon,97128-4502,United States,9713731253,http://www.allegorybrewing.com,-123.1917806,45.21081917
-5306cc0f-35c0-4168-b49b-ea965437dc8e,Ambacht Brewing,micro,1060 NE 25th Ave Ste B,,,Hillsboro,Oregon,97124-4903,United States,5038281400,http://www.ambacht.us,-122.9564737,45.53275124
-126392f8-8260-4619-a561-ec20153c6779,Ancestry Brewery,brewpub,20585 SW 115th Ave,,,Tualatin,Oregon,97062-6857,United States,5037060448,http://www.ancestrybrewing.com,-122.7967838,45.3711546
-76da304a-4094-4cae-929c-bae2ae18d24d,Arch Rock Brewing Co,micro,28779 Hunter Creek Loop,,,Gold Beach,Oregon,97444-9626,United States,5412470555,http://www.archrockbrewingcompany.com,-124.4155402,42.3898306
-4cc17a95-7020-43f2-bc23-b9d9ddd29a10,Arlington Club,micro,811 SW Salmon St,,,Portland,Oregon,97205-3094,United States,5032234141,http://www.thearlingtonclub.com,-122.6818596,45.51786855
+5306cc0f-35c0-4168-b49b-ea965437dc8e,Ambacht Brewing,taproom,1060 NE 25th Ave Ste B,,,Hillsboro,Oregon,97124-4903,United States,5038281400,http://www.ambacht.us,-122.95581,45.533633
+126392f8-8260-4619-a561-ec20153c6779,Ancestry Brewery,brewpub,20585 SW 115th Ave,,,Tualatin,Oregon,97062-6857,United States,5037060448,http://www.ancestrybrewing.com,-122.795695,45.370865
+8e43cc58-1eef-417f-a580-fd5ee3e9c615,Arbor Beer Lodge & Brewery,taproom,6550 N Interstate Ave,,,Portland,Oregon,97217-4836,United States,5032860343,http://www.arborbeerlodge.com,-122.681743,45.570702
+76da304a-4094-4cae-929c-bae2ae18d24d,Arch Rock Brewing Co,micro,28779 Hunter Creek Loop,,,Gold Beach,Oregon,97444-9626,United States,5412470555,http://www.archrockbeer.com,-124.415009,42.388878
+4cc17a95-7020-43f2-bc23-b9d9ddd29a10,Arlington Club,taproom,811 SW Salmon St,,,Portland,Oregon,97205-3094,United States,5032234141,http://www.thearlingtonclub.com,-122.681838,45.517881
+0874c29e-e5c5-4ccc-82e5-500c4774550b,Art Bop Beer Co,taproom,59 B Talent Ave,,,Talent,Oregon,97540,United States,9716455060,,-122.787328,42.246018
 4cabbfbc-d07c-40b0-b5f5-fa456c22b7a2,Assembly brewing,planning,,,,Portland,Oregon,97206-3739,United States,5037299080,http://www.assemblybrewingco.com,-122.6003912,45.491048
-686e0f81-196a-4e76-9b73-2e3957c7b871,Astoria Brewing Company,micro,1196 Marine Dr,,,Astoria,Oregon,97103-4112,United States,5037413040,,-123.831516,46.18980259
+686e0f81-196a-4e76-9b73-2e3957c7b871,Astoria Brewing Company,brewpub,1196 Marine Dr,,,Astoria,Oregon,97103-4112,United States,5037413040,,-123.830322,46.189903
+ab59bedb-d60e-496d-9772-07df42447ff7,Away Days Brewing,taproom,1516 se 10th ave,,,portland,Oregon,97214,United States,5035043090,http://www.awaydaysbrewing.com,-122.655516,45.51202
+abb6ac06-85eb-480b-9f2d-1cb829330498,B2 Taphouse & Brewery,brewpub,1170 Boone Rd SE,,,Salem,Oregon,97306,United States,5039915369,http://https://www.b2taphouse.com/,-123.031834,44.882573
 d53226dc-b8b1-494c-85f5-1c97ba255947,Back Pedal Brewing Company,micro,1425 NW Flanders St,,,Portland,Oregon,97209-2620,United States,9714005950,http://backpedalbrewing.com,-122.6856562,45.52597595
-9ae1ef58-7652-40a7-9abc-7900a57109a8,Backside Brewing Co,brewpub,1640 NE Odell Ave,,,Roseburg,Oregon,97470-3320,United States,5415801906,http://www.backsidebrewingco.com,-123.3377881,43.21449839
-10ad1074-00f1-4731-9154-878dafcb58a9,Baerlic Brewing Co,micro,2235 SE 11th Ave,,,Portland,Oregon,97214-5303,United States,5034779418,http://www.baerlicbrewing.com,-122.6550828,45.50680595
+9ae1ef58-7652-40a7-9abc-7900a57109a8,Backside Brewing Co,brewpub,1640 NE Odell Ave,,,Roseburg,Oregon,97470-3320,United States,5415801906,http://www.backsidebrewingco.com,-123.337736,43.214654
+708d2d73-e65a-429e-b6a0-72c5f8ba5072,Backwoods Brewing Company,brewpub,231 NW 11th Ave,,,Portland,Oregon,97209,United States,,,-122.682707,45.524871
+c9c60cfa-30f7-490b-b640-69c44a823a60,Baerlic At the Barley Pod,location,6035 NE Halsey St,,,Portland,Oregon,97213,United States,,http://www.baerlicbrewing.com,-122.601295,45.533923
+10ad1074-00f1-4731-9154-878dafcb58a9,Baerlic Brewing Co,taproom,2235 SE 11th Ave,,,Portland,Oregon,97214-5303,United States,5034779418,http://www.baerlicbrewing.com,-122.655425,45.507005
 6413df9d-206d-409a-bf5a-405c4db6724e,Baker City Brewing Co,micro,2200 Main Street,,,Baker City,Oregon,97814,United States,5415232337,http://www.barleybrowns.com,-117.8293471,44.77928865
-3063b641-c33f-492c-bcac-f0b591221abf,Bandon Brewing Company,brewpub,395 2nd St SE,,,Bandon,Oregon,97411-9605,United States,5413473911,http://www.bandonbrewingco.com,-124.4122494,43.1191572
+3063b641-c33f-492c-bcac-f0b591221abf,Bandon Brewing Company,brewpub,395 2nd St SE,,,Bandon,Oregon,97411-9605,United States,5413473911,http://www.bandonbrewingco.com,-124.41123,43.119329
+396b395f-cf6a-4d9f-8bf6-5c5817829e34,Barley Brown's Beer,brewpub,2200 Main St,,,Baker City,Oregon,97814,United States,5415234266,http://www.barleybrownsbeer.com,-117.829323,44.779217
+c15dc0e4-829a-4584-b3c5-090351d4b66c,Barley Brown's Brewing Co,micro,2200 Main Street,,,Baker City,Oregon,97814,United States,5415232337,http://www.barleybrowns.com,-117.829323,44.779217
 7a470fd0-dc8f-4324-9c42-dd1428488f7d,Barley Browns Brewpub,micro,2190 Main St,,,Baker City,Oregon,97814-2655,United States,5415234266,http://www.barleybrowns.com,-117.8294962,44.7787802
 947934b7-b0e7-4eee-81cc-8efabbfe32f7,Barley Sprouts Brewery,brewpub,639 SE 223rd Ave,,,Gresham,Oregon,97030-2509,United States,5037586464,http://www.capturedbyporches.com,-122.4339039,45.51805087
 e468fc97-eef9-4067-9f20-2df846d8ca5b,Barn Door Brewing,micro,1174 SW Highway 99W,,,Dundee,Oregon,97115,United States,9718328054,http://www.barndoorbrewing.com,-123.0146104,45.27424538
+b9b39991-8d39-47e7-8346-7662bc6c7f99,Barn Door Brewing,taproom,1174 N Hwy 99W,,,Dundee,Oregon,97115,United States,,,-123.014806,45.274252
+36b1cd80-6dc9-4d9f-a459-9226a8a6ab4c,Barrett Beverage,micro,10123 SE Brittany Ct,,,CLACKAMAS,Oregon,97015,United States,5033123175,http://www.barrettbeverage.com,-122.559055,45.418969
 ed597116-57e6-472c-8cd1-41d2915d6544,Barsideous Brewing Co,brewpub,644 S Main St,,,Lebanon,Oregon,97355-3337,United States,5415701789,http://www.barsideousbrewing.com,-122.9070824,44.5247777
 c4e818fa-6abc-440b-bdb5-c8172bb5fbd8,Base Camp Brewing Co,micro,930 SE Oak St,,,Portland,Oregon,97214-1307,United States,5034777479,http://www.basecampbrewingco.com,-122.6561108,45.5198818
-b2acd8dd-3606-4794-bddb-db8e476f5ef2,Beer Valley Brewing Co,micro,937 SE 12th Ave,,,Ontario,Oregon,97914-4473,United States,5418819088,http://www.beervalleybrewing.com,-116.9539806,44.01504307
-66d441d7-df24-4f32-83be-9a80d9d63951,Bend Brewing Co,brewpub,1019 NW Brooks St,,,Bend,Oregon,97703-2018,United States,5413831599,http://www.bendbrewingco.com,-121.3139312,44.06051115
-58d75aca-9aef-48d1-b81a-0d085c4f4da5,Bend Brewing High Desert,closed,20650 NE High Desert Lane,,,Bend,Oregon,97701,United States,5413831599,,-121.2914842,44.08727607
-2daabc96-c1c4-4bbc-a784-a0720a5c96c3,Bent Shovel Brewing,micro,21678 S Latourette Rd,,,Oregon City,Oregon,97045-9453,United States,5038980220,http://www.bentshovelbrewing.com,-122.421183,45.37878928
+71a74a85-74c1-4c3a-962a-519afbd10777,BDSM Brewing Company,taproom,2256 SE Oak Crest Dr,,,Hillsboro,Oregon,97123,United States,5034530181,http://www.bdsmbrewing.com,-122.96035,45.515686
+2a711027-14ff-4075-be74-2500d22f21f1,Beachcrest Brewing Company,brewpub,7755 US-101 Suite E5,,,Gleneden Beach,Oregon,97388,United States,5412344013,http://www.beachcrestbrewing.com,-124.025502,44.889573
+b2acd8dd-3606-4794-bddb-db8e476f5ef2,Beer Valley Brewing Co,micro,937 SE 12th Ave,,,Ontario,Oregon,97914-4473,United States,5418819088,http://www.beervalleybrewing.com,-116.952116,44.015396
+66d441d7-df24-4f32-83be-9a80d9d63951,Bend Brewing Co,brewpub,1019 NW Brooks St,,,Bend,Oregon,97703-2018,United States,5413831599,http://www.bendbrewingco.com,-121.313914,44.060462
+58d75aca-9aef-48d1-b81a-0d085c4f4da5,Bend Brewing High Desert,micro,20650 NE High Desert Lane,,,Bend,Oregon,97701,United States,5413831599,,-121.291499,44.087136
+a9d38cba-9b31-43d0-9695-55817f20c603,Benedictine Brewery,brewpub,400 Humpert Lane NE,,,Mount Angel,Oregon,97362,United States,,,-122.7866,45.0581
+2daabc96-c1c4-4bbc-a784-a0720a5c96c3,Bent Shovel Brewing,micro,21678 S Latourette Rd,,,Oregon City,Oregon,97045-9453,United States,5038980220,http://www.bentshovelbrewing.com,-122.420879,45.37859
 ec45b763-05a4-490d-8a78-956939c38c6e,Bent Shovel Brewing,micro,20179 S Springwater Rd,Estacada,,Oregon City,Oregon,97023,United States,5038980220,http://www.bentshovelbrewing.com,-122.3922913,45.31388797
 c86f788e-63b2-44e6-a469-4b2e3a04ba22,Bevel Craft Brewing,planning,,,,Bend,Oregon,97701-4924,United States,8313451922,http://www.bevelbeer.com,-121.2917516,44.04614868
 c6f9f271-cdbd-4342-b2dd-8399a3cd6670,Bier One Brewing,brewpub,424 SW Coast Hwy,,,Newport,Oregon,97365-4930,United States,5412654630,http://www.bier-one.com,-124.0572864,44.6330765
+95476835-8204-4c08-9ebb-a1a00287e76b,Bier One Brewing,brewpub,255 SW 9th St,,,Newport,Oregon,97365,United States,5412654630,,-124.054529,44.633178
+8a99eda9-560b-48d9-a1f2-0d75222d21a6,Bierly Brewing,brewpub,624 NE 3rd St,,,Mcminnville,Oregon,97128,United States,5412575126,http://www.bierlybrewing.com,-123.19265,45.209801
 a7ea14a8-dc7d-4cd5-8314-7632451807fe,Bierly Brewing @ Eats and Treats,brewpub,1644 Main St,,,Philomath,Oregon,97370-9237,United States,5412575126,,-123.3625416,44.539936
 f5a551d7-6af0-418e-bec2-0f16044bb3f2,Big Horse Brewpub,brewpub,115 State St,,,Hood River,Oregon,97031-2315,United States,5413864411,http://www.bighorsebrewpub.com,-121.5120956,45.7079528
-47a98559-734f-4475-ad82-f8bad6a69bf1,Bill's Tavern and Brewhouse,brewpub,188 N Hemlock St,,,Cannon Beach,Oregon,97110-3037,United States,5034362202,http://www.billstavernandbrewhouse.com,-123.9610943,45.89803615
-aa7a58a8-b2af-4c19-a73b-7b803262bfad,Bine Valley Brewing,micro,2027 25th St SE,,,Salem,Oregon,97302-1130,United States,7602249889,http://www.binebrews.com,-123.0104248,44.92083964
+47a98559-734f-4475-ad82-f8bad6a69bf1,Bill's Tavern and Brewhouse,brewpub,188 N Hemlock St,,,Cannon Beach,Oregon,97110-3037,United States,5034362202,http://www.billstavernandbrewhouse.com,-123.961179,45.898005
+19169fcb-0d32-4f95-996c-055ad27b1757,Binary Brewing Co,brewpub,12345 SW Broadway St,,,Beaverton,Oregon,97005,United States,5038065284,http://www.binarybrewing.co,-122.803141,45.487792
+aa7a58a8-b2af-4c19-a73b-7b803262bfad,Bine Valley Brewing,taproom,2027 25th St SE,,,Salem,Oregon,97302-1130,United States,7602249889,http://www.binevalleybrewing.com,-123.010478,44.919065
+7a124e9f-801b-4d78-9aa0-805a0cac1080,Blind Satyr Brewery,taproom,2900 SE Cornelios Pass Road STE 337,,,Hillsboro,Oregon,97123,United States,9712586727,http://www.blindsatyr.com,-122.901014,45.499132
 83078530-df39-4a88-bbac-362f1253a43a,Block 15,brewpub,300 SW Jefferson Ave,,,Corvallis,Oregon,97333-4607,United States,5417582077,,-123.262222,44.5622701
-df8022a7-1cbc-4e06-a5e5-c163fcfa3ce1,Block 15 Brewery & Tap Room,brewpub,3415 SW Deschutes St,,,Corvallis,Oregon,97333-9283,United States,5417522337,http://www.block15.com,-123.269049,44.5305284
-a3bfaa8d-ad1e-4c84-ae0d-ed3918f5bd03,Boneyard Beer Co,micro,37 NW Lake Pl Ste B,,,Bend,Oregon,97703-2971,United States,5413232325,,-121.3080908,44.05412648
-c79f5c93-c9e1-4d12-a6a8-c3ac7510664a,Boneyard Beer Co,brewpub,1955 NE Division St,,,Bend,Oregon,97701,United States,5413232325,http://www.boneyardbeer.com,-121.3065353,44.07094734
-73dfe26a-7ed0-43ff-b930-cf7caa16c2a1,"Boring Brewing Co., LLC",micro,38250 Pioneer Blvd,,,Sandy,Oregon,97009,United States,5034278619,http://www.boringbrewing.com,-122.2702045,45.39722205
-45249b6e-b1d0-4c2f-a60e-ab483169287f,Breakside Brewery,brewpub,820 NE Dekum St,,,Portland,Oregon,97211-3630,United States,5037196475,http://www.breakside.com,-122.657117,45.5716938
-8e2d0758-3a90-41e6-ae8b-14e673e8a383,Breakside Brewery & Taproom,regional,5821 SE International Way,,,Milwaukie,Oregon,97222-4633,United States,5037196475,http://www.breakside.com,-122.6032529,45.4317535
-63e51d1b-b184-4f69-ac2f-cdda3f09a232,Breakside Brewery Slabtown,brewpub,1570 NW 22nd Ave,,,Portland,Oregon,97210-2369,United States,5034447597,http://breakside.com,-122.6966131,45.53384986
+df8022a7-1cbc-4e06-a5e5-c163fcfa3ce1,Block 15 Brewery & Tap Room,brewpub,3415 SW Deschutes St,,,Corvallis,Oregon,97333-9283,United States,5417522337,http://www.block15.com,-123.268883,44.530269
+caceafa2-3caa-4d2f-ab51-7ef0257fafce,Block 15 Brewing Company,micro,300 SW Jefferson Ave,,,Corvallis,Oregon,97333-4607,United States,5417582077,http://block15.com,-123.262225,44.562316
+a3bfaa8d-ad1e-4c84-ae0d-ed3918f5bd03,Boneyard Beer Co,micro,37 NW Lake Pl Ste B,,,Bend,Oregon,97703-2971,United States,5413232325,,-121.308079,44.054058
+c79f5c93-c9e1-4d12-a6a8-c3ac7510664a,Boneyard Beer Co,regional,1955 NE Division St,,,Bend,Oregon,97701,United States,5413232325,http://www.boneyardbeer.com,-121.306322,44.069023
+73dfe26a-7ed0-43ff-b930-cf7caa16c2a1,"Boring Brewing Co., LLC",taproom,38250 Pioneer Blvd,,,Sandy,Oregon,97055,United States,5034278619,http://www.boringbrewing.com,-122.270121,45.397063
+4e3bc329-a035-4d06-bc4b-56213acb36f5,Boss Rambler Beer Club,taproom,1009 NW Galveston Ave,,,Bend,Oregon,97703,United States,2075575705,http://www.bossrambler.com,-121.327469,44.056455
+45249b6e-b1d0-4c2f-a60e-ab483169287f,Breakside Brewery,brewpub,820 NE Dekum St,,,Portland,Oregon,97211-3630,United States,5037196475,http://www.breakside.com,-122.656868,45.571525
+8e2d0758-3a90-41e6-ae8b-14e673e8a383,Breakside Brewery & Taproom,regional,5821 SE International Way,,,Milwaukie,Oregon,97222-4633,United States,5037196475,http://www.breakside.com,-122.603303,45.431989
+63e51d1b-b184-4f69-ac2f-cdda3f09a232,Breakside Brewery NW Slabtown,brewpub,1570 NW 22nd Ave,,,Portland,Oregon,97210-2369,United States,5034447597,http://breakside.com,-122.696533,45.53389
 cd7c55be-0a82-43f9-bba7-b43eff43c24d,Brewed By Gnomes,contract,1735 SE 33rd Ave,,,Portland,Oregon,97214-5024,United States,,,-122.6308531,45.51021595
 01684e03-04b3-45e2-92f8-2c6e57d49b5a,Brewers Union Local 180,brewpub,48329 E 1st St,,,Oakridge,Oregon,97463-9700,United States,5417822024,http://www.brewersunion.com,-122.4568787,43.7478831
 cfac009a-caae-4462-beb3-1f603674e2a6,Brewery 26,micro,5829 SE Powell Blvd,,,Portland,Oregon,97206,United States,9712548488,http://www.brewery26.com,-122.60275,45.49758
+e23be55e-d08d-405f-b787-76e66ae4f7a0,Brewery 26,micro,818 SE Ankeny St,,,Portland,Oregon,97214,United States,5037542250,http://www.brewery26.com,-122.656969,45.522059
 433a8b85-87b2-4b73-87c9-c2c35570a544,Bricktowne Brewing Co,brewpub,111 E 8th St,,,Medford,Oregon,97501-7201,United States,5419732377,http://www.bricktownebeer.com,-122.8721525,42.32544541
-589c2190-6d97-4f2b-802d-2eaa6b282baf,Bridge 99 Brewery,micro,63063 Layton Ave,,,Bend,Oregon,97701-7087,United States,5412801690,,-121.2916707,44.09103738
+3a819260-eb04-4823-851d-a9f014a2dd4d,BricktownE Brewing Company,brewpub,44 S Central Ave,,,Medford,Oregon,97501,United States,5419732377,http://www.bricktownebeer.com,-122.871694,42.325729
+589c2190-6d97-4f2b-802d-2eaa6b282baf,Bridge 99 Brewery,micro,63063 Layton Ave,,,Bend,Oregon,97701-7087,United States,5412801690,,-121.291711,44.090867
 e635be49-6e8e-4697-a457-f8febe304d66,BridgePort Brewing Co,regional,1318 NW Northrup St,,,Portland,Oregon,97209-2808,United States,5032417179,http://www.bridgeportbrew.com,-122.6848601,45.53133335
 3cb1a817-c050-4afc-af5e-40d83e9e2e84,Bunsenbrewer,brewpub,16506 362nd Dr,,,Sandy,Oregon,97055-9279,United States,5033083150,http://www.bunsenbrewer.com,-122.2904067,45.4042245
-43cc17d8-347f-4d72-9a2c-fdc75e562b77,Buoy Beer Company,micro,1 8th St,,,Astoria,Oregon,97103-4506,United States,5033254540,http://www.buoybeer.com,-123.835151,46.1913235
+43cc17d8-347f-4d72-9a2c-fdc75e562b77,Buoy Beer Company,regional,1 8th St,,,Astoria,Oregon,97103-4506,United States,5034680800,http://www.buoybeer.com,-123.83513,46.191367
 94570768-e3ca-4d69-a292-35dea27a24c9,Burnside Brewing Co,micro,701 E Burnside St,,,Portland,Oregon,97214-1218,United States,5032083476,http://www.burnsidebrewco.com,-122.6584695,45.5233261
+e038be18-48bf-4b97-a4cd-7369835534ce,Burnt Field Brewing,brewpub,1 E Marine Drive NE,,,Boardman,Oregon,97818,United States,5412884005,http://www.burntfieldbrewing.com,-119.694032,45.847323
+aa95fb78-7c4a-4ded-96a9-bcf8a8d21ed5,Calapooia Brewery,brewpub,140 NE Hill Street,,,Albany,Oregon,97321,United States,4246751459,http://www.calapooiabrewing.com,-123.094029,44.639192
 756d4443-74b5-423d-b0a7-a7731e7f7883,Calapooia Brewing Co / Siletz Ales,micro,140 NE Hill St,,,Albany,Oregon,97321-3002,United States,5419281931,http://www.calapooiabrewing.com,-123.0937773,44.6394668
-914b9f4c-d6eb-45cc-aa64-f93a41958c35,Caldera Brewing Co,micro,590 Clover Ln,,,Ashland,Oregon,97520-3709,United States,5414824677,http://www.calderabrewing.com,-122.6633744,42.18373846
-e3e0de2f-3ec3-4143-a278-efa284b6835c,Cascade Brewing,brewpub,7424 SW Beaverton Hillsdale Hwy,,,Portland,Oregon,97225-2149,United States,5032960110,http://www.cascadebrewing.com,-122.699417,45.478513
-dd09fff1-43e0-42e7-b9c6-88e804053082,Cascade Brewing Barrel House,micro,939 SE Belmont St,,,Portland,Oregon,97214-2519,United States,5032658603,http://www.cascadebrewing.com,-122.6560057,45.5167536
+914b9f4c-d6eb-45cc-aa64-f93a41958c35,Caldera Brewing Company,micro,590 Clover Ln,,,Ashland,Oregon,97520-3709,United States,5414824677,http://www.calderabrewing.com,-122.662945,42.182295
+e3e0de2f-3ec3-4143-a278-efa284b6835c,Cascade Brewing,micro,7424 SW Beaverton Hillsdale Hwy,,,Portland,Oregon,97225-2149,United States,5032960110,http://www.cascadebrewing.com,-122.753972,45.485603
+dd09fff1-43e0-42e7-b9c6-88e804053082,Cascade Brewing Barrel House,micro,939 SE Belmont St,,,Portland,Oregon,97214-2519,United States,5032658603,http://www.cascadebrewing.com,-122.655983,45.516714
 972e11db-ca46-4a75-bef1-24c596036a66,Cascade Brewing Blending House,micro,6770 SW 111th Ave,,,Beaverton,Oregon,97008-5336,United States,5033660730,http://www.cascadebrewing.com,-122.7900557,45.4709556
-977d5b69-e92b-4f9b-8c1d-67f9e481365c,Cascade Lakes Brewing Co,micro,2141 SW 1st St,,,Redmond,Oregon,97756-7131,United States,5419233110,http://www.cascadelakes.com,-121.1700542,44.26491002
+977d5b69-e92b-4f9b-8c1d-67f9e481365c,Cascade Lakes Brewing Co,micro,2141 SW 1st St,,,Redmond,Oregon,97756-7131,United States,5419233110,http://www.cascadelakes.com,-121.169263,44.256037
 c7b4ae17-1cbd-4a08-9b21-07a7a0bf1689,Chatoe Rogue Farmstead Brewery,closed,3590 Wigrich Rd,,,Independence,Oregon,97351-9708,United States,5038389813,http://www.rogue.com,-123.0958477,44.80583507
-5450f71d-24e7-414c-920d-e847da6912b0,Chehalem Valley Brewery,brewpub,2515 Portland Rd Ste B,,,Newberg,Oregon,97132-1940,United States,9718328131,http://www.chehalemvalleybrewery.com,-122.9532838,45.3057205
-4fbae1fe-8335-4381-becb-3412e5fa3763,Chetco Brewing Company,micro,830 Railroad St,,,Brookings,Oregon,97415,United States,5416615347,http://www.chetcobrew.com,-124.2875954,42.0521588
-6e2d96e1-062d-4e05-b0df-5b11a252fbfc,Claim 52 Brewing,micro,1030 Tyinn St Ste 1,,,Eugene,Oregon,97402-6933,United States,5415546786,,-123.1379662,44.04917678
-8690decb-8627-47c1-8a42-bf73cca5662e,Climate City Brewing Co.,brewpub,509 SW G St,,,Grants Pass,Oregon,97526-2472,United States,5414793725,http://www.climatecitybrewing.com,-123.3313287,42.4401171
+5450f71d-24e7-414c-920d-e847da6912b0,Chehalem Valley Brewery,brewpub,2515 Portland Rd Ste B,,,Newberg,Oregon,97132-1940,United States,9718328131,http://www.chehalemvalleybrewery.com,-122.953246,45.305153
+e0597436-ed3b-425c-940f-e793f80679bc,Chehalem Valley Brewing Co,brewpub,"1040 Industrial Parkway, Suite H",,,Newberg,Oregon,97132,United States,5034876259,http://www.chehalemvalleybrewing.com,-122.94937,45.291624
+4fbae1fe-8335-4381-becb-3412e5fa3763,Chetco Brewing Company,taproom,830 Railroad St,,,Brookings,Oregon,97415,United States,5416615347,http://www.chetcobrew.com,-124.287642,42.052069
+8eb4e3b2-5204-465e-a524-17b839f903bb,Chiefs Brew House,brewpub,32817 Coleman Rd,,,Harrisburg,Oregon,97446-9403,United States,5413423828,,-123.057751,44.198508
+fa0f9e37-961e-4d3d-bf4b-057a6b1750fc,Chuckanut Brewery - P. Nut,taproom,920 SE Caruthers St,,,Portland,Oregon,97214,United States,,,-122.656458,45.505583
+6e2d96e1-062d-4e05-b0df-5b11a252fbfc,Claim 52 Brewing,brewpub,1030 Tyinn St Ste 1,,,Eugene,Oregon,97402-6933,United States,5415546786,,-123.138289,44.048936
+8690decb-8627-47c1-8a42-bf73cca5662e,Climate City Brewing Co.,brewpub,509 SW G St,,,Grants Pass,Oregon,97526-2472,United States,5414793725,http://www.climatecitybrewing.com,-123.331341,42.440027
 08155729-56b6-4a82-a43e-5b458dd01c2e,Coalition Brewing Co,closed,2705 SE Ankeny St Ste C,,,Portland,Oregon,97214-1817,United States,5038948080,http://www.coalitionbrewing.com,-122.6381854,45.5225809
-6d974500-ddaf-4742-8426-da9c7a9e5016,Coin Toss Brewing Co,micro,14214 Fir St Ste H,,,Oregon City,Oregon,97045-6837,United States,5033056220,http://www.cointossbrewing.com,-122.5784543,45.33224121
-14e3a304-2a09-4148-b701-db23ca91deb2,Coldfire Brewing,micro,263 Mill St,,,Eugene,Oregon,97401-2410,United States,5415569374,http://www.coldfirebrewing.com,-123.0864976,44.05674657
+0490840d-f4ce-488e-8551-b035c92538c0,Coast Fork Brewing,brewpub,106 S 6th St,,,Cottage Grove,Oregon,97424,United States,5419428770,http://www.coastforkfeed.com,-123.061692,43.796092
+6d974500-ddaf-4742-8426-da9c7a9e5016,Coin Toss Brewing Co,taproom,14214 Fir St Ste H,,,Oregon City,Oregon,97045-6837,United States,9712249487,http://www.cointossbrewing.com,-122.578465,45.332137
+14e3a304-2a09-4148-b701-db23ca91deb2,Coldfire Brewing,micro,263 Mill St,,,Eugene,Oregon,97401-2410,United States,5415569374,http://www.coldfirebrewing.com,-123.086178,44.056926
 da404ea3-c676-4894-b0db-eafe6df0e76e,Columbia River Brewing Co,brewpub,1728 NE 40th Ave,,,Portland,Oregon,97212-5306,United States,5039436157,http://www.columbiariverbrewpub.com,-122.6217524,45.5357321
-1b88bddd-2c59-40db-b4de-91da36b0db0f,Common Block Brewing Company,contract,315 E 5th Street,,,Medford,Oregon,97501,United States,5413262277,http://www.commonblockbrewing.com,-122.872489,42.32896155
+1b88bddd-2c59-40db-b4de-91da36b0db0f,Common Block Brewing Company,brewpub,315 E 5th Street,,,Medford,Oregon,97501,United States,5413262277,http://www.commonblockbrewing.com,-122.872605,42.329237
+d09c3705-5b92-4b59-b8b6-c47c40a54bcc,Compass Brewing PDX,micro,1125 SE Clatsop St,,,Portland,Oregon,97202,United States,5033199074,http://www.compassbrewingpdx.com,-122.654385,45.460979
 dc8fb319-acd5-4342-a3f1-bfaeddd2107e,Conner Fields Brewing,brewpub,121 SW H St,,,Grants Pass,Oregon,97526-2505,United States,5415082337,http://www.connerfields.com,-123.3284921,42.43842401
-bd4d649c-04c2-480a-b08a-1f7b77599a6e,Conversion Brewing,brewpub,833 S Main St,,,Lebanon,Oregon,97355-3211,United States,5412592337,http://www.conversionbrewingcompany.com,-122.9070824,44.5247777
+bd4d649c-04c2-480a-b08a-1f7b77599a6e,Conversion Brewing,brewpub,833 S Main St,,,Lebanon,Oregon,97355-3211,United States,5412592337,http://www.conversionbrewingcompany.com,-122.90674,44.538064
 df6e1686-5503-432e-8604-bc3546bc6374,Cooper Mountain Ale Works,micro,15855 SW Kestrel Ct,,,Beaverton,Oregon,97007-9200,United States,5035807175,http://www.coopermountainaleworks.com,-122.8400333,45.4314259
-4a093277-4333-401e-b484-b231145a0d26,Craft Kitchen and Brewery,brewpub,62988 Layton Ave Ste 103,,,Bend,Oregon,97701-6692,United States,5416681766,http://www.craftkitchenandbrewery.com,-121.2903651,44.08719318
+500ffc66-686c-4673-b872-d11796b2b81a,Cooper Mountain Ale Works,brewpub,12562 SW Main St,,,Tigard,Oregon,97223,United States,5036248900,http://www.coopermountainaleworks.com,-122.773653,45.428934
+4a093277-4333-401e-b484-b231145a0d26,Craft Kitchen and Brewery,brewpub,62988 Layton Ave Ste 103,,,Bend,Oregon,97701-6692,United States,5416681766,http://www.craftkitchenandbrewery.com,-121.29024,44.087153
+d80ab43e-8b83-4343-a3fa-e8175b67fa43,Creekside Brewing,micro,8787 SW Becker Dr,,,Portland,Oregon,97223-7220,United States,5038286501,http://www.creekside-brewing.com,-122.766914,45.468834
+923fe507-b261-4f86-94b5-32933bdb4aa7,Crooked Creek Brewery,micro,34252 Bennett Rd,,,Warren,Oregon,97053,United States,5033697388,http://crookedcreekbrewery.com,-122.862189,45.833205
+0393bea8-bc5a-4a13-924b-98413eba513a,Crooked Roots Brewing,brewpub,420 N Main St,,,Prineville,Oregon,97754,United States,5413625583,http://www.crbrewing.com,-120.846498,44.304175
 e57a94bd-f81c-409c-992d-6a093856121c,Crowing Hen,planning,,,,Carlton,Oregon,97111-9668,United States,5038520037,,-123.0986999,45.29153898
+e72b309d-fa08-4c65-829e-c227a0793d8e,"Crowing Hen, LLC",taproom,10282 NE Abbey Rd,,,Carlton,Oregon,97111,United States,4083132682,http://www.crowinghen.com,-123.097822,45.290329
 731ea370-dfdb-4e79-a63f-b7acd4e32481,Crux Fermentation Project,regional,50 SW Division St,,,Bend,Oregon,97702-1600,United States,5413887558,http://www.cruxfermentation.com,-121.3079657,44.05092629
+4423d6de-d4e4-4961-b83b-3d89795dc989,Crux Fermentation Project,regional,50 SW Division,,,Bend,Oregon,97702-1600,United States,5413853333,http://www.cruxfermentation.com,-121.307839,44.050544
 eff4b8a3-9aef-4d32-bce1-593b1935aa67,Crux Fermentation Project - Crux2,micro,63065 NE 18th St,,,Bend,Oregon,97701-9981,United States,,,-121.2824469,44.08947729
-b62dcc90-f21d-4afb-86e1-dbd0cf9e98fa,Culmination Brewing Co,micro,2117 NE Oregon St Ste 600,,,Portland,Oregon,97232-2796,United States,9712549114,http://www.culminationbrewing.com,-122.64393,45.52893
+1bf42dc0-469e-4c07-bed6-0cd51e835f79,Crux Fermentation Project - Crux2,micro,63065 18th St,,,Bend,Oregon,97701-9981,United States,,,-121.282584,44.089469
+b62dcc90-f21d-4afb-86e1-dbd0cf9e98fa,Culmination Brewing Co,micro,2117 NE Oregon St Ste 600,,,Portland,Oregon,97232-2796,United States,9712549114,http://www.culminationbrewing.com,-122.643924,45.528929
 ad4d68e3-5b1d-4255-aa5d-a7a90685bba7,"DAMARKOM, INC.",planning,,,,Seaside,Oregon,97138-5803,United States,,,-123.915501,46.00331776
-d563d869-5b6e-4da1-acf8-479d5d39dd6d,De Garde Brewing,micro,114 Ivy Ave,,,Tillamook,Oregon,97141-2214,United States,5038151635,http://www.degardebrewing.com/,-123.8454035,45.45730575
-4e286a11-b83b-4b84-9cc7-26165de8cbb7,Deception Brewing Company,closed,1174 SW Highway 99W,,,Dundee,Oregon,97115,United States,9718328054,http://www.deceptionbrewingco.com,-123.0147466,45.27437643
+d563d869-5b6e-4da1-acf8-479d5d39dd6d,De Garde Brewing,micro,114 Ivy Ave,,,Tillamook,Oregon,97141-2214,United States,5038151635,http://www.degardebrewing.com/,-123.845312,45.457288
+4e286a11-b83b-4b84-9cc7-26165de8cbb7,Deception Brewing Company/Barn Door Brewing,taproom,1174 SW Highway 99W,,,Dundee,Oregon,97115,United States,9718328054,http://www.deceptionbrewingco.com,-123.0194,45.2762
 c9e5fb87-9609-4683-81ea-a90dc6c8b50f,Deep Space Brewing / Out of This World Pizza,brewpub,6255 NE Century Blvd,,,Hillsboro,Oregon,97124-8621,United States,5036298700,,-122.912049,45.564963
+e5c27455-16a1-4ea0-95f7-c1e5c6c729b6,Deep Space Brewing / Out of This World Pizza,brewpub,6482 NE Jacobson St,,,Hillsboro,Oregon,97124,United States,5036298700,,-122.9118,45.5654
 7606b693-f67c-4f45-8d3c-8b81d2c9b415,Defeat River Brewery,micro,473 Fir Avenue,,,Reedsport,Oregon,97467,United States,5418088862,http://www.defeatriverbrewery.com,-124.0974021,43.70234471
 7dc2107f-007b-4435-a23b-9d4278512460,Deluxe Brewing Co,micro,PO Box 3358,,,Albany,Oregon,97321-0713,United States,5419287699,http://www.deluxebrewing.com,-123.0981451,44.63937563
-9e06a19e-312b-4d45-b264-cecf6e51a783,Deschutes Brewery,regional,901 SW Simpson Ave,,,Bend,Oregon,97702-3118,United States,5413858606,http://www.deschutesbrewery.com,-121.3246184,44.04780638
-481d796e-a8aa-4253-b188-960dd7862ddc,Deschutes Brewery & Public House,brewpub,1044 NW Bond St,,,Bend,Oregon,97703-2002,United States,5413829242,http://www.deschutesbrewery.com,-121.3113845,44.05941415
-620e6a25-dd43-4c59-9598-226c62829135,Deschutes Brewery & Public House,brewpub,210 NW 11th Ave,,,Portland,Oregon,97209-2929,United States,5032964906,http://www.deschutesbrewery.com,-122.6818808,45.52468
+3d615a38-37ea-487e-b448-b354f4f65098,Deluxe Brewing Co,taproom,635 NE Water Ave,,,Albany,Oregon,97321,United States,5419287699,http://www.deluxebrewing.com,-123.097846,44.639152
+67c22b46-94e1-48f9-a073-9f646a51dd85,Depoe Bay Brewing Company / The Horn Public House and Brewery,brewpub,110 SE North Coast Highway,,,Depoe Bay,Oregon,97341,United States,5417646886,http://www.depoebaybrewing.com,-124.0545,44.8263
+9e06a19e-312b-4d45-b264-cecf6e51a783,Deschutes Brewery,regional,901 SW Simpson Ave,,,Bend,Oregon,97702-3118,United States,5413858606,http://www.deschutesbrewery.com,-121.322161,44.046776
+481d796e-a8aa-4253-b188-960dd7862ddc,Deschutes Brewery & Public House,brewpub,1044 NW Bond St,,,Bend,Oregon,97703-2002,United States,5413829242,http://www.deschutesbrewery.com,-121.311309,44.059403
+620e6a25-dd43-4c59-9598-226c62829135,Deschutes Brewery & Public House,brewpub,210 NW 11th Ave,,,Portland,Oregon,97209-2929,United States,5032964906,http://www.deschutesbrewery.com,-122.681869,45.524607
 b5449cda-10d5-4356-a60e-aca42e338b18,Dirt Road Brewing,planning,1301 Main St,,,Philomath,Oregon,97370,United States,5419297818,http://dirtroadbrewing.com,-123.3677101,44.54045973
+9474573f-edfe-4108-b95a-e2c9ce6c881e,Dirt Road Brewing,brewpub,1301 Main Street,,,Philomath,Oregon,97370,United States,5415984221,http://dirtroadbrewing.com,-123.367639,44.540313
 128d2350-9a0a-4f2e-b327-887af1cc2f7d,Double Mountain Brewery,micro,8 4th St Ste 204,,,Hood River,Oregon,97031-2123,United States,5413870042,http://www.doublemountainbrewery.com,-121.5145087,45.71003675
-52c41ba0-3c69-4e41-b028-d9d4c3035249,Dragon's Gate Brewery,micro,52288 Sunquist Rd,,,Milton Freewater,Oregon,97862-6856,United States,5412152622,http://www.dragonsgatebrewery.com,-118.4439713,45.98541686
-0fde773c-3201-4be7-b3ba-caf278efa4d3,Draper Brewing,micro,640 SE Jackson St,,,Roseburg,Oregon,97470,United States,5415805585,http://www.draperbrewing.com,-123.3445979,43.2084738
+4a5e4d1c-d64b-4306-aec6-036b64cc8415,Double Mountain Brewery,brewpub,8 4th St,,,Hood River,Oregon,97031,United States,5413870042,http://www.doublemountainbrewery.com,-121.514642,45.710012
+52c41ba0-3c69-4e41-b028-d9d4c3035249,Dragon's Gate Brewery,taproom,52288 Sunquist Rd,,,Milton Freewater,Oregon,97862-6856,United States,5412152622,http://www.dragonsgatebrewery.com,-118.443217,45.984873
+0fde773c-3201-4be7-b3ba-caf278efa4d3,Draper Brewing,micro,640 SE Jackson St,,,Roseburg,Oregon,97470,United States,5415805585,http://www.draperbrewing.com,-123.344613,43.208454
 fa16f1e8-3ee9-46e8-8c40-64a05947f6a2,Drinking Horse Brewing Company,micro,11517 SE Highway 212,,,Clackamas,Oregon,97015-9053,United States,5035648165,http://www.drinkinghorsebeer.com,-122.378124,45.4288733
-5e07c2a9-63b7-4c82-8167-13f350b811a6,Ecliptic Brewing,micro,825 N Cook St,,,Portland,Oregon,97227-1503,United States,5032658002,http://www.eclipticbrewing.com,-122.6751185,45.54737005
-1f6f2780-aea7-4d70-ae11-73f99ff0f760,Elk Horn Brewery,brewpub,686 E Broadway,,,Eugene,Oregon,97401-3340,United States,5415058356,http://www.elkhornbrewery.com,-123.0824349,44.04979409
-d656f484-6477-4d44-8c47-7bf1bf309363,Evasion Brewing - Production Facility,micro,4230 NE Riverside Dr,,,McMinnville,Oregon,97128-8403,United States,5038355322,http://www.evasionbrewing.com,-123.1519619,45.22899995
-4a2c515d-7384-4406-8751-31133687eac1,Ex Novo Brewing Co,micro,2326 N Flint Ave,,,Portland,Oregon,97227-1905,United States,5038948251,http://www.exnovobrew.com,-122.6684147,45.54002045
-3cffc2c8-fe86-46cd-836b-55f860daa1d9,Falling Sky Brewing,brewpub,1334 Oak Aly,,,Eugene,Oregon,97401-3190,United States,5415057096,http://www.fallingskybrewing.com,-123.0921962,44.04539623
+0bd74814-a9ec-4d67-85b7-3b6afcdaee07,Drop Bear Brewery LLC,alt prop,2690 Willamette Street,,,Eugene,Oregon,97405,United States,2692677722,,-123.090914,44.029251
+6ee95bf2-afee-4592-9a0b-e98699e596e8,Duality Brewing Co.,micro,2555 Northeast Sandy Boulevard,,,Portland,Oregon,97232,United States,,,-122.639818,45.528277
+5e07c2a9-63b7-4c82-8167-13f350b811a6,Ecliptic Brewing,regional,825 N Cook St,,,Portland,Oregon,97227-1503,United States,5032658002,http://www.eclipticbrewing.com,-122.675138,45.547259
+e31905bc-879d-4486-8e2a-b2b08151026d,Ecliptic Brewing Moon Room,taproom,930 SE Oak St,,,Portland,Oregon,97214,United States,9713831613,,-122.655969,45.519913
+1f6f2780-aea7-4d70-ae11-73f99ff0f760,Elk Horn Brewery,brewpub,686 E Broadway,,,Eugene,Oregon,97401-3340,United States,5415058356,http://www.elkhornbrewery.com,-123.082477,44.049579
+d656f484-6477-4d44-8c47-7bf1bf309363,Evasion Brewing - Production Facility,micro,4230 NE Riverside Dr,,,McMinnville,Oregon,97128-8403,United States,5038355322,http://www.evasionbrewing.com,-123.153237,45.228558
+4a2c515d-7384-4406-8751-31133687eac1,Ex Novo Brewing Co,micro,2326 N Flint Ave,,,Portland,Oregon,97227-1905,United States,5038948251,http://www.exnovobrew.com,-122.668406,45.540017
+3cffc2c8-fe86-46cd-836b-55f860daa1d9,Falling Sky Brewing,brewpub,1334 Oak Aly,,,Eugene,Oregon,97401-3190,United States,5415057096,http://www.fallingskybrewing.com,-123.092301,44.045265
 4f86b0c5-c7a2-4cfa-8fa3-40afca62a741,Fearless Brewing Co,brewpub,326 S Broadway St,,,Estacada,Oregon,97023-7000,United States,5036302337,http://www.fearless.beer,-122.3350759,45.2870468
 2b08803c-7d1c-4eb9-bb76-6c8b744482f3,Feckin Brewery,micro,415 S McLoughlin Blvd,,,Oregon City,Oregon,97045-3101,United States,5038805608,http://www.fecknbrew.com,-122.6217909,45.3474038
-57716b50-4321-4023-bfe5-b0243722af72,Fire On the Mountain Brewing Co,brewpub,3443 NE 57th Ave,,,Portland,Oregon,97213-3351,United States,5038948973,http://www.portlandwings.com,-122.6049402,45.5480432
+9336d7ca-238d-4daf-ad1e-6d64f3575d1d,Ferment Brewing Company,brewpub,403 Portway Ave,,,Hood River,Oregon,97031,United States,5414363499,http://www.fermentbrewing.com,-121.514556,45.714612
+57716b50-4321-4023-bfe5-b0243722af72,Fire On the Mountain Brewing Co,taproom,3443 NE 57th Ave,,,Portland,Oregon,97213-3351,United States,5038948973,http://www.portlandwings.com,-122.604867,45.547982
 90ed6777-3f0f-43d0-80e4-0e9c6a6b62b4,Flat Tail Brewing Co,brewpub,202 SW 1st St,,,Corvallis,Oregon,97333-4727,United States,5417582229,http://www.flattailcorvallis.com,-123.2598775,44.56196237
+daa0f5a3-0a92-42c8-aeb2-fc7102701adf,FlyBoy Brewery and Pub,brewpub,15230 sw sequoia pkwy,,,Portland,Oregon,97224,United States,9713170137,http://Www.flyboybeer.com,-122.745998,45.410095
 f80dcefb-bbb4-4a31-ac13-be85108c31f3,FlyBoy Brewing,closed,15630 Boones Ferry Rd Ste 1A,,,Lake Oswego,Oregon,97035-3455,United States,5039081281,http://www.flyboybeer.com,-122.7165,45.41274998
 295b8a48-f12c-4f0c-8762-405a83a1b6e6,FlyBoy Brewing,micro,15230 SW Sequoia Parkway,,,Tigard,Oregon,97224,United States,9713170137,http://www.flyboybrewing.com,-122.7458813,45.41087854
-f71ae900-2020-454b-a23e-925d7e5dbb4f,Fort George Brewery,regional,1483 Duane St,,,Astoria,Oregon,97103-3819,United States,5033257468,http://www.fortgeorgebrewery.com,-123.8274681,46.1883837
-01ea88c3-9507-4959-9087-cc70e2d6fc19,Freebridge Brewing,brewpub,710 E 2nd St Ste 1,,,The Dalles,Oregon,97058-2400,United States,5417691234,http://www.freebridgebrewing.com,-121.1766104,45.59871449
+725eccb5-93e4-4848-a2ae-7204f18f5717,ForeLand Beer,micro,777 NE 4th St,,,Mcminnville,Oregon,97128,United States,,http://www.forelandbeer.com,-123.191328,45.210953
+aa728bcc-78e1-428a-9f3a-0bfc07cd0e21,Fort George Brewery Waterfront,micro,70 W. Marine Dr.,,,Astoria,Oregon,97103,United States,5033257468,,-123.846303,46.191006
+f71ae900-2020-454b-a23e-925d7e5dbb4f,Fort George Brewpub,brewpub,1483 Duane St.,,,Astoria,Oregon,97103,United States,5033257468,,-123.827467,46.188377
+21cca610-d26f-477f-a812-8888d839c3a4,Fracture Brewing,micro,701 E Burnside St,,,Portland,Oregon,97214,United States,9713318864,,-122.658502,45.523056
+01ea88c3-9507-4959-9087-cc70e2d6fc19,Freebridge Brewing,brewpub,710 E 2nd St Ste 1,,,The Dalles,Oregon,97058-2400,United States,5417691234,http://www.freebridgebrewing.com,-121.176652,45.598493
+e51bfd60-96d7-4931-b255-4a5d4669d4fd,Freehand Brewery,micro,2775 Baker Blvd,,,Eugene,Oregon,97403,United States,5419995088,http://www.freehandbrewery.com,-123.072598,44.027732
 ab9173c6-33cc-4f60-a467-81d9e7a6eb2d,Full Sail Brewery - Riverplace,micro,0307 SW Montgomery St,,,Portland,Oregon,97201-5125,United States,5032225343,http://www.fullsailbrewing.com,-122.6735214,45.50957205
-681f435e-7b73-4e4e-8621-bc1016fde942,Full Sail Brewing Co,regional,506 Columbia St,,,Hood River,Oregon,97031-2000,United States,5413862281,http://www.fullsailbrewing.com,-121.5165301,45.71036091
-f6234e79-191b-489f-88e0-73c71e6517a5,Funhouse Brews,micro,7717 N Emerald Ave Unit A,,,Portland,Oregon,97217-6111,United States,3147532669,http://www.funhousebrews.com,-122.70021,45.57944
-72cc9e4f-9347-4375-9e4c-68a014676e7a,G Man Brewery / G-Man Sports Bar,micro,18791 SW Martinazzi Ave,,,Tualatin,Oregon,97062-6808,United States,5033105159,http://www.hotseatsportsbar.com,-122.7598045,45.3841006
-55e3d17f-fc93-467c-9eea-1e4f4204edf3,"Gateway Brewing, Inc",micro,114 NE 133rd Ave,,,Portland,Oregon,97230-2528,United States,5039759103,http://gatewaybrewingpdx.com,-122.5257352,45.5239106
+681f435e-7b73-4e4e-8621-bc1016fde942,Full Sail Brewing Co,regional,506 Columbia St,,,Hood River,Oregon,97031-2000,United States,5413862281,http://www.fullsailbrewing.com,-121.514915,45.710459
+f6234e79-191b-489f-88e0-73c71e6517a5,Funhouse Brews,micro,7717 N Emerald Ave Unit A,,,Portland,Oregon,97217-6111,United States,3147532669,http://www.funhousebrews.com,-122.700203,45.579431
+28b85e90-9d24-4087-88cc-99fe2164cc46,Funky Fauna Artisan Ales,taproom,211 E. Sun Ranch Drive,,,Sisters,Oregon,97759,United States,7203417408,http://www.funkyfaunabeer.com,-121.547982,44.298426
+72cc9e4f-9347-4375-9e4c-68a014676e7a,G Man Brewery / G-Man Sports Bar,micro,18791 SW Martinazzi Ave,,,Tualatin,Oregon,97062-6808,United States,5033105159,http://www.hotseatsportsbar.com,-122.75956,45.384039
+55e3d17f-fc93-467c-9eea-1e4f4204edf3,"Gateway Brewing, Inc",micro,114 NE 133rd Ave,,,Portland,Oregon,97230-2528,United States,5039759103,http://gatewaybrewingpdx.com,-122.525696,45.523899
 c751cc13-ec8a-4979-bac5-d9af45a62ec1,Geist Beerworks,micro,736 SW Umatilla Ave Suite F,,,Redmond,Oregon,97756,United States,5417288663,,-121.1759123,44.25116219
-fa51e915-17bb-4a59-b32c-2ccbf025ebe3,Gigantic Brewing Co,micro,5224 SE 26th Ave,,,Portland,Oregon,97202-4627,United States,5032083416,http://www.giganticbrewing.com,-122.6392092,45.48500105
-8e28ee7d-4671-474f-b967-67319470a2af,Gilgamesh Brewing Co,micro,2065 Madrona Ave SE,,,Salem,Oregon,97302-1010,United States,9702014409,http://gilgameshbrewing.com,-123.0191178,44.90504576
-474774f5-f9dc-42eb-9487-4bdf5a9533bf,Golden Valley Brewery and Pub,brewpub,980 NE 4th St,,,McMinnville,Oregon,97128-4308,United States,,,-123.1894925,45.21065713
+fa51e915-17bb-4a59-b32c-2ccbf025ebe3,Gigantic Brewing Co,micro,5224 SE 26th Ave,,,Portland,Oregon,97202-4627,United States,5032083416,http://www.giganticbrewing.com,-122.639003,45.484969
+8e28ee7d-4671-474f-b967-67319470a2af,Gilgamesh Brewing Co,micro,2065 Madrona Ave SE,,,Salem,Oregon,97302-1010,United States,5035841789,http://gilgameshbrewing.com,-123.019512,44.906114
+474774f5-f9dc-42eb-9487-4bdf5a9533bf,Golden Valley Brewery and Pub,micro,980 NE 4th St,,,McMinnville,Oregon,97128-4308,United States,5034722739,http://www.goldenvalleybrewery.com,-123.188759,45.210587
 81a767f3-9342-4102-84b9-ffcb09726574,Good Earth Brewing,planning,,,,Terrebonne,Oregon,97760-9709,United States,5598609998,http://www.goodearthbrewing.com,,
-26b96041-d01d-4ec8-95a2-d0bb1d050455,GoodLife Brewing Company,regional,70 SW Century Ave 100-464,,,Bend,Oregon,97701,United States,5417280749,http://www.goodlifebrewing.com,-121.3302942,44.05138311
-bd14f283-c7e6-469b-9fa6-bc6887148b1a,Grain Station Brew Works,brewpub,755 NE Alpine Ave Ste 200,,,McMinnville,Oregon,97128-4102,United States,5036872739,http://www.grainstation.com,-123.1894465,45.21286658
+26b96041-d01d-4ec8-95a2-d0bb1d050455,GoodLife Brewing Company,micro,70 SW Century Ave 100-464,,,Bend,Oregon,97701,United States,5417280749,http://www.goodlifebrewing.com,-121.2437,44.0745
+bd14f283-c7e6-469b-9fa6-bc6887148b1a,Grain Station Brew Works,brewpub,755 NE Alpine Ave Ste 200,,,McMinnville,Oregon,97128-4102,United States,5036872739,http://www.grainstation.com,-123.189673,45.212589
+0fc0aece-0ce1-4f2f-8591-1066e7a5aeac,Grains of Wrath PDX,taproom,"3901 N Williams Ave, Ste. A",,,Portland,Oregon,97227,United States,3602105717,,-122.667078,45.551014
+35918793-5f59-4a38-9fe8-3efbdd0c2acb,Grand Fir Brewing,brewpub,1403 SE Stark St,,,Portland,Oregon,97214,United States,,http://www.grandfirbrewing.com,-122.65119,45.519556
+2be8134c-5c87-49ec-bb5e-13dbd5de9baa,Gratitude Brewing,brewpub,540 E 8th Ave Suite A,,,Eugene,Oregon,97401,United States,5038637449,http://www.gratitudebrewing.com,-123.084758,44.050702
 241b680f-f114-440d-a662-67869a68e262,Great Notion Brewing,brewpub,2204 NE Alberta St Ste 101,,,Portland,Oregon,97211-5885,United States,5035484491,http://www.greatnotionpdx.com,-122.64249,45.55884
-e7857396-5a4b-4d13-9280-5bc209512ee0,Great Notion Brewing NW,micro,2444 NW 28th Ave,,,Portland,Oregon,97210,United States,5035484491,,-122.7089599,45.54001975
+34115214-684b-489e-ad22-2b253167b901,Great Notion Brewing,brewpub,2204 NE Alberta St,,,Portland,Oregon,97210-2002,United States,5035484491,http://www.greatnotion.com,-122.642682,45.558841
+e7857396-5a4b-4d13-9280-5bc209512ee0,Great Notion Brewing NW,micro,2444 NW 28th Ave,,,Portland,Oregon,97210,United States,5035484491,,-122.708452,45.540082
 8ea7776f-0bc8-445c-8153-7263e2b3124c,Grixsen Brewing Co,closed,1001 SE Division St Ste 1,,,Portland,Oregon,97202-1076,United States,9713473100,http://www.grixsen.com,-122.6554541,45.5052337
 b7e46ca9-3e5c-4f3e-9d53-910889ce0694,Ground Breaker Brewing,brewpub,715 SE Lincoln St,,,Portland,Oregon,97214-4600,United States,5039284195,http://www.harvesterbrewing.com,-122.6583697,45.50809545
 1503f786-1afe-44fb-9668-a32cc139df58,Hair of the Dog Brewing Co,brewpub,61 SE Yamhill St,,,Portland,Oregon,97214-2134,United States,5032326585,http://www.hairofthedog.com,-122.6655236,45.5160413
-2036b68f-d586-4a89-9847-7053011df006,Heater Allen Brewery,micro,907 NE 10th Ave,,,McMinnville,Oregon,97128-4003,United States,5034724898,http://www.heaterallen.com,-123.1879728,45.21407234
-289406b7-ca99-414d-ab35-231f65c00c04,Hermiston Brewing Co,brewpub,125 N 1st St,,,Hermiston,Oregon,97838-1850,United States,5412897415,,-119.2905935,45.8409084
-15a32929-72b1-425b-8136-eb443c70d244,Hondo's Brew and Cork Pub,micro,2703 Marine Dr,,,Astoria,Oregon,97103-2900,United States,5033252234,http://www.hondosbrew.net,-123.8140426,46.18885817
+755ff670-cca4-45d3-b89c-f87f4b946242,Hammer & Stitch Brewing Co,taproom,2377 NW Wilson St,,,Portland,Oregon,97210,United States,,http://www.hsbrew.co,-122.700311,45.537757
+2036b68f-d586-4a89-9847-7053011df006,Heater Allen Brewery,micro,907 NE 10th Ave,,,McMinnville,Oregon,97128-4003,United States,5034724898,http://www.heaterallen.com,-123.188696,45.214599
+289406b7-ca99-414d-ab35-231f65c00c04,Hermiston Brewing Co,brewpub,125 N 1st St,,,Hermiston,Oregon,97838-1850,United States,5412897415,http://www.hermistonbrewingcompany.com,-119.290605,45.841038
+5417ed05-e863-4632-9c7b-c696511e5e4d,Homegrown Public House & Brewery,brewpub,294 Laurel St,,,Florence,Oregon,97439,United States,5419974886,http://www.homegrownpublichouse.com,-124.106418,43.967971
+15a32929-72b1-425b-8136-eb443c70d244,Hondo's Brew and Cork Pub,taproom,2703 Marine Dr,,,Astoria,Oregon,97103-2900,United States,5033252234,http://www.hondosbrew.net,-123.813812,46.188796
 b1d29f8f-ee48-4a51-9460-01bdd6485e48,Hop Cycle Brewing Company,brewpub,13965 NW Main St,,,Banks,Oregon,97106-9213,United States,5032770997,http://www.hopcyclebrewing.com,-123.1145847,45.62137327
 cba10f55-3b05-43ef-86d6-6dba4cb4b7af,Hop Valley Brewing Co,large,990 W 1st Ave,,,Eugene,Oregon,97402-4904,United States,,,-123.1074506,44.05820645
 5dcaadf3-ae3f-408a-9d52-fdfaf428c747,Hop Valley Brewing Co,large,980 Kruse Way,,,Springfield,Oregon,97477-1073,United States,5417443330,http://www.hopvalleybrewing.com,-123.0399796,44.08270624
-bc8fdd30-e644-4b4a-a05b-41857bc8e0ad,Hopworks Urban Brewery,micro,2944 SE Powell Blvd,,,Portland,Oregon,97202-2054,United States,5032324677,http://www.hopworksbeer.com,-122.634827,45.4968753
+bc8fdd30-e644-4b4a-a05b-41857bc8e0ad,Hopworks Urban Brewery,micro,2944 SE Powell Blvd,,,Portland,Oregon,97202-2054,United States,5032324677,http://www.hopworksbeer.com,-122.635041,45.496662
+9ea81260-b4af-4e24-a89f-b812163e18bb,HRL Brewery & Pubbery,brewpub,1100 N Central Ave,,,Medford,Oregon,97501,United States,5414996373,,-122.881272,42.336719
 ea885340-1209-4300-a66e-d272b929c6c5,Immersion Brewing,brewpub,550 SW Industrial Way,,,Bend,Oregon,97702-1084,United States,5416337821,http://www.imbrewing.com,-121.3155231,44.05100445
-9d54b823-d300-4ccc-9cf9-8fcdb8dca252,JD's Sports Pub and Brewery,brewpub,690 Redwood Hwy,,,Grants Pass,Oregon,97527-5582,United States,5414710383,http://www.jdssportsbarandbrewery.com,-123.3420515,42.42319062
+7393307b-2d4c-4bdf-b7f4-c6ae4153ed79,Immersion Brewing,brewpub,550 SW Industrial Way #185,,,Bend,Oregon,97702-1084,United States,5416337821,http://www.imbrewing.com,-121.315559,44.050485
+815d1516-a608-4618-befd-8b892d25d26c,Initiative Brewing,brewpub,424 NW 5th St,,,Redmond,Oregon,97756,United States,5415274380,http://https://initiativebrew.com/,-121.172905,44.279765
+2d751fef-59e7-4cc1-870c-b48a105510a6,Integrity Brewing Company,micro,7637 SW 205th Terrace,,,Beaverton,Oregon,97007,United States,9717085602,http://www.integrity-brewing.com,-122.888872,45.464418
+9d54b823-d300-4ccc-9cf9-8fcdb8dca252,JD's Sports Pub and Brewery,brewpub,690 Redwood Hwy,,,Grants Pass,Oregon,97527-5582,United States,5414710383,http://www.jdssportsbarandbrewery.com,-123.340803,42.423959
 3d54e58d-ed32-4e17-a719-5ccff31e0dcc,"Kaiser Brewing Company, LLC",micro,1607 Hawthorne St,,,Forest Grove,Oregon,97116-2537,United States,5034129628,http://www.kaiserbrewingco.com,-123.0990254,45.51421585
-e14e681c-4337-471a-b579-e2cadb3e4119,Kells Brew Pub,brewpub,210 NW 21st Ave,,,Portland,Oregon,97209-1004,United States,5037197175,http://Kellsbrewpub.com,-122.6941546,45.52447285
+8f146547-8718-43e9-8615-f5da936b409e,Kantu Brewing,taproom,1837 Tenmile Valley Rd,,,Tenmile,Oregon,97481,United States,6193217116,,-123.558589,43.109716
+e14e681c-4337-471a-b579-e2cadb3e4119,Kells Brewery,taproom,210 NW 21st Ave,,,Portland,Oregon,97209-1004,United States,5037197175,http://Kellsbrewpub.com,-122.694032,45.524394
 92a774e5-ba50-422d-b644-e791e4962523,Klamath Basin Brewing Co,brewpub,1320 Main St,,,Klamath Falls,Oregon,97601-5914,United States,5412735222,http://www.kbbrewing.com,-121.7763705,42.2280361
 f8c48bdf-6db1-4c2d-b9d2-7f45518b905e,Kobold Brewing,micro,245 SW 6th St,,,Redmond,Oregon,97756-2108,United States,5416783884,http://www.koboldbrewing.com,-121.1744086,44.27499604
-e92070f8-b06f-42c0-9d6f-d20870fdfe3a,Krauski's Brewskis / The Hoppy Brewer,micro,328 N Main Ave,,,Gresham,Oregon,97030-7210,United States,5033288474,http://www.oregonshoppyplace.com,-122.430839,45.49992243
+2b52eee1-6218-4ed3-b9ea-0c2bc536892b,Kobold Brewing,brewpub,675 NE HEMLOCK AVE #111,,,Redmond,Oregon,97756,United States,5416783884,http://www.koboldbrewing.com,-121.16215,44.284187
+e92070f8-b06f-42c0-9d6f-d20870fdfe3a,Krauski's Brewskis / The Hoppy Brewer,brewpub,328 N Main Ave,,,Gresham,Oregon,97030-7210,United States,5033288474,http://www.oregonshoppyplace.com,-122.430645,45.499901
 c881a3b1-c830-4feb-a50e-77f12da07592,LABrewatory,micro,670 N Russell St,,,Portland,Oregon,97227-1728,United States,9712718151,http://www.thelabrewatory.com,-122.6730826,45.54092271
 06340393-a873-4844-92ad-fc352d19967b,Laurelwood Public House & Brewery - SE Portland,brewpub,6716 SE Milwaukie Ave,,,Portland,Oregon,97202-5618,United States,5039436157,,-122.6484951,45.47415655
-1a73f78b-ca39-46f4-a6ed-71b22876889b,Laurelwood Public House and Brewery - NE,micro,5115 NE Sandy Blvd,,,Portland,Oregon,97213-2525,United States,5032820622,http://laurelwoodbrewingco.com,-122.6106727,45.54014675
-9fc7686f-dbb3-4dea-81fe-74e95738150f,Level Beer,micro,5211 NE 148th Ave,,,Portland,Oregon,97230-3434,United States,5037141222,http://www.levelbeer.com,-122.5110275,45.560506
+1a73f78b-ca39-46f4-a6ed-71b22876889b,Laurelwood Public House and Brewery - NE,brewpub,5115 NE Sandy Blvd,,,Portland,Oregon,97213-2525,United States,5032820622,http://laurelwoodbrewingco.com,-122.610662,45.540249
+f1098a21-836a-4afe-ae00-244ee71bae88,Leikam Brewing,micro,5812 E Burnside St,,,Portland,Oregon,97215,United States,5032309636,http://www.leikambrewing.com,-122.603964,45.522607
+9fc7686f-dbb3-4dea-81fe-74e95738150f,Level Beer,taproom,5211 NE 148th Ave,,,Portland,Oregon,97230-3434,United States,5037141222,http://www.levelbeer.com,-122.510483,45.560716
 dc7254f5-aa81-475a-abdf-9d2065ad76b0,Little Beast Brewing,micro,3800 SW Cedar Hills Blvd Ste 300E,,,Beaverton,Oregon,97005-2037,United States,5033295107,http://www.littlebeastbrewing.com/,,
+e085b804-22b3-48a0-96cc-fe6d6f8c55b0,Little Hop Brewing,micro,12437 SW 62nd AVE,,,Portland,Oregon,97219,United States,5034752771,http://www.littlehopbrewing.com,-122.741503,45.43553
+88cd61da-bfe8-4da8-a08f-7b3ced58511e,Living Haus Beer Co.,taproom,628 SE Belmont St,,,Portland,Oregon,97214,United States,,http://www.livinghausbeer.com,-122.659036,45.516289
 88a28bd3-c4c4-4372-abce-ff5f97bd3dff,Logsdon Farmhouse Ales,micro,4785 Booth Hill Rd,,,Hood River,Oregon,97031-7411,United States,5414909161,http://www.farmhousebeer.com,-121.5375837,45.58763985
+68902e77-874d-4764-a96e-880438279832,Logsdon Farmhouse Ales,micro,2425 SE 35th Place,,,Portland,Oregon,97215,United States,5036798063,http://www.farmhousebeer.com,-122.628002,45.505216
 74f90455-1067-4c5c-b216-1c69bafb21f9,"Lompoc Brewing, LLC/ The 5th Quadrant",closed,3901 N Williams Ave Ste B,,,Portland,Oregon,97227-1465,United States,5032883996,http://www.newoldlompoc.com/5thquadranthome.html,-122.6675027,45.55345273
 a817db45-c5c8-4b51-981d-e68a2795114f,Long Brewing LLC,micro,29380 NE Owls Ln,,,Newberg,Oregon,97132-7217,United States,5033498341,http://www.longbrewing.com,-122.9354492,45.3262403
 f58ed632-1a57-4ffc-b2b1-d6a2374bc3a9,Look Long Brewing Company,micro,6550 N Interstate Ave,,,Portland,Oregon,97217-4836,United States,5032860343,http://www.looklongbrewingcompany.com,-122.6818062,45.57066185
-8d9a114b-9303-4544-9d96-7b8f218138f3,Lookingglass Brewery,micro,192 SE Main St,,,Winston,Oregon,97496,United States,5413788565,http://www.lookingglassbrewery.com,-123.4131843,43.12022681
-7ba87c15-8af2-4dbc-b64f-fd28df2cfe02,Lucky Labrador Beer Hall,brewpub,1945 NW Quimby St,,,Portland,Oregon,97209-1712,United States,5035174352,http://www.luckylab.com,-122.6917362,45.53370375
-27cea017-91b4-4d46-951e-9eaa029a9322,Lucky Labrador Brewpub,micro,915 SE Hawthorne Blvd,,,Portland,Oregon,97214-3545,United States,5032363555,http://www.luckylab.com,-122.6564149,45.51247125
-02aa77e2-94f3-49e4-9a47-e8d2d5e85c17,Madcow Brewing Co.,micro,206 SE 166th Ave,,,Portland,Oregon,97233-4202,United States,,http://www.madcowbrewing.com,-122.4924064,45.5034238
+8d9a114b-9303-4544-9d96-7b8f218138f3,Lookingglass  Brewery,taproom,192 SE Main St,,,Winston,Oregon,97496,United States,5413788565,http://www.lbbrewingcompany.com,-123.4126,43.1227
+7ba87c15-8af2-4dbc-b64f-fd28df2cfe02,Lucky Labrador Beer Hall,brewpub,1945 NW Quimby St,,,Portland,Oregon,97209-1712,United States,5035174352,http://www.luckylab.com,-122.691658,45.533694
+27cea017-91b4-4d46-951e-9eaa029a9322,Lucky Labrador Brewpub,brewpub,915 SE Hawthorne Blvd,,,Portland,Oregon,97214-3545,United States,5032363555,http://www.luckylab.com,-122.656416,45.51245
+5e47790a-aaa2-4614-a340-6a90b719ef2b,M. Crow & Company,brewpub,133 OR-82,,,Lostine,Oregon,97857,United States,5415692285,http://www.mcrowcompany.com,-117.429867,45.485915
+02aa77e2-94f3-49e4-9a47-e8d2d5e85c17,Madcow Brewing Co.,brewpub,206 SE 166th Ave,,,Portland,Oregon,97233-4202,United States,,http://www.madcowbrewing.com,-122.491832,45.520834
 1bd5d598-c751-4438-bc01-7a7adf6cdb92,Manifest Beer Company,micro,740 Willamette St,,,Eugene,Oregon,97401-2934,United States,5412067232,http://www.manifestbeer.com,-123.0928507,44.05174833
+cc8db5a6-e549-412f-bf05-606fff381f9a,Manifest Beer Company,micro,39 W Broadway,,,Eugene,Oregon,97401,United States,5416323967,http://www.manifestbeer.com,-123.093203,44.050054
 240ea2c7-bc2c-46ee-97e3-ed35ac6ed31e,Max's Fanno Creek Brew Pub,brewpub,12562 SW Main St,,,Portland,Oregon,97223-6195,United States,5036249400,http://www.maxsfannocreek.com,-122.6771146,45.5156226
 c3b2d49e-ba21-4142-9854-a0b49b739720,Mazama Brewing Co,micro,33930 SE Eastgate Cir Unit A,,,Corvallis,Oregon,97333-2272,United States,15412301810,http://www.mazamabrewing.com,-123.226008,44.56360936
-258023a7-eaa3-421d-b011-b6b341403388,McKenzie Brewing Company,brewpub,199 E 5th Ave,,,Eugene,Oregon,97401-8715,United States,5416862739,http://www.steelheadbrewery.com,-123.089843,44.054404
-1892d9b8-4037-4f23-87c5-6c4c8f093779,McMenamins - Cedar Hills,brewpub,2885 SW Cedar Hills Blvd,,,Beaverton,Oregon,97005-1343,United States,5036410151,,-122.8058983,45.5013601
-db962489-e1d3-4102-a8cd-85ad5cc9a02b,McMenamins Breweries,micro,430 N Killingsworth St,,,Portland,Oregon,97217-2441,United States,5032230109,http://www.mcmenamins.com,-122.6708112,45.5624447
-a11222c9-a317-4cef-aaec-a1da131cb749,McMenamins Concordia Brewery at Kennedy School,brewpub,5736 NE 33rd Ave,,,Portland,Oregon,97211-7302,United States,5032881937,http://www.mcmenamins.com,-122.6299694,45.56447065
-1467b102-9664-4df9-85e8-f2d0ae1e3508,McMenamins Cornelius Pass Roadhouse,brewpub,4045 NE Cornelius Pass Rd,,,Hillsboro,Oregon,97124-9367,United States,5036406174,http://www.mcmenamins.com,-122.9009845,45.5490862
-19d30f50-d7a9-4f8e-86dd-9ae9d3cbffa7,McMenamins Crystal Ballroom Brewery,brewpub,1332 W Burnside St,,,Portland,Oregon,97209-2612,United States,5037785625,http://www.mcmenamins.com,-122.6850673,45.5228146
-06d34341-3309-4023-978c-478285e8a391,McMenamins Edgefield Brewery,micro,2126 SW Halsey St,,,Troutdale,Oregon,97060-1026,United States,5036674352,http://www.mcmenamins.com,-122.4060641,45.5368535
-faf099d7-5437-40ff-a51e-f277d58447a4,McMenamins Fulton Pub and Brewery,micro,0618 SW Nebraska St,,,Portland,Oregon,97239-3556,United States,5032464363,http://www.mcmenamins.com,-122.6726223,45.47711805
-5527e67d-4ff5-4843-b6cb-dd6695cf5b2c,McMenamins High Street Brewery,brewpub,1243 High St,,,Eugene,Oregon,97401-3207,United States,5413454913,http://www.mcmenamins.com,-123.0879134,44.0461346
-1a4b9cf0-e54e-460c-bd7a-c91585d42adc,McMenamins Highland Pub and Brewery,brewpub,4225 SE 182nd Ave,,,Gresham,Oregon,97030-5082,United States,5036653015,http://www.mcmenamins.com,-122.475815,45.4915603
-82cf7577-0457-4889-b49b-3738c3d58dd1,McMenamins Hillsdale Brewery and Public House,micro,1505 SW Sunset Blvd,,,Portland,Oregon,97239-2625,United States,5032931753,http://www.mcmenamins.com,-122.6936922,45.4792439
-7435ef24-5a83-4bd8-bc65-525088350803,McMenamins John Barleycorns,brewpub,14610 SW Sequoia Pkwy,,,Tigard,Oregon,97224-7185,United States,5036846253,http://www.mcmenamins.com,-122.7466466,45.41452585
-48dc01b2-c5a0-4c6b-80f9-25945a0eb2f6,McMenamins Lighthouse Brewery,brewpub,4157 NW Highway 101 Ste 117,,,Lincoln City,Oregon,97367-5050,United States,5419949628,http://www.mcmenamins.com,-124.0050694,44.99673605
-6098da96-d790-4675-aadb-8836048dab5e,McMenamins Murray & Allen,brewpub,6179 SW Murray Blvd,,,Beaverton,Oregon,97008-4421,United States,5035269618,http://www.mcmenamins.com,-122.8264537,45.4750792
-f162f822-f631-4c3a-8de9-bed207e8cc0a,McMenamins Oak Hills Brewery,micro,14740 NW Cornell Rd Ste 80,,,Portland,Oregon,97229-5400,United States,5036450117,http://www.mcmenamins.com,-122.7105079,45.5330425
-4cdae732-9672-463f-b4ba-5c4f3cdcac6c,McMenamins Old Church Brewery,brewpub,30340 SW Boones Ferry Rd,,,Wilsonville,Oregon,-97070,United States,5034272505,http://www.mcmenamins.com/Wilsonville,-122.7726765,45.3007043
-61305a0a-ccbe-4c55-8eb8-54b49983d590,McMenamins Old St. Francis School,brewpub,700 NW Bond St,,,Bend,Oregon,97703-2702,United States,5413825174,http://www.mcmenamins.com,-121.314499,44.0566885
-a8acab3f-b025-47e5-b2ce-b77c3c38afcf,McMenamins on Monroe,brewpub,2001 NW Monroe Ave Ste 106,,,Corvallis,Oregon,97330-5567,United States,5417580880,,-123.275563,44.56825637
-86687c9b-6107-4e9b-947d-9c6c392e67fa,McMenamins Roseburg Station Brewery,micro,700 SE Sheridan St,,,Roseburg,Oregon,97470-3470,United States,5416721934,http://www.mcmenamins.com,-123.349051,43.208554
-41da837d-8b75-42a1-8719-a2f833a2cd69,McMenamins Thompson Brewery,micro,3575 Liberty Rd S,,,Salem,Oregon,97302-5621,United States,5033712945,http://www.mcmenamins.com,-123.051309,44.904043
-2c606589-3e2d-41dd-bd10-65ce9488dd7d,McMenamins West Linn Brewery,micro,2090 8th Ave,,,West Linn,Oregon,97068-4612,United States,5036562935,http://www.mcmenamins.com,-122.6520654,45.34604029
+ba733dda-db7d-404b-bbcc-17c1426fb4f4,Mazama Brewing Co,micro,33930 SE Eastgate Cir.,,,CORVALLIS,Oregon,97333,United States,5412301810,http://www.mazamabrewing.com,-123.225374,44.562515
+258023a7-eaa3-421d-b011-b6b341403388,McKenzie Brewing Company,brewpub,199 E 5th Ave,,,Eugene,Oregon,97401-8715,United States,5416862739,http://www.steelheadbrewery.com,-123.090134,44.054666
+1892d9b8-4037-4f23-87c5-6c4c8f093779,McMenamins - Cedar Hills,location,2885 SW Cedar Hills Blvd,,,Beaverton,Oregon,97005-1343,United States,5036410151,,-122.80746,45.499136
+db962489-e1d3-4102-a8cd-85ad5cc9a02b,McMenamins Breweries,brewpub,430 N Killingsworth St,,,Portland,Oregon,97217-2441,United States,5032230109,http://www.mcmenamins.com,-122.670805,45.562441
+a11222c9-a317-4cef-aaec-a1da131cb749,McMenamins Concordia Brewery at Kennedy School,brewpub,5736 NE 33rd Ave,,,Portland,Oregon,97211-7302,United States,5032881937,http://www.mcmenamins.com,-122.629643,45.564506
+1467b102-9664-4df9-85e8-f2d0ae1e3508,McMenamins Cornelius Pass Roadhouse,brewpub,4045 NE Cornelius Pass Rd,,,Hillsboro,Oregon,97124-9367,United States,5036406174,http://www.mcmenamins.com,-122.901057,45.549342
+19d30f50-d7a9-4f8e-86dd-9ae9d3cbffa7,McMenamins Crystal Ballroom Brewery,brewpub,1332 W Burnside St,,,Portland,Oregon,97209-2612,United States,5037785625,http://www.mcmenamins.com,-122.684769,45.522738
+06d34341-3309-4023-978c-478285e8a391,McMenamins Edgefield Brewery,micro,2126 SW Halsey St,,,Troutdale,Oregon,97060-1026,United States,5036674352,http://www.mcmenamins.com,-122.406872,45.536909
+faf099d7-5437-40ff-a51e-f277d58447a4,McMenamins Fulton Pub and Brewery,micro,0618 SW Nebraska St,,,Portland,Oregon,97239-3556,United States,5032464363,http://www.mcmenamins.com,-122.672635,45.477035
+5527e67d-4ff5-4843-b6cb-dd6695cf5b2c,McMenamins High Street Brewery,brewpub,1243 High St,,,Eugene,Oregon,97401-3207,United States,5413454913,http://www.mcmenamins.com,-123.087742,44.046138
+1a4b9cf0-e54e-460c-bd7a-c91585d42adc,McMenamins Highland Pub and Brewery,brewpub,4225 SE 182nd Ave,,,Gresham,Oregon,97030-5082,United States,5036653015,http://www.mcmenamins.com,-122.476087,45.491531
+82cf7577-0457-4889-b49b-3738c3d58dd1,McMenamins Hillsdale Brewery and Public House,micro,1505 SW Sunset Blvd,,,Portland,Oregon,97239-2625,United States,5032931753,http://www.mcmenamins.com,-122.693512,45.479368
+7435ef24-5a83-4bd8-bc65-525088350803,McMenamins John Barleycorns,brewpub,14610 SW Sequoia Pkwy,,,Tigard,Oregon,97224-7185,United States,5036846253,http://www.mcmenamins.com,-122.746608,45.414428
+48dc01b2-c5a0-4c6b-80f9-25945a0eb2f6,McMenamins Lighthouse Brewery,brewpub,4157 NW Highway 101 Ste 117,,,Lincoln City,Oregon,97367-5050,United States,5419949628,http://www.mcmenamins.com,-124.003196,44.99732
+6098da96-d790-4675-aadb-8836048dab5e,McMenamins Murray & Allen,location,6179 SW Murray Blvd,,,Beaverton,Oregon,97008-4421,United States,5035269618,http://www.mcmenamins.com,-122.826926,45.475433
+f162f822-f631-4c3a-8de9-bed207e8cc0a,McMenamins Oak Hills Brewery,micro,14740 NW Cornell Rd Ste 80,,,Portland,Oregon,97229-5400,United States,5036450117,http://www.mcmenamins.com,-122.830236,45.531323
+4cdae732-9672-463f-b4ba-5c4f3cdcac6c,McMenamins Old Church Brewery,brewpub,30340 SW Boones Ferry Rd,,,Wilsonville,Oregon,97070,United States,5034272505,http://www.mcmenamins.com/Wilsonville,-122.773204,45.300589
+61305a0a-ccbe-4c55-8eb8-54b49983d590,McMenamins Old St. Francis School,brewpub,700 NW Bond St,,,Bend,Oregon,97703-2702,United States,5413825174,http://www.mcmenamins.com,-121.314157,44.056621
+a8acab3f-b025-47e5-b2ce-b77c3c38afcf,McMenamins on Monroe,brewpub,2001 NW Monroe Ave Ste 106,,,Corvallis,Oregon,97330-5567,United States,5417580880,,-123.275468,44.568567
+86687c9b-6107-4e9b-947d-9c6c392e67fa,McMenamins Roseburg Station Brewery,micro,700 SE Sheridan St,,,Roseburg,Oregon,97470-3470,United States,5416721934,http://www.mcmenamins.com,-123.348239,43.209253
+41da837d-8b75-42a1-8719-a2f833a2cd69,McMenamins Thompson Brewery,micro,3575 Liberty Rd S,,,Salem,Oregon,97302-5621,United States,5033712945,http://www.mcmenamins.com,-123.051369,44.90406
+2c606589-3e2d-41dd-bd10-65ce9488dd7d,McMenamins West Linn Brewery,micro,2090 8th Ave,,,West Linn,Oregon,97068-4612,United States,5036562935,http://www.mcmenamins.com,-122.652264,45.346083
+19376b98-452a-471a-aacb-9a1fafdc23d5,Mecca Grade Estate Malt,taproom,9619 NW Columbia Dr,,,Madras,Oregon,97741-9467,United States,5415268152,http://www.meccagrade.com,-121.168397,44.777296
 61bd6b89-b37b-4793-a3a5-b2de69f0aeea,Mia and Pias Pizzeria/Brewhouse,brewpub,3545 Summers Ln,,,Klamath Falls,Oregon,97603-7411,United States,5418844880,,-121.7375719,42.19324978
-bd9dc3d5-c3c8-4629-83f3-94e9bf3a87e2,Migration Brewing Co,brewpub,2828 NE Glisan St,,,Portland,Oregon,97232,United States,5032065221,http://www.migrationbrewing.com,-122.63635,45.52624
+cc06d53d-f07d-4703-8103-43941fdd8c32,Mia and Pias Pizzeria/Brewhouse,brewpub,13788 Matney Road,,,Klamath Falls,Oregon,97603,United States,5418844880,,-121.698621,42.101766
+bd9dc3d5-c3c8-4629-83f3-94e9bf3a87e2,Migration Brewing Co,micro,2828 NE Glisan St,,,Portland,Oregon,97232,United States,5032065221,http://www.migrationbrewing.com,-122.636346,45.526232
 12a897d9-1f87-4f57-b610-7fc1328fbaa8,Migration Brewing Co,micro,1818 NE Wilkes Rd,,,Portland,Oregon,97230,United States,9712743770,,-122.4772531,45.5393653
+9b07e5e1-23a5-4e1a-8e93-312932c8f9ae,Migration Brewing Co,micro,18188 NE Wilkes Rd,,,Portland,Oregon,97230-6907,United States,,,-122.475346,45.539876
 2519c182-f15e-47cc-9d2a-4291dfa134bc,Misty Mountain Brewery,brewpub,625 Chetco Ave Suite 120,,,Brookings,Oregon,97415-9519,United States,5418132599,https://mistymountainbrewing.com/,-124.2824159,42.05228881
+97638ffe-19cb-4833-bece-463ceab656de,Misty Mountain Brewing & Tap Haus,brewpub,"625 Chetco Ave, Suite 120",,,Brookings,Oregon,97415,United States,5418132599,http://www.mistymountainbrewing.com,-124.282388,42.052077
 6794eb82-4607-4730-bd12-4d164deb365f,Modern Times - The Belmont Fermentorium,brewpub,630 SE Belmont St,,,Portland,Oregon,97214-2372,United States,,,-122.6590469,45.516294
-08c0b79e-eca7-4f93-9da7-7af413c7e184,Monkless Belgian Ales,micro,20750 High Desert Ln Suite 107,,,Bend,Oregon,97701,United States,5416105492,http://www.monkless.com,-121.3179164,44.0502063
-25f4c3e0-6925-4d69-b79f-3318762466cc,Montavilla Brew Works,micro,7805 SE Stark St,,,Portland,Oregon,97215-2339,United States,5039543440,http://www.montavillabrew.com,-122.5833557,45.5193212
-b578ee40-d021-4d5a-bf5f-91154b9cef3d,Moonshrimp Brewing,micro,8428 SW 22nd Ave,,,Portland,Oregon,97219-2856,United States,5039702234,http://www.moonshrimpbrewing.com,-122.7000809,45.4637206
-4949c8f1-8073-4644-9d1d-e97001f4f7a7,Mount Hood Brewing Co,brewpub,87304 E Government Camp Loop,,,Government Camp,Oregon,97028,United States,5032723272,http://www.mthoodbrewing.com,-121.7662065,45.30311485
+06aa7db3-37e7-4605-b23c-683729dbbd68,Molalla River Brewing Company,taproom,180 Industrial Way,,,Molalla,Oregon,97038,United States,,http://www.molallariverbrewingcompany.com,-122.601621,45.150501
+08c0b79e-eca7-4f93-9da7-7af413c7e184,Monkless Belgian Ales,brewpub,20750 High Desert Ln Suite 107,,,Bend,Oregon,97701,United States,5416105492,http://www.monkless.com,-121.285284,44.089015
+25f4c3e0-6925-4d69-b79f-3318762466cc,Montavilla Brew Works,taproom,7805 SE Stark St,,,Portland,Oregon,97215-2339,United States,5039543440,http://www.montavillabrew.com,-122.583298,45.519393
+b578ee40-d021-4d5a-bf5f-91154b9cef3d,Moonshrimp Brewing,micro,8428 SW 22nd Ave,,,Portland,Oregon,97219-2856,United States,5039702234,http://www.moonshrimpbrewing.com,-122.699929,45.463773
 251596fe-58b7-4690-a823-f8c65be73228,Mountain View Brewing,micro,6670 Trout Creek Ridge Rd,,,Mt Hood,Oregon,97041,United States,5414410314,https://www.mtviewbrewing.com/,-121.6229737,45.53707415
-93581811-3b23-49a5-83db-8214c6d36a9f,Mt Tabor Brewing Co,micro,124 SE 11th Ave,,,Portland,Oregon,97214-1354,United States,3605678199,http://www.mttaborbrewing.com,-122.654188,45.52171275
+0d18a474-709d-48e8-901b-ad6606c8d369,Mountain View Brewing,micro,161 Mountain View Pl,,,Grants Pass,Oregon,97527-4607,United States,5414410314,,-123.276882,42.425213
+93581811-3b23-49a5-83db-8214c6d36a9f,Mt Tabor Brewing Co,taproom,124 SE 11th Ave,,,Portland,Oregon,97214-1354,United States,3605678199,http://www.mttaborbrewing.com,-122.654253,45.521704
+4949c8f1-8073-4644-9d1d-e97001f4f7a7,Mt. Hood Brewing Co.,micro,87304 E Government Camp Loop,,,Government Camp,Oregon,97028,United States,5032723272,http://www.mthoodbrewing.com,-121.766359,45.303054
+57d462fd-35b9-40cb-ac33-40ef1cc3feef,Mt. View Brewing,taproom,6670 Trout Creek Ridge Rd,,,Mount Hood Parkdale,Oregon,97041,United States,5418067070,http://www.mtvieworchards.com,-121.622964,45.536937
+5ca5a00d-4d6d-4ddd-a201-84f9d8480d86,Mutantis Brewing Company,taproom,6719 NE 18th Ave,,,Portland,Oregon,97211,United States,5305584555,http://www.mutantis.beer,-122.646828,45.571407
 8b10db58-b7e8-473e-9cdd-001212299a6d,Natian Brewery,micro,1321 NE Couch St,,,Portland,Oregon,97232-3007,United States,9716787116,http://www.natianbrewery.com,-122.6529733,45.5249032
-482a6631-2632-46e5-bea1-834d1d7474c4,Ninkasi Brewing Co,regional,155 Blair Blvd,,,Eugene,Oregon,97402-4146,United States,5413442739,http://www.ninkasibrewing.com,-123.1108891,44.05734326
-7cc5e4f3-1c61-42ce-a66b-eb5e18a011ba,North Forty Beer Company,micro,435 SE Jackson St,,,Roseburg,Oregon,97470-4945,United States,5413216636,http://www.northfortybeer.com,-123.3429552,43.21021235
+8e6174c6-4d7f-4d3b-8b1f-94d4b2a5bfca,New Spring Beer,micro,140 NE Hill Street,,,Albany,Oregon,97321,United States,5412618740,,-123.094029,44.639192
+20533af8-8b85-4c82-b9e8-bc6b2e9f4a74,Newport Brewing Company,brewpub,1118 SW Canyon Way Drive,,,Newport,Oregon,97365,United States,5412702484,http://www.newportbrewingcompany.com,-124.055707,44.630758
+482a6631-2632-46e5-bea1-834d1d7474c4,Ninkasi Brewing Co,regional,155 Blair Blvd,,,Eugene,Oregon,97402-4146,United States,5413442739,http://www.ninkasibrewing.com,-123.111613,44.058159
+d8a79973-66ca-43d7-ac7a-b85b95bf7480,Noble Wave Restaurant & Brewery,brewpub,189 Liberty St NE Suite #112,,,Salem,Oregon,97301,United States,,http://www.enjoynoblewave.com,-123.038901,44.940955
+0d92b8a1-71a8-4797-a824-da6428e3665d,North 7 Brewing Company,taproom,1935 1st St,,,Baker City,Oregon,97814,United States,5145191337,http://www.north7brewing.com,-117.831162,44.776678
+7cc5e4f3-1c61-42ce-a66b-eb5e18a011ba,North Forty Beer Company,brewpub,435 SE Jackson St,,,Roseburg,Oregon,97470-4945,United States,5413216636,http://www.northfortybeer.com,-123.342868,43.210308
 4d8ee740-1b56-49f1-bb3f-ba452fc28401,Oakenbrau,planning,,,,Milwaukie,Oregon,97267-3838,United States,9715063126,http://www.oakenbrau.com,,
-ffd62db7-780c-4b0d-9f42-812ddefb2305,Oakshire Brewing,micro,1055 Madera St,,,Eugene,Oregon,97402-2019,United States,5416884555,http://www.oakbrew.com,-123.1410241,44.07299355
-d24860e3-dfb2-4a38-b861-8a472326e7ac,Oblivion Brewing Co,micro,63027 Plateau Dr Ste 4,,,Bend,Oregon,97701-3855,United States,5417283509,http://www.oblivionbrewingco.com,-121.2933829,44.08881821
+ffd62db7-780c-4b0d-9f42-812ddefb2305,Oakshire Brewing,micro,1055 Madera St,,,Eugene,Oregon,97402-2019,United States,5416884555,http://www.oakbrew.com,-123.140738,44.073005
+99eeac52-2422-46d4-9911-3834f5cf168e,Obelisk Beer Company,taproom,598 Bond Street,,,Astoria,Oregon,97103,United States,,http://obeliskbeer.com,-123.836853,46.189951
+d24860e3-dfb2-4a38-b861-8a472326e7ac,Oblivion Brewing Co,micro,63027 Plateau Dr Ste 4,,,Bend,Oregon,97701-3855,United States,5417283509,http://www.oblivionbrewingco.com,-121.29355,44.08862
+4082990b-d12d-4f87-8563-bafe83b9bc67,Occidental brewing,micro,6635 N Baltimore Ave #100,,,Portland,Oregon,97203,United States,5037197102,http://www.occidentalbrewing.com,-122.761464,45.589342
 7277f89e-0dc3-45a8-b943-a1decdf91a9e,Occidental Brewing,micro,6635 N Baltimore Ave Ste 100,,,Portland,Oregon,97203-5465,United States,5037197102,http://www.occidentalbrewing.com,-122.760861,45.588728
 74626ac8-014e-43ff-948d-32bea22ed086,Ochoco Brewing Co,micro,380 N Main St,,,Prineville,Oregon,97754-1852,United States,5412330883,http://www.ochocobrewing.com,-120.8469675,44.30359041
 fd94d41b-6d0a-4a93-a700-f042096025da,Old 99 Brewing Co,micro,3750 Hooker Rd Ste A,,,Roseburg,Oregon,97470-4501,United States,5417848012,http://www.old99brewing.com,-123.3532677,43.25418612
-9ff19944-bee2-4bc3-8f15-288588c9d1c5,Old Market Pub and Brewery,brewpub,6959 SW Multnomah Blvd,,,Portland,Oregon,97223-3439,United States,5032440450,http://www.drinkbeerhere.com,-122.7486715,45.46603555
+b46d7b88-2e73-4085-9916-756ffc991ca3,Old 99 Brewing Co,taproom,"3750 Hooker Rd, Suite A",,,Roseburg,Oregon,97470,United States,5417848012,http://www.old99brewing.com,-123.353199,43.254037
+9ff19944-bee2-4bc3-8f15-288588c9d1c5,Old Market Pub and Brewery,brewpub,6959 SW Multnomah Blvd,,,Portland,Oregon,97223-3439,United States,5032440450,http://www.drinkbeerhere.com,-122.748344,45.465904
 e7f93b89-81e3-411d-8260-e2c6ec60c587,Old Town Brewing,brewpub,5201 NE M L King Blvd,,,Portland,Oregon,97211-3235,United States,5032005988,http://www.otbrewing.com,-122.6639427,45.5606811
-86fc5253-5f2b-42bd-985d-0b8f4ba72c60,Opposition Brewing Company,micro,545 Rossanley Dr Ste 106,,,Medford,Oregon,97501-1771,United States,5412108550,http://www.oppositionbrewing.com,-122.895928,42.34064429
-432cfd6e-51ef-4683-91bb-f622961addc7,Ordnance Brewing,micro,405 NE Olson Rd,,,Boardman,Oregon,-97818,United States,5413148568,http://www.ordnancebrewing.com,-119.6847411,45.84826134
-1dac88c5-82ad-4a5b-958e-b56cc14ba96f,Oregon City Brewing Company,brewpub,1401 Washington St,,,Oregon City,Oregon,97045-1650,United States,5039081948,http://www.ocbeerco.com,-122.6001483,45.3617756
-049c95c7-2a86-4764-b7e8-7ddf047305b6,Oregon Trail Brewery,micro,341 SW 2nd St,,,Corvallis,Oregon,97333-4640,United States,5417583527,http://www.oregontrailbrewery.com,-123.2608445,44.5612822
+86fc5253-5f2b-42bd-985d-0b8f4ba72c60,Opposition Brewing Company,taproom,545 Rossanley Dr Ste 106,,,Medford,Oregon,97501-1771,United States,5412108550,http://www.oppositionbrewing.com,-122.894343,42.340178
+432cfd6e-51ef-4683-91bb-f622961addc7,Ordnance Brewing,micro,405 NE Olson Rd,,,Boardman,Oregon,97818,United States,5413148568,http://www.ordnancebrewing.com,-119.684415,45.847968
+6d795ce5-e1bb-49ff-af0f-630489cfe752,Ordnance Brewing Taproom,brewpub,9740 SW Wilsonville Rd Ste 200,,,Wilsonville,Oregon,97070,United States,9712245891,,-122.776636,45.302257
+1dac88c5-82ad-4a5b-958e-b56cc14ba96f,Oregon City Brewing Company,taproom,1401 Washington St,,,Oregon City,Oregon,97045-1650,United States,5037054805,http://www.ocbeerco.com,-122.600414,45.361856
+049c95c7-2a86-4764-b7e8-7ddf047305b6,Oregon Trail Brewery,micro,341 SW 2nd St,,,Corvallis,Oregon,97333-4640,United States,5417583527,http://www.oregontrailbrewery.com,-123.260869,44.561608
 62ba2bf9-9efa-4a2d-a452-5871f84c0b3a,Osmo's Alehouse,micro,522 S Central Ave,,,Medford,Oregon,97501-7246,United States,5418420557,,-122.8683277,42.32230438
+f878a18e-95bd-4432-808f-d056315b6e50,Parallel 45 Brewing,micro,240 Monmouth Street,,,Independence,Oregon,97351,United States,,,-123.186442,44.851422
 f7036951-96e0-4f03-b3e7-f56351d36eda,Pelican Brewing Company,regional,33180 Cape Kiwanda Dr,,,Pacific City,Oregon,97135-8012,United States,5039657007,http://www.pelicanbrewery.com,-123.9695724,45.21550832
-03879edb-988b-45ac-88a0-90c19d25dab5,Pelican Brewing Company - Cannon Beach,brewpub,1371 S Hemlock St,,,Cannon Beach,Oregon,97110-3055,United States,5039083377,,-123.9620236,45.88850543
-611cf039-c4d2-4a29-af93-6893281c2469,Pelican Brewing Company - Tillamook,micro,1708 1st St,,,Tillamook,Oregon,97141-2104,United States,5039657007,,-123.8462991,45.45789207
-d6058fcd-e918-4063-bd15-b96f4feade20,PFriem Family Brewers,regional,707 Portway Ave Ste 101,,,Hood River,Oregon,97031-1218,United States,5413210490,http://www.pfriembeer.com,-121.51797,45.714751
+0ca35e6f-8114-483e-94c4-115571639f47,Pelican Brewing Company,regional,PO Box 189,,,Pacific City,Oregon,97135-0189,United States,,http://www.pelicanbrewing.com,-123.9616,45.2001
+03879edb-988b-45ac-88a0-90c19d25dab5,Pelican Brewing Company - Cannon Beach,brewpub,1371 S Hemlock St,,,Cannon Beach,Oregon,97110-3055,United States,5039083377,,-123.961562,45.888203
+611cf039-c4d2-4a29-af93-6893281c2469,Pelican Brewing Company - Tillamook,micro,1708 1st St,,,Tillamook,Oregon,97141-2104,United States,5039657007,,-123.846376,45.458169
+e8c661d0-7264-4ced-ab57-edecd2f1e0fb,PFriem Cascade Locks Barrelhouse,micro,1425 NE Columbia Gorge Way,,,Cascade Locks,Oregon,97014,United States,5413210490,,-121.8887,45.6687
+d6058fcd-e918-4063-bd15-b96f4feade20,PFriem Family Brewers,regional,707 Portway Ave Ste 101,,,Hood River,Oregon,97031-1218,United States,5413210490,http://www.pfriembeer.com,-121.518228,45.714533
 6ed57500-9e54-4468-bbc2-4b8b113c6ebe,PINTS Brewing Company and Urban Taproom,micro,412 NW 5th Ave Suite 200,,,Portland,Oregon,97209-3893,United States,5035642739,http://www.pintsbrewing.com,-122.6754225,45.5261944
-0b10c02c-d787-402e-80b9-18c53977f62b,Plank Town Brewing,micro,346 Main St,,,Springfield,Oregon,97477-5362,United States,4582017039,http://planktownbrewing.com,-123.0214468,44.04627308
+0b10c02c-d787-402e-80b9-18c53977f62b,Plank Town Brewing,brewpub,346 Main St,,,Springfield,Oregon,97477-5362,United States,4582017039,http://planktownbrewing.com,-123.021046,44.046435
+4fec20eb-c8a7-41b2-a66b-1bf0b7b47db5,Pono Brew Labs,micro,1728 NE 40th Ave,,,Portland,Oregon,97212,United States,,,-122.621652,45.535672
 766996ca-e6f6-4882-98f3-272e0c354cb6,Pono Brewing Company,contract,5716 SE 92nd Ave,,,Portland,Oregon,97266-4659,United States,5034328400,http://www.ponobrewing.com,-122.5679347,45.4808905
-2279eddf-9455-4973-8013-0b2a19894fea,Portal Brewing Co,brewpub,100 E 6th St,,,Medford,Oregon,97501-5902,United States,5419410240,http://www.portalbrewingco.com,-122.873661,42.326944
+02598f3a-4b44-4706-9bcb-c49863cf07aa,Pono Brewing Company,micro,5716 SE 92nd Ave,,,Portland,Oregon,97266-4659,United States,5034328400,http://www.ponobrewing.com,-122.568045,45.481084
+2279eddf-9455-4973-8013-0b2a19894fea,Portal Brewing Co,brewpub,100 E 6th St,,,Medford,Oregon,97501-5902,United States,5419410240,http://www.portalbrewingco.com,-122.873611,42.326904
+430d0a9c-36ca-4607-8c50-83aac3e545f7,Porter Brewing Co.,brewpub,611 NE Jackpine Ct Ste 2,,,Redmond,Oregon,97701,United States,5415047959,http://www.porterbrewingco.com,-121.162578,44.286081
 9265aaad-fabe-40a4-bec6-656338eb04b9,Portland Brewing/North American Breweries,regional,2730 NW 31st Ave,,,Portland,Oregon,97210-1718,United States,5032267623,http://www.portlandbrewing.com,-122.713089,45.54176525
 8c661895-c05b-4300-a08f-160ff0ae018d,Portland U-Brew & Pub,brewpub,6237 SE Milwaukie Ave,,,Portland,Oregon,-97202,United States,5039432727,http://www.portlandubrewandpub.com,-122.649393,45.47740515
-9431a008-3c97-40d5-baaf-7ba4b05acf64,"Prodigal Son Brewery and Pub, The",brewpub,230 SE Court Ave,,,Pendleton,Oregon,97801-2349,United States,5412766090,http://www.prodigalsonbrewery.com,-118.7848215,45.6733148
-23009018-e5ab-4747-bd83-04665b226ea0,Public Coast Brewing,brewpub,264 E 3rd Ave,,,Cannon Beach,Oregon,97110-2008,United States,5034360285,http://www.publiccoastbrewing.com,-123.9590737,45.90084068
+26d36794-e1af-418e-b7aa-f781aec80763,Portland U-Brew & Unicorn Brewing,brewpub,6237 SE Milwaukie Ave.,,,Portland,Oregon,97202,United States,5039432727,http://www.portlandubrew.com,-122.649468,45.477408
+9431a008-3c97-40d5-baaf-7ba4b05acf64,"Prodigal Son Brewery and Pub, The",brewpub,230 SE Court Ave,,,Pendleton,Oregon,97801-2349,United States,5412766090,http://www.prodigalsonbrewery.com,-118.78471,45.673082
+23009018-e5ab-4747-bd83-04665b226ea0,Public Coast Brewing Co.,micro,264 E 3rd Ave,,,Cannon Beach,Oregon,97110-2008,United States,5034360285,http://www.publiccoastbrewing.com,-123.959049,45.900794
 a12fde89-9b18-4f5b-8347-93709903231e,RAM Restaurant and Brewery - Clackamas,brewpub,9073 SE Sunnyside Rd,,,Clackamas,Oregon,97015-9759,United States,5036591282,,-122.5715994,45.43365785
-0fbec903-d1d0-4d45-85b8-8d792c63600e,RAM Restaurant and Brewery - Medford,brewpub,165 Rossanley Dr,,,Medford,Oregon,97501-1777,United States,4582259816,,-122.8832971,42.343116
-f37404d3-d3b1-4ace-b273-8c25620e8276,RAM Restaurant and Brewery - Salem,brewpub,515 12th St SE,,,Salem,Oregon,97301-4034,United States,5033631904,http://www.theram.com,-123.0292121,44.932777
+0fbec903-d1d0-4d45-85b8-8d792c63600e,RAM Restaurant and Brewery - Medford,brewpub,165 Rossanley Dr,,,Medford,Oregon,97501-1777,United States,4582259816,,-122.884263,42.341823
+f37404d3-d3b1-4ace-b273-8c25620e8276,RAM Restaurant and Brewery - Salem,brewpub,515 12th St SE,,,Salem,Oregon,97301-4034,United States,5033631904,http://www.theram.com,-123.029858,44.932908
 948ff9bf-8703-448e-897e-51ca8dc71d5a,Ratchet Brewery Salem,brewpub,2701 22nd St SE,,,Salem,Oregon,97302-1553,United States,5035809864,https://ratchetbrewery.com,-123.0173762,44.91418158
 5316786e-711d-485c-a179-40106341c9d5,Ratchet Brewery Silverton,brewpub,990 North First Street,,,Silverton,Oregon,97381,United States,5038744677,https://ratchetbrewery.com,-122.7845824,45.01410457
-471962d2-01aa-46e4-aea7-fa635a2ae107,Reach Break Brewing,micro,1343 Duane St,,,Astoria,Oregon,97103-3917,United States,5034680743,,-123.8289931,46.18836741
-e1c59d70-ad1b-435a-ba5d-f4c682d0e323,Ridgewalker Brewing,brewpub,1921 21st Ave,,,Forest Grove,Oregon,97116-1637,United States,5038671634,,-123.1129966,45.52115845
+471962d2-01aa-46e4-aea7-fa635a2ae107,Reach Break Brewing,micro,1343 Duane St,,,Astoria,Oregon,97103-3917,United States,5034680743,http://www.reachbreak.com,-123.828949,46.188343
+e1c59d70-ad1b-435a-ba5d-f4c682d0e323,Ridgewalker Brewing,brewpub,1921 21st Ave,,,Forest Grove,Oregon,97116-1637,United States,5038671634,,-123.112998,45.521333
 d2f56aea-e533-4819-872d-f5ae1f7289f6,RiverBend Brewing Pub,closed,2650 NE Division St,,,Bend,Oregon,97703-3569,United States,5415507550,http://www.riverbendbrewing.com,-121.3051834,44.0760099
 4e405356-a2d1-4bb2-aeb5-6fd64e1a04a5,Rock Bottom Brewery - Portland,brewpub,206 SW Morrison St,,,Portland,Oregon,97204-3107,United States,5037962739,http://www.rockbottom.com,-122.6749783,45.5178662
-12d83cb7-1e03-493e-805e-dad7ee012c3f,Rogue Ales Brewery,regional,2320 SE Osu Dr,,,Newport,Oregon,97365-5261,United States,5032413800,http://rogue.com,-124.0564639,44.62865838
+12d83cb7-1e03-493e-805e-dad7ee012c3f,Rogue Ales Brewery,regional,2320 SE Osu Dr,,,Newport,Oregon,97365-5261,United States,5032413800,http://rogue.com,-124.050329,44.619453
 37ae8b8a-e16c-44c0-a558-8178c0b61c26,Rogue East Side Pub & Pilot Brewery,micro,909 SE Yamhill St,,,Portland,Oregon,97214-2533,United States,5032413800,http://www.buckmanbrewing.com,-122.656467,45.51586884
+dd429bcb-c70e-48f5-aae0-75f1302a77a6,Rogue East Side Pub & Pilot Brewery,micro,928 SE 9th Ave,,,Portland,Oregon,97214,United States,5032413800,http://www.buckmanbrewing.com,-122.656385,45.516008
 3624a637-94b2-4d6d-95f2-b04c5f7c815a,Rosenstadt Brewery LLC,micro,4110 SE Hawthorne Blvd # 735,,,Portland,Oregon,97214-5246,United States,,http://www.rosenstadtbrewery.com,-122.6199321,45.5118679
 72e76612-589c-4844-a3c6-7189bcdad638,Royale Brewing Company,closed,55 NE Farragut St Ste 6,,,Portland,Oregon,97211-2245,United States,9712795587,http://www.royalebeer.com,-122.6656145,45.57960681
 0759476d-8fed-46cc-abec-1cb02cbca0d6,Running Dogs Brewery,proprietor,"291 S 1st St,St.",,,Saint Helens,Oregon,97051,United States,5033971103,http://www.runningdogsbrewery.com,-122.7980095,45.86251169
-f2472289-d2d3-4a02-8b98-10c88b8e9da3,"Ruse Brewing, LLC.",proprietor,4784 SE 17th Ave,,,Portland,Oregon,97202,United States,5036628325,http://www.rusebrewing.com,-122.6470059,45.4593922
-3d0e7cf3-6778-46dd-9907-1bd3370bb52b,Rusty Truck Brewing Company,brewpub,4649 SW Highway 101,,,Lincoln City,Oregon,97367-1557,United States,5419947729,http://www.rustytruckbrewing.com,-124.0209913,44.93273319
+d0c03385-4678-46db-a551-0a95bc66fde0,Running Dogs Brewery,brewpub,291 S 1st St,,,Saint Helens,Oregon,97051-2003,United States,5033971103,http://www.runningdogsbrewery.com,-122.798032,45.862248
+f2472289-d2d3-4a02-8b98-10c88b8e9da3,"Ruse Brewing, LLC.",taproom,4784 SE 17th Ave,,,Portland,Oregon,97202,United States,5036628325,http://www.rusebrewing.com,-122.64785,45.488188
+3d0e7cf3-6778-46dd-9907-1bd3370bb52b,Rusty Truck Brewing Company,brewpub,4649 SW Highway 101,,,Lincoln City,Oregon,97367-1557,United States,5419947729,http://www.rustytruckbrewing.com,-124.019991,44.930923
 8a639388-c76a-466c-a8f3-80af5ebcf43f,Salem Ale Works,micro,2315 25th St SE,,,Salem,Oregon,97302-1145,United States,5039908486,http://www.aleinsalem.com,-123.0103968,44.91998888
 a37dcce1-fdd5-4651-9415-27070366fb19,Sam Bond's Brewing Co,brewpub,540 E 8th Ave,,,Eugene,Oregon,97401-3344,United States,5412468162,http://www.sambondsbrewing.com,-123.0843307,44.05093611
-fcebcda3-2a5d-48a2-8cfb-2e86214550e2,Santiam Brewing Co,micro,2544 19th St SE,,,Salem,Oregon,97302-1501,United States,5035075257,http://www.santiambrewing.com,-123.0209084,44.91644665
+fcebcda3-2a5d-48a2-8cfb-2e86214550e2,Santiam Brewing Co,brewpub,2544 19th St SE,,,Salem,Oregon,97302-1501,United States,5035075257,http://www.santiambrewing.com,-123.020844,44.915896
 e590ffd3-4144-4edb-8a5b-cb24c3d84072,Sasquatch Brewery,micro,2531 NW 30th Ave,,,Portland,Oregon,97210-2015,United States,5038415687,http://www.sasquatchbrewery.com,-122.7125709,45.54008922
 92208a7f-cada-48db-92cd-ecae370557a6,Sasquatch Pub,brewpub,6440 SW Capitol Hwy.,,,Portland,Oregon,97239,United States,5038415687,,-122.6988132,45.4776303
 97776b9a-6d25-4cb8-8574-f4a2c3d3ad0d,Scout Beer,micro,1516 SE 10th Ave,,,Portland,Oregon,97214-3585,United States,5032064735,http://www.scoutpdx.com,-122.6555905,45.51201892
-0b81578c-acb4-4b15-b44d-3ea83bed8115,Seaside Brewery,brewpub,851 Broadway St,,,Seaside,Oregon,97138-6823,United States,5037175451,http://www.seasidebrewery.com,-123.9223842,45.99299261
-4332bd29-a105-493e-807f-351ad41108b9,Second Profession Brewing Company,brewpub,5846 NE Sandy Blvd,,,Portland,Oregon,97213-3436,United States,5032885882,http://www.secondprofessionbrewing.com,-122.498321,45.5499485
+0b81578c-acb4-4b15-b44d-3ea83bed8115,Seaside Brewery,brewpub,851 Broadway St,,,Seaside,Oregon,97138-6823,United States,5037175451,http://www.seasidebrewery.com,-123.921471,45.992888
+4332bd29-a105-493e-807f-351ad41108b9,Second Profession Brewing Company,brewpub,5846 NE Sandy Blvd,,,Portland,Oregon,97213-3436,United States,5032885882,http://www.secondprofessionbrewing.com,-122.602961,45.54271
+70cc1dc0-ae70-4971-b813-0d745ca1ddc0,Sedition Brewing Co,brewpub,208 Laughlin St,,,The Dalles,Oregon,97058-2424,United States,5412962337,http://www.seditionbrewing.com,-121.178546,45.600475
 4423eef2-22e4-43f8-945b-37dfe91ae63d,Seven Brides Brewery,closed,990 North First Street,,,Silverton,Oregon,97381,United States,5038744677,http://www.sevenbridesbrewing.com,-122.7845824,45.01410457
-02585410-3bdb-41d1-96b9-e44ee53be372,Shade Tree Brewing,micro,19305 Indian Summer Rd,,,Bend,Oregon,97702,United States,5413833730,http://www.shadetreebrewing.com,-121.3588559,43.99269969
-a1378c73-b0f9-4c1e-9217-ebca40c995b5,Silver Falls Brewery,micro,207 Jersey St,,,Silverton,Oregon,97381,United States,5038733022,http://www.silverfallsbrewery.com,-122.7821402,45.00421984
-d8e15e0d-fcd6-49da-9f88-293ea86239b9,Silver Moon Brewing,micro,24 NW Greenwood Ave,,,Bend,Oregon,97703-2027,United States,5413888331,,-121.3079151,44.0603904
-ae8d5788-472e-40f6-98ce-cecfd83e889c,Silver Moon Brewing,micro,2095 SW Badger Ave,,,Redmond,Oregon,97756-8164,United States,5413888331,http://www.SilverMoonBrewing.com,-121.192157,44.2375883
+02585410-3bdb-41d1-96b9-e44ee53be372,Shade Tree Brewing,micro,19305 Indian Summer Rd,,,Bend,Oregon,97702,United States,5413833730,http://www.shadetreebrewing.com,-121.358972,43.992485
+4f7abb52-e679-467d-ad10-49090a06b2bd,Shattered Oak Brewing,micro,13851 Beavercreek Rd Ste C104,,,Oregon City,Oregon,97045,United States,9712276785,http://www.shattered-oak.com,-122.58095,45.333523
+f303730e-845a-42da-89ba-7d783ab5ba40,Side A Brewing,brewpub,1219 Washington Ave,,,La Grande,Oregon,97850-2535,United States,5416050163,http://www.sideabeer.com,-118.094738,45.327822
+a1378c73-b0f9-4c1e-9217-ebca40c995b5,Silver Falls Brewery,brewpub,207 Jersey St,,,Silverton,Oregon,97381,United States,5038733022,http://www.silverfallsbrewery.com,-122.782111,45.004273
+d8e15e0d-fcd6-49da-9f88-293ea86239b9,Silver Moon Brewing,micro,24 NW Greenwood Ave,,,Bend,Oregon,97703-2027,United States,5413888331,,-121.307819,44.060203
+ae8d5788-472e-40f6-98ce-cecfd83e889c,Silver Moon Brewing,micro,2095 SW Badger Ave,,,Redmond,Oregon,97756-8164,United States,5413888331,http://www.SilverMoonBrewing.com,-121.192556,44.237822
+1ba09789-2f47-4f84-a165-8cf4caf978be,Sisu Brewing Company,brewpub,133 Broadway St,,,Seaside,Oregon,97138-5803,United States,,,-123.927975,45.992986
 ce1a4d63-206c-4e4e-a835-543ee2e9306f,Siuslaw Brewing,micro,16558 Alsea Hwy,,,Alsea,Oregon,97324-9624,United States,5417401606,,-123.6906645,44.353359
-ed1133f9-48d1-4951-b47e-f67a274d6203,Sky High Brewing,brewpub,160 NW Jackson Ave,,,Corvallis,Oregon,97330-4827,United States,5412073277,http://www.skyhighbrewing.com,-123.2590342,44.5648291
+ed1133f9-48d1-4951-b47e-f67a274d6203,Sky High Brewing,brewpub,160 NW Jackson Ave,,,Corvallis,Oregon,97330-4827,United States,5412073277,http://www.skyhighbrewing.com,-123.259104,44.564827
+0d595488-4c1b-475f-a28b-eeb90171cb1f,Skyline Brewing Company,micro,927 Old Midland Rd,,,Klamath Falls,Oregon,97603,United States,5418912528,http://skylinebrewingco.com,-121.783954,42.126305
+47f64872-091b-42da-a622-65799f29ee28,Slowdrift Brewing Company,taproom,57625B NW Wilson River Hwy,,,Gales Creek,Oregon,97117,United States,5039156478,http://www.slowdriftbrewery.com,-123.266529,45.640182
 6a6ff43f-647e-4943-8cb5-85d6258598b6,Smith Rock Brewing,brewpub,546 NW 7th St,,,Redmond,Oregon,97756-1628,United States,5412797005,http://www.smithrockbrewing.com,-121.175239,44.28056302
 130b023b-c130-4325-8df2-2a52a62aaf21,Smockville Brewhouse,brewpub,22793 SW Pine St,,,Sherwood,Oregon,97140-9303,United States,5036101506,http://www.smockvillebrewhouse.com,-122.8406694,45.3566248
-816368fa-9f37-4e7d-962d-4fb3107b0a3a,Solera Brewery,micro,4945 Baseline Dr,,,Mount Hood Parkdale,Oregon,-97041,United States,5413525500,http://www.solerabrewery.com,-121.5951287,45.51966439
+ccb530e6-f3ff-4cae-b1d5-aaea15076ab0,Snow Peak Brewing Company,taproom,280 East Water Street,,,Stayton,Oregon,97383,United States,503767BEER,http://placeholder,-122.792566,44.79564
+816368fa-9f37-4e7d-962d-4fb3107b0a3a,Solera Brewery,brewpub,4945 Baseline Dr,,,Mount Hood Parkdale,Oregon,97041,United States,5413525500,http://www.solerabrewery.com,-121.591959,45.519372
+0b83ee0e-106b-4308-a52f-f02a65c95428,Solvana Brewing,micro,2568 SW Orchard Ct,,,Gresham,Oregon,97080-9532,United States,5033108113,http://www.solvanabrewing.com,-122.449744,45.478746
+56d099f8-38e0-4335-a038-8dd351f75538,Sparky's Brewing Company,brewpub,1252 23rd St SE,,,Salem,Oregon,97302,United States,5039319417,http://www.sparkysbrewingco.com,-123.014351,44.923079
+df36f92e-9b05-46d5-97f2-f7530ceef793,Spider City Brewing Company,taproom,1177 SE 9th St,,,Bend,Oregon,97702,United States,7602145670,http://www.spidercitybrewing.com,-121.288573,44.037389
+90412c57-055a-486a-abd3-bab00a985a1c,Spinning Wheels Brewing Project,brewpub,1767 12th St #293,,,Hood River,Oregon,97031,United States,5413990399,http://www.thunderislandbrewing.com,-121.523434,45.695779
 08f12f3f-b6fa-45a3-ba43-782f34fd1de8,Splintercat Brewing,planning,,,,Corvallis,Oregon,97330-1348,United States,,,,
 3fc5efe8-363a-4251-89e3-520d90075666,Standing Stone Brewing Co,micro,101 Oak St,,,Ashland,Oregon,97520-1802,United States,5414822448,http://www.standingstonebrewing.com,-122.7145793,42.1976451
 41226f84-764d-4250-9993-2ef81a7472d9,Steens Mountain Brewing Company,micro,673 B W Monroe St,,,Burns,Oregon,97720,United States,5415891159,,-119.060813,43.585639
-d4ccc2fc-b6a8-4a24-bb52-eb9ecea3aaa4,Stickmen Brewery,brewpub,40 N State St,,,Lake Oswego,Oregon,97034-3926,United States,,,-122.6638277,45.4161533
-e39addf7-becb-4b3c-b5b2-e682bcb1b72f,StormBreaker Brewing,brewpub,832 N Beech St,,,Portland,Oregon,97227-1215,United States,,,-122.6751573,45.54943475
-2f2fe265-6ef9-4a72-8aae-ca7cb81eb561,StormBreaker Brewing St. Johns,brewpub,8409 N Lombard St,,,Portland,Oregon,97203,United States,9712551481,http://www.stormbreakerbrewing.com,-122.753038,45.58988575
-0ce36ed5-632f-4734-a374-0b51ba123bd5,Sunriver Brewing,micro,56840 Venture Ln,,,Sunriver,Oregon,97707-2100,United States,5413065188,http://www.sunriverbrewingcompany.com,-121.4366616,43.87300007
+acd1f55b-a148-4275-90f5-fbf5ab77bb7e,Steens Mountain Brewing Company,taproom,353 W Monroe St,,,Burns,Oregon,97720,United States,5415891159,http://www.steensmountainbrewingco.com,-119.058082,43.585908
+30962b2f-ee6d-4120-8b65-80005f0865a0,Steeplejack Brewing Company,brewpub,2400 NE Broadway,,,Portland,Oregon,97232,United States,9165243241,http://www.steeplejackbrewingcompany.com,-122.640809,45.534919
+d4ccc2fc-b6a8-4a24-bb52-eb9ecea3aaa4,Stickmen Brewery,taproom,40 N State St,,,Lake Oswego,Oregon,97034,United States,,http://www.stickmenbeer.com,-122.663924,45.416284
+7a2d5d26-be75-47ae-96dd-d126b465130f,Stickmen Brewing Company - Tualatin Beer Hall,brewpub,19475 SW 118th Ave Ste 1,,,Tualatin,Oregon,97062,United States,5034867196,,-122.799988,45.379287
+e39addf7-becb-4b3c-b5b2-e682bcb1b72f,StormBreaker Brewing,brewpub,832 N Beech St,,,Portland,Oregon,97227-1215,United States,,http://www.stormbreakerbrewing.com,-122.675234,45.549444
+2f2fe265-6ef9-4a72-8aae-ca7cb81eb561,StormBreaker Brewing St. Johns,brewpub,8409 N Lombard St,,,Portland,Oregon,97203,United States,9712551481,http://www.stormbreakerbrewing.com,-122.753028,45.589873
+0ce36ed5-632f-4734-a374-0b51ba123bd5,Sunriver Brewing Company,micro,56840 Venture Ln,,,Sunriver,Oregon,97707-2100,United States,5413065188,http://www.sunriverbrewingcompany.com,-121.435348,43.863878
 47c31369-8b35-4cac-bfb3-db39daf73ea5,Super Brewing Company LLC,planning,,,,Portland,Oregon,97202,United States,5037193435,,,
 3ebd4a18-a0f8-4fa6-b383-b94769a9c35c,Table Rock Brewing LLC,micro,825 Dakota Ave,,,Medford,Oregon,97501-3443,United States,5419440829,,-122.8807679,42.31644563
 ca916419-7c3f-4152-898a-0ad48a70a9f6,Tandem Brewing Co,brewpub,17 SE 3rd Ave,,,Ontario,Oregon,97914-2803,United States,2087416774,http://www.tandembrewing.com,-116.9627719,44.02391075
-10d1743f-5e4f-43b8-bd0c-11d0cd5e719c,Terminal Gravity Brewing Co,micro,803 SE School St,,,Enterprise,Oregon,97828-1674,United States,5414260158,http://www.terminalgravitybrewing.com,-117.2713718,45.4187654
-9097584b-ecb6-4f1a-b2b7-1b38123eb478,The Ale Apothecary,micro,30 SW Century Drive Suite 140,,,Bend,Oregon,97702,United States,5414081525,http://www.thealeapothecary.com,-121.3314277,44.05140622
+10d1743f-5e4f-43b8-bd0c-11d0cd5e719c,Terminal Gravity Brewing Co,micro,803 SE School St,,,Enterprise,Oregon,97828-1674,United States,5414260158,http://www.terminalgravitybrewing.com,-117.271335,45.418512
+9097584b-ecb6-4f1a-b2b7-1b38123eb478,The Ale Apothecary,micro,30 SW Century Drive Suite 140,,,Bend,Oregon,97702,United States,5414081525,http://www.thealeapothecary.com,-121.331338,44.050999
 0f478977-9d95-4cf4-b296-2713196ec923,The Hop Haus,micro,2568 SW Orchard Ct,,,Gresham,Oregon,97080-9532,United States,5033108113,,-122.4497736,45.4787523
-2a5bde61-4567-4617-9d72-a83063efef28,The Viking Braggot Company,micro,520 Commercial St Unit F,,,Eugene,Oregon,97402-5347,United States,5416538371,http://www.drinkviking.com,-123.0910621,44.03170858
-de20c7b0-de7a-486a-8602-554e483719aa,Three Creeks Brewing Co,brewpub,721 Desperado Ct,,,Sisters,Oregon,97759-9514,United States,5415491963,http://www.threecreeksbrewing.com,-121.534944,44.285254
-2bdd94ec-ba41-46d3-9835-05f1eb730391,Three Creeks Production,micro,265 E. Barclay Dr.,,,Sisters,Oregon,97759-9514,United States,5415491963,,-121.5480908,44.29710192
-bea9a114-7951-4ba3-b8bd-a60103b322f9,Three Mugs Brewing Company,micro,2020 NE Aloclek Dr Ste 108,,,Hillsboro,Oregon,97124-8053,United States,9713220232,http://threemugsbrewing.com,-122.8989638,45.53469242
+2a5bde61-4567-4617-9d72-a83063efef28,The Viking Braggot Company,taproom,520 Commercial St Unit F,,,Eugene,Oregon,97402-5347,United States,5416538371,http://www.drinkviking.com,-123.167718,44.054255
+129290b0-36be-4c57-a356-9c71df426de0,The Wheel Apizza Pub,brewpub,390 Lincoln St Ste 101,,,Eugene,Oregon,97401,United States,5417353860,http://www.thewheelapizzapub.com,-123.097478,44.055299
+de20c7b0-de7a-486a-8602-554e483719aa,Three Creeks Brewing Co,micro,721 Desperado Ct,,,Sisters,Oregon,97759-9514,United States,5415491963,http://www.threecreeksbrewing.com,-121.534923,44.285187
+2bdd94ec-ba41-46d3-9835-05f1eb730391,Three Creeks Production,brewpub,265 E. Barclay Dr.,,,Sisters,Oregon,97759-9514,United States,5415491963,,-121.548131,44.296934
+bea9a114-7951-4ba3-b8bd-a60103b322f9,Three Mugs Brewing Company,brewpub,2020 NE Aloclek Dr Ste 108,,,Hillsboro,Oregon,97124-8053,United States,9713220232,http://threemugsbrewing.com,-122.898804,45.534222
+bc59e0ad-6fdc-418a-b4c8-d295cce7f3bd,Threshold Brewing & Blending,taproom,403 SE 79th Ave,,,Portland,Oregon,97215,United States,5034778789,http://www.threshold.beer,-122.58273,45.519491
 cd16ecb3-09ce-40d8-8b63-47e36680559e,Thunder Island Brewing,micro,515 NW Portage Rd,,,Cascade Locks,Oregon,97014-6699,United States,9712314599,http://www.thunderislandbrewing.com,-121.8962585,45.66499993
+7492ba7f-9f68-405f-870b-760294d9cace,Tiger Town Brewing Company,brewpub,108 W Main St,,,Mitchell,Oregon,97750,United States,5414623663,http://www.tigertownbrewing.com,-120.154328,44.566572
+78edaf90-3a78-4111-9dcb-eb4cab8ee44c,Time Travelers Brewing,brewpub,326 Broadway Street,,,Estacada,Oregon,97023,United States,,http://https://www.timetravelers.beer/,-122.334813,45.287414
 f5723c43-2256-4abb-9d9e-66d388050870,Two Kilts Brewing,micro,14841 SW Tualatin Sherwood Rd Ste 501,,,Sherwood,Oregon,97140-7127,United States,5036251700,http://www.twokiltsbrewing.com,-122.8308802,45.36773305
-64d344a6-fdd2-4e92-9838-2c360f783fd5,Two-Shy Brewing,micro,1308 NW Park St Ste 100,,,Roseburg,Oregon,97470-2058,United States,5412362055,http://www.twoshybrewing.com,-123.3553263,43.22538387
-3c6dd3b5-0f9e-44f0-b21c-e664a66538e3,Upright Brewing Co,micro,240 N Broadway Ste 2,,,Portland,Oregon,97227-1880,United States,,http://www.uprightbrewing.com,-122.6703323,45.5346842
+0df32333-9d2c-4b95-83f6-3bb43e3f89fc,Two Shrew Brewery/Yachats Underground Pub & Grub,brewpub,125 Ocean View Dr,,,Yachats,Oregon,97498,United States,5415474600,http://www.yachatsunderground.com,-124.103479,44.31018
+540db06f-1a76-4e10-b5e5-450cbdc671d2,Two-Bit Hooker Brewing,brewpub,211 W Barnes Ave,,,Hines,Oregon,97738,United States,5412235500,http://www.twobithookerbrewing.com,-119.084015,43.562439
+64d344a6-fdd2-4e92-9838-2c360f783fd5,Two-Shy Brewing,brewpub,1308 NW Park St Ste 100,,,Roseburg,Oregon,97470-2058,United States,5412362055,http://www.twoshybrewing.com,-123.35529,43.225219
+3c6dd3b5-0f9e-44f0-b21c-e664a66538e3,Upright Brewing Co,micro,240 N Broadway Ste 2,,,Portland,Oregon,97227-1880,United States,,http://www.uprightbrewing.com,-122.66883,45.534553
 b754ef5f-2b82-4523-b2e8-42df9d6a9b63,Uptown Market Brewing,micro,6620 SW Scholls Ferry Rd,,,Portland,Oregon,97223-7166,United States,5033364783,http://www.uptownmarketpdx.com,-122.7423002,45.4958797
 f460d4f3-c666-425d-83b6-36692195ea49,Vagabond Brewing,brewpub,2195 Hyacinth St NE Ste 172,,,Salem,Oregon,97301-3118,United States,5035129007,http://www.vagabondbrewing.com,-123.0010873,44.9820399
+fe8f773b-853c-4e58-8534-fecab9187ce3,Van Henion Brewing,micro,63067 Plateau Dr,,,Bend,Oregon,97701,United States,,,-121.293456,44.090726
 8b6d0375-b572-4b21-9a81-504aa91d39c5,Vanguard Brewing Company,micro,27501 SW 95th Ave Ste 945,,,Wilsonville,Oregon,97070-5705,United States,5039293774,http://www.vanguardbrewing.com,-122.7733742,45.3211582
 78cb7d62-ff5b-4e03-a5fc-0553b9fa3428,Vanport Brewing Company,planning,,,,Portland,Oregon,97211-2907,United States,5032670219,,,
 427d559f-ec7b-4e5f-b973-c8cd9cbf15d9,Vertigo Brewing,micro,21420 NW Nicholas Ct Ste D-7,,,Hillsboro,Oregon,97124-6633,United States,5036456644,http://www.vertigobrew.com,-122.8955804,45.53189006
-70fe5224-37e2-431e-81ef-8b28168d4da4,Von Ebert Brewing,planning,14021 NE Glisan St,,,Portland,Oregon,97230,United States,,,-122.5187026,45.52726898
-4d346ad7-4bc6-4f61-b993-f066f610b7ef,Von Ebert Brewing,brewpub,131 NW 13th Ave,,,Portland,Oregon,97209-4110,United States,5038207721,http://vonebertbrewing.com,-122.6843058,45.52389727
-d046c044-cd15-464d-87b0-2bb25e634200,Walkabout Brewing Co,micro,921 Mason Way,,,Medford,Oregon,97501,United States,5417344677,,-122.9027355,42.34806544
-1b75785d-e64b-4c39-bc06-8650d653e2a6,Waltz Brewing,micro,1900 A St,,,Forest Grove,Oregon,97116-2303,United States,5038966057,http://www.waltzbrewing.com,-123.1142562,45.5185238
-3486d742-3bd5-449a-b66e-d3a881c3c103,Wayfinder Beer,brewpub,304 SE 2nd Ave,,,Portland,Oregon,97214-1008,United States,5037182337,http://www.wayfinder.beer,-122.6634881,45.5208914
-8a33e210-9d8a-4337-b04c-8cfe15e0c213,Werner Brewing Company,micro,2807 3rd St,,,Tillamook,Oregon,97141,United States,5038126040,,-123.8425805,45.4563275
-0ab3dca4-244e-4efd-bf34-92687747499a,Wet Dog Cafe & Brewery,brewpub,990 Astor St,,,Astoria,Oregon,97103-4201,United States,5033256975,http://www.wetdogcafe.com,-123.835821,46.190557
+514d3118-9c22-4520-8a8f-db7f73bb2380,Vertigo Brewing,taproom,8130 NE Nicholas Ct. Ste. D7,,,Hillsboro,Oregon,97124,United States,5036456644,http://www.vertigobrew.com,-122.8986,45.5319
+90e6f6f1-3358-4e7b-b29f-8d56e5f5e53b,Via Beer,alt prop,7425 SW 25th Ave,,,Portland,Oregon,97219,United States,,,-122.702884,45.470788
+bf84bd1e-8f96-456f-b6cf-d083a1c21841,Vision Brewing Company,micro,19887 Case Road,,,Aurora,Oregon,97002,United States,,http://www.vision-brewing.com,-122.87444,45.206419
+70fe5224-37e2-431e-81ef-8b28168d4da4,Von Ebert Brewing,brewpub,14021 NE Glisan St,,,Portland,Oregon,97230,United States,,,-122.517929,45.526886
+4d346ad7-4bc6-4f61-b993-f066f610b7ef,Von Ebert Brewing,brewpub,131 NW 13th Ave,,,Portland,Oregon,97209-4110,United States,5038207721,http://vonebertbrewing.com,-122.684699,45.52397
+d046c044-cd15-464d-87b0-2bb25e634200,Walkabout Brewing Co,micro,921 Mason Way,,,Medford,Oregon,97501,United States,5417344677,,-122.902657,42.347661
+1b75785d-e64b-4c39-bc06-8650d653e2a6,Waltz Brewing,taproom,1900 A St,,,Forest Grove,Oregon,97116-2303,United States,5038966057,http://www.waltzbrewing.com,-123.114251,45.518539
+2b9b3ff0-dc91-40be-9171-f37929e4e2de,Warren House Pub,brewpub,3301 S Hemlock,,,Tolovana Park,Oregon,97145,United States,,,-123.9562,45.872
+3486d742-3bd5-449a-b66e-d3a881c3c103,Wayfinder Beer,micro,304 SE 2nd Ave,,,Portland,Oregon,97214-1008,United States,5037182337,http://www.wayfinder.beer,-122.663339,45.520619
+fc8b63af-a8e3-4dee-8f9d-7ae36591af08,Weekend Beer Company,taproom,1863 NW Washington Blvd,,,Grants Pass,Oregon,97526-1053,United States,5415071862,http://www.weekendbeercompany.com,-123.324533,42.460211
+8a33e210-9d8a-4337-b04c-8cfe15e0c213,Werner Brewing Company,alt prop,2807 3rd St,,,Tillamook,Oregon,97141,United States,5038126040,,-123.833157,45.454689
+5ccdf1ec-ae75-4288-be34-60b375bcda5c,Westlake Public House,brewpub,14559 Westlake Dr Ste B,,,Lake Oswego,Oregon,97035,United States,,http://https://www.westlakepublichouse.com/,-122.732059,45.421379
+0ab3dca4-244e-4efd-bf34-92687747499a,Wet Dog Cafe & Brewery,brewpub,990 Astor St,,,Astoria,Oregon,97103-4201,United States,5033256975,http://www.wetdogcafe.com,-123.833215,46.190562
+0c915d50-afb6-47e1-9168-eb04aa5ef0d4,What'cha Brewing,brewpub,88274 Rhododendron Dr,,,Florence,Oregon,97439,United States,5419973815,,-124.129429,44.031884
 d1258a62-3169-4548-95d9-3c4e539bce4d,Widmer Brothers Brewing,regional,929 N Russell St,,,Portland,Oregon,97227-1733,United States,5032812437,,-122.6762983,45.54109529
 6fb1fdc2-e203-49c8-b325-c6013ab6dbf1,Wild Ride Brewing,micro,332 SW 5th St,,,Redmond,Oregon,97756-2103,United States,5415168544,http://www.wildridebrew.com,-121.1730764,44.27391294
 7a14b155-30bf-4f20-9856-831cfe8bbb7c,Wild River Brewing and Pizza Co,brewpub,249 N Redwood Hwy,,,Cave Junction,Oregon,97523-9023,United States,5414717487,http://www.wildriverbrewing.com,-123.6469844,42.1622503
-2e8613b3-c83d-4efa-b8bd-a658f99fd780,Wild River Brewing and Pizza Co - Grants Pass,brewpub,595 NE E St,,,Grants Pass,Oregon,97526-2356,United States,5414717487,http://www.wildriverbrewing.com,-123.319,42.43927512
+4b0c75f7-5aea-4621-8cad-e8e24962e094,Wild River Brewing and Pizza Co,taproom,508 SE I street,,,Grants Pass,Oregon,97526,United States,5412183756,http://www.wildriverbrewing.com,-123.322302,42.435931
+2e8613b3-c83d-4efa-b8bd-a658f99fd780,Wild River Brewing and Pizza Co - Grants Pass,brewpub,595 NE E St,,,Grants Pass,Oregon,97526-2356,United States,5414717487,http://www.wildriverbrewing.com,-123.317554,42.438961
 d5a5e1ba-5fde-4c6a-b2e2-d0cb96757489,Wizards of Williams Hops Garden and Craft Brewery,planning,,,,Williams,Oregon,97545,United States,5414156191,,,
 96336a37-ba9a-4d1f-ab36-667c60dbcd06,Wm Roesch Brewing Company,micro,250 SE 3rd St,,,Pendleton,Oregon,97801-2503,United States,5413773511,,-118.7842506,45.6730681
 767b679f-1675-45ff-b431-964d8eeae698,Wolf Tree Brewery,micro,4590 SE Harborton St,,,Newport,Oregon,97366,United States,4588689151,http://www.wolftreebrewery.com,-124.043444,44.60395753
-7a32d777-2288-4665-bcf4-9810ccbb85c0,Wolves & People Farmhouse Brewery,micro,30203 NE Benjamin Rd,,,Newberg,Oregon,97132-6910,United States,5034876873,http://www.wolvesandpeople.com,-122.9288409,45.31485946
-e55b790d-78bd-4014-8157-ed339067b014,Worthy Brewing Company,micro,495 NE Bellevue Dr,,,Bend,Oregon,97701-7412,United States,5416394772,http://www.worthybrewing.com,-121.2603915,44.0553542
-415a40f3-4590-49ad-93fc-e68f58442b40,Xicha Brewing Co.,brewpub,"576 Patterson Street NW, Suite 140",,,Salem,Oregon,97304,United States,5039908292,https://www.xichabrewing.com,-123.0552621,44.94650388
-ed9f39d7-92a6-43a1-b243-9faabe362ee5,Yachats Brewing,brewpub,PO Box 308,,,Yachats,Oregon,97498-0308,United States,,,-124.1039247,44.31213446
-68529922-1b8d-4629-b7d2-739f93c32d77,Zoiglhaus Brewing Company,brewpub,5716 SE 92nd Ave,,,Portland,Oregon,97266-4659,United States,9713392374,http://www.zoiglhaus.com,-122.5679347,45.4808905
+03258c53-6343-4871-8095-a44406da7d27,Wolf Tree Brewery,micro,199 N Wolkau Rd,,,Seal Rock,Oregon,97376-9526,United States,5419612022,http://www.wolftreebrewery.com,-124.008436,44.528847
+7a32d777-2288-4665-bcf4-9810ccbb85c0,Wolves & People Farmhouse Brewery,brewpub,30203 NE Benjamin Rd,,,Newberg,Oregon,97132-6910,United States,9712818497,http://www.wolvesandpeople.com,-122.928483,45.314285
+3a8f904a-4445-408a-981d-a7c7ab854666,Working Hands Fermentation,taproom,1021 12th St,,,Hood River,Oregon,97031-1575,United States,5417164130,http://www.workinghandsbeer.com,-121.523344,45.702452
+e55b790d-78bd-4014-8157-ed339067b014,Worthy Brewing Co.,micro,495 NE Bellevue Dr,,,Bend,Oregon,97701-7412,United States,5416394772,http://www.worthybrewing.com,-121.26027,44.055425
+415a40f3-4590-49ad-93fc-e68f58442b40,Xicha Brewing Co.,brewpub,"576 Patterson Street NW, Suite 140",,,Salem,Oregon,97304,United States,5039908292,http://https://www.xichabrewing.com,-123.055174,44.946359
+ed9f39d7-92a6-43a1-b243-9faabe362ee5,Yachats Brewing,brewpub,PO Box 308,,,Yachats,Oregon,97498,United States,,,-124.104,44.3104
+68529922-1b8d-4629-b7d2-739f93c32d77,Zoiglhaus Brewing Company,brewpub,5716 SE 92nd Ave,,,Portland,Oregon,97266-4659,United States,9713392374,http://www.zoiglhaus.com,-122.568045,45.481084

@@ -1,29 +1,46 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 284b44f8-6ccb-4cd6-8d06-f2ad882a47c3,16 Mile Brewing Co,micro,413 S Bedford St,,,Georgetown,Delaware,19947-1849,United States,3022538816,http://www.16milebrewery.com,-75.37816436,38.6788938
-dfa3f8fc-21cf-443d-ba8d-8adfc6873852,38Â°-75Â° Brewing,brewpub,2000 Coastal Highway STE 105,,,Rehoboth Beach,Delaware,19971,United States,3022278519,,-75.090191,38.7074994
+d98fa2e9-017a-4d4a-9b70-4d1a68e85bd6,1937 Brewing Company,brewpub,777 Delaware Park Blvd,,,Wilmington,Delaware,19804,United States,8004175687,http://www.delawarepark.com/1937-brewing-company/,-75.664483,39.703968
+dfa3f8fc-21cf-443d-ba8d-8adfc6873852,38°-75° Brewing,brewpub,2000 Coastal Highway STE 105,,,Rehoboth Beach,Delaware,19971,United States,3022278519,,-75.074794,38.695462
 781bda70-39b2-4f3f-9213-9d0f44c08991,3rd Wave Brewing Co,micro,501 N Bi State Blvd,,,Delmar,Delaware,19940-1106,United States,3029070423,http://www.3rdwavebrewingco.com,,
-1914fbf9-74d3-4115-909e-fddcb112e227,Argilla Brewing Co @ Pietro's Pizza,brewpub,2667 Kirkwood Hwy,,,Newark,Delaware,19711-7242,United States,3027318200,http://www.argillabrewing.com,,
-262a1ab1-6ea6-445e-bd22-5d56d3877287,Bellefonte Brewing Co,micro,3605 Old Capitol Trl Unit C7/C8,,,Wilmington,Delaware,19808-6043,United States,3025401055,http://www.bellefontebrewingco.com,,
-3cb83545-6111-426e-8c53-f463bdefbd9b,Blue Earl Brewing Company,micro,210 Artisan Dr,,,Smyrna,Delaware,19977-3715,United States,,http://www.blueearlbrewing.com,-75.62418056,39.28096844
-f86a5689-c7fb-4cf8-9966-053f968d65f3,Brick Works Brewing and Eats,brewpub,230 S Dupont Blvd,,,Smyrna,Delaware,19977-1573,United States,3025082523,http://www.brickworksde.com,-75.60080124,39.29825995
-ae710b07-f1bc-42fa-a2ef-47e1ad43f5bf,Crooked Hammock Brewery,brewpub,36707 Crooked Hammock Way,,,Lewes,Delaware,19958-4877,United States,,,,
-14f7353b-3b35-4e62-8a41-5d2a0b87ef59,Dew Point Brewing,brewpub,2878 Creek Rd,,,Yorklyn,Delaware,19736-,United States,3025183636,http://www.dewpointbrewing.com,-75.6729188,39.8100606
-23bca581-dd99-43ea-9fe1-6ebf78c7a6ec,Dewey Beer Co.,brewpub,2100 Coastal Hwy,,,Dewey Beach,Delaware,19971-2317,United States,3022271182,http://www.deweybeerco.com,-75.07497503,38.6961465
-7a6bd1cf-4385-4677-a9d7-3507535399e4,Dogfish Head Brewings & Eats,brewpub,320 Rehoboth Ave,,,Rehoboth Beach,Delaware,19971-3108,United States,3022262739,http://www.dogfish.com,-75.08731545,38.7151767
-281e6980-e2e2-4493-9896-3517e8cafe21,Dogfish Head Craft Brewery,regional,6 Cannery Village Ctr,,,Milton,Delaware,19968-1308,United States,3026841000,http://www.dogfish.com,-75.31158206,38.76691205
+1914fbf9-74d3-4115-909e-fddcb112e227,Argilla Brewing Co @ Pietro's Pizza,brewpub,2667 Kirkwood Hwy,,,Newark,Delaware,19711-7242,United States,3027318200,http://www.argillabrewing.com,-75.683431,39.708188
+97c7604e-645d-4f60-a18b-83e1c53fd808,Autumn Arch Beer Project,taproom,810 Pencader Dr,,,Newark,Delaware,19702,United States,3032941126,http://www.autumnarch.com,-75.769498,39.611614
+262a1ab1-6ea6-445e-bd22-5d56d3877287,Bellefonte Brewing Co,taproom,3605 Old Capitol Trl Unit C7/C8,,,Wilmington,Delaware,19808-6043,United States,3025401055,http://www.bellefontebrewingcompany.com,-75.6332,39.730204
+ac31a7c5-d695-464a-bae0-3daf59d33049,Bellefonte Brewing Co - Brandywine,taproom,1851 Marsh Road,,,Wilmington,Delaware,19810,United States,3025401055,,-75.501883,39.80542
+d2596749-a32c-4fa8-a5f7-8b586081ab2b,Big Oyster Brewery,brewpub,1007 Kings Hwy,,,Lewes,Delaware,19958,United States,3028419632,http://bigoysterbrewery.com,-75.144465,38.760627
+3cb83545-6111-426e-8c53-f463bdefbd9b,Blue Earl Brewing Company,micro,210 Artisan Dr,,,Smyrna,Delaware,19977-3715,United States,3026532337,http://www.blueearlbrewing.com,-75.623446,39.280642
+f86a5689-c7fb-4cf8-9966-053f968d65f3,Brick Works Brewing and Eats,brewpub,230 S Dupont Blvd,,,Smyrna,Delaware,19977-1573,United States,3025082523,http://www.brickworksde.com,-75.600628,39.298695
+48f52ae0-a506-4045-9ed4-c77c9e09568d,Brick Works Brewing and Eats- Long Neck,brewpub,36932 Silicato Dr,,,Millsboro,Delaware,19966,United States,,,-75.196078,38.635152
+75fbdfbd-62c2-49e4-826b-14a6501ef0c5,Coastal Brewing Co,beer brand, 1284 McD Drive,,,Dover,Delaware,19901,United States,3026784810,http://www.olddominion.com,-75.488379,39.154092
+ae710b07-f1bc-42fa-a2ef-47e1ad43f5bf,Crooked Hammock Brewery,brewpub,36707 Crooked Hammock Way,,,Lewes,Delaware,19958-4877,United States,,http://www.crookedhammockbrewery.com,-75.150837,38.746182
+c0a2adc1-1c49-45d1-a215-397998bf8558,Crooked Hammock Brewery - Middletown,brewpub,316 Auto Park Dr,,,Middletown,Delaware,19958-4877,United States,,http://www.crookedhammockbrewery.com,-75.732569,39.443626
+14f7353b-3b35-4e62-8a41-5d2a0b87ef59,Dew Point Brewing,taproom,2878 Creek Rd,,,Yorklyn,Delaware,19736,United States,3025183636,http://www.dewpointbrewing.com,-75.674016,39.809114
+785e2f14-9242-4002-9173-e232a48cdf31,Dewey Beer Co - Production Facility,micro,18499 Harbeson Road,,,Lewes,Delaware,19958,United States,,,-75.1693,38.7358
+23bca581-dd99-43ea-9fe1-6ebf78c7a6ec,Dewey Beer Co.,taproom,2100 Coastal Hwy,,,Dewey Beach,Delaware,19971-2317,United States,3022271182,http://www.deweybeerco.com,-75.075025,38.696045
+7a6bd1cf-4385-4677-a9d7-3507535399e4,Dogfish Head Brewings & Eats,brewpub,320 Rehoboth Ave,,,Rehoboth Beach,Delaware,19971-3108,United States,3022262739,http://www.dogfish.com,-75.087178,38.715204
+281e6980-e2e2-4493-9896-3517e8cafe21,Dogfish Head Craft Brewery,regional,6 Cannery Village Ctr,,,Milton,Delaware,19968-1308,United States,3026841000,http://www.dogfish.com,-75.3131,38.7675
 aef7a136-f2e1-4aca-ad98-ab593e82f91a,Fins Big Oyster Brewery,brewpub,19269 Coastal Hwy,,,Rehoboth Beach,Delaware,19971-6113,United States,3022902410,http://bigoysterbrewery.com,-75.090191,38.7074994
 5a4a3717-4640-405b-90d7-47a69be1c8e4,First State Brewing Company,planning,,,,Middletown,Delaware,19709-1482,United States,3022859535,http://www.firststatebrewing.com,,
-913d6e43-da5b-49e4-8a11-104caefcf642,Fordham and Old Dominion Brewing Company,large,1284 McD Dr,,,Dover,Delaware,19901-4639,United States,3026784810,http://www.fordhamanddominion.com,,
-22f14965-0761-424c-8824-ed47e3b04dd5,Iron Hill Brewery & Restaurant - Newark,brewpub,147 East Main St,,,Newark,Delaware,19711-7313,United States,3022669000,http://www.ironhillbrewery.com,-75.7468068,39.6834128
-6deaab2b-0b81-478f-b4dc-0f30fdfe1f9c,Iron Hill Brewery & Restaurant - Rehoboth Beach,brewpub,19815 Coastal Hwy,,,Rehoboth Beach,Delaware,19971,United States,3022608000,http://www.ironhillbrewery.com,-75.090191,38.7074994
-6829ce25-15a6-4383-a81f-1f58fc8884dd,Iron Hill Brewery & Restaurant - Wilmington,brewpub,620 Justison St,,,Wilmington,Delaware,19801-5141,United States,3026588200,http://www.ironhillbrewery.com,,
+2cebd8dc-a943-4f7e-98aa-c060a7f9b189,First State Brewing Company,taproom,109 Patriot Drive,,,Middletown,Delaware,19709,United States,3022859535,http://www.firststatebrewing.com,-75.748444,39.437733
+913d6e43-da5b-49e4-8a11-104caefcf642,Fordham and Dominion Brewing Company,micro,1284 McD Dr,,,Dover,Delaware,19901-4639,United States,3026784810,http://www.fordhamanddominion.com,-75.488379,39.154092
+2b570409-bd9f-4fcb-a33b-e19bfef22937,Hammergod Brewing Company,taproom,222 Delaware St,,,New Castle,Delaware,19720,United States,,http://www.boothhousetavern.com/hammergod-brewery,-75.564523,39.659729
+22f14965-0761-424c-8824-ed47e3b04dd5,Iron Hill Brewery & Restaurant - Newark,brewpub,147 East Main St,,,Newark,Delaware,19711-7313,United States,3028882739,http://www.ironhillbrewery.com,-75.746806,39.683395
+6deaab2b-0b81-478f-b4dc-0f30fdfe1f9c,Iron Hill Brewery & Restaurant - Rehoboth Beach,brewpub,19815 Coastal Hwy,,,Rehoboth Beach,Delaware,19971,United States,3028882739,http://www.ironhillbrewery.com,-75.108876,38.717304
+6829ce25-15a6-4383-a81f-1f58fc8884dd,Iron Hill Brewery & Restaurant - Wilmington,brewpub,620 Justison St,,,Wilmington,Delaware,19801-5141,United States,3028882739,http://www.ironhillbrewery.com,-75.561448,39.734141
+768010c8-1e57-4182-806c-d61b1ef42045,JAKL Beer Works,taproom,128 Patriot Drive,,,Middletown,Delaware,19709,United States,6104420878,http://www.jaklbeerworks.com,-75.753493,39.434448
+685a8c9f-4afc-4ffc-a0c4-d3cd112590b5,Loakal Branch Brewing Co.,taproom,501 N Bi-State Blvd,,,Delmar,Delaware,19940,United States,3029070423,http://www.loakalbranchbrewing.com,-75.574431,38.460839
 2a0a04dd-84ff-4372-90b1-bcbc30de80d7,Midnight Oil Brewing,micro,674 Pencader Dr,,,Newark,Delaware,19702,United States,3022867641,,,
-8e2237f6-6759-40b6-828f-e6975f5d0ae2,Midnight Oil Brewing Company,micro,674 Pencader Dr,,,Newark,Delaware,19702-3348,United States,3022867641,http://www.midnightoilbrewing.com,,
-8978b04f-52e6-4930-9960-0f78ae143c9c,Mispillion River Brewing,micro,255 Mullet Run St,,,Milford,Delaware,19963,United States,3024916623,http://www.mispillionriverbrewing.com,-75.45083871,38.93078885
+8e2237f6-6759-40b6-828f-e6975f5d0ae2,Midnight Oil Brewing,taproom,674 Pencader Dr,,,Newark,Delaware,19702,United States,3022867641,,-75.764383,39.612568
+8978b04f-52e6-4930-9960-0f78ae143c9c,Mispillion River Brewing,taproom,255 Mullet Run St,,,Milford,Delaware,19963,United States,3024916623,http://www.mispillionriverbrewing.com,-75.416,38.916
+a7857627-1114-4996-8c2e-3ccd18980b6e,Musings Fermentation Underground,alt prop,674 Pencader Dr,,,Newark,Delaware,19702,United States,5039561884,http://www.musingsbrews.com,-75.764383,39.612568
+70cb152f-cf8c-44e2-ab58-7d438a29b443,Ocean View Brewing Company,brewpub,85 Atlantic Ave,,,Ocean View,Delaware,19970,United States,3028291530,http://www.oceanviewbrewingde.com,-75.094187,38.544951
 40ce948c-ae39-44d4-b738-340a336484a5,Pizza By Elizabeths,brewpub,3801 Kennett Pike,,,Greenville,Delaware,19807-2321,United States,3026544478,http://www.pizzabyelizabeths.com,-75.59566848,39.77560249
-069e101a-7372-4392-a872-ef6a7ff9f31c,Revelation Craft Brewing Co,micro,19841 Central Ave,,,Rehoboth Beach,Delaware,19971-1112,United States,3022125674,http://Www.revbeer.com,,
-2c73a4ad-8953-4e91-8d3c-bf9f1cb2d807,Stewart's Brewing Co,brewpub,219 Governors Pl,,,Bear,Delaware,19701-3026,United States,3028362739,http://www.stewartsbrewingcompany.com,,
-fb72269a-fe00-40ad-989e-a4878bd4bc1c,Stitch House Brewery,brewpub,829 North Market Street,,,Wilmington,Delaware,19801,United States,3022504280,http://www.stitchhousebrewery.com,-75.54908716,39.7438473
-50f520a2-4a7e-4c39-90b2-e440e7d38c49,Twin Lakes Brewing Co,micro,405 Marsh Ln Ste 7,,,Wilmington,Delaware,19804-2445,United States,3029952337,http://www.twinlakesbrewingcompany.com,,
+069e101a-7372-4392-a872-ef6a7ff9f31c,Revelation Craft Brewing Co,taproom,19841 Central Ave,,,Rehoboth Beach,Delaware,19971-1112,United States,3022125674,http://www.revbeer.com,-75.098415,38.715247
+2c73a4ad-8953-4e91-8d3c-bf9f1cb2d807,Stewart's Brewing Co,brewpub,219 Governors Pl,,,Bear,Delaware,19701-3026,United States,3028362739,http://www.stewartsbrewingcompany.com,-75.661342,39.634999
+fb72269a-fe00-40ad-989e-a4878bd4bc1c,Stitch House Brewery,brewpub,829 North Market Street,,,Wilmington,Delaware,19801,United States,3022504280,http://www.stitchhousebrewery.com,-75.549054,39.744261
+7ef7b5b9-4f3e-4b7c-b7d5-76a7df81a1bc,Thompson Island Brewing Co,brewpub,30133 Veterans Way,,,Rehoboth Beach,Delaware,19971,United States,3022264677,http://www.thompsonislandbrewing.com,-75.1094,38.7147
+50f520a2-4a7e-4c39-90b2-e440e7d38c49,Twin Lakes Brewing Co,micro,405 Marsh Ln Ste 7,,,Wilmington,Delaware,19804-2445,United States,3029952337,http://www.twinlakesbrewingcompany.com,-75.594397,39.714356
+b9ba3e26-7ac0-49b2-ad2a-3183a01e3592,Twisted Irons Craft Brewing Co,taproom,"303 Ruthar Dr., Suites E/F",,,Newark,Delaware,19711-8016,United States,3023631759,http://www.twistedironsbrewery.com,-75.7044,39.6878
 38ea89d3-a701-473e-a3cb-f46ede4706e7,Volunteer Brewing Company,micro,120 W Main St,,,Middletown,Delaware,19709-1040,United States,3024640822,http://www.VolunteerBrewing.com,-75.71959161,39.44942786
+68474fd6-a8a5-4692-82d0-a2dd5739db86,Volunteer Brewing Company,taproom,116 W Main St,,,Middletown,Delaware,19709-1040,United States,3024640822,http://www.VolunteerBrewing.com,-75.719301,39.449382
 b0b1336f-c352-46cb-9bc7-d1be23916f48,Wilmington Brew Works,planning,,,,Wilmington,Delaware,19802-2542,United States,3027574971,http://www.wilmingtonbrewworks.com,,

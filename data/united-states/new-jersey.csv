@@ -1,116 +1,185 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+a828ba54-a0ae-4d9a-8695-1e35703ffcbe,13th Child Brewery,taproom,345 S Main St,,,Williamstown,New Jersey,08094,United States,8566697411,http://www.13thchildbrewery.com,-74.991826,39.683234
 84c84db6-1120-4106-a5d3-fd65b9d7303d,7 Mile Brewery,micro,3156 Route 9 South Ste 1-2,,,Rio Grande,New Jersey,08242,United States,6093657777,http://www.7milebrew.com,,
+180f6411-aba1-40ae-84fa-65941efb810d,7 Mile Brewery,taproom,3156 Route 9 S,,,Rio Grande,New Jersey,08242-1036,United States,6093657777,http://www.7milebrew.com,-74.866116,39.01875
+8c75e061-3138-4ffd-a9b3-565eb512b1e5,902 Brewing Co,micro,101 Pacific Avenue,,,Jersey City,New Jersey,07304,United States,2014306208,http://www.902brewing.com,-74.069403,40.706829
+274c2564-e361-40be-8e7c-c49a01197178,Alternate Ending Beer Co,brewpub,1057 State Route 34,,,Matawan,New Jersey,07747-2194,United States,7325988844,http://alternateendingbeerco.com,-74.229186,40.401111
+e136cd63-e9d7-457e-9eef-8e5de818b77f,Anglesea Aleworks,taproom,3401 New Jersey Avenue,,,Wildwood,New Jersey,08260,United States,,http://https://angleseaaleworks.com/,-74.815066,38.990912
 67616802-40bf-435e-8824-598bbf20e054,Angry Erik Brewing,micro,10 Millpond Dr Unit 8,,,Lafayette,New Jersey,07848-3825,United States,8624329003,http://www.angryerik.com,,
+a3874ffd-49fc-45fe-97b5-fc4bfeb6887d,Angry Erik Brewing,taproom,2 Camre Drive,,,Newton,New Jersey,07860,United States,8624329003,http://www.angryerik.com,-74.735022,41.095604
 5486bf95-fcc8-4829-854f-2cc5779e7212,Anheuser-Busch Inc â Newark,large,200 US Highway 1,,,Newark,New Jersey,07114-2298,United States,9736457700,http://www.anheuser-busch.com,,
+29ab3df9-4c3f-4bdb-b9f2-b577d8092e9e,Ark Brewery,brewpub,106 Ark Rd,,,Lumberton,New Jersey,08048,United States,6094515023,http://www.arkbrewery.com,-74.853003,39.941499
 1d34d7cf-c2ce-4e07-aec2-930d3299c584,Artisan Owl Brewing Company,planning,,,,Ocean City,New Jersey,08226-4237,United States,2157402057,,,
-e0783ffa-721d-45e2-9715-cbc1023a7d27,Artisan's Brewery & Italian Grill,brewpub,1171 Hooper Ave,,,Toms River,New Jersey,08753-8305,United States,7322447566,http://www.artisanstomsriver.com,-74.1880387,39.9625642
+e0783ffa-721d-45e2-9715-cbc1023a7d27,Artisan's Brewery & Italian Grill,brewpub,1171 Hooper Ave,,,Toms River,New Jersey,08753-8305,United States,7322447566,http://www.artisanstomsriver.com,-74.182755,39.977134
 41f5672a-79ff-4559-9231-db2ecdcb2385,Asbury Park Brewery,micro,810 Sewall Ave,,,Asbury Park,New Jersey,07712-6527,United States,7324555571,http://www.asburyparkbrewery.com,-74.01229282,40.21956661
+0736ddaf-b4b0-4cfc-a493-d3576e3d5461,Asbury Park Brewery,micro,614 Cookman Avenue,,,Asbury Park,New Jersey,07712,United States,7324555571,http://www.asburyparkbrewery.com,-74.010805,40.215782
+f39a3765-94ab-4a40-acc1-66350206808d,Ashton Brewing Company,taproom,600 Lincoln Blvd,,,Middlesex,New Jersey,08846,United States,7326941221,http://ashtonbrewing.com,-74.495162,40.571015
 ba385e5a-6c50-431a-a820-21d783b9e0b1,Atco Brewing LLC,micro,302 White Horse Pike,,,Atco,New Jersey,08004-2209,United States,6097072628,http://Www.atcobrewingcompany.com,-74.89973165,39.77167345
+0054721c-a6ee-4448-9ee6-dbfc096a95e3,Avalon Brew Pub,brewpub,125 79th St,,,Avalon,New Jersey,08202,United States,6099672116,http://www.avalonbrewpub.com,-74.747796,39.06372
 46813d2e-b120-4f43-8957-5e8dfadc603f,Axe And Arrow Brewery,planning,,,,Glassboro,New Jersey,08028,United States,,,,
 f0ca51bb-ad85-4dca-bd03-eefeb99f1184,Backman Brewing Company,planning,,,,Whitehouse Station,New Jersey,08889-3562,United States,,http://backmanbrewing.com,,
-55582f56-7b20-499a-875a-8457e8715a1c,Backward Flag Brewing,micro,699 Challenger Way Ste D5,,,Forked River,New Jersey,08731-5917,United States,,http://www.backwardflagbrewing.com,,
-864c6024-1ead-484f-9a4c-71572c000060,Beach Haus Brewery,micro,801 Main St,,,Belmar,New Jersey,07719-2705,United States,7322027782,http://Www.beachhausbeer.com,-74.0251959,40.1812131
-20ebe2cc-2803-4085-aada-cc38ea1a1f74,Belford Brewing Company,micro,84 Leonardville Rd,,,Belford,New Jersey,07718-1144,United States,7327697168,http://www.belfordbrewing.com,,
-41962a71-dd2f-4aa8-9ec2-fd99dc0e684d,Berlin Brewing Company,micro,220 S White Horse Pike,,,Berlin,New Jersey,08009-1902,United States,8563362038,http://www.berlinbrewco.com,-74.92998973,39.79199228
+55582f56-7b20-499a-875a-8457e8715a1c,Backward Flag Brewing,taproom,699 Challenger Way Ste D5,,,Forked River,New Jersey,08731-5917,United States,,http://www.backwardflagbrewing.com,-74.205122,39.825629
+6e9ad04c-7036-4965-8d65-9369e4cf4c2c,Battle River Brewing,taproom,69 Main St,,,Toms River,New Jersey,08753,United States,7322217430,,-74.197732,39.953158
+864c6024-1ead-484f-9a4c-71572c000060,Beach Haus Brewery,brewpub,801 Main St,,,Belmar,New Jersey,07719-2705,United States,7322027782,http://Www.beachhausbeer.com,-74.025429,40.181174
+10775c72-cfac-4dfa-a6a7-2e0698690550,Behr Brewing,taproom,513 Seashore Road,,,Cape May,New Jersey,08204,United States,,http://http://www.behrbrewing.com/,-74.893832,38.999941
+20ebe2cc-2803-4085-aada-cc38ea1a1f74,Belford Brewing Company,taproom,84 Leonardville Rd,,,Belford,New Jersey,07718-1144,United States,7327697168,http://www.belfordbrewing.com,-74.094824,40.414595
+41962a71-dd2f-4aa8-9ec2-fd99dc0e684d,Berlin Brewing Co,taproom,220 S White Horse Pike,,,Berlin,New Jersey,08009,United States,,http://https://www.berlinbrewco.com/,-74.927685,39.789777
+20171434-f542-46b5-80b5-1f3596a27120,Birdsmouth Beer,taproom,675 Oceanport Way,,,Oceanport,New Jersey,07757,United States,7329668021,http://www.birdsmouthbeer.com,-74.0295,40.3117
 ceabe2ed-e384-453c-a972-245ff8abc850,Birravino,brewpub,183 Riverside Ave,,,Red Bank,New Jersey,07701-1015,United States,7328425990,http://www.birravino.com,-74.07536238,40.35352565
 b58ed0a2-769a-4923-b0f6-360bff09ab8c,Boak Brewing Co,contract,262 Wanaque Ave Rear,,,Pompton Lakes,New Jersey,07442-2116,United States,9735706381,http://www.boaks.com,,
 b47c0e0d-23bf-4306-96eb-20f69302a63e,Bolero Snort Brewery,contract,65 Railroad Ave,,,Ridgefield Park,New Jersey,07660-1321,United States,2018193527,http://www.bolerosnort.com,-74.02983351,40.86058569
-11c67cfd-3f90-4c50-896f-e4d9842f7b31,Bonesaw Brewing Co.,micro,570 Mullica Hill Road,,,Glassboro,New Jersey,08028,United States,8562435464,http://www.bonesawbrewing.com,-75.1354598,39.7129747
-a5d616a6-0bfb-4f0f-8f19-da804663dafe,Bradley Brew Project,micro,714 Main St,,,Bradley Beach,New Jersey,07720-1013,United States,732455804,http://www.bradleybrew.com,-74.01742428,40.20427079
+21b81427-4f04-4f30-9c24-b8d2cf04ba95,Bolero Snort Brewery,micro,316 20th St,,,Carlstadt,New Jersey,07072,United States,2018193527,http://www.bolerosnort.com,-74.081842,40.831008
+11c67cfd-3f90-4c50-896f-e4d9842f7b31,Bonesaw Brewing Co.,taproom,570 Mullica Hill Road,,,Glassboro,New Jersey,08028,United States,8562435464,http://www.bonesawbrewing.com,-75.136066,39.712854
+3d54d0b3-c66f-4aad-8e45-1dc87ca21d45,Bout the Hops Brewing,taproom,2000 Crawford Pl Ste 400,,,Mount Laurel,New Jersey,08054,United States,8566617269,http://www.boutthehops.com,-74.951085,39.915469
+a5d616a6-0bfb-4f0f-8f19-da804663dafe,Bradley Brew Project,taproom,714 Main St,,,Bradley Beach,New Jersey,07720-1013,United States,732455804,http://www.bradleybrew.com,-74.017065,40.204589
 7f4e86f7-bd61-41f3-9cfa-b0c5ee669924,Brinx Jones Brewery,micro,613 E Landis Ave,,,Vineland,New Jersey,08360,United States,8564056993,http://www.brinxjones.com,-75.02304749,39.485955
-971c6b97-d931-4818-a791-769261b62ade,Brix City Brewing,micro,4 Alsan Way,,,Little Ferry,New Jersey,07643-1001,United States,2014400865,http://www.brixcitybrewing.com,,
+971c6b97-d931-4818-a791-769261b62ade,Brix City Brewing,taproom,4 Alsan Way,,,Little Ferry,New Jersey,07643-1001,United States,2014400865,http://www.brixcitybrewing.com,-74.043103,40.856393
+dfeb5ae5-c296-4041-bfd9-4c8487af1cff,Brooks Brewery / Northside Lounge,brewpub,100 Brooks Blvd,,,Manville,New Jersey,08835,United States,9087227712,http://www.northsidelounge.com,-74.588172,40.545587
 a197e0fb-e5bb-4549-a179-c9688005081f,Brotherton Brewing Company,micro,340 Forked Neck Rd,,,Shamong,New Jersey,08088,United States,6098012686,http://www.brothertonbrewing.com,-74.72540127,39.78817758
-6ba05499-27cc-40c8-9fc6-003190f93adb,Buck Hill Brewery and Restaurant,brewpub,45 Route 94,,,Blairstown,New Jersey,07825,United States,9088545300,http://www.buckhillbrewery.com,,
-fcf8351b-616e-4c8e-a372-a026c64746cf,Bucket Brigade Brewery,micro,205 N Main St,,,Cape May Court House,New Jersey,08210-2121,United States,6097782641,http://www.bucketbrigadebrewery.com,-74.81946353,39.086856
+ed99fd57-76d6-44b0-a3f5-bb69b506d0c9,Brotherton Brewing Company,micro,2208 Atco Ave,,,Atco,New Jersey,08004,United States,6098012686,http://www.brothertonbrewing.com,-74.886936,39.769911
+6ba05499-27cc-40c8-9fc6-003190f93adb,Buck Hill Brewery and Restaurant,micro,45 Route 94,,,Blairstown,New Jersey,07825,United States,9088545300,http://www.buckhillbrewery.com,-74.9578,40.9649
+fcf8351b-616e-4c8e-a372-a026c64746cf,Bucket Brigade Brewery,taproom,205 N Main St,,,Cape May Court House,New Jersey,08210-2121,United States,6097782641,http://www.bucketbrigadebrewery.com,-74.820586,39.086163
+f8d43201-aabe-41f8-b207-62669510d479,Bull n Bear Brewery,taproom,425 Springfield Ave,,,Summit,New Jersey,07901,United States,9082194255,http://www.bullnbearbrewery.com,-74.359606,40.718077
+b1c03c3c-a865-4a28-8098-4db7f4dade93,Cape May Brewery,regional,1288 Hornet Road,,,Lower Township,New Jersey,08242,United States,6098499933,http://www.capemaybrewery.com,-74.912829,39.002794
+686f0da5-2d0c-47fb-b1fd-f8cea747f0d3,Cape May Brewery Production Facility,micro,409 Breakwater Rd,,,Cape May,New Jersey,08204-4537,United States,6098499933,http://www.capemaybrewery.com,,
 ed03dc32-f0b3-4466-a9ec-069e31f25ba0,Cape May Brewing Company,micro,409 Breakwater Rd,,,Cape May,New Jersey,08204-4537,United States,6098499933,http://www.capemaybrewery.com,-74.91285755,39.00066318
 984c0f6a-3f2d-4ca2-9462-1a7c637e363e,Cape May Brewing Company - Rio Grande,micro,1288 Hornet Rd,,,Rio Grande,New Jersey,08242-2210,United States,6098499933,http://www.capemaybrewery.com,,
 58bf2433-166c-4880-9f9f-aed22abb8d4a,Carton Brewing Co,micro,6 E Washington Ave,,,Atlantic Highlands,New Jersey,07716-1230,United States,7326542337,http://www.cartonbrewing.com,-74.0381651,40.4117685
 fdeb1948-d245-4ab5-986f-5b5e42e5633b,Castle Point Brewery,contract,200 Garden St C/O Red Bridge Homes,,,Hoboken,New Jersey,07030-3793,United States,9185328525,http://www.castlepointbrewery.com,,
-3f324410-c135-498c-b5cc-4116df6d9f8f,Climax Brewing Co,micro,112 Valley Rd,,,Roselle Park,New Jersey,07204-1402,United States,9086209585,http://www.climaxbrewing.com,-74.28252639,40.65943179
-7a5ad53c-84cd-4843-aaf7-6fb870588538,Cold Spring Brewery,micro,733 Seashore Rd,,,Cape May,New Jersey,08204-4634,United States,6098543077,http://www.hcsv.org,-74.9127483,38.97816685
+b77d5cd0-c7a7-40a7-9254-7c385d65525e,Chilton Mill Brewing,taproom,59 E Mill Rd,,,Long Valley,New Jersey,07853,United States,9088675309,http://www.chiltonmillbrewing.com,-74.771373,40.783558
+1bc0902a-34e8-4d33-a675-8ec3fca463e9,Chimney Rustic Ales,taproom,15 Horton St,,,Hammonton,New Jersey,08037,United States,,,-74.802883,39.636915
+3f324410-c135-498c-b5cc-4116df6d9f8f,Climax Brewing Co,micro,112 Valley Rd,,,Roselle Park,New Jersey,07204-1402,United States,9086209585,http://www.climaxbrewing.com,-74.282992,40.659729
+d08b51e1-f701-42c7-b5fa-14d628cd0235,Coho Brewing Co,micro,28 Indian Trail Rd Ste 103,,,Cape May Court House,New Jersey,08210,United States,6092646480,http://www.cohobrewingco.com,-74.853346,39.0488
+7a5ad53c-84cd-4843-aaf7-6fb870588538,Cold Spring Brewery,taproom,733 Seashore Rd,,,Cape May,New Jersey,08204-4634,United States,6098543077,http://www.hcsv.org,-74.910545,38.979041
 986f0534-cf91-42e9-ac9c-7a481baf74e1,Common Sense Brewing,micro,102 Farnsworth Ave,,,Bordentown,New Jersey,08505-1308,United States,6095268651,http://www.commonsensebrewing.com,-74.71372844,40.14847167
-6c091b85-b347-4bdf-994a-6f1bdd0d9461,Conclave Brewing,micro,15 Minneakoning Rd Ste 202,,,Flemington,New Jersey,08822-5750,United States,9083920893,http://www.conclavebrewing.com,-74.842079,40.53132933
+6c091b85-b347-4bdf-994a-6f1bdd0d9461,Conclave Brewing,taproom,15 Minneakoning Rd Ste 202,,,Flemington,New Jersey,08822-5750,United States,9083920893,http://www.conclavebrewing.com,-74.851413,40.531034
+e9b6f7cc-ce60-4e81-80b5-643b4efccbd8,Core3Brewery,taproom,609 Delsea Dr,,,Clayton,New Jersey,08312,United States,8564988945,http://www.core3brewery.com,-75.092748,39.663193
 e2c9b160-77d6-428d-ae99-4351cb2b3405,Craftwerk Orange Brewing Company,planning,,,,West Orange,New Jersey,07052-2513,United States,2012482021,http://www.craftwerkorange.com,,
-97bbffd0-e943-4b0d-b8e3-3246fe173a15,Cricket Hill Brewing Co. Inc.,micro,24 Kulick Rd,,,Fairfield,New Jersey,07004-3308,United States,9732769415,http://www.crickethillbrewery.com,-74.2963174,40.872626
-f6c9d376-e9a6-412a-a3bf-cf47acf0b749,Cross Keys Brewing Co,micro,1038 N Main St,,,Williamstown,New Jersey,08094-3161,United States,8569066481,http://www.ckbcbeer.com,-75.0079984,39.69627246
-93f912a8-83ce-4c31-a953-bd4c2b093f9a,Cypress Brewing Company,micro,30 Nixon Ln Unit E,,,Edison,New Jersey,08837-3844,United States,7322439565,http://www.cypressbrewing.com,,
-a7a2afd9-f3c5-4343-a6d7-828a1656e33a,Czig Meister Brewing Co.,micro,106 Valentine St,,,Hackettstown,New Jersey,07840-2156,United States,2018747342,http://www.CzigMeisterBrewing.com,-74.83148308,40.8543396
+97bbffd0-e943-4b0d-b8e3-3246fe173a15,Cricket Hill Brewing Co. Inc.,micro,24 Kulick Rd,,,Fairfield,New Jersey,07004-3308,United States,9732769415,http://www.crickethillbrewery.com,-74.29635,40.872569
+f6c9d376-e9a6-412a-a3bf-cf47acf0b749,Cross Keys Brewing Co,taproom,1038 N Main St,,,Williamstown,New Jersey,08094-3161,United States,8563718018,http://www.ckbcbeer.com,-75.009122,39.697222
+93f912a8-83ce-4c31-a953-bd4c2b093f9a,Cypress Brewing Company,micro,30 Nixon Ln Unit E,,,Edison,New Jersey,08837-3844,United States,7322439565,http://www.cypressbrewing.com,-74.366046,40.498424
+a7a2afd9-f3c5-4343-a6d7-828a1656e33a,Czig Meister Brewing Co.,taproom,106 Valentine St,,,Hackettstown,New Jersey,07840-2156,United States,2018747342,http://www.CzigMeisterBrewing.com,-74.831576,40.854225
 e819c7a4-d8a6-4999-b99f-1e7f45b46d71,Dark City Brewing Company,micro,801 Second Ave,,,Asbury Park,New Jersey,07712-,United States,7324553792,http://www.darkcitybrewing.com,,
 37534d85-42a3-4ba2-ac1f-96a207b20c80,Death Of The Fox,micro,119 Berkley Rd Ste B,,,Clarksboro,New Jersey,08020-1161,United States,,http://www.deathofthefoxbrewing.com,,
 d28cea89-9e32-40a6-8a98-684ca83c54ca,Demented Brewing Co.,micro,600 Lincoln Blvd,,,Middlesex,New Jersey,08846-2443,United States,7326298260,http://www.dementedbrewing.com,-74.4946842,40.5707752
-1890caa7-06e0-4bb9-8a98-2c1a21480ae7,Departed Soles Brewing,micro,"150 Bay Street, Commercial Side",,,Jersey City,New Jersey,07302-2900,United States,2014798578,http://www.departedsoles.com,,
-03345ba6-46c2-4ab9-88f5-d872169e99cc,Descendants Brewing Company,brewpub,61 Bridge St,,,Milford,New Jersey,08848-1264,United States,,,-75.095372,40.568461
-def7fa43-5b3d-46a1-98ca-a413882988e2,Devil's Creek Brewery,micro,1 Powell Ln,,,Collingswood,New Jersey,08108-1945,United States,8564252520,http://www.DevilsCreekBrewery.com,-75.0712461,39.9169234
-ef9cbcd6-3087-44f1-add7-2e2ea086dc4c,Double Nickel Brewing Company,micro,1585 Route 73,,,Pennsauken,New Jersey,08110-1330,United States,8563562499,http://www.DNBCBEER.com,,
+1890caa7-06e0-4bb9-8a98-2c1a21480ae7,Departed Soles Brewing,taproom,"150 Bay Street, Commercial Side",,,Jersey City,New Jersey,07302-2900,United States,2014798578,http://www.departedsoles.com,-74.0399,40.7208
+03345ba6-46c2-4ab9-88f5-d872169e99cc,Descendants Brewing Company,brewpub,61 Bridge St,,,Milford,New Jersey,08848-1264,United States,,,-75.095699,40.568997
+def7fa43-5b3d-46a1-98ca-a413882988e2,Devil's Creek Brewery,taproom,1 Powell Ln,,,Collingswood,New Jersey,08108-1945,United States,8564252520,http://www.DevilsCreekBrewery.com,-75.071473,39.91691
+ef9cbcd6-3087-44f1-add7-2e2ea086dc4c,Double Nickel Brewing Company,micro,1585 Route 73,,,Pennsauken,New Jersey,08110-1330,United States,8563562499,http://www.DNBCBEER.com,-75.020537,39.984758
+0586cf47-740f-46a5-9a0f-f531b756fb75,Dr. Brewlittle Beer Co,taproom,108 East Main St,,,Maple Shade,New Jersey,08052,United States,8564065200,http://www.drbrewlittlesbeer.com,-75.000178,39.955266
 c5659ccf-a0c9-42a8-9a1e-e5d99b73c9f0,East Fifth Brewing Company,planning,,,,Manasquan,New Jersey,08736-1814,United States,,,,
-580722ab-9c8c-47bb-a2df-b6cfc3df6875,Eclipse Brewing,micro,25 E Park Ave,,,Merchantville,New Jersey,08109-2607,United States,6093203979,,-75.04831308,39.95164416
+580722ab-9c8c-47bb-a2df-b6cfc3df6875,Eclipse Brewing,taproom,25 E. Park Ave.,,,Merchantville,New Jersey,08033-2915,United States,6093203979,,-75.047853,39.951974
 3b7796a9-c125-4743-8c60-f4a847264ed3,Egan & Sons,contract,118 Walnut St,,,Montclair,New Jersey,07042-3852,United States,9737441413,http://www.eganandsons.com,-74.21181832,40.81768748
 3838a411-f540-4b66-93cc-7ff3c9f5e128,Eight & Sand Beer Co,micro,1003 N Evergreen Ave,,,Woodbury,New Jersey,08096-,United States,8565371339,http://www.eightandsandbeer.com,-75.14222034,39.84934725
+5a174d79-0b4d-45d0-a294-33b4ad20e85c,Five Dimes Brewery,taproom,247 Westwood Ave,,,Westwood,New Jersey,07675,United States,2018156704,,-74.030036,40.992459
 27954ed4-72d5-47b8-8a2e-c88cc428cc6f,Flounder Brewing Co,micro,1 Ilene Ct Ste 8 Ste 16,,,Hillsborough,New Jersey,08844-1916,United States,9083966166,http://www.flounderbrewing.com,,
-d2a781ba-48b3-4a49-8202-cafdde5fbd8d,Flying Fish Brewing Co,regional,900 Kennedy Blvd,,,Somerdale,New Jersey,08083-1031,United States,8565043442,http://www.flyingfish.com,-75.02089526,39.85394176
-51ac1ec4-3a11-4216-8498-e83957bdc40b,Forgotten Boardwalk Brewing,micro,1940 Olney Ave Ste 100,,,Cherry Hill,New Jersey,08003-2016,United States,8564370709,http://www.forgottenboardwalk.com,,
-33d0a683-b9af-4b45-8773-3f6dc24766c6,Frye Brewing,micro,2257 Bridge Ave,,,Point Pleasant Boro,New Jersey,08742-4920,United States,7326044263,http://Www.fryebrewingco.com,,
-2e495e44-0746-4651-8b7b-6da0a0758492,Garden State Beer Company,micro,247 E White Horse Pike,,,Galloway,New Jersey,08205-9563,United States,6092322337,http://www.gardenstatebeerco.com,-74.52909948,39.4463759
-772ac8c1-7012-46d7-bb38-67de73f87f4c,Gaslight Brewery and Restaurant,brewpub,15 S Orange Ave,,,South Orange,New Jersey,07079-1716,United States,9737627077,http://www.gaslightbrewery.com,-74.25954982,40.74630918
-69abf157-f2fb-43e2-ae69-38ca4ff87d9c,Glasstown Brewing,micro,10 Peterson St,,,Millville,New Jersey,08332-4818,United States,8563277770,http://www.glasstownbrewery.com,,
+d2a781ba-48b3-4a49-8202-cafdde5fbd8d,Flying Fish Brewing Co,micro,900 Kennedy Blvd,,,Somerdale,New Jersey,08083-1031,United States,8565043442,http://www.flyingfish.com,-75.019806,39.853836
+51ac1ec4-3a11-4216-8498-e83957bdc40b,Forgotten Boardwalk Brewing,micro,1940 Olney Ave Ste 100,,,Cherry Hill,New Jersey,08003-2016,United States,8564370709,http://www.forgottenboardwalk.com,-74.968711,39.911747
+ca0b2cd9-7e2e-4dec-a4ba-7b6aff8c438a,Fort Nonsense Brewing Company,taproom,220 Franklin Rd,,,Randolph,New Jersey,07869,United States,8623974777,http://www.fortnonsensebrewing.com,-74.530769,40.876553
+f9954633-bab5-4274-93d7-b03b6d55d7f4,Four City Brewing Company,taproom,55 S Essex Ave,,,Orange,New Jersey,07050,United States,9736301411,http://www.fourcitybrewing.com,-74.232055,40.771262
+33d0a683-b9af-4b45-8773-3f6dc24766c6,Frye Brewing,taproom,2257 Bridge Ave,,,Point Pleasant Boro,New Jersey,08742-4920,United States,7326044263,http://Www.fryebrewingco.com,-74.071783,40.072524
+2e495e44-0746-4651-8b7b-6da0a0758492,Garden State Beer Company,taproom,247 E White Horse Pike,,,Galloway,New Jersey,08205-9563,United States,6092322337,http://www.gardenstatebeerco.com,-74.527467,39.446027
+772ac8c1-7012-46d7-bb38-67de73f87f4c,Gaslight Brewery and Restaurant,brewpub,15 S Orange Ave,,,South Orange,New Jersey,07079-1716,United States,9737627077,http://www.gaslightbrewery.com,-74.259307,40.746518
+65859a46-a5c1-497f-a088-9305c11d5e2b,Gearblock Brewing Company LLC,taproom,"140 Franklin Turnpike
+Suite 2",,,Waldwick,New Jersey,07463,United States,2014061860,http://www.gearblockbrewing.com,-74.122442,41.018546
+64e5e7eb-e5e1-4f67-a597-150cd3bc376e,Ghost Hawk Brewing Company,taproom,321 River Rd Unit 6,,,Clifton,New Jersey,07014,United States,9732596037,http://www.ghosthawkbrewing.com,-74.125218,40.826996
+69abf157-f2fb-43e2-ae69-38ca4ff87d9c,Glasstown Brewing,micro,10 Peterson St,,,Millville,New Jersey,08332-4818,United States,8563277770,http://www.glasstownbrewery.com,-75.069662,39.374845
+db1bfb58-34ee-4ddc-af4e-d3ca050c8d0d,Glenbrook Brewery,taproom,95 Morris Street,,,Morristown,New Jersey,07960,United States,9732706866,http://glenbrookbrewery.com,-74.476773,40.796904
+51cd8441-1f9e-4328-b7d5-1a8e703cdc41,Gusto Brewing Company,taproom,3860 Bayshore Rd,,,North Cape May,New Jersey,08204,United States,6098498260,http://www.gustobrewco.com,-74.943578,38.974352
 f98dd11d-f3ca-4bb4-bc2e-e9deb27de42d,Hackensack Brewing Company,planning,,,,Hackensack,New Jersey,07601-4824,United States,,,,
-4239bcad-284c-462d-9b0c-c8dc02b30627,Harvest Moon Brewery/Cafe,brewpub,392 George St,,,New Brunswick,New Jersey,08901-2018,United States,7322496666,http://www.harvestmoonbrewery.com,-74.4442058,40.4962516
-0d94f07a-6372-4069-9c0a-0d52cc3a1616,Heavy Reel Brewing,micro,613 Boulevard,,,Seaside Heights,New Jersey,08751,United States,7322502879,http://www.heavyreelbrewingco.com,,
+4239bcad-284c-462d-9b0c-c8dc02b30627,Harvest Moon Brewery/Cafe,brewpub,392 George St,,,New Brunswick,New Jersey,08901-2018,United States,7322496666,http://www.harvestmoonbrewery.com,-74.444376,40.496196
+0d94f07a-6372-4069-9c0a-0d52cc3a1616,Heavy Reel Brewing,taproom,613 Boulevard,,,Seaside Heights,New Jersey,08751,United States,7322502879,http://www.heavyreelbrewingco.com,-74.073861,39.941503
 27c1e1c4-242d-4b7e-94d4-809f8de2a178,Hidden Sands Brewing Company,micro,6754 Washington Ave. Unit B,,,Egg Harbor Township,New Jersey,08234-3807,United States,4843191156,http://hiddensands.com,,
-8611d7e0-6f83-40e3-b387-077bdaa30058,"High Point Brewing Co, Inc.",micro,22 Park Pl,,,Butler,New Jersey,07405-1377,United States,9738387400,http://www.ramsteinbeer.com,,
+ee3b2760-c3a6-4e43-9957-be6e9626a6b4,Hidden Sands Brewing Company,taproom,6754 Washington Ave.,,,Egg Harbor Township,New Jersey,08234-3807,United States,4843191156,http://hiddensands.com,-74.553364,39.405316
+8611d7e0-6f83-40e3-b387-077bdaa30058,"High Point Brewing Co, Inc.",micro,22 Park Pl,,,Butler,New Jersey,07405-1377,United States,9738387400,http://www.ramsteinbeer.com,-74.340178,41.001955
+815cf515-c5ee-4bc3-b8de-e0c56916bd95,Highrail Brewing Company,taproom,20 Main St,,,High Bridge,New Jersey,08809,United States,9088925494,http://www.highrailbrewing.com,-74.895249,40.667361
 92a64c1e-ceea-48a8-8d68-5cf039b64cb0,"HistoryQuest, LLC",planning,,,,Morristown,New Jersey,07960-5298,United States,,,,
 4aa4d89c-fb2a-403f-94a8-9c82d5515b71,Human Village Brewing Co.,micro,148 S Broadway,,,Pitman,New Jersey,08071-2232,United States,8565560639,http://www.humanvillagebrewingco.com,-75.1291588,39.7304838
 8cae70ac-4b7d-4e78-9252-aa57d973dac9,Icarus Brewing Company,micro,1790 Swarthmore Ave Unit 3 Lot 2,,,Lakewood,New Jersey,08701-4528,United States,,http://www.icarusbrewing.com,,
 6b3c07c8-8505-440f-b7f8-bcfc389525ad,Iron Beard Brewing,planning,,,,Jersey City,New Jersey,07302-7433,United States,,,,
-e0e11103-11ff-4ec8-865f-9f0b02a42f23,Iron Hill Brewery & Restaurant - Maple Shade,brewpub,124 East King's Hwy,,,Maple Shade,New Jersey,08052-5405,United States,8562730300,http://www.ironhillbrewery.com,,
-b6d5a122-8bb1-4597-903a-c8025c9de6c8,Iron Hill Brewery & Restaurant - Voorhees,brewpub,13107 Town Center Blvd,,,Voorhees,New Jersey,08043-2668,United States,3028882739,http://www.ironhillbrewery.com,-74.9979656,39.8524026
-9c6d4ecb-1788-4bb2-ba9f-ae3efd78c7d0,J.J. Bitting Brewing Co.,brewpub,33 Main St,,,Woodbridge,New Jersey,07095-3335,United States,7326342929,http://www.njbrewpubs.com,-74.27717895,40.55461595
+e0e11103-11ff-4ec8-865f-9f0b02a42f23,Iron Hill Brewery & Restaurant - Maple Shade,brewpub,124 East King's Hwy,,,Maple Shade,New Jersey,08052-5405,United States,3028882739,http://www.ironhillbrewery.com,-74.977626,39.946332
+b6d5a122-8bb1-4597-903a-c8025c9de6c8,Iron Hill Brewery & Restaurant - Voorhees,brewpub,13107 Town Center Blvd,,,Voorhees,New Jersey,08043-2668,United States,3028882739,http://www.ironhillbrewery.com,-74.997823,39.852191
+9c6d4ecb-1788-4bb2-ba9f-ae3efd78c7d0,J.J. Bitting Brewing Co.,brewpub,33 Main St,,,Woodbridge,New Jersey,07095-3335,United States,7326342929,http://www.njbrewpubs.com,-74.277169,40.554558
+72daaae1-8b0a-4383-9867-14c7a4576e54,Jersey Cyclone Brewing,taproom,14 Worlds Fair Dr Unit J,,,Somerset,New Jersey,08873,United States,9085653035,http://www.jerseycyclone.com,-74.514431,40.535597
 84c68244-09d4-4c9a-8cfb-744cfe7fdd65,Jersey Girl Brewing Company,micro,426 Sand Shore Rd Unit 1,,,Hackettstown,New Jersey,07840-5535,United States,9085914186,http://www.jerseygirlbrewing.com,,
+efa3d289-43c7-4b61-bcbe-5960964e4c30,Jersey Girl Brewing Company,taproom,426 Sand Shore Rd,,,Hackettstown,New Jersey,07840-5535,United States,9085914186,http://www.jerseygirlbrewing.com,-74.778125,40.857541
 30844cba-d501-4996-b7f5-26a347a7d89f,Jughandle Brewing Co LLC,micro,4057 Asbury Ave Ste 6,,,Tinton Falls,New Jersey,07753-7700,United States,7328982220,http://www.jughandlebrewing.com,,
-f25211f7-7f93-4d13-a170-d743cb1929c6,Kane Brewing,micro,1750 Bloomsbury Ave,,,Ocean,New Jersey,07712-3941,United States,7329228600,http://www.kanebrewing.com,-74.0448807,40.2365672
+75e55898-126c-4e29-9ec6-8d07fc93acca,Jughandle Brewing Co LLC,micro,4043 State Route 33,,,Tinton Falls,New Jersey,07753,United States,7328982220,http://www.jughandlebrewing.com,-74.105381,40.218395
+f25211f7-7f93-4d13-a170-d743cb1929c6,Kane Brewing Company,regional,1750 Bloomsbury Ave,,,Ocean,New Jersey,07712-3941,United States,7329228600,http://www.kanebrewing.com,-74.044182,40.236628
 cbc66631-1113-4224-bcd2-148fe61e2bca,Kelly Green Brewing Co.,micro,154 S Broadway # 156,,,Pitman,New Jersey,08071-2232,United States,8562702876,http://www.kellygreenbrewing.com,,
 f5d6d218-1a4e-4c29-a0d9-76f79cbbf5a7,"Krogh's Brewing, LLC",planning,,,,Newton,New Jersey,07860-2349,United States,9732415391,http://www.kroghs.com,,
-f64ab9e1-5d96-4c97-9e58-c176108d5d1c,Krogh's Restaurant and Brewpub,brewpub,23 White Deer Plz,,,Sparta,New Jersey,07871-1823,United States,9737298428,http://www.kroghs.com,-74.6395694,41.03263072
+f64ab9e1-5d96-4c97-9e58-c176108d5d1c,Krogh's Restaurant and Brewpub,brewpub,23 White Deer Plz,,,Sparta,New Jersey,07871-1823,United States,9737298428,http://www.kroghs.com,-74.640198,41.031122
 56d73bd8-c80f-48e6-8b26-fa2121896823,Last Wave Brewing Co,micro,601 Bay Ave,,,Point Pleasant Beach,New Jersey,08742-2536,United States,7329035278,http://www.lastwavebrewing.com,-74.051905,40.089573
-0f0ea92d-3acc-4f59-bb72-2e6cb404bc6a,Little Dog Brewing Co.,micro,141 Steiner Ave,,,Neptune City,New Jersey,07753-6500,United States,7323613555,http://Www.littledogbrewing.com,-74.02307257,40.20003682
-32554b04-ef98-48cb-bb86-b28a5b23bc20,Lone Eagle Brewing,brewpub,44 Stangl Rd,,,Flemington,New Jersey,08822-1581,United States,9082372255,http://loneeaglebrewing.com,-74.86266573,40.50537407
+9a3f45f4-2465-40c8-b239-fbcc275e8f1f,Lions Roar Brewing Company,taproom,517 South Ave W,,,Westfield,New Jersey,07090,United States,4072748998,http://www.lionsroarbrewing.com,-74.3437,40.6497
+58281655-086c-4346-a457-78a812bd80e4,Liquid Shapes Brewing Co,taproom,223 Spring Garden Road,,,Milford,New Jersey,08848,United States,6105544475,,-75.126588,40.587201
+0f0ea92d-3acc-4f59-bb72-2e6cb404bc6a,Little Dog Brewing Co.,taproom,141 Steiner Ave,,,Neptune City,New Jersey,07753-6500,United States,7323613555,http://Www.littledogbrewing.com,-74.022492,40.20181
+32554b04-ef98-48cb-bb86-b28a5b23bc20,Lone Eagle Brewing,taproom,44 Stangl Rd,,,Flemington,New Jersey,08822-1581,United States,9082372255,http://www.loneeaglebrewing.com,-74.862962,40.504643
 83184b61-ebc9-46b8-903d-6516e9a63046,Long Branch Brewery,planning,,,,Long Branch,New Jersey,07740,United States,7325013025,,,
-d49a21ea-2506-4bed-b997-531ebe34cb48,Long Valley Pub and Brewery,brewpub,1 Fairmount Rd,,,Long Valley,New Jersey,07853,United States,9088761122,,-74.780486,40.783908
-dca49fa4-340f-489b-84da-c3c4b8389ff2,Lower Forge Brewery,micro,14 S Main St,,,Medford,New Jersey,08055-2414,United States,6099759532,http://www.lowerforge.com,-74.82362556,39.89909629
-e13e9d88-359f-4e3d-b981-4753940c5455,Ludlam Island Brewery,micro,9 Stoney Ct Unit 3,,,Ocean View,New Jersey,08230-1041,United States,6092636969,http://ludlamisland.com,,
-71b04b23-ecaf-47fd-a76b-de4afa732ac9,Lunacy Brewing Company,micro,1500 Kings Hwy,,,Haddon Heights,New Jersey,08035,United States,8566170681,http://www.lunacybrewingcompany.com,,
-74cf30d7-f450-444c-a50e-fa6a8aa43c49,Magnify Brewing Company,micro,1275 Bloomfield Ave Ste 7 Unit 40C,,,Fairfield,New Jersey,07004-2736,United States,9732876099,http://www.magnifybrewing.com,,
-ecd253a8-292a-4233-908f-4141491d0d32,Man Skirt Brewing,micro,144 Main St,,,Hackettstown,New Jersey,07840-1930,United States,9089890286,http://www.manskirtbrewing.com,-74.8299453,40.85378205
+d49a21ea-2506-4bed-b997-531ebe34cb48,Long Valley Pub and Brewery,brewpub,1 Fairmount Rd,,,Long Valley,New Jersey,07853,United States,9088761122,,-74.780241,40.784429
+dca49fa4-340f-489b-84da-c3c4b8389ff2,Lower Forge Brewery,taproom,14 S Main St,,,Medford,New Jersey,08055-2414,United States,6099759532,http://www.lowerforge.com,-74.823697,39.899072
+e13e9d88-359f-4e3d-b981-4753940c5455,Ludlam Island Brewery,taproom,9 Stoney Ct Unit 3,,,Ocean View,New Jersey,08230-1041,United States,6092636969,http://ludlamisland.com,-74.742651,39.192164
+71b04b23-ecaf-47fd-a76b-de4afa732ac9,Lunacy Brewing Company,taproom,1500 Kings Hwy,,,Haddon Heights,New Jersey,08035,United States,8566170681,http://www.lunacybrewingcompany.com,-75.078353,39.881419
+74cf30d7-f450-444c-a50e-fa6a8aa43c49,Magnify Brewing Company,micro,1275 Bloomfield Ave Ste 7 Unit 40C,,,Fairfield,New Jersey,07004-2736,United States,9732876099,http://www.magnifybrewing.com,-74.317139,40.860004
+ecd253a8-292a-4233-908f-4141491d0d32,Man Skirt Brewing,taproom,144 Main St,,,Hackettstown,New Jersey,07840-1930,United States,9089890286,http://www.manskirtbrewing.com,-74.829926,40.853769
 a9c4d58a-f01d-4bec-9ebf-4ad61e8a6bcd,ManaFirkin,micro,450 East Bay Ave Ste 2,,,Manahawkin,New Jersey,08050,United States,6097564798,,,
+c1688a96-332c-46c8-949b-4f98cdbe85df,ManaFirkin Brewing Company,taproom,450 East Bay Ave Ste 2,,,Manahawkin,New Jersey,08050,United States,6097564798,,-74.243809,39.688634
+1c7d2765-1d9f-4176-bc6e-157ede89846c,Mechanical Brewery,taproom,5 Perina Blvd,,,Cherry Hill,New Jersey,08003,United States,8563894151,http://www.mechanicalbrewery.com,-74.984307,39.901057
 f92345b4-2f02-4cb6-b66f-66c1c460ac2a,Montclair Brewery,planning,,,,Montclair,New Jersey,07042-4038,United States,9737807513,http://www.montclairbrewery.com,,
-e38497fd-5545-43be-9100-518277458517,Mudhen Brewing Company,brewpub,127 W Rio Grande Ave,,,Wildwood,New Jersey,08260,United States,6095228383,,-74.82509314,38.98453453
+8eeb1978-7ef2-46c3-ab77-d5e0c7dca98c,Montclair Brewery,taproom,101 Walnut St,,,Montclair,New Jersey,07042-4038,United States,9737807513,http://www.montclairbrewery.com,-74.210924,40.816811
+41cbb0cf-93b8-4c87-b3e0-405d239d84a2,Muckraker Beermaker,taproom,12 Cork Hill Road Bldg 2,,,Franklin,New Jersey,07416,United States,2015622868,http://www.muckrakerbeer.com,-74.591313,41.106857
+e38497fd-5545-43be-9100-518277458517,Mudhen Brewing Company,brewpub,127 W Rio Grande Ave,,,Wildwood,New Jersey,08260,United States,6095228383,http://www.mudhenbrew.com,-74.825094,38.984766
 79624d32-8675-4d62-87e4-6a61d7d259b1,Nale House Brewing Co,micro,32 N Main St,,,Medford,New Jersey,08055-2412,United States,6097607246,http://www.nalehousebrewing.com,-74.82362121,39.90072015
-c51a1926-490d-4558-a569-7664be014334,New Jersey Beer Co,micro,4201 Tonnelle Ave,,,North Bergen,New Jersey,07047-2430,United States,2017588342,http://www.njbeerco.com,-74.0428134,40.7714151
-d6ad6491-193e-48bb-b785-467752117b86,Pinelands Brewing,micro,140 7th Ave Unit 15,,,Little Egg Harbor Twp,New Jersey,08087-4259,United States,6092966169,http://www.pinelandsbrewing.com,,
+72da604a-7c0a-4b39-908a-7b1e5579f4f1,Neck of the Woods Brewing Company,taproom,614 Lambs Road Suite 7,,,Pitman,New Jersey,08071,United States,,,-75.145006,39.736719
+c51a1926-490d-4558-a569-7664be014334,New Jersey Beer Company,micro,4201 Tonnelle Ave,,,North Bergen,New Jersey,07047-2430,United States,2017588342,http://www.njbeerco.com,-74.035227,40.78288
+a2f27ee9-feee-4838-8947-ce4dbfa3d2c5,Newark Local Beer,taproom,540 Broad St,,,Upper Montclair,New Jersey,07102,United States,9738562234,http://www.newarklocalbeer.com,-74.168771,40.743098
+c9f4f154-e0a1-4ef1-b568-abfbb09a4a49,Oakflower Brewing Company,taproom,"1932 Long Hill Rd, Suite A",,,Millington,New Jersey,07946,United States,6096219472,http://www.oakflowerbrewing.com,-74.523854,40.674172
+cf6479b6-1c6e-4189-884c-c98278cd5eef,Odd Bird Brewing,taproom,10 Risler St,,,Stockton,New Jersey,08559,United States,2678646627,http://www.oddbirdbrewing.com,-74.981183,40.407743
+1af74ac5-1c8a-4d1b-93fa-c5890b993ef0,Old Hights Brewing Company,taproom,123 West Ward St.,,,Hightstown,New Jersey,08520,United States,6094695976,http://www.oldhightsbrewingcompany.com,-74.525185,40.267397
+bdd4ed31-0661-4eaa-8ba2-e7e1c5e1a145,Oyster Creek Brewing,taproom,529 US Highway 9,,,Waretown,New Jersey,08758,United States,6096222944,http://www.oystercreekbrewing.com,-74.200638,39.800141
+d6ad6491-193e-48bb-b785-467752117b86,Pinelands Brewing,taproom,140 7th Ave Unit 15,,,Little Egg Harbor Twp,New Jersey,08087-4259,United States,6092966169,http://www.pinelandsbrewing.com,-74.343726,39.616128
 a54bd706-4656-404b-91a2-b95d0f939741,"Raritan Bay Brewing, LLC",micro,32 Church Street,,,Keansburg,New Jersey,07734,United States,,http://raritanbaybrewing.com,-74.131668,40.441664
+b4a1e808-a8ff-4268-b7fd-9b8ee7cd6c95,Readington Brewery & Hop Farm,taproom,937 US Highway 202 South,,,Neshanic Station,New Jersey,08853,United States,comingsoon,http://www.readingtonbrewery.com,-74.750236,40.544158
+a649d309-6c71-4a7c-84e2-e753216468f4,Red Tank Brewing,taproom,77 Monmouth St,,,Red Bank,New Jersey,07701,United States,7328659500,http://www.redtankbrewing.com,-74.068778,40.34915
+a2898fa9-d96f-4cf9-84e5-c43a493ca4ea,Red White and Brew Beer Company,taproom,100 W Merchant St,,,Audubon,New Jersey,08106,United States,8565473409,http://www.rwabbc.com,-75.071676,39.894013
 c97eae38-c4a8-437d-ace0-6a0c5eeb1539,Rinn Duin Brewing,micro,1540 Route 37 W,,,Toms River,New Jersey,08755-5055,United States,7325693261,http://www.rinnduinbrewing.com,,
-fc966601-8786-44df-a2f0-3dc4c1ff566f,River Horse Brewing Company,micro,2 Graphics Dr,,,Ewing,New Jersey,08628-1546,United States,6098830890,http://www.riverhorse.com,-74.79656178,40.2765378
-d5fb9c48-3b06-4de5-8074-cd11808cac23,Screamin Hill Brewery,micro,83 Emleys Hill Rd,,,Cream Ridge,New Jersey,08514-1617,United States,,http://www.screaminhill.com,,
-f0e43f16-db91-418d-a56a-1f1bcfc32ae1,Ship Bottom Brewery,micro,"830 N Bay Ave, Store 23",,,Beach Haven,New Jersey,08008-2053,United States,6092076331,http://www.shipbottombrewery.com,,
-e626c28c-de4e-4cd5-bc1b-d66418329731,Slack Tide Brewing Company,micro,1072 Route 83 Unit 3,,,Cape May Court House,New Jersey,08210-1200,United States,6094782343,http://www.slacktidebrewingco.com,,
+fc966601-8786-44df-a2f0-3dc4c1ff566f,River Horse Brewing Company,micro,2 Graphics Dr,,,Ewing,New Jersey,08628-1546,United States,6098830890,http://www.riverhorse.com,-74.796197,40.276252
+d5fb9c48-3b06-4de5-8074-cd11808cac23,Screamin Hill Brewery,taproom,83 Emleys Hill Rd,,,Cream Ridge,New Jersey,08514-1617,United States,,http://www.screaminhill.com,-74.484507,40.147023
+9de7ab46-6504-474c-9b3c-22ef45612384,Seven Sons Brewing,micro,2224 Route 9,,,Howell,New Jersey,07731,United States,,http://www.sevensonsbrewing.com,-74.247038,40.182393
+375ecb86-f5e4-4210-8f90-f82788c94828,Seven Tribesmen Brewery,taproom,1151 State Route 23,,,Wayne,New Jersey,07470,United States,9737067337,http://www.seventribesmen.com,-74.269345,40.922958
+f0e43f16-db91-418d-a56a-1f1bcfc32ae1,Ship Bottom Brewery,micro,"830 N Bay Ave, Store 23",,,Beach Haven,New Jersey,08008-2053,United States,6092076331,http://www.shipbottombrewery.com,-74.2363,39.5691
+e626c28c-de4e-4cd5-bc1b-d66418329731,Slack Tide Brewing Company,taproom,1072 Route 83 Unit 3,,,Cape May Court House,New Jersey,08210-1200,United States,6094782343,http://www.slacktidebrewingco.com,-74.76594,39.154807
 7baaf926-7eaf-4803-98b4-f7597e969a08,Soma Brewing LLC,planning,,,,South Orange,New Jersey,07079-1455,United States,9737151450,,,
 2df1aca7-cceb-4928-b5f5-5e2307d6cd38,Somers Point Brewing Company,planning,,,,Somers Point,New Jersey,08244-1822,United States,,,,
+1021a4c2-d719-4ed4-93e7-64497ec59d90,Somers Point Brewing Company,taproom,705 W New York Ave,,,Somers Point,New Jersey,08244-1822,United States,,,-74.603466,39.318498
 47e7a620-d0fb-4dfa-8ae2-ce8cf0c3244c,Source Brewing,planning,,,,Colts Neck,New Jersey,07722-2430,United States,7327785184,http://www.sourcebrewing.com,,
-ade45bb3-7a21-4ebb-ade0-a792c648813d,Spellbound Brewing,micro,10 Lippincott Ln Unit 12,,,Mount Holly,New Jersey,08060-1603,United States,6098320077,http://www.spellboundbrewing.com,,
-65a3a0bc-ba55-4e9b-930d-dd98eeea3f3d,The Alementary,micro,58 Voorhis Ln,,,Hackensack,New Jersey,07601-4820,United States,2019681290,http://www.alementary.com,-74.0400401,40.90460655
+6fa2620f-b739-43b9-a454-94c229ee057a,"South 40 Brewery, LLC",taproom,110 Newfield Ave,,,Edison,New Jersey,08837,United States,8486670307,http://www.south40brewingco.com,-74.353988,40.500678
+ade45bb3-7a21-4ebb-ade0-a792c648813d,Spellbound Brewing,micro,10 Lippincott Ln Unit 12,,,Mount Holly,New Jersey,08060-1603,United States,6098320077,http://www.spellboundbrewing.com,-74.800764,39.991433
+9d1025b8-495e-4006-8de0-4d28e0ac0160,Sunken Silo Brew Works,taproom,1320 US Highway 22,,,Lebanon,New Jersey,08833-2211,United States,9088924603,http://www.sunkensilo.com,-74.836524,40.64489
+897581f2-d7ba-46dd-909e-7b0dc8b5799c,Swedesboro Brewing Company,taproom,95 Woodstown Road,,,Swedesboro,New Jersey,08085,United States,,http://www.swedesborobrewing.com,-75.319157,39.733964
+09e1935b-df3e-4e8c-a183-546e9d8b9540,Tanner Brewing Co,taproom,222 West Atlantic Avenue,,,Haddon Heights,New Jersey,08035,United States,,http://tannerbrewingcompany.com,-75.058067,39.881428
+65a3a0bc-ba55-4e9b-930d-dd98eeea3f3d,The Alementary,micro,58 Voorhis Ln,,,Hackensack,New Jersey,07601-4820,United States,2019681290,http://www.alementary.com,-74.040012,40.904605
 9364246f-38bc-4ab9-bf81-d4b4b2ca4527,The Referend Bier Blendery,micro,1595 Reed Rd Unit 2,,,Pennington,New Jersey,08534-5007,United States,6094740443,http://www.thereferend.com,,
-c1196b07-ded4-4877-9b8d-999a142f1378,Third State Brewing,micro,352 High St,,,Burlington,New Jersey,08016-4412,United States,6093871620,http://www.thirdstatebrewing.com,-74.85841925,40.07803141
+a312a7ad-e9a3-4371-8b1b-ecfa56c1e37e,The Seed: A Living Beer Project,taproom,204 N Delaware Ave,,,Atlantic City,New Jersey,08401,United States,6092467324,http://www.theseedbeer.com,-74.422885,39.36834
+882cf271-1a11-41af-922d-5ebf24873865,The Whitechapel Projects,brewpub,15 2nd Ave # 17,,,Long Branch,New Jersey,07740-6796,United States,7329639218,http://http://whitechapelprojects.com/,-73.982542,40.304699
+c1196b07-ded4-4877-9b8d-999a142f1378,Third State Brewing,taproom,352 High St,,,Burlington,New Jersey,08016-4412,United States,6093871620,http://www.thirdstatebrewing.com,-74.858734,40.07789
 9dfc4ee7-0740-448e-9d66-f6b06eafb36d,Three 3's Brewery,micro,50 13th St,,,Hammonton,New Jersey,08037-1559,United States,7328141396,http://www.three3sbrewing.com,-74.81147261,39.6385625
 60b5deda-ae21-44bc-834d-86c7df2a5f83,Tomfoolery Brewing,micro,334 N Washington St Unit 24B,,,Hammonton,New Jersey,08037-1558,United States,6095611762,http://www.tomfoolerybrewing.beer,,
-d388e05d-ba66-4a1e-bb23-67ed7c4890d1,Tonewood Brewing,micro,215 W Clinton Ave,,,Oaklyn,New Jersey,08107-1500,United States,8568331500,http://www.tonewoodbrewing.com,-75.08338058,39.90139895
-b266cce2-641c-4069-ab75-972b98b14310,Trap Rock Restaurant And Brewery,brewpub,279 Springfield Ave,,,Berkeley Heights,New Jersey,07922-1214,United States,9086651755,http://www.traprockrestaurant.net,-74.43481217,40.6890382
+002b638a-ad59-4383-8261-1144ceced980,Toms River Brewing,taproom,1540 Rt 37 W,,,Toms River,New Jersey,08755,United States,7326081004,http://www.tomsriverbrewing.com,-74.26323,39.988758
+d388e05d-ba66-4a1e-bb23-67ed7c4890d1,Tonewood Brewing,micro,215 W Clinton Ave,,,Oaklyn,New Jersey,08107-1500,United States,8568331500,http://www.tonewoodbrewing.com,-75.083281,39.901567
+db3e0a59-413c-446f-9711-8eb57701fd1b,Tonewood Brewing,micro,50 Clements Bridge Rd,,,Barrington,New Jersey,08007,United States,,,-75.049947,39.874429
+b266cce2-641c-4069-ab75-972b98b14310,Trap Rock Restaurant And Brewery,brewpub,279 Springfield Ave,,,Berkeley Heights,New Jersey,07922-1214,United States,9086651755,http://www.traprockrestaurant.net,-74.43488,40.689223
 9aaecb31-ffd2-490e-b6b8-c9037beaf5cf,Triumph Brewing Co of Princeton,brewpub,138 Nassau St Ste A,,,Princeton,New Jersey,08542-7011,United States,6099247855,http://www.triumphbrew.com,,
-e44d1827-714b-4860-9a8a-63fca6eb0680,Troon Brewing,micro,130 Hopewell Rocky Hill Rd # 5,,,Hopewell,New Jersey,08525-3111,United States,,http://www.troonbrewing.com,-74.75022889,40.3922451
-36e4c1c9-8ffe-4096-9153-765a99550f2b,Tuckahoe Brewing Co,micro,3092 English Creek Ave,,,Egg Harbor Township,New Jersey,08234-5245,United States,6096452739,http://www.tuckahoebrewing.com,-74.61365675,39.42606663
-7decf5ce-3597-4b0a-84c9-da60ad030a2e,Tun Tavern Brewery and Restaurant,brewpub,2 Convention Blvd Ste 3,,,Atlantic City,New Jersey,08401-4137,United States,6093477800,http://www.tuntavern.com,,
+a1fb908a-5cd0-4b45-bfcd-39c84adc7465,Triumph Brewing Company of Red Bank,brewpub,1 Bridge Ave,,,Red Bank,New Jersey,07701,United States,7328527300,http://www.triumphbrewing.com,-74.074587,40.350466
+e44d1827-714b-4860-9a8a-63fca6eb0680,Troon Brewing,micro,130 Hopewell Rocky Hill Rd # 5,,,Hopewell,New Jersey,08525-3111,United States,,http://www.troonbrewing.com,-74.746484,40.39457
+36e4c1c9-8ffe-4096-9153-765a99550f2b,Tuckahoe Brewing Co,micro,3092 English Creek Ave,,,Egg Harbor Township,New Jersey,08234-5245,United States,6096452739,http://www.tuckahoebrewing.com,-74.616128,39.419977
+7decf5ce-3597-4b0a-84c9-da60ad030a2e,Tun Tavern Brewery and Restaurant,brewpub,2 Convention Blvd Ste 3,,,Atlantic City,New Jersey,08401-4137,United States,6093477800,http://www.tuntavern.com,-74.438794,39.362089
 9e9f44ff-cb3e-4e58-b8b0-ce820379abc1,Twin Elephant Brewing Company,micro,13 Watchung Ave Ste 103,,,Chatham,New Jersey,07928-2759,United States,9735079862,http://www.twinelephant.com,,
-ad179174-6550-4b63-8055-301c822af22b,Two Ton Brewing,micro,730 Federal Ave,,,Kenilworth,New Jersey,07033,United States,,http://www.twotonbrewing.com,-74.28663992,40.67871822
-4d87a123-b93b-4f06-9c57-8f197a9b2ad9,Village Idiot Brewing Company,micro,42 High St,,,Mount Holly,New Jersey,08060-1702,United States,6099759270,http://www.villageidiotbrewing.com,-74.78801924,39.99417605
+ad179174-6550-4b63-8055-301c822af22b,Two Ton Brewing,taproom,730 Federal Ave,,,Kenilworth,New Jersey,07033,United States,,http://www.twotonbrewing.com,-74.286268,40.678796
+868c67ee-1964-4819-92e1-6e83b0093994,Untied Brewing Company,taproom,140 Spring Street Unit C,,,New Providence,New Jersey,07974,United States,,http://www.untiedbrewingco.com,-74.409149,40.692701
+b49f6729-e080-489b-b7e4-251ba722ff42,Village Brewing Company,brewpub,34 W Main St,,,Somerville,New Jersey,08876,United States,9087977959,http://www.villagebrewing.com,-74.612662,40.568846
+4d87a123-b93b-4f06-9c57-8f197a9b2ad9,Village Idiot Brewing Company,taproom,42 High St,,,Mount Holly,New Jersey,08060-1702,United States,6099759270,http://www.villageidiotbrewing.com,-74.788234,39.994153
 e66239b3-a3ec-4b2b-8738-0710ec300f25,"Vinyl Brewing Company, LLC",micro,300B 12th St,,,Hammonton,New Jersey,08037-,United States,6096665460,http://www.vinylbrewingnj.com,-74.80690714,39.6330492
-1d5af7ca-3850-4894-8dbb-0104afcb03ce,Wet Ticket Brewing,micro,1435 Main St,,,Rahway,New Jersey,07065-,United States,9086169091,http://www.wetticketbrewing.com,-74.27425215,40.60586312
-800c3ec9-66e0-4bff-a3d9-13a7d1a1755e,Zed's Beer/Bado Brewing,micro,19 N Maple Ave Unit B,,,Marlton,New Jersey,08053-3007,United States,8568727632,http://drinkzeds.com,,
+ded358df-bf65-480e-9b1b-0368c6aa9499,Westville Brewery,taproom,201 Broadway Suite B,,,Westville,New Jersey,08093,United States,8563497595,http://www.westvillebrewery.com,-75.126474,39.870332
+1d5af7ca-3850-4894-8dbb-0104afcb03ce,Wet Ticket Brewing,micro,1435 Main St,,,Rahway,New Jersey,07065,United States,9086169091,http://www.wetticketbrewing.com,-74.273954,40.605672
+81a70d47-ad7a-4dbd-9804-230964ebacab,Yale Terrace Brewery,taproom,26 Eastman St,,,Cranford,New Jersey,07016,United States,9739968601,http://www.ytbrewery.com,-74.305651,40.656062
+800c3ec9-66e0-4bff-a3d9-13a7d1a1755e,Zed's Beer/Bado Brewing,taproom,19 N Maple Ave Unit B,,,Marlton,New Jersey,08053-3007,United States,8568727632,http://drinkzeds.com,-74.921659,39.892353

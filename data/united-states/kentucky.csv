@@ -1,59 +1,97 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 2711c5ad-83cb-4917-932e-b8bbf1a25ffb,23 Brewing Company / Lizzie B's Cafe,brewpub,2010 KY Route 321,,,Prestonsburg,Kentucky,41653-9103,United States,6068862844,http://www.23brewingcompany.com,,
-2eed7840-ec52-48b5-b22e-d9d76bd01929,3rd Turn Brewing,micro,10408 Watterson Trl,,,Louisville,Kentucky,40299-3702,United States,,http://www.3rdturnbrewing.com,-85.56656078,38.19322725
+2eed7840-ec52-48b5-b22e-d9d76bd01929,3rd Turn Brewing,taproom,10408 Watterson Trl,,,Louisville,Kentucky,40299-3702,United States,5024823373,http://www.3rdturnbrewing.com,-85.566845,38.193211
+1632e47b-2136-4f81-bfeb-cb6341b8ca8b,3rd Turn Oldham Gardens,taproom,6300 Old Lagrange Rd,,,Crestwood,Kentucky,40014,United States,5024823373,,-85.460979,38.333722
+98c4153c-0b81-4b83-bb53-b9a6a80581be,Abettor Brewing Company Depot St.,taproom,128 N. Highland St,,,Winchester,Kentucky,40391,United States,,,-84.174353,37.995136
 1844257e-dab7-421d-9a9e-f594a3943b2f,Against the Grain Beer Garden,planning,,,,Louisville,Kentucky,40217,United States,,,,
-3d00e6db-0f45-43a5-add5-b9455edfdccb,Against the Grain Brewery,micro,401 E Main St,,,Louisville,Kentucky,40202-1110,United States,5025150174,http://atgbrewery.com,-85.7440377,38.2554568
-68855f86-415a-44e9-a0ab-53e6c8b10a3d,Against the Grain Production Facility,micro,1800 Northwestern Pkwy,,,Louisville,Kentucky,40203,United States,,,-85.7767241,38.2658758
-f767a00f-fbd9-4d31-abe6-902149c0158a,Akasha Brewing Company,micro,909 E Market St Ste 700,,,Louisville,Kentucky,40206-1688,United States,5027427770,http://www.akashabrewing.com,,
-5860a6e0-1bf6-4334-8797-e5668fc22db0,Alexandria Brewing Company,micro,7926 Alexandria Pike Ste 1,,,Alexandria,Kentucky,41001-1454,United States,8596946999,http://www.alexandriabrewingcompany.com,,
+3d00e6db-0f45-43a5-add5-b9455edfdccb,Against the Grain Brewery,micro,401 E Main St,,,Louisville,Kentucky,40202-1110,United States,5025150174,http://atgbrewery.com,-85.74479,38.255737
+68855f86-415a-44e9-a0ab-53e6c8b10a3d,Against the Grain Production Facility,micro,1800 Northwestern Pkwy,,,Louisville,Kentucky,40203,United States,,,-85.77699,38.265883
+ab82c1ce-0629-450c-b64a-add29ebf7ff4,Against the Grain Public House,brewpub,1576 Bardstown Rd,,,Louisville,Kentucky,40205,United States,5025150174,,-85.705605,38.230819
+f767a00f-fbd9-4d31-abe6-902149c0158a,Akasha Brewing Company,taproom,909 E Market St Ste 700,,,Louisville,Kentucky,40206-1688,United States,5027427770,http://www.akashabrewing.com,-85.735468,38.253036
+5860a6e0-1bf6-4334-8797-e5668fc22db0,Alexandria Brewing Company,taproom,7926 Alexandria Pike Ste 1,,,Alexandria,Kentucky,41001-1454,United States,8596946999,http://www.alexandriabrewingcompany.com,-84.391513,38.970335
 6889b781-b8f6-4a5a-a1ef-ab3e4c72aed9,Alltech's Lexington Brewing,regional,475 Angliana Ave,,,Lexington,Kentucky,40508-3134,United States,8592552337,http://www.Kentuckyale.com,-84.51599645,38.04950651
 b622e216-d777-41c0-a795-bb901d31a555,Apocalypse Brew Works,micro,1612 Mellwood Ave,,,Louisville,Kentucky,40206-1752,United States,5025894843,http://www.apocalypsebrewworks.com,-85.72031443,38.2566442
+3cca0adb-be0c-40b0-b319-23a59261d1a9,Atrium Brewing,taproom,1154 Logan St,,,Louisville,Kentucky,40204-2464,United States,5026903069,http://www.atriumbrewing.com,-85.740034,38.23382
+ef35c8bf-ae69-451a-862f-cd9fb6ee75c7,Barleycorn’s Brewhouse,brewpub,402 Licking Pike,,,Wilder,Kentucky,41071-2919,United States,5134844034,http://www.barleycornsbrewhouse.com,-84.486712,39.058764
 d137a8cd-c65a-42c7-b537-b6e98b46c7af,Beer Engine,micro,107 Larrimore Ln,,,Danville,Kentucky,40422-1674,United States,5024035680,http://www.kybeerengine.com,-84.771328,37.6481
-16be946c-4c1b-415b-ac5d-05a5efe1429c,Bircus Brewing,micro,322 Elm St,,,Ludlow,Kentucky,41016-1451,United States,8593607757,http://www.bircus.com,-84.54923129,39.0935089
-6d48e0c5-c4ec-43f9-8678-28daa1be8c78,Blue Stallion Brewing Company,micro,610 W Third St,,,Lexington,Kentucky,40508-1243,United States,8596088490,http://www.bluestallionbrewing.com,-84.50136234,38.05710985
-769657dd-ea31-413f-a465-54e729967309,Bluegrass Brewing Co - Brewpub,brewpub,300 W Main St,,,Louisville,Kentucky,40202-2945,United States,5028997070,http://www.bbcbrew.com,-85.75508898,38.25620645
-7ba02a8c-09ee-459f-8bcc-22e89244e857,Braxton Brewing Company,micro,27 W 7th St,,,Covington,Kentucky,41011-2301,United States,859615600,http://www.braxtonbrewing.com,-84.51080761,39.08292505
-52de8cdc-981e-41ae-a9ea-3f80f8b7ffb1,Braxton Labs,micro,95 Riviera Dr,,,Bellevue,Kentucky,41073-1337,United States,859615600,,-84.4872671,39.10060941
+16be946c-4c1b-415b-ac5d-05a5efe1429c,Bircus Brewing,brewpub,322 Elm St,,,Ludlow,Kentucky,41016-1451,United States,8597403118,http://www.bircus.com,-84.549461,39.093662
+122af8e8-40c4-4863-b7d1-dda5d26f6f6a,Blue Holler Brewery,taproom,1266 31W Bypass,,,Bowling Green,Kentucky,42101,United States,2707923003,,-86.4569,37.0101
+6d48e0c5-c4ec-43f9-8678-28daa1be8c78,Blue Stallion Brewing Company,brewpub,610 W Third St,,,Lexington,Kentucky,40508-1243,United States,8596088490,http://www.bluestallionbrewing.com,-84.501552,38.057222
+769657dd-ea31-413f-a465-54e729967309,Bluegrass Brewing Co - Brewpub,brewpub,300 W Main St,,,Louisville,Kentucky,40202-2945,United States,5028997070,http://www.bbcbrew.com,-85.75509,38.256199
+e61b2de9-38fe-4608-8dac-e66b65722410,Braxton Barrel House,taproom,5 Orphanage Rd,,,Ft Mitchell,Kentucky,41017,United States,8593310296,http://www.braxtonbrewing.com,-84.560097,39.036047
+7ba02a8c-09ee-459f-8bcc-22e89244e857,Braxton Brewing Company,taproom,27 W 7th St,,,Covington,Kentucky,41011-2301,United States,8592615600,http://www.braxtonbrewing.com,-84.511075,39.083106
+52de8cdc-981e-41ae-a9ea-3f80f8b7ffb1,Braxton Labs,micro,95 Riviera Dr,,,Bellevue,Kentucky,41073-1337,United States,859615600,,-84.487639,39.100353
+27002a02-b020-4a35-bf8b-ffe431245f47,Brew Bridge Brewery,brewpub,800 W 2nd St,,,Owensboro,Kentucky,42301,United States,2702404216,http://www.owensborobrewbridge.com,-87.119712,37.774094
+ac9181fe-2b25-4234-a9d6-d4aed22bcda5,Broken Throne Brewing,taproom,121 Main St,,,Pikeville,Kentucky,41501-3882,United States,8593212754,,-82.515493,37.481763
 117fca17-2f1b-48dc-9036-b64d39dc0711,Chase Brewing Company / Chase Tap Room,brewpub,266 Jefferson St,,,Lexington,Kentucky,40508-1217,United States,8597973113,http://www.chasebrewing.com,-84.4986682,38.0546834
-228fc595-71eb-495b-96a8-5a7acb17af38,Country Boy Brewing,micro,436 Chair Ave,,,Lexington,Kentucky,40508-3106,United States,,http://www.countryboybrewing.com,-84.50925267,38.0439487
+228fc595-71eb-495b-96a8-5a7acb17af38,Country Boy Brewing,micro,436 Chair Ave,,,Lexington,Kentucky,40508-3106,United States,8595546200,http://www.countryboybrewing.com,-84.509216,38.043947
 d840dd52-0f36-461f-ab74-95e588f9a02f,Country Boy Brewing - Georgetown,micro,108 Corporate Dr,,,Georgetown,Kentucky,40324-0000,United States,8595882118,,,
+103796b9-1aa6-40ea-ae1d-9ecbc5802376,Country Boy Brewing - Georgetown,micro,101 Innovation Way,,,Georgetown,Kentucky,40324-0000,United States,8595882118,,-84.514054,38.266671
 5fd712d7-706d-4dd0-b471-88232373121c,Cumberland Brewery,brewpub,1576 Bardstown Rd,,,Louisville,Kentucky,40205-1154,United States,5024594706,,-85.70553172,38.23084195
-227fad1b-8030-4628-b62c-e82e544d7783,Darkness Brewing,micro,224 Fairfield Ave,,,Bellevue,Kentucky,41073-1041,United States,,,-84.48468072,39.10500991
-fcc44f51-2c5c-4baa-9c37-5996a01b5512,Dreaming Creek Brewery,micro,109 E Irvine St,,,Richmond,Kentucky,40475-1521,United States,,http://www.dreamingcreekbrewery.beer,-84.29111565,37.747285
-069e89d5-77ec-486b-925f-3837899ebbbc,Dry Ground Brewing Company,micro,3121 Broadway St,,,Paducah,Kentucky,42001-4305,United States,2702109296,http://www.drygroundbrewing.com,-88.63767771,37.0705097
-06915497-8cab-4ba0-9f11-2394c6717e08,Dueling Barrels,micro,745 Hambley Blvd,,,Pikeville,Kentucky,41501-9078,United States,6067663835,http://www.duelingbarrels.com,-82.518819,37.48176335
+227fad1b-8030-4628-b62c-e82e544d7783,Darkness Brewing,brewpub,224 Fairfield Ave,,,Bellevue,Kentucky,41073-1041,United States,,,-84.48422,39.105133
+fcc44f51-2c5c-4baa-9c37-5996a01b5512,Dreaming Creek Brewery,taproom,109 E Irvine St,,,Richmond,Kentucky,40475-1521,United States,,http://www.dreamingcreekbrewery.beer,-84.292853,37.748335
+069e89d5-77ec-486b-925f-3837899ebbbc,Dry Ground Brewing Company,taproom,3121 Broadway St,,,Paducah,Kentucky,42001-4305,United States,2702109296,http://www.drygroundbrewing.com,-88.636906,37.071104
+06915497-8cab-4ba0-9f11-2394c6717e08,Dueling Barrels,micro,745 Hambley Blvd,,,Pikeville,Kentucky,41501-9078,United States,6067663835,http://www.duelingbarrels.com,-82.518795,37.48066
+c17b598c-2508-4b50-b7e2-39d572942e9e,Eridanus Brewing,taproom,501 Ferry Street,,,Russell,Kentucky,41169,United States,6063882326,,-82.697423,38.531822
 ec0e5191-0b58-43ae-b0fb-6f6b7af46bbc,Ethereal Brewing,micro,1224 Manchester St,,,Lexington,Kentucky,40504-1129,United States,8593091254,http://www.etherealbrew.com,-84.5200035,38.056562
-46c00e4c-6069-40af-9412-24cc10a64902,Falls City Brewing Company,micro,901 E Liberty St,,,Louisville,Kentucky,40204,United States,5022577284,http://www.fallscitybeer.com,-85.73625618,38.25036895
+46c00e4c-6069-40af-9412-24cc10a64902,Falls City Brewing Company,micro,901 E Liberty St,,,Louisville,Kentucky,40204,United States,5022577284,http://www.fallscitybeer.com,-85.736134,38.250558
 6d87f606-4479-4425-9427-9b592808ad32,Flywheel Brewing Company,micro,218 S Mulberry St Ste 103,,,Elizabethtown,Kentucky,42701-1431,United States,,http://www.flywheelbrewing.com,,
-af71f073-98d7-4791-afe1-6d6c29637ad3,Goodwood Brewing Co,micro,636 E Main St,,,Louisville,Kentucky,40202-1004,United States,5025842739,http://www.goodwood.beer,-85.7400684,38.254635
-c8e4496a-ab97-491c-81bf-45be3411d3ae,Gordon Biersch Brewery Restaurant - Louisville,brewpub,400 S 4th St,,,Louisville,Kentucky,40202-3418,United States,5025898935,http://www.gordonbiersch.com/restaurant,-85.7574044,38.2528789
-99a1c592-3e0a-47fb-b35c-682a601b29c7,Gravely Brewing Co.,micro,514 Baxter Ave,,,Louisville,Kentucky,40204-1104,United States,5028223202,http://www.gravelybrewing.com,-85.7301702,38.2470763
-461de6a5-8f4f-4422-a103-df77bd33e6af,Great Flood Brewing,micro,2120 Bardstown Rd,,,Louisville,Kentucky,40205-1916,United States,5024577711,http://www.greatfloodbrewing.com,-85.6938076,38.2239974
-cc9854cc-ed86-4336-8a59-4076b40248a5,Great Flood Brewing- Production Facility,micro,629 Bergman St,,,Louisville,Kentucky,40203-2618,United States,5024577711,,-85.74511415,38.2290463
+a61305a5-4785-43b9-b0a3-cdc487dc7402,Gallant Fox Brewing Company,brewpub,155 N. Bardstown Rd,,,Mount Washington,Kentucky,40047,United States,5028221988,,-85.542839,38.048366
+af71f073-98d7-4791-afe1-6d6c29637ad3,Goodwood Brewing,brewpub,636 E Main St,,,Louisville,Kentucky,40202-1004,United States,5025842739,http://www.goodwood.beer,-85.739966,38.254683
+1bdbb89a-00b6-4aa2-8f88-8823f4386b10,Goodwood Brewing Co - Frankfort,brewpub,109 West Main Street,,,Frankfort,Kentucky,40601,United States,5028715070,,-84.875069,38.197578
+c8e4496a-ab97-491c-81bf-45be3411d3ae,Gordon Biersch Brewery Restaurant - Louisville,brewpub,400 S 4th St,,,Louisville,Kentucky,40202-3418,United States,5025898935,http://www.gordonbiersch.com/restaurant,-85.757412,38.252529
+99a1c592-3e0a-47fb-b35c-682a601b29c7,Gravely Brewing Co.,brewpub,514 Baxter Ave,,,Louisville,Kentucky,40204-1104,United States,5028223202,http://www.gravelybrewing.com,-85.730227,38.246984
+461de6a5-8f4f-4422-a103-df77bd33e6af,Great Flood Brewing,micro,2120 Bardstown Rd,,,Louisville,Kentucky,40205-1916,United States,5024577711,http://www.greatfloodbrewing.com,-85.695118,38.224928
+cc9854cc-ed86-4336-8a59-4076b40248a5,Great Flood Brewing- Production Facility,micro,629 Bergman St,,,Louisville,Kentucky,40203-2618,United States,5024577711,,-85.745068,38.229079
+9ea56a37-5a48-43aa-8e75-02d90f423743,Gypsy Run Brewery,taproom,131 N 4th St,,,Danville,Kentucky,40422,United States,6066870552,,-84.77419,37.646982
 6f7ef002-6068-45c7-ad3a-4a4f5a142461,Henderson Brewing Company,planning,,,,Henderson,Kentucky,42420-3226,United States,2702004314,,,
-1c220e79-0fc8-4afc-a733-4e3844321d87,Hofbrauhaus Newport,brewpub,200 E 3rd St,,,Newport,Kentucky,41071-1612,United States,8594917200,http://www.hofbrauhausnewport.com,-84.494527,39.094846
-f0ccfe60-f36c-4a10-b976-e08d0da22763,Holsopple Brewing,micro,8023 Catherine Ln,,,Louisville,Kentucky,40222-4793,United States,5027081902,http://www.holsopplebrewing.com,-85.6064539,38.2598078
+f9330913-45ed-4d26-be66-a01033bf8788,Henderson Brewing Company,taproom,737 2nd St,,,Henderson,Kentucky,42420-3226,United States,2702004314,,-87.582653,37.837518
+b9601ac6-1777-4712-aa17-8acd3186f912,Heroes Brewery At Brook Hill,brewpub,656 Stanford Rd,,,Lancaster,Kentucky,40444,United States,8592214975,http://www.heroesbreweryatbrookhill.com,-84.581194,37.605773
+1c220e79-0fc8-4afc-a733-4e3844321d87,Hofbrauhaus Newport,brewpub,200 E 3rd St,,,Newport,Kentucky,41071-1612,United States,8594917200,http://www.hofbrauhausnewport.com,-84.49427,39.094805
+f0ccfe60-f36c-4a10-b976-e08d0da22763,Holsopple Brewing,taproom,8023 Catherine Ln,,,Louisville,Kentucky,40222-4793,United States,5027081902,http://www.holsopplebrewing.com,-85.60616,38.259603
+8d412e3a-086d-42d2-855e-8c107428f550,Hometown Brewing Co,brewpub,4041 Preston HY,,,Louisville,Kentucky,40213,United States,5026397144,http://www.htbrewingco.com,-85.728332,38.193429
+139ae6aa-d291-44bb-8605-d374b00f1477,Hop Hound Brew Pub,brewpub,317 Chestnut Street,,,Murray,Kentucky,42071,United States,2709171582,http://hophoundbrewpub.com,-88.300519,36.617328
 80000ed5-15a3-4fe0-819b-c0304647ea54,Hopcat - Louisville,brewpub,1064 Bardstown Rd.,,,Louisville,Kentucky,40204,United States,5028908676,,-85.7217319,38.2385242
-0391fc81-48a4-445a-bf49-ad447172bc0a,Hopkinsville Brewing Company,micro,102 E 5th St,,,Hopkinsville,Kentucky,42240-3306,United States,2703483927,http://www.hopkinsvillebrewingcompany.com,-87.48735745,36.86749436
-f1a026c2-71d3-4675-a4d6-d94f9f4dfaae,Jarfly Brewing Co,micro,103 W Mount Vernon St,,,Somerset,Kentucky,42501-1627,United States,6064254962,http://www.jarflybrewing.com,-84.60558001,37.09179504
-56988fcf-e019-46ad-9071-8839751cf3e0,Lemons Mill Brewery,micro,166 Marimon Ave,,,Harrodsburg,Kentucky,40330-1311,United States,8592650872,http://www.lemonsmillbrewery.com,-84.83862624,37.7608082
+0391fc81-48a4-445a-bf49-ad447172bc0a,Hopkinsville Brewing Company,taproom,102 E 5th St,,,Hopkinsville,Kentucky,42240-3306,United States,2703483927,http://www.hopkinsvillebrewingcompany.com,-87.48722,36.867478
+f1a026c2-71d3-4675-a4d6-d94f9f4dfaae,Jarfly Brewing Co,taproom,103 W Mount Vernon St,,,Somerset,Kentucky,42501-1627,United States,6064254962,http://www.jarflybrewing.com,-84.604922,37.091841
+56988fcf-e019-46ad-9071-8839751cf3e0,Lemons Mill Brewery,taproom,166 Marimon Ave,,,Harrodsburg,Kentucky,40330-1311,United States,8592650872,http://www.lemonsmillbrewery.com,-84.838986,37.760118
+97765ee4-395c-4317-a915-773176c0cd78,Lexington Brewing & Distilling Co.,regional,475 Angliana Ave,,,Lexington,Kentucky,40508-3134,United States,8592552337,http://www.LexingtonBrewingCo.com,-84.512565,38.044009
 f1962bab-fd35-4329-9d64-7128cc394302,Life Brewpub,brewpub,2628 Richmond Rd,,,Lexington,Kentucky,40509-1501,United States,8592665433,http://www.LifeBrewpub.com,-84.43443,37.991255
-bad259d6-ce30-4252-8b30-30e2a74934fb,"Maiden City Brewing Company, LLC",micro,123 E Pike St,,,Cynthiana,Kentucky,41031-1527,United States,8599545151,http://www.maidencitybrewing.com,-84.288072,38.388396
-43d60f58-3534-41f2-b65c-905f8dd67ca4,Mash Cult Brewing,micro,6823 Burlington Pike,,,Florence,Kentucky,41042-1616,United States,8593714466,,-84.6436665,39.0008541
+bad259d6-ce30-4252-8b30-30e2a74934fb,"Maiden City Brewing Company, LLC",taproom,123 E Pike St,,,Cynthiana,Kentucky,41031-1527,United States,8599545151,http://www.maidencitybrewing.com,-84.296709,38.388763
+43d60f58-3534-41f2-b65c-905f8dd67ca4,Mash Cult Brewing,taproom,6823 Burlington Pike,,,Florence,Kentucky,41042-1616,United States,8593714466,,-84.626964,39.009014
+af50f3df-7873-4b92-b51b-54be3da1ac41,Maysville Brewing Company,brewpub,1918 Old Main Street,,,Maysville,Kentucky,41056,United States,6064076008,http://www.maysville-brewing-company.business.site,-83.807384,38.620196
+9380c057-4d42-43ff-8e97-f9603be5e631,"MBECK, INC",brewpub,1894 Highway 641 North,,,Benton,Kentucky,42025,United States,2707058647,http://www.dambrewhaus.com,-88.3383,36.866
 4a6d47c5-6fd8-4e40-b1df-a831077878ab,Mile Wide Beer Co.,micro,636 Barret Ave,,,Louisville,Kentucky,40204-1142,United States,5024098139,http://www.milewidebeer.com,-85.7330744,38.2465656
-ab6b4d55-6c25-46a6-a080-9b6376fe26c4,Mirror Twin Brewing,brewpub,725 National Ave,,,Lexington,Kentucky,40502-1431,United States,8594478146,http://www.mirrortwinbrewing.com,-84.4784656,38.04042235
+ab6b4d55-6c25-46a6-a080-9b6376fe26c4,Mirror Twin Brewing,brewpub,725 National Ave,,,Lexington,Kentucky,40502-1431,United States,8594478146,http://www.mirrortwinbrewing.com,-84.478471,38.04045
 01d5e4da-2af7-4046-aa73-5dc4a1d5249f,Monnik Beer Company,brewpub,1036 E Burnett Ave,,,Louisville,Kentucky,40217-1206,United States,5027426564,,-85.739379,38.2225607
-1e875480-8642-4d5f-a9b7-d1b582657830,Old Louisville Brewery,micro,625 W Magnolia Ave,,,Louisville,Kentucky,40208-2239,United States,5024985434,http://www.oldlouisvillebrewery.com,-85.76579382,38.22970855
-d3ac23ba-2221-4e04-9a2d-32afec5b12bc,Paducah Beer Werks,brewpub,301 N 4th St,,,Paducah,Kentucky,42001-0753,United States,,http://www.paducahbeerwerks.com,-88.599512,37.088841
-cbc413e8-2e23-4d6e-8a3b-2540e40222e8,Pivot Brewing Company,micro,1400 Delaware Ave,,,Lexington,Kentucky,40505,United States,8592856778,http://www.pivotbrewingcompany.com,-84.470627,38.038574
-84fb6c47-0080-4500-8b15-a4fa2e33dd31,Rock House Brewing,micro,119 Luigart Ct,,,Lexington,Kentucky,40508-1686,United States,8593687064,http://www.rockhousebrewing.com,-84.48229841,38.05652337
+16c04c1e-6c5d-4542-a715-0aaa7ca3a398,My Old Kentucky Foam,taproom,149 E Main St,,,Georgetown,Kentucky,40324,United States,8597075510,,-84.558499,38.210169
+2eb9e8a7-3735-4d04-ada6-65304b2e96e8,Noble Funk Brewery,brewpub,922 S 2nd St,,,Louisville,Kentucky,40203,United States,5028968459,,-85.756452,38.24046
+1e875480-8642-4d5f-a9b7-d1b582657830,Old Louisville Brewery,taproom,625 W Magnolia Ave,,,Louisville,Kentucky,40208-2239,United States,5024985434,http://www.oldlouisvillebrewery.com,-85.765751,38.229657
+323a0270-0d3b-4f7a-bbdb-1b16e009f0bc,Old Louisville Brewery Barrel Room,taproom,622 Main St,,,Shelbyville,Kentucky,40065,United States,5024985434,,-85.218295,38.210693
+d3ac23ba-2221-4e04-9a2d-32afec5b12bc,Paducah Beer Werks,taproom,301 N 4th St,,,Paducah,Kentucky,42001-0753,United States,,http://www.paducahbeerwerks.com,-88.599928,37.08888
+cbc413e8-2e23-4d6e-8a3b-2540e40222e8,Pivot Brewing Company,taproom,1400 Delaware Ave,,,Lexington,Kentucky,40505,United States,8592856778,http://www.pivotbrewingcompany.com,-84.469007,38.037078
+1d99aabd-87ad-4b31-8c87-0961e6b23904,Pub on Second,taproom,116 W 2nd St,,,Owensboro,Kentucky,42303-4111,United States,8592277223,,-87.111821,37.774617
+84fb6c47-0080-4500-8b15-a4fa2e33dd31,Rock House Brewing,taproom,119 Luigart Ct,,,Lexington,Kentucky,40508-1686,United States,8593687064,http://www.rockhousebrewing.com,-84.481586,38.055814
 75cf13cc-96d4-4432-b86f-ceb64bd11765,Rooster Brewing,micro,609 Main St,,,Paris,Kentucky,40361-1816,United States,8597073436,http://www.roosterbrew.com,-84.25166366,38.21039483
+9313a61b-84c9-4e83-8ccc-dbeca028d96d,Sawstone Brewing Co,taproom,175 E Main St,,,Morehead,Kentucky,40351,United States,6063563155,http://www.sawstonebrewing.co,-83.433853,38.183771
+3760a179-43dd-452b-a52b-8d5f8713cbfb,Scout & Scholar,brewpub,112 W. Flaget Ave.,,,Bardstown,Kentucky,40004,United States,5023480740,,-85.467356,37.811104
+5e56771d-ee35-417a-90f5-0c9c0925dd22,Shippingport Brewing Co,brewpub,1217 W Main Street,,,Louisville,Kentucky,40203,United States,,http://www.shippingportbrewing.com,-85.770621,38.258588
+04a53838-b483-49a4-b42e-a1f197f61769,Sig Luscher Brewery,brewpub,221 Mero Street,,,FRANKFORT,Kentucky,40601-4349,United States,9176889995,http://Www.sigluscherbrewery.com,-84.875025,38.201552
 39a858eb-c5a5-4945-833f-94e0275e79b5,St Arnulf Alery,micro,3152 Kings Chapel Rd,,,Cadiz,Kentucky,42211-0000,United States,5023094703,,,
 2119dc54-184b-4f1e-ada6-f085576e3760,Sterling Beer Co.,contract,3214 Preston Hwy,,,Louisville,Kentucky,40213-1330,United States,5022338485,http://www.sterlingbeer.com,-85.7347014,38.2019083
-6bd4288d-8bb6-4a55-986e-4b5a41d4bc5e,Tap on Main Brewing Company,micro,601A N Main St,,,Somerset,Kentucky,42501,United States,6064511525,http://www.taponmainst.com,-84.608383,37.100832
-16260ec1-907c-4e9b-bbac-ed70973e1ed2,Town Branch Distillery,micro,401 Cross St,,,Lexington,Kentucky,40508,United States,8592552337,,-84.50889213,38.04997369
+6bd4288d-8bb6-4a55-986e-4b5a41d4bc5e,Tap on Main Brewing Company,taproom,601A N Main St,,,Somerset,Kentucky,42501,United States,6064511525,http://www.taponmainst.com,-84.607264,37.100052
+df4a16df-ae59-466f-8b81-79905647d516,TEN20 Craft Brewery,taproom,1020 E. Washington St.,,,Louisville,Kentucky,40206,United States,8478584869,http://www.ten20brewery.com,-85.732723,38.255075
+16260ec1-907c-4e9b-bbac-ed70973e1ed2,Town Branch Distillery,micro,401 Cross St,,,Lexington,Kentucky,40508,United States,8592552337,,-84.508879,38.049162
+8c1d75a7-c9db-4d94-b26f-b187f4863a1f,Turtleback Ridge Brewery,taproom,6769 MOUNT PLEASANT ROAD,,,EWING,Kentucky,41039,United States,6068420127,http://www.turtlebackridgeky.com,-83.9681,38.4604
 8d0e0a59-2799-4825-a275-bb109dc0fc10,Uncrafted Territory Brewing Company,planning,,,,Beaver Dam,Kentucky,42320-1915,United States,2707753131,,,
-86c32e2f-4135-4421-ad6f-03d71c73347a,West Sixth Brewing Co,micro,501 W Sixth St,,,Lexington,Kentucky,40508-1341,United States,8597050915,http://www.westsixth.com,,
-11e292b9-777d-4818-b231-1de6c8a4e1cb,West Sixth Greenroom,micro,109 W Main St,,,Lexington,Kentucky,40507,United States,8597050915,,-84.49712824,38.04658314
+e041d5f4-debe-496e-9a77-7b388be65ee6,Uncrafted Territory Brewing Company,micro,218 N Main St,,,Beaver Dam,Kentucky,42320-1915,United States,2707753131,http://www.uncraftedterritory.com,-86.876134,37.403318
+274b6bdc-e8b0-4ffb-b639-5b433e023077,Versailles Brewing Company,brewpub,513 Marsailles Rd Ste 8,,,Versailles,Kentucky,40383,United States,8592560169,http://www.vbctaproom.com,-84.708321,38.048482
+86c32e2f-4135-4421-ad6f-03d71c73347a,West Sixth Brewing Co,micro,501 W Sixth St,,,Lexington,Kentucky,40508-1341,United States,8597050915,http://www.westsixth.com,-84.491753,38.059828
+96de35d7-2991-4f9b-b05b-329284a7dec2,West Sixth Farm,micro,4495 Shadrick Ferry Rd,,,Frankfort,Kentucky,40601,United States,8597050915,http://www.westsixthfarm.com,-84.85468,38.280169
+11e292b9-777d-4818-b231-1de6c8a4e1cb,West Sixth Greenroom,micro,109 W Main St,,,Lexington,Kentucky,40507,United States,8597050915,,-84.49707,38.046609
+a3c08a30-077f-4f94-abb5-ae09db7a0f77,West Sixth NuLu,taproom,817-825 E. Market St,,,Louisville,Kentucky,40206,United States,8597050915,,-85.737165,38.253572
 76a8347d-13dc-4c90-8bc0-7063f027312b,White Squirrel Brewery,brewpub,871 Broadway Ave,,,Bowling Green,Kentucky,42101-2571,United States,2709041573,http://www.whitesquirrelbrewery.com,-86.4407388,36.9844713
-f0aec029-6d8f-4e95-81ab-ed9292bbbdbe,Wooden Cask Brewing Company,micro,629 York St,,,Newport,Kentucky,41071-1815,United States,8592612172,http://www.woodencask.com,-84.49457871,39.09061257
+c065fb20-df2d-45e9-b448-a87cd0ca44f9,White Squirrel Brewery,brewpub,302 State Street,,,Bowling Green,Kentucky,42101,United States,2709041573,http://www.whitesquirrelbrewery.com,-86.432754,36.997594
+89443778-3302-4495-95ef-c9debd04de26,Wild Hops Brewery,taproom,1001 Logan St,,,Louisville,Kentucky,40204,United States,5023842001,http://www.loganstmarket.com/wild-hops,-85.73929,38.236085
+f0aec029-6d8f-4e95-81ab-ed9292bbbdbe,Wooden Cask Brewing Company,micro,629 York St,,,Newport,Kentucky,41071-1815,United States,8592612172,http://www.woodencask.com,-84.493897,39.090316
+e18858b8-16ec-4f2c-8776-bdcc27bfe0f9,Yancey's Gastropub and Brewery,brewpub,128 S Public Sq,,,Glasgow,Kentucky,42141,United States,2705906625,http://www.yanceysbrewery.com,-85.913125,36.995024

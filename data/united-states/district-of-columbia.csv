@@ -1,17 +1,22 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 bd8b76ca-a70a-4363-96cb-24f1d0118a74,3 Stars Brewing Co,micro,6400 Chillum Pl NW Ste B,,,Washington,District of Columbia,20012-2111,United States,2026700333,http://www.3starsbrewing.com,,
 49e805d3-70e3-4c21-81d6-d21e290ffefe,AdMerk Corp. Inc.,contract,20 F St NW,,,Washington,District of Columbia,20001-6700,United States,6172028069,http://www.paugustin.com,-77.0094205,38.89742205
-41b3fd0e-0083-4f6a-96d8-dff2554e4731,Atlas Brew Works,micro,2052 W Virginia Ave NE Ste 102,,,Washington,District of Columbia,20002-1832,United States,2028320420,http://www.atlasbrewworks.com,,
+41b3fd0e-0083-4f6a-96d8-dff2554e4731,Atlas Brew Works,micro,2052 W Virginia Ave NE Ste 102,,,Washington,District of Columbia,20002-1832,United States,2028320420,http://www.atlasbrewworks.com,-76.981439,38.914868
+9cdfa0aa-b4b4-4b86-ba19-e9e3ce923bc5,Atlas Brew Works,taproom,1201 Half St SE,,,Washington,District of Columbia,20003,United States,,,-77.007864,38.87562
 082f06b4-93bc-4683-9223-5b64103413e8,Bardo Brewpub,micro,25 Potomac Ave SE,,,Washington,District of Columbia,20003-3670,United States,7622337070,http://www.bardo.beer,-77.00658302,38.87165373
-2b6bb7e5-a528-4387-a970-0be422a7afcc,Bluejacket,brewpub,300 Tingey St SE,,,Washington,District of Columbia,20003-4625,United States,,http://www.bluejacketdc.com,-77.0006981,38.8750965
+2b6bb7e5-a528-4387-a970-0be422a7afcc,Bluejacket,brewpub,300 Tingey St SE,,,Washington,District of Columbia,20003-4629,United States,2025244862,http://www.bluejacketdc.com,-77.001305,38.875196
 2682641e-3fa6-4700-b9ed-87ded91e1ca5,Capitol City Brewing Co,contract,2 Massachusetts Ave NE,,,Washington,District of Columbia,20002-4945,United States,2028422337,http://www.capcitybrew.com,-77.0082686,38.8979293
+0f05bba3-718a-4181-aee5-78bd057ce334,City-State Brewing Co. LLC,micro,705 Edgewood St NE,,,Washington,District of Columbia,20017,United States,2025310481,http://www.citystatebrewing.com,-76.995905,38.92357
 4da39580-1cf8-436a-bcd9-ce44d8b07896,City-State Brewing Company,planning,,,,Washington,District of Columbia,20017-2518,United States,2025310481,http://citystatebrewing.com,,
-1cd1dfd7-851b-4912-9bfe-2828dddc6540,DC Brau Brewing Company,regional,3178 Bladensburg Rd NE Ste B,,,Washington,District of Columbia,20018-2214,United States,2026218890,http://www.dcbrau.com,,
-a5f7b66a-2f51-4161-9365-0eef5aa282a5,District ChopHouse and Brewery,brewpub,509 7th St NW,,,Washington,District of Columbia,20004-1600,United States,2023473434,http://www.districtchophouse.com,-77.0216694,38.8965132
+1cd1dfd7-851b-4912-9bfe-2828dddc6540,DC Brau Brewing Company,micro,3178 Bladensburg Rd NE Ste B,,,Washington,District of Columbia,20018-2214,United States,2026218890,http://www.dcbrau.com,-76.959993,38.929458
+a5f7b66a-2f51-4161-9365-0eef5aa282a5,District ChopHouse and Brewery,brewpub,509 7th St NW,,,Washington,District of Columbia,20004-1600,United States,2023473434,http://www.districtchophouse.com,-77.021564,38.896533
 63b91345-1bf4-420d-8f66-206d18476eb9,Gordon Biersch Brewery Restaurant - Navy  Yard,brewpub,100 M St SE,,,Washington,District of Columbia,20003-3519,United States,2024842739,http://www.gordonbiersch.com/locations/navy-yard?action=view,-77.0052971,38.8766834
 cb2ba6de-fc98-4ae0-83a4-b775bda03f2c,Gordon Biersch Brewery Restaurant - Washington,brewpub,900 F St NW,,,Washington,District of Columbia,20004-1404,United States,2027835454,http://www.gordonbiersch.com/locations/washington-dc?action=view,-77.0243479,38.8971375
-84c2ff86-a12b-41a9-925b-69c21f182171,Hellbender Brewing Company,micro,5788 2nd St NE,,,Washington,District of Columbia,20011-2524,United States,2022301030,http://www.hellbenderbeer.com,-77.0053314,38.9603005
+84c2ff86-a12b-41a9-925b-69c21f182171,Hellbender Brewing Company,micro,5788 2nd St NE,,,Washington,District of Columbia,20011-2524,United States,2028278768,http://www.hellbenderbeer.com,-77.004981,38.960304
+90df9e29-fec1-4337-b5e0-00b153d0d46c,Other Half Brewing Company - D.C.,micro,1401 Okie St NE,,,Washington,District of Columbia,20002,United States,2027470050,,-76.983681,38.914694
 80ebf698-3075-4896-b205-cde24a5a2b91,Red Bear Brewing Co,planning,,,,Washington,District of Columbia,20002-3406,United States,2062997485,http://www.redbear.beer,,
-477df372-74d7-4555-a942-1258a05a4c73,Right Proper Brewing Company,micro,920 Girard St NE,,,Washington,District of Columbia,20017-3424,United States,2026072337,http://www.rightproperbrewing.com,-76.99307078,38.9267988
-72ed4fa8-abbe-4e03-bed3-ed13798b2528,Right Proper Brewing Company,brewpub,624 T St NW,,,Washington,District of Columbia,20001-5119,United States,2026072337,http://www.rightproperbrewery.com,-77.0213751,38.9154119
-c19087b5-c47d-4db7-ad1d-72a6b9d518d4,The Public Option,brewpub,1601 Rhode Island Ave NE,,,Washington,District of Columbia,20018-1841,United States,2023975129,http://www.thepublicoptiondc.com,-76.9817377,38.926148
+1b0595dc-aaac-40ab-8075-8144040f2f90,Red Bear Brewing Co,brewpub,209 M St NE,,,Washington,District of Columbia,20002,United States,5104272480,http://www.redbear.beer,-77.003112,38.905517
+477df372-74d7-4555-a942-1258a05a4c73,Right Proper Brewing Company,micro,920 Girard St NE,,,Washington,District of Columbia,20017-3424,United States,2026072337,http://www.rightproperbrewing.com,-76.993076,38.926818
+72ed4fa8-abbe-4e03-bed3-ed13798b2528,Right Proper Brewing Company,brewpub,624 T St NW,,,Washington,District of Columbia,20001-5119,United States,2026072337,http://www.rightproperbrewery.com,-77.021429,38.915389
+c19087b5-c47d-4db7-ad1d-72a6b9d518d4,The Public Option,brewpub,1601 Rhode Island Ave NE,,,Washington,District of Columbia,20018-1841,United States,2023975129,http://www.thepublicoptiondc.com,-76.981653,38.926056
+ec275dcf-e786-480a-b499-cee87bbe4da6,Valor Brewpub,brewpub,723 8th St SE,,,Washington,District of Columbia,20003,United States,2025478459,http://www.valorbrewpub.com,-76.995348,38.880468

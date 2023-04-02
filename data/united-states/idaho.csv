@@ -1,68 +1,105 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 ea4f30c0-bce6-416b-8904-fab4055a7362,10 Barrel Brewing Co - Boise,large,826 W Bannock St,,,Boise,Idaho,83702-5857,United States,2083445870,http://www.10barrel.com,-116.202929,43.618516
-7d13ee75-e7e3-4623-862a-43a18dd6a1ae,2C Family Brewing Co.,micro,1215 1st St S,,,Nampa,Idaho,83651-3957,United States,2084753981,,-116.559282,43.578989
+7d13ee75-e7e3-4623-862a-43a18dd6a1ae,2C Family Brewing Co.,taproom,1215 1st St S,,,Nampa,Idaho,83651,United States,2085594585,http://WWW.2CFAMILYBREWING.COM,-116.55926,43.57824
+5ed1bc8e-b4e6-4437-8e45-ce57713f9c22,Barbarian Brewing,taproom,114 E 32nd,,,Garden City,Idaho,83714,United States,2083872739,http://www.barbarianbrewing.com,-116.236319,43.622321
 2f2b9e28-3550-4e57-80bf-4fa388200ed7,Barbarian Brewing - Downtown Taproom,micro,1022 W Main St,,,Boise,Idaho,83702-5705,United States,2083872739,https://barbarianbrewing.com,-116.206883,43.618407
 056acce6-7847-43f3-9a24-c32ee66ae805,Barbarian Brewing - Garden City,micro,5270 W Chinden Blvd,,,Garden City,Idaho,83714-1457,United States,2083872739,http://www.barbarianbrewing.com,-116.272141,43.646318
-7ce869c5-a47a-4bab-ac9f-775ee05a0a2e,Bear Island Brewing Company,micro,1620 N Liberty St,,,Boise,Idaho,83704-7739,United States,2089082496,http://www.bearislandbrewing.com,-116.260854,43.620592
+7ce869c5-a47a-4bab-ac9f-775ee05a0a2e,Bear Island Brewing Company,taproom,1620 N Liberty St,,,Boise,Idaho,83704-4016,United States,2089082496,http://www.bearislandbrewing.com,-116.260654,43.619769
+bed478c3-47e4-4ba5-9c6d-f508c44252c5,Bent Tree Brewing,taproom,30923 North Quail Run Court,,,Athol,Idaho,83801,United States,2082908894,,-116.756814,47.952322
 c495b454-6bbb-4f13-adb9-05d88e03136a,Bertrams Salmon Valley Brewery,brewpub,535 Main St,,,Salmon,Idaho,83467-4246,United States,2087563391,http://salmonvalleybrewery.com,-113.8932079,45.1751978
-0237e528-96d2-41ef-8549-54611b40eaef,Boise Brewing,micro,521 W Broad St,,,Boise,Idaho,83702-7642,United States,2083427655,http://www.boisebrewing.com,-116.203056,43.611778
+4e7d3aaa-ab28-4188-88bd-f28f244564b4,Black Canyon Brewing,brewpub,110 N Washington Ave,,,Emmett,Idaho,83617,United States,6506767101,http://blackcanyonbrewing.beer,-116.499524,43.876106
+845e99f5-4258-4b45-91a5-80e62c2a7264,Black Lodge Brewing,taproom,206 N 3rd Ave,,,Coeur D'Alene,Idaho,83854,United States,2086201204,http://www.blacklodgebrewingco.com,-116.782398,47.674553
+0237e528-96d2-41ef-8549-54611b40eaef,Boise Brewing,micro,521 W Broad St,,,Boise,Idaho,83702-7642,United States,2083427655,http://www.boisebrewing.com,-116.203189,43.611901
 c4476467-ca84-4c96-807f-9c91efefdd17,Bombastic Brewing,contract,11100 N Airport Rd,,,Hayden,Idaho,83835,United States,,http://www.bombasticbrewing.com,-116.8105485,47.772517
+25b6a5b2-6eb8-4fa8-bc15-9da4e9c94cfb,Bombastic Brewing,micro,11100 N Airport Rd Unit 2,,,Hayden,Idaho,83835,United States,,http://www.bombasticbrewing.com,-116.810774,47.772408
 0a97a495-46ba-44e9-8755-342aad301296,Broken Horn Brewing Company,micro,201 S Mission St,,,McCall,Idaho,83638,United States,2083155772,http://www.brokenhornbrewing.com,-116.104522,44.896502
-9f0fb9c0-49ca-4c1e-aa52-ca9b099a317c,Clairvoyant Brewing - Boise,micro,2800 W Idaho St,,,Boise,Idaho,83702-4628,United States,2089960095,http://www.clairvoyantbrewing.com,-116.225417,43.622812
+52a589b5-d7f5-4dfa-8393-77e6120deab2,Chalice Brewing,taproom,413 E Sherman Ave,,,Coeur D Alene,Idaho,83814,United States,,http://www.chalicebrewing.com,-116.780398,47.673717
+de055568-0ca7-4451-b596-7f35162b8fc9,Citizen 33 Brewery,brewpub,364 N Main St,,,Driggs,Idaho,83422,United States,,http://www.citizen33.com,-111.111439,43.728346
+9f0fb9c0-49ca-4c1e-aa52-ca9b099a317c,Clairvoyant Brewing,taproom,2800 W Idaho St,,,Boise,Idaho,83702-4628,United States,2089960095,http://www.clairvoyantbrewing.com,-116.225451,43.622974
 7cc65ee3-40e0-483b-bf33-589945cb5610,Clairvoyant Brewing - West,micro,9115 W Chinden Blvd Ste 107,,,Garden City,Idaho,83714,United States,,https://www.clairvoyantbrewing.com,-116.2958998,43.654831
-beccac0a-ce7c-420f-a548-67ce2b84d7eb,Cloud 9 Brewery,brewpub,1750 W State St,,,Boise,Idaho,83702-3923,United States,2083360681,http://www.cloud9brewery.com,-116.2116802,43.62441063
+beccac0a-ce7c-420f-a548-67ce2b84d7eb,Cloud 9 Brewery,brewpub,1750 W State St,,,Boise,Idaho,83702-3923,United States,2083360681,http://www.cloud9brewery.com,-116.211649,43.624463
 40450ecb-b207-4de1-9c51-2d7a3f435d6d,County Line Brewing,micro,9115 W Chinden Blvd Ste 107,,,Garden City,Idaho,83714-1903,United States,2088302456,http://www.countylinebrewing.com,-116.295667,43.655342
-6fc2720b-7757-4e50-82cf-6e27c285c590,Crescent Brewery,micro,1521 Front St,,,Nampa,Idaho,83651-4331,United States,2089681034,http://www.crescentbeer.com,-116.5550949,43.57676253
+f850947b-88e1-4dab-b768-34abde0d29bb,Craft Brewers of Boise,taproom,420 N. Orchard St,,,Boise,Idaho,83706,United States,2084245159,http://www.craftbrewersofboise.com,-116.24329,43.608226
+6fc2720b-7757-4e50-82cf-6e27c285c590,Crescent Brewery,taproom,1521 Front St,,,Nampa,Idaho,83651-4331,United States,2089681034,http://www.crescentbeer.com,-116.555107,43.576632
 6ea64715-be41-4897-9b8a-496911ce26ec,Crooked Fence Brewing,micro,5220 N Sawyer Ave,,,Garden City,Idaho,83714,United States,2083757907,http://www.crookedfencebrewing.com,-116.268704,43.646739
-55deb669-5df9-4850-8639-166a87b59949,Daft Badger Brewing,brewpub,1710 N 2nd St,,,Coeur D Alene,Idaho,83814-3403,United States,2086659892,https://www.facebook.com/daftbadgerbrewing,-116.783116,47.692323
+55deb669-5df9-4850-8639-166a87b59949,Daft Badger Brewing,taproom,1710 N 2nd St,,,Coeur D Alene,Idaho,83814-3403,United States,2086659892,,-116.783042,47.691658
+986a3afa-c34b-4939-ae86-52c2bebf4485,Danelion Brewery,taproom,1758 Highway 45,,,Melba,Idaho,83641,United States,,http://www.danelionbrewing.com,-116.572608,43.395964
 ffcc9d52-9de7-41a6-956c-36875ca71dca,Downdraft Brewing Co,closed,418 W Seltice Way,,,Post Falls,Idaho,83854-,United States,2082624233,http://www.downdraftbrewing.com,-116.9573256,47.715079
-6e525c51-c2aa-44b4-adaa-9fb869c1ae23,Edge Brewing Company,brewpub,525 N Steelhead Way,,,Boise,Idaho,83704-8374,United States,2089952979,http://www.edgebrew.com,-116.2906516,43.6094254
+6e525c51-c2aa-44b4-adaa-9fb869c1ae23,Edge Brewing Company,brewpub,525 N Steelhead Way,,,Boise,Idaho,83704-8374,United States,2089952979,http://www.edgebrew.com,-116.290953,43.609539
 c0b2740e-e4e0-41ca-9a4e-c72785a07767,Edge Brewing Company - Pub on 10th,brewpub,205 N 10th St,,,Boise,Idaho,83702-5773,United States,2089725900,http://www.edgebrew.com,-116.206021,43.623807
+9d586ebc-a161-479b-9e15-fff276bd98db,Gerald Turner Brewery,taproom,527 E 2nd St,,,Emmett,Idaho,83617,United States,2084124973,,-116.492959,43.873373
 34038638-e24e-425e-b7b3-fcaeaa4e088d,Grand Teton Brewing Co,micro,430 Old Jackson Hwy,,,Victor,Idaho,83455-5500,United States,8888991656,http://grandtetonbrewing.com,-111.10507,43.593522
+548578b3-d874-44d6-9ff4-8732a0b737f1,Groundwork Brewing,taproom,1225 Snake River Ave,,,Lewiston,Idaho,83501,United States,2084137322,http://www.groundworkbrewing.com,-117.032911,46.407863
+085afb22-c598-4abe-8edf-468e523ca646,Guns & Oil,beer brand,111 W 33rd St,,,Boise,Idaho,83714,United States,,,-116.238922,43.621096
 45dcecc1-7ec4-4bbe-86f7-35b57396fa36,Guns & Oil Brewery,micro,111 W 33rd St,,,Boise,Idaho,83714,United States,,http://www.gunsandoil.com,-116.2389395,43.62136196
+9d566b7f-192d-456b-81b2-7599b8e53edc,Hardware Brewing Co.,brewpub,701 E Main St,,,Kendrick,Idaho,83537,United States,2082895000,http://www.hardwarebrewingco.com,-116.649499,46.613662
 04f047c3-12d2-414e-a2f0-bcc7d600126a,Heaven's Gate Brewery,micro,106 S Main St,,,Riggins,Idaho,83549,United States,2086282745,,-116.314621,45.422235
-c8e5114a-be02-474f-9699-1588ed503c80,Highlands Hollow Brewhouse,brewpub,2455 N Highlands Holw,,,Boise,Idaho,83702-0962,United States,2083436820,http://www.highlandshollow.com,-116.208703,43.643125
-a9913878-49ec-44c4-83cd-13fdaf56c17b,Hunga Dunga Brewing,brewpub,333 N Jackson St,,,Moscow,Idaho,83843-2065,United States,2085964855,http://www.hungadungabrewing.com,-117.0027808,46.7344955
-27d4f742-12fa-46d0-b27f-a42af72e1180,Idaho Brewing Co,micro,775 S Capital Ave,,,Idaho Falls,Idaho,83402-3965,United States,2085897233,http://www.idahobrewing.com,-112.0459845,43.48724009
+e826db49-6f76-465a-9ed4-6fbb532895f1,High Society Brewing,taproom,9551 N US-95,,,Hayden,Idaho,83835,United States,2087190334,http://https://highsocietybrewery.com/,-116.791774,47.758508
+c8e5114a-be02-474f-9699-1588ed503c80,Highlands Hollow Brewhouse,brewpub,2455 N Highlands Holw,,,Boise,Idaho,83702-0962,United States,2083436820,http://www.highlandshollow.com,-116.2067,43.644
+a9913878-49ec-44c4-83cd-13fdaf56c17b,Hunga Dunga Brewing,brewpub,333 N Jackson St,,,Moscow,Idaho,83843-2065,United States,2085964855,,-117.003015,46.736396
+27d4f742-12fa-46d0-b27f-a42af72e1180,Idaho Brewing Co,taproom,775 S Capital Ave,,,Idaho Falls,Idaho,83402-3965,United States,2085897233,http://www.idahobrewing.com,-112.045676,43.485384
+9cfb4677-c51d-4f38-99d3-ae41c74237f6,Idawild Brewing Company,taproom,5270 W Chinden Blvd,,,Boise,Idaho,83714,United States,,,-116.272149,43.645284
 eb3620f7-5167-45bb-b2ba-47b0d2733e94,Jim Dandy Brewing,micro,305 E Lander St,,,Pocatello,Idaho,83201,United States,2082400470,http://www.jimdandybrewing.com,-112.4482702,42.8663043
-6a675ef6-c877-4ea5-b001-d9b10422d24a,Kootenai River Brewing Co,brewpub,6424 Riverside Street,,,Bonners Ferry,Idaho,83805-1901,United States,2082674677,http://kootbrew.com,-116.3105154,48.6965721
-e4c8261f-0f96-4951-81a6-667166ce4586,Laughing Dog Brewing,micro,805 Schweitzer Plaza Dr,,,Ponderay,Idaho,83852-9823,United States,2082639222,http://www.laughingdogbrewing.com,-116.5464216,48.3050088
+0973e37c-1186-417c-8758-e91f7f02950c,Kassiani Restaurant,brewpub,1229 Overland Ave,,,Burley,Idaho,83318,United States,2083128292,http://www.kassianirestaurant.com,-113.792832,42.537457
+6a675ef6-c877-4ea5-b001-d9b10422d24a,Kootenai River Brewing Co,brewpub,6424 Riverside Street,,,Bonners Ferry,Idaho,83805-1901,United States,2082674677,http://kootbrew.com,-116.313028,48.697573
+29dfdd83-5aad-4abe-9db6-7dfe308dfd6b,Koto Brewing,brewpub,156 Main Ave N,,,Twin Falls,Idaho,83301,United States,2089332570,http://www.koto.beer,-114.470746,42.55676
+e4c8261f-0f96-4951-81a6-667166ce4586,Laughing Dog Brewing,micro,805 Schweitzer Plaza Dr,,,Ponderay,Idaho,83852-9823,United States,2082639222,http://www.laughingdogbrewing.com,-116.541732,48.304603
+1c9ff948-3c65-4d9a-b7c6-546688831d5a,Lone Mountain Farms,micro,25415 N RAMSEY RD,,,ATHOL,Idaho,83801,United States,2082440645,http://www.lonemountainfarms.com,-116.808623,47.908719
 a2001859-1c36-41d8-b849-c9c0878d11a8,Loose Screw Beer Co.,micro,1511 W McMillan Rd,,,Meridian,Idaho,83646-5172,United States,2086173078,https://www.loosescrew.beer,-116.4125959,43.6479858
+2723fd2c-aad3-42bd-8aad-5b30eb48f1ae,Loose Screw Beer Co.,taproom,1511 W McMillan Rd Suite 100,,,Meridian,Idaho,83646,United States,2088719755,http://www.loosescrew.beer,-116.412591,43.648017
 68e53fe7-b140-4e33-94fe-11adb6996e75,Lost Grove Brewing,micro,1026 S La Pointe St,,,Boise,Idaho,83706-2827,United States,2082862258,http://www.lostgrovebrewing.com,-116.2128426,43.608212
-9b7ca1bf-2632-4cd5-ae78-e72d9ce082a5,Mad Bomber Brewing Company,micro,9265 N Government Way,,,Hayden,Idaho,83835-8278,United States,2087627343,http://www.madbomberbrewing.com,-116.7867267,47.75597167
+9b7ca1bf-2632-4cd5-ae78-e72d9ce082a5,Mad Bomber Brewing Company,taproom,9265 N Government Way,,,Hayden,Idaho,83835-8278,United States,2087627343,http://www.madbomberbrewing.com,-116.787234,47.755996
 6ce79fd9-1b5c-4543-94ff-cfc8d9863149,Mad Swede Brewing,micro,2772 S Cole Rd Ste 140,,,Boise,Idaho,83709-8028,United States,2089226883,http://www.madswedebrewing.com,-116.273944,43.57693444
-a2fb1f14-334a-4195-b2a5-9c816c5196af,Magic Valley Brewing,brewpub,208 Broadway Ave N,,,Buhl,Idaho,83316-1625,United States,2085952679,https://magicvalleybrewing.com,-114.7610528,42.60009514
+67e4ba48-fac4-4ac7-b008-f644b9dade1c,Mad Swede Brewing Co.,taproom,2772 S Cole Rd,,,Boise,Idaho,83709-8028,United States,2089226883,http://www.madswedebrewing.com,-116.273294,43.577735
+a2fb1f14-334a-4195-b2a5-9c816c5196af,Magic Valley Brewing,brewpub,208 Broadway Ave N,,,Buhl,Idaho,83316-1625,United States,2084206021,,-114.761135,42.600421
 452434ec-1c9b-4167-a29c-ccb99ea7df05,Matchstick Brewing Company,closed,,,,Coeur D Alene,Idaho,83815,United States,,http://www.matchstickbrewing.com,,
-08bbf721-d074-4271-9878-b52d03e284df,Matchwood Brewing Company,brewpub,513 Oak St,,,Sandpoint,Idaho,83864-3201,United States,2087182739,http://www.matchwoodbrewing.com,-116.554588,48.277777
-f46a3893-14c5-4830-ac6b-63510cc8429d,McCall Brewing Co,brewpub,807 N 3rd St,,,McCall,Idaho,83638-3806,United States,2086343309,http://www.mccallbrew.com,-116.097991,44.904411
+08bbf721-d074-4271-9878-b52d03e284df,Matchwood Brewing Company,taproom,513 Oak St,,,Sandpoint,Idaho,83864,United States,2087182739,http://www.matchwoodbrewing.com,-116.554406,48.27493
+f46a3893-14c5-4830-ac6b-63510cc8429d,McCall Brewing Co,micro,807 N 3rd St,,,McCall,Idaho,83638-3806,United States,2086343309,http://www.Mccallbrew.com,-116.096993,44.908838
 c35a6630-0112-4f4f-b853-696bad041990,MickDuff's Brewing Co,micro,312 N First Ave,,,Sandpoint,Idaho,83864-1404,United States,2082554351,http://www.mickduffs.com,-116.54764,48.27597
-ce619d9e-3e13-4280-b215-8792edb06fa1,Moscow Brewing Company,micro,630 N Almon St Ste 130,,,Moscow,Idaho,83843-9701,United States,2085964058,https://moscowbrewing.com/index.html,-117.003869,46.740638
+8fde9060-1c1c-4d16-9af2-30f4e3aa1c30,MickDuff's Brewing Co,micro,220 Cedar St,,,Sandpoint,Idaho,83864-1411,United States,2082096700,http://www.mickduffs.com,-116.54991,48.276238
+345f1224-24b7-4fd7-8141-82978a0d040d,MickDuff's Brewpub,taproom,419 N 2nd Ave,,,Sandpoint,Idaho,83864,United States,2082554351,,-116.549182,48.276857
+d3a8940d-a0fe-4db4-b995-d8c0ad7f2f83,Milner's Gate,brewpub,205 Shoshone St E,,,Twin Falls,Idaho,83301,United States,2082938250,http://www.milnersgate.com,-114.469159,42.556903
+ce619d9e-3e13-4280-b215-8792edb06fa1,Moscow Brewing Company,brewpub,630 N Almon St Ste 130,,,Moscow,Idaho,83843-9701,United States,2085964058,http://www.facebook.com/moscowbrewingcompany,-117.003799,46.739827
 0cdddcb2-972d-4dc2-a268-d752d4638e6c,Mother Earth Brew Co,micro,1428 Madison Ave,,,Nampa,Idaho,83687-3038,United States,7602953074,https://www.motherearthbrewco.com/nampa,-116.56303,43.597987
-b03278e4-ab18-489a-abdb-2dd1e3a8e487,North Idaho Mountain Brew / City Limits Pub,brewpub,108 Nine Mile Rd,,,Wallace,Idaho,83873-5021,United States,2085561885,https://northidahomountainbrew.com,-115.922925,47.475441
-c3bd276d-0168-4060-9055-e997af4ab18a,Paragon Brewing,proprietor,5785 N Government Way,,,Coeur D Alene,Idaho,83815-7329,United States,2087729292,http://www.paragonbrewing.com,-116.787369,47.725118
-061be81d-5cc0-44e9-b474-ad1b046ff25b,Payette Brewing Co,micro,733 S Pioneer St,,,Boise,Idaho,83702-5219,United States,2083440011,http://www.payettebrewing.com,-116.2145033,43.61301363
-52a372b0-a5a6-4dac-8c4d-eaa8fe630819,Portneuf Valley Brewing Co,brewpub,615 S 1st Ave,,,Pocatello,Idaho,83201-6557,United States,2082321644,http://www.portneufvalleybrewing.com,-112.4431819,42.85998871
-0577bc6d-2115-4da6-a151-bf67b4e937e0,Post Falls Brewing,micro,112 N Spokane St,,,Post Falls,Idaho,83854-9537,United States,2087737301,http://postfallsbrewing.com,-116.9479708,47.7062358
-01cf04ff-5582-4664-baf2-83f3f3ddd932,Powderhaus Brewing,micro,9719 W Chinden Blvd,,,Garden City,Idaho,83714-2008,United States,2083764026,http://www.powderhausbrewing.com,-116.302435,43.657494
-7281326b-9a0e-413c-86b4-36ebf5034e3a,Priest Lake Brewing,micro,28392 ID-57,,,Priest Lake,Idaho,83856-9701,United States,2084430900,https://priestlakebrewing.wordpress.com/,-116.935511,48.5218798
-d9ca812a-80a6-4665-a243-3552f3b0563b,Radio Brewing Company,brewpub,319 Main St,,,Kellogg,Idaho,83837,United States,2087866633,http://www.radiobrewingcompany.com,-116.1225116,47.53391643
-7a59af26-0bfc-451f-8606-40e2653944bd,RAM Restaurant and Brewery - Boise,brewpub,709 E Park Blvd,,,Boise,Idaho,83712-7715,United States,2083452929,http://www.theram.com,,
-d8a3c95b-24ae-4c7b-bb11-511ef1814c38,Rants And Raves Brewery,brewpub,308 N Jackson St,,,Moscow,Idaho,83843-2065,United States,2085964061,https://www.rantsravesbrewery.com,-117.0027808,46.7344955
-aede08a5-8286-46f7-b426-90a21ba259cb,River Bend Brewing,closed,113 River Bend Rd,,,Hailey,Idaho,83333-,United States,2087888087,,,
+8edffb35-1d8c-48ac-9e95-07440a7794ed,Mother Earth Brew Co,taproom,406 S 3rd St,,,Boise,Idaho,83702,United States,7605428868,,-116.199648,43.609979
+8b2aed04-6661-4dd3-b737-f43fa6987626,Mother Earth Brew Co LLC,regional,1428 Madison Ave Bldg 21K,,,Nampa,Idaho,83687-3038,United States,7605994225,,-116.56114,43.59705
+b03278e4-ab18-489a-abdb-2dd1e3a8e487,North Idaho Mountain Brew / City Limits Pub,brewpub,108 Nine Mile Rd,,,Wallace,Idaho,83873-5021,United States,2085561120,,-115.923243,47.474471
+52138f9b-c5e7-40f4-bfa8-d65e8353d2f8,Off The Rails Brewing,brewpub,228 S Main St,,,Pocatello,Idaho,83204,United States,2089040212,http://www.offtherailsbrewery.com,-112.44905,42.861192
+8aeb28cf-8769-4b44-8325-2aaaf3981299,Outpost Brewing,taproom,1710 N 4th St,,,Coeur D Alene,Idaho,83814,United States,2089301066,http://www.outpostcda.com,-116.77999,47.691658
+c3bd276d-0168-4060-9055-e997af4ab18a,Paragon Brewing,alt prop,5785 N Government Way,,,Coeur D Alene,Idaho,83815-7329,United States,2087729292,http://www.paragonbrewing.com,-116.787444,47.724175
+2c634697-4d53-46db-a21a-c85ecbff6edc,Parma Ridge Brewing At Parma Ridge Vineyards,brewpub,24509 Rudd Rd,,,Parma,Idaho,83660,United States,2089465187,http://www.parmaridge.wine,-116.907679,43.72812
+061be81d-5cc0-44e9-b474-ad1b046ff25b,Payette Brewing Co,micro,733 S Pioneer St,,,Boise,Idaho,83702-5219,United States,2083440011,http://www.payettebrewing.com,-116.215339,43.613331
+52a372b0-a5a6-4dac-8c4d-eaa8fe630819,Portneuf Valley Brewing Co,brewpub,615 S 1st Ave,,,Pocatello,Idaho,83201-6557,United States,2082321644,http://www.portneufvalleybrewing.com,-112.443282,42.859821
+0577bc6d-2115-4da6-a151-bf67b4e937e0,Post Falls Brewing,taproom,112 N Spokane St,,,Post Falls,Idaho,83854-9537,United States,2087737301,http://postfallsbrewing.com,-116.947746,47.706349
+01cf04ff-5582-4664-baf2-83f3f3ddd932,Powderhaus Brewing,micro,9719 W Chinden Blvd,,,Garden City,Idaho,83714-2008,United States,2083764026,http://www.powderhausbrewing.com,-116.302394,43.656566
+7281326b-9a0e-413c-86b4-36ebf5034e3a,Priest Lake Brewing,taproom,28392 ID 57,,,Priest Lake,Idaho,83856,United States,2084430900,,-116.935859,48.521752
+d9ca812a-80a6-4665-a243-3552f3b0563b,Radio Brewing Company,brewpub,319  Main St,,,Kellogg,Idaho,83837,United States,2087866633,http://www.radiobrewingcompany.com,-116.24005,47.540759
+7a59af26-0bfc-451f-8606-40e2653944bd,RAM Restaurant and Brewery - Boise,brewpub,709 E Park Blvd,,,Boise,Idaho,83712-7715,United States,2083452929,http://www.theram.com,-116.191526,43.603738
+d8a3c95b-24ae-4c7b-bb11-511ef1814c38,Rants And Raves Brewery,brewpub,308 N Jackson St,,,Moscow,Idaho,83843-2065,United States,2085964061,http://rrbrew.pub,-117.002616,46.736363
+aede08a5-8286-46f7-b426-90a21ba259cb,River Bend Brewing,micro,113 River Bend Rd,,,Hailey,Idaho,83333,United States,2087888087,,-114.346217,43.594032
 faf0e458-0f8c-4ad0-990a-e803c574a1e2,River of No Return Brewing Co,closed,810 S Hwy 93,,,Challis,Idaho,83226,United States,2088797667,,-114.224139,44.50008
 0534dcda-ed55-4104-915b-e95e7ec5a7a5,Salmon River Brewery,brewpub,411 Railroad Ave,,,McCall,Idaho,83638-4132,United States,2086344772,http://www.salmonriverbrewery.com,-116.097682,44.911663
-32f0c8a3-8dcd-42d1-b442-0bb9daa32b1e,Sawtooth Brewery,brewpub,110 N River St,,,Hailey,Idaho,83333-7027,United States,2087883213,http://www.sawtoothbrewery.com,-114.319764,43.522311
+32f0c8a3-8dcd-42d1-b442-0bb9daa32b1e,Sawtooth Brewery,micro,110 N RIVER ST,,,Hailey,Idaho,83333-7027,United States,2087208437,http://www.sawtoothbrewery.com,-114.316506,43.519668
 b4425c01-a64b-4017-a203-36c1b55e9875,Sawtooth Brewery - Ketchum Public House,brewpub,631 Warm Springs Rd,,,Ketchum,Idaho,83340,United States,2087266803,https://www.sawtoothbrewery.com,-114.366822,43.683736
-8555bc10-4f2e-4da7-b952-9adb87dae316,Selkirk Abbey Brewing,micro,6180 E Seltice Way Ste 102,,,Post Falls,Idaho,83854-5052,United States,2082924901,http://www.selkirkabbey.com,-116.8684085,47.70484371
-0c676482-5235-4212-b9fd-2fb977e56487,Shattuck Brewery,micro,52106 Hwy 8,,,Elk River,Idaho,83827,United States,,http://www.shattuckbrewery.com,-116.191962,46.778848
-a346740b-449c-486b-84b9-c6bcc88d423f,Snow Eagle Brewing,brewpub,455 River Pkwy,,,Idaho Falls,Idaho,83402-3314,United States,2085570455,http://www.snoweaglebrewing.com,-112.0452184,43.4950536
-b7d4cb54-84c9-417d-a512-d15825e4b10e,Sockeye Brewing Co,micro,12542 W Fairview Ave,,,Boise,Idaho,83716-0026,United States,2083225200,http://www.sockyebrew.com,-116.252364,43.619049
-e088534c-396b-4a55-b7d7-0c51ab0ce03a,Sun Valley Brewing Co,brewpub,202 N Main St,,,Hailey,Idaho,83333-8413,United States,2087885777,,-114.316365,43.5210689
-e2e84e69-b8cd-486a-9a65-6a9d0ec3243b,Trickster's Brewing Company,micro,3850 N Schreiber Way,,,Coeur D Alene,Idaho,83815-8362,United States,9707647128,http://www.trickstersbrewing.com,-116.80346,47.712429
+8555bc10-4f2e-4da7-b952-9adb87dae316,Selkirk Abbey Brewing,micro,6180 E Seltice Way Ste 102,,,Post Falls,Idaho,83854-5052,United States,2082924901,http://www.selkirkabbey.com,-116.866192,47.704484
+0c676482-5235-4212-b9fd-2fb977e56487,"Shattuck Brewery, LLC",micro,52106 Hwy 8,,,Elk River,Idaho,83827,United States,,http://www.shattuckbrewery.com,-116.191467,46.778125
+a346740b-449c-486b-84b9-c6bcc88d423f,Snow Eagle Brewing,brewpub,455 River Pkwy,,,Idaho Falls,Idaho,83402-3314,United States,2085570455,http://www.snoweaglebrewing.com,-112.045003,43.495852
+b7d4cb54-84c9-417d-a512-d15825e4b10e,Sockeye Brewing,micro,12542 W Fairview Ave,,,Boise,Idaho,83713,United States,2083226886,http://www.sockeyebrew.com,-116.338552,43.620652
+a4082327-c12b-4705-86fe-5a144f0ec581,Spring Creek Brewing Company,brewpub,18651 N Streams Edge Way,,,Boise,Idaho,83714-8896,United States,2089227455,http://www.springcreekbrewing.com,-116.263973,43.773679
+f3657a96-7c88-41bd-8502-825a43029850,Star Route Brewery,taproom,218 N. Main St.,,,Pocatello,Idaho,83204,United States,2084067089,http://www.starroutebrewery.com,-112.451445,42.863267
+e088534c-396b-4a55-b7d7-0c51ab0ce03a,Sun Valley Brewing Co,brewpub,202 N Main St,,,Hailey,Idaho,83333-8413,United States,2087885777,,-114.315948,43.521002
+c59f4dc3-4d6c-4091-8a8f-6f7d7c381649,Teton Thai Brewing,brewpub,18 N Main St,,,Driggs,Idaho,83422,United States,2087878424,http://www.tetonthai.com,-111.111469,43.723419
+d916137d-9aff-4f29-9c36-b641fdbfedb8,Three Mile,brewpub,123 W Main St,,,Grangeville,Idaho,83530,United States,,http://www.threemilebrewpub.square.site,-116.12041,45.925975
+22e5bd9f-9daf-4674-9dc9-a0fbeb2d33b1,Timber Town Beer Company,brewpub,50 Main St,,,Priest River,Idaho,83856,United States,2084480202,http://www.timbertownbeer.com,-116.907838,48.179969
+3e6313dd-0a89-4637-8b01-e2fa2bef03bc,Trails End Brewery,taproom,356 W Bosanko Ave,,,Coeur d Alene,Idaho,83815,United States,2088182151,http://www.TrailsEndBrewery.com,-116.790751,47.711526
+e2e84e69-b8cd-486a-9a65-6a9d0ec3243b,Trickster's Brewing Company,micro,3850 N Schreiber Way,,,Coeur D Alene,Idaho,83815-8362,United States,9707647128,http://www.trickstersbrewing.com,-116.803424,47.711812
+1e51d91c-2e68-46e5-9652-d647404a4bef,Utara Brewing Company,brewpub,214 Pine Street,,,Sandpoint,Idaho,83864,United States,2086275070,http://www.utaraidaho.com,-116.549424,48.273252
+6cda0690-84d4-4ad6-925c-7ac9d4d56a41,Vantage Point Brewing Company,brewpub,208 E Coeur d'Alene Lake Drive,,,Coeur d'Alene,Idaho,83814,United States,2084492186,http://www.vantagepointbrewing.com,-116.752913,47.672322
 bc0330df-68a5-497a-9a11-9ebb97352733,Von Scheidt Brewing Co,closed,157 2nd Ave W,,,Twin Falls,Idaho,83301-6015,United States,2083299608,http://www.vonscheidtbrewing.com,-114.471756,42.55561943
-58d8f296-48fb-4385-bdfe-88ecc9d2684f,Wallace Brewing Co,micro,610 Bank St,,,Wallace,Idaho,83873-2227,United States,2085565600,http://www.wallacebrewing.com,-115.9227103,47.47153133
+58d8f296-48fb-4385-bdfe-88ecc9d2684f,Wallace Brewing Co,taproom,610 Bank St,,,Wallace,Idaho,83873-2227,United States,2086603430,http://www.wallacebrewing.com,-115.9236,47.471447
 c4631ee5-2531-4cce-881f-9232c75002fa,Warfield Distillery and Brewery,brewpub,280 N. Main St.,,,Ketchum,Idaho,83340-2759,United States,2087262739,http://www.warfielddistillery.com,-114.36394,43.681482
-b4835825-07a9-4210-b648-e796a460a11d,White Dog Brewing Boise,micro,705 W Fulton St,,,Boise,Idaho,83702,United States,2089060609,http://www.whitedogbrewing.com,-116.2062186,43.61122761
-9169dd36-0e3b-4336-93dc-886850fd4bbc,Wildlife Brewing,brewpub,145 S. Main St.,,,Victor,Idaho,83455-0869,United States,2087872623,http://wildlifebrewing.com,-111.1112683,43.60200785
+e2dbbd85-0d47-4f44-84ab-3473c7a05081,Westwood Brewing,brewpub,8162 Main St,,,Rathdrum,Idaho,83858,United States,2087123423,http://www.westwoodbrewing.com,-116.897145,47.810695
+b4835825-07a9-4210-b648-e796a460a11d,White Dog Brewing Boise,taproom,705 W Fulton St,,,Boise,Idaho,83702,United States,2089060609,http://www.whitedogbrewing.com,-116.206538,43.611206
+9169dd36-0e3b-4336-93dc-886850fd4bbc,Wildlife Brewing,brewpub,145 S. Main St.,,,Victor,Idaho,83455-0869,United States,2087872623,,-111.111904,43.599758
 000f8870-232f-499b-9841-ee5c2b95fc1d,Wolftrack Brewing Company,micro,505 King St,,,Cottonwood,Idaho,83522-5066,United States,2085071187,https://www.facebook.com/Wolftrack-Brewing-and-Tasting-Den-467890926648903,-116.3497034,46.04894954
-5c63fefc-72aa-4fe0-8bc2-0bf89c54ab04,Woodland Empire Ale Craft,micro,1114 W Front St,,,Boise,Idaho,83702-6951,United States,2086029318,http://www.woodlandempire.com,-116.2086811,43.616091
+5c63fefc-72aa-4fe0-8bc2-0bf89c54ab04,Woodland Empire Ale Craft,micro,1114 W Front St,,,Boise,Idaho,83702-6951,United States,2086029318,http://www.woodlandempire.com,-116.208963,43.616473

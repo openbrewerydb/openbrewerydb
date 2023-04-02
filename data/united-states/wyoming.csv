@@ -1,33 +1,57 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 829f7243-78f3-4282-b0e8-1a5fcb10a229,Accomplice Beer Company,brewpub,115 W 15th St,,,Cheyenne,Wyoming,82001-4564,United States,3076322337,http://www.accomplicebeer.com,-104.819296,41.130063
-b71c080f-8514-4100-bbb3-40d2582b8122,Altitude Chophouse and Brewery,brewpub,320 S 2nd St,,,Laramie,Wyoming,82070-3612,United States,3077214031,http://www.altitudechophouse.com,-105.5953366,41.31038565
+b88f9f94-1ca9-4d83-9fba-7c128cf038df,Accomplice Beer Company,brewpub,115 West 15th St,,,Cheyenne,Wyoming,82001,United States,3076322337,http://www.accomplicebeer.com,-104.814312,41.131833
+b71c080f-8514-4100-bbb3-40d2582b8122,Altitude Chophouse & Brewery,brewpub,320 S 2nd St,,,Laramie,Wyoming,82070-3612,United States,3077214031,http://www.altitudechophouse.com,-105.594753,41.310832
+71aac059-c2fe-4d33-8970-60bc4bdfb50f,Bad Joker Brewing Company,taproom,830 power house rd,,,Rock Springs,Wyoming,82901,United States,3073710348,,-109.206731,41.598553
+f0e0a968-1a49-482a-96cc-975f5729ad58,Badass Brews,taproom,98 North 1st East Street,,,Green River,Wyoming,82935,United States,,,-109.466443,41.528196
 36215801-9e64-49fa-9ad8-b80649d7de07,Big Lost Meadery and Brewery,micro,106 S Gillette Ave,,,Gillette,Wyoming,82716,United States,3076603199,http://www.biglostmeadery.com,-105.5046114,44.2866583
-bfdbcc50-5bfa-443b-a2fa-586f433a28e0,Bitter Creek Brewing Co,brewpub,604 Broadway St,,,Rock Springs,Wyoming,82901-6348,United States,3073624782,http://www.bittercreekbrewing.com,-109.2181243,41.58683904
-1a5f4915-b1cf-4b45-a91c-cc1235f50e9f,Black Tooth Brewing Co,micro,312 Broadway St,,,Sheridan,Wyoming,82801-3917,United States,3076752337,http://www.blacktoothbrewingcompany.com,-106.953506,44.80089512
-8f9a9b92-eedd-4ca0-9fd6-01299cb0c74e,Coal Creek TAP,micro,108 E Grand Ave,,,Laramie,Wyoming,82070-3638,United States,3074609556,http://www.coalcreektap.com,-105.5952184,41.31105578
-516bd83f-0eea-42c2-9ba7-30f987fabd39,Cowboy State Brewing,micro,316 S Birch St,,,Glenrock,Wyoming,82637,United States,3077971224,,,
+cd35468d-bb7b-4bcf-a728-b83f66182bbf,Big Lost Meadery and Brewery,taproom,105 Warren Avenue,,,Gillette,Wyoming,82716,United States,3076603199,http://www.biglostmeadery.com,-105.505319,44.294057
+bfdbcc50-5bfa-443b-a2fa-586f433a28e0,Bitter Creek Brewing Co,brewpub,604 Broadway St,,,Rock Springs,Wyoming,82901-6348,United States,3073624782,http://www.bittercreekbrewing.com,-109.217825,41.58673
+1a5f4915-b1cf-4b45-a91c-cc1235f50e9f,Black Tooth Brewing Co,micro,312 Broadway St,,,Sheridan,Wyoming,82801-3917,United States,3076752337,http://www.blacktoothbrewingcompany.com,-106.953605,44.800901
+31ece37b-3253-4365-b7f6-b8dff35bc7d1,Black Tooth Brewing Co,taproom,322 South David St,,,Casper,Wyoming,82601,United States,3075775460,http://www.blacktoothbrewingcompany.com,-106.32699,42.847279
+3eacfe3f-0997-4b25-a790-0d4596674b3c,Black Tooth Brewing Co,taproom,520 W 19th St,,,Cheyenne,Wyoming,82001,United States,3075140362,,-104.820995,41.134057
+426c706d-e064-4303-a579-02ace65d7e6a,Blue Raven Brewing,taproom,209 E 18th St,,,Cheyenne,Wyoming,82001,United States,,http://www.blueravenbrewery.com,-104.813596,41.135249
+77ed3163-5386-42e1-839c-25643acf512f,Bond's Brewing Company,taproom,411 S. 2nd Street,,,Laramie,Wyoming,82070,United States,,http://bondsbrewing.com,-105.594668,41.309631
+8f9a9b92-eedd-4ca0-9fd6-01299cb0c74e,Coal Creek TAP,brewpub,108 E Grand Ave,,,Laramie,Wyoming,82070-3638,United States,3074609556,http://www.coalcreektap.com,-105.59591,41.311045
+516bd83f-0eea-42c2-9ba7-30f987fabd39,Cowboy State Brewing,micro,316 S Birch St,,,Glenrock,Wyoming,82637-0820,United States,3075540982,,-105.871724,42.861645
 5d604aea-8602-4e77-98a3-f7d7c7650575,Danielmark's Brewing Company,micro,209 E 18th St,,,Cheyenne,Wyoming,82001-4507,United States,4024508044,http://www.danielmarksbrewing.com,-104.8139377,41.13534815
 bf9882b7-4f26-4f9f-afd5-6d18c5f11ef7,Freedom's Edge Brewing,micro,1509 Pioneer Ave,,,Cheyenne,Wyoming,82001,United States,3075145314,http://www.freedomsedgebrewing.com,-104.8169561,41.13122969
+6f194a5b-51db-421f-a96c-7f870224d259,Freedom's Edge Brewing Company,taproom,1509 Pioneer Av,,,Cheyenne,Wyoming,82001,United States,3075145314,http://www.freedomsedgebrewing.com,-104.817089,41.131518
+8db70015-cf26-4029-8f4c-89ec404bd8aa,Frontier Brewing Company and Taproom,taproom,150 W 2nd St,,,Casper,Wyoming,82601,United States,3073371000,http://www.frontierbrewingcompany.com,-106.326244,42.848959
 1b089764-3735-43f2-98a8-547b88e4a487,Gillette Brewing Company,brewpub,301 S Gillette Ave,,,Gillette,Wyoming,82716-3705,United States,3076708948,http://www.gillettebrewingcompany.com,-105.5036145,44.29203825
 413d4838-10b7-466a-b755-d8377a8945f4,Gruner Brothers Brewing,planning,,,,Casper,Wyoming,82601-1335,United States,3073335110,http://www.grunerbrewing.com,,
 023d4223-5217-4834-a4c6-8469b395a900,HeadStrong Brewery,micro,126 N 3rd St,,,Douglas,Wyoming,82633-2163,United States,3073514061,http://www.headstrongbrewery.com,-105.3842083,42.76025521
-7bd1ef5b-ae67-445a-a4ea-72700db24150,Lander Brewing Co,brewpub,148 Main St,,,Lander,Wyoming,82520-3126,United States,3073328227,http://www.landerbrewing.com,-108.739316,42.8348632
-b3c0e2b4-df8b-4332-9d45-b3df42c1de40,Library Sports Grill and Brewery,brewpub,201 E Custer St,,,Laramie,Wyoming,82070-3633,United States,3077420500,http://laramie.librarysportsgrille.com,-105.5947118,41.3093843
-58d2915a-9712-4619-a54b-0dec8d6e64e3,Luminous Brewhouse,micro,504 Broadway St,,,Sheridan,Wyoming,82801-3619,United States,,http://www.luminousbrewhouse.com,-106.953486,44.80297173
+7bd1ef5b-ae67-445a-a4ea-72700db24150,Lander Brewing Co,brewpub,148 Main St,,,Lander,Wyoming,82520-3126,United States,3073328227,http://www.landerbrewing.com,-108.727996,42.83281
+b3c0e2b4-df8b-4332-9d45-b3df42c1de40,Library Sports Grille and Brewery,brewpub,201 E Custer St,,,Laramie,Wyoming,82070-3633,United States,3077420500,http://laramie.librarysportsgrille.com,-105.594697,41.309368
+58d2915a-9712-4619-a54b-0dec8d6e64e3,Luminous Brewhouse,taproom,504 Broadway St,,,Sheridan,Wyoming,82801-3619,United States,3077516069,http://www.luminousbrewhouse.com,-106.953736,44.803022
 458bd9fd-c86a-49ec-b0c3-bf0a3370e85b,Melvin Brewing,regional,624 County Road 101,,,Alpine,Wyoming,83128-0314,United States,3076540426,http://www.melvinbrewing.com,,
-6f582cf6-b505-4ae4-9e2a-b5b7f1e72d71,Melvin Brewing Co,micro,75 E Pearl Ave,,,Jackson,Wyoming,83001-8658,United States,3077330005,,-110.7618578,43.47859778
+6f582cf6-b505-4ae4-9e2a-b5b7f1e72d71,Melvin Brewing Co (Thai Me Up),micro,75 E Pearl Ave,,,Jackson,Wyoming,83001-8658,United States,3077330005,,-110.761122,43.478793
+0267ffdd-7226-4b7d-b43d-8a924440dd73,Millstone Pizza and Brewery,brewpub,1057 Sheridan Ave,,,Cody,Wyoming,82414-3529,United States,13075864131,,-109.066663,44.526182
 0f66c4e9-7284-4ffa-ad98-7d20ad393412,Mishap! Brewing Company,micro,48 S Main St,,,Buffalo,Wyoming,82834-1823,United States,3076205688,http://www.mishapbrewing.com,-106.6985012,44.34570009
-6fd50d10-b732-4eb1-9f20-3cd45ff45d21,One Eyed Buffalo Brewing Company LLC,brewpub,528 Broadway St,,,Thermopolis,Wyoming,82443-2718,United States,3078643555,,-108.2107883,43.64609158
-a7d5823a-039b-49d2-9747-ae947815a394,Pat O'Hara Brewing Company,brewpub,1019 15th St,,,Cody,Wyoming,82414-3721,United States,3075865410,,-109.058375,44.52678265
-cb835f7c-7f61-4e0e-a4ab-913fd06d78ea,Roadhouse Brewing Company,micro,1225 Gregory Ln,,,Jackson,Wyoming,83001-9433,United States,3072641900,http://www.roadhousebrewery.com,-110.7963199,43.46346041
+ff8135c4-d06a-42e1-9040-016227c4eea4,Mountain Hops Brewhouse,taproom,612 North Beverly Street,,,Casper,Wyoming,82609,United States,3073371052,,-106.297926,42.856072
+d2ace845-ef0c-4b80-851d-fbd48353b81e,Oil City Beer Company,taproom,4155 Legion Lane,,,Casper,Wyoming,82609,United States,3072770951,http://www.oilcitybeer.com,-106.275324,42.851185
+6fd50d10-b732-4eb1-9f20-3cd45ff45d21,One Eyed Buffalo Brewing Company LLC,brewpub,528 Broadway St,,,Thermopolis,Wyoming,82443-2718,United States,3078643555,,-108.211257,43.646523
+7d7685f7-38a8-44e8-aceb-b9a3291cb995,Open Barrel Brewing Company,taproom,1930 Main St,,,Torrington,Wyoming,82240,United States,3074010107,http://www.openbarrelbrewing.com,-104.184761,42.06364
+a7d5823a-039b-49d2-9747-ae947815a394,Pat O'Hara Brewing Company,brewpub,1019 15th St,,,Cody,Wyoming,82414-3721,United States,3075865410,,-109.058507,44.526515
+cb835f7c-7f61-4e0e-a4ab-913fd06d78ea,Roadhouse Brewing Co.,micro,1225 Gregory Ln,,,Jackson,Wyoming,83001-9433,United States,3072641900,http://www.roadhousebrewery.com,-110.798141,43.462659
 ab5908c7-1c68-40e7-9540-815a79af730b,Roadhouse Pub and Eatery,planning,,,,Jackson Hole,Wyoming,83001-8630,United States,3077390700,http://www.roadhousebrewery.com,,
+a2aed857-553f-45b5-82b5-0b57ce5f65b1,Roadhouse Pub and Eatery,brewpub,20 E Broadway Ave,,,Jackson Hole,Wyoming,83001-8630,United States,3077390700,http://www.roadhousebrewery.com,-110.761934,43.479475
+06bd997d-0f96-40ac-afc9-755508102d0d,Sheep Mountain Brewery,micro,85 Meadow Plains Rd,,,Laramie,Wyoming,82070,United States,3076890220,,-105.984604,41.151331
 0fd5b8e5-1941-4bb6-95da-9e2ed09dd6a8,Sheridan Brewing company,planning,,,,Sheridan,Wyoming,82801,United States,,,,
+ede51b24-df11-404b-a8b7-3bf21d8e3951,Skull Tree Brewing,taproom,1530 Burlington Ave,,,Casper,Wyoming,82601,United States,3072773764,,-106.305091,42.855393
+30cf3e97-7b68-4b85-9536-a94860ef2729,Smith Alley Brewing Company,brewpub,150 N Main St,,,Sheridan,Wyoming,82801,United States,3076751934,http://www.smithalleybrewing.com,-106.956246,44.798948
 5a2b53e3-a513-4466-bdec-b3705517710f,Snake River Brewing Co,micro,265 S Millward St PO Box 3317,,,Jackson,Wyoming,83001-8582,United States,3077392337,http://www.snakeriverbrewing.com,,
+7a740f0c-2706-4e7d-aaaf-ff5c3608a4b6,Snake River Brewing Co,micro,265 S Millward St,,,Jackson,Wyoming,83001-8582,United States,3077392337,http://www.snakeriverbrewing.com,-110.765383,43.476726
 70ae45d2-2998-4e2b-a88f-519ad2bee814,Snowy Mountain Brewery,brewpub,601 E Pic Pike Rd,,,Saratoga,Wyoming,82331,United States,8005940178,,,
-c4690e60-d4f7-4878-a274-dd96e3f29952,Square State Brewing,micro,422 S Main St,,,Rock Springs,Wyoming,82901,United States,3073626159,,-109.2206404,41.58624714
+f2145f71-0e4b-4631-a219-3b886001fb22,Snowy Range Brewery,micro,3254 Hwy 130,,,Centennial,Wyoming,82055-0247,United States,3077455750,,-106.222627,41.351191
+c4690e60-d4f7-4878-a274-dd96e3f29952,Square State Brewing,taproom,422 S Main St,,,Rock Springs,Wyoming,82901,United States,3073626159,,-109.220229,41.58618
+6edab360-76e7-4728-9db8-8076b1d089ed,Stahoo's Brewery and Taproom,taproom,1015 E C St,,,Casper,Wyoming,82601,United States,3072470464,http://www.stahoosbrewery.com/,-106.311906,42.85346
 94a2e9ac-ed3d-406c-8686-b5faa0de915b,StillWest Brewery & Grill,planning,,,,Jackson,Wyoming,83001-8668,United States,2566948187,,,
-81dbf6d0-af4c-4848-8dc3-a2e505352f63,Suds Brothers Brewing Co,brewpub,1012 Main St,,,Evanston,Wyoming,82930-3443,United States,3074447837,http://www.sudsbrothersbrewery.com,-110.9660936,41.26798687
-cc7e5d45-012e-45b6-8360-b1db2ddf8ada,Ten Sleep Brewing Company,micro,2549 Hwy 16,,,Ten Sleep,Wyoming,82442,United States,3073662074,http://www.tensleepbrewingco.com,,
-0e22f154-5c03-4bee-9b37-657afaca8ecd,Wind River Brewing Co - WY,brewpub,402 Pine St,,,Pinedale,Wyoming,82941,United States,3073672337,http://www.windriverbrewingco.com,,
-a686b7b6-d94f-42a4-ad0e-f60db23011e7,WYOld West Brewing Company,brewpub,221 N Bent St,,,Powell,Wyoming,82435-2335,United States,3077646200,http://www.wyoldwest.com,-108.7574813,44.75451993
+984c913f-5c32-4c79-9676-09c693c219db,StillWest Brewery & Grill,brewpub,45 E Snow King Ave,,,Jackson,Wyoming,83001-8668,United States,3072015955,http://www.stillwestbreweryandgrill.com,-110.761424,43.473682
+81dbf6d0-af4c-4848-8dc3-a2e505352f63,Suds Brothers Brewery,brewpub,1012 Main St,,,Evanston,Wyoming,82930,United States,3074447837,http://www.sudsbrothersbrewery.com,-110.966148,41.268189
+cc7e5d45-012e-45b6-8360-b1db2ddf8ada,Ten Sleep Brewing Company,micro,2549 Hwy 16,,,Ten Sleep,Wyoming,82442,United States,3073662074,http://www.tensleepbrewingco.com,-107.47002,44.029223
+0e22f154-5c03-4bee-9b37-657afaca8ecd,Wind River Brewing Co - WY,brewpub,402 Pine St,,,Pinedale,Wyoming,82941,United States,3073672337,http://www.windriverbrewingco.com,-109.855891,42.866017
+c3b05e6c-3398-4a5b-a9f4-f097ec08c4d3,Windy Peaks Brewery,brewpub,715 9th St,,,Wheatland,Wyoming,82201-2915,United States,3073310939,http://www.windypeaksbrewery.com,-104.953669,42.054985
+a686b7b6-d94f-42a4-ad0e-f60db23011e7,WYOld West Brewing Company,brewpub,221 N Bent St,,,Powell,Wyoming,82435-2335,United States,3077646200,http://www.wyoldwest.com,-108.757153,44.754637
+e19b832f-70fd-4b0a-92ec-50700fc71e59,WYOld West Taproom,brewpub,1022 13th St,,,Cody,Wyoming,82414,United States,3077646200,,-109.06158,44.526704
 7d77be76-ec7f-416d-a4c0-d9db268fe2dc,Wyoming Territory Brewing / Eric Bischoff Family Brewing,contract,,,,Cody,Wyoming,82414,United States,,http://www.buffalobillcodybeer.com,,
