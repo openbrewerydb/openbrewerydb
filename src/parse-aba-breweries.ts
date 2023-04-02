@@ -97,7 +97,9 @@ const formattedBreweries: Brewery[] = craftBreweries.map((brewery) => {
     postal_code: brewery.BillingAddress.postalCode,
     country: brewery.BillingAddress.country,
     phone: brewery.Phone?.replace(/[\s()+-]/g, ""),
-    website_url: brewery.Website ? "http://" + brewery.Website : undefined,
+    website_url: brewery.Website
+      ? "http://" + brewery.Website.replace(/[\s]/g, "")
+      : undefined,
     latitude: brewery.BillingAddress.latitude,
     longitude: brewery.BillingAddress.longitude,
   };
