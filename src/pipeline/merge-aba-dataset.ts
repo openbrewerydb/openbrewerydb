@@ -118,18 +118,15 @@ breweries
   )
   .forEach((brewery) => {
     const key = slugify(
-      `${brewery.city.toLowerCase()}_${brewery.state_province.toLowerCase()}_${brewery.address_1.toLowerCase()}`,
+      `${brewery.city.toLowerCase()}_${brewery.state_province.toLowerCase()}_${brewery.address_1.toLowerCase()}_${brewery.brewery_type.toLowerCase()}`,
       slugifyOptions
     );
     breweryTable[key] = brewery;
   });
 
-console.log("breweies length", breweries.length);
-console.log("breweries table", Object.keys(breweryTable).length);
-
 formattedBreweries.forEach((formattedBrewery) => {
   const key = slugify(
-    `${formattedBrewery.city.toLowerCase()}_${formattedBrewery.state_province.toLowerCase()}_${formattedBrewery.address_1.toLowerCase()}`,
+    `${formattedBrewery.city.toLowerCase()}_${formattedBrewery.state_province.toLowerCase()}_${formattedBrewery.address_1.toLowerCase()}_${formattedBrewery.brewery_type.toLowerCase()}`,
     slugifyOptions
   );
   const brewery = breweryTable[key];

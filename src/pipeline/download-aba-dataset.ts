@@ -10,8 +10,15 @@ const filePath = directory + "/aba-breweries.json";
 // Create the tmp directory if it doesn't exist
 fs.mkdirSync(directory, { recursive: true });
 
+// Delete the contents of the file if it exists
+if (fs.existsSync(filePath)) {
+  console.log(`Truncate ${filePath}`);
+  fs.truncateSync(filePath);
+}
+
 // Download the file using https and save it to the tmp directory
 const file = fs.createWriteStream(filePath);
+console.log(`Writing to ${filePath}...`);
 https.get(fileUrl, (response) => {
   response.pipe(file);
 });
