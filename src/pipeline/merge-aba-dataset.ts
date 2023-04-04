@@ -72,16 +72,17 @@ const craftBreweries = abaBreweries.filter(
     b.Is_Craft_Brewery__c &&
     b.BillingAddress.city &&
     b.BillingAddress.state &&
-    b.BillingAddress.street
+    b.BillingAddress.street &&
+    b.Brewery_Type__c
 );
-const matches: { [id: string]: string } = {};
+const matches = new Map<string, string>();
 
-const breweriesById = breweries.reduce((m: Record<string, Brewery>, b) => {
-  m[b.id] = b;
+const breweriesById = breweries.reduce((m, b) => {
+  m.set(b.id, b);
   return m;
-}, {});
+}, new Map<string, Brewery>());
 
-const formattedBreweries: Brewery[] = craftBreweries.map((brewery) => {
+let formattedBreweries: Brewery[] = craftBreweries.map((brewery) => {
   return {
     id: brewery.Id,
     name: brewery.Name,
@@ -102,41 +103,50 @@ const formattedBreweries: Brewery[] = craftBreweries.map((brewery) => {
   };
 });
 
-const abaBreweriesById = formattedBreweries.reduce(
-  (m: Record<string, Brewery>, b) => {
-    m[b.id] = b;
-    return m;
-  },
-  {}
-);
+const abaBreweriesById = formattedBreweries.reduce((m, b) => {
+  m.set(b.id, b);
+  return m;
+}, new Map<string, Brewery>());
 
-const breweryTable: { [key: string]: Brewery } = {};
+const breweryTable = new Map<string, Brewery>();
 
 breweries
   .filter(
-    (brewery) => brewery.city && brewery.state_province && brewery.address_1
+    (brewery) =>
+      brewery.city &&
+      brewery.state_province &&
+      brewery.address_1 &&
+      brewery.brewery_type
   )
   .forEach((brewery) => {
     const key = slugify(
-      `${brewery.city.toLowerCase()}_${brewery.state_province.toLowerCase()}_${brewery.address_1.toLowerCase()}_${brewery.brewery_type.toLowerCase()}`,
+      `${brewery.city.toLowerCase()}-${brewery.state_province.toLowerCase()}-${brewery.address_1.toLowerCase()}-${brewery.brewery_type.toLowerCase()}`,
       slugifyOptions
     );
-    breweryTable[key] = brewery;
+    if (breweryTable.has(key)) {
+      // Duplicate
+      // console.log(`${key} already exists in breweryTable`);
+    } else {
+      breweryTable.set(key, brewery);
+    }
   });
 
 formattedBreweries.forEach((formattedBrewery) => {
   const key = slugify(
-    `${formattedBrewery.city.toLowerCase()}_${formattedBrewery.state_province.toLowerCase()}_${formattedBrewery.address_1.toLowerCase()}_${formattedBrewery.brewery_type.toLowerCase()}`,
+    `${formattedBrewery.city.toLowerCase()}-${formattedBrewery.state_province.toLowerCase()}-${formattedBrewery.address_1.toLowerCase()}-${formattedBrewery.brewery_type.toLowerCase()}`,
     slugifyOptions
   );
-  const brewery = breweryTable[key];
+  const brewery = breweryTable.get(key);
   if (brewery) {
     const similarity = stringSimilarity.compareTwoStrings(
       formattedBrewery.name.toLowerCase(),
       brewery.name.toLowerCase()
     );
-    if (similarity >= 0.8) {
-      matches[formattedBrewery.id] = brewery.id;
+    if (
+      formattedBrewery.name.toLowerCase() === brewery.name.toLowerCase() ||
+      similarity >= 0.8
+    ) {
+      matches.set(formattedBrewery.id, brewery.id);
     }
   }
 });
@@ -146,40 +156,34 @@ const numVotingMembers = craftBreweries.filter(
   (b) => b.Voting_Member__c
 ).length;
 const numParentCompanies = craftBreweries.filter((b) => b.Parent).length;
-const numMatches = Object.keys(matches).length;
+const numMatches = matches.size;
 
-for (const [abaBreweryId, breweryId] of Object.entries(matches)) {
-  breweriesById[breweryId].name = abaBreweriesById[abaBreweryId].name;
-  breweriesById[breweryId].brewery_type =
-    abaBreweriesById[abaBreweryId].brewery_type;
-  breweriesById[breweryId].address_1 = abaBreweriesById[abaBreweryId].address_1;
-  breweriesById[breweryId].city = abaBreweriesById[abaBreweryId].city;
-  breweriesById[breweryId].state_province =
-    abaBreweriesById[abaBreweryId].state_province;
-  breweriesById[breweryId].postal_code =
-    abaBreweriesById[abaBreweryId].postal_code;
-  breweriesById[breweryId].country = abaBreweriesById[abaBreweryId].country;
-  breweriesById[breweryId].phone = abaBreweriesById[abaBreweryId].phone;
-  breweriesById[breweryId].website_url =
-    abaBreweriesById[abaBreweryId].website_url;
-  breweriesById[breweryId].latitude = abaBreweriesById[abaBreweryId].latitude;
-  breweriesById[breweryId].longitude = abaBreweriesById[abaBreweryId].longitude;
+for (const [abaBreweryId, breweryId] of matches.entries()) {
+  if (abaBreweriesById.has(abaBreweryId)) {
+    let brewery = abaBreweriesById.get(abaBreweryId) as Brewery;
+    brewery = {
+      ...brewery,
+      id: breweryId,
+    };
+    breweriesById.set(breweryId, brewery);
+  }
 }
 
 // Add unmatched data to breweries with a new UUID v4
-for (const [abaBreweryId, brewery] of Object.entries(abaBreweriesById)) {
-  if (matches[abaBreweryId]) continue;
-  const new_id = uuid();
-  breweriesById[new_id] = {
+for (const [abaBreweryId, brewery] of abaBreweriesById.entries()) {
+  if (matches.has(abaBreweryId)) continue;
+  const newId = uuid();
+  const newBrewery = {
     ...brewery,
-    id: new_id,
+    id: newId,
   };
+  breweriesById.set(newId, newBrewery);
 }
 
 // Sort Breweries by name
-const sortedBreweries = Object.values(breweriesById)
-  .map((b) => b)
-  .sort((a, b) => (a.name < b.name ? -1 : 1));
+const sortedBreweries = Array.from(breweriesById.values()).sort((a, b) =>
+  a.name < b.name ? -1 : 1
+);
 
 const numTotalBreweries = sortedBreweries.length;
 
