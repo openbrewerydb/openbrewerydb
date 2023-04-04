@@ -20,8 +20,10 @@
     "csv:split": "ts-eager ./src/split-csv.ts",
     "generate:json": "ts-eager ./src/generate-json.ts",
     "generate:sql": "ts-eager ./src/generate-sql.ts",
-    "validate": "ts-eager --unhandled-rejections=strict ./src/validate-csv.ts",
-    "workflow:maintain": "run-s validate csv:combine csv:split generate:json generate:sql"
+    "validate": "ts-eager ./src/validate-csv.ts",
+    "workflow:maintain": "run-s validate csv:combine csv:split generate:json generate:sql",
+    "pipeline:dl:aba": "ts-eager ./src/pipeline/download-aba-dataset.ts",
+    "pipeline:merge:aba": "ts-eager ./src/pipeline/merge-aba-dataset.ts"
   },
   "devDependencies": {
     "@types/glob": "^7.2.0",

@@ -4,7 +4,7 @@ import stringSimilarity from "string-similarity";
 import { v4 as uuid } from "uuid";
 import Papa from "papaparse";
 import slugify from "slugify";
-import { slugifyOptions, headers } from "./config";
+import { slugifyOptions, headers } from "../config";
 
 interface Brewery {
   id: string;
@@ -52,12 +52,9 @@ interface AbaData {
   Account_Badges__c?: any;
 }
 
-const abaFilePath = path.join(
-  __dirname,
-  "../archive/aba-breweries-20230330.json"
-);
-const breweriesFilePath = path.join(__dirname, "../breweries.json");
-const csvFilePath = path.join(__dirname, "../breweries.csv");
+const abaFilePath = path.join(__dirname, "../../tmp/aba-breweries.json");
+const breweriesFilePath = path.join(__dirname, "../../breweries.json");
+const csvFilePath = path.join(__dirname, "../../breweries.csv");
 let abaBreweries: AbaData[];
 let breweries: Brewery[];
 
@@ -127,6 +124,9 @@ breweries
     breweryTable[key] = brewery;
   });
 
+console.log("breweies length", breweries.length);
+console.log("breweries table", Object.keys(breweryTable).length);
+
 formattedBreweries.forEach((formattedBrewery) => {
   const key = slugify(
     `${formattedBrewery.city.toLowerCase()}_${formattedBrewery.state_province.toLowerCase()}_${formattedBrewery.address_1.toLowerCase()}`,
@@ -138,7 +138,7 @@ formattedBreweries.forEach((formattedBrewery) => {
       formattedBrewery.name.toLowerCase(),
       brewery.name.toLowerCase()
     );
-    if (similarity >= 0.7) {
+    if (similarity >= 0.8) {
       matches[formattedBrewery.id] = brewery.id;
     }
   }
@@ -206,25 +206,25 @@ const numGeocoded = sortedBreweries.filter(
 console.log(`Stats:`);
 console.log(`💯 - ${numAbaRecords} total ABA records`);
 console.log(
-  `🍺 - ${numCraftBreweries} ASA craft breweries (${Math.round(
+  `🍺 - ${numCraftBreweries} ABA craft breweries (${Math.round(
     (numCraftBreweries / numAbaRecords) * 100
   )}%)`
 );
 console.log(
-  `🗳️  - ${numVotingMembers} ASA breweries are voting members (${Math.round(
-    (numVotingMembers / numAbaRecords) * 100
+  `🗳️  - ${numVotingMembers} ABA craft breweries are voting members (${Math.round(
+    (numVotingMembers / numCraftBreweries) * 100
   )}%)`
 );
 console.log(
-  `🎩 - ${numParentCompanies} ASA breweries are parent companies (${Math.round(
-    (numParentCompanies / numAbaRecords) * 100
+  `🎩 - ${numParentCompanies} ABA craft breweries are parent companies (${Math.round(
+    (numParentCompanies / numCraftBreweries) * 100
   )}%)`
 );
 console.log("---");
 console.log(`🍻 - ${numBreweries} total OBDB Breweries`);
 console.log(
-  `✅ - ${numMatches} ASA breweries match OBDB breweries (${Math.round(
-    (numMatches / numBreweries) * 100
+  `✅ - ${numMatches} ABA craft breweries match OBDB breweries (${Math.round(
+    (numMatches / numCraftBreweries) * 100
   )}%)`
 );
 console.log("---");
@@ -233,4 +233,4 @@ console.log(
     (numGeocoded / numTotalBreweries) * 100
   )}%)`
 );
-console.log(`✅ Wrote ${numTotalBreweries} breweries!`);
+console.log(`📝 Wrote ${numTotalBreweries} breweries!`);
