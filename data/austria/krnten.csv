@@ -1,0 +1,4 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+c88759b6-88d6-4172-bed7-61dec61e50aa,Schleppe Brauerei (Heineken),large,Schleppe-Platz 1,,,Klagenfurt am W�rthersee,K�rnten,9020,Austria,+4346342700,http://www.schleppe.at,14.286632028634074,46.6416966591789
+f51b3f3d-be14-40da-914a-3b5c83f75bbf,Villacher Brauerei (Heineken),large,Brauhausgasse 6,,,Villach,K�rnten,9500,Austria,+434242277770,https://www.villacher.com,13.85168245858099,46.61662463422168
+3fe1de22-c30c-446d-b2f2-913ca9f6378e,Wimitzbr�u,nano,L67 7,,,Wimitz,K�rnten,9311,Austria,+43421228074,http://www.wimitzbraeu.com,14.355971213256488,46.83992642711985

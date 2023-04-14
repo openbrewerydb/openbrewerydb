@@ -16,16 +16,21 @@ export const headers = [
 ];
 
 export const BREWERY_TYPES = [
+  "alt prop",
+  "bar",
+  "beer brand",
+  "brewpub",
+  "cidery",
+  "closed",
+  "contract",
+  "large",
+  "location",
   "micro",
   "nano",
-  "regional",
-  "brewpub",
-  "large",
+  "office only location",
   "planning",
-  "bar",
-  "contract",
   "proprietor",
-  "closed",
+  "regional",
   "taproom",
 ] as const;
 
