@@ -1,5 +1,5 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-ddf69cff-978e-47b6-b42e-75f102418bd0,603 Brewery,micro,12 Liberty Dr Unit 7,,,Londonderry,New Hampshire,03053-2286,United States,6036307745,http://www.603brewery.com,,
+ddf69cff-978e-47b6-b42e-75f102418bd0,603 Brewery,micro,42 Main St,,,Londonderry,New Hampshire,03053,United States,6034046123,http://www.603brewery.com,-71.347184,42.873035
 3942f7e7-0efe-4114-90d8-07adacb71cda,603 Brewery,micro,42 Main St,,,Londonderry,New Hampshire,03053,United States,6034046123,http://www.603brewery.com,-71.347184,42.873035
 66a91db6-7d2a-4d67-a720-7f924cae3571,7th Settlement Brewery,brewpub,47 Washington St,,,Dover,New Hampshire,03820-3877,United States,6033731001,http://www.7thsettlement.com,-70.8728379,43.1953787
 e6780612-ff74-4289-8718-a229529e3ee1,Able Ebenezer Brewing Company,taproom,31 Columbia Cir,,,Merrimack,New Hampshire,03054-4161,United States,8442232253,http://www.ableebenezer.com,-71.492991,42.852569
@@ -77,7 +77,7 @@ f5055faa-6c0e-4510-a733-6e25f5f059c8,Omnium Brewing,brewpub,460 High St,,,Somers
 74f4a6b0-9be8-401a-b320-7ad33254f2c3,Out.Haus Ales,micro,442 1st Nh Tpke Unit 2,,,Northwood,New Hampshire,03261-3445,United States,6035482151,http://www.outhausales.com,,
 3d3579fd-e085-44d5-aa22-8e8b58d051ce,Out.Haus Ales,taproom,442 1st NH Tpke,,,Northwood,New Hampshire,03261-3445,United States,6039426036,http://www.outhausales.com,-71.170379,43.206349
 b71e75ef-6458-4128-a39f-c3f6f0461e9d,Outland Brewing Company,planning,,,,Salem,New Hampshire,03079-1867,United States,,,,
-e61d8398-eb60-49f0-a3e2-92534c5bc02a,Pipe Dream Brewing,brewpub,49 Harvey Rd Unit 4,,,Londonderry,New Hampshire,03053-7442,United States,6034040751,http://www.pipedreambrewingnh.com,,
+e61d8398-eb60-49f0-a3e2-92534c5bc02a,Pipe Dream Brewing,brewpub,49 Harvey Rd,,,Londonderry,New Hampshire,03053-7442,United States,6034040751,http://www.pipedreambrewingnh.com,-71.420838,42.908252
 8e68c40d-6e63-4b95-9c73-7dff30a66d42,Pipe Dream Brewing,brewpub,49 Harvey Rd,,,Londonderry,New Hampshire,03053-7442,United States,6034040751,http://www.pipedreambrewingnh.com,-71.420838,42.908252
 90218961-385e-459f-b286-a1560ee423a8,Polyculture Brewing Company,taproom,3 Camel Hump Rd,,,Croydon,New Hampshire,03773,United States,6032768367,http://www.polyculturebrewing.com,-72.184998,43.406294
 c51303cf-1e92-4934-9b9e-80c458579d33,Post & Beam Brewing,taproom,40 Grove Street,,,Peterborough,New Hampshire,03458,United States,,http://www.postandbeambrewery.com,-71.950744,42.877484

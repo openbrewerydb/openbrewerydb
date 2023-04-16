@@ -7,7 +7,7 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 f5d36db3-999a-49b8-84e0-7416f86bd23a,Bavarian Brothers Brewing,brewpub,164 Shepherd Grade Rd,,,Shepherdstown,West Virginia,25443-4601,United States,3048762551,,-77.805561,39.435875
 dcf991c9-6692-4346-a52a-b6e9ff25520e,Berkeley Springs Brewing Co,brewpub,110 Michigan Ln,,,Berkeley Springs,West Virginia,25411-3008,United States,3042583369,http://www.berkeleyspringsbrewingcompany.com,-78.2282,39.6289
 36840152-444d-4615-b422-752e0e0bf044,Big Draft Brewing,micro,697 Main St E,,,White Sulphur Springs,West Virginia,24986-3003,United States,3049152442,https://bigdraftbrewing.com/,-80.3001175,37.7945598
-77e31ad7-17aa-4c92-9200-ab12888aaacd,Big Timber Brewing,micro,1210 S Davis Ave,,,Elkins,West Virginia,26241-3437,United States,3046375008,http://www.bigtimberbrewing.com,-79.85143109,38.91765609
+77e31ad7-17aa-4c92-9200-ab12888aaacd,Big Timber Brewing,micro,2 Davis Ave,,,Elkins,West Virginia,26241-3437,United States,3046375008,http://www.bigtimberbrewing.com,-79.849442,38.928487
 53b80ad6-ea0f-41a9-afae-c88daf7b36f9,Big Timber Brewing,micro,2 Davis Ave,,,Elkins,West Virginia,26241-3437,United States,3046375008,http://www.bigtimberbrewing.com,-79.849442,38.928487
 b248192a-f86e-4dbd-a324-0a71424f2656,Blackwater Brewing Co,micro,912 William Ave,,,Davis,West Virginia,26260-0356,United States,3042098118,http://www.BlackwaterBrewingWV.com,-79.4695264,39.1274943
 ec51ec32-1a6a-4e97-9571-70a81db3bec8,Brew Keepers,micro,2245 Market St,,,Wheeling,West Virginia,26003-2866,United States,7248098968,,-80.724774,40.059259
@@ -28,7 +28,7 @@ e64f154b-6644-49e1-89b4-f1c042ae34d5,Morgantown Brewing Company,brewpub,1291 Uni
 750a134b-a13a-44ed-a7d4-56d429d5e9aa,Mountain State Brewing Co,micro,1 Nelson Blvd,,,Thomas,West Virginia,26292,United States,3044634500,http://www.mountainstatebrewing.com,-79.50051,39.139636
 776c596c-3abe-4efd-ae37-da9c258d8609,North Branch Brewing Co,brewpub,101 Armstrong St,,,Keyser,West Virginia,26726,United States,3047907125,,-78.973536,39.440818
 ca5d6e06-3eb3-4a52-a827-5c237b414323,North End Tavern & Brewery,brewpub,3500 Emerson Ave,,,Parkersburg,West Virginia,26104-1806,United States,3044285854,http://www.netbrewery.com,-81.533103,39.287353
-d6dab3d7-38df-41b7-a2f0-21699fcf1a7b,Old Spruce Brewing,brewpub,10 Snowshoe Dr,,,Snowshoe,West Virginia,26209,United States,3045721020,http://www.oldsprucetavern.com,-80.036148,38.416222
+d6dab3d7-38df-41b7-a2f0-21699fcf1a7b,Old Spruce Brewing,brewpub,85 Rescue Road,,,Snowshoe,West Virginia,26209,United States,3045721020,http://www.oldsprucetavern.com,-80.1227,38.4174
 c7357cb1-7087-47fb-89cc-6dc40bbf96b3,Old Spruce Brewing,brewpub,85 Rescue Road,,,Snowshoe,West Virginia,26209,United States,3045721020,http://www.oldsprucetavern.com,-80.1227,38.4174
 536453ac-c66c-4cd2-b3c4-34095183ed62,Parkersburg Brewing Co,brewpub,707 Market St,,,Parkersburg,West Virginia,26101-4628,United States,3049161502,http://www.parkersburgbrewing.com,-81.55821,39.267373
 1194e820-846b-47be-a99b-fe9cbdbf6df8,Pubstomper Brewing Company,proprietor,132 Tower Ln,,,Westover,West Virginia,26501-4506,United States,3046850996,http://www.pubstomperbrewing.com,-79.96183033,39.63624754

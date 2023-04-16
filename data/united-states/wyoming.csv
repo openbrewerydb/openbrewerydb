@@ -1,5 +1,5 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-829f7243-78f3-4282-b0e8-1a5fcb10a229,Accomplice Beer Company,brewpub,115 W 15th St,,,Cheyenne,Wyoming,82001-4564,United States,3076322337,http://www.accomplicebeer.com,-104.819296,41.130063
+829f7243-78f3-4282-b0e8-1a5fcb10a229,Accomplice Beer Company,brewpub,115 West 15th St,,,Cheyenne,Wyoming,82001,United States,3076322337,http://www.accomplicebeer.com,-104.814312,41.131833
 b88f9f94-1ca9-4d83-9fba-7c128cf038df,Accomplice Beer Company,brewpub,115 West 15th St,,,Cheyenne,Wyoming,82001,United States,3076322337,http://www.accomplicebeer.com,-104.814312,41.131833
 b71c080f-8514-4100-bbb3-40d2582b8122,Altitude Chophouse & Brewery,brewpub,320 S 2nd St,,,Laramie,Wyoming,82070-3612,United States,3077214031,http://www.altitudechophouse.com,-105.594753,41.310832
 71aac059-c2fe-4d33-8970-60bc4bdfb50f,Bad Joker Brewing Company,taproom,830 power house rd,,,Rock Springs,Wyoming,82901,United States,3073710348,,-109.206731,41.598553
@@ -40,7 +40,7 @@ a2aed857-553f-45b5-82b5-0b57ce5f65b1,Roadhouse Pub and Eatery,brewpub,20 E Broad
 0fd5b8e5-1941-4bb6-95da-9e2ed09dd6a8,Sheridan Brewing company,planning,,,,Sheridan,Wyoming,82801,United States,,,,
 ede51b24-df11-404b-a8b7-3bf21d8e3951,Skull Tree Brewing,taproom,1530 Burlington Ave,,,Casper,Wyoming,82601,United States,3072773764,,-106.305091,42.855393
 30cf3e97-7b68-4b85-9536-a94860ef2729,Smith Alley Brewing Company,brewpub,150 N Main St,,,Sheridan,Wyoming,82801,United States,3076751934,http://www.smithalleybrewing.com,-106.956246,44.798948
-5a2b53e3-a513-4466-bdec-b3705517710f,Snake River Brewing Co,micro,265 S Millward St PO Box 3317,,,Jackson,Wyoming,83001-8582,United States,3077392337,http://www.snakeriverbrewing.com,,
+5a2b53e3-a513-4466-bdec-b3705517710f,Snake River Brewing Co,micro,265 S Millward St,,,Jackson,Wyoming,83001-8582,United States,3077392337,http://www.snakeriverbrewing.com,-110.765383,43.476726
 7a740f0c-2706-4e7d-aaaf-ff5c3608a4b6,Snake River Brewing Co,micro,265 S Millward St,,,Jackson,Wyoming,83001-8582,United States,3077392337,http://www.snakeriverbrewing.com,-110.765383,43.476726
 70ae45d2-2998-4e2b-a88f-519ad2bee814,Snowy Mountain Brewery,brewpub,601 E Pic Pike Rd,,,Saratoga,Wyoming,82331,United States,8005940178,,,
 f2145f71-0e4b-4631-a219-3b886001fb22,Snowy Range Brewery,micro,3254 Hwy 130,,,Centennial,Wyoming,82055-0247,United States,3077455750,,-106.222627,41.351191

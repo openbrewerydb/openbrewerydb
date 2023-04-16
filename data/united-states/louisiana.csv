@@ -1,8 +1,8 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-c074ba4c-0b31-4344-a85a-7930df7fb410,Abita Brewing Co,regional,166 Barbee Rd,,,Covington,Louisiana,70433-8651,United States,9858933143,http://www.abita.com,,
+c074ba4c-0b31-4344-a85a-7930df7fb410,Abita Brewing Co,regional,21084 LA-36,,,Covington,Louisiana,70433,United States,9858933143,http://www.abita.com,-90.054688,30.481716
 ebba6ddc-f042-49f6-a90f-e3aec8288644,Abita Brewing Co,regional,21084 LA-36,,,Covington,Louisiana,70433,United States,9858933143,http://www.abita.com,-90.054688,30.481716
 c1850431-8e4e-4b52-a4d7-ac409d0e853e,Agile Brewing,taproom,14141 Airline Hwy,,,Baton Rouge,Louisiana,70817,United States,2257720197,http://www.agile.beer,-91.023818,30.367107
-faabb5c6-fc44-4300-84cd-66f8af67e8fd,Bayou Teche Brewing,micro,1094 Bushville Hwy,,,Arnaudville,Louisiana,70512-3526,United States,3373038117,http://www.bayoutechebrewing.com,,
+faabb5c6-fc44-4300-84cd-66f8af67e8fd,Bayou Teche Brewing,micro,1002 Noth Lane,,,Arnaudville,Louisiana,70512-3526,United States,3373038117,http://www.bayoutechebrewing.com,-91.925323,30.391753
 0fd080d3-bbfd-49f8-9da2-fc4a4de8946e,Bayou Teche Brewing,micro,1002 Noth Lane,,,Arnaudville,Louisiana,70512-3526,United States,3373038117,http://www.bayoutechebrewing.com,-91.925323,30.391753
 887aaeec-884a-4a60-986a-daf4333cca08,Brasserie L'Etrange,planning,,,,Prairieville,Louisiana,70769-6114,United States,2258002337,,,
 65bf0100-bb23-49f0-8857-73c21d34534c,Brewery Saint X,brewpub,1100 Girod St,,,New Orleans,Louisiana,70113,United States,,http://www.brewerysaintx.com,-90.076069,29.947938
@@ -60,7 +60,7 @@ ae36ac6c-88bb-4598-a2f4-ee97f28d3da6,The Seventh Tap Brewing Project,micro,2640 
 f8d441be-c395-485d-bc40-97fb4182e1e4,Tin Roof Brewing Co,micro,1624 Wyoming St,,,Baton Rouge,Louisiana,70802-8514,United States,2253777022,http://www.tinroofbeer.com,-91.188771,30.432541
 c235cde8-eaf2-44e4-a6b8-386cf8410073,Twenty 8 West Brewing,brewpub,6354 Coliseum Blvd,,,Alexandria,Louisiana,71303,United States,3184870007,http://www.jacksdrinks.com,-92.515328,31.296711
 bfbcc407-1328-4791-bf71-7cc77e2a5feb,Urban South Brewery,micro,1645 Tchoupitoulas St,,,New Orleans,Louisiana,70130-1852,United States,,http://www.urbansouthbrewery.com,-90.0666607,29.9296799
-cfd51d05-11a3-487f-af99-ce3ce3f4ee2f,Utility Brewing Company,brewpub,206 N. Vienna Street,,,Ruston,Louisiana,71270,United States,,http://www.utilitybrewing.com,-92.63790404,32.52986335
+cfd51d05-11a3-487f-af99-ce3ce3f4ee2f,Utility Brewing Company,brewpub,206 N Vienna St,,,Ruston,Louisiana,71270-4439,United States,3185148811,http://www.utilitybrewing.com,-92.637675,32.530034
 3079dec3-9047-45a6-9dc9-b7eeb735ca2a,Utility Brewing Company,brewpub,206 N Vienna St,,,Ruston,Louisiana,71270-4439,United States,3185148811,http://www.utilitybrewing.com,-92.637675,32.530034
 542d689d-77a4-41ad-9ab6-1f8e8c906b1e,Wayward Owl Brewing Company,micro,3940 Thalia St,,,New Orleans,Louisiana,70125-2008,United States,5048271646,http://www.waywardowlbrewing.com,-90.09759137,29.9521547
 3aceca27-93ff-4408-8259-cd0bbae10eaa,Wetlands Sake,micro,634 Orange St,,,New Orleans,Louisiana,70130,United States,5042892018,http://www.wetlandssake.com,-90.067822,29.932136

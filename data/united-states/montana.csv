@@ -7,11 +7,11 @@ ab83555a-6eb2-48ef-908e-d1b743dcfcf2,1035 Brewing,taproom,1035 S Central Ave,,,S
 b6685b52-d4f2-4b41-a3d9-f88c778b2346,Backslope Brewing,brewpub,1107 9th St W (Highway 2),,,Columbia Falls,Montana,59912,United States,4062242510,http://www.backslopebrewing.com,,
 29297833-9297-43fe-a9f4-4a9437a405c1,Bandit Brewing Co,micro,610 N 1st St Ste 5-228,,,Hamilton,Montana,59840-2149,United States,4066466003,http://www.banditbeer.com,,
 2a77594e-1eda-48bd-80b9-5ee7c65b8737,Bandit Brewing Co,taproom,308 E Tanner Rd,,,darby,Montana,59829,United States,5206651855,http://www.banditbeer.com,-114.174102,46.021001
-38ec976b-9832-425c-818e-7843b722acec,Bar 3 BBQ and Brewing,brewpub,100 S Broadway,,,Belgrade,Montana,59714-3909,United States,4063889182,http://www.bar3bbq.com,-111.1770268,45.7751537
+38ec976b-9832-425c-818e-7843b722acec,Bar 3 BBQ and Brewing,brewpub,119 E Main St,,,Belgrade,Montana,59714,United States,4063889182,http://www.bar3bbq.com,-111.174938,45.775369
 97b2c17f-4aeb-4f1a-90ea-18c1b97796d5,Bar 3 BBQ and Brewing,brewpub,119 E Main St,,,Belgrade,Montana,59714,United States,4063889182,http://www.bar3bbq.com,-111.174938,45.775369
 ee95babd-8312-4f94-8c5a-a411c1dbd999,Bayern Brewing Inc.,micro,1507 Montana St,,,Missoula,Montana,59801-1409,United States,4067211482,http://www.bayernbrewery.com,-114.0202088,46.8725952
 1ff28ba1-a853-4bcc-a221-6fdd813f06e1,Bayern Brewing Inc. / Edelweiss Bistro,micro,1507 Montana St,,,Missoula,Montana,59801-1409,United States,4067211482,http://www.bayernbrewery.com,-114.020046,46.872605
-ef663619-6faa-4478-b754-c54f6f5cc823,Beaver Creek Brewery,micro,104 W Oregon Ave,,,Wibaux,Montana,59353-8001,United States,4067952337,http://www.beavercreekbrewery.com,,
+ef663619-6faa-4478-b754-c54f6f5cc823,Beaver Creek Brewery,micro,104 W Orgain Ave,,,Wibaux,Montana,59353-8001,United States,4067952337,http://www.beavercreekbrewery.com,-104.187935,46.986972
 1953ed0f-97f7-419b-b8d4-fcf5b1dae3f7,Beaver Creek Brewery,micro,104 W Orgain Ave,,,Wibaux,Montana,59353-8001,United States,4067952337,http://www.beavercreekbrewery.com,-104.187935,46.986972
 4fc62fdf-21cf-4b30-9f08-f40ee4ffac46,Beaverhead Brewing Co,taproom,218 S Montana St,,,Dillon,Montana,59725-2438,United States,4069880011,http://www.beaverheadbeer.com,-112.639422,45.215804
 a0adf1e8-ce6a-4c06-a605-434032d6fa18,Beehive Basin Brewery,taproom,245 Town Center Ave,,,Big Sky,Montana,59716,United States,4069957444,http://www.beehivebasinbrewery.com,-111.302595,45.260207
@@ -68,7 +68,7 @@ ed71836c-a628-4b84-8b1a-2ccf9c2da167,Golden Triangle Brew Co.,taproom,1220 Front
 63c10c68-90ae-465e-8f57-0dd35d38c212,Highlander Beer,micro,200 International Dr,,,Missoula,Montana,59808,United States,4065498193,http://www.highlanderbeer.com,-114.045103,46.904822
 302e8ee4-1060-490c-8d68-f8dcc277d5d6,Imagine Nation Brewing,micro,1151 W Broadway St,,,Missoula,Montana,59802,United States,4069261251,http://www.imaginenationbrewing.com,-114.009579,46.876468
 961fd2c9-a4e9-4b3b-b7c5-3becc0c1ab5b,Jeremiah Johnson Brewing Company,brewpub,215 3rd St NW,,,Great Falls,Montana,59404-4103,United States,4067273947,http://www.jeremiahjohnsonbrewing.com,-111.3023947,47.50778029
-f8b7727c-573d-4415-b201-d1c4b9cc9261,Jeremiah Johnson Brewing Company,micro,600 3rd Ave S,,,Great Falls,Montana,59405-1913,United States,4068680506,http://www.jeremiahjohnsonbrewing.com,-111.296943,47.501643
+f8b7727c-573d-4415-b201-d1c4b9cc9261,Jeremiah Johnson Brewing Company,micro,600 3rd Ave S,,,Great Falls,Montana,59405,United States,4068680506,,-111.296943,47.501643
 29311ae5-c9c9-4843-8e0c-adfe0b643cc5,Jeremiah Johnson Brewing Company,micro,600 3rd Ave S,,,Great Falls,Montana,59405,United States,4068680506,,-111.296943,47.501643
 d6d0150a-2474-4f3d-97e0-43be00aaae9d,Julius Lehrkind Brewing,micro,1717 N Rouse Ave,,,Bozeman,Montana,59715-2426,United States,4065510199,http://www.juliusbrewing.com,-111.031558,45.69633335
 a408aa61-48ff-477c-aefe-b38a0aea8dfe,Kalispell Brewing Co,micro,412 Main St,,,Kalispell,Montana,59901-4849,United States,4067562739,http://www.kalispellbrewing.com,,
@@ -93,7 +93,7 @@ bdb7f3a3-e8fb-46ca-a28c-9ff8b6ef345b,Missouri Breaks Brewing,taproom,326 Main St
 1e1fa49f-3abc-43b1-bed7-343e1e6a23d7,Missouri River Brewing Company,brewpub,451 Spencer Court,,,East Helena,Montana,59635,United States,4064224936,http://www.missouririverbrewingco.com,-111.905149,46.586663
 0218dd8a-e129-4fef-b2a8-9654d0f58621,Montana Brewing Co,brewpub,113 N Broadway,,,Billings,Montana,59101-2043,United States,4062529200,http://www.montanabrewingcompany.com,-108.50581,45.782825
 f5873cbb-e231-4a70-8ed5-0bfd9f2beca5,Montucky Cold Snacks,contract,123 W Lewis St,,,Livingston,Montana,59047-3010,United States,4068718886,http://www.montuckycoldsnacks.com,,
-988365c4-fe44-46d3-9c39-200dd18b1817,Mountains Walking,brewpub,422 N Plum Ave,,,Bozeman,Montana,59718,United States,4062193480,http://www.mountainswalking.com,-111.025561,45.68418789
+988365c4-fe44-46d3-9c39-200dd18b1817,Mountains Walking,brewpub,808 E Avocade St,,,Bozeman,Montana,59715,United States,4062193480,http://www.mountainswalking.com,-111.025123,45.685379
 47a36cd5-e2fe-49d2-a2ba-1b60bdf3a189,Mountains Walking,brewpub,808 E Avocade St,,,Bozeman,Montana,59715,United States,4062193480,http://www.mountainswalking.com,-111.025123,45.685379
 2a4d1703-125a-452a-af50-7ee317831e57,Mt. Ascension Brewing Company,taproom,317 Cruse Ave,,,Helena,Montana,59601,United States,,http://www.mtascensionbrewing.com,-112.036638,46.588826
 105393d3-d4cb-443d-8933-e2563f9faef3,Muddy Creek Brewery,micro,2 E Galena St,,,Butte,Montana,59701-1704,United States,4062993645,http://muddycreekbrewery.com,-112.535291,46.01201

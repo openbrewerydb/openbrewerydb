@@ -22,7 +22,7 @@ b7f2ebb8-6764-4654-a98b-246724c8952a,411 Broadway Ales,planning,,,,Fresno,Califo
 1a535fdc-03ec-4d6c-b822-98b377108375,411 Broadway Ales,taproom,411 Broadway St,,,Fresno,California,93721-2801,United States,5412706076,,-119.78518,36.727267
 6b892c61-269b-453f-acd1-b79491b0ef0b,47 Hills Brewing Co,brewpub,137 S Linden Ave,,,South San Francisco,California,94080-6410,United States,6508678476,http://47hillsbrewingcompany.com,-122.413454,37.644213
 7e12d827-22dc-4d07-8715-8192c9680b23,5150 Brewery At The Brass Tap Rocklin,brewpub,5150 Commons Dr Ste 101,,,Rocklin,California,95677-3925,United States,9162462729,http://www.brasstaprocklin.com,-121.208741,38.801038
-4a4baf4f-921c-46c0-9130-afcc4ce4f4d2,559 Local Brewing,micro,608 4th St,,,Clovis,California,93612-1183,United States,5594731875,http://www.fresnobrewingcompany.com,-119.7017487,36.82517171
+4a4baf4f-921c-46c0-9130-afcc4ce4f4d2,559 Local Brewing,micro,356 POLLASKY AVE.,,,Clovis,California,93612,United States,5594731875,http://www.559.beer,-119.702335,36.825443
 48ba6fa1-40c9-4c38-8e20-9820b51f1b22,559 Local Brewing,micro,356 POLLASKY AVE.,,,Clovis,California,93612,United States,5594731875,http://www.559.beer,-119.702335,36.825443
 af6cb069-b61a-4c69-8fd2-0a5f87c11a17,6th and La Brea,brewpub,600 South La Brea Ave,,,Los Angeles,California,90036,United States,,http://www.6thlabrea.com,-118.3440213,34.0730485
 a3a1eac7-b858-4bdd-81ac-c2099b717da2,7 Sisters Brewing Co,brewpub,181 Tank Farm Rd Ste 110,,,San Luis Obispo,California,93401-7082,United States,8058687133,http://www.7sistersbrewing.com,-120.6706375,35.2467278
@@ -64,7 +64,7 @@ c3f5bb6a-c7f4-45a9-829c-3978625f111e,Amplified Ale Works Miramar Studio,brewpub,
 f99c834f-df7e-41e9-8236-ce0d25e43189,Anacapa Brewing Co,brewpub,472 E Main St,,,Ventura,California,93001-2627,United States,8056432337,http://www.anacapabrewing.com,-119.2935874,34.28073347
 e6663203-a997-403b-b130-63dd975b00c6,Anaheim Brewery,micro,336 S Anaheim Blvd,,,Anaheim,California,92805-3830,United States,7147801888,http://www.anaheimbrew.com,-117.9125249,33.8328226
 25809e1c-0c76-498b-8a57-d6b85ff24c3c,Anchor Brewing Co,large,1705 Mariposa St,,,San Francisco,California,94107-2334,United States,4158638350,http://www.anchorbrewing.com,-122.4011065,37.7630772
-55bbdf14-e891-4572-9ed2-9c6bf25edda9,Anderson Valley Brewing Co,regional,17700 CA-253,,,Boonville,California,95415,United States,7078952337,http://www.avbc.com,-123.3560542,39.00141731
+55bbdf14-e891-4572-9ed2-9c6bf25edda9,Anderson Valley Brewing Co,regional,17700 Boonville Rd,,,Boonville,California,95415,United States,7078952337,http://www.avbc.com,-123.356029,39.001387
 f1dcdf9e-4403-4ec8-80e4-d5992ccf1777,Anderson Valley Brewing Co,regional,17700 Boonville Rd,,,Boonville,California,95415,United States,7078952337,http://www.avbc.com,-123.356029,39.001387
 be95afe2-de19-4b3b-8c83-a24ac9cd4aa7,Angel City Brewery,taproom,216 S Alameda St,,,Los Angeles,California,90012-4201,United States,2136221261,http://www.angelcitybrewery.com,-118.237634,34.046247
 dd4f088b-4faa-4492-9b63-9ff7c6a9c8aa,Angry Ferret Brewing Company,taproom,11990 Hertz St,,,Moorpark,California,93021,United States,8052095963,http://www.angryferretbrewing.com,-118.895041,34.281542
@@ -114,7 +114,7 @@ fbb7714c-4583-4d4d-96f4-369b4515476d,Barley Forge Brewing,closed,2957 Randolph A
 a22ced11-4028-40b6-86b2-0c9a01f4a720,BarmHaus Brewing Co.,taproom,3782 Winding Creek Ln,,,Garden Valley,California,95633-9773,United States,4156804181,http://stashbrewingco.com,-120.877852,38.839688
 bfb84336-c1e4-48e9-9d05-4a412b60e967,Barn Brewery,micro,2850 El Cajon Blvd Ste 3,,,San Diego,California,92104-1389,United States,6199558228,http://www.thebarnbrew.com,-117.1324165,32.75568723
 712c88bc-67fd-4259-8732-e0c265d8d9c6,Barrel and Stave Brewing,taproom,2129 Industrial Ct,,,Vista,California,92081,United States,8607057818,http://www.barrelandstave.com,-117.220203,33.169112
-75a66bb0-838f-4e86-adca-03c784fbda72,"Barrel Brothers Brewing Company, LLC",micro,399 Business Park Ct. #506,,,Windsor,California,95492,United States,7076969487,http://www.barrelbrothersbrewing.com,-122.784706,38.52824916
+75a66bb0-838f-4e86-adca-03c784fbda72,"Barrel Brothers Brewing Company, LLC",micro,399 Business Park Ct.,,,Windsor,California,95492,United States,7073288237,http://barrelbrothersbrewing.com,-122.784799,38.52812
 1b3c735f-c3a7-4f2e-8da4-8b77a751e007,"Barrel Brothers Brewing Company, LLC",micro,399 Business Park Ct.,,,Windsor,California,95492,United States,7073288237,http://barrelbrothersbrewing.com,-122.784799,38.52812
 c13feda5-f313-4dfb-be56-07cb89d5f090,Barrel Harbor Brewing Co.,micro,2575 Pioneer Ave Ste 104,,,Vista,California,92081-8450,United States,7607343949,http://www.barrelharborbrewing.com,-117.221385,33.14879
 26615b1f-85a5-425c-bfc9-3ed0422329db,Barrel Head Brewhouse,brewpub,1785 Fulton St,,,San Francisco,California,94117-1202,United States,4154166989,http://www.barrelheadsf.com,-122.446248,37.775709
@@ -129,7 +129,7 @@ a2088edf-6e8c-447a-b635-a2176f7f9ed7,Bay City Brewing Co.,taproom,3760 Hancock S
 2ba06f5f-f88d-472c-a281-cea7f32c7d36,Beach Grease Beer Company,micro,1280 Activity Dr Ste B,,,Vista,California,92081,United States,,http://www.beachgreasebeerco.com,-117.219665,33.14225042
 dfefae25-ded6-4109-b6ed-e494a393dc07,Beachwood BBQ & Brewing,brewpub,210 E 3rd St Ste A,,,Long Beach,California,90802-3197,United States,5624364020,http://www.beachwoodbbq.com,-118.1909007,33.77017138
 8a7df4b6-5ea6-4ca2-bb72-8b9813cb1e62,Beachwood Blendery,micro,247 Long Beach Blvd,,,Long Beach,California,90802-3136,United States,,http://beachwoodbbq.com/blendery.html,-118.189751,33.770251
-67b706ab-6f63-4178-a09c-fdd2119b6b32,Beachwood Brewing,micro,7631 Woodwind Dr Ste B,,,Huntington Beach,California,92647-7117,United States,5103269575,http://www.beachwoodbbq.com,-117.995401,33.704502
+67b706ab-6f63-4178-a09c-fdd2119b6b32,Beachwood Brewing,micro,7671 Woodwind Dr,,,Huntington Beach,California,92647,United States,5103269575,http://www.beachwoodbbq.com,-117.994783,33.704393
 bb64e6c6-f152-4738-b310-c09157eebeda,Beachwood Brewing,micro,7671 Woodwind Dr,,,Huntington Beach,California,92647,United States,5103269575,http://www.beachwoodbbq.com,-117.994783,33.704393
 3463465a-8b9a-4951-89d8-c5579a3a812b,Bear Belly Brewing Company,taproom,8428 Trout Ave,,,Kings Beach,California,96143,United States,7754127694,http://www.bearbellybrew.com,-120.024252,39.237508
 c316f64a-b4d1-40f5-a5b3-65cc2498cbc5,Bear Republic Brewing Co,regional,345 Healdsburg Ave,,,Healdsburg,California,95448-4105,United States,7074332337,http://www.bearrepublic.com,-122.8713046,38.6110317
@@ -308,7 +308,7 @@ e75b5599-7133-4cb8-ab49-0048d0f4443a,Congregation Ales,brewpub,619 N Azusa Ave S
 2e6814a0-f256-4825-8f63-edad88ba3736,Cool Beerwerks,brewpub,5020 Ellinghouse Dr,,,Cool,California,95614-9569,United States,5308855866,http://www.cbwbeer.com,-121.014042,38.886442
 62418a35-3a11-48f5-8b17-69f7cf65de0e,Cooperage Brewing Co.,micro,981 Airway Ct Ste G,,,Santa Rosa,California,95403-2049,United States,7072939787,http://www.cooperagebrewing.com,-122.7359139,38.47534267
 95a442ca-6893-4e6a-abc2-1c51f125fefa,Coronado Brewing Co,regional,170 Orange Ave,,,Coronado,California,92118-1409,United States,6194374452,http://www.coronadobrewingcompany.com,-117.173112,32.697886
-8e3d6cd2-c95c-432e-963d-2f0c4beb5dfd,Coronado Brewing Co - Production Facility,regional,170 Orange Ave,,,San Diego,California,92118-1409,United States,6192752215,,-117.094383,32.753124
+8e3d6cd2-c95c-432e-963d-2f0c4beb5dfd,Coronado Brewing Co - Production Facility,regional,1205 Knoxville St,,,San Diego,California,92110,United States,6192752215,,-117.204682,32.771779
 d21d0f9d-fe0e-4982-a4b4-d00287e26492,Coronado Brewing Co - Production Facility,regional,1205 Knoxville St,,,San Diego,California,92110,United States,6192752215,,-117.204682,32.771779
 021ec7ee-501b-4db5-96be-083d3674d9b5,Coronado Brewing Company Imperial Beach,brewpub,875 Seacoast Drive,,,Imperial Beach,California,91932,United States,6194374452,,-117.131544,32.580467
 7dbb664f-ef54-4385-b8ea-c9d3a05c2672,Corralitos Brewing Co,taproom,2536 Freedom Blvd,,,Watsonville,California,95076-1046,United States,8317282311,http://www.corralitosbrewingco.com,-121.792388,36.950828
@@ -350,7 +350,7 @@ d681717b-abd3-4c20-a9fb-18cbda1254ec,Device Brewing Company,taproom,8166 14th Av
 1da0090d-b471-4667-b4e5-e440f35ac023,Devil's Potion Brewing Company LLC,planning,,,,Escondido,California,92026-3187,United States,7605329091,http://www.devilspotion.com,-117.0814849,33.1216751
 56159d4d-8d37-41c1-a6d3-5193a66a15e9,Diamond Mountain Brewery,brewpub,900 Skyline Dr,,,Susanville,California,96130-6071,United States,5302521369,http://www.diamondmountainbrewery.com,-120.6575072,40.43092351
 31050850-d1fd-433f-98a2-b19bf07a29f1,Dionysus Brewing Co.,taproom,6201 Schirra Ct Ste 13,,,Bakersfield,California,93313-2119,United States,6618336000,http://www.dionysusbrewing.com,-119.071833,35.315906
-76286586-a06b-4609-b971-615cb56607ed,Discretion Brewing,micro,2703 41st Ave Ste A& # B,,,Soquel,California,95073-3104,United States,8313160662,http://www.discretionbrewing.com,-121.9659512,36.98629328
+76286586-a06b-4609-b971-615cb56607ed,Discretion Brewing,micro,2703 41st Ave,,,Soquel,California,95073-3104,United States,8313160662,http://www.discretionbrewing.com,-121.965166,36.985523
 6daeefa1-a965-457d-9198-e4ca304c2af1,Discretion Brewing,micro,2703 41st Ave,,,Soquel,California,95073-3104,United States,8313160662,http://www.discretionbrewing.com,-121.965166,36.985523
 1f186ec5-1589-4843-84d6-ea50b8293c18,Divine Science Brewing,micro,15481 Red Hill Ave,,,Tustin,California,92780,United States,4086053687,http://https://divinesciencebrewing.com,-117.831824,33.717289
 ecb3dc09-11f9-4844-8cac-83340856e42d,Diving Dog Brewhouse,micro,1802 Telegraph Ave,,,Oakland,California,94612-2110,United States,5103061914,http://www.divingdogbrew.com,-122.2698881,37.807739
@@ -535,7 +535,7 @@ c75293cb-e18c-4c7f-ac21-a08418766428,Hand-Brewed Beer,micro,9771 Variel Ave,,,Ch
 751b7d57-253a-477b-a2ea-ccf4ed2c38bb,Hannegan's House Beer Co.,taproom,1535 Tidelands Ave,,,National City,California,91950,United States,6198645946,,-117.115065,32.66612
 765e8c19-78dd-4117-ad3a-61ce5337d5a7,Hapa's Brewing Company,taproom,460 Lincoln Ave # 90,,,San Jose,California,95126-3702,United States,4089823299,http://www.hapasbrewing.com,-121.908269,37.320648
 ee478df6-9033-4f56-b6f7-94d3b242871d,Hardwood Bar and Smokery,brewpub,680 8th St Ste 170,,,San Francisco,California,94103,United States,4157962437,http://www.hardwoodsf.com,-122.404719,37.770125
-0ed75909-c4d0-4c3f-8639-a24f04620b34,Hare In the Forest,micro,9311 Gibson Ln,,,Potter Valley,California,95469-8799,United States,9105457759,http://www.hareintheforest.com,-123.1252703,39.33623934
+0ed75909-c4d0-4c3f-8639-a24f04620b34,Hare In the Forest,micro,13451 Eel River Rd.,,,Potter Valley,California,95469-8850,United States,7074134273,http://www.hareintheforest.com,-123.098504,39.342574
 34858d2a-6f59-466f-835b-724d52686df7,Hare In the Forest,micro,13451 Eel River Rd.,,,Potter Valley,California,95469-8850,United States,7074134273,http://www.hareintheforest.com,-123.098504,39.342574
 0679d3c2-9c7a-441b-9dc4-08ba2786a3dc,Harland Brewing Company,micro,10115 Carroll Canyon Road,,,San Diego,California,92131,United States,9493102375,http://www.harlandbeer.com,-117.109184,32.904121
 82ae31f2-9010-4437-9f6c-babf306dabd6,Harmonic Brewing,taproom,1050 26th St,,,San Francisco,California,94107-3513,United States,4158726817,http://www.harmonicbrewing.com,-122.390063,37.751629
@@ -682,7 +682,7 @@ a8506d30-21bf-4a06-929e-e12ca46e7a2c,LA Bodega Brewing Co,planning,,,,Whittier,C
 f1815f5e-c3d9-4542-80ec-cb7b76e254d3,La Cantina Brewing Company,brewpub,165 S Main Street,,,Salinas,California,93901,United States,8313204221,,-121.665755,36.640006
 bcfc9fea-ae2b-4525-acfa-772a957226b1,La Jara Brewing Company,taproom,13423 Excelsior Dr.,,,Norwalk,California,90650,United States,5624858048,http://www.lajarabrewing.com,-118.045768,33.895464
 2c314b5b-4d7b-4514-b566-b7f4ed5f5fc4,La Provence Restaurant,brewpub,110 Diamond Creek Pl,,,Roseville,California,95747,United States,9167892002,http://https://laprovenceroseville.com/,-121.334192,38.798732
-57d6ec78-32cd-40c4-a480-4b7f987e3e55,La Quinta Brewing Co,micro,74714 Technology Dr,,,Palm Desert,California,92211,United States,7602002597,http://www.laquintabrewing.com,-116.3572573,33.78572864
+57d6ec78-32cd-40c4-a480-4b7f987e3e55,La Quinta Brewing Co,micro,74-714 Technology Dr,,,Palm Desert,California,92211-1159,United States,7602002597,http://www.laquintabrewing.com,-116.356807,33.784985
 f93d99ca-d103-4647-8411-4042889c5098,La Quinta Brewing Co,micro,74-714 Technology Dr,,,Palm Desert,California,92211-1159,United States,7602002597,http://www.laquintabrewing.com,-116.356807,33.784985
 dbe5aae8-47bc-4f8f-a9f4-8e0f328cb2bf,La Verne Brewing Company,taproom,2125 Wright Ave Ste C15,,,La Verne,California,91750-5816,United States,9095965804,http://www.lavernebrewingco.com,-117.771929,34.094972
 55c1eb54-704c-4d7b-a4d7-7fa9804cc3bc,LAB Brewing Co / Twisted Oak Tavern,brewpub,30105 Agoura Rd,,,Agoura Hills,California,91301-2003,United States,8187350091,http://www.twistedoaktavern.pub,-118.7799133,34.14511931
@@ -750,7 +750,7 @@ b261b101-bcad-4384-98a9-8da00ddb71f0,"MacLeod Ale Brewing Company, LLC",brewpub,
 6a9b5023-78a4-4d23-8196-90e77830ac7d,Mad Duck Craft Brewing Company - Marks and Herndon,brewpub,7050 N. Marks Ave,,,Fresno,California,93711,United States,8029897414,,-119.846551,36.838457
 fd4e8fed-a8a7-451f-ae27-e613538958e0,Mad Fritz,taproom,393 Lafata St,,,Saint Helena,California,94574-1405,United States,7079685058,http://www.madfritz.com,-122.457462,38.499078
 bed18ba5-64ec-47e7-b21e-7463358886db,Mad Pursuit Brewing Company,taproom,628 San Benito St,,,Hollister,California,95023,United States,5419053970,http://www.mad-beer.com,-121.402311,36.85005
-ce9573b0-30e9-464c-9371-0af1d9b6485a,Mad River Brewing Co,micro,101 Taylor Way,,,Blue Lake,California,95525,United States,7076684151,http://www.madriverbrewing.com,-123.992063,40.878682
+ce9573b0-30e9-464c-9371-0af1d9b6485a,Mad River Brewing Co,micro,195 Taylor Way,,,Blue Lake,California,95525,United States,7076684151,http://www.madriverbrewing.com,-123.99408,40.878857
 7534690e-a3b1-4d6e-ab4f-15eeb4e110af,Mad River Brewing Co,micro,195 Taylor Way,,,Blue Lake,California,95525,United States,7076684151,http://www.madriverbrewing.com,-123.99408,40.878857
 012a9f88-a14a-42eb-b455-1f5671fe8373,MadeWest Brewing Company,micro,1744 Donlon St.,,,Ventura,California,93003-1737,United States,8057011853,http://www.madewest.com,-119.237586,34.255913
 7e32b8ba-f0d6-4e22-9b07-0e6cfe279235,Magnolia Brewing Company,brewpub,1398 Haight St,,,San Francisco,California,94117-2909,United States,,,-122.4452044,37.7703537
@@ -781,7 +781,7 @@ a0eba939-757c-4343-9b88-1327d1db0976,Mindscape Fermentations,taproom,5424 Crossi
 3897f010-db31-4b2d-9373-4756987f5b5f,Miners Alley Brewing Company,brewpub,2053 Montgomery St,,,Oroville,California,95965-4947,United States,5306934388,http://www.minersalleybrewingco.com,-121.5549792,39.51414912
 0e8aa3fe-40d6-4d55-8d2f-2a3348f14421,Mission Brewery,micro,1441 L St,,,San Diego,California,92101-8967,United States,,http://www.missionbrewery.com,-117.151464,32.707185
 1f33d1c9-74e4-46bb-822e-aebfa1d180b9,Modern Times - The Dankness Dojo,brewpub,3725 Greenwood St,,,San Diego,California,92110-4441,United States,6195469694,,-117.206153,32.754233
-ab1d0e1c-87ce-4556-98af-8922c0d380ad,Modern Times Barrel House,micro,3486 Kurtz St # 102,,,San Diego,California,92110-4429,United States,,,-117.208725,32.75539325
+ab1d0e1c-87ce-4556-98af-8922c0d380ad,Modern Times Barrel House,micro,3612 Kurtz St,,,San Diego,California,92110-4429,United States,,,-117.211672,32.757522
 05138873-501c-461e-ac9c-b87fdaf55c53,Modern Times Barrel House,micro,3612 Kurtz St,,,San Diego,California,92110-4429,United States,,,-117.211672,32.757522
 579aa3fb-9386-4a0e-b617-8b4d72cd5075,Modern Times Beer,regional,3725 Greenwood St,,,San Diego,California,92110-4441,United States,6195469694,http://www.moderntimesbeer.com,-117.206153,32.754233
 68f03279-356c-48fa-89e4-448f0af04f46,Modern Times Drinks,regional,3725 Greenwood St,,,San Diego,California,92110-4441,United States,6195469694,http://www.moderntimesbeer.com,-117.206179,32.754207
@@ -828,7 +828,7 @@ bd119567-1524-49cd-a608-4b15f885a7f7,No Clue Craft Brewery,taproom,9037 Arrow Rt
 365669a0-156f-4d7c-8f11-e50bf0b85c80,Noble Ale Works,micro,1621 S Sinclair St Ste B,,,Anaheim,California,92806-5947,United States,7146342739,http://www.noblealeworks.com,-117.8826431,33.80875036
 0dcddf19-3164-4a49-aea6-4f1a6b9a29d0,Noble Ale Works,taproom,1621 S Sinclair St,,,Anaheim,California,92806-5947,United States,7146342739,http://www.noblealeworks.com,-117.882806,33.808416
 b4330ddc-134f-4fee-b76e-ce8bc49712a8,Nor Cal Brewing Co,taproom,800 Broadway St,,,Chico,California,95928,United States,5305923845,http://www.norcalbc.com,-121.836637,39.725388
-8ded24ab-ee4b-4ae5-89aa-279f870c5f99,North Coast Brewing Co Inc.,regional,455 N Main St,,,Fort Bragg,California,95437-3215,United States,7079642739,http://www.northcoastbrewing.com,-123.8057604,39.44618406
+8ded24ab-ee4b-4ae5-89aa-279f870c5f99,North Coast Brewing Co Inc.,regional,455 N. Main Street,,,Fort Bragg,California,95437,United States,17078130008,http://www.northcoastbrewing.com,-123.806249,39.446482
 ff652ee7-2d86-46dc-bfaf-68396507ec1b,North Coast Brewing Co Inc.,regional,455 N. Main Street,,,Fort Bragg,California,95437,United States,17078130008,http://www.northcoastbrewing.com,-123.806249,39.446482
 2a85f041-c3d9-4062-831a-9bf2eb9a9127,North Park Beer Co.,taproom,3038 University Ave,,,San Diego,California,92104-3002,United States,6192552946,http://www.northparkbeerco.com,-117.129138,32.748727
 a5ccfdc3-051a-444c-b51b-0091d9a799e0,Northern Pine Brewing,taproom,326 N Horne St,,,Oceanside,California,92054-2810,United States,7607541434,http://www.northernpinebrewing.com,-117.376738,33.199797
@@ -842,7 +842,7 @@ b3c357fb-2b60-4d9d-9a6b-cf0856b9d7a7,Oak Deli & Brewery,brewpub,1101 H St,,,Arca
 8b3d8e4c-661d-446b-bc66-b1b738feca80,Oak Grove Brewing Company,planning,,,,Glendale,California,91208-1836,United States,8183199577,http://Www.oakgrovebrewingcompany.com,-118.2462486,34.192912
 782d72e8-ff4a-449e-a2c0-76a5d4ae3903,Oak Hills Brewing,taproom,12221 Poplar St Ste 3,,,Hesperia,California,92344-9287,United States,7602448278,http://www.oakhillsbrewing.com,-117.396909,34.415428
 4922f203-3290-4063-a879-0009376395bc,Oak Park Brewing Co.,brewpub,3514 Broadway,,,Sacramento,California,95817,United States,9165242665,http://www.opbrewco.com,-121.468007,38.550593
-d57fb73d-3582-4f8d-8b86-8daea30c36f2,Oakland United Beerworks,micro,3775 Alameda Ave Ste G,,,Oakland,California,94601-3920,United States,5102518898,http://www.oaklandunitedbeerworks.com,-122.2720141,37.79470818
+d57fb73d-3582-4f8d-8b86-8daea30c36f2,Oakland United Beerworks,micro,262 2nd St,,,Oakland,California,94607,United States,5102518898,http://www.oaklandunitedbeerworks.com,-122.271937,37.794499
 2a4b4558-c365-4c99-b13c-8581e31a55e2,Oakland United Beerworks,micro,262 2nd St,,,Oakland,California,94607,United States,5102518898,http://www.oaklandunitedbeerworks.com,-122.271937,37.794499
 11f1fe94-506f-4117-b2b7-47346d9f094d,Ocean Beach Brewery,brewpub,5041 Newport Ave,,,San Diego,California,92107-3009,United States,6199558053,http://www.obbrewingco.com,-117.252049,32.747082
 2a2cfbe8-94b4-4128-bf9d-7a4051888b52,Ocean View Brew Works,taproom,627 San Pablo Ave,,,Albany,California,94706,United States,5102805127,http://www.oceanviewbrews.com,-122.299982,37.894104
@@ -914,7 +914,7 @@ b96b43ff-31cd-46f3-8c14-e225aeec0841,Papa Marce's Cerveceria,planning,,,,Carlsba
 39fed468-d378-4547-804d-38b21b89f004,Pennyweight Craft Brewing,brewpub,2455 Railroad Ave,,,Livermore,California,94550,United States,5107541685,http://www.pennyweightbrew.com,-121.766689,37.684014
 fc70ca5f-24fb-4665-87b9-b377f9cf996f,Pentagonal Brewing Co,closed,115 N Imperial Ave Suite A,,,Imperial,California,92251-1250,United States,7605451045,http://www.facebook.com/Pentagonalbrewingcompany/,-115.4192538,32.80049306
 a9273cf8-d8cf-4661-825d-edb295ba23d5,Persuasion Brewing Co,taproom,500 7th St,,,Modesto,California,95354,United States,,,-120.99732,37.634248
-1b2570c6-9396-41a3-8247-f2b9a0231018,Peter B's Brewpub,brewpub,2 Portola Plz Behind The Portola Hotel,,,Monterey,California,93940-2419,United States,8316492699,http://www.peterbsbrewpub.com,-121.8947298,36.60253247
+1b2570c6-9396-41a3-8247-f2b9a0231018,Peter B's Brewpub,brewpub,2 Portola Plz,,,Monterey,California,93940-2419,United States,8316492699,http://www.peterbsbrewpub.com,-121.894899,36.601475
 d788f5d8-a9c1-404f-8f25-afe870eeebb8,Peter B's Brewpub,brewpub,2 Portola Plz,,,Monterey,California,93940-2419,United States,8316492699,http://www.peterbsbrewpub.com,-121.894899,36.601475
 aa8a1144-494e-4f48-8793-da510818686f,Phantom Ales,brewpub,1211 N Las Brisas St,,,Anaheim,California,92806-1823,United States,7142253206,http://www.phantomales.com,-117.866808,33.854045
 adbc4ae2-16a5-4a7e-9303-c2c577021217,Phantom Carriage Brewery,brewpub,18525 S Main St,,,Gardena,California,90248-4611,United States,3105385834,http://www.phantomcarriage.com,-118.2760638,33.86203125
@@ -961,6 +961,7 @@ ac19d512-0d7c-4821-a198-1bc0dec4e9cc,Quantum Brewing Co,brewpub,5375 Kearny Vill
 8d0476aa-e160-44fb-94ab-946a2938d621,Rad Beer Company,taproom,1301 S Lewis St,,,Anaheim,California,92805,United States,,http://www.getradbeer.com,-117.898888,33.816544
 98d682d4-77be-475a-8d85-ad15c523c8d9,Radiant Beer Co.,taproom,1566 W. Lincoln Avenue,,,Anaheim,California,92801,United States,7146615790,http://www.radiantbeer.com,-117.936177,33.832405
 ccccc756-8f10-4d5a-b25e-ccdef10ae37a,Raymond Avenue Brewing,taproom,1755 Raymond Ave,,,Anaheim,California,92801,United States,7142154305,http://www.facebook.com/raymondavenuebrewing,-117.906973,33.860703
+906cb40a-e6c3-4fbb-8e25-8700f4bb2e86,Reborne Brewing Company,office only location,"1018 San Jose Avenue, Suite 101",,,Clovis,California,93612,United States,5593487261,,-119.697245,36.812006
 cc45c9bd-f7ff-43c4-bb2c-abc7cda31aec,Red Branch Brewing Company / Rabbits Foot Meadery,micro,1246 Birchwood Dr,,,Sunnyvale,California,94089-2205,United States,4087470770,http://www.redbranchcider.com,-121.9920827,37.40446295
 5379e6e8-6ea8-42eb-83d8-31a290e1420d,Red Bus Brewing Company,taproom,802 Reading St Ste A,,,Folsom,California,95630-3061,United States,9169857299,http://www.redbusbrew.com,-121.176046,38.670678
 f151a98d-1f85-4cc8-93c1-d58ffaa3f1d0,Red Car Brewery and Restaurant,brewpub,1266 Sartori Ave,,,Torrance,California,90501-2717,United States,3107820222,http://www.redcarbrewery.com,-118.315989,33.835734
@@ -977,7 +978,7 @@ b2d1bdb9-8fa0-4555-9666-d5b7d9cb96ae,Resident Brewing Co.,micro,1065 Fourth Aven
 3cd77720-c957-416f-aa4a-ee76c4c435ce,Right Eye Brewing Co,micro,301 Spring St,,,Suisun City,California,94585,United States,7074161347,http://www.righteyebrewing.com,-122.041544,38.242484
 b33bd5fc-16a9-49c7-8096-a01d2ac8f0c5,Riip Beer Company,micro,17216 Pacific Coast Hwy,,,Huntington Beach,California,92649-4116,United States,7142486710,http://www.riipbeer.com,-117.9872302,33.6480028
 72142e71-fdfc-44cd-a7a8-8c555ffb9005,Riip Beer Company,taproom,17214 PACIFIC COAST HWY,,,Huntington Beach,California,92649-4116,United States,7142486710,http://www.riipbeer.com,-118.063803,33.71253
-e9406c68-9114-4dc5-8d0a-d29595a7ae15,Riley's Brew Pub,brewpub,2674 Owens Mountain Pkwy Ste 104,,,Clovis,California,93611-9588,United States,5598622925,http://rileysbrew.pub,-119.6452626,36.855494
+e9406c68-9114-4dc5-8d0a-d29595a7ae15,Riley's Brew Pub,brewpub,2674 Owens Mountain Pkwy,,,Clovis,California,93611,United States,5598622925,http://rileysbrew.pub,-119.66483,36.846136
 e35be0e7-5197-4362-a705-2dce4398996d,Riley's Brew Pub,brewpub,2674 Owens Mountain Pkwy,,,Clovis,California,93611,United States,5598622925,http://rileysbrew.pub,-119.66483,36.846136
 8191369a-6f5c-4a6e-ba33-d6bc65abe913,Riley's Brewing Co,micro,28777 Avenue 15 1/2,,,Madera,California,93638,United States,5596738021,http://www.rileysbrewing.us,-120.022648,36.975329
 32a93d07-2b80-4078-8493-cb27f3613eb1,Rincon Brewery,brewpub,5065 Carpinteria Ave,,,Carpinteria,California,93013-2046,United States,8056846044,http://www.rinconbrewery.com,-119.5178586,34.39834
@@ -993,7 +994,7 @@ ccc58e3b-3eb4-4932-a843-afe6593ab96d,River Rock Brewery,micro,807 C St,,,Galt,Ca
 c7f4fa09-5cf0-4d5a-95b6-d679e7371a6b,Rivers End Brewing,taproom,2135 South Vasco Road,,,Livermore,California,94550,United States,9254564226,,-121.719923,37.67697
 a6426255-23dc-405e-80b4-5e1a9e6dcfba,Rock Bottom Brewery - La Jolla,brewpub,8980 Villa La Jolla Dr,,,La Jolla,California,92037-1701,United States,8584509277,http://www.rockbottom.com,-117.23519,32.870929
 1ec80be3-149d-4e9f-b1c1-d419463f745e,Rock Bottom Brewery - Long Beach,brewpub,1 Pine Ave,,,Long Beach,California,90802-4759,United States,5623082255,http://www.rockbottom.com,-118.192482,33.767797
-d99212a5-95f0-45eb-8e95-ddf1828ac86e,Rock Bottom Brewery - San Jose,brewpub,1875 S Bascom Ave Ste 700,,,Campbell,California,95008-2310,United States,4083770707,http://www.rockbottom.com,-121.9342507,37.28907802
+d99212a5-95f0-45eb-8e95-ddf1828ac86e,Rock Bottom Brewery - San Jose,brewpub,1875 S. Bascom Ste 700,,,Campbell,California,95008-2310,United States,4083770707,http://www.rockbottom.com,-121.933294,37.288299
 6c243f37-681d-4470-b9ad-0125a0a2e24c,Rock Bottom Brewery - San Jose,brewpub,1875 S. Bascom Ste 700,,,Campbell,California,95008-2310,United States,4083770707,http://www.rockbottom.com,-121.933294,37.288299
 1d3d77bb-f54c-43cf-81cd-e5a763db1d3b,Rocksteady Brewing Co.,brewpub,611 Escobar St,,,Martinez,California,94553-1111,United States,9252288787,http://www.creekmonkey.com,-122.1378119,38.0177998
 05f75b27-914a-45e3-9e99-883ed97572bd,Rocky Hill Brewing,closed,20147 Avenue 306,,,Exeter,California,93221-9763,United States,5595924594,,-119.1223301,36.34389838
@@ -1008,7 +1009,7 @@ d44fbd3a-f3e0-4d93-a8b6-a274d208811d,Rouleur Brewing Company,micro,5840 El Camin
 375c3fae-a1f7-4121-906a-ba1ea56b51f3,Rowdy's Brewing Company,taproom,10002 6th St Ste A,,,Rancho Cucamonga,California,91730-5784,United States,9099292722,http://rowdysbrewco.com,-117.587469,34.08568
 ed38e6c2-5100-4109-b95d-eb00af3c39ec,RT Rogers Brewing Co,taproom,38 E Montecito Ave STE 1,,,Sierra Madre,California,91024,United States,6269210308,http://www.rtrbrew.com,-118.051814,34.162771
 2545723c-f71f-454c-847a-d4c524132e3a,Rugged Coast Brewing,closed,817 Piner Ave,,,Santa Rosa,California,95403,United States,4156027272,http://www.ruggedcoastbrewing.com,-122.7334692,38.47262977
-4e7fcced-ba7b-4b66-b611-e2d8e10e3010,Ruhstaller Beer,micro,"800 Business Park Drive, Suite G",,,Dixon,California,95620,United States,5306018240,,-121.8196403,38.45364691
+4e7fcced-ba7b-4b66-b611-e2d8e10e3010,Ruhstaller Beer,micro,6686 Sievers Rd,,,Dixon,California,95620,United States,5306018240,,-121.816121,38.487206
 e8fc3db0-8353-4962-9885-c796966ca78a,Ruhstaller Beer,taproom,726 K St,,,Sacramento,California,95814-3403,United States,9169195691,http://www.ruhstallerbeer.com,-121.496959,38.579778
 4025e7ff-00ea-4ce9-96cc-d73fffc4e182,Ruhstaller Beer,micro,6686 Sievers Rd,,,Dixon,California,95620,United States,5306018240,,-121.816121,38.487206
 3d6163a4-cf96-4b96-b247-601c91a21391,Russian River Brewing - Windsor,regional,700 Mitchell Ln,,,Windsor,California,95492,United States,,,-122.800157,38.532
@@ -1053,7 +1054,7 @@ e42de666-0123-4bb0-a9bd-7fb4617eae11,Seaquake Brewing,micro,400 Front St,,,Cresc
 755ca0d8-9aa3-4626-8e94-09000e39a0b9,Second Son Brews,micro,12810 Road 38,,,Madera,California,93636-8671,United States,,,-119.8580965,36.93416059
 f8313ced-6edc-4ad8-a4b5-4d9f22e0c4a3,Second Son Brews,taproom,37167 Avenue 12,,,Madera,California,93636,United States,,,-119.872946,36.923471
 53e129df-2d65-420c-94b4-0db516c97146,"Secret Trail Brewing Company, LLC",taproom,132 Meyers St Ste 120,,,Chico,California,95928-8002,United States,9167094820,http://www.secrettrailbrewing.com,-121.817858,39.714548
-f2b7097c-f5ee-48fd-ab4b-a554b17a21c0,Seismic Brewing Co,micro,2932 Dutton Ave,,,Santa Rosa,California,95407-5711,United States,7075445996,http://www.seismicbrewingco.com/,-122.7236203,38.4042275
+f2b7097c-f5ee-48fd-ab4b-a554b17a21c0,Seismic Brewing Co,micro,2870 Duke Ct,,,Santa Rosa,California,95407-5711,United States,7077807606,http://www.seismicbrewingco.com,-122.722543,38.407922
 16d43d7d-ec59-4ec8-a845-51615f05e2bb,Seismic Brewing Co,micro,2870 Duke Ct,,,Santa Rosa,California,95407-5711,United States,7077807606,http://www.seismicbrewingco.com,-122.722543,38.407922
 7fe4eeb2-a179-4792-a8ba-e1bb7429a6fc,Sequoia Brewing Co - Tower District,brewpub,777 E Olive Ave,,,Fresno,California,93728-3350,United States,5592645521,http://www.sequoiabrewing.com,-119.801718,36.758145
 b1f636c4-b1b6-44dc-9ea5-637da406d097,Seven Stills,micro,100 Hooper St Ste. 4,,,San Francisco,California,94107,United States,4157570178,http://www.sevenstillsofsf.com,-122.3991969,37.76881492
@@ -1073,7 +1074,7 @@ d7e866fd-2ffb-48d2-9bea-50223c73be5e,Sidellis Lake Tahoe,brewpub,3350 Sandy Way,
 70e66be3-fd92-4db0-86f3-0f05807cc4e2,Sierra Nevada Brewing Co,regional,1075 E 20th St,,,Chico,California,95928-6722,United States,5308933520,http://www.sierranevada.com,-121.815989,39.723088
 3e96e2f2-46b2-4a7a-860e-b7fa52a8dc0e,Silo's,brewpub,530 Main St,,,Napa,California,94559-3378,United States,7072515833,http://www.silosnapa.com,-122.2828832,38.29617
 a43bae26-417f-4b3c-a1b5-1c08c74c4297,Silva Brewing,micro,525 Pine St Ste B,,,Paso Robles,California,93446-3185,United States,8053692337,http://www.silvabrewing.com,-120.688607,35.620118
-f25ef908-5b80-4cab-8aa1-76c508e3d884,Siskiyou Brew Works,brewpub,110 Squawvalley Rd,,,McCloud,California,96057,United States,5309255894,http://www.siskiyoubrewworks.com,-122.1357595,41.25073304
+f25ef908-5b80-4cab-8aa1-76c508e3d884,Siskiyou Brew Works,brewpub,110 Squaw Valley Rd,,,Mccloud,California,96057,United States,5309255894,http://www.siskiyoubrewworks.com,-122.135345,41.250632
 f94d7b7f-d233-4c7c-a4b6-afecaefeb8a0,Siskiyou Brew Works,brewpub,110 Squaw Valley Rd,,,Mccloud,California,96057,United States,5309255894,http://www.siskiyoubrewworks.com,-122.135345,41.250632
 54b5bff4-c4a8-4c4d-869e-2068e0ed37ac,Six Rivers Brewery,brewpub,1300 Central Ave,,,McKinleyville,California,95519-6429,United States,7078397588,,-124.100983,40.928235
 ecfd2951-9826-4eea-b11e-16131286e875,Skipolini's Pizza,brewpub,6600 Lonetree Blvd,,,Rocklin,California,95765,United States,9167891818,http://http://www.skipolinispizza.com/,-121.293329,38.79891
@@ -1088,7 +1089,7 @@ c267ba5a-d0dc-4725-85fd-18659fe5a006,Smog City Brewing,micro,1901 del Amo Blvd S
 bee91126-b9e1-4bb0-b7b1-dd746886e199,Smoking Cannon Brewery,taproom,780 Main St Ste I,,,Ramona,California,92065-2079,United States,7604077557,http://www.smokingcannonbrewery.com,-116.864978,33.043617
 6e862799-cb99-4d59-9eed-7255e4a44851,Snowshoe Brewing Company,brewpub,2050 Hwy 4,,,Arnold,California,95223,United States,2097952272,http://www.snowshoebrewing.com,-120.361978,38.242278
 bcf8b5aa-57c0-4f94-8809-c419091badc2,Social Kitchen & Brewery,brewpub,1326 9th Ave,,,San Francisco,California,94122-2309,United States,4156810330,http://www.socialkitchenandbrewery.com,-122.4660662,37.7635041
-cdab7b3e-8fbe-430f-9303-5399b1fc15df,Societe Brewing Company,micro,Societe Brewing Company 8262 Clairemont Mesa Blvd,,,San Diego,California,92111-1702,United States,7138161157,,-117.1463568,32.8338146
+cdab7b3e-8fbe-430f-9303-5399b1fc15df,Societe Brewing Company,micro,8262 Clairemont Mesa Blvd,,,San Diego,California,92111-1702,United States,7138161157,,-117.146266,32.834856
 273e3adf-3be2-426c-87a4-4984b97b8dfb,Societe Brewing Company,micro,8262 Clairemont Mesa Blvd,,,San Diego,California,92111-1702,United States,7138161157,,-117.146266,32.834856
 3132e49f-00e0-4cba-99f3-2214df86d0dc,Solano Brewing Company,taproom,5500 Weber Rd.,,,Vacaville,California,95687,United States,7073720040,http://www.solanobrew.com,-121.905898,38.402361
 a760e66e-82a3-4f7d-8145-bc3f79c995e2,Solarc Brewing,contract,134 S Avenue 57,,,Los Angeles,California,90042-4702,United States,6319442990,http://www.solarcbrewing.com,,
@@ -1116,7 +1117,7 @@ fc7df7f3-32fa-471d-9f34-5ebbe07162c5,South Park Brewing,brewpub,1517 30th St,,,S
 c5cbdec7-f48c-4e94-a1b5-b2dca664e66e,Southpaw BBQ & Southern Cooking,brewpub,2170 Mission St,,,San Francisco,California,94110-1247,United States,4159349300,http://www.southpawbbqsf.com,-122.4195306,37.7634391
 0c378519-6171-4f1a-9535-345a0e99af03,Speakeasy Ales and Lagers,micro,1195 Evans Ave,,,San Francisco,California,94124-1704,United States,4156423371,http://www.goodbeer.com,-122.381041,37.738585
 eee29813-8cdf-462b-8f05-28fba55de0a2,SR 76 Beerworks,closed,777 HARRAHS RINCON WAY,,,Valley Center,California,92082,United States,7607513100,http://www.SR76beerworks.com,-116.9565022,33.26707487
-939ad04e-cc0c-4998-a586-07e96dbec2b7,St Clair Brown Winery & Brewery,micro,816 Vallejo St,,,Napa,California,94559,United States,7072555591,http://www.stclairbrownwinery.com,-122.286082,38.304877
+939ad04e-cc0c-4998-a586-07e96dbec2b7,St Clair Brown Winery & Brewery,micro,850 Vallejo St,,,Napa,California,94559,United States,7072555591,http://www.stclairbrownwinery.com,-122.286676,38.304662
 336d535e-d64d-4010-b7e0-bbbad226e91b,St Clair Brown Winery & Brewery,micro,850 Vallejo St,,,Napa,California,94559,United States,7072555591,http://www.stclairbrownwinery.com,-122.286676,38.304662
 6a80eddc-4d8b-4ec5-989c-6f6397742bbb,St. Arnulf’s Brewing At Bouchee,brewpub,72785 CA-111,,,Palm Desert,California,92260,United States,4426663296,http://www.boucheecafeanddeli.com,-116.395432,33.721032
 2cffa385-76b3-4165-b9fc-c04afe0d0111,St. Florian's Brewery,closed,7704 Bell Rd Ste A,,,Windsor,California,95492-8518,United States,7078382739,http://www.stfloriansbrewery.com,-122.8033977,38.53735645
@@ -1230,7 +1231,7 @@ cb3230ed-ad40-4e87-88fa-e8086b13710d,Third Window Brewing Co,brewpub,406 E Haley
 3ed13b51-5dd1-40a6-a6a8-6b27c1bce3e7,ThirstyBear Organic Brewery,brewpub,661 Howard St,,,San Francisco,California,94105-3915,United States,4159740905,http://www.thirstybear.com,-122.399512,37.785543
 354effc2-1628-434f-bf21-1badf4447b4b,Thompson Brewing Co,brewpub,9900 Indiana Ave Ste 7,,,Riverside,California,92503-5498,United States,9519560480,http://www.thompsonbrewing.com,-117.449376,33.909121
 11074879-0fa1-4bbb-956e-d3d00a47262b,Thorn Brewing Company,taproom,1745 National Ave,,,San Diego,California,92113,United States,6195012739,http://www.thorn.beer,-117.147763,32.70214
-687e4cd5-76a2-4d9b-9ec8-78af03aa2027,Thorn Street Brewery,micro,3174 Thorn St,,,San Diego,California,92104-4636,United States,6195012739,http://www.thornstreetbrew.com,-117.125379,32.739337
+687e4cd5-76a2-4d9b-9ec8-78af03aa2027,Thorn Street Brewery,micro,3176 Thorn St,,,San Diego,California,92104,United States,,http://www.thornstreetbrew.com,-117.125329,32.739392
 84bcb3c2-2342-47aa-90d3-88644b669eef,Thorn Street Brewery,micro,3176 Thorn St,,,San Diego,California,92104,United States,,http://www.thornstreetbrew.com,-117.125329,32.739392
 90f9a8f3-eb01-4a91-997a-1791ae1cc0aa,Thr3e Punk Ales Brewing Co,taproom,259 Third Ave,,,Chula Vista,California,91910-2721,United States,6198579092,http://3punkales.com/red/index.html,-117.080144,32.642813
 83d92319-f24d-4946-a83b-b08362541b0a,Thr3e Punks Ale,micro,259 Third Ave,,,Chula Vista,California,91910-2721,United States,6198579092,http://3punkales.com/red/index.html,-117.080107,32.642827
@@ -1285,7 +1286,7 @@ b118c1ef-ae87-4ae7-8636-69968cf33598,TrustedGut LLC,micro,228 Redondo Ave,,,Long
 6c0d332d-0cb5-4b00-aa81-d04650eefe9a,TUYA SuperBrewing Co.,planning,,,,Santa Cruz,California,95062-1411,United States,8444878892,http://www.tuyasuperbrew.com,-122.0297182,36.974201
 ce6068ab-2993-4129-a451-c304506f817a,TW Pitchers Brewing Co,contract,1329 17th Ave,,,San Francisco,California,94122-1912,United States,4159992009,http://www.twpitchers.com,-122.4750486,37.76307771
 83eef722-8f24-4ea6-a1c6-9df161eaa0ce,Twisted Oak Tavern and Brewery,brewpub,2433 Ventura Blvd,,,Camarillo,California,93010,United States,8055864005,http://www.twistedoaktavern.pub/camarillo,-119.037226,34.216475
-353afc36-cb18-4de5-a77f-1a065ab1d6d1,Two Coast Brewing Co.,micro,14928 S Figueroa St,,,Gardena,California,90248,United States,3107300055,http://www.twocoastbrewing.com,-118.2819715,33.89680488
+353afc36-cb18-4de5-a77f-1a065ab1d6d1,Two Coast Brewing Co.,micro,14928 S. Figueroa Street,,,Gardena,California,90248,United States,3107300055,http://www.twocoastbrewing.com,-118.283023,33.896334
 7ca33825-5c95-4aac-9461-24eab92c653a,Two Coast Brewing Co.,micro,14928 S. Figueroa Street,,,Gardena,California,90248,United States,3107300055,http://www.twocoastbrewing.com,-118.283023,33.896334
 5cccb3f6-eb09-4a57-9709-d6ea09547e9c,Two Dude Brew,planning,,,,Clearlake,California,95422-8159,United States,7075337600,,-122.6263728,38.9582307
 c94fcb3e-59dd-4afc-9846-3fbf59b3ac8e,Two Pitchers Brewing Company,micro,2344 Webster St,,,Oakland,California,94612-3116,United States,5109994939,http://www.twopitchers.com,-122.264727,37.812968

@@ -9,13 +9,13 @@ b62b7c62-a4d8-44a2-bb50-492f9e865ee8,36 Fifty Brewing,taproom,120 N Chestnut St,
 e5992621-3c91-4968-b913-85972aa66fbb,"6 Bears & A Goat Brewing Company, LLC",brewpub,1140 International Pkwy,,,Fredericksburg,Virginia,22406-1126,United States,54035690562,http://www.6bgbrewingco.com,,
 52b0ec67-1e56-49f6-a4bb-e5eed59a155d,7 Dogs Brewpub,brewpub,360 W Spring St,,,Wytheville,Virginia,24382,United States,2762280994,,-81.085082,36.947536
 4a4e8e31-c8f6-42ad-8be0-8a4c0f1d3385,A Few Old Goats Brewing,taproom,515 8th St SW Ste 228,,,Roanoke,Virginia,24016,United States,5403399562,,-79.955788,37.270349
-a0111777-1fe6-4c8c-864e-c2518f5d5670,Adroit Theory Brewing Company,micro,404 Browning Ct Unit C,,,Purcellville,Virginia,20132-6171,United States,7034340553,http://www.adroit-theory.com,,
+a0111777-1fe6-4c8c-864e-c2518f5d5670,Adroit Theory Brewing Company,micro,404 Browning Ct,,,Purcellville,Virginia,20132-6171,United States,7034340553,http://www.adroit-theory.com,-77.720183,39.143909
 817389ea-e12a-4fb6-bace-5a5d3ef1d412,Adroit Theory Brewing Company,micro,404 Browning Ct,,,Purcellville,Virginia,20132-6171,United States,7034340553,http://www.adroit-theory.com,-77.720183,39.143909
 73e05bc6-30a9-42f5-917e-08def2fa33fa,Adventure Brewing Co,taproom,33 Perchwood Dr Ste 101,,,Fredericksburg,Virginia,22405-4552,United States,5402428876,http://www.adventurebrewing.com,-77.440559,38.384515
 09edf61c-b8b6-4f74-a9fa-f4f29bade5af,Adventure Brewing Co Eagle Village,taproom,1113 Jefferson Davis Hwy,,,Fredericksburg,Virginia,22401,United States,,,-77.479577,38.30733
 d4661358-81e2-454d-9fe2-b08ef6fc16fe,Adventure South,brewpub,3300 Dill Smith Dr,,,Fredericksburg,Virginia,22408-7319,United States,5403717799,http://www.adventurebrewing.com,,
 31746e2a-3704-458f-8235-437f53d5afe1,Alesatian Brewing Co.,brewpub,21 N Loudoun St,,,Winchester,Virginia,22601-4715,United States,5406672743,http://www.alesatianbrewing.com,-78.16559208,39.18446446
-e4148f94-4ce9-4fd2-9b05-faabdcca2b09,Alewerks Brewing Company,micro,197 Ewell Rd,,,Williamsburg,Virginia,23188-2185,United States,7572203670,http://www.alewerks.com,,
+e4148f94-4ce9-4fd2-9b05-faabdcca2b09,Alewerks Brewing Company,micro,189-B Ewell rd,,,Williamsburg,Virginia,23188-2185,United States,7572203670,http://www.alewerks.com,-76.733268,37.320842
 0e095460-6b24-4150-93e2-f6053a577cc1,Alewerks Brewing Company,micro,189-B Ewell rd,,,Williamsburg,Virginia,23188-2185,United States,7572203670,http://www.alewerks.com,-76.733268,37.320842
 09833562-f0b2-4fa0-bf0a-d96a6bf710ed,Alewerks L.A.B. Taproom,taproom,5711 Richmond Rd Ste 36,,,Williamsburg,Virginia,23188,United States,7572203670,,-76.737569,37.320351
 36442815-cce0-4fd7-8d40-daf06813fe17,Altered Suds Beer Co.,taproom,36A Main st,,,Warrenton,Virginia,20186,United States,5088371090,http://Alteredsudsbeer.com,-77.794878,38.713128
@@ -84,7 +84,7 @@ be59a906-5104-4365-ac07-d9dd7f25f9ae,Box Office Brewery,planning,,,,Strasburg,Vi
 c5015561-e911-4f06-a3c6-429c87a456e0,Box Office Brewery,brewpub,177 E King St,,,Strasburg,Virginia,22657-2238,United States,5402333353,http://Info@boxofficebrewery.com,-78.360496,38.989055
 f7dcf65f-f9cc-4996-9b0d-3c212bb42c52,Brass Cannon Brewing,micro,5476 Mooretown Rd,,,Williamsburg,Virginia,23188-2108,United States,7575660001,http://www.brasscannonbrewing.com,,
 afd13235-01e5-4f18-943f-04506400ebf8,Brasserie Saison,brewpub,111 E Main St,,,Charlottesville,Virginia,22902,United States,4342027027,,-78.481084,38.030901
-8ecb30eb-3537-4b11-8925-b63f09a0b3c9,Brew Republic Bierwerks,brewpub,15201 Potomac Town Pl Ste 120 Stonebridge @ Potomac Town Center,,,Woodbridge,Virginia,22191-6592,United States,7035947950,http://brewrepublic.beer,,
+8ecb30eb-3537-4b11-8925-b63f09a0b3c9,Brew Republic Bierwerks,brewpub,15201 Potomac Town Place #120,,,Woodbridge,Virginia,22191-6592,United States,7035947950,http://brewrepublic.beer,-77.287115,38.627359
 c1667ffe-46af-4a2e-b53c-f180f23c0b72,Brew Republic Bierwerks,brewpub,15201 Potomac Town Place #120,,,Woodbridge,Virginia,22191-6592,United States,7035947950,http://brewrepublic.beer,-77.287115,38.627359
 b0c00edd-f8b2-430e-84ba-763823dcb731,Brewing Tree Beer Company,brewpub,9278 Rockfish Valley Hwy,,,Afton,Virginia,22920,United States,5403810990,,-78.833549,37.967711
 eb63b691-1cd1-4bae-9ae7-e5d4e20259e5,Brick & Mortar Brewing Company,micro,212 E Washington St,,,Suffolk,Virginia,23434-4514,United States,7575331173,,-76.57994305,36.72740683
@@ -151,7 +151,8 @@ d43c27a7-0cb4-474d-a5a3-bce759a5b586,Everleigh Vineyards & Brewing Company,tapro
 4df55a90-f4fa-4966-9e9c-5d0beaa22d46,Extra Billys Brewery and Smokehouse,brewpub,1110 Alverser Dr,,,Midlothian,Virginia,23113-2654,United States,8043798727,http://www.extrabillys.com,-77.618529,37.507171
 da6da070-6a46-4579-b921-e947a1fef7b1,Fables & Feathers Winery,taproom,2117 Bruno Drive,,,Goodview,Virginia,24095,United States,5404200916,http://www.fablesandfeatherswinery.com,-79.708138,37.231692
 745a2ff2-4c9f-4396-a04a-b1d454ac516f,Factory Street Brewing Company,taproom,210 Factory St,,,South Boston,Virginia,24592,United States,,,-78.902448,36.696385
-3321c8e5-b94c-4eac-bdd7-2702889ab9f8,Fair Winds Brewing Company,micro,7000 Newington Rd Ste K& # L,,,Lorton,Virginia,22079-1133,United States,7033722001,http://www.fairwindsbrewing.com,,
+3321c8e5-b94c-4eac-bdd7-2702889ab9f8,Fair Winds Brewing Company,micro,"7000 Newington Rd
+Ste K & L",,,Lorton,Virginia,22079-1133,United States,7033722001,http://www.fairwindsbrewing.com,-77.18445,38.73855
 602fedf2-5191-4331-81bd-09eb1a4344b5,Fair Winds Brewing Company,micro,"7000 Newington Rd
 Ste K & L",,,Lorton,Virginia,22079-1133,United States,7033722001,http://www.fairwindsbrewing.com,-77.18445,38.73855
 20652f26-12e5-4a3e-8a7b-589f6626acb4,Far Gohn Brewing Company,brewpub,301 S East St,,,Culpeper,Virginia,22701-3105,United States,5404232089,http://www.fargohnbrewing.com,-77.994756,38.471394
@@ -407,7 +408,7 @@ cf19b93c-f80d-4c5b-80b5-70cf6cdb0e3f,Twinpanzee Brewing Company,micro,101 Execut
 1b2e6967-a506-4e9e-9a34-470ae9101074,Two Fathers Beer Co,contract,2016 Belvidere Rd,,,Virginia Beach,Virginia,23454-2233,United States,7573092518,http://www.twofathersbeer.com,-76.0389065,36.86874825
 f76749b3-5b42-4888-86ef-a238612e87f5,Unionville Brewing Co.,taproom,24333 Narrow Gauge Rd,,,Unionville,Virginia,22567,United States,2025507328,http://www.unionvillebrewingco.com,-77.949982,38.268656
 4e1f9466-2173-458d-b58d-0656112eb918,Vanish Farmwoods Brewery,brewpub,42245  Black Hops Ln,,,Leesburg,Virginia,20176-5498,United States,7037797407,http://vanishbeer.com,-77.537965,39.222458
-d521368b-3245-4084-9f94-4783ba1f3238,Vasen Brewing Company,micro,3331 Moore St,,,Richmond,Virginia,23230-4423,United States,8045885678,http://www.vasenbrewing.com,-77.4517779,37.5574905
+d521368b-3245-4084-9f94-4783ba1f3238,Vasen Brewing Company,micro,3331 W Moore St,,,Richmond,Virginia,23230-4423,United States,8045885678,http://www.vasenbrewing.com,-77.47276,37.570057
 d21562a6-b7b3-49f2-817c-2a3a85ee861f,Vasen Brewing Company,micro,3331 W Moore St,,,Richmond,Virginia,23230-4423,United States,8045885678,http://www.vasenbrewing.com,-77.47276,37.570057
 add3dcfb-12fd-4d9f-be5d-5119961df9ce,Vibrant Shore Brewing Company,planning,,,,Virginia Beach,Virginia,23451-2005,United States,8082805895,,,
 9e2dd7e7-c4b8-48ce-8cde-eece580b7562,Vibrissa Beer,brewpub,10 North Kent St,,,Winchester,Virginia,22601,United States,2028417774,http://www.vibrissabeer.com,-78.162454,39.183563

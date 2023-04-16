@@ -71,7 +71,7 @@ b0847fe6-cf6a-4fd5-ad56-d5dae59b07a8,Ghost River Brewing,micro,827 S Main St,,,M
 44ed4be7-68d3-4f49-a8b0-5deca09e43fe,Gladiator Brewing Co.,planning,,,,Clarksville,Tennessee,37040,United States,9137497035,,,
 d1313b43-41ef-4489-8838-24599726cf92,Granite City Food & Brewery,brewpub,1864 W McEwen Dr,,,Franklin,Tennessee,37067-1782,United States,,,-86.821561,35.934558
 0d4bef79-dad3-44ec-a21b-12946d8b9705,Great Oak Brewing Company,taproom,601 Spring St #101g,,,Johnson City,Tennessee,37604-6841,United States,4232328845,http://www.greatoakbrewing.com,-82.350866,36.314923
-7e5f0162-8ba1-4438-ac08-925878fcd96c,Grind City Brewing Company,micro,76 Waterworks Ave,,,Memphis,Tennessee,38107-1806,United States,9015452337,https://grindcitybrew.com,-90.0434951,35.1697202
+7e5f0162-8ba1-4438-ac08-925878fcd96c,Grind City Brewing Company,micro,76 Waterworks Avenue,,,Memphis,Tennessee,38107,United States,9015452337,,-90.044011,35.169544
 7fe1ae62-e841-496a-98b4-ecc1519c452d,Grind City Brewing Company,micro,76 Waterworks Avenue,,,Memphis,Tennessee,38107,United States,9015452337,,-90.044011,35.169544
 499f13b4-35de-4566-8817-15573433a453,Half Batch Brewing,micro,393 E Main St Suite 6A,,,Hendersonville,Tennessee,37075-2575,United States,6153394527,http://halfbatchbrewing.com,,
 b411e893-7e00-4d11-808f-baedbe480406,Hampline Brewing Company,micro,584 Tillman St Ste 1,,,Memphis,Tennessee,38112-2969,United States,9015092646,http://www.hampline.com,-89.961144,35.148549
@@ -86,7 +86,7 @@ a1e17e3d-a801-4e19-8568-4113fe7297f2,Hexagon Brewing Co,taproom,1002 Dutch Valle
 24b89f21-cf76-400c-9a51-83581985900b,High Cotton Brewing,micro,598 Monroe Ave,,,Memphis,Tennessee,38103-3214,United States,9015434444,http://www.highcottonbrewing.com,-90.040947,35.141239
 64112422-723d-4867-9dd8-4d9b448305d7,Hix Farm Brewery,micro,54 S Cedar Ave,,,Cookeville,Tennessee,38501-3216,United States,9313161623,http://www.hixfarmbrewery.com,-85.507921,36.161868
 7a134345-20ca-4aaa-a769-0a562ea17b73,Holston River Brewing Company,micro,2623 Volunteer Pkwy,,,Bristol,Tennessee,37620-,United States,4233611572,http://www.hrbrewing.com,-82.1910353,36.574583
-2d7398d5-4d9c-42ee-aee3-680048462d32,Honky Tonk Brewing Co,micro,240 Cumberland Bnd,,,Nashville,Tennessee,37228-1804,United States,6157429770,http://www.honkytonkbeer.com,,
+2d7398d5-4d9c-42ee-aee3-680048462d32,Honky Tonk Brewing Co,micro,5901 California Ave,,,Nashville,Tennessee,37209,United States,6157429770,http://www.honkytonkbeer.com,-86.858386,36.164403
 b0092fe8-03ce-48ec-b457-12c10d4ce597,Honky Tonk Brewing Co,micro,5901 California Ave,,,Nashville,Tennessee,37209,United States,6157429770,http://www.honkytonkbeer.com,-86.858386,36.164403
 1318bdb1-58d4-4252-a16c-43b2277887f3,Hook Point Brewing Co.,proprietor,,,,Collierville,Tennessee,38017,United States,8009582330,http://www.flathat.com,,
 963b053f-ddff-4196-b8d2-52fc36ffc301,Hook Point Brewing Co.,micro,184 S Mt Pleasant Rd,,,Collierville,Tennessee,38017,United States,9012864375,http://www.hookpointbrewing.com,-89.660392,35.040223
@@ -94,7 +94,7 @@ b0092fe8-03ce-48ec-b457-12c10d4ce597,Honky Tonk Brewing Co,micro,5901 California
 a07c4d4b-f7b7-470b-923f-2089af6816ee,Huckleberry Brewing Co.,brewpub,600A Frazier Dr,,,Franklin,Tennessee,37068,United States,6155039626,http://www.hucksbrew.com,-86.821438,35.945359
 601b1ef6-a25a-4a22-998b-44eb110d0ca1,Hutton & Smith Brewing Company,micro,431 E Martin Luther King Blvd # 120,,,Chattanooga,Tennessee,37403,United States,4237603600,http://www.huttonandsmithbrewing.com,,
 c7f93186-760b-4f6e-9165-d1ec27a1937c,Hutton & Smith Brewing Company - Production Facility,micro,3108 Riverside Drive,,,Chattanooga,Tennessee,37406,United States,4237603600,,-85.256993,35.076982
-fa35cb80-3d34-4fcf-b411-f9ad355b1531,"Jackalope Brewing Company, LLC",micro,701 8th Ave S,,,Nashville,Tennessee,37203-4104,United States,6158870807,http://www.jackalopebrew.com,-86.7794989,36.1503817
+fa35cb80-3d34-4fcf-b411-f9ad355b1531,"Jackalope Brewing Company, LLC",micro,429B Houston St,,,Nashville,Tennessee,37203,United States,6158734313,http://www.jackalopebrew.com,-86.766452,36.142692
 7bf17102-adf9-4fef-872c-fae3317bce00,"Jackalope Brewing Company, LLC",micro,429B Houston St,,,Nashville,Tennessee,37203,United States,6158734313,http://www.jackalopebrew.com,-86.766452,36.142692
 ee209064-11c6-4650-9e87-5bf9355eed33,Jig Head Brewing Company,taproom,310 Newman Dr,,,Cookeville,Tennessee,38501-4127,United States,9315104406,http://www.jigheadbrewing.com,-85.523867,36.145439
 436ddc22-bd9b-4633-86a9-c5cec2d432ea,Johnson City Brewing Co,micro,410 E State of Franklin Rd,,,Johnson City,Tennessee,37601-4871,United States,4239304186,http://www.johnsoncitybrewing.com,-82.34636962,36.31715951
