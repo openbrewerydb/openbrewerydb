@@ -78,6 +78,8 @@ const craftBreweries = abaBreweries.filter(
 const matches = new Map<string, string>();
 
 const breweriesById = breweries.reduce((m, b) => {
+  if (m.has(b.id))
+    console.log(`${b.id} already exists. ${b.name}, ${b.state_province}`);
   m.set(b.id, b);
   return m;
 }, new Map<string, Brewery>());
@@ -104,11 +106,17 @@ let formattedBreweries: Brewery[] = craftBreweries.map((brewery) => {
 });
 
 const abaBreweriesById = formattedBreweries.reduce((m, b) => {
+  if (m.has(b.id))
+    console.log(`${b.id} already exists. ${b.name}, ${b.state_province}`);
   m.set(b.id, b);
   return m;
 }, new Map<string, Brewery>());
 
 const breweryTable = new Map<string, Brewery>();
+
+function createKey(brewery: Brewery) {
+  return `${brewery.name.toLowerCase()}-${brewery.city.toLowerCase()}-${brewery.state_province.toLowerCase()}-${brewery.brewery_type.toLowerCase()}`;
+}
 
 breweries
   .filter(
@@ -119,10 +127,7 @@ breweries
       brewery.brewery_type
   )
   .forEach((brewery) => {
-    const key = slugify(
-      `${brewery.city.toLowerCase()}-${brewery.state_province.toLowerCase()}-${brewery.address_1.toLowerCase()}-${brewery.brewery_type.toLowerCase()}`,
-      slugifyOptions
-    );
+    const key = slugify(createKey(brewery), slugifyOptions);
     if (breweryTable.has(key)) {
       // Duplicate
       // console.log(`${key} already exists in breweryTable`);
@@ -132,10 +137,7 @@ breweries
   });
 
 formattedBreweries.forEach((formattedBrewery) => {
-  const key = slugify(
-    `${formattedBrewery.city.toLowerCase()}-${formattedBrewery.state_province.toLowerCase()}-${formattedBrewery.address_1.toLowerCase()}-${formattedBrewery.brewery_type.toLowerCase()}`,
-    slugifyOptions
-  );
+  const key = slugify(createKey(formattedBrewery), slugifyOptions);
   const brewery = breweryTable.get(key);
   if (brewery) {
     const similarity = stringSimilarity.compareTwoStrings(
@@ -147,6 +149,12 @@ formattedBreweries.forEach((formattedBrewery) => {
       similarity >= 0.8
     ) {
       matches.set(formattedBrewery.id, brewery.id);
+    } else {
+      console.log(
+        `${
+          formattedBrewery.id
+        } didn't match any name ${formattedBrewery.name.toLowerCase()}`
+      );
     }
   }
 });
