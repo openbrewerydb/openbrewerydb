@@ -190,7 +190,7 @@ for (const [abaBreweryId, brewery] of abaBreweriesById.entries()) {
 
 // Sort Breweries by name
 const sortedBreweries = Array.from(breweriesById.values()).sort((a, b) =>
-  a.name < b.name ? -1 : 1
+  a.name.localeCompare(b.name)
 );
 
 const numTotalBreweries = sortedBreweries.length;
