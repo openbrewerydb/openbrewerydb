@@ -21,9 +21,10 @@
     "generate:json": "ts-eager ./src/generate-json.ts",
     "generate:sql": "ts-eager ./src/generate-sql.ts",
     "validate": "ts-eager ./src/validate-csv.ts",
-    "workflow:maintain": "run-s validate csv:combine csv:split generate:json generate:sql",
-    "pipeline:dl:aba": "ts-eager ./src/pipeline/download-aba-dataset.ts",
-    "pipeline:merge:aba": "ts-eager ./src/pipeline/merge-aba-dataset.ts"
+    "workflow:combine": "run-s validate csv:combine csv:split generate:json generate:sql",
+    "workflow:split": "run-s validate csv:split csv:combine csv:split generate:json generate:sql",
+    "pipeline:download:ba": "ts-eager ./src/pipeline/download-ba-dataset.ts",
+    "pipeline:merge:ba": "ts-eager ./src/pipeline/merge-ba-dataset.ts"
   },
   "devDependencies": {
     "@types/glob": "^7.2.0",
