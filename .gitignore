@@ -22,3 +22,6 @@ node_modules/
 
 # Temp downloads
 tmp/
+
+# Archives (for testing)
+archive/ba-*

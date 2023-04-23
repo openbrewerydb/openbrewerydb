@@ -23,8 +23,8 @@
     "validate": "ts-eager ./src/validate-csv.ts",
     "workflow:combine": "run-s validate csv:combine csv:split generate:json generate:sql",
     "workflow:split": "run-s validate csv:split csv:combine csv:split generate:json generate:sql",
-    "pipeline:download:ba": "ts-eager ./src/pipeline/download-ba-dataset.ts",
-    "pipeline:merge:ba": "ts-eager ./src/pipeline/merge-ba-dataset.ts"
+    "pipeline:download:ba": "ts-eager ./src/pipeline/brewers-assoc/download-dataset.ts",
+    "pipeline:merge:ba": "ts-eager ./src/pipeline/brewers-assoc/merge-dataset.ts"
   },
   "devDependencies": {
     "@types/glob": "^7.2.0",
@@ -35,6 +35,7 @@
     "all-contributors-cli": "^6.20.0",
     "ansi-regex": ">=5.0.1",
     "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
     "eslint": "^8.10.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.4",

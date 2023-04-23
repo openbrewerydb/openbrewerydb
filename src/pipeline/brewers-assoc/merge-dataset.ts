@@ -4,12 +4,12 @@ import stringSimilarity from "string-similarity";
 import { v4 as uuid } from "uuid";
 import Papa from "papaparse";
 import slugify from "slugify";
-import { slugifyOptions, headers } from "../config.js";
-import { BrewersAssociation, Brewery } from "../types/index.js";
+import { slugifyOptions, headers } from "../../config";
+import { BrewersAssociation, Brewery } from "../../types/index.js";
 
-const baFilePath = path.join(__dirname, "../../tmp/ba-breweries.json");
-const breweriesFilePath = path.join(__dirname, "../../breweries.json");
-const csvFilePath = path.join(__dirname, "../../breweries.csv");
+const baFilePath = path.join(__dirname, "../../../tmp/ba-breweries.json");
+const breweriesFilePath = path.join(__dirname, "../../../breweries.json");
+const csvFilePath = path.join(__dirname, "../../../breweries.csv");
 let baBreweries: BrewersAssociation[];
 let breweries: Brewery[];
 

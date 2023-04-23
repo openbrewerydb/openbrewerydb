@@ -56,19 +56,32 @@ interface BrewersAssociationAttributes {
   url: string;
 }
 
-export interface BrewersAssociation {
-  attributes: BrewersAssociationAttributes;
+interface BrewersAssociationParent {
+  attributes: {
+    type: string;
+    url: string;
+  };
   Id: string;
   Name: string;
-  Parent: null | string;
+  Is_Craft_Brewery__c: boolean;
+  Membership_Record_Item__c: string;
+  Membership_Record_Paid_Through_Date__c: string;
+  Membership_Record_Status__c: string;
+}
+
+export interface BrewersAssociation {
+  Id: string;
+  Name: string;
   Phone: null | string;
   Website: string;
   Brewery_Type__c: string;
-  BillingAddress: BrewersAssociationBillingAddress;
   Is_Craft_Brewery__c: boolean;
   Voting_Member__c: boolean;
   Membership_Record_Item__c: null | string;
   Membership_Record_Paid_Through_Date__c: null | string;
   Membership_Record_Status__c: null | string;
   Account_Badges__c: null | string;
+  attributes: BrewersAssociationAttributes;
+  BillingAddress: BrewersAssociationBillingAddress;
+  Parent: null | BrewersAssociationParent;
 }
