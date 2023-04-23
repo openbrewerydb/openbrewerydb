@@ -19,3 +19,9 @@ node_modules/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
+
+# Temp downloads
+tmp/
+
+# Archives (for testing)
+archive/ba-*

@@ -1,250 +1,385 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 dbde8235-2b55-4d8b-8b1c-438155abe104,1905 Brewing Company,micro,1301 S Chestnut St,,,Assumption,Illinois,62510-8504,United States,2172549374,http://1905BrewingCompany.com,-89.0503635,39.5172564
+4519ba46-8844-414c-9334-0308870f30dc,1905 Brewing Company,taproom,121 North Chestnut,,,Assumption,Illinois,62510,United States,2179922424,http://1905BrewingCompany.com,-89.050025,39.519795
+55021b36-9a37-4c8f-af3c-2743ba64eeaa,2 Doors Down Brewing,taproom,112 Warner Ct,,,Clinton,Illinois,61727,United States,2175700776,,-88.959866,40.152066
+07ac65a4-375e-497f-9ea1-84b7266b4fd7,25 O'Clock Brewing Company,taproom,208 W Griggs St,,,Urbana,Illinois,61801,United States,,http://www.25oclock.net,-88.210053,40.114628
 098595c2-f606-40b4-9b49-195f73fb6fd6,350 Brewing Co,brewpub,7144 183rd St,,,Tinley Park,Illinois,60477-3933,United States,7088257339,http://www.350brewing.com,-87.79160288,41.55864726
 52dd0878-928b-4b47-b7fa-602f140592ed,4204 Main Street Brewing Co,brewpub,4204 W Main St,,,Belleville,Illinois,62226,United States,6184167261,,-90.02053343,38.53796122
+56908cc3-128e-4879-bde2-2429a1270b6c,4204 Main Street Brewing Co,micro,6435 W MAIN ST,,,Belleville,Illinois,62223-3801,United States,6184167261,,-90.039022,38.554332
 f927d8d6-3151-4073-9d20-410ca617853e,5 Rabbit Cerveceria Inc,micro,6398 W 74th St,,,Chicago,Illinois,60638-6129,United States,3128959591,http://www.5rabbitbrewery.com,-87.6572069,41.7595502
 5858b701-9e27-44e6-8ab8-b950b72c4181,51st Ward Beer Company,contract,323 N Washington St,,,Westmont,Illinois,60559-1512,United States,7732205899,,-87.981157,41.804494
 f4a902c1-e5a6-43da-b3e4-a1ffc97d31a9,5770 Brewery,micro,303A W Main St,,,Teutopolis,Illinois,62467-1355,United States,6183397841,http://www.5770brewery.com,-88.47806652,39.13142194
 3f3220f8-75f8-4fea-a5a4-289aa3267f11,"718BrewCafe, LLP",brewpub,718 Market St,,,Metropolis,Illinois,62960-1634,United States,6185247180,http://www.718BrewCafe.com,-88.73129158,37.15373334
+537fd53a-81e5-4f99-b257-7af31a896bef,93 Octane Brewery,brewpub,1825 Lincoln Highway,,,Saint Charles,Illinois,60174,United States,6305490332,http://www.93octanebrewery.com,-88.333583,41.89893
 42598f85-f02e-474c-9154-0aa4f1d932be,9th Hour Brewing Company LLC,planning,,,,Spring Grove,Illinois,60081-9459,United States,,,,
-c185b848-a69a-4d73-8a33-7b6f0db2e3fc,Afterthought Brewing Company,micro,844 N Ridge Ave,,,Lombard,Illinois,60148-1215,United States,6303011615,http://afterthoughtbrewing.com,-88.02234574,41.90549742
-4f79f427-8214-4048-8636-63cef96b33da,Alarmist Brewing Co,micro,4055 W Peterson Ave Ste REAR,,,Chicago,Illinois,60646-6072,United States,7739882536,http://alarmistbrewing.com,,
-1170049c-c20d-43c8-9475-0a42599f144c,Aleman Brewing,micro,3304 N Knox Ave,,,Chicago,Illinois,60641-4434,United States,8123404198,http://www.alemanchicago.com,-87.74301213,41.94087994
-108b8592-3098-42a3-b466-5c60e2e626af,All Rise Brewing Co,brewpub,235 N Ashland Ave,,,Chicago,Illinois,60607-1401,United States,3122266300,http://www.allrisebrewing.com,-87.6667328,41.8864021
-0026ad13-246b-4091-b344-641934ef7cc3,Alter Brewing Company,micro,2300 Wisconsin Ave Ste 213,,,Downers Grove,Illinois,60515-2234,United States,6305419558,http://www.alterbrewing.com,,
+197a131a-7d77-4cc2-a9e6-ef5c428e47a7,9th Hour Brewing Company LLC,taproom,136 Cedar Ave.,,,North Chicago,Illinois,600646,United States,,http://www.9thhourbrewing.com,-87.8581,42.3228
+574f3837-f5b8-4aac-b503-20d9d7817b53,Afterthought Brewing Company,micro,218 East Saint Charles Rd,,,Lombard,Illinois,60148,United States,6303011615,http://afterthoughtbrewing.com,-88.012931,41.888791
+c185b848-a69a-4d73-8a33-7b6f0db2e3fc,Afterthought Brewing Company - Production,micro,844 N Ridge Ave.,,,Lombard,Illinois,60148,United States,6303011615,,-88.022446,41.906125
+4f79f427-8214-4048-8636-63cef96b33da,Alarmist Brewing,micro,4055 W Peterson Ave Ste REAR,,,Chicago,Illinois,60646-6072,United States,7739882536,http://alarmistbrewing.com,-87.731413,41.98972
+1170049c-c20d-43c8-9475-0a42599f144c,Aleman Brewing,micro,3304 N Knox Ave,,,Chicago,Illinois,60641-4434,United States,8123404198,http://www.alemanchicago.com,-87.743236,41.940963
+108b8592-3098-42a3-b466-5c60e2e626af,All Rise Brewing Co,brewpub,235 N Ashland Ave,,,Chicago,Illinois,60607-1401,United States,3122266300,http://www.allrisebrewing.com,-87.666645,41.886353
+7118205d-e428-4754-a632-878886e1a9fe,Alter Brewing + Kitchen Oak Brook,brewpub,1170 22nd Street,,,Oak Brook,Illinois,60523,United States,,,-87.947073,41.847191
+9acf1de7-7d5c-4118-95e5-94dc96a6c24b,Alter Brewing + Kitchen St. Charles,brewpub,12 S. First St,,,Saint Charles,Illinois,60174,United States,3319015949,,-88.314128,41.913353
+0026ad13-246b-4091-b344-641934ef7cc3,Alter Brewing Company,brewpub,2300 Wisconsin Ave Ste 213,,,Downers Grove,Illinois,60515-2234,United States,6305419558,http://www.alterbrewing.com,-88.0406,41.790794
+f985b7d9-c92f-4d47-b5d4-c78f56d14d43,ALULU Brew Pub,brewpub,2011 S Laflin St,,,Chicago,Illinois,60608-3007,United States,3126009865,http://www.alulubrew.com,-87.663435,41.854734
+3dfec591-36b4-4083-9657-267a38030ef9,Analytical Brewing,taproom,510 W Main St,,,Lexington,Illinois,61753,United States,,http://analyticalbrewing.com,-88.786222,40.641384
+b3bc1eb5-ca79-41df-876b-0dc706471c78,Anvil and Forge Brewery and Distillery,brewpub,619 E Washington St Suite A,,,Springfield,Illinois,62701-1028,United States,2174946200,http://www.anvilandforge.com,-89.647572,39.801848
 0b0b64c0-f10c-4252-8243-e5b9255e0b95,"Ardent Spirits, Inc",planning,,,,Collinsville,Illinois,62234,United States,13143235530,http://Ardentspirits.com,,
 7a5dc3de-6ec7-4407-94fa-3ea9a5b627aa,Argus Brewery,micro,11314 S Front Ave,,,Chicago,Illinois,60628-5007,United States,7739414050,http://www.argusbrewery.com,-87.61206845,41.68854885
 d95ce7ad-97be-4a46-a9a0-85260f2bef4f,Around the Bend Beer Co.,contract,811 N Oak Park Ave,,,Oak Park,Illinois,60302-1538,United States,3129522339,http://www.atbbeerco.com,-87.79493034,41.90015593
-118dd02b-488c-48a7-bfd0-7b49ee168f96,Arrowhead Ales Brewing Company,brewpub,2101 Calistoga Dr,,,New Lenox,Illinois,60451-4826,United States,8157176068,http://www.arrowheadales.com,-87.95726941,41.48205844
+8f42cb82-487a-47cf-8a88-356d5a9f0d44,Around the Bend Beer Co.,micro,417 N Ashland Ave,,,Chicago,Illinois,60622-6711,United States,3129522339,http://www.atbbeerco.com,-87.666731,41.889407
+118dd02b-488c-48a7-bfd0-7b49ee168f96,Arrowhead Ales Brewing Company,brewpub,2101 Calistoga Dr,,,New Lenox,Illinois,60451-4826,United States,8157176068,http://www.arrowheadales.com,-87.957336,41.481518
+fb59d3bb-7e7e-43fa-b8e8-b226a41fb3a8,Artesia Brewing,taproom,384E 1200N,,,Thawville,Illinois,60968,United States,2172492509,http://www.artesiabrewing.com,-88.065006,40.677839
 1aefb103-ced0-49cb-96c2-b65a2222fb3d,Ballast Point Brewing Company,planning,,,,Chicago,Illinois,60607,United States,,,,
 2b725797-9b61-4bf9-bb7f-85127e955905,Band Of Bohemia,brewpub,4710 N Ravenswood Ave,,,Chicago,Illinois,60640-4408,United States,7732714710,http://bandofbohemia.com,-87.6750827,41.9675954
+c3bc9266-608a-4c6e-8c80-bcfdbf459e18,Baum's Brauhaus,micro,6731 E Stagecoach Rd,,,Waltonville,Illinois,62894,United States,6182313549,,-89.030638,38.262964
 b6a77bad-f595-40f7-9741-ed4c63d804e1,BBGB Brewery And Hop Farm,brewpub,2000 Orchard Rd,,,North Aurora,Illinois,60542-1674,United States,8479093072,http://www.eathardware.com/,,
-6bece4ab-f1f5-487e-a326-150ee9487d0b,Bearded Owl Brewing,brewpub,112 State St Ste 1A,,,Peoria,Illinois,61602-5121,United States,3093601980,,,
-01883283-4a13-4857-9aad-e06298863ff3,Begyle Brewing,micro,1800 W Cuyler Ave Ste 1E,,,Chicago,Illinois,60613-3892,United States,7736616963,http://www.begylebrewing.com,,
+6bece4ab-f1f5-487e-a326-150ee9487d0b,Bearded Owl Brewing,brewpub,112 State St Ste 1A,,,Peoria,Illinois,61602-5121,United States,3093601980,,-89.595104,40.685607
+01883283-4a13-4857-9aad-e06298863ff3,Begyle Brewing,taproom,1800 W Cuyler Ave Ste 1E,,,Chicago,Illinois,60613-3892,United States,7736616963,http://www.begylebrewing.com,-87.674413,41.955411
 1fcbc3b2-91be-4668-9519-e0ec141e1ec6,Belly Up Beer Company,micro,,,,Western Springs,Illinois,60558,United States,7088379762,http://www.bellyupbeer.com,,
-457f03ac-e315-4d9a-9a66-f091e90698da,Bent River Brewing Co,brewpub,1413 5th Ave,,,Moline,Illinois,61265-1335,United States,3097972722,http://www.bentriverbrewing.com,-90.51736337,41.50590516
-c542eae9-6b85-4583-84c4-cba24c0cd68c,Bent River Brewing Co Production & Tasting Room,micro,512 24th St,,,Rock Island,Illinois,61201-8928,United States,3092834811,http://www.bentriverbrewery.com,-90.5669283,41.5076339
-13508268-325c-40ae-b1da-c7a4a295c6cb,Big Muddy Brewing Co,micro,1430 N 7th St,,,Murphysboro,Illinois,62966-3938,United States,6186848833,http://www.bigmuddybrewing.com,-89.33204055,37.78182292
-dc4706e6-80e6-4c6e-adc1-504f0711adbc,Big Thorn Farm and Brewery,micro,14274 E 600 North Rd,,,Georgetown,Illinois,61846-7594,United States,2175970156,http://www.bigthornfarm.com,,
-66cb7863-0a8f-49e0-96e5-d29ed5b69e86,Birreria @ Eataly,brewpub,43 E Ohio St,,,Chicago,Illinois,60611-2701,United States,,http://www.eataly.com,-87.6262332,41.89209845
-4eac342b-e067-425f-995e-aeb089a10f85,Black Horizon Brewing Company,micro,7560 S Quincy St,,,Willowbrook,Illinois,60527-5545,United States,6304134964,http://www.blackhorizonbrewing.com,,
-67836207-49ed-4d67-8dca-8f66acdcbb00,Blind Pig Brewery,brewpub,120 N Neil St,,,Champaign,Illinois,61820-4023,United States,2173985133,http://www.blindpigbrewery.com,-88.24341082,40.11714609
+c542eae9-6b85-4583-84c4-cba24c0cd68c,Bent River Brewing Co Production & Tasting Room,micro,512 24th St,,,Rock Island,Illinois,61201-8928,United States,3092834811,http://www.bentriverbrewery.com,-90.567059,41.507501
+457f03ac-e315-4d9a-9a66-f091e90698da,Bent River Brewing Co.,micro,1413 5th Ave,,,Moline,Illinois,61265-1335,United States,3092697242,http://www.bentriverbrewing.com,-90.517401,41.505934
+13508268-325c-40ae-b1da-c7a4a295c6cb,Big Muddy Brewing Co,micro,1430 N 7th St,,,Murphysboro,Illinois,62966-3938,United States,6186848833,http://www.bigmuddybrewing.com,-89.331627,37.784315
+08db43c6-6fe2-49a3-a970-5ad8c1203e64,Big Swing Brew Pub,brewpub,113 18th St,,,Rock Island,Illinois,61201,United States,3097888247,,-90.574457,41.511915
+dc4706e6-80e6-4c6e-adc1-504f0711adbc,Big Thorn Farm and Brewery,brewpub,14274 E 600 North Rd,,,Georgetown,Illinois,61846-7594,United States,2175970156,http://www.bigthornfarm.com,-87.669658,39.953999
+66cb7863-0a8f-49e0-96e5-d29ed5b69e86,Birreria @ Eataly,location,43 E Ohio St,,,Chicago,Illinois,60611-2701,United States,,http://www.eataly.com,-87.626051,41.892109
+4bbcc9f7-0766-4c4f-88c0-552d919ee93a,Bixi Beer,brewpub,2515 N Milwaukee Ave,,,Chicago,Illinois,60647,United States,7739047368,http://www.bixi.beer,-87.703884,41.927232
+681ad565-dbbd-4620-956d-1aeb0ab931bf,Black & Gray Brewing Co.,taproom,311 Barrington Ave Unit B,,,East Dundee,Illinois,60118,United States,3123440592,http://www.blackandgraybrewing.com,-88.275252,42.102339
+4eac342b-e067-425f-995e-aeb089a10f85,Black Horizon Brewing Company,taproom,7560 S Quincy St,,,Willowbrook,Illinois,60527-5545,United States,6304134964,http://www.blackhorizonbrewing.com,-87.941964,41.751288
+67836207-49ed-4d67-8dca-8f66acdcbb00,Blind Pig Brewery,micro,120 N Neil St,,,Champaign,Illinois,61820,United States,2173985133,,-88.243032,40.117029
+69106774-277d-483c-960e-1c929b8d2aa5,Blind Pig Brewery - Production Facility,micro,505 N Market St,,,Champaign,Illinois,61820-4023,United States,2173985133,http://www.blindpigbrewery.com,-88.240747,40.120241
 2daa16bf-b6ef-40f1-b70a-b3590227c0b5,Blue Cat Brew Pub,brewpub,113 18th St,,,Rock Island,Illinois,61201-8708,United States,3097888247,http://www.bluecatbrewpub.com,-90.5145797,41.51094347
-9c8281e9-37e8-4f0f-8608-5be45c0148fd,Blue Island Beer Co,micro,13357 Olde Western Ave,,,Blue Island,Illinois,60406-2969,United States,7089548085,http://www.blueislandbeerco.com,,
+9c8281e9-37e8-4f0f-8608-5be45c0148fd,Blue Island Beer Co,taproom,13357 Olde Western Ave,,,Blue Island,Illinois,60406-2969,United States,7089548085,http://www.blueislandbeerco.com,-87.68078,41.649899
 151dc23e-ecd8-4402-a4c5-2fac488d5e92,Blue Nose Brewery,micro,6119 East Ave,,,Hodgkins,Illinois,60525-4126,United States,7089055198,http://www.bluenosebrewery.com,-87.85833464,41.77904908
+b90bb630-55bc-4282-871c-089b871a1582,Bold Dog Beer Company,micro,4727 W Montrose Ave Ste 3,,,Chicago,Illinois,60641,United States,3098830973,http://www.bolddogbeerco.com,-87.745917,41.960312
 e1a5d62a-19a5-4a73-9aa6-0e7ca2799868,Border Town Pub,brewpub,22 N Dixie Hwy # 28,,,Momence,Illinois,60954-1504,United States,8154724340,http://www.BorderTownPub.com,-87.66261835,41.16238275
+5c602dd3-b450-4af0-b240-ddb2e1d70c9f,Bosacki's Home Brew,taproom,610 E Hawley St,,,Mundelein,Illinois,60060,United States,2247785400,http://www.bosackishomebrew.com,-87.995132,42.27089
 567ae586-5467-47bb-8ef1-9fdad82f5647,BrickStone Brewery,micro,572 Brewery Ln,,,Bourbonnais,Illinois,60914-2196,United States,8159369277,,,
-2c0d7a26-0890-40f6-8f9e-7b3bb1975f68,BrickStone Brewery Brewpub,brewpub,557 William Latham Dr,,,Bourbonnais,Illinois,60914-2319,United States,8159369277,http://www.brickstonebrewery.com,-87.881654,41.162675
+91425062-3b94-4379-af1a-a9c2ccd59674,BrickStone Brewery - Production Facility,micro,572 Brewery Ln,,,Bourbonnais,Illinois,60914,United States,,http://www.brickstonebrewery.com,-87.882714,41.160042
+2c0d7a26-0890-40f6-8f9e-7b3bb1975f68,BrickStone Brewery Brewpub,brewpub,557 William Latham Dr,,,Bourbonnais,Illinois,60914-2319,United States,8159369277,http://www.brickstonebrewery.com,-87.88482,41.163042
+8d796644-fbaf-4ce4-8510-5cf5f84ee2f7,Broken Tee Brewing Company,brewpub,406 Green Bay Rd,,,Highwood,Illinois,60040-1306,United States,8477803043,http://www.brokenteebrewco.com,-87.811257,42.20353
+d724dfe0-0a24-4ebf-8cb6-f2a9527a94f5,Brother Chimp Brewing,taproom,1059 W. Orchard Road,,,North Aurora,Illinois,60542,United States,6308001724,http://www.brotherchimpbrewing.com,-88.34814,41.818314
+f9a600ea-30e5-470d-a0ed-8c96a36604a7,Brothership Brewing,taproom,18781 S 90th Ave,,,Mokena,Illinois,60448,United States,7089957014,http://www.brothershipbrewing.com,-87.837169,41.549131
 e869121f-a5be-4382-8243-8a51ab8af429,Buchanan Craft LLC,planning,,,,Chicago,Illinois,60647-9735,United States,6307722199,,,
-cbe836b4-5236-4448-9587-b9da70e18355,BuckleDown Brewing,micro,8700 47th St,,,Lyons,Illinois,60534-1626,United States,7087771842,http://buckledownbrewing.com,-87.8034082,41.8083636
+cbe836b4-5236-4448-9587-b9da70e18355,BuckleDown Brewing,micro,8700 47th St,,,Lyons,Illinois,60534-1626,United States,7087771842,http://buckledownbrewing.com,-87.836992,41.805946
 0e2a877e-eb87-46bc-a614-c27999391442,Buffalo Creek Brewing,micro,360 Historical Ln,,,Long Grove,Illinois,60047-9613,United States,8478216140,http://www.facebook.com/buffalocreekbrewing,-87.99776222,42.17719457
 46cf9ab8-ae15-4f2f-9ad6-50b200e8ba94,Burning Bush Brewery,planning,,,,Wilmette,Illinois,60091-2703,United States,,,,
+722b847f-63c8-4ce2-a33e-08b61cf3adb9,Burning Bush Brewery,taproom,4014 N. Rockwell St,,,Chicago,Illinois,60618,United States,8478580641,http://www.burningbushbrewery.com,-87.693399,41.954703
 a4aa30b0-6073-4a0b-b9ca-c8669fa9f816,Burnt City Brewing,micro,2747 N Lincoln Ave,,,Chicago,Illinois,60614-1320,United States,7732951270,http://www.burntcitybrewing.com,-87.65722732,41.93185255
-047e6c05-5c5f-4eee-b953-0a7c796404c3,Buzz Bomb Brewing Co,micro,406 E Adams St,,,Springfield,Illinois,62701,United States,2176794157,http://www.buzzbombbrewingco.com,-89.65050394,39.8005279
+d58fd4b6-ab7e-443b-90a3-ea1a6d7f15b6,Burnt City Brewing,taproom,417 N. Ashland Avenue,,,Chicago,Illinois,60622,United States,7732951270,http://www.burntcitybrewing.com,-87.666731,41.889407
+047e6c05-5c5f-4eee-b953-0a7c796404c3,Buzz Bomb Brewing Co,taproom,406 E Adams St,,,Springfield,Illinois,62701,United States,2176794157,http://www.buzzbombbrewingco.com,-89.650371,39.800378
+b4743541-f0bd-4ad5-819e-a984c04c16f2,Buzz Bomb Brewing Co - Production Facility,micro,523 W Matilda St,,,Illiopolis,Illinois,62539,United States,2176794157,,-89.254466,39.850003
 24ed88ac-5267-4d15-be7a-c6fa35befd1f,Byers Brewing Company,planning,,,,DeKalb,Illinois,60115-4661,United States,8159705318,,,
-e5c79228-a725-4fb7-a853-5b0a43590466,Carlyle Brewing Co,brewpub,215 E State St,,,Rockford,Illinois,61104-1010,United States,8159632739,http://www.carlylebrewing.com,-89.09053,42.2689989
+fae3c64a-60d4-43ad-a488-2b857f29cd2e,Byers Brewing Company,taproom,230 E Lincoln Hwy,,,DeKalb,Illinois,60115-4661,United States,8153080733,http://Www.byersbrewingcompany.com,-88.752264,41.929713
+e5c79228-a725-4fb7-a853-5b0a43590466,Carlyle Brewing Co,brewpub,215 E State St,,,Rockford,Illinois,61104-1010,United States,8159632739,http://www.carlylebrewing.com,-89.09067,42.268918
 acdc94d7-84a9-49d4-b604-cdb737ca2834,Cary Ale House,brewpub,208 W Main St Lowr 1,,,Cary,Illinois,60013-2786,United States,8476397244,http://caryalehousebrewing.com,,
+3887d4b7-82f1-4a96-ab43-c3452ebfb8b4,Cary Ale House & Brewing Company,brewpub,208 W Main St Lowr 1,,,Cary,Illinois,60013-2786,United States,8476397244,http://caryalehousebrewing.com,-88.243114,42.209099
 3c820163-0cdf-4f61-a2d7-bb294da08380,Chicago Beer Company,contract,1140 W Randolph St,,,Chicago,Illinois,60607-1619,United States,7732448696,http://www.chicagobeerco.com,-87.65589165,41.88434
 6fae9a05-6763-4a14-9812-bc6101b5860c,Church Street Brewing Company,micro,1480 Industrial Dr Ste C,,,Itasca,Illinois,60143-1857,United States,6307098851,http://www.churchstreetbrew.com,,
-99bf7864-8bb8-44cb-a933-49a45b5e47af,Corridor Brewery & Provisions,brewpub,3446 N Southport Ave,,,Chicago,Illinois,60657-1420,United States,7732704272,,-87.6643524,41.9447594
-1d2b23a3-7fdf-4f47-b96d-36bd027fe822,Cruz Blanca Brewery,brewpub,904 W Randolph St,,,Chicago,Illinois,60607-2208,United States,3127331975,http://www.cruzblanca.com,-87.6501403,41.8846013
-e8cad295-e28e-4bb1-8101-5de1049846b2,Crystal Lake Brewing Co.,micro,150 N Main St,,,Crystal Lake,Illinois,60014-4433,United States,,,-88.316204,42.2413125
+99bf7864-8bb8-44cb-a933-49a45b5e47af,Corridor Brewery & Provisions,brewpub,3446 N Southport Ave,,,Chicago,Illinois,60657-1420,United States,7732704272,,-87.664327,41.944731
+1d15c43b-f562-4f13-879b-be8661be825a,Crazy Llama Brewing Company,taproom,5312 Williams Dr,,,Roscoe,Illinois,61073,United States,,,-89.011944,42.421197
+a4618d43-de65-4d62-8787-9d958657b67d,Crushed By Giants,brewpub,600 N. Michigan Ave,,,Chicago,Illinois,60611,United States,3125440322,http://www.crushedbygiants.com,-87.624861,41.892926
+1d2b23a3-7fdf-4f47-b96d-36bd027fe822,Cruz Blanca Brewery,brewpub,904 W Randolph St,,,Chicago,Illinois,60607-2208,United States,3127331975,http://www.cruzblanca.com,-87.650492,41.884631
+e8cad295-e28e-4bb1-8101-5de1049846b2,Crystal Lake Brewing,micro,150 N Main St,,,Crystal Lake,Illinois,60014-4433,United States,,,-88.316468,42.245613
+60c511ed-0542-4d00-ac2e-b67485671620,Cypress Grove Brewing,taproom,1414 N 2400 East Rd,,,Assumption,Illinois,62510,United States,2172549374,http://www.CypressGroveBrewing.com,-89.080274,39.553837
+e17e9d6b-f507-4f58-91c7-cbceffce6a57,D and G Brewing Company,taproom,303 N 4th St,,,Saint Charles,Illinois,60174,United States,7732032325,http://www.dandgbrewing.com,-88.319069,41.915868
+15a0a64b-d5dc-4374-86e0-f10953c109e0,D. Litch's Beer (at Depot Nuevo),taproom,1139 Wilmette Ave,,,Wilmette,Illinois,60091,United States,8472513111,,-87.705452,42.077487
 cfb26ba4-d716-495e-9ce8-b40d3a0cf9f3,Decatur Brew Works,micro,101 N Main St,,,Decatur,Illinois,62523-1206,United States,2173308683,http://www.decaturbrewworks.com,-88.95573973,39.84128742
+d58bfc9b-7b5e-41d0-8e38-fb48f4939c53,Decatur Brew Works,brewpub,102 E William St,,,Decatur,Illinois,62523,United States,2173308683,http://www.decaturbrewworks.com,-88.955503,39.843793
 887a5d64-2fa8-4695-9265-8bc11cfd686f,DeNovo Beverage of Monmouth,micro,105 S A St,,,Monmouth,Illinois,61462-1706,United States,,http://www.denovobrewing.co,-90.64964464,40.9112055
 bebafffa-c64f-4b11-8497-7b3ec0648bfd,DESTIHL - Champaign,brewpub,301 N Neil St,,,Champaign,Illinois,61820-3163,United States,2173560301,http://www.destihl.com,-88.2437783,40.1184918
-088897ee-bbe3-4ba5-9aaf-5ff9618cf260,DESTIHL - Normal,brewpub,318 S Towanda Ave,,,Normal,Illinois,61761-2212,United States,3098622337,http://www.destihl.com,-88.960562,40.509706
-74311046-203d-4c6e-b156-1100b4b7a2eb,DESTIHL Brewery,micro,1200 Greenbriar Dr,,,Normal,Illinois,61761-6459,United States,3092209901,http://www.destihl.com,-88.94598211,40.52905465
+088897ee-bbe3-4ba5-9aaf-5ff9618cf260,DESTIHL - Normal,brewpub,318 S Towanda Ave,,,Normal,Illinois,61761-2212,United States,3098622337,http://www.destihl.com,-88.957007,40.504643
+74311046-203d-4c6e-b156-1100b4b7a2eb,DESTIHL Brewery,regional,1200 Greenbriar Dr,,,Normal,Illinois,61761-6459,United States,3092181616,http://www.destihl.com,-88.944037,40.53074
 d4a27cbf-93bd-4b3d-89b3-3b1898336f74,Door 4 Brewing Co,micro,1214 W Cerro Gordo St,,,Decatur,Illinois,62522-2008,United States,2173302008,http://www.door4brewing.com,-88.97523814,39.84662586
-c71cd9d0-be0f-4528-8d21-9f89957372f9,Dovetail Brewery,micro,1800 W Belle Plaine Ave,,,Chicago,Illinois,60613-1827,United States,,http://www.dovetailbrewery.com,-87.6743858,41.9561589
-b28c0edf-d271-4d60-997a-aa52aab7170f,Dry City Brew Works,micro,120B N Main St,,,Wheaton,Illinois,60187-,United States,6304564787,http://www.drycitybrewworks.com,-88.1069594,41.86544335
-d1ad3b1d-f62b-46d5-a5fa-a22a402b61a3,Dryhop Brewers,micro,3155 N Broadway St,,,Chicago,Illinois,60657-4508,United States,7738573155,http://www.dryhopchicago.com,,
-f4fd3cd9-6837-4ed0-b7f7-5f9635caa68e,Elder Brewing Co.,micro,218 E Cass St,,,Joliet,Illinois,60432-2813,United States,,http://www.elderbrewingco.com,-88.076785,41.527834
+c71cd9d0-be0f-4528-8d21-9f89957372f9,Dovetail Brewery,taproom,1800 W Belle Plaine Ave,,,Chicago,Illinois,60613-1827,United States,7736831414,http://www.dovetailbrewery.com,-87.674721,41.956322
+b28c0edf-d271-4d60-997a-aa52aab7170f,Dry City Brew Works,taproom,120B N Main St,,,Wheaton,Illinois,60187,United States,6304564787,http://www.drycitybrewworks.com,-88.106805,41.865475
+d1ad3b1d-f62b-46d5-a5fa-a22a402b61a3,Dryhop Brewers,brewpub,3155 N Broadway St,,,Chicago,Illinois,60657-4508,United States,7738573155,http://www.dryhopchicago.com,-87.644017,41.93938
+2ade4cba-d3b9-451a-b748-315bb16ffdf3,Effing Brew Company,brewpub,221 W Jefferson Ave,,,Effingham,Illinois,62401,United States,2173472337,http://www.effingbrewco.com,-88.544039,39.121113
+f4fd3cd9-6837-4ed0-b7f7-5f9635caa68e,Elder Brewing Co.,taproom,218 E Cass St,,,Joliet,Illinois,60432-2813,United States,,http://www.elderbrewingco.com,-88.07639,41.527781
 f9db90cc-435a-4b8e-b390-4800da326bb0,Elmhurst Brewing Company,brewpub,171 N Addison Ave,,,Elmhurst,Illinois,60126-2720,United States,6308342739,http://www.elmhurstbrewing.com,-87.94146327,41.90285936
-f369e864-9712-40dc-8030-ffc76435069b,Emmett's Brewing Co - Downers Grove,brewpub,5200 Main St,,,Downers Grove,Illinois,60515-4688,United States,6304348500,http://www.emmettsbrewingco.com,-88.01051205,41.7925884
-4987fe4b-7bd7-4d18-857b-3e3c0cb3dafd,Emmett's Brewing Co - Palatine,brewpub,110 N Brockway St,,,Palatine,Illinois,60067-5063,United States,8473591533,http://www.emmettsbrewingco.com,-88.046297,42.11332289
-e1422bf2-0baf-41f8-a91a-50ae379acc8f,Emmett's Brewing Co - West Dundee,brewpub,128 W Main St,,,West Dundee,Illinois,60118-2017,United States,8474284500,http://www.emmettsbrewingco.com,-88.2784177,42.0984146
-8c207722-6895-4bbb-bb8a-eb0989c476ef,Emmett's Brewing Co - Wheaton,brewpub,121 W Front St,,,Wheaton,Illinois,60187-5108,United States,6303832020,http://www.emmettsbrewingco.com,-88.10705232,41.86494217
+db854381-a6d7-46b6-9b8c-ad0e676829ff,Emancipation Brewing Company,taproom,13113 North 2500 East Road,,,Fairbury,Illinois,61739,United States,8154195278,http://www.emancipationbrewingco.com,-88.451221,40.818884
+f369e864-9712-40dc-8030-ffc76435069b,Emmett's Brewing Co - Downers Grove,brewpub,5200 Main St,,,Downers Grove,Illinois,60515-4688,United States,6304348500,http://www.emmettsbrewingco.com,-88.010508,41.792558
+4987fe4b-7bd7-4d18-857b-3e3c0cb3dafd,Emmett's Brewing Co - Palatine,brewpub,110 N Brockway St,,,Palatine,Illinois,60067-5063,United States,8473591533,http://www.emmettsbrewingco.com,-88.046435,42.112804
+e1422bf2-0baf-41f8-a91a-50ae379acc8f,Emmett's Brewing Co - West Dundee,brewpub,128 W Main St,,,West Dundee,Illinois,60118-2017,United States,8474284500,http://www.emmettsbrewingco.com,-88.278478,42.098295
+8c207722-6895-4bbb-bb8a-eb0989c476ef,Emmett's Brewing Co - Wheaton,brewpub,121 W Front St,,,Wheaton,Illinois,60187-5108,United States,6303832020,http://www.emmettsbrewingco.com,-88.107543,41.864972
 e40c10b9-391e-457d-b734-5c79bf4a5480,Empirical Brewery,micro,1801 W Foster Ave,,,Chicago,Illinois,60640-1023,United States,,http://www.empiricalbrewery.com,-87.6749395,41.9762555
-e6018041-dbb0-492f-9a2d-73f1e3a27874,Engrained Brewing Co,brewpub,1120 W Lincolnshire Blvd,,,Springfield,Illinois,62711-6445,United States,2175463054,http://www.engrainedbrewing.com,-89.6914854,39.7481952
-8551ddb7-d116-460e-b82d-4003bf816287,Eris Brewery And Cider House,brewpub,4240 W Irving Park Rd,,,Chicago,Illinois,60641,United States,5623086582,,-87.7342346,41.95388195
-133e055a-4014-4eaf-822f-4d5089b14ffc,"Evil Horse Brewing Company, LLC",micro,1338 Main St,,,Crete,Illinois,60417-2131,United States,7083042907,http://evilhorsebrewing.com,-87.631432,41.44499003
+d662280b-1b0a-4b6b-937c-170a880f0120,Energy City Brewing,micro,917 1st St,,,Batavia,Illinois,60510,United States,6305975581,http://www.energycitybrewing.com,-88.322547,41.8484
+e6018041-dbb0-492f-9a2d-73f1e3a27874,Engrained Brewing Company,brewpub,1120 W Lincolnshire Blvd,,,Springfield,Illinois,62711-6445,United States,2175463054,http://www.engrainedbrewery.com,-89.671508,39.747412
+8551ddb7-d116-460e-b82d-4003bf816287,Eris Brewery And Cider House,brewpub,4240 W Irving Park Rd,,,Chicago,Illinois,60641,United States,5623086582,http://placeholder,-87.734284,41.95389
+133e055a-4014-4eaf-822f-4d5089b14ffc,"Evil Horse Brewing Company, LLC",taproom,1338 Main St,,,Crete,Illinois,60417-2131,United States,7083042907,http://evilhorsebrewing.com,-87.632186,41.445065
 5e6d5f65-c765-4f07-ab83-92556b3c8d04,Excel Brewing Co,micro,488 S Broadway,,,Breese,Illinois,62230-1805,United States,6185267159,http://www.excelbottling.com,-89.53007673,38.60665933
 38b01e10-3aac-4226-b30f-bb568f0e41bc,Exit Strategy Brewing Company,brewpub,7700 Madison St,,,Forest Park,Illinois,60130-1404,United States,7086898771,http://www.exitstrategybrewing.com,-87.8108065,41.8795262
-d9ee2acf-01b7-48d2-ae25-db12c2143eb3,Finch Beer Company,micro,1800 W Walnut St,,,Chicago,Illinois,60612-2526,United States,3129294773,http://www.finchbeer.com,-87.6721651,41.8861899
-5cd2ba74-2f89-4e9f-9fa4-edff3aed2cf9,Flapjack Brewery,brewpub,6833 Stanley Ave,,,Berwyn,Illinois,60402-5289,United States,,http://www.flapjackbrewery.com,-87.79436281,41.83342484
-9521ea9c-c1db-445a-8d7e-5d2ea433608a,Flesk Brewing,micro,200 Applebee St Ste E,,,Barrington,Illinois,60010-3063,United States,2246557291,http://www.fleskbrewing.com,,
-01018209-3f1d-45f1-8848-a8d116f6884d,Flossmoor Station Brewing Co,brewpub,1035 Sterling Ave,,,Flossmoor,Illinois,60422-1252,United States,7089572739,http://www.flossmoorstation.com,-87.67869465,41.54338855
+5d90c86b-f486-4407-9d5f-8f52d3d09b80,Fiala Brothers Brewery and Beer Hall,brewpub,127 E Beaufort St,,,Normal,Illinois,61761,United States,,,-88.982934,40.509595
+9b4b91e4-bea1-494c-9776-13ced8466461,Fibs Brewing Company,taproom,260 Howard Ave,,,Des Plaines,Illinois,60018,United States,8472279790,http://www.fibsbrewing.com,-87.915012,42.016539
+d9ee2acf-01b7-48d2-ae25-db12c2143eb3,Finch Beer Company,micro,1800 W Walnut St,,,Chicago,Illinois,60612-2526,United States,3129294773,http://www.finchbeer.com,-87.672052,41.886283
+5cd2ba74-2f89-4e9f-9fa4-edff3aed2cf9,Flapjack Brewery,brewpub,6833 Stanley Ave,,,Berwyn,Illinois,60402-5289,United States,,http://www.flapjackbrewery.com,-87.794633,41.833524
+9521ea9c-c1db-445a-8d7e-5d2ea433608a,Flesk Brewing,taproom,200 Applebee St Ste E,,,Barrington,Illinois,60010-3063,United States,2246557291,http://www.fleskbrewing.com,-88.139592,42.156013
+731f3506-febd-47bc-8999-591dfc2d7185,Flipside Brewing,brewpub,7144 183rd St,,,Tinley Park,Illinois,60477-3933,United States,7083344129,,-87.79149,41.558768
+01018209-3f1d-45f1-8848-a8d116f6884d,Flossmoor Station Brewing Co,brewpub,1035 Sterling Ave,,,Flossmoor,Illinois,60422-1252,United States,7089572739,http://www.flossmoorstation.com,-87.67882,41.543024
+e2da0507-9d61-48ce-b4d0-f06e8b4242d8,Forbidden Root Brewing,brewpub,1746 West Chicago Ave,,,Chicago,Illinois,60622,United States,3129292202,http://www.forbiddenroot.com,-87.671546,41.896294
 ecc59506-755c-4197-bdd7-5322484cddc6,Forbidden Root Restaurant & Brewery,micro,1746 W Chicago Ave,,,Chicago,Illinois,60622-5012,United States,3129292202,http://www.forbiddenroot.com,-87.6715393,41.8961658
 d7c42bff-51bc-4ae5-ad50-8b835bb83048,Forge Brewhouse,brewpub,1330 E State St,,,Sycamore,Illinois,60178-9580,United States,,,-88.66048,41.984784
+7f3b7ec9-d8f6-431b-a5b7-9fad85ea6188,"Forge Brewhouse, LLC",taproom,216 N 6TH ST,,,Dekalb,Illinois,60115,United States,8155170237,http://www.forgebrewhouse.com,-88.745928,41.929902
+d80b021f-d6d2-4226-b2b9-962190f0e017,Forgottonia Brewing,taproom,324 N Lafayette St,,,Macomb,Illinois,61455,United States,3092378649,http://forgottoniabrewing.com,-90.671935,40.461718
+3c8dd806-b863-4b63-baf7-b9115743f306,Galena Brewery,brewpub,227 N Main St Ste 101,,,Galena,Illinois,61036-2217,United States,8152759469,http://www.galenabrewery.com,-90.42622,42.416853
 b45388c7-4c1d-495a-ab08-b6c1c573644f,Galena Brewing Co,brewpub,227 N Main St Ste 101,,,Galena,Illinois,61036-2217,United States,8152759469,http://www.galenabrewery.com,,
-924e3e62-5d27-4760-b139-f0c52517daf0,Generations Brewing Company,micro,1400 S Adams Ave,,,Freeport,Illinois,61032-9717,United States,8156165941,http://www.generationsbrewing.com,-89.615349,42.2962963
-6cca67cf-a3a6-4f43-8da5-7bcd73e4ce67,Geneseo Brewing Company,brewpub,102 S State St,,,Geneseo,Illinois,61254-1348,United States,3099451422,http://www.geneseobrewingcompany.com,-90.15561,41.45203206
+4b69e271-6d28-409d-bcb0-3aa5bae2ae90,Garage Band Brewing,taproom,15025 S. Des Plaines Street,,,Plainfield,Illinois,60544,United States,8157826367,http://www.garagebandbrewing.com,-88.204653,41.609068
+924e3e62-5d27-4760-b139-f0c52517daf0,Generations Brewing Company  LLC,regional,1400 S Adams Ave,,,Freeport,Illinois,61032-9717,United States,8156165941,http://www.generationsbrewing.com,-89.595336,42.283901
+6cca67cf-a3a6-4f43-8da5-7bcd73e4ce67,Geneseo Brewing Company,brewpub,102 S State St,,,Geneseo,Illinois,61254-1348,United States,3099451422,http://www.geneseobrewingcompany.com,-90.155434,41.452973
 c0299ec0-af83-4a32-8c75-6d51d9c6956e,Gino's Brewing Company,brewpub,500 N La Salle Dr,,,Chicago,Illinois,60654-7109,United States,3129884200,,,
+6c3d39de-0092-45ea-9b8e-55174f6d6615,Go Brewing,micro,1665 Quincy Ave Ste 155,,,Naperville,Illinois,60540-6680,United States,6302635375,http://www.gobrewing.com,-88.189095,41.774979
 c95ca449-14d0-4188-8f74-8540a64305bf,"Golden Fox Brewing, LLC",micro,523 W Matilda St,,,Illiopolis,Illinois,62539-3607,United States,,http://www.GoldenFoxBrew.com,-89.25359479,39.850216
+693f1edc-008d-400e-a42d-843bb64659f9,Goldfinger Brewing Company,taproom,513 Rogers St,,,Downers Grove,Illinois,60515,United States,6305419728,http://www.goldfingerbrewing.com,-87.99793,41.796524
 8e309724-11ae-4fc0-8d18-3ae64eeaa84a,Goose Island Beer Co / Fulton St,large,1800 W Fulton St,,,Chicago,Illinois,60612-2512,United States,3122261119,http://www.gooseisland.com,-87.6722122,41.8870058
 8ef0b76f-0cd8-4c9d-ad65-61627c7276d7,Goose Island Brewpub,large,1800 N Clybourn Ave Ste B,,,Chicago,Illinois,60614-4895,United States,3129150071,http://www.gooseisland.com,,
 7cc2bf9e-f8fa-4c55-a414-e3061e288af8,Gordon Biersch Brewery Restaurant - Bolingbrook,brewpub,639 E Boughton Rd Ste 100,,,Bolingbrook,Illinois,60440-3126,United States,6307396036,http://www.craftworksrestaurants.com,-88.042356,41.721179
-a5dfda47-d7a5-47b5-8bb2-b12b2c867525,Grafton Winery & Brewhaus,micro,300 W Main St,,,Grafton,Illinois,62037-1124,United States,6187863001,http://www.thegraftonwinery.com,-90.439045,38.969851
+a5dfda47-d7a5-47b5-8bb2-b12b2c867525,Grafton Winery & Brewhaus,brewpub,300 W Main St,,,Grafton,Illinois,62037-1124,United States,6187863001,http://www.thegraftonwinery.com,-90.43941,38.970173
 783f7e0b-c250-4db0-b46e-6db6ca85bb6e,Granite City Food & Brewery,brewpub,992 Willow Rd,,,Northbrook,Illinois,60062-6806,United States,8475040277,,-87.8570648,42.1056946
 0f7dc247-0bd3-4f6f-8937-c777a369c09f,Granite City Food & Brewery (#19),brewpub,7144 Harrison Ave Ste 108,,,Rockford,Illinois,61112-,United States,8153327070,,-89.0966204,42.2377268
 547cd589-8b2b-4057-a99e-d2252bea5e71,Granite City Food & Brewery (#21),brewpub,230 Conference Center Dr,,,East Peoria,Illinois,61611-9501,United States,3096698080,http://www.gcfb.com,-89.5898359,40.6830595
 fbf47d56-1454-4f27-be42-11b45099d02c,Granite City Food & Brewery (#22),brewpub,14035 S La Grange Rd,,,Orland Park,Illinois,60462-1321,United States,7083641212,http://www.gcfb.com,-87.85389056,41.63748251
-cf2342e4-b8a8-460b-ab54-3a5a8041394f,Granite City Food & Brewery (#30),brewpub,1828 Abriter Ct,,,Naperville,Illinois,60563-9368,United States,6305443700,http://www.gcfb.net,-88.12944727,41.80283897
-e01d7b7a-8df0-4110-b288-def9f385d8fd,Granite City Food & Brewery (#31),brewpub,801 N Plaza Dr,,,Schaumburg,Illinois,60173-4919,United States,6305235700,http://www.gcfb.net,,
-dc1ca2e3-86c7-44b5-aaae-adad3420225f,Great Central Brewing Company,micro,221 N Wood St,,,Chicago,Illinois,60612-2614,United States,8554644222,http://www.greatcentralbrewing.com,-87.6712098,41.8858315
+cf2342e4-b8a8-460b-ab54-3a5a8041394f,Granite City Food & Brewery (#30),brewpub,1828 Abriter Ct,,,Naperville,Illinois,60563-9368,United States,6305443700,http://www.gcfb.net,-88.128333,41.804978
+e01d7b7a-8df0-4110-b288-def9f385d8fd,Granite City Food & Brewery (#31),brewpub,801 N Plaza Dr,,,Schaumburg,Illinois,60173-4919,United States,6305235700,http://www.gcfb.net,-88.042156,42.044936
+dc1ca2e3-86c7-44b5-aaae-adad3420225f,Great Central Brewing Company,micro,221 N Wood St,,,Chicago,Illinois,60612-2614,United States,8554644222,http://www.greatcentralbrewing.com,-87.671563,41.885814
+1075ec2a-2564-45ea-b7b3-731871451ffd,Great Revivalist Brew Lab,brewpub,1225 South Oakwood Avenue,,,Geneseo,Illinois,61254,United States,2066127300,http://www.greatrevivalist.com,-90.157444,41.436241
 1850dc68-99e4-4ae4-8c66-f31497c9129c,Greenstar Brewing At Uncommon Ground,brewpub,3810 N Clark St,,,Chicago,Illinois,60613-2812,United States,8472198834,http://www.uncommonground.com,-87.66001045,41.95128495
-580761b4-cca5-45d8-9eac-4b426bbfad2b,HailStorm Brewing Company,micro,8060 186th St,,,Tinley Park,Illinois,60487-9215,United States,6306317173,http://www.hailstormbrewing.com,-87.81356158,41.55317823
+580761b4-cca5-45d8-9eac-4b426bbfad2b,HailStorm Brewing Company,brewpub,8060 186th St,,,Tinley Park,Illinois,60487-9215,United States,6306317173,http://www.hailstormbrewing.com,-87.814676,41.55318
 99379a99-f52f-4a6a-b966-073e30fa8c1b,"Hairy Cow Brewing Co, LLC",planning,,,,Byron,Illinois,61010,United States,8152432866,http://www.hairycowbrewing.com,,
-49cf8feb-2997-4da6-99ba-6c2228ffaab1,Half Acre Beer Co,regional,4257 N Lincoln Ave,,,Chicago,Illinois,60618-2953,United States,7737548488,http://www.halfacrebeer.com,-87.6820201,41.9591945
-2cb07047-36be-45c7-aae3-97c10afa36c4,Half Day Brewing Company,brewpub,200 Village Grn,,,Lincolnshire,Illinois,60069-3028,United States,8478216933,http://www.halfdaybrewing.com,-87.9330365,42.2031177
+49cf8feb-2997-4da6-99ba-6c2228ffaab1,Half Acre Beer Co,regional,2050 W BALMORAL AVE,,,Chicago,Illinois,60625,United States,7737548488,http://www.halfacrebeer.com,-87.681341,41.980095
+e02628d3-f6dc-4555-b720-17108202edc0,Half Acre Beer Co,regional,2050 W BALMORAL AVE,,,Chicago,Illinois,60625,United States,7737548488,http://www.halfacrebeer.com,-87.681341,41.980095
+2cb07047-36be-45c7-aae3-97c10afa36c4,Half Day Brewing Company,brewpub,200 Village Grn,,,Lincolnshire,Illinois,60069-3028,United States,8478216933,http://www.halfdaybrewing.com,-87.931254,42.202608
 ba77ee7a-a62c-482e-8c3e-436ef62f11d8,Hamburger Mary's/Andersonville Brewing Company,brewpub,5402 N Clark St,,,Chicago,Illinois,60640-1210,United States,7737846969,http://www.hamburgermaryschicago.com,-87.66855092,41.97997865
-652b410d-07ea-4134-be36-fd62679f29aa,Hand of Fate Brewing Co,micro,107 E Douglas Ave,,,Petersburg,Illinois,62675-1558,United States,2176911098,http://www.handoffatebrewing.beer,-89.92105943,38.59194278
+652b410d-07ea-4134-be36-fd62679f29aa,Hand of Fate Brewing Co,micro,107 E Douglas Ave,,,Petersburg,Illinois,62675-1558,United States,2176911098,http://www.handoffatebrewing.beer,-89.849161,40.011439
+abb62d3c-81ed-421a-b311-90c22a656cdc,Harbor Brewing Co,taproom,811 Sheridan Rd,,,Winthrop Harbor,Illinois,60096,United States,,http://HARBORBEER.COM,-87.823002,42.480114
+442c6eed-0777-4daf-bcf1-f9dfc84be9ac,Harbor Brewing Co - Lakefront Biergarten,brewpub,701 North Point Dr,,,Winthrop Harbor,Illinois,60096,United States,,,-87.802424,42.488038
+c201fc66-a869-4a04-8b68-23cbe3adcdb9,Haymarket Beer Co,brewpub,737 W Randolph St,,,Chicago,Illinois,60661-2103,United States,3126380707,http://www.haymarketbrewing.com,-87.647159,41.884061
 51c00792-038b-4a5a-af2c-efade94f169f,Haymarket Pub and Brewery,brewpub,737 W Randolph St,,,Chicago,Illinois,60661-2103,United States,3126380707,http://www.haymarketbrewing.com,-87.6472956,41.8841895
-01d05be5-e93c-4889-9024-6a57bf67fe7a,Hickory Creek Brewing Company LLC,micro,1005 W Laraway Rd Unit 260,,,New Lenox,Illinois,60451,United States,8152456042,http://www.hickorycreekbrewingil.com,,
-5fde3431-947e-41a9-8884-5763020f18a4,Hofbrauhaus Chicago,brewpub,5500 Park Pl,,,Rosemont,Illinois,60018-3730,United States,8476712739,http://www.hofbrauhauschicago.com,,
-d7ffb1b1-b7db-4a99-a523-9c1a97deb958,Hofbrauhaus St. Louis-Belleville,brewpub,123 Saint Eugene Dr,,,Belleville,Illinois,62223-1154,United States,6188002337,http://www.hofbrauhausstlouis.com,,
+01d05be5-e93c-4889-9024-6a57bf67fe7a,Hickory Creek Brewing Company LLC,brewpub,1005 W Laraway Rd Unit 260,,,New Lenox,Illinois,60451,United States,8152456042,http://www.hickorycreekbrewingil.com,-87.984858,41.484177
+a163a1de-153e-4864-a825-e01cf5cf1e5b,Highway 20 Brewing Company,taproom,113 S Main St,,,Elizabeth,Illinois,61028,United States,8152779206,,-90.22048,42.317361
+5fde3431-947e-41a9-8884-5763020f18a4,Hofbrauhaus Chicago,brewpub,5500 Park Pl,,,Rosemont,Illinois,60018-3730,United States,8476712739,http://www.hofbrauhauschicago.com,-87.868546,41.97799
+d7ffb1b1-b7db-4a99-a523-9c1a97deb958,Hofbrauhaus St. Louis-Belleville,brewpub,123 Saint Eugene Dr,,,Belleville,Illinois,62223-1154,United States,6188002337,http://www.hofbrauhausstlouis.com,-90.082785,38.563223
+96083c06-1f4b-46c1-8892-353715990cf7,Holzlager Brewing LLC,brewpub,150 S. Eastwood Dr. Suite F,,,Woodstock,Illinois,60098,United States,8153085901,http://www.holzlagerbrewing.com,-88.437501,42.314666
 23fe0267-5f98-4f0e-b86e-cfb9740ce9b3,Hop Butcher For the World,micro,1000 N Frontage Rd Ste C,,,Darien,Illinois,60561-6448,United States,,http://www.hopbutcher.com,,
-0e74966f-2dd7-422f-92b1-e04e71ea842d,Hopewell Brewing Co,micro,2760 N Milwaukee Ave,,,Chicago,Illinois,60647-1337,United States,7736986178,http://www.hopewellbrewing.com,-87.7878762,41.9973481
-3ed3c518-7c88-4322-b8c9-cb37474be6f3,Hopskeller Brewing Company,brewpub,116 E 3rd St,,,Waterloo,Illinois,62298-1608,United States,6189392337,http://www.hopskeller.com,-90.14850267,38.33521743
-5b49ceea-89f9-4f40-967a-d1379daf8f80,Hopvine Brewing Company,brewpub,4030 Fox Valley Center Dr,,,Aurora,Illinois,60504-4109,United States,6302296030,http://www.hopvinebrewingcompany.com,-88.21364002,41.76082292
-abc32f81-11fb-43ca-8f37-04b62a3e0d5c,Horse Thief Hollow Brewery,brewpub,10426 S Western Ave,,,Chicago,Illinois,60643-2508,United States,7737792739,http://www.horsethiefbrewing.com,-87.68195116,41.70388555
+680d5788-8380-4056-be10-0c36fdd47fe7,Hop Butcher For the World,micro,4257 N LINCOLN AVE,,,Chicago,Illinois,60618,United States,7736977883,http://www.hopbutcher.com,-87.682048,41.959195
+0e74966f-2dd7-422f-92b1-e04e71ea842d,Hopewell Brewing Co,micro,2760 N Milwaukee Ave,,,Chicago,Illinois,60647-1337,United States,7736986178,http://www.hopewellbrewing.com,-87.711506,41.931233
+fea6905d-ac0c-4448-ba79-8b07ea1c63ce,Hopothesis Beer Company,beer brand,730 W Randolph St Fl 5,,,Chicago,Illinois,60661-2149,United States,7737990236,http://www.hopothesis.com,-87.646875,41.884679
+3ed3c518-7c88-4322-b8c9-cb37474be6f3,Hopskeller Brewing Company,brewpub,116 E 3rd St,,,Waterloo,Illinois,62298-1608,United States,6189392337,http://www.hopskeller.com,-90.149279,38.334913
+5b49ceea-89f9-4f40-967a-d1379daf8f80,Hopvine Brewing Company,brewpub,4030 Fox Valley Center Dr,,,Aurora,Illinois,60504-4109,United States,6302296030,http://www.hopvinebrewingcompany.com,-88.217475,41.759434
+abc32f81-11fb-43ca-8f37-04b62a3e0d5c,Horse Thief Hollow Brewing Co.,brewpub,10426 S Western Ave,,,Chicago,Illinois,60643-2508,United States,7737792739,http://www.horsethiefbrewing.com,-87.681788,41.703938
+f5c03fd5-fc04-44c3-b186-4e4f8d0e6861,Howard Street Brewing Company,taproom,1617 W Howard St,,,Chicago,Illinois,60626,United States,7737509309,http://howardstreetbrewing.com,-87.672153,42.019267
+680a1bc7-04ce-4c77-9e71-ec15404e3b28,Ike & Oak Brewing Company,brewpub,6315 Main St,,,Woodridge,Illinois,60517,United States,3319982907,http://www.ikeandoakbrewing.com,-88.070861,41.770591
 c6e87f2a-227c-4549-ab73-aafcb5fd1fef,ILL STYLEZ BREWING,planning,,,,Freeport,Illinois,61032-4761,United States,,,,
-22e59bb4-690e-41f4-9d63-b65ad57452b1,Illuminated Brew Works,micro,415 N Sangamon St,,,Chicago,Illinois,60642-6546,United States,7737262874,http://www.ibw-chicago.com,-87.65074933,41.88958325
+22e59bb4-690e-41f4-9d63-b65ad57452b1,Illuminated Brew Works,micro,6186 N Northwest Hwy,,,Chicago,Illinois,60631,United States,7737262874,http://www.ibw-chicago.com,-87.801959,41.993882
+dbee63b3-7f43-4c86-9e3e-39a9d51aac87,Illuminated Brew Works,micro,6186 N Northwest Hwy,,,Chicago,Illinois,60631,United States,7737262874,http://www.ibw-chicago.com,-87.801959,41.993882
+27604860-b06e-458e-873d-16052cb993f9,Imperial Oak Brewing Brookfield,taproom,9526 Ogden Ave,,,Brookfield,Illinois,60513,United States,7082555452,,-87.858374,41.81783
 b93a7663-6121-4458-ba91-d8e1c045d0b4,Imperial Oak Brewing Co,micro,501 Willow Blvd Ste 108,,,Willow Springs,Illinois,60480-1710,United States,7083305096,http://www.imperialoakbrewing.com,-87.879257,41.73187
-1ac07781-e350-4498-a472-95cf83790adf,Industry Brewing,brewpub,8012 N Hale Ave,,,Peoria,Illinois,61615-2050,United States,3098392930,http://www.spicehospgroup.com,-89.60764563,40.78613406
-8c0bc28a-fb48-4e7c-941a-1d5131fb1787,Iron Spike Brewing Company,brewpub,150 E Simmons St Ste 1,,,Galesburg,Illinois,61401-4641,United States,3092974718,http://www.ironspikebrewpub.com,,
+1ac07781-e350-4498-a472-95cf83790adf,Industry Brewing,brewpub,8012 N Hale Ave,,,Peoria,Illinois,61615-2050,United States,3098392930,http://www.spicehospgroup.com,-89.607208,40.784906
+8c0bc28a-fb48-4e7c-941a-1d5131fb1787,Iron Spike Brewing Company,brewpub,150 E Simmons St Ste 1,,,Galesburg,Illinois,61401-4641,United States,3092974718,http://www.ironspikebrewpub.com,-90.368978,40.946109
 6e667bb3-b1d5-42ad-96ef-bdee307a9ad5,Itasca Brewing Company Inc,micro,400 E Orchard St Ste B,,,Itasca,Illinois,60143-1773,United States,7738994998,http://www.itascabrewingcompany.com,,
-5210079f-267a-4a16-b6f7-e459d8b88426,John S. Rhodell Brewery,micro,100 Walnut St Ste 111,,,Peoria,Illinois,61602-1544,United States,3099661047,http://www.rhodellbrewery.com,,
-5f1b75ad-6420-420e-bbf1-451955fd1308,JT Walker's/Champaign County Brewing Co,brewpub,402 E Main St,,,Mahomet,Illinois,61853-7444,United States,2175861100,http://www.jtwalkers.com,-88.40289612,40.19498357
+5210079f-267a-4a16-b6f7-e459d8b88426,John S. Rhodell Brewery,taproom,100 Walnut St Ste 111,,,Peoria,Illinois,61602-1544,United States,3099661047,http://www.rhodellbrewery.com,-89.593829,40.686428
+5f1b75ad-6420-420e-bbf1-451955fd1308,JT Walker's/Champaign County Brewing Co,taproom,402 E Main St,,,Mahomet,Illinois,61853-7444,United States,2175861100,http://www.jtwalkers.com,-88.403763,40.195389
 85b50705-5285-477e-9858-1dd45a00b6f9,Karetas Brewing,contract,1480 Industrial Dr Ste C,,,Itasca,Illinois,60143-1857,United States,3128788720,http://www.karetasbeer.com,,
-bbc7ea1e-ff95-4eb7-b896-8b98686af71d,Keg Grove Brewing Company,micro,712 E Empire St Ste 2,,,Bloomington,Illinois,61701-3252,United States,,http://keggrovebrewing.com,,
+ca404141-a7ce-4405-ac8b-91c3978f01d4,Keeping Together,alt prop,4257 N Lincoln Avenue,,,Chicago,Illinois,60618,United States,,http://www.keepingtogether.com,-87.682048,41.959195
+bbc7ea1e-ff95-4eb7-b896-8b98686af71d,Keg Grove Brewing Company,taproom,712 E Empire St Ste 2,,,Bloomington,Illinois,61701-3252,United States,,http://keggrovebrewing.com,-88.982961,40.488639
+4598fc5f-2b7f-454f-9181-dc34e8faea8d,Kennay Farms Distilling,taproom,416 Lincoln Hwy,,,Rochelle,Illinois,61068,United States,8159013207,http://www.kennayfarmsdistilling.com,-89.066692,41.923282
+e640804b-819b-46db-810c-7d5b46fe0f37,Khaos Brewing,brewpub,12337 s illinois rte 59,,,plainfield,Illinois,60585,United States,8157826640,http://www.khaosbrewing.com,-88.202703,41.656773
 6a935805-4994-41ea-8f35-28312a08f1a7,Kings & Convicts Brewing,micro,523 Bank Ln,,,Highwood,Illinois,60040-1303,United States,2246198102,http://www.kingsandconvicts.com,,
-f0130011-f340-4933-9601-ed71a88ffb24,Kinslahger Brewing Company,micro,6806 Roosevelt Rd,,,Oak Park,Illinois,60304-1905,United States,8445524437,http://kinslahger.com,,
+e903f95a-e26b-4c74-ab55-aa72b0d997bc,Kings & Convicts Brewing,taproom,523 Bank Lane,,,Highwood,Illinois,60040,United States,2247070117,http://www.kingsandconvicts.com,-87.81183,42.205722
+f0130011-f340-4933-9601-ed71a88ffb24,Kinslahger Brewing Company,taproom,6806 Roosevelt Rd,,,Oak Park,Illinois,60304-1905,United States,8445524437,http://kinslahger.com,-87.794186,41.865412
+d2c08d3f-1067-47bb-993f-e5fbcdaa0ff9,Knack Brewing and Fermentations,taproom,789 S McMullen Ave,,,Kankakee,Illinois,60901,United States,8156306958,http://Knackbrewing.com,-87.869161,41.112277
 cda79fca-998b-47aa-8659-d64f4e1ae6a1,Knox County Brewing Co.,planning,,,,Galesburg,Illinois,61401,United States,5126528793,http://www.knoxcobrewco.com,,
+26678237-076e-4a17-8233-87346d6a4007,LaGrow Organic Beer Co,alt prop,5435 N Wolcott Ave,,,Chicago,Illinois,60640,United States,7734127962,http://www.lagrowbeer.com,-87.67609,41.980884
 f9f49460-31c1-4237-b59a-69cf2285e694,Lagunitas Brewing Co,large,2607 W 17th St,,,Chicago,Illinois,60608-1823,United States,7735222503,http://www.lagunitas.com,-87.6932373,41.8583603
-3e64338a-ce72-4ccf-b234-bf01bb9c9788,Lake Bluff Brewing Company,micro,16 E Scranton Ave,,,Lake Bluff,Illinois,60044-2543,United States,2245445179,http://www.lbbrew.com,-87.8453204,42.2798322
+3e64338a-ce72-4ccf-b234-bf01bb9c9788,Lake Bluff Brewing Company,taproom,16 E Scranton Ave,,,Lake Bluff,Illinois,60044-2543,United States,2245445179,http://www.lbbrew.com,-87.845434,42.279817
 bc2b5412-d16a-4bd9-9764-1dfd992737f8,Lake Brothers Beer Company,contract,25W275 Woodstock Ct,,,Naperville,Illinois,60540-3427,United States,6302583938,http://www.lakebrothersbeer.com,,
-760581e5-1ed8-452e-82e5-4a845f088c12,Lake Effect Brewing Company,micro,4727 W Montrose Ave,,,Chicago,Illinois,60641-1504,United States,3129194473,http://www.lakeeffectbrewing.com,-87.7459687,41.9604369
+760581e5-1ed8-452e-82e5-4a845f088c12,Lake Effect Brewing Company,micro,4727 W Montrose Ave,,,Chicago,Illinois,60641-1504,United States,3129194473,http://www.lakeeffectbrewing.com,-87.745917,41.960312
 4d099da0-bbe4-4a93-8d4f-f9e2cc12653a,Lake St Brewing,planning,,,,Oak Park,Illinois,60302-1355,United States,7732512125,,,
-753644a2-cb4c-4909-b77b-28a4763ae05c,Lena Brewing Company,micro,9416 W Wagner Rd,,,Lena,Illinois,61048-9664,United States,,,,
-1aee8966-9383-49c6-a38f-aaa4f1fd3a6c,Lieferbrau Brewery LLC,micro,118 East Market Street,,,Red Bud,Illinois,62278,United States,6185348477,,-89.99352327,38.21165627
+753644a2-cb4c-4909-b77b-28a4763ae05c,Lena Brewing Company,micro,9416 W Wagner Rd,,,Lena,Illinois,61048-9664,United States,,,-89.797956,42.357702
+1aee8966-9383-49c6-a38f-aaa4f1fd3a6c,Lieferbrau Brewery LLC,taproom,118 East Market Street,,,Red Bud,Illinois,62278,United States,6185348477,,-89.993589,38.211542
 0771ecda-e417-45d9-8494-82c254aa3f7d,Light the Lamp Brewery,micro,10 N Lake St Ste 107,,,Grayslake,Illinois,60030-3636,United States,8477528489,http://www.lightthelampbrewery.com,,
+3a0bef3f-d05e-45eb-b4e7-7ef6d3eb9227,Light the Lamp Brewery,brewpub,2 S Lake St,,,Grayslake,Illinois,60030,United States,8477528489,http://www.lightthelampbrewery.com,-88.044162,42.344127
 afa2d413-6c55-4c5b-abe0-31e305492138,Lil Beaver Brewery,micro,16 Currency Dr Unit B,,,Bloomington,Illinois,61704-9632,United States,3098082590,http://www.lilbeaverbrewery.com,,
+11f9e716-d1e2-4ac7-a50d-65065a7a212e,Lil Beaver Brewery,brewpub,5 Finance Dr,,,Bloomington,Illinois,61704,United States,3098082590,http://www.lilbeaverbrewery.com,-88.977145,40.457864
+95fac129-c422-453e-b6e0-3eb3106630cb,Limerick Brewing Company,taproom,513 Pulaski St. #8,,,Lincoln,Illinois,62656-2767,United States,2176050475,,-89.363204,40.145424
 3fe6b30e-8b1b-4ca4-9d8a-9bba8640f0f2,Lionstone Brewing,brewpub,1225 S Oakwood Ave,,,Geneseo,Illinois,61254-1990,United States,3092696220,http://www.lionstonebrewing.com,-90.15752718,41.43550343
+878d35bf-7feb-4be5-9037-637e740f6ab4,Liquid Love Brewing,brewpub,1310 Busch Parkway,,,Buffalo Grove,Illinois,60069,United States,2244342189,http://www.liquidlovebrewing.com,-87.929138,42.171619
 9af7465c-dcff-4144-a1fe-205ab8da7772,Lo Rez Brewing,micro,2101 S Carpenter St,,,Chicago,Illinois,60608-4529,United States,3128043283,http://lorezbrewing.com,-87.6524429,41.8533096
 451c482b-18e0-4dd2-bfbc-8b94d25902aa,Local Option,contract,1102 W Webster Ave Ste 1,,,Chicago,Illinois,60614-7089,United States,7733482008,http://www.localoptionbier.com,,
 8c740e50-5722-447f-b240-3b1815fb4154,Lot 50 Brewing,micro,112 E Court St,,,Paris,Illinois,61944-2210,United States,2172511493,http://www.lot50brewing.com,-87.70732557,39.61104231
-674e3037-058b-4066-9de4-00b22fcad906,"Lucky Monk Burger, Pizza & Beer Co",brewpub,105 Hollywood Blvd,,,South Barrington,Illinois,60010-7121,United States,8478980500,http://www.theluckymonk.com,,
+8921ecb8-6ce0-498c-ade9-d77e4492e718,Lot 50 Brewing,taproom,112 East Court Street,,,Paris,Illinois,61944,United States,2179213950,http://www.lot50brewing.com,-87.694449,39.610895
+674e3037-058b-4066-9de4-00b22fcad906,"Lucky Monk Burger, Pizza & Beer Co",brewpub,105 Hollywood Blvd,,,South Barrington,Illinois,60010-7121,United States,8478980500,http://www.theluckymonk.com,-88.144335,42.071013
+b95e945b-e339-4a26-a0f5-dc5fd76d01bd,Lugan's Brewing,micro,480 S Hammes Ave.,,,Joliet,Illinois,60436,United States,8152694449,http://www.lugansbrewing.com,-88.133492,41.513748
 c883e57f-28d0-4793-bfc4-ef1d02e194e4,Lunar Brewing Co,proprietor,54 E Saint Charles Rd,,,Villa Park,Illinois,60181-2434,United States,6305302077,http://www.mypsace.com/LunaRbrewingco,-87.97720306,41.88987006
+a1b13381-6cbf-492c-82f8-05a72894146a,Macushla Brewing Co,taproom,1516 E Lake Ave,,,Glenview,Illinois,60025,United States,8477305199,http://www.macushlabeer.com,-87.795256,42.080178
+93e03b16-08d0-4b02-b486-9ee2fa059baa,Mad Hatchet Brewing,taproom,913 Brook Forest Avenue,,,SHOREWOOD,Illinois,60404,United States,8157335380,http://www.madhatchetbrewing.com,-88.20056,41.537401
 b76e67fb-fe15-41c3-8a43-531bfb7a4d20,Mad Mouse Brewery,contract,,,,Chicago,Illinois,60607-5017,United States,,http://www.moxeerestaurant.com,,
 4dcaeb97-edb6-4930-bf22-b27d434900f2,Mainstreet Brewing Company,micro,4204 W Main St,,,Belleville,Illinois,62226,United States,6184167261,http://www.mainstreetbrewingco.com,-90.02053343,38.53796122
-a1a02e31-20d5-47dc-8a57-607f4b6d77e4,Maplewood Brewing Company,micro,2717 N Maplewood Ave,,,Chicago,Illinois,60647-1930,United States,7732701061,http://www.maplewoodbrew.com,-87.69106414,41.93075205
-a74e31ee-d113-4a2b-9daf-5d1c6a06aefb,Marz Community Brewing,proprietor,3630 S Iron St,,,Chicago,Illinois,60609,United States,,http://www.marzbrewing.com,-87.6595253,41.827819
+a1a02e31-20d5-47dc-8a57-607f4b6d77e4,Maplewood Brewing Company,regional,2717 N Maplewood Ave,,,Chicago,Illinois,60647-1930,United States,7732701061,http://www.maplewoodbrew.com,-87.691099,41.930792
+a74e31ee-d113-4a2b-9daf-5d1c6a06aefb,Marz Community Brewing,micro,3630 S Iron St,,,Chicago,Illinois,60609,United States,,http://www.marzbrewing.com,-87.659831,41.827813
 10dcbe08-3216-43ef-bddc-1a5235bf68f1,Maverick Ales & Lager,planning,,,,Chicago,Illinois,60612,United States,4086051508,http://www.maverickbrews.com,,
 2b9e1914-2432-418d-972d-78ccdff2072b,McHenry Brewing Company,planning,,,,McHenry,Illinois,60050,United States,8154032212,,,
-606eeca9-1d11-4af6-a95f-a526d5f17be4,Metal Monkey Brewing LLC,micro,515 Anderson Dr Ste 900,,,Romeoville,Illinois,60446-1494,United States,8155243139,http://www.metalmonkeybrewing.com,-88.07788064,41.6450575
-80cea19e-4e59-4e82-94a3-5b3cb0cd29b3,Metropolitan Brewing,micro,3057 N Rockwell St,,,Chicago,Illinois,60618-7917,United States,7734746489,http://www.metrobrewing.com,-87.6912391,41.9376382
-7cb839b2-bd03-4672-a7b4-1d1946e32b8a,Mickey Finns Brewery,brewpub,345 N Milwaukee Ave,,,Libertyville,Illinois,60048-2237,United States,8473626688,http://www.mickeyfinnsbrewery.com,-87.9542955,42.2863321
-b7b96ece-e357-4fcf-b195-954b618ca4b6,Middle Brow Beer Company,micro,2840 W Armitage Ave,,,Chicago,Illinois,60647,United States,7088465511,http://www.middlebrowbeer.com,-87.6988905,41.9177811
+573ef91f-2c54-4426-a372-90ec8a90ed33,McHenry Brewing Company,taproom,3425 Pearl St.,,,McHenry,Illinois,60050,United States,8154032212,http://www.mchenrybrewing.com,-88.265408,42.346582
+606eeca9-1d11-4af6-a95f-a526d5f17be4,Metal Monkey Brewing LLC,taproom,515 Anderson Dr Ste 900,,,Romeoville,Illinois,60446-1494,United States,8155243139,http://www.metalmonkeybrewing.com,-88.077905,41.644584
+80cea19e-4e59-4e82-94a3-5b3cb0cd29b3,Metropolitan Brewing,taproom,3057 N Rockwell St,,,Chicago,Illinois,60618-7917,United States,7734746489,http://www.metrobrewing.com,-87.691932,41.937519
+7cb839b2-bd03-4672-a7b4-1d1946e32b8a,Mickey Finns Brewery,brewpub,345 N Milwaukee Ave,,,Libertyville,Illinois,60048-2237,United States,8473626688,http://www.mickeyfinnsbrewery.com,-87.95436,42.286377
+b7b96ece-e357-4fcf-b195-954b618ca4b6,Middle Brow Beer Company,taproom,2840 W Armitage Ave,,,Chicago,Illinois,60647,United States,7088465511,http://www.middlebrowbeer.com,-87.698832,41.917776
 7972a61a-494f-430d-8d26-cc72c3ad56e3,Midnight Pig Beer,brewpub,12337 S Route 59 Unit 155,,,Plainfield,Illinois,60585-4614,United States,8154363900,http://www.nevinsdraftco.com,,
-7b023a28-3a41-4c3c-ae2a-e75d588872b6,Mikerphone Brewing,micro,121 Garlisch Dr,,,Elk Grove Village,Illinois,60007-1322,United States,8472648904,http://www.mikerphonebrewing.com,-87.96704535,42.02909208
-e3176cc4-ed3e-4aa6-862a-3327c70e981b,Miskatonic Brewing Company,micro,1000 N Frontage Rd Ste C,,,Darien,Illinois,60561-6448,United States,6305419414,http://www.miskatonicbrewing.com,,
+89cd9914-7c7f-4750-b86a-71020d55ed85,Midwest Ale Works,brewpub,537 12th Ave,,,East Moline,Illinois,61244,United States,3092304684,http://www.maw.beer,-90.446,41.5186
+7b023a28-3a41-4c3c-ae2a-e75d588872b6,Mikerphone Brewing,taproom,121 Garlisch Dr,,,Elk Grove Village,Illinois,60007-1322,United States,8472648904,http://www.mikerphonebrewing.com,-87.967565,42.029552
+82e7694f-cf61-43c9-82af-c12edbd585f4,Milk Money Brewing,brewpub,75 South LaGrange Rd,,,LaGrange,Illinois,60525,United States,7085826030,http://www.milkmoneybrewing.com,-87.8729,41.7855
+3f16ef97-ec3c-4544-b154-f39acdef970e,Millpond Brewing and Incubator,taproom,308 E. Washington Street,,,Millstadt,Illinois,62260,United States,6189715434,http://www.millpondbrewing.com,-90.087724,38.461276
+e3176cc4-ed3e-4aa6-862a-3327c70e981b,Miskatonic Brewing Company,taproom,1000 N Frontage Rd Ste C,,,Darien,Illinois,60561-6448,United States,6305419414,http://www.miskatonicbrewing.com,-87.970208,41.734433
+9bcb02d6-acd0-4d20-856b-85b72a7032ff,Molly's Pint Brewpub,taproom,12 N 13th St,,,Murphysboro,Illinois,62966,United States,6189676267,http://www.mollyspint.com,-89.336822,37.764474
 f8b36211-efe3-4174-9de6-9b160719e6d6,Moody Tongue Brewing Company,micro,2136 S Peoria St,,,Chicago,Illinois,60608-4526,United States,3126005111,http://www.moodytongue.com,-87.6483419,41.8532798
-d4a564d1-c07b-47a6-bdd5-9198a97aadc3,More Brewing Co,brewpub,126 S Villa Ave,,,Villa Park,Illinois,60181-2653,United States,7735517506,http://Www.morebrewing.com,-87.969272,41.891984
+5a8e5d3c-b3d3-4048-b381-c2d0be55340e,Moody Tongue Brewing Company,micro,2515 S WABASH AVE,,,Chicago,Illinois,60616-2308,United States,3126005111,http://www.moodytongue.com,-87.624885,41.846959
+d4a564d1-c07b-47a6-bdd5-9198a97aadc3,MORE Brewing Co,brewpub,126 S Villa Ave,,,Villa Park,Illinois,60181,United States,6305011519,,-87.969446,41.886814
+3c8d2332-a6fa-49b9-b8b1-25bf35d6b890,MORE Brewing Company,brewpub,13980 Automall Dr,,,Huntley,Illinois,60142-8024,United States,6305011519,http://https://www.morebrewing.com/,-88.430172,42.126842
 84a43e6a-7223-4304-b87f-9502498ab235,Motor Row Brewing,micro,2337 S Michigan Ave,,,Chicago,Illinois,60616-2104,United States,,http://www.motorrowbrewing.com,-87.6233063,41.8499832
-d86ed112-0baa-4205-8848-7a4387b1d1ae,MyGrain Brewing Company,brewpub,50 E Jefferson St Ste 106,,,Joliet,Illinois,60432-4299,United States,8153453339,http://www.mygrainbrewing.com,,
+90c4a1d1-992f-4058-89b4-2b4b46a6196d,Mud Run Beer Co.,brewpub,124 S Main St,,,Stockton,Illinois,61085-1324,United States,8159479089,http://www.mudrunbeer.com,-90.007163,42.349182
+d86ed112-0baa-4205-8848-7a4387b1d1ae,MyGrain Brewing Company,brewpub,50 E Jefferson St Ste 106,,,Joliet,Illinois,60432-4299,United States,8153453339,http://www.mygrainbrewing.com,-88.079553,41.524884
 8ead3533-6041-4b94-a2d3-fb2cd6493f3e,Myths and Legends Brewing Company,micro,1115 Zygmunt Cir,,,Westmont,Illinois,60559-2684,United States,6304427864,http://www.mythsandlegendsbeer.com,-87.9817647,41.7763011
-b7b2b15a-641c-4ca0-9b04-b36d0a5bf3de,Noon Whistle Brewing Company,micro,800 E Roosevelt Rd Ste 3,,,Lombard,Illinois,60148-4765,United States,7089063625,http://www.noonwhistlebrewing.com,,
+54a48202-c694-4c27-9151-fe153b12cbdf,Nightshade and Dark's Pandemonium Brewing,taproom,216 W Clayton St,,,Waukegan,Illinois,60085,United States,8474452467,http://www.nightshadeanddark.com,-87.832073,42.362571
+b3a52bb1-223f-439d-92ca-ff85e87621d9,Nik & Ivy Brewing Company,taproom,1026 S State Street,,,Lockport,Illinois,60441,United States,8155244857,,-88.058002,41.587469
+b7b2b15a-641c-4ca0-9b04-b36d0a5bf3de,Noon Whistle Brewing,taproom,800 E Roosevelt Rd Ste 3,,,Lombard,Illinois,60148-4765,United States,7089063625,http://www.noonwhistlebrewing.com,-88.000549,41.86167
+5569bbad-5d96-4cf0-bccc-69649e04deac,Noon Whistle Brewing Company,micro,1748 W. Jefferson,,,Naperville,Illinois,60540,United States,7089063625,,-88.194171,41.768359
 a4e0521d-ddd8-4991-9d19-456b3455ecd8,O'Griffs Grill & Brewhouse,brewpub,415 Hampshire St,,,Quincy,Illinois,62301-2931,United States,2172242002,,-91.40876529,39.93330414
 63c296f9-29e3-4b2e-9f52-2064578114ee,Oak Park Brewing Company,brewpub,155 S Oak Park Ave,,,Oak Park,Illinois,60302-2901,United States,8475425523,http://www.oakparkbeer.com,-87.79456064,41.886465
-29534279-4d68-4740-98b0-c02948f24fcc,Obed & Isaac's,micro,500 S 6th St,,,Springfield,Illinois,62701-1810,United States,2176700627,http://www.connhospitalitygroup.com,-89.647885,39.797079
-10b8d072-1ccc-45ab-93e4-08cfd8134d67,Obed & Isaac's Microbrewery and Eatery - Peoria,brewpub,321 NE Madison Ave,,,Peoria,Illinois,61603,United States,3093060190,,-89.58865914,40.69577241
+29534279-4d68-4740-98b0-c02948f24fcc,Obed & Isaac's,brewpub,500 S 6th St,,,Springfield,Illinois,62701-1810,United States,2176700627,http://www.connhospitalitygroup.com,-89.647584,39.797026
+10b8d072-1ccc-45ab-93e4-08cfd8134d67,Obed & Isaac's Microbrewery and Eatery - Peoria,brewpub,321 NE Madison Ave,,,Peoria,Illinois,61603,United States,3093060190,,-89.588473,40.695961
 1f49e95a-580d-4f3c-896d-d1ad0e3691e1,Obscurity,planning,,,,Elburn,Illinois,60119-7012,United States,,http://www.drinkobscurity.com,,
-c8e69ab9-60b6-44b9-8188-cf3d719b8d82,Off Color Brewing,micro,3925 W Dickens Ave,,,Chicago,Illinois,60647-3453,United States,,http://www.offcolorbrewing.com,-87.72538437,41.91892697
-0a92f902-3d1d-4ef8-9351-5352615cc749,Off-Kilter Brewing,micro,15810 Carbrey Ave,,,South Beloit,Illinois,61080,United States,,http://www.OffKilterBrewing.com,-89.06082453,42.48966938
-bacebf35-8146-4ec3-abe8-545c53d935a7,Old Irving Brewing Co.,brewpub,4419 W Montrose Ave,,,Chicago,Illinois,60641-2021,United States,7739166421,http://www.oldirvingbrewing.com,-87.7394333,41.9605751
+c1521c27-d016-46b6-be6a-475bde188ec0,Obscurity,brewpub,113 W North St,,,Elburn,Illinois,60119-7012,United States,6303202255,http://www.drinkobscurity.com,-88.472979,41.891974
+c8e69ab9-60b6-44b9-8188-cf3d719b8d82,Off Color Brewing,micro,3925 W Dickens Ave,,,Chicago,Illinois,60647-3453,United States,,http://www.offcolorbrewing.com,-87.7251,41.918879
+d07dbfc3-83cd-4bfd-bcd3-38759cf04272,Off Color Brewing - The Mousetrap,taproom,1460 N Kingsbury St,,,Chicago,Illinois,60642,United States,3129292916,,-87.651455,41.907468
+0a92f902-3d1d-4ef8-9351-5352615cc749,Off-Kilter Brewing,micro,15810 Carbrey Ave,,,South Beloit,Illinois,61080,United States,,http://www.OffKilterBrewing.com,-89.061173,42.489099
+e5b7973c-5653-4fe6-a979-1200c7fcd222,Ogle County Brewery,brewpub,400 W Washington St,,,Oregon,Illinois,61061,United States,,http://www.oglecountybrewery.com,-89.332753,42.01483
+ad13df56-1336-4a1c-acd0-100d59fb55ca,Old Herald Brewing Co,micro,115 E Clay St,,,Collinsville,Illinois,62234,United States,3143235530,http://www.Ardentspirits.com,-89.985644,38.671465
+bacebf35-8146-4ec3-abe8-545c53d935a7,Old Irving Brewing Co.,brewpub,4419 W Montrose Ave,,,Chicago,Illinois,60641-2021,United States,7739166421,http://www.oldirvingbrewing.com,-87.739333,41.960696
 b16226d8-7fb9-4f93-99b8-055edbb68325,Old Town Abbey Ales,proprietor,125 S Jefferson St Unit 2709,,,Chicago,Illinois,60661-3731,United States,3126226544,http://www.oldtownabbey.com,,
-a3261795-e389-45f6-9d4f-5ef77392416f,On Tour Brewing Co.,micro,1725 W Hubbard St,,,Chicago,Illinois,60622-6213,United States,3127963119,http://www.ontourbrewing.com,-87.670578,41.8896255
+a3261795-e389-45f6-9d4f-5ef77392416f,On Tour Brewing Co.,brewpub,1725 W Hubbard St,,,Chicago,Illinois,60622-6213,United States,3127963119,http://www.ontourbrewing.com,-87.670593,41.889601
 460f7adb-fa4e-4c32-aa32-367065e140fc,One Allegiance Brewing,planning,,,,Chicago Ridge,Illinois,60415-1347,United States,,http://www.OneAllegiance.com,,
-e3942af4-576c-42af-9395-735a5d44e762,One Trick Pony Brewery,micro,17845 Chappel Ave # 17851,,,Lansing,Illinois,60438-4525,United States,7088896683,http://www.onetrickponybrewery.com,,
-7cbe110f-d5b6-42bc-b3c6-43dd3b5b6c0e,Only Child Brewing Company,micro,1350 Tri State Pkwy Ste 124,,,Gurnee,Illinois,60031-9135,United States,2246565241,http://www.onlychildbrewing.com,-87.9558129,42.3826426
-a8004c53-8b0b-4fb1-9516-1230cde7bc8e,Open Outcry,brewpub,10934 S Western Ave,,,Chicago,Illinois,60643-3228,United States,7736296055,http://www.openoutcrybrewing.com,-87.6814747,41.6943819
+47156e0e-e941-459e-99cd-30034fa76d15,One Allegiance Brewing,taproom,10215 S Harlem Ave,,,Chicago Ridge,Illinois,60415-1347,United States,7085297067,http://www.OneAllegiance.com,-87.797869,41.706265
+e3942af4-576c-42af-9395-735a5d44e762,One Trick Pony Brewery,micro,17845 Chappel Ave # 17851,,,Lansing,Illinois,60438-4525,United States,7088896683,http://www.otpbrewing.com,-87.57197,41.571136
+7cbe110f-d5b6-42bc-b3c6-43dd3b5b6c0e,Only Child Brewing Company,taproom,1350 Tri State Pkwy Ste 124,,,Gurnee,Illinois,60031-9135,United States,2246565241,http://www.onlychildbrewing.com,-87.950683,42.377135
+a8004c53-8b0b-4fb1-9516-1230cde7bc8e,Open Outcry,micro,10934 S Western Ave,,,Chicago,Illinois,60643-3228,United States,7736296055,http://www.openoutcrybrewing.com,-87.681496,41.694492
+5089c4a7-c66b-4328-8214-a5464c9eaef7,Opera House Brewing Company,taproom,405 S Main St,,,Hillsboro,Illinois,62049,United States,,http://www.operahousebrewing.com,-89.493263,39.158692
+d0acafe4-cc11-422a-8b73-16768cdee3e9,Ørkenoy,brewpub,1757 N Kimball Avenue,,,Chicago,Illinois,60647,United States,3129294024,http://https://orkenoy.com/,-87.711356,41.913496
 a5b37b60-e3c3-43b4-a6d7-16eba9218bed,Oswego Brewing Company,micro,61 Main St,,,Oswego,Illinois,60543-8592,United States,3319991991,http://www.oswegoBrewing.com,,
-66883061-9c0c-47b2-b6dd-178809cded7c,Peckish Pig,brewpub,623 Howard St,,,Evanston,Illinois,60202-3941,United States,8474916778,http://www.thepeckishpig@gmail.com,,
-4649b1ce-01c9-4428-acad-c001f7dfc9e5,Peel Brewing Co.,brewpub,104 S Cherry St,,,O Fallon,Illinois,62269-2046,United States,6187262244,http://www.peelpizza.com,,
-779f7764-a326-4b35-9d24-3d9a098f8df9,Penrose Brewing Company,micro,509 Stevens St,,,Geneva,Illinois,60134-1363,United States,6302322115,http://www.penrosebrewing.com,-88.30984886,41.89253112
-48140e90-91e9-483e-b66f-99b99b1448e9,Piece Brewery,brewpub,1927 W North Ave,,,Chicago,Illinois,60622-1316,United States,7737724422,http://www.piecechicago.com,-87.6760621,41.9102937
-c8d3c288-3993-4c62-8cf7-8d0a74af9350,Pig Minds Brewing Co,brewpub,4080 Steele Dr,,,Machesney Park,Illinois,61115-8358,United States,8159687447,http://www.pigmindsbrewing.com,-89.0232046,42.3692457
-e195223f-feb9-4782-9ce8-98a48b15ca2a,Pipeworks Brewing Co,micro,3912 W McLean Ave Ste B,,,Chicago,Illinois,60647-5973,United States,8479109493,http://pipeworksbrewing.com,,
+f4428fd5-f8fe-4a6f-9d01-39bca5c3b0a6,Patton Block Grill and Brewpub,brewpub,90 Public Square,,,Monmouth,Illinois,61462,United States,3095362390,http://www.pattonblock.com,-90.64785,40.912296
+f819aa69-e4a6-44a3-9ffe-676edc3eb943,Pecatonica Beer Company - Tap House,micro,136 E Main St,,,Warren,Illinois,61087,United States,6085585257,http://www.pecatonicataphouse.com,-89.988216,42.496392
+66883061-9c0c-47b2-b6dd-178809cded7c,Peckish Pig,brewpub,623 Howard St,,,Evanston,Illinois,60202-3941,United States,8474916778,http://www.thepeckishpig@gmail.com,-87.679508,42.019706
+4649b1ce-01c9-4428-acad-c001f7dfc9e5,Peel Brewing Co.,brewpub,104 S Cherry St,,,O Fallon,Illinois,62269-2046,United States,6187262244,http://www.peelpizza.com,-89.912209,38.591424
+779f7764-a326-4b35-9d24-3d9a098f8df9,Penrose Brewing Company,micro,509 Stevens St,,,Geneva,Illinois,60134-1363,United States,2176372581,http://www.penrosebrewing.com,-88.309892,41.892624
+45cbe811-1677-4303-b6d9-794edc994755,Phase Three  Brewing,micro,932 Donata Court,,,Lake Zurich,Illinois,60047,United States,8477496645,http://www.phasethreebrewing.com,-88.074524,42.203608
+48140e90-91e9-483e-b66f-99b99b1448e9,Piece Brewery,brewpub,1927 W North Ave,,,Chicago,Illinois,60622-1316,United States,7737724422,http://www.piecechicago.com,-87.676119,41.910274
+c8d3c288-3993-4c62-8cf7-8d0a74af9350,Pig Minds Brewing Co,brewpub,4080 Steele Drive,,,Machesney Park,Illinois,61115,United States,7794232147,http://www.pigmindsbrewing.com,-89.020046,42.369493
+59add6bb-2845-47ec-a356-2952f1212daa,Pig Minds Brewing Co,brewpub,4080 Steele Drive,,,Machesney Park,Illinois,61115,United States,7794232147,http://www.pigmindsbrewing.com,-89.020046,42.369493
+09ee4ee6-2c70-435a-b194-e86ad3309798,Pilot Project Brewing,taproom,2140 N. Milwaukee Ave.,,,Chicago,Illinois,60647,United States,,http://https://www.pilotprojectbrewing.com/,-87.693004,41.91993
+e195223f-feb9-4782-9ce8-98a48b15ca2a,Pipeworks Brewing Co,micro,3912 W McLean Ave Ste B,,,Chicago,Illinois,60647-5973,United States,8479109493,http://pipeworksbrewing.com,-87.725585,41.918362
 cf3bbe8d-9956-48c4-a576-9e691b26c50e,Pipeworks Brewing Co,micro,,,,Chicago,Illinois,60647-5972,United States,8479109493,,,
 7293e7d3-7f88-4641-aec9-a23ba475a31d,Pizza Beer Company,contract,5N404 Harvest Ln,,,Saint Charles,Illinois,60175-8242,United States,6303776888,http://www.pizzabeer.net,,
-8beeebf7-5b40-4fa7-a085-b62b63740a31,Pollyanna Brewing Company,micro,431 Talcott Ave,,,Lemont,Illinois,60439-3744,United States,6309145834,http://www.pollyannabrewing.com,-87.9978837,41.6759774
+8beeebf7-5b40-4fa7-a085-b62b63740a31,Pollyanna Brewing Company,taproom,431 Talcott Ave,,,Lemont,Illinois,60439-3744,United States,6309145834,http://www.pollyannabrewing.com,-87.997273,41.676001
+3a09fac6-f2ca-468c-a11d-a2e353a337fa,Pollyanna Brewing Company,taproom,245 E Main St,,,Roselle,Illinois,60172,United States,8472851909,http://www.pollyannabrewing.com,-88.073812,41.982411
+ed9d6b83-b519-4505-8c3d-11199eb804bc,Pollyanna Brewing Company - St Charles,taproom,106 S Riverside Ave,,,Saint Charles,Illinois,60174,United States,6305497372,,-88.311892,41.912842
 37c4db32-da47-4e9f-81d1-40c9a6840c73,Prairie Krafts Brewing Company,micro,1310 Busch Pkwy,,,Buffalo Grove,Illinois,60089-4505,United States,2244342189,http://www.prairiekrafts.com,,
-551c1130-152c-44d2-b645-772bed02915a,Prairie Street Brewing Co.,brewpub,200 Prairie St Ste 203,,,Rockford,Illinois,61107-3967,United States,,http://www.psbrewingco.com,-89.087658,42.273033
+551c1130-152c-44d2-b645-772bed02915a,Prairie Street Brewing Co.,brewpub,200 Prairie St Ste 203,,,Rockford,Illinois,61107-3967,United States,,http://www.psbrewingco.com,-89.087225,42.27326
+8d886c77-fc59-4cc0-b4ff-1d87de45e88b,Pratt Brewing Company,micro,2025 Main Street Rd,,,Spring Grove,Illinois,60081,United States,,http://http://www.prattbrewing.com/,-88.237112,42.44395
+b46e7212-8f65-43d7-999c-39a251c88725,Printer's Row Brewing,micro,4801 N Austin,,,Chicago,Illinois,60630,United States,,,-87.777296,41.967918
+eb0eb600-9192-41f7-b705-f5ac0ab03d62,Quincy Brewing Company,taproom,110 N. 6th Street,,,Quincy,Illinois,62301,United States,2176170441,http://www.quincybrewingcompany.com,-91.406478,39.932408
 f1f86e50-2558-4f60-9d6d-f9dd8301a26f,"Rabid Brewing, LLC",micro,17559 Bretz Dr,,,Homewood,Illinois,60430,United States,7089603193,http://www.rabidbrewing.com,-87.6330234,41.5647232
-7c73edeb-85e0-4a8c-9f34-33834ce70cd8,Radicle Effect Brewerks,micro,1340 31st St,,,Rock Island,Illinois,61201-2949,United States,3092837605,http://www.rebrewerks.com,-90.55595294,41.49803483
+8d1df3bf-26d7-4903-b84d-10a108198558,"Rabid Brewing, LLC",taproom,17759 Bretz Dr,,,Homewood,Illinois,60430,United States,7089603193,http://www.rabidbrewing.com,-87.632405,41.566178
+7c73edeb-85e0-4a8c-9f34-33834ce70cd8,Radicle Effect Brewerks,brewpub,1340 31st St,,,Rock Island,Illinois,61201-2949,United States,3092837605,http://www.rebrewerks.com,-90.55621,41.497753
 eea07160-746d-48bd-82cf-29f8de4e6915,Radium City Brewing,micro,,,,Ottawa,Illinois,61350,United States,,http://www.radiumcitybrewing.com,,
 3d1df8eb-6d29-4228-9d0c-75e1a2b8b6de,RAM Restaurant and Brewery - Schaumburg,brewpub,1901 McConnor Pkwy,,,Schaumburg,Illinois,60173-4389,United States,8475178791,http://www.theram.com,,
 e8b9b8b7-b7b7-4cce-a440-e774f4a5c90f,RAM Restaurant and Brewery - Wheeling,brewpub,700 N Milwaukee Ave,,,Wheeling,Illinois,60090-3026,United States,8475201222,http://www.theram.com,-87.9155543,42.1541156
 1ffcb6b0-1702-4b14-ad9a-6d1342719fd7,Ravinia Brewing Company,proprietor,957 Judson Ave,,,Highland Park,Illinois,60035-4728,United States,8472178403,http://www.raviniabrewing.com,-87.784735,42.169955
-37b81531-269f-4642-b251-ad9bb9d8f441,Recess Brewing,micro,307 N Main St,,,Edwardsville,Illinois,62025-1615,United States,6186925101,http://www.recessbrewing.com,-89.9590501,38.81422443
-1db452cf-edd7-4eed-bba1-6f92e000da67,Revolution Brewing,regional,3340 N Kedzie Ave,,,Chicago,Illinois,60618-5722,United States,7735882267,http://www.revbrew.com,-87.707534,41.9289777
-078e3dba-53a7-4d26-b6a5-e43588a234f2,Revolution Brewing - Brewpub,brewpub,2323 N Milwaukee Ave,,,Chicago,Illinois,60647-2924,United States,7732272739,http://www.revbrew.com,-87.6981447,41.923586
-ea79f476-a0cb-4f50-a88d-3412ba6776ce,Riggs Beer Company,micro,1901 S High Cross Rd,,,Urbana,Illinois,61802-7843,United States,2177185345,http://www.riggsbeer.com,-88.16245188,40.09367288
+57fedb5a-ac81-4b7c-8fb7-4e6f53b7978a,Ravinia Brewing Company,brewpub,2601 W Diversey Ave,,,Chicago,Illinois,60647,United States,7733625553,http://www.raviniabrewing.com,-87.692894,41.931869
+ea8bd130-18cc-4974-9cca-896314ab2db4,Rebellion Brew Haus,brewpub,1529 3rd Avenue A,,,Moline,Illinois,61265,United States,3095171684,http://www.rebellionbrewhaus.com,-90.51633,41.508119
+37b81531-269f-4642-b251-ad9bb9d8f441,Recess Brewing,brewpub,307 N Main St,,,Edwardsville,Illinois,62025-1615,United States,6186925101,http://www.recessbrewing.com,-89.959094,38.814174
+97eaef7a-b8f5-4ac9-a07f-d8d2fe4c8ac5,Reserve Artisan Ales,taproom,185 S Kellogg,,,Galesburg,Illinois,61401,United States,3095411010,http://www.reserveartisanales.com,-90.366001,40.945439
+1db452cf-edd7-4eed-bba1-6f92e000da67,Revolution Brewing,regional,3340 N Kedzie Ave,,,Chicago,Illinois,60618-5722,United States,7735882267,http://www.revbrew.com,-87.708516,41.942155
+078e3dba-53a7-4d26-b6a5-e43588a234f2,Revolution Brewing - Brewpub,brewpub,2323 N Milwaukee Ave,,,Chicago,Illinois,60647-2924,United States,7732272739,http://www.revbrew.com,-87.698056,41.923674
+ea79f476-a0cb-4f50-a88d-3412ba6776ce,Riggs Beer Company,taproom,1901 S High Cross Rd,,,Urbana,Illinois,61802-7843,United States,2177185345,http://www.riggsbeer.com,-88.16253,40.093672
 98952c82-f47d-437b-9a54-871736d5b9dc,Ritt Brewing Company,planning,,,,Chicago,Illinois,60634-2319,United States,8475618203,,,
 3120822f-e867-44e5-b293-241fb32dcca7,River Hawk Brewing,micro,24735 W Eames St,,,Channahon,Illinois,60410-8705,United States,8152552202,http://www.riverhawkbrewing.com,-88.21732025,41.43542539
+51c10dca-38aa-4f87-ac68-7398bd32e255,Riverlands Brewing Company,taproom,1860 Dean St. Unit A,,,Saint Charles,Illinois,60174,United States,6305496293,http://www.riverlandsbrewing.com,-88.338188,41.91979
 9482402b-aafe-409b-a54c-13d101e1ee97,Roaring Table Brewing,micro,739 W IL 22,,,Lake Zurich,Illinois,60047,United States,2246624562,http://www.roaringtable.com,,
 a9e63cc7-cc4e-4993-a3ed-2f5cb791666e,Rock Bottom Brewery - Chicago,brewpub,1 W Grand Ave,,,Chicago,Illinois,60654-4806,United States,3127559339,http://www.rockbottom.com,-87.62839238,41.8913983
-e5417f6a-b6a4-48ee-9bca-99a58cea0bb7,Rock Bottom Brewery - Orland Park,brewpub,16156 S La Grange Rd,,,Orland Park,Illinois,60467-5614,United States,7082260021,http://www.rockbottom.com,-87.85275979,41.59402293
-c217bb0b-a315-4ac5-a2ed-bba6ca87e5fe,Rock Bottom Brewery - Warrenville,brewpub,28256 Diehl Rd,,,Warrenville,Illinois,60555-3835,United States,6308361380,http://www.rockbottom.com,,
-4f278d3a-4792-453e-82b8-03304f61d6a4,Rock Bottom Brewery - Yorktown,brewpub,94 Yorktown Ctr,,,Lombard,Illinois,60148-5529,United States,6304241550,http://www.rockbottom.com,,
+e5417f6a-b6a4-48ee-9bca-99a58cea0bb7,Rock Bottom Brewery - Orland Park,brewpub,16156 S La Grange Rd,,,Orland Park,Illinois,60467-5614,United States,7082260021,http://www.rockbottom.com,-87.853216,41.595653
+c217bb0b-a315-4ac5-a2ed-bba6ca87e5fe,Rock Bottom Brewery - Warrenville,brewpub,28256 Diehl Rd,,,Warrenville,Illinois,60555-3835,United States,6308361380,http://www.rockbottom.com,-88.171449,41.802922
+4f278d3a-4792-453e-82b8-03304f61d6a4,Rock Bottom Brewery - Yorktown,brewpub,94 Yorktown Ctr,,,Lombard,Illinois,60148-5529,United States,6304241550,http://www.rockbottom.com,-88.010595,41.838289
 478a266e-5d00-486e-90ca-7ded72d202b6,Rolling Meadows Farm Brewery,micro,3954 Central Point Rd,,,Cantrall,Illinois,62625-8803,United States,2177252492,http://www.rollingmeadowsbrewery.com,,
+27221ffb-bef4-48ed-b95e-e1ce70b36c87,Route 51 Brewing Company,brewpub,18967 N US Hwy 51,,,Elkville,Illinois,62932,United States,6185682739,,-89.229964,37.860501
+e8a17c52-f103-478a-994e-8cec5114d2de,Rt66 Old School Brewing,taproom,110 Bridge St,,,Wilmington,Illinois,60481,United States,8154762220,http://www.rt66oldschoolbrewing.com,-88.14712,41.30793
 b0ffaff1-21a3-47a5-bbd3-073cd3ec1678,Ryan Brewing Company,micro,5312 Williams Dr,,,Roscoe,Illinois,61073,United States,8152701223,http://www.ryanbrewingcompany.com,-89.01015782,42.4211214
 cc9bb9b0-bdea-4c49-b437-711d7f3a4612,Sacred Lake Brewing,planning,,,,Herrin,Illinois,62948-6349,United States,,,,
-dbe83f45-6248-4232-bac6-8ade9979c56e,Scorched Earth Brewing Co.,micro,203 Berg St,,,Algonquin,Illinois,60102-3537,United States,2242098472,http://scorchedearthbrewing.com,-88.3039697,42.17091094
-6242defc-11ab-46ad-a435-eddc69d58756,Scratch Brewing Company,brewpub,264 Thompson Rd,,,Ava,Illinois,62907-2658,United States,6184261415,http://www.scratchbeer.com,,
+d97f2e20-2492-4d4b-86af-1df9741a9e2e,Saint Errant Brewing,alt prop,4020 N Damen Ave,,,Chicago,Illinois,60618,United States,7735806522,http://www.sainterrantbrewing.com,-87.679068,41.955026
+020246a2-2d42-480b-9418-ddc90673bf30,Schlafly Highland,brewpub,907 Main St,,,Highland,Illinois,62249,United States,,,-89.679835,38.740735
+dbe83f45-6248-4232-bac6-8ade9979c56e,Scorched Earth Brewing Co.,taproom,203 Berg St,,,Algonquin,Illinois,60102-3537,United States,2242098472,http://scorchedearthbrewing.com,-88.303566,42.171034
+6242defc-11ab-46ad-a435-eddc69d58756,Scratch Brewing Company,brewpub,264 Thompson Rd,,,Ava,Illinois,62907-2658,United States,6184261415,http://www.scratchbeer.com,-89.430322,37.876787
 b9f88dc8-a3b6-40b5-9875-b16095b2993c,Sew Hop'd Brewery LLC,planning,,,,Huntley,Illinois,60142,United States,8476694501,http://www.sewhopd.com,,
+df28883f-69c1-416e-98d2-362d94cd564d,Sew Hop'd Brewery LLC,taproom,1 UNION SPECIAL PLZ,,,Huntley,Illinois,60142,United States,8476694501,http://www.sewhopd.com,-88.429967,42.172088
 a9b450fc-d3d8-4437-9b51-1f945243f882,ShadowView Brewing,planning,,,,Woodstock,Illinois,60098-6911,United States,8477779323,http://www.shadowviewbrewing.com,,
-782c6620-ce1e-48ff-9f85-271387b63df8,Short Fuse Brewing Company,brewpub,5000 River Rd,,,Schiller Park,Illinois,60176-1021,United States,8472605044,http://www.shortfusebrewing.com,,
-60010f13-de44-4ff3-8f16-9b1feac5a9b8,Side Lot Brewery,micro,110 Slocum Lake Rd,,,Wauconda,Illinois,60084-1883,United States,8478650281,http://www.sidelotbrewing.com,-88.14526776,42.26078912
-c672a50b-383f-4658-98a9-2de71addbb46,Skeleton Key Brewery,micro,8102 Lemont Rd Ste 300,,,Woodridge,Illinois,60517-7764,United States,6303959033,http://www.skeletonkeybrewery.com,,
+09225506-7b08-4609-aa67-22a7331135c1,ShadowView Brewing,brewpub,2400 Lake Shore Dr,,,Woodstock,Illinois,60098-6911,United States,8477779323,http://www.shadowviewbrewing.com,-88.408948,42.282143
+782c6620-ce1e-48ff-9f85-271387b63df8,Short Fuse Brewing Company,taproom,5000 River Rd,,,Schiller Park,Illinois,60176-1021,United States,8472605044,http://www.shortfusebrewing.com,-87.862318,41.970017
+60010f13-de44-4ff3-8f16-9b1feac5a9b8,Side Lot Brewery,brewpub,110 Slocum Lake Rd,,,Wauconda,Illinois,60084-1883,United States,8478650281,http://www.sidelotbrewing.com,-88.142912,42.260548
+c672a50b-383f-4658-98a9-2de71addbb46,Skeleton Key Brewery,taproom,8102 Lemont Rd Ste 300,,,Woodridge,Illinois,60517-7764,United States,6303959033,http://www.skeletonkeybrewery.com,-88.014812,41.741312
 667486e4-c581-4958-941e-3d7077781ea4,Sketchbook Brewing Company,micro,821 Chicago Ave,,,Evanston,Illinois,60202-2307,United States,,,-87.6789794,42.032929
+a7aa9733-f210-4e05-913e-911d06a580e3,Sketchbook Brewing Company - Skokie,taproom,4901 Main St,,,Skokie,Illinois,60077,United States,5186986969,,-87.750049,42.032292
+d812f793-29c7-4395-a760-acd6f7c9a811,Slauterhouse LLC,taproom,2612 Interlacken Dr Suite B,,,Auburn,Illinois,62615,United States,5737011015,http://N/A,-89.7472,39.5857
 88e5f229-e9d3-43b2-9a45-2b4939c5d292,Small Town Brewery,large,1000 N Rand Rd Ste 204,,,Wauconda,Illinois,60084-1182,United States,3142768277,,,
 524c21c1-3dc5-4e41-9e97-5ff34578e071,Smylie Brothers Brewing Co,brewpub,1615 Oak Ave,,,Evanston,Illinois,60201-3611,United States,2249997320,http://www.smyliebros.com,-87.6864692,42.0476547
-daca87d4-1d07-4fba-a2f1-aaa28d7aec1e,Solemn Oath Brewery,micro,1661 Quincy Ave Ste 179,,,Naperville,Illinois,60540-3969,United States,6309953062,http://www.solemnoathbrewery.com,,
-02f62869-f3c5-47f8-a09d-bc6b498e1f84,Soundgrowler Brewing Co.,brewpub,8201 183rd St Ste P,,,Tinley Park,Illinois,60487-9377,United States,7082630083,http://www.soundgrowler.com,,
-004fd048-ed5e-44b6-a116-5d0f5204db06,Spiteful Brewing,micro,2024 W Balmoral Ave,,,Chicago,Illinois,60625-1002,United States,7732936600,http://www.spitefulbrewing.com,-87.6806429,41.979914
+daca87d4-1d07-4fba-a2f1-aaa28d7aec1e,Solemn Oath Brewery,micro,1661 Quincy Ave Ste 179,,,Naperville,Illinois,60540-3969,United States,6309953062,http://www.solemnoathbrewery.com,-88.188488,41.776144
+c7993637-d0f5-4222-b108-4cd6bc213b60,Solemn Oath Brewery Still Life,taproom,2919 W. Armitage,,,Chicago,Illinois,60647,United States,,,-87.700181,41.917331
+02f62869-f3c5-47f8-a09d-bc6b498e1f84,Soundgrowler Brewing Co.,brewpub,8201 183rd St Ste P,,,Tinley Park,Illinois,60487-9377,United States,7082630083,http://www.soundgrowler.com,-87.818609,41.556083
+004fd048-ed5e-44b6-a116-5d0f5204db06,Spiteful Brewing,micro,2024 W Balmoral Ave,,,Chicago,Illinois,60625-1002,United States,7732936600,http://www.spitefulbrewing.com,-87.680578,41.979912
+c0663428-a04b-4ca9-a670-53e40dbba599,Springfield Beer Company,taproom,3788 Wabash Ave,,,Springfield,Illinois,62711,United States,2174412780,http://https://www.spfldbeercompany.com/,-89.724296,39.756357
 f81bd920-0c44-4b6a-80c3-56d85bae7e63,St Nicholas Brewing Co,brewpub,12 S Oak St,,,Du Quoin,Illinois,62832-1515,United States,6187909212,,-89.23946916,38.01026114
-e44f1b26-d801-452b-a1f0-fddaf35f3948,Stockholms Vardshus,brewpub,306 W State St,,,Geneva,Illinois,60134-2103,United States,6302081400,http://www.stockholmsbrewpub.com,-88.30735303,41.88776869
+0eeafaae-27bb-4366-8605-4dce2ea41330,Steam Hollow Brewing Co,micro,450 S Spruce St Unit C,,,Manteno,Illinois,60950,United States,3126851742,http://www.steamhollowbrewing.com,-87.856755,41.24446
+e44f1b26-d801-452b-a1f0-fddaf35f3948,Stockholms Vardshus,brewpub,306 W State St,,,Geneva,Illinois,60134-2103,United States,6302087070,http://www.stockholmsbrewpub.com,-88.30807,41.88783
 4e84c26e-4850-4bee-898d-fcdffd88b881,Strikhedonia Brewing Company LLC,planning,,,,Saint Charles,Illinois,60174-4591,United States,,,,
-8deff2ef-1885-4ff2-b3d7-08dfcadb04e4,Stubborn German Brewing Co,micro,119 S Main St,,,Waterloo,Illinois,62298-1323,United States,6185042444,http://www.stubborngermanbrewing.com,-90.15032876,38.33531994
+8deff2ef-1885-4ff2-b3d7-08dfcadb04e4,Stubborn German Brewing Company,taproom,119 S Main St,,,Waterloo,Illinois,62298-1323,United States,6185042444,http://www.stubborngermanbrewing.com,-90.150672,38.335627
 fa71c6aa-8652-4430-a3aa-dced12038a61,Tangled Roots Brewing Company,brewpub,130 E Madison St,,,Ottawa,Illinois,61350-5098,United States,8153249549,http://www.tangledrootsbrewingco.com,-88.84091316,41.34692308
-aa8a5d03-6fd0-4b3a-95ed-3f4e2f499b30,"Temperance Beer Company, LLC",micro,2000 Dempster St,,,Evanston,Illinois,60202-1017,United States,8478641000,http://temperance.beer,-87.7013174,42.040962
+d97d968e-3b2e-4a49-9532-ac1b5fb76c4d,Tangled Roots Brewing Company,taproom,812 La Salle St,,,Ottawa,Illinois,61350,United States,8153249693,http://www.tangledrootsbrewingco.com,-88.842376,41.348244
+d1ad3598-ddbd-4656-a18d-342fcfefeda2,Tangled Roots Brewing Company - Lock & Mule,brewpub,1025 South State St,,,Lockport,Illinois,60441,United States,81535260825,,-88.058666,41.587742
+aa8a5d03-6fd0-4b3a-95ed-3f4e2f499b30,"Temperance Beer Company, LLC",micro,2000 Dempster St,,,Evanston,Illinois,60202-1017,United States,8478641000,http://temperance.beer,-87.701412,42.040964
 a5abe2bb-a5cb-4994-8dde-05188906b960,Ten Ninety Brewing Co,micro,1025 Waukegan Rd,,,Glenview,Illinois,60025,United States,,http://www.ten-ninety.com,-87.7996254,42.0589281
 5cd9906b-f553-4313-b5fb-32b307bbb820,The Berghoff Brewery Inc.,contract,1730 W Superior St Apt 3W,,,Chicago,Illinois,60622-5639,United States,6083584992,http://www.berghoffbeer.com,,
 0ba3f3ba-fd0d-4328-8932-664701461504,The Berghoff Restaurant,planning,,,,Chicago,Illinois,60603-5502,United States,3126176283,http://www.berghoff.com,,
-3e3b3dea-1b7c-4306-b685-c1ba4b854d44,The Hop Brewery,brewpub,203 W Market St,,,Christopher,Illinois,62822,United States,8667244677,http://www.thehopbrewery.com,-89.05481692,37.97270012
+3e3b3dea-1b7c-4306-b685-c1ba4b854d44,The Hop Brewery,brewpub,203 W Market St,,,Christopher,Illinois,62822,United States,8667244677,http://www.thehopbrewery.com,-89.054863,37.972778
+c9006ef1-3195-49ed-ae7f-9281359ab186,The Life On Marz Community Club,taproom,1950 N Western Ave,,,Chicago,Illinois,60647,United States,,,-87.687607,41.916968
 ef7f6bae-48fd-4583-b5cf-342c7a5987fe,The Old Bakery Beer Company,brewpub,400 Landmarks Blvd,,,Alton,Illinois,62002-2405,United States,6184631470,,,
+417be9a7-cc01-4945-82bb-c43172cc94d0,The Perch,brewpub,1932 W Division,,,Chicago,Illinois,60622,United States,3129294773,http://www.theperchchicago.com,-87.67619,41.903366
 5098f6bc-9d22-4eb8-a68b-f8e26887f93c,Tighthead Brewing Co,micro,161 N Archer Ave,,,Mundelein,Illinois,60060-2301,United States,,,-88.00117584,42.26626399
 2712000e-1581-481c-9422-63120e8c4026,Timotheus Brothers Brewery,micro,2708 N Peoria Rd,,,Springfield,Illinois,62702-1248,United States,2179710027,,-89.6309244,39.846853
 eb6b9afe-8efc-4179-ac49-1c46c7ef29a0,Tocayo Brewing Company,contract,1 S Dearborn St Ste 1700,,,Chicago,Illinois,60603-2308,United States,3122592189,,,
 4497e1be-0cb7-4778-90ff-a910b56659e3,Topsy Turvy,planning,,,,Hampshire,Illinois,60140-9449,United States,8477787070,,,
+2d786df6-525e-4628-ad51-a80c594d2c9c,Trail's Edge Brewing Co.,brewpub,20 Kansas Street,,,Frankfort,Illinois,60423,United States,3129338465,,-87.850117,41.498318
 2544997a-17f7-4e5e-8d65-13c10c05da4b,Tribes Beer Company,brewpub,11220 Lincoln Hwy,,,Mokena,Illinois,60448-8208,United States,8154640248,http://www.tribesalehouse.com,-87.8886903,41.5033149
-8b595726-8d21-4a14-84a0-1dd76aecf55a,Triptych Brewing,micro,1703 Woodfield Dr,,,Savoy,Illinois,61874-9504,United States,2176071176,http://www.triptychbrewing.com,-88.24927593,40.0768564
+728e5006-26fd-478d-8ce9-a8dd5650ed1c,Tribes Beer Company,taproom,11120 Front Street,,,Mokena,Illinois,60448,United States,7089951361,,-87.888096,41.531064
+8b595726-8d21-4a14-84a0-1dd76aecf55a,Triptych Brewing,taproom,1703 Woodfield Dr,,,Savoy,Illinois,61874-9504,United States,2176071176,http://www.triptychbrewing.com,-88.249365,40.076844
 f16ee8bc-0ac3-4403-b7a8-4c4bc0582938,Twisted Hippo,contract,2925 W Montrose Ave,,,Chicago,Illinois,60618-1403,United States,7088447768,http://Www.twistedhippo.com,-87.7019463,41.961125
-5c8ee4a7-a254-4325-9715-1110c71753d3,Two Brothers Brewing Co,regional,30W315 Calumet Ave W,,,Warrenville,Illinois,60555-1565,United States,6303934800,http://www.TwoBrothersBrewing.com,,
+9cb5bb2d-4500-4f5e-aa6d-02398dcc7e02,Twisted Hippo,brewpub,4650 N. St Louis Ave,,,Chicago,Illinois,60625,United States,7088447768,http://Www.twistedhippo.com,-87.716106,41.966264
+5c8ee4a7-a254-4325-9715-1110c71753d3,Two Brothers Brewing Co,regional,30W315 Calumet Ave W,,,Warrenville,Illinois,60555-1565,United States,6303934800,http://www.TwoBrothersBrewing.com,-88.212265,41.824358
+7da47d3d-05e2-47a6-9361-f996a1946922,Two Brothers Roundhouse,brewpub,205 N Broadway,,,Aurora,Illinois,60505,United States,6302642739,,-88.308884,41.760473
+6f840890-6265-4e6c-91fe-eb33e3856c13,Uncommon Ground,taproom,3810 N Clark St,,,Chicago,Illinois,60613-2812,United States,7739681228,http://www.uncommonground.com,-87.659994,41.951319
 4292bd71-a7f6-4cb8-88af-f1f1b60f2272,Une Annee Brewery,micro,9082 W Golf Rd,,,Niles,Illinois,60714-5805,United States,8476350655,http://uneannee.com,,
+7820c78a-4938-4571-94cc-22ae88d63eb6,Une Année Brewery LLC,taproom,6343 W Gross Point Rd,,,Niles,Illinois,60714,United States,8476350655,http://uneannee.com,-87.785269,42.014344
+59571460-3050-46d1-8909-565c2f4484ff,Urban Forest Craft Brewing,taproom,6551 E Riverside Blvd.,,,Rockford,Illinois,61114-4962,United States,2015627474,http://www.UrbanForestCraftBrewing.com,-88.988128,42.318028
 716c0a61-1880-4229-a2bf-41f061eb6d69,Urban Renewal Brewery,planning,,,,Chicago,Illinois,60640,United States,7744874619,http://www.urbanrenewbrew.com,,
 4c7bdc81-c8a2-49a4-90c5-5297e796e7a9,Veteran Beer Co / Veteran Beverage Company,proprietor,320 W Ohio St Ste 501,,,Chicago,Illinois,60654-7816,United States,6192498081,http://www.veteranbeercompany.com,,
 b9f63a8d-4145-4e1f-8613-1bb45dba84dc,Vice District Tap Room,micro,1454 S Michigan Ave Ste 1,,,Chicago,Illinois,60605-2811,United States,3122919022,http://www.vicedistrictbrewing.com,,
-71ac4ae1-27a3-45bb-a309-fa41cff28e4d,Village Vintner Winery & Brewery,brewpub,2380 Esplanade Dr Ste 100,,,Algonquin,Illinois,60102-5450,United States,8476584900,http://www.thevillagevintner.com,-88.33838098,42.14408948
-8b66ecf1-22be-4088-a57a-40cc876b554b,Von Jakob Winery,brewpub,230 Illinois Hwy 127,,,Alto Pass,Illinois,62905,United States,6188934600,http://www.vonjakob.com,,
-32b7bb46-102b-45a3-800a-6dc7222fd731,Wake Brewing,micro,2529 5th Ave,,,Rock Island,Illinois,61201,United States,3095580878,http://www.wakebrewing.com,-90.50132856,41.51035669
+71ac4ae1-27a3-45bb-a309-fa41cff28e4d,Village Vintner Winery & Brewery,brewpub,2380 Esplanade Dr Ste 100,,,Algonquin,Illinois,60102-5450,United States,8476584900,http://www.thevillagevintner.com,-88.338646,42.145755
+8b66ecf1-22be-4088-a57a-40cc876b554b,Von Jakob Winery,brewpub,230 Illinois Hwy 127,,,Alto Pass,Illinois,62905,United States,6188934600,http://www.vonjakob.com,-89.324375,37.60157
+32b7bb46-102b-45a3-800a-6dc7222fd731,Wake Brewing,taproom,2529 5th Ave,,,Rock Island,Illinois,61201,United States,3095580878,http://www.wakebrewing.com,-90.563703,41.508168
 376ea613-f4d4-400e-8bda-93cffe5e7314,Werk Force Brewing Co,micro,14903 S Center St # 107,,,Plainfield,Illinois,60544-2177,United States,8155315557,http://www.werkforcebrewing.com,,
-7e464f88-ef88-4890-be4b-e7694f31b640,Whiner Beer Company,micro,1400 W 46th St,,,Chicago,Illinois,60609-3225,United States,3128102271,http://whinerbeer.com,-87.6606688,41.810614
-b7d35211-94cc-47f5-ae7e-840824764519,White Oak Brewing,micro,1801 Industrial Park Dr,,,Normal,Illinois,61761-4378,United States,3098284077,http://www.WhiteOak.beer,-89.023233,40.4987
-1ba59950-58ce-4834-9b4c-ef6e32fd7ef9,Wild Onion Brewing Co.,micro,22221 N Pepper Rd,,,Lake Barrington,Illinois,60010-2473,United States,8473817308,http://www.onionpub.com,,
-8f54e466-4f0c-4ecc-853f-02b4680853c9,Will County Brewing Company,micro,1142 W Jefferson St,,,Shorewood,Illinois,60404-0703,United States,8155824157,http://www.willcountybrew.com,-88.20870656,41.521524
-6098bdc3-b15b-4b11-ae3c-753503b64abd,Wishful Acres Farm and Brewery,micro,4679 N Flansburg Rd,,,Lena,Illinois,61048,United States,8159902380,http://www.wishfulacresfarm.com,,
+1851bf55-3301-4ac4-8fac-0f38b84484eb,Werk Force Brewing Co,brewpub,14903 S Center St,,,Plainfield,Illinois,60544-2177,United States,8155315457,http://www.werkforcebrewing.com,-88.197845,41.611954
+7e464f88-ef88-4890-be4b-e7694f31b640,Whiner Beer Company,micro,1400 W 46th St,,,Chicago,Illinois,60609-3225,United States,3128102271,http://whinerbeer.com,-87.660603,41.810754
+f08c90a7-e81f-402e-932c-a10ef8d5c57b,Whiskey Hill Brewing,taproom,1115 Zygmunt Cir,,,Westmont,Illinois,60559-2684,United States,6303246613,http://www.whiskeyhillbrewing.com,-87.982323,41.77541
+b7d35211-94cc-47f5-ae7e-840824764519,White Oak Brewing,taproom,1801 Industrial Park Dr,,,Normal,Illinois,61761,United States,,http://www.WhiteOak.beer,-89.020047,40.498919
+3514197d-8edd-4fa9-823f-7cb4de2d9f2b,White Rooster Farmhouse Brewery,taproom,113 W Jackson St,,,Sparta,Illinois,62286,United States,6184492077,http://www.whiteroosterfarmhousebrewery.com,-89.702496,38.122319
+1ba59950-58ce-4834-9b4c-ef6e32fd7ef9,Wild Onion Brewing Co.,micro,22221 N Pepper Rd,,,Lake Barrington,Illinois,60010-2473,United States,8473817308,http://www.onionpub.com,-88.180872,42.186939
+8f54e466-4f0c-4ecc-853f-02b4680853c9,Will County Brewing Company,taproom,1142 W Jefferson St,,,Shorewood,Illinois,60404-0703,United States,8155824157,http://www.willcountybrew.com,-88.2104,41.5214
+6098bdc3-b15b-4b11-ae3c-753503b64abd,Wishful Acres Farm & Brewery LLC,taproom,4679 N. Flansburg Rd.,,,Lena,Illinois,61048,United States,8159902380,http://www.wishfulacresfarm.com,-89.728733,42.369046
+3edc2a7b-4685-4b38-8c96-0afc0e0da948,Wolfden Brewing Company,brewpub,112 W Lake St,,,Bloomingdale,Illinois,60108-1018,United States,8476105117,http://www.wolfdenbrewing.com,-88.082674,41.957513
 e58f2bb3-b382-4000-9977-ac2f5030da96,Wonky Brew Factory,planning,,,,Aurora,Illinois,60506-5749,United States,,,,
-81c373d3-cacc-4f69-a716-3dfe919a3b42,Zum Bier,micro,3232 E Monroe St,,,Waukegan,Illinois,60085,United States,8474207313,http://www.zumbier.com,,
+81c373d3-cacc-4f69-a716-3dfe919a3b42,ZumBier,micro,3232 E Monroe St,,,Waukegan,Illinois,60085,United States,8474207313,http://www.zumbier.com,-87.862,42.3589

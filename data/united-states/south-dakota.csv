@@ -1,46 +1,60 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-9aeccd09-8884-4f0e-93f4-c44dacd246aa,A Homestead Brew,micro,26685 486th Ave,,,Valley Springs,South Dakota,57068-7309,United States,6055535015,http://www.ahomesteadbrew.com,-96.49421923,43.51733014
+9aeccd09-8884-4f0e-93f4-c44dacd246aa,A Homestead Brew,taproom,26685 486th Ave,,,Valley Springs,South Dakota,57068,United States,6055535015,http://www.ahomesteadbrew.com,-96.493466,43.513889
+c7d3e984-a71d-45f2-88e5-95a9717be6a2,Armour Brewing Company,taproom,721 Main Ave,,,Armour,South Dakota,57313,United States,4028901550,,-98.346998,43.318631
 244d5454-88ea-41c3-b3b7-c4374e8b795c,"Armour Brewing Company, LLC",brewpub,721 Main St,,,Armour,South Dakota,57313-2122,United States,4028901550,http://www.facebook.com/ArmourBrewingCompany,-98.34450702,43.33084265
-270cf75d-5742-44bb-b795-6300d8429cc1,Backspace Brewing,micro,200 Walnut St,,,Yankton,South Dakota,57078-4343,United States,4026508158,http://www.backspacebeer.com,-97.393642,42.86878841
-80fb35c8-eef8-49f7-8d97-ed0a432d52c3,Ben's Brewing Station,micro,719 Walnut Street,,,Yankton,South Dakota,57078-3542,United States,6056619090,http://www.bensbrewing.shop,-97.39428007,42.8771861
+270cf75d-5742-44bb-b795-6300d8429cc1,Backspace Brewing Co,taproom,200 Walnut St,,,Yankton,South Dakota,57078,United States,4026508158,http://www.backspacebeer.com,-97.393651,42.868622
+80fb35c8-eef8-49f7-8d97-ed0a432d52c3,Ben's Brew Station,taproom,719 Walnut Street,,,Yankton,South Dakota,57078,United States,6056619090,,-97.394492,42.876882
+9756a21b-85ff-440b-99a0-d5b2b0023944,Ben's Brewing Co,taproom,222 W 3rd Street,,,Yankton,South Dakota,57078,United States,6056619090,http://www.bensbrewing.com,-97.395033,42.870071
 96e9ab03-28cd-4240-9ad6-5e49f716d1a0,Big Sioux Brewing Company,planning,,,,Humboldt,South Dakota,57035-6106,United States,,,,
-52c75863-28c7-43cf-8700-3357885beea3,Buffalo Ridge Brewing,micro,102 N Main Ave,,,Hartford,South Dakota,57033-2165,United States,6055282739,http://buffaloridgebrewing.com,-96.94549247,43.62226751
+52c75863-28c7-43cf-8700-3357885beea3,Buffalo Ridge Brewing,taproom,102 N Main Ave,,,Hartford,South Dakota,57033,United States,6059996569,http://www.buffaloridgebrewing.com,-96.945223,43.622132
 7ff6ddb0-bd1e-4e5c-b2a3-bf66fac6e6d7,Choteau Creek Brewing Company,micro,40228 296th St,,,Wagner,South Dakota,57380-6968,United States,,http://www.facebook.com/loveourbeer,-98.1387997,43.11037166
-81538993-ea66-450c-a41e-6023267081f8,Cohort Craft Brewery,micro,4905 5th Street,,,Rapid City,South Dakota,57701-6032,United States,4023504624,http://www.cohortbrewery.com,-103.2166522,44.03542851
-5598d62b-3e30-487b-b3b6-a7c6044f69ef,Covert Artisan Ales & Cellars,micro,434 East 8th Street,,,Sioux Falls,South Dakota,57103-7025,United States,6053895954,http://www.covertartisanales.com,-96.72165409,43.54942193
-b3a266ac-9340-4322-a7ca-3ec0062d59e5,Crow Peak Brewing Co,micro,125 W Highway 14,,,Spearfish,South Dakota,57783-1150,United States,6057170006,http://www.crowpeakbrewing.com,-103.8706684,44.5175219
-30b94075-ba6b-4e1f-9f35-519f7490af97,Dakota Point Brewing LLC,micro,405 Canal St Ste 1200,,,Rapid City,South Dakota,57701-2577,United States,6057912739,http://www.dakotapointbrewing.com,-103.2437026,44.0830123
-56b77af4-f236-477b-8e5d-0d01a88bce58,Dakota Shivers Brewing,micro,717 W Main St,,,Lead,South Dakota,57754-1539,United States,6054155352,http://www.dakotashiversbrewing.com,-103.7721626,44.35111622
+81538993-ea66-450c-a41e-6023267081f8,Cohort Craft Brewery,taproom,4905 5th Street,,,Rapid City,South Dakota,57701,United States,4023504624,http://www.cohortbrewery.com,-103.216685,44.035172
+5598d62b-3e30-487b-b3b6-a7c6044f69ef,Covert Artisan Ales & Cellars,taproom,434 East 8th Street,,,Sioux Falls,South Dakota,57103,United States,6053895954,http://www.covertartisanales.com,-96.721653,43.548763
+b3a266ac-9340-4322-a7ca-3ec0062d59e5,Crow Peak Brewing Company,micro,125 W Highway 14,,,Spearfish,South Dakota,57783,United States,6057170006,http://www.crowpeakbrewing.com,-103.870553,44.517617
+30b94075-ba6b-4e1f-9f35-519f7490af97,Dakota Point Brewing LLC,taproom,405 Canal St Ste 1200,,,Rapid City,South Dakota,57701-2577,United States,6057912739,http://www.dakotapointbrewing.com,-103.244344,44.082907
+56b77af4-f236-477b-8e5d-0d01a88bce58,Dakota Shivers Brewing,taproom,717 W Main St,,,Lead,South Dakota,57754-1539,United States,,http://www.dakotashiversbrewing.com,-103.772094,44.351037
 b2648189-33cc-4205-ad69-87d9f1e5abe1,Dakota Territory Brewing,closed,224 S Main St,,,Aberdeen,South Dakota,57401-4138,United States,6052166650,http://www.facebook.com/DakotaTerritoryBrewing,-98.48853502,45.46249262
-cff33451-0f08-4488-9233-0f3f5876a1a5,"Dempseys Brewery, Pub",brewpub,127 N Broadway,,,Watertown,South Dakota,57201-3525,United States,6058829760,http://www.dempseybrewpub.com,-97.11389409,44.90302636
-13f3232c-9325-4b93-9fd9-06459cdd1734,Eponymous Brewing Co,micro,126 Main Ave S,,,Brookings,South Dakota,57006-3038,United States,6056922739,http://www.eponymousbrewing.com,-96.79881257,44.30472165
-c049573d-94ac-4d4a-b092-099b4f464a18,Fernson Brewing Company,micro,1400 E Robur Dr,,,Sioux Falls,South Dakota,57104-0582,United States,6057893822,http://fernson.com,-96.70852613,43.60785297
+cff33451-0f08-4488-9233-0f3f5876a1a5,"Dempseys Brewery, Pub",brewpub,127 N Broadway,,,Watertown,South Dakota,57201-3525,United States,,,-97.114114,44.902922
+13f3232c-9325-4b93-9fd9-06459cdd1734,Eponymous Brewing Co,taproom,126 Main Ave S,,,Brookings,South Dakota,57006-3038,United States,6056922739,http://www.eponymousbrewing.com,-96.798857,44.305347
+c049573d-94ac-4d4a-b092-099b4f464a18,Fernson Brewing Company,micro,1400 E Robur Dr,,,Sioux Falls,South Dakota,57104-0582,United States,6057893822,http://fernson.com,-96.707496,43.608584
 5d9015c7-f11d-4741-a3d4-edfe5ad625d1,Fernson Downtown,brewpub,332 S Phillips Ave,,,Sioux Falls,South Dakota,57104-6319,United States,6057892012,http://fernson.com,-96.72658415,43.54377963
-4dfcdb68-1be1-4581-9283-a01ca9bc9e6d,Firehouse Brewing Co,brewpub,610 Main St,,,Rapid City,South Dakota,57701-2736,United States,6053481915,http://www.firehousebrewing.com,-103.2275562,44.08144085
-3299530b-ec21-407e-8882-4aedfe4cdd2c,Granite City Food & Brewery (#2),brewpub,2620 S Louise Ave,,,Sioux Falls,South Dakota,57106-4329,United States,6053620000,http://www.gcfb.net,-96.7727844,43.52337192
-3404588d-3a65-4f24-ab30-8d738ac3d108,Hay Camp Brewing Company,micro,601 Kansas City St,,,Rapid City,South Dakota,57701-3622,United States,6057181167,http://www.haycampbrewing.com,-103.227816,44.07889
+4dfcdb68-1be1-4581-9283-a01ca9bc9e6d,Firehouse Brewing Co,brewpub,610 Main St,,,Rapid City,South Dakota,57701-2736,United States,6053481915,http://www.firehousebrewing.com,-103.227287,44.08128
+3299530b-ec21-407e-8882-4aedfe4cdd2c,Granite City Food & Brewery (#2),brewpub,2620 S Louise Ave,,,Sioux Falls,South Dakota,57106-4329,United States,6053620000,http://www.gcfb.net,-96.771282,43.521481
+3404588d-3a65-4f24-ab30-8d738ac3d108,Hay Camp Brewing Company,taproom,601 Kansas City St,,,Rapid City,South Dakota,57701-3622,United States,6057181167,http://www.haycampbrewing.com,-103.228261,44.078708
 ed35940e-06b8-4323-834d-865d107bb6af,Highway 79 Brewery,closed,27631 SD Hwy 79,,,Hot Springs,South Dakota,57747-7304,United States,,,-103.3966292,43.40115
+53336750-7c57-4fbf-9d3c-439f32b79503,Jacobs Brewhouse and Grocer,brewpub,79 Sherman Street,,,Deadwood,South Dakota,57732,United States,6055591895,http://www.jacobsbrewhouse.com,-103.728951,44.374854
+17b54326-80b2-4699-a705-ecdfd650b9d0,Jefferson Beer Supply,taproom,202 Main St,,,Jefferson,South Dakota,57038,United States,3147196984,http://www.jeffersonbeersupply.com,-96.557811,42.602071
 841cd723-8ea8-449b-ac58-cab18ba0360d,Last Mile Brewery,micro,221 Swanzey St Unit F,,,Keystone,South Dakota,57751-2042,United States,,http://lastmilebeer.com,-103.4237317,43.89448562
 12327675-9ad1-496a-90b9-d3d46a68b8b1,Last Mile Brewery,micro,635 Creek Dr Unit C,,,Rapid City,South Dakota,57703-4012,United States,,http://lastmilebeer.com,-103.1866638,44.07909761
+ab35e47e-2c43-4e48-acc7-84a788b9ef6e,Last Mile Brewery,taproom,635 Creek Dr,,,Rapid City,South Dakota,57703,United States,,http://www.lastmilebeer.com,-103.186744,44.077833
 d17629b9-8cfb-404e-a6cd-8e62017f5841,Lean Horse Productions,contract,600 Meier Ave,,,Spearfish,South Dakota,57783-1991,United States,6056413534,,-103.8647996,44.48900743
+22442a0f-4d6a-4d87-a56c-1c42d746adc7,Look's Beer Co.,brewpub,500 E 69th ST,,,Sioux Falls,South Dakota,57105,United States,6053363104,http://www.looksmarket.com,-96.721874,43.490318
 3a2613dd-86a8-4457-b400-a23f5c10b314,Lost Cabin Beer Co.,micro,1401 W Omaha St Ste 3,,,Rapid City,South Dakota,57701-3163,United States,6057185678,http://www.lostcabin.beer,-103.2422229,44.08401961
-c06f078b-daf8-447d-b192-336fc1971b52,Lupulin Brewing - Sioux Falls,brewpub,"2425 S. Shirley Ave, Suite 112",,,Sioux Falls,South Dakota,57106-4332,United States,6052755544,http://www.lupulinbrewing.com,-96.7772127,43.52471978
+6579fa6f-6a48-431b-89e6-7a7d6858da95,Lost Cabin Beer Co.,taproom,1401 W Omaha Street,,,Rapid City,South Dakota,57701-3163,United States,6057185678,http://lostcabin.beer,-103.242393,44.083861
+c06f078b-daf8-447d-b192-336fc1971b52,Lupulin Brewing - Sioux Falls,taproom,"2425 S. Shirley Ave, Suite 112",,,Sioux Falls,South Dakota,57106,United States,6052755544,,-96.77754,43.524358
 48bf3d71-82d6-4fec-a193-8782e5b3d5b9,Miner Brewing Co,brewpub,23845 Highway 385,,,Hill City,South Dakota,57745-6517,United States,6055742886,http://www.minerbrewing.com,-103.5224249,43.94871384
 37884fdf-65bc-480f-ba9a-3f556fa5081a,Miner Brewing Co,brewpub,"2101 W 41st St, Ste 25",,,Sioux Falls,South Dakota,57105-6195,United States,6054967175,http://minerbrewingsiouxfalls.com/,-96.75352318,43.51296253
 45f21aa8-4f34-49e1-80a2-be7c155ac474,Monk's Ale House,brewpub,420 E 8th St,,,Sioux Falls,South Dakota,57103-7025,United States,6053382328,http://www.monkshouseofalerepute.com,-96.7218594,43.5488749
 7bbaf187-f244-43c9-9c28-d8ee0c904958,Mt. Rushmore Brewing Company,brewpub,140 Mt Rushmore Rd,,,Custer,South Dakota,57730-1829,United States,,http://www.mtrushmorebrewing.com,-103.605392,43.764722
+ba310877-4294-42f4-a5fc-5923e062cd8d,Obscure Brewing,brewpub,5200 Grant St.,,,Sioux Falls,South Dakota,57110,United States,6054132589,,-96.6661,43.5457
 1a669bd2-fdb1-437f-98f8-06d3a1bc0274,One Legged Pheasant Brewery,micro,721 S Main St,,,Aberdeen,South Dakota,57401-6047,United States,6057251534,http://oneleggedpheasant.com,-98.48790197,45.45741525
+d2eed5db-656f-4697-9a89-33397888c853,One Legged Pheasant Brewery,taproom,723 S Main St,,,Aberdeen,South Dakota,57401-6016,United States,6057251534,http://www.oneleggedpheasant.com,-98.487698,45.457236
 f23613d0-d127-4f8e-ba66-7f4be11f6707,Orange Cat Brewery,proprietor,5110 S Graystone Ave,,,Sioux Falls,South Dakota,57108-7561,United States,7125404325,http://www.orangecatbrewery.com,-96.67330313,43.49940496
 fcc5674e-befb-4eab-bfb6-ec508720b7a0,Panacea Brewing Company / Remedy Brewing Company,brewpub,401 E 8th St Ste 120,,,Sioux Falls,South Dakota,57103-7012,United States,6052141327,http://www.remedybrewco.com,-96.7221603,43.54794988
-9248a7e6-08a5-41c0-bdba-e1bc9066a2e6,Platte Creek Brewing Company,micro,311 Main St,,,Geddes,South Dakota,57342-7706,United States,6053372994,http://www.plattecreekbrewingcompany.com,-98.68955885,43.26576978
-317c75e5-7628-4d17-b683-d734c225349c,Remedy Brewing Company,micro,401 E 8th St #120,,,Sioux Falls,South Dakota,57103-7012,United States,6052716193,http://www.remedybrewco.com,-96.72223225,43.54791493
-524df279-0a14-4e66-958e-f67a1e172731,Severance Brewing Company,micro,701 N Phillips Ave,,,Sioux Falls,South Dakota,57104-1623,United States,6052715480,http://severancebeer.com/,-96.72724272,43.5560742
+9248a7e6-08a5-41c0-bdba-e1bc9066a2e6,Platte Creek Brewing,brewpub,311 Main St,,,Geddes,South Dakota,57342,United States,6053372994,,-98.696032,43.252974
+317c75e5-7628-4d17-b683-d734c225349c,Remedy Brewing Company,micro,401 E 8th St Ste 120,,,Sioux Falls,South Dakota,57103-7012,United States,6052141327,http://www.remedybrewco.com,-96.721823,43.548488
+5b0a1faf-03a8-4c88-87b8-7db6df4da932,Remedy Brewing Company,micro,401 E 8th St Ste 120,,,Sioux Falls,South Dakota,57103-7012,United States,6052141327,http://www.remedybrewco.com,-96.721823,43.548488
+4172ad6d-6e3b-4791-9e7e-d21dcf8efea7,Roundhouse Brew Pub,brewpub,1515 E 69th St,,,Sioux Falls,South Dakota,57108,United States,6052712050,http://www.roundhousebrewpubsf.com,-96.698215,43.489322
+af08f227-dfe0-495f-8c32-b208e6b88501,Sawyer Brewing Company,brewpub,2537 Yukon Pl,,,Spearfish,South Dakota,57783,United States,,http://placeholder,-103.8617,44.5114
+524df279-0a14-4e66-958e-f67a1e172731,Severance Brewing Company,taproom,701 N Phillips Ave,,,Sioux Falls,South Dakota,57104,United States,6052715480,http://www.severancebeer.com,-96.72724,43.555372
 c3851fdf-bb12-4d54-98a0-c7beed22a423,Sick N Twisted Brewing Co,brewpub,692 Main St,,,Deadwood,South Dakota,57732-1124,United States,6057176831,http://www.sickntwistedbrewery.com,-103.7310822,44.37732531
-2e46ffca-3a8c-4bca-86ac-ecc74131e20e,Sick N Twisted Brewing Co,brewpub,23851 Highway 385 Ste A,,,Hill City,South Dakota,57745-6544,United States,6055749200,http://www.sickntwistedbrewery.com,-103.5272662,43.94601735
-ef0527d9-0605-4d3a-adce-9e59dd492e66,Spearfish Brewing Company,micro,741 N Main St Ste 130,,,Spearfish,South Dakota,57783-4147,United States,6057176999,http://spearfishbrewing.com,-103.8597028,44.4910696
+2e46ffca-3a8c-4bca-86ac-ecc74131e20e,Sick N Twisted Brewing Co,taproom,23851 Highway 385 Ste A,,,Hill City,South Dakota,57745-6544,United States,6055742454,,-103.527411,43.945679
+ef0527d9-0605-4d3a-adce-9e59dd492e66,Spearfish Brewing Company,taproom,741 N Main St Ste 130,,,Spearfish,South Dakota,57783-4147,United States,,http://spearfishbrewing.com,-103.859617,44.490773
+817462c2-731d-4a39-9ebb-260f83054e19,Strubel Brewing Company,taproom,207 E Capitol Ave,,,Pierre,South Dakota,57501,United States,6055198009,http://www.stubelbrewing.com,-100.350449,44.368001
+61ad7ad6-de40-48fe-af01-2cf9b84ca3d2,Sturgis Brewing Co,brewpub,600 Anna St,,,Sturgis,South Dakota,57785,United States,6057202337,http://www.sturgisbrewingcompany.com,-103.504299,44.397858
 dd538cde-772c-4874-8f51-586d93474068,The Knuckle Brewing Company,brewpub,918 Harley Davidson Way,,,Sturgis,South Dakota,57785-8511,United States,6055619846,http://www.theknuckle.com,-103.5124614,44.41556787
-3a80fe8b-9d4f-43dc-81a9-4145c5132bcb,Watertown Brewing Company,micro,113 E Kemp Ave,,,Watertown,South Dakota,57201-3641,United States,6058782739,http://watertownbrewing.com,-97.11158716,44.90104997
-432aa140-cfe4-4a0b-be34-03401efd5a50,Wooden Legs Brewing Co,brewpub,309 5th St Ste 100,,,Brookings,South Dakota,57006-1963,United States,6056922337,http://www.woodenlegsbrewing.com,-96.7996148,44.3104741
-a588faa2-58f8-47cf-b361-07fba19fd3d1,WoodGrain Brewing Company,micro,101 S Phillips Ave Ste 100,,,Sioux Falls,South Dakota,57104-6719,United States,6053105316,http://www.woodgrainbrew.com,-96.72722416,43.54728383
-0106f90d-19de-4031-bbed-ed732be5a9ae,Woodland Republic Brewing & Blending,planning,412 5th St,,,Rapid City,South Dakota,57701-2742,United States,,http://woodlandrepublicbrewing.com,-103.2244639,44.08150095
+3a80fe8b-9d4f-43dc-81a9-4145c5132bcb,Watertown Brewing Co,brewpub,113 E Kemp Ave,,,Watertown,South Dakota,57201,United States,6058782739,http://www.watertownbrewing.com,-97.11185,44.900243
+432aa140-cfe4-4a0b-be34-03401efd5a50,Wooden Legs Brewing Co,brewpub,309 5th St Ste 100,,,Brookings,South Dakota,57006-1963,United States,6056922337,http://www.woodenlegsbrewing.com,-96.799659,44.310528
+a588faa2-58f8-47cf-b361-07fba19fd3d1,WoodGrain Brewing Company,taproom,101 S Phillips Ave Ste 100,,,Sioux Falls,South Dakota,57104-6719,United States,6053105316,http://www.woodgrainbrew.com,-96.727237,43.546965
+0106f90d-19de-4031-bbed-ed732be5a9ae,Woodland Republic Brewing & Blending,taproom,412 5th St,,,Rapid City,South Dakota,57701,United States,,http://www.woodlandrepublicbrewing.com,-103.224219,44.081438
 82234375-c7fa-4208-8878-b661b7a1e6aa,Zymurcracy Beer Company,micro,4624 Creek Dr Ste 6,,,Rapid City,South Dakota,57701-2165,United States,6057910411,http://www.zymurcracybeer.com,-103.1795198,44.03811547

@@ -1,45 +1,84 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-5128df48-79fc-4f0f-8b52-d06be54d0cec,(405) Brewing Co,micro,1716 Topeka St,,,Norman,Oklahoma,73069-8224,United States,4058160490,http://www.405brewing.com,-97.46818222,35.25738891
-f6350f89-c5df-4969-81b2-358b6e8e6ed0,American Solera,micro,1702 E 6th St,,,Tulsa,Oklahoma,74104,United States,9189494318,http://www.americansolera.com,-95.9667403,36.1518928
-3929eda4-926c-46cd-ab20-cb5c9e6f7caf,Angry Scotsman Brewing,contract,704 W Reno Ave,,,Oklahoma City,Oklahoma,73102-2434,United States,4056737713,http://www.angryscotbrew.com,-97.6002769,35.4644206
-f95b4c37-7d9c-4bcb-8958-31c352cd1cab,Anthem Brewing Co,micro,908 SW 4th St,,,Oklahoma City,Oklahoma,73109-1012,United States,4056040446,http://www.anthembrewing.com,-97.5279236,35.46099673
-8fa5ceba-e668-479e-9eb6-792be566eff2,Battered Boar Brewing Co,micro,14700 Metro Plaza Blvd Ste F,,,Edmond,Oklahoma,73013-1991,United States,4052545000,http://www.batteredboar.com,-97.50849,35.619996
-40b45277-e99b-4068-894b-b4fb9fbf987f,Beavers Bend Brewery,micro,46 Coho Rd,,,Broken Bow,Oklahoma,74728-6765,United States,5804943455,http://www.beaversbendbrewery.com,-94.7595504,34.1658072
+5128df48-79fc-4f0f-8b52-d06be54d0cec,(405) Brewing Co,taproom,1716 Topeka St,,,Norman,Oklahoma,73069-8224,United States,4058160490,http://www.405brewing.com,-97.467773,35.257037
+765d276a-6e6a-4b34-9bab-dae604e4f3b7,1774 Brewing,micro,2609 N Moore Ave,,,Moore,Oklahoma,73160,United States,,,-97.496878,35.362197
+f6350f89-c5df-4969-81b2-358b6e8e6ed0,American Solera,taproom,1702 E 6th St,,,Tulsa,Oklahoma,74104,United States,9189494318,http://www.americansolera.com,-95.96668,36.151902
+3929eda4-926c-46cd-ab20-cb5c9e6f7caf,Angry Scotsman Brewing,micro,704 W Reno Ave,,,Oklahoma City,Oklahoma,73102-2434,United States,4053347208,http://www.angryscotbrew.com,-97.524533,35.464093
+f95b4c37-7d9c-4bcb-8958-31c352cd1cab,Anthem Brewing Co,micro,908 SW 4th St,,,Oklahoma City,Oklahoma,73109-1012,United States,4056040446,http://www.anthembrewing.com,-97.528709,35.460938
+8fa5ceba-e668-479e-9eb6-792be566eff2,Battered Boar Brewing Co,micro,14700 Metro Plaza Blvd Ste F,,,Edmond,Oklahoma,73013-1991,United States,4052545000,http://www.batteredboar.com,-97.508772,35.620158
+40b45277-e99b-4068-894b-b4fb9fbf987f,Beavers Bend Brewery,micro,46 Coho Rd,,,Broken Bow,Oklahoma,74728-6765,United States,5804943455,http://www.beaversbendbrewery.com,-94.760494,34.166093
 1bfba23f-2815-4f28-9d5d-37bca2306903,Beer Is Good Brewing Company,micro,216 E Main,,,Norman,Oklahoma,73069,United States,4058577080,http://bigbrew.co,-97.4411294,35.2216069
-5ce26e95-3deb-4b79-be7d-3d7962abc3f3,Belle Isle Restaurant and Brewing Co,brewpub,1900 NW Expressway Ste 44,,,Oklahoma City,Oklahoma,73118-1832,United States,4058401911,http://www.belleislerestaurant.com,-97.545912,35.522258
-8f5375c1-cfa2-4f84-8967-6ca771be1ba9,Black Mesa Brewing Company,micro,3901 N Flood Ave,,,Norman,Oklahoma,73069,United States,4054081848,http://www.blackmesabrewing.com,-97.4819196,35.2761135
-1d7e7d19-91e3-4752-9fb0-9454fad1aff8,Bricktown Brewery,brewpub,1 Remington Pl,,,Oklahoma City,Oklahoma,73111,United States,4054194449,http://www.bricktownbrewery.com,-97.471261,35.5277209
-4468dae2-ef14-4570-af79-812226eaabd1,Bricktown Brewery,brewpub,1 N Oklahoma Ave,,,Oklahoma City,Oklahoma,73104-2413,United States,4052322739,http://www.bricktownbrewery.com,-97.510181,35.567702
-54e647b1-1abf-4e19-ba1b-5adc6f6b421a,Broken Arrow Brewing Co.,micro,333 W Dallas St,,,Broken Arrow,Oklahoma,74012-4026,United States,9182868101,http://www.brokenarrowbrewingco.com,-95.79448895,36.0502662
+b25f8df9-d525-447d-a6ec-ed3bb2abb3ef,Beer Is Good Brewing Company,taproom,216 E Main St,,,Norman,Oklahoma,73069,United States,4058507678,http://www.bigbrew.co,-97.441065,35.221496
+5ce26e95-3deb-4b79-be7d-3d7962abc3f3,Belle Isle Restaurant and Brewing Co,brewpub,1900 NW Expressway Ste 44,,,Oklahoma City,Oklahoma,73118-1832,United States,4058401911,http://www.okclive.com/belleisle,-97.545693,35.521867
+8f5375c1-cfa2-4f84-8967-6ca771be1ba9,Black Mesa Brewing Company,taproom,3901 N Flood Ave,,,Norman,Oklahoma,73069,United States,4054081848,http://www.blackmesabrewing.com,-97.477531,35.266883
+1d7e7d19-91e3-4752-9fb0-9454fad1aff8,Bricktown Brewery,brewpub,1 N Oklahoma Ave,,,Oklahoma City,Oklahoma,73104-2413,United States,4052322739,http://www.bricktownbrewery.com,-97.511008,35.467234
+4468dae2-ef14-4570-af79-812226eaabd1,Bricktown Brewery,brewpub,1 N Oklahoma Ave,,,Oklahoma City,Oklahoma,73104-2413,United States,4052322739,http://www.bricktownbrewery.com,-97.511008,35.467234
+02c5fc33-8463-4497-805f-0101fd462417,Bricktown Brewery - Production Facility,micro,421 SW 26th St,,,Oklahoma City,Oklahoma,73109-6712,United States,,,-97.520779,35.438605
+e93cfa86-ec21-41d8-b0fa-5b3d19f576a6,Broke Brewing Company,taproom,3810 N Tulsa Ave,,,Oklahoma City,Oklahoma,73112,United States,4052378115,http://www.broke.beer,-97.591594,35.509079
+54e647b1-1abf-4e19-ba1b-5adc6f6b421a,Broken Arrow Brewing Co.,taproom,333 W Dallas St,,,Broken Arrow,Oklahoma,74012-4026,United States,9182868101,http://www.brokenarrowbrewingco.com,-95.793815,36.050213
 06b8b131-a227-414a-ac7f-fd63c63828b9,Cabin Boys Brewery,micro,1717 E. 7th Steeet,,,Tulsa,Oklahoma,74104,United States,9189334033,http://www.cabinboysbrewery.com,-95.966947,36.1515468
+261ad9b1-5b99-41d6-b6ca-cc15f0686b16,Cabin Boys Brewery,taproom,1717 E. 7th Street,,,Tulsa,Oklahoma,74104,United States,9186395472,http://www.cabinboysbrewery.com,-95.96668,36.151602
+e5b9abac-4138-41ec-b990-75eaa7a35603,Canadian River Brewing Co,micro,121 W. Chickasha Ave.,,,Chickasha,Oklahoma,73018,United States,6207041744,http://www.canadianriverbrewingco.com,-97.933353,35.051041
+da402883-c4a8-472f-bdfe-da7af8dd1037,Canadian River Brewing Co Taproom,taproom,121 W Chickasha Ave,,,Chickasha,Oklahoma,73018,United States,6207045678,,-97.933353,35.051041
 8028941f-0c22-42e0-a99a-2e86a655aac5,Choc Beer Co,micro,120 S West 8th St,,,Krebs,Oklahoma,74554-0066,United States,9183023002,http://www.petes.org,-95.7247222,34.9258333
 84b769ca-926a-4fc5-a1dc-f7cdce4eea06,COOP Ale Works,micro,4745 Council Heights Rd,,,Oklahoma City,Oklahoma,73179-4600,United States,4058422667,http://www.coopaleworks.com,-97.65776203,35.4185472
-620a0c65-51c4-4be2-be16-025a3f102fbc,Dead Armadillo Brewery,micro,1004 E 4th St,,,Tulsa,Oklahoma,74120-3222,United States,9189499233,http://www.dabrewery.com,-95.97958641,36.15561908
-42536ff0-a7a8-4e41-8706-3411f1590482,Elk Valley Brewing,contract,1210 N Hudson Ave,,,Oklahoma City,Oklahoma,73103,United States,4056006438,http://elkvalleybrew.com,-97.5189497,35.4804596
+f6aafb14-ab9b-49be-baa9-808472b0e021,Core4 Brewing,taproom,7 N. Lee Ave,,,Oklahoma City,Oklahoma,73102,United States,,,-97.524371,35.466702
+a75d4dc2-03f3-4686-9d8e-ddad573f8fc2,Cross Timbers Brewing Co.,micro,1900 Linwood Blvd,,,Oklahoma City,Oklahoma,73106,United States,4056128118,http://www.crosstimbersbrewing.com,-97.544039,35.474452
+8b26fad5-993a-4556-82dc-04fc7eac28c3,Crossed Cannons Brewery,brewpub,333 W. Boyd St,,,Norman,Oklahoma,73069,United States,4052172077,,-97.444999,35.211484
+620a0c65-51c4-4be2-be16-025a3f102fbc,Dead Armadillo Brewery,micro,1004 E 4th St,,,Tulsa,Oklahoma,74120-3222,United States,9182328627,http://www.dabrewery.com,-95.979409,36.155472
+1ee16f36-5b1b-484d-8ce1-27b663d8419b,Dollhouse Road Brewing,taproom,301 W Main,,,Pawhuska,Oklahoma,74056,United States,9189245978,http://taplist.io/dollhouseroad,-96.343083,36.664078
+9c278576-abec-4b40-bf6b-5f46f62c190b,Downstream Crafted Brewing Company,taproom,69300 E Nee Rd,,,Quapaw,Oklahoma,74363,United States,9189196000,http://www.downstreamcasino.com,-94.625089,36.997524
+a64b1da7-885b-406d-a133-94583bc15437,Eerie Abbey Ales,taproom,507 S Main St,,,Tulsa,Oklahoma,74103,United States,9186057115,http://www.eerieabbeyales.com,-95.989487,36.151303
+763a215b-ecc0-4e06-aad4-acf5dac2a971,Elgin Park Brewery,brewpub,325 E Matthew B Brady St,,,Tulsa,Oklahoma,74120,United States,9189869910,http://www.elginparkbrewery.com,-95.9898,36.1597
+42536ff0-a7a8-4e41-8706-3411f1590482,Elk Valley Brewing Co.,micro,1210 N Hudson Ave,,,Oklahoma City,Oklahoma,73103,United States,4056006438,http://www.elkvalleybrew.com,-97.518686,35.480519
+7632aebb-7147-4749-b50a-7c2074455d9a,Emersumnice Brewery,brewpub,102 South Main Street,,,Owasso,Oklahoma,74055,United States,9188150311,http://www.emersumnicebrewery.com,-95.855366,36.264815
+33741cc1-c6d6-41fd-b4e3-2639d686f4f9,Enid Brewing Company,brewpub,126 S Indepedence Ave,,,Enid,Oklahoma,73701,United States,5804840726,http://www.enidbrewing.com,-97.880336,36.395662
+0b11bb4c-08f8-474a-8397-24a1d56ef05b,"Equity Brewing Company, LLC",taproom,109 E Tonhawa St,,,Norman,Oklahoma,73069,United States,4054640312,http://www.equitybrewingco.com,-97.444438,35.223171
+01616c3a-3804-4f0c-bfa7-9ca7309fcc3a,Expedinture Brewery,taproom,201 S 2nd St,,,Okarche,Oklahoma,73762-1009,United States,4052634756,http://www.expedinturebrewery.com,-97.975044,35.724375
+63a2efa1-4905-467a-b3bb-ac7361b54fb3,Fair-Weather Friend LLC,taproom,314 N Klein Ave,,,Oklahoma City,Oklahoma,73106,United States,4059346668,,-97.532054,35.470625
 391fbfc6-0b81-4b96-8fe2-8f886f4527aa,Fat Toad Brewing Company,micro,3986 W 530 Rd,,,Pryor,Oklahoma,74361,United States,9188641308,http://www.fattoadbrewing.com,-95.3276131,36.2498069
+c42b4c73-829f-4207-ab87-b861d60e66c0,Flix Brewhouse - OKC,brewpub,8590 Broadway,,,Oklahoma City,Oklahoma,73114,United States,4057665900,,-97.513273,35.557831
 6dfefac9-78b1-4064-bbc8-7576201d9dbb,Frenzy Brewing Company,micro,15 S Broadway,,,Edmond,Oklahoma,73003-6250,United States,4055625350,http://www.frenzybrewing.com,-97.4818183,35.6547287
 d8549701-4cf1-4aff-9af1-b0ef1e2dc072,Hanson Brothers Beer Company,contract,209 N Main St,,,Tulsa,Oklahoma,74103-2005,United States,,http://www.hansonbrothersbeer.com,-95.9936663,36.15851257
-1710a317-a662-45f5-9162-f7f3c8a16015,Harbinger Beer Company LLC,planning,111 Buffalo St,,,Caddo,Oklahoma,74729-2606,United States,5803809398,http://harbingerbeer.com,-96.2601872,34.1253524
-24a4e05d-e5f7-4864-a030-a251d1803d82,Heirloom Rustic Ales,micro,2113 E Admiral Blvd,,,Tulsa,Oklahoma,74110,United States,9182928757,http://www.heirloomrusticales.com,-95.9610136,36.1601381
-643754fe-b293-431f-86ee-23e9a650d8fa,High Gravity Brewing Company,micro,6808 S Memorial Dr Ste 144,,,Tulsa,Oklahoma,74133,United States,9189733607,http://highgravitybrewingco.com,-95.8887734,36.0655116
+1710a317-a662-45f5-9162-f7f3c8a16015,Harbinger Beer Company LLC,taproom,111 Buffalo St,,,Caddo,Oklahoma,74729-2606,United States,5803809398,http://www.harbingerbeer.com,-96.260317,34.125378
+24a4e05d-e5f7-4864-a030-a251d1803d82,Heirloom Rustic Ales,taproom,2113 E Admiral Blvd,,,Tulsa,Oklahoma,74110,United States,9182928757,http://www.heirloomrusticales.com,-95.961159,36.160036
+643754fe-b293-431f-86ee-23e9a650d8fa,High Gravity Brewing Company,taproom,6808 S Memorial Dr STE 144,,,Tulsa,Oklahoma,74133,United States,9184612605,http://highgravitybrewingco.com,-95.888638,36.065301
 ac178aef-9c40-4f64-b54f-1ebeb09dfb26,Huebert Brewing Co.,closed,421 SW 26th St,,,Oklahoma City,Oklahoma,73109-6712,United States,4056346528,,-97.52025365,35.4384292
-8950820d-02c8-460d-b6ce-66c0c5c4ac6b,Iron Monk Brewing Company,micro,519 S Husband St,,,Stillwater,Oklahoma,74074-4031,United States,4057142585,http://www.ironmonkbeer.com,-97.0595399,36.1163409
-9e2794b8-6979-455c-9abf-d59473456d65,Lake Texoma Lodge And Resort,brewpub,3263 US 70,,,Mead,Oklahoma,73449-5020,United States,5809310100,http://laketexomalodge.com,-96.488335,33.998197
+8950820d-02c8-460d-b6ce-66c0c5c4ac6b,Iron Monk Brewing Company,micro,519 S Husband St,,,Stillwater,Oklahoma,74074-4031,United States,4057142585,http://www.ironmonkbeer.com,-97.059455,36.116269
+966b2549-97ce-4ac6-a717-4161cd8adda2,Kochendorfer Craft Brewing Company,micro,1155 McCurdy Rd,,,Duncan,Oklahoma,73533,United States,9182601010,http://www.kochendorferbrewing.com,-97.961068,34.587369
+f2538a40-dbc0-435c-81f9-8dbf651f3f19,Krebs Brewing Co,regional,3 NE 8th,,,Oklahoma City,Oklahoma,73104,United States,9183023002,http://prairieales.com,-97.511556,35.47629
+79ab05fe-4e56-4632-9e8c-aa82d1aa03df,Krebs Brewing Co. - The Big House,micro,103 Steven Taylor Blvd,,,Mcalester,Oklahoma,74501,United States,9183023002,,-95.826364,34.923459
+9e2794b8-6979-455c-9abf-d59473456d65,Lake Texoma Lodge And Resort,brewpub,3263 US 70,,,Mead,Oklahoma,73449-5020,United States,5839310100,http://Laketexomalodge.com,-96.566379,33.998361
 1405d04f-3c3d-4c07-8fae-d7a9e7187c09,Land Run Craft Brewing Co.,planning,,,,El Reno,Oklahoma,73036-1019,United States,4056267176,,,
+9046c630-c7a2-40df-937a-bcf79d731f18,Lazy Circles Brewing,taproom,422 E Main St,,,Norman,Oklahoma,73071,United States,4053105364,http://www.lazycirclesbrewing.com,-97.438759,35.222709
+58032c79-4167-4616-a23f-fcafcfb94306,Legally Brewed Co.,taproom,123 W. Main Street,,,Norman,Oklahoma,73069,United States,4058578950,http://legallybrewedco.com,-97.445109,35.220558
+c14a0504-f8fa-480c-bf68-8be72921704d,Lively Beerworks,micro,815 SW 2nd St.,,,Oklahoma City,Oklahoma,73109,United States,4055948100,http://www.livelybeerworks.com,-97.526073,35.463335
+190d378b-548f-4322-84dc-8efa3b66512b,Lost Street Brewing Company,taproom,115 W Lost Street,,,Durant,Oklahoma,74701,United States,5803809318,http://www.loststreetbrewing.com,-96.376473,33.990027
 3abc62ca-39c8-4fb3-a9bd-9bc343bf5ea2,"Marshall Brewing Co, LLC",micro,1742 E 6th St,,,Tulsa,Oklahoma,74104,United States,9182928781,http://www.marshallbrewing.com,-95.9650788,36.1516146
-8b6d327f-e82c-43c9-b068-f80a1ae4cbb2,Mountain Fork Brewery,micro,89 N Lukfata Trail Rd,,,Broken Bow,Oklahoma,74728-7025,United States,5804943233,http://www.mountainforkbrewery.com,-94.7770233,34.1827774
+8b6d327f-e82c-43c9-b068-f80a1ae4cbb2,Mountain Fork Brewery,brewpub,89 N Lukfata Trail Rd,,,Broken Bow,Oklahoma,74728-7025,United States,5804943233,http://www.mountainforkbrewery.com,-94.844265,34.073203
+9873b86f-d73f-4871-85ac-2b0f3909aa60,Muskogee Brewing Company,micro,121 s. 2nd st.,,,Muskogee,Oklahoma,74401,United States,9189105302,,-95.370546,35.747748
+baeed6e3-ccbe-4337-9b1b-c8f78feb9e41,NEFF RBEWING LLC,micro,321 S Frankfort Ave,,,Tulsa,Oklahoma,74120,United States,9183670640,http://www.neffbrewing.com,-95.984473,36.155066
 55a4aaa7-503f-45e4-bd82-522e5ad20d42,New Era Fine Fermentations,micro,321 S Frankfort Ave,,,Tulsa,Oklahoma,74120,United States,9183670640,http://www.neffbrewing.com,-95.984497,36.1548985
-d32244a7-1996-4dd3-b2b4-490dde9a5c39,Nothing's Left Brewing Co.,contract,1502 E 6th St,,,Tulsa,Oklahoma,74120-4026,United States,9186061902,http://www.nothingsleftbrew.co,-95.99253596,36.14047292
-13c71c4c-2ff7-4833-abaf-745311b9cd51,Prairie Artisan Ales,micro,3 NE 8th St,,,Oklahoma City,Oklahoma,73104,United States,4056020894,http://www.prairieales.com,-97.5117337,35.4762832
+c6c2c192-0124-4418-8164-c9f39b20385d,Nook Brewing Company,taproom,909 S 12th St,,,Broken Arrow,Oklahoma,74012-5720,United States,9522373842,http://nookbrewco.com,-95.775382,36.043813
+d32244a7-1996-4dd3-b2b4-490dde9a5c39,Nothing's Left Brewing Co,taproom,1502 E 6th St,,,Tulsa,Oklahoma,74120-4026,United States,9186456171,http://www.nothingsleftbrew.co,-95.971421,36.151945
+21d02bb1-3284-4216-8112-a416a1af29d1,Pearl Beach Brew Pub,taproom,418 South Peoria Ave,,,Tulsa,Oklahoma,74120,United States,9188956798,http://pearlbeachbrewpub.com,-95.975894,36.155028
+13c71c4c-2ff7-4833-abaf-745311b9cd51,Prairie Artisan Ales,micro,3 NE 8th St,,,Oklahoma City,Oklahoma,73104,United States,9189494318,http://www.prairieales.com,-97.511556,35.47629
 6a13311e-fdd4-4385-a049-2de6a5d6ed11,Prairie Artisan Ales,micro,223 N Main St,,,Tulsa,Oklahoma,74103,United States,9189364395,http://www.prairiepub.com,-95.9938821,36.1590862
+e4f1aaf2-f849-44c6-9310-cc890882e619,Rapture Brewing,taproom,24962 W 141st St S,,,Kellyville,Oklahoma,74039,United States,9186071384,,-96.272926,35.955672
 92cd0320-bce3-42e4-babb-1192bd8bf678,Red Dirt Brewing Co,planning,,,,Oklahoma City,Oklahoma,73120-5133,United States,4058231632,,,
-20e23a04-49d8-4e74-afd6-f6f03e10489a,Renaissance Brewing Co,micro,1147 S Lewis Ave,,,Tulsa,Oklahoma,74104-3905,United States,9184090551,http://www.renaissancebeer.com,-95.9578601,36.0617778
-c2c034ea-4967-4b4c-bf1c-e3bd75cd16f0,Roughtail Brewing,micro,320 W Memorial Rd,,,Oklahoma City,Oklahoma,73114,United States,4057716517,http://www.roughtailbeer.com,-97.5192442,35.6087575
-d1bf7018-393e-4cd5-856e-8ee560e3585a,"Royal Bavaria Brewhouse, Restaurant and Biergarten",brewpub,3401 S Sooner Rd,,,Moore,Oklahoma,73165-7218,United States,4057997666,http://royal-bavaria.com,-97.4235998,35.3148295
+20e23a04-49d8-4e74-afd6-f6f03e10489a,Renaissance Brewing Co,taproom,1147 S Lewis Ave,,,Tulsa,Oklahoma,74104-3905,United States,9184090551,http://www.renaissancebeer.com,-95.958042,36.146941
+c2c034ea-4967-4b4c-bf1c-e3bd75cd16f0,Roughtail Brewing,micro,320 W Memorial Rd,,,Oklahoma City,Oklahoma,73114,United States,4057716517,http://www.roughtailbeer.com,-97.518863,35.608999
+d1bf7018-393e-4cd5-856e-8ee560e3585a,"Royal Bavaria Brewhouse, Restaurant and Biergarten",brewpub,3401 S Sooner Rd,,,Moore,Oklahoma,73165-7218,United States,4057997666,http://royal-bavaria.com,-97.424796,35.305963
 e0cef7d4-acb0-4097-ac31-a54ea15c5ea6,Scissortail Brewing Co.,planning,,,,Bartlesville,Oklahoma,74003-7154,United States,9186949948,http://www.scissortailbrew.com,,
-84278f35-1caf-4c58-8446-4f6af8a17661,Stonecloud Brewing Co.,micro,1012 NW 1st St Ste 101,,,Oklahoma City,Oklahoma,73106-7642,United States,4056023966,http://stonecloudbrewing.com,-97.529142,35.468613
-f4954559-b115-469a-824e-afa6e37cd9a3,Twisted Spike Brewing Company,micro,1 NW 10th St,,,Oklahoma City,Oklahoma,73103-4901,United States,4052979961,http://twistedspike.com,-97.6785729,35.4787783
-d9579c97-3ecd-4133-922a-d1bc5dc58b31,Vanessa House Beer Company,micro,118 NW 8th St,,,Oklahoma City,Oklahoma,73107-5723,United States,4057249330,http://www.vanessahousebeerco.com,-97.515375,35.475896
-2acbb347-c871-4db3-938f-13192f208b47,Vortex Alley Brewery,micro,220 E. Central Ave,,,Ponca City,Oklahoma,74601,United States,5803044781,http://www.vortexalleybrewing.com,-97.08161761,36.7024929
-4f92a80e-b6ec-43a8-bdfe-0156c015c343,Welltown Brewing,micro,114 S. Archer Street,,,Tulsa,Oklahoma,74103-2202,United States,9182218893,http://www.welltownbrewing.com,-95.9950548,36.1565497
+7b8e04fe-0b8d-4d83-8c00-12454239068c,Settlers Brewing Company,taproom,202 E Randolph Ave,,,Enid,Oklahoma,73701,United States,5802973014,,-97.87645,36.397992
+49062ea9-9dd5-47ff-ba3f-5a4fe54096b0,Skydance Brewing Co.,taproom,1 NE 7th St,,,Oklahoma City,Oklahoma,73104,United States,4056868201,http://www.skydancebrewing.com,-97.511777,35.475246
+84278f35-1caf-4c58-8446-4f6af8a17661,Stonecloud Brewing Co.,micro,1012 NW 1st St Ste 101,,,Oklahoma City,Oklahoma,73106-7642,United States,4056023966,http://stonecloudbrewing.com,-97.529148,35.468615
+2ba9c5ef-f8f9-468f-9d70-e53ff5001fa0,The Big Friendly,taproom,1737 Spoke St,,,Oklahoma City,Oklahoma,73108,United States,4054923785,http://www.thebigfriendly.com,-97.5727,35.4476
+ebfb2fef-3cdb-4a08-a408-5561207b68f4,The Brewhouse,brewpub,110 W Main St,,,Norman,Oklahoma,73069,United States,4053212739,http://www.gldining.com/brewhouse/,-97.443949,35.220561
+2e31f31d-c0c5-4fed-bd66-7b017be119bb,The Cape Brewing Company,taproom,736 West Main Street,,,Jenks,Oklahoma,74037,United States,9182982273,http://thecapebrewingcompany.com,-95.978188,36.022748
+f4954559-b115-469a-824e-afa6e37cd9a3,Twisted Spike Brewing Company,taproom,1 NW 10th St,,,Oklahoma City,Oklahoma,73103-4901,United States,4053013467,http://www.twistedspike.com,-97.512268,35.47837
+d9579c97-3ecd-4133-922a-d1bc5dc58b31,Vanessa House Beer Company,taproom,118 NW 8th St,,,Oklahoma City,Oklahoma,73102-5805,United States,4058164870,http://www.vanessahousebeerco.com,-97.515145,35.475898
+2acbb347-c871-4db3-938f-13192f208b47,Vortex Alley Brewery,taproom,220 E. Central Ave,,,Ponca City,Oklahoma,74601,United States,5803044781,,-97.082179,36.702481
+48e79650-ea4b-4b63-8863-be1345321def,War Pony Brewing Company,brewpub,402 SE Interstate Drive,,,Lawton,Oklahoma,73501,United States,5802503030,,-98.37739,34.603486
+4f92a80e-b6ec-43a8-bdfe-0156c015c343,Welltown Brewing,taproom,114 S. Archer Street,,,Tulsa,Oklahoma,74103-2202,United States,,,-95.995,36.1565
 14ddfbb5-9369-49d4-9ae2-6ce2d68b6155,Willows Family Ales,micro,418 S Peoria Ave,,,Tulsa,Oklahoma,74120,United States,9188956798,,-95.97591226,36.02201189
+08ad8224-650f-46cb-9941-6137451e6317,Winnicki Brewing Co.,micro,"7113 NW 80th St, Suite 6",,,Oklahoma City,Oklahoma,73132,United States,4053683195,http://www.winnickibrewing.com,-97.639108,35.55376

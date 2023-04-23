@@ -1,419 +1,669 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-d81ff708-b5d2-478f-af6a-6d40f5beb9ac,12 Gates Brewing Company,brewpub,80 Earhart Dr Ste 20,,,Williamsville,New York,14221-7804,United States,7169066600,http://www.12gatesbrewing.com,,
-ee6d39c6-092f-4623-8099-5b8643f70dbe,16 Stone Brewpub,brewpub,9542 Main St,,,Holland Patent,New York,13354,United States,3158658500,http://www.16stonebrewpub.com,-75.2565195,43.24211175
-4a09f017-db8f-42e1-a8ec-a0cd81c28761,1940's Brewing Company,micro,1337 Lincoln Ave Unit 1,,,Holbrook,New York,11741-2275,United States,6315334838,http://www.1940sbrewingcompany.com,,
-8624d11b-8593-49a8-89b4-c46a0f111cd7,2 Way Brewing Company,brewpub,18 W Main St,,,Beacon,New York,12508-2512,United States,8452027334,http://www.2waybrewingcompany.com,-73.9809868,41.5082102
+d81ff708-b5d2-478f-af6a-6d40f5beb9ac,12 Gates Brewing Company,micro,80 Earhart Dr Ste 20,,,Williamsville,New York,14221-7804,United States,7169066600,http://www.12gatesbrewing.com,-78.714932,42.953894
+ee6d39c6-092f-4623-8099-5b8643f70dbe,16 Stone Brewpub,brewpub,9542 Main St,,,Holland Patent,New York,13354,United States,3158658500,http://www.16stonebrewpub.com,-75.256217,43.241899
+2104d744-faa2-4e59-97ad-12b784a335f2,17 West Brewery,micro,89 SULLIVAN AVENUE,,,LIBERTY,New York,12754,United States,8457479757,,-74.728861,41.781091
+4bb7d773-64cb-4587-b618-944ebd0d7213,1812 Brewing Company,micro,981 Waterman Drive,,,Watertown,New York,13601,United States,3157881812,http://www.1812ale.com,-75.933091,43.972378
+40e21d82-a101-4b59-89b0-853627e45c09,18th Ward Brewing,taproom,40 Division Street,,,New Rochelle,New York,10801,United States,,,-73.783958,40.909167
+33a16023-1f93-4fba-9f52-bc976ebd4cb4,18th Ward Brewing,brewpub,300 Richardson Street,,,Brooklyn,New York,11222,United States,7183874025,http:///www.18thwardbrewing.com,-73.939592,40.719506
+4a09f017-db8f-42e1-a8ec-a0cd81c28761,1940's Brewing Company,taproom,1337 Lincoln Ave Unit 1,,,Holbrook,New York,11741-2275,United States,6315334838,http://www.1940sbrewingcompany.com,-73.083299,40.783328
+8624d11b-8593-49a8-89b4-c46a0f111cd7,2 Way Brewing Company,taproom,18 W Main St,,,Beacon,New York,12508-2512,United States,8452027334,http://www.2waybrewingcompany.com,-73.980542,41.508322
 00fdce16-e1dd-4678-87f2-45550f9083e1,212 Brewing Company,contract,21476 Route 23,,,Davenport,New York,13750,United States,2123779050,,,
-dad10840-28ab-4dcf-9005-bf2cc2665b5a,42 North Brewing Company,brewpub,25 Pine St,,,East Aurora,New York,14052-1827,United States,7168057500,http://www.42northbrewing.com,-78.607989,42.769311
+e0dc0707-4489-422e-abb7-835d69b94920,27A Brewing Company,taproom,173 North Wellwood Avenue,,,Lindenhurst,New York,11757,United States,6314504156,http://https://www.instagram.com/27abrewing/,-73.375408,40.688142
+dad10840-28ab-4dcf-9005-bf2cc2665b5a,42 North Brewing Company,brewpub,25 Pine St,,,East Aurora,New York,14052-1827,United States,7168057500,http://www.42northbrewing.com,-78.608085,42.76853
 6f431fe7-b136-444b-84e3-3a2042903d93,6 Degrees of Separation,brewpub,35 Main St,,,Ossining,New York,10562-4662,United States,9144325969,http://www.6degreesbp.com,-73.86768188,41.15866213
+7cc3cd15-b421-4070-90ca-99dbc6032ffc,7 Hamlets Brewing Company,taproom,26 Seymour Lane,,,Westmoreland,New York,13490,United States,3153813459,http://www.7hamlets.com,-75.402257,43.100081
 a1199657-e4a9-496b-88c3-999f9e7e97e9,7 Sins Brewery,micro,10593 W Main Rd,,,Ripley,New York,14775-9746,United States,7165812090,http://www.7sinsbrewery.com,-79.7497349,42.24869073
 1682e94f-73ba-4035-93be-1fb28bb2cee7,8th Ward Brewing Company,planning,,,,Poughkeepsie,New York,12603-3401,United States,,,,
 7918a6dd-08d0-4157-a841-01b20a9a7a4c,Abandon Brewing,micro,2994 Merritt Hill Rd,,,Penn Yan,New York,14527-8938,United States,5852093276,http://www.abandonbrewing.com,,
-a180c4e0-77cc-4088-951c-62192abd99d4,Adirondack Pub and Brewery,micro,33 Canada St,,,Lake George,New York,12845-1603,United States,5186680002,http://www.adkpub.com,-73.71407763,43.41850655
+a180c4e0-77cc-4088-951c-62192abd99d4,Adirondack Pub and Brewery,brewpub,33 Canada St,,,Lake George,New York,12845-1603,United States,5186680002,http://www.adkpub.com,-73.714128,43.418512
 1b7f0552-3b1a-4737-8cb4-eb8d7134d903,Adirondack Toboggan Company Microbrewery,micro,202A W Main St,,,Gouverneur,New York,13642-1334,United States,3157716313,http://www.adktoboggan.net,-75.47489238,44.33237311
 06ac0316-a30f-40c6-acb7-c08fea0c30b1,Akwesasne Mohawk Casino Resort,planning,,,,Akwesasne,New York,13655-1800,United States,5183582222,http://mohawkcasino.com,,
+55814ba6-0589-4e53-8077-883040adafb1,Akwesasne Mohawk Casino Resort / Maple Brewing,micro,873 State Route 37,,,Akwesasne,New York,13655-1800,United States,5183582222,http://mohawkcasino.com,-74.645477,44.967637
+d123e374-7c1e-44ac-8fed-a35d260c902e,Alewife Brewing,taproom,41-11 39th Street,,,Queens,New York,11104,United States,9172382449,http://www.alewife.beer,-73.925243,40.746946
 ed3ea3ae-04d3-4356-ab96-a74514992a50,Alewife Brewing Company,brewpub,514 51st Ave,,,Long Island City,New York,11101-5879,United States,7189377494,http://www.alewife.beer,-73.95625257,40.74232214
 810e0e7c-293a-4e3e-a557-13691d30d399,Alphabet City Brewing Co,contract,96 Avenue C Frnt 4,,,New York,New York,10009-7055,United States,9143566809,http://www.acbnyc.com,,
-5fffcb8c-fbca-4633-8ef4-7bfd7dd6d473,Amber Lantern Brewing Company,brewpub,44 N Main St,,,Warsaw,New York,14569-1326,United States,5857863559,http://www.amberlanternbrewingcompany.com,-78.132363,42.7408423
+a851f293-7902-43ba-8960-d340e1a70b9b,"Alternative Medicine Brewing Co., LLC",taproom,29 Elm Ave,,,Mount Vernon,New York,10550,United States,9145303269,http://alternativemedicine.beer,-73.832433,40.912639
+5fffcb8c-fbca-4633-8ef4-7bfd7dd6d473,Amber Lantern Brewing Company,brewpub,44 N Main St,,,Warsaw,New York,14569-1326,United States,5857863559,http://www.amberlanternbrewingcompany.com,-78.132392,42.740755
+4b493901-56a6-4631-9940-4cca29155b06,Amity Ales Brewpub and Eatery,brewpub,192 Broadway,,,Amityville,New York,11701,United States,6314644646,http://www.amityales.com,-73.417753,40.678805
 032a363c-447b-495a-bfed-814201b877c0,Andean Brewing,micro,300 Corporate Dr Ste 2,,,Blauvelt,New York,10913-1162,United States,6464505852,,,
 baec5c2d-a983-49e0-beb9-ca55879d4139,Anheuser-Busch Inc â Baldwinsville,large,2885 Belgium Rd,,,Baldwinsville,New York,13027-2706,United States,3156354000,,-76.31159343,43.16510925
 e15991e7-755b-465a-9d39-0f850305e900,Apex Brewery,planning,,,,Central Valley,New York,10917-3708,United States,8455493006,http://www.apexbeer.co,,
-9408064a-bc10-4e15-84d0-3ff698036d4f,Argyle Brewing Company,micro,1 Main St,,,Greenwich,New York,12834-1209,United States,5183387405,http://www.argylebrewing.com,-73.496758,43.08767125
-647378c3-df63-4da2-a88d-808943dcd4f9,Arrowood Farms,micro,236 Lower Whitfield Rd,,,Accord,New York,12404-5809,United States,8452530389,http://www.arrowoodfarms.com,-74.24891742,41.80666144
-8fb6c630-7647-4a16-a55a-fde63c129636,Artisanal Brew Works,micro,41 Geyser Rd,,,Saratoga Springs,New York,12866-9038,United States,5185942337,http://www.artisanalbrewworks.com,,
+337438ee-5a0d-4ca0-a57c-92d8d90ec366,Apex Brewery,taproom,405 NY-17M,,,Monroe,New York,10950,United States,8452023498,http://www.apexbrews.com,-74.170026,41.316625
+aef8b02b-830c-49f4-8ed6-8dc1f88c7a3d,Argonne Rose Brewing Company,brewpub,1715 E Main St,,,Mohegan Lake,New York,10547-1356,United States,8455318454,http://https://www.argonnerosebrewing.com/,-73.850504,41.324715
+9408064a-bc10-4e15-84d0-3ff698036d4f,Argyle Brewing Company,brewpub,1 Main St,,,Greenwich,New York,12834-1209,United States,5183387405,http://www.argylebrewing.com,-73.496753,43.087642
+647378c3-df63-4da2-a88d-808943dcd4f9,Arrowood Farms,taproom,236 Lower Whitfield Rd,,,Accord,New York,12404-5809,United States,8452530389,http://www.arrowoodfarms.com,-74.245956,41.803505
+8fb6c630-7647-4a16-a55a-fde63c129636,Artisanal Brew Works,micro,617 Maple Ave,,,Saratoga Springs,New York,12866-5631,United States,5185942337,http://www.artisanalbrewworks.com,-73.771779,43.11842
+f04ad5b8-d4ec-4bc4-89ce-69b032a4e6da,Artisanal Brew Works,micro,617 Maple Ave,,,Saratoga Springs,New York,12866-5631,United States,5185942337,http://www.artisanalbrewworks.com,-73.771779,43.11842
 74f46cc4-156c-4986-b653-b5240678ff54,Aurora Ale & Lager,micro,1891 State Route 90 N,,,King Ferry,New York,13081-9719,United States,,http://www.brewaurora.com,,
-16ead71f-bbd5-4b34-b434-a3bc7849349f,Ausable Brewing Co,micro,765 Mace Chasm Rd,,,Keeseville,New York,12944-2425,United States,3152443295,http://ausablebrewing.tumblr.com,,
+c5537091-633c-4b4a-95ec-2337a62be9ce,Aurora Brewing Co.,taproom,1891 State Route 90 N,,,King Ferry,New York,13081-9719,United States,,http://www.brewaurora.com,-76.682386,42.709739
+16ead71f-bbd5-4b34-b434-a3bc7849349f,Ausable Brewing Co,taproom,765 Mace Chasm Rd,,,Keeseville,New York,12944-2425,United States,3152443295,http://www.ausablebrewing.com,-73.454107,44.502724
+d3a0dbf7-55a1-45a2-80e6-f08916bf71bd,Autark Brewhouse,taproom,420 Auburn Ave,,,Buffalo,New York,14213,United States,7164818632,http://www.autarkbrewhouse.com,-78.885063,42.918676
 03df12a0-f2ff-4c37-b862-e6df31123b74,B9 Beverages Inc,contract,404 5th Ave # 7.055,,,New York,New York,10018-2797,United States,,,,
 418c8bd5-997f-47f5-8147-a8a243517634,Bacchus Brewing,micro,15 Ellis Dr,,,Dryden,New York,13053-9630,United States,6078448474,http://www.bacchusbrewing.com,-76.29904171,42.49966971
+6b3ad3e8-8f1b-40c6-b871-b04c86d9eb9c,Baggs Square Brewing Co.,brewpub,330 Main Street,,,Utica,New York,13501,United States,3157254420,http://www.baggssquarebrewing.com,-75.223496,43.103323
 299ebba1-6bb3-4998-b4a5-e0f4fad4c443,Bandwagon Brewery,micro,3582 West Ave,,,Interlaken,New York,14847,United States,6072295608,http://www.bandwagonbeer.com,-76.7278241,42.61661956
 c51c96f4-d444-4e83-b332-924d7811d236,BarkEater Craft Brewery,proprietor,5411 Shady Ave,,,Lowville,New York,13367-1601,United States,3157758959,http://www.barkeaterbrew.com,-75.4867252,43.7874658
-f2b298d8-a498-41bc-9321-770e03376866,Barnshed Brewing,micro,100 Lauman Ln,,,Hicksville,New York,11801-6574,United States,5163766514,http://www.barnshedbrewing.com,-73.50094256,40.74420335
+f2b298d8-a498-41bc-9321-770e03376866,Barnshed Brewing,micro,100 Lauman Ln,,,Hicksville,New York,11801-6574,United States,5163766514,http://www.barnshedbrewing.com,-73.500967,40.744138
 3a2f762e-be48-4caf-ba77-d9253f50182a,Barrage Brewing Co,micro,32 Allen Blvd Ste E,,,Farmingdale,New York,11735-5625,United States,6313357941,http://www.barragebrewing.com,,
-a6704545-a3ff-4e4d-a458-90979968fe1c,Barrier Brewing Co,micro,3001 New St Ste A2,,,Oceanside,New York,11572-2747,United States,5165941028,http://www.barrierbrewing.com,,
-ee894df8-970e-4fcd-96fd-56a385f03aab,Battle Hill Brewing Company,micro,4 Charles Street,,,Fort Ann,New York,12827,United States,5186391033,http://www.battlehillbrewing.com,-73.48739346,43.41676935
-36e42b14-6bb0-4bba-b9d4-662def2778a6,Beer Tree Brew Co,micro,197 Rte 369,,,Port Crane,New York,13833,United States,,http://www.beertreebrew.com,,
+a6704545-a3ff-4e4d-a458-90979968fe1c,Barrier Brewing Co,micro,3001 New St Ste A2,,,Oceanside,New York,11572-2747,United States,5165941028,http://www.barrierbrewing.com,-73.65599,40.637554
+ee894df8-970e-4fcd-96fd-56a385f03aab,Battle Hill Brewing Company,brewpub,4 Charles Street,,,Fort Ann,New York,12827,United States,5186391033,http://www.battlehillbrewing.com,-73.487384,43.416912
+2e6a6d26-cc2c-48bc-aa5e-d1aedb71fe2e,Battle Street Brewery,brewpub,4 Battle St,,,Dansville,New York,14437-1004,United States,5854322337,http://www.battelstreetbrewery.com,-77.69901,42.561603
+84f4c381-ddcc-4c21-bf8c-ddf50702c1ab,Becker Brewing Co. & Vizcarra Vineyards,brewpub,3724 Quaker Rd,,,Gasport,New York,14067,United States,7167722211,http://www.beckerfarms.com/beers-on-tap,-78.560343,43.22827
+36e42b14-6bb0-4bba-b9d4-662def2778a6,Beer Tree Brew Co,taproom,197 Rte 369,,,Port Crane,New York,13833,United States,,http://www.beertreebrew.com,-75.78,42.1877
+774f2252-b887-4e14-9ef3-957399f714b9,Beerternational,alt prop,428 E 10th St,,,New York,New York,10009,United States,6178933817,,-73.976329,40.72512
 d91eef0b-b1b1-40f8-9895-b92c6e865027,Bellport Brewing Company,proprietor,,,,Rocky Point,New York,11778-8986,United States,6319094457,http://www.bellportbrewing.com,,
+670bf8df-9213-4e97-a33c-21d193c6ecb5,Bellport Brewing Company,brewpub,14 Station Road,,,Bellport,New York,11713,United States,6319094457,http://www.bellportbrewing.com,-72.939763,40.758236
+0622e215-ebf8-45f9-967a-fbe0785b630e,Belt Line Brewery & Kitchen,brewpub,545 Swan St Ste 200,,,Buffalo,New York,14204,United States,7164021756,http://www.belt-linebrewing.com,-78.855346,42.87797
 6baafd1a-3faf-41f6-bce8-7f9c223b2d1c,Big Alice Brewing Company,micro,808 43rd Rd,,,Long Island City,New York,11101-6820,United States,3476882337,http://www.bigalicebrewing.com,,
-5db014b6-be92-4c4d-b95e-f5156550ad05,Big Ditch Brewing Company,micro,55 E Huron St,,,Buffalo,New York,14203-1632,United States,7168545050,http://www.bigditchbrewing.com,-78.8709352,42.888031
+78cd52c6-2a71-4ba7-92a5-56fef4df1ece,Big ALICe Brewing Company Finger Lakes,taproom,4180 NY-14,,,Geneva,New York,14456,United States,,,-76.98072,42.831651
+5db014b6-be92-4c4d-b95e-f5156550ad05,Big Ditch Brewing Company,regional,55 E Huron St,,,Buffalo,New York,14203-1632,United States,7168545050,http://www.bigditchbrewing.com,-78.870865,42.888057
 dcc9cdb6-415f-4783-aa42-c5cfb7664dc6,Big Inlet Brewing,planning,,,,Mayville,New York,14757-9730,United States,7165737564,http://www.biginletbrewing.com,,
 d5e9205f-ff1f-4cd2-9eec-2844197449f1,Big Slide Brewery,brewpub,5686 Cascade Road,,,Lake Placid,New York,12946,United States,5185237844,http://www.bigslidebrewery.com,-73.96977615,44.26461237
 00eddf9c-e274-4d9a-8957-457e3ea570ac,Big Tupper Brewing,brewpub,12 Cliff Ave,,,Tupper Lake,New York,12986-1719,United States,5183596350,http://www.bigtupperbrewing.com,-74.46576367,44.223293
 5b64e8ae-f38a-4cf0-8d60-e3f0cf3c9572,Binghamton Brewing Co,micro,15 Avenue B,,,Johnson City,New York,13790-2234,United States,6072383448,http://www.bingbrew.com,-75.95337584,42.11473563
-aec527a2-0534-4252-86e0-56c621fc835d,Birreria @ Eataly,brewpub,200 5th Ave Fl 14,,,New York,New York,10010-3302,United States,2125390204,http://www.eatalyny.com,,
+b0cd18cc-a865-46f8-bd1c-b4e76a94fc71,Birdhouse Brewing Company,brewpub,8716 Main St,,,Honeoye,New York,14471,United States,5852291216,http://www.birdhousebrewing.beer,-77.515279,42.79017
+aec527a2-0534-4252-86e0-56c621fc835d,Birreria @ Eataly,location,200 5th Ave Fl 14,,,New York,New York,10010-3302,United States,2125390204,http://www.eatalyny.com,-73.988834,40.742848
 a0fadb5a-1b4c-4e40-9782-27f06c10a52d,Black Forest Brew Haus,brewpub,2015 New Hwy,,,Farmingdale,New York,11735-1103,United States,6313919500,http://www.blackforestbrewhaus.com,-73.41443291,40.7550515
-2a08f3ad-f6fc-442f-979a-2dbadd0c3c28,"Blind Bat Brewery LLC, The",micro,420 Harrison Dr,,,Centerport,New York,11721-1216,United States,6318917909,http://www.BlindBatBrewery.com,-73.38113106,40.8959081
-2595ff73-65f0-41ea-820c-3d7d35f453ca,"Blue Collar Brewery, Inc.",brewpub,40 Cottage St,,,Poughkeepsie,New York,12601-2015,United States,8454542739,http://www.thebluecollarbrewery.com,-73.91831,41.707234
-aef7a703-7954-41ed-9e29-c6d6bb8a23fe,Blue Line Brewery,brewpub,555 Lake Flower Ave,,,Saranac Lake,New York,12983-2465,United States,5183548114,http://www.bluelinebrew.com,-74.11766659,44.31358605
+fdf6d279-8e70-4057-a703-fb0272dd7ce5,Black Snake Brewing Company,taproom,148 Creek Road,,,Staatsburg,New York,12580,United States,8457739074,http://www.oldadriancefarm.com/black-snake-brewing-company,-73.877393,41.862283
+2a08f3ad-f6fc-442f-979a-2dbadd0c3c28,"Blind Bat Brewery LLC, The",micro,420 Harrison Dr,,,Centerport,New York,11721-1216,United States,6318917909,http://www.BlindBatBrewery.com,-73.381095,40.89587
+2595ff73-65f0-41ea-820c-3d7d35f453ca,"Blue Collar Brewery, Inc.",brewpub,40 Cottage St,,,Poughkeepsie,New York,12601-2015,United States,8454542739,http://www.thebluecollarbrewery.com,-73.918165,41.707443
+aef7a703-7954-41ed-9e29-c6d6bb8a23fe,Blue Line Brewery,brewpub,555 Lake Flower Ave,,,Saranac Lake,New York,12983-2465,United States,5183548114,http://www.bluelinebrew.com,-74.116395,44.313239
 448fb5bd-505b-40a0-ab84-0720ff5f281c,Blue Point Brewing,large,225 West Main St,,,Patchogue,New York,11772,United States,,,-73.02103705,40.76644215
 593ee04a-4af6-4d32-a00d-f8ac6357469a,Blue Point Brewing Co,large,161 River Ave,,,Patchogue,New York,11772-3304,United States,6314756944,http://www.bluepointbrewing.com,-73.0216063,40.75913445
-beb4abeb-3386-4ee8-9838-82ea78de6ecf,Bolton Landing Brewing Co.,micro,4933 Lake Shore Dr,,,Bolton Landing,New York,12814-7757,United States,5186442739,http://www.boltonlandingbrewing.com,-73.655636,43.555707
+beb4abeb-3386-4ee8-9838-82ea78de6ecf,Bolton Landing Brewing Co.,brewpub,4933 Lake Shore Dr,,,Bolton Landing,New York,12814-7757,United States,5186442739,http://www.boltonlandingbrewing.com,-73.655825,43.555722
 76d91768-88ce-485a-91e2-83baf9d2f10c,"Boots Brewing Company, Inc.",micro,89 Public Sq,,,Watertown,New York,13601-2626,United States,3157670794,http://www.bootsbrew.com,-75.90904644,43.97475173
-50c38066-568b-4e12-a4cb-536073d998c0,"Bottomless Brewing, LLC",brewpub,3543 E Lake Rd,,,Geneva,New York,14456-9261,United States,3153254380,http://www.bottomlessbrewing.com,,
+fd759447-756a-451b-9bb3-51d4db977487,Boston Hills Brewery,micro,8282 Cole Rd,,,Colden,New York,14033,United States,7163459554,http://www.coleroadfarms.com/boston-hills-brewery,-78.720641,42.658769
+50c38066-568b-4e12-a4cb-536073d998c0,"Bottomless Brewing, LLC",brewpub,3543 E Lake Rd,,,Geneva,New York,14456-9261,United States,3153254380,http://www.bottomlessbrewing.com,-76.933338,42.853909
+b64e81de-a24d-4d04-bdfc-7b51f03ef756,"Bound By Fate Brewing, LLC",micro,31 Ferry St,,,Schuylerville,New York,12871,United States,5185076246,http://www.boundbyfatebrewing.com,-73.580407,43.099515
+5fb3a698-7320-492e-a68d-6c2afebdf779,Bovina Farm and Fermentory,brewpub,2951 County Rd 5,,,Bovina Center,New York,13740,United States,6078324255,http://www.bovinafarmfermentory.com,-74.769789,42.301478
 94d0942e-52f9-4760-8da0-57bfbcfc3059,"Bradley Farm / RB Brew, LLC",micro,317 Springtown Rd,,,New Paltz,New York,12561-3020,United States,8452558769,http://www.raybradleyfarm.com,-74.097562,41.760486
+3008aa12-7818-4604-b283-0b5599271332,"Bradley Farm / RB Brew, LLC",taproom,317 Springtown Rd,,,New Paltz,New York,12561-3020,United States,8452558769,http://www.raybradleyfarm.com,-74.088606,41.791956
 83ff5520-de51-442e-87d8-6921ba2dcf0a,Braven Brewing Company,planning,,,,Brooklyn,New York,11237,United States,9292956673,,,
 2d36ca84-78df-4614-8f48-69f58bb4e556,Braven Brewing Company,contract,362 Jefferson St # 320,,,Brooklyn,New York,11237-2312,United States,9292956673,http://www.bravenbrewing.com,-73.92464725,40.70559895
-14864393-a19e-42f2-81ef-bf28407a3571,Brewery At The Culinary Institute Of America,brewpub,1946 Campus Dr,,,Hyde Park,New York,12538,United States,,,-73.9331926,41.7459268
-ece3c7b9-4049-4a2d-b24e-d805797f9c3b,Brewery Ommegang,regional,656 County Highway 33,,,Cooperstown,New York,13326-4737,United States,8005441809,http://www.ommegang.com,-74.855063,42.753418
-f5406382-8474-463c-b420-f743a82d9dfa,BrewSA Brewing Co,micro,180 Woodcleft Ave,,,Freeport,New York,11520-6336,United States,5163772751,http://www.brewsa.com,-73.582368,40.635176
+f2ae630d-fa38-4046-8910-050fca42906f,Brazen Brewing,brewpub,5839 Genesee St,,,Lancaster,New York,14086-9010,United States,7168309717,http://www.brazenbrewco.com,-78.635405,42.944717
+14864393-a19e-42f2-81ef-bf28407a3571,Brewery At The Culinary Institute Of America,taproom,1946 Campus Dr,,,Hyde Park,New York,12538,United States,,,-73.933069,41.746518
+02dc8e0d-d6c2-4146-a3e3-e77a4db743aa,Brewery LaHoff,taproom,50 Vedder Rd,,,Climax,New York,12042,United States,5183033340,,-73.866546,42.359229
+ece3c7b9-4049-4a2d-b24e-d805797f9c3b,Brewery Ommegang,regional,656 County Highway 33,,,Cooperstown,New York,13326-4737,United States,8005441809,http://www.ommegang.com,-74.946155,42.625341
+f5406382-8474-463c-b420-f743a82d9dfa,BrewSA Brewing Co,micro,180 Woodcleft Ave,,,Freeport,New York,11520-6336,United States,5163772751,http://www.brewsa.com,-73.582547,40.635169
 41bd989c-397a-4327-9d06-b6ebd0428261,Brick House Brewery and Restaurant,brewpub,67 W Main St,,,Patchogue,New York,11772-3001,United States,6314472337,http://www.brickhousebrewery.com,-73.01556054,40.7657941
-e3b138f0-4abd-4e23-b04d-4aac36e1c63d,Brickyard Brewing Company,brewpub,436 Center St,,,Lewiston,New York,14092-1604,United States,7167547227,http://www.brickyardbrewingcompany.com,-79.04306419,43.1729222
-087e2086-aafc-4aa7-b97c-8703f89aa199,Bridge And Tunnel Brewery,micro,15-35 Decatur St,,,Ridgewood,New York,11385-5818,United States,3473928593,http://www.bridgeandtunnelbrewery.com,-73.9017521,40.6943348
-1271139e-aebf-4d4b-9ba1-b3ef3f2973c2,Brindle Haus Brewing Company,micro,377 S Union St,,,Spencerport,New York,14559-1970,United States,5855076665,http://www.brindlehausbrewing.com,-77.804122,43.185296
+e3b138f0-4abd-4e23-b04d-4aac36e1c63d,Brickyard Brewing Company,brewpub,436 Center St,,,Lewiston,New York,14092-1604,United States,7167547227,http://www.brickyardbrewingcompany.com,-79.043123,43.173117
+087e2086-aafc-4aa7-b97c-8703f89aa199,Bridge And Tunnel Brewery,taproom,15-35 Decatur St,,,Ridgewood,New York,11385-5818,United States,3473928593,http://www.bridgeandtunnelbrewery.com,-73.902822,40.693815
+b927fded-5fa3-4b64-85c8-d1ec3916cade,Bright Eye Beer Co.,taproom,50 West Park Avenue,,,Long Beach,New York,11561,United States,5165435736,http://www.brighteyebeerco.com,-73.665772,40.588229
+1271139e-aebf-4d4b-9ba1-b3ef3f2973c2,Brindle Haus Brewing Company,taproom,377 S Union St,,,Spencerport,New York,14559-1970,United States,5855076665,http://www.brindlehausbrewing.com,-77.804822,43.185453
+4b411830-d004-4bc7-84f9-f9744b3f012d,Britesmith Brewing,brewpub,5611 Main St.,,,Williamsville,New York,14221,United States,7167851248,http://www.britesmithbrewing.com,-78.743683,42.962762
 7f231f44-ed48-46b8-a7a9-018e49d57206,Broken Bow Brewery,micro,173 Marbledale Rd,,,Tuckahoe,New York,10707-3117,United States,9142680900,http://www.brokenbowbrewery.com,-73.8190325,40.9549645
-5ec37fdc-66c6-42ba-b23e-e985eb0c6558,Brooklyn Brewery,regional,79 N 11th St #1 Brewers Row,,,Brooklyn,New York,11249-1913,United States,7184867422,http://www.brooklynbrewery.com,,
-0353cf46-744c-4538-81c4-febe1d8a0be7,Brown's Brewing Co,brewpub,50 Factory Hill Rd,,,North Hoosick,New York,12133,United States,5182732337,http://www.brownsbrewing.com,-73.34515821,42.92661444
-cac29608-c079-4fd2-b3c6-c13b8ac693eb,Brown's Brewing Co,brewpub,417 River St,,,Troy,New York,12180-2822,United States,5183654846,http://www.brownsbrewing.com,-73.68755002,42.73567746
-3bcf5ff2-81b5-4805-ad50-92ec6d059d3c,Buffalo Brewing Company,micro,314 Myrtle Ave,,,Buffalo,New York,14204-2058,United States,7168682218,http://www.buffalo-brewing-company.com,-78.85968835,42.87851264
-b52360f6-016f-453a-b9e1-67c5d0ca9b60,Buffalo Brewpub,brewpub,6861 Main St,,,Buffalo,New York,14221-5929,United States,7166320552,http://www.buffalobrewpub.com,-78.831057,42.946564
-84d94163-0441-44eb-bd8d-c8d05005ff32,Buffalo RiverWorks Brewery,brewpub,359 Ganson St,,,Buffalo,New York,14203-3062,United States,7163422292,http://www.buffaloriverworks.com,-78.87249292,42.8696795
+13e12911-b219-4234-8a56-3150ccb2498b,Bronx Brewery Hudson Yards,brewpub,20 Hudson Yards,,,New York,New York,10001,United States,,http://thebronxbrewery.com/hudson-yards-location-2,-73.9889,40.751
+5ec37fdc-66c6-42ba-b23e-e985eb0c6558,Brooklyn Brewery,regional,79 N 11th St,,,Brooklyn,New York,11249-1913,United States,7184867422,http://www.brooklynbrewery.com,-73.957776,40.721726
+bcaec4a7-54c7-4f88-b382-5887b7d85232,Brooklyn Brewery,regional,79 N 11th St,,,Brooklyn,New York,11249-1913,United States,7184867422,http://www.brooklynbrewery.com,-73.957776,40.721726
+0353cf46-744c-4538-81c4-febe1d8a0be7,Brown's Brewing Co,micro,50 Factory Hill Rd,,,North Hoosick,New York,12133,United States,5182732337,http://www.brownsbrewing.com,-73.3433,42.928
+cac29608-c079-4fd2-b3c6-c13b8ac693eb,Brown's Brewing Co,brewpub,417 River St,,,Troy,New York,12180-2822,United States,5183654846,http://www.brownsbrewing.com,-73.687592,42.735723
+3bcf5ff2-81b5-4805-ad50-92ec6d059d3c,Buffalo Brewing Company,micro,314 Myrtle Ave,,,Buffalo,New York,14204-2058,United States,7168682218,http://www.buffalo-brewing-company.com,-78.858149,42.878326
+b52360f6-016f-453a-b9e1-67c5d0ca9b60,Buffalo Brewpub,brewpub,6861 Main St,,,Buffalo,New York,14221-5929,United States,7166320552,http://www.buffalobrewpub.com,-78.697828,42.96488
+84d94163-0441-44eb-bd8d-c8d05005ff32,Buffalo RiverWorks Brewery,brewpub,359 Ganson St,,,Buffalo,New York,14203-3062,United States,7163422292,http://www.buffaloriverworks.com,-78.872679,42.869862
 efc9b189-81df-447a-a2eb-c94828d4d275,Bull and Barrel Brew Pub,brewpub,988 Route 22,,,Brewster,New York,10509-1576,United States,8452782855,http://www.bullandbarrelbrewpub.com,,
-140ab37b-0136-42c2-99f6-f8b4c2c48b59,Bullthistle Brewing Co.,brewpub,45 S Main St,,,Sherburne,New York,13460-9202,United States,6076742337,,-75.49576861,42.67156527
+7b7d5fe4-8a1d-4868-b229-d012ba66b9fe,Bullfinch Brewpub,brewpub,306 Hiawatha Blvd,,,Syracuse,New York,13208,United States,,http://www.facebook.com/Bullfinchbrewpub,-76.164739,43.072847
+140ab37b-0136-42c2-99f6-f8b4c2c48b59,Bullthistle Brewing Co.,brewpub,45 S Main St,,,Sherburne,New York,13460-9202,United States,6076742337,,-75.495726,42.672168
 7a574a98-f92d-4d8e-9cdb-20a3facda0a0,Buried Acorn Brewing Company,planning,,,,Syracuse,New York,13204-1156,United States,3155521499,http://www.buriedacorn.com,,
+578764d9-2ad9-4dba-bf58-4deb47286048,Buried Acorn Brewing Company,taproom,881 Van Rensselaer St,,,Syracuse,New York,13204-1156,United States,3155521499,http://www.buriedacorn.com,-76.174168,43.063379
 bd51516b-caf1-46ea-9695-a330004f6d78,Buster's Brew Pub,brewpub,Euphrates River Valley Road Bldg P-4350,,,Fort Drum,New York,13602,United States,3157721900,http://www.drummwr.com,,
-1f5f4ff1-493b-474f-b705-06619a6fa4b7,Butternuts Beer,micro,4021 State Highway 51,,,Garrattsville,New York,13342-1705,United States,6072635070,http://www.butternutsbeer.com,-75.1914973,42.62396243
-b6ea2f3b-b21b-43f8-8696-c182d8ed087f,Cape Vincent Brewing Co,micro,296 Broadway St,,,Cape Vincent,New York,13618,United States,,http://www.capevincentbrewing.com,-76.33484565,44.12823687
-38973645-52f6-4b59-9f8b-8b88730e3ff9,Captain Lawrence Brewing Co,regional,444 Saw Mill River Rd Ste 100,,,Elmsford,New York,10523-1031,United States,9147412337,http://www.captainlawrencebrewing.com,-73.839113,41.03486
-79c363c6-1f8d-4714-be5c-ba9095d427d2,Carey's Brew House,brewpub,58 Bridge St,,,Corning,New York,14830-2239,United States,6073775651,http://www.careysbrewhouse.com,-77.06089704,42.15025771
-f6695f12-3197-484d-9830-503bc41bfc74,Catskill Brewery,micro,672 Old Route 17,,,Livingston Manor,New York,12758-0033,United States,8454391232,http://www.catskillbrewery.com,-74.827173,41.911407
+1f5f4ff1-493b-474f-b705-06619a6fa4b7,Butternuts Beer,micro,4021 State Highway 51,,,Garrattsville,New York,13342-1705,United States,6072635070,http://www.butternutsbeer.com,-75.194918,42.623685
+05332d85-9c05-46f7-a367-9b6fa67b8a9f,Bye-i Brewing LLC,taproom,122 Remsen St,,,Cohoes,New York,12047,United States,5185053609,http://www.byeibrewing.com,-73.701905,42.773426
+b6ea2f3b-b21b-43f8-8696-c182d8ed087f,Cape Vincent Brewing Co,brewpub,296 Broadway St,,,Cape Vincent,New York,13618,United States,,http://www.capevincentbrewing.com,-76.339982,44.126425
+38973645-52f6-4b59-9f8b-8b88730e3ff9,Captain Lawrence Brewing Co,regional,444 Saw Mill River Rd Ste 100,,,Elmsford,New York,10523-1031,United States,9147412337,http://www.captainlawrencebrewing.com,-73.814876,41.070336
+79c363c6-1f8d-4714-be5c-ba9095d427d2,Carey's Brew House,brewpub,58 Bridge St,,,Corning,New York,14830-2239,United States,6073775651,http://www.careysbrewhouse.com,-77.060596,42.150159
+f6695f12-3197-484d-9830-503bc41bfc74,Catskill Brewery,micro,672 Old Route 17,,,Livingston Manor,New York,12758-0033,United States,8454391232,http://www.catskillbrewery.com,-74.82471,41.906684
 5a4c2070-48c1-4385-8e3b-e9de15514941,Cave Mountain Brewing Co,brewpub,5359 State Route 23,,,Windham,New York,12496-5906,United States,5187349222,http://www.cavemountainbrewing.com,,
 0ff4c7dc-c0b0-4f25-8a80-effcf912ffe6,CB Craft Brewers,micro,300 Village Square Blvd,,,Honeoye Falls,New York,14472-1180,United States,5856244386,http://www.cbcraftbrewers.com,,
-c592a01a-6e1d-4f47-b65c-7d83344977b9,CH Evans Brewing Co/Albany Pump Station,brewpub,19 Quackenbush Sq,,,Albany,New York,12207-2311,United States,5184479000,http://www.evansale.com,,
-c1955297-f27b-4cdd-a34d-83626a1d7593,Chatham Brewing LLC,micro,59 Main St,,,Chatham,New York,12037-1249,United States,5186970202,http://www.chathambrewing.com,-73.59546931,42.36315065
+c592a01a-6e1d-4f47-b65c-7d83344977b9,CH Evans Brewing Co/Albany Pump Station,brewpub,19 Quackenbush Sq,,,Albany,New York,12207-2311,United States,5184479000,http://www.evansale.com,-73.747735,42.654149
+c1955297-f27b-4cdd-a34d-83626a1d7593,Chatham Brewing LLC,micro,59 Main St,,,Chatham,New York,12037-1249,United States,5186970202,http://www.chathambrewing.com,-73.596104,42.362448
 f036f7ce-8dcf-4941-bf0c-310f7f7c1e7c,Chelsea Craft Brewing Co Llc,micro,463 E 173rd St,,,Bronx,New York,10457-8105,United States,7184848850,http://www.chelseacraftbrewing.com,-73.9015282,40.841904
 e59e1145-0db1-4918-bf40-860407a2ca11,Cheshmeh Brewing Co,planning,,,,White Plains,New York,10605-3517,United States,,,,
-e5ab0f7c-9606-42ce-8131-a8f6aa5af100,Circa Brewing Co,brewpub,141 Lawrence St,,,Brooklyn,New York,11201,United States,7188580055,http://www.circabrewing.co,-73.986155,40.6917243
-58fcc35e-a5d6-404e-999c-516782165368,CL River Outpost Brewing,brewpub,5 John Walsh Blvd,,,Peekskill,New York,10566,United States,,http://riveroutpostbrewing.com,,
-da01256e-6b46-4fb2-94e4-e18d5fe01b65,Clemson Bros. Brewery,brewpub,22 Cottage St,,,Middletown,New York,10940-5059,United States,8457754638,http://www.clemsonbrewing.com,-74.41622495,41.44693028
+e5ab0f7c-9606-42ce-8131-a8f6aa5af100,Circa Brewing Co,brewpub,141 Lawrence St,,,Brooklyn,New York,11201,United States,7188580055,http://www.circabrewing.co,-73.986034,40.691664
+da01256e-6b46-4fb2-94e4-e18d5fe01b65,Clemson Bros. Brewery,micro,22 Cottage St,,,Middletown,New York,10940-5059,United States,8457754638,http://www.clemsonbrewing.com,-74.415577,41.447298
+2a1bc62a-7e8b-43f5-a21e-1ff5c9edbfae,Clemson Bros. Brewery,brewpub,3 Main St,,,New Paltz,New York,12561-1742,United States,8452561700,,-74.089591,41.747335
 d11bf284-2d00-4915-bd7d-1f8c7b8a43f2,Climbing Bines Craft Ale Company,micro,511 Hanson Point Rd,,,Penn Yan,New York,14527-9718,United States,6077450221,http://www.climbingbineshopfarm.com,,
 e099a46e-0e6a-4b90-9f77-432fd55ef3f6,College Point Brewery,planning,,,,College Point,New York,11356-2715,United States,,,,
-27deece5-5ab9-4506-9b46-33f0a44fc8b4,Common Roots Brewing Company,micro,58 Saratoga Ave,,,South Glens Falls,New York,12803-4837,United States,5184098248,http://www.commonrootsbrewing.com,,
+27deece5-5ab9-4506-9b46-33f0a44fc8b4,Common Roots Brewing Company,micro,58 Saratoga Ave,,,South Glens Falls,New York,12803-4837,United States,5184098248,http://www.commonrootsbrewing.com,-73.636522,43.295228
+72761f92-7416-4db5-8b4d-26aef7e158ec,Community Beer -  Hydraulic Hearth,brewpub,716 Swan Street,,,Buffalo,New York,14201,United States,,,-78.849665,42.876946
 9d79e9ce-34c7-4232-b9b6-f218a0fdfde6,Community Beer Works,micro,15 Lafayette Ave,,,Buffalo,New York,14213-1344,United States,7167594677,http://www.communitybeerworks.com,-78.8980697,42.9198446
-260ec59d-2c3d-4fb1-957b-ec0a6d2cee5a,Coney Island Beer,micro,1904 Surf Ave,,,Brooklyn,New York,11224-2410,United States,8184518452,http://www.coneyislandbeer.com,-73.98572367,40.57502661
-931e2b28-419d-4a36-9e8e-eca1b849f1a9,Coopers Cave Ale Co,brewpub,2 Sagamore St,,,Glens Falls,New York,12801-3179,United States,5187920007,http://www.cooperscaveale.com,-73.6399437,43.3177399
+260ec59d-2c3d-4fb1-957b-ec0a6d2cee5a,Coney Island Beer,micro,1904 Surf Ave,,,Brooklyn,New York,11224-2410,United States,8184518452,http://www.coneyislandbeer.com,-73.98472,40.573911
+931e2b28-419d-4a36-9e8e-eca1b849f1a9,Coopers Cave Ale Co,brewpub,2 Sagamore St,,,Glens Falls,New York,12801-3179,United States,5187920007,http://www.cooperscaveale.com,-73.639927,43.317689
 df6b62fb-899b-4181-a56f-f4c067e9723b,Cooperstown Brewing Co,proprietor,41 Browne St.,,,Oneonta,New York,13820,United States,,,-75.10942405,42.45118586
-8a48a9ba-b7ac-4afc-be40-834fa496cb74,Copper City Brewing Company,micro,1111 Oneida St,,,Rome,New York,13440-,United States,3152818987,http://www.coppercitybrewing.com,-75.43229951,43.20521338
-de768791-bb67-44f8-a4f7-db4f26d9f580,Copper Turret Restaurant and Brewhouse,brewpub,17 W Main St,,,Morrisville,New York,13408-,United States,3158257910,http://www.copperturret.com,-75.6487902,42.89903413
-5fbf4428-9456-456a-825d-1ce55e02d3a3,Cortland Beer Company,micro,16 Court St,,,Cortland,New York,13045-2604,United States,6076624389,http://www.cortlandbeer.com,-76.17989771,42.5994031
-22dd315d-ec60-4af1-b125-88c3a4a4ff78,Council Rock Brewery,brewpub,4861 State Highway 28 Ste 3,,,Cooperstown,New York,13326-5229,United States,6076433016,http://www.councilrockbrewery.com,,
+e2d044d8-6ff7-4c58-8d9c-4d5bcd2e68a4,Cooperstown Brewing Co,alt prop,110 River St,,,Milford,New York,13807,United States,,,-74.941017,42.588826
+8a48a9ba-b7ac-4afc-be40-834fa496cb74,Copper City Brewing Company,taproom,1111 Oneida St,,,Rome,New York,13440,United States,3152818987,http://www.coppercitybrewing.com,-75.431465,43.204883
+23ebf181-d32b-4451-953f-52d33bd59c4a,Copper Leaf Brewing Company,taproom,50 State St,,,Pittsford,New York,14534,United States,5856781383,http://www.copperleafbrewingco.com,-77.510084,43.089802
+de768791-bb67-44f8-a4f7-db4f26d9f580,Copper Turret Restaurant and Brewhouse,brewpub,17 W Main St,,,Morrisville,New York,13408,United States,3158257910,http://www.copperturret.com,-75.647135,42.898867
+5fbf4428-9456-456a-825d-1ce55e02d3a3,Cortland Beer Company,taproom,16 Court St,,,Cortland,New York,13045-2604,United States,6076624389,http://www.cortlandbeer.com,-76.179254,42.599483
+22dd315d-ec60-4af1-b125-88c3a4a4ff78,Council Rock Brewery,brewpub,4861 State Highway 28 Ste 3,,,Cooperstown,New York,13326-5229,United States,6076433016,http://www.councilrockbrewery.com,-74.960298,42.65911
 0a7c8d20-eaa1-4141-8edf-bb597c195aa5,Country Town Farm Brewery,planning,,,,Friendship,New York,14739,United States,5858088995,,,
 d03076eb-f3a5-433b-b279-858f86c5a8cf,Cousins Revolution Ale Works,micro,1582 US 9,,,Wappingers Falls,New York,12590,United States,8452932739,http://www.cousinsrevolution.com,-73.91146279,41.59803345
-07e53361-7ae0-4101-a7e9-20e19f0583c5,Crafty Ales and Lagers,micro,2 Exchange St,,,Phelps,New York,14532-1010,United States,3153321606,http://www.drinkcraftyales.com,-77.056976,42.9579011
+07e53361-7ae0-4101-a7e9-20e19f0583c5,Crafty Ales and Lagers,taproom,2 Exchange St,,,Phelps,New York,14532-1010,United States,3153321606,http://www.drinkcraftyales.com,-77.056728,42.957971
 8e1f3d7d-6e4a-433d-bdd8-4528d1613f26,Crazy Williez Brewery,contract,546 Silver St,,,Ilion,New York,13357,United States,,,,
-7b67ad3f-b68c-4fae-af3a-4a3aef7b7f74,Critz Farms Brewing & Cider Co.,micro,3232 Rippleton Rd,,,Cazenovia,New York,13035-9693,United States,3156623355,http://www.critzfarms.com,-75.8746342,42.8805302
+7b67ad3f-b68c-4fae-af3a-4a3aef7b7f74,Critz Farms Brewing & Cider Co.,taproom,3232 Rippleton Rd,,,Cazenovia,New York,13035-9693,United States,3156623355,http://www.critzfarms.com,-75.87109,42.881141
 7eb998d5-80d4-4d93-9695-b1a3e6a8dbb5,Crooked Ladder Brewery,micro,70 W Main St,,,Riverhead,New York,11901-2802,United States,6319025335,http://www.crookedladderbrewingco.com,-72.66319867,40.91701672
 76c1cb37-657f-4367-901f-ae1fa7436562,Crossroads Brewing Co,brewpub,21 2nd St,,,Athens,New York,12015-1327,United States,5189452337,http://www.crossroadsbrewingco.com,-73.8100641,42.2605541
-0487123b-a36d-410a-8154-8e6f6b5f9bb0,Davidson Brothers Restaurant and Brewery,brewpub,184 Glen St Rte 9,,,Glens Falls,New York,12801-0409,United States,5187439026,http://www.davidsonbrothers.com,,
-c3a06a86-327d-43f5-8305-bef7578db4e9,Death Avenue,brewpub,315 10th Ave B/W 28th & 29th St.,,,New York,New York,10001-1416,United States,2126958080,http://www.deathave.com,,
-9e543dda-cb7f-4dc9-a43d-e5c730b02ef0,Decadent Ales,micro,607A E Boston Post Rd,,,Mamaroneck,New York,10543-,United States,8005981085,http://www.decadentales.com,-73.72755206,40.95193675
-47b0b67c-099f-47ba-a549-4144f69c0234,Defiant Brewing Co,brewpub,6 E Dexter Plz,,,Pearl River,New York,10965-2360,United States,8459208602,http://www.defiantbrewing.com,-74.02302217,41.06015492
-06aa77d8-4925-448f-9f0b-183a1c0b9d31,Destination Unknown Beer Company,micro,1 S Chicago Ave Unit C,,,Bay Shore,New York,11706-7000,United States,6314852232,http://www.destinationunknownbeercompany.com,,
-e69d7c0d-f29a-4668-9419-f74ffc9e19cf,District 96 Beer Factory,brewpub,395 S Main St,,,New City,New York,10956,United States,8454992409,http://www.district96beer.com,-73.99100071,41.13457391
-45fc6ccc-c048-4964-9093-a18c6daa430d,Diversion Brewing Co,micro,729 Wyncoop Creek Rd,,,Chemung,New York,14825-9755,United States,6075429168,http://www.diversionbrewing.com,-76.62211,42.019871
-0d191216-159d-4314-ba33-c23d979afd74,Druthers Brewing Co,brewpub,381 Broadway,,,Saratoga Springs,New York,12866-3111,United States,5183065275,http://www.druthersbrewing.com,,
-ee33e3eb-8ea8-41b6-a37c-a0ccc87dc8c5,Dublin Corners Farm Brewery,micro,1906 Main St,,,Linwood,New York,14486-9707,United States,5855384796,http://www.dublincornersfarm.com,,
+37b6900f-bb21-42c8-a711-e1a312d84b78,Crossroads Brewing Company,brewpub,201 Water Street,,,Catskill,New York,12414,United States,5189478494,http://www.crossroadsbrewingco.com,-73.86765,42.22076
+43352cda-8f46-45e6-a18e-a75595f1f369,Crossroads Brewing Company - Catskill Taproom,micro,201 Water St,,,Catskill,New York,12015,United States,5184448277,,-73.867797,42.220801
+99c46a22-5775-432c-9402-25480d34aa0c,Daleview Brewery,taproom,1170 Nostrand Ave,,,Brooklyn,New York,11225,United States,,http://Biscuitsandbeer.nyc,-73.950772,40.658929
+75deced8-65c2-44b3-9ea3-9fa2602f93dd,Dancing Grain Farm Brewery,taproom,180 Old West Rd,,,Gansevoort,New York,12831,United States,6318798052,http://www.dancinggrain.com,-73.698706,43.217211
+0487123b-a36d-410a-8154-8e6f6b5f9bb0,Davidson Brothers Restaurant and Brewery,brewpub,184 Glen St Rte 9,,,Glens Falls,New York,12801-0409,United States,5187439026,http://www.davidsonbrothers.com,-73.6509,43.3052
+c3a06a86-327d-43f5-8305-bef7578db4e9,Death Avenue,brewpub,315 10th Ave,,,New York,New York,10001-1416,United States,2126958080,http://www.deathave.com,-74.002075,40.751128
+e2debac0-19e9-401e-9662-0a949c478a44,Death Avenue,brewpub,315 10th Ave,,,New York,New York,10001-1416,United States,2126958080,http://www.deathave.com,-74.002075,40.751128
+9e543dda-cb7f-4dc9-a43d-e5c730b02ef0,Decadent Ales,micro,139 Hoyt Ave Ste A,,,Mamaroneck,New York,10543,United States,9148484060,http://www.decadentales.com,-73.739069,40.952189
+1a48847e-7303-42ed-a9e2-ab35b5d89025,Decadent Ales,micro,139 Hoyt Ave Ste A,,,Mamaroneck,New York,10543,United States,9148484060,http://www.decadentales.com,-73.739069,40.952189
+47b0b67c-099f-47ba-a549-4144f69c0234,Defiant Brewing Co,brewpub,6 E Dexter Plz,,,Pearl River,New York,10965-2360,United States,8459208602,http://www.defiantbrewing.com,-74.023334,41.057696
+06aa77d8-4925-448f-9f0b-183a1c0b9d31,Destination Unknown Beer Company,taproom,1 S Chicago Ave Unit C,,,Bay Shore,New York,11706-7000,United States,,http://www.destinationunknownbeercompany.com,-73.229172,40.733833
+e69d7c0d-f29a-4668-9419-f74ffc9e19cf,District 96 Beer Factory,brewpub,395 S Main St,,,New City,New York,10956,United States,8454992409,http://www.district96beer.com,-73.99177,41.13371
+45fc6ccc-c048-4964-9093-a18c6daa430d,Diversion Brewing Co,taproom,729 Wyncoop Creek Rd,,,Chemung,New York,14825-9755,United States,6075429168,http://www.diversionbrewing.com,-76.624463,42.017789
+bde0dc25-56ee-43b6-9fbe-b26810af8e59,Drowned Lands Brewery,taproom,251 State School Road,,,Warwick,New York,10990,United States,,http://www.drownedlands.beer,-74.303763,41.274433
+8061d17b-68a6-4518-9bf7-21cc51fffc36,Druthers Brewing Albany,brewpub,1053 Broadway,,,Albany,New York,12204,United States,5186507996,,-73.741403,42.665919
+0d191216-159d-4314-ba33-c23d979afd74,Druthers Brewing Co,micro,381 Broadway,,,saratoga Springs,New York,12866,United States,5188943668,http://www.druthersbrewing.com,-73.786383,43.080861
+7010ce92-4482-45db-af5f-e0d694c9c437,Druthers Brewing Schenectady,brewpub,221 Harborside Dr,,,Schenectady,New York,12305,United States,5183578640,,-73.932266,42.825619
+ee33e3eb-8ea8-41b6-a37c-a0ccc87dc8c5,Dublin Corners Farm Brewery,taproom,1906 Main St,,,Linwood,New York,14486-9707,United States,5855384796,http://www.dublincornersfarm.com,-77.88083,42.896152
 dd078788-4ff2-4a01-a075-8c9c84076380,Duncan's Abbey,micro,,,,Tarrytown,New York,10591,United States,,http://www.duncansabbey.com,,
+899ac17b-eb9c-4740-a017-054ebcfb81bd,Duncan's Abbey,micro,27 Storm St.,,,Tarrytown,New York,10591,United States,8609668321,http://www.duncansabbey.com,-73.860892,41.078435
+ede4c548-ab9a-4681-83ca-3b0265f7f2df,Dutchess Ales,micro,4280 NY-22,,,Wassaic,New York,12592,United States,,,-73.561989,41.808141
 b691e779-d2ff-46dc-9171-46b99a9043e1,Dyckman Beer Co,contract,,,,Bronx,New York,10451,United States,,http://www.dyckmanbeerco.com,,
-cb3463ff-5e24-4676-9db3-3d37793593ac,Eastern Front Brewing Co,micro,425 Westphalin Rd,,,Mattituck,New York,11952,United States,6319051535,http://www.facebook.com/easternfrontbrewing/,,
-e3426d39-8838-4ead-aff4-8202f1797894,Eastwood Brewing Company,micro,108 Walter Dr,,,Syracuse,New York,13206-2357,United States,,http://www.facebook.com/eastwoodbrewingcompany,-76.0980832,43.0701121
-9366a4a1-222a-43ec-af7f-e8c1e3454b57,Eli Fish Brewing Company,brewpub,109 Main St,,,Batavia,New York,14020-2110,United States,5858150401,http://www.elifishbrewing.com,-78.18219898,42.99732747
-3263ac26-78d6-47f7-970c-416ecea45ccc,Ellicottville Brewing Co,micro,28 Monroe St,,,Ellicottville,New York,14731,United States,7166992537,http://www.ellicottvillebrewing.com,-78.67049701,42.27511725
+de1d27bd-ad9d-4439-8c44-8f6c0069e91e,Dyke Beer,alt prop,1255 Park Place,,,Brooklyn,New York,11213,United States,6179133881,,-73.935654,40.672879
+11c0826a-9f08-4d0e-b3e0-b3323bd8022a,East Aurora Brewery,micro,667 Oakwood Ave,,,East Aurora,New York,14052,United States,6468728199,http://www.eastaurorabrewery.com,-78.609979,42.765118
+cb3463ff-5e24-4676-9db3-3d37793593ac,Eastern Front Brewing Co,micro,425 Westphalin Rd,,,Mattituck,New York,11952,United States,6319051535,http://www.facebook.com/easternfrontbrewing/,-72.536945,40.991348
+e3426d39-8838-4ead-aff4-8202f1797894,Eastwood Brewing Company,taproom,108 Walter Dr,,,Syracuse,New York,13206-2357,United States,,http://www.facebook.com/eastwoodbrewingcompany,-76.098433,43.070199
+7737cc43-d068-4716-80ba-32f20b8ff82c,EBBS Brewing Co.,micro,12301 Roosevelt Ave,,,Flushing,New York,11368,United States,,http://www.drinkebbs.com,-73.84557,40.754777
+d29e3d69-3c4a-46ce-b73c-33a8ae9b58da,Eisenadler Brauhaus,taproom,88 E Main St,,,Palatine Bridge,New York,13428,United States,,http://www.eisenadlerbrauhaus.com,-74.603295,42.925037
+264e4fba-8c14-4b8b-bc33-5073bdd220d4,Eleven Brewing Co. At LD's On the River,brewpub,4838 Jefferson St,,,Pulaski,New York,13142,United States,3155094254,http://www.ldsontheriver.com,-76.127361,43.566239
+9366a4a1-222a-43ec-af7f-e8c1e3454b57,Eli Fish Brewing Company,micro,109 Main St,,,Batavia,New York,14020-2110,United States,5853430008,http://www.elifishbrewing.com,-78.183113,42.99735
+7df5a678-a2e9-42ed-9d66-ace2eed0a05a,Ellicottville Brewing - Little Valley,micro,202 2nd St,,,Little Valley,New York,14755,United States,,,-78.793167,42.249809
+3263ac26-78d6-47f7-970c-416ecea45ccc,Ellicottville Brewing Co,micro,28 Monroe ST,,,Ellicottville,New York,14731-1421,United States,7166659397,http://www.ellicottvillebrewing.com,-78.6705,42.275015
+77ef066b-22c9-4966-9e65-ba028b91e001,Ellicottville Brewing Co (#2),location,34 W Main St,,,Fredonia,New York,14063-2136,United States,7166797939,http://www.ellicottvillebrewing.com,-79.332254,42.439189
+060712f2-3eab-441a-b0c1-5ecd03b68e8e,Ellicottville Brewing On Chautauqua,brewpub,57 Lakeside Dr,,,Bemus Point,New York,14712,United States,7163861189,,-79.39314,42.159507
 3ebef1a3-b680-4911-a442-07f042521c8c,Empire Brewing Co,brewpub,120 Walton St,,,Syracuse,New York,13202-1571,United States,3156552337,http://www.empirebrew.com,-76.15406625,43.04804637
 e4e51dc8-6d71-4ccd-85e4-4cad72d1b5df,Empire City Beer Company,planning,,,,New York,New York,10012,United States,9178040571,http://www.hitemhard.com,,
 79908f3b-0e14-4e3b-81e7-8e0de0954688,Empire Farm Brewery,micro,33 Rippleton Rd,,,Cazenovia,New York,13035-9601,United States,3156552337,http://www.empirebrew.com,-75.8664345,42.9197307
-5979ba35-787d-4c50-9e32-bdf544d34087,Equilibrium Brewery,micro,22 Henry Street,,,Middletown,New York,10940,United States,8457754216,http://www.eqbrew.com,-74.42143934,41.44646965
-87fe9d64-abad-4104-b35f-d5c3c156c910,Erie Canal Brewing Company,micro,135 S Peterboro St,,,Canastota,New York,13032-1409,United States,3155105001,http://www.eriecanalbrewingcompany.com,-75.75153202,43.07857637
-e80dd655-7f93-4e25-9008-89124f4dc685,Fairport Brewing Co,micro,99 S Main St,,,Fairport,New York,14450-2100,United States,5857520613,http://www.fairportbrewing.com,-77.4416792,43.0988098
+e2baebda-d497-4c85-b3ae-9183bdb41051,Emporium Farm Brewery,taproom,472 N Greenbush Rd,,,Rensselaer,New York,12144,United States,5183265391,http://www.emporiumfarmbrewery.com,-73.692943,42.659955
+5a931956-a8ba-41bb-b35e-0621a32eed27,Endless Life Brewing,taproom,585 Franklin Avenue,,,Brooklyn,New York,11238,United States,6465930741,http://www.EndlessLifeBrewing.com,-73.954888,40.678493
+47d3dab7-44d2-4d37-b51b-d4bf50e5d87a,Engine 14 Brewery,taproom,"52 West Ave, Building 2",,,Naples,New York,14512,United States,5855310014,,-77.402773,42.624339
+5979ba35-787d-4c50-9e32-bdf544d34087,Equilibrium Brewery,micro,2-8 South St,,,Middletown,New York,10940,United States,8459560211,http://www.eqbrew.com,-74.420675,41.44352
+df261f68-1531-45bd-8ca5-2a33e21557a4,Equilibrium Brewery,micro,2-8 South St,,,Middletown,New York,10940,United States,8459560211,http://www.eqbrew.com,-74.420675,41.44352
+87fe9d64-abad-4104-b35f-d5c3c156c910,Erie Canal Brewing Company,micro,135 S Peterboro St,,,Canastota,New York,13032-1409,United States,3155105001,http://www.eriecanalbrewingcompany.com,-75.751829,43.078524
+53cd55d7-b89b-4cb8-80a6-2f5e5c2be9e7,Evil Twin Brewing,taproom,1616 George St,,,Ridgewood,New York,11385,United States,7183661850,http://www.eviltwin.nyc,-73.903917,40.69647
+86346ba0-6732-4a1f-a717-9f574b1e01ed,Factory By Beer Tree Brew,brewpub,511 Reynolds Rd,,,Johnson City,New York,13790,United States,6072962337,,-75.972175,42.13134
+035f49f7-b71f-4c5f-9ad5-1ead5d7901cb,Faircraft Brauhaus,brewpub,25 Parce Ave,,,Fairport,New York,14450,United States,5853643005,http://www.faircraftbrauhaus.com,-77.443338,43.105039
+e80dd655-7f93-4e25-9008-89124f4dc685,Fairport Brewing Co,location,99 S Main St,,,Fairport,New York,14450-2100,United States,5857520613,,-77.441744,43.098813
 469c98f8-6cf2-4bce-89d2-8ac4f07e519d,Fairport Brewing Co,micro,1000 Turk Hill Rd Ste 298,,,Fairport,New York,14450-8755,United States,5857520613,,,
+25b0cf46-8d7f-4745-bbf3-32f17b85e825,Fairport Brewing Co,brewpub,1044 University Ave,,,Rochester,New York,14607,United States,5857520613,http://www.fairportbrewing.com,-77.573294,43.153826
+8a4b0a61-8273-4ab8-ad08-174c4b25a0ff,Faith American Brewing Co.,alt prop,108 State St,,,Schenectady,New York,12305,United States,8455861100,http://www.faithamerican.com,-73.947348,42.815046
+cd3dcb3a-f5f6-42a7-a131-88e62cb04596,Fall Street Brewing,brewpub,106 Fall St,,,Seneca Falls,New York,13148,United States,3155698332,http://www.fallstreetbrewing.com,-76.798412,42.910618
 9266dfe0-081f-43f5-ba21-0c838257fdd6,Felicia's Atomic Brewhouse and Bakery,brewpub,45 E Main St,,,Trumansburg,New York,14886,United States,6072094229,http://www.atomicbrewhouse.com,-76.65512,42.539886
-d143a579-cd07-4eb2-a825-f64b5957ac81,Ferrari Beer Company,micro,160 Ashford Ave,,,Dobbs Ferry,New York,10522-1906,United States,9146937340,http://www.ferraribeer.com,-73.86161615,41.01452326
-687f52df-b64c-464a-85c8-fdbcf02fa2ad,Fifth Frame Brewing Co.,proprietor,155 Saint Paul St,,,Rochester,New York,14604-1144,United States,7168128897,http://www.fifthframe.co,-77.61019544,43.15996034
+d143a579-cd07-4eb2-a825-f64b5957ac81,Ferrari Beer Company,micro,160 Ashford Ave,,,Dobbs Ferry,New York,10522-1906,United States,9146937340,http://www.ferraribeer.com,-73.861403,41.014133
+6526b0dc-fd5b-427b-b952-a7e055dd6812,Fidens Brewing Company,micro,10 Walker Way,,,Colonie,New York,12205,United States,5186080014,http://www.fidensbrewing.com,-73.837524,42.716909
+687f52df-b64c-464a-85c8-fdbcf02fa2ad,Fifth Frame Brewing Co.,alt prop,155 Saint Paul St,,,Rochester,New York,14604-1144,United States,7168128897,http://www.fifthframe.co,-77.610456,43.159925
 7c806934-8a5a-4a45-8ae3-fd8687ab005a,Fifth Hammer Brewing Company,micro,10-28 46th Ave,,,Long Island City,New York,11101-5217,United States,7186632084,http://www.fifthhammerbrewing.com,-73.9515404,40.7464921
-baf0d387-d06c-492b-b435-46b0619b8149,Finback Brewery,micro,78-01 77th Ave,,,Queens,New York,11385-7518,United States,7186288600,http://www.finbackbrewery.com,-73.8732597,40.7067227
-ca819de8-2d89-4ce2-8079-88b43bbf8330,Finger Lakes Beer Co,micro,8462 State Route 54,,,Hammondsport,New York,14840-9795,United States,6075693311,,,
+baf0d387-d06c-492b-b435-46b0619b8149,Finback Brewery,micro,78-01 77th Ave,,,Queens,New York,11385-7518,United States,7186288600,http://www.finbackbrewery.com,-73.872667,40.70679
+47375b94-4ad8-4535-b4eb-2442667bea35,Finback Brooklyn,brewpub,545 President St,,,Brooklyn,New York,11215,United States,3472278008,,-73.984742,40.677514
+ca819de8-2d89-4ce2-8079-88b43bbf8330,Finger Lakes Beer Co,taproom,8462 State Route 54,,,Hammondsport,New York,14840-9795,United States,6075693311,,-77.225982,42.399426
 f4558573-9e85-42ff-abcd-8d35a7d3c852,Fire Island Beer Co,micro,25 Drexel Dr,,,Bay Shore,New York,11706-2234,United States,,http://www.fireislandbeer.com,,
-74e468e5-ce8e-4b96-a806-382853e33d6f,Five & 20 Spirits and Brewing,brewpub,8398 W Route 20,,,Westfield,New York,14787-9748,United States,7167939463,http://www.fiveand20.com,,
+1ccd5063-502d-492f-86ae-6afc6767d7a9,First Line Brewing,taproom,4906 S Buffalo St,,,Buffalo,New York,14127,United States,7168807592,,-78.748191,42.750834
+74e468e5-ce8e-4b96-a806-382853e33d6f,Five & 20 Spirits and Brewing,micro,8398 W Route 20,,,Westfield,New York,14787-9748,United States,7167939463,http://www.fiveand20.com,-79.606253,42.308603
 2e58d067-0e26-42d0-a3f1-818f6c5dd8c3,Five Boroughs Brewing Co,micro,215 47th St,,,Brooklyn,New York,11220-1009,United States,7183558575,http://www.fiveboroughs.com,-74.0144263,40.6505216
 dbbf580b-32d2-4f7b-bff4-e74669267a7e,"Flagship Brewery, LLC.",micro,40 Minthorne St,,,Staten Island,New York,10301-3241,United States,7184485284,http://www.flagshipbrewery.nyc,-74.0756332,40.6372257
-df8780b1-b209-4209-a33f-ffbcaeab4cca,Fleur De Lis Brew Works,micro,3630 State Route 414,,,Seneca Falls,New York,13148-9202,United States,3156513260,http://www.fleurdelisbrewworks.com,,
+df8780b1-b209-4209-a33f-ffbcaeab4cca,Fleur De Lis Brew Works,taproom,3630 State Route 414,,,Seneca Falls,New York,13148-9202,United States,3156513260,http://www.fleurdelisbrewworks.com,-76.8031,42.8641
 64596f88-a3f9-4d17-a51d-848b004ae4a1,Flying Belgian Brewery,micro,211 Main St,,,Farmingdale,New York,11735-2675,United States,8184577548,http://www.flyingbelgianbrewery.com,-73.44588651,40.73359788
-891b1209-e442-48c6-ac73-6cdae5cc128a,Flying Bison Brewing Co,micro,840 Seneca St,,,Buffalo,New York,14210-1414,United States,7168731557,http://www.flyingbisonbrewing.com,-78.8458326,42.8758185
+7a1fcda7-a146-4da8-82c6-e367784301ac,Flying Belgian Brewery,micro,3350A Lawson Blvd,,,Oceanside,New York,11572,United States,8184577548,http://www.flyingbelgian.com,-73.652743,40.629505
+891b1209-e442-48c6-ac73-6cdae5cc128a,Flying Bison Brewing Co,micro,840 Seneca St,,,Buffalo,New York,14210-1414,United States,7168731557,http://www.flyingbisonbrewing.com,-78.845828,42.875605
 231bb644-13a6-4731-b570-459ba212b3f9,Folksbier,regional,101 Luquer St # 103,,,Brooklyn,New York,11231-3308,United States,,http://www.folksbier.com,-74.00099132,40.6779358
-22b3edd1-db8e-4573-b490-f672c7247c07,Foothill Hops Farm Brewery,micro,5024 Bear Path Rd,,,Munnsville,New York,13409-4114,United States,3154952451,http://www.foothillhops.com,-75.58610382,42.96463213
+22b3edd1-db8e-4573-b490-f672c7247c07,Foothill Hops Farm Brewery,taproom,5024 Bear Path Rd,,,Munnsville,New York,13409-4114,United States,3154952451,http://www.foothillhops.com,-75.586361,42.965839
 537756a0-6dbd-4a47-93cf-e1e0882c6a47,Foreign Objects Beer Company,micro,,,,New Paltz,New York,12561-3401,United States,6092871397,http://www.foreignobjectsbeer.com,,
-a3c10655-e6cc-4aa6-a520-1a43cf0021e0,Fort Orange Brewing,micro,450 N Pearl St,,,Albany,New York,12204-1511,United States,5189923103,http://www.fortorangebrewing.com,-73.74427,42.66372
+872eb4fb-2543-46ba-a488-d171d27a0689,Forged Brewing Co,taproom,1732 RT-41,,,Bainbridge,New York,13733,United States,,http://www.forgedbrewing.com,-75.476,42.3034
+a3c10655-e6cc-4aa6-a520-1a43cf0021e0,Fort Orange Brewing,micro,450 N Pearl St,,,Albany,New York,12204-1511,United States,5189923103,http://www.fortorangebrewing.com,-73.743484,42.667243
 d5e69bc8-cc56-4de7-8fdc-ee092c3f8ff1,Four Beasts Brewery,planning,,,,Brooklyn,New York,11215-2305,United States,3478863834,,,
-8dca273c-dc49-4025-9f22-6600c5268040,Four Mile Brewing,micro,202 E Green St,,,Olean,New York,14760-3606,United States,7163732337,http://www.fourmilebrewing.com,,
-b04ed4fe-48f4-472c-a355-822e68829545,Fox N Hare Brewing Company,micro,46 Front St,,,Port Jervis,New York,12771-2415,United States,3172095767,http://www.foxnhare-brewing.com,-74.69088263,41.37253067
-6a11bab0-fc45-4999-a6f2-4870cb65b3d6,Freight Yard Brewing LLC,proprietor,4975 State Route 31,,,Clay,New York,13041,United States,3158342529,http://www.freightyardbrewing.com,-76.17179556,43.18592459
+8dca273c-dc49-4025-9f22-6600c5268040,Four Mile Brewing,micro,202 E Green St,,,Olean,New York,14760-3606,United States,7163732337,http://www.fourmilebrewing.com,-78.427462,42.073173
+b04ed4fe-48f4-472c-a355-822e68829545,Fox N Hare Brewing Company,brewpub,46 Front St,,,Port Jervis,New York,12771-2415,United States,8456720100,http://www.foxnhare-brewing.com,-74.691943,41.373494
+6a11bab0-fc45-4999-a6f2-4870cb65b3d6,Freight Yard Brewing,taproom,4975 State Route 31,,,Clay,New York,13041,United States,3156997167,http://www.freightyardbrewing.com,-76.171796,43.185981
+cb59a526-39e0-4b4d-ab3b-1f0ca482af7a,Frequentem Brewing Co.,taproom,254 South Main Street,,,Canandaigua,New York,14424,United States,5857978107,http://www.frequentembrewing.com,-77.278778,42.883786
+6f5fc245-b00f-47fe-8316-36c52cec2ba8,Frog Alley Brewing,micro,108 State Street,,,Schenectady,New York,12305,United States,5186314800,http://www.frogalleybrewing.com,-73.947348,42.815046
 f1675420-4a29-472e-99e7-1ab841e2ac01,From the Ground Brewery,micro,245 Guski Rd,,,Red Hook,New York,12571-3316,United States,8453098100,http://www.fromthegroundbrewery.com,,
-3081cde1-7f5e-47ff-a3c7-7181dd0d2102,Full Boar Craft Brewery,micro,628 S Main St Ste C,,,North Syracuse,New York,13212-3687,United States,3158024784,http://www.fullboarbrew.com,,
+73cc27fa-494c-4115-8f3e-b603f9aa7178,From the Ground Brewery,taproom,301 Guski Rd,,,Red Hook,New York,12571-3316,United States,8453098100,http://www.fromthegroundbrewery.com,-73.878569,42.049685
+a5656335-069d-4717-824a-0073a0aafd26,Froth Brewing Company,brewpub,700 Military Road,,,Buffalo,New York,14216,United States,7167838060,,-78.890326,42.956388
+3081cde1-7f5e-47ff-a3c7-7181dd0d2102,Full Boar Craft Brewery,taproom,628 S Main St Ste C,,,North Syracuse,New York,13212-3687,United States,3158024784,http://www.fullboarbrew.com,-76.141874,43.124333
 47c29252-b135-47db-92ae-a87375a97d6a,Fulton Chain Craft Brewery,micro,127 North St,,,Old Forge,New York,13420-3300,United States,3155250222,http://www.fccbrewery.com,-74.97002515,43.71499275
+1717563b-c76e-4efa-b576-0f06ba73da84,Fulton Chain Craft Brewery,taproom,"127 north street
+Po box 1162",,,old forge,New York,13420,United States,3155250222,http://www.fccbrewery.com,-74.969985,43.714743
 e8d29c6c-50b2-4013-b059-1687215074c1,G.C. Starkey Beer Company,contract,68 Castle St Apt 1C,,,Geneva,New York,14456-2648,United States,6076784043,http://www.starkeyslookout.com,,
 d0a57790-908c-4e55-a814-f15a0cd98258,Gael Brewing Co,micro,4180 State Route 14,,,Geneva,New York,14456-9753,United States,3152200190,http://www.gaelbrewing.com,,
 b82fc6a8-47d3-4416-9ffb-9792068623f6,Galaxy Brewing Co,brewpub,"41 Court St, 153 & 157",,,Binghamton,New York,13901-3104,United States,6072174815,http://www.galaxybrewingco.com,,
-9bb7757f-2379-43a1-a895-0b1ef014d6f3,Garden of Eve Farm Brewery,micro,4558 Sound Ave,,,Riverhead,New York,11901-1207,United States,6317228777,http://www.facebook.com/farmbrewery,-72.648395,40.96775
+9bb7757f-2379-43a1-a895-0b1ef014d6f3,Garden of Eve Farm Brewery,taproom,4558 Sound Ave,,,Riverhead,New York,11901-1207,United States,6317228777,http://www.facebook.com/farmbrewery,-72.655944,40.973505
+11b192cb-8063-4600-85db-c8286dcd85ca,Gardiner Brewing Company,taproom,699 State Route 208,,,Gardiner,New York,12525,United States,8452555300,http://www.gardinerbrewingcompany.com,-74.136891,41.667904
 25128237-16d0-4273-91fd-c3a7cf09f4d3,Garland City Beer Works,planning,,,,Watertown,New York,13601-2423,United States,3157832577,http://www.garlandcitybeerworks.com,,
-392471bf-2718-4aa2-a587-39bfa92a848a,Garvies Point Brewery,micro,1 Garvies Point Rd,,,Glen Cove,New York,11542-2821,United States,5168151999,http://www.garviespointbrewery.com,-73.644083,40.858979
-8035e0d7-8059-4d39-a8d1-26d089cdaa0b,Gene McCarthy's/Old First Ward Brewing Company,brewpub,73 Hamburg St,,,Buffalo,New York,14204-2719,United States,7168558948,http://www.genemccarthys.com,-78.85957723,42.86654075
+b6c76b08-4d0b-4abf-a6d0-d9f0224bad80,Garland City Beer Works,brewpub,321 Howk St,,,Watertown,New York,13601-2423,United States,3157832577,http://www.garlandcitybeerworks.com,-75.918444,43.981019
+392471bf-2718-4aa2-a587-39bfa92a848a,Garvies Point Brewery,taproom,1 Garvies Point Rd,,,Glen Cove,New York,11542-2821,United States,5162772787,http://www.garviespointbrewery.com,-73.641965,40.860259
+8035e0d7-8059-4d39-a8d1-26d089cdaa0b,Gene McCarthy's/Old First Ward Brewing Company,brewpub,73 Hamburg St,,,Buffalo,New York,14204-2719,United States,7168558948,http://www.genemccarthys.com,-78.859589,42.865878
+751804ba-04d8-437f-944c-9af92a7458cf,Genesee Brew House,brewpub,25 Cataract St,,,Rochester,New York,14605,United States,5852639200,http://www.geneseebeer.com,-77.614947,43.163562
 9149bbe2-4b97-4b20-b685-357f19ce54ba,Genesee Brew House / North American Breweries,brewpub,25 Cataract St,,,Rochester,New York,14605,United States,5852639200,http://www.geneseebeer.com,-77.6147783,43.163584
-318ed09d-c28b-418a-9291-58eb420c10c7,Gentle Giant Brewing Company,micro,7 N Main St,,,Pearl River,New York,10965-2318,United States,,http://gentlegiantbrewing.com/,-74.02171299,41.05938885
+400d5ad6-3c49-4fb4-8ab1-9ea395b33078,Genesee Brewing Co,regional,445 Saint Paul St,,,Rochester,New York,14605-1726,United States,5855461030,,-77.615411,43.164578
+318ed09d-c28b-418a-9291-58eb420c10c7,Gentle Giant Brewing Company,brewpub,7 N Main St,,,Pearl River,New York,10965-2318,United States,,http://http://gentlegiantbrewing.com/,-74.021773,41.059439
+73a63255-03a1-4d28-be72-c8b54be589ab,Ghost Brewing Company,micro,25 Drexel Dr,,,Bay Shore,New York,11706,United States,,http://Ghostbrewco.com,-73.263492,40.761227
 81420933-352b-4dca-8f90-665aa5d5a131,Gilded Otter Brewing Co,brewpub,3 Main St,,,New Paltz,New York,12561-1742,United States,8452561700,http://www.gildedotter.com,-74.08958631,41.7469771
-eab9ccc1-7858-43aa-b808-37a9484be013,"Glenmere Brewing Co, Inc",micro,55 Maple Ave,,,Florida,New York,10921-1124,United States,8456511939,http://www.glenmerebrewingco.com,-74.360033,41.335404
-6bba0c8b-6d21-4105-841d-bb24e3e49c5a,Good Nature Farm Brewery,micro,1727 State Route 12b,,,Hamilton,New York,13346-2268,United States,3158242337,http://goodnaturebrewing.com,-75.54560551,42.807293
+eab9ccc1-7858-43aa-b808-37a9484be013,"Glenmere Brewing Co, Inc",micro,PO Box 733,,,Florida,New York,10921,United States,8456511939,http://www.glenmerebrewingco.com,-74.3584,41.3399
+aee191a4-71fa-473c-bd1c-a522a79c4cf1,"Glenmere Brewing Co, Inc",micro,PO Box 733,,,Florida,New York,10921,United States,8456511939,http://www.glenmerebrewingco.com,-74.3584,41.3399
+6bba0c8b-6d21-4105-841d-bb24e3e49c5a,Good Nature Farm Brewery,micro,1727 State Route 12b,,,Hamilton,New York,13346-2268,United States,3158242337,http://goodnaturebrewing.com,-75.548447,42.807649
 08b8bac1-e93f-48cf-9b2d-8a216d721f46,Gordon Biersch Brewery Restaurant - Buffalo,brewpub,Store P102 Galleria Dr,,,Cheektowaga,New York,14225-5408,United States,7166830050,http://www.craftworksrestaurants.com,,
 43873862-faa8-4ee2-b191-e56745c8fe57,Gordon Biersch Brewery Restaurant - Syracuse,brewpub,304 Hiawatha Blvd West #J-101,,,Syracuse,New York,13290,United States,3154780990,http://www.craftworksrestaurants.com,,
-607a358d-eef1-4db9-bffc-99c6640b5932,Great Adirondack Brewing Company,brewpub,2442 Main St,,,Lake Placid,New York,12946-3300,United States,5185231629,http://www.adksteakandseafood.com,-73.985385,44.288397
-cbf3ff33-da42-4d33-9a6e-8fe1aec55b7c,Great Flats Brewing,micro,151 Lafayette St,,,Schenectady,New York,12305-2051,United States,5182800232,http://www.greatflatsbrewing.com,-73.93839638,42.81243538
+607a358d-eef1-4db9-bffc-99c6640b5932,Great Adirondack Brewing Company,brewpub,2442 Main St,,,Lake Placid,New York,12946-3300,United States,5185231629,http://www.AdirondackBrewing.com,-73.985538,44.290289
+cbf3ff33-da42-4d33-9a6e-8fe1aec55b7c,Great Flats Brewing,micro,151 Lafayette St,,,Schenectady,New York,12305-2051,United States,5182800232,http://www.greatflatsbrewing.com,-73.938178,42.812386
 7f6f03e1-2627-4805-b25e-0f2b21f3b8d5,Great Life Brewing,micro,,,,West Park,New York,12493,United States,8453313700,http://www.greatlifebrewing.com,,
-e681f620-b2fc-445a-afd9-a8777f87d738,Great South Bay Brewery,micro,25 Drexel Dr,,,Bay Shore,New York,11706-2234,United States,6313928472,http://www.greatsouthbaybrewery.com,,
-580f1012-2d50-4f18-957e-cad9a534aa79,Green Wolf Brewing Co,micro,315 Main St,,,Middleburgh,New York,12122-,United States,5188276444,http://www.greenwolfbrew.com,-74.334814,42.598257
+3aaea118-f89c-4385-894e-9109a7976100,Great Life Brewing,taproom,75 Claredon Ave,,,Kingston,New York,12401,United States,8453313700,http://www.greatlifebrewing.com,-74.0175,41.9366
+d20d6ee3-29e9-4f13-908d-79e3ce8211e7,Great Sacandaga Brewing Co,taproom,3647 NY-30,,,Broadalbin,New York,12025,United States,5188837012,http://www.greatsacandagabrewing.com,-74.2143,43.0516
+e681f620-b2fc-445a-afd9-a8777f87d738,Great South Bay Brewery,micro,25 Drexel Dr,,,Bay Shore,New York,11706-2234,United States,6313928472,http://www.greatsouthbaybrewery.com,-73.263492,40.761227
+580f1012-2d50-4f18-957e-cad9a534aa79,Green Wolf Brewing Co,taproom,315 Main St,,,Middleburgh,New York,12122,United States,5188276444,http://www.greenwolfbrew.com,-74.334957,42.598199
 a10921c0-aa0f-4ca7-b669-ba0086c3e8a7,Greenpoint Beer,brewpub,7 N 15th St,,,Brooklyn,New York,11222-2838,United States,9177501541,http://www.greenpointbeer.com,-73.99607617,40.66893407
-e3560926-3490-4bdd-a5f3-98383f767703,"Greenport Harbor Brewing Co, LLC",brewpub,42155 Main Rd,,,Peconic,New York,11958-1502,United States,6315139019,http://www.harborbrewing.com,-72.4545703,41.0415525
-bf564705-6478-464b-acb1-04c343cc2ff4,Griffs Brewery,micro,5324 W Ridge Rd,,,Spencerport,New York,14559-1101,United States,5856173843,http://www.griffsbrewery.com,,
-40e3e16f-ba2e-4403-8cbd-b7fe50863cb5,Grimm Artisanal Ales,micro,990 Metropolitan Ave,,,Brooklyn,New York,11211-2607,United States,,http://GrimmAles.com,-73.93651911,40.7142757
-8bedf283-d3ff-463e-9a7e-1aa4d8f3b491,Grist Iron Brewing Co.,brewpub,4880 State Route 414,,,Burdett,New York,14818-9729,United States,6078822739,http://www.gristironbrewing.com,,
+6c497c8c-87ae-48aa-9710-dc3419a516bf,Greenpoint Beer,micro,1150 Manhattan Ave,,,Brooklyn,New York,11222,United States,9177501541,http://www.greenpointbeer.com,-73.955158,40.737676
+e68342cd-1da3-478c-ab25-8aa94ac9bc35,Greenport Harbor Brewing,micro,234 Carpenter St,,,Greenport,New York,11944,United States,6314771100,,-72.358473,41.103302
+e3560926-3490-4bdd-a5f3-98383f767703,"Greenport Harbor Brewing Co, LLC",micro,42155 Main Rd,,,Peconic,New York,11958-1502,United States,6315139019,http://www.greenportharborbrewing.com,-72.454551,41.0418
+bf564705-6478-464b-acb1-04c343cc2ff4,Griffs Brewery,taproom,5324 W Ridge Rd,,,Spencerport,New York,14559-1101,United States,5856173843,http://www.griffsbrewery.com,-77.82071,43.220779
+40e3e16f-ba2e-4403-8cbd-b7fe50863cb5,Grimm Artisanal Ales,micro,990 Metropolitan Ave,,,Brooklyn,New York,11211-2607,United States,7185649767,http://GrimmAles.com,-73.936523,40.714289
+8bedf283-d3ff-463e-9a7e-1aa4d8f3b491,Grist Iron Brewing Co.,brewpub,4880 State Route 414,,,Burdett,New York,14818-9729,United States,6078822739,http://www.gristironbrewing.com,-76.86567,42.470408
+be95d70a-2bec-4f51-bf72-7923a05b7030,Grow Brewing Co.,alt prop,623 Lerch Rd,,,Geneva,New York,11456,United States,3152723775,http://www.growbrewingco.com,-76.92472,42.82267
 7772fff2-1f62-48bf-8653-cff2a21ccaf6,Gun Hill Brewing Co,micro,3227 Laconia Ave,,,Bronx,New York,10469-1403,United States,7188810010,http://www.gunhillbrewing.com,-73.855814,40.8721114
-63e07cbd-4eea-445f-94a2-771bd1020b3e,Hamburg Brewing Company,micro,6553 Boston State Rd,,,Hamburg,New York,14075-6630,United States,7166493249,http://www.hamburgbrewing.com,,
-77358748-54f0-4396-bc3c-d73ce170541c,Hank Hudson Brewing At Fairways of Halfmoon,brewpub,17 Johnson Rd,,,Mechanicville,New York,12118-3505,United States,5186641578,,,
-ae916041-5055-42ed-a19f-e03dfeafbf00,Harbor Head Brewing Co,micro,81 Fort Salonga Rd,,,Northport,New York,11768-2889,United States,6318155588,http://www.harborheadbrew.com,-73.3539709,40.8908555
-95e2aecb-8c67-415f-aad7-02f1148871f6,Harlem Blue Beer,proprietor,2214 Frederick Douglass Blvd Ste 267,,,New York,New York,10026-1123,United States,,http://www.harlemblue.com,,
+63e07cbd-4eea-445f-94a2-771bd1020b3e,Hamburg Brewing Company,micro,6553 Boston State Rd,,,Hamburg,New York,14075-6630,United States,7166493249,http://www.hamburgbrewing.com,-78.802458,42.711168
+77358748-54f0-4396-bc3c-d73ce170541c,Hank Hudson Brewing At Fairways of Halfmoon,brewpub,17 Johnson Rd,,,Mechanicville,New York,12118-3505,United States,5186641578,http://www.hankhudsonbrewing.com,-73.709276,42.906227
+ae916041-5055-42ed-a19f-e03dfeafbf00,Harbor Head Brewing Co,taproom,81 Fort Salonga Rd,,,Northport,New York,11768-2889,United States,6318155588,http://www.harborheadbrew.com,-73.355041,40.891229
+95e2aecb-8c67-415f-aad7-02f1148871f6,Harlem Blue Beer,alt prop,2214 Frederick Douglass Blvd Ste 267,,,New York,New York,10026-1123,United States,6462841010,http://www.harlemblue.com,-73.953703,40.806429
 02f59192-c794-4d3b-b3a3-6d96bb2bb7b2,Harlem Brewing Co,contract,2 W 123rd St,,,New York,New York,10027-5623,United States,8885596735,http://www.harlembrewingcompany.com,-73.94532799,40.8058068
 59b15388-72c7-4a2d-895a-7382c5b2d125,Heartland Brewery,contract,35 Union Sq W Frnt 1,,,New York,New York,10003-3200,United States,2126453400,http://www.heartlandbrewery.com,,
 c688395f-2c34-45cb-8628-4f8ae48f8461,Heavily Brewing Company,micro,2471 Hayes Rd,,,Montour Falls,New York,14865,United States,6075352739,http://www.heavilybrewingcompany.com,-76.82625029,42.35452911
-fcffd398-7422-4848-9963-849cc9013012,Helderberg Brewery,micro,63 Huyck Rd,,,Rensselaerville,New York,12147-2108,United States,5187975100,http://careyinstitute.org/programs/sustainable-communities/helderberg-brewery-taproom/,,
-074f4fa7-4f79-44e0-9bcd-e071f5c0e987,Helderberg Mountain Brewing Company,micro,83 Main St,,,East Berne,New York,12059-2020,United States,5189373606,http://www.helderbergmountainbrewingcompany.com,-74.07306079,42.61509627
+5ee54bac-9107-42c2-b797-f51a44cdd867,Heelpath Brewing Co.,taproom,122 Marina Park Dr,,,Frankfort,New York,13340,United States,3154449005,,-75.067541,43.041734
+fcffd398-7422-4848-9963-849cc9013012,Helderberg Brewery,taproom,63 Huyck Rd,,,Rensselaerville,New York,12147-2108,United States,5187975100,http://careyinstitute.org/programs/sustainable-communities/helderberg-brewery-taproom/,-74.142829,42.522149
+074f4fa7-4f79-44e0-9bcd-e071f5c0e987,Helderberg Mountain Brewing Company,taproom,83 Main St,,,East Berne,New York,12059-2020,United States,5189373606,http://www.helderbergmountainbrewingcompany.com,-74.07346,42.615136
+dc7512db-24f6-4c58-96b2-b8aaa2c2b57f,Heritage Hill Brewhouse,brewpub,3149 Sweet Rd,,,Pompey,New York,13138,United States,3157667885,http://www.heritagehillbrewery.com,-76.0163,42.8988
 f17d4678-6163-4bdf-8031-1baf0ad63f74,Heroes Brewing Company,micro,543 Atlantic Ave,,,Rochester,New York,14609,United States,5854345472,https://heroesbrewco.square.site,-77.56906418,43.15634755
+97344296-3d16-4dd7-9aed-18024065468f,Heroes Brewing Company,taproom,543 Atlantic Ave,,,Rochester,New York,14609,United States,5854345472,http://www.heroesbrewco.com,-77.569244,43.156316
+93429558-9490-4256-b2ac-276de262a191,Hidden Springs Brewhouse,taproom,170 County Rd 31,,,Norwich,New York,13815,United States,6073342337,http://www.hiddenspringsbrewhouse.com,-75.459106,42.55992
+1b0970bd-fff9-4b0c-8a57-1bde1df33bca,High Burl Brewery,taproom,2803 State Hwy 80,,,Burlington Flats,New York,13315,United States,6079650038,http://www.highburlbrewery.com,-75.157104,42.721185
 a59a4a55-9dff-4b1e-a618-a8795c6350d6,High Perch Brewing Company,micro,1417 Kania Rd,,,Amsterdam,New York,12010-6610,United States,,,,
 8da17028-fe8b-4ff9-98e5-6b57ec7f3335,Hill Country Farm Brewery,planning,,,,Jamesville,New York,13078-9637,United States,3157667885,http://Hillcountryfarmbrewery.com,,
 f902bfca-fb32-4581-8b09-f3fb80ea731c,Hofbrauhaus Buffalo,planning,,,,Buffalo,New York,14221-4616,United States,7165631781,http://www.facebook.com/Hofbrauhaus-Buffalo-476335022466386/,,
-1050fc32-3d25-4e81-9e62-56c393000396,Honey Hollow Brewery,micro,376 E. Honey Rd.,,,Earlton,New York,12058,United States,5189665560,http://www.honeyhollowbrewery.com,,
+d8128955-dadf-485d-8f33-82bc5332dcf6,Hofbrauhaus Buffalo,brewpub,190 Scott St,,,Buffalo,New York,14204,United States,7169392337,http://www.horbrauhausbuffalo.com,-78.869501,42.876269
+29fccdd1-4b5b-443d-ac79-f31207f798d6,Homer Hops Brewing,micro,722 State Route 90,,,Cortland,New York,13045,United States,6072610823,http://www.homerhops.com,-76.227229,42.638927
+1050fc32-3d25-4e81-9e62-56c393000396,Honey Hollow Brewery,taproom,376 E. Honey Rd.,,,Earlton,New York,12058,United States,5189665560,http://www.honeyhollowbrewery.com,-73.9227,42.3484
 b7d9a7e5-45c2-481f-a606-d0e3d579fb50,Hop Barn Brewing,micro,94 Maple Ave,,,Greenville,New York,12083-3311,United States,5189564762,http://hopbarnbrewing.com,-74.05510817,42.42134333
-1d6422dd-e5b1-4b6a-99b0-d0e349e1b7d3,Hopshire Farm and Brewery,micro,1771 Dryden Rd,,,Freeville,New York,13068-,United States,6072791243,http://www.hopshire.com,,
-8562e8b8-0126-41f1-b00f-4fb3c4b90ef9,Hudson Ale Works,brewpub,17 Milton Ave,,,Highland,New York,12528-1409,United States,8453842531,http://www.hudsonaleworks.com,-73.96390393,41.717539
-4600fee8-4518-45cb-b4a7-89979b742829,Hudson Valley Brewery,micro,7 E Main St,,,Beacon,New York,12508-3301,United States,8452189156,http://www.hudsonvalleybrewery.com,-73.9630491,41.5016501
+1d6422dd-e5b1-4b6a-99b0-d0e349e1b7d3,Hopshire Farm and Brewery,taproom,1771 Dryden Rd,,,Freeville,New York,13068,United States,6072791243,http://www.hopshire.com,-76.368864,42.47917
+4942ea89-34ef-4c10-9597-1fd507a46dec,Horseheads Brewing,taproom,250 Old Ithaca Rd,,,Horseheads,New York,14845-1700,United States,6077398468,http://www.horseheadsbrewing.com,-76.812721,42.183128
+00029d71-a1bb-486c-bdd6-a1bce3b9560c,Hot House Brewing At Barone Gardens,taproom,6200 S Bay Rd,,,Cicero,New York,13039,United States,3152885929,http://https://www.hothousebrewing.com/,-76.091726,43.165662
+8562e8b8-0126-41f1-b00f-4fb3c4b90ef9,Hudson Ale Works,brewpub,17 Milton Ave,,,Highland,New York,12528-1409,United States,8453842531,http://www.hudsonaleworks.com,-73.963918,41.717577
+8d0e0c95-bd7d-43dc-b6c6-2ef1a36a805d,Hudson Brewing Company,taproom,99 S 3rd St,,,Hudson,New York,12534,United States,5186975400,http://www.hudsonbrew.com,-73.79785,42.250268
+3db21a8e-1bdc-47ec-a0cd-a018c6be6554,Hudson River Brewery,micro,3199 Albany Post Road,,,Buchanan,New York,10511,United States,9142274986,http://Hudsonriverbrewery.com,-73.935537,41.264456
+4600fee8-4518-45cb-b4a7-89979b742829,Hudson Valley Brewery,micro,7 East Main st,,,Beacon,New York,12508,United States,8452189156,http://www.hudsonvalleybrewery.com,-73.962372,41.502316
+13df108d-407a-4373-8cd0-fe4d6b0564ff,Hudson Valley Brewery,micro,7 East Main st,,,Beacon,New York,12508,United States,8452189156,http://www.hudsonvalleybrewery.com,-73.962372,41.502316
+7e9f6d39-546b-4249-8c5d-2c5c9dbb56f1,Hunter Mountain Brewery,brewpub,7267 New York Rt 23A,,,Hunter,New York,12442,United States,5182633300,,-74.2325,42.2192
 d7f413d6-f2ac-46d2-a2da-6ec77476459b,Hyde Park Brewing Co,micro,4076 Albany Post Rd,,,Hyde Park,New York,12538-1934,United States,8452298277,http://www.hydeparkbrewing.com,-73.93007747,41.76674824
+5723fa99-7a2d-46fb-9562-64f26247c232,Hydraulic Hearth,brewpub,716 Swan St,,,Buffalo,New York,14210,United States,7165347372,http://www.hydraulichearth.com,-78.849665,42.876946
 5a0c4ee1-3be0-43fa-8bbd-45616b6554d2,Iconyc Brewing Company,micro,45-13 34th Ave,,,Long Island City,New York,11101-1041,United States,3473421360,http://www.iconycbrewing.com,,
-80edf45a-d8dd-458e-9e56-5ca871a77e80,In-Law Brewing Co,micro,5868 County Route 14,,,Chase Mills,New York,13621-3102,United States,,http://www.in-lawbrewingcompany.com,-75.04830452,44.88140997
-84f1650a-80f6-47d0-9af0-b469e846829d,Indian Ladder Farmstead Brewery and Cidery,micro,342 Altamont Rd,,,Altamont,New York,12009-3500,United States,5185771484,http://www.ilfcb.com,,
+dacec487-e53d-433a-8ed8-9c8bb5eea144,Iconyc Brewing Company,taproom,43-63 11th St,,,Long Island City,New York,11101,United States,,http://www.iconycbrewing.com,-73.9487,40.750172
+80edf45a-d8dd-458e-9e56-5ca871a77e80,In-Law Brewing Co,taproom,5868 County Route 14,,,Chase Mills,New York,13621-3102,United States,,http://www.in-lawbrewingcompany.com,-75.047554,44.882195
+84f1650a-80f6-47d0-9af0-b469e846829d,Indian Ladder Farm Cidery & Brewery,taproom,342 Altamont Rd,,,Altamont,New York,12009-3500,United States,5185771484,http://www.ilfcb.com,-73.976105,42.655088
+3829e5a6-b3ff-4712-b0b5-2f0f4f00c0be,Industrial Arts Brewing,regional,511 Fishkill Ave,,,Beacon,New York,12508-1253,United States,8459428776,http://www.industrialartsbrewing.com,-73.946233,41.516227
 f683b809-ff71-4f95-99a1-febed584ac36,Industrial Arts Brewing Co.,micro,55 W Railroad Ave # 25W,,,Garnerville,New York,10923-1261,United States,8459428776,http://www.industrialartsbrewing.com,,
-acd68c1e-2f4c-4cc4-a68c-91e0b4c996e7,Interboro Spirits And Ales,brewpub,942 Grand St,,,Brooklyn,New York,11211-2707,United States,6462455417,http://www.interboro.nyc,-73.9369567,40.7126813
-b2b80cf5-adc4-4e7c-9a53-d3f55ed24d7f,Irish Mafia Brewing Co,brewpub,2971 Whalen Rd,,,Bloomfield,New York,14469-9786,United States,5852715172,http://www.irishmafiabrewing.com,-77.38938696,42.89268134
-bfd07141-cfd5-461d-bbac-17dfc9b8dec1,Iron Flamingo Brewery,micro,196 Baker St,,,Corning,New York,14830-2074,United States,6079364766,http://www.ironflamingobrewery.com,-77.0564722,42.1551591
-85006537-0e74-4e0f-823b-592904e96c5b,Iron Tug Brewing,micro,371 Park Ave,,,Rochester,New York,14607,United States,5857385606,http://www.irontugbrewing.com,-77.58587345,43.15024613
+04918731-6f01-4082-8104-c6a890ab1a07,Industrial Arts Brewing Co. - Beacon,taproom,511 Fishkill Ave,,,Beacon,New York,12508,United States,8457651355,,-73.946693,41.517039
+acd68c1e-2f4c-4cc4-a68c-91e0b4c996e7,Interboro Spirits And Ales,micro,942 Grand St,,,Brooklyn,New York,11211-2707,United States,6462455417,http://www.interboro.nyc,-73.936908,40.712595
+b2b80cf5-adc4-4e7c-9a53-d3f55ed24d7f,Irish Mafia Brewing Co,brewpub,2971 Whalen Rd,,,Bloomfield,New York,14469-9786,United States,5852715172,http://www.irishmafiabrewing.com,-77.388641,42.88443
+bfd07141-cfd5-461d-bbac-17dfc9b8dec1,Iron Flamingo Brewery,micro,196 Baker St,,,Corning,New York,14830-2074,United States,6079364766,http://www.ironflamingobrewery.com,-77.056369,42.155137
+85006537-0e74-4e0f-823b-592904e96c5b,Iron Tug Brewing,brewpub,371 Park Ave,,,Rochester,New York,14607,United States,5858650032,http://www.irontugbrewing.com,-77.585842,43.149617
+b12f71e2-5917-4752-89bd-9bbb81cca02d,Irondequoit Beer Company,brewpub,765 Titus Ave,,,Rochester,New York,14617,United States,5855443670,http://www.irondequoitbeercompany.com,-77.595961,43.210606
+89b35961-05ab-4cc1-9dec-a568ca0d86ed,Ironrock Brewing Co.,taproom,56 W Mill St,,,Little Falls,New York,13365,United States,3155085313,,-74.861054,43.040917
 a5aec8f0-08ed-49ea-a440-7b30f2aadb79,Island To Island Brewery,brewpub,642 Rogers Ave,,,Brooklyn,New York,11226-1502,United States,3479741985,http://www.islandtoislandbrewery.com,-73.95325995,40.6558144
-315fd733-fd6e-4619-af95-98ef88bfba74,Ithaca Beer Co,regional,122 Ithaca Beer Dr,,,Ithaca,New York,14850-8813,United States,6072730766,http://www.ithacabeer.com,,
-187b8020-fa4f-435f-80f5-166764b9e1ca,Jamesport Farm Brewery,micro,5873 Sound Ave,,,Riverhead,New York,11901-5611,United States,6317228111,http://www.jamesportbrewhouse.com,-72.648395,40.96775
+315fd733-fd6e-4619-af95-98ef88bfba74,Ithaca Beer Co,micro,122 Ithaca Beer Dr,,,Ithaca,New York,14850-8813,United States,6072730766,http://www.ithacabeer.com,-76.535876,42.417547
+187b8020-fa4f-435f-80f5-166764b9e1ca,Jamesport Farm Brewery,taproom,5873 Sound Ave,,,Riverhead,New York,11901-5611,United States,6317228111,http://www.jamesportbrewhouse.com,-72.596771,40.977453
 246a9990-7ca0-46ff-b735-a564fabaf8eb,Jamestown Brewing Company,planning,,,,Jamestown,New York,14701-5110,United States,7168644257,,,
-a1359798-d004-4afc-b32d-5c6f99d6f7a3,K2 Brothers Brewing,brewpub,1221 Empire Blvd,,,Rochester,New York,14609-5946,United States,5854131997,http://www.K2Brewing.com,-77.549992,43.17664
-c0eadf1a-e33e-4721-8e7c-d9e1c6835582,Keegan Ales,micro,20 Saint James St,,,Kingston,New York,12401-4534,United States,8453312739,http://www.keeganales.com,-74.012151,41.931636
-42acde68-870f-4212-ab63-12e3ec609dd8,Keg & Lantern Brewing Co,brewpub,97 Nassau Ave,,,Brooklyn,New York,11222-3081,United States,7183895050,http://www.kegandlanternbrooklyn.com,-73.95031963,40.7241037
+128c578b-96d8-4621-8963-8e48074eea8a,Jones Beach Brewing Co,alt prop,211A Main St,,,Farmingdale,New York,11735,United States,5167790478,http://www.JonesBeachBrewing.com,-73.445875,40.734074
+6451dcc3-3737-4d81-8f29-24835268f5ec,Junco Brewing Co LLC,taproom,37 Cemetery Rd,,,Oswego,New York,13126-6034,United States,4236379748,,-76.539694,43.415342
+a1359798-d004-4afc-b32d-5c6f99d6f7a3,K2 Brothers Brewing,brewpub,1221 Empire Blvd,,,Rochester,New York,14609-5946,United States,5856262835,http://www.K2Brewing.com,-77.521481,43.174683
+8d9c9a06-86a9-492e-b132-ebaeae3ffa2d,KBC Beer,taproom,4 N Main St,,,Mayfield,New York,12117,United States,,,-74.264289,43.104353
+c0eadf1a-e33e-4721-8e7c-d9e1c6835582,Keegan Ales,micro,20 Saint James St,,,Kingston,New York,12401-4534,United States,8453312739,http://www.keeganales.com,-74.012223,41.931303
+42acde68-870f-4212-ab63-12e3ec609dd8,Keg & Lantern Brewing Co,brewpub,97 Nassau Ave,,,Brooklyn,New York,11222-3081,United States,7183895050,http://www.kegandlanternbrooklyn.com,-73.950372,40.724118
+bde5162f-626d-4cd5-8786-46c20cd5040a,Keg & Lantern Brewing Red Hook,brewpub,158 Beard St,,,Brooklyn,New York,11231,United States,7188523692,http://www.kegandlanternbrooklyn.com/redhook,-74.015798,40.675736
+b874468c-fc71-40fb-8a5f-ef2845ae4ffa,Keg and Barrel Brewing Company Inc.,brewpub,14720 State Route 54,,,Dundee,New York,14840,United States,6072926622,http://www.keukalakemotel.com,-77.119281,42.491889
 f41dff48-d079-4852-9416-9a79d64f32fd,KelSo Beer Company,contract,529 Waverly Ave,,,Brooklyn,New York,11238-2701,United States,,http://www.kelsoofbrooklyn.com,-73.96564,40.68267586
-d26aba38-c5d5-4245-8d5e-349521c781f2,Keuka Brewing Co,micro,8572 Briglin Rd,,,Hammondsport,New York,14840-9633,United States,6078684648,http://www.keukabrewingcompany.com,,
-c6ba8d58-a482-428b-bd1e-6efc2f49911e,Kills Boro Brewing Company,micro,62 Van Duzer St,,,Staten Island,New York,10301-3226,United States,3472778680,http://www.killsboro.com,-74.07740788,40.636479
-462e4ff7-0374-443f-b44f-fd09b77a9523,Kings County Brewers Collective,micro,381 Troutman St,,,Brooklyn,New York,11237-2613,United States,7182882891,http://www.kcbcbeer.com,-73.9236202,40.7060306
+507db309-6e5c-4937-8c24-bc64bdf5f75c,Kent Beer Company,taproom,1699 Jones Road,,,Andover,New York,14806,United States,7164749277,http://www.kentbeercompany.com,-77.819623,42.171636
+d26aba38-c5d5-4245-8d5e-349521c781f2,Keuka Brewing Co,taproom,8572 Briglin Rd,,,Hammondsport,New York,14840-9633,United States,6078684648,http://www.keukabrewingcompany.com,-77.191034,42.485384
+e85754ba-ed56-4ee4-823f-da00a04461d2,Kidd Squid Brewing Company,taproom,11 Spring Street,,,Sag Harbor,New York,11963,United States,6462814137,http://www.kiddsquid.com,-72.296686,40.9995
+c6ba8d58-a482-428b-bd1e-6efc2f49911e,Kills Boro Brewing Company,micro,60 Van Duzer St,,,Staten Island,New York,10301-3226,United States,3472778680,http://www.killsboro.com,-74.077549,40.636371
+d139a874-97da-4c99-937f-8d11c439e3b1,Kills Boro Brewing Company,micro,60 Van Duzer St,,,Staten Island,New York,10301-3226,United States,3472778680,http://www.killsboro.com,-74.077549,40.636371
+eda400e5-cd2d-4784-8d17-d907ee568545,King's Court Brewing Company,taproom,40 Cannon St Ste 1,,,Poughkeepsie,New York,12601,United States,9176973030,http://www.kingscourtbrewingcompany.com,-73.927573,41.702139
+462e4ff7-0374-443f-b44f-fd09b77a9523,Kings County Brewers Collective,micro,381 Troutman St,,,Brooklyn,New York,11237-2613,United States,7182882891,http://www.kcbcbeer.com,-73.923713,40.706078
 97ece97b-b919-46b3-a063-cc5bbae50787,Kingston Standard Brewing Co.,planning,,,,Kingston,New York,12401,United States,,http://www.kingstonstandard.com,,
-ce08319b-e0e5-41de-a8b3-7a7f7a970e58,Knucklehead Craft Brewing,brewpub,426 Ridge Rd,,,Webster,New York,14580-1793,United States,5853476236,http://www.knuckleheadcraftbrewing.com,-77.51128726,43.20572922
-df201565-95ea-4d32-839e-857acf881c98,Lafayette Brewing Co,brewpub,391 Washington St,,,Buffalo,New York,14203-2108,United States,7168560062,http://www.panamericangrill.com,-78.8734526,42.8847967
-95a2d108-4cdc-4a82-acf4-60bc4d1dd0de,Lake Drum Brewing,micro,16 E Castle St,,,Geneva,New York,14456-2400,United States,3157891200,http://www.lakedrumbrewing.com,-76.98094035,42.8677738
-3466a4a4-b6dc-4aa5-b3bd-0277c3105e39,Lake George Beer Hub,micro,1043 State Route 9,,,Queensbury,New York,12804-1374,United States,5182230372,http://www.lakegeorgebrewingcompany.com,,
-2122a24b-761a-40e0-aed7-5ed13881fe48,Lake Placid Pub and Brewery,brewpub,813 Mirror Lake Dr,,,Lake Placid,New York,12946-3829,United States,5185233813,http://www.ubuale.com,-73.98108306,44.28340973
+f5ef8140-5038-425a-a1ed-fee2fb9cfc5f,Kingston Standard Brewing Co.,taproom,22 Jansen Ave,,,Kingston,New York,12401,United States,8458538152,http://www.kingstonstandard.com,-73.992336,41.926513
+ce08319b-e0e5-41de-a8b3-7a7f7a970e58,Knucklehead Craft Brewing,brewpub,426 Ridge Rd,,,Webster,New York,14580-1793,United States,5853476236,http://www.knuckleheadcraftbrewing.com,-77.51213,43.205996
+458cc376-4d86-4d08-ba18-171a2eafad5d,Labatt Brew House,micro,79 Perry st,,,Buffalo,New York,14203,United States,2482273862,,-78.874579,42.874994
+df201565-95ea-4d32-839e-857acf881c98,Lafayette Brewing Co,brewpub,391 Washington St,,,Buffalo,New York,14203-2108,United States,7168560062,http://www.panamericangrill.com,-78.872938,42.88488
+95a2d108-4cdc-4a82-acf4-60bc4d1dd0de,Lake Drum Brewing,taproom,16 E Castle St,,,Geneva,New York,14456-2400,United States,3157891200,http://www.lakedrumbrewing.com,-76.980951,42.867797
+3466a4a4-b6dc-4aa5-b3bd-0277c3105e39,Lake George Beer Hub,micro,1043 State Route 9,,,Queensbury,New York,12804-1374,United States,5182230372,http://www.lakegeorgebrewingcompany.com,-73.686369,43.343538
+562b46c3-3ebb-4c80-904b-0c4503eed891,Lake Placid Craft Brewing Co,beer brand,813 Mirror Lake Drive,,,Lake Placid,New York,12946,United States,,,-73.981292,44.282963
+2122a24b-761a-40e0-aed7-5ed13881fe48,Lake Placid Pub and Brewery,brewpub,813 Mirror Lake Dr,,,Lake Placid,New York,12946-3829,United States,5185233813,http://www.ubuale.com,-73.981292,44.282963
+8491656a-1a05-412a-a018-ffa5443f99b6,Lasting Joy Brewery,taproom,485 Lasher Rd,,,Tivoli,New York,12583,United States,3478863834,http://www.lastingjoybrewery.com,-73.853374,42.063294
+6eaf045b-45fe-489e-8616-7504ab8b20e1,Laurentide Beer Company,taproom,158 Main Street,,,Penn Yan,New York,14527,United States,,http://www.laurentidebeer.com,-77.055696,42.661959
 627ccf1e-aea1-4404-96fc-c241dd6118be,Ledge Hill Brewing Co,micro,6700 Main St,,,Westport,New York,12993-2007,United States,5189121783,http://www.ledgehillbrewing.com/,-73.452543,44.188294
-e8332f46-b446-4e25-a12e-d014adb38289,LIC Beer Project,micro,3928 23rd St,,,Long Island City,New York,11101-4817,United States,9178326840,http://licbeerproject.com,-73.942849,40.75063
+2b973465-b9e6-43c7-bc54-b990aa56b677,Ledge Hill Brewing Company,taproom,92 Montcalm St,,,Ticonderoga,New York,12883,United States,5188377637,http://www.ledgehillbrewing.com,-73.426129,43.848338
+e8332f46-b446-4e25-a12e-d014adb38289,LIC Beer Project,taproom,3928 23rd St,,,Long Island City,New York,11101-4817,United States,9178326840,http://licbeerproject.com,-73.938822,40.755233
 a1488112-9955-4caa-ba96-70c984ffbeb3,Limestone Creek Brewing Company,planning,,,,Manlius,New York,13104,United States,,,,
 a789a199-43c9-4863-91c0-02c51550397d,Lincoln Hill Farm,planning,,,,Canandaigua,New York,14424-8826,United States,5857529466,http://www.fingerlakingood.farm,,
 5620f950-f9dc-4c70-84fc-046e4353a1bb,Lineup Brewing LLC,micro,33 35th St Unit 6A,,,Brooklyn,New York,11232-2210,United States,7204222053,http://www.lineupbrewing.com,,
-44b04181-569a-47e6-85f5-f65666f8bef4,Liquid Shoes Brewing,micro,26 E Market St,,,Corning,New York,14830,United States,6074639726,http://www.liquidshoesbrewing.com,-77.05301289,42.14306479
-39bf60db-5e50-452e-984c-15fe45c440ab,Liquid State Brewing Company,micro,620 West Green Street,,,Ithaca,New York,14850,United States,,http://www.liquidstatebrewing.com,-76.5077547,42.43844312
+44b04181-569a-47e6-85f5-f65666f8bef4,Liquid Shoes Brewing,taproom,26 E Market St,,,Corning,New York,14830,United States,6074639726,http://www.liquidshoesbrewing.com,-77.053507,42.143056
+39bf60db-5e50-452e-984c-15fe45c440ab,Liquid State Brewing Company,taproom,620 West Green Street,,,Ithaca,New York,14850,United States,,http://www.liquidstatebrewing.com,-76.507575,42.438557
 65ce6fa5-b2eb-43db-adb6-48d6a6a21992,Lithology Brewing,proprietor,211 Main St Ste A,,,Farmingdale,New York,11735-2675,United States,6316783613,http://Lithologybrewing.com,,
-b8aa5099-ab15-4299-b15d-0397e8147164,Livingood's Restaurant & Brewery,brewpub,697 Bear Swamp Rd,,,Peru,New York,12972-,United States,5184206331,http://www.livingoodsresturant.com,-73.518542,44.576563
-ab279a70-7f69-45aa-8b0f-859eba8d16f3,Local 315 Brewing Company,micro,3160 Warners Rd,,,Warners,New York,13164-,United States,315468,http://www.local315brewing.com,-76.329676,43.085441
-cc9bbfcb-303c-4f67-872f-63838aea0754,Lock 32 Brewing Company,micro,10 Schoen Pl,,,Pittsford,New York,14534-2026,United States,5855067738,http://www.lock32brew.com,-77.514256,43.09306
-2562ab61-f1f6-4fb2-bb84-896ea3eb3fbe,Long Ireland Brewing Co,micro,817 Pulaski St,,,Riverhead,New York,11901-3039,United States,6314034303,,-72.67411924,40.9199771
-b7f2343d-7a88-4085-b2a2-9f66f7806d1b,Long Lot Farm Brewery,micro,153 Johnson Rd,,,Chester,New York,10918,United States,8453372940,http://www.longlotfarmbrewery.com,,
-05c41a35-c10b-4275-8eba-ac12ab5c313a,Lost Kingdom Brewery / Firehouse Distillery,micro,7160 Main St,,,Ovid,New York,14521-9401,United States,6074034020,http://www.firehousedistillery.net,-76.82281329,42.67724221
-e36dccc0-cc0f-4b80-845f-baedb1372426,"Lucky Hare Brewing Company, Inc.",micro,6085 Beckhorn Road,,,Hector,New York,14841,United States,6075462036,http://www.luckyharebrewing.com,,
+b46f5d02-9978-4878-a02f-11f6bb679b6c,Little Lake Brewing,brewpub,5857 Big Tree Rd,,,Lakeville,New York,14480,United States,5855723005,http://www.littlelakebrewing.com,-77.701602,42.835544
+b8aa5099-ab15-4299-b15d-0397e8147164,Livingood's Restaurant & Brewery,brewpub,697 Bear Swamp Rd,,,Peru,New York,12972,United States,5184206331,http://www.livingoodsresturant.com,-73.511573,44.576087
+ab279a70-7f69-45aa-8b0f-859eba8d16f3,Local 315 Brewing Company,taproom,3160 Warners Rd,,,Warners,New York,13164,United States,315468BEER,http://www.local315brewing.com,-76.291632,43.077587
+cc9bbfcb-303c-4f67-872f-63838aea0754,Lock 32 Brewing Company,micro,10 Schoen Pl,,,Pittsford,New York,14534,United States,5855067738,http://www.lock32brew.com,-77.512866,43.09182
+4cdd89c8-420e-4fe3-a9e2-bed76ce3b0d9,Long Beach Brewing Company,alt prop,3350A Lawson Blvd,,,Oceanside,New York,11572,United States,9175973129,http://www.longbeachbrew.com,-73.652743,40.629505
+2562ab61-f1f6-4fb2-bb84-896ea3eb3fbe,Long Ireland Brewing Co,micro,817 Pulaski St,,,Riverhead,New York,11901-3039,United States,6314034303,,-72.674629,40.919608
+8925d70b-5c70-4834-b087-377fff2990c7,Long Island Farm Brewery,taproom,663 Wading River Road,,,Manorville,New York,11949,United States,6315789716,http://www.longislandfarmbrewery.com,-72.816528,40.855966
+b7f2343d-7a88-4085-b2a2-9f66f7806d1b,Long Lot Farm Brewery,taproom,153 Johnson Rd,,,Chester,New York,10918,United States,8453372940,http://www.longlotfarmbrewery.com,-74.255673,41.380151
+079027cc-6955-4996-957d-6b1269d2d710,Lost Farmer Brewing Co,taproom,63-A E 2nd Street,,,Mineola,New York,11501,United States,5165033515,http://www.lostfarmerbrewing.com,-73.631601,40.74342
+05c41a35-c10b-4275-8eba-ac12ab5c313a,Lost Kingdom Brewery / Firehouse Distillery,taproom,7160 Main St,,,Ovid,New York,14521-9401,United States,6074034020,http://www.firehousedistillery.net,-76.823083,42.677629
+e36dccc0-cc0f-4b80-845f-baedb1372426,"Lucky Hare Brewing Company, Inc.",alt prop,6085 Beckhorn Road,,,Hector,New York,14841,United States,6075462036,http://www.luckyharebrewing.com,-76.874908,42.528411
 2c1834c4-5ec7-42c2-85e6-43dad91a0a4e,Lunkenheimer Craft Brewing Co. LLC,micro,"PO Box 539 8920 N Seneca St,",,,Weedsport,New York,13166-0539,United States,3158347027,http://www.lunkenheimercraftbrewing.com,,
 f1e6162d-bdbc-41d8-af4a-a0c940ba9bed,Lyonsmith Brewing Company,micro,138 Water St,,,Penn Yan,New York,14527-1651,United States,3155365603,http://www.lyonsmithbrewing.com,-77.05463635,42.65899476
+ae8501cd-6d05-4713-a73b-06ea075f4c2c,Lyonsmith Brewing Company,taproom,2597 Assembly Ave,,,Keuka Park,New York,14478,United States,3155365603,http://www.lyonsmithbrewing.com,-77.103782,42.613404
+d13c830d-cb1c-4a63-b482-7c7a550e4780,Mac's Brew Tavern,brewpub,304 Sutherland Road,,,East Meredith,New York,13757,United States,6077466199,http://www.thepondsatnaturalgardens.com/about-macs-brew/,-74.974208,42.3453
 c48b1465-3ed7-498e-a209-d5427033e44a,Mad Jack Brewing Co / Van Dyck Restaurant & Lounge,brewpub,237 Union St,,,Schenectady,New York,12305-1405,United States,5183487999,http://www.madjackbrewing.com,-73.94466273,42.81647276
-d14e2dee-999d-4983-a9cd-5d74d35af35b,Market Street Brewing Co,brewpub,63 W Market St # 65,,,Corning,New York,14830-2526,United States,6079362337,http://www.936-beer.com,-77.0571571,42.143984
-fd44ed6d-eb54-4d4c-bcb1-5fae973395b3,Mean Max Brew Works,micro,193 Glen St # 2,,,Glens Falls,New York,12801-3539,United States,5187932337,http://www.meanmaxbrew.com,-73.64451861,43.31016635
-904ae847-cf63-468e-bba7-59c4f95df604,Middle Ages Brewing Co Ltd,micro,120 Wilkinson St Ste 3,,,Syracuse,New York,13204-2490,United States,3154764250,http://www.middleagesbrewing.com,,
+d14e2dee-999d-4983-a9cd-5d74d35af35b,Market Street Brewing Co,brewpub,63 W Market St # 65,,,Corning,New York,14830-2526,United States,6079362337,http://www.936-beer.com,-77.057128,42.144044
+fd44ed6d-eb54-4d4c-bcb1-5fae973395b3,Mean Max Brew Works,taproom,193 Glen St # 2,,,Glens Falls,New York,12801-3539,United States,5187932337,http://www.meanmaxbrew.com,-73.644487,43.310157
+65193016-cf1d-4e39-b513-8b719c731701,Meier's Creek Brewing Co.,brewpub,33 Rippleton Rd,,,Cazenovia,New York,13035,United States,6074348243,http://www.meierscreekbrewing.com,-75.866161,42.919654
+904ae847-cf63-468e-bba7-59c4f95df604,Middle Ages Brewing Co Ltd,micro,120 Wilkinson St Ste 3,,,Syracuse,New York,13204-2490,United States,3154764250,http://www.middleagesbrewing.com,-76.161352,43.050943
 18bd0fc9-899e-4da7-a920-bfd640ba9081,Midriver Brewery,planning,,,,Cold Spring,New York,10516,United States,9146611790,,,
 aba13c17-b1c4-476f-8b66-eabe4d67008d,Mikkeller Brewing NYC,brewpub,12001 Roosevelt Ave,,,Flushing,New York,11368-1653,United States,9175720357,http://mikkellernyc.com,,
 7c8d69e8-5b1c-4de1-b8ce-e4368bc2a4e2,Miles Craft Ales @ Miles Wine Cellars,contract,168 Randall Rd,,,Himrod,New York,14842-9715,United States,6072437742,http://www.mileswinecellars.com,,
-8dc2e866-7df1-4d3c-b255-7a3848f88d46,Mill House Brewing Company,brewpub,289 Mill St,,,Poughkeepsie,New York,12601-3111,United States,8452345573,http://www.millhousebrewing.com,-73.926472,41.705077
+8dc2e866-7df1-4d3c-b255-7a3848f88d46,Mill House Brewing Company,brewpub,289 Mill St,,,Poughkeepsie,New York,12601-3111,United States,8454852739,http://www.millhousebrewing.com,-73.926547,41.705301
 f7aab246-6d54-4a53-99de-d4a2a306f60e,Mill House Brewing Company - Production,micro,,,,Poughkeepsie,New York,12601,United States,8452345573,,,
-e5fbd122-91d8-46bf-8b3a-02b8cd4541ad,Montauk Brewing Co,micro,62 S Erie Ave,,,Montauk,New York,11954-5370,United States,6316688471,http://www.montaukbrewingco.com,-71.9440878,41.0366959
+c6ac85f6-8348-459e-8b03-c52485a4e56f,Minor Key Brewing,micro,106 Moore Rd,,,East Greenbush,New York,12061,United States,7863034168,http://www.minorkeybrewing.com,-73.660129,42.610377
+a0de8872-32ab-498d-89b2-95495734b615,Mixed Breed Brewing,taproom,457 State Route 146,,,Guilderland Center,New York,12085,United States,8457846436,http://www.mixedbreedbrewing.com,-73.9666,42.7019
+e5fbd122-91d8-46bf-8b3a-02b8cd4541ad,Montauk Brewing Co,regional,62 S Erie Ave,,,Montauk,New York,11954-5370,United States,6318139967,http://www.montaukbrewingco.com,-71.944036,41.036641
 6b1fba4c-e5ae-4ffa-80d0-a4a2d0079ec8,Moriches Field Brewing Company,planning,,,,Center Moriches,New York,11934-2600,United States,6314495310,,,
+1aa15ad3-a2d0-422e-9640-4d0ff8ea72d8,Moriches Field Brewing Company,taproom,1 Wilcox Ave,,,Center Moriches,New York,11934,United States,6319094404,http://www.morichesfieldbrewing.com/,-72.808606,40.801114
+515074af-0981-418f-af91-ebb83fad273e,Mortalis Brewing Company,taproom,5660 Tec Dr,,,Avon,New York,14414,United States,5854384200,http://placeholder,-77.702522,42.912587
+22bd92ff-d76d-49f3-aa42-b7ade3437c3e,Motion Craft Brewed,taproom,1036B Park Blvd,,,Massapequa Park,New York,11762,United States,5166549555,,-73.455872,40.679749
 f7302824-3eb3-428b-bb02-4109d635110e,Moustache Brewing Co,micro,400 Hallett Ave Ste A,,,Riverhead,New York,11901-3076,United States,6315913250,http://www.moustachebrewing.com,,
-23446263-7940-42b3-a488-271188b02d0c,Naked Dove Brewing Company,micro,4048 State Route 5 and 20,,,Canandaigua,New York,14424-9591,United States,5853962537,http://www.nakeddovebrewing.com,,
+e77ecdbe-a97e-407c-981d-61b3680238e6,Muddy River Farm Brewery,taproom,15544 County Hwy 23,,,Unadilla,New York,13849,United States,6072878770,,-75.341132,42.313202
+23446263-7940-42b3-a488-271188b02d0c,Naked Dove Brewing Company,micro,4048 State Route 5 and 20,,,Canandaigua,New York,14424-9591,United States,5853962537,http://www.nakeddovebrewing.com,-77.225141,42.867018
+bf4a32b3-e167-421e-b1ff-ed27a8d0056e,Naples Brewing Company,taproom,104 N Main St,,,Naples,New York,14512,United States,,http://www.naplesbrewco.com,-77.402635,42.615456
+a72b33c7-a489-4014-a471-7694c067a9f9,Necromantic Brew Co,taproom,253 Main St.,,,Farmingdale,New York,11735,United States,5165893651,http://www.necromanticbrewco.com,-73.445643,40.733227
 60ad3907-0555-4573-8d41-a669adfbc777,New Paltz Brewing Company,micro,7174 Route 209,,,Wawarsing,New York,12489,United States,8454193040,http://www.pfalzerbrau.com,,
-1e59404f-441b-44b8-83d8-7ab28fb49828,New York Beer Project,brewpub,6933 S Transit Rd,,,Lockport,New York,14094-6330,United States,7167436927,http://www.nybeerproject.com,-78.69614336,43.0897514
-2c946155-4263-420c-8b11-eca20cdf51ff,Newburgh Brewing Company,micro,88 S Colden St,,,Newburgh,New York,12550-5640,United States,8455692337,http://www.newburghbrewing.com,-74.00811699,41.49659119
+1e59404f-441b-44b8-83d8-7ab28fb49828,New York Beer Project,brewpub,6933 S Transit Rd,,,Lockport,New York,14094-6330,United States,7167436927,http://www.nybeerproject.com,-78.695671,43.089539
+8ea937e9-61ab-48ab-ba6f-c9bb31f0775a,New York Beer Project,brewpub,300 HIGH ST,,,Victor,New York,14564,United States,,,-77.436571,43.024894
+2c946155-4263-420c-8b11-eca20cdf51ff,Newburgh Brewing Company,micro,88 S Colden St,,,Newburgh,New York,12550-5640,United States,8455692337,http://www.newburghbrewing.com,-74.007931,41.49721
 62dc4ca3-d24f-4ee5-bf94-f5517066bc30,Next Chapter Brewpub,planning,,,,Auburn,New York,13021-4620,United States,,http://www.nextchapterbrewpub.com,,
-9b678eac-c1d5-4ff7-beb9-60534f2346a7,Nine Maidens Brewing Company,micro,1344 University Ave,Suite 140,,Rochester,New York,14607,United States,5854343030,https://ninemaidensbrewing.com,-77.56625665,43.15104753
+97f18ad3-a555-4890-93e3-c6e8e5ba6dd1,Next Chapter Brewpub,brewpub,100 Genesee St Ste B,,,Auburn,New York,13021-4620,United States,3152712739,http://www.nextchapterbrewpub.com,-76.566454,42.931069
+9b678eac-c1d5-4ff7-beb9-60534f2346a7,Nine Maidens Brewing Company,taproom,1344 University Ave,,,Rochester,New York,14607,United States,6075915701,http://www.NineMaidensBrewing.com,-77.565318,43.150434
+54ad0d0e-3de7-409b-aff6-2e640b820226,Nine Spot Brewing,micro,190 Monroe Ave,,,Rochester,New York,14607-3530,United States,5855068093,http://www.ninespotbrewing.com,-77.600314,43.150649
+db23dfd9-542a-48a7-b9f3-1d630d5c45e4,No BS Brew Company,taproom,3474 Bronson Hill Rd.,,,Livonia,New York,14487,United States,5856891833,http://bsbrewcompany.com,-77.691785,42.833764
+0bf6af75-5f70-4ac8-8a0f-a9b09ff43fd3,Noble Savage Brewing Company,taproom,27 Glen Street,,,Glen Cove,New York,11542,United States,5169539175,http://www.noblesavagebrews.com,-73.630436,40.864206
 8ffc4efe-c037-4619-bbd5-6892acf73bc5,Noble Shepherd Craft Brewery,micro,7853 State Route 20a,,,Bloomfield,New York,14469-9659,United States,5852297661,http://www.nobleshepherdbrewery.com,,
+edb9220d-687c-4242-843e-4b3ad5c96da6,Non Sequitur Beer Project,taproom,8 Wilson Ave,,,Brooklyn,New York,11206,United States,,http://www.nonsequiturbeer.com,-73.930938,40.703503
 e8c22d10-8479-4770-917a-7d9788a8e515,North American Breweries,regional,445 Saint Paul St,,,Rochester,New York,14605-1726,United States,5855461030,,-77.6143245,43.16481717
-8de15b68-c090-4116-9d26-e09a2c845c52,North Brewery,micro,110 Washington Ave,,,Endicott,New York,13760-5307,United States,6077850524,http://www.northbrewery.com,-76.04827802,42.102192
+8de15b68-c090-4116-9d26-e09a2c845c52,North Brewery,taproom,110 Washington Ave,,,Endicott,New York,13760-5307,United States,6077850524,http://www.northbrewery.com,-76.048482,42.102019
 bae199e6-4672-41d7-9c0c-c3ecc42033da,North Fork Brewing Company,planning,,,,Riverhead,New York,11901-4615,United States,,,,
+1e4eb9f2-935c-4ca1-aea0-7932999c764d,North Fork Brewing Company,taproom,24 E 2nd St,,,Riverhead,New York,11901-4729,United States,6315911191,http://www.northforkbrewingco.com,-72.662093,40.919075
 d704deed-0ee2-43be-a3df-68c9c104e83c,North River Hops And Brewing,micro,1571 Route 9,,,Wappingers Falls,New York,12590-2827,United States,8452972190,http://www.northriverbrews.com,,
 6873097b-bd2b-464f-84c1-3f88e07c63d1,Northern Harvest Brewing Company,planning,,,,Moriah,New York,12960-2306,United States,5184682337,http://www.northernharvest.beer,,
-08eed67d-4ce8-4871-8b2d-5fb77a2543f7,Old Klaverack Brewery,micro,150 Thielman Rd,,,Hudson,New York,12534-3716,United States,5189651437,http://www.oldklaverackbrewery.com,,
+c191b479-0eea-4175-a090-be411470abf0,Obercreek Brewing Company,taproom,59 Marlorville Rd,,,Wappingers Falls,New York,12590,United States,8456321078,http://www.obercreekbrewing.com,-73.932121,41.58787
+4f261a8e-23a4-486d-9088-d21a3f1635c8,Obscure Oscillation Brewing Company,micro,19 Lown Ct,,,Poughkeepsie,New York,12603,United States,,,-73.915747,41.693331
+c0edb8ff-a70e-4095-8ffc-f4e09b2df010,Okay Beer Company,brewpub,126 W Main St,,,Honeoye Falls,New York,14472-1104,United States,,,-77.601138,42.948665
+3432d4d9-ecfa-471b-b7cc-bdc07ff7e74b,Old Factory Brewing Company,brewpub,628 Main St,,,Cairo,New York,12413,United States,5186620171,http://www.oldfactorybrewing.com,-74.005287,42.302701
+08eed67d-4ce8-4871-8b2d-5fb77a2543f7,Old Klaverack Brewery,taproom,150 Thielman Rd,,,Hudson,New York,12534-3716,United States,5189651437,http://www.oldklaverackbrewery.com,-73.683726,42.222298
+1c52a014-46df-4d15-b3c5-594e4d637e36,Old Tappan Brewing Company,taproom,37 Ludlam Ave,,,Bayville,New York,11709,United States,5168020174,http://www.oldtappanbrewingcompany.com,-73.549104,40.905571
+742de25a-405f-4305-a073-34be22cbd896,ONCO Fermentations,taproom,397 NY-281 Suite O,,,Tully,New York,13159,United States,3158104123,http://www.oncoferment.com,-76.121187,42.790634
+8e773494-3fcb-405c-9010-07f1751ee46b,Other Half Brewing,taproom,6621 State Rte 5 & 20,,,Bloomfield,New York,14469,United States,,,-77.392409,42.882425
 ab943f7d-ad10-4f0b-8292-3f4c18e46ff9,Other Half Brewing Company,micro,195 Centre St,,,Brooklyn,New York,11231-3907,United States,,,-73.9991264,40.6737903
-27605647-6c13-43a9-94aa-ed38ce1994f9,OVAL Craft Brewing,micro,111 Ohio Rd,,,Plattsburgh,New York,12903-4403,United States,5183242739,http://www.ovalcraftbrewing.com,,
+7f5729c1-db32-4186-a1d7-888a17f45f7f,Other Half Brewing Company,taproom,191 Centre St,,,Brooklyn,New York,11231-3907,United States,9177656107,http://www.otherhalfbrewing.com,-73.999162,40.673909
+1b48792c-13e1-4d55-9e8b-067dccf644b7,Other Half Brewing Company - Domino Park,taproom,34 River St,,,Brooklyn,New York,11249,United States,,http://www.otherhalfbrewing.com/location/domino-park,-73.966052,40.71671
+89b350ea-10c8-40b8-b16b-48a874565f77,Other One Brewing Company,taproom,1505 Route 9,,,Clifton Park,New York,12065,United States,5188075512,http://www.otheronebrewingco.com,-73.74296,42.838969
+27605647-6c13-43a9-94aa-ed38ce1994f9,OVAL Craft Brewing,taproom,111 Ohio Rd,,,Plattsburgh,New York,12903-4403,United States,5183242739,http://www.ovalcraftbrewing.com,-73.447574,44.683098
+70777c05-c464-4bc0-92ed-d7dbb69041e1,Owasco Lake Brewing,micro,3241 Rockefeller Rd,,,Moravia,New York,13118,United States,,,-76.459107,42.774852
 7ea048a2-85e4-4443-b543-a62f1fe07ce9,Owls Rest Brewery,planning,,,,Malone,New York,12953-1517,United States,,,,
-5f30ddff-dac4-472b-adb1-82f390c5f505,Oyster Bay Brewing,micro,36 Audrey Ave,,,Oyster Bay,New York,11771-1548,United States,5168025546,http://www.oysterbaybrewing.com,-73.53140323,40.87304967
+5f30ddff-dac4-472b-adb1-82f390c5f505,Oyster Bay Brewing,micro,36 Audrey Ave,,,Oyster Bay,New York,11771-1548,United States,5168025546,http://www.oysterbaybrewing.com,-73.531352,40.873238
 c7c2ba11-d41c-48a4-a5c5-fbd6977fe0c9,Pantomime Mixtures,planning,,,,Hector,New York,14841-9629,United States,6319442668,http://www.pantomimemxitures.com,,
+2c2eba4e-9c42-4962-a1c0-97507d00056f,Pantomime Mixtures,taproom,3839 Ball Diamond Rd,,,Hector,New York,14841-9629,United States,6319442668,http://www.pantomimemxitures.com,-76.856321,42.513291
 88ae082b-ea43-4367-90e5-bba2aa64f7ea,Paradox Brewery,micro,154 State Route 9,,,Schroon Lake,New York,12870,United States,5183515036,http://www.paradoxbrewery.com,,
+629683be-a0ad-48c6-b1ab-d36c4337482d,Paradox Brewery,office only location,2781 US Route 9,,,North Hudson,New York,12855-2307,United States,5183515036,http://www.paradoxbrewery.com,-73.732503,43.944179
 5b34875f-fccf-447f-a85e-f363efe9e2d0,Paradox Brewery / Gateway To the Adirondacks,planning,,,,Schroon Lake,New York,12870,United States,,,,
+143cf210-f25d-427b-81f8-6b48c74c40bb,Paradox Brewery / Gateway To the Adirondacks,taproom,2781 US RT 9,,,North Hudson,New York,12855,United States,5183515036,http://www.paradoxbrewery.com,-73.732503,43.944179
 1c0f1498-1b85-4472-946d-eae8385c6118,Peacemaker Brewing Company,micro,20 Pleasant St,,,Canandaigua,New York,14424-2047,United States,5853963561,http://www.peacemakerbrewing.com,-77.27866055,42.88851165
-a4ce36e6-21d4-41c4-9af4-0da93bb98581,Pearl Street Grill and Brewery,brewpub,76 Pearl St,,,Buffalo,New York,14202-4106,United States,7168562337,http://www.pearlstreetgrill.com,-78.87722544,42.88105759
-c74aeb35-eca1-49ba-bc2a-cdda2c11b4a0,Peekskill Brewing Co,brewpub,47 S Water St # 53,,,Peekskill,New York,10566-2035,United States,9147342337,http://www.peekskillbrewery.com,-73.9292934,41.2867311
-d5a19834-aad1-4e8f-a0f8-650595f717ab,Perfect World Brewing Co,micro,1276 Broadway,,,Albany,New York,12204-2623,United States,,http://www.facebook.com/PerfectWorldBrewing/,,
+4b90dd91-db9c-421a-9119-8a5f55d94cf1,Peacemaker Brewing Company,brewpub,39 Coach Street,,,Canandaigua,New York,14424,United States,5853963561,http://www.peacemakerbrewing.com,-77.281442,42.884842
+a4ce36e6-21d4-41c4-9af4-0da93bb98581,Pearl Street Grill and Brewery,brewpub,76 Pearl St,,,Buffalo,New York,14202-4106,United States,7168562337,http://www.pearlstreetgrill.com,-78.877256,42.881066
+ed70839b-72ff-4f77-b8bb-71a7aee4084d,Peconic County Brewing,brewpub,221 East Main St,,,Riverhead,New York,11901,United States,6317409797,http://www.peconiccountybrewing.com,-72.658613,40.917395
+c74aeb35-eca1-49ba-bc2a-cdda2c11b4a0,Peekskill Brewing Co,brewpub,47 S Water St # 53,,,Peekskill,New York,10566-2035,United States,9147342337,http://www.peekskillbrewery.com,-73.929002,41.286904
+d5a19834-aad1-4e8f-a0f8-650595f717ab,Perfect World Brewing Co,micro,1276 Broadway,,,Albany,New York,12204-2623,United States,,http://www.facebook.com/PerfectWorldBrewing/,-73.736737,42.674949
 c94c18cf-8bb3-46d7-9703-1d72bb920feb,Pine Island Brewing,micro,682 County Route 1 Ste B,,,Pine Island,New York,10969-1715,United States,8452882646,http://www.pineislandbeer.com,,
-1be396ef-bd51-4cbd-985c-4618decd6732,Plan Bee Farm Brewery,micro,115 Underhill Rd,,,Poughkeepsie,New York,12603-1045,United States,7653078589,http://www.planbeefarmbrewery.com,-73.88591274,41.71721405
-bd03f69a-609b-4909-b616-2d1c4e3253ca,Plattsburgh Brewing Co,brewpub,411 Route 3,,,Plattsburgh,New York,12901-6520,United States,5183246680,http://www.plattsburghbrewingco.com,,
-ed20ba54-aead-449e-8a1f-1f3dc9a6a787,Po'Boy Brewing,micro,200 Wilson St Unit E3,,,Port Jefferson Station,New York,11776-1145,United States,6318281131,http://www.poboybrewery.com,,
-ab2fd436-f359-4068-a961-df786f966314,Port Jeff Brewing Co,micro,22 Mill Creek Rd,,,Port Jefferson,New York,11777-1663,United States,8774752739,http://www.portjeffbrewing.com,-73.06772855,40.94140421
-2d046236-3fe0-49ec-be63-c59777f23f7c,Pressure Drop Brewing,micro,65 Vandalia St,,,Buffalo,New York,14204-2739,United States,7168489942,http://www.barrelfactory.com,-78.86103739,42.86640421
-596f4926-ba58-48f6-92bf-b773df67aac2,Prison City Brewing,brewpub,28 State St,,,Auburn,New York,13021-3625,United States,9177272477,http://www.prisoncitybrewing.com,-76.5682427,42.9317672
+1be396ef-bd51-4cbd-985c-4618decd6732,Plan Bee Farm Brewery,taproom,115 Underhill Rd,,,Poughkeepsie,New York,12603-1045,United States,7653078589,http://www.planbeefarmbrewery.com,-73.88565,41.718729
+bd03f69a-609b-4909-b616-2d1c4e3253ca,Plattsburgh Brewing Co,brewpub,411 Route 3,,,Plattsburgh,New York,12901-6520,United States,5183246680,http://www.plattsburghbrewingco.com,-73.48919,44.696555
+ed20ba54-aead-449e-8a1f-1f3dc9a6a787,Po'Boy Brewery,taproom,200 Wilson St Unit E3,,,Port Jefferson Station,New York,11776-1145,United States,6318281131,http://www.poboybrewery.com,-73.056999,40.93303
+a4f41713-1bcd-42e3-b847-e77bee944ba7,Pod City Beer Labs,brewpub,125 Main Street,,,Buffalo,New York,14203,United States,,http://www.podcitybeerlabs.com,-78.876783,42.877693
+ab2fd436-f359-4068-a961-df786f966314,Port Jeff Brewing Co,micro,22 Mill Creek Rd,,,Port Jefferson,New York,11777-1663,United States,8774752739,http://www.portjeffbrewing.com,-73.069615,40.945737
+2d046236-3fe0-49ec-be63-c59777f23f7c,Pressure Drop Brewing,micro,1672 Elmwood Ave,,,Buffalo,New York,14207,United States,7168489942,http://www.barrelfactory.com,-78.87883,42.942359
+84cabfb2-45b7-4742-bd4a-0877fb764b17,Pressure Drop Brewing,micro,1672 Elmwood Ave,,,Buffalo,New York,14207,United States,7168489942,http://www.barrelfactory.com,-78.87883,42.942359
+596f4926-ba58-48f6-92bf-b773df67aac2,Prison City Brewing,brewpub,28 State St,,,Auburn,New York,13021-3625,United States,3156040763,http://www.prisoncitybrewing.com,-76.568242,42.931815
+c2bf9965-ed15-46e3-be27-b31e15855425,Prosper Brewing,brewpub,72 Webster St,,,North Tonawanda,New York,14120,United States,7165251582,http://www.prosperbrewingllc.com,-78.87789,43.023833
 50b1e05a-9230-43af-8fba-f04386753196,Pull Brewing Co,contract,317 Springtown Rd,,,New Paltz,New York,12561-3020,United States,,http://www.pullbrewing.com,-74.097562,41.760486
-f0112fde-2dd4-4ab0-99cb-5266c55628b6,Queens Brewery,proprietor,1539 Covert St,,,Ridgewood,New York,11385-5356,United States,6462652049,http://www.queensbrewery.com,-73.90428508,40.6949116
-9b9418e4-8a71-4e97-9403-2b787aace83a,R.S. Taylor & Sons Brewery,brewpub,3602 County Route 30,,,Salem,New York,12865-4702,United States,5182090474,http://www.rstaylorbrewing.com,-73.360912,43.175335
-911ff443-97e8-4769-80d9-b7efe3b7a9a0,Racing City Brewing Company,micro,250 Excelsior Ave,,,Saratoga Springs,New York,12866-8532,United States,5183504515,http://www.racingcitybrewingcompany.com,-73.7769944,43.0888891
+f0112fde-2dd4-4ab0-99cb-5266c55628b6,Queens Brewery,alt prop,1539 Covert St,,,Ridgewood,New York,11385-5356,United States,6462652049,http://www.queensbrewery.com,-73.904333,40.695004
+911ff443-97e8-4769-80d9-b7efe3b7a9a0,Racing City Brewing Company,micro,250 Excelsior Ave,,,Saratoga Springs,New York,12866-8532,United States,5183504515,http://www.racingcitybrewingcompany.com,-73.757402,43.093301
 8d1600f2-6526-4bdb-8992-bb0fdb286005,Radiant Pig Craft Beers,contract,122 W 27th St Fl 10,,,New York,New York,10001-6227,United States,,,,
-03701616-c339-41c3-ac31-9ba74e82745e,Railhead Brewing Company,brewpub,40 Park Dr,,,Hornell,New York,14843-2213,United States,6073243286,http://www.railheadbrewing.com,,
-644312ac-6c8f-4cbb-b712-03f54f1223c3,Randolph Beer Dumbo,brewpub,77 Sands St,,,Brooklyn,New York,11201-1431,United States,7182983331,http://www.randolphbeer.com,-73.987503,40.70005509
-7ceade71-eaf6-412e-9dcb-11ef623dc26d,Raquette River Brewing,micro,11 Balsam St # 2,,,Tupper Lake,New York,12986-1033,United States,5183595219,http://www.raquetteriverbrewing.com,-74.48652145,44.24347376
-a9b86c63-e7f6-42c6-b2a4-5e508b93da49,Rare Form Brewing,micro,90 Congress St,,,Troy,New York,12180-4123,United States,5183264303,http://www.rareformbrewing.com,-73.6899808,42.7286018
-35abe7a1-e899-427e-9aef-57ac4438a30b,Real McCoy Beer Co.,micro,20 Hallwood Rd Unit C,,,Delmar,New York,12054-1925,United States,5186989082,http://www.therealmccoybeerco.com,,
-df013da2-85d9-44ad-a6ae-1ba6273caa65,Red Hawk Brewing,micro,4504 Bussey Rd,,,Syracuse,New York,13215-8783,United States,3154915158,http://www.redhawkbrewing.com,,
+03701616-c339-41c3-ac31-9ba74e82745e,Railhead Brewing Company,brewpub,40 Park Dr,,,Hornell,New York,14843-2213,United States,6073243286,http://www.railheadbrewing.com,-77.65488,42.315995
+644312ac-6c8f-4cbb-b712-03f54f1223c3,Randolph Beer,brewpub,77 Sands St,,,Brooklyn,New York,11201-1431,United States,3472803071,http://www.randolphbeer.com,-73.987477,40.70034
+579ec7c3-8c36-44e9-94b0-416005bfd86c,Randolph Beer,brewpub,104 South 4th St,,,Brooklyn,New York,11249,United States,,,-73.963967,40.712108
+7ceade71-eaf6-412e-9dcb-11ef623dc26d,Raquette River Brewing,taproom,11 Balsam St # 2,,,Tupper Lake,New York,12986-1033,United States,5183595219,http://www.raquetteriverbrewing.com,-74.486899,44.243121
+a9b86c63-e7f6-42c6-b2a4-5e508b93da49,Rare Form Brewing Company,taproom,90 Congress St,,,Troy,New York,12180-4123,United States,5183264303,http://www.rareformbrewing.com,-73.689936,42.72855
+46222efa-898f-48e9-89d1-83f761980e5c,Ray Brook Brewhouse,brewpub,1153 NY-86,,,Ray Brook,New York,12977,United States,5183548044,http://www.raybrookbrewhouse.com,-74.076188,44.298953
+35abe7a1-e899-427e-9aef-57ac4438a30b,Real McCoy Beer Co.,taproom,20 Hallwood Rd Unit C,,,Delmar,New York,12054-1925,United States,5186989082,http://www.therealmccoybeerco.com,-73.831827,42.623475
+df013da2-85d9-44ad-a6ae-1ba6273caa65,Red Hawk Brewing,brewpub,4504 Bussey Rd,,,Syracuse,New York,13215-8783,United States,3154915158,http://www.redhawkbrewing.com,-76.2325,42.988581
 491bbd2f-da16-42f3-a4a3-b422d5b324b6,Red Shed Brewing Company,micro,817 Butter Bowl Rd,,,Cherry Valley,New York,13320-3106,United States,6077316454,http://www.redshedbrewing.com,,
+c0edf643-7929-46c2-a426-500f01bc2e95,Reifenberg Brewing,taproom,3021 Main St,,,Valatie,New York,12184-7700,United States,5186108447,http://Reifenbergbrewing.com,-73.67703,42.413504
 1a7a4909-e241-43d6-bba6-8631d36a9c78,Reinvention Brewing Co.,micro,9 N Main St PO Box 57,,,Manchester,New York,14504-9713,United States,5852897309,http://www.reinventionbrewing.com,,
+a1030b97-7384-405b-aa84-ae1e082d4354,Relative Risk Brewing Company,taproom,1166 Earls Hill Rd STE B,,,Penn Yan,New York,14527,United States,9085287175,,-76.986977,42.757673
 8446b88b-3980-4633-8e9f-7696a1c6ac49,Resurgence Brewing Company,brewpub,1250 Niagara St,,,Buffalo,New York,14213-1502,United States,7163819868,http://www.resurgencebrewing.com,-78.89959956,42.91822725
-ce15d565-16a3-4292-a00f-5285788158ea,RG Brewery / Five Sons Winery,micro,1360 W Sweden Rd,,,Brockport,New York,14420-,United States,5853913569,http://www.rgbrewery.com,,
+81b6fcb8-7af9-4edc-bafa-fc6637f55f3c,Return Brewing,micro,726 Columbia St,,,Hudson,New York,12534,United States,,http://www.returnbrewing.com,-73.781478,42.247923
+ce15d565-16a3-4292-a00f-5285788158ea,RG Brewery / Five Sons Winery,brewpub,1360 W Sweden Rd,,,Brockport,New York,14420,United States,5853913569,http://www.rgbrewery.com,-77.985283,43.150902
 7bbdd581-c041-4afd-8819-8ae19b1afc97,Rip Van Winkle Brewing Co.,brewpub,4545 Route 32,,,Catskill,New York,12414-6623,United States,5186789275,http://www.ripvanwinklebrewingco.com,,
-66573e06-6aee-4f97-898b-8e51d75da152,Roc Brewing Co,brewpub,56 S Union St,,,Rochester,New York,14607-1839,United States,5857949798,http://www.rocbrewingco.com,-77.59793317,43.15337067
+b7f2f7cf-178a-4fe5-8b69-977d2ce92fed,Rip Van Winkle Brewing Company,brewpub,4545 NY Route 32,,,Catskill,New York,12414,United States,5186789275,http://www.ripvanwinklebrewery.com,-73.986677,42.18535
+1a39120f-0170-4429-877d-990efbd58ad1,Rising Storm Brewing Company,taproom,5750 S Lima Rd Unit 1,,,Avon,New York,14414,United States,5855723009,http://www.risingstormbrewing.com,-77.706178,42.854289
+58fcc35e-a5d6-404e-999c-516782165368,River Outpost Brewing,brewpub,5 John Walsh Blvd,,,Peekskill,New York,10566,United States,,http://www.riveroutpostbrewing.com,-73.943199,41.27543
+6b4b5ad2-5850-47ac-8d2f-414375c0f9f6,Roaring 20s Brewery & Taphouse,taproom,565 US 20,,,New Lebanon,New York,12125,United States,5188809900,http://www.roaring20sbrewery.com,-73.39492,42.464615
+66573e06-6aee-4f97-898b-8e51d75da152,Roc Brewing Co,brewpub,56 S Union St,,,Rochester,New York,14607-1839,United States,5857949798,http://www.rocbrewingco.com,-77.597341,43.153299
 82e2e95c-e46d-4f70-a656-deb90413d906,Rockaway Brewing Company,planning,,,,Arverne,New York,11692-1044,United States,7184826528,http://www.rockawaybrewco.com,,
-fefaf311-800c-46e3-b48e-d27b73ff4151,Rockaway Brewing Company,micro,4601 5th St,,,Long Island City,New York,11101-5369,United States,7184826528,http://www.rockawaybrewco.com,-73.9573397,40.7404088
+fefaf311-800c-46e3-b48e-d27b73ff4151,Rockaway Brewing Company,micro,4601 5th St,,,Long Island City,New York,11101-5369,United States,7184826528,http://www.rockawaybrewco.com,-73.954802,40.747059
 ba7654e4-beda-472c-a033-d223edae00bc,Rocky Point Artisan Ales,micro,,,,Rocky Point,New York,11778,United States,6318482261,http://www.rockypointartisanbeer.com,,
+3ad6a9ca-ca62-4647-b1f9-0d598fd3dbbd,Roe Jan Brewing Company,taproom,32 Anthony St,,,Hillsdale,New York,12529,United States,9144887273,,-73.525834,42.177552
 776ca50f-749a-46e2-b914-59c709aec1a6,Rogers Beer,contract,23 Woodline Dr,,,Penfield,New York,14526-2413,United States,5852980483,http://www.rogersbeer.com,-77.46723818,43.12868768
-6b09ca79-b303-440a-a5d6-23e51bd5ebce,Rohrbach Brewing Company,brewpub,97 Railroad St,,,Rochester,New York,14609-6039,United States,5855468020,http://www.rohrbachs.com,-77.586694,43.163275
-4c259862-b595-4d64-8d95-aa54eb3a7387,Rohrbach's Railroad St Brewery,micro,97 Railroad St,,,Rochester,New York,14609-6039,United States,5855468020,http://www.rohrbachs.com,-77.586694,43.163275
-c6a1d03d-59bd-4f88-be57-d2704d4de2c7,Roosterfish Brewing Co.,brewpub,301 N Franklin St,,,Watkins Glen,New York,14891-1202,United States,6075359797,http://www.roosterfishbrewing.com,-76.87362,42.38063
-b7989d83-fd97-425e-9191-1695321239c8,Roots Brewing Company,brewpub,175 Main St,,,Oneonta,New York,13820-2501,United States,6074332925,http://www.rootsbrewingcompany.com,-75.0630461,42.45318
-1bb69d7e-fb45-44bd-8ac7-709c4117b765,Roscoe Brewing Company,micro,145 Rockland Rd,,,Roscoe,New York,12776-6418,United States,6072905002,http://www.roscoebeercompany.com,,
+6b09ca79-b303-440a-a5d6-23e51bd5ebce,Rohrbach Brewing Company,brewpub,3859 Buffalo Rd,,,Rochester,New York,14624-1103,United States,5853295680,http://www.rohrbachs.com,-77.761819,43.136249
+3c2a7148-3660-4f7f-b3d1-4f10ce4704fd,Rohrbach Brewing Company,brewpub,3859 Buffalo Rd,,,Rochester,New York,14624-1103,United States,5853295680,http://www.rohrbachs.com,-77.761819,43.136249
+4c259862-b595-4d64-8d95-aa54eb3a7387,Rohrbach's Railroad St Brewery,micro,97 Railroad St,,,Rochester,New York,14609-6039,United States,5855468020,http://www.rohrbachs.com,-77.587042,43.163201
+c6a1d03d-59bd-4f88-be57-d2704d4de2c7,Rooster Fish Brewing Co.,brewpub,301 N Franklin St,,,Watkins Glen,New York,14891-1202,United States,6075359797,http://www.roosterfishbrewing.com,-76.874213,42.381069
+d30f9f71-5bb0-4862-8837-1262dcca06fe,Root + Branch Brewing,taproom,360 Marconi Boulevard,,,Copiague,New York,11726,United States,,http://www.rootandbranchbrewing.com,-73.402683,40.681223
+b7989d83-fd97-425e-9191-1695321239c8,Roots Brewing Company,brewpub,175 Main St,,,Oneonta,New York,13820-2501,United States,6074332925,http://www.rootsbrewingcompany.com,-75.062608,42.453774
+1bb69d7e-fb45-44bd-8ac7-709c4117b765,Roscoe Brewing Company,brewpub,145 Rockland Rd,,,Roscoe,New York,12776-6418,United States,6072905002,http://www.roscoebeercompany.com,-74.912868,41.946179
+2f0aae06-bde1-440d-a983-5e551441a695,Rough Cut Brewing Company,brewpub,5945 Route 44,,,Kerhonkson,New York,12446,United States,8456269838,http://www.roughcutbrewing.com,-74.3042,41.7959
 689f6739-8faa-4c9f-977e-52220e4404db,Route 6 Tap House/ Putnam Brewery,brewpub,728 US-6,,,Mahopac,New York,10541,United States,8456287302,http://www.facebook.com/Putnam-Brewery-165364887155377/,-73.72642406,41.37750571
+9b9418e4-8a71-4e97-9403-2b787aace83a,RS Taylor and Sons Brewery,taproom,3602 County Route 30,,,Salem,New York,12865,United States,5183666636,http://www.rstaylorbeer.com,-73.375929,43.259418
+5a9d0401-d992-403a-9f19-af5d65440dd1,Rubsam and Horrmann Brewing Company,alt prop,73 Wave St,,,Staten Island,New York,10304,United States,6236405371,,-74.077217,40.629855
 4cc38bef-f05b-42ce-8323-ca7458415621,Ruckus Brewing Co,contract,261 W 35th St Ste 1002,,,New York,New York,10001-1902,United States,6467105098,http://www.ruckusbrewing.com,,
-1fd1cefa-9157-4071-8345-bad0be6d4a5a,Rushing Duck Brewing Co,micro,1 Battiato Ln,,,Chester,New York,10918-1283,United States,8456105440,http://www.rushingduck.com,-74.270801,41.362221
-5b104c23-134e-46d5-9777-e59c98ab83d3,Rusty Nickel Brewing Co.,brewpub,4350 Seneca St,,,Buffalo,New York,14224-3169,United States,7166086155,http://www.rustynickelbrewing.com,-78.851031,42.876243
-c63a3d08-74de-48c4-a413-4105bec41837,S & S Farm Brewery,micro,174 Middle Rd,,,Nassau,New York,12123,United States,5183360766,http://www.sandsbrewery.com,-73.57263982,42.49050535
+1fd1cefa-9157-4071-8345-bad0be6d4a5a,Rushing Duck Brewing Co,micro,2 Greycourt Ave,,,Chester,New York,10918-1283,United States,8456105440,http://www.rushingduck.com,-74.269304,41.361842
+65b89427-330f-482b-aeca-6642ad76a3f9,Rushing Duck Brewing Co,micro,2 Greycourt Ave,,,Chester,New York,10918-1283,United States,8456105440,http://www.rushingduck.com,-74.269304,41.361842
+811d67ba-79fd-476d-96e5-fca73c7c8e55,Russian Mule Brewery,brewpub,1465 Denning Road,,,Claryville,New York,12725,United States,8459850247,http://www.russianmulebrewery.com,-74.558073,41.924375
+5b104c23-134e-46d5-9777-e59c98ab83d3,Rusty Nickel Brewing Co.,brewpub,4350 Seneca St,,,Buffalo,New York,14224-3169,United States,7166086155,http://www.rustynickelbrewing.com,-78.741782,42.832573
+c63a3d08-74de-48c4-a413-4105bec41837,S & S Farm Brewery,taproom,174 Middle Rd,,,Nassau,New York,12123,United States,5183360766,http://www.sandsbrewery.com,-73.572829,42.490214
 c209ebea-b190-4b09-8ea5-ebc422eb1e10,Sackets Harbor Brewing Co,brewpub,212 W Main St,,,Sackets Harbor,New York,13685-3183,United States,3156462739,http://www.sacketsharborbrewpub.com,-76.12164821,43.94796085
 2d16cfa0-c07b-4f6b-927f-597833014c26,Sager Beer Works,planning,,,,Rochester,New York,14607-1669,United States,5857520613,http://www.sagerbeerworks.com,,
 2cb6340e-0e01-4f87-8456-dbbefdbf158f,Sahm Brewing Company,micro,203 S Salina St,,,Syracuse,New York,13202,United States,3158777246,http://www.facebook.com/SahmBrewCo/,-76.15209318,43.04945059
-323e6f9e-6e29-4e97-bb59-474d701e48bf,Saint James Brewery,micro,929 Lincoln Ave Ste 11,,,Holbrook,New York,11741-2256,United States,6217073192,http://www.saintjamesbrewery.com,,
+323e6f9e-6e29-4e97-bb59-474d701e48bf,Saint James Brewery,micro,929-11 Lincoln Avenue,,,Holbrook,New York,11741-2256,United States,,http://www.saintjamesbrewery.com,-73.083254,40.773749
+4ad4ab35-76d6-44de-8f06-16c664f9b402,Saint James Brewery,micro,929-11 Lincoln Avenue,,,Holbrook,New York,11741-2256,United States,,http://www.saintjamesbrewery.com,-73.083254,40.773749
 73a9fd49-5bbb-421b-b62e-221eed613881,"SakeBrooklyn Brewing Co., LLC",planning,,,,Brooklyn,New York,11237-5263,United States,9294007253,http://www.sakebrooklyn.com,,
-eaa42613-3192-4867-805e-7e578994c526,"Salt Point Brewing Co, LLC",brewpub,2075 East Shore Dr,,,Lansing,New York,14882,United States,6075330124,,-76.50592053,42.53689005
+eaa42613-3192-4867-805e-7e578994c526,"Salt Point Brewing Co, LLC",brewpub,6 Louise Bement Ln,,,Lansing,New York,14882,United States,6075330124,,-76.4995,42.5398
+90467b47-ee6a-4975-afbb-b765b72abda0,"Salt Point Brewing Co, LLC",brewpub,6 Louise Bement Ln,,,Lansing,New York,14882,United States,6075330124,,-76.4995,42.5398
 5dbae73d-6b77-43fe-ac8b-034105c154a0,Sand City Brewing Co.,micro,60 Main St,,,Northport,New York,11768-1722,United States,9177965672,http://www.sandcitybeer.com,-73.3508587,40.8998983
-9d2d554a-e0e4-49d9-9fc7-617440346398,Saranac Brewery / Matt Brewing Co,regional,811 Edward St,,,Utica,New York,13502-4001,United States,3156242400,http://www.saranac.com,-75.24414622,43.10355567
-6e9c8574-d73b-4da3-927a-275f91b0bc87,Sato Brewpub,brewpub,110 Pearl St,,,Buffalo,New York,14202-4125,United States,7162481436,http://www.satobrewpub.com,-78.87693971,42.88186146
-daf5e811-f7a2-4056-aa17-aa128febf931,Scale House Brewery,brewpub,5930 State Route 414,,,Hector,New York,14841-9662,United States,6075462030,http://www.scalehousebrews.com,,
+cb6152ed-b2c3-42fa-8acd-720f72e1c7cd,Sand City Brewing Co.,taproom,19 Scudder Ave,,,Northport,New York,11768,United States,5164558017,http://www.sandcitybeer.com,-73.350813,40.899778
+e2ced6d1-61ae-420e-b9e1-983c000a7af9,Sand City South,taproom,150 S Wellwood Ave,,,Lindenhurst,New York,11757,United States,,,-73.372408,40.686459
+9d2d554a-e0e4-49d9-9fc7-617440346398,Saranac Brewery / Matt Brewing Co,regional,811 Edward St,,,Utica,New York,13502-4001,United States,3156242400,http://www.saranac.com,-75.245166,43.10443
+6e9c8574-d73b-4da3-927a-275f91b0bc87,Sato Brewpub,brewpub,110 Pearl St,,,Buffalo,New York,14202-4125,United States,7162481436,http://www.satobrewpub.com,-78.87709,42.881958
+daf5e811-f7a2-4056-aa17-aa128febf931,Scale House Brewery,brewpub,5930 State Route 414,,,Hector,New York,14841-9662,United States,6075462030,http://www.scalehousebrews.com,-76.873033,42.520394
 0b6d5f3a-a88a-48c1-9666-39f6296cccfd,Scale House Brewery & Pub,brewpub,23 Cinema Dr Ste C,,,Ithaca,New York,14850-1682,United States,6072570107,http://www.scalehousebrewpub.com,,
-1337fe4b-0f7d-411f-9d19-05eba5370567,Secatogue Brewing Co.,micro,375 Union Blvd,,,West Islip,New York,11795-3114,United States,6318714270,http://www.secatoguebrewing.com,-73.30289019,40.70717835
+9d5cbc99-d527-4d8c-ac78-5fbb2e4cc745,Scotlander Brewing Company,taproom,453 County Route 47,,,Argyle,New York,12809,United States,,http://www.scotlanderbc.com,-73.455905,43.229344
+1337fe4b-0f7d-411f-9d19-05eba5370567,Secatogue Brewing Co.,taproom,375 Union Blvd,,,West Islip,New York,11795-3114,United States,6312288914,http://www.secatoguebrewing.com,-73.302827,40.707231
 3c06c36d-4955-4728-9eba-a22c6bc5c83f,Seneca Lake Brewing Company,micro,5430 NY-14,,,Dundee,New York,14837-8838,United States,6072168369,http://www.senecalakebrewing.com,,
-10f41208-26ee-4d28-b3b1-978d3e8a2340,Seneca Lodge Craft Brewing At Seneca Lodge,brewpub,3600 Walnut Rd,,,Watkins Glen,New York,14891-0272,United States,6075352014,http://www.senecalodge.com,-76.873392,42.369461
-deec4c7a-9677-436c-ad1e-b54d6a413955,Seneca Street Brew Pub,brewpub,315 E Seneca St Ste 1,,,Manlius,New York,13104-1860,United States,3156826968,http://www.senecastreetbrewpub.com,,
-b5cfc899-2612-496e-9f79-62915618b2c9,Serious Brewing Co.,micro,116 Caverns Rd,,,Howes Cave,New York,12092,United States,5188264050,,,
+b730a1d2-776f-48b3-9c1b-4780021c3b6d,Seneca Lake Brewing Company,alt prop,4520 state Route 14,,,Rock Stream,New York,14878,United States,6072168369,http://www.senecalakebrewing.com,-76.905694,42.453068
+10f41208-26ee-4d28-b3b1-978d3e8a2340,Seneca Lodge Craft Brewing At Seneca Lodge,brewpub,3600 Walnut Rd,,,Watkins Glen,New York,14891-0272,United States,6075352014,http://www.senecalodge.com,-76.87302,42.36943
+deec4c7a-9677-436c-ad1e-b54d6a413955,Seneca Street Brew Pub,taproom,315 E Seneca St Ste 1,,,Manlius,New York,13104-1860,United States,3156826968,http://www.senecastreetbrewpub.com,-75.975912,43.002272
+3089084d-0266-43b7-a7a0-492d68f65673,Sensory Smokehouse (7 Sins),taproom,10593 W Main Rd,,,Ripley,New York,14775-9746,United States,7167362444,http://www.sensorysmokehouse.com,-79.748138,42.249467
+b5cfc899-2612-496e-9f79-62915618b2c9,Serious Brewing Co.,taproom,116 Caverns Rd,,,Howes Cave,New York,12092,United States,5188264050,,-74.394662,42.683395
+da16a9aa-6c2d-46b2-8bea-dc77afb559dd,Seven Points Brewery,brewpub,237 Union Street,,,Schenectady,New York,12305,United States,,http://https://www.stellapastabar.com/seven-points-brewery,-73.944807,42.816541
+7a57434c-ea9d-4af1-aa38-b14794536577,Seven Story Brewing,taproom,604 Pittsford Victor Rd,,,Pittsford,New York,14534,United States,5853305027,http://www.sevenstorybrewing.com,-77.479565,43.062239
 efd1757f-4c9f-4bcc-a4b1-0b8dc5ae0326,Sevens Brew Pub,brewpub,5857 Route 96,,,Farmington,New York,14425,United States,5959243232,http://www.fingerlakesgaming.com,,
-b0915552-89e6-437d-ad2e-c9141c3b0ecb,Shelter Island Craft Brewery,brewpub,55 N Ferry Rd,,,Shelter Island,New York,11964,United States,6317495977,http://www.home.shelterislandcraftbrewery.com,-72.33987616,41.0714822
+b0915552-89e6-437d-ad2e-c9141c3b0ecb,Shelter Island Craft Brewery,brewpub,55 N Ferry Rd,,,Shelter Island,New York,11964,United States,6317495977,http://www.home.shelterislandcraftbrewery.com,-72.339508,41.071452
+00935ffe-ae03-4a3d-a550-58548bec6637,Shep's Brewing Company,taproom,132 Genesee St,,,Auburn,New York,13021,United States,3154066498,http://www.shepsbeer.com,-76.568111,42.930519
+36b8f39a-834a-46a3-a415-0622dcc3c3e6,"Shepherds Eye Brewing Company, LLC",taproom,9 Industrial Drive,,,Florida,New York,10921,United States,8453258417,http://www.shepherdseyebrewingco.com,-74.360356,41.345008
 08ca7ef4-2169-46d6-bc1c-ee4e4c6591db,Shmaltz Brewing Co,micro,6 Fairchild Sq # 1,,,Clifton Park,New York,12065-1254,United States,5184065430,http://www.shmaltzbrewing.com,,
 3e966de2-0bdc-4557-a316-47659974b7ba,Shrewd Fox Brewery,micro,552 NY State Highway 55,,,Eldred,New York,12732,United States,8455578255,http://www.shrewdfoxbrewery.com,,
-311fdbf4-9ca3-4c23-8a18-b7ebd9348a5c,Silver Lake Brewing Project,micro,14 Borden Ave,,,Perry,New York,14530,United States,5859694238,http://silverlakebrewingproject.com,-78.00159923,42.71795128
-cbc44ed9-51da-4ba7-85dd-ed20f31a67c0,Sing Sing Kill Brewery,micro,75 Spring St,,,Ossining,New York,10562-4706,United States,9178812490,http://www.singsingkillbrewery.com,-73.86373076,41.15860835
-2787c111-e272-4a74-bde5-21ea7ec9e8a1,Singlecut Beersmiths,micro,19-33 37th St,,,Astoria,New York,11105-1118,United States,7186060788,http://www.singlecutbeer.com,,
-3f3ccd69-bd9e-41fe-aaf2-48d0f3277cfa,Six Harbors Brewing Company,proprietor,243 New York Ave.,,,Huntington,New York,11743-2719,United States,5166803528,,-73.4253168,40.8749628
-2524a546-408c-47f3-bcb5-ad4be41ab69f,Sixpoint Brewery,regional,40 Van Dyke St,,,Brooklyn,New York,11231-1529,United States,3472278676,http://www.sixpoint.com,-74.01191761,40.67397255
+7215acb7-d144-49f4-b9ba-33e3c442b287,Shrewd Fox Brewery LLC,taproom,552 State Highway 55,,,ELDRED,New York,12732,United States,8455578255,http://www.shrewdfoxbrewery.com,-74.884998,41.525738
+311fdbf4-9ca3-4c23-8a18-b7ebd9348a5c,Silver Lake Brewing Project,taproom,14 Borden Ave,,,Perry,New York,14530,United States,5859694238,http://silverlakebrewingproject.com,-78.002001,42.718097
+cbc44ed9-51da-4ba7-85dd-ed20f31a67c0,Sing Sing Kill Brewery,taproom,75 Spring St,,,Ossining,New York,10562-4706,United States,9178812490,http://www.singsingkillbrewery.com,-73.863712,41.15856
+2787c111-e272-4a74-bde5-21ea7ec9e8a1,Singlecut Beersmiths,micro,19-33 37th St,,,Astoria,New York,11105-1118,United States,7186060788,http://www.singlecut.com,-73.901679,40.778296
+e2bdaad7-08b2-4f95-b1e1-7bdfd58c5cc2,SingleCut Clifton Park,micro,6 Fairchild Sq Ste 1,,,Clifton Park,New York,12065,United States,,,-73.792677,42.901539
+3f3ccd69-bd9e-41fe-aaf2-48d0f3277cfa,Six Harbors Brewing Company,taproom,243 New York Ave.,,,Huntington,New York,11743-2719,United States,5166803528,http://www.sixharborsbrewingcompany.com,-73.425055,40.874868
+2524a546-408c-47f3-bcb5-ad4be41ab69f,Sixpoint Brewery,regional,40 Van Dyke St,,,Brooklyn,New York,11231-1529,United States,3472278676,http://www.sixpoint.com,-74.011868,40.674024
+4c9061c7-6200-47f9-a06d-33ecafca6c70,Skaneateles Brewery,taproom,4022 Mill Rd,,,Skaneateles,New York,13152-9319,United States,3152635783,,-76.443179,42.965427
 4c5ef3a3-3823-4cfa-95fd-0719622cf660,Skewed Brewing,brewpub,"21182 Salmon Run Mall Loop W, Unit B219",,,Watertown,New York,13601-2244,United States,3157882337,http://Skewedbrewing.com,,
+af4a0895-d9d4-48c4-84e8-608e57a381e6,Skewed Brewing,micro,5501 Trinity Avenue,,,Lowville,New York,13367,United States,3157882337,http://Skewedbrewing.com,-75.487451,43.790988
+cf315c6c-e244-45b9-9342-b795dc5ec639,Slate Town Brewing Co,brewpub,31 Main St,,,Granville,New York,12832,United States,5183455357,http://www.slatetownbrewing.com,-73.259833,43.407294
+3ba9bbc6-3ca7-4b12-ae2f-1e0152ce753c,Slickfin Brewing Company LLC,taproom,147-149 Broadway,,,Fort Edward,New York,12828,United States,5182230264,http://www.slickfinbrewing.com,-73.586719,43.268539
 6d9698ed-f45d-451e-92d0-e3be563e3e1c,SlickFin Brewing Company LLC,planning,,,,Queensbury,New York,12804-9786,United States,,,,
 f5072e98-978a-4a4b-bd96-610257365d89,Sloop Brewing,micro,1065 County Route 19,,,Elizaville,New York,12523-1205,United States,9178483865,http://www.sloopbrewing.com,-73.797148,42.084393
-ad153816-87b7-4426-8962-a885e286c116,Small Craft Brewing Co,micro,66 Merrick Rd,,,Amityville,New York,11701-3463,United States,6314640186,http://www.smallcraftbrewing.com,-73.42019,40.67158556
+82d0c5f2-cdb9-499a-8622-39b3fcbda706,Sloop Brewing,regional,755 East Dr Ste 106,,,East Fishkill,New York,12533,United States,9178483865,http://www.sloopbrewing.com,-73.8183,41.5414
+ad153816-87b7-4426-8962-a885e286c116,Small Craft Brewing Co,taproom,66 Merrick Rd,,,Amityville,New York,11701-3463,United States,6314640186,http://www.smallcraftbrewing.com,-73.420202,40.671623
+601e27fe-2ae6-49b9-a653-6d51d6b5a164,Small Pockets Farm,taproom,5418 NY-89,,,Romulus,New York,14541,United States,,http://www.smallpocketsfarm.com,-76.772144,42.762056
 5fb3457a-9cea-4b46-a7a7-c78cedf557a3,Smart Beer Company,contract,,,,New Paltz,New York,12561-0430,United States,,http://www.smartbeercompany.com,,
+c6805400-d7b2-42d6-a442-3256c3b2af39,Somerset Brewing Company,taproom,94C Cherry Valley Ave,,,West Hempstead,New York,11552,United States,5164476983,http://www.somersetbrewing.com,-73.653899,40.708016
+5316c5ed-2154-4864-9f91-54c73a79b943,Soul Brewing Company,taproom,41 Wheeler Avenue,,,Pleasantville,New York,10570,United States,9148007685,http://www.soulbrewingco.com,-73.791532,41.134622
+642b2023-f5e4-45ca-a0dd-85529f968760,South Shore Craft Brewery,taproom,3505 Hampton Rd,,,Oceanside,New York,11572,United States,5165874145,http://https://www.southshorecraftbrewery.com/,-73.654307,40.625002
 86803100-fcae-4cda-9e75-060c2de677f3,Southampton Publick House,brewpub,62 Jobs Ln,,,Southampton,New York,11968-4807,United States,6312832800,http://www.publick.com,,
-d60a6feb-13cc-4b3f-b501-a784512982ec,Southern Tier Brewing Co,regional,2072 Stoneman Cir,,,Lakewood,New York,14750-9779,United States,7167635479,http://www.southerntierbrewing.com,,
-8071c162-cfc3-4053-b12b-eca3bb37f2b4,Spider Bite Brewing Co,micro,920 Lincoln Ave Unit 5,,,Holbrook,New York,11741-2257,United States,6319423255,http://www.spiderbitebeer.com,,
-32f7a57c-b7d7-41c2-a30b-cb32a0ee6728,SquareHead Brewing,micro,405 High St Ste 1,,,Holbrook,New York,11741-5317,United States,6319213060,http://www.squareheadbrewing.com,,
+d60a6feb-13cc-4b3f-b501-a784512982ec,Southern Tier Brewing Co,regional,2072 Stoneman Cir,,,Lakewood,New York,14750-9779,United States,7167635479,http://www.southerntierbrewing.com,-79.352971,42.086457
+00572cc0-5ce5-446a-a30c-a6d16b3d7284,Southern Tier Brewing Company,beer brand,2072 Stoneman Circle,,,Lakewood,New York,14750,United States,,,-79.352971,42.086457
+e9ad6d21-8c21-4a2d-8946-e4267115d72f,Speckled Pig Brewing Co.,brewpub,11 Washington Street,,,Ballston Spa,New York,12020,United States,,http://www.speckledpigbrewery.com,-73.849465,43.003202
+8071c162-cfc3-4053-b12b-eca3bb37f2b4,Spider Bite Brewing Co,taproom,920 Lincoln Ave Unit 5,,,Holbrook,New York,11741-2257,United States,6319423255,http://www.spiderbitebeer.com,-73.084588,40.772711
+7e9732df-ce48-4d54-846e-b7f39df60fd5,Spotted Octopus Brewing,taproom,41 Edward St,,,Buffalo,New York,14202-1505,United States,7169978145,http://www.octopusbrew.com,-78.872946,42.895559
+32f7a57c-b7d7-41c2-a30b-cb32a0ee6728,SquareHead Brewing,taproom,405 High St Ste 1,,,Holbrook,New York,11741-5317,United States,6319213060,http://www.squareheadbrewing.com,-73.072646,40.779502
 d04514b9-1c70-4e28-a603-cb7a70da3045,Staten Island Beer Company,micro,20 Kinsey Pl,,,Staten Island,New York,10303-1427,United States,7183908445,http://www.sibeerco.com,-74.17033729,40.62874743
 ae5ab620-975f-4ee3-8625-07b93d9ff0f6,Steadfast Beer Co,contract,1756 Western Ave Rear,,,Albany,New York,12203-4414,United States,,http://www.steadfastbeer.com,,
-8e78d6ea-2ed7-4489-b050-cb3b0456cea1,Steuben Brewing Company,micro,10286 Judson Rd,,,Hammondsport,New York,14840-9668,United States,6072798874,http://www.steubenbrewingcompany.com,,
-58092f14-3cd5-47c0-8077-7f11c1ef9e96,Stoneyard Brewing Company,brewpub,48 Merchant St,,,Brockport,New York,14420,United States,5856373390,http://www.stoneyardbrewingcompany.com,,
-bbe40deb-da31-4fe6-aee8-f7cfd40c5416,Stout Beard Brewing Company,brewpub,1153 W Fayette St Ste 102,,,Syracuse,New York,13204-2740,United States,3153993016,http://www.stoutbeardbrewery.com,,
-50932c46-8dd8-4915-a0ed-8073fb25323d,Strangebird Beer,micro,62 Marshall Street,,,Rochester,New York,14607,United States,5855058700,https://www.strangebirdbeer.com,-77.601928,43.15127745
-94772c9e-dff5-4404-8f15-6572633b0307,Strong Rope Brewery,micro,574A President St,,,Brooklyn,New York,11215-1019,United States,5857033010,http://www.strongropebrewery.com,-73.9840898,40.6769023
-b022972f-6576-4453-823d-96fe18987454,Stumblin' Monkey Brewing Co,micro,61 School St Ste G,,,Victor,New York,14564-1420,United States,5853988189,http://www.stumblinmonkeybeer.com,,
-15dd2469-e167-42af-8e72-ef36bdd41376,Stump City Brewing LLC,micro,521 W Fulton Street Ext,,,Gloversville,New York,12078-6309,United States,5188310722,http://www.stumpcitybrewing.com,,
-0301809c-bbd8-48c4-99c8-515de50999fd,Suarez Family Brewery,micro,2278 RT. 9,,,Hudson,New York,12534-4701,United States,5185376464,http://www.suarezfamilybrewery.com,,
+3b52e338-3dd3-4801-8f2e-dd4d842c85a7,Steel Leaf Brewing Company,taproom,4545 Transit Rd,,,Buffalo,New York,14221,United States,7164283050,http://www.steelleafbrewing.com,-78.69315,42.972479
+a90cc674-c4d9-482f-99f9-8027abf002eb,Steelbound Brewery & Distillery,brewpub,6600 US-219,,,Ellicottville,New York,14731,United States,7166992042,http://www.steelboundevl.com,-78.659102,42.285936
+8e78d6ea-2ed7-4489-b050-cb3b0456cea1,Steuben Brewing Company,taproom,10286 Judson Rd,,,Hammondsport,New York,14840-9668,United States,6072798874,http://www.steubenbrewingcompany.com,-77.186168,42.501595
+58092f14-3cd5-47c0-8077-7f11c1ef9e96,Stoneyard Brewing Company,brewpub,48 Merchant St,,,Brockport,New York,14420,United States,5856373390,http://www.stoneyardbrewingcompany.com,-77.939418,43.216712
+7e3a99d5-70ce-495a-99a2-f452eb36aa5a,Stoneyard Production Brewery,micro,85 Clinton St,,,Brockport,New York,14420,United States,,,-77.942693,43.215731
+bbe40deb-da31-4fe6-aee8-f7cfd40c5416,Stout Beard Brewing Company,taproom,1153 W Fayette St Ste 102,,,Syracuse,New York,13204-2740,United States,3153993016,http://www.stoutbeardbrewery.com,-76.173398,43.046216
+22850061-d478-417c-b416-8bbf9d8fd7ed,Strange Design Public House,brewpub,4570 Millennium Dr,,,Geneseo,New York,14454,United States,5852459015,,-77.790622,42.798557
+50932c46-8dd8-4915-a0ed-8073fb25323d,Strangebird Beer,micro,62 Marshall St,,,Rochester,New York,14607,United States,5855058700,http://www.strangebirdbeer.com,-77.60193,43.150572
+e9579447-d79d-47e3-a808-b5b2ed90c980,Strangebird Beer,micro,62 Marshall St,,,Rochester,New York,14607,United States,5855058700,http://www.strangebirdbeer.com,-77.60193,43.150572
+94772c9e-dff5-4404-8f15-6572633b0307,Strong Rope Brewery,taproom,574A President St,,,Brooklyn,New York,11215-1019,United States,5857033010,http://www.strongropebrewery.com,-73.984159,40.676805
+b022972f-6576-4453-823d-96fe18987454,Stumblin' Monkey Brewing Co,taproom,61 School St Ste G,,,Victor,New York,14564-1420,United States,5853988189,http://www.stumblinmonkeybeer.com,-77.413139,42.982183
+15dd2469-e167-42af-8e72-ef36bdd41376,Stump City Brewing LLC,taproom,521 W Fulton Street Ext,,,Gloversville,New York,12078-6309,United States,5188310722,http://www.stumpcitybrewing.com,-74.383043,43.04716
+0301809c-bbd8-48c4-99c8-515de50999fd,Suarez Family Brewery,taproom,2278 RT. 9,,,Hudson,New York,12534-4701,United States,5185376464,http://www.suarezfamilybrewery.com,-73.7825,42.2315
 4920c9af-770b-4850-adb2-68e368d0cf34,Summerhill Brewing LLC,micro,384 Champlin Rd N. Cayuga County,,,Groton,New York,13073-3212,United States,6075916148,http://www.facebook.com/Summerhill.brewing/,-76.29601824,42.63594387
+a08d0360-7bfe-4ea7-99c8-a209b306c466,Summerhill Brewing LLC,micro,14408 NY-90,,,Locke,New York,13092,United States,6075916148,http://www.facebook.com/Summerhill.brewing/,-76.295433,42.640841
 4780994b-3b4b-4e12-ab6b-6d1dd4018722,Svendale Brewing Co,micro,,,,Millerton,New York,12546-4553,United States,9177039873,http://svendale.com,,
 a5800400-36c4-47f2-b289-1eff24c0218f,Sweet Thursday Beer Co,planning,,,,Brooklyn,New York,11215-6020,United States,9176133980,http://www.sweetthursdaybeer.com,,
-c5f110d4-81a4-4f98-85ab-244decbe49de,Swiftwater Brewing Company,brewpub,378 Mount Hope Ave,,,Rochester,New York,14620-1250,United States,5855303471,http://www.swiftwaterbrewing.com,-77.61227748,43.14230324
-df1cbf5b-3f4e-451e-b638-09d6128eabe1,Syracuse Suds Factory,brewpub,320 S Clinton St,,,Syracuse,New York,13202-1220,United States,3154712253,http://www.sudsfactory.com,-76.153679,43.04846902
-bbd9be81-8a4a-43e6-8fea-be17ec75ee3b,Table 41 Brewing Co.,micro,4 Dunsback Ferry Rd,,,Cohoes,New York,12047-5016,United States,5185270221,http://www.table41brewing.com,,
+c5f110d4-81a4-4f98-85ab-244decbe49de,Swiftwater Brewing Company,brewpub,378 Mount Hope Ave,,,Rochester,New York,14620-1250,United States,5855303471,http://www.swiftwaterbrewing.com,-77.611769,43.142493
+df1cbf5b-3f4e-451e-b638-09d6128eabe1,Syracuse Suds Factory,brewpub,320 S Clinton St,,,Syracuse,New York,13202-1220,United States,3154712253,http://www.sudsfactory.com,-76.153899,43.048144
+bbd9be81-8a4a-43e6-8fea-be17ec75ee3b,Table 41 Brewing Co.,micro,4 Dunsback Ferry Rd,,,Cohoes,New York,12047-5016,United States,5185270221,http://www.table41brewing.com,-73.754302,42.772313
+77de39d0-8532-4b67-8b03-221e62e00efe,Talking Cursive Brewing Company,taproom,301 Erie Blvd W,,,Syracuse,New York,13204,United States,3159076060,http://www.talkingcursive.com,-76.155725,43.050805
+81d4d592-4ec5-40ff-9516-63ee494e1261,That Witch Ales You,brewpub,116 Madison St,,,New York,New York,10002,United States,6466697363,http://www.thatwitchalesyou.com,-73.994799,40.71205
 501931a5-0055-452f-b2a4-c1d8ec9c9a17,The Beer Diviner,micro,243 Bly Hollow Rd,,,Petersburg,New York,12040,United States,5182106196,http://www.thebeerdiviner.com,,
-c3c643f4-c7a0-4fbc-9e53-952dbecb228e,The Brewers Collective,micro,1460 N Clinton Ave Unit N,,,Bay Shore,New York,11706-4058,United States,6316659000,http://www.thebrewerscollective.com,,
-362dfc1d-37c8-414e-8a10-4908793c8b28,The Brewery At Bacchus,brewpub,4 S Chestnut St,,,New Paltz,New York,12561-1902,United States,8452558636,http://www.bacchusnewpaltz.com,-74.0867508,41.7472558
-672c1658-8b3c-4810-93ed-456aecf76845,The Brewery of Broken Dreams,micro,8319 Pleasant Valley Rd,,,Hammondsport,New York,14840-9549,United States,6072244050,http://www.thebreweryofbrokendreams.com,,
-8b52964c-3c8f-4dbf-a85a-362a3d46f947,The Bronx Brewery,micro,856 E 136th St,,,Bronx,New York,10454-3509,United States,7184021000,http://www.thebronxbrewery.com,-73.91064054,40.801861
+30162598-e284-47fe-b87e-f00e9185a993,The Beer Diviner,taproom,243 Bly Hollow Rd,,,Cherry Plain,New York,12040,United States,5182106196,http://www.thebeerdiviner.com,-73.3575,42.6311
+c3c643f4-c7a0-4fbc-9e53-952dbecb228e,The Brewers Collective,taproom,1460 N Clinton Ave Unit N,,,Bay Shore,New York,11706-4058,United States,6316659000,http://www.thebrewerscollective.com,-73.266362,40.744679
+362dfc1d-37c8-414e-8a10-4908793c8b28,The Brewery At Bacchus,brewpub,4 S Chestnut St,,,New Paltz,New York,12561-1902,United States,8452558636,http://www.bacchusnewpaltz.com,-74.086709,41.747217
+75dda86c-96f9-4f8d-8ce1-ad27057ac762,The Brewery At Orange County Hops,taproom,771 Route 52,,,Walden,New York,12586,United States,8457134441,http://www.orangecountyhops.com,-74.147232,41.555075
+672c1658-8b3c-4810-93ed-456aecf76845,The Brewery of Broken Dreams,taproom,8319 Pleasant Valley Rd,,,Hammondsport,New York,14840-9549,United States,6072244050,http://www.thebreweryofbrokendreams.com,-77.244899,42.405105
+8b52964c-3c8f-4dbf-a85a-362a3d46f947,The Bronx Brewery,micro,856 E 136th St,,,Bronx,New York,10454-3509,United States,7184021000,http://www.thebronxbrewery.com,-73.910639,40.801894
+c76235be-760c-48e4-a153-ea50284fe7d3,The Bronx Brewery East Village,brewpub,64 2nd Ave,,,New York,New York,10003,United States,7184021000,,-73.989325,40.725829
+ae1ed20b-f58e-4d77-af0a-a325cd9fe6ff,"The Cape Vincent Brewing Co., Inc",brewpub,126 S James St,,,CAPE VINCENT,New York,13618,United States,3155014157,http://www.capevincentbrewing.com,-76.3342,44.128143
 d2495538-5a9c-465e-b6ff-54a3959c44bd,The FarmHouse Brewery,micro,14 George St,,,Owego,New York,13827-1084,United States,6072272676,http://www.thefarmhousebrewery.com,-76.26950941,42.11123746
 e453ccc9-949f-4194-9257-05b54018e698,The Food Works,planning,,,,Brooklyn,New York,11206,United States,6178512133,http://www.thefoodworks.com,,
 ed927788-4e38-4875-9fcf-49cc2ca5410c,The Good Shepherds Brewing Co,micro,31 Loop Rd Ste 1,,,Auburn,New York,13021-3823,United States,3154066498,http://www.shepsbeer.com,,
+13121ece-db24-4179-bd03-d2757cadb318,The Lionheart Pub,taproom,448 Madison Ave #3601,,,Albany,New York,12208,United States,5188180921,http://www.albanylionheartpub.com,-73.768498,42.652513
 e9d9ae5d-f068-4cc5-bced-56218eb3f528,The Lost Borough Brewing Company,micro,543 Atlantic Ave,,,Rochester,New York,14609-7316,United States,5854718122,http://www.lostboroughbrewing.com,-77.56856467,43.15638738
 ea79cbe7-681e-4d92-8604-85cb892834ae,The New Buffalo Brewing Co. Inc,contract,11163 Main St,,,Clarence,New York,14031-1701,United States,7162007275,http://www.newbuffalobrewing.com,-78.57052941,42.98442517
 451c1c4a-fd8d-4cda-a43d-7cc527c8ff37,The Owls Brew,large,135 W 29th St Rm 602,,,New York,New York,10001-5175,United States,2125640218,http://www.theowlsbrew.com,,
+237c575f-2ce1-43eb-9b97-830988496857,The Ridge West Seneca,brewpub,555 Orchard Park Road,,,Buffalo,New York,14224,United States,,,-78.779588,42.831971
 81089fba-f8db-41bf-83d2-d219bcf92f33,The VB Brewery,micro,6606 State Route 96,,,Victor,New York,14564-1409,United States,5859028166,http://www.thevbbrewery.com,,
+a06e3762-3edc-4851-83ab-c250d76827d0,The Warbler Brewery,taproom,155 Delaware Ave,,,Delmar,New York,12054,United States,5186508484,http://www.warblerbrewery.com,-73.810609,42.629415
 f26c65be-a08b-4bb5-a053-5a0c63ae4ff0,Thin Man Brewery,brewpub,486 Elmwood Ave,,,Buffalo,New York,14222-2014,United States,7169234100,http://www.thinmanbrewery.com,-78.87720285,42.91037815
+f89e9aa8-dbaa-41c1-8e41-0ee6db9baf34,Thin Man Brewery,micro,166 Chandler St.,,,Buffalo,New York,14207,United States,7168810455,http://www.thinmanbrewery.com,-78.88508,42.943617
+4521f8f0-94f8-42e0-9eb8-27fd1d4a0bca,Thin Man Brewery - Elmwood,brewpub,492 Elmwood Ave,,,Buffalo,New York,14222,United States,7169234100,http://www.thinmanbrewery.com/taproom-elmwood,-78.87744,42.910395
+c4320627-0862-42b7-8d8f-0ba26859cc44,Thin Man Brewery At Chandler Street,taproom,166 Chandler St,,,Buffalo,New York,14207,United States,,,-78.88508,42.943617
 e63045b8-37a7-41c9-b5e3-6fbb87d2f388,Third Rail Beer,contract,928 Broadway Ste 902,,,New York,New York,10010-8139,United States,,http://www.thirdrailbeer.com,-73.9893474,40.7400479
-1e6a03d0-7697-45f2-b78e-362c43c9132c,Three Heads Brewing,micro,186 Atlantic Ave,,,Rochester,New York,14607-1213,United States,5852441224,http://www.threeheadsbrewing.com,-77.58034655,43.15611755
+1e6a03d0-7697-45f2-b78e-362c43c9132c,Three Heads Brewing,micro,186 Atlantic Ave,,,Rochester,New York,14607-1213,United States,5852441224,http://www.threeheadsbrewing.com,-77.579626,43.156455
 c56138f8-20c8-4e85-b951-8d68ceb70548,Three Huskies Brewing & Dobber's Grill,brewpub,401 Lakeshore Dr,,,Canandaigua,New York,14424-2338,United States,5852603530,http://www.threehuskiesbrewing.com,-77.251124,42.8723885
 7796339a-277a-41ab-95a5-5b1d02a9387c,Threes Brewing,micro,333 Douglass St,,,Brooklyn,New York,11217-3115,United States,7185222110,http://www.threesbrewing.com,-73.9821529,40.6798144
-e2829cb7-d5e8-4401-8fb8-6f7af1150193,Tim's Pumpkin Patch,micro,2901 Rose Hill Rd,,,Marietta,New York,13110-3236,United States,3156739209,http://www.timspumpkinpatch.com,-76.34398,42.911678
+296a242c-c110-4694-8ce3-4374affb4330,TIL Brewing,taproom,11 West Main St,,,Lancaster,New York,14086,United States,7162282080,http://www.tilbrewing.com,-78.671887,42.901705
+e2829cb7-d5e8-4401-8fb8-6f7af1150193,Tim's Pumpkin Patch,taproom,2901 Rose Hill Rd,,,Marietta,New York,13110-3236,United States,3156739209,http://www.timspumpkinpatch.com,-76.34497,42.911868
+be7727c9-5ba0-4d11-a5d5-5cb1e0b59956,Tin Barn Brewery,brewpub,62 Kings Hwy Bypass,,,Chester,New York,10918,United States,,http://www.tinbarn.com,-74.284325,41.318113
 f8dc2368-d963-4d93-9a24-208a6d07c87f,Toast Ale,contract,601 W 26th St Ste 325-291,,,New York,New York,10001-1101,United States,9162023851,http://www.toastale.com/us,,
-5929b669-4b2a-4369-bbbd-fff26a936c19,Township 7 Brewing Co. LLC,micro,303 State Route 11b,,,Dickinson Center,New York,12930-2008,United States,5186519532,http://www.township7brewing.com,,
+43f971f4-330f-487c-a13d-56bde97a52ac,Torch & Crown Brewing Company,micro,12 Vandam St,,,New York,New York,10013,United States,2014524196,http://www.torchandcrown.com,-74.004338,40.725885
+24eca619-6bee-497f-950b-fb938cce2878,Torch & Crown Brewing Company - Bronx Production Facility,micro,463 E 173rd St.,,,Bronx,New York,10457,United States,,,-73.901448,40.84192
+5929b669-4b2a-4369-bbbd-fff26a936c19,Township 7 Brewing Co. LLC,taproom,303 State Route 11b,,,Dickinson Center,New York,12930-2008,United States,5186519532,http://www.township7brewing.com,-74.58254,44.740766
+c0226dc5-718b-4a77-987f-c2a9784c4350,Tradewinds Brewing Company,taproom,70 West Main Street,,,Riverhead,New York,11901,United States,6315992871,http://www.tradewindsbrewing.com,-72.663448,40.917065
 145e08e2-df7d-4dfb-a67d-d4f342e9aa6d,Transmitter Brewing,micro,5302 11th St,,,Long Island City,New York,11101-5917,United States,6463788529,http://www.transmitterbrew.com,-73.9511062,40.7431826
 46b43b36-9668-4b37-9a23-5f4784ed47b8,TripEnd Brewing,micro,3072 Prutsman Rd,,,Troupsburg,New York,14885-9613,United States,6073467472,http://www.tripendbrewing.com,-77.55268946,42.09121034
-d5a71367-f7f6-47fa-8bf0-d6f25db113d0,Triphammer Bierwerks,micro,111 Parce Ave Ste 3A-1,,,Fairport,New York,14450-1467,United States,5853888281,http://www.triphammerbierwerks.com,,
+d5a71367-f7f6-47fa-8bf0-d6f25db113d0,Triphammer Bierwerks,micro,111 Parce Ave Ste 3A-1,,,Fairport,New York,14450-1467,United States,5853888281,http://www.triphammerbierwerks.com,-77.446687,43.105689
 e1bdce52-7dc7-4377-a5c2-4506452da993,Tuthilltown Spirits,planning,,,,Gardiner,New York,12525-5528,United States,8452551527,,,
 4203409e-7d4b-4ca0-8adc-c7f24ecceacc,Tweaking Frog Brewing Company,micro,211 Main St Ste A,,,Farmingdale,New York,11735-2675,United States,6318975509,http://www.tweakingfrogbrewing.com,,
-6151ad7d-80a5-457a-9b2d-138e3a6ae77a,Twisted Rail Brewing Company,micro,169 Lakeshore Dr,,,Canandaigua,New York,14424-2309,United States,5853960683,http://www.twistedrailbrewing.com,-77.262436,42.87507
-b30278b8-ab10-4bc3-b983-2203008e7b12,Two Goats Brewing,brewpub,5027 State Route 414,,,Burdett,New York,14818-9816,United States,607546,http://www.twogoatsbrewing.com,,
+6654a625-1027-4e5f-bd92-37be08ea43a8,Twin Elder Brewery,taproom,160 School Street,,,Victor,New York,14564-1197,United States,5859028166,http://https://twinelderbrewery.com/,-77.417521,42.980538
+aa1b7a84-0a0d-4cc6-b306-b99369202802,Twin Fork Beer Company,micro,807 Raynor Ave,,,Riverhead,New York,11901,United States,6312094233,http://www.TwinForkBeer.com,-72.683369,40.926264
+6151ad7d-80a5-457a-9b2d-138e3a6ae77a,Twisted Rail Brewing Company,brewpub,169 Lakeshore Dr,,,Canandaigua,New York,14424-2309,United States,5853960683,http://www.twistedrailbrewing.com,-77.262101,42.875061
+b30278b8-ab10-4bc3-b983-2203008e7b12,Two Goats Brewing,brewpub,5027 State Route 414,,,Burdett,New York,14818-9816,United States,607546BEER,http://www.twogoatsbrewing.com,-76.869886,42.476673
+03bb76d3-57eb-48f8-85ab-511f90974fe0,Ubergeek Brewing,taproom,400 Hallett Ave,,,Riverhead,New York,11901,United States,,http://www.ubergeekbrewing.com,-72.667726,40.920154
 a645a825-1f6a-4b58-884b-cc3b88276a73,Unified Beerworks,planning,,,,Ballston Lake,New York,12019-1734,United States,5184284185,http://unified-beerworks.com,,
-4a555dfb-ea6b-4ee5-bc6a-fae6b0dd8395,Upstate Brewing Co,micro,3028 Lake Rd,,,Elmira,New York,14903-1409,United States,6175198381,http://www.upstatebrewing.com,,
+a0d6c286-416d-4c79-a5c5-602de3317f05,Unified Beerworks,taproom,7 Stonebreak Rd,,,MALTA,New York,12020,United States,5184284185,http://unified-beerworks.com,-73.789906,42.9658
+864da26f-c3e6-4676-9271-a6dc47411fa4,Upper Depot Brewing Co,taproom,708 State Street,,,Hudson,New York,12534,United States,,http://www.upperdepot.com,-73.781102,42.248812
+4a555dfb-ea6b-4ee5-bc6a-fae6b0dd8395,Upstate Brewing Co,taproom,3028 Lake Rd,,,Elmira,New York,14903-1409,United States,6175198381,http://www.upstatebrewing.com,-76.811665,42.133392
 e10497e6-85a6-4ed8-a643-80696a566375,Upward Brewing Co.,planning,,,,Livingston Manor,New York,12758-,United States,8457980471,http://www.upwardbrewing.com,,
+f9af6c39-2269-48c5-bad2-8814db94ffc5,Upward Brewing Co.,micro,171 Main St,,,Livingston Manor,New York,12758,United States,8454391382,http://www.upwardbrewing.com,-74.832664,41.894288
 f478a38b-fc50-485e-94ed-043655e2a716,US Beer Brewers At the Cellar Door,brewpub,17 W Cayuga St,,,Oswego,New York,13126-4000,United States,3152072381,http://www.usbeerbrewers.beer,-76.51260925,43.45769813
-d2fa1ab7-b50a-4ffb-ab59-daa4110e1193,Valcour Brewing Company LLC,micro,49 Ohio Rd,,,Plattsburgh,New York,12903-4409,United States,5183242337,http://www.valcourbrewery.com,,
+d2fa1ab7-b50a-4ffb-ab59-daa4110e1193,Valcour Brewing Company LLC,brewpub,49 Ohio Rd,,,Plattsburgh,New York,12903-4409,United States,5183242337,http://www.valcourbrewery.com,-73.44619,44.6827
 376af0a3-abdd-42e8-850d-0635374c2e86,Velveteen Brewing Co,planning,,,,Mamaroneck,New York,10543-4719,United States,,,,
-2821037d-83b8-494d-bebd-da8bb7ed1481,Wagner Valley Brewing Co,micro,9322 Route 414,,,Lodi,New York,14860-9641,United States,6075826450,http://www.wagnerbrewing.com,,
+d4f0046c-a2ab-4852-9b87-13acb200beb6,Vosburgh Brewing,taproom,1065 County Route 19,,,Elizaville,New York,12523,United States,5185377652,http://www.vosburghbrewing.com,-73.797009,42.0857
+2821037d-83b8-494d-bebd-da8bb7ed1481,Wagner Valley Brewing Co,taproom,9322 Route 414,,,Lodi,New York,14860-9641,United States,6075826450,http://www.wagnerbrewing.com,-76.85816,42.572481
+97de58ba-cf10-4239-a040-baa712830be4,Walt and Whitman Brewing Company,brewpub,20 Lake Avenue,,,Saratoga Springs,New York,12866,United States,5186823602,http://www.waltandwhitmanbrewing.com,-73.783607,43.082425
+d1e2dae4-b46d-47b4-a4d9-01e6d5f7603a,Wandering Gypsy Brewing Co,brewpub,3301 Barley Rd,,,Ransomville,New York,14131,United States,7164660411,http://www.wanderinggypsybrewing.com,-78.861488,43.265456
 fe1a5d83-f9d0-4f80-9e0e-5553442a99a5,War Flag Brewing Co,proprietor,649 Morgan Ave Ste B16-5,,,Brooklyn,New York,11222-3940,United States,6466968096,http://www.warflag.nyc,,
-760e1abe-0311-49a4-b025-893d6da40335,War Horse Brewing Company,brewpub,623 Lerch Rd Ste 5,,,Geneva,New York,14456-9295,United States,3155854432,http://www.3brotherswinery.com,,
+760e1abe-0311-49a4-b025-893d6da40335,War Horse Brewing Company,taproom,623 Lerch Rd Ste 5,,,Geneva,New York,14456-9295,United States,3155854432,http://www.3brotherswinery.com,-76.92472,42.82267
 f1eff6f6-0871-4a67-96b5-4c5815147056,Wartega,micro,33 35th St Unit 6A,,,Brooklyn,New York,11232-2210,United States,9173971171,http://www.wartega.com,,
-7d0c32f8-09a9-4363-944f-3a836c4d8b17,Water Street Brewing Co,brewpub,168 Water St Fl 1,,,Binghamton,New York,13901-2736,United States,6072174546,http://www.waterstreetbrewingco.com,,
-d6b31994-a389-40bc-8b34-f37c71c69030,WeBe Brewing Company,micro,796 Pre-Emption Road,,,Geneva,New York,14456,United States,3153254834,http://www.WeBeBrewing.com,-77.01110326,42.86463714
-391847c9-a5ad-496f-a74e-586ff829fc0d,West Kill Brewing,micro,2173 Spruceton Rd,,,West Kill,New York,12492-5823,United States,5189896001,http://www.westkillbrewing.com,-74.382878,42.205758
-13bcbdcc-50e5-4669-bfad-8001c7b17d90,West Shore Brewing Co,micro,10995 Main St,,,Clarence,New York,14031-1735,United States,7169983752,http://westshorebrewing.com,-78.57810318,42.98200648
-54e4ea1c-6210-48c0-a3d1-c7edd491a640,Westtown Brew Works,micro,236 Schefflers Rd,,,Westtown,New York,10998-,United States,8453044152,http://www.westtownbrewworks.com,-74.53707955,41.31431295
+7d0c32f8-09a9-4363-944f-3a836c4d8b17,Water Street Brewing Co.,brewpub,168 Water Street,,,Binghamton,New York,13901,United States,6076246121,,-75.914077,42.099377
+db8c9bc5-7be4-41f3-a130-cc181cd14528,Water Street Brewing Co.,brewpub,168 Water Street,,,Binghamton,New York,13901,United States,6076246121,,-75.914077,42.099377
+6d4ffe39-0b03-4e5f-bbae-9627642a6532,Wayward Lane Brewing,taproom,255 Ward Lane,,,Schoharie,New York,12157,United States,3036675822,http://www.waywardlanebrewing.com,-74.304394,42.654971
+2ceead83-5258-483a-bccc-474e739b5304,Weaver Hollow Brewery,micro,294 Depot St,,,Andes,New York,13731,United States,,http://www.weaverhollow.com,-74.789286,42.186287
+d6b31994-a389-40bc-8b34-f37c71c69030,WeBe Brewing Company,brewpub,796 Pre-Emption Road,,,Geneva,New York,14456,United States,3153254834,http://www.WeBeBrewing.com,-77.011712,42.862878
+6098c132-26be-4aa1-aa5a-e3b6ad1b109d,Wellsville Brewing Company,brewpub,104 N Main St,,,Wellsville,New York,14895,United States,5855961214,http://www.wellsvillebrewingcompany.com,-77.947168,42.121626
+391847c9-a5ad-496f-a74e-586ff829fc0d,West Kill Brewing,taproom,2173 Spruceton Rd,,,West Kill,New York,12492-5823,United States,5189896001,http://www.westkillbrewing.com,-74.292592,42.191233
+13bcbdcc-50e5-4669-bfad-8001c7b17d90,West Shore Brewing Co,taproom,10995 Main St,,,Clarence,New York,14031-1735,United States,7169983752,http://westshorebrewing.com,-78.577663,42.980977
+0e962e59-46ac-4872-8153-bc03bb29e8f4,Westhampton Beach Brewing Company,taproom,220 Rogers Way Ste I,,,Westhampton Beach,New York,11978,United States,6319980800,http://www.westhamptonbeachbrewingco.com,-72.6428,40.826
+54e4ea1c-6210-48c0-a3d1-c7edd491a640,Westtown Brew Works,taproom,236 Schefflers Rd,,,Westtown,New York,10998,United States,8453044152,http://www.westtownbrewworks.com,-74.530365,41.312044
 57d2e357-67f2-4d21-8116-ca0403eb50ce,WhichCraft Brews,brewpub,1900 Empire Blvd,,,Webster,New York,14580-1934,United States,5852222739,http://www.whichcraftbrews.com,-77.501948,43.193429
 a299a563-434d-45ea-babc-0e0b3b0434ec,Whitman Brewing Company,planning,,,,Saratoga Springs,New York,12866,United States,6317868701,http://www.whitmanbrewing.com,,
 729eb0a6-cc43-408e-9f9d-e35321d65261,Wild East Brewing Co.,planning,,,,Brooklyn,New York,11215-5511,United States,,http://www.wildeastbrewing.com,,
-99610e23-42f0-4372-9a4e-46b290c721ff,Willow Rock Brewing Company,micro,115 Game Rd,,,Syracuse,New York,13210-4216,United States,3159286948,http://www.willowrockbrew.com,-76.13147154,43.01155518
-e335f6c4-199e-445c-be2d-50a3984f8afd,Windy Brew,micro,733 Route 20a,,,Strykersville,New York,14145-9584,United States,5858054006,http://www.windybrews.com,,
+ae4f2ad1-26b7-44fb-8874-b85578526dcc,Wild East Brewing Co.,taproom,623 Sackett Street,,,Brooklyn,New York,11217,United States,7187975135,http://www.wildeastbrewing.com,-73.983342,40.678652
+63ce09f2-be24-4235-b452-195fc9bf21df,Willow Creek Farm Brewery,taproom,319 Bliss Gulf Rd,,,Oneonta,New York,13820-4158,United States,6074319740,,-75.022371,42.590562
+99610e23-42f0-4372-9a4e-46b290c721ff,Willow Rock Brewing Company,taproom,115 Game Rd,,,Syracuse,New York,13210-4216,United States,3159286948,http://www.willowrockbrew.com,-76.131792,43.012539
+e335f6c4-199e-445c-be2d-50a3984f8afd,Windy Brew,brewpub,733 Route 20A,,,Strykersville,New York,14145-9584,United States,5858054006,http://www.windybrews.com,-78.435238,42.771282
 45e09697-d154-4da0-96bc-63900f0ede6d,Winnerâs Circle Brewing Company,contract,21 Whistler Court Apt 4,,,Saratoga Springs,New York,12866,United States,5183657864,http://www.winnerscirclebeer.com,,
-d362f9fe-3375-46e8-a846-62cf28e85f89,Wolf Hollow Brewing Company,micro,6882 Amsterdam Rd,,,Schenectady,New York,12302,United States,5182144093,http://www.wolfhollowbrewing.com,-74.0809254,42.8969263
-7907c24f-b644-4e25-a1f5-4a5c6d71523c,Wood Boat Brewery,brewpub,625 Mary St Ste A,,,Clayton,New York,13624-1131,United States,3156863233,http://www.woodboatbrewery.com,,
-08d6f6e4-d86e-42e2-9d2c-e6ca880851f9,Wood Kettle Brewing,brewpub,1192 Manitou Rd,,,Hilton,New York,14468-9331,United States,5853664183,,,
-4924fb50-adeb-4611-884b-54be9c24fa55,Woodcock Brothers Brewing,brewpub,638 Lake St,,,Wilson,New York,14172-9600,United States,7163334000,http://www.woodcockbrothersbrewery.com,-78.825882,43.299013
+28e980bc-3d4d-4df0-b868-1aa625a3cae9,Wolf & Warrior Brewing Company,brewpub,195 E Post Rd,,,White Plains,New York,10601,United States,9143688617,http://www.wolfandwarrior.com,-73.763339,41.029964
+d362f9fe-3375-46e8-a846-62cf28e85f89,Wolf Hollow Brewing Company,taproom,6882 Amsterdam Rd,,,Schenectady,New York,12302,United States,5182144093,http://www.wolfhollowbrewing.com,-74.067445,42.894334
+7907c24f-b644-4e25-a1f5-4a5c6d71523c,Wood Boat Brewery,brewpub,625 Mary St Ste A,,,Clayton,New York,13624-1131,United States,3156863233,http://www.woodboatbreweryny.com,-76.087577,44.238349
+08d6f6e4-d86e-42e2-9d2c-e6ca880851f9,Wood Kettle Brewing,taproom,1192 Manitou Rd,,,Hilton,New York,14468-9331,United States,5853664183,,-77.749976,43.254496
+4924fb50-adeb-4611-884b-54be9c24fa55,Woodcock Brothers Brewing,brewpub,638 Lake St,,,Wilson,New York,14172-9600,United States,7163334000,http://www.woodcockbrothersbrewery.com,-78.825364,43.298462
+c4bc357d-65db-4c06-8c42-8be884b1771f,Woodcock Brothers Brewing - North Tonawanda,brewpub,908 Niagara Falls Blvd,,,North Tonawanda,New York,14120,United States,,,-78.842547,43.061023
 4df98b72-a45e-414f-a813-909bdc077119,Wooden Skiff Beer Co.,contract,,,,Buffalo,New York,14216-3611,United States,7062285064,http://www.woodenskiff.com,,
-0ab6358c-dc9b-498f-aea5-255663a02be3,Woodland Farm Brewery,micro,6002 Trenton Rd,,,Utica,New York,13502-6224,United States,3158643051,http://www.woodlandbeer.com,-75.212678,43.148929
-a83ffb66-54d3-41f7-828a-4cdf2aad7c38,Woodstock Brewing,micro,5581 NY-28,,,Phoenicia,New York,12464,United States,8456880054,http://www.drinkwoodstock.com,,
+0ab6358c-dc9b-498f-aea5-255663a02be3,Woodland Farm Brewery,brewpub,6002 Trenton Rd,,,Utica,New York,13502-6224,United States,3158643051,http://www.woodlandbeer.com,-75.212512,43.151083
+a83ffb66-54d3-41f7-828a-4cdf2aad7c38,Woodstock Brewing,brewpub,5581 NY-28,,,Phoenicia,New York,12464,United States,8456880054,http://www.drinkwoodstock.com,-74.307095,42.063258
 882efb69-a366-4fb2-a4c6-2062a7920139,WT Brews LLC,micro,3 W Genesee St,,,Baldwinsville,New York,13027-1104,United States,3158573266,http://www.wtbrews.com,-76.33288571,43.15855314
-a125dc73-3d86-477e-ab26-b8de21f7ecce,Yard Owl Craft Brewery,brewpub,19 Osprey Ln,,,Gardiner,New York,12525-5339,United States,8456338576,http://www.yardowlcraftbrewery.com,-74.14716916,41.69154658
-7470dd0b-f925-4fb2-87a7-3007fba745ad,Yonkers Brewing Co,micro,92 Main St,,,Yonkers,New York,10701-7065,United States,9143915805,http://www.yonkersbrewing.com,-73.9029331,40.9345744
-202233a3-1731-405f-b344-8d7bb8975a1c,Young Lion Brewing Co,micro,24 Lakeshore Dr,,,Canandaigua,New York,14424-2333,United States,5852034337,http://www.younglionbrewing.com,-77.26938995,42.87560967
+80734950-71e1-41fd-b17b-aa96b453c8ab,WT Brews LLC,taproom,3482 Patchett Rd,,,Baldwinsville,New York,13027,United States,3157203264,http://www.wtbrews.com,-76.269049,43.15427
+a125dc73-3d86-477e-ab26-b8de21f7ecce,Yard Owl Craft Brewery,micro,19 Osprey Ln,,,Gardiner,New York,12525-5339,United States,8456338576,http://www.yardowlcraftbrewery.com,-74.147013,41.691668
+7470dd0b-f925-4fb2-87a7-3007fba745ad,Yonkers Brewing Co,brewpub,92 Main St,,,Yonkers,New York,10701-7065,United States,9143915805,http://www.yonkersbrewing.com,-73.902899,40.934342
+202233a3-1731-405f-b344-8d7bb8975a1c,Young Lion Brewing Co,micro,24 Lakeshore Dr,,,Canandaigua,New York,14424-2333,United States,5852034337,http://www.younglionbrewing.com,-77.269823,42.875919
+7198c27a-18de-4801-ba41-cf23e0a9c464,Zeus Brewing Company,micro,178 Main St,,,Poughkeepsie,New York,12601,United States,8453204560,http://www.zeusbrewingco.com,-73.932153,41.704723

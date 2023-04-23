@@ -1,110 +1,178 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 d35b40b0-a3ff-4878-a6ee-9caa2149b521,"1623 Brewing CO, llc",contract,1146 colonel Joshua Ct,,,Westminister,Maryland,21157,United States,,,,
-4e84a8d0-0d52-431e-a57a-da8977625bd2,7 Locks Brewing,micro,12227 Wilkins Ave,,,Rockville,Maryland,20852-1833,United States,3018417123,http://www.7locksbrewing.com,,
-9379b79b-63c2-4ce3-9605-f499f7915f7e,"Antietam Brewery,LLC",micro,140 Western Maryland Pkwy Unit G,,,Hagerstown,Maryland,21740-5197,United States,3017915915,http://www.antietambrewery.com,,
+b99fdb4c-81d7-4834-94aa-d090c34a8589,1812 Brewery,taproom,13006 Mason Road,,,Cumberland,Maryland,21502,United States,3018761808,http://1812brewery.com,-78.698224,39.701805
+4e84a8d0-0d52-431e-a57a-da8977625bd2,7 Locks Brewing,taproom,12227 Wilkins Ave,,,Rockville,Maryland,20852-1833,United States,3018417123,http://www.7locksbrewing.com,-77.111813,39.056249
+945e05c2-aee2-480b-b15a-a9e9a149e442,AleCraft Brewery,taproom,319 S Main St,,,Bel Air,Maryland,21014-3917,United States,4104205102,http://www.alecraftbrewery.com,-76.345661,39.53378
+9379b79b-63c2-4ce3-9605-f499f7915f7e,"Antietam Brewery,LLC",micro,140 Western Maryland Pkwy Unit G,,,Hagerstown,Maryland,21740-5197,United States,3017915915,http://www.antietambrewery.com,-77.760171,39.640347
 d94c95b9-509c-4d53-86a6-769555e1773e,Astro Lab Brewing,planning,,,,Silver Spring,Maryland,20910-4519,United States,3106910475,http://www.astrolabbrewing.com,,
-724a6296-cdac-4d35-92fd-cc44960010ff,Attaboy Beer,micro,400 Sagner Ave Ste 400,,,Frederick,Maryland,21701-6083,United States,4157106459,,,
+21511f17-e18e-4bc4-a1b9-4b51e6192d8c,Astro Lab Brewing,brewpub,8216 Georgia Ave,,,Silver Spring,Maryland,20910-4519,United States,3012739684,http://www.astrolabbrewing.com,-77.027123,38.992105
+e99fcab6-fab1-4da5-9f3e-161882b2a112,Attaboy Barrel House,taproom,24 S Wisner St,,,Frederick,Maryland,21701-6083,United States,4157106459,,-77.403285,39.4121
+724a6296-cdac-4d35-92fd-cc44960010ff,Attaboy Beer,taproom,400 Sagner Ave Ste 400,,,Frederick,Maryland,21701-6083,United States,4157106459,http://www.attaboybeer.com,-77.402056,39.412151
 6918f40b-ab41-4fd8-bea0-ae8a5ce5664a,B.C. Brewery,micro,10950 Gilroy Rd Ste F,,,Hunt Valley,Maryland,21031-1327,United States,4433913847,http://www.bcbrewerymd.com,,
+58883627-ae99-4b3a-ad17-42b366fbb13c,B.C. Brewery,taproom,10950 Gilroy Rd,,,Hunt Valley,Maryland,21031-1327,United States,4433184867,http://www.bcbrewerymd.com,-76.66175,39.483221
+b12359fc-7cf1-480b-9e80-e5267ffe551b,BabyCat Brewery,taproom,10241 Kensington Pkwy,,,Kensington,Maryland,20895,United States,2023024369,,-77.07057,39.025844
 e6df4e9e-1833-49b0-90e5-69c565c5da83,Back Creek Brewing Company,planning,,,,Annapolis,Maryland,21401-4019,United States,4103206904,http://www.backcreekbrewing.com,,
 b617c420-3a48-41f3-a529-68dccd1e253f,Backshore Brewing Co.,brewpub,913 Atlantic Ave,,,Ocean City,Maryland,21842-6689,United States,4102890008,http://www.BackshoreBrew.com,,
 17d563f1-e620-4a74-8d39-3486312454f2,Baltimore Washington Beer Works,contract,2500 Grays Rd,,,Dundalk,Maryland,21222,United States,4438476223,http://www.ravenbeer.com,,
 63e51e47-8ece-4348-bdbc-313f2d8be6e2,Barley and Hops Grill,brewpub,5473 Urbana Pike,,,Frederick,Maryland,21704-7275,United States,3016685555,http://www.barleyandhops.net,-77.3995969,39.38204685
+a353da4c-3825-4e18-b6dd-d6890f95a117,Battery Island Brewing Company,taproom,101 North Washington St,,,Havre De Grace,Maryland,21078,United States,4439870065,http://www.batteryislandbrewing.com,-76.08945,39.547879
+95012683-10c9-4071-afb8-264011990121,Bay Life Brewing,taproom,7901 Oceano Ave Unit 20-24,,,Jessup,Maryland,20794,United States,,,-76.783207,39.155945
+dc3de023-c894-4dc1-a342-1491b4fbb444,Bayheads Brewing Company,micro,2525 Augustine Herman HWY Suite D,,,Chesapeake City,Maryland,21915,United States,,http://www.bayheadsbrewing.com,-75.819072,39.520632
 04fdb76b-b189-4234-a26e-caa9a43d55f0,Big Truck Brewery,planning,,,,Parkton,Maryland,21120-9004,United States,4436775451,http://www.bigtruckfarms.com,,
 88559f42-b68b-4ba9-963c-c15d13986a72,Bird Nickel Brewing Company,planning,,,,Easton,Maryland,21601-3904,United States,4103106042,,,
-f6cc21c0-039d-4257-9869-b168502185d6,Black Flag Brewing Company,micro,9315 Snowden River Pkwy,,,Columbia,Maryland,21046-2091,United States,4438645139,http://www.blackflagbrewingco.com,-76.810364,39.192524
+f6cc21c0-039d-4257-9869-b168502185d6,"Black Flag Brewing Company, LLC",taproom,9315 Snowden River Pkwy,,,Columbia,Maryland,21046-2091,United States,4438645139,http://www.blackflagbrewingco.com,-76.846701,39.177185
+866d2c0a-07d7-49bf-b0f3-e003a9996625,Black Locust Hops Farm Brewery,taproom,21305 HEATHCOTE RD  ,,,Freeland,Maryland,21053,United States,,http://https://www.blacklocusthops.com/,-76.664645,39.709648
+75f31813-b7fe-4dfd-bb38-b13dda10b5be,Black Viking Brewing,micro,656 Coral Reef,,,Gaithersburg,Maryland,20878,United States,3012725422,http://www.blackvikingbrewing.com,-77.212172,39.122403
+119fad0c-ca64-4996-abc6-47dad40fb698,"Bog Turtle Brewery, LLC",taproom,10 E. MAIN ST.  PO BOX 190,,,RISING SUN,Maryland,21911,United States,4847580416,http://www.bogturtlebrewery.com,-76.062407,39.697894
+b1c78597-7ba3-4618-925f-c19ed5d8f656,Bordeleau Vineyards & Winery,taproom,3155 Noble Farm Rd,,,Eden,Maryland,21822,United States,4106773334,http://www.bordeleauwine.com,-75.716442,38.281068
 a3e3c312-6c4e-4bf1-b096-d1517e6f0bf5,Brawling Bear,micro,15 Fulks Corner Ave,,,Gaithersburg,Maryland,20877-2067,United States,2408423272,http://www.brawlingbear.com,,
 24809e21-a74e-4177-b138-99aae56fe7f9,Brew House No 16,brewpub,831 N Calvert St,,,Baltimore,Maryland,21202-3705,United States,4106594084,http://www.brewhouseno16.com,-76.61271192,39.29963095
-61c3bf4d-95e0-4afd-8d93-b2764ae5eba5,Brewer's Alley Restaurant and Brewery,brewpub,124 N Market St,,,Frederick,Maryland,21701-5422,United States,3016310089,http://www.brewers-alley.com,-77.41045515,39.41607325
+61c3bf4d-95e0-4afd-8d93-b2764ae5eba5,Brewer's Alley Restaurant and Brewery,brewpub,124 N Market St,,,Frederick,Maryland,21701-5422,United States,3016310089,http://www.brewers-alley.com,-77.410428,39.416043
+65557a0c-3e86-477f-8f42-97206c757150,Brewery Fire,micro,4337 Old Taneytown Rd STE B,,,Taneytown,Maryland,21787,United States,4106806005,http://www.breweryfire.com,-77.153399,39.647247
 33f3c0ee-2a5c-4698-8345-b4db2950dd0d,Broken Gate Brewing,planning,,,,Baltimore,Maryland,21230-4464,United States,3103453570,,,
-47ce7e5f-74fe-4a8e-8fe0-35ecd8338537,Brookeville Beer Farm,micro,20315 Georgia Ave,,,Brookeville,Maryland,20833-1711,United States,3012601000,http://www.brookevillebeerfarm.com,-77.0579247,39.1780888
-cd922df7-7e27-4fdd-9beb-a203c859b25f,Bull and Goat Brewery,micro,204 Banjo Ln,,,Centreville,Maryland,21617-1067,United States,,http://www.bullandgoatbrewery.com,,
-90e8f363-3b72-4ca9-bef8-b3a2ab6008df,Burley Oak Craft Brewery,micro,10016 Old Ocean City Blvd,,,Berlin,Maryland,21811-1145,United States,4104228887,http://www.burleyoak.com,-75.2169864,38.3336448
+47ce7e5f-74fe-4a8e-8fe0-35ecd8338537,Brookeville Beer Farm,taproom,20315 Georgia Ave,,,Brookeville,Maryland,20833-1711,United States,3012601000,http://www.brookevillebeerfarm.com,-77.06247,39.189777
+cd922df7-7e27-4fdd-9beb-a203c859b25f,Bull and Goat Brewery,taproom,204 Banjo Ln,,,Centreville,Maryland,21617-1067,United States,,http://http://bullandgoatbrewery.com,-76.062756,39.045009
+90e8f363-3b72-4ca9-bef8-b3a2ab6008df,Burley Oak Craft Brewery,micro,10016 Old Ocean City Blvd,,,Berlin,Maryland,21811-1145,United States,4104228887,http://www.burleyoak.com,-75.216898,38.333552
+b1f73995-78cb-47b1-b503-8821756cedcd,Burnish Beer Co.,brewpub,2305 Northwood Drive,,,Salisbury,Maryland,21801,United States,4433664409,http://www.burnishbeerco.com,-75.57513,38.407067
 47b3c151-04cb-47bb-8b74-f46bd3ee1fc3,"BW Farm, LLC",planning,,,,Owings,Maryland,20736-9109,United States,2406727995,,,
-66830819-c0ed-462b-b7c6-5b6006fa7df0,Calvert Brewing Co,micro,150 Adelina Rd,,,Prince Frederick,Maryland,20678-3709,United States,4104148486,http://www.calvertbrewingcompany.com,,
-a440c125-f424-4b18-9adc-27c2965ce6ac,Calvert Brewing Co,micro,15850 Commerce Ct,,,Upper Marlboro,Maryland,20774-7437,United States,2402454609,http://calvertbrewingcompany.com,,
+66830819-c0ed-462b-b7c6-5b6006fa7df0,Calvert Brewing Co,micro,150 Adelina Rd,,,Prince Frederick,Maryland,20678-3709,United States,4104148486,http://www.calvertbrewingcompany.com,-76.610425,38.507535
+a440c125-f424-4b18-9adc-27c2965ce6ac,Calvert Brewing Co,micro,15850 Commerce Ct,,,Upper Marlboro,Maryland,20774-7437,United States,2402454609,http://calvertbrewingcompany.com,-76.730864,38.886283
+8be5c301-f8eb-4b3a-9f1e-5765ec5d17bb,Charm City Meadworks,taproom,400 E Biddle St,,,Baltimore,Maryland,21202,United States,,,-76.610425,39.303843
 6264ddf4-1dc2-4591-baed-ad889c0b5230,Checkerspot Brewing Company,brewpub,175 W Ostend St,,,Baltimore,Maryland,21230,United States,4105915527,http://www.checkerspotbrewing.com,-76.6195028,39.2749156
 7646821c-eb5d-4e8f-888e-d1f76f9cb366,Chesapeake Brewing Co,brewpub,114 West St,,,Annapolis,Maryland,21401-2802,United States,4102680000,http://www.chesbrewco.com,-76.4974843,38.9780984
-b2763258-7b12-4551-b16f-3c9deba2bc7e,Chesepiooc Real Ale Brewery,micro,2408 Crofton Blvd,,,Crofton,Maryland,21114,United States,4106301579,http://www.brewcrab.com,-76.69804666,39.01687169
+b2763258-7b12-4551-b16f-3c9deba2bc7e,Chesepiooc Real Ale Brewery,taproom,2408 Crofton Blvd,,,Crofton,Maryland,21114,United States,4106301579,http://www.brewcrab.com,-76.698155,39.015335
 55191259-586a-4fb8-9050-33b7e0540a74,Costa Ventosa Winery & Vineyard,brewpub,9031 Whaleyville Rd,,,Whaleyville,Maryland,21872-2116,United States,4433339867,http://www.costaventosa.com,-75.26004107,38.42358687
 9b94f17c-c19e-4a58-8621-a0beef7db4cd,Crooked Crab Brewing Company,micro,8251 Telegraph Rd,,,Odenton,Maryland,21113,United States,4435699187,http://www.cookedcrabbrewing.com,-76.69482405,39.09729159
 425d365e-db70-46c4-be09-d000727eb003,Cult Classic Brewing,planning,,,,Stevensville,Maryland,21666-4051,United States,4432236480,http://www.cultclassicbrewing.com,,
+53a6c4f6-05ee-40eb-970c-a2d7c0cebdda,Cult Classic Brewing,brewpub,1169 Shopping Center Rd,,,Stevensville,Maryland,21666-4051,United States,4109808097,http://www.cultclassicbrewing.com,-76.297997,38.975746
 f9be35ca-e823-4321-b7be-837ac5c152a3,Cushwa Brewing Co,micro,10212 Governor Lane Blvd Ste 1012,,,Williamsport,Maryland,21795,United States,,http://www.cushwabrewing.com,,
-da34f414-042a-4e65-ad6e-3069b6a205d0,Dempsey's Brew Pub and Restaurant - Baltimore,brewpub,333 W Camden St,,,Baltimore,Maryland,21201,United States,4108437901,http://www.dempseysbaltimore.com,-76.62013833,39.28518467
-1a390f44-9b37-4c41-b482-c974f068092a,Denizens Brewing Company,brewpub,1115 E West Hwy,,,Silver Spring,Maryland,20910-4852,United States,3015579818,http://www.denizensbrewingco.com,-77.02848142,38.98957715
-117dfbba-3145-4e39-b43d-5cc9964d2467,DuClaw Brewing Co,regional,8901 Yellow Brick Rd Ste B,,,Baltimore,Maryland,21237-2349,United States,4435599900,http://www.duclaw.com,,
-75378a8b-95fc-4a6a-8c7f-b00e4df75d64,Eastern Shore Brewing,micro,605 S Talbot St,,,Saint Michaels,Maryland,21663,United States,4107458010,http://www.easternshorebrewing.com,-76.2219945,38.78113562
+da34f414-042a-4e65-ad6e-3069b6a205d0,Dempsey's Brew Pub and Restaurant - Baltimore,brewpub,333 W Camden St,,,Baltimore,Maryland,21201,United States,4108437901,http://www.dempseysbaltimore.com,-76.622021,39.285025
+1a390f44-9b37-4c41-b482-c974f068092a,Denizens Brewing Company,brewpub,1115 E West Hwy,,,Silver Spring,Maryland,20910-4852,United States,3015579818,http://www.denizensbrewingco.com,-77.02747,38.988706
+ba6c3ec5-3db8-416b-87df-3a73f4dca11c,Denizens Brewing Company,brewpub,4550 Van Buren St,,,Riverdale,Maryland,20737,United States,3015579818,,-76.9383,38.9645
+e8d261ba-8741-4db6-95dd-2d85864ca37f,Diageo/Guinness Open Gate Brewery,office only location,5001 Washington Blvd,,,Halethorpe,Maryland,21227-5000,United States,8009092645,http://www.guinnessbrewerybaltimore.com,-76.696004,39.225171
+5de76298-e9b3-4496-9428-5cbdd63a9f32,Diamondback Brewing Company,brewpub,1215 E Fort Ave,,,Baltimore,Maryland,21230-5276,United States,4433889626,http://www.diamondbackbeer.com,-76.597915,39.268681
+0d658f69-58df-457e-bbcc-4adfa14c227c,Dig Deep Brewing Co,taproom,"2 Howard Street, Suite B",,,Cumberland,Maryland,21502,United States,2405221288,http://Www.digdeepbrewery.com,-78.761588,39.648317
+eb0c81b5-7ee8-4012-ae29-952ced40e045,Double Groove Brewing,taproom,1659 Robin Cir Suite D,,,Forest Hill,Maryland,21050,United States,4438256499,http://www.doublegroovebrewing.com,-76.35861,39.568656
+117dfbba-3145-4e39-b43d-5cc9964d2467,DuClaw Brewing Company,regional,8901 Yellow Brick Rd Ste B,,,Baltimore,Maryland,21237-2349,United States,4435599900,http://www.duclaw.com,-76.47829,39.340127
+75378a8b-95fc-4a6a-8c7f-b00e4df75d64,Eastern Shore Brewing,taproom,605 S Talbot St,,,Saint Michaels,Maryland,21663,United States,4107458010,http://www.easternshorebrewing.com,-76.222193,38.781613
+05021df4-7e88-4449-a9ed-46be6085c533,Elder Pine Brewing & Blending Co,taproom,4200 Sundown Road,,,Gaithersburg,Maryland,20882,United States,,http://www.elderpine.com,-77.083343,39.221437
 44d62e5e-209d-4432-8149-715add60e6d4,Elder Pine Brewing and Blending Co,micro,4200 Sundown Rd,,,Gaithersburg,Maryland,20882,United States,,http://www.elderpine.com,,
 cffb4a0f-1336-4544-b7f4-eb19b7087045,Ellicott Mills Brewing Co,brewpub,8308 Main St,,,Ellicott City,Maryland,21043-4601,United States,4103138141,http://www.ellicottmillsbrewing.com,-76.79944314,39.2681041
-375f4801-e257-44f8-af0c-1e4bb3804b20,Evolution Craft Brewing Co,regional,200 Elmwood St,,,Salisbury,Maryland,21804-5522,United States,4432602337,http://www.evolutioncraftbrewing.com,-75.595254,38.361979
-fe4a7fe6-9a1a-4e6b-8a7b-d4ddd6ad0efd,Evolution Craft Brewing Co - Salisbury,brewpub,201 E Vine St,,,Salisbury,Maryland,21804-5515,United States,,,-75.595628,38.360471
-e5467256-ec72-496e-82ff-8a5bf07bf2c1,Falling Branch Brewery,micro,825 Highland Rd,,,Street,Maryland,21154-1312,United States,,http://fallingbranchbeer.com,-76.3708166,39.66665004
+375f4801-e257-44f8-af0c-1e4bb3804b20,Evolution Craft Brewing Co,micro,200 Elmwood St,,,Salisbury,Maryland,21804-5522,United States,4432602337,http://www.evolutioncraftbrewing.com,-75.596067,38.361378
+fe4a7fe6-9a1a-4e6b-8a7b-d4ddd6ad0efd,Evolution Craft Brewing Co - Salisbury,brewpub,201 E Vine St,,,Salisbury,Maryland,21804-5515,United States,,,-75.596067,38.361378
+e5467256-ec72-496e-82ff-8a5bf07bf2c1,Falling Branch Brewery,micro,825 Highland Rd,,,Street,Maryland,21154-1312,United States,,http://fallingbranchbeer.com,-76.368234,39.664645
 4bd0b915-e78d-4dde-bf1d-549999499aca,Farmacy Brewing,planning,,,,Reisterstown,Maryland,21136-3817,United States,4109352551,,,
-e2b339ba-8984-497a-ba6b-91882dec1515,Flying Dog Brewery,regional,4607 Wedgewood Blvd,,,Frederick,Maryland,21703-7120,United States,3016947899,http://www.flyingdogbrewery.com,-77.42679107,39.3628322
-7ef58914-2624-4d11-9db1-5db5b6375c34,Franklins General Store,micro,5123 Baltimore Ave,,,Hyattsville,Maryland,20781-2042,United States,3019272740,http://Franklinsbrewery.com,-76.94074114,38.95194399
-fc496ca5-6117-4863-b75c-2da11269792a,Frey's Brewing Company,micro,8601 Mapleville Rd,,,Mount Airy,Maryland,21771-9705,United States,3016397146,http://www.freysbrewing.com,,
+f126d8cb-3f0d-4df7-8da7-aaf2f269c57b,Fin City Brewing / Hoopers Crab House,brewpub,12913 Ocean Gtwy,,,Ocean City,Maryland,21842-9505,United States,4102131771,http://https://fincitybrewing.com/,-75.098841,38.335119
+e2b339ba-8984-497a-ba6b-91882dec1515,Flying Dog Brewery,regional,4607 Wedgewood Blvd,,,Frederick,Maryland,21703-7120,United States,3016947899,http://www.flyingdogbrewery.com,-77.426458,39.362692
+dd93c75a-bd65-41ac-846b-55b4534f5e6f,Forward Brewing,brewpub,418 Fourth Street,,,Annapolis,Maryland,21403,United States,4106930513,http://ForwardEastport.com,-76.482309,38.97087
+7ef58914-2624-4d11-9db1-5db5b6375c34,Franklins General Store,brewpub,5123 Baltimore Ave,,,Hyattsville,Maryland,20781-2042,United States,3019272740,http://Franklinsbrewery.com,-76.940276,38.952614
+fc496ca5-6117-4863-b75c-2da11269792a,Frey's Brewing Company,micro,8601 Mapleville Rd,,,Mount Airy,Maryland,21771-9705,United States,3016397146,http://www.freysbrewing.com,-77.202835,39.468592
 e0a21330-f4ab-44ba-8762-4624cff0688d,Frisco Tap House & Push Brewery,brewpub,6695 Dobbin Rd,,,Columbia,Maryland,21045-4755,United States,4103124907,http://www.friscogrille.com,-76.8252248,39.1860574
 0120a1a8-0a8d-41bf-b356-a7ee260e26cd,Full Tilt Brewing,contract,5604 York Road,,,Baltimore,Maryland,21212,United States,,http://www.fulltiltbrewing.com,,
+3ff1cbef-3dc6-4982-a299-9af0e9ef2fee,Gateway Craft Brewing,taproom,2207 Northwood Drive,,,Salisbury,Maryland,21801,United States,4107269213,,-75.579116,38.400286
 9a0a767e-4958-40b0-8ed1-74bd5e719cc2,Gordon Biersch Brewery Restaurant - Annapolis,brewpub,1906 Towne Centre Blvd Ste 155,,,Annapolis,Maryland,21401-3681,United States,4102665965,http://www.craftworksrestaurants.com,,
 f7086ed0-8048-47ae-81a9-6de88b8ee3e5,Gordon Biersch Brewery Restaurant - Baltimore,brewpub,1000 Lancaster St Ste B,,,Baltimore,Maryland,21202-4631,United States,4102309501,http://www.craftworksrestaurants.com,,
 9448e983-7a49-499e-854b-9b2008fe58b2,Gordon Biersch Brewery Restaurant - Rockville,brewpub,200 E Middle Ln Unit A,,,Rockville,Maryland,20850-2206,United States,3013407159,http://www.craftworksrestaurants.com,,
 e355ff68-d879-48f6-bda8-1b68ecc68096,Grail Point Brewery,proprietor,,,,Emmitsburg,Maryland,21727-0702,United States,2408442379,http://www.grailpointbeer.co,,
 686f9013-ad05-449b-bf35-b76061c96c52,Granite City Food & Brewery,brewpub,200 American Way,,,Oxon Hill,Maryland,20745-4502,United States,2404933900,,,
+afae2eca-8767-4af2-bbd1-bfc3f8326886,Great American Brewing Company,taproom,16609 Shepherdstown Pike,,,Sharpsburg,Maryland,21782,United States,2402009832,http://www.greatamericanlightbeer.com,-77.792663,39.438037
 20b1559c-308c-469c-a5d3-91935ed72755,Greene Growlers,brewpub,227 E Diamond Ave,,,Gaithersburg,Maryland,20877,United States,2402616196,http://www.greenegrowlers.com,-77.19355584,39.1419364
 6b18f400-a3e7-4ddd-8445-0b21b3974e3c,Greenspring Brewing Company,micro,,,,Chesapeake Beach,Maryland,20732-4664,United States,4102063918,http://www.greenspringbrewingcompany.com,,
+d6b8a92c-5890-4c87-9a40-4082e4ad9846,Guinness Open Gate Brewery,regional,5001 Washington Boulevard,,,Halethorpe,Maryland,21227,United States,8009092645,,-76.698875,39.223486
 577e47da-8542-4261-a4ec-83b99325a42d,Guinness Open Gate Brewery and Barrel House,large,5001 Washington Blvd,,,Halethorpe,Maryland,21227-5000,United States,9022663839,,-76.69843865,39.222265
 c2c62d00-922c-41be-b603-b3acb04373ee,Gypsy Brewing Company,micro,,,,Huntingtown,Maryland,20639,United States,,,,
 107e6673-b345-431f-83c5-98f04b61ad44,Heart & Solar Brewing,planning,,,,Parkton,Maryland,21120-9253,United States,4104938030,http://www.heartandsolarbrewing.com,,
-856b578f-849c-463b-85e8-6e1ad852d960,Heavy Seas Beer,regional,4615 Hollins Ferry Rd Ste B,,,Baltimore,Maryland,21227-4624,United States,4102477822,http://www.hsbeer.com,,
+856b578f-849c-463b-85e8-6e1ad852d960,Heavy Seas Beer,regional,4615 Hollins Ferry Rd Ste B,,,Baltimore,Maryland,21227-4624,United States,4102477822,http://www.hsbeer.com,-76.675317,39.231028
+3542d5d4-f8a5-45c3-b72c-da799f9b92ca,Homaide Brewing Company,taproom,10212 Governor Lane,,,Williamsport,Maryland,21795,United States,8334662433,http://www.homaidebrewing.com,-77.806402,39.595015
+e62006c8-ee68-4ffd-8210-8f9f14f65480,Hopkins Farm Brewery,taproom,3833 Rider Lane,,,Havre De Grace,Maryland,21078,United States,4109145727,http://www.hopkinsfarmbrewery.com,-76.1833,39.5747
 1e49519f-16fc-4641-8b9c-1c883cf03d12,HopScratch Farm & Brewery,planning,,,,Harwood,Maryland,20776,United States,,,,
 2482f3b6-eb54-4b4b-af1a-7f5bf6cc188d,House Cat Brewing Company,planning,,,,Frederick,Maryland,21704,United States,3016050733,,,
 973edf5b-0239-43fa-9c3d-640bb92a5225,Hysteria Brewing Company,micro,9570 Berger Rd Ste J,,,Columbia,Maryland,21046-1559,United States,4103608319,http://www.hysteriabrewing.com,,
-903fc6d6-d574-4b60-aaee-4ca4ea06c9a5,Independent Brewing Company,micro,418 N Main St,,,Bel Air,Maryland,21014-3509,United States,4108368313,,-76.35647784,39.53986125
-05ebd2ed-d854-4d35-918c-694451eed6d9,Jailbreak Brewing Company,micro,9445 Washington Blvd N Ste F,,,Laurel,Maryland,20723-1380,United States,4433459699,http://www.jailbreakbrewing.com,,
-389d305d-6099-4373-8e09-3c936c05944b,Johanssons Dining House,brewpub,4 W Main St,,,Westminster,Maryland,21157-4816,United States,4108760101,http://www.johanssonsdininghouse.com,-76.9959315,39.5753896
-5328dad1-5eb2-4d03-83d7-4754d185cb55,Key Brewing Co.,micro,2500 Grays Rd,,,Dundalk,Maryland,21222-5044,United States,,,,
-b355c492-9798-4ba6-bb3d-17b3baf27b8b,Mad Science Brewing Company,micro,1619 Buckeystown Pike,,,Adamstown,Maryland,21710,United States,2404098723,http://www.madsciencebrewing.com,,
+7299a9cf-56f5-4cbb-8be8-5ff99f253276,Idiom Brewing Company,taproom,340 E Patrick St,,,Frederick,Maryland,21701-6291,United States,2024457332,http://www.idiombrewing.com,-77.404023,39.413284
+903fc6d6-d574-4b60-aaee-4ca4ea06c9a5,Independent Brewing Company,taproom,418 N Main St,,,Bel Air,Maryland,21014-3509,United States,4109602042,http://www.independentbrew.com,-76.356745,39.539666
+2833a4a5-683d-4ffa-88e8-308de0593e1b,Inverness Brewing,taproom,16200 Markoe Rd,,,Monkton,Maryland,21111,United States,4438292142,http://www.invernessbrewing.com,-76.576593,39.568099
+05ebd2ed-d854-4d35-918c-694451eed6d9,Jailbreak Brewing Company,micro,9445 Washington Blvd N Ste F,,,Laurel,Maryland,20723-1380,United States,4433459699,http://www.jailbreakbrewing.com,-76.82428,39.123964
+389d305d-6099-4373-8e09-3c936c05944b,Johanssons Dining House,brewpub,4 W Main St,,,Westminster,Maryland,21157-4816,United States,4108760101,http://www.johanssonsdininghouse.com,-76.996011,39.575427
+deebcc58-3896-4dfb-b31e-f7cf45ff2b71,Jubilee Farm Fermentations,micro,19860 Pear Hill Road,,,Leonardtown,Maryland,20650,United States,2404981109,http://Jubileefarmfermentations.com,-76.555451,38.212606
+5328dad1-5eb2-4d03-83d7-4754d185cb55,Key Brewing Co.,micro,2500 Grays Rd,,,Dundalk,Maryland,21222-5044,United States,,,-76.461845,39.244476
+eb4f3979-28ad-415a-96f1-68b9cc6b39f9,Landmade  Brewing,brewpub,19124 Jerusalem Rd,,,Poolesville,Maryland,20837,United States,3016857139,http://www.landmadebeer.com,-77.396167,39.164618
+5d09c114-8385-438b-9282-4ad69c031f51,Lillard and Daughters Farms,micro,20752 Penansey Lane,,,Leonardtown,Maryland,20650,United States,,,-76.610377,38.238108
+a7806e92-6f17-4c68-a399-5d0e37ce8a67,Locust Post Brewery,brewpub,31706 Old Adams Road,,,Little Orleans,Maryland,21766,United States,3016973519,,-78.388277,39.702654
+81a9b4ee-2f44-4cfc-a2f0-aaa053bd1b6a,Lone Oak Farm Brewing Company,taproom,5000 Olney Laytonsville Rd.,,,Olney,Maryland,20832,United States,3017751327,http://www.loneoakbrewingco.com,-77.102652,39.177249
+b355c492-9798-4ba6-bb3d-17b3baf27b8b,Mad Science Brewing Company,micro,1619 Buckeystown Pike,,,Adamstown,Maryland,21710,United States,2404098723,http://www.madsciencebrewing.com,-77.463951,39.278961
 7167267a-7a89-448d-8586-9caad8d72bdb,Manor Hill Brewing,micro,4411 Manor Ln,,,Ellicott City,Maryland,21042-6111,United States,4109977771,http://www.manorhillbrewing.com,,
 db1b4d4d-31e9-468d-8fae-2c033f6fcbe4,Market Street Public House,brewpub,200 Market St,,,Denton,Maryland,21629-1037,United States,4104794720,http://www.marketstreet.pub,-75.831804,38.886037
+3a222512-47e4-4cbc-80f3-be9712ce7904,"Maryland Beer Company, LLC",taproom,601 N Bridge St Ste C,,,Elkton,Maryland,21921,United States,4104410874,http://www.mdbeerco.com,-75.838619,39.615179
 8342cc4f-2867-423c-be9c-5384b7e8a3f7,Mastiff Brewery,planning,,,,Middle River,Maryland,21220-2818,United States,3023127011,,,
-d5e5313e-a58c-4076-a44a-07c37cb61d94,Milkhouse Brewery at Stillpoint Farm,micro,8253 Dollyhyde Rd,,,Mount Airy,Maryland,21771-9404,United States,2404011517,http://www.milkhousebrewery.com,,
+9406b904-70a7-434f-9f5f-df7d5d4229ec,Midnight Run Brewing,taproom,912 N East St,,,Frederick,Maryland,21701,United States,2406511424,http://www.midnightrunbrewing.com,-77.403481,39.426112
+d5e5313e-a58c-4076-a44a-07c37cb61d94,Milkhouse Brewery at Stillpoint Farm,taproom,8253 Dollyhyde Rd,,,Mount Airy,Maryland,21771-9404,United States,2404011517,http://www.milkhousebrewery.com,-77.225518,39.460262
+bab74994-41c9-454a-85ec-bc6bfe76c03c,Ministry of Brewing,taproom,1900 E Lombard St,,,Baltimore,Maryland,21231,United States,4106245623,http://www.ministryofbrewing.com,-76.590067,39.291101
 53a0bd5c-f9f3-4ee4-b4b0-0a41cf89376e,Mobtown Brewing Co,planning,,,,Baltimore,Maryland,21224-4716,United States,4104198312,,,
-adfe0535-71ce-4c68-859d-ffdf7a96883b,Monocacy Brewing Co,micro,1781 N Market St,,,Frederick,Maryland,21701-4305,United States,3016310671,,-77.3989904,39.4403205
-578c6794-5cf7-492d-93ea-650309b74025,Monument City Brewing Co,micro,1 N Haven St Ste A,,,Baltimore,Maryland,21224-1614,United States,4105993008,http://www.monumentcitybrewing.com,,
-ab31aeb1-b596-461a-85d2-d0bbdee0b890,Mully's Brewery,micro,141 Schooner Ln Ste 15,,,Prince Frederick,Maryland,20678-3482,United States,4439689426,http://www.mullysbrewery.com,,
+da7066c1-ba5b-4890-adf6-29ebe3513ab6,Mobtown Brewing Company,micro,"4015 Foster Avenue, Suite 400",,,Baltimore,Maryland,21224,United States,4104198312,http://www.mobtownbrewing.com,-76.562626,39.284626
+adfe0535-71ce-4c68-859d-ffdf7a96883b,Monocacy Brewing Co,micro,1781 N Market St,,,Frederick,Maryland,21701-4305,United States,3016310671,,-77.399033,39.440626
+578c6794-5cf7-492d-93ea-650309b74025,Monument City Brewing Co,micro,1 N Haven St Ste A,,,Baltimore,Maryland,21224-1614,United States,4435298131,http://www.monumentcitybrewing.com,-76.562371,39.292926
+ab31aeb1-b596-461a-85d2-d0bbdee0b890,Mully's Brewery,micro,141 Schooner Ln Ste 15,,,Prince Frederick,Maryland,20678-3482,United States,4439689426,http://www.mullysbrewery.com,-76.647939,38.510412
 c53ae7dd-b837-47ed-899f-1179608c7434,National Brewing Company,contract,28102 Baileys Neck Rd,,,Easton,Maryland,21601-8520,United States,4103103553,http://www.nationalpremiumbeer.com,,
+fa7de92b-d777-41aa-abcc-82ad559eb4d6,Nepenthe Brewing Co.,brewpub,3626 Falls Rd,,,Baltimore,Maryland,21211,United States,4437426027,http://www.nepenthebrewingco.com,-76.635443,39.331987
 0a9f352e-21f4-4eb6-a11e-2c4aa3732307,Nepenthe Homebrew & Brewery,planning,,,,Baltimore,Maryland,21211-1900,United States,4434384846,http://www.nepenthehomebrew.com,,
 9d9fecf0-04a2-4fdb-bb1f-3d50e8a79427,Ocean City Brewing Company,brewpub,5509 Coastal Hwy,,,Ocean City,Maryland,21842-3144,United States,4436646842,http://www.ocbrewingcompany.com,-75.06838761,38.37965759
 dd9deed9-dddf-45b9-b439-8a6a4d9be915,"Olde Mother Brewing, LLC",micro,911 E Patrick St,,,Frederick,Maryland,21701-3132,United States,3016241700,http://OldeMother.com,-77.3912138,39.40928
-d5d6202f-bbba-45a5-b363-cf14a1b87ad5,Oliver Brewing Company,micro,4216 Shannon Dr,,,Baltimore,Maryland,21213-2144,United States,4104833302,http://www.oliverbrewingco.com,-76.5531768,39.3149018
-a3525861-0aba-40f8-aff8-1af8bba01946,Patriot Acres Farm Brewery,micro,1621 Millington Rd,,,Sudlersville,Maryland,21668-1427,United States,4107085424,http://www.patriotacresfarmbrewery.com,-75.86736136,39.22228298
-79e4d05e-14c1-4af7-b2a9-192eebe502c0,Peabody Heights Brewery,micro,401 E 30th St,,,Baltimore,Maryland,21218-3935,United States,4104677837,http://www.peabodyheightsbrewery.com,-76.61041505,39.32410525
-f3277674-533f-49bc-8e1a-c8087d019d1b,Pratt Street Ale House,brewpub,206 W Pratt St,,,Baltimore,Maryland,21201-2426,United States,4102448900,http://www.oliverales.com,-76.61815436,39.28659055
+c11e3780-77c4-4758-928a-76241b835f68,"Olde Mother Brewing, LLC",taproom,526 N Market St,,,Frederick,Maryland,21701,United States,2408777392,http://OldeMother.com,-77.409889,39.420881
+d5d6202f-bbba-45a5-b363-cf14a1b87ad5,Oliver Brewing Company,micro,4216 Shannon Dr,,,Baltimore,Maryland,21213-2144,United States,4104833302,http://www.oliverbrewingco.com,-76.553202,39.314817
+8d747cd2-a46c-4e8e-980c-24e2fe9664f0,Pariah Brewing Company,office only location,1700 Union Avenue,,,Baltimore,Maryland,21211,United States,6196420545,http://www.pariahbrewingco.com,-76.643487,39.332289
+f9149a3d-2353-4c37-99a6-0534c84538af,Pariah Brewing Company,micro,1700 Union Ave,,,Baltimore,Maryland,21211,United States,,,-76.643291,39.332292
+a3525861-0aba-40f8-aff8-1af8bba01946,Patriot Acres Farm Brewery,taproom,1621 Millington Rd,,,Sudlersville,Maryland,21668-1427,United States,4107085424,http://www.patriotacresfarmbrewery.com,-75.870724,39.222437
+bd6ac412-751e-4f86-b1e3-c50ae29039bf,Patuxent Brewing Co,taproom,3261 Old Washington Rd Ste 2020,,,Waldorf,Maryland,20602-3231,United States,2407022611,http://www.patuxentbrewing.com,-76.911353,38.622685
+79e4d05e-14c1-4af7-b2a9-192eebe502c0,Peabody Heights Brewery,micro,401 E 30th St,,,Baltimore,Maryland,21218-3935,United States,4104677837,http://www.peabodyheightsbrewery.com,-76.610425,39.324337
+2a87e00f-6915-436d-a041-f6c46944a15c,Pherm Brewing Co,taproom,1041 MD-3,,,Gambrills,Maryland,21054,United States,4433022535,http://https://phermbrewing.com/,-76.685579,39.029211
+fb2ae1e3-612a-42cc-a639-1f8e0d245260,Phoenix Upper Main,brewpub,8308 Main St,,,Ellicott City,Maryland,21043-4601,United States,4103138141,http://www.ellicottmillsbrewing.com,-76.799434,39.268119
+2d3833bc-fe1e-44fb-8e93-0e6e2be44155,Pickett Brewing Company,taproom,1130 S Paca St,,,Baltimore,Maryland,21230,United States,4437218305,http://www.pickettbrewingco.com,-76.627803,39.278813
+6a509f68-39d5-4f88-8353-94a2e04b047f,Pipe The Side Brewing Company,taproom,721 Hanover Pike,,,Hampstead,Maryland,21074-2046,United States,4436392980,http://www.pipethesidebrewingcompany.com,-76.844212,39.594126
+d3cebf39-eb4e-4e95-ba61-7232b0f04b91,Pooles Island Brewing Company,taproom,11695 Crossroads Circle,,,Middle River,Maryland,21220-2818,United States,3023127011,http://www.poolesbrewing.com,-76.402049,39.352011
+f3277674-533f-49bc-8e1a-c8087d019d1b,Pratt Street Ale House,brewpub,206 W Pratt St,,,Baltimore,Maryland,21201-2426,United States,4102448900,http://www.oliverales.com,-76.61815,39.286602
+f9251611-41b4-4411-a52c-5621cb508343,Prospect Point Brewing,taproom,5500a Jefferson Pike,,,Frederick,Maryland,21703,United States,2409979265,,-77.478152,39.388239
 2c797daa-c0a9-4a75-86b0-ed59a6a78b52,Pub Dog Brewing Company,micro,1203 New Windsor Rd,,,Westminster,Maryland,21158-6704,United States,4108483993,http://www.pubdog.com,-77.05229796,39.55045197
-9d404fb4-ccce-4f36-80f1-abcb08db1c7a,RAR Brewing,proprietor,504 Poplar St,,,Cambridge,Maryland,21613-1834,United States,4107257922,http://www.rarbrewing.com,-76.0774552,38.5702289
-82f5632c-93f4-43b4-b98b-b33462688c31,Red Shedman Farm Brewery,micro,13601 Glissans Mill Rd,,,Mount Airy,Maryland,21771-8507,United States,3018315889,http://www.redshedman.com,,
-871fd4b2-cd72-4883-86d1-d9b99e632b29,Rock Bottom Brewery - Bethesda,brewpub,7900 Norfolk Ave,,,Bethesda,Maryland,20814-2502,United States,3016521311,http://www.rockbottom.com,-77.0976716,38.9890033
-a97cece8-723b-47c3-8962-dd9b9cfe57e0,Rockwell Brewery,micro,880 N East St Unit 201,,,Frederick,Maryland,21701-5045,United States,3017324880,http://www.rockwellbrewery.com,,
+9d404fb4-ccce-4f36-80f1-abcb08db1c7a,RAR Brewing,alt prop,504 Poplar St,,,Cambridge,Maryland,21613-1834,United States,4107257922,http://www.rarbrewing.com,-76.07757,38.570238
+07f0d46e-fca9-4db6-a5e7-466f7087c529,Reckless Shepherd,brewpub,"8895 MCGAW RD
+STE A",,,COLUMBIA,Maryland,21045-4746,United States,4103124907,http://www.friscogrille.com,-76.820248,39.187573
+82f5632c-93f4-43b4-b98b-b33462688c31,Red Shedman Farm Brewery,micro,13601 Glissans Mill Rd,,,Mount Airy,Maryland,21771-8507,United States,3018315889,http://www.redshedman.com,-77.194189,39.421494
+871fd4b2-cd72-4883-86d1-d9b99e632b29,Rock Bottom Brewery - Bethesda,brewpub,7900 Norfolk Ave,,,Bethesda,Maryland,20814-2502,United States,3016521311,http://www.rockbottom.com,-77.097726,38.988915
+a97cece8-723b-47c3-8962-dd9b9cfe57e0,Rockwell Brewery,taproom,880 N East St Unit 201,,,Frederick,Maryland,21701-5045,United States,3017324880,http://www.rockwellbrewery.com,-77.402948,39.424764
+d9f3b6f0-9e6a-4d4f-b64e-02ad855b9248,Route 40 Brewing & Distilling Company,taproom,11 W Main St,,,Frostburg,Maryland,21532,United States,240558–9463,http://https://route40brewing.com/,-78.928266,39.657668
 e58f1b87-85b0-4adb-8fb1-d6e1eaa833a6,Rubber Soul Brewing,micro,1930 Northwood Dr,,,Salisbury,Maryland,21801-7824,United States,4433047685,http://www.rubbersoulbrewing.com,-75.58418801,38.39109674
-3f21deb3-122f-44c3-87c2-9e729a40955b,Ruddy Duck Brewery and Grill,brewpub,13200 Dowell Rd,,,Dowell,Maryland,20629,United States,4103943825,http://www.ruddyduckbrewery.com,-76.45795,38.350501
-646f5ed7-b512-4652-aa67-b981d3cfc266,Ruhlman Brewery/Our Ales,micro,2300 Harvey Gummel Rd,,,Hampstead,Maryland,21074-1033,United States,,,,
+3f21deb3-122f-44c3-87c2-9e729a40955b,Ruddy Duck Brewery and Grill,brewpub,13200 Dowell Rd,,,Dowell,Maryland,20629,United States,4103943825,http://www.ruddyduckbrewery.com,-76.457444,38.350352
+646f5ed7-b512-4652-aa67-b981d3cfc266,Ruhlman Brewery/Our Ales,micro,2300 Harvey Gummel Rd,,,Hampstead,Maryland,21074-1033,United States,4102594166,http://www.ourales.com,-76.909852,39.637391
 b52a2cbf-4041-43b6-afbb-151883c9900d,Saints Row Brewing,micro,1211 Taft St,,,Rockville,Maryland,20850-1344,United States,,http://www.saintsrowbeer.com,-77.13401808,39.09361715
-068a0a40-a868-4525-9b1f-c895586877aa,Scorpion Brewing,micro,"929 Skinners Turn Rd, Suite 100",,,Owings,Maryland,20736,United States,7033072400,http://www.scorpionbrewing.com,,
+04d43e01-d0e3-4fdf-ac88-c62e2e9d1802,Saints Row Brewing,taproom,15 Fulks Corner Ave,,,Gaithersburg,Maryland,20877,United States,,http://www.saintsrowbeer.com,-77.195973,39.140417
+22ea379f-b556-468d-a0de-ef5f1f1eead4,Sapwood Cellars,micro,8980 MD-108 Ste MNO,,,Columbia,Maryland,21045,United States,4435429304,http://www.sapwoodcellars.com,-76.824681,39.227752
+068a0a40-a868-4525-9b1f-c895586877aa,Scorpion Brewing,taproom,"929 Skinners Turn Rd, Suite 100",,,Owings,Maryland,20736,United States,7033072400,http://www.scorpionbrewing.com,-76.61873,38.682395
 df710d4d-63ff-4fec-82e6-42b9d2f0f107,Sigma Ingredients LLC,planning,,,,Salisbury,Maryland,21801-6739,United States,4104308903,http://www.sigmaingredients.com,,
 0c576a06-35fd-4e9e-addc-8e4847f46d85,Silver Branch Brewing Company,planning,,,,Silver Spring,Maryland,20910-3487,United States,2028418646,http://www.silverbranchbrewing.com,,
-2c56fb62-1beb-4f7b-9994-c1b4413c8c80,Slate Farm Brewery,micro,2128 Whiteford Rd,,,Whiteford,Maryland,21160-1402,United States,,,-76.3369752,39.7036891
-7d0390dd-7798-4be0-8df3-9dab9fb59ae2,Smoketown Brewing Station,micro,223 W Potomac St,,,Brunswick,Maryland,21716-1117,United States,3018344828,http://www.smoketownbrewing.com,-77.6302935,39.3136514
+f4197d29-d86f-40d9-bc85-ac13940479e4,Silver Branch Brewing Company,micro,"8401 Colesville Rd Ste 150, Silver Branch Brewing Co.",,,SILVER SPRING,Maryland,20910,United States,2028418646,http://www.silverbranchbrewing.com,-77.031052,38.994524
+41403f41-fc8d-4a94-8d77-771f0f191005,Sinepuxent Brewing Company,taproom,8816 Stephen Decatur Hwy,,,Berlin,Maryland,21811,United States,4435133038,http://www.sinbrewing.com,-75.138891,38.301972
+2c56fb62-1beb-4f7b-9994-c1b4413c8c80,Slate Farm Brewery,brewpub,2128 Whiteford Rd,,,Whiteford,Maryland,21160-1402,United States,4105287443,http://www.slatefarmbrewery.com,-76.326366,39.697597
+7d0390dd-7798-4be0-8df3-9dab9fb59ae2,Smoketown Brewing Station,taproom,223 W Potomac St,,,Brunswick,Maryland,21716-1117,United States,3018344828,http://www.smoketownbrewing.com,-77.630284,39.313842
+f2e42245-26ed-4cc5-98ab-cbe84caaeb8f,Smoketown Creekside,taproom,400 Sagner Ave Suite #100,,,Frederick,Maryland,21701,United States,3018344828,,-77.402056,39.412151
+e288bdcf-12a0-492b-987c-ac12936bf60a,Springfield Manor Winery Distillery Brewery,taproom,11836 Auburn Rd,,,Thurmont,Maryland,21788,United States,3012710099,http://www.springfieldmanor.com,-77.432448,39.561034
 061fff88-4a8a-4a81-8a99-2ac2d203732c,Steinhardt Brewing Company,micro,5710 Jefferson Blvd,,,Frederick,Maryland,21703-6947,United States,,http://www.steinhardtbrewing.com,-77.512519,39.391045
+85d27e01-cf2f-4874-b780-cda2309bae0b,Steinhardt Brewing Company,taproom,340 E Patrick St,,,Frederick,Maryland,21703-6947,United States,3014710901,http://www.steinhardtbrewing.com,-77.404023,39.413284
 47b9435c-a74e-47ed-887d-6c0830648d6d,Stillwater Artisanal Ales,contract,720 S Conkling St,,,Baltimore,Maryland,21224-4301,United States,4436685255,,-76.56726435,39.28408355
 31ea7b52-41bb-42de-9287-dffb127d273a,Streetcar 82 Brewing Co.,micro,4824 Rhode Island Ave,,,Hyattsville,Maryland,20781-2034,United States,2407820152,http://www.streetcar82brewing.com,-76.9430028,38.9493263
-e6ca2c99-2803-45b8-8b31-ad9f654d9a91,Suspended Brewing Co,micro,912 Washington Blvd,,,Baltimore,Maryland,21230-2318,United States,3016466359,http://www.suspendedbrewing.com,-76.63148921,39.2831169
-458d02fe-149e-4bad-bcf6-38db49854fc0,Tall Tales Brewing Co. LLC,brewpub,6929 Heron Grove Ct Ste 102,,,Parsonsburg,Maryland,21849-2155,United States,4105432739,http://www.talltalesbrew.com,,
+e6ca2c99-2803-45b8-8b31-ad9f654d9a91,Suspended Brewing Company,taproom,912 Washington Blvd,,,Baltimore,Maryland,21230-2318,United States,3016466359,http://www.suspendedbrewing.com,-76.631489,39.283107
+458d02fe-149e-4bad-bcf6-38db49854fc0,Tall Tales Brewing Co. LLC,brewpub,6929 Heron Grove Ct Ste 102,,,Parsonsburg,Maryland,21849-2155,United States,4105432739,http://www.talltalesbrew.com,-75.469959,38.382288
+8b58857b-0b7d-4a2f-b85c-9a422488e5a7,Ten Eyck Brewing,taproom,205 Grange Hall Rd,,,Queenstown,Maryland,21658-1386,United States,4433473637,http://www.teneyckbrewing.com,-76.076697,38.956088
 a7929906-12e8-4f50-b527-cdccbea3fb42,TenEyck Brewing,planning,,,,Queenstown,Maryland,21658-1386,United States,8134777249,,,
-f81bd42b-4d02-42e4-b298-4329ff834d6e,The Brewer's Art / Old Line Brewery LLC,brewpub,1106 N Charles St,,,Baltimore,Maryland,21201-5557,United States,,http://www.thebrewersart.com,-76.6146068,39.303716
+f81bd42b-4d02-42e4-b298-4329ff834d6e,The Brewer's Art / Old Line Brewers LLC,micro,1106 N Charles St,,,Baltimore,Maryland,21201-5557,United States,4105476925,http://www.thebrewersart.com,-76.616389,39.302775
 109e48c5-be0e-48f6-a017-4269bf6f51c2,The Federal Brewing Company,micro,102 S Main St,,,Federalsburg,Maryland,21632-1215,United States,,http://www.fedbrew.com,-75.77333325,38.69360488
-f8c87072-d4bd-49c5-8f24-736f9b85280f,True Respite Brewing Company,micro,7301 Calhoun Pl Ste 600,,,Derwood,Maryland,20855-2740,United States,3012848447,http://www.truerespite.com,-77.152035,39.108112
+421afcc6-1ce0-49a1-899d-f391226e4351,The Other One Brewing Co,taproom,2305 Philadelphia Avenue,,,Ocean City,Maryland,21842,United States,,http://https://www.theotheronebrewing.com/,-75.077379,38.353283
+f8c87072-d4bd-49c5-8f24-736f9b85280f,True Respite Brewing Company,taproom,7301 Calhoun Pl Ste 600,,,Derwood,Maryland,20855-2740,United States,3012848447,http://www.truerespite.com,-77.149332,39.10807
 ed15a267-a12c-4343-a94f-46ee2488c42a,Tuppers Hop Pocket Ale,contract,6404 Redwing Rd,,,Bethesda,Maryland,20817-5920,United States,3012292027,http://www.tuppersbeers.com,,
 f1f61792-e88e-4d36-8892-fa9ddc7499f8,"Tusculum Farm Enterprises, LLC",planning,,,,Laytonsville,Maryland,20882-2117,United States,8337332216,http://tusculumfarm.com,,
-09d390e3-f8db-47d3-a37f-039f67950c76,Union Craft Brewing,micro,1700 Union Ave Ste D,,,Baltimore,Maryland,21211-1499,United States,4106169282,http://www.unioncraftbrewing.com,,
-d48f7e45-6ea1-45c2-b0a7-c4e60036d903,Waredaca Brewing Company,micro,4017 Damascus Rd,,,Gaithersburg,Maryland,20882-2105,United States,2404322255,http://www.waredacabrewing.com,,
-b0b2d8dd-742f-40ab-8b17-fb335084e5bd,Waverly Brewing Company,micro,1625-C Union Ave,,,Baltimore,Maryland,21211,United States,4434385765,http://www.waverlybrewingcompany.com,,
-a65c58fa-7082-4317-bbc3-a723049bb2a5,White Marsh Brewing Co/Red Brick Station,brewpub,8149 Honeygo Blvd Ste A,,,Baltimore,Maryland,21236-8209,United States,4109317827,http://www.redbrickstation.com,,
+09d390e3-f8db-47d3-a37f-039f67950c76,Union Craft Brewing,micro,1700 W 41st St #420,,,Baltimore,Maryland,21211,United States,4106169282,http://www.unioncraftbrewing.com,-76.644238,39.336303
+4736e21c-b770-4676-bee6-b0901803c364,Union Craft Brewing,micro,1700 W 41st St #420,,,Baltimore,Maryland,21211,United States,4106169282,http://www.unioncraftbrewing.com,-76.644238,39.336303
+1aee7e55-0cfe-4e87-8838-dbb648340256,Upper Stem Brewery,taproom,20150 Leitersburg Pike,,,Hagerstown,Maryland,21742,United States,,http://www.upperstembrewery.com,-77.668518,39.686128
+79784c91-e85a-4635-8707-d265fef84a2e,Valhalla Brewing Company,brewpub,41 Cherry Hill Rd,,,Elkton,Maryland,21921,United States,4432078059,http://www.valhallabrewco.com,-75.851498,39.655214
+d48f7e45-6ea1-45c2-b0a7-c4e60036d903,Waredaca Brewing Company,taproom,4017 Damascus Rd,,,Gaithersburg,Maryland,20882-2105,United States,2404322255,http://www.waredacabrewing.com,-77.08074,39.228683
+b0b2d8dd-742f-40ab-8b17-fb335084e5bd,Waverly Brewing Company,taproom,1625-C Union Ave,,,Baltimore,Maryland,21211,United States,4434385765,http://www.waverlybrewingcompany.com,-76.641317,39.331657
+3d5e7c17-e5de-49d1-b290-e4fe8838504e,Wet City Brewing,brewpub,223 W Chase St,,,Baltimore,Maryland,21201,United States,4438736699,http://www.wetcitybrewing.com,-76.618947,39.301614
+a65c58fa-7082-4317-bbc3-a723049bb2a5,White Marsh Brewing Co/Red Brick Station,micro,8149 Honeygo Blvd Ste A,,,Baltimore,Maryland,21236-8209,United States,4109317827,http://www.redbrickstation.com,-76.464605,39.371874

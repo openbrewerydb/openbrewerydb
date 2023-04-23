@@ -1,431 +1,620 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 1988eb86-f0a2-4674-ba04-02454efa0d31,10 Barrel Brewing Co - Denver,large,2620 Walnut St,,,Denver,Colorado,80205-2231,United States,7205738992,,-104.9853655,39.7592508
-4ffda196-dd59-44a5-9eeb-5f7fd4b58f5a,105 West Brewing Co,micro,1043 Park St,,,Castle Rock,Colorado,80109-1585,United States,3033257321,http://www.105westbrewing.com,-104.8667206,39.38269495
-06e9fffb-e820-45c9-b107-b52b51013e8f,12Degree Brewing,brewpub,820 Main St,,,Louisville,Colorado,80027-1865,United States,3035791004,http://www.12degree.com,-105.1319826,39.9782443
+4ffda196-dd59-44a5-9eeb-5f7fd4b58f5a,105 West Brewing Co,taproom,1043 Park St,,,Castle Rock,Colorado,80109-1585,United States,3033257321,http://www.105westbrewing.com,-104.866048,39.380657
+06e9fffb-e820-45c9-b107-b52b51013e8f,12Degree Brewing,brewpub,820 Main St,,,Louisville,Colorado,80027-1865,United States,3035791004,http://www.12degree.com,-105.131752,39.978288
 4b677b60-fef1-42e2-90ef-dadc1bd7fb06,14er Brewing Company,proprietor,2801 Walnut St,,,Denver,Colorado,80205-2235,United States,7207731437,http://www.14erBrewing.com,-104.9839636,39.7614112
-a1887b5a-0c21-43cf-9547-527b7c11dcf4,3 Freaks Brewing Co,micro,7140 E County Line Rd,,,Highlands Ranch,Colorado,80126-3926,United States,7202990994,http://www.3freaksbrewery.com,-104.9426656,39.5659575
-2f6062af-4d6f-42b2-b4ad-626cf01a1fec,300 Suns Brewing Company,brewpub,335 1st Ave Unit C,,,Longmont,Colorado,80501-5958,United States,,http://www.300sunsbrewing.com,,
+e9207c31-ff0f-423d-aa0d-b5e889c5674a,14er Brewing Company,taproom,3120 Blake St,,,Denver,Colorado,80205,United States,7207731437,http://www.14erBrewing.com,-104.980216,39.764804
+a1887b5a-0c21-43cf-9547-527b7c11dcf4,3 Freaks Brewing Co,taproom,7140 E County Line Rd,,,Highlands Ranch,Colorado,80126-3926,United States,7202990994,http://www.3freaksbrewery.com,-104.905908,39.564863
+2f6062af-4d6f-42b2-b4ad-626cf01a1fec,300 Suns Brewing Company,brewpub,335 1st Ave Unit C,,,Longmont,Colorado,80501-5958,United States,,http://www.300sunsbrewing.com,-105.101052,40.159885
 55de8d28-4231-4497-8ff7-3031e7bb3be5,38 State Brewing,micro,8071 S Broadway Ste A,,,Littleton,Colorado,80122-2730,United States,7206383678,http://www.38statebrew.com,,
-dc652569-19d7-4f63-a999-3e8d5d6798c1,4 Noses Brewing Company,micro,8855 W 116th Cir Ste 3,,,Broomfield,Colorado,80021-2521,United States,7204602797,http://4nosesbrewing.com,,
+dc652569-19d7-4f63-a999-3e8d5d6798c1,4 Noses Brewing Company,micro,8855 W 116th Cir Ste 4,,,Broomfield,Colorado,80021-2521,United States,7204602797,http://4nosesbrewing.com,-105.098596,39.906581
+fd12db1d-4499-4c98-9bf5-67e197aadab4,4 Noses Brewing Company,micro,8855 W 116th Cir Ste 4,,,Broomfield,Colorado,80021-2521,United States,7204602797,http://4nosesbrewing.com,-105.098596,39.906581
 dbf0d7e7-4e2c-4574-9dee-791d95496811,4B's Brewery,brewpub,215 W Main St,,,Cedaredge,Colorado,81413-3339,United States,9708567762,http://www.4bsbrewery.com,-107.925782,38.900614
 e2bb50c4-260f-4f42-8306-392f7bd5f4ba,6 & 40 Brewery/Taproom,planning,,,,Lakewood,Colorado,80215-5548,United States,3032325347,http://www.tomsbrewshop.com,-105.1100582,39.6311085
+54a1e55a-2ddc-44c1-8856-bb63cfd7aefc,6 & 40 Brewery/Taproom,taproom,883 Parfet St Unit J,,,Lakewood,Colorado,80215-5548,United States,3032383272,http://6and40brewery.com,-105.121811,39.730864
 8824022a-0fd9-4727-b6fa-b7aaf65eb043,7 Hermits Brewing Company,brewpub,PO Box 3186,,,Eagle,Colorado,81631-3186,United States,9704714979,http://www.7hermitsbrewing.com,,
+a76d40f3-6e55-4ae9-ae75-5d318a23c462,A Bit Twisted Brewpub,taproom,3095 S Peoria St,,,Aurora,Colorado,80014,United States,2108752956,http://twistedbrewpub.com,-104.84792,39.660759
 b52bfb27-345f-4add-bfc3-1b6fc67ab55b,Acidulous Brewing Company,contract,6712 S Independence St,,,Littleton,Colorado,80128-4046,United States,3039952895,,-105.1059543,39.5383949
 e77c24b4-8b21-4d28-a9c0-568623b77cd9,Aero Craft Brewing,planning,,,,Denver,Colorado,80212-2199,United States,3039185446,http://www.aerocraft.beer,-104.984696,39.7391428
 9d64f11c-4f42-41c6-8ba7-768f7bf9ec13,Alpine Dog Brewing Co,micro,1505 N Ogden St,,,Denver,Colorado,80218-1405,United States,3038321245,http://www.alpinedogbrewery.com,,
+d49ae4e4-3d56-40c3-abd6-c2b6dd6b0c5a,Alpine Dog Brewing Company,micro,1308 E 17th Ave,,,Denver,Colorado,80218-1527,United States,3038321245,http://www.alpinedogbrewery.com,-104.970644,39.743096
 6dcf0b1b-3933-4207-bf88-0a37ee98994a,Alternation Brewing Company,micro,1539 S Broadway,,,Denver,Colorado,80210-2607,United States,3038025340,http://www.alternationbrewing.com,-104.9876117,39.68866374
+3232b0a1-63a0-45f9-8c0a-39df54fb8c2b,Altitude Brewing & Supply,taproom,4577 N Pecos St,,,Denver,Colorado,80211,United States,,http://www.altitudebrew.com,-105.006838,39.779649
+78f37859-3fb2-4ae0-9a29-08e1fb874c1e,Amalgam,taproom,6381 Beach St,,,Denver,Colorado,80221-2036,United States,7204096537,http://www.amalgambrewing.com,-105.018706,39.812448
 1a6103ad-023a-4710-988f-17e47a6732c2,Amalgam Brewing,proprietor,6381 Beach St Unit A,,,Denver,Colorado,80221-2036,United States,,http://www.amalgambrewing.com,,
-c9b30f6c-608f-4762-b041-c4c91e8aeba2,Angry James Brewing Co,micro,421 Adams Ave,,,Silverthorne,Colorado,80498,United States,9704558800,http://www.angryjamesbrewing.com,-106.0764637,39.63306895
+c7561158-a659-4c9f-8424-823cb3193143,Anarchy Brewing Co.,taproom,225 E8th  Ave,,,Durango,Colorado,81301,United States,5056159139,,-107.873868,37.264397
+c9b30f6c-608f-4762-b041-c4c91e8aeba2,Angry James Brewing Co,taproom,421 Adams Ave,,,Silverthorne,Colorado,80498,United States,9704558800,http://www.angryjamesbrewing.com,-106.076193,39.632208
 12bc86df-c66b-4fb9-9f84-5bb405ccb8b1,Anheuser-Busch Inc - Fort Collins,large,2351 Busch Dr,,,Fort Collins,Colorado,80524-9400,United States,9704904500,,-105.0019686,40.61817811
-c498dd04-30b2-4f8f-b06b-c47a34dd61c7,Animas Brewing Co,brewpub,1560 E 2nd Ave,,,Durango,Colorado,81301-5186,United States,9704038850,http://www.animasbrewing.com,-107.8769912,37.27997215
+c498dd04-30b2-4f8f-b06b-c47a34dd61c7,Animas Brewing Co,brewpub,1560 E 2nd Ave,,,Durango,Colorado,81301-5186,United States,9704038850,http://www.animasbrewing.com,-107.876763,37.280007
 051edb66-62ad-455e-a04a-d6a0e5fa4178,Asher Brewing Co,micro,4699 Nautilus Ct S Ste 104,,,Boulder,Colorado,80301-5306,United States,3035301381,http://asherbrewing.com,,
+af3974ef-ee31-45cc-80fa-79bb15c2fcf3,Asher Brewing Co,taproom,4699 Nautilus Ct S,,,Boulder,Colorado,80301-5304,United States,3035301381,http://asherbrewing.com,-105.20576,40.059621
 5b2501b2-d069-4e5f-8c6b-ef9f6ee408cd,Aspen Brewing Company,micro,404 Aspen Airport Business Ctr,,,Aspen,Colorado,81611-3530,United States,9709202739,http://www.aspenbrewingcompany.com,-106.8597747,39.22153402
 325d44c0-53fb-4991-a694-659ac9f89fa9,Atom Brewing Company,micro,654 Moffat St,,,Erie,Colorado,80516,United States,8634120917,http://www.atombrewingcompany.com,-105.0542327,40.0488359
-26567ffb-52fb-40b2-a31f-08f4ea3699b9,Atrevida Beer Company,micro,204 Mount View Ln Unit 3,,,Colorado Springs,Colorado,80908,United States,7192664200,http://www.atrevidabeerco.com,,
-102c478e-ab27-4c8c-82c3-8eaee82959fa,Avalanche Brewing Co,brewpub,1067 Blair St,,,Silverton,Colorado,81433-0377,United States,9703875282,http://www.avalanchebrewing.com,-107.664791,37.8098899
-d07100f1-ab4b-413e-bc07-045ee4d61fe6,Avant Garde Aleworks,micro,920 Dunraven St,,,Estes Park,Colorado,80517,United States,9705912700,https://avantgardealeworks.com,40.3728533,-105.5085669
+26567ffb-52fb-40b2-a31f-08f4ea3699b9,Atrevida Beer Company,taproom,204 Mount View Ln Unit 3,,,Colorado Springs,Colorado,80907,United States,7192664200,http://www.atrevidabeerco.com,-104.818333,38.890013
+102c478e-ab27-4c8c-82c3-8eaee82959fa,Avalanche Brewing Co,brewpub,1151 Greene Street,,,Silverton,Colorado,81433,United States,9703875282,http://www.avalanchebrewing.com,-107.664934,37.8115
+11e26efc-d499-441c-98d3-ba7e4b3c6ca6,Avalanche Brewing Co,brewpub,1151 Greene Street,,,Silverton,Colorado,81433,United States,9703875282,http://www.avalanchebrewing.com,-107.664934,37.8115
+d07100f1-ab4b-413e-bc07-045ee4d61fe6,Avant Garde Aleworks,taproom,920 Dunraven St,,,Estes Park,Colorado,80517,United States,8329693118,,-105.508382,40.372846
 3bde4342-bfc1-49cb-9b40-7fb1aef26886,Avery Brewing Co,regional,4910 Nautilus Ct N,,,Boulder,Colorado,80301-3242,United States,,,-105.2047652,40.0625835
-e25d20e1-1700-45a6-b236-9eb6d01a9434,Baere Brewing Company,micro,"320 Broadway, Unit E",,,Denver,Colorado,80203-3955,United States,9709014810,http://www.baerebrewing.com,,
-2b5fbb61-2e0b-42ec-8d68-dcc62fe244e9,Banded Oak Brewing Company,brewpub,470 N Broadway,,,Denver,Colorado,80203-3404,United States,7204798033,http://Bandedoakbrewing.com,-104.9874187,39.7282897
-57cf86a1-3d0e-4ac7-8f50-b0bae8e34d9c,Barnett and Son Brewing Company,micro,18425 Pony Express Dr Unit 125,,,Parker,Colorado,80134-9605,United States,7204200462,,,
+e25d20e1-1700-45a6-b236-9eb6d01a9434,Baere Brewing Company,taproom,320 Broadway Unit E,,,Denver,Colorado,80203-3955,United States,9709014810,http://www.baerebrewing.com,-104.987139,39.721432
+5c722f67-6eb7-4348-bfb5-680f8a6bd872,Ball Brewing,taproom,7025 Hwy 82 Unit 1a and 2a,,,Glenwood Springs,Colorado,81601,United States,,http://www.ballbrewing.com,-107.268189,39.470408
+2b5fbb61-2e0b-42ec-8d68-dcc62fe244e9,Banded Oak Brewing Company,taproom,470 N Broadway,,,Denver,Colorado,80203-3404,United States,7204798033,http://Bandedoakbrewing.com,-104.987128,39.723729
+57cf86a1-3d0e-4ac7-8f50-b0bae8e34d9c,Barnett and Son Brewing Company,taproom,18425 Pony Express Dr Unit 125,,,Parker,Colorado,80134,United States,7204200462,,-104.775339,39.521866
+716a09c1-c50e-4a1d-9389-842776ae526b,Barquentine Brewing Company,taproom,5505 W. 20th Ave. Ste 178,,,Edgewater,Colorado,80226,United States,3039551238,http://www.barquentinebrewing.com,-105.057069,39.748621
 2907b143-57b4-49ec-aa41-07df64d1e14b,Barrel Dog Brewing,micro,,,,Evergreen,Colorado,80439,United States,5599176846,,-105.321458,39.6361637
 ace9df76-b786-4d17-9be9-33a009f48ba2,Barrels & Bottles Brewery,brewpub,600 12th St Ste 160,,,Golden,Colorado,80401-6145,United States,7203283643,http://www.barrelsbottles.com,-105.2202098,39.7562107
+d72d71c9-e240-4729-81b6-1f92fceb92e5,Barrels & Bottles Brewery - At Camp George West,brewpub,1055 Orchard St,,,Golden,Colorado,80401,United States,3033539832,,-105.179925,39.734689
+25093e01-9148-42ab-aea0-0758de263760,Base Camp Beer Works,taproom,2575 Highway 6 and 50,,,Grand Junction,Colorado,81501,United States,9704627411,http://info@monumentalbeerworks.com,-108.575361,39.074411
+df418383-7dd1-45dd-81ea-5b209e67b58c,Batch Slapped Brewing Company,taproom,5859 Palmer Park Blvd,,,Colorado Springs,Colorado,80915,United States,7192137874,http://www.batchslapped.com,-104.718353,38.856938
+38131f47-2973-40b1-adce-3a964cf91763,Battle Mountain Brewing Company,taproom,1007 S Tejon St,,,Colorado Springs,Colorado,80903-4238,United States,7196345903,http://ww.battlemountainbrewing.com,-104.824096,38.819515
 d5fd0450-160c-444f-a9b3-e027aed21cf4,Beer By Design Brewery,contract,11490 Jackson St,,,Thornton,Colorado,80233-2533,United States,3035172202,http://www.beerbydesign.com,-104.9417886,39.9285623
-9e7c32bd-ac46-4e84-bfec-20a3be839c8e,Berthoud Brewing Company,micro,450 S 8th St Unit B,,,Berthoud,Colorado,80513,United States,9705329850,http://www.berthoudbrewing.com,,
+03957613-1e4e-447b-abb7-2b7d0e74a757,Bell Brothers Brewing,taproom,114 N Tejon,,,Colorado Springs,Colorado,80903,United States,7194824015,http://www.bellbrothersbrewing.com,-104.8236,38.835634
+be52698c-a2bd-4298-b1ce-fb062850b8ee,Berkeley Alley Beer Co.,taproom,4342 Tennyson St,,,Denver,Colorado,80212-2308,United States,3034554267,http://www.berkeleyalleybeer.com,-105.043676,39.77607
+9e7c32bd-ac46-4e84-bfec-20a3be839c8e,Berthoud Brewing Co,brewpub,450 S 8th St Unit B,,,Berthoud,Colorado,80513,United States,9705329850,,-105.082918,40.298423
+1d838555-dcb0-45e1-aca0-b395969a71c5,Berthoud Brewing Company,brewpub,1480 Cascade Ave.,,,Loveland,Colorado,80538,United States,9707752235,http://www.berthoudbrewing.com,-105.129794,40.407739
 01e79aac-e955-4846-826e-1936e03bfd13,Beyond The Mountain Brewing Company,micro,6035 Longbow Dr Unit 109,,,Boulder,Colorado,80301-3203,United States,7574072346,http://www.btmbrewing.com,,
-c3d41248-80ed-4c14-8078-c100308e5450,Bierstadt Lagerhaus,brewpub,2875 Blake St,,,Denver,Colorado,80205-2210,United States,7205707824,http://www.bierstadtlager.com,-104.9838084,39.7630094
-58bbeef3-65a9-4cdf-b2f3-0acb2c53f1f8,BierWerks,brewpub,121 E. Midland Ave,,,Woodland Park,Colorado,80863,United States,7196868100,http://www.bierwerks.com,-105.0519462,38.9941414
-1b8be5f6-7f57-4a6e-830a-3d565e2e03d7,Big Beaver Brewing Co,micro,2707 W Eisenhower Blvd Ste 9,,,Loveland,Colorado,80537-3141,United States,9708186064,http://www.bigbeaverbrew.com,,
-b2ad6e2c-1bdc-45df-a0bc-c8e075949e75,Big Choice Brewing Co,micro,21 S 1st Ave,,,Brighton,Colorado,80601-1603,United States,3034692616,http://www.bigchoicebrewing.com,-104.822433,39.98642943
-797e1d68-c1e1-478c-bc92-9561c7d951b5,Big Thompson Brewery,micro,114 E 15th St,,,Loveland,Colorado,80538-3832,United States,,,-105.0746687,40.40811243
-57b4c49f-7c62-4f88-8027-deeb7aa29a99,BJs Restaurant & Brewery - Boulder,brewpub,1690 28th St,,,Boulder,Colorado,80301-,United States,3034405200,http://www.bjsrestaurants.com,-105.258512,40.0291592
+04d7fd76-7833-45ea-b0a1-b83fdd9d4579,Beyond The Mountain Brewing Company,taproom,6035 Longbow Dr,,,Boulder,Colorado,80301-3203,United States,3035306981,http://www.btmbrewing.com,-105.214885,40.064778
+c3d41248-80ed-4c14-8078-c100308e5450,Bierstadt Lagerhaus,brewpub,2875 Blake St,,,Denver,Colorado,80205-2210,United States,7205707824,http://www.bierstadtlager.com,-104.98398,39.762819
+58bbeef3-65a9-4cdf-b2f3-0acb2c53f1f8,BierWerks,brewpub,121 E. Midland Ave,,,Woodland Park,Colorado,80863,United States,7196868100,http://www.bierwerks.com,-105.051949,38.994162
+1b8be5f6-7f57-4a6e-830a-3d565e2e03d7,Big Beaver Brewing Co,taproom,2707 W Eisenhower Blvd Ste 9,,,Loveland,Colorado,80537-3141,United States,9708186064,http://www.bigbeaverbrew.com,-105.114469,40.407887
+b2ad6e2c-1bdc-45df-a0bc-c8e075949e75,Big Choice Brewing Co,micro,21 S 1st Ave,,,Brighton,Colorado,80601-1603,United States,3034692616,http://www.bigchoicebrewing.com,-104.822698,39.986399
+797e1d68-c1e1-478c-bc92-9561c7d951b5,Big Thompson Brewery,taproom,114 E 15th St,,,Loveland,Colorado,80538-3832,United States,9706198138,,-105.075222,40.408087
+4766e4be-6e81-4b2b-93ed-2b58b98cdc02,Big Trout Brewing Company,taproom,50 Vasquez Rd,,,Winter Park,Colorado,80482,United States,6164463946,http://www.bigtroutbrewing.com,-105.785394,39.916805
+57b4c49f-7c62-4f88-8027-deeb7aa29a99,BJs Restaurant & Brewery - Boulder,brewpub,1690 28th St,,,Boulder,Colorado,80301,United States,3034405200,http://www.bjsrestaurants.com,-105.257751,40.017893
 6cab717d-2883-4869-ab9a-879f09319efb,Black Beak Brewing,planning,,,,Denver,Colorado,80237-1907,United States,3032107836,,-104.984696,39.7391428
-2d1c4b89-4d44-4f47-8ea1-b11fdfc247bd,Black Bottle Brewery,brewpub,1611 S College Ave Ste STE1609,,,Fort Collins,Colorado,80525-1074,United States,9704932337,http://www.blackbottlebrewery.com,,
+2d1c4b89-4d44-4f47-8ea1-b11fdfc247bd,Black Bottle Brewery,brewpub,1611 S College Ave Ste STE1609,,,Fort Collins,Colorado,80525-1074,United States,9704932337,http://www.blackbottlebrewery.com,-105.078353,40.566262
 01a7842a-3139-475e-95e9-e5a671c236ef,Black Cat Brewing,planning,,,,Boulder,Colorado,80302,United States,,http://www.blackcatbrewing.com,-105.2705456,40.0149856
 c8160b2b-3e43-4db3-bbd8-32f07a0a0060,Black Forest Brewing Company,brewpub,11590 Black Forest Rd Ste 50,,,Colorado Springs,Colorado,80908-6000,United States,7193962011,http://www.blackforestbrewco.com,,
 e12bc89b-26c8-4835-a92d-9caa5ad81750,Black Project Spontaneous & Wild Ales,micro,1290 S Broadway,,,Denver,Colorado,80210-1504,United States,7203342873,http://www.blackprojectbeer.com,-104.9872018,39.6933607
-5b5235aa-79f1-41e4-97a1-8f9fdfee1657,Black Shirt Brewing Co,brewpub,3719 Walnut St,,,Denver,Colorado,80205-2436,United States,3039932799,http://www.blackshirtbrewingco.com,-104.9729604,39.7698142
-15855eaa-dfcc-43e4-a0ff-220836e5be63,Black Sky Brewery,brewpub,490 Santa Fe Dr,,,Denver,Colorado,80204-5024,United States,9702154536,http://www.blackskybrewing.com,-104.9983183,39.7239431
+5b5235aa-79f1-41e4-97a1-8f9fdfee1657,Black Shirt Brewing Co,brewpub,3719 Walnut St,,,Denver,Colorado,80205-2436,United States,3039932799,http://www.blackshirtbrewingco.com,-104.97299,39.769859
+15855eaa-dfcc-43e4-a0ff-220836e5be63,Black Sky Brewery,brewpub,490 Santa Fe Dr,,,Denver,Colorado,80204-5024,United States,7207085816,http://www.blackskybrewing.com,-104.998297,39.723937
 de0da44e-8a09-4e8d-8b3a-aca03b39cc23,Blue Moon Brewery,large,3750 Chestnut Pl,,,Denver,Colorado,80216-3632,United States,,,-104.9769417,39.7735561
-b43d9155-7bdb-49af-b0b8-58bc87119cfe,Blue Spruce Brewing,brewpub,4151 E County Line Rd Unit G,,,Centennial,Colorado,80122-8113,United States,3037710590,http://www.bluesprucebrewing.com,,
-20541e39-2e32-455d-9b2b-cb926fc11fa2,Blue Spruce Brewing Littleton,brewpub,10577 W Centennial Rd,,,Littleton,Colorado,80127-4233,United States,,http://www.bluesprucebrewing.com,,
+b43d9155-7bdb-49af-b0b8-58bc87119cfe,Blue Spruce Brewing,brewpub,4151 E County Line Rd Unit G,,,Centennial,Colorado,80122-8113,United States,3037710590,http://www.bluesprucebrewing.com,-104.939978,39.566232
+20541e39-2e32-455d-9b2b-cb926fc11fa2,Blue Spruce Brewing Littleton,brewpub,10577 W Centennial Rd,,,Littleton,Colorado,80127-4233,United States,,http://www.bluesprucebrewing.com,-105.117561,39.567863
 a36d09de-a9a0-4d01-8b2f-7db2c4ab48e3,Boggy Draw Brewery,micro,3535 S Platte River Dr Ste L,,,Sheridan,Colorado,80110-3307,United States,7209400338,http://www.boggydrawbrewing.com,,
 f3cd9907-119e-4d36-82f3-64cceb23c7e0,Bonfire Brewing,micro,127 W 2nd St,,,Eagle,Colorado,81631,United States,9703067113,http://www.bonfirebrewing.com,-106.82826,39.65531966
 2d8a902e-c960-46cc-9222-9dfb2cdfeb46,Bonfire Brewing Production,micro,936 Chambers Ct. B-4,,,Eagle,Colorado,81631-5276,United States,9703067113,,,
-e2c8bc39-b3c3-475a-8552-2b323d1d4e0a,Bootstrap Brewing,micro,142 Pratt St,,,Longmont,Colorado,80501,United States,3036524186,,-105.1062808,40.16140505
+e2c8bc39-b3c3-475a-8552-2b323d1d4e0a,Bootstrap Brewing,micro,142 Pratt St,,,Longmont,Colorado,80501-5865,United States,7204388488,http://www.bootstrapbrewing.com,-105.106205,40.161526
 a3412077-804c-4613-a7e6-9546b47ced90,Bootstrap Brewing Co,micro,6778 N 79th St,,,Niwot,Colorado,80503-7118,United States,3036524186,http://www.bootstrapbrewing.com,-105.1691581,40.09681247
-22046ed7-ceb2-4ba5-a77d-5a158baa87bd,Bottom Shelf Brewery,brewpub,118 E Mill St,,,Bayfield,Colorado,81122,United States,9708842442,http://www.bottomshelfbrewing.com,-107.5990683,37.2251348
+22046ed7-ceb2-4ba5-a77d-5a158baa87bd,Bottom Shelf Brewery,brewpub,118 E Mill St,,,Bayfield,Colorado,81122,United States,9708842442,http://www.bottomshelfbrewery.com,-107.599081,37.225004
 9de1818b-9215-4043-a36b-d1dce42776ae,Boulder Beer Co,regional,2880 Wilderness Pl,,,Boulder,Colorado,80301-5401,United States,,,-105.2480158,40.026439
 d3e1adcf-6b5c-4cbc-95e7-c980ccb79742,Boulder Beer On Walnut,brewpub,1123 Walnut St,,,Boulder,Colorado,80302-5116,United States,3034471345,,-105.2804375,40.0168555
-b1730024-0cb6-4c63-9f4e-8b3d97b85378,Brass Brewing Company,micro,318 E Colorado Ave,,,Colorado Springs,Colorado,80903-1949,United States,,,-104.8189706,38.8326073
+46e5019b-b7f0-4023-b2f6-87756d1aa9f2,Boulder Social,brewpub,1600 38th St,,,Boulder,Colorado,80301-2610,United States,7207163345,,-105.245795,40.015073
+b1730024-0cb6-4c63-9f4e-8b3d97b85378,Brass Brewing Company,taproom,318 E Colorado Ave,,,Colorado Springs,Colorado,80903-1949,United States,,,-104.818912,38.832593
 74633f8b-4260-42f5-8c1d-04eda70a2ecb,Breckenridge Brewery,large,2920 Brewery Ln,,,Littleton,Colorado,80120-2850,United States,3036232739,http://www.breckenridgebrewery.com,,
 4483d018-611f-4c98-a230-369b6fbe791d,Breckenridge Brewery & Pub,large,600 S Main St,,,Breckenridge,Colorado,80424-0075,United States,9704531550,http://www.breckbrewpub.com,-106.0445665,39.47620392
 28af5586-7124-43e6-b99c-c91bc63b90d3,Brew Pub and Kitchen,brewpub,117 W College Dr,,,Durango,Colorado,81301-5407,United States,9702595959,http://www.brewpubkitchen.com,-107.8831549,37.27036464
 b41b75b3-1fda-4ccc-94b9-58ab8b9454c6,Brewability Lab,micro,12445 E 39th Ave Unit 314,,,Denver,Colorado,80239-3456,United States,8163515085,http://www.Brewabilitylab.com,,
-7086390e-9e2a-4730-a80c-0e4861967701,Brewery Rickoli,micro,4335 Wadsworth Blvd,,,Wheat Ridge,Colorado,80033-4621,United States,3034316862,http://www.breweryrickoli.com,-105.0818046,39.7757286
+eca0e1b1-f47e-475c-bfb8-df7b16364d4a,Brewability Lab,taproom,3445 S Broadway,,,Englewood,Colorado,80113,United States,3035980809,http://www.Brewabilitylab.com,-104.988021,39.65411
+7086390e-9e2a-4730-a80c-0e4861967701,Brewery Rickoli,taproom,4335 Wadsworth Blvd,,,Wheat Ridge,Colorado,80033-4621,United States,3034316862,http://www.breweryrickoli.com,-105.082163,39.775296
 d4603870-fec1-49ce-9137-6c1e1f0efc2e,Brewmented,micro,900 S Hover St Ste C,,,Longmont,Colorado,80501-7941,United States,8772579956,http://www.brewmented.com,,
-797d3752-6296-481b-882a-d12fe725f83f,Briar Common Brewery,brewpub,2298 N Clay St,,,Denver,Colorado,80211-5122,United States,7204703731,http://www.briarcommon.com,,
-c6284312-d384-4e8f-bd67-b4869c58dc38,Bristol Brewing Co,micro,1604 S Cascade Ave,,,Colorado Springs,Colorado,80905-2237,United States,7196332555,http://www.bristolbrewing.com,-104.827401,38.8108617
+797d3752-6296-481b-882a-d12fe725f83f,Briar Common Brewery,brewpub,2298 N Clay St,,,Denver,Colorado,80211-5122,United States,7204703731,http://www.briarcommon.com,-105.020252,39.751002
+c6284312-d384-4e8f-bd67-b4869c58dc38,Bristol Brewing Co,micro,1604 S Cascade Ave,,,Colorado Springs,Colorado,80905-2237,United States,7196332555,http://www.bristolbrewing.com,-104.826791,38.811249
 327bee18-1bde-49a2-a588-7fa0f7f69787,Brix Taphouse and Brewery,brewpub,813 8th St,,,Greeley,Colorado,80631-3911,United States,9703976146,http://www.brixtaphouseandbrewery.com,-104.6911371,40.42495461
-afcf3dcd-8b14-4d09-87d0-eb17a55d3570,Broken Compass Brewing,micro,68 Continental Ct Unit B-12,,,Breckenridge,Colorado,80424-8515,United States,5419053016,http://www.brokencompassbrewing.com,,
+afcf3dcd-8b14-4d09-87d0-eb17a55d3570,Broken Compass Brewing,taproom,68 Continental Ct Unit B-12,,,Breckenridge,Colorado,80424-8515,United States,5419053016,http://www.brokencompassbrewing.com,-106.053431,39.514844
 17ebc359-76a6-4d9d-b5e2-27255c25d82f,Broken Plow Brewery,micro,4731 W 10th St Unit G,,,Greeley,Colorado,80634-2046,United States,9703978373,http://www.brokenplowbrewery.com,,
+d5df1bc4-012f-4704-b231-5962ecdde725,Brown's Canyon Brewing Company,micro,23850 US Hwy 285,,,Buena Vista,Colorado,81211,United States,7193953335,http://www.brownscanyonbrewing.com,-106.091037,38.763834
 48a7cc57-7544-472d-bc89-2e12ab8e6d53,BRU Handbuilt Ales and Eats,brewpub,5290 Arapahoe Ave,,,Boulder,Colorado,80303-1269,United States,7206385193,http://www.bruboulder.com,-105.2293345,40.0141462
-5ad3e5b9-e203-40eb-bc84-6e28356993d6,Brues Alehouse Brewing Company,brewpub,120 Riverwalk Place,,,Pueblo,Colorado,81003,United States,7199249670,http://www.bruesalehouse.com,,
-83aef3a5-e9ba-47e7-bb58-3b061caff00d,Bruz Beers,micro,1675 W 67th Ave Ste 100,,,Denver,Colorado,80221-2595,United States,3036502337,http://www.bruzbeers.com,,
+5ad3e5b9-e203-40eb-bc84-6e28356993d6,Brues Alehouse Brewing Company,brewpub,120 Riverwalk Place,,,Pueblo,Colorado,81003,United States,7199249670,http://www.bruesalehouse.com,-104.612126,38.265961
+83aef3a5-e9ba-47e7-bb58-3b061caff00d,Bruz Beers,taproom,1675 W 67th Ave Ste 100,,,Denver,Colorado,80221-2595,United States,3036502337,http://www.bruzbeers.com,-105.007347,39.818038
 6f2a1d53-ab52-4a33-b9cf-0d3352156a7e,Buckhorn Brewers LLC,micro,4229 W Eisenhower Blvd,,,Loveland,Colorado,80537-9202,United States,9709808688,,-105.0925735,40.4058904
-a235f4c4-1a4f-4ef7-bbaf-b95142e2bd44,Bull & Bush Brewery,brewpub,4700 E Cherry Creek South Dr,,,Denver,Colorado,80246-1819,United States,3037590333,http://www.bullandbush.com,-104.9488456,39.7116689
+a235f4c4-1a4f-4ef7-bbaf-b95142e2bd44,Bull & Bush Brewery,brewpub,4700 E Cherry Creek South Dr,,,Denver,Colorado,80246-1819,United States,3037590333,http://www.bullandbush.com,-104.932537,39.703257
 7bdc2c91-ce80-4fb3-b2a2-bb9f7c8ab5bf,Burgundian Brewing Co.,micro,4725 Lipan St,,,Denver,Colorado,80211-2334,United States,4704400420,http://www.facebook.com/BurgundianBrewing,-105.0024095,39.7825168
 793cbd77-2732-4885-b54b-4731b9cb226c,"Burly Brewing Company, LLC",micro,680 Atchison Way Ste 700-800,,,Castle Rock,Colorado,80109-3106,United States,,http://www.burlybrewing.com,,
+c5bba33f-f8f0-42d6-ae01-6ba4971c7936,"Burly Brewing Company, LLC",taproom,"680 Atchison Way, Suite 800",,,Castle Rock,Colorado,80109-3106,United States,3039940344,http://www.burlybrewing.com,-104.870868,39.375438
 8475bb73-3d83-4191-9b9f-ecd918b1ec0f,Burns Family Artisan Ales,planning,,,,Denver,Colorado,80219-1655,United States,2482242697,,,
+6bf8d5cd-7425-4506-89e6-babc05f52574,Burns Family Artisan Ales,taproom,2505 W 2nd Ave,,,Denver,Colorado,80219-1655,United States,2482242697,http://www.burnsalesdenver.com,-105.017684,39.720719
+38c54433-97c6-4261-9fa4-a9eab2054d60,Busey Brews,brewpub,70 E First St,,,Nederland,Colorado,80466,United States,8556332739,http://www.buseybrews.com,-105.509364,39.961659
 76428248-05e8-4db4-a1d8-5b561571973f,Butcherknife Brewing Company,micro,2875 Elk River Rd,,,Steamboat Springs,Colorado,80487-5076,United States,9708792337,http://www.butcherknifebrewing.com,-106.857763,40.510887
 4d071d65-60eb-4e9a-9efa-9a65bf811cd3,C.B. and Potts/Big Horn Brewery - Englewood,brewpub,6575 Greenwood Plaza Blvd,,,Englewood,Colorado,80111-4933,United States,3037701982,http://www.cbpotts.com,,
 0ba6de0f-d84b-4e89-a608-8a5d70a7d612,C.B. and Potts/Big Horn Brewery - Highlands Ranch,brewpub,43 W Centennial Blvd,,,Highlands Ranch,Colorado,80129-2323,United States,7203441200,http://www.cbpotts.com,-104.9887246,39.56211674
 cfacd093-a793-4110-b337-ba26fa5f0d3e,C.B. and Potts/Big Horn Brewery - Westminster,brewpub,1257 W 120th Ave,,,Westminster,Colorado,80234-2725,United States,3034515767,http://www.cbpotts.com,-105.0040899,39.91376115
-5494f614-38f1-4c0d-822d-58977264bb89,Call To Arms Brewing Company,micro,4526 Tennyson St,,,Denver,Colorado,80212-2527,United States,,http://www.facebook.com/calltoarmsbrewing,-105.0435373,39.7788541
-e5b709a1-dce7-4271-9057-e56ceea26b83,Cannonball Creek Brewing Co,micro,393 Washington Ave Unit A,,,Golden,Colorado,80403-1889,United States,3032780111,http://www.cannonballcreekbrewing.com,,
-dea46586-2772-4573-a964-f9a1d1bbc902,Capitol Creek Brewery,brewpub,371 Market St,,,Basalt,Colorado,81621-7409,United States,8704043657,http://www.capitolcreekbrewery.com,,
-f12deb0c-12ed-42e3-8706-d9cb1cb6a52a,Carbondale Beer Works,brewpub,647 Main St,,,Carbondale,Colorado,81623-1934,United States,,http://www.carbondalebeerworks.com,-107.2134909,39.40060712
-8b44ff77-fb30-4b24-afa6-844d9af5c8af,Carver Brewing Co,brewpub,1022 Main Ave,,,Durango,Colorado,81301-5124,United States,9702592545,http://carverbrewing.com,-107.8800415,37.2748415
+bc410855-ef7b-48ff-bbea-17e09b19e57a,Cabin Creek Brewing,brewpub,577 22nd st,,,Georgetown,Colorado,80444,United States,3039460652,http://www.cabincreekbrewing.com,-105.693331,39.724913
+5494f614-38f1-4c0d-822d-58977264bb89,Call To Arms Brewing Company,micro,4526 Tennyson St,,,Denver,Colorado,80212-2527,United States,7203288258,http://www.facebook.com/calltoarmsbrewing,-105.043802,39.778894
+b3966b45-8b02-4917-b140-5a827ef22784,Camber Brewing Co,taproom,365 N Zerex St,,,Fraser,Colorado,80442,United States,9705757000,http://www.camberbrewing.com,-105.816131,39.947262
+d13a6979-6ea8-4f47-8578-db98fdeb840c,CANarchy,office only location,1800 Pike Rd Unit B,,,Longmont,Colorado,80501-6794,United States,,,-105.12258,40.138922
+e5b709a1-dce7-4271-9057-e56ceea26b83,Cannonball Creek Brewing Co,taproom,393 Washington Ave Unit A,,,Golden,Colorado,80403-1889,United States,3032780111,http://www.cannonballcreekbrewing.com,-105.227639,39.762338
+dea46586-2772-4573-a964-f9a1d1bbc902,Capitol Creek Brewery,brewpub,371 Market St,,,Basalt,Colorado,81621-7409,United States,8704043657,http://www.capitolcreekbrewery.com,-107.081656,39.385701
+f12deb0c-12ed-42e3-8706-d9cb1cb6a52a,Carbondale Beer Works,brewpub,647 Main St,,,Carbondale,Colorado,81623-1934,United States,,http://www.carbondalebeerworks.com,-107.213062,39.400727
+8b44ff77-fb30-4b24-afa6-844d9af5c8af,Carver Brewing Co,brewpub,1022 Main Ave,,,Durango,Colorado,81301-5124,United States,9702592545,http://carverbrewing.com,-107.879798,37.274805
 180883d5-ee43-4a24-b7b8-b385358eddd1,Casey Brewing and Blending,micro,3421 Grand Ave Ste 4D,,,Glenwood Springs,Colorado,81601-4493,United States,9702309691,http://www.caseybrewing.com,,
+d739653f-93e2-445a-85d7-46a329725983,Casey Brewing and Blending,taproom,3421 Grand Ave,,,Glenwood Springs,Colorado,81601-4493,United States,9702309691,http://www.caseybrewing.com,-107.319739,39.515692
 51a0b7c1-2250-44a6-a188-7bfd732ef861,Castle Rock Beer Company,micro,514 Perry St Ste C106,,,Castle Rock,Colorado,80104-1711,United States,7203289008,http://www.castlerockbeerco.com,,
 c8914288-0a70-4f53-9c72-d65595b103f8,Cellar West Artisan Ales,micro,1001 Lee Hill Dr Ste 10,,,Boulder,Colorado,80302-9471,United States,2627198795,http://www.cellarwest.com,,
-e3c0946f-f098-4820-baf7-65cba1c2abca,Cerberus Brewing Company,brewpub,702 W Colorado Ave,,,Colorado Springs,Colorado,80905-1539,United States,7196362337,http://www.cerberusbrewingco.com,-104.8374071,38.8330574
+3cfbe2e4-312f-434f-a192-f1202cdd1667,Cellar West Artisan Ales,taproom,778 W Baseline Rd,,,Lafayette,Colorado,80026,United States,2627198795,http://www.cellarwest.com,-105.099289,39.999888
+e3c0946f-f098-4820-baf7-65cba1c2abca,Cerberus Brewing Company,brewpub,702 W Colorado Ave,,,Colorado Springs,Colorado,80905-1539,United States,7196362337,http://www.cerberusbrewingco.com,-104.837518,38.833236
 d41989d3-e3a4-47c0-a0eb-cdcfe61a1066,Cerebral Brewing,micro,1477 Monroe St,,,Denver,Colorado,80206-2708,United States,3039277365,http://www.cerebralbrewing.com,-104.9451783,39.73968253
-54a938fd-f2bc-4579-b173-3657eaaed527,Chain Reaction Brewing Company,micro,902 S Lipan St,,,Denver,Colorado,80223-2717,United States,3039220960,http://www.chainreactionbrewingco.com,-105.001629,39.69879376
+4d31668d-99b6-4074-9e03-8b9fe5c35da7,Cerebral Brewing - Florence St,micro,9990 E. Colfax Ave,,,Aurora,Colorado,80121,United States,3039277365,,-104.871994,39.739689
+a10df70a-280d-4495-b575-85d13d007660,Cerveceria Colorado,beer brand,1635 Platte Street,,,Denver,Colorado,80202-1123,United States,3034332739,,-105.007379,39.758181
+54a938fd-f2bc-4579-b173-3657eaaed527,Chain Reaction Brewing Company,taproom,902 S Lipan St,,,Denver,Colorado,80223-2717,United States,3039220960,http://www.chainreactionbrewingco.com,-105.00133,39.699723
 05386e92-6e04-44c0-93a1-549eca0cc645,Cheluna Brewing Company,micro,2501 Dallas St Unit 148,,,Aurora,Colorado,80010-1045,United States,7206000020,http://www.cheluna.com,,
-01d63632-5f2c-4cae-82b3-a85ad36b0aa3,ChopHouse and Brewery - Denver,brewpub,1735 19th St Ste 100,,,Denver,Colorado,80202-6002,United States,3032960800,http://www.craftworksrestaurants.com,,
-d2333318-4e2a-4d4d-b7d7-a31af733822d,City Star Brewing,micro,321 Mountain Avenue,,,Berthoud,Colorado,80513-,United States,9705327827,http://www.citystarbrewing.com,-105.0809465,40.30505214
+b19e4290-c5ce-4e55-ac29-e62b82ed4829,Cheluna Brewing Company,taproom,2501 Dallas St,,,Aurora,Colorado,80010-1045,United States,7206000020,http://www.cheluna.com,-104.878314,39.752799
+01d63632-5f2c-4cae-82b3-a85ad36b0aa3,ChopHouse and Brewery - Denver,brewpub,1735 19th St Ste 100,,,Denver,Colorado,80202-6002,United States,3032960800,http://www.craftworksrestaurants.com,-104.996905,39.755537
+a8544810-c71c-42c2-90fe-7de856ca57f2,Chrysalis Barrel Aged Beer,taproom,201 First St,,,Paonia,Colorado,81428,United States,8018421697,http://www.chrysalisbeer.com,-107.597445,38.865501
+d2333318-4e2a-4d4d-b7d7-a31af733822d,City Star Brewing,taproom,321 Mountain Avenue,,,Berthoud,Colorado,80513,United States,9705327827,http://www.citystarbrewing.com,-105.07863,40.305017
 e5028c3e-023e-4987-94a5-58ab9ff94fa0,CO-Brew,micro,1133 N Broadway,,,Denver,Colorado,80203-2106,United States,7204854959,http://www.cobrewdenver.com,,
-3b896acb-c1d6-42e9-add5-2d9fc30ff260,Coal Mine Ave Brewing Company,micro,9719 W Coal Mine Ave Unit A,,,Littleton,Colorado,80123-8000,United States,7205044866,http://www.coalmineavebrewing.com,,
+3b896acb-c1d6-42e9-add5-2d9fc30ff260,Coal Mine Ave Brewing Company,taproom,9719 W Coal Mine Ave Unit A,,,Littleton,Colorado,80123,United States,7205044866,http://www.coalmineavebrewing.com,-105.106116,39.596162
 c0a80da7-b2b4-4376-824f-dc3e33180948,Coda Brewing Company,planning,,,,Golden,Colorado,80401,United States,3038956475,http://codabrewing.com,,
-701f40c6-bf18-4462-bac2-003ed612b484,Cogstone Brewing Co,brewpub,3858 Village Seven Rd,,,Colorado Springs,Colorado,80917-2801,United States,7194186595,http://www.cogstonebrewing.com,-104.75566,38.87959595
-6d861790-9ecf-490c-80b5-418ff488de5d,Colorado Boy Pizzeria,brewpub,320 E Main St,,,Montrose,Colorado,81401-3928,United States,9702402790,http://www.coloradoboy.com,-107.877366,38.47887872
-c0b1eb89-c49e-4506-88b7-a0c17c3e2243,Colorado Boy Pub & Brewery,brewpub,602 Clinton St.,,,Ridgway,Colorado,81432-0877,United States,9706265333,http://www.coloradoboy.com,-107.7577685,38.152358
-aaf6059a-1d65-4e9f-9b58-bb23474087da,Colorado Farm Brewery,micro,2070 County Road 12 S,,,Alamosa,Colorado,81101-9116,United States,7195800051,http://www.cofarmbeer.com,-105.9855918,37.40026048
-ced7171c-5a4d-451b-9f7a-a8d9dc5a8ebc,Colorado Mountain Brewery,micro,1110 Interquest Pkwy,,,Colorado Springs,Colorado,80921-4182,United States,7192717951,http://www.cmbrew.com,-104.8083989,38.99103716
-092060be-42d8-4b37-8d91-d364b37109ea,Colorado Mountain Brewery At the Roundhouse,brewpub,600 S 21st St Unit 180,,,Colorado Springs,Colorado,80904-3714,United States,7194668240,http://www.cmbrew.com,,
-f589e0ef-f14c-4a54-9745-c8f2ce1d5a53,Colorado Plus,brewpub,6995 W 38th Ave,,,Wheat Ridge,Colorado,80033-4965,United States,3038775957,http://coloradoplus.net,-105.0916384,39.7693524
+192662a7-c335-4dea-b879-fe92891f5acb,Coda Brewing Company,taproom,15965 S Golden Rd.,,,Golden,Colorado,80401,United States,3038956475,http://www.codabrewing.com,-105.178552,39.734631
+701f40c6-bf18-4462-bac2-003ed612b484,Cogstone Brewing Co,brewpub,3858 Village Seven Rd,,,Colorado Springs,Colorado,80917-2801,United States,7194186595,http://www.cogstonebrewing.com,-104.755327,38.879626
+690bb3c8-9b8d-42eb-ba53-78be30b36970,Cohesion Brewing Ltd,taproom,3851 Steele St,,,Denver,Colorado,80205,United States,9727548702,,-104.957517,39.769693
+8735e0ee-c60e-4d34-83ab-7aef44be4d27,Collision Brewing,brewpub,1436 Skyway Dr,,,Longmont,Colorado,80504,United States,,http://www.collisionbrewing.com,-105.033228,40.157414
+6d861790-9ecf-490c-80b5-418ff488de5d,Colorado Boy Pizzeria,brewpub,320 E Main St,,,Montrose,Colorado,81401-3928,United States,9702402790,http://www.coloradoboy.com,-107.87697,38.478852
+c0b1eb89-c49e-4506-88b7-a0c17c3e2243,Colorado Boy Pub & Brewery,brewpub,602 Clinton St.,,,Ridgway,Colorado,81432-0877,United States,9706265333,http://www.coloradoboy.com,-107.75778,38.152289
+aaf6059a-1d65-4e9f-9b58-bb23474087da,Colorado Farm Brewery,taproom,2070 County Road 12 S,,,Alamosa,Colorado,81101-9116,United States,7195800051,http://www.cofarmbeer.com,-105.995598,37.40026
+ced7171c-5a4d-451b-9f7a-a8d9dc5a8ebc,Colorado Mountain Brewery,brewpub,1110 Interquest Pkwy,,,Colorado Springs,Colorado,80921-4182,United States,7192717951,http://www.cmbrew.com,-104.809674,38.991116
+092060be-42d8-4b37-8d91-d364b37109ea,Colorado Mountain Brewery At the Roundhouse,brewpub,600 S 21st St Unit 180,,,Colorado Springs,Colorado,80904-3714,United States,7194668240,http://www.cmbrew.com,-104.859318,38.839594
+f589e0ef-f14c-4a54-9745-c8f2ce1d5a53,Colorado Plus,taproom,6995 W 38th Ave,,,Wheat Ridge,Colorado,80033-4965,United States,3038775957,http://coloradoplus.net,-105.074132,39.769663
+05dd234a-303c-4f41-8c97-600b19509a65,Comet Brews,taproom,5642 S Sycamore St,,,Littleton,Colorado,80120,United States,3033198910,http://www.cometbrews.com,-105.014904,39.614688
 828523e3-2c37-43f8-bcda-31932e088de0,Comrade Brewing Company,micro,7667 E Iliff Ave Ste F,,,Denver,Colorado,80231-5361,United States,7207480700,http://comradebrewing.com,,
-781937cb-face-47db-a452-fc3997cca025,CooperSmiths Pub and Brewing,brewpub,5 Old Town Sq,,,Fort Collins,Colorado,80524-2446,United States,9704980483,http://www.coopersmithspub.com,-105.0755188,40.5873784
+d94f4eb9-5eca-41d9-93e6-031ba4879910,Comrade Brewing Company,taproom,"7667 E ILIFF AVE
+Suite F",,,Denver,Colorado,80231,United States,7207480700,http://https://comradebrewing.com,-104.898919,39.675047
+781937cb-face-47db-a452-fc3997cca025,CooperSmiths Pub and Brewing,brewpub,5 Old Town Sq,,,Fort Collins,Colorado,80524-2446,United States,9704980483,http://www.coopersmithspub.com,-105.0734,40.5898
 84379397-fb21-4348-9e5b-d536d31f2ad0,Copper Club Brewing Co,micro,233 E Aspen Ave,,,Fruita,Colorado,81521-2205,United States,9708588318,http://www.copperclubbrew.com,-108.7314921,39.1591638
-da0cdbd7-87e0-4722-ab5e-018582374a43,Copper Kettle Brewing Company,micro,1338 S Valentia St Ste 100,,,Denver,Colorado,80247-2167,United States,7204432522,http://www.copperkettledenver.com,,
-759b1509-489e-46d1-a91c-d61401cc7888,Crabtree Brewing,micro,2961 W 29th St,,,Greeley,Colorado,80631-8538,United States,9703560516,http://www.crabtreebrewing.com,-104.7875038,40.3899004
+bad4dffe-71d3-40c0-a86e-e0a8f47a6a62,Copper Club Brewing Co.,brewpub,153 N Mulberry,,,Fruita,Colorado,81521-2205,United States,9708588318,http://www.copperclubbrew.com,-108.732751,39.159837
+da0cdbd7-87e0-4722-ab5e-018582374a43,Copper Kettle Brewing Company,taproom,1338 S Valentia St Ste 100,,,Denver,Colorado,80247-2167,United States,7204432522,http://www.copperkettledenver.com,-104.890497,39.692473
+e783a369-870e-4e08-98d7-881b58fe9cf4,Counter Culture Brewery + Grille,brewpub,205 E 7th Avenue,,,Denver,Colorado,80203,United States,7206388786,http://www.counterculturebrewery.com,-104.984502,39.727431
+759b1509-489e-46d1-a91c-d61401cc7888,Crabtree Brewing,taproom,2961 W 29th St,,,Greeley,Colorado,80631-8538,United States,9703560516,http://www.crabtreebrewing.com,-104.726755,40.391085
+9848f0f0-9b73-4841-b0d3-c3e007aba59e,Crafty Canary Brewery,brewpub,107 East 5th Street,,,Walsenburg,Colorado,81089,United States,7198901112,http://www.craftycanarybrewery.com,-104.780972,37.624648
 ca8bfb14-81cf-4c1c-8cd6-78b99cf7b1bd,Crazy Mountain Brewing Co,regional,471 Kalamath St,,,Denver,Colorado,80204-5019,United States,9709263009,http://www.crazymountainbrewery.com,-105.0002926,39.72361171
 4c16f1b4-9cea-44a9-9ddb-73b8feaa1a5c,Crestone Brewing Company,brewpub,187 West Silver Ave.,,,Crestone,Colorado,81131,United States,7192566400,http://www.crestonebrewingco.com,,
+c4bf7742-e5f5-4c5f-9d55-9692153d8816,Crooked Stave,micro,1441 W 46th Ave Unit 17,,,Denver,Colorado,80211-2338,United States,7205083292,http://www.crookedstave.com,-105.004716,39.780687
 e26fbcf7-5991-4cae-8c54-15a107fba85d,Crooked Stave Artisan Beer Project,micro,1441 W 46th Ave Unit 17,,,Denver,Colorado,80211-2338,United States,7205083292,http://www.crookedstave.com,,
-20d95606-a290-43fb-b8a4-2319b269c943,Crow Hop Brewing Co. Ltd.,micro,214 E 4th St,,,Loveland,Colorado,80537-5632,United States,9706330643,http://www.crowhopbrewing.com,-105.0735144,40.39536486
-313df964-9854-4ab9-9733-c29aad544c45,Crystal Springs Brewing Co,micro,657 S Taylor Ave,,,Louisville,Colorado,80027-3063,United States,3038845602,http://www.crystalspringsbrewing.com,-105.119781,39.964883
-fd475f2e-1e9e-4cd4-a9eb-e78f995a9300,D.C. Oakes Brewhouse and Eatery,brewpub,3581 E Harmony Suite 110,,,Fort Collins,Colorado,80528,United States,3034061757,http://www.dcoakesbrewhouse.com,,
+b3c381e5-b4e0-4d2d-8f49-5b3c4d43f936,Crooked Stave Artisan Beer Project,location,216 N College Ave,,,Fort Collins,Colorado,80524,United States,,,-105.07657,40.589441
+20d95606-a290-43fb-b8a4-2319b269c943,Crow Hop Brewing Co. Ltd.,micro,243 S Madison Ave Ste 100,,,Loveland,Colorado,80537-5632,United States,9706330643,http://www.crowhopbrewing.com,-105.05979,40.391243
+420dda4d-b901-4759-92dc-bc6777ebbb96,Crow Hop Brewing Co. Ltd.,micro,243 S Madison Ave Ste 100,,,Loveland,Colorado,80537-5632,United States,9706330643,http://www.crowhopbrewing.com,-105.05979,40.391243
+313df964-9854-4ab9-9733-c29aad544c45,Crystal Springs Brewing Co,micro,"657 S Taylor Ave, Unit E",,,Louisville,Colorado,80027-3063,United States,3038845602,http://www.crystalspringsbrewing.com,-105.120271,39.960558
+141134a6-b970-49a1-a223-00d2bb7db7db,Crystal Springs Brewing Co,micro,"657 S Taylor Ave, Unit E",,,Louisville,Colorado,80027-3063,United States,3038845602,http://www.crystalspringsbrewing.com,-105.120271,39.960558
+fd475f2e-1e9e-4cd4-a9eb-e78f995a9300,D.C. Oakes Brewhouse and Eatery,brewpub,3581 E Harmony Suite 110,,,Fort Collins,Colorado,80528,United States,3034061757,http://www.dcoakesbrewhouse.com,-105.01148,40.522456
 1e0f99d5-0a6b-498a-beca-2d2c21b4bdd9,Dad & Dudes Breweria,brewpub,6730 S Cornerstar Way Ste D,,,Aurora,Colorado,80016-1571,United States,3034005699,http://breweria.com,,
+a5d803f0-9c15-4128-9b28-2fa28bd03a39,Danico Brewing,taproom,18490 E 66th Ave,,,Denver,Colorado,80249,United States,7208057485,,-104.7429,39.7975
 1d032e21-1272-4825-b33b-f3f6d4c6ec43,Dead Hippie Brewing,micro,3701 S Santa Fe Dr Unit 7,,,Sheridan,Colorado,80110-3344,United States,7204467961,http://www.deadhippiebrewing.com,,
+8635717a-8ef9-4d69-a3db-5fe5e53c6d0d,Dean & Co Brewing / AWD,micro,201 Grant St,,,La Junta,Colorado,81050,United States,17193631019,,-103.557933,37.985796
 e18fd074-fb35-422b-85bd-b5ce56b72d2a,Dean and Co,micro,201 Grant St,,,La Junta,Colorado,81050,United States,,,,
 9fbd0b0c-5aa5-417c-a699-85aa4dc90f86,Declaration Brewing Company,micro,2030 S Cherokee St,,,Denver,Colorado,80223-3917,United States,3039557410,http://www.declarationbrewing.com,-104.9910056,39.67973155
 72d8f50e-0dff-46ec-9251-e79c917786b2,Dented Face Brewing Company,planning,,,,Delta,Colorado,81416,United States,,,,
-4405d177-19d8-44d4-bbf2-3b94894d460c,Denver Beer Co,micro,1695 Platte St,,,Denver,Colorado,80202-1123,United States,3034332739,http://www.denverbeerco.com,-105.0072502,39.7583143
-4b5c7db7-9157-47f7-ac78-299248150164,Denver Beer Co Canworks,micro,4455 Jason St,,,Denver,Colorado,80211-2412,United States,7202954781,,-105.0008302,39.7769429
-29c1c73e-3eac-4a09-8fd2-16967e838f9e,Denver Beer Co Olde Town Arvada,micro,5768 Olde Wadsworth Blvd,,,Arvada,Colorado,80002-2549,United States,,,-105.0814554,39.801625
+4405d177-19d8-44d4-bbf2-3b94894d460c,Denver Beer Co,regional,1695 Platte St,,,Denver,Colorado,80202-1123,United States,3034332739,http://www.denverbeerco.com,-105.007188,39.758293
+b40aa034-d2d1-44e4-9a10-4dc5ddcb070d,Denver Beer Co - Lowry Field,brewpub,7070 E Lowry Blvd,,,Denver,Colorado,80224,United States,3034332739,,-104.906777,39.716405
+2f9bd881-6ec8-4df3-896a-4682ad37868b,Denver Beer Co - South Downing,brewpub,2425 South Downing St,,,Denver,Colorado,80210,United States,3034332739,,-104.973644,39.672577
+4b5c7db7-9157-47f7-ac78-299248150164,Denver Beer Co Canworks,micro,4455 Jason St,,,Denver,Colorado,80211-2412,United States,7202954781,,-105.000338,39.777038
+29c1c73e-3eac-4a09-8fd2-16967e838f9e,Denver Beer Co Olde Town Arvada,micro,5768 Olde Wadsworth Blvd,,,Arvada,Colorado,80002-2549,United States,,,-105.081047,39.801463
 e8cf3258-6464-4de0-8769-40027573fc5f,DeSteeg Brewing Co/Blind Faith Brewing,micro,4342 Tennyson St,,,Denver,Colorado,80212-2308,United States,3034849698,http://www.desteegbrewing.com,-105.0438193,39.7760619
-6f89022e-0f54-4054-b37f-919c1ed4218c,Diebolt Brewing,micro,3855 Mariposa St,,,Denver,Colorado,80211-2647,United States,7206435940,http://www.dieboltbrewing.com,-105.0032079,39.770332
-d40976bd-2a96-41ed-81b1-3b6c3eab2843,Dillon Dam Brewery,brewpub,100 Little Dam Street,,,Dillon,Colorado,80435-4845,United States,9702627777,http://www.dambrewery.com,-106.0603129,39.62760465
+6f89022e-0f54-4054-b37f-919c1ed4218c,Diebolt Brewing,micro,3855 Mariposa St,,,Denver,Colorado,80211-2647,United States,7206435940,http://www.dieboltbrewing.com,-105.003172,39.769965
+d40976bd-2a96-41ed-81b1-3b6c3eab2843,Dillon Dam Brewery,brewpub,100 Little Dam Street,,,Dillon,Colorado,80435-4845,United States,9702627777,http://www.dambrewery.com,-106.0472,39.6281
 e6521135-22e0-458a-9245-16e9625f700b,Dive Bar Brewing Company,proprietor,5994 S Holly Street #146,,,Greenwood Village,Colorado,80111,United States,3039134355,http://divebarbeer.com,,
 87250580-6954-4d75-972d-75f7759fefc0,Dodgeton Creek Brewing Co.,planning,,,,Trinidad,Colorado,81082-9788,United States,7198462339,http://www.dodgetoncreek.com,-104.5005411,37.169397
-612d5f63-901f-4b34-abac-cf88157db26c,Dolores River Brewery,brewpub,100 S. 4th St.,,,Dolores,Colorado,81323-1003,United States,9708824677,http://www.doloresriverbrewery.com,-108.504562,37.47323
+612d5f63-901f-4b34-abac-cf88157db26c,Dolores River Brewery,brewpub,100 S. 4th St.,,,Dolores,Colorado,81323-1003,United States,9703944452,http://www.doloresriverbrewery.com,-108.504696,37.473551
 bf311f48-d8a7-46f6-aa24-cdffee1423d0,Donavon Brewing Company,planning,,,,Arvada,Colorado,80005-3644,United States,3039975920,http://www.donavonbrewing.com,,
 cc134379-14ee-4246-9535-ae117501b9af,Dos Luces Brewery,contract,1236 S Broadway,,,Denver,Colorado,80210-1504,United States,3037254527,http://www.dosluces.com,-104.9874923,39.6830067
 b6aee9c0-d332-4363-a4af-1d89c93f134a,Dostal Alley Brewing Co,brewpub,116 Main St,,,Central City,Colorado,80427,United States,3035821610,http://www.dostalalley.net,-105.512426,39.8001431
-817d2caa-c087-4b68-abea-6b7b797d17f8,Downhill Brewing,micro,18921 Plaza Dr Ste 104,,,Parker,Colorado,80134-9679,United States,3038052739,http://www.elkmountainbrewing.com,,
+48615887-28fc-48c6-a067-297168b22eea,Dostal Alley Brewpub & Casino,brewpub,116 Main St,,,Central City,Colorado,80427,United States,3035821610,http://www.dostalalley.net,-105.512372,39.800157
+817d2caa-c087-4b68-abea-6b7b797d17f8,Downhill Brewing,brewpub,18921 Plaza Dr Ste 104,,,Parker,Colorado,80134-9679,United States,3038052739,http://www.downhillbrews.com,-104.770022,39.526812
 7b2f69d5-fc55-4ff2-9df1-b53ace7bc173,Dratz Brewing Company,planning,,,,Loveland,Colorado,80537,United States,9705660036,http://www.dratzbrewing.com,,
-f5bcfd6a-160a-4d65-a5b7-834564023123,Dry Dock Brewing Co - North Dock,regional,2801 Tower Rd,,,Aurora,Colorado,80011-3508,United States,3034005606,http://www.drydockbrewing.com,-104.772404,39.758038
-a2728fec-51dd-4613-b15d-fc53774003b2,Dry Dock Brewing Co- South Dock,micro,15120 E Hampden Ave,,,Aurora,Colorado,80014-3906,United States,3034005606,http://www.drydockbrewing.com,-104.7680096,39.6529424
-dc1dbe18-f446-43d9-8cdf-cb542bc087cf,Dueces Wild Brewery,micro,660 Peterson Rd,,,Colorado Springs,Colorado,80915-4002,United States,6079729260,http://www.dwbbrewery.com,-104.7034318,38.8877651
+a2728fec-51dd-4613-b15d-fc53774003b2,Dry Dock Brewing Co,micro,15120 E Hampden Ave,,,Aurora,Colorado,80014-3906,United States,3034005606,http://www.drydockbrewing.com,-104.811841,39.65287
+f5bcfd6a-160a-4d65-a5b7-834564023123,Dry Dock Brewing Co - North Dock,regional,2801 Tower Rd,,,Aurora,Colorado,80011-3508,United States,3034005606,http://www.drydockbrewing.com,-104.773568,39.756611
+dc1dbe18-f446-43d9-8cdf-cb542bc087cf,Dueces Wild Brewery,micro,660 Peterson Road,,,Colorado Springs,Colorado,80915,United States,7196452337,http://www.dwbbrewery.com,-104.701719,38.841642
+09658406-0874-4870-a2c5-eb6c43e0ebdc,Dueces Wild Brewery,micro,660 Peterson Road,,,Colorado Springs,Colorado,80915,United States,7196452337,http://www.dwbbrewery.com,-104.701719,38.841642
+946e5c68-9c2d-452a-9de9-e0b23b84cdcb,Durango Beer and Ice Company,brewpub,3000 Main Ave,,,Durango,Colorado,81301,United States,9702471009,,-107.871652,37.297667
 52761616-efb8-4d3f-beff-7661b8fc7087,Durango Brewing Co,brewpub,3000 Main Ave,,,Durango,Colorado,81301-4245,United States,9702473396,http://www.durangobrewing.com,-107.871981,37.297647
-32a9af42-ac83-437c-8739-d2611177bf9e,Echo Brewing Cask and Barrel,brewpub,600 Briggs St,,,Erie,Colorado,80516-0794,United States,7203612332,,-105.0477679,40.05042825
+3091cfc0-756f-4259-89a1-36c189538d21,Durango Brewing Co,beer brand,201 Grant St,,,La Junta,Colorado,81050,United States,,,-103.557933,37.985796
+32a9af42-ac83-437c-8739-d2611177bf9e,Echo Brewing Cask and Barrel,brewpub,600 Briggs St,,,Erie,Colorado,80516-0794,United States,7203612332,http://www.echobrewing.com,-105.047838,40.050417
 4b5e0dae-9988-43d3-bdbc-4b0b1121f7ad,Echo Brewing Company,brewpub,5969 Iris Pkwy,,,Frederick,Colorado,80530,United States,,,-104.944202,40.111448
-706a591a-5afb-4cc6-b005-b96e0bcd95fc,Eddyline Brewing LLC,micro,102 Linderman Ave,,,Buena Vista,Colorado,81211-5106,United States,7199666018,http://eddylinebrewery.com,-106.131606,38.84025
-78d2954b-5437-4a8d-ab39-eda4478644e1,Edgewater Brewery,brewpub,905 Struthers Ave,,,Grand Junction,Colorado,81501-3804,United States,9702433659,http://www.kannahcreekbrewingco.com/edgewater-brewery,-108.5575144,39.05565588
+706a591a-5afb-4cc6-b005-b96e0bcd95fc,Eddyline Brewing LLC,micro,102 Linderman Ave,,,Buena Vista,Colorado,81211,United States,7192070978,http://eddylinebrewery.com,-106.132801,38.840547
+78d2954b-5437-4a8d-ab39-eda4478644e1,Edgewater Brewery,brewpub,905 Struthers Ave,,,Grand Junction,Colorado,81501-3804,United States,9702433659,http://www.kannahcreekbrewingco.com/edgewater-brewery,-108.557332,39.055174
 36389c21-d80a-468a-bd08-a394b0de74e8,El Rancho Brewing,brewpub,29260 US Highway 40,,,Evergreen,Colorado,80439-3700,United States,3036702739,http://www.elranchobrewing.com,,
-f13fa652-5f4d-43f1-b48d-493a6c417e7d,Elevation Beer Company,micro,115 Pahlone Pkwy,,,Poncha Springs,Colorado,81242,United States,,,-106.0659377,38.51804434
+cf11ba1d-f3a4-4cae-90ad-7fe3fa7f2db3,El Rancho Colorado,brewpub,29260 US-40,,,Evergreen,Colorado,80439,United States,3018737488,,-105.332552,39.699331
+f13fa652-5f4d-43f1-b48d-493a6c417e7d,Elevation Beer Company,micro,115 Pahlone Pkwy,,,Poncha Springs,Colorado,81242,United States,7195395258,http://www.elevationbeerco.com,-106.065301,38.518161
 357b4282-20a8-4fad-9de0-cdbdc3ed9879,Elk Avenue Brewing Company,brewpub,215 Elk Avenue,,,Crested Butte,Colorado,81224,United States,7733307876,,-106.9861689,38.86984685
 0a06eb5a-b9f4-4078-8fc7-65a213197d00,Endo Brewing Company,micro,2755 Dagny Way Ste 101,,,Lafayette,Colorado,80026-8023,United States,7204428052,http://endobrewing.com,-105.1341065,40.0144311
+181eb442-2cbc-4bf4-8e2f-1636746c2adb,Envy Brewing,brewpub,3027 E Harmony Road,,,Fort Collins,Colorado,80528,United States,9706821503,http://www.envybrewing.com,-105.021015,40.522696
 2295d060-841f-4b67-81c9-1ddf3f37ab11,"Epic Brewing Co., LLC",micro,3001 Walnut St,,,Denver,Colorado,80205-2324,United States,7205397410,http://www.epicbrewing.com,-104.9813405,39.7632294
-a3a2cc22-a18b-4cf9-86df-0ca06723116d,Equinox Brewing,micro,133 Remington St,,,Fort Collins,Colorado,80524-2833,United States,9704841368,http://www.equinoxbrewing.com,-105.0757134,40.5863266
-b07c36e6-95d2-4fdc-981f-8266a0bc3786,Estes Park Brewery,micro,470 Prospect Village Dr,,,Estes Park,Colorado,80517,United States,9705865421,http://www.epbrewery.net,-105.5261317,40.3714876
-0bd9b336-f4f3-41f7-91e0-19709d3c6364,Evergreen Brewery,brewpub,2962 Evergreen Pkwy,,,Evergreen,Colorado,80439-7995,United States,3037368419,http://www.evergreentaphouse.com,,
+a3a2cc22-a18b-4cf9-86df-0ca06723116d,Equinox Brewing,micro,133 Remington St,,,Fort Collins,Colorado,80524-2833,United States,9704841368,http://www.equinoxbrewing.com,-105.0757,40.5859
+b07c36e6-95d2-4fdc-981f-8266a0bc3786,Estes Park Brewery,micro,470 Prospect Village Dr,,,Estes Park,Colorado,80517,United States,9705865421,http://www.epbrewery.net,-105.526002,40.37133
+0bd9b336-f4f3-41f7-91e0-19709d3c6364,Evergreen Brewery,brewpub,2962 Evergreen Pkwy,,,Evergreen,Colorado,80439-7995,United States,3037368419,http://www.evergreentaphouse.com,-105.352307,39.660573
 4b832677-fcb7-4eb8-8d6b-c0429d0db2f1,Factotum Brewhouse,micro,3845 Lipan St,,,Denver,Colorado,80211-2651,United States,7204414735,http://www.factotumbrewhouse.com,-105.0020653,39.7702043
 82221e83-b64e-43c2-9593-0ec456674870,FATE Brewing Company,brewpub,1600 38th St Ste 100,,,Boulder,Colorado,80301-2610,United States,,,-105.2454818,40.0149794
 5d495cd7-11f9-4a81-95de-71b96deca5dd,Fermaentra,micro,1715 E Evans Ave,,,Denver,Colorado,80210-4601,United States,3039550736,http://www.fermaentra.com,-104.9428631,39.6784277
 c9b5c1c8-4248-4e77-bc0a-b83eaca79d6d,FH Beerworks,micro,521 S Tejon St,,,Colorado Springs,Colorado,80903-3928,United States,7196406814,,-104.8237318,38.8260086
+cbabfef8-9687-477d-870f-3f0e4ff4212a,FH Beerworks,taproom,2490 N Powers Blvd,,,Colorado Springs,Colorado,80915,United States,7196667214,http://www.fhbeerworks.com,-104.721133,38.868235
 d919af32-ba3f-4594-844a-dadcdd0a1cf5,FH Beerworks East,planning,,,,Colorado Springs,Colorado,80915,United States,7196406814,,,
-6eacc4a0-3173-4e08-901b-6135ccf60690,Fiction Beer Company,micro,7101 E Colfax Ave,,,Denver,Colorado,80220-1805,United States,7204567163,http://www.fictionbeer.com,-104.8854207,39.7402188
-b7f0e370-efcc-4894-b0af-35e90917724f,Finkel & Garf Brewing Co.,micro,5455 Spine Rd Ste A,,,Boulder,Colorado,80301-3364,United States,,http://www.finkelandgarf.com,,
-40b4dc42-bfdc-42a7-b225-7046aa6e1648,Floodstage Ale Works,brewpub,170 S Main St,,,Brighton,Colorado,80601-1611,United States,3036547972,http://www.floodstagealeworks.com,-104.8221009,39.98456564
-919330f5-af85-4dee-9277-d0189c3cc480,Florence Brewing Company,micro,200 S Pikes Peak Ave,,,Florence,Colorado,81226-1433,United States,7197847441,http://www.florencebrewing.com,-105.1177755,38.3899222
+6eacc4a0-3173-4e08-901b-6135ccf60690,Fiction Beer Company,taproom,7101 E Colfax Ave,,,Denver,Colorado,80220-1805,United States,7204567163,http://www.fictionbeer.com,-104.905227,39.74057
+b7f0e370-efcc-4894-b0af-35e90917724f,Finkel & Garf Brewing Co.,micro,5455 Spine Rd Ste A,,,Boulder,Colorado,80301-3364,United States,7203796042,http://www.finkelandgarf.com,-105.202996,40.074005
+40b4dc42-bfdc-42a7-b225-7046aa6e1648,Floodstage Ale Works,brewpub,170 S Main St,,,Brighton,Colorado,80601-1611,United States,3036547972,http://www.floodstagealeworks.com,-104.826055,39.97213
+919330f5-af85-4dee-9277-d0189c3cc480,Florence Brewing Company,brewpub,200 S Pikes Peak Ave,,,Florence,Colorado,81226-1433,United States,7197847441,http://www.florencebrewing.com,-105.118371,38.388695
+59ad0290-f58c-4f49-956e-9cf7591a2649,FlyteCo Brewing,taproom,4499 W 38th Ave Unit 101,,,Denver,Colorado,80212-2199,United States,3039185446,http://www.flyteco.beer,-105.044838,39.769627
 152e976b-f10d-4fad-9651-13b6bfd9b9cb,Fossil Craft Beer Co,micro,2845 Ore Mill Rd Ste 1,,,Colorado Springs,Colorado,80904-3161,United States,7193758298,http://www.fossilcraftbeer.com,,
-d8e62398-710e-4fbc-98d1-cf5cc655619b,Frolic Brewing Company,brewpub,12910 Zuni St Ste 1300,,,Westminster,Colorado,80234-1313,United States,,http://www.frolicbrewing.com,,
+d6715e45-be74-4816-b392-5683ca4e97fd,Fossil Craft Beer Company,taproom,2845 Ore Mill Rd,,,Colorado Springs,Colorado,80904-3161,United States,7193758298,http://www.fossilcraftbeer.com,-104.870131,38.847976
+d8e62398-710e-4fbc-98d1-cf5cc655619b,Frolic Brewing Company,brewpub,12910 Zuni St,,,Westminster,Colorado,80234,United States,3039034571,http://www.frolicbrewing.com,-105.014004,39.93003
+63423cec-8514-4a08-8d8f-431e41367c7a,Frolic Brewing Company,brewpub,12910 Zuni St,,,Westminster,Colorado,80234,United States,3039034571,http://www.frolicbrewing.com,-105.014004,39.93003
 dc56adc9-5aee-441d-a86a-86c1d48556bc,Front Range Brewing Co.,brewpub,400 W South Boulder Rd Ste 1650,,,Lafayette,Colorado,80026-2743,United States,3033390767,http://www.frontrangebrewingcompany.com,,
-1367028f-a358-4917-9c55-7ffb6fce1c4e,Funkwerks,micro,1900 E Lincoln Ave Unit B,,,Fort Collins,Colorado,80524-2789,United States,9704823865,http://www.funkwerks.com,,
-311072a3-c9ed-4df1-8efa-896888547e86,Gilded Goat Brewing Company,micro,3500 S College Ave Ste 194,,,Fort Collins,Colorado,80525-2639,United States,9708257192,http://www.gildedgoatbrewing.com,,
-b7946db8-7313-4d80-a9a9-8b41971f49d0,Glenwood Canyon Brewing Co,brewpub,402 7th St,,,Glenwood Springs,Colorado,81601-3406,United States,9709451276,http://www.glenwoodcanyon.com,-107.323424,39.5476563
+1367028f-a358-4917-9c55-7ffb6fce1c4e,Funkwerks,micro,1900 E Lincoln Ave Unit B,,,Fort Collins,Colorado,80524-2789,United States,9704823865,http://www.funkwerks.com,-105.042366,40.583219
+5ccca960-554a-44b9-a1d0-5f6e86883820,Funky Town Brewery / Iron Tree Tables and Taps,brewpub,37 Costello Ave,,,Florissant,Colorado,80816,United States,4078732162,http://www.irontreerestaurant.com,-105.28968,38.946644
+311072a3-c9ed-4df1-8efa-896888547e86,Gilded Goat Brewing Company,taproom,3500 S College Ave Ste 194,,,Fort Collins,Colorado,80525-2639,United States,9708257192,http://www.gildedgoatbrewing.com,-105.075317,40.539365
+b7946db8-7313-4d80-a9a9-8b41971f49d0,Glenwood Canyon Brewing Company,brewpub,402 7th St,,,Glenwood Springs,Colorado,81601,United States,9709451276,http://www.glenwoodcanyon.com,-107.323147,39.547535
 277c5afe-ab6b-41d9-9200-fafcbf1729e0,Goat Patch Brewing Co.,micro,2727 N Cascade Ave Ste 123,,,Colorado Springs,Colorado,80907-6288,United States,7194714628,http://www.goatpatchbrewing.com,,
 ae816087-1f84-4ea5-aa7f-630e6bacb87d,Gold Camp Brewing Co,micro,1007 S Tejon St,,,Colorado Springs,Colorado,80903-4238,United States,7196950344,,-104.823552,38.8195724
 4c87f178-be2b-4bda-91c0-f70da145716a,Golden Block Brewery,brewpub,1227 Greene St,,,Silverton,Colorado,81433,United States,9703875962,http://www.goldenblockbrewery.com,-107.6642307,37.81194434
-0336591f-e7d4-4d3d-b523-eda9bb5e5ec3,Golden City Brewery,brewpub,920 1/2 12th St,,,Golden,Colorado,80401-1181,United States,3032798092,,-105.2227813,39.75471167
-5667d9d2-8053-4a56-a246-2c5845ca4c74,Goldspot Brewing Co,micro,4970 Lowell Blvd,,,Denver,Colorado,80221-1028,United States,3039555657,http://www.goldspotbrewing.com,-105.0343545,39.7868924
+0336591f-e7d4-4d3d-b523-eda9bb5e5ec3,Golden City Brewery,brewpub,920 1/2 12th St,,,Golden,Colorado,80401-1181,United States,3032798092,,-105.223451,39.754588
+5667d9d2-8053-4a56-a246-2c5845ca4c74,Goldspot Brewing Co,taproom,4970 Lowell Blvd,,,Denver,Colorado,80221-1028,United States,3039555657,http://www.goldspotbrewing.com,-105.034228,39.786877
 36785f2c-ba97-48ed-8bcf-2b45c3a4a0d0,Good River Beer Company,contract,1790 S Bannock St.,,,Denver,Colorado,80223,United States,6023697442,http://www.grbeerco.com,-104.9898169,39.68421218
-022a19bf-eacd-4b5d-a3f3-e65fcebd0576,Gordon Biersch Brewery Restaurant - Broomfield,brewpub,1 W Flatiron Crossing Dr Ste 428,,,Broomfield,Colorado,80021-8214,United States,7208872991,http://www.gordonbiersch.com/restaurant,,
+022a19bf-eacd-4b5d-a3f3-e65fcebd0576,Gordon Biersch Brewery Restaurant - Broomfield,brewpub,1 W Flatiron Crossing Dr Ste 428,,,Broomfield,Colorado,80021-8214,United States,7208872991,http://www.gordonbiersch.com/restaurant,-105.132475,39.932948
 e88af73d-d2a2-43b1-8bf2-b4b668998400,Gore Range Brewery,brewpub,105 Edwards Village Blvd,,,Edwards,Colorado,81632-2970,United States,9709262739,http://www.gorerangebrewery.com,-106.5953228,39.64367461
-1eff5213-e6d2-4182-b367-8bda55edc37f,Grand Adventure Brewing Company,brewpub,207 Central Ave,,,Kremmling,Colorado,80459,United States,9707249219,http://www.grandadventure.us,-106.3925656,40.0599844
+1eff5213-e6d2-4182-b367-8bda55edc37f,Grand Adventure Brewing Company,brewpub,207 Central Ave,,,Kremmling,Colorado,80459,United States,9707249219,http://www.grandadventure.us,-106.393033,40.060262
 7de3ba0f-e2fa-413a-95e0-1e28bca4b04a,"Grand Lake Brewing Co, The",brewpub,5610 Yukon St,,,Arvada,Colorado,80002-2446,United States,3039081677,http://www.grandlakebrewing.com,-105.082456,39.79927412
-d9992b88-eaa2-4566-8b0e-51c34f7c477a,Grandma's House,micro,1710 S Broadway,,,Denver,Colorado,80210-3102,United States,3035786754,http://www.grandmasbeer.com,-104.9872737,39.74350567
-a29926af-93f7-4b62-9c4b-fc0dadeeaee0,Gravity Brewing,micro,1150 Pine St Unit B,,,Louisville,Colorado,80027-1463,United States,3035440746,http://www.thegravitybrewing.com,,
-8d07cc1f-6941-4ee7-8fbe-6ce91eb7b098,Great Divide Brewing Co,regional,2201 Arapahoe St,,,Denver,Colorado,80205-2512,United States,3032969460,http://www.greatdivide.com,-104.9885279,39.7539229
-419be70a-a970-41f1-99cd-0b42875001e5,Great Divide Brewing Co - RiNo Barrel Bar,micro,1812 35th St,,,Denver,Colorado,80216-3665,United States,3032969460,http://greatdivide.com/,-104.979247,39.7703322
+d9992b88-eaa2-4566-8b0e-51c34f7c477a,Grandma's House,taproom,1710 S Broadway,,,Denver,Colorado,80210-3102,United States,3035786754,http://www.grandmasbeer.com,-104.987172,39.685463
+a29926af-93f7-4b62-9c4b-fc0dadeeaee0,Gravity Brewing,taproom,1150 Pine St Unit B,,,Louisville,Colorado,80027-1463,United States,3035440746,http://www.thegravitybrewing.com,-105.128485,39.976138
+cb7c9bc8-9b93-4624-b056-92ac780b2b56,Great Divide Brewery & Roadhouse,brewpub,215 Wilcox Street,,,Castle Rock,Colorado,80104,United States,3039555788,,-104.860689,39.371552
+8d07cc1f-6941-4ee7-8fbe-6ce91eb7b098,Great Divide Brewing Co,regional,2201 Arapahoe St,,,Denver,Colorado,80205-2512,United States,3032969460,http://www.greatdivide.com,-104.988469,39.753907
+419be70a-a970-41f1-99cd-0b42875001e5,Great Divide Brewing Co - RiNo Barrel Bar,micro,1812 35th St,,,Denver,Colorado,80216-3665,United States,3032969460,http://greatdivide.com,-104.979868,39.770279
 aa504ab3-d1c2-46b7-9070-c2b622275a93,Great Frontier Brewing Company,micro,2010 S Oak St,,,Lakewood,Colorado,80227-2050,United States,7203281758,http://www.greatfrontierbeer.com,-105.1177216,39.6813614
-0bafd51b-5a8c-4aaf-999c-13065b7014ce,Green Earth Brewing Company,micro,725 10th St Unit A,,,Greeley,Colorado,80631-1139,United States,9707022332,http://www.greenearthbrewingco.com,,
-c949181b-f591-4035-b309-e04b5676ecfa,Green Mountain Beer Company,micro,2585 S Lewis Way Unit 110,,,Lakewood,Colorado,80227-6560,United States,3039860201,http://www.greenmountainbeercompany.com,,
-a3efb74a-543d-40a2-8820-44cab4a1492d,"Grimm Brothers Brewhouse, LLC",micro,623 Denver Ave,,,Loveland,Colorado,80537-5127,United States,9706246045,http://www.grimmbeer.com,,
+0bafd51b-5a8c-4aaf-999c-13065b7014ce,Green Earth Brewing Company,taproom,725 10th St Unit A,,,Greeley,Colorado,80631-1139,United States,9707022332,http://www.greenearthbrewingco.com,-104.690251,40.422804
+c949181b-f591-4035-b309-e04b5676ecfa,Green Mountain Beer Company,taproom,2585 S Lewis Way Unit 110,,,Lakewood,Colorado,80227-6560,United States,3039860201,http://www.greenmountainbeercompany.com,-105.113123,39.669092
+a3efb74a-543d-40a2-8820-44cab4a1492d,"Grimm Brothers Brewhouse, LLC",taproom,623 Denver Ave,,,Loveland,Colorado,80537-5127,United States,9706246045,http://www.grimmbeer.com,-105.046947,40.396762
 34536644-1060-4bd2-8103-b9e8352696fb,Grist Brewing Company,micro,9150 Commerce Center Cir Ste 300,,,Highlands Ranch,Colorado,80129-1563,United States,703604782,http://gristbrewingcompany.com,,
-42e70445-725e-464b-9ab5-68ae743cc256,Grist Brewing Company - Lone Tree,micro,9535 Park Meadows Dr Ste F,,,Lone Tree,Colorado,80124,United States,3037289394,,,
-e0fcd6d9-7845-490d-8ce9-4e26ed33eae5,Grossen Bart Brewery,micro,1025 Delaware Ave Unit A,,,Longmont,Colorado,80501-6188,United States,7204382060,http://www.grossenbart.com,,
+b63c0eac-db9c-4c7b-a837-2cb921faac17,Grist Brewing Company,brewpub,9150 Commerce Center Cir Ste 300,,,Denver,Colorado,80129,United States,3039444371,http://gristbrewingcompany.com,-105.033919,39.548807
+42e70445-725e-464b-9ab5-68ae743cc256,Grist Brewing Company - Lone Tree,micro,9535 Park Meadows Dr Ste F,,,Lone Tree,Colorado,80124,United States,3037289394,,-104.879117,39.554499
+e0fcd6d9-7845-490d-8ce9-4e26ed33eae5,Grossen Bart Brewery,taproom,1025 Delaware Ave Unit A,,,Longmont,Colorado,80501-6188,United States,7204382060,http://www.grossenbart.com,-105.109102,40.154407
+fee35484-a39a-4ccb-8955-6da46dd8cb6f,Gruvi,alt prop,303 South Broadway St.  #200-322,,,Denver,Colorado,80209,United States,2183907294,http://getgruvi.com,-104.987764,39.710763
 b35b775a-2b1a-4203-b59c-0ce2e039c48c,"Guanella Pass Brewing Company, LLC",micro,501 Rose Street,,,Georgetown,Colorado,80444,United States,3035695167,http://www.guanellapass.com,-105.697303,39.705772
 6872c14f-c3c4-49ea-a714-8c25b62163d4,Gunbarrel Brewing Company,micro,7088 Winchester Cir Ste 2,,,Boulder,Colorado,80301-3761,United States,8008035732,http://www.gunbarrelbrewing.com,,
-d9817110-ab18-45a3-a48a-220863c8ef4d,Halfpenny Brewing Company,micro,5150 E Arapahoe Rd Ste D1-B,,,Centennial,Colorado,80122-4825,United States,7205830580,http://www.halfpennybrewing.com,,
-09b47043-56f9-4167-bbb2-ffa66e3438bb,Hideaway Park Brewery,micro,78927 US Highway 40,,,Winter Park,Colorado,80482,United States,7204026513,http://www.hideawayparkbrewery.com,,
-93000035-2da2-4b19-9efb-9f7c45252684,High Alpine Brewing Company,brewpub,111 N Main St,,,Gunnison,Colorado,81230-2330,United States,9706424500,http://www.highalpinebrewing.com,-106.9270377,38.54462278
-3d8726bb-a769-4961-a62a-d6f8cee739a2,High Hops Brewery,micro,6461 State Highway 392,,,Windsor,Colorado,80550-3010,United States,9706742841,http://www.highhopsbrewery.com,-104.9357557,40.4799901
-13b0242e-a231-4cb7-af2c-e1707cd96961,HighSide Brewery,micro,720 Main St,,,Frisco,Colorado,80443,United States,9706682337,http://www.highsidebrewing.com,-106.0935416,39.57663329
-a4ef3382-1ed4-426a-a822-5a7e9001597f,Hogshead Brewery,micro,4460 W 29th Ave,,,Denver,Colorado,80212-3015,United States,3038869655,http://www.hogsheadbrewery.com,-105.04506,39.758232
-6934e956-ca42-40f0-b750-7153f2cfbcad,Holidaily Brewing Co,micro,801 Brickyard Cir Ste B,,,Golden,Colorado,80403-8026,United States,3032782337,http://www.holidailybrewing.com,,
+d9817110-ab18-45a3-a48a-220863c8ef4d,Halfpenny Brewing Company,taproom,5150 E Arapahoe Rd Ste D1-B,,,Centennial,Colorado,80122-4825,United States,7205830580,http://www.halfpennybrewing.com,-104.927688,39.594879
+18eeb88d-666b-4576-920d-4465b88c4b16,Hello Brew Co.,alt prop,405 Linden St.,,,Fort Collins,Colorado,80524,United States,,http://www.hellobrewco.com,-105.072794,40.590594
+09b47043-56f9-4167-bbb2-ffa66e3438bb,Hideaway Park Brewery,taproom,78927 US Highway 40,,,Winter Park,Colorado,80482,United States,7204026513,http://www.hideawayparkbrewery.com,-105.784276,39.918156
+93000035-2da2-4b19-9efb-9f7c45252684,High Alpine Brewing Company,brewpub,111 N Main St,,,Gunnison,Colorado,81230-2330,United States,9706424500,http://www.highalpinebrewing.com,-106.927313,38.544747
+6486b8a2-c0c6-436e-8461-e1f48835670c,High Country Brewing,micro,404 Aspen Airport Business Ctr,,,Aspen,Colorado,81611-3530,United States,4252232500,http://www.aspenbrewingcompany.com,-106.859599,39.21975
+3d8726bb-a769-4961-a62a-d6f8cee739a2,High Hops Brewery,micro,6461 State Highway 392,,,Windsor,Colorado,80550-3010,United States,9706742841,http://www.highhopsbrewery.com,-104.936105,40.480899
+13b0242e-a231-4cb7-af2c-e1707cd96961,HighSide Brewery,brewpub,720 Main St,,,Frisco,Colorado,80443,United States,9706682337,http://www.highsidebrewing.com,-106.092886,39.576333
+a4ef3382-1ed4-426a-a822-5a7e9001597f,Hogshead Brewery,taproom,4460 W 29th Ave,,,Denver,Colorado,80212-3015,United States,3034953105,http://www.hogshead54.com,-105.045112,39.758251
+6934e956-ca42-40f0-b750-7153f2cfbcad,Holidaily Brewing Co,micro,801 Brickyard Cir Ste B,,,Golden,Colorado,80403-8026,United States,3032782337,http://www.holidailybrewing.com,-105.233108,39.780058
+26ce459f-facb-4a1d-8da6-1049cc1187af,Holidaily Brewing Co -  DTC,taproom,5370 Greenwood Plaza Blvd,,,Greenwood Village,Colorado,80111,United States,,,-104.900596,39.619213
 8844a2f6-bf55-4d74-b7a6-efad8f6d7e0c,Holidaily Production Facility,planning,,,,Golden,Colorado,80403,United States,,,,
+8f8c78ea-0f97-44b6-827b-1ed26a1e03ce,Holidaily Production Facility,micro,820 Brickyard Cir,,,Golden,Colorado,80403,United States,,,-105.234013,39.780659
 b302bba4-5c90-4ab5-a9ae-f935ccd19059,Horse & Dragon Brewing Company,micro,124 Racquette Dr,,,Fort Collins,Colorado,80524-2757,United States,9706318038,http://www.horseanddragonbrewing.com,,
-e62e0505-9735-4210-97bf-1ac0ca3b15e6,Horsefly Brewing Co,brewpub,846 E Main St,,,Montrose,Colorado,81401-3938,United States,9702496889,http://www.horseflybrewing.com,-107.871306,38.48272365
+e62e0505-9735-4210-97bf-1ac0ca3b15e6,Horsefly Brewing Co,brewpub,846 E Main St,,,Montrose,Colorado,81401-3938,United States,9702496889,http://www.horseflybrewing.com,-107.871388,38.482704
+f88cba7c-63f7-4cd9-86e8-3a29f03a4de1,Howlin Wind Brewing & Blending,micro,51 A Main St,,,Rollinsville,Colorado,80474,United States,3098255245,,-105.502133,39.917333
 6edb4abe-eb25-493c-a514-519cce61a91b,IDK Beer Co,planning,,,,Lakewood,Colorado,80228-4251,United States,,,,
-28e57039-a0ad-4091-aa1f-d7ddb0297002,Idylwilde Brewing,micro,116 Fawn Dr,,,Carbondale,Colorado,81623-9703,United States,9702746332,http://idylwildebrewing.com,,
+28e57039-a0ad-4091-aa1f-d7ddb0297002,Idylwilde Brewing,micro,116 Fawn Dr,,,Carbondale,Colorado,81623-9703,United States,9702746332,http://idylwildebrewing.com,-107.097581,39.422388
 391b3231-8293-4030-a8ff-d0c2a2af6e0e,Incline Brewing,planning,,,,Larkspur,Colorado,80118-8721,United States,,,,
-25da3374-54cf-4773-bec9-dc400671af73,Industrial Revolution Brewing Company,micro,285 Cheesman St,,,Erie,Colorado,80516-8464,United States,3038281200,,-105.0477556,40.05161529
-3b174e82-0a69-43c6-9b47-94cd039c59c3,Intersect Brewing,micro,2160 W Drake Rd Unit A1,,,Fort Collins,Colorado,80526-1486,United States,9706822041,http://www.intersectbrewing.com,,
+25da3374-54cf-4773-bec9-dc400671af73,Industrial Revolution Brewing Company,taproom,285 Cheesman St,,,Erie,Colorado,80516-8464,United States,3038281200,,-105.048498,40.05167
+3b174e82-0a69-43c6-9b47-94cd039c59c3,Intersect Brewing,brewpub,2160 W Drake Rd Unit A1,,,Fort Collins,Colorado,80526-1486,United States,9706822041,http://www.intersectbrewing.com,-105.116408,40.554249
 795d96bb-633e-4d4d-8959-1ba609f409f2,Iron Bird Brewing Co.,brewpub,402 S Nevada Ave,,,Colorado Springs,Colorado,80903-2110,United States,7194247002,http://www.ironbirdbrewing.com,-104.8223799,38.8280292
+551e9377-b3d7-46ed-9ed0-6668e77aa42f,Iron Mule Brewery,taproom,514 Perry St,,,Castle Rock,Colorado,80104-2452,United States,3039181349,http://www.IronMuleBrewery.com,-104.858313,39.375053
 4a6b7b4f-5857-4635-a67e-9132a6d0e6c8,Iron Tree Table & Taps,brewpub,37 Costello Ave,,,Florissant,Colorado,80816,United States,7197480124,http://www.irontreerestaurant.com,,
 d3fa529b-07fc-436a-98cf-66ba68b0a579,Ironworks Brewery & Pub,brewpub,12354 W Alameda Pkwy Ste 110,,,Lakewood,Colorado,80228-2844,United States,3039855818,http://www.ironworkspub.com,,
-94bce2e1-73b6-4042-bba3-0f6a7df5530d,Irwin Brewing Company,micro,326 Belleview,,,Crested Butte,Colorado,81224-8706,United States,9702757578,http://www.irwinbrewingco.com,-106.9853012,38.86695573
+94bce2e1-73b6-4042-bba3-0f6a7df5530d,Irwin Brewing Company,micro,326 Belleview,,,Crested Butte,Colorado,81224-8706,United States,9702757578,http://www.irwinbrewingco.com,-106.984577,38.86678
 e7b2df20-dd98-483d-9263-7284044b95c2,J Moe's Brewing Company,brewpub,7314 Washington St,,,Denver,Colorado,80229-6302,United States,3032874824,http://www.creedebeer.com,-104.9791943,39.7800007
-e2ba6adc-a7f0-4bb7-aebe-60bce1e19cb2,J. Fargo's Family Dining & Micro Brewery / Coyote J Brewing Co,brewpub,1209 E Main St,,,Cortez,Colorado,81321-2910,United States,9705640242,http://www.jfargos.com,-108.570199,37.348775
-018b3e0a-ea27-4f11-acab-16b39607939e,Jagged Mountain Brewery,micro,1139 20th St,,,Denver,Colorado,80202-1811,United States,7206892337,http://www.jaggedmountainbrewery.com,-104.9913673,39.7522457
-e33f24c1-438a-434d-ac79-d829faf1dc8b,JAKs Brewing Company,micro,11860 Stapleton Dr,,,Peyton,Colorado,80831,United States,7193751116,http://www.jaksbrewing.com,,
+e2ba6adc-a7f0-4bb7-aebe-60bce1e19cb2,J. Fargo's Family Dining & Micro Brewery / Coyote J Brewing Co,brewpub,1209 E Main St,,,Cortez,Colorado,81321-2910,United States,9705640242,http://www.jfargos.com,-108.570268,37.348317
+259f3d9f-e69f-4ab9-8e2e-74780af308d8,Jade Mountain Brewery & Teahouse,micro,4233 S Buckley Rd,,,Aurora,Colorado,80013-2947,United States,7202893612,http://www.jademountain.beer,-104.791726,39.639644
+018b3e0a-ea27-4f11-acab-16b39607939e,Jagged Mountain Brewery,taproom,1139 20th St,,,Denver,Colorado,80202-1811,United States,7206892337,http://www.jaggedmountainbrewery.com,-104.991039,39.751973
+e33f24c1-438a-434d-ac79-d829faf1dc8b,JAKs Brewing Company,taproom,11860 Stapleton Dr,,,Peyton,Colorado,80831,United States,7193751116,http://www.jaksbrewing.com,-104.604992,38.96992
 ba029671-6ffc-4c6d-bac8-e6daed74efb5,James Peak Brewery,brewpub,70 E First St,,,Nederland,Colorado,80466,United States,3032589453,http://www.jamespeakbrew.com,,
-30d25781-6bd5-4401-bf30-fbde7de4c15b,Jessup Farm Barrel House,micro,1921 Jessup Dr,,,Fort Collins,Colorado,80525-2551,United States,9705688345,http://jessupfarm.com/barrel-house/,-105.0380013,40.5620458
-5c8f16b0-45fb-42ce-bb6b-ffcc4582eb42,Joyride Brewing Co,micro,2501 Sheridan Blvd,,,Edgewater,Colorado,80214-1330,United States,7204327560,http://joyridebrewing.com,-105.053492,39.7531231
-63149b79-de6e-4b2f-aabd-82b851e5c546,Kannah Creek Brewing Co,brewpub,1960 N 12th St,,,Grand Junction,Colorado,81501-2912,United States,9702630111,http://www.kannahcreekbrewingco.com,-108.5522615,39.08513947
+30d25781-6bd5-4401-bf30-fbde7de4c15b,Jessup Farm Barrel House,taproom,1921 Jessup Dr,,,Fort Collins,Colorado,80525-2551,United States,9705688345,http://www.jessupfarmbarrelhouse.com,-105.037865,40.562192
+5c8f16b0-45fb-42ce-bb6b-ffcc4582eb42,Joyride Brewing Co,taproom,2501 Sheridan Blvd,,,Edgewater,Colorado,80214-1330,United States,7204327560,http://joyridebrewing.com,-105.053636,39.753191
+63149b79-de6e-4b2f-aabd-82b851e5c546,Kannah Creek Brewing Co,brewpub,1960 N 12th St,,,Grand Junction,Colorado,81501-2912,United States,9702630111,http://www.kannahcreekbrewingco.com,-108.552167,39.085118
 6224f405-e903-4a89-96f7-c6d6e874eb56,Kanook Beer Company,planning,,,,Golden,Colorado,80403-2674,United States,3036188362,http://www.kanookbeer.com,,
-9ec5dc47-15d0-463a-90ba-40b06610a65f,"Kettle and Spoke Brewery, LLC",micro,2500 47th St Ste 12,,,Boulder,Colorado,80301-2335,United States,7196509697,http://www.kettleandspoke.com,,
-9f6df09c-b5f7-4854-ab9d-e2033a4eefc6,Kokopelli Beer Company,brewpub,8931 Harlan St,,,Westminster,Colorado,80031-2931,United States,7208406835,http://www.kokopellibeer.com,-105.0640386,39.8590102
+9ec5dc47-15d0-463a-90ba-40b06610a65f,"Kettle and Spoke Brewery, LLC",taproom,2500 47th St Ste 12,,,Boulder,Colorado,80301-2335,United States,7196509697,http://www.kettleandspoke.com,-105.242887,40.026001
+a4b2884e-1505-4a1f-870c-d2aa03083bc2,Knotted Root Brewing Company,taproom,250 North Caribou St,,,Nederland,Colorado,80466,United States,2038565712,http://www.knottedrootbrewing.com,-105.4946,39.968
+7c8af830-d06a-4d2f-b0a0-cec1e83d5060,Knuckle Puck Brewing,taproom,13782 E. I-25 Frontage Rd Unit B-1,,,Longmont,Colorado,80504,United States,7856407962,http://www.knucklepuckbrewing.com,-104.969896,40.197825
+da1c4960-99de-4732-b37e-c1d3f8084fd3,Kodiac Brewing Company LLC,brewpub,7685 E Arapahoe Rd,,,Centennial,Colorado,80112,United States,3035254590,http://www.kodiacbrewery.com,-104.899888,39.595411
+9f6df09c-b5f7-4854-ab9d-e2033a4eefc6,Kokopelli Beer Company,micro,8931 Harlan St,,,Westminster,Colorado,80031-2931,United States,7208406835,http://www.kokopellibeer.com,-105.064048,39.858455
+39ca05b5-fd15-4f05-ab03-eee879ead16d,Lady Justice Brewing,taproom,9735 E. Colfax Ave.,,,Aurora,Colorado,80010,United States,3038563809,http://www.ladyjusticebrewing.com,-104.874918,39.740342
 2f852b07-f68a-4bef-a0b9-9c5bd05d5413,Lady Justice Brewing Company,micro,4375 Eaton St,,,Denver,Colorado,80212-7308,United States,,http://www.ladyjusticebrewing.com,-105.0593393,39.7909855
-183ff86e-721b-4763-93ca-beb410b15ea8,Lake City Brewing Company,brewpub,130 Bluff St,,,Lake City,Colorado,81235,United States,9709445222,http://www.lcbrewco.com,-107.3191335,38.02729486
+183ff86e-721b-4763-93ca-beb410b15ea8,Lake City Brewing Company,brewpub,130 Bluff St,,,Lake City,Colorado,81235,United States,9709445222,http://www.lcbrewco.com,-107.319066,38.027321
 0d571efd-3562-4e7a-8b73-728e3929c416,Landlocked Ales,micro,3225 S Wadsworth Blvd Unit R,,,Lakewood,Colorado,80227-5009,United States,3032848748,http://www.landlockedales.com,,
-ea302610-7ff2-449c-acda-074e4610143c,Lariat Lodge Brewing,brewpub,27618 Fireweed Dr,,,Evergreen,Colorado,80439-8462,United States,3036741842,http://www.LariatLodgeBrewing.com,-105.3136925,39.63935145
+3f8dea6d-e613-464a-b92a-951514ecdef7,LandLocked Ales,taproom,3225 S Wadsworth Blvd Unit S,,,Lakewood,Colorado,80227-5009,United States,3032848748,http://www.landlockedales.com,-105.081704,39.657839
+ea302610-7ff2-449c-acda-074e4610143c,Lariat Lodge Brewing,brewpub,27618 Fireweed Dr,,,Evergreen,Colorado,80439-8462,United States,3036741842,http://www.LariatLodgeBrewing.com,-105.314028,39.638159
+4ff5a735-8c20-4aef-9d88-e0290c9e843e,Lariat Lodge Brewing - Littleton,brewpub,12684 W Indore Pl,,,Littleton,Colorado,80127,United States,3036741842,,-105.140439,39.579608
 eb3bca03-12e0-49b2-ae4f-42616521289c,Launch Pad Brewery,micro,884 S Buckley Rd,,,Aurora,Colorado,80017-3174,United States,7208782627,http://www.launchpadbrewery.com,-104.7911253,39.6853036
-e5453b50-8dfe-4aee-9cea-d8c4bc5f282b,Left Hand Brewing Company,regional,1265 Boston Ave,,,Longmont,Colorado,80501-5809,United States,3037720258,http://www.lefthandbrewing.com,-105.1168403,40.158688
-7908d63d-e957-4092-939f-32f9e8079113,Liquid Mechanics Brewing Company,micro,297 N US Highway 287,,,Lafayette,Colorado,80026-8932,United States,7205507813,http://www.liquidmechanicsbrewing.com,,
-1d101475-9df6-49ee-8590-e9b82f12bd41,Little Machine,micro,2924 W 20th Ave,,,Denver,Colorado,80211-4622,United States,3032847893,http://www.littlemachinebeer.com,-105.0243557,39.7474051
-686d530a-0bbf-4f7a-aa57-ab41feb8520c,Living the Dream Brewing Co.,micro,12305 Dumont Way Unit A,,,Littleton,Colorado,80125-9788,United States,3032849585,http://www.livingthedreambrewing.com,,
-cab5fb39-d342-46c6-a2c5-961381be305e,Local Relic,brewpub,320 S Weber St,,,Colorado Springs,Colorado,80903-2125,United States,7192700077,http://www.localrelic.com,-104.8203866,38.82871975
-b9f745cb-a332-4e64-ad81-a678c2548042,Locavore Beer Works,micro,5950 S Platte Canyon Rd Ste D13,,,Littleton,Colorado,80123-7539,United States,7204764419,http://www.locavorebeerworks.com,,
-5ab63209-8eb6-40a2-a788-8d4fdfa3108f,Lone Tree Brewing Co,micro,8222 Park Meadows Dr,,,Lone Tree,Colorado,80124-2746,United States,3037925822,http://www.lonetreebrewingco.com,-104.8942075,39.56298697
-fd13429b-1eee-45ae-818a-bd54b099f845,Long Table Brewing,micro,2895 Fairfax St,,,Denver,Colorado,80207-2748,United States,,,-104.928343,39.75818024
-5c96e81b-09a3-467b-9257-cd6faacc6aae,Lost Friend Brewing Company,micro,2458 Montebello Square Dr,,,Colorado Springs,Colorado,80918-1974,United States,,http://www.lostfriendbrewing.com,-104.7823626,38.9082661
+e5453b50-8dfe-4aee-9cea-d8c4bc5f282b,Left Hand Brewing Company,regional,1265 Boston Ave,,,Longmont,Colorado,80501-5809,United States,3037720258,http://www.lefthandbrewing.com,-105.115313,40.158303
+848f5bba-aee4-4f3b-b02a-240ebdd5edbb,Left Hand RiNo,brewpub,4180 Wynkoop Street,,,Denver,Colorado,80216,United States,,,-104.970829,39.775197
+7908d63d-e957-4092-939f-32f9e8079113,Liquid Mechanics Brewing Company,taproom,297 N US Highway 287,,,Lafayette,Colorado,80026-8932,United States,7205507813,http://www.liquidmechanicsbrewing.com,-105.103652,39.999397
+35fa2d6a-7899-4007-834a-59566c24ef2b,Little Dry Creek Brewery,taproom,6575 S Greenwood Plaza Blvd,,,Greenwood Village,Colorado,80111,United States,3035942464,http://www.grangehall-colorado.com,-104.895415,39.597292
+1d101475-9df6-49ee-8590-e9b82f12bd41,Little Machine,taproom,2924 W 20th Ave,,,Denver,Colorado,80211-4622,United States,3032847893,http://www.littlemachinebeer.com,-105.024341,39.747312
+686d530a-0bbf-4f7a-aa57-ab41feb8520c,Living the Dream Brewing Co.,taproom,12305 Dumont Way Unit A,,,Littleton,Colorado,80125-9788,United States,3032849585,http://www.livingthedreambrewing.com,-105.039852,39.540342
+cab5fb39-d342-46c6-a2c5-961381be305e,Local Relic,taproom,320 S Weber St,,,Colorado Springs,Colorado,80903-2125,United States,7192700077,http://www.localrelic.com,-104.820438,38.828729
+b9f745cb-a332-4e64-ad81-a678c2548042,Locavore Beer Works,taproom,5950 S Platte Canyon Rd Ste D13,,,Littleton,Colorado,80123-7539,United States,7204764419,http://www.locavorebeerworks.com,-105.037497,39.609042
+5ab63209-8eb6-40a2-a788-8d4fdfa3108f,Lone Tree Brewing Co,micro,8222 Park Meadows Dr,,,Lone Tree,Colorado,80124-2746,United States,3037925822,http://www.lonetreebrewingco.com,-104.893627,39.562857
+fd13429b-1eee-45ae-818a-bd54b099f845,Long Table Brewhouse,taproom,2895 Fairfax St,,,Denver,Colorado,80207-2748,United States,7133017606,http://www.lngtbl.com,-104.928555,39.758226
+21b999fa-6e23-41db-a8c0-9edb3bcd6885,Los Dos Potrillos Mexican Restaurant Y Cerveceria,brewpub,19340 Cottonwood Drv,,,Parker,Colorado,80138,United States,3039816572,http://www.ldpbeer.com,-104.77376,39.552055
+5c96e81b-09a3-467b-9257-cd6faacc6aae,Lost Friend Brewing Company,taproom,2458 Montebello Square Dr,,,Colorado Springs,Colorado,80918-1974,United States,,http://www.lostfriendbrewing.com,-104.782082,38.908286
 d9e48256-6286-472e-bb9c-5cb1d8ecc202,Lost Highway Brewing,micro,12741 E Caley Ave Ste 140,,,Centennial,Colorado,80111-6407,United States,,http://www.losthighwaybrewing.com,,
-6922c3e4-d702-4872-8fe9-30385a052359,Loveland Aleworks,micro,118 W 4th St,,,Loveland,Colorado,80537-5523,United States,9704057465,http://www.lovelandaleworks.com,-105.0769672,40.39541012
-2e6b60c6-46af-4e64-b541-58d36700a92c,Lowdown Brewery + Kitchen,brewpub,800 N Lincoln St Unit 2,,,Denver,Colorado,80203-2710,United States,7205248065,http://www.lowdownbrewery.com,,
-90d7563e-7ff5-4fb4-aab3-19275c21bd9d,Lumpy Ridge Brewing Co,micro,531 S St Vrain Ave,,,Estes Park,Colorado,80517-7416,United States,9702351752,http://www.lumpyridgebrewing.com,-105.503658,40.367158
+6922c3e4-d702-4872-8fe9-30385a052359,Loveland Aleworks,taproom,118 W 4th St,,,Loveland,Colorado,80537-5523,United States,9704057465,http://www.lovelandaleworks.com,-105.077131,40.395362
+2e6b60c6-46af-4e64-b541-58d36700a92c,Lowdown Brewery + Kitchen,micro,800 N Lincoln St Unit 2,,,Denver,Colorado,80203-2710,United States,7205248065,http://www.lowdownbrewery.com,-104.985766,39.729399
+8c75a20c-ee99-4702-a031-2eb40c5d7ae1,LUKI Brewery,taproom,14715 W 64th Ave,,,ARVADA,Colorado,80004,United States,3034212603,http://www.lukibrew.com,-105.163967,39.814581
+90d7563e-7ff5-4fb4-aab3-19275c21bd9d,Lumpy Ridge Brewing Co,micro,531 S St Vrain Ave,,,Estes Park,Colorado,80517-7416,United States,9702351752,http://www.lumpyridgebrewing.com,-105.504583,40.368824
 fb83d0e7-4260-425b-97b6-6e86d38aee4c,Mad Jack's Mountain Brewery,micro,23 Main St,,,Bailey,Colorado,80421,United States,3038162337,http://www.madjacksmountainbrewery.com,-105.4774352,39.40651269
-5d702444-3683-463e-abfe-1f587d63a7bc,Mahogany Ridge Brewery & Grill,brewpub,435 Lincoln Ave,,,Steamboat Springs,Colorado,80477-5084,United States,9708793773,,-106.8306883,40.48389236
-269ae6fe-0f4b-4b1e-bac1-1eedc1332929,Main Street Brewery/Four Corners,brewpub,21 E Main St,,,Cortez,Colorado,81321-3240,United States,9705649112,,-108.5846644,37.3484244
-274b3acf-4f2c-40f0-8ac7-29506f2e8f5c,Mancos Brewing Company,brewpub,484 E. Frontage Rd,,,Mancos,Colorado,81328-9079,United States,9705339761,http://www.mancosbrewingcompany.com,,
-b8af95f3-2057-40d5-ac94-c388f2f639e6,Manitou Brewing Company,brewpub,725 Manitou Ave,,,Manitou Springs,Colorado,80829-1809,United States,7192827709,http://www.manitou-brewing.com,-104.9157413,38.8569869
+17b9308f-9950-49b1-92d9-d917589fb701,Mad Jack's Mountain Brewery,brewpub,23 Main Street,,,Bailey,Colorado,80421,United States,3038162337,http://www.madjacksmountainbrewery.com,-105.47706,39.406675
+afa15c77-a51c-4f09-95e8-3a576d20eb50,Mad Russian Brewing Company,taproom,519 US-50 BUS,,,Olathe,Colorado,81425,United States,,,-107.982706,38.613912
+5d702444-3683-463e-abfe-1f587d63a7bc,Mahogany Ridge Brewery & Grill,brewpub,435 Lincoln Ave,,,Steamboat Springs,Colorado,80477-5084,United States,9708793773,,-106.831394,40.483807
+269ae6fe-0f4b-4b1e-bac1-1eedc1332929,Main Street Brewery/Four Corners,brewpub,21 E Main St,,,Cortez,Colorado,81321-3240,United States,9705649112,,-108.584583,37.348317
+92b0aae5-4e61-42e3-acb6-d2176485ed2e,MainStage Brewing Company,brewpub,450 Main St.,,,Lyons,Colorado,80540,United States,,http://www.mainstagebrewing.com,-105.270536,40.224811
+274b3acf-4f2c-40f0-8ac7-29506f2e8f5c,Mancos Brewing Company,brewpub,484 E. Frontage Rd,,,Mancos,Colorado,81328-9079,United States,9705339761,http://www.mancosbrewingcompany.com,-108.283439,37.347818
+b8af95f3-2057-40d5-ac94-c388f2f639e6,Manitou Brewing Company,brewpub,725 Manitou Ave,,,Manitou Springs,Colorado,80829-1809,United States,7192827709,http://www.manitoubrewing.com,-104.915747,38.857028
 efb2d5d8-8c2c-4e53-adec-156c22f79eed,March Hare Brewing,planning,,,,Parker,Colorado,80134-3627,United States,3039606020,,,
 e5f2a11d-9da7-40ad-b4c1-7ec2da6c7083,Mascher Brewing Co.,planning,,,,Aurora,Colorado,80014-8226,United States,8329482020,http://www.mascher.beer/,,
 24ca52df-8487-4992-aaa9-f5e36a3f5297,Mash Lab Brewing,micro,4395 Highland Meadows Pkwy,,,Windsor,Colorado,80550-8007,United States,9702629225,http://www.mashlabbrewing.com,-104.9677936,40.4386998
-16a73b0d-7b12-4ba3-b43c-8d8e8e34489a,Maxline Brewing,micro,2724 McClelland Dr Ste 190,,,Fort Collins,Colorado,80525-2575,United States,9702862855,http://www.maxlinebrewing.com,-105.0797489,40.55059012
+8921ed4d-8c78-4ed4-ac3f-8d4079c4bb29,Mash Lab Brewing,brewpub,4487 Highland Meadows Pkwy,,,Windsor,Colorado,80550,United States,9702629225,http://www.mashlabbrewing.com,-104.967843,40.439627
+6d46cb49-8eae-46fb-b452-13bbc9d93283,Mash Mechanix Brewing,taproom,429 E Pikes Peak Ave,,,Colorado Springs,Colorado,80903-3627,United States,7194653983,http://mashmechanix.com,-104.816671,38.833297
+16a73b0d-7b12-4ba3-b43c-8d8e8e34489a,Maxline Brewing,taproom,2724 McClelland Dr Ste 190,,,Fort Collins,Colorado,80525-2575,United States,9706910326,http://www.maxlinebrewing.com,-105.079551,40.549683
 8938798a-3cd6-4864-96a9-e6febf1b25be,McClellan's Brewing Company,brewpub,1035 S Taft Hill Rd,,,Fort Collins,Colorado,80521-4222,United States,9705688473,http://www.mcclellansbrewingcompany.com,-105.1151806,40.5737952
 6896acbe-391c-4267-bcd0-4e1e9765ad39,"McOva Craft Beer Works, LLC",planning,,,,Castle Rock,Colorado,80104,United States,3035215027,,,
+4233e5af-23df-43a8-b910-fc1063d20ceb,Metric Brewing Company,taproom,1213 N Circle Dr,,,Colorado Springs,Colorado,80909-3136,United States,7194185560,http://www.metricbrews.com,-104.775586,38.84982
+28db241a-363c-4795-8891-009b6abf8569,Mighty River Brewing Company,taproom,6383 Fairgrounds Ave Unit 200,,,Windsor,Colorado,80550,United States,9702229508,http://www.mightyriverbrewing.com,-104.9829,40.457285
 e58e3205-d7d2-4a33-b4c4-c5bbdaca6d88,MillerCoors Brewing Co - Golden,large,311 10th St,,,Golden,Colorado,80401-5811,United States,3032776246,,-105.219592,39.759495
-dc6da585-1369-4b60-b00a-e39dffed1dd9,Mockery Brewing,micro,3501 Delgany St,,,Denver,Colorado,80216-3617,United States,3039532058,http://Mockerybrewing.com,-104.9797349,39.7712389
-869baabc-5532-4bc8-b85c-7d96b9e584eb,Moonlight Pizza,brewpub,242 F St,,,Salida,Colorado,81201-2104,United States,7195394277,http://www.moonlightpizza.biz,-105.9931616,38.53502271
-b87139f1-33d1-4281-a5e0-07780edd6c18,Mother Tucker Brewery,micro,2360 E 120th Ave,,,Thornton,Colorado,80233-1408,United States,3035659459,http://mothertuckerbrewery.com,-104.9582581,39.91402476
-b26705f7-3797-4dd9-8f7c-86a5fbadda58,Mountain Cowboy Brewing Company,brewpub,318 5th St,,,Frederick,Colorado,80530,United States,3039524433,http://www.mountaincowboybrewing.com,-104.9369796,40.09855473
-e5a383c9-cf8d-4115-b2ab-e59aa504624e,Mountain Sun Pub and Brewery,brewpub,1535 Pearl St,,,Boulder,Colorado,80302-5408,United States,3035460886,http://www.mountainsunpub.com,-105.2752277,40.0190131
+f40756e7-55b6-4ed7-9089-f8bfa8580ff5,Mirror Image Brewing Co.,brewpub,5969 Iris Pkwy,,,Frederick,Colorado,80530,United States,7204455969,http://www.mirrorimagebrewco.com,-104.945513,40.111706
+d8f1b117-b2a6-4aba-ab72-c1b291c55469,MobCraft Beer - Curtis Park,taproom,2403 Champa St,,,Denver,Colorado,80205,United States,6083463003,,-104.984021,39.754555
+dc6da585-1369-4b60-b00a-e39dffed1dd9,Mockery Brewing,taproom,3501 Delgany St,,,Denver,Colorado,80216-3617,United States,3039532058,http://Mockerybrewing.com,-104.979714,39.771176
+08ca5270-81bc-4157-9c30-d8043e111e23,Mono Brewery/Mono Mono Korean Fried Chicken,taproom,599 Crossing Dr,,,Lafayette,Colorado,80026,United States,3039974564,http://www.monomonokfc.com/beer,-105.101722,40.003419
+869baabc-5532-4bc8-b85c-7d96b9e584eb,Moonlight Pizza,brewpub,242 F St,,,Salida,Colorado,81201-2104,United States,7195394277,http://www.moonlightpizza.biz,-105.993574,38.534889
+b87139f1-33d1-4281-a5e0-07780edd6c18,Mother Tucker Brewery,taproom,2360 E 120th Ave,,,Thornton,Colorado,80233-1408,United States,3035495924,http://mothertuckerbrewery.com,-104.956788,39.913668
+06f38bdc-761a-4a51-845f-579291b5006b,Mother Tucker Brewery - Louisville,taproom,1132 W Dillon Road,,,Louisville,Colorado,80027,United States,3035495924,,-105.166979,39.961589
+b26705f7-3797-4dd9-8f7c-86a5fbadda58,Mountain Cowboy Brewing Company,brewpub,318 5th St,,,Frederick,Colorado,80530,United States,3039524433,http://www.mountaincowboybrewing.com,-104.937952,40.098391
+e5a383c9-cf8d-4115-b2ab-e59aa504624e,Mountain Sun Pub and Brewery,brewpub,1535 Pearl St,,,Boulder,Colorado,80302-5408,United States,3035460886,http://www.mountainsunpub.com,-105.275637,40.018935
 b38e3a59-9874-4d96-960b-631548ec3187,Mountain Tap Brewery,brewpub,910 Yampa Street,,,Steamboat Springs,Colorado,80487,United States,9708796646,http://www.mountaintapbrewery.com,-106.8355071,40.4853039
-a3a41098-15ef-4968-9edd-d68257f14f08,Mountain Toad Brewing,micro,900 Washington Ave,,,Golden,Colorado,80401-1047,United States,7206383244,http://mountaintoadbrewing.com,-105.2242563,39.75807905
-624ccbcf-ed20-42c3-8d17-2253046f82ca,Nano 108 Brewing Co,micro,2402 Waynoka Rd,,,Colorado Springs,Colorado,80915-1612,United States,7195962337,http://www.nano108brewing.com,,
+a3a41098-15ef-4968-9edd-d68257f14f08,Mountain Toad Brewing,taproom,900 Washington Ave,,,Golden,Colorado,80401-1047,United States,7206383244,http://mountaintoadbrewing.com,-105.224167,39.758058
+83e852a9-4cbb-40f6-b5f9-ce9a0a02132c,Mythmaker Brewing,taproom,1035 S Taft Hill Rd,,,Fort Collins,Colorado,80521,United States,,http://www.mythmakerbrewing.com,-105.115217,40.572463
+624ccbcf-ed20-42c3-8d17-2253046f82ca,Nano 108 Brewing Co,taproom,2402 Waynoka Rd,,,Colorado Springs,Colorado,80915-1612,United States,7195962337,http://www.nano108brewing.com,-104.718012,38.866403
 7ad422f8-cd8a-4706-9583-8d20c5242f24,Never Summer Brewing Co,micro,62 E Agate Ave,,,Granby,Colorado,80446,United States,9708870333,,-105.9415686,40.0855713
+e6bb1bd0-b58c-4944-bb1a-e09685183fa9,Never Summer Brewing Co,taproom,62  E. AGATE AVENUE,,,Granby,Colorado,80446,United States,9708870333,,-105.941527,40.085258
 93a19d3e-c4cf-480d-83da-74c6e41d07c7,New Belgium - The Woods At The Source,planning,,,,Denver,Colorado,80216-5021,United States,,http://www.newbelgium.com/Brewery/TheWoods,,
 1b0bf444-c830-4958-922c-5c1b46fe37f5,New Belgium Brewing Co,regional,500 Linden St,,,Fort Collins,Colorado,80524-2457,United States,9702210524,http://www.newbelgium.com,-105.0678422,40.59335825
-03aa438e-fd51-47a7-a3ce-3c6fde02295c,New Image Brewing Co,brewpub,5622 Yukon St,,,Arvada,Colorado,80002-2446,United States,7708811010,http://www.nibrewing.com,-105.0824595,39.79938347
+03aa438e-fd51-47a7-a3ce-3c6fde02295c,New Image Brewing Co,brewpub,5622 Yukon St,,,Arvada,Colorado,80002-2446,United States,7209005620,http://www.nibrewing.com,-105.08239,39.799987
+6f7ad8c4-463a-48c7-b480-8606a371bff6,New Image Brewing Co,taproom,9505 W 44th Ave,,,Wheat Ridge,Colorado,80033,United States,7209005620,,-105.104043,39.778779
 d0ef1b88-ae8d-4d85-889c-16bf9f4fb58e,New Planet Beer Co,contract,3980 Broadway St Ste 103 # 116,,,Boulder,Colorado,80304-1161,United States,3034994978,http://www.newplanetbeer.com,,
-8b37edb9-f2e1-45a9-bafe-53bd74bceb9b,New Terrain Brewing Company,micro,16401 Table Mountain Pkwy,,,Golden,Colorado,80403-1863,United States,7206977848,http://newterrainbrewing.com,-105.1851036,39.77781975
-7a2b157a-7973-4e45-aacf-c3401a4cf6ac,Novel Strand Brewing,micro,305 W 1st Ave,,,Denver,Colorado,80223-1509,United States,5189613217,,-104.9923182,39.718471
-11e18963-8156-4941-b7e6-457b01b6d19f,Oasis Brewery,micro,3257 N Lowell Blvd,,,Denver,Colorado,80211,United States,3033174369,http://www.oasisbeer.com,,
-b257714f-ad0b-4898-a9bc-3c6e29dc70a1,Odd13 Brewing Inc,micro,301 E Simpson St,,,Lafayette,Colorado,80026-2325,United States,3039974164,http://www.odd13brewing.com,-105.0878839,39.9983626
+8b37edb9-f2e1-45a9-bafe-53bd74bceb9b,New Terrain Brewing Company,taproom,16401 Table Mountain Pkwy,,,Golden,Colorado,80403-1863,United States,7207716997,http://newterrainbrewing.com,-105.185963,39.779591
+bf245c91-11fe-45f8-9d21-1db4aa574623,Nicholson Beer Project LLC dba Old 121 Brewhouse,taproom,1057 S Wadsworth Blvd Ste 60,,,Lakewood,Colorado,80226,United States,3039860311,http://www.old121brewhouse.com,-105.081818,39.698031
+7a2b157a-7973-4e45-aacf-c3401a4cf6ac,Novel Strand Brewing,taproom,305 W 1st Ave,,,Denver,Colorado,80223-1509,United States,7209490246,http://https://www.novelstrand.com/,-104.992358,39.718562
+11e18963-8156-4941-b7e6-457b01b6d19f,Oasis Brewery,micro,3257 N Lowell Blvd,,,Denver,Colorado,80211,United States,3033174369,http://www.oasisbeer.com,-105.034911,39.762824
+5cbb474e-3a3e-45a2-9db2-c69152f8a84c,Obstacle Brewing and Grill,brewpub,4613 S Mason St,,,Fort Collins,Colorado,80525,United States,9706728496,http://www.obstaclebrewing.com,-105.079151,40.523142
+139169d6-a0cb-40c9-b0df-06a93b550c9f,OCC Brewing,brewpub,2316 West Colorado Ave,,,Colorado Springs,Colorado,80904,United States,7193082173,http://www.occbrewing.com,-104.859977,38.845739
+b257714f-ad0b-4898-a9bc-3c6e29dc70a1,Odd13 Brewing Inc,location,301 E Simpson St,,,Lafayette,Colorado,80026-2325,United States,3039974164,http://www.odd13brewing.com,-105.087877,39.998515
 ec524746-888e-4384-9f87-f8dc1af6428e,Odd13 Production Facility,micro,505 Stacy Ct Ste D,,,Lafayette,Colorado,80026,United States,,,,
-63fd2c11-5530-4de9-8fe2-8fbf65e3a49f,Odell Brewing Co,regional,800 E Lincoln Ave,,,Fort Collins,Colorado,80524-2507,United States,9704989070,http://www.odellbrewing.com,-105.0633327,40.5895239
+63fd2c11-5530-4de9-8fe2-8fbf65e3a49f,Odell Brewing Co,regional,800 E Lincoln Ave,,,Fort Collins,Colorado,80524-2507,United States,9704989070,http://www.odellbrewing.com,-105.06347,40.589616
 504a4dee-ca0d-49cf-87dc-259504ae153c,Odell Brewing Co - Denver,micro,2945 Larimer St,,,Denver,Colorado,80205-2308,United States,,,-104.9810078,39.7621447
+fc26d036-2e76-4518-a311-d233bd2e0dfd,Odell Brewing Co Five Points Brewhouse,micro,2945 Larimer St,,,Denver,Colorado,80205-2308,United States,,,-104.981163,39.762197
+dc519976-96a3-4430-a986-8b7b4e673e81,Odell Brewing Sloan's Lake Brewhouse,brewpub,1625 Perry St,,,Denver,Colorado,80204,United States,,,-105.039627,39.743379
 319af5ac-111d-487e-81d2-0b25f910602d,Odyssey Beerwerks,micro,5535 W 56th Ave Ste 107,,,Arvada,Colorado,80002-2806,United States,3034210772,http://www.odysseybeerwerks.com,,
-b945d00a-5596-4992-8010-f2313d71dc6b,Old Colorado Brewing Co,micro,8121 First St.,,,Wellington,Colorado,80549,United States,9702172129,http://www.oldcoloradobrewing.com,,
+59a4d480-c122-4145-8589-8fbb97a7ac57,Odyssey Beerwerks,taproom,5535 W 56th Ave,,,Arvada,Colorado,80002-2806,United States,3034210772,http://www.odysseybeerwerks.com,-105.058853,39.800794
+851a71a1-3a1e-4171-a89b-224df8be4bcf,Ohm Brewing Company,brewpub,1921 Youngfield St #210,,,Golden,Colorado,80401,United States,,,-105.144084,39.745976
+b945d00a-5596-4992-8010-f2313d71dc6b,Old Colorado Brewing Co,taproom,8121 First St.,,,Wellington,Colorado,80549,United States,9704208913,http://www.oldcoloradobrewing.com,-105.008035,40.702276
 29c89d1e-5b60-40d7-998c-a38fa101b0f8,Open Door Brewing Company,contract,2030 Ionosphere St Unit G,,,Longmont,Colorado,80504-8459,United States,7205931401,http://www.opendoorbrewco.com,,
-57f68c2a-2520-4c6f-a595-570aadb38358,Oskar Blues Brewery - Lyons,brewpub,303 Main St,,,Lyons,Colorado,80540,United States,3038236685,http://www.oskarblues.com,-105.2676934,40.22451332
-5a28cd92-6aeb-4cac-a24f-2260802b07b7,Oskar Blues Brewery & Tasty Weasel Tap Room,regional,1800 Pike Rd Unit B,,,Longmont,Colorado,80501-6794,United States,3037760724,http://www.oskarblues.com,,
+57f68c2a-2520-4c6f-a595-570aadb38358,Oskar Blues Brewery - Lyons,brewpub,303 Main St,,,Lyons,Colorado,80540,United States,3038236685,http://www.oskarblues.com,-105.268163,40.224337
+5a28cd92-6aeb-4cac-a24f-2260802b07b7,Oskar Blues Brewery & Tasty Weasel Tap Room,regional,1800 Pike Rd Unit B,,,Longmont,Colorado,80501-6794,United States,3037760724,http://www.oskarblues.com,-105.12258,40.138922
 1f0405ff-3d96-47e7-90ee-a1bc5764149b,Our Mutual Friend Brewing,micro,2810 Larimer St,,,Denver,Colorado,80205-2223,United States,3032963441,http://www.omfbeer.com,-104.9825596,39.7605777
-b9da27a0-7c53-4aaf-9a85-fa453d97ebf3,Ouray Brewery,brewpub,607 Main St,,,Ouray,Colorado,81427-,United States,9703257388,http://www.ouraybrewery.com,-107.6712878,38.0229071
+b9da27a0-7c53-4aaf-9a85-fa453d97ebf3,Ouray Brewery,micro,607 Main St,,,Ouray,Colorado,81427,United States,9703257388,http://www.ouraybrewery.com,-107.671212,38.02294
 a6d1b092-de65-4af6-a543-b752f93979ce,Ourayle House Brewery,micro,703 Main St,,,Ouray,Colorado,81427-0630,United States,9709031824,,-107.6714048,38.02402041
+d2e81ea5-1f58-4005-8fec-7ef11f33a809,Ourayle House Brewery / Mr. Grumpy Pants Brewing,taproom,703 Main St,,,Ouray,Colorado,81427-0630,United States,,,-107.671314,38.024016
 35901770-f2e3-424c-b462-1deb0fa2da06,Out World Brewing,planning,,,,Longmont,Colorado,80503-7285,United States,,http://www.outworld.beer,,
 65b80308-dbfd-45c1-8c7a-a76e43ed006f,Outer Range Brewing Co,micro,182 Lusher Court #2,,,Frisco,Colorado,80443-6601,United States,9703683101,http://www.outerrange.com,-106.0989298,39.5892615
+58216df0-007a-45c9-8bb5-f62322c6495f,Outer Range Brewing Co,brewpub,182 Lusher Court,,,Frisco,Colorado,80443-6601,United States,9703683101,http://www.outerrange.com,-106.095622,39.590764
 bdd9f11c-9b60-4d1b-9dc9-c81cb6ba9301,Over Yonder Brewing Company,planning,,,,Golden,Colorado,80403-8590,United States,7203638089,,,
-1718be2e-b314-45d6-a208-8f79e31e8234,Pagosa Brewing & Grill,brewpub,118 N Pagosa Blvd,,,Pagosa Springs,Colorado,81147-8470,United States,9707312739,http://www.pagosabrewing.com,,
+e130244e-6a42-4daf-92ba-786e307f6684,Over Yonder Brewing Company,taproom,18455 W Colfax Ave,,,Golden,Colorado,80401,United States,3032780399,http://www.overyonderbrewing.com,-105.204169,39.703712
+1718be2e-b314-45d6-a208-8f79e31e8234,Pagosa Brewing & Grill,brewpub,118 N Pagosa Blvd,,,Pagosa Springs,Colorado,81147-8470,United States,9707312739,http://www.pagosabrewing.com,-107.079812,37.255104
 cf834341-f73a-4e54-b4ff-e8bc965dbf0b,Palisade Brewing Company,brewpub,200 Peach Ave,,,Palisade,Colorado,81526,United States,9704641462,http://www.palisadebrewingcompany.com,-108.3542553,39.11109565
 4a6351a8-2ec1-42b0-8c6a-ca6c630df76b,Paonia United Brewing Company,micro,325 Grand Ave,,,Paonia,Colorado,81428,United States,9704177759,http://www.paoniaunitedbrew.com,-107.5976969,38.86899455
-ecde2a37-e88b-4637-933e-ebd02cbff2b8,Paradox Beer Co,micro,10 Buffalo Ct,,,Divide,Colorado,80814-9178,United States,,http://www.paradoxbeercompany.com,-105.1550486,38.94440915
-d58fa2dc-0c5d-4eaa-9252-f25f59c3025e,Parts & Labor Brewing Company,brewpub,402 Main St Unit B,,,Sterling,Colorado,80751-4343,United States,9702228221,http://www.partsandlaborbrewing.com,,
+d98fe836-2cc1-4a29-95a6-21247d2c9f39,Paonia United Brewing Company,taproom,302Grand Ave,,,Paonia,Colorado,81428,United States,9704177759,http://www.paoniaunitedbrew.com,-107.598043,38.868811
+ecde2a37-e88b-4637-933e-ebd02cbff2b8,Paradox Beer Co,micro,10 Buffalo Ct,,,Divide,Colorado,80814-9178,United States,7193149304,http://www.paradoxbeercompany.com,-105.155198,38.944017
+d58fa2dc-0c5d-4eaa-9252-f25f59c3025e,Parts & Labor Brewing Company,brewpub,402 Main St Unit B,,,Sterling,Colorado,80751-4343,United States,9702228221,http://www.partsandlaborbrewing.com,-103.210023,40.624937
 8759cc82-6616-436e-b9ed-50b897439a8e,Pdub Brewing Co,brewpub,187 S Purcell Blvd,,,Pueblo,Colorado,81007-5081,United States,7196478864,http://www.pdubbrewing.com,-104.7084175,38.3164023
+8d8730b3-4bd5-4178-92fd-52b8af890a9f,Pdub Brewing Co dba Reservoir Brewing Co,alt prop,181 S Purcell Blvd,,,Pueblo,Colorado,81007-5081,United States,7196478864,,-104.703983,38.320833
 3c4ee320-98f6-4949-9ec1-8a24f16619d8,Peak To Peak Tap & Brew,brewpub,16701 E Iliff Ave,,,Aurora,Colorado,80013-1148,United States,7204468714,http://www.peakbrews.com,-104.8366181,39.6750535
 8eb28987-4959-4f49-b410-757b110e5356,Peak To Peak Tap & Brew,micro,9735 E Colfax Ave,,,Aurora,Colorado,80010,United States,,,-104.8505299,39.7402157
 ec411fb6-0238-45ae-a312-8c3d6133d140,Peak View Brewing Company,planning,,,,Greenwood Village,Colorado,80112,United States,3036418731,http://www.peakviewbrewing.com,,
-02552dfe-2893-4ef1-82d6-b4713015c61f,Peaks N Pines Brewing Company,micro,4005 Tutt Blvd,,,Colorado Springs,Colorado,80922-2508,United States,7193586758,http://www.peaksnpinesbrewery.com,-104.7146045,38.88965993
+2bfdab83-000c-44ec-bda6-141e9c70d180,Peak View Brewing Company,taproom,9672 E Arapahoe Road,,,Greenwood Village,Colorado,80112,United States,3036418731,http://www.peakviewbrewing.com,-104.876852,39.594445
+02552dfe-2893-4ef1-82d6-b4713015c61f,Peaks N Pines Brewing Company,location,4005 Tutt Blvd,,,Colorado Springs,Colorado,80922-2508,United States,7193586758,,-104.713895,38.889872
+3a894fe6-044e-4c5b-b83d-4bac303d8bf1,Peaks N Pines Brewing Company,taproom,212 W Illinois Ave,,,Fountain,Colorado,80817,United States,7193586758,http://www.peaksnpinesbrewery.com,-104.702687,38.680516
+3ee75f33-55b3-459c-b1ea-842f0bd1e367,Peculier Ales,taproom,301 Main St,,,Windsor,Colorado,80550,United States,9703810599,http://peculierales.com,-104.90106,40.479444
 67b5abdf-0111-4a45-9677-495e4eb63552,Periodic Brewing LLC,brewpub,115 E 7th St,,,Leadville,Colorado,80461-3505,United States,7203168144,http://www.periodicbrewing.com,-106.2917767,39.2496419
 6b0b1108-2486-4c3d-aad3-f9c736b5a855,Periodic Brewing Northglenn,micro,2100 E 112th Ave,,,Northglenn,Colorado,80233-2345,United States,7208641012,,-104.9619495,39.89940226
-2b3ee6dd-fca7-4375-9d38-32fedfd00ada,Phantom Canyon Brewing Co,brewpub,2 E Pikes Peak Ave,,,Colorado Springs,Colorado,80903-1504,United States,7196352800,http://www.phantomcanyon.com,-104.8249314,38.83423935
-d99db2dc-a8fa-4027-8afd-4deae0112c88,Pikes Peak Brewing,micro,1756 Lake Woodmoor Dr,,,Monument,Colorado,80132-9215,United States,7192084098,http://www.pikespeakbrewing.com,,
+2b3ee6dd-fca7-4375-9d38-32fedfd00ada,Phantom Canyon Brewing Co,brewpub,2 E Pikes Peak Ave,,,Colorado Springs,Colorado,80903-1504,United States,7196352800,http://www.phantomcanyon.com,-104.824848,38.834297
+d99db2dc-a8fa-4027-8afd-4deae0112c88,Pikes Peak Brewing,micro,1756 Lake Woodmoor Dr,,,Monument,Colorado,80132-9215,United States,7192084098,http://www.pikespeakbrewing.com,-104.859462,39.094503
+5b2d7559-dda4-47ed-9214-5746145505cd,Pikes Peak Brewing Lager House,brewpub,514 S Tejon St,,,Colorado Springs,Colorado,80903,United States,7192084098,,-104.824404,38.82614
 50368316-c57b-44d3-bfaa-b4d1c4cc9370,Pilothouse Brewing Company,micro,4233 S Buckley Rd,,,Aurora,Colorado,80013-2947,United States,3039944971,http://www.pilothousebrewco.com,-104.7915508,39.63993222
-26c5bf08-f1a2-4e4f-b092-e802ee69d039,Pints Pub Brewery and Freehouse,brewpub,221 W 13th Ave,,,Denver,Colorado,80204-2711,United States,3035347543,http://www.pintspub.com,-104.9908538,39.737018
-1d26e5a5-2e88-45d7-94ef-0e10c85cecde,Pitchers Sports Restaurant and Brewery,brewpub,1100 W Drake Rd,,,Fort Collins,Colorado,80526-6008,United States,9704935374,http://www.pitchersbrewery.com,-105.0973959,40.55306785
-6225d756-4684-46ba-8ef4-de19e6fb0d8c,Platt Park Brewing Co.,micro,1875 S Pearl St,,,Denver,Colorado,80210-3136,United States,3039686674,http://www.plattparkbrewing.com,-104.9805967,39.68267416
-fa2495b5-598e-4353-9fb7-3a678a77d0c9,Primitive Beer LLC,micro,2025 Ionosphere St Unit 101,,,Longmont,Colorado,80504-7439,United States,9142557436,http://www.Primitive.beer,,
-c720c16f-37c4-49ac-ab31-d410ff491f81,Prost Brewing,micro,2540 19th St,,,Denver,Colorado,80211-3910,United States,3037291175,http://www.prostbrewing.com,-105.0067758,39.761363
+26c5bf08-f1a2-4e4f-b092-e802ee69d039,Pints Pub Brewery and Freehouse,brewpub,221 W 13th Ave,,,Denver,Colorado,80204-2711,United States,3035347543,http://www.pintspub.com,-104.991185,39.737012
+1d26e5a5-2e88-45d7-94ef-0e10c85cecde,Pitchers Sports Restaurant and Brewery,brewpub,1100 W Drake Rd,,,Fort Collins,Colorado,80526-6008,United States,9704935374,http://www.pitchersbrewery.com,-105.0974,40.553034
+6225d756-4684-46ba-8ef4-de19e6fb0d8c,Platt Park Brewing Co.,brewpub,1875 S Pearl St,,,Denver,Colorado,80210-3136,United States,3039686674,http://www.plattparkbrewing.com,-104.980809,39.682607
+fa2495b5-598e-4353-9fb7-3a678a77d0c9,Primitive Beer LLC,taproom,2025 Ionosphere St Unit 101,,,Longmont,Colorado,80504-7439,United States,9142557436,http://www.Primitive.beer,-105.103983,40.134692
+c720c16f-37c4-49ac-ab31-d410ff491f81,Prost Brewing Company,alt prop,2540 19th St,,,Denver,Colorado,80211-3910,United States,9706880958,http://www.prostbrewing.com,-105.006671,39.761383
+adcaafbf-f7d0-4c9b-a749-b1d0f78d8166,Prost Brewing Company,brewpub,53 Centennial Boulevard,,,Highlands Ranch,Colorado,80129,United States,,,-104.989163,39.562559
 0676073b-a116-400c-a65a-7101daefc68b,Prost Brewing Fort Collins,planning,,,,Fort Collins,Colorado,80524-2162,United States,9704842421,,,
-14929b86-bff4-421a-bc03-be80a56572f8,Pug Ryan's Brewing Company,brewpub,104 Village Pl,,,Dillon,Colorado,80435-2515,United States,9704682145,http://www.pugryans.com,-106.0467598,39.62832675
-0cb99662-37d0-4a67-8fd4-8298f9179051,Pumphouse Brewery and Restaurant,brewpub,540 Main St,,,Longmont,Colorado,80501-5537,United States,3037020881,http://www.pumphousebrewery.com,-105.1020999,40.1687619
+4ac4e6a1-ec59-4150-88bf-5212a3f6fecd,Prost Brewing Fort Collins,micro,321 Old Firehouse Aly,,,Fort Collins,Colorado,80524-2162,United States,9704842421,,-105.0652,40.6068
+45d567b4-f59f-480c-8d90-4c82960fe39b,Public House Crested Butte,brewpub,202 Elk Avenue,,,Crested Butte,Colorado,81224,United States,,http://www.publichousecb.com,-106.987319,38.869501
+14929b86-bff4-421a-bc03-be80a56572f8,Pug Ryan's Brewing Company,brewpub,104 Village Pl,,,Dillon,Colorado,80435-2515,United States,9704682145,http://www.pugryans.com,-106.046509,39.628074
+0cb99662-37d0-4a67-8fd4-8298f9179051,Pumphouse Brewery and Restaurant,brewpub,540 Main St,,,Longmont,Colorado,80501-5537,United States,3037020881,http://www.pumphousebrewery.com,-105.102096,40.168743
 b8e7517b-317b-4e4d-9d3d-4f7a35200908,Purpose Brewing and Cellars,micro,4025 S Mason St Unit C,,,Fort Collins,Colorado,80525-5953,United States,9703774107,http://www.purposebrewing.com,,
+3f14c58d-c126-446b-899f-1385625a758c,Purpose Brewing and Cellars,taproom,4025 S Mason St,,,Fort Collins,Colorado,80525-5953,United States,9703774107,http://www.purposebrewing.com,-105.080098,40.531156
 512eb241-55cf-47bf-b949-824cc7fd7449,Raices Brewing Co,planning,,,,Denver,Colorado,80204,United States,2024237060,http://www.raicesbrewing.com,,
-6789f741-4866-4838-bff5-6dceef7d5341,Rails End Beer Company,micro,11625 Reed Ct,,,Broomfield,Colorado,80020-2834,United States,3033538121,http://www.railsendbeerco.com,-105.0750302,39.9084879
-5806ef06-a300-4a88-820e-f14e0c290794,Rally King Brewing,micro,1624 S Lemay Ave Unit 4,,,Fort Collins,Colorado,80525-1188,United States,9705688936,http://www.rallykingbrewing.com,,
+a071ef57-fb21-45e3-b972-289e3aea2ecd,Raices Brewing Co,brewpub,2060 West Colfax Ave,,,Denver,Colorado,80204,United States,7202952437,http://www.raicesbrewing.com,-105.017512,39.739008
+6789f741-4866-4838-bff5-6dceef7d5341,Rails End Beer Company,brewpub,11625 Reed Ct,,,Broomfield,Colorado,80020-2834,United States,3033538121,http://www.railsendbeerco.com,-105.075038,39.908461
+5806ef06-a300-4a88-820e-f14e0c290794,Rally King Brewing,taproom,1624 S Lemay Ave Unit 4,,,Fort Collins,Colorado,80525-1188,United States,9705688936,http://www.rallykingbrewing.com,-105.057033,40.565859
+a2d877cf-a348-489b-b77c-f42f06896adb,Ramblebine Brewing Company,taproom,457 Colorado Ave,,,Grand Junction,Colorado,81501,United States,9706445273,http://www.ramblebinebrewing.com,-108.564712,39.066048
 a2479685-7402-413d-8398-357db4a5aed8,Ramskeller,planning,,,,Fort Collins,Colorado,80523-0001,United States,9704911055,,,
+7447e82a-792e-40c4-b3d4-d80b7e390af4,Ramskeller,brewpub,8033 Campus Delivery,,,Fort Collins,Colorado,80523-8035,United States,9704207514,http://www.fermentation.colostate.edu,-105.0825,40.5738
 9e9b2679-fc12-4095-b401-198f4a444525,Rancho De Lomi Brewing,planning,,,,Laporte,Colorado,80535-3021,United States,4156067246,,,
-90ea24ab-7f6b-4961-95ee-496ba24e62f3,Ratio Beerworks,micro,2920 Larimer St,,,Denver,Colorado,80205-2309,United States,3102669264,http://ratiobeerworks.com,-104.9812181,39.7615104
+90ea24ab-7f6b-4961-95ee-496ba24e62f3,Ratio Beerworks,taproom,2920 Larimer St,,,Denver,Colorado,80205-2309,United States,3102669264,http://ratiobeerworks.com,-104.981041,39.761483
+8600293b-94b1-4103-bd6e-db46d7f360eb,Ratio Beerworks - Overland,micro,2030 S. Cherokee St,,,Denver,Colorado,80223,United States,3102669264,,-104.990788,39.679635
 cec54270-d377-44b4-8ca8-d847c204b637,Red Leg Brewing Company,micro,4630 Forge Rd Ste B,,,Colorado Springs,Colorado,80907-3556,United States,7195983776,http://www.redlegbrewingco.com,,
-3cc2a24c-bf59-42c0-8f83-371c19d049e9,Red Mountain Brewing,brewpub,400 Main St,,,Ouray,Colorado,81427,United States,9703259858,http://www.redmountainbrewingouray.com,-107.671615,38.020713
+2b5d33dc-5689-458a-b224-17032b53fa19,Red Leg Brewing Company,taproom,2323 Garden of the Gods Rd,,,Colorado Springs,Colorado,80907,United States,7195983776,http://www.redlegbrewing.com,-104.870597,38.896176
+3cc2a24c-bf59-42c0-8f83-371c19d049e9,Red Mountain Brewing,brewpub,400 Main St,,,Ouray,Colorado,81427,United States,9703259858,http://www.redmountainbrewingouray.com,-107.671909,38.020858
+34129a58-c530-47b7-8419-f23651c8e300,Red Swing Brewhouse,taproom,521 S Tejon Street,,,Colorado Springs,Colorado,80903,United States,,http://www.redswingbrewhouse.com,-104.823423,38.82602
 f3fbeb9f-9f53-4d88-b137-44d3472f7af6,Red Truck Beer Company,planning,,,,Denver,Colorado,80216-3612,United States,,,,
 78f72432-7c43-4f4b-9eb9-6abadb3e7a07,Red Truck Beer Company Ltd.,micro,1020 E Lincoln Ave,,,Fort Collins,Colorado,80524-2509,United States,6046824733,,-105.0584895,40.58916845
-7afa7b01-585a-45e5-9d68-843617aa592e,Redgarden Brewery,brewpub,1700 Dogwood St,,,Louisville,Colorado,80027-1102,United States,3036199601,http://www.redgardenbrewery.com,-105.1138827,39.9674475
-c7fb56c0-daf1-42d7-a6dd-5b75953838c9,Renegade Brewing Company,micro,918 W 1st Ave,,,Denver,Colorado,80223-1534,United States,3035345407,http://renegadebrewing.com,-104.9992637,39.71831392
+7afa7b01-585a-45e5-9d68-843617aa592e,Redgarden Brewery,brewpub,1700 Dogwood St,,,Louisville,Colorado,80027-1102,United States,3036199601,http://www.redgardenbrewery.com,-105.116339,39.96557
+f3ba8d3b-f8bf-4871-9416-6898f05a34b6,Redstone Meadery,micro,4700 Pearl St Ste 2A,,,Boulder,Colorado,80301-2457,United States,7204061215,http://www.redstonemeadery.com,-105.244004,40.024944
+c7fb56c0-daf1-42d7-a6dd-5b75953838c9,Renegade Brewing Company,micro,925 W 9th Ave,,,Denver,Colorado,80204-4338,United States,3035345407,http://renegadebrewing.com,-104.998913,39.730657
+739f6369-0abc-4f84-a782-fbe3dc97e94e,Renegade Brewing Company,micro,925 W 9th Ave,,,Denver,Colorado,80204-4338,United States,3035345407,http://renegadebrewing.com,-104.998913,39.730657
 3881ce7f-1556-4ef0-aef7-ed55283678d8,Renegade Brewing Company - Production,micro,918 W 1st Ave,,,Denver,Colorado,80223-1534,United States,7204014089,http://www.renegadebrewing.com,-104.9992637,39.71831392
-562b5a37-32a6-4acd-9f2e-ad781e310618,Resolute Brewing Company,micro,7286 S Yosemite St Ste 110,,,Centennial,Colorado,80112-2204,United States,7207221238,http://www.resolutebrewingco.com,,
+5b0f85a7-3f87-414b-9291-689835ed0bb9,Resolute Brewing Co,taproom,18148 West 92nd Lane,,,Arvada,Colorado,80007,United States,3032849756,,-105.204799,39.863206
+562b5a37-32a6-4acd-9f2e-ad781e310618,Resolute Brewing Company,taproom,7286 S Yosemite St Ste 110,,,Centennial,Colorado,80112-2204,United States,7207221238,http://www.resolutebrewingco.com,-104.884998,39.584768
+e71f5cf5-ba70-4067-a43c-aef756872181,Reverence Brewing,taproom,1604 East 17th Ave,,,Denver,Colorado,80218,United States,,http://www.reverencebrewingcompany.com,-104.968214,39.743091
 78afc551-cb96-427b-972f-61840aa2636c,Rhythm River Brewing Company,planning,,,,Longmont,Colorado,80504-2226,United States,,http://www.rhythmriverbrewing.com,,
-bf79bd79-aca0-4f04-8e49-316917becaaf,Riff Raff Brewing,brewpub,274 Pagosa St,,,Pagosa Springs,Colorado,81147,United States,9702644677,http://www.riffraffbrewing.com,-107.0081546,37.26874006
-cbdb28e4-633a-4b27-95f9-f8383c53298c,River North Brewery,micro,6021 Washington St Unit A,,,Denver,Colorado,80216-1153,United States,7858656057,http://www.rivernorthbrewery.com,,
+bf79bd79-aca0-4f04-8e49-316917becaaf,Riff Raff Brewing,micro,274 Pagosa St,,,Pagosa Springs,Colorado,81147,United States,9702644677,http://www.riffraffbrewing.com,-107.007077,37.268587
+d8c3fd4f-406c-49d8-8aa2-ac942128e2fd,Riff Raff On the Rio,brewpub,356 E Pagosa St,,,Pagosa Springs,Colorado,81147,United States,9702646274,http://www.riffraffrio.com,-107.009836,37.267983
+cbdb28e4-633a-4b27-95f9-f8383c53298c,River North Brewery,micro,6021 Washington St Unit A,,,Denver,Colorado,80216-1153,United States,7858656057,http://www.rivernorthbrewery.com,-104.978846,39.806487
 48f9049b-e240-4e4f-80ae-d6e2ec181912,River North Brewery - RiNo,planning,,,,Denver,Colorado,80205-2440,United States,7858656057,http://www.rivernorthbrewery.com,,
-5dbdf6bc-f0c5-43b4-8ce6-29a3eddf2142,Roaring Fork Beer Company,proprietor,1941 Dolores Way,,,Carbondale,Colorado,81623-2235,United States,9705105934,http://www.roaringforkbeerco.com,,
-edd508e5-ef5e-4a5a-9724-9e41bbaedc23,Rock Bottom Brewery - Centerra Promenade,brewpub,6025 Sky Pond Dr,,,Loveland,Colorado,80538-9013,United States,9706222077,http://www.rockbottom.com,-104.990385,40.418114
-a68d7446-e2e5-4e6c-a4f9-6dc0fd8e3205,Rock Bottom Brewery - Colorado Springs,brewpub,3316 Cinema Point Dr,,,Colorado Springs,Colorado,80922,United States,7195503586,http://www.rockbottom.com,-104.718194,38.8811909
-24e86b2b-be63-4abc-ba2b-f1ec7bcb827a,Rock Bottom Brewery - Denver,brewpub,1001 16th St Ste 100,,,Denver,Colorado,80265-0100,United States,3035347616,http://www.rockbottom.com,,
+4c9c020c-b93b-42d8-b342-4ecd23802676,River North Brewery - RiNo,taproom,3400 Blake St,,,Denver,Colorado,80205-2440,United States,7858656057,http://www.rivernorthbrewery.com,-104.97687,39.767162
+5dbdf6bc-f0c5-43b4-8ce6-29a3eddf2142,Roaring Fork Beer Company,beer brand,1941 Dolores Way,,,Carbondale,Colorado,81623-2235,United States,9705105934,http://www.roaringforkbeerco.com,-107.223658,39.410625
+edd508e5-ef5e-4a5a-9724-9e41bbaedc23,Rock Bottom Brewery - Centerra Promenade,brewpub,6025 Sky Pond Dr,,,Loveland,Colorado,80538-9013,United States,9706222077,http://www.rockbottom.com,-104.989786,40.410953
+a68d7446-e2e5-4e6c-a4f9-6dc0fd8e3205,Rock Bottom Brewery - Colorado Springs,brewpub,3316 Cinema Point Dr,,,Colorado Springs,Colorado,80922,United States,7195503586,http://www.rockbottom.com,-104.702,38.8911
+24e86b2b-be63-4abc-ba2b-f1ec7bcb827a,Rock Bottom Brewery - Denver,brewpub,1001 16th St Ste 100,,,Denver,Colorado,80265-0100,United States,3035347616,http://www.rockbottom.com,-104.995355,39.747866
 ce9dbd76-619c-4474-ba27-7ca4e37c2cbe,Rock Bottom Brewery - Englewood,brewpub,9627 E County Line Rd,,,Englewood,Colorado,80112-3502,United States,3037929090,http://www.rockbottom.com,,
-ef8e2e3a-4c8d-40f7-a33d-4659d0fa45d9,Rock Bottom Brewery - Highlands Ranch,brewpub,1505 Park Central Dr,,,Highlands Ranch,Colorado,80129-6686,United States,,,,
+49c6f6f4-48fd-49a5-b485-64e60c797515,Rock Bottom Brewery - Englewood,brewpub,9627 E County Line Rd,,,Centennial,Colorado,80112-3502,United States,3037929090,http://www.rockbottom.com,-104.87389,39.567788
+ef8e2e3a-4c8d-40f7-a33d-4659d0fa45d9,Rock Bottom Brewery - Highlands Ranch,brewpub,1505 Park Central Dr,,,Highlands Ranch,Colorado,80129-6686,United States,,,-105.006789,39.554426
 a4f2d628-e1bf-45d0-b887-c2547fef25ec,Rock Bottom Brewery - Orchard Cntr,brewpub,14694 Orchard Pkwy Unit 400,,,Westminster,Colorado,80023-9198,United States,3032551625,http://www.rockbottom.com,,
 e98fe064-5731-4f25-a970-b9621e3b5de5,Rock Bottom Brewery - Westminster,brewpub,10633 Westminster Blvd Unit 900,,,Westminster,Colorado,80020-4176,United States,7205660198,http://www.rockbottom.com,,
+707ec726-c561-4e75-b940-68480d9d5e28,Rock Coast Brewery,brewpub,414 E 6th St,,,Loveland,Colorado,80537,United States,,http://www.rockcoastbrewery.com,-105.071291,40.397204
 6f35def1-f9b1-4712-9510-1c0b5b172b76,Rock Cut Brewing Company,micro,390 W Riverside Dr,,,Estes Park,Colorado,80517,United States,9705867300,http://www.rockcutbrewing.com,-105.5232105,40.37237825
-9e585fa0-aaba-46cb-b291-a4d4b273f975,Rockslide Brewing Co,brewpub,401 Main St,,,Grand Junction,Colorado,81501-2511,United States,9702419311,http://www.rockslidebrewpub.com,-108.5659153,39.0670106
+4d354fa8-9eca-4459-a621-fb13926a8502,"Rock N Roll Brewery, LLC",micro,10286 County Road 15,,,Longmont,Colorado,80504,United States,7203783000,http://www.rocknroll.beer,-104.922629,40.149782
+9e585fa0-aaba-46cb-b291-a4d4b273f975,Rockslide Brewing Co,brewpub,401 Main St,,,Grand Junction,Colorado,81501,United States,9702701457,http://www.rockslidebrewpub.com,-108.56591,39.067231
 f8ccbe29-ac88-4570-841f-acf582e394e6,Rocky Mountain Brewery,micro,625 Paonia St,,,Colorado Springs,Colorado,80915-3727,United States,7195281651,http://www.rockymountainbrews.com,,
 92a662f6-a983-4ca3-ac45-f81d33481378,"Rocky Mountain Taphouse, LLC",micro,3050 67th Ave Ste 104,,,Greeley,Colorado,80634-9604,United States,9703026551,http://www.rockymountaintaphouse.com,-104.7859342,40.387892
-32874d30-c936-40df-a94f-ac8ad84aecdc,Rockyard Brewing Company,brewpub,880 Castleton Rd,,,Castle Rock,Colorado,80109-7512,United States,3038149273,http://www.rockyard.com,-104.8723394,39.4096188
+32874d30-c936-40df-a94f-ac8ad84aecdc,Rockyard Brewing Company,brewpub,880 Castleton Rd,,,Castle Rock,Colorado,80109-7512,United States,3038149273,http://www.rockyard.com,-104.869724,39.409067
 f9e69ba6-fe3b-4cba-bb26-94fea1fe7592,Royal Gorge Brew Pub,brewpub,413 Main St,,,Canon City,Colorado,81212-3733,United States,7193454141,http://www.royalgorgebrewing.com,-105.2418113,38.44010539
 2e475c21-a1f0-4ff8-8ba2-8c01cb7751ef,Rustica Brewing Company,micro,2370 S Kalamath St Unit A,,,Denver,Colorado,80223-4248,United States,7203979682,http://www.rusticabrewery.com,,
 37763ebb-c13e-4de7-b53d-7f12a7f48d9e,Saint Patrick's Brewing Company,micro,2842 W Bowles Ave,,,Littleton,Colorado,80120-1843,United States,3037187575,http://www.stpatricksbrewco.com,-105.024584,39.6125875
-b700e34a-5e67-416c-8815-af29b022e719,San Luis Valley Brewing Co,brewpub,631 Main St,,,Alamosa,Colorado,81101-2557,United States,7195872337,http://www.slvbrewco.com,-105.8742898,37.4681813
-59639100-39ec-491e-bbe4-680013452e0b,Sanitas Brewing Co,micro,3550 Frontier Ave Ste A,,,Boulder,Colorado,80301-2430,United States,2152667762,http://www.sanitasbrewing.com/,,
+1e9f8cc0-01eb-4c74-a3ce-c9147cdc5c63,Saint Patrick's Brewing Company,micro,6882 South University Boulevard,,,Centennial,Colorado,80122,United States,3037187575,http://saintpatricksbrewing.com,-104.959944,39.592299
+f1b39362-ebb1-41bd-95ae-94bbd67cc242,San Juan Brews,taproom,512 East Main St,,,Montrose,Colorado,81401,United States,9709018954,http://www.sanjuanbrews.com,-107.875008,38.480214
+b700e34a-5e67-416c-8815-af29b022e719,San Luis Valley Brewing Co,brewpub,631 Main St,,,Alamosa,Colorado,81101-2557,United States,7195872337,http://www.slvbrewco.com,-105.86684,37.468443
+59639100-39ec-491e-bbe4-680013452e0b,Sanitas Brewing Co,taproom,3550 Frontier Ave Ste A,,,Boulder,Colorado,80301-2430,United States,7203525929,http://www.sanitasbrewing.com,-105.248139,40.022099
+e4892a82-6f57-4815-a8d1-e3182902ede1,Satire Brewing Company,brewpub,12136 Grant Cir,,,Thornton,Colorado,80241,United States,7202750667,,-104.983041,39.917274
+e452d009-ed1d-4d51-9ff4-67790f814e2b,Second Dawn Brewing,taproom,2302 Dayton St,,,Aurora,Colorado,80010,United States,,,-104.874919,39.751446
 1df1b2b9-a0bd-40b2-8c24-72f365f5e901,Seedstock Brewery,micro,3610 W Colfax Ave,,,Denver,Colorado,80204-1513,United States,7204767831,http://www.seedstockbrewery.com,-105.0348519,39.74025203
-ed8f70f3-466a-49c4-a4f3-ec51ee6093a0,Shamrock Brewing Company,brewpub,108 W 3rd St,,,Pueblo,Colorado,81003-3225,United States,7195429974,http://www.shamrockbrewing.com,-104.6078644,38.26965302
+ed8f70f3-466a-49c4-a4f3-ec51ee6093a0,Shamrock Brewing Company,brewpub,108 W 3rd St,,,Pueblo,Colorado,81003-3225,United States,7195429974,http://www.shamrockbrewing.com,-104.607722,38.269492
+5bbb43d8-13fb-4f08-8638-b38fe0c01271,Sheaf & Kettle Brewing,taproom,208 Oak Ave,,,Eaton,Colorado,80615,United States,,http://www.sheafandkettle.com,-104.711771,40.527859
 ce3c744d-ba60-47b2-9260-53593f6af57b,Sherpa Brewery Pvt. Ltd.,contract,1708 W 17th Dr,,,Golden,Colorado,80401-2507,United States,,,-105.1963424,39.7443713
-ce303141-1450-4df6-9a83-6214aeabeec7,Shoes & Brews,micro,63 S Pratt Pkwy Unit B,,,Longmont,Colorado,80501-1702,United States,7203404290,http://www.shoesbrews.com,,
-867284df-ee7d-4e01-9df8-c8143cdf3f20,SKA Brewing,regional,"225 Girard, Bodo Park",,,Durango,Colorado,81303-6827,United States,,,,
-b5ca8cb2-fff7-4444-b9f8-82727cdd0dba,Sleeping Giant Brewing Company,micro,2500 W 5th Ave,,,Denver,Colorado,80204-4803,United States,,http://www.sleepinggiantbrewing.com,-105.0167729,39.7237975
+ce303141-1450-4df6-9a83-6214aeabeec7,Shoes & Brews,taproom,63 S Pratt Pkwy Unit B,,,Longmont,Colorado,80501-1702,United States,7203404290,http://www.shoesbrews.com,-105.107494,40.158034
+867284df-ee7d-4e01-9df8-c8143cdf3f20,SKA Brewing,regional,"225 Girard, Bodo Park",,,Durango,Colorado,81303-6827,United States,9702475792,,-107.8788,37.2441
+c6939217-7552-4cc5-b4ac-8e5df1224333,Sky Bear Brewery & Pub,brewpub,272 E 5th St,,,Loveland,Colorado,80537,United States,,,-105.072885,40.396352
+b5ca8cb2-fff7-4444-b9f8-82727cdd0dba,Sleeping Giant Brewing Company,micro,2500 W. 5th Ave.,,,Denver,Colorado,80204,United States,3038591484,http://www.sleepinggiantbrewing.com,-105.015706,39.723785
 9692085e-0a88-418f-bae2-8ac272043c22,Smiling Toad Brewery,micro,1757 S 8th St Ste 100,,,Colorado Springs,Colorado,80905-1926,United States,7194182936,http://www.smilingtoadbrewery.com,,
+54f0b688-3cae-4789-b543-3d120c46dd7d,Smiling Toad Brewery,taproom,2028 Sheldon Ave,,,Colorado Springs,Colorado,80904,United States,7194182936,http://www.smilingtoadbrewery.com,-104.857769,38.842042
+ca63d1c6-676f-422e-aab7-2f904c3a68d9,Smoking River Brewing Company,taproom,101 E Market St,,,Meeker,Colorado,81641,United States,3609901764,,-107.906227,40.037892
+d0b6e71f-ea42-414e-aed4-b2590fbd07c9,Smuggler-Union Restaurant and Brewery,brewpub,225 South Pine St,,,Telluride,Colorado,81435,United States,9707285620,http://www.smugglerunion.com,-107.811657,37.935738
 36082801-cacf-4a86-8c76-30dcb6779c63,Smuggler's Brewpub,brewpub,225 South Pine St,,,Telluride,Colorado,81435,United States,9707285620,http://www.smugglersbrewpub.com,-107.8114274,37.9358018
-4e7d4dcd-13cd-4b18-acd3-7a690ba97aa0,Snowbank Brewing,micro,225 N Lemay Ave Ste 1,,,Fort Collins,Colorado,80524-2555,United States,9709995658,http://www.snowbank.beer,,
-ae889c78-5e3d-4ca9-ac90-ee8018e8419d,SomePlace Else Brewery,micro,6425 W 52nd Ave Unit 6/6B,,,Arvada,Colorado,80002-4008,United States,7205124162,,,
-48540aba-e08a-4f3e-93ca-b838dfc41480,Something Brewery,micro,117 N Main St Unit A,,,Brighton,Colorado,80601-1778,United States,7206601343,http://www.somethingbrewery.com,,
+4e7d4dcd-13cd-4b18-acd3-7a690ba97aa0,Snowbank Brewing,micro,225 N Lemay Ave Ste 1,,,Fort Collins,Colorado,80524-2555,United States,9709995658,http://www.snowbank.beer,-105.0576,40.5929
+e71eada7-f8fc-4aab-aabd-648228027657,So Many Roads I Know LLC,taproom,918 W 1st Ave,,,Denver,Colorado,80223,United States,7202773211,,-104.999644,39.718268
+ae889c78-5e3d-4ca9-ac90-ee8018e8419d,SomePlace Else Brewery,taproom,6425 W 52nd Ave Unit 6/6B,,,Arvada,Colorado,80002-4008,United States,7205124162,http://www.someplaceelse.beer,-105.067545,39.791629
+48540aba-e08a-4f3e-93ca-b838dfc41480,Something Brewery,taproom,117 N Main St Unit A,,,Brighton,Colorado,80601-1778,United States,7206601343,http://www.somethingbrewery.com,-104.821528,39.98833
 dff336da-9bbd-4e06-8ab9-405775650ed5,Soul Squared Brewing Co.,micro,6412 N County Road 15,,,Fort Collins,Colorado,80524,United States,,http://www.soulsquaredbrewing.com,,
-5b9cb6f1-bd63-4ccd-85b2-d5436e2a3b0a,Soulcraft Brewing,micro,248 W US Highway 50,,,Salida,Colorado,81201-2347,United States,7195395428,http://www.soulcraftbeer.com,,
-4a437c88-34c5-4b21-87c3-98289bae00f4,South Park Brewing,micro,297 1/2 US Hwy 285,,,Fairplay,Colorado,80440-2131,United States,7198361932,http://www.southparkbrewingco.com,,
-7b6e3cce-d456-4ae4-9e09-8debafb72d3a,Southern Sun Pub and Brewery,brewpub,627 S Broadway St,,,Boulder,Colorado,80305-5944,United States,3035430886,http://www.mountainsunpub.com,,
-2334bc0b-57f3-49a0-9b7a-7d8f1d5f5edd,Spangalang Brewery,micro,2736 Welton St Ste 102,,,Denver,Colorado,80205-2900,United States,3032971276,http://www.spangalangbrewery.com,-104.9770361,39.7552227
+081799a6-76f4-4dca-bc25-63f5202c24c6,Soul Squared Brewing Co.,taproom,6421 N County Road 15,,,Fort Collins,Colorado,80524,United States,9708291361,http://www.soulsquaredbrewing.com,-105.070411,40.67782
+5b9cb6f1-bd63-4ccd-85b2-d5436e2a3b0a,Soulcraft Brewing,brewpub,248 W US Highway 50,,,Salida,Colorado,81201-2347,United States,7195395428,http://www.soulcraftbeer.com,-106.006299,38.524546
+4a437c88-34c5-4b21-87c3-98289bae00f4,South Park Brewing,brewpub,297 1/2 US Hwy 285,,,Fairplay,Colorado,80440-2131,United States,7198361932,http://www.southparkbrewingco.com,-105.992863,39.220128
+7b6e3cce-d456-4ae4-9e09-8debafb72d3a,Southern Sun Pub and Brewery,brewpub,627 S Broadway St,,,Boulder,Colorado,80305-5944,United States,3035430886,http://www.mountainsunpub.com,-105.249338,39.984569
+2334bc0b-57f3-49a0-9b7a-7d8f1d5f5edd,Spangalang Brewery,micro,2736 Welton St Ste 102,,,Denver,Colorado,80205-2900,United States,3032971276,http://www.spangalangbrewery.com,-104.977138,39.755088
+e06d1708-ec5f-457e-b3fb-a5ec7c6e75eb,Spare Keg Brewerks,taproom,625 Main Street,,,Alamosa,Colorado,81101,United States,7195807472,http://www.sparekeg.com,-105.86663,37.468516
+eded88de-bc40-461e-a613-2c2148fbde5b,Sparge Brewing,taproom,3999 GW Bush Rd. Unit #101,,,Wellington,Colorado,80549,United States,,http://www.spargebrew.com,-105.002538,40.682322
+bbe9cfad-7158-40b7-b297-c6438c35ae7d,SPB Hospitality LLC,office only location,8001 Arista Pl Unit 500,,,Broomfield,Colorado,80021-4135,United States,3036692558,http://www.spbhospitality.com,-105.086955,39.906003
 95832751-54ac-44a4-adb6-054400c8e02a,Spice Trade Brewing,brewpub,7803 Ralston Rd,,,Arvada,Colorado,80002-2433,United States,3034319000,http://www.spicetradebrewing.com,-105.0841731,39.802334
+307e5e8b-e132-4670-bbd8-e05310aa66c9,Spice Trade Brewing,brewpub,8775 E. Orchard Rd,,,Greenwood Village,Colorado,80111,United States,7207109508,http://www.spicetradebrewing.com,-104.887535,39.609805
+b34a62d1-4655-4cff-b165-6529389ee29f,Spice Trade Brewing - Greenwood Village,brewpub,8775 E Orchard Rd,,,Greenwood Village,Colorado,80111,United States,3034319000,,-104.887535,39.609805
 33a8a104-863a-4319-8806-78c9e12988d0,Square Peg Brewerks,micro,625 Main St,,,Alamosa,Colorado,81101-2557,United States,7195807472,http://www.squarepegbrewerks.com,-105.8742898,37.4681813
 5e1b4f2a-5337-4def-8685-7c2584c8f1f9,SS Fermentations Ltd.,planning,,,,Montrose,Colorado,81401-3927,United States,9706184332,,,
-11977488-1872-4b1b-9e28-f9c68f9db873,Station 26 Brewing Co,micro,7045 E 38th Ave,,,Denver,Colorado,80207-1541,United States,,http://www.station26brewing.co,-104.9062608,39.76935335
-a6d2caab-e4de-42dc-8ff0-8daceeb843f5,Steamworks Brewing Co,brewpub,801 E 2nd Ave,,,Durango,Colorado,81301-5425,United States,9702599200,http://www.steamworksbrewing.com,-107.87979,37.272176
+11977488-1872-4b1b-9e28-f9c68f9db873,Station 26 Brewing Co,taproom,7045 E 38th Ave,,,Denver,Colorado,80207-1541,United States,,http://www.station26brewing.co,-104.905899,39.769619
+a6d2caab-e4de-42dc-8ff0-8daceeb843f5,Steamworks Brewing Co,brewpub,801 E 2nd Ave,,,Durango,Colorado,81301-5425,United States,9702599200,http://www.steamworksbrewing.com,-107.880023,37.272352
+22a1b5b0-fa57-43b9-987e-145f66594b89,Steep Brewery & Coffee Company,brewpub,"23110 US Hwy 6, Unit 116",,,Keystone,Colorado,80435,United States,5734245321,http://www.steepkeystone.com,-105.948849,39.608754
 7bfc0b84-5f81-4277-80ee-ea3633c6d1d4,Stein Brewing Company,micro,2516 49th St,,,Boulder,Colorado,80301-2455,United States,3033960384,http://www.jwellsbrewery.com,-105.2378323,40.0238083
+2976f689-e7bd-44b5-b947-e38a3b29d003,Stodgy Brewing Company,taproom,1802 Laporte Ave,,,Fort Collins,Colorado,80521,United States,9702329702,http://www.stodgybrewing.com,-105.108814,40.589495
 5edf4546-8f83-48c9-8d15-52899b67a2b4,Stoik Beer Company,planning,,,,Delta,Colorado,81416,United States,,http://www.stoikbeer.com,,
-37181ee1-680d-41f3-811a-34b4abab22d4,Storm Peak Brewing Company,micro,1885 Elk River Plz Unit 4,,,Steamboat Springs,Colorado,80487-5237,United States,9708791999,http://www.stormpeakbrewing.com,,
-5be36509-b0db-42b2-89ac-09b98b7062f3,Storybook Brewing,micro,3121 N El Paso St Ste A,,,Colorado Springs,Colorado,80907-5469,United States,7196336266,http://www.storybookbrewing.com,,
+fb23af3c-bc6c-415d-a7c4-872d82548ed4,Stoik Beer Company,brewpub,1064 S. Main St,,,Delta,Colorado,81416,United States,7205377012,http://www.stoikbeer.com,-108.070284,38.73276
+37181ee1-680d-41f3-811a-34b4abab22d4,Storm Peak Brewing Company,micro,1885 Elk River Plz Unit 4,,,Steamboat Springs,Colorado,80487-5237,United States,9708791999,http://www.stormpeakbrewing.com,-106.853729,40.502476
+5be36509-b0db-42b2-89ac-09b98b7062f3,Storybook Brewing,taproom,3121 N El Paso St Ste A,,,Colorado Springs,Colorado,80907-5469,United States,7196336266,http://www.storybookbrewing.com,-104.812639,38.877489
 58d3c116-e6ca-42f7-b20d-f30b97b34a64,Strange Craft Beer Co,micro,1330 Zuni St Ste M,,,Denver,Colorado,80204-2328,United States,7209852337,http://www.strangecraft.com,,
+f1fcc3d7-e5a6-45e0-8e6e-6917c7d97412,Strange Craft Beer Company,brewpub,"1330 Zuni Street, Unit M",,,Denver,Colorado,80204,United States,3037196059,http://www.strangecraft.com,-105.015253,39.737257
 99deb304-2fa2-4236-a1cb-81524c7492ce,Stronghouse Brewery,planning,,,,Telluride,Colorado,81435,United States,,,,
+102727c0-376b-4ab6-8dce-c4b6e4e1bd40,Stronghouse Brewery,brewpub,283 Fir St unit A,,,Telluride,Colorado,81435,United States,9707282890,http://www.stronghousebrewpub.com,-107.812569,37.936189
+cd63ea7b-a742-47d1-9984-43ca8fce73ab,Suds Brothers Brewing Co,brewpub,127 E Aspen St,,,Fruita,Colorado,81521-2543,United States,9708588400,http://www.sudsbrothers2fruita.com,-108.732676,39.15916
 8f532649-1d2e-4711-9177-28ffed122dac,Suds Brothers Brewing Co #2,brewpub,127 E Aspen Ave,,,Fruita,Colorado,81521-2543,United States,9708581571,http://www.sudsbrothers2fruita.com,-108.7326881,39.1591622
+48455e32-3adf-4470-b36a-40daefa3e71b,Sunroom Brewing,taproom,3242 S. Acoma St.,,,Englewood,Colorado,80110,United States,7204013239,http://sunroombrewing.com,-104.98855,39.657868
+3654221e-9272-4583-9302-e5cbc22f8c25,Sustainable Beverage Tech.,micro,16050 Table Mountain Parkway,,,Golden,Colorado,80403,United States,7206179166,http://www.nexdraft.com,-105.179949,39.783196
+c134eade-4e37-43f3-8e33-71e886dd7eee,SweetWater Brewing Co - Fort Collins,brewpub,1020 E Lincoln Ave,,,Fort Collins,Colorado,80524,United States,,,-105.058514,40.58926
+8644189b-bd2b-4a04-beef-2bdd7e11d5a1,Syndicate Brewing co,taproom,203 summit pl,,,silverthorne,Colorado,80498,United States,3034838531,http://www.syndicatebrewingco.com,-106.062687,39.62797
 a60a0bc4-dcdf-4a43-bda3-17b4db6f7291,Teachers Lounge Brewing,planning,,,,Denver,Colorado,80210-3349,United States,3038685142,http://www.eachersloungebrewing.com,,
-efaa1d14-a838-4786-869f-2471ad7c3622,Telluride Brewing Co,micro,156 DEF Society Drive,,,Telluride,Colorado,81435,United States,9707285094,http://www.telluridebrewingco.com,,
-f0c74a4a-7f80-4b93-b6c8-6b261c30e222,The Bakers' Brewery,brewpub,531 Silverthorne Ln,,,Silverthorne,Colorado,80498,United States,9704680170,http://www.thebakersbrewery.com,-106.0672002,39.62976193
+efaa1d14-a838-4786-869f-2471ad7c3622,Telluride Brewing Co,micro,156 DEF Society Drive,,,Telluride,Colorado,81435,United States,9707285094,http://www.telluridebrewingco.com,-107.8514,37.9381
+25000439-7cc5-40bd-ad7e-807473dc4803,Telluride Brewing Co Brewpub,brewpub,568 Mountain Village Blvd,,,Telluride,Colorado,81435,United States,9707285094,,-107.847181,37.936703
+f0c74a4a-7f80-4b93-b6c8-6b261c30e222,The Bakers' Brewery,brewpub,531 Silverthorne Ln,,,Silverthorne,Colorado,80498,United States,9704680170,http://www.thebakersbrewery.com,-106.067559,39.629771
+08392a14-5974-4c4a-8d02-39ff9190443b,The Break Room Brewing Company,brewpub,2045 Eagle Dr,,,Pagosa Springs,Colorado,81147,United States,9707310566,,-107.044123,37.270508
 1ab10b5b-580b-489d-bd88-30680ab16001,The Brew On Broadway (The BoB),micro,3445 S Broadway,,,Englewood,Colorado,80113-2528,United States,3037815665,http://www.thebrewonbroadway.com,-104.98772,39.65416792
-3ff96c05-f45e-4806-9a08-919b262c8385,The Grateful Gnome Sandwich Shoppe and Brewery,brewpub,4369 Stuart St,,,Denver,Colorado,80212-2335,United States,7205986863,http://www.thegratefulgnome.com,-105.0432655,39.7764426
+75ca7a35-80e9-433b-9b13-0c9a7fc27ad0,The Eldo,brewpub,215 Elk Avenue,,,Crested Butte,Colorado,81224,United States,7733307876,,-106.986819,38.870025
+1623a34f-5cb6-4902-83cb-b990c87a496b,The Elizabeth Brewing Company,taproom,239 S. Main St,,,Elizabeth,Colorado,80107,United States,7203356011,http://https://www.facebook.com/ElizabethBrews/,-104.595829,39.360308
+128e2121-03fe-4ffd-b49a-11053f5d96e5,The Empourium Brewing Company,taproom,4385 W 42nd Ave,,,Denver,Colorado,80212,United States,7203612973,http://www.theempourium.com,-105.043785,39.774047
+3ff96c05-f45e-4806-9a08-919b262c8385,The Grateful Gnome Sandwich Shoppe and Brewery,brewpub,4369 Stuart St,,,Denver,Colorado,80212-2335,United States,7205986863,http://www.thegratefulgnome.com,-105.043123,39.776357
 ab5e80a9-bfeb-45b4-8f08-89d975fd90d8,The Intrepid Sojourner Beer Project,micro,925 W 8th Ave,,,Denver,Colorado,80204-4333,United States,8122498792,http://sojournerbeers.com,-104.9993865,39.7291386
 eea8a695-5e5e-4eb4-8c36-38ef70799787,The Larimer Beer Company,contract,3620 Newport St,,,Denver,Colorado,80207-1508,United States,7205076369,http://www.thelarimer.com,-104.9093487,39.76773768
+ce863791-130f-4df5-bdb8-80576db7d592,The Noble Buck,brewpub,78491 US-40,,,Winter Park,Colorado,80482,United States,9707267951,http://www.thenoblebuck.com,-105.786716,39.923907
 ddf0bca8-b865-460a-a287-19c2fd69d061,The Peak Brewing Company,brewpub,78491 US-40,,,Winter Park,Colorado,80482,United States,9707267951,http://www.thepeakwp.com,,
-8d658be9-25c4-4c6c-8067-f2f48ca84796,The Post Brewing Co,brewpub,2027 13th St,,,Boulder,Colorado,80302-5201,United States,7203723341,http://www.postbrewing.com,-105.2788942,40.01847649
-fccbb48b-551d-4751-8fbc-42debc14a8f6,The Post Brewing Co,brewpub,105 W Emma St,,,Lafayette,Colorado,80026-1501,United States,3035932066,http://www.postbrewing.com,-105.0913165,39.99461105
+8d658be9-25c4-4c6c-8067-f2f48ca84796,The Post Brewing Co,location,2027 13th St,,,Boulder,Colorado,80302-5201,United States,7203723341,http://www.postbrewing.com,-105.279065,40.018789
+fccbb48b-551d-4751-8fbc-42debc14a8f6,The Post Brewing Co,brewpub,105 W Emma St,,,Lafayette,Colorado,80026-1501,United States,3035932066,http://www.postbrewing.com,-105.091264,39.994559
 dacd265f-723f-4318-bbed-e747655487bb,The Sandlot Brewery At Coors Field,large,2145 Blake St,,,Denver,Colorado,80205-2010,United States,3032981587,http://www.millercoors.com,-104.9926484,39.75571836
 5921ed43-ac72-4a70-800a-c29938c1feb5,Thirsty Monk Pub Brewery,micro,1604 E 17th Ave,,,Denver,Colorado,80218-1621,United States,,,-104.9682508,39.743154
-075e57e0-0eaf-482b-8ac2-41034f63c5a1,Three Barrel Brewing Co,brewpub,475 Grand Ave,,,del Norte,Colorado,81132-2204,United States,7196570681,http://www.threebarrelbrew.com,-106.3567109,37.6790756
+075e57e0-0eaf-482b-8ac2-41034f63c5a1,Three Barrel Brewing Co,brewpub,475 Grand Ave,,,Del Norte,Colorado,81132-2204,United States,7196570681,http://www.threebarrelbrew.com,-106.356528,37.678721
 994b7ef7-6d89-4f01-ba5f-858c3bf76bcb,Three Four Beer Company,brewpub,829 S Shields St,,,Fort Collins,Colorado,80521-3599,United States,9706821560,http://www.threefourbeerco.com,-105.0959634,40.5726176
+06eed19b-92bf-4825-8b22-a37ba1276883,TightKnit Brewing Co,brewpub,813 8th St,,,Greeley,Colorado,80631-3911,United States,9703976146,http://www.tightknitbrewingcom,-104.69162,40.425185
 b8dc35f3-2869-46fb-a797-a5f38a04136d,Tilted Barrel Brew Pub,contract,110 E 29th St,,,Loveland,Colorado,80538,United States,9706198950,http://www.tiltedbarrelbrewpub.com,-105.0773167,40.42158016
 82e6bab6-2ba9-4942-bf6b-5d5791a0b52e,Timnath Beerwerks,planning,,,,Timnath,Colorado,80547,United States,9702224131,,,
-854e59da-10fb-4e4d-bd4b-e2b8255bc308,Tivoli Brewing Company,micro,900 Auraria Pkwy Unit 240,,,Denver,Colorado,80204-1897,United States,3035826039,,,
+4f01ff87-c0f9-41b5-a34b-5c61027b65f6,Timnath Beerwerks,taproom,4138 Main Street,,,Timnath,Colorado,80547,United States,9709995751,http://www.timnathbeerwerks.com,-104.981714,40.529037
+854e59da-10fb-4e4d-bd4b-e2b8255bc308,Tivoli Brewing Company,micro,900 Auraria Pkwy Unit 240,,,Denver,Colorado,80204-1897,United States,7204585885,http://www.tivolibrewingco.com,-105.004668,39.745713
 c947eb60-863c-4676-9961-6c52ba387fb9,Tom's Urban Kitchen and Brewery,planning,,,,Denver,Colorado,80249-6310,United States,3035826039,,,
-7defa30d-bf4d-43e3-a824-6a9535cee2ea,Tommyknocker Brewery & Pub,micro,1401 Miner St,,,Idaho Springs,Colorado,80452,United States,3035674419,http://www.tommyknocker.com,-105.5176775,39.7417505
-6230d54c-2de5-41c3-b5b3-60dc70d6b2ac,Trinity Brewing,brewpub,1466 Garden of The Gods Rd Ste 184,,,Colorado Springs,Colorado,80907-9464,United States,7196340029,http://www.trinitybrew.com,,
-d5b1d385-bb34-4a69-a37c-7c6c41894029,TRVE Brewing Co,micro,2600 W. 2nd Ave Unit 8,,,Denver,Colorado,80219,United States,3033511021,http://trvebrewing.com,,
-0bd2b60b-f75e-4a26-a93e-e7b1277a004d,TRVE Brewing Co. - The Acid Temple,micro,2600 W. 2nd Ave Unit 8,,,Denver,Colorado,80219,United States,3033511021,,,
-6aae0645-3f00-46f7-89d2-9ebd4aad9cd2,Tumbleweed Brewing and Wine Company,brewpub,124 S Main St,,,Yuma,Colorado,80759,United States,9706302818,http://www.tumbleweedbrewing.com,-102.7238865,40.12462759
+5a8f71dd-11e5-4bc8-9d3e-05c7f16081dc,Tom's Urban Kitchen and Brewery,brewpub,8300 Pena Blvd,,,Denver,Colorado,80249-6310,United States,3035826039,,-104.672511,39.847439
+7defa30d-bf4d-43e3-a824-6a9535cee2ea,Tommyknocker Brewery & Pub,micro,1401 Miner St,,,Idaho Springs,Colorado,80452,United States,3035674419,http://www.tommyknocker.com,-105.517838,39.741598
+c2e21d6d-4412-43ed-abb7-c64c3599caef,Trail Life Brewing,brewpub,436 Main St,,,Grand Junction,Colorado,81501,United States,,http://www.traillifebrewing.com,-108.56528,39.067626
+1ea66fd8-0140-4d9d-b3a2-b64abe8eba06,Tres Litros Beer Company,taproom,118 North E St,,,Salida,Colorado,81201-2119,United States,,http://www.treslitrosbeer.co,-105.990604,38.53593
+6230d54c-2de5-41c3-b5b3-60dc70d6b2ac,Trinity Brewing,brewpub,1466 Garden of The Gods Rd Ste 178,,,Colorado Springs,Colorado,80907-9464,United States,7196340029,http://www.trinitybrew.com,-104.85479,38.897353
+e201eaea-57e9-4588-8943-cf27cc2b1ac2,Trinity Brewing,brewpub,1466 Garden of The Gods Rd Ste 178,,,Colorado Springs,Colorado,80907-9464,United States,7196340029,http://www.trinitybrew.com,-104.85479,38.897353
+ac6c8194-aaf9-4330-9604-c96a1ba9b549,Trinity Brewing - Forge Taproom,taproom,4360 Forge Road,,,Colorado Springs,Colorado,80907,United States,,,-104.8212,38.8774
+d5b1d385-bb34-4a69-a37c-7c6c41894029,TRVE Brewing Co,micro,227 Broadway #101,,,Denver,Colorado,80203,United States,3033511021,http://trvebrewing.com,-104.987663,39.719713
+6318f688-8097-4a3a-bfba-7d01e532b1ec,TRVE Brewing Co,micro,227 Broadway #101,,,Denver,Colorado,80203,United States,3033511021,http://trvebrewing.com,-104.987663,39.719713
+0bd2b60b-f75e-4a26-a93e-e7b1277a004d,TRVE Brewing Co. - The Acid Temple,micro,2600 W. 2nd Ave,,,Denver,Colorado,80219,United States,3033511021,,-105.019004,39.719651
+a548a86d-48a9-4eab-84e4-962f57882f0d,TRVE Brewing Co. - The Acid Temple,micro,2600 W. 2nd Ave,,,Denver,Colorado,80219,United States,3033511021,,-105.019004,39.719651
+6aae0645-3f00-46f7-89d2-9ebd4aad9cd2,Tumbleweed Brewing and Wine Company,brewpub,124 S Main St,,,Yuma,Colorado,80759,United States,9706302818,http://www.tumbleweedbrewing.com,-102.724237,40.124513
 35d329e7-2608-44c0-b328-c3d54dd764cf,Twisted Pine Brewing Co,brewpub,3201 Walnut St Ste A,,,Boulder,Colorado,80301-2645,United States,3037869270,http://www.twistedpinebrewing.com,,
-1f1af7ee-3a2a-4c3e-ae68-584d60381d80,Two Rascals Brewing Co,micro,147 N 1st St,,,Montrose,Colorado,81401-3601,United States,9702498689,http://www.tworascalsbrewing.com,-107.8800003,38.4788199
-91673432-855c-469a-a703-18f8451b6365,Two22 Brew,micro,4550 S Reservoir Rd,,,Centennial,Colorado,80015-2878,United States,7203289038,http://www.two22brew.com,-104.7601698,39.63429093
+c23eb20a-3c9c-417f-8488-8a9d25b80b9e,Two Mile Brewing Co,taproom,101 Harrison Ave,,,Leadville,Colorado,80461-1509,United States,6202739489,http://www.twomilebrewing.com,-106.290745,39.244663
+1f1af7ee-3a2a-4c3e-ae68-584d60381d80,Two Rascals Brewing Co,taproom,147 N 1st St,,,Montrose,Colorado,81401-3601,United States,9702498689,http://www.tworascalsbrewing.com,-107.880096,38.478917
+91673432-855c-469a-a703-18f8451b6365,Two22 Brew,taproom,4550 S Reservoir Rd,,,Centennial,Colorado,80015-2878,United States,7203289038,http://www.two22brew.com,-104.759838,39.634233
+ca7de35e-71b7-4c44-9143-4ff0ab330e62,Uhl's Brewing Co,micro,5460 Conestoga Ct.,,,Boulder,Colorado,80301,United States,7205423870,http://www.uhlsbrewing.com,-105.227371,40.01625
 83e8ad76-de1e-4d1d-9b78-05acc55b343c,Unify Brewing Company,planning,,,,Glenwood Springs,Colorado,81601-3215,United States,8164566374,http://www.UnifyBrewing.com,,
 00ea9c67-130c-4fa0-9b92-8cfb2b6ca81f,"Unnamed Beer Company, LLC",planning,,,,Boulder,Colorado,80301,United States,,http://www.unnamedbeer.com,,
 d6349994-f0fb-4b87-a49d-b1647f711e26,Upslope Brewing Company,planning,,,,Boulder,Colorado,80301,United States,3033961898,,,
-05b3f6bc-e7cf-40bb-8bdb-1dfc1a619c5f,Upslope Brewing Company - Flatiron Park,micro,1898 S Flatiron Ct Ste 110,,,Boulder,Colorado,80301-2860,United States,,http://www.upslopebrewing.com,-105.2183136,40.0203098
-ece6204a-29eb-47e1-868d-55c2a78bc06c,Upslope Brewing Company - Lee Hill,regional,1501 Lee Hill Rd Unit 20,,,Boulder,Colorado,80304-5602,United States,3033961898,http://www.upslopebrewing.com,,
-3ce0ed18-9044-4ffa-9b18-366d0cbc657e,Ursula Brewery,micro,2101 N Ursula St Unit 10,,,Aurora,Colorado,80045-7448,United States,7203248529,http://www.ursulabrewery.com,,
+05b3f6bc-e7cf-40bb-8bdb-1dfc1a619c5f,Upslope Brewing Company - Flatiron Park,micro,1898 S Flatiron Ct Ste 110,,,Boulder,Colorado,80301-2860,United States,,http://www.upslopebrewing.com,-105.217974,40.020176
+ece6204a-29eb-47e1-868d-55c2a78bc06c,Upslope Brewing Company - Lee Hill,regional,1501 Lee Hill Rd Unit 20,,,Boulder,Colorado,80304-5602,United States,3033961898,http://www.upslopebrewing.com,-105.278779,40.062634
+3ce0ed18-9044-4ffa-9b18-366d0cbc657e,Ursula Brewery,taproom,2101 N Ursula St Unit 10,,,Aurora,Colorado,80045-7448,United States,7203248529,http://www.ursulabrewery.com,-104.838386,39.748683
 41ade603-cf7a-4991-8ae9-bd87d8d9f56d,Ute Pass Brewing Co,brewpub,209 E Midland Ave,,,Woodland Park,Colorado,80863-3101,United States,7196868722,http://www.utepassbrewingcompany.com,-105.0513357,38.9944899
 16af6b57-7519-47f6-a119-2e045a870fdd,Uturn BBQ,brewpub,599 Crossing Dr,,,Lafayette,Colorado,80026-1797,United States,3039936033,http://www.uturnbbq.com,-105.1016163,40.0035307
-093d96cf-2aa2-41f1-a941-39f7f16b37fa,Vail Brewing Company,micro,41290 US Hwy 6,,,Vail,Colorado,81657,United States,9704704351,http://www.vailbrewingco.com,,
-d217a26e-7eec-4618-b32c-2689c76b92c3,Verboten Brewing,micro,127 E 5th St,,,Loveland,Colorado,80537-5503,United States,9707757371,http://www.verbotenbrewing.com,-105.0749674,40.39658612
-f48f194a-adbb-4309-8138-72f89f53d4c7,Very Nice Brewing Co,micro,20 Lakeview Drive Unit 112,,,Nederland,Colorado,80466,United States,3032583770,http://www.verynicebrewing.com,,
+093d96cf-2aa2-41f1-a941-39f7f16b37fa,Vail Brewing Company,taproom,41290 US Hwy 6,,,Vail,Colorado,81657,United States,9704704351,http://www.vailbrewingco.com,-106.363,39.6343
+99bf96d5-5b0d-4aa2-98a5-4a79f6eff3b0,Vail Village Pilot & Tasting Room,taproom,141 E Meadow Dr Ste 209,,,Vail,Colorado,81657,United States,9704704622,,-106.375696,39.642381
+d217a26e-7eec-4618-b32c-2689c76b92c3,Verboten Brewing,taproom,127 E 5th St,,,Loveland,Colorado,80537-5503,United States,9707757371,http://www.verbotenbrewing.com,-105.075114,40.396826
+f48f194a-adbb-4309-8138-72f89f53d4c7,Very Nice Brewing Co,taproom,20 Lakeview Drive Unit 112,,,Nederland,Colorado,80466,United States,3032583770,http://www.verynicebrewing.com,-105.509289,39.960115
 75a0701e-0f94-4550-afaf-892cd31774ee,Veteran Brothers Brewing Company,brewpub,21 N Parish Ave,,,Johnstown,Colorado,80534,United States,9705876786,https://www.facebook.com/veteranbrothersbrew,-104.9061919,40.33713
-05d5110e-1f3c-40d0-b6b4-d00b5fdac6c1,Vine Street Pub & Brewery,brewpub,1700 Vine St,,,Denver,Colorado,80206-1120,United States,3033882337,http://www.mountainsunpub.com,-104.9627421,39.7434087
-b8005ec5-1fc7-43bd-96e6-a5b185c927d8,Vision Quest Brewing Company,micro,2510 47th St Ste A2,,,Boulder,Colorado,80301-2301,United States,3038986802,http://www.visionquestbrewing.com,,
+d6f46a34-39cb-4469-ac4e-e8c35ad995d2,Vicious Cycle Brewing Company,taproom,751 S. Zerex St.,,,Fraser,Colorado,80442,United States,9703637323,http://www.viciouscyclebrewery.com,-105.807095,39.941187
+05d5110e-1f3c-40d0-b6b4-d00b5fdac6c1,Vine Street Pub & Brewery,micro,1700 Vine St,,,Denver,Colorado,80206-1120,United States,3033882337,http://www.mountainsunpub.com,-104.961918,39.743503
+b8005ec5-1fc7-43bd-96e6-a5b185c927d8,VisionQuest Brewing Company,taproom,2510 47th St Ste A2,,,Boulder,Colorado,80301-2301,United States,3038986802,http://www.visionquestbrewing.com,-105.244009,40.025385
 506021c9-6f03-49a4-b7f2-55f68f23f365,Walter Brewing Company,micro,126 Oneida St,,,Pueblo,Colorado,81003-3424,United States,7195420766,http://www.waltersbeer.com,-104.6103677,38.26241645
-70f8c3ef-94c7-4e2f-8954-711bdb684bcb,WeldWerks Brewing Co.,micro,508 8th Ave,,,Greeley,Colorado,80631-3921,United States,9705185226,http://www.weldwerksbrewing.com,-104.6911497,40.3998251
+e5995980-ea20-4796-a137-0458bd5d78ae,Welcome Home Brewery,taproom,19523 Hess Rd Ste 103,,,Parker,Colorado,80134,United States,3033621213,http://www.welcomehomebreweryco.com,-104.762862,39.494318
+70f8c3ef-94c7-4e2f-8954-711bdb684bcb,WeldWerks Brewing Co.,micro,508 8th Ave,,,Greeley,Colorado,80631-3921,United States,9705185226,http://www.weldwerksbrewing.com,-104.689988,40.427838
 9ffda059-096e-4ae7-805b-49709737f941,West Flanders Brewing Co,brewpub,1125 Pearl St,,,Boulder,Colorado,80302-5103,United States,3034472739,http://www.wfbrews.com,-105.260866,40.0217453
-f5ec6774-0b8c-485e-ac5c-fec7ad4332d0,Westbound & Down Brewing Company,brewpub,1617 Miner St,,,Idaho Springs,Colorado,80452,United States,7205023121,http://www.westboundanddown.com,-105.5155002,39.7419049
+1f6f7a95-12e8-4f40-a3a7-666207a65dc2,Westbound & Down Brewing Co - Westbound Mill,micro,2755 Dagny Way,,,Lafayette,Colorado,80026,United States,7205023121,,-105.131622,40.013312
+f5ec6774-0b8c-485e-ac5c-fec7ad4332d0,Westbound & Down Brewing Company,brewpub,1617 Miner St,,,Idaho Springs,Colorado,80452,United States,7205023121,http://www.westboundanddown.com,-105.515603,39.741771
 d2c47650-77bb-4a11-bf6d-7be3103014d0,Westbound and Down,planning,,,,Denver,Colorado,80204,United States,7205023121,,,
-31c082a9-357c-47d6-b65c-56e28b9423a0,WestFax Brewing Co.,micro,6733 W Colfax Ave,,,Lakewood,Colorado,80214-1807,United States,3032333742,http://www.westfaxbrewingcompany.com,-105.0710839,39.7415749
-093897b0-1926-4570-a398-b0aad0f59c63,Westminster Brewing Co,micro,7655 W 108th Ave Ste 600,,,Westminster,Colorado,80021-2805,United States,3032841864,http://westminsterbrewingco.com,,
+31c082a9-357c-47d6-b65c-56e28b9423a0,WestFax Brewing Co.,taproom,6733 W Colfax Ave,,,Lakewood,Colorado,80214-1807,United States,3032333742,http://www.westfaxbrewingcompany.com,-105.071132,39.740456
+093897b0-1926-4570-a398-b0aad0f59c63,Westminster Brewing Co,micro,7655 W 108th Ave Ste 600,,,Westminster,Colorado,80021-2805,United States,3032841864,http://westminsterbrewingco.com,-105.084599,39.892648
 fc51057f-e541-4931-92eb-e79d1bc93f46,Whistle Pig Brewing Company,micro,1840 Dominion Way,,,Colorado Springs,Colorado,80918-1467,United States,7195981339,http://www.whistlepigbrewing.com,-104.7931723,38.92372675
-d070be83-d4ec-4799-b935-53d28ad8b1ca,Wibby Brewing,micro,209 Emery St,,,Longmont,Colorado,80501-5910,United States,,http://www.wibbybrewing.com,-105.1002098,40.1623965
+3eaf341a-1eef-40f7-8e0b-4a52b85d9800,Whistle Pig Brewing Company,brewpub,2117 Templeton Gap Rd Unit130,,,Colorado Springs,Colorado,80907,United States,7196410411,http://www.whistlepigbrewing.com,-104.8213,38.8773
+d070be83-d4ec-4799-b935-53d28ad8b1ca,Wibby Brewing,micro,209 Emery St,,,Longmont,Colorado,80501-5910,United States,,http://www.wibbybrewing.com,-105.100568,40.162362
+2ea5577d-b143-4ea8-9322-a099bfbec126,Wild Provisions Beer Project,taproom,2209 Central Ave,,,Boulder,Colorado,80301,United States,3039933598,http://www.wildprovisionsbeer.com,-105.218352,40.021635
 ed289ab7-9588-429f-bc3d-5977c5120d9f,Wild Woods Brewery,micro,5460 Conestoga Ct,,,Boulder,Colorado,80301-2724,United States,3034841465,http://www.wildwoodsbrewery.com,-105.2258104,40.0162153
-7e77e499-968f-434c-a660-ebcfda4e1842,WildEdge Brewing Collective,brewpub,111 N Market St,,,Cortez,Colorado,81321-3214,United States,9705659445,http://www.wildedgebrewing.com,-108.5853117,37.34990058
-68be4717-aeb3-4539-b539-9d0168b2926c,Wiley Roots Brewing Co,micro,625 3rd St Unit D,,,Greeley,Colorado,80631-9132,United States,9706911641,http://www.wileyrootsbrewing.com,,
+7e77e499-968f-434c-a660-ebcfda4e1842,WildEdge Brewing Collective,brewpub,111 N Market St,,,Cortez,Colorado,81321-3214,United States,9705659445,http://www.wildedgebrewing.com,-108.585315,37.349978
+68be4717-aeb3-4539-b539-9d0168b2926c,Wiley Roots Brewing Co,taproom,625 3rd St Unit D,,,Greeley,Colorado,80631-9132,United States,9706911641,http://www.wileyrootsbrewing.com,-104.688544,40.431961
+ec513205-a395-4726-9e85-6add05a14867,Windfall Brewing Co.,brewpub,14694 Orchard Pkwy,,,Westminster,Colorado,80023,United States,7205315822,http://www.windfallbrewing.co,-104.993423,39.962972
 0f56a5a3-f2d8-4295-8104-6ff8a61a7195,Wit's End Brewing Co,micro,1330 Zuni St Ste N,,,Denver,Colorado,80204-2328,United States,3033599119,http://www.witsendbrewing.com,,
 a8b3f717-bb25-4cfb-abb0-294596b190b6,Wonderland Brewing Co.,micro,5450 W 120th Ave,,,Broomfield,Colorado,80020-5913,United States,3039530400,http://www.wonderlandbrewing.com,-105.0560819,39.91349895
-8a058b3f-9a57-469d-9f1f-c31c3ae064a5,Woods Boss Brewing Company,micro,2210 California St,,,Denver,Colorado,80205-2824,United States,9149609225,http://www.woodsbossbrew.com,-104.9845374,39.7509153
+8a058b3f-9a57-469d-9f1f-c31c3ae064a5,Woods Boss Brewing Company,taproom,2210 California St,,,Denver,Colorado,80205-2824,United States,9149609225,http://www.woodsbossbrew.com,-104.984596,39.750842
 7bbe8ee2-c1ed-458f-923a-93d6e2dea8db,World's End Brewpub,planning,,,,Grand Lake,Colorado,80447,United States,3035515637,http://www.ourplacebrewhaus.com,,
-e1daa6b8-1bfe-4833-bb30-908c58eb8ec2,Wynkoop Brewing Co,brewpub,1634 18th St,,,Denver,Colorado,80202-1212,United States,3032972700,http://www.wynkoop.com,-104.9984831,39.7535446
+3ef23014-c3dc-4fb1-9066-a1d3983b8b45,World's End Brewpub,brewpub,813 Grand Ave,,,Grand Lake,Colorado,80447,United States,9705099970,http://Worldsendbrewpub.com,-105.822215,40.252383
+a0ce43d1-4a95-4c4b-a0fe-8838fb485071,Worlds End Brewing Company Inc.,brewpub,401 Main St,,,Canon City,Colorado,81212,United States,7193152663,http://www.worldsendbrewingco.com,-105.241938,38.440306
+e1daa6b8-1bfe-4833-bb30-908c58eb8ec2,Wynkoop Brewing Co,brewpub,1634 18th St,,,Denver,Colorado,80202-1212,United States,3032972700,http://www.wynkoop.com,-104.998491,39.753358
+15f1e15e-5f68-4457-8c10-2c51b77be55a,Wynkoop Brewing Co,taproom,2645 E 2nd Ave Ste 200,,,Denver,Colorado,80206-4768,United States,3035953500,http://www.wynkoop.com;www.phantomcanyon.com,-104.956193,39.719713
 ddd1e565-b732-4d50-832c-ac98d056c460,Yampa Valley Brewing Company,micro,106 E Jefferson Ave Unit B,,,Hayden,Colorado,81639,United States,9702768014,http://www.yampavalleybrew.com,,
+a7a6e2d9-6f0a-434b-9367-2821a87c9674,Yampa Valley Brewing Company,taproom,200 North Walnut Street,,,Hayden,Colorado,81639,United States,9366974150,http://www.yampavalleybrew.com,-107.257913,40.496593
+e3bb5e0b-eea2-4f4f-a8dd-61e9e81e250f,Yampa Valley Brewing Company - Barrel Cathedral,taproom,576 Yampa Ave,,,Craig,Colorado,81625,United States,9702768014,,-107.547579,40.515556
+a9c3cbca-457c-4965-ad4b-aecffdf54d07,Yetters Brewing Company,micro,725 10th Street,,,Greeley,Colorado,80613,United States,9703961606,,-104.690251,40.422804
 1cbf4f83-1e05-4025-8517-89353a77f1ad,Zephyr Brewing Co,micro,1609 E 58th Ave Ste G,,,Denver,Colorado,80216-1528,United States,7202959374,http://www.zephyrbrewingco.com,,
 95f923e4-e98a-498c-a652-41313f838358,Zuni Street Brewing Company,micro,2355 W 29th Ave,,,Denver,Colorado,80211-3753,United States,3038626525,http://www.zunistreetbrewing.com,-105.015409,39.7585929
-a602e9ea-f0b3-4a40-8aa8-02e0aace191c,Zwei Brewing Co,micro,4612 S Mason St Ste 120,,,Fort Collins,Colorado,80525-3794,United States,9702232482,http://www.zweibruderbrewing.com,,
+a602e9ea-f0b3-4a40-8aa8-02e0aace191c,Zwei Brewing Co,taproom,4612 S Mason St Ste 120,,,Fort Collins,Colorado,80525-3794,United States,9702232482,http://www.zweibruderbrewing.com,-105.078639,40.522768

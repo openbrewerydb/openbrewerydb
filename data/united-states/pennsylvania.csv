@@ -1,346 +1,631 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+c3f35f23-d228-4c85-b0b2-7e9e0febf47d,1787 Brewing Company,brewpub,43 S Fourth St,,,Hamburg,Pennsylvania,19526,United States,4846653032,http://www.1787brewingcompany.com,-75.981604,40.554381
 896f26a1-d80e-4790-9287-026a86c1799d,180 and Tapped,micro,2010 A State Ave,,,Coraopolis,Pennsylvania,15108,United States,4127375273,http://www.180andtapped.com,-80.15020356,40.50984957
 8436b02b-9a06-474c-b5eb-8ff9aedf1f99,2 Dogz and A Guy Brewing,micro,228 Church St,,,Montrose,Pennsylvania,18801-1271,United States,5704320069,http://2dogzandaguybrewing.com,-75.8800318,41.8336364
-fb8eee34-da8a-42b2-bc4c-77020024a7f0,2nd Story Brewing Company,brewpub,117 Chestnut St Frnt,,,Philadelphia,Pennsylvania,19106-4700,United States,2673145770,http://www.2ndstorybrewing.com/,,
-3cf2698f-4193-4591-aab3-a8ef0fbedcab,2SP Brewing Company,micro,120 Concord Rd,,,Aston,Pennsylvania,19014-2909,United States,4844837860,http://www.2spbrewing.com,,
-ef60f8cf-0fdc-4ea1-aa94-09e1f869176b,412 Brews,brewpub,706 Island Ave,,,Mc Kees Rocks,Pennsylvania,15136-3287,United States,,http://www.412brews.com,,
-f8ab9530-289b-4684-89f1-474e89f4c5ae,Abjuration Brewing,micro,644 Broadway Ave,,,Mc Kees Rocks,Pennsylvania,15136-3008,United States,4127661668,http://www.abjurationbrewing.com,,
-8135f18c-0c31-4b4d-bb22-84eccf498e9c,Aldus Brewing Company,micro,555 Centennial Ave,,,Hanover,Pennsylvania,17331-3936,United States,7176342407,http://www.aldusbrewing.com,-76.98030009,39.79422185
-61853d49-62af-44bc-b0f7-bbc0faa89d30,All Saints Brewing Co,micro,1602 State Route 119,,,Greensburg,Pennsylvania,15601-7317,United States,7242891202,http://www.allsaintscraftbrewing.com,,
-0924f3af-e548-446b-baf8-687ea51b02ae,Allegheny City Brewing,micro,507 Foreland St,,,Pittsburgh,Pennsylvania,15212-4910,United States,4129043732,http://www.alleghenycitybrewing.com,-80.00061073,40.45424933
+5a28e9ac-99f2-4380-8bbe-d974c73d0192,2 Dogz and A Guy Brewing,taproom,33288 State Route 171,,,Susquehanna,Pennsylvania,18847,United States,5708602012,http://2dogzandaguybrewing.com,-75.720538,41.971587
+61fa41ea-f26e-4f2c-8858-33b48e7d8a3c,28 Bridges Brewery,brewpub,1597 Washington Pike,,,Bridgeville,Pennsylvania,15017,United States,8145720367,,-80.09555,40.382291
+fb8eee34-da8a-42b2-bc4c-77020024a7f0,2nd Story Brewing Company,brewpub,117 Chestnut St Frnt,,,Philadelphia,Pennsylvania,19106-4700,United States,2673145770,http://www.2ndstorybrewing.com,-75.143479,39.948509
+3cf2698f-4193-4591-aab3-a8ef0fbedcab,2SP Brewing Company,micro,120 Concord Rd,,,Aston,Pennsylvania,19014-2909,United States,4844837860,http://www.2spbrewing.com,-75.4034,39.854755
+ef60f8cf-0fdc-4ea1-aa94-09e1f869176b,412 Brews,micro,706 Island Ave,,,Mc Kees Rocks,Pennsylvania,15136,United States,,http://www.412brews.com,-80.061678,40.472829
+2cbf69ec-bec6-4fb2-811c-79b8630fe062,633 Brewing,taproom,118 Walnut St,,,Waynesboro,Pennsylvania,17268,United States,7173875818,http://www.633brewing.com,-77.578352,39.752393
+f8ab9530-289b-4684-89f1-474e89f4c5ae,Abjuration Brewing,taproom,644 Broadway Ave,,,Mc Kees Rocks,Pennsylvania,15136-3008,United States,4127661668,http://www.abjurationbrewing.com,-80.072411,40.472011
+5f80749c-c0f7-4b10-99f7-dd24c1144c24,Acclamation Brewing,taproom,555B Wildwood Ave,,,Verona,Pennsylvania,15147,United States,3045509439,http://www.acclamationbrewing.com,-79.837333,40.502238
+b3b01085-1280-4c91-bf00-19085675d4b6,"Acrospire Brewing, LLC",taproom,1650 Butler Plank Rd,,,Glenshaw,Pennsylvania,15116,United States,4123344547,http://www.acrospirebrewingco.com,-79.962806,40.53548
+8135f18c-0c31-4b4d-bb22-84eccf498e9c,Aldus Brewing Company,taproom,555 Centennial Ave,,,Hanover,Pennsylvania,17331-3936,United States,7176342407,http://www.aldusbrewing.com,-76.97699,39.790548
+61853d49-62af-44bc-b0f7-bbc0faa89d30,All Saints Brewing Co,taproom,1602 State Route 119,,,Greensburg,Pennsylvania,15601-7317,United States,7242891202,http://www.allsaintscraftbrewing.com,-79.526494,40.311621
+0924f3af-e548-446b-baf8-687ea51b02ae,Allegheny City Brewing,taproom,507 Foreland St,,,Pittsburgh,Pennsylvania,15212-4910,United States,4129043732,http://www.alleghenycitybrewing.com,-80.000423,40.454218
+1ee6c093-72d5-4972-8644-3f5229b43a0e,Allegheny Creek Brewing,brewpub,690 Allegheny Rd,,,Mount Bethel,Pennsylvania,18343,United States,5708975900,http://www.alleghenycreekbc.com,-75.099431,40.874203
 3f583ab8-71bf-4009-9257-193ef53a1fe1,Allentown Brew Works,brewpub,812 Hamilton St,,,Allentown,Pennsylvania,18101-2437,United States,6104337777,http://www.thebrewworks.com,-75.4575021,40.6060468
+47528176-817f-48f3-bd20-e436c2f5bb74,Allusion Brewing Company,brewpub,143 Grant Ave,,,Vandergrift,Pennsylvania,15690-1238,United States,7245684916,http://www.allusionbrewingcompany.com,-79.562712,40.60316
+23e2a7bb-fc70-4585-a342-767c63af6cd1,Altered Genius Brewing Co.,taproom,411 Merchant St.,,,Ambridge,Pennsylvania,15003,United States,,http://alteredgeniusbrewing.com,-80.22553,40.583854
 4c92654b-a82a-4a9a-8c3f-fc03886a0be7,American Honor Beer Co,contract,700 N Pennsylvania Ave,,,Wilkes Barre,Pennsylvania,18705-2451,United States,,http://www.BoondoggleBeer.com,-75.859363,41.254896
+100bd173-a62f-48e0-824b-acb6e29fa11e,Animated Brewing Company,brewpub,255 S. Mount Airy Rd.,,,Coatesville,Pennsylvania,19320,United States,4843400408,http://animatedbrewing.com,-75.829246,39.992589
+fca1bd0a-b89d-4fd5-9b2b-6d6b0970371b,Antifragile Brewing Co.,micro,324 E Calder Way,,,State College,Pennsylvania,16801,United States,8148103075,,-77.857897,40.796312
 855b2e6e-9fa0-40da-bcba-343bef14d556,Appalachian Brewing Co - Collegeville,brewpub,50 W Third Ave Collegeville Station 2nd Floor,,,Collegeville,Pennsylvania,19426-3655,United States,4849736064,http://www.abcbrew.com,,
-cb55778e-fc31-4634-b56f-570961484c8d,Appalachian Brewing Co - Gettysburg Gateway,brewpub,70 Presidential Cir,,,Gettysburg,Pennsylvania,17325-8399,United States,7173982419,http://www.abcbrew.com,,
-48fd38a6-736f-4e76-b69a-8642d82c67df,Appalachian Brewing Co - Harrisburg,brewpub,50 N Cameron St,,,Harrisburg,Pennsylvania,17101-2407,United States,7172211080,http://www.abcbrew.com,-76.8816961,40.291059
-dddd1391-58ad-4a74-bd0d-93997ccaf17d,Appalachian Brewing Co - Lititz,brewpub,55 N Water St,,,Lititz,Pennsylvania,17543-1612,United States,7172211080,http://www.abcbrew.com,-76.30100986,40.15827375
-19693f1b-962f-4b88-8d53-7faf3e176208,Appalachian Brewing Co - Mechanicsburg,brewpub,6462 Carlisle Pike,,,Mechanicsburg,Pennsylvania,17050-2384,United States,7177954660,http://www.abcbrew.com,,
-39b6533a-40a4-4ba1-a41e-dd8f381b7ed7,Arundel Cellars & Brewing Co,brewpub,11727 E Main Rd,,,North East,Pennsylvania,16428-3635,United States,8147251079,http://www.arundelcellars.com,-79.8216539,42.2195527
+4198a2b6-2db2-454f-b9d7-f12fdb02c55f,Appalachian Brewing Co - Gettysburg Battlefield,brewpub,259 Steinwehr Ave,,,Gettysburg,Pennsylvania,17325,United States,7173342200,http://www.abcbrew.com,-77.234124,39.820255
+cb55778e-fc31-4634-b56f-570961484c8d,Appalachian Brewing Co - Gettysburg Gateway,brewpub,70 Presidential Cir,,,Gettysburg,Pennsylvania,17325-8399,United States,7173982419,http://www.abcbrew.com,-77.191949,39.842613
+48fd38a6-736f-4e76-b69a-8642d82c67df,Appalachian Brewing Co - Harrisburg,micro,50 N Cameron St,,,Harrisburg,Pennsylvania,17101-2407,United States,7172211080,http://www.abcbrew.com,-76.875509,40.265789
+dddd1391-58ad-4a74-bd0d-93997ccaf17d,Appalachian Brewing Co - Lititz,brewpub,55 N Water St,,,Lititz,Pennsylvania,17543-1612,United States,7172211080,http://www.abcbrew.com,-76.300721,40.157851
+19693f1b-962f-4b88-8d53-7faf3e176208,Appalachian Brewing Co - Mechanicsburg,brewpub,6462 Carlisle Pike,,,Mechanicsburg,Pennsylvania,17050-2384,United States,7177954660,http://www.abcbrew.com,-77.017117,40.247431
+7cf94748-8071-408f-b8a2-d4b9421ed4c9,Arboretum Trail Brewing Co,taproom,1351 Washington Blvd,,,Pittsburgh,Pennsylvania,15206,United States,4123572737,http://www.arboretumtrailbrewing.com,-79.90897,40.468811
+8ae4e8a5-b6fe-4b5a-a3b4-389dda33867a,Aristaeus Craft Brewing,taproom,2475 Big Oak Rd,,,Langhorne,Pennsylvania,19047-1913,United States,2152085472,http://aristaeusbrewing.com,-74.882419,40.198429
+8b8c61d5-c6c4-4558-9d70-ac0e99c843c2,Artifact Brewing,taproom,2 S York Rd,,,Hatboro,Pennsylvania,19040,United States,,http://www.artifactales.com,-75.106405,40.177155
+0162958c-3a14-4c1c-9810-f74d510d5f35,Artifice Ales & Mead,brewpub,55 N Main St,,,Manheim,Pennsylvania,17545-1503,United States,7173683322,,-76.396221,40.16505
+7a8264f0-9f1c-43c2-8812-aee4de3f4073,Artillery Brewing Co,brewpub,333 Granite Alley,,,West Chester,Pennsylvania,19380,United States,4849995976,http://www.artillerybrewing.com,-75.610389,39.958848
+39b6533a-40a4-4ba1-a41e-dd8f381b7ed7,Arundel Cellars & Brewing Co,brewpub,11727 E Main Rd,,,North East,Pennsylvania,16428-3635,United States,8147251079,http://www.arundelcellars.com,-79.803794,42.223737
+b1873307-6cb6-426e-ae93-c49ada9f41cf,Aslin Beer Company - Pittsburgh,brewpub,1801 Smallman Street,,,Pittsburgh,Pennsylvania,15222,United States,2025787400,,-79.985737,40.45121
 215dc8f1-754b-4dac-a448-255375c5a8d9,Aston Abbey Brewing Co,micro,340 Turner Industrial Way,,,Aston,Pennsylvania,19014-3014,United States,6102452178,http://www.astonabbeybrewing.com,,
 87d71c35-9537-4ef1-b232-668bea736ffa,Attic Brewing,planning,,,,Philadelphia,Pennsylvania,19144-3603,United States,7082047376,,,
-506f8ec3-7cac-42c1-b7fd-9fe1a5865b2c,Aurochs Brewing Company,micro,8321 Ohio River Blvd,,,Pittsburgh,Pennsylvania,15202-1451,United States,7242608737,,-80.0221567,40.4488158
+cd2ae77c-9e4c-42ac-8756-b115b7fe95e8,Attic Brewing Company,taproom,137 W Berkley St,,,Philadelphia,Pennsylvania,19144-3603,United States,7082047376,http://www.atticbrewing.com,-75.161718,40.022994
+506f8ec3-7cac-42c1-b7fd-9fe1a5865b2c,Aurochs Brewing Company,taproom,8321 Ohio River Blvd,,,Pittsburgh,Pennsylvania,15202-1451,United States,7242608737,http://www.aurochsbrewing.com,-80.103367,40.5118
+5e3a075e-f0f1-4ef0-927f-beb8f00a5585,Axemann Brewery,micro,2042 Axemann Road #300,,,Bellefonte,Pennsylvania,16823,United States,8145746146,http://www.axemannbrewery.com,-77.778128,40.906076
+c7c8d19f-bfe1-4981-822a-cf29d7fe2bcd,Back Alley Brewing Company,taproom,2975 W Liberty Ave,,,Pittsburgh,Pennsylvania,15216-2543,United States,,http://www.backalleybrewingpa.com,-80.034806,40.39451
+d207b8e4-245c-467b-9c66-1c81c89559f6,Back Mountain Brewing Company,taproom,1174 Twin Stacks Dr,,,Dallas,Pennsylvania,18612,United States,5703101387,http://www.backmountainbrew.com,-75.975587,41.340779
+99de73a3-0396-47b9-96b4-480332cd6bb9,Back Porch Brewing,micro,133 North Hanover Street,,,Carlisle,Pennsylvania,17013,United States,7172264350,http://www.backporchbrewinginc.com,-77.188211,40.203814
+e3691df9-e07d-4eb5-ab87-72cff4df4f2a,Bald Birds Brewing Company,taproom,970 Rittenhouse Road Suite 400,,,Audubon,Pennsylvania,19403,United States,5709712877,http://www.baldbirdsbrewing.com,-75.416258,40.126355
+f82e76c7-5673-40a7-9440-f44aa0dd320d,Bald Birds Brewing Company - Jersey Shore,micro,220 Shaffer Lane,,,Jersey Shore,Pennsylvania,17740,United States,,,-77.270882,41.193548
 5d408c7c-fb56-4012-bd83-3471f43ffc2f,Bangor Trust Brewing,brewpub,15 Broadway,,,Bangor,Pennsylvania,18013-2601,United States,6104523232,http://bangortrustbrewing.com,,
-a834c4b5-4852-4887-aa6f-c872dfc10824,Bar Hygge / Brewery Techne,brewpub,1720 Fairmount Ave,,,Philadelphia,Pennsylvania,19130-2858,United States,,,-75.16567302,39.96707286
-6267a2b4-289e-4720-8baf-6ab825f30380,Barley Creek Brewing Co,brewpub,1774 Sullivan Trl,,,Tannersville,Pennsylvania,18372-7893,United States,5706299399,http://www.barleycreek.com,-75.32890575,41.05236395
-b5857838-ef52-47ed-b4e4-849a321374eb,Battlefield Brew Works,brewpub,248 Hunterstown Rd,,,Gettysburg,Pennsylvania,17325-7840,United States,7173982907,http://www.battlefieldbrewworks.com,,
+8708e835-641a-4dcf-9809-d28b4d796cd7,Bangor Trust Brewing,brewpub,50 Broadway,,,Bangor,Pennsylvania,18013-2601,United States,6104523232,http://bangortrustbrewing.com,-75.205929,40.86563
+a834c4b5-4852-4887-aa6f-c872dfc10824,Bar Hygge / Brewery Techne,brewpub,1720 Fairmount Ave,,,Philadelphia,Pennsylvania,19130-2858,United States,,,-75.166112,39.966971
+6267a2b4-289e-4720-8baf-6ab825f30380,Barley Creek Brewing Co,brewpub,1774 Sullivan Trl,,,Tannersville,Pennsylvania,18372-7893,United States,5706299399,http://www.barleycreek.com,-75.330477,41.053518
+a2b95876-4884-48c1-a9e1-293cc4791d4f,Barrel Splitters Brewing,taproom,1890 Woodhaven Road,,,Philadelphia,Pennsylvania,19116,United States,,,-75.002224,40.111365
+b5857838-ef52-47ed-b4e4-849a321374eb,Battlefield Brew Works,brewpub,248 Hunterstown Rd,,,Gettysburg,Pennsylvania,17325-7840,United States,7173982907,http://www.battlefieldbreworks.com,-77.210789,39.846226
 fa0b9910-a718-4a33-ace8-59e9def925f6,Bayonet Cider Company,planning,,,,Pittsburgh,Pennsylvania,15206-5111,United States,5134841943,,,
-c0b53d0f-5c81-435b-920d-a193e02e1b73,Beaver Brewing Co,brewpub,1820 7th Ave,,,Beaver Falls,Pennsylvania,15010-4001,United States,,http://www.beaverbrewingcompany.com,-80.3192793,40.7650557
-709f000d-826d-45e8-ab4f-c89137a58790,Benny Brewing Co.,micro,1429 Sans Souci Pkwy,,,Wilkes Barre,Pennsylvania,18706-6025,United States,5702356995,http://www.martysblueroom.com,,
+7f648c99-fa13-43cd-bae9-8e33a27f8120,Bearded Barrel Brewing,micro,439 W Main St,,,Plymouth,Pennsylvania,18651,United States,5702398636,http://www.beardedbarrelbrewing.com,-75.954839,41.2383
+c0b53d0f-5c81-435b-920d-a193e02e1b73,Beaver Brewing Co,brewpub,1820 7th Ave,,,Beaver Falls,Pennsylvania,15010-4001,United States,,http://www.beaverbrewingcompany.com,-80.318874,40.759103
+709f000d-826d-45e8-ab4f-c89137a58790,Benny Brewing Co.,micro,1429 Sans Souci Pkwy,,,Wilkes Barre,Pennsylvania,18706-6025,United States,5702356995,http://www.martysblueroom.com,-75.940665,41.222413
 eeabc125-dc98-49cf-a9da-969ee820c348,Bent Run Brewing Co,brewpub,5607 SR 957,,,Lander,Pennsylvania,16345,United States,8147578269,http://www.bentrunbrewing.com,,
-8b33dd81-0c75-4be9-90c0-72d5ed79f436,Berwick Brewing Co,brewpub,328 W Front St,,,Berwick,Pennsylvania,18603-4757,United States,5707524313,http://www.berwickbrewing.com,-76.2381632,41.05243327
-b635b07f-9dba-4619-ac00-f17ca8313c43,Bespoke Brewing Company,brewpub,242 Gap Rd,,,Ronks,Pennsylvania,17572,United States,7172882255,https://www.bespokebrewingco.com,,
-4dd9752b-954d-41fa-b899-c3e26aef7812,Big Bottom Brewery,micro,6 Tristan Dr,,,Dillsburg,Pennsylvania,17019-1627,United States,7175028800,http://www.facebook.com/bigbottombrewery,,
+e018d81d-f301-4519-8ea0-593f287ae48b,Bent Run Brewing Co,brewpub,20 Clark St.,,,Warren,Pennsylvania,16365,United States,8147578269,http://www.bentrunbrewing.com,-79.146782,41.842709
+8b33dd81-0c75-4be9-90c0-72d5ed79f436,Berwick Brewing Co,brewpub,328 W Front St,,,Berwick,Pennsylvania,18603-4757,United States,5707524313,http://www.berwickbrewing.com,-76.237878,41.051964
+8d8effee-70c5-4bdb-a21b-02fdf012e4a1,Bespoke Brewing,brewpub,242 Gap Rd,,,Ronks,Pennsylvania,17572,United States,,,-76.164024,39.982538
+4dd9752b-954d-41fa-b899-c3e26aef7812,Big Bottom Brewery,brewpub,6 Tristan Dr,,,Dillsburg,Pennsylvania,17019-1627,United States,7175028800,http://www.facebook.com/bigbottombrewery,-77.019098,40.133846
+09abdff1-a4d5-4dd6-b440-5359a6480e9f,Big Chief Brewing,taproom,193 Easton Rd,,,Horsham,Pennsylvania,19044,United States,6093673833,http://www.bigchiefbrewing.com,-75.128679,40.174352
+f2a920cd-ce7f-4915-9771-28139a1eccd1,Big Dog Craft Brewing,brewpub,1559 Manheim Pike,,,Lancaster,Pennsylvania,17601,United States,7175177466,http://www.bigdogcraftbrewing.com,-76.338769,40.079676
+43c287c8-3d79-4761-8a36-4d23dc144f05,Big Rail Brewing,taproom,845 Leesburg Station Rd,,,Volant,Pennsylvania,16156,United States,7243722073,http://bigrailbrewing.com,-80.234771,41.143979
+3060aac1-4236-47ee-8155-1ec380c5d7e0,Big Sewickley Creek Brewery,taproom,2030 Big Sewickley Creek Road,,,Sewickley,Pennsylvania,15143,United States,,http://https://sewickleybrewery.com/,-80.156969,40.608905
+780fb2dd-5893-46c3-9ba7-c3102b8645e3,Bill's Best Brewery,taproom,57 S Keswick Ave,,,Glenside,Pennsylvania,19038,United States,2155176970,,-75.149257,40.099704
 27c38f61-cc1b-4e9c-baea-a55193ba486b,Birthright Brewing Co.,brewpub,57 S Main St,,,Nazareth,Pennsylvania,18064-2037,United States,6103652225,http://www.birthrightbrewingco.com,-75.31224579,40.74211365
-d3eba4df-b289-4ee6-ada9-da33ef0567aa,Black Forest Brewery,brewpub,301 W Main St,,,Ephrata,Pennsylvania,17522-1713,United States,7174507217,http://www.blackforestbrewery.net,-76.183579,40.181767
+61c13fab-59b3-490c-987c-6ab8a2517356,Bitchin' Kitten Brewery,brewpub,58 B East Bridge Street,,,Morrisville,Pennsylvania,19067,United States,2153278110,http://www.bitchinkitten.com,-74.774427,40.208931
+d3eba4df-b289-4ee6-ada9-da33ef0567aa,Black Forest Brewery,brewpub,301 W Main St,,,Ephrata,Pennsylvania,17522-1713,United States,7174507217,http://www.blackforestbrewery.net,-76.181338,40.181369
+7cac66f4-aa10-4e81-bec7-d7d740f90a87,Black Monk Brewery,taproom,3721 W 12th St,,,Erie,Pennsylvania,16505-3504,United States,8146168659,http://www.blackmonkbrew.com,-80.165114,42.09242
+681d0fd0-1e97-43f3-aab4-8a90457b75a2,Black Rock Brewing Company,brewpub,325 Centre Street,,,Pottsville,Pennsylvania,17901,United States,,http://www.blackrockbrews.com,-76.193389,40.682198
+c60174b8-436e-438d-bc6f-771ca49ff9b6,Black Rock Brewing Company - Linglestown,brewpub,5948 Linglestown Rd,,,Harrisburg,Pennsylvania,17112,United States,,,-76.793878,40.343459
 08bc0229-4621-4ddd-a27e-8da88d0a5800,Black Wolf Brewing LLC,planning,,,,Pocono Pines,Pennsylvania,18350,United States,,,,
-b5c811b0-dcf0-42d2-801b-74b0519227e5,Bloom Brew,micro,100 Riverside Dr,,,West Newton,Pennsylvania,15089-1542,United States,7243224494,http://www.bloombrew.com,-79.768066,40.210228
+921cee92-0ec6-4140-bc6b-c8300f59a873,Blondes and Brewnettes/Twelves Grill and Cafe,brewpub,10 Exchange Place,,,West Grove,Pennsylvania,19390,United States,6108694020,,-75.826633,39.822702
+b5c811b0-dcf0-42d2-801b-74b0519227e5,Bloom Brew,taproom,100 Riverside Dr,,,West Newton,Pennsylvania,15089-1542,United States,7243224494,http://www.bloombrew.com,-79.766601,40.213777
 956f2d40-477b-455a-bc21-b03779150cf0,Blue Canoe Brewery,brewpub,113 S Franklin St,,,Titusville,Pennsylvania,16354-1737,United States,8147750077,,-79.6733234,41.6230211
-4ff360b9-b45b-45d2-8646-c2b91975890f,Blueprint Brewing Co.,micro,1571 Gehman Rd,,,Harleysville,Pennsylvania,19438-2930,United States,4843197901,http://www.blueprintbrewco.com,,
-6e5e63f5-4465-4ea8-9dbf-b55213db2775,Bluestone Brewing Company,brewpub,18 Pitney St,,,Sayre,Pennsylvania,18840-2720,United States,5707310222,http://www.bluestonebrewingcompany.com,-76.54508776,41.99222929
+4ff360b9-b45b-45d2-8646-c2b91975890f,Blueprint Brewing Co.,taproom,1571 Gehman Rd,,,Harleysville,Pennsylvania,19438-2930,United States,4843197901,http://www.blueprintbrewco.com,-75.345863,40.254603
+6e5e63f5-4465-4ea8-9dbf-b55213db2775,Bluestone Brewing Company,brewpub,18 Pitney St,,,Sayre,Pennsylvania,18840-2720,United States,5707310222,http://www.bluestonebrewingcompany.com,-76.545801,41.992209
 1a423bc0-601e-49de-989b-f2847047207e,"Bog Turtle Brewery, LLC",micro,14 S 3rd St Ste 1,,,Oxford,Pennsylvania,19363-1601,United States,4847580416,http://www.bogturtlebrewery.com,,
-f91384a3-fabc-4df3-a467-9e14d64efb84,Boneshire Brew Works,micro,7462 Derry St,,,Harrisburg,Pennsylvania,17111-5228,United States,7174127814,http://www.boneshire.com,-76.8712077,40.2633825
-402b5bb1-9aa8-4e55-9215-824957bf45f5,Bonn Place Brewing,micro,310 Taylor St,,,Bethlehem,Pennsylvania,18015,United States,6104196660,http://www.bonnbrewing.com,-75.3745048,40.6116536
-32f78839-6d32-4162-bb75-8e4f714077bf,Boom City Brewing,brewpub,317 Pine St,,,Williamsport,Pennsylvania,17701-6509,United States,2722022956,http://www.boomcitybrewing.com,-77.00331232,41.24108564
+c3ed51c3-d3d2-4dd8-b38e-2504a07d2fa0,Bonafide Beer Co.,taproom,155 21st Street,,,Pittsburgh,Pennsylvania,15222,United States,,http://www.bonafidebeerco.com,-79.983146,40.451901
+f91384a3-fabc-4df3-a467-9e14d64efb84,Boneshire Brew Works,micro,7462 Derry St,,,Harrisburg,Pennsylvania,17111-5228,United States,7174127814,http://www.boneshire.com,-76.757845,40.266394
+402b5bb1-9aa8-4e55-9215-824957bf45f5,Bonn Place Brewing,taproom,310 Taylor St,,,Bethlehem,Pennsylvania,18015,United States,6104196660,http://www.bonnbrewing.com,-75.374419,40.611662
+32f78839-6d32-4162-bb75-8e4f714077bf,Boom City Brewing,brewpub,317 Pine St,,,Williamsport,Pennsylvania,17701-6509,United States,2722022956,http://www.boomcitybrewing.com,-77.003057,41.240691
+4fcd60e7-25c6-49fa-9028-d3305ad2a731,Bovino's Pizzeria & Brewery,brewpub,331 N Courtland St,,,East Stroudsburg,Pennsylvania,18301,United States,5704247499,http://www.bovinosbrewery.com,-75.184751,41.008035
+f45edc94-e896-4a0f-a274-429873a93481,Boxcar Brew Works,taproom,1290 Rich Hwy,,,Du Bois,Pennsylvania,15801,United States,8146030210,http://Boxcar.doolittlestation.com,-78.778251,41.135616
 47e5d589-a5c4-48b6-90fa-1f1f64438d58,Boxcar Brewing Co LLC,micro,306 Westtown Rd Ste C,,,West Chester,Pennsylvania,19382-4983,United States,4849472503,http://www.boxcarbrewingcompany.com,,
+fac3dcba-e714-4b8e-87c5-9cca4f7f7db4,Bradford Brew Station,micro,104 Chestnut St,,,Bradford,Pennsylvania,16701-2254,United States,8143683137,http://www.bradfordbrewstation.com,-78.648168,41.952499
+89e63969-9a12-4968-ad60-7514d8ec912e,Braeloch Brewing,brewpub,225 Birch St,,,Kennett Square,Pennsylvania,19348-3605,United States,6106129242,http://www.braelochbrewing.beer,-75.707007,39.842131
 8d5538db-870e-486b-8e03-8c607c38ae18,Braeloch Brewing Company,planning,,,,Kennett Square,Pennsylvania,19348-3605,United States,3026056473,,,
-d5768396-cf5b-4a56-8481-294fd49b0b77,Breaker Brewing Company,brewpub,787 E Northampton St,,,Wilkes Barre,Pennsylvania,18702-7521,United States,,,-75.8739352,41.2338879
+205486f0-7e12-4312-975a-d3fd5a114fc9,Brass Collar Brewing LLC,micro,1102 N Market St,,,Duncannon,Pennsylvania,17020,United States,4844252481,http://www.radiantbeerproject.com,-77.019429,40.400522
+d5768396-cf5b-4a56-8481-294fd49b0b77,Breaker Brewing Company,brewpub,787 E Northampton St,,,Wilkes Barre,Pennsylvania,18702-7521,United States,,,-75.868595,41.224937
 da170deb-574e-4582-a365-b83058312b8b,Brew 32,brewpub,1474 State Route 208,,,Pulaski,Pennsylvania,16143-4308,United States,7242528464,http://Www.brew32craft.com,,
-e9a7e33f-8187-4dba-9f5d-a6955fd566bc,Brew Gentlemen,micro,512 Braddock Ave,,,Braddock,Pennsylvania,15104-1806,United States,4128715075,http://www.brewgentlemen.com,-79.8702107,40.4041599
+e9a7e33f-8187-4dba-9f5d-a6955fd566bc,Brew Gentlemen,micro,512 Braddock Ave,,,Braddock,Pennsylvania,15104-1806,United States,4128715075,http://www.brewgentlemen.com,-79.870094,40.404065
+99274fcf-8cbb-4c1f-84b9-b09e9f556d80,BrewDog Pittsburgh Outpost,brewpub,6144 Centre Ave,,,Pittsburgh,Pennsylvania,15206,United States,4126188995,http://www.brewdog.com/usa/bars/us/pittsburgh/,-79.922804,40.460473
 a82d1b5a-b811-4252-97e4-af7887f2ffab,"Brewerie at Union Station, The",brewpub,123 W 14th St,,,Erie,Pennsylvania,16501-1717,United States,8144542200,http://www.brewerie.com,-80.0819415,42.1211965
-6b04fb31-0531-49fc-8dbf-517138e6c1dd,Brewery ARS,micro,1927-29 W Passyunk Ave,,,Philadelphia,Pennsylvania,19145-3620,United States,2159605173,http://breweryars.com,,
+6b04fb31-0531-49fc-8dbf-517138e6c1dd,Brewery ARS,taproom,1927-29 W Passyunk Ave,,,Philadelphia,Pennsylvania,19145-3620,United States,2159605173,http://breweryars.com,-75.178882,39.923975
 f208c762-c903-4be2-927b-47716692794d,Brewtus Brewing Co,micro,23 Chestnut Ave,,,Sharon,Pennsylvania,16146-,United States,7243086293,http://www.brewtusbrewing.com,-80.50749936,41.23267888
+02b1da8b-f8e0-4250-acf9-c2538a23ad99,Bright Path Brewing,micro,1215 North St,,,Jim Thorpe,Pennsylvania,18229-1747,United States,5707329990,,-75.726363,40.881962
 01dc9824-efc8-4ee4-a90a-a67d11bec14d,Brixton Brewing,brewpub,165 Brighton Ave,,,Rochester,Pennsylvania,15074-2203,United States,7247282227,http://www.brixtonbrewing.com,-80.2828549,40.70091875
-9f079ccb-8469-4fe9-a2d6-679f40facc8b,Broken Chair Brewery,micro,424 East Penn Ave,,,West Reading,Pennsylvania,19611-1130,United States,4848663948,http://www.brokenchairbrewery.com,,
+9f079ccb-8469-4fe9-a2d6-679f40facc8b,Broken Chair Brewery,taproom,424 East Penn Ave,,,West Reading,Pennsylvania,19611-1130,United States,4848663948,http://www.brokenchairbrewery.com,-75.946717,40.335234
 9852df06-5377-40b5-9ba1-e008bfa15d70,Broken Goblet Brewing,brewpub,1500 Grundy Ln Bldg 1,,,Bristol,Pennsylvania,19007-1521,United States,2678125653,http://www.brokengoblet.com,,
-a75a8cd7-7531-4df5-8edb-48782916a3da,Bubes Brewery,brewpub,102 N Market St,,,Mount Joy,Pennsylvania,17552-1306,United States,7176532056,http://www.bubesbrewery.com,-76.50290152,40.11180762
-f58e18b4-a2ff-4917-8bb3-d9a5e852add6,Bucks County Brewery,micro,31 Appletree Ln,,,Pipersville,Pennsylvania,18947-1083,United States,6094392468,http://www.buckscountybrewery.com,,
-b495c351-4df5-430d-9776-fc48d062b311,Bullfrog Brewery,brewpub,229 W 4th St,,,Williamsport,Pennsylvania,17701-6112,United States,5703264700,http://www.bullfrogbrewery.com,-77.051529,41.2399548
-eb1f4dd4-a8f7-44ea-8bbe-958893a45b22,Bullfrog Brewery - Production Only,micro,229 W 4th St,,,Williamsport,Pennsylvania,17701-6112,United States,5703264700,,-77.051529,41.2399548
-fdec8f24-19f5-4415-b7a0-b029db48735f,Buon Appetito Ristorante,brewpub,6147 York Rd,,,Spring Grove,Pennsylvania,17362-9120,United States,7172250666,http://www.buon-appetito-ristorante.com,,
+e683e955-b2f7-4e35-8b1f-91a3e23f4665,Broken Goblet Brewing,brewpub,2500 State Rd,,,Bensalem,Pennsylvania,19020,United States,2678125653,http://www.brokengoblet.com,-74.939234,40.071608
+41c4199b-44a9-4c86-9bb6-694ef3f9c93f,Brothers Kershner Brewing Co,taproom,4119 W Skippack Pike,,,Skippack,Pennsylvania,19474,United States,6102222739,http://www.brotherskershner.com,-75.4051,40.2228
+8ca5fd20-c7a4-4818-8b5e-4f56f2c04c52,Bru Daddy's Brewing,brewpub,732 Hamilton St.,,,Allentown,Pennsylvania,18101,United States,4843743012,http://https://www.hopdaddysbrewingcompany.com,-75.472835,40.601452
+a75a8cd7-7531-4df5-8edb-48782916a3da,Bubes Brewery,brewpub,102 N Market St,,,Mount Joy,Pennsylvania,17552-1306,United States,7176532056,http://www.bubesbrewery.com,-76.503049,40.111965
+f58e18b4-a2ff-4917-8bb3-d9a5e852add6,Bucks County Brewery,taproom,31 Appletree Ln,,,Pipersville,Pennsylvania,18947-1083,United States,6094392468,http://www.buckscountybrewery.com,-75.154273,40.39757
+b495c351-4df5-430d-9776-fc48d062b311,Bullfrog Brewery,brewpub,229 W 4th St,,,Williamsport,Pennsylvania,17701-6112,United States,5703264700,http://www.bullfrogbrewery.com,-77.005579,41.240235
+fd5b4a95-43b0-4a15-ab05-526b7d5751d3,Bullfrog Brewery,brewpub,229 W 4th St,,,Williamsport,Pennsylvania,17701-6112,United States,5703264700,http://www.bullfrogbrewery.com,-77.005579,41.240235
+eb1f4dd4-a8f7-44ea-8bbe-958893a45b22,Bullfrog Brewery - Production Only,micro,229 W 4th St,,,Williamsport,Pennsylvania,17701-6112,United States,5703264700,,-77.005579,41.240235
+fdec8f24-19f5-4415-b7a0-b029db48735f,Buon Appetito Ristorante,brewpub,6147 York Rd,,,Spring Grove,Pennsylvania,17362-9120,United States,7172250666,http://www.buon-appetito-ristorante.com,-76.899899,39.846459
+e816a457-9779-486c-9c0c-a33b661d27b2,Burgh’ers Brewing,micro,22410 Perry Hwy Ste 410D,,,Zelienople,Pennsylvania,16063-2935,United States,4129739628,http://Burgherspgh.com,-80.132624,40.77775
 358b70d1-d86d-4001-9a3f-2acf644cc88b,Burghâers Brewing,micro,22410 Perry Hwy Ste 410E,,,Zelienople,Pennsylvania,16063-2935,United States,4129739628,http://Burgherspgh.com,,
-29444b11-30a1-4b43-9b9f-541ea67afc94,Butler Brew Works,brewpub,101 S Main St,,,Butler,Pennsylvania,16001-5907,United States,7242645347,http://www.butlerbrewworks.com,-79.895238,40.860914
-282e53a4-054a-4047-a7ff-bde26dfad708,Cave Brewing Co,micro,1407 Seidersville Rd,,,Bethlehem,Pennsylvania,18015-4219,United States,6107391381,http://www.cavebrewing.com,-75.3464618,40.5910341
-a15b076b-cec2-43fc-bd9b-dd530d8985dc,Cellar Works Brewing Co.,micro,110 S Pike Rd Ste 205,,,Sarver,Pennsylvania,16055-9682,United States,7245242120,http://www.cellarworksbrewing.com,,
-1fcb0371-fb13-48b5-bfd4-a87939d6650c,Center Square Brewing / Altland House,brewpub,1 Center Sq,,,Abbottstown,Pennsylvania,17301-9502,United States,7172599535,http://centersquarebrew.com,,
+29444b11-30a1-4b43-9b9f-541ea67afc94,Butler Brew Works,brewpub,101 S Main St,,,Butler,Pennsylvania,16001-5907,United States,7242645347,http://www.butlerbrewworks.com,-79.894796,40.860878
+49192703-61d1-45a8-ba62-093d31719c70,Carbon Copy,brewpub,701 S 50th St,,,Philadelphia,Pennsylvania,19143,United States,2194072380,http://www.carboncopyphilly.com,-75.222683,39.947728
+da55d28d-5a3d-46d2-ad08-d452192db7e6,Cartel Brewing + Blending,taproom,928 N. Prince St,,,Lancaster,Pennsylvania,17603,United States,,http://www.cartelbrewing.com,-76.31054,40.052527
+6473e5b5-bfe6-4fa6-a3ae-a879c718382d,Cartesian Brewing,taproom,1324-26 E Passyunk Avenue,,,Philadelphia,Pennsylvania,19147,United States,,http://www.cartesianbrewing.com,-75.160358,39.932741
+282e53a4-054a-4047-a7ff-bde26dfad708,Cave Brewing Co,micro,1407 Seidersville Rd,,,Bethlehem,Pennsylvania,18015-4219,United States,6107391381,http://www.cavebrewing.com,-75.397749,40.592218
+a15b076b-cec2-43fc-bd9b-dd530d8985dc,Cellar Works Brewing Co.,brewpub,110 S Pike Rd Ste 205,,,Sarver,Pennsylvania,16055-9682,United States,7245242120,http://www.cellarworksbrewing.com,-79.755299,40.716847
+1fcb0371-fb13-48b5-bfd4-a87939d6650c,Center Square Brewing / Altland House,brewpub,1 Center Sq,,,Abbottstown,Pennsylvania,17301-9502,United States,7172599535,http://centersquarebrew.com,-76.984798,39.886239
 047bcd29-88dc-4b9d-843d-502921e8001e,Chatty Monks Brewing Company,brewpub,610 Penn Ave,,,West Reading,Pennsylvania,19611-1004,United States,4848180176,http://www.chattymonks.com,-75.95000063,40.3357192
-f644ee47-6458-4a46-9c25-b7e1ef8dd2e0,Church Brew Works/Lawrenceville Brewery Inc.,brewpub,3525 Liberty Ave,,,Pittsburgh,Pennsylvania,15201-1324,United States,4126888200,http://www.churchbrew.com,-79.9643613,40.4620769
+e68b2259-caa8-48f7-aca8-699a82d8e970,Chatty Monks Brewing Company,taproom,101 N Carroll St,,,Reading,Pennsylvania,19611,United States,2678846478,http://www.chattymonks.com,-75.936449,40.322285
+4c1e1f8e-5fa2-4022-862e-8e5be870b831,Chatty Monks Brewing Company - Production Facility,micro,101 N Carroll St Ste 2,,,Reading,Pennsylvania,19611,United States,4848180176,http://www.chattymonks.com,-75.936449,40.322285
 0331a476-a7f7-4c43-ab9f-00e427225443,Cinderlands Beer Co.,brewpub,3705 Butler St,,,Pittsburgh,Pennsylvania,15201-1819,United States,4122510656,http://www.cinderlands.com,-79.9224894,40.4884044
+6fe041d3-de44-4a04-a749-1503b711e593,Cinderlands Foederhouse,brewpub,3705 Butler St,,,Pittsburgh,Pennsylvania,15201,United States,4122510656,http://www.cinderlands.com,-79.964839,40.466516
+7bc9156f-f7c7-45d2-9554-bd8b1bc30c66,Cinderlands Warehouse,brewpub,2601 Smallman St,,,Pittsburgh,Pennsylvania,15222,United States,,,-79.979273,40.455911
 a33ce0a4-eaf9-4807-bd2b-ecc104b186c4,Clarion River Brewing Company,brewpub,600 Main St # 604,,,Clarion,Pennsylvania,16214-1108,United States,8142978399,http://www.clarionriverbrew.com,-79.6789283,41.14649162
-29f4510e-d3c3-4166-ab94-ee1879962000,Coal Country Brewing,micro,625 W High St,,,Ebensburg,Pennsylvania,15931,United States,8144198648,http://www.coalcountrybrewing.net,-78.730634,40.485306
-ee2bb5ba-1f1c-4ba3-9087-3cb9df5f4323,Coal Tipple Brewery / Kramer Farms,micro,1905 Steubenville Rike,,,Burgettstown,Pennsylvania,15021,United States,7248993344,http://www.coaltipplebrewery.com,,
-981cd7dd-8130-4eda-899c-70f3a556e1bd,Cobblehaus Brewing Company,micro,1021 5th Ave,,,Coraopolis,Pennsylvania,15108-1803,United States,4122648000,http://www.cobblehauspa.com,-80.16333048,40.5174116
-ffe2b950-fcdc-4262-afa4-08f4efe138d7,Collusion Tap Works,brewpub,105 S Howard St,,,York,Pennsylvania,17401-2001,United States,7178488400,http://www.collusiontapworks.com,-76.72393735,39.9618357
-efa39c35-5c38-490a-bd58-186a75a6ab61,Columbia Kettle Works,brewpub,40 N 3rd St,,,Columbia,Pennsylvania,17512-1104,United States,7173422374,http://www.columbiakettleworks.com,-76.50358705,40.03264918
-469a31a8-89e0-49be-9bde-62b45673e040,Conny Creek Brewing Co,micro,4323 Shearsburg Rd,,,New Kensington,Pennsylvania,15068-6845,United States,,http://www.facebook.com/ConnyCreekBrewing/,,
-ff77cd4b-5573-4fce-a1af-bd454e814fd4,Conshohocken Brewing - Bridgeport,brewpub,3 DeKalb St,,,Bridgeport,Pennsylvania,19405-1074,United States,,http://www.conshohockenbrewing.com,-75.3467908,40.1057904
-4aa64271-2075-4f5c-8c6b-4e9982852d1a,Conshohocken Brewing Co.,brewpub,739 E Elm St Ste B,,,Conshohocken,Pennsylvania,19428-2301,United States,6108978962,http://www.conshohockenbrewing.com,,
-7526c8dc-2807-49a7-a518-96fc77c78f8a,Conyngham Brewing Company,micro,309 Main St,,,Conyngham,Pennsylvania,18219-0910,United States,5707105752,http://www.conynghambrewing.com,-76.0585835,40.9922807
+29f4510e-d3c3-4166-ab94-ee1879962000,Coal Country Brewing,taproom,625 W High St,,,Ebensburg,Pennsylvania,15931,United States,8144198648,http://www.coalcountrybrewing.net,-78.730649,40.48511
+30a3d2a8-746e-4d95-af1b-3198601c1547,Coal Run Craft,micro,2382 Coal Run Rd,,,Homer City,Pennsylvania,15748-7823,United States,7244224808,,-79.295365,40.55743
+ee2bb5ba-1f1c-4ba3-9087-3cb9df5f4323,Coal Tipple Brewery / Kramer Farms,taproom,1905 Steubenville Rike,,,Burgettstown,Pennsylvania,15021,United States,7248993344,http://www.coaltipplebrewery.com,-80.366661,40.427843
+981cd7dd-8130-4eda-899c-70f3a556e1bd,Cobblehaus Brewing Company,brewpub,1021 5th Ave,,,Coraopolis,Pennsylvania,15108-1803,United States,4122648000,http://www.cobblehauspa.com,-80.16333,40.517404
+b06a375b-1db1-4b1d-8caa-ca2b29aa9fda,CoHops Brewing & Cannery,micro,2262 North Penn Rd,,,Hatfield,Pennsylvania,19440,United States,1267614158,http://Cohopsbeer.com,-75.283498,40.288847
+2244c387-922d-487f-b1cf-744721f93ee7,Cold Springs Inn and Brewing Company,brewpub,993 Park Pl,,,Mechanicsburg,Pennsylvania,17055,United States,7177909395,http://www.coldspringsinn.com,-77.041265,40.150772
+ffe2b950-fcdc-4262-afa4-08f4efe138d7,Collusion Tap Works,brewpub,105 S Howard St,,,York,Pennsylvania,17401-2001,United States,7178488400,http://www.collusiontapworks.com,-76.723804,39.961772
+efa39c35-5c38-490a-bd58-186a75a6ab61,Columbia Kettle Works,brewpub,40 N 3rd St,,,Columbia,Pennsylvania,17512-1104,United States,7173422374,http://www.columbiakettleworks.com,-76.503639,40.032534
+469a31a8-89e0-49be-9bde-62b45673e040,Conny Creek Brewing Co,brewpub,4323 Shearsburg Rd,,,New Kensington,Pennsylvania,15068-6845,United States,,http://www.facebook.com/ConnyCreekBrewing/,-79.670306,40.607495
+ff77cd4b-5573-4fce-a1af-bd454e814fd4,Conshohocken Brewing - Bridgeport,brewpub,3 DeKalb St,,,Bridgeport,Pennsylvania,19405-1074,United States,,http://www.conshohockenbrewing.com,-75.34419,40.108323
+4aa64271-2075-4f5c-8c6b-4e9982852d1a,Conshohocken Brewing Co.,micro,739 E Elm St Ste B,,,Conshohocken,Pennsylvania,19428-2301,United States,6108978962,http://www.conshohockenbrewing.com,-75.292432,40.073746
+7ec68884-bfed-41b2-bb38-b7c2c46682e3,Conshohocken King of Prussia,brewpub,3100 Horizon Dr Ste 150,,,King Of Prussia,Pennsylvania,19406,United States,4846846105,,-75.341141,40.087373
+7526c8dc-2807-49a7-a518-96fc77c78f8a,Conyngham Brewing Company,taproom,309 Main St,,,Conyngham,Pennsylvania,18219-0910,United States,5707105752,http://www.conynghambrewing.com,-76.058272,40.992589
+76af5a52-fbca-4b54-b3d9-847e5e2105ba,Cooper's Family Brewing / Cooper's Seafood House,brewpub,701 N Washington Ave,,,Scranton,Pennsylvania,18509,United States,5703466883,http://coopers-seafood.com,-75.657021,41.414212
 78c42e60-7bd8-40cf-94c6-9079a36ee84b,Copper Kettle Brewing Co,micro,557 Greenfield Ave,,,Pittsburgh,Pennsylvania,15207-1093,United States,,,-79.94040826,40.42611867
-66970f3f-1984-473a-9a3c-2dc092f54c7a,CoStar Brewing Inc.,micro,919 N Saint Clair St,,,Pittsburgh,Pennsylvania,15206-2133,United States,,,-79.9232026,40.4726062
+66970f3f-1984-473a-9a3c-2dc092f54c7a,"CoStar Brewing, LLC",micro,919 N Saint Clair St,,,Pittsburgh,Pennsylvania,15206-2133,United States,4124018433,http://www.costarbrewing.com,-79.923188,40.472596
 93d051c6-ba2f-4132-a8e3-27d892133bf2,Couch Brewery,micro,1351 Washington Blvd,,,Pittsburgh,Pennsylvania,15206-1801,United States,4124411724,http://www.couchbrewery.com,-79.9090141,40.4695304
-2176565e-02ee-4977-bcc4-b460b3388ec0,Covered Bridge Brewhaus Taproom,micro,506 N 8th St,,,Shamokin,Pennsylvania,17872-5302,United States,5702054867,http://squareup.com/store/covered-bridge-brewhaus,-76.55682084,40.79076037
-03299f31-afc3-43e4-b7be-0270a0fe0bc8,CR Brewing Company,brewpub,3009 Wilmington Rd,,,New Castle,Pennsylvania,16105,United States,4122987053,http://www.crbrewingcompany.com,-80.3493196,41.0103937
-6660d8a1-2668-4096-9510-92ea23e6371e,Crime & Punishment Brewing Company,brewpub,2711 W Girard Ave,,,Philadelphia,Pennsylvania,19130-1212,United States,2152352739,http://www.crimeandpunishmentbrewery.com,-75.1808422,39.9743646
-c38f360f-89b2-427f-89b2-39c66b9cb9cd,Crooked Eye Brewery,micro,13 E Montgomery Ave Ste 2,,,Hatboro,Pennsylvania,19040-2618,United States,2152859253,http://crookedeyebrewery.com,,
-8d2c978f-56a4-4df1-849f-93733f45cc21,Crooked Tongue Brewing,micro,2516 Benjamin Franklin Hwy,,,Edinburg,Pennsylvania,16116-4302,United States,7248563765,http://www.crookedtonguebrewing.com,,
+c0b8aea1-8637-46ba-9b76-953393f79a0b,Country Club Brewing,taproom,323 Pierce St,,,Bethlehem,Pennsylvania,18015,United States,4846199813,http://https://www.facebook.com/CountryClubBrewingLLC/,-75.370494,40.611331
+3192b6c8-d745-4a65-9f4f-f285d5a3462b,Coven Brewing,taproom,4901 Butler St,,,Pittsburgh,Pennsylvania,15201,United States,,http://www.covenbrewingpgh.com,-79.957064,40.477252
+2176565e-02ee-4977-bcc4-b460b3388ec0,Covered Bridge Brewhaus Taproom,alt prop,506 N 8th St,,,Shamokin,Pennsylvania,17872-5302,United States,5702054867,http://squareup.com/store/covered-bridge-brewhaus,-76.556864,40.790709
+c96fc511-08d4-4a15-bf59-a1e45265e08b,Cox Brewing Company,taproom,276 Heisey Quarry Rd,,,Elizabethtown,Pennsylvania,17022,United States,7174499926,http://www.coxbrewingcompany.com,-76.583848,40.130425
+03299f31-afc3-43e4-b7be-0270a0fe0bc8,CR Brewing Company,brewpub,3009 Wilmington Rd,,,New Castle,Pennsylvania,16105,United States,4122987053,http://www.crbrewingcompany.com,-80.358103,41.043103
+6660d8a1-2668-4096-9510-92ea23e6371e,Crime & Punishment Brewing Company,brewpub,2711 W Girard Ave,,,Philadelphia,Pennsylvania,19130-1212,United States,2152352739,http://www.crimeandpunishmentbrewery.com,-75.180841,39.974469
+ad2b2f5b-b8d3-4758-8bfb-dc294e591286,Croaker's Brewing Company LLC,micro,2017 W. State Street,,,New Castle,Pennsylvania,16101,United States,7242027808,http://www.croakersbrew.com,-80.380372,41.00676
+c38f360f-89b2-427f-89b2-39c66b9cb9cd,Crooked Eye Brewery,taproom,13 E Montgomery Ave Ste 2,,,Hatboro,Pennsylvania,19040-2618,United States,2152859253,http://crookedeyebrewery.com,-75.104921,40.179348
+8d2c978f-56a4-4df1-849f-93733f45cc21,Crooked Tongue Brewing,brewpub,2516 Benjamin Franklin Hwy,,,Edinburg,Pennsylvania,16116,United States,7248563765,http://www.crookedtonguebrewing.com,-80.424502,41.045544
 35056c86-03bb-4790-8b27-5241f914f73d,Crowded Castle Brewing Co. Inc.,brewpub,242 Bridge St,,,Phoenixville,Pennsylvania,19460-3450,United States,4842520077,http://www.crowdedcastle.com,-75.51762814,40.13370414
 52177169-ec91-4785-8c44-d8fbb2d2ed2b,Crystal Ball Brewing,micro,1612 W King St,,,York,Pennsylvania,17404-5618,United States,,http://www.crystalballbrewing.com,-76.76273652,39.94891984
-31faee5a-2a58-4708-9c78-7cda5832207c,Curran Brewing Co,micro,6230 Bloomington Rd,,,Moscow,Pennsylvania,18444-6634,United States,5707959490,http://www.curranbrewing.com,,
-ed77e7da-44ac-45b2-bb8c-10285691a58f,D. G. Yuengling and Son Inc,regional,500 Mahantongo St,,,Pottsville,Pennsylvania,17901,United States,5706224141,http://www.yuengling.com,-76.198585,40.682674
-9cb69d16-aaf2-4692-b06f-877f2d69ec8c,D. G. Yuengling and Son Inc,regional,310 Mill Creek Ave,,,Pottsville,Pennsylvania,17901-8692,United States,2156319461,http://www.yuengling.com,-76.1832368,40.6982044
-8e53e0f0-49ad-47a6-a80a-0a5e8c419339,Dancing Gnome Beer,micro,925 Main St,,,Pittsburgh,Pennsylvania,15215-2301,United States,4124082083,http://www.dancinggnomebeer.com,-79.84116859,40.39862051
+31faee5a-2a58-4708-9c78-7cda5832207c,Curran Brewing Co,micro,6230 Bloomington Rd,,,Moscow,Pennsylvania,18444-6634,United States,5707959490,http://www.curranbrewing.com,-75.472613,41.323985
+ed77e7da-44ac-45b2-bb8c-10285691a58f,D. G. Yuengling and Son Inc,regional,310 Mill Creek Ave,,,Pottsville,Pennsylvania,17901-8692,United States,2156319461,http://www.yuengling.com,-76.17406,40.700914
+9cb69d16-aaf2-4692-b06f-877f2d69ec8c,D. G. Yuengling and Son Inc,regional,310 Mill Creek Ave,,,Pottsville,Pennsylvania,17901-8692,United States,2156319461,http://www.yuengling.com,-76.17406,40.700914
+8e53e0f0-49ad-47a6-a80a-0a5e8c419339,Dancing Gnome Beer,taproom,1025 Main St,,,Pittsburgh,Pennsylvania,15215-2301,United States,,,-79.931493,40.493949
+c1b178be-eaf0-4fb6-85ee-3cc5c7a2ec64,Dancing Gnome Beer,taproom,1025 Main St,,,Pittsburgh,Pennsylvania,15215-2301,United States,,,-79.931493,40.493949
+26ec2103-c2fb-42d7-b4d7-d8a044c2b91c,Dark Hollow Spring Brewing,micro,637 Dark Hollow Rd,,,Bedford,Pennsylvania,15522-5432,United States,2155106374,http://www.darkhollowspring.farm,-78.650133,39.805576
 fd74cc7b-1172-4664-9166-e9a7788d84c2,Daugherty Brewing Company,planning,,,,Erie,Pennsylvania,16510-3680,United States,,http://www.daughertybrewingcompany.com,,
-80e88a16-8dd6-4d29-a518-32ecd2ffdfe3,Depot Saloon,brewpub,9 S Race St,,,Greenville,Pennsylvania,16125-2213,United States,7245884201,http://www.depotsaloon.com,-80.390239,41.40444
+fb84f52c-0237-48ab-8db5-fcdaee371bd2,Dented Keg Brewing Company,taproom,700 Adams Shoppes,,,Mars,Pennsylvania,16046,United States,7245915511,http://www.dentedkeg.com,-80.054799,40.687899
+e223bac3-e89e-470f-bec5-da302bf190f9,Dented Keg Brewing Company - Clearfield,brewpub,139 West Market Street,,,Clearfield,Pennsylvania,16830,United States,,,-78.442823,41.022211
+80e88a16-8dd6-4d29-a518-32ecd2ffdfe3,Depot Saloon,brewpub,9 S Race St,,,Greenville,Pennsylvania,16125-2213,United States,7245884201,http://www.depotsaloon.com,-80.390229,41.404322
 59d438c2-772b-46ff-b357-e12068eba653,Desperate Times Brewing Co,brewpub,1201 Carlisle Springs Rd,,,Carlisle,Pennsylvania,17013-1554,United States,7177063192,http://www.desperatetimesbrewery.com,-77.187054,40.213096
+bc559c71-bfb9-429d-b6cd-6b5748ac68e1,Devil's Eye Brewing Company,brewpub,9 N US 15,,,Dillsburg,Pennsylvania,17019,United States,7175020666,http://www.devilseyebrewingco.com,-77.040314,40.112606
 b7f79d7b-c8c8-45de-bbe0-2764c8be72d2,Devout Brewing,planning,,,,Export,Pennsylvania,15632,United States,,http://www.devoutbrewingco.com,,
-ec0363c4-8d72-4b1a-b7c9-9aeb1637cbd7,Divine Swine BBQ,brewpub,2684 Lebanon Rd,,,Manheim,Pennsylvania,17545-9524,United States,7178799494,http://www.divine-swine-bbq.com,,
+5a7face9-1428-4e6f-ad09-2576257eb261,Devout Brewing,taproom,1301 Pontiac Ct Suite 101,,,Export,Pennsylvania,15632,United States,7245757570,http://www.devoutbrewingco.com,-79.607543,40.397409
+ec0363c4-8d72-4b1a-b7c9-9aeb1637cbd7,Divine Swine BBQ,location,2684 Lebanon Rd,,,Manheim,Pennsylvania,17545-8711,United States,7178799494,http://www.divine-swine-bbq.com,-76.432678,40.227013
 dfc62a12-e290-4c54-b40f-9ce1eb11e683,Doc G's Brewing Company,brewpub,208 W Long Ave,,,Du Bois,Pennsylvania,15801-2106,United States,8142997938,,,
-850ac35e-0bdb-4662-a133-22c819b5620e,Dock Street Brewery,brewpub,701 S 50th St Fl 1,,,Philadelphia,Pennsylvania,19143-1689,United States,2157262337,http://www.dockstreetbeer.com,,
+850ac35e-0bdb-4662-a133-22c819b5620e,Dock Street Brewery,brewpub,2118 Washington Ave,,,Philadelphia,Pennsylvania,19146,United States,2153373103,http://www.dockstreetbeer.com,-75.179501,39.939122
+ffe65199-5fbe-414d-9a00-ef934c2870a1,Dock Street Brewery,brewpub,2118 Washington Ave,,,Philadelphia,Pennsylvania,19146,United States,2153373103,http://www.dockstreetbeer.com,-75.179501,39.939122
 5235f708-e30a-49ae-8681-0ff7167c8e76,Dock Street Brewing Co,planning,,,,Philadelphia,Pennsylvania,19146,United States,,,,
 4de6e1d2-9c69-438d-97a6-f9adcfb4c15b,Double D Brewing / Dommy's Pizza,brewpub,1100 Hancock Ave,,,Vandergrift,Pennsylvania,15690-2061,United States,7245676789,http://dommyspizza.com,-79.57625,40.588461
+d980600f-1c6f-4446-8d9b-692a510a3e6a,Downriver Brewing Company,brewpub,564 Main St,,,Stroudsburg,Pennsylvania,18360,United States,5702135110,,-75.192504,40.986244
 6b607ba6-859a-4a16-a51f-c0f55f4a98f8,Doylestown Brewing Co,proprietor,52 East State St.,,,Doylestown,Pennsylvania,18901,United States,2153401414,,-75.1291116,40.31027305
 450263c6-c95c-426c-aee9-c82f5ec11fbb,Duquesne Brewing of Pittsburgh,contract,932 W North Ave,,,Pittsburgh,Pennsylvania,15233-1606,United States,4128312779,,-80.01790691,40.45346755
 18b29afa-682c-4c5e-8ecb-ba0f61cf9f16,Earth Bread + Brewery,brewpub,7136 Germantown Ave,,,Philadelphia,Pennsylvania,19119-1843,United States,2152426666,http://www.earthbreadbrewery.com,-75.1903546,40.0591996
-67ef1ce6-35c8-482d-b054-0b5e6b568e5b,East Branch Brewing Company,brewpub,202 E Lancaster Ave,,,Downingtown,Pennsylvania,19335-2957,United States,6102831989,http://www.eastbranchbrewing.com,-75.70076097,40.0067258
-086f03da-c555-48a2-ae48-958ad65779e9,East End Brewing Co,micro,147 Julius St,,,Pittsburgh,Pennsylvania,15206,United States,4125372337,http://www.eastendbrewing.com,-79.91162696,40.45891137
+67ef1ce6-35c8-482d-b054-0b5e6b568e5b,East Branch Brewing Company,brewpub,202 E Lancaster Ave,,,Downingtown,Pennsylvania,19335-2957,United States,6102831989,http://www.eastbranchbrewing.com,-75.700781,40.006694
+086f03da-c555-48a2-ae48-958ad65779e9,East End Brewing Co,brewpub,147 Julius St,,,Pittsburgh,Pennsylvania,15206,United States,4125372337,http://www.eastendbrewing.com,-79.911738,40.45896
 08cc0e41-1349-4d06-9fa6-33291a745d60,Eclipse Craft Brewing,planning,,,,Sunbury,Pennsylvania,17801-5337,United States,,http://curtisbenner@hotmail.com,,
-728c3c0c-df0f-4448-a826-1bd4b2e86e85,Eleventh Hour Brewing Co,micro,3711 Charlotte St,,,Pittsburgh,Pennsylvania,15201-3201,United States,4127165107,http://www.11thhourbrews.com,-79.96553317,40.46680403
-c55c2083-6f77-4a62-8b1e-dd1053d2cdb0,Elk Creek Cafe + Aleworks,brewpub,100 W Main St,,,Millheim,Pennsylvania,16854,United States,8143498850,http://www.elkcreekcafe.net,-77.47694623,40.8911574
-bd66ac70-2685-4cfc-91f1-ec349c35c9ed,Endless Brewing,micro,20610 Pa-29,,,Montrose,Pennsylvania,18801,United States,5709670985,http://www.endlessbrewing.com,,
-f10f2add-c809-4f58-958b-c47876af2a28,Erie Ale Works,micro,416 W 12th St,,,Erie,Pennsylvania,16501-1506,United States,8143149089,http://www.eriealeworks.com,-80.1219366,42.108963
-e29579e9-a9e2-4c53-b966-d2ad4bb698b6,Erie Brewing Co,micro,6008 Knowledge Pkwy # A,,,Erie,Pennsylvania,16510-4676,United States,8144597741,http://www.eriebrewingco.com,,
-13677292-c029-4542-9335-497bcd8d515d,Ever Grain Brewing Co,micro,4444 Carlisle Pike Ste C,,,Camp Hill,Pennsylvania,17011-4102,United States,7175258222,,,
-339caa7a-481f-4315-bba1-bca6b74d8b89,Evil Genius Beer Co,micro,1727 N Front St,,,Philadelphia,Pennsylvania,19122-3203,United States,2154256820,http://www.evilgeniusbeer.com,-75.13401561,39.97578018
-c2edeb1a-5721-4b01-afe1-82af71c79821,Fegley's Brew Works,brewpub,812 Hamilton St,,,Allentown,Pennsylvania,18101-2437,United States,,,-75.4575021,40.6060468
-e8f67941-37fa-41bd-8c4b-ca598a144217,Fermentery Form,micro,161 Cecil B Moore Ave,,,Philadelphia,Pennsylvania,19122-3234,United States,2675183676,http://www.fermenteryform.com,-75.136886,39.976092
+a9ec7a34-c967-424e-8920-bb67fd3de5bd,Eclipse Craft Brewing,brewpub,249 Market St.,,,Sunbury,Pennsylvania,17801-5337,United States,5709178100,http://www.eclipsecraftbrewing.com,-76.793682,40.861653
+b8ba14bf-d658-41aa-a78d-0ebfa43d7443,El Diablo Brewing Co & Wood-fired Kitchen,brewpub,503 New Alexandria Rd,,,Greensburg,Pennsylvania,15601,United States,,http://www.eldiablobrewingco.com,-79.537654,40.308878
+728c3c0c-df0f-4448-a826-1bd4b2e86e85,Eleventh Hour Brewing Co,taproom,3711 Charlotte St,,,Pittsburgh,Pennsylvania,15201-3201,United States,4127165107,http://www.11thhourbrews.com,-79.965584,40.466861
+c55c2083-6f77-4a62-8b1e-dd1053d2cdb0,Elk Creek Cafe + Aleworks,brewpub,100 W Main St,,,Millheim,Pennsylvania,16854,United States,8143498850,http://www.elkcreekcafe.net,-77.476969,40.891159
+ebd8f46e-ddb6-42dc-81e9-b4fdc5bbfd58,Emlenton Brew Haus,brewpub,610 Main St,,,Emlenton,Pennsylvania,16373,United States,8433005690,,-79.710429,41.177311
+bd66ac70-2685-4cfc-91f1-ec349c35c9ed,Endless Brewing,taproom,20610 Pa-29,,,Montrose,Pennsylvania,18801,United States,5709670985,http://www.endlessbrewing.com,-75.846356,41.916709
+db202001-2cab-4b3d-bab7-2acc52e6ac53,Englewood Brewing,brewpub,"1219 Research Blvd, Suite B",,,Hummelstown,Pennsylvania,17036-9199,United States,7172569480,http://www.englewoodbrewing.com,-76.687993,40.26269
+58a4cd8f-5257-4a3d-9fdf-cbbc50c07234,Ercildoun Brewing Company,micro,801 Doe Run Rd,,,Coatesville,Pennsylvania,19320,United States,,http://www.triplefresh.net/ebc,-75.838949,39.946506
+f10f2add-c809-4f58-958b-c47876af2a28,Erie Ale Works,micro,416 W 12th St,,,Erie,Pennsylvania,16501-1506,United States,8143149089,http://www.eriealeworks.com,-80.090319,42.120341
+e29579e9-a9e2-4c53-b966-d2ad4bb698b6,Erie Brewing Company,micro,6008 Knowledge Pkwy # A,,,Erie,Pennsylvania,16510-4676,United States,8144597741,http://www.eriebrewingco.com,-79.967711,42.119053
+f8f864b2-4867-4c27-8e9a-26f5356d5f51,Erie Brewing Company - West Side,location,4102 West Lake Rd,,,Erie,Pennsylvania,16505,United States,,,-80.17779,42.092648
+09e5b610-a05a-4023-9533-33828e0b7a8d,Essential Fermentation Restaurant & Brewery,brewpub,309 5th St,,,Freeport,Pennsylvania,16229,United States,,http://www.essentialfermentation.com,-79.68596,40.674317
+13677292-c029-4542-9335-497bcd8d515d,Ever Grain Brewing Co.,brewpub,4444 Carlisle Pike Ste C,,,Camp Hill,Pennsylvania,17011-4102,United States,7175258222,http://evergrainbrewing.com,-76.960482,40.237793
+339caa7a-481f-4315-bba1-bca6b74d8b89,Evil Genius Beer Co,micro,1727 N Front St,,,Philadelphia,Pennsylvania,19122-3203,United States,2154256820,http://www.evilgeniusbeer.com,-75.13383,39.975746
+5ab064f3-c4fc-403a-aee9-553481640576,"Fat Bat Brewing Company, LLC",taproom,10 Railroad Street,,,Hanover,Pennsylvania,17331,United States,7177973198,http://www.fatbatbrewing.com,-76.982785,39.801084
+f1b3cf07-7f04-4382-ab82-99653fb81072,Fat Chad's Brewing,brewpub,113 S Franklin St,,,Titusville,Pennsylvania,16354,United States,,http://www.fatchadsbrewing.com,-79.673541,41.626981
+c2edeb1a-5721-4b01-afe1-82af71c79821,Fegley's Brew Works,taproom,812 Hamilton St,,,Allentown,Pennsylvania,18101-2437,United States,,,-75.47402,40.601322
+e8c065e1-f569-40ab-baca-789887f5eacb,Fegley's Brew Works,brewpub,559 Main St Ste 101,,,Bethlehem,Pennsylvania,18018,United States,6108821300,http://www.thebrewworks.com,-75.382419,40.622118
+44b6789e-3269-46c8-b397-3d0f586433e2,Fermata Brewing Company,taproom,918 Merchant Street,,,Ambridge,Pennsylvania,15003,United States,7243188189,http://www.fermatabrewing.beer,-80.229553,40.590659
+e8f67941-37fa-41bd-8c4b-ca598a144217,Fermentery Form,taproom,161 Cecil B Moore Ave,,,Philadelphia,Pennsylvania,19122-3234,United States,2675183676,http://www.fermenteryform.com,-75.137309,39.976368
 fe7b7c55-5132-4a41-bb73-47d930337b1b,Fetish Brewing Co,micro,325 Ice Ave,,,Lancaster,Pennsylvania,17602-1930,United States,,http://fetishbrewing.tumblr.com,-76.30114271,40.052413
+e9fe33b5-1c3c-48dc-b7cd-a4627bde09bf,Fetish Brewing Co,taproom,201 Rock Lititz Blvd Suite 22,,,Lititz,Pennsylvania,17543,United States,,http://fetishbrewing.tumblr.com,-76.313347,40.175348
+300cc529-8a8e-4d37-a89c-d4dd8a8858d6,Firewhistle Brewing,taproom,107 N 2nd Ave,,,Elizabeth,Pennsylvania,15037,United States,4126561684,http://www.firewhistlebrewing.com,-79.886684,40.273235
 51922063-32fd-458f-aa48-482f612c7cca,Fishtown Brewing Co,brewpub,1101 Frankford Ave,,,Philadelphia,Pennsylvania,19125-4153,United States,2159901396,http://fishtownbrewpub.com,-75.0159588,40.0460129
-ad02f33d-c7f7-48d6-b744-5a0360960541,Forest & Main Brewery and Pub,brewpub,61 N Main St,,,Ambler,Pennsylvania,19002-5728,United States,2155421776,http://www.forestandmain.com,-75.2250879,40.1553233
-78166b84-827e-4226-9327-41c9876338dc,Four Seasons Brewing Co,brewpub,745 Lloyd Ave Ext,,,Latrobe,Pennsylvania,15650,United States,7245204111,http://www.fsbrewing.com,,
-ee3fb7c3-e0ae-42cd-9827-1919269583a2,Free Will Brewing Company,micro,410 E Walnut St Ste 10,,,Perkasie,Pennsylvania,18944-1683,United States,2673540813,http://www.freewillbrewing.com,,
+d5fc970e-3bd7-4541-8437-cd253b9bcae4,Five Mountain Brewing Co,taproom,156 PA-239,,,Shickshinny,Pennsylvania,18655,United States,,,-76.16037,41.167036
+73a27e28-2aa2-4257-9ccc-142bb3ac025c,Floating Feathers Brewing Company,micro,380 S Main St,,,Mill Hall,Pennsylvania,17751,United States,,,-77.483995,41.101722
+52608c3a-bcb3-4d92-8bd6-7d41459e8036,Forbes Trail Brewing,taproom,6108 Lincoln Hwy,,,Stoystown,Pennsylvania,15563,United States,,http://www.forbestrailbrewing.com,-78.893013,40.084728
+ad02f33d-c7f7-48d6-b744-5a0360960541,Forest & Main Brewery and Pub,brewpub,33 E Butler Ave,,,Ambler,Pennsylvania,19002,United States,2155421776,http://www.forestandmain.com,-75.223038,40.154368
+ed7188bd-df3a-4cd8-b414-65d6d52dd9d0,Forest & Main Brewery and Pub,brewpub,33 E Butler Ave,,,Ambler,Pennsylvania,19002,United States,2155421776,http://www.forestandmain.com,-75.223038,40.154368
+b97bf180-dcbc-43d8-bad9-d211a3634935,Four Fingers Brewing Company,brewpub,4500 Aston Mills Rd,,,Aston,Pennsylvania,19014,United States,6102411212,http://www.fourfingersbeer.com,-75.449744,39.875763
+ee7e112c-d1d7-4538-9fbf-60f5342df401,Four Points Brewing,brewpub,400 Washington Ave,,,Charleroi,Pennsylvania,15022,United States,7245655456,http://www.fourpointsbrewing.com,-79.897781,40.136765
+78166b84-827e-4226-9327-41c9876338dc,Four Seasons Brewing Co,taproom,745 Lloyd Ave Ext,,,Latrobe,Pennsylvania,15650,United States,7245204111,http://www.fsbrewing.com,-79.392923,40.30419
+54f87890-3d6b-4159-a43f-d49e333fb902,Fourscore Beer Co.,brewpub,603 South Washington St.,,,Gettysburg,Pennsylvania,17325-2302,United States,7173458171,http://www.tommyspizzainc.com,-77.233403,39.823094
+ee3fb7c3-e0ae-42cd-9827-1919269583a2,Free Will Brewing Company,micro,410 E Walnut St Ste 10,,,Perkasie,Pennsylvania,18944-1683,United States,2673540813,http://www.freewillbrewing.com,-75.288173,40.364597
+19b8901b-2b3b-4486-bf83-defbdabe4c89,Full Pint Beer,micro,1963 Lincoln Hwy,,,North Versailles,Pennsylvania,15137,United States,,http://www.fullpint.beer,-79.773835,40.364224
 95f1b94c-ab64-44f0-91ed-965dfdbc6f7b,Full Pint Brewing Company,micro,1963 Lincoln Hwy,,,North Versailles,Pennsylvania,15137-2749,United States,4124676414,http://fullpintbrewing.com,-79.8261204,40.385971
-44b5fa92-c766-458c-8f6d-bfa1b69ec2ce,Funk Brewing Company,micro,19 S 6th St,,,Emmaus,Pennsylvania,18049-3741,United States,6104218270,http://www.funkbrewing.com,-75.49501857,40.532105
+ea10afc5-2685-40ca-adc5-b1d4741168a5,Funk Brewing,brewpub,28 S Market St,,,Elizabethtown,Pennsylvania,17022,United States,7173664352,,-76.605881,40.150566
+44b5fa92-c766-458c-8f6d-bfa1b69ec2ce,Funk Brewing Company,taproom,19 S 6th St,,,Emmaus,Pennsylvania,18049-3741,United States,6104218270,http://www.funkbrewing.com,-75.494326,40.533323
 2501d34d-fa74-4dcc-97ae-4a904214b9cd,Fury Brewing Company,micro,13380 US-30,,,Irwin,Pennsylvania,15642,United States,7248265162,http://www.furybrewingcompany.com,-79.7029626,40.3248479
-367a8808-d91e-424b-9e1c-4c8dc1362b81,GearHouse Brewing Company,brewpub,253 Grant St,,,Chambersburg,Pennsylvania,17201-1627,United States,8034226145,http://www.gearhousebrewingco.com,-77.65674215,39.9412218
+367a8808-d91e-424b-9e1c-4c8dc1362b81,GearHouse Brewing Co,brewpub,253 Grant St,,,Chambersburg,Pennsylvania,17201-1627,United States,7175522427,http://www.gearhousebrewingco.com,-77.655655,39.942135
+8d8bd6c6-5d22-4371-b784-e867339994d6,Genova's Italian Restaurant & Brewery,brewpub,2530 W Market St,,,York,Pennsylvania,17404,United States,7177924602,http://www.genovaspizza.com,-76.777849,39.949624
 aada6ced-9b6b-42ea-8de5-86957754813c,Geronimo Brewing Inc,planning,,,,Doylestown,Pennsylvania,18901,United States,,http://www.geronimobrewing.com,,
-827402bd-02f7-4a94-ae11-fd3b0f7534e5,Golden Avalanche Brewing Co,brewpub,272 W Main St,,,Kutztown,Pennsylvania,19530-1604,United States,6106839600,http://www.kutztowntavern.com/GoldenAvalancheBrewery,-75.7780207,40.5164127
+379faa32-3402-44d7-89d7-6aa1126dad94,Geronimo Brewing Inc,brewpub,1 West Court Steet,,,Doylestown,Pennsylvania,18901,United States,,http://www.geronimobrewing.com,-75.130846,40.310989
+27a49d9b-ef3d-4b16-a778-f280992bbf47,Gift Horse Brewing Company,taproom,117 N George St,,,York,Pennsylvania,17401,United States,7178462739,http://www.gifthorsebrewing.com,-76.728388,39.964378
+71b9b668-ea84-451f-b6d8-821f57026066,Golden Age Beer,brewpub,337 E. 8th Avenue,,,Homestead,Pennsylvania,15120,United States,4122053635,http://www.goldenagebeer.com,-79.908278,40.408708
+827402bd-02f7-4a94-ae11-fd3b0f7534e5,Golden Avalanche Brewing Co,brewpub,272 W Main St,,,Kutztown,Pennsylvania,19530-1604,United States,6106839600,http://www.kutztowntavern.com/GoldenAvalancheBrewery,-75.778018,40.516347
+b2aa3b5a-a66a-49eb-adc2-fc392092f0d8,Good Neighbor Craft House,brewpub,9650 Hyner Road,,,North Bend,Pennsylvania,17760,United States,5709237191,http://www.goodneighborcrafthouse.com,-77.6714,41.3789
 c395ff94-7641-4115-804b-5eec844b6fdb,Goose Island Philadelphia,brewpub,1002 Canal St,,,Philadelphia,Pennsylvania,19123,United States,,,-75.13506341,39.9648491
 3eb5427c-533e-4d66-acd1-3f5643020f35,Gravity Ales LLC,planning,,,,Swarthmore,Pennsylvania,19081-1421,United States,6105472235,http://gravityales.com,,
-09762409-cb4e-4a66-bed3-77788daf8a67,Great Barn Brewery,micro,12 W Mechanic St,,,New Hope,Pennsylvania,18938,United States,,http://www.greatbarnbrewery.com,-74.95077675,40.36199585
-7f4e13ac-9368-4324-81ad-ff4dab388ad6,Grist House Craft Brewery,micro,10 Sherman St,,,Pittsburgh,Pennsylvania,15209-2728,United States,4124471442,http://www.gristhouse.com,,
-c29d029c-2d13-472d-a0b4-94cdc96a2f4f,Gunpowder Falls Brewing Co,micro,15556 Elm Dr,,,New Freedom,Pennsylvania,17349-9344,United States,7177590330,http://www.gunpowderfallsbrewing.com,,
-e73fe117-041d-477f-ae73-ad19bf5f2f68,Happy Valley Brewing Company,brewpub,137 Elmwood St,,,State College,Pennsylvania,16801-6851,United States,,,,
+09762409-cb4e-4a66-bed3-77788daf8a67,Great Barn Brewery,taproom,12 W Mechanic St,,,New Hope,Pennsylvania,18938,United States,,http://www.greatbarnbrewery.com,-74.951202,40.362158
+1005dda2-60a7-4440-97f6-497b4a256cca,Grist House Brewing,micro,301 Sgt Messerschmidt Rd,,,Oakdale,Pennsylvania,15071,United States,,,-80.157977,40.397948
+7f4e13ac-9368-4324-81ad-ff4dab388ad6,Grist House Craft Brewery,taproom,10 Sherman St,,,Pittsburgh,Pennsylvania,15209-2728,United States,8145282303,http://www.gristhouse.com,-79.972029,40.478817
+c29d029c-2d13-472d-a0b4-94cdc96a2f4f,Gunpowder Falls Brewing Co,micro,15556 Elm Dr,,,New Freedom,Pennsylvania,17349-9344,United States,7177590330,http://www.gunpowderfallsbrewing.com,-76.660975,39.768264
+b0783340-7f0c-454f-abcd-4a11afab1dcb,Half Barrel Brewing Co,micro,750 Evergreen Rd,,,Lehighton,Pennsylvania,18235,United States,6107039340,,-75.654566,40.862645
+e73fe117-041d-477f-ae73-ad19bf5f2f68,Happy Valley Brewing Company,brewpub,137 Elmwood St,,,State College,Pennsylvania,16801-6851,United States,,,-77.829263,40.810847
+40fb1f06-83d5-45bd-ab36-26f4782493b5,Hares Hill Brewing Company,taproom,1300 Hares Hill Rd,,,Kimberton,Pennsylvania,19442,United States,,http://www.stonehousegrillepa.com,-75.5725,40.1305
 3139597e-7646-47c6-aca5-bc867653e21c,Harty Brewing Company,brewpub,146 Walden Way,,,Mechanicsburg,Pennsylvania,17050-4105,United States,,http://www.hartybrewco.com,,
-d9b61c9d-ec23-4ec7-b549-32cc5d7404a9,Helicon Brewing,micro,102 Union Ave,,,Oakdale,Pennsylvania,15071-1328,United States,7246934204,http://heliconbrewing.com,-80.1847167,40.39628695
-364f045b-2522-4153-a3d7-6edddd1a1e27,Helltown Brewing,micro,13 Henry C Frick St,,,Mount Pleasant,Pennsylvania,15666-1343,United States,7245424339,http://www.helltownbrewing.com,,
+6ed8b0cd-cbb4-453b-978e-bf94603d3719,Hawk Mountain Brewery,micro,6131 Werleys Corner Road,,,New Tripoli,Pennsylvania,18066,United States,4848853609,http://www.hawkMountainBrewery.com,-75.690345,40.680674
+caafac8c-fe09-4c0f-864d-f9c5418561c3,Headley's Brewing Company,taproom,1743 E Railroad St,,,Carnegie,Pennsylvania,15106,United States,4128974936,http://www.headleysbrewing.com,-80.087658,40.390551
+565eac5f-99d1-453a-b708-586e985a00d9,Hegins Valley Brewing,micro,1395 E Main St,,,Hegins,Pennsylvania,17938,United States,5705545402,,-76.45425,40.652672
+d9b61c9d-ec23-4ec7-b549-32cc5d7404a9,Helicon Brewing,taproom,102 Union Ave,,,Oakdale,Pennsylvania,15071-1328,United States,7246934204,http://heliconbrewing.com,-80.184959,40.396586
+ffb2d3ea-27b2-4e1e-9d0e-560b9a7ae91b,Hell In A Bucket Brewing,taproom,338 S Front St,,,Wrightsville,Pennsylvania,17368,United States,7172526868,http://www.hellinabucketbrewing.com,-76.526555,40.023341
+364f045b-2522-4153-a3d7-6edddd1a1e27,Helltown Brewing,micro,13 Henry C Frick Street,,,Mount Pleasant,Pennsylvania,15666,United States,7245198354,http://www.helltownbrewing.com,-79.531156,40.15061
+ff7909f6-e609-4a52-9af9-b13bec1fcaaa,Helltown Brewing,micro,5578 Old William Penn Hwy,,,Export,Pennsylvania,15632,United States,,,-79.635038,40.421369
+ae832dcb-08cb-4d32-9bd4-2fa193964c71,Helltown Brewing,micro,5578 Old William Penn Hwy,,,Export,Pennsylvania,15632,United States,,,-79.635038,40.421369
+ad3f46fa-cd14-4a23-9fd0-f5541bc5d0c7,Hemauer Brewing Company,micro,465 Cabin Hollow Rd,,,Dillsburg,Pennsylvania,17019,United States,9209120909,http://www.hemauerbrewingco.com,-77.009716,40.078163
 294a7249-ef76-40dd-828a-67bcd3aea6b7,Here and Now Brewing Co,brewpub,645 Main St,,,Honesdale,Pennsylvania,18431-1842,United States,5702530700,http://hereandnowbrewing.com,-75.25482301,41.5713476
-b7cbad5a-14c1-4a1a-baf5-4ac51b372dda,Hidden River Brewing Co,brewpub,1808 W Schuylkill Rd,,,Douglassville,Pennsylvania,19518-9101,United States,4842732266,http://hiddenriverbrewing.com,,
+203c4755-c2d4-449d-96db-8aea3172ae4b,Here and Now Brewing Company,brewpub,645 Main Street,,,Honesdale,Pennsylvania,18431,United States,5702530700,http://hereandnowbrewing.com,-75.254902,41.571387
+0591180a-1544-478f-885a-d893e8752123,Hidden Key Brewing Co.,taproom,101 West Baltimore Street,,,Greencastle,Pennsylvania,17225,United States,7178953816,http://www.hiddenkeybrewingco.com,-77.729567,39.790878
+b7cbad5a-14c1-4a1a-baf5-4ac51b372dda,Hidden River Brewing Company,brewpub,1808 W Schuylkill Rd,,,Douglassville,Pennsylvania,19518-9101,United States,4844784429,http://www.hiddenriverbrewing.com,-75.720902,40.247691
 a55e613d-e948-47ec-a5d7-a789d015c50b,Hidden Stories Brewing Company,planning,,,,Millerstown,Pennsylvania,17062-8474,United States,6465524847,,,
-b8e3cfd1-8c13-47c4-b0b5-a069b9cb71a7,Highway Manor Brewing Co,micro,2238 Gettysburg Rd,,,Camp Hill,Pennsylvania,17011-7301,United States,7177430613,http://www.HighwayManorBrewing.com,,
-ce4f6c7d-bfe5-4838-89ce-9d56d2d488fc,HiJinx Brewing Co,micro,905 Harrison St,,,Allentown,Pennsylvania,18103-3188,United States,,,-75.47453708,40.59343618
+379d2ddf-7353-4bd4-bf3d-ff3a694edcea,High Road Brewing Company,taproom,146 Walden Way,,,Mechanicsburg,Pennsylvania,17050,United States,,,-77.019429,40.237638
+b8e3cfd1-8c13-47c4-b0b5-a069b9cb71a7,Highway Manor Brewing Co,micro,2238 Gettysburg Rd,,,Camp Hill,Pennsylvania,17011-7301,United States,7177430613,http://www.HighwayManorBrewing.com,-76.920338,40.230176
+ce4f6c7d-bfe5-4838-89ce-9d56d2d488fc,HiJinx Brewing Company,taproom,905 Harrison St,,,Allentown,Pennsylvania,18103-3188,United States,4847140080,http://http://www.hijinxbrewing.com,-75.473005,40.593758
 86590a44-6260-4fc2-a71f-98f52356bc20,Hitchhiker Brewing Co.,brewpub,190 Castle Shannon Blvd,,,Pittsburgh,Pennsylvania,15228-2267,United States,4123431950,http://www.hitchhikerbrewing.com,,
-94f254df-d789-477b-8717-ad89789b9504,Hofbrauhaus Pittsburgh,brewpub,2705 S Water St,,,Pittsburgh,Pennsylvania,15203,United States,4122242328,http://www.hofbrauhauspittsburgh.com,-79.9639442,40.4279919
+94f254df-d789-477b-8717-ad89789b9504,Hofbrauhaus Pittsburgh,brewpub,2705 S Water St,,,Pittsburgh,Pennsylvania,15203,United States,4122242328,http://www.hofbrauhauspittsburgh.com,-79.964493,40.428776
 1672483e-ca23-4461-b630-3a5bafbb193d,Hollow Earth Brewing Co,brewpub,19 N 3rd St,,,Oxford,Pennsylvania,19363-1423,United States,6107323959,http://www.HollowEarthBrewing.com,-75.97857656,39.78586182
 d249f969-0851-4831-9ae9-b7bbb8849da7,Home Brewing Co Of Pennsylvania,planning,,,,Conneaut Lake,Pennsylvania,16316,United States,4128603015,,,
-585ef4d8-012b-40ce-b5a9-b1573984d629,Hop Farm Brewing Co,micro,5601 Butler St,,,Pittsburgh,Pennsylvania,15201-2326,United States,,,-79.9224894,40.4884044
-f19a1d1c-5c2b-4da1-91c4-7a5a3a816e9f,Hop Hill Brewing Company,micro,1988 Blair Ave,,,Bethlehem,Pennsylvania,18015-5307,United States,4848930767,http://www.hophillbeer.com,,
+c841a22c-1281-48bf-b66a-3654ff3ac755,Home Brewing Co Of Pennsylvania,taproom,115 S 1st St,,,Conneaut Lake,Pennsylvania,16316,United States,,,-80.301534,41.602825
+1b95a171-54e4-4aaa-8330-b7b7a451b171,Hop Asylum Brewing,brewpub,138 S Market St,,,New Wilmington,Pennsylvania,16142,United States,,,-80.333486,41.121602
+585ef4d8-012b-40ce-b5a9-b1573984d629,Hop Farm Brewing Company,brewpub,5601 Butler St,,,Pittsburgh,Pennsylvania,15201-2326,United States,4124083248,,-79.947963,40.484698
+f19a1d1c-5c2b-4da1-91c4-7a5a3a816e9f,Hop Hill Brewing Company,taproom,1988 Blair Ave,,,Bethlehem,Pennsylvania,18015-5307,United States,4848930767,http://www.hophillbeer.com,-75.389919,40.57839
+32a769ed-6909-46f1-8ba4-43c67ed639c7,Howling Henry's Brewery,micro,119 N Duke St,,,Hummelstown,Pennsylvania,17036,United States,,http://www.howlinghenrysbrewery.com,-76.716895,40.266359
+b7d7b2ca-68e5-4043-babb-30e3b9d9c566,Human Robot,brewpub,1710 N. 5th St.,,,Philadelphia,Pennsylvania,19122,United States,2159784000,http://www.humanrobotbeer.com,-75.143646,39.977152
+d510782a-9bba-4c59-b3d0-af066173597a,Human Robot Jenkintown,brewpub,208 York Rd,,,Jenkintown,Pennsylvania,19046,United States,2159784000,,-75.125362,40.094414
+16fb3e06-0d32-4e5f-ad2f-2e84584742f4,Humble Parlor Brewing Co,taproom,3237 Amber St,,,Philadelphia,Pennsylvania,19134,United States,,http://www.humbleparlorbrewing.com,-75.108979,39.992566
 1cf4be70-96b7-4c19-962a-917e758a2343,Imperium Brewing,planning,,,,Hickory,Pennsylvania,15340-1135,United States,4129991077,http://imperiumbrewing.com,,
-2913aacb-935e-49a5-94cc-8bfa9121e015,Imprint Beer Company,micro,1500 Industry Rd Ste O,,,Hatfield,Pennsylvania,19440-3271,United States,2676403004,http://www.imprintbeer.com,,
-9131dabf-d066-425f-bd88-cb0c3a26952b,Insurrection Aleworks,micro,1635 E Railroad St,,,Heidelberg,Pennsylvania,15106-4026,United States,4122762030,http://insurrectionaleworks.com,-80.08755441,40.39264014
+2913aacb-935e-49a5-94cc-8bfa9121e015,Imprint Beer Company,taproom,1500 Industry Rd Ste O,,,Hatfield,Pennsylvania,19440-3271,United States,2676403004,http://www.imprintbeer.com,-75.283883,40.264189
+5d8626f7-b10e-4e07-bf03-8e1ecc0c2c05,Inner Groove Brewing,taproom,751 E Railroad St,,,Verona,Pennsylvania,15147,United States,4128281351,http://www.innergroovebrewing.com,-79.8438,40.506289
+9131dabf-d066-425f-bd88-cb0c3a26952b,Insurrection Aleworks,brewpub,1635 E Railroad St,,,Heidelberg,Pennsylvania,15106-4026,United States,4122762030,http://insurrectionaleworks.com,-80.087401,40.39245
 f560d7a7-7367-4aa8-a0ed-61e52bb081c9,Intercourse Brewing Co,contract,4166 Ironbridge Dr,,,Collegeville,Pennsylvania,19426-1188,United States,6108129426,http://www.intercoursebrewingco.com,,
+4e515336-d1dd-44de-8ef5-eed80a927df2,Invisible Man Brewing,taproom,132 S Pennsylvania Ave,,,Greensburg,Pennsylvania,15601,United States,7243664040,,-79.545208,40.301561
 742eda93-f91a-4b97-b6f6-b5192b2445de,Iron Hart,brewpub,49 N Church St,,,Carbondale,Pennsylvania,18407-1904,United States,5702802739,http://www.3guysandabeerd.com,-75.50001,41.573825
-12ed139d-06c2-4f93-9491-b798f22b1d9f,Iron Hill Brewery & Restaurant - Chestnut Hill,brewpub,8400 Germantown Ave,,,Philadelphia,Pennsylvania,19118-3328,United States,2159485600,http://www.ironhillbrewery.com,-75.205095,40.075132
-77032466-4be5-4202-8609-43c95ebe6a47,Iron Hill Brewery & Restaurant - Huntingdon Valley,brewpub,785 Huntingdon Pike,,,Huntingdon Valley,Pennsylvania,19006-8362,United States,,http://www.ironhillbrewery.com,-75.0674691,40.1192109
-bff3cd82-4867-4d0b-8bea-120e70de2ab0,Iron Hill Brewery & Restaurant - Lancaster,brewpub,781 Harrisburg Pike,,,Lancaster,Pennsylvania,17603-2655,United States,7172919800,http://www.ironhillbrewery.com,-76.3188136,40.0506816
-08af2081-845a-474e-9f80-efbb605e209c,Iron Hill Brewery & Restaurant - Media,brewpub,30 E State Street,,,Media,Pennsylvania,19063-2904,United States,6106279000,http://www.ironhillbrewery.com,-75.38831847,39.9174642
-aeb41458-0b55-4613-9b03-99fc0306f3a5,Iron Hill Brewery & Restaurant - North Wales,brewpub,1460 Bethlehem Pike,,,North Wales,Pennsylvania,19454-2159,United States,2677082000,http://www.ironhillbrewery.com,,
-672b0dd0-5267-4c96-802a-1285bfaa186c,Iron Hill Brewery & Restaurant - Phoenixville,brewpub,130 Bridge St,,,Phoenixville,Pennsylvania,19460-3448,United States,6109839333,http://www.ironhillbrewery.com,-75.51335,40.13418
-cc272e55-527c-4099-9b39-0f9f849612d8,Iron Hill Brewery & Restaurant - West Chester,brewpub,3 West Gay St,,,West Chester,Pennsylvania,19380-3010,United States,6107389600,http://www.ironhillbrewery.com,-75.60564101,39.96059635
-9b34bbbe-c448-442e-87ab-03d22245426a,Iron Hill Brewery & Restaurant (Ardmore),brewpub,60 Greenfield Ave,,,Ardmore,Pennsylvania,19003-1204,United States,3028882739,http://www.ironhillbrewery.com,-75.29755364,40.00854097
-77100b94-fd5e-42fb-ac9f-d256817f1e16,Irving Cliff Brewery,brewpub,2 Chapel St,,,Honesdale,Pennsylvania,18431-2094,United States,5706470644,http://www.irvingcliffbrewery.com,-75.257181,41.574806
-b1351021-a901-4b9c-be60-a691bf42b730,Jam Room Brewing Co,micro,875 Main St,,,Newfoundland,Pennsylvania,18445-5210,United States,5702526122,http://www.jamroombrewing.net,-75.32415972,41.3014372
-1fa23fcf-4e52-4d0d-a7a7-9719fd1a2058,Jigsy's Brewpub & Restaurant,brewpub,225 N Enola Rd,,,Enola,Pennsylvania,17025-2414,United States,7177327708,http://www.jigsyspizza.com,,
+13a8a2b3-2b70-431d-8c64-b7055dff49d7,Iron Hart,brewpub,26 Franklin Valley Road,,,Dalton,Pennsylvania,18414,United States,5702802739,http://www.3guysandabeerd.com,-75.659539,41.576596
+56ac6a0c-bc90-4a1d-a662-560f5502dae3,Iron Hill Brewery,brewpub,260 Eagleview Blvd,,,Exton,Pennsylvania,19341,United States,3028882739,http://www.ironhillbrewery.com,-75.666565,40.056819
+9b34bbbe-c448-442e-87ab-03d22245426a,Iron Hill Brewery & Restaurant - Ardmore,brewpub,60 Greenfield Ave,,,Ardmore,Pennsylvania,19003-1204,United States,3028882739,http://www.ironhillbrewery.com,-75.297675,40.008544
+1ad769d0-e079-4fd1-a2ef-2058d8677b6a,Iron Hill Brewery & Restaurant - Center City,brewpub,1150 Market St,,,Philadelphia,Pennsylvania,19107,United States,3028882739,http://www.ironhillbrewery.com,-75.159396,39.951709
+12ed139d-06c2-4f93-9491-b798f22b1d9f,Iron Hill Brewery & Restaurant - Chestnut Hill,brewpub,8400 Germantown Ave,,,Philadelphia,Pennsylvania,19118-3328,United States,3028882739,http://www.ironhillbrewery.com,-75.205875,40.074996
+5281cf13-a744-4f23-9374-15bfe35903d7,Iron Hill Brewery & Restaurant - Hershey,brewpub,101 W Chocolate Ave,,,Hershey,Pennsylvania,17033,United States,3028882739,http://www.ironhillbrewery.com,-76.651306,40.285418
+77032466-4be5-4202-8609-43c95ebe6a47,Iron Hill Brewery & Restaurant - Huntingdon Valley,brewpub,785 Huntingdon Pike,,,Huntingdon Valley,Pennsylvania,19006-8362,United States,3028882739,http://www.ironhillbrewery.com,-75.0936,40.088092
+bff3cd82-4867-4d0b-8bea-120e70de2ab0,Iron Hill Brewery & Restaurant - Lancaster,brewpub,781 Harrisburg Pike,,,Lancaster,Pennsylvania,17603-2655,United States,3028882739,http://www.ironhillbrewery.com,-76.319381,40.050885
+08af2081-845a-474e-9f80-efbb605e209c,Iron Hill Brewery & Restaurant - Media,brewpub,30 E State Street,,,Media,Pennsylvania,19063-2904,United States,3028882739,http://www.ironhillbrewery.com,-75.388306,39.917496
+b01ee433-c1c1-4ae0-b65a-cb8de2b98c57,Iron Hill Brewery & Restaurant - Newtown,brewpub,2920 S. Eagle Road,,,Newtown,Pennsylvania,18940,United States,3028882739,http://www.ironhillbrewery.com,-74.942018,40.235764
+aeb41458-0b55-4613-9b03-99fc0306f3a5,Iron Hill Brewery & Restaurant - North Wales,brewpub,1460 Bethlehem Pike,,,North Wales,Pennsylvania,19454-2159,United States,3028882739,http://www.ironhillbrewery.com,-75.223359,40.208866
+672b0dd0-5267-4c96-802a-1285bfaa186c,Iron Hill Brewery & Restaurant - Phoenixville,brewpub,130 Bridge St,,,Phoenixville,Pennsylvania,19460-3448,United States,3028882739,http://www.ironhillbrewery.com,-75.513762,40.133978
+cc272e55-527c-4099-9b39-0f9f849612d8,Iron Hill Brewery & Restaurant - West Chester,brewpub,3 West Gay St,,,West Chester,Pennsylvania,19380-3010,United States,3028882739,http://www.ironhillbrewery.com,-75.605476,39.960527
+428204db-eda1-4425-bbbc-d68e915a71ba,Iron Hill Brewery and Taphouse - Exton,micro,260 Eagleview Blvd,,,Exton,Pennsylvania,19341,United States,3028882739,http://www.ironhillbrewery.com,-75.666565,40.056819
+aae09097-5d1c-4fab-b8c5-8fddc6b80a80,Iron Pint Brewing,taproom,601 7th Ave,,,Altoona,Pennsylvania,16602,United States,,,-78.39214,40.517844
+3737d5a1-d2e6-48c7-abeb-24ae2a2b422c,Iron Tracks Brewing Company,brewpub,1260 E Main St,,,Susquehanna,Pennsylvania,18847,United States,5708534644,http://www.ironhorsebrew.com,-75.604138,41.945654
+77100b94-fd5e-42fb-ac9f-d256817f1e16,Irving Cliff Brewery,brewpub,2 Chapel St,,,Honesdale,Pennsylvania,18431-2094,United States,5706470644,http://www.irvingcliffbrewery.com,-75.258111,41.574702
+f0d392c9-919c-4dec-83f8-820ae5e0286a,Isaac's Brewhouse,brewpub,25 N Queen St,,,Lancaster,Pennsylvania,17603,United States,,http://www.isaacsrestaurants.com/brewhouse,-76.305139,40.038549
+bce35dfa-4d74-47ef-98ed-0906fc76ea8f,Isle Of Que Brewing Company,taproom,6 University Ave,,,Selinsgrove,Pennsylvania,17870,United States,5708099350,http://www.quebrew.com,-76.862594,40.798642
+f7f4b836-d6fd-4d80-9b6d-5fea5d0e0cf2,J.J. Ratigan Brewing Company,taproom,227 E High ST,,,Pottstown,Pennsylvania,19464,United States,4845248391,,-75.649336,40.245868
+e2e4685a-661a-44ab-9965-e09fba5cd7a3,JackAss Brewing Company,brewpub,2268 Old Turnpike Road,,,Lewisburg,Pennsylvania,17837,United States,5702745333,,-76.911571,40.957189
+b1351021-a901-4b9c-be60-a691bf42b730,Jam Room Brewing Co,taproom,875 Main St,,,Newfoundland,Pennsylvania,18445,United States,5702526122,http://www.jamroombrewingco.wixsite.com/website,-75.326067,41.302522
+1fa23fcf-4e52-4d0d-a7a7-9719fd1a2058,Jigsy's Brewpub & Restaurant,brewpub,225 N Enola Rd,,,Enola,Pennsylvania,17025-2414,United States,7177327708,http://www.jigsyspizza.com,-76.930178,40.294953
+4b8734d3-e949-47d2-9e2f-b44befebd0fe,Jim Thorpe Brewing Company,micro,113 Danner Road,,,Jim Thorpe,Pennsylvania,18229,United States,5707787293,,-75.638465,40.96575
 a0f8c970-e9d7-4844-83d1-8ce99ee4b9d3,JoBoy's Brew Pub,brewpub,27 E Main St,,,Lititz,Pennsylvania,17543-1926,United States,7175688330,http://www.joboysbrewpub.com,-76.3061545,40.1571224
+0dc5682a-0dbf-4b77-b5f6-bab1204a8984,John Russell Brewing Co,brewpub,7520 Peach St,,,Erie,Pennsylvania,16509,United States,8148662337,http://www.johnrussellbrewingcompany.com,-80.085039,42.051872
+da68ac66-5962-4132-bc6d-70e688c9b657,John Ryan Brewery,brewpub,151 E 3rd St,,,Williamsport,Pennsylvania,17701,United States,,http://www.johnryanbrewery.com,-76.998704,41.242691
 c7e84585-1dd0-4edb-86e9-283a6afd12ff,Jones Brewing Co,contract,254 Second Street,,,Smithton,Pennsylvania,15479-0746,United States,,http://www.stoneysbeer.com,,
+ab2b413e-4775-4d99-bb75-32699661f7a9,Juniata Brewing Company,taproom,1102 Susquehanna Ave,,,Huntingdon,Pennsylvania,16652-1942,United States,8146447553,,-78.018609,40.49043
 9b79a515-29de-4d79-a0a7-ff48563be76a,Kegg Brewing Company,micro,117 Faust Ln,,,Champion,Pennsylvania,15622-2107,United States,7249722350,,,
-7cbb7b60-b351-43c0-af7a-f5c7555992ad,Kennett Brewing Company,brewpub,109 S Broad St Ste 2,,,Kennett Square,Pennsylvania,19348-3101,United States,6104440440,http://www.kennettbrewingcompany.com,,
+7cbb7b60-b351-43c0-af7a-f5c7555992ad,Kennett Brewing Company,brewpub,109 S Broad St Ste 2,,,Kennett Square,Pennsylvania,19348-3101,United States,6104440440,http://www.kennettbrewingcompany.com,-75.709894,39.84669
 e421437b-f78e-463b-8e75-760210be1021,Kensington Barrel Project,planning,,,,Philadelphia,Pennsylvania,19134,United States,16199488705,http://www.kensingtonbarrelproject.com,,
 937fd8a2-c9ca-4112-b9c3-09586ea57408,KNURD Brewing Co,planning,,,,Oakmont,Pennsylvania,15139-2171,United States,3045509439,http://www.knurdbrewing.com,,
-0fc75aed-9415-4b33-a7aa-2529e5f092a6,Koehler Brewing Co,micro,231 Park St,,,Grove City,Pennsylvania,16127-2011,United States,8335634537,http://koehlerbrewingcompany.com,-80.08130057,41.16044545
-2b1c6d10-8c88-4dbd-ac42-91b79373b6fb,La Cabra Brewing,brewpub,642 Lancaster Ave,,,Berwyn,Pennsylvania,19312-1663,United States,6102407908,http://www.lacabrabrewing.com,,
-8e0083cf-6e94-4d89-81ab-0c3ec0dfd83c,Lancaster Brewing Co,micro,302 N Plum St # 304,,,Lancaster,Pennsylvania,17602-2402,United States,7173916258,http://www.lancasterbrewing.com,-76.29853301,40.0438635
-f8b827e6-e5f7-4a49-b8bf-f07450505cff,Laurel Highlands Brewing,micro,21 Enamel St,,,Uniontown,Pennsylvania,15401-,United States,7248805497,http://www.laurelhighlandsbrewing.com,-79.71813225,39.91008063
-602ed446-ac06-416d-bd88-ab80e8e95bec,Lavery Brewing Co,micro,128 W 12th St,,,Erie,Pennsylvania,16501-1750,United States,8144540405,http://www.laverybrewing.com,-80.1219366,42.108963
-10c141e1-c097-46a5-afa6-a59e62db219d,Leaning Cask Brewing Co,micro,850 Pittsburgh St,,,Springdale,Pennsylvania,15144-1623,United States,7247157539,http://www.leaningcaskbrewing.com,-79.77844044,40.54126655
+0fc75aed-9415-4b33-a7aa-2529e5f092a6,Koehler Brewing Co,micro,231 Park St,,,Grove City,Pennsylvania,16127-2011,United States,8335634537,http://koehlerbrewingcompany.com,-80.081978,41.160535
+e5a94fb8-d5b3-4d54-9e6f-391524e45861,Koehler Brewing Co,taproom,130 Wampum Ave,,,Ellwood City,Pennsylvania,16117,United States,8335634537,http://www.koehlerbrewingcompany.com,-80.280314,40.86645
+2b1c6d10-8c88-4dbd-ac42-91b79373b6fb,La Cabra Brewing,brewpub,642 Lancaster Ave,,,Berwyn,Pennsylvania,19312-1663,United States,6102407908,http://www.lacabrabrewing.com,-75.44152,40.047631
+a9c846d8-9d7c-49bb-9d2d-6d7e9d3bba1b,Lake Hill Brewing,taproom,322 Stoneboro Lateral Rd,,,Stoneboro,Pennsylvania,16153,United States,7249743347,,-80.119092,41.353702
+8e0083cf-6e94-4d89-81ab-0c3ec0dfd83c,Lancaster Brewing Co,micro,302 N Plum St # 304,,,Lancaster,Pennsylvania,17602-2402,United States,7173916258,http://www.lancasterbrewing.com,-76.298378,40.043813
+479f761d-e922-438a-9ed7-5a60f856f795,Langhorne Brewing Co,brewpub,1558 W Maple Ave,,,Langhorne,Pennsylvania,19047-2048,United States,2676890045,http://www.thelanghornebrewingco.com,-74.948535,40.174546
+ae96e9ad-55bd-4a0c-9af9-1da8333878b9,Last Minute Brewing,taproom,320 wemberly hill rd,,,Scott Township,Pennsylvania,18447,United States,5704990512,,-75.631057,41.535886
+f8b827e6-e5f7-4a49-b8bf-f07450505cff,Laurel Highlands Brewing,micro,22 Enamel St,,,Uniontown,Pennsylvania,15401,United States,7248805497,http://www.laurelhighlandsbrewing.com,-79.719152,39.910228
+3418c88a-5d77-4a06-a1cb-5945019e690d,Laurel Highlands Brewing,micro,22 Enamel St,,,Uniontown,Pennsylvania,15401,United States,7248805497,http://www.laurelhighlandsbrewing.com,-79.719152,39.910228
+602ed446-ac06-416d-bd88-ab80e8e95bec,Lavery Brewing Co,brewpub,128 W 12th St,,,Erie,Pennsylvania,16501-1750,United States,8144540405,http://www.laverybrewing.com,-80.083934,42.122901
 4f134c49-b755-42d5-ab99-0f091ee345d9,Lebanon Valley Craft Brewery,planning,,,,Lebanon,Pennsylvania,17046,United States,5134048600,,,
-3e578a77-9a52-44ae-ba8a-fd77bfa30ab3,Levante Brewing Company,micro,208 Carter Dr Ste 2,,,West Chester,Pennsylvania,19382-4500,United States,4849998761,http://levantebrewing.com,,
-8fb9e997-a02c-4def-82cd-293821f252d9,Levity Brewing Co,brewpub,1380 Wayne Ave Ste A,,,Indiana,Pennsylvania,15701-3544,United States,,,,
+6585e5dd-ebc9-4573-92af-b9e6d997e0a5,Lebanon Valley Craft Brewery,micro,840 N 7th St,,,Lebanon,Pennsylvania,17046,United States,5134048600,http://www.lvcraftbrew.com,-76.42428,40.352388
+c5aa32df-6065-405d-b73f-e4c2e55a6b76,Leo Brewing/ Public House At The Markets,brewpub,1649 Broadway,,,Hanover,Pennsylvania,17331,United States,7176594293,http://www.redlionalesmiths.com,-76.971624,39.83187
+3e578a77-9a52-44ae-ba8a-fd77bfa30ab3,Levante Brewing Company,micro,208 Carter Dr Ste 2,,,West Chester,Pennsylvania,19382-4500,United States,6105052217,http://levantebrewing.com,-75.588663,39.950064
+8fb9e997-a02c-4def-82cd-293821f252d9,Levity Brewing Co,brewpub,1380 Wayne Ave Ste A,,,Indiana,Pennsylvania,15701-3544,United States,7248407611,http://www.levitybrewing.com,-79.162347,40.595565
 25d09c9b-2aad-4f30-94ca-8d84ffddd93b,Lincoln Avenue Brewery,planning,,,,Pittsburgh,Pennsylvania,15202,United States,4124274078,,,
 cc7202c8-310e-4f38-962f-4eeff8179b56,Lindgren Craft Brewery,planning,,,,Duncannon,Pennsylvania,17020,United States,7175147884,,,
+94b86e82-d036-496a-af78-2daae2fbdb1f,Lindgren Craft Brewery,micro,315 Faculty Road,,,Duncannon,Pennsylvania,17020,United States,7175147884,http://www.lindgrenbrewery.com,-77.070682,40.390551
 e58c2377-08e3-44e0-828c-1fb5ac0535c0,Links Brewing Company,planning,,,,Pittsburgh,Pennsylvania,15212,United States,4123239774,,,
-085c4b9a-9c7c-433e-ad8e-1160d002f847,"Lion Brewery Inc, The",regional,700 N Pennsylvania Ave,,,Wilkes Barre,Pennsylvania,18705-2451,United States,5708238801,http://www.lionbrewery.com,-75.859363,41.254896
-d336c30e-a177-4953-8c13-057728e1ed00,Liquid Hero Brewery,micro,50 E North St,,,York,Pennsylvania,17401-2421,United States,7178149250,http://www.liquidhero.com,-76.74375254,39.95854203
-dc51c4f8-e09f-42af-8f4a-a8b10d3d49fc,Locust Lane Craft Brewery,micro,50 Three Tun Rd Ste 4,,,Malvern,Pennsylvania,19355-3988,United States,4843244141,http://www.locustlanecraftbrewery.com,,
-a8527951-694e-41c9-9220-1be979f834f7,Lost Tavern Brewing,micro,782 Main St,,,Hellertown,Pennsylvania,18055-1540,United States,4848513980,http://www.losttavernbrewing.com,-75.3411606,40.5809687
+085c4b9a-9c7c-433e-ad8e-1160d002f847,"Lion Brewery Inc, The",regional,700 N Pennsylvania Ave,,,Wilkes Barre,Pennsylvania,18705-2451,United States,5708238801,http://www.lionbrewery.com,-75.85646,41.255628
+d336c30e-a177-4953-8c13-057728e1ed00,Liquid Hero Brewery,taproom,50 E North St,,,York,Pennsylvania,17401-2421,United States,7178149250,http://www.liquidhero.com,-76.728523,39.966673
+dc51c4f8-e09f-42af-8f4a-a8b10d3d49fc,Locust Lane Craft Brewery,brewpub,50 Three Tun Rd Ste 4,,,Malvern,Pennsylvania,19355-3988,United States,4843244141,http://www.locustlanecraftbrewery.com,-75.55181,40.036836
+976d8eb6-f9e3-4290-b034-b0e6eaceb822,Log Tavern Brewing,taproom,309 E Harford St Bldg 2,,,Milford,Pennsylvania,18337,United States,,http://www.logtavernbrewing.com,-74.800131,41.318914
+aa9b841d-af29-44bc-9b62-0f851c5d0bf2,Logyard Brewing,micro,20 Wetmore Avenue,,,Kane,Pennsylvania,16735,United States,8147576070,http://www.logyardbrewing.com,-78.811531,41.662922
+a43aa040-5881-4832-aec2-1774a67e54af,Lolev LLC,taproom,5247 Butler Street,,,Pittsburgh,Pennsylvania,15201,United States,,http://lolev.beer,-79.953839,40.481615
+4f1592c5-d23b-404b-82dd-b5f817992aba,Lost In the Wilds Brewing,taproom,21964 Rt 66,,,Shippenville,Pennsylvania,16254,United States,8142278976,,-79.41946,41.246364
+9f99d228-b608-4f29-aaea-769144decae2,Lost Mined Brewing Company,brewpub,100 S Market St,,,Shamokin,Pennsylvania,17872,United States,5706481191,http://www.lostmined.com,-76.558861,40.786445
+a8527951-694e-41c9-9220-1be979f834f7,Lost Tavern Brewing,taproom,782 Main St,,,Hellertown,Pennsylvania,18055-1540,United States,4848513980,http://www.losttavernbrewing.com,-75.341293,40.580925
 54a64949-a029-4330-89ea-bf17eb7561bb,Loud Brewing Company,planning,,,,Duncannon,Pennsylvania,17020-1201,United States,7173190021,,,
-c9ace846-b6fe-46b2-beca-46f8e081548a,Love City Brewing Company,micro,1016 Buttonwood St,,,Philadelphia,Pennsylvania,19123-3703,United States,,http://www.lovecitybrewing.com,-75.15509414,39.96067782
+c9ace846-b6fe-46b2-beca-46f8e081548a,Love City Brewing Company,micro,1016 Buttonwood St,,,Philadelphia,Pennsylvania,19123-3703,United States,2153981900,http://www.lovecitybrewing.com,-75.155536,39.960493
+e6936474-4a51-4863-8594-f2a33ba07831,Lovedraft's Brewing Co,brewpub,165 Gateway Dr,,,Mechanicsburg,Pennsylvania,17050,United States,7176103331,http://www.ovedraftsbrewing.com,-76.982034,40.238057
 33228a1a-cbb2-4251-8d61-adae85bf78c4,Lydian Stone Brewery,micro,685 York Haven Rd,,,York Haven,Pennsylvania,17370-9006,United States,7173846055,http://www.lydianstonebrewing.com,-76.7157289,40.0944263
+e8f1841b-4577-4a02-b83b-628740718710,Lydian Stone Brewing Company,taproom,685 York Haven Road,,,York Haven,Pennsylvania,17370,United States,7173846055,,-76.735661,40.116068
 2db77c0b-76d8-45df-a47a-283d53b171b8,Mad Chef Craft Brewing,brewpub,2023 Miller Rd,,,East Petersburg,Pennsylvania,17520-1624,United States,7172836469,http://www.madchefcraftbrewing.com,-76.3496026,40.09366985
-4c4398d4-5560-4248-ab68-eae17056697c,Mad Princes Brewing,micro,2537 Bogarts Tavern Rd,,,Buckingham,Pennsylvania,18902,United States,2676146104,,-75.0613301,40.32438895
+4c4398d4-5560-4248-ab68-eae17056697c,Mad Princes Brewing,taproom,2537 Bogarts Tavern Rd,,,Buckingham,Pennsylvania,18902,United States,2676146104,http://www.madprincesbrewing.com,-75.061278,40.324313
 7308bfec-4104-467a-8aa7-59f11fec31e3,Mad-K Brewery,micro,298 Mountain Top Rd,,,Howard,Pennsylvania,16841-2627,United States,5702951842,http://www.mad-kbrews.com,,
+e06ee921-f87e-4ede-8e59-bd61d3c5b605,Mainstay Independent Brewing Co.,micro,901 N Delaware Ave.,,,Philadelphia,Pennsylvania,19123,United States,2154223561,http://www.mainstaybrewing.com,-75.135527,39.962762
+0aa655e0-1de8-49de-85d9-79b5dc56e194,Manatawny Creek Brewery,taproom,271 Levengood Rd,,,Douglassville,Pennsylvania,19518,United States,6106899804,http://www.manatawnycreekwinery.com,-75.715771,40.298289
 38040138-55a0-4f87-9601-0a5744186600,Manayunk Brewing Co & Restaurant,brewpub,4120 Main St,,,Philadelphia,Pennsylvania,19127-1618,United States,2154828220,http://www.manayunkbrewery.com,-75.2189308,40.0223235
-c87c9776-065c-4ce0-8042-9113c7995915,Market Cross Pub & Brewery,micro,113 N Hanover St,,,Carlisle,Pennsylvania,17013-2422,United States,7172581234,http://www.marketcrosspub.com,-77.18872886,40.20335743
-e8c1c4c5-6835-418a-af97-d85a7e73335f,Marley's Brewery,brewpub,1323 Columbia Blvd,,,Bloomsburg,Pennsylvania,17815-8860,United States,5707849600,http://www.marleysbrewery.com,-76.4477386,41.0013964
-d73817c1-57a4-403a-89d4-00533aecf05d,Marzoni's Brick Oven and Brewery,brewpub,165 Patch Way Rd,,,Duncansville,Pennsylvania,16635-8431,United States,8146951300,http://www.marzonis.com,,
+c87c9776-065c-4ce0-8042-9113c7995915,Market Cross Pub & Brewery,brewpub,113 N Hanover St,,,Carlisle,Pennsylvania,17013-2422,United States,7172581234,http://www.marketcrosspub.com,-77.188477,40.203379
+e8c1c4c5-6835-418a-af97-d85a7e73335f,Marley's Brewery,brewpub,1323 Columbia Blvd,,,Bloomsburg,Pennsylvania,17815-8860,United States,5707849600,http://www.marleysbrewery.com,-76.428753,41.007096
+d73817c1-57a4-403a-89d4-00533aecf05d,Marzoni's Brick Oven and Brewery,brewpub,164 Patch Way Rd,,,Duncansville,Pennsylvania,16635-8431,United States,8146951300,http://www.marzonis.com,-78.414201,40.431282
+26cf82dc-5fa5-46d0-a109-538c39cb59ec,Marzoni's Brick Oven and Brewery,brewpub,164 Patch Way Rd,,,Duncansville,Pennsylvania,16635-8431,United States,8146951300,http://www.marzonis.com,-78.414201,40.431282
+3c1d090c-79e8-4eb8-93ae-670d17ff36f2,Mastic Trail Brewing,brewpub,1044 Saxonburg Blvd,,,Glenshaw,Pennsylvania,15116,United States,4122133302,http://www.mastictrail.com,-79.939119,40.51933
+7c9c4eab-1416-4f50-a26e-6f48ddff2e7b,Maxie's Brew House,brewpub,104 W Burd St,,,Shippensburg,Pennsylvania,17257,United States,7175302055,http://www.maxiesbrewhouse.com,-77.525362,40.050431
+f73b05a2-b22b-470c-8b16-5cbcc1692163,McAllister Brewing Company,brewpub,810 Dickerson Rd,,,North Wales,Pennsylvania,19454,United States,2676554918,http://www.mcallisterbrewing.com,-75.279703,40.219746
+d05bad3a-bb36-4964-9326-2ade344fe20c,McCall Collective Brewing,brewpub,102 E Susquehanna St,,,Allentown,Pennsylvania,18103,United States,6105738890,http://www.mccallcollectivebrewing.com,-75.45051,40.590549
 45366282-0e7e-44ba-9aac-4cd9f4f82a8e,McKenzie Brew House,brewpub,451 Wilmington Pike - W Chester Pike,,,Glen Mills,Pennsylvania,19342-1249,United States,6103619800,http://www.mckenziebrewhouse.com,,
-20d49ccb-4a92-4c5d-90ff-ec3e363d8407,McKenzie Brew House (#2),brewpub,240 Lancaster Ave,,,Malvern,Pennsylvania,19355-1802,United States,6102962222,http://www.mckenziebrewhouse.com,,
+f5d8cfcb-9657-4b8b-9fb5-fb89d03da02d,McKenzie Brew House,brewpub,451 Wilmington W Chester Pike,,,Glen Mills,Pennsylvania,19342-1249,United States,6103619800,http://www.mckenziebrewhouse.com,-75.544009,39.863862
+20d49ccb-4a92-4c5d-90ff-ec3e363d8407,McKenzie Brew House (#2),brewpub,240 Lancaster Ave,,,Malvern,Pennsylvania,19355-1802,United States,6102962222,http://www.mckenziebrewhouse.com,-75.542982,40.039957
 aef95b1b-3201-4aa9-8b9e-9bf92bcca975,McKenzie Brew House (#3),brewpub,324 W Swedesford Rd,,,Berwyn,Pennsylvania,19312-1165,United States,6103619800,,,
 04ca6748-c9f5-4f3f-976f-ea9453c1b073,Mechanistic Brewing,planning,,,,Clarion,Pennsylvania,16214-2018,United States,,,,
-d30adc33-3715-41b2-950c-63c2e906629f,Mexitaly Brick Oven Brewhouse,brewpub,2440 E Market St,,,York,Pennsylvania,17402-2409,United States,7176008226,http://www.mexitaly.com,-76.6781639,39.9735865
+68f7ed53-f652-4567-93b4-e5ed231339ea,Mechanistic Brewing,taproom,538 Liberty Street,,,Clarion,Pennsylvania,16214,United States,8142978181,http://www.mechanisticbrewing.com,-79.38438,41.21547
+d049e247-29b9-4466-9976-cd0f328d3f4f,Mellow Mink Brewing,taproom,4830 Carlisle Pike,,,Mechanicsburg,Pennsylvania,17050,United States,7176937687,http://www.mellowmink.com,-76.968264,40.235608
+d30adc33-3715-41b2-950c-63c2e906629f,Mexitaly Brick Oven Brewhouse,brewpub,2440 E Market St,,,York,Pennsylvania,17402-2409,United States,7176008226,http://www.mexitaly.com,-76.678913,39.974233
+deb40add-425e-4fc1-a581-0ea09f9984be,Meyers Brewing Company,taproom,436 E Girard Ave,,,Philadelphia,Pennsylvania,19125,United States,2679283620,http://www.meyersbrewing.com,-75.129113,39.970384
 c240ef6b-1834-4be5-815d-7246abfcee05,Millcreek Brewing Company,brewpub,4102 W Lake Rd,,,Erie,Pennsylvania,16505-1561,United States,8146162739,http://www.millcreekbrew.com,-80.3312655,42.029976
 8db4719d-962f-4e0c-a20d-943f062203e7,Mindful Brewing Company,brewpub,3759 Library Rd,,,Castle Shannon,Pennsylvania,15234-2232,United States,4126683857,http://Www.mindfulbrewing.com,-80.02163298,40.36441782
+bdc2c218-3bed-4894-8eed-4ff45ecddc92,Mindful Brewing Company,brewpub,3759 Library Rd,,,Pittsburgh,Pennsylvania,15234-2232,United States,4126683857,http://Www.mindfulbrewing.com,-80.022461,40.364204
 76cad617-f133-45d8-a927-3d83d3bd7d2e,Miscreation Brewing Company,brewpub,6 Center Sq,,,Hanover,Pennsylvania,17331-3001,United States,7176983666,http://www.miscreationbrewing.com,,
 6c437cbd-0130-4559-8596-a631830eeab7,Missing Links Brewery,brewpub,891 Evans City Rd,,,Renfrew,Pennsylvania,16053-9209,United States,7249962948,http://www.missinglinksbrewery.com,,
-93795384-e211-40b3-aa93-7be4d0c83965,Molly Pitcher Brewing Co,micro,10 E South St,,,Carlisle,Pennsylvania,17013-3426,United States,7176090969,http://www.mollypitcher.com,-77.1890465,40.1982144
-3aa48d79-7a78-493f-ba41-ca790a5aa3b2,Moo-Duck Brewery,brewpub,79 S Wilson Ave,,,Elizabethtown,Pennsylvania,17022-2166,United States,,http://www.mooduckbrewery.com,-76.61161117,40.1473526
-c151de64-d672-4204-ae4f-9d2a97e90eb3,Mortals Key Brewing Company,brewpub,4224 E Lake Rd,,,Jamestown,Pennsylvania,16134-4524,United States,7249321080,http://www.mortalskey.com,-80.45979905,41.51243185
-4de8a934-3643-4e95-9cbc-ff98e06e2d30,Moss Mill Brewing,micro,109 Pike Cir Ste D,,,Huntingdon Valley,Pennsylvania,19006-1630,United States,2679822297,http://www.mossmillbrewing.com,,
+93795384-e211-40b3-aa93-7be4d0c83965,Molly Pitcher Brewing Co,brewpub,10 E South St,,,Carlisle,Pennsylvania,17013-3426,United States,7176090969,http://www.mollypitcher.com,-77.189016,40.198196
+a71ec234-d163-4844-8aa9-af61df7dae7a,Monaca Brewing Company,brewpub,1030 Pennsylvania Avenue,,,Monaca,Pennsylvania,15061,United States,8782072627,http://https://www.monacabrewing.com/,-80.279248,40.690749
+69cd63ae-dbf5-452c-a38d-86c0c8f71535,Mondays Brewing Company,taproom,1055 Waterdam Plaza Dr,,,Canonsburg,Pennsylvania,15317,United States,,http://www.mondays.beer,-80.134516,40.263257
+3aa48d79-7a78-493f-ba41-ca790a5aa3b2,Moo-Duck Brewery,brewpub,79 S Wilson Ave,,,Elizabethtown,Pennsylvania,17022-2166,United States,,http://www.mooduckbrewery.com,-76.611648,40.147299
+c151de64-d672-4204-ae4f-9d2a97e90eb3,Mortals Key Brewing Company,brewpub,4224 E Lake Rd,,,Jamestown,Pennsylvania,16134-4524,United States,7249321080,http://www.mortalskey.com,-80.46032,41.513099
+4de8a934-3643-4e95-9cbc-ff98e06e2d30,Moss Mill Brewing,taproom,109 Pike Cir Ste D,,,Huntingdon Valley,Pennsylvania,19006-1630,United States,2679822297,http://www.mossmillbrewing.com,-75.02247,40.148612
 6547c1e3-c0e6-43ec-9bc7-f6d254cb5d85,Mount Gretna Craft Brewery,micro,2701 Horseshoe Pike,,,Palmyra,Pennsylvania,17078-8949,United States,7178383545,http://www.gretnabrewery.com,,
-3e9c673b-0ccd-4204-a712-5536b40cd036,Mudhook Brewing Co,brewpub,34 N Cherry Ln,,,York,Pennsylvania,17401-5306,United States,7177473605,http://www.mudhookbrewing.com,-76.72935297,39.96311069
+e4399072-b0cd-4791-9ed4-8787b4ff4a92,Mountain View Brewing Company,taproom,2332 Walters Rd,,,Stroudsburg,Pennsylvania,18360,United States,5706190053,http://www.mountainviewvineyard.com,-75.328775,40.959945
+3e9c673b-0ccd-4204-a712-5536b40cd036,Mudhook Brewing Co,brewpub,34 N Cherry Ln,,,York,Pennsylvania,17401-5306,United States,7177473605,http://www.mudhookbrewing.com,-76.729294,39.962943
+47638b55-2fc4-4e16-9f16-7312047cda75,Mystic Ways Brewing,taproom,510 1/2 Walnut St,,,Perkasie,Pennsylvania,18944,United States,,http://www.mysticwaysbrewingcompany.com,-75.297304,40.371863
 9a8aa674-ce4f-43a3-9120-b19396612cfb,Naked Brewing Co,micro,51 Buck Rd,,,Huntingdon Valley,Pennsylvania,19006-1501,United States,2673559561,http://www.nakedbrewingcompany.com,,
 ccdbc69e-ab8d-4133-9897-7728cb066c4b,National Beer Museum Development Group,planning,,,,Pittsburgh,Pennsylvania,15212,United States,4123983236,http://www.BrewMuseum.com,,
-bbf8905d-9def-4a8f-b24b-91d3e6cdccd9,Neshaminy Creek Brewing Co,regional,909 Ray Ave,,,Croydon,Pennsylvania,19021-7510,United States,2154587081,http://www.neshaminycreekbrewing.com,-74.90222455,40.08537673
-8a5156f9-1517-4f92-831c-20788cd4e0ef,New Trail Brewing Company,micro,240 Arch St Bldg 18,,,Williamsport,Pennsylvania,17701-7810,United States,,http://www.newtrailbrewing.com,,
-87c2dc5c-0a40-40ee-a689-acff555737b2,Nimble Hill Brewing Co,micro,3971 SR 6,,,Tunkhannock,Pennsylvania,18657,United States,5708369463,http://www.nimblehillbrewingcompany.com,,
-5d6f03de-3d1e-4164-802f-df0ef0addb2b,Noble Stein Brewing Co.,micro,1170-G Wayne Avenue,,,Indiana,Pennsylvania,15701,United States,7248018087,http://www.noblesteinbeer.com,,
-315984bd-5e4e-4752-bfee-e91c5d77ae8f,North Country Brewing Co. LLC,micro,141 S Main St,,,Slippery Rock,Pennsylvania,16057-1246,United States,7247942337,http://www.northcountrybrewing.com,-80.05566287,41.06345599
-d3d3ffc2-081b-4004-a9b9-b3471061dafc,North Country Canning Co,micro,111 Arrowhead Dr Ste B,,,Slippery Rock,Pennsylvania,16057-2667,United States,7247942337,,,
-f7977b5d-4e21-4f63-aede-1c5ca36e519a,Oakbrook Brewing Company,brewpub,628 Park Ave,,,Reading,Pennsylvania,19611-1926,United States,4847555289,http://www.oakbrookbrew.com,-75.93478919,40.31684944
+bce2fe81-5ddf-4037-b5c3-c24b087b53fc,Necromancer Brewing,taproom,2257 Babcock Boulevard,,,Pittsburgh,Pennsylvania,15237,United States,4125963085,http://necromancer.beer,-79.999485,40.512995
+bbf8905d-9def-4a8f-b24b-91d3e6cdccd9,Neshaminy Creek Brewing Co,taproom,909 Ray Ave,,,Croydon,Pennsylvania,19021-7510,United States,2154587081Ext.107,http://www.neshaminycreekbrewing.com,-74.902002,40.085381
+03838200-c580-4f4d-9ae8-fc8bfcdc493c,New Crescent Brewing Co.,micro,229 Main St.,,,Irwin,Pennsylvania,15642,United States,7245152974,http://https://newcrescentbrewing.com/,-79.710277,40.333031
+21cb141a-fcf0-4cfc-975d-5b8106834f4c,New Ridge Brewing Co,brewpub,6168 Ridge Avenue,,,Philadelphia,Pennsylvania,19128,United States,2153304677,http://www.newridgebrewing.com,-75.217036,40.03501
+8a5156f9-1517-4f92-831c-20788cd4e0ef,New Trail Brewing Company,micro,240 Arch St Bldg 18,,,Williamsport,Pennsylvania,17701-7810,United States,5709809295,http://www.newtrailbrewing.com,-77.047739,41.231494
+3f456959-2783-4fc7-970d-2433b3f6cd09,Newtown Brewing Company,taproom,103 Penns Trail,,,Newtown,Pennsylvania,18940,United States,2159448609,http://www.newtownbrewingco.com,-74.91005,40.227374
+87c2dc5c-0a40-40ee-a689-acff555737b2,Nimble Hill Brewing Co,taproom,3971 SR 6,,,Tunkhannock,Pennsylvania,18657,United States,5708369463,http://www.nimblehillbrewingcompany.com,-75.930369,41.537589
+5d6f03de-3d1e-4164-802f-df0ef0addb2b,Noble Stein Brewing Co.,taproom,1170-G Wayne Avenue,,,Indiana,Pennsylvania,15701,United States,7244224570,http://www.noblesteinbeer.com,-79.16233,40.608421
+315984bd-5e4e-4752-bfee-e91c5d77ae8f,North Country Brewing Co. LLC,brewpub,141 S Main St,,,Slippery Rock,Pennsylvania,16057-1246,United States,7247942337,http://www.northcountrybrewing.com,-80.055618,41.063762
+d3d3ffc2-081b-4004-a9b9-b3471061dafc,North Country Canning Co,micro,111 Arrowhead Dr Ste B,,,Slippery Rock,Pennsylvania,16057-2667,United States,7247942337,,-80.070073,41.058696
+f9a2f400-5a9b-4831-9bd5-f7fbee48f9b4,Nostrovia Brewing Co,brewpub,4415 East Lake Rd,,,Erie,Pennsylvania,16511,United States,8143150916,http://www.nostroviabrewing.com,-80.012389,42.160742
+f7977b5d-4e21-4f63-aede-1c5ca36e519a,Oakbrook Brewing Company,brewpub,628 Park Ave,,,Reading,Pennsylvania,19611-1926,United States,4847555289,http://www.oakbrookbrew.com,-75.934575,40.316543
+c44dbea2-2f27-4813-b6f7-db4ba149a65e,Odd Logic Brewing Company,taproom,500 Bristol Pike,,,Bristol,Pennsylvania,19007,United States,,http://www.oddlogicbrewing.com,-74.860395,40.104504
+52efe2cd-a8f6-49e6-a979-503f04c94efe,Official Brewing Company,brewpub,6295 Lyters Ln,,,Harrisburg,Pennsylvania,17111,United States,7175642152,http://www.hscaterers.com/beer-menu,-76.775007,40.27769
+34314b84-eec9-4be3-a799-4918ccd67233,Old Farmhouse Eatery and Brewery,brewpub,226 Nittany Valley Dr,,,Bellefonte,Pennsylvania,16823,United States,8149330731,http://www.oldfarmhouseeatery.com,-77.675546,40.919139
 724c81c8-1ab1-47ce-bd14-1bce1e9c02bc,Old Forge Brewing Co,micro,401 Railroad St Ste 104,,,Danville,Pennsylvania,17821-1593,United States,5702758151,http://www.oldforgebrewingcompany.com,,
-49051f65-584d-4045-8a6f-3f55499f9f2a,Old Forge Brewing Co,brewpub,532 Mill St,,,Danville,Pennsylvania,17821-1015,United States,5702758151,http://www.oldforgebrewingcompany.com,-76.61600763,40.96547999
+49051f65-584d-4045-8a6f-3f55499f9f2a,Old Forge Brewing Co,brewpub,532 Mill St,,,Danville,Pennsylvania,17821-1015,United States,5702758151,http://www.oldforgebrewingcompany.com,-76.61598,40.965347
+26bd1aee-fbde-4953-8548-669ea2202d06,Old Thunder Brewing,taproom,340 Freeport Rd,,,Pittsburgh,Pennsylvania,15238,United States,,http://www.oldthunderbrewing.com,-79.860878,40.493673
 c5c707c0-4459-4e37-9673-00a58959a74d,Olde Bedford Brewing Company,micro,109 Railroad St,,,Bedford,Pennsylvania,15522-1014,United States,9072297942,http://www.oldebbc.com,-78.5033435,40.021898
-3265e88f-c7af-4243-b836-5475b1e3315d,Orr's Brewing Company,brewpub,109 S Franklin St,,,Titusville,Pennsylvania,16354,United States,8148270000,,-79.6733234,41.6230211
-77e5ec06-4cc7-485b-b35c-201984baed5e,Ottos Pub & Brewery,brewpub,2235 N Atherton St,,,State College,Pennsylvania,16803-1529,United States,8144701394,http://www.ottospubandbrewery.com,-77.8742944,40.7977695
-6e5cb266-90f8-4e79-bde0-076cc8dba8dd,Pennsylvania Brewing Co,micro,800 Vinial St,,,Pittsburgh,Pennsylvania,15212-5151,United States,4122379402,http://www.pennbrew.com,-79.99163722,40.457132
+3265e88f-c7af-4243-b836-5475b1e3315d,Orr's Brewing Company,brewpub,109 S Franklin St,,,Titusville,Pennsylvania,16354,United States,8148270000,,-79.673652,41.626767
+e28530c8-a8a6-420d-9d25-bc49511caa29,Other Half Brewing Company - Fishtown,taproom,1002 Canal St,,,Philadelphia,Pennsylvania,19123,United States,,,-75.136889,39.962568
+77e5ec06-4cc7-485b-b35c-201984baed5e,Ottos Pub & Brewery,brewpub,2235 N Atherton St,,,State College,Pennsylvania,16803-1529,United States,8144701394,http://www.ottospubandbrewery.com,-77.91273,40.810936
+2ca0cbc5-e5d4-4a25-bd9d-a75e7cfc9ce1,Our Town Brewery,brewpub,252 N Prince St,,,Lancaster,Pennsylvania,17603,United States,7179457694,http://www.ourtownbrewery.com,-76.308754,40.042392
+6e5cb266-90f8-4e79-bde0-076cc8dba8dd,Pennsylvania Brewing Co,micro,800 Vinial St,,,Pittsburgh,Pennsylvania,15212-5151,United States,4122379402,http://www.pennbrew.com,-79.991268,40.457302
 92398e11-aee4-469d-a522-52ff39843cd8,Perkiomen Valley Brewery,planning,,,,Telford,Pennsylvania,18969-1615,United States,2158726424,http://www.perkiomenvalleybrewery.com,,
-c9997ca5-9564-4374-b2b5-12ea56890eeb,Petrucci Brothers Brewing Co,micro,911 5th Ave,,,New Brighton,Pennsylvania,15066-1923,United States,7249872579,http://www.petruccibrothers.com,-80.31190134,40.73477504
-911d3c95-36af-45ad-b01e-8bf8e76e94be,Philadelphia Brewing Co,micro,2423 Amber St,,,Philadelphia,Pennsylvania,19125-1606,United States,2154272739,http://www.philadelphiabrewing.com,-75.12769991,39.98282736
+7273f979-5500-4b0c-bbd2-d0fbb5f61d51,Perkiomen Valley Brewery,taproom,101 Walnut St,,,Green Lane,Pennsylvania,18054,United States,2158726424,http://www.perkiomenvalleybrewery.com,-75.471471,40.338109
+c9997ca5-9564-4374-b2b5-12ea56890eeb,Petrucci Brothers Brewing Co,taproom,911 5th Ave,,,New Brighton,Pennsylvania,15066-1923,United States,7249872579,http://www.petruccibrothers.com,-80.311528,40.734751
+36efab05-3dc2-4aa4-938e-f5b0e0d46ca7,Phantom Power,taproom,121 West Frederick Street,,,Millersville,Pennsylvania,17551,United States,7177193428,,-76.359937,39.997031
+911d3c95-36af-45ad-b01e-8bf8e76e94be,Philadelphia Brewing Co,micro,2423 Amber St,,,Philadelphia,Pennsylvania,19125-1606,United States,2154272739,http://www.philadelphiabrewing.com,-75.127499,39.982706
 389ffa15-0ced-4099-b832-10da54e9add9,Pig Iron Brewing Co,brewpub,40 E Front St,,,Marietta,Pennsylvania,17547-1538,United States,7176041161,http://www.pigironbrewingco.com,-76.55317283,40.05569372
 80f35301-8149-4307-affe-e6e4442b2df3,Pig Island Brewery,planning,,,,Bradford,Pennsylvania,16701-1304,United States,8143667612,,,
-14e42687-7706-4eda-aec6-739577141d69,Pittsburgh Brewing Co,contract,3340 Liberty Ave,,,Pittsburgh,Pennsylvania,15201-1394,United States,4126827400,http://www.pittsburghbrewing.com,-79.96570261,40.46161288
+da4beaa1-6a68-4644-952b-40f60b11d674,Pilger Ruh Brewing,taproom,213 N Centre St,,,Pottsville,Pennsylvania,17901,United States,,,-76.196713,40.686553
+68e15d75-4735-438b-ab24-008c8eccb039,Pineknotter Brewing Company,taproom,254 Front St,,,Northumberland,Pennsylvania,17857,United States,,,-76.794732,40.889042
+14e42687-7706-4eda-aec6-739577141d69,Pittsburgh Brewing Co,regional,3340 Liberty Ave,,,Pittsburgh,Pennsylvania,15201-1394,United States,4126827400,http://www.pittsburghbrewing.com,-79.966218,40.460839
 3b7c7089-8a91-4178-8e66-4438ff0d3e71,Pizza Boy Brewing Co,micro,2240 Millennium Way,,,Enola,Pennsylvania,17025-1484,United States,7177283840,http://www.pizzaboybrewing.com,,
-1910b8fc-28c0-491b-a7fa-abf2973d9ce5,Pocono Brewery Company,brewpub,2092 Route 611,,,Swiftwater,Pennsylvania,18370-7773,United States,5708391500,,,
+1910b8fc-28c0-491b-a7fa-abf2973d9ce5,Pocono Brewery Company,brewpub,2092 Route 611,,,Swiftwater,Pennsylvania,18370-7773,United States,5708391500,,-75.328067,41.085553
 cdf91a93-80df-4940-af33-6a5562b7eef8,Point Breeze Brewing,micro,1225 S 28th St,,,Philadelphia,Pennsylvania,19146-,United States,,http://www.pointbreezebrewing.com,-75.1900898,39.9382866
-d88f3979-3660-40cd-820c-f0da9cf4ce22,Quinn Brewing Company,micro,3000 Commerce Loop Ste 3200,,,Irwin,Pennsylvania,15642-8112,United States,7245905916,http://www.quinnbrewing.com,,
+86591547-2cfb-4909-822e-ec30f22bc517,Pottstown United Brewing Co,brewpub,251 E High Street,,,Pottstown,Pennsylvania,19464,United States,4847524943,http://pottstownunitedbrewing@gmail.com,-75.648291,40.245736
+26e6aa18-6caf-488e-99c5-40cefe381b92,Pour Man's Brewing Company,taproom,284 S Reading Road,,,Ephrata,Pennsylvania,17522,United States,7174666144,http://www.pourmansbrewingco.com,-76.195819,40.178442
+e1add463-f4bb-4b39-809f-269e1d3a6059,Premier Brewing Company,taproom,6281 York Rd,,,New Oxford,Pennsylvania,17350,United States,,http://www.premier-brewing-company.business.site,-77.022208,39.872797
+bb66f9d7-9d9c-453b-b3f0-e6906da73b88,Public House at the Markets Brewery and Restaurant,micro,1649 Broadway,,,Hanover,Pennsylvania,17331-9606,United States,7175217773,,-76.972732,39.831814
+c167bfa2-6500-4c00-b48e-e6e0f1f94013,Publication Brew Works,taproom,10 4th Street,,,Pennsburg,Pennsylvania,18073,United States,2158721247,http://https://www.publicationbrewworks.com/,-75.497531,40.397868
+f7f2e67f-d54e-4701-96cb-77084bea23ea,Punch Buggy Brewing Company,brewpub,1445 N. American St.,,,Philadelphia,Pennsylvania,19122,United States,2156202053,http://www.punchbuggybrewingcompany.com,-75.139616,39.973652
+d88f3979-3660-40cd-820c-f0da9cf4ce22,Quinn Brewing Company,taproom,3000 Commerce Loop Ste 3200,,,Irwin,Pennsylvania,15642-8112,United States,7245905916,http://www.quinnbrewing.com,-79.6878,40.3029
 391a35c6-e0b6-4a79-a95b-e6469a674107,Race Street Brew Works,brewpub,511 Spruce St Ste 2,,,Clearfield,Pennsylvania,16830-1923,United States,8142054052,http://www.racestreetbrew.com,,
-aefe68ce-6f3c-45f7-9d3f-c7af686cd8c8,Railroad City Brewing Company,brewpub,1415 11th Ave Ste 1,,,Altoona,Pennsylvania,16601-3303,United States,8142012827,http://www.railroadcitybrewing.com,,
-b3ffcb37-d39e-4294-a09e-0dcd8130725c,Raney Cellars,brewpub,11 Manor Ave,,,Millersville,Pennsylvania,17551,United States,7175845085,http://raneycellarsbrewing.com,,
-7e8e9910-3454-4905-a1c2-0b2e5702f195,Reclamation Brewing Company,brewpub,221 S Main St,,,Butler,Pennsylvania,16001-5908,United States,7242820831,http://www.reclamationbrewing.com,-79.89543627,40.85876516
-2d146fa4-968d-452b-b925-a4684094d2e8,Recon Brewing,brewpub,1747 N Main St Ext,,,Butler,Pennsylvania,16001-1327,United States,7242568747,http://www.reconbrewing.com,,
-a35ee2c4-d008-466c-b071-5d7f97041c13,Riepstines Pub,brewpub,913 Arch St,,,Williamsport,Pennsylvania,17701-5630,United States,5703292739,http://www.riepstinespub.com,-77.05299603,41.23997285
+aefe68ce-6f3c-45f7-9d3f-c7af686cd8c8,Railroad City Brewing Company,brewpub,1415 11th Ave Ste 1,,,Altoona,Pennsylvania,16601-3303,United States,8142012827,http://www.railroadcitybrewing.com,-78.403872,40.513762
+ef39cff1-0a5c-49b8-9082-8eacd2e9d020,Raney Cellars Brewing Company LLC,taproom,11 manor ave,,,millersville,Pennsylvania,17551,United States,7175845085,http://www.raneycellarsbrewing.com,-76.358428,40.008686
+54739708-1e10-4b4f-a38c-bffeb2a49146,Rebel Hill Brewing Company,brewpub,420 Schuylkill Rd,,,Phoenixville,Pennsylvania,19460-5219,United States,4849248044,http://www.rebelhillbrewing.com,-75.547663,40.141128
+7e8e9910-3454-4905-a1c2-0b2e5702f195,Reclamation Brewing Company,brewpub,221 S Main St,,,Butler,Pennsylvania,16001-5908,United States,7242820831,http://www.reclamationbrewing.com,-79.894826,40.859374
+2d146fa4-968d-452b-b925-a4684094d2e8,Recon Brewing,brewpub,1747 N Main St Ext,,,Butler,Pennsylvania,16001-1327,United States,7242568747,http://www.reconbrewing.com,-79.925413,40.908107
+d0b1f6e2-2506-4d95-89d7-5208f280bec8,Red Lion Brewery,brewpub,10 S Main St,,,Quakertown,Pennsylvania,18951-1118,United States,,http://www.mccoolesredlioninn.com,-75.352777,40.442182
+3016f301-cd0f-49bc-8b6b-626c48df84d3,Retriever Brewing Company,taproom,2844 Township Line Rd,,,Orefield,Pennsylvania,18069,United States,,http://www.retrieverbrewco.com,-75.640544,40.616633
+328750d1-2dc5-4923-98ba-b6049de82cb4,Revere Brewery,taproom,1313 E Broad St,,,Tamaqua,Pennsylvania,18252,United States,5705820103,http://www.reverebrewery.com,-75.950465,40.802865
+3336b04f-774a-4830-8bf0-4686fc88ab11,Richmond Farm & Brewery,taproom,1290 Five Points Richmond Road,,,Bangor,Pennsylvania,18013,United States,6103608303,http://www.richmondfarmbrewery.com,-75.145874,40.852151
+a35ee2c4-d008-466c-b071-5d7f97041c13,Riepstines Pub,brewpub,913 Arch St,,,Williamsport,Pennsylvania,17701-5630,United States,5703292739,http://www.riepstinespub.com,-77.053455,41.240139
+c42fef2f-8b53-4cfe-8577-db9640ea4a93,Rising River Brewing,taproom,1955 Willow Ln,,,Macungie,Pennsylvania,18062,United States,,http://risingriverbrewing.com,-75.562222,40.544069
 d5b0b7ee-23a6-4a1c-aca6-1df93bb9f65e,Ritter Brewing Company LLC,micro,449 Gino Merli Dr,,,Peckville,Pennsylvania,18452-1631,United States,,http://www.Ritterbrewing.com,,
 7a724ea4-eab4-434c-ac98-25b39a1c8b05,River Barge Brewing,brewpub,71 Grovedale Ln,,,Wyalusing,Pennsylvania,18853-7854,United States,5707461400,http://www.riverbargebrewing.com,,
 49d641f4-8390-4ba4-bfe1-ee5f7a16d220,River Bend Hop Farm And Brewery,micro,1800 Lower Bailey Rd,,,Newport,Pennsylvania,17074-7622,United States,7173156764,http://www.riverbendhopfarmandbrewery.com,,
+bbec4d3a-96a4-4bfa-8519-a775c66af411,River Trail Brewing,brewpub,40 E Front St,,,Marietta,Pennsylvania,17547-1538,United States,7176041161,http://www.pigironbrewingco.com,-76.553055,40.055749
+225923db-b4ac-4b6d-8c1b-2c39ee4f3b5d,Riverside Brewing Company,brewpub,1 Fountain St,,,Cambridge Springs,Pennsylvania,16403,United States,8142736942,http://www.riversidebrewery.com,-80.053033,41.805779
 f9a0e0bf-2306-4319-991c-cb5327807ddb,Rivertowne Brewery - Production Facility,micro,5578 Old William Penn Hwy,,,Export,Pennsylvania,15632-9303,United States,7245192145,http://www.myrivertowne.com,-79.6373888,40.42147373
 13f854d3-ef7a-4933-b22b-02a13df51bb6,Rivertowne Pour House,micro,312 Center Rd,,,Monroeville,Pennsylvania,15146-1322,United States,4123728199,http://www.myrivertowne.com,-79.76389793,40.44745731
 971a1d10-0d75-4152-8107-ecdb6904534d,Robin Hood Brewing Co,brewpub,,,,Bellefonte,Pennsylvania,16823,United States,8143578399,http://www.robinhoodbrewingco.com,,
-d87d4744-0108-4647-8c84-b33cabf736d3,Rock Bottom Brewery - Pittsburgh,brewpub,171 E Bridge St,,,Homestead,Pennsylvania,15120,United States,4124622739,http://www.rockbottom.com,-79.9149542,40.4093329
-32ea9e78-433e-44ee-9be2-9ce878cb1a23,Rock God Brewing Company,micro,459 Rooney Ave,,,Danville,Pennsylvania,17821-1897,United States,5702844096,http://rockgodbeer.com,-76.618447,40.962031
+413f79a9-aacb-4420-9ec4-3160712290ed,Robin Hood Brewing Co,brewpub,1796 Zion Rd,,,Bellefonte,Pennsylvania,16823,United States,8143578399,http://www.robinhoodbrewingco.com,-77.728399,40.915723
+d87d4744-0108-4647-8c84-b33cabf736d3,Rock Bottom Brewery - Pittsburgh,brewpub,171 E Bridge St,,,Homestead,Pennsylvania,15120,United States,4124622739,http://www.rockbottom.com,-79.91466,40.409724
+32ea9e78-433e-44ee-9be2-9ce878cb1a23,Rock God Brewing Company,brewpub,459 Rooney Ave,,,Danville,Pennsylvania,17821-1800,United States,5702844096,http://rockgodbeer.com,-76.618677,40.96235
 7e433321-e973-4c14-bd87-62c1c92cca3c,Rogan Brewing Company,planning,,,,Duquesne,Pennsylvania,15110-1525,United States,4125455400,http://www.roganbrewing.com,,
 26fd9259-8023-42d7-88c8-2566791b5ae9,Rooney's Beer Company,micro,800 Vinial St Ste B204,,,Pittsburgh,Pennsylvania,15212-5151,United States,4122515995,http://rooneysbeer.com,,
-d5aae77c-019d-41b0-ac59-5c3ca2b0ff18,Root Down Brewing Company,brewpub,1 N Main St,,,Phoenixville,Pennsylvania,19460-3419,United States,4843932337,http://www.rootdownbrewing.com,-75.515616,40.137147
-9f5002ff-ed74-4f51-8336-adea12e4ce81,Rotunda Brewing,brewpub,245 W Main St,,,Annville,Pennsylvania,17003-1326,United States,7178672337,http://www.batdorfrestaurant.com/rbc,-76.520098,40.32856075
-134c9a7a-fee3-4a1c-8914-785a9d7c04ea,Round Guys Brewing Co,brewpub,324 W Main St,,,Lansdale,Pennsylvania,19446-2006,United States,6107151512,http://www.roundguysbrewery.com,-75.28630882,40.24337843
-24c0c343-7f4d-43d4-8a2c-e554e5c0d6fc,Roundabout Brewery,micro,4901 Butler St,,,Pittsburgh,Pennsylvania,15201-2718,United States,4126210540,http://roundaboutbeer.com,-79.956943,40.477161
+d5aae77c-019d-41b0-ac59-5c3ca2b0ff18,Root Down Brewing Company,brewpub,1 N Main St,,,Phoenixville,Pennsylvania,19460-3419,United States,4843025407,http://www.rootdownbrewing.com,-75.515869,40.134475
+d81c807c-6b27-4445-93f5-50f14cb0503d,Rosko's Brew House,taproom,601 Pine St,,,Williamsport,Pennsylvania,17701-5023,United States,5703605856,,-77.006254,41.244374
+9f5002ff-ed74-4f51-8336-adea12e4ce81,Rotunda Brewing,brewpub,245 W Main St,,,Annville,Pennsylvania,17003-1326,United States,7178672337,http://www.rotundabrewing.com/,-76.520296,40.328819
+134c9a7a-fee3-4a1c-8914-785a9d7c04ea,Round Guys Brewing Co,brewpub,324 W Main St,,,Lansdale,Pennsylvania,19446-2006,United States,6107151512,http://www.roundguysbrewery.com,-75.28768,40.243582
+24c0c343-7f4d-43d4-8a2c-e554e5c0d6fc,Roundabout Brewery,taproom,4901 Butler St,,,Pittsburgh,Pennsylvania,15201-2718,United States,4126210540,http://roundaboutbeer.com,-79.957064,40.477252
 c0217206-0b34-4205-8164-a587a1c6653a,Roundback Brewery LLC,planning,,,,Danville,Pennsylvania,17821-7746,United States,5708548067,http://roundbackbrewery.com,,
-a35206a2-4fc6-471c-8b39-a31b0bbb6c23,Roy Pitz Brewing Co,brewpub,301 Roy Pitz Ave Ste 3,,,Chambersburg,Pennsylvania,17201-1668,United States,7174968753,http://www.roypitz.com,,
-b70e163a-8e4d-4b02-93fa-8b4f45732cc9,Rumspringa Brewing Co,micro,3174 Old Philadelphia Pike,,,Bird In Hand,Pennsylvania,17505-9727,United States,7177687194,,-76.18731,40.038905
-2d5e000a-9439-4789-9263-b11a9c7b29ae,Rusty Gold Brewing,micro,43 W Pike St,,,Canonsburg,Pennsylvania,15317,United States,7244852332,,-80.18750486,40.25856457
-b6ae47ee-790a-4490-b8be-574d08ee76be,Rusty Rail Brewing,brewpub,5 N 8th St Ste 1,,,Mifflinburg,Pennsylvania,17844-1003,United States,5709667878,http://www.rustyrailbrewing.com,,
+a35206a2-4fc6-471c-8b39-a31b0bbb6c23,Roy Pitz Brewing Co,brewpub,140 N 3rd St,,,Chambersburg,Pennsylvania,17201-1684,United States,7174968753,http://www.roypitz.com,-77.65619,39.939738
+c19f60b4-b268-4f76-a58c-1064b042c819,Roy Pitz Brewing Co,brewpub,140 N 3rd St,,,Chambersburg,Pennsylvania,17201-1684,United States,7174968753,http://www.roypitz.com,-77.65619,39.939738
+2af16cc8-12cb-4de6-b7ef-560886c51ebf,Rubber Soul Brewing Co.,micro,136 S. Hanover Street,,,Hummelstown,Pennsylvania,17036,United States,7176450727,http://www.rubbersoulbrewing.com,-76.707957,40.2627
+b70e163a-8e4d-4b02-93fa-8b4f45732cc9,Rumspringa Brewing Co,taproom,3174 Old Philadelphia Pike,,,Bird In Hand,Pennsylvania,17505-9727,United States,7177687194,,-76.134375,40.038969
+934c281b-8cb8-4961-908d-1a209efc8ba4,Rural City Beer Co.,brewpub,6 N. Reamstown Rd.,,,Reamstown,Pennsylvania,17567,United States,7173358001,http://www.ruralcitybeer.com,-76.1236,40.2113
+2d5e000a-9439-4789-9263-b11a9c7b29ae,Rusty Gold Brewing,brewpub,43 W Pike St,,,Canonsburg,Pennsylvania,15317,United States,7244852332,,-80.187099,40.258602
+b6ae47ee-790a-4490-b8be-574d08ee76be,Rusty Rail Brewing,micro,5 N 8th St Ste 1,,,Mifflinburg,Pennsylvania,17844-1003,United States,5709667878,http://www.rustyrailbrewing.com,-77.053907,40.916066
+02a9e0cc-a1c3-4a19-a585-0817119d8133,Sacred Vice Brewing,taproom,3233 Amber St,,,Philadelphia,Pennsylvania,19134,United States,,http://www.sacredvice.com,-75.109032,39.992539
+48d032ad-93fc-4caf-a44a-1ab87ccde5ba,Sage Alley Brewery,taproom,213 N. Main Street,,,Coopersburg,Pennsylvania,18036,United States,6104216029,http://www.sagealleybrewery.com,-75.389409,40.513714
 7526abe5-393d-461f-b9b6-fb5880167db7,Saint Benjamin Brewing Co,micro,1710 N 5th St,,,Philadelphia,Pennsylvania,19122-2909,United States,,,-75.1475016,39.9562965
-7cfafd1b-9f71-421e-b68a-2a020e3f9540,Saint Boniface Craft Brewing Co,brewpub,1701 W Main St,,,Ephrata,Pennsylvania,17522-1106,United States,7177211744,,-76.205629,40.200294
-a7fd2fe1-0473-4e71-ac50-2c8a9eeed67e,Samuel Adams Pennsylvania Brewing Co,regional,7880 Penn Dr,,,Breinigsville,Pennsylvania,18031-1508,United States,6103956811,,,
-2fa37cd3-a1d8-4a64-a244-f1059f2df9f7,Saucony Creek Brewing Company,micro,15032 Kutztown Rd,,,Kutztown,Pennsylvania,19530-9275,United States,6106833128,http://www.sauconycreekbrewing.com,-75.79700353,40.50149993
-4d3e5abf-616d-49eb-87de-4a672d09511a,Second District Brewing Co.,brewpub,1939 S. Bancroft St.,,,Philadelphia,Pennsylvania,19145,United States,2155755900,http://seconddistrictbrewing.com,-75.17297324,39.92679584
-6e69a117-bb47-44d3-b3ac-12b07e5e7e1f,Selins Grove Brewing Co,brewpub,119 N Market St,,,Selinsgrove,Pennsylvania,17870-1905,United States,5703747308,http://www.selinsgrovebrewing.com,-76.86152979,40.80056952
+7cfafd1b-9f71-421e-b68a-2a020e3f9540,Saint Boniface Craft Brewing Co,brewpub,1701 W Main St,,,Ephrata,Pennsylvania,17522-1106,United States,7177211744,http://https://stbonifacebrewing.com/,-76.205422,40.200471
+a7fd2fe1-0473-4e71-ac50-2c8a9eeed67e,Samuel Adams Pennsylvania Brewing Co,regional,7880 Penn Dr,,,Breinigsville,Pennsylvania,18031-1508,United States,6103956811,,-75.629188,40.576229
+2fa37cd3-a1d8-4a64-a244-f1059f2df9f7,Saucony Creek Brewing Company,micro,15032 Kutztown Rd,,,Kutztown,Pennsylvania,19530-9275,United States,6106833128,http://www.sauconycreekbrewing.com,-75.796988,40.500891
+e98ee412-d8ce-479f-85cc-9776c52278a8,Schaylor Brewing Company,brewpub,2390 Lancaster Pike,,,Reading,Pennsylvania,19607,United States,6107505442,http://www.schaylorbrewingcompany.com,-75.990818,40.302048
+5be87ffe-6dff-4319-bd6b-31b7f2f17f7b,Scrubby's Craft Beer and Taproom,taproom,90 Martin St,,,Red Lion,Pennsylvania,17356,United States,7174178766,http://www.scrubbys.beer,-76.601633,39.896628
+6e0a5776-b775-4da6-a22d-9b2093b423ac,Scrubby's Craft Brewery and Taproom - Production,micro,427 E Main St,,,Dallastown,Pennsylvania,17313,United States,,,-76.635027,39.899796
+4d3e5abf-616d-49eb-87de-4a672d09511a,Second District Brewing Co.,brewpub,1939 S. Bancroft St.,,,Philadelphia,Pennsylvania,19145,United States,2155755900,http://seconddistrictbrewing.com,-75.173046,39.926367
+6e69a117-bb47-44d3-b3ac-12b07e5e7e1f,Selins Grove Brewing Co,brewpub,119 N Market St,,,Selinsgrove,Pennsylvania,17870-1905,United States,5703747308,http://www.selinsgrovebrewing.com,-76.861161,40.800868
 ce60ac64-f87c-4687-a362-36245e1fff8e,Separatist Beer Project,proprietor,,,,Emmaus,Pennsylvania,18049,United States,6103309114,http://www.soleales.com,,
+a9714435-3208-4f83-ad0d-4cb51911d928,Separatist Beer Project,micro,1247 Simon Blvd Ste N108,,,Easton,Pennsylvania,18042,United States,6103309114,http://www.soleales.com,-75.225976,40.698032
 6a4851e9-4d90-4cdd-a96b-0b794f93e887,Seven Sirens Brewing Company,planning,,,,Bethlehem,Pennsylvania,18015,United States,4842396544,,,
+ae026535-0928-4892-b6df-bc93d955920d,Seven Sirens Brewing Company,taproom,327 Broadway Street,,,Bethlehem,Pennsylvania,18015,United States,8106272337,http://www.sevensirens.beer,-75.383873,40.609793
+2c504b94-1296-404e-8c4b-b8800afcf68f,Seven Sirens Brewing Company,taproom,1247 Simon Blvd,,,Easton,Pennsylvania,18042,United States,,http://https://www.sevensirens.beer/,-75.225976,40.698032
 6af2107d-649c-4dca-b2de-029a34638dae,Shawnee Craft Brewery,brewpub,1 River Rd,,,Shawnee on Delaware,Pennsylvania,18356,United States,5704244000,,-75.1107249,41.0118539
-b65fa2d0-3279-4bfb-a33a-e494e263f874,"ShuBrew, LLC",brewpub,210 S Main St,,,Zelienople,Pennsylvania,16063-1150,United States,7247664426,,-80.13635892,40.79285063
-81a899a9-a677-4cd5-9fd8-e7ea45b298fa,Shy Bear Brewing,brewpub,35 Meadowbrook Ln,,,Lewistown,Pennsylvania,17044-2802,United States,7174471701,http://www.shybearbrewing.com,,
-ccfce8d1-c49d-4bb5-af77-36e5e0def26a,Sly Fox Brewhouse and Eatery,micro,520 Kimberton Rd Pikeland Village Square,,,Phoenixville,Pennsylvania,19460-4737,United States,6109354540,http://www.slyfoxbeer.com,,
-acd3da61-7841-48bf-9d0e-5ac89915e9dc,Sly Fox Brewing Co,regional,331 Circle of Progress Dr,,,Pottstown,Pennsylvania,19464-3811,United States,4845248210,http://www.slyfoxbeer.com,-75.66632314,40.26338927
-f520b880-2360-4cb9-88fb-a15f03c01fc0,Snitz Creek Brewery,brewpub,7 N 9th St,,,Lebanon,Pennsylvania,17046-4902,United States,7174504467,http://www.snitzcreekbrewery.com,-76.42637732,40.33937728
+e3d8f90a-26df-4f18-9e75-032d71dad39e,ShawneeCraft Brewery,taproom,100 Shawnee Inn Drive,,,Shawnee on Delaware,Pennsylvania,18356,United States,5704244000,http://https://www.shawneeinn.com/explore/shawneecraft-brewery/,-75.1089,41.0095
+838f0782-c72d-4aee-bb89-641e662ec480,Sherman Street Beer Company,brewpub,1825 E TREMONT ST,,,Allentown,Pennsylvania,18109,United States,5705619493,http://www.shermanstreetbeer.com,-75.428918,40.627219
+a68b9047-4d85-4f6a-b86a-f95dcc553625,Ship Bottom Brewery - Blendery & Barrel House,micro,5 PARK AVE,,,SWARTHMORE,Pennsylvania,19081,United States,6104675804,http://www.shipbottombrewery.com,-75.34962,39.902208
+18a7ac9e-18c9-4b42-a870-56ffa6b753d6,Shubrew Taproom,micro,733 Spring St,,,Harmony,Pennsylvania,16037,United States,7249000107,http://www.shubrew.com,-80.124696,40.801396
+b65fa2d0-3279-4bfb-a33a-e494e263f874,"ShuBrew, LLC",brewpub,205 S Main St,,,Zelienople,Pennsylvania,16063-1150,United States,7247664426,,-80.137157,40.794132
+a0563a0e-b474-45ff-8b2e-8eae7d7537f0,"ShuBrew, LLC",brewpub,205 S Main St,,,Zelienople,Pennsylvania,16063-1150,United States,7247664426,,-80.137157,40.794132
+81a899a9-a677-4cd5-9fd8-e7ea45b298fa,Shy Bear Brewing,brewpub,35 Meadowbrook Ln,,,Lewistown,Pennsylvania,17044-2802,United States,7172422663,http://www.shybearbrewing.com,-77.551493,40.617595
+1125dcbb-7869-44cf-9e12-3568cba07fdb,Sign of the Horse Bierhaus,brewpub,6 Center Square,,,Hanover,Pennsylvania,17331,United States,,,-76.983253,39.800714
+11eacf37-4370-47a5-ae00-11b5d29bd33a,Sign of the Horse Brewery,taproom,979 York St,,,Hanover,Pennsylvania,17331,United States,7179698435,http://www.signofthehorsebrewery.com,-76.956849,39.800538
+71a225f0-7e43-4fcf-a11a-360c4cbafa3f,Simple Days Beer,taproom,226 Main St,,,East Greenville,Pennsylvania,18041,United States,2159338914,http://www.simpledaysbeer.com,-75.501051,40.404386
+ccfce8d1-c49d-4bb5-af77-36e5e0def26a,Sly Fox Brewhouse and Eatery,micro,520 Kimberton Rd,,,Phoenixville,Pennsylvania,19460-4737,United States,6109354540,http://www.slyfoxbeer.com,-75.548944,40.129886
+ffff43ed-605b-4ddc-a935-8de9a72d2923,Sly Fox Brewhouse and Eatery,micro,520 Kimberton Rd,,,Phoenixville,Pennsylvania,19460-4737,United States,6109354540,http://www.slyfoxbeer.com,-75.548944,40.129886
+acd3da61-7841-48bf-9d0e-5ac89915e9dc,Sly Fox Brewing Co,micro,331 Circle of Progress Dr,,,Pottstown,Pennsylvania,19464-3811,United States,4845248210,http://www.slyfoxbeer.com,-75.668639,40.265215
+f520b880-2360-4cb9-88fb-a15f03c01fc0,Snitz Creek Brewery,brewpub,7 N 9th St,,,Lebanon,Pennsylvania,17046-4902,United States,7174504467,http://www.snitzcreekbrewery.com,-76.426796,40.339478
+996c0a0e-68b5-4155-b944-c2f13c5839ee,Sobel's Obscure Brewery,taproom,500 Clay Ave,,,Jeannette,Pennsylvania,15644,United States,4125251553,http://www.sobbrews.com,-79.618738,40.327479
 8301bc1c-4f4b-46c7-8217-fecb090a2d7c,"Sobel's Obscure Brewery, LLC",contract,954 Arona Rd,,,New Stanton,Pennsylvania,15672-1109,United States,4125251553,http://www.Sobbrews.com,,
-696cdcee-6898-4e99-b290-5f6e493c0031,Something Wicked Brewing Company,brewpub,34 Broadway Ste 200,,,Hanover,Pennsylvania,17331-3104,United States,7173165488,http://www.somethingwickedbrewing.com,-76.98291017,39.80048752
-b5d293a4-c881-4469-9486-32bdcbc9b43b,South County Brewing Co,micro,104 Mill St,,,Fawn Grove,Pennsylvania,17321-9654,United States,7173824016,http://www.southcountybrewing.com,-76.44958324,39.7322666
-30e025c7-8629-484a-9508-d848208212a6,Southern Tier Brewing Co,brewpub,316 N Shore Dr,,,Pittsburgh,Pennsylvania,15212-5870,United States,4123012337,http://www.stbcbeer.com,-80.008595,40.4464115
-c45da661-0533-4277-8a7b-a8b8dcf669c0,Spoonwood Brewing Company,brewpub,5981 Baptist Rd,,,Pittsburgh,Pennsylvania,15236-3303,United States,4128330333,http://www.spoonwoodbrewing.com,,
+696cdcee-6898-4e99-b290-5f6e493c0031,Something Wicked Brewing Company,brewpub,34 Broadway Ste 200,,,Hanover,Pennsylvania,17331-3104,United States,7173165488,http://www.somethingwickedbrewing.com,-76.983086,39.801114
+43e61b9b-9d35-45b7-aefa-ad9aef1270c0,Source Fishtown,brewpub,1101 Frankford Ave,,,Philadelphia,Pennsylvania,19125,United States,,,-75.134013,39.967711
+b5d293a4-c881-4469-9486-32bdcbc9b43b,South County Brewing Co,taproom,104 Mill St,,,Fawn Grove,Pennsylvania,17321-9654,United States,7173824016,http://www.southcountybrewing.com,-76.449541,39.732186
+1de0986c-9167-4bf6-99e2-26af97cbb1e6,South County Brewing Co,brewpub,170 Crossway Dr,,,York,Pennsylvania,17402,United States,7173824016,,-76.699297,39.908733
+30e025c7-8629-484a-9508-d848208212a6,Southern Tier Brewing Co,brewpub,316 N Shore Dr,,,Pittsburgh,Pennsylvania,15212,United States,4123012337,,-80.010429,40.4464
+c45da661-0533-4277-8a7b-a8b8dcf669c0,Spoonwood Brewing Company,brewpub,5981 Baptist Rd,,,Pittsburgh,Pennsylvania,15236-3303,United States,4128330333,http://www.spoonwoodbrewing.com,-80.014129,40.345279
 e2d456b2-1c64-488b-9c11-8c9f3e7e06e0,Sprague Farm and Brew Works,brewpub,22043 US Highway 6 and 19,,,Venango,Pennsylvania,16440-2507,United States,8143982885,http://www.sleepingchainsaw.com,,
-46d4fd81-7f86-4a5e-82fd-4aa41d6039f7,Spring Gate Brewery,micro,5790 Devonshire Rd,,,Harrisburg,Pennsylvania,17112-3508,United States,7174800066,http://www.springgatebrewery.com,,
-f09b40bb-4707-4988-9d36-3335dd8ca12a,Spring House Brewery,micro,209 Hazel St,,,Lancaster,Pennsylvania,17603-5629,United States,7178720925,http://www.springhousebeer.com,-76.30710904,40.02936738
+500b0023-0bf0-4257-808d-f1c6b7c9baf3,Spring Dam Brewing Co,brewpub,269 Main St,,,Roaring Spring,Pennsylvania,16673,United States,,http://www.springdambrewingco.com,-78.403601,40.336627
+f09b40bb-4707-4988-9d36-3335dd8ca12a,Spring House Brewing Co.,brewpub,209 Hazel St,,,Lancaster,Pennsylvania,17603-5629,United States,7179842530,http://www.springhousebeer.com,-76.308368,40.030242
 27d36dac-a058-47ee-ae9b-a73f7e440bef,Spring Mountain Brewing Company,planning,,,,Schwenksville,Pennsylvania,19473-1811,United States,,,,
-525c36b6-823a-4a5a-b25c-054748e6e6a4,Stable 12 Brewing Company,brewpub,368 Bridge St,,,Phoenixville,Pennsylvania,19460-3358,United States,,http://www.stable12.com,-75.5195231,40.1335808
+46d4fd81-7f86-4a5e-82fd-4aa41d6039f7,SpringGate Brewery,taproom,5790 Devonshire Rd,,,Harrisburg,Pennsylvania,17112-3508,United States,7174800066,http://www.springgatebrewery.com,-76.787628,40.304135
+525c36b6-823a-4a5a-b25c-054748e6e6a4,Stable 12 Brewing Company,brewpub,368 Bridge St,,,Phoenixville,Pennsylvania,19460-3358,United States,6107152665,http://www.stable12.com,-75.520802,40.132811
 03667e97-bece-4519-80c1-0aafc0f90403,Stargazer Brewing Company,planning,,,,Coatesville,Pennsylvania,19320,United States,6102096346,,,
-a47291a8-90f1-4b37-b517-e857fbf66b5f,Sterling Pig Brewery,brewpub,609 W State St,,,Media,Pennsylvania,19063-2641,United States,4844442526,http://www.sterlingpigbrewery.com,-75.3949477,39.918688
-180b2f4c-3d94-4ca2-af1f-709f0df12923,Stick City Brewing Company,micro,109 Irvine ST,,,Mars,Pennsylvania,16046-0372,United States,7247897849,http://www.stickcitybeer.com,-80.0095235,40.69553485
-7287c68d-4f90-4fd7-b695-2410de8a3781,Stickman Brews,micro,326 N Lewis Rd # 240,,,Royersford,Pennsylvania,19468-1509,United States,4849385900,http://www.stickmanbrews.com,-75.53755464,40.2000606
+bf5c0e58-6fb8-4429-a71e-d75a5cbf5c08,Starview Brews,brewpub,224 Locust St,,,Columbia,Pennsylvania,17512,United States,7172660833,http://www.starviewbrew.com,-76.5032,40.030971
+91d411eb-808a-4d66-82ed-9e6525e43e8a,Steel City Coffeehouse & Brewery,brewpub,203 Bridge St,,,Phoenixville,Pennsylvania,19460-5408,United States,4849248425,http://www.steelcitycoffeehouse.com,-75.516431,40.134113
+a47291a8-90f1-4b37-b517-e857fbf66b5f,Sterling Pig Brewery,brewpub,609 W State St,,,Media,Pennsylvania,19063-2641,United States,4844442526,http://www.sterlingpigbrewery.com,-75.398204,39.918565
+180b2f4c-3d94-4ca2-af1f-709f0df12923,Stick City Brewing Company,micro,109 Irvine St,,,Mars,Pennsylvania,16046-0372,United States,7246877849,http://www.stickcitybeer.com,-80.009338,40.695429
+7287c68d-4f90-4fd7-b695-2410de8a3781,Stickman Brews,brewpub,326 N Lewis Rd # 240,,,Royersford,Pennsylvania,19468-1509,United States,4849385900,http://www.stickmanbrews.com,-75.533694,40.195663
+7e4bb77b-14fd-4829-8315-bd784009faa2,Stickman Brews - Cheseter Springs,brewpub,861 Kimberton Rd,,,Chester Springs,Pennsylvania,19425,United States,4849385900,,-75.634731,40.078229
 a93eb7a0-8cfe-4d36-9368-115a290c47c9,Stoker's Brewing Company,planning,,,,Tamaqua,Pennsylvania,18252-1405,United States,,,,
+3669ac49-212d-480e-9e50-1be9090604bd,Stolen Sun Brewing Co,brewpub,342 N Pottstown Pike Ste B,,,Exton,Pennsylvania,19341-1948,United States,4848794161,,-75.632292,40.037922
 d2e1b8ab-b0e2-409a-9faa-9ca571815a02,Stone Church Pizza & Brewpub,brewpub,600 S Hermitage Rd,,,Hermitage,Pennsylvania,16148-3629,United States,7243087770,http://www.stonechurchbrewpub.com,-80.451969,41.225649
+d68ef5a8-1a60-40e3-a8b8-09e2444a4ff3,Stony Run Brew House,brewpub,3605 E Market St,,,York,Pennsylvania,17402,United States,7177557549,http://www.stonyrunbrewhouse.com,-76.651704,39.983072
 1e5f9366-7e38-443f-87a2-77278d845c12,Stoudts Brewing Co,micro,Â Rt. 272 2800 North Reading Road,,,Adamstown,Pennsylvania,19501,United States,7174844386,http://www.stoudtsbeer.com,,
-83007a0a-a4d4-4bdf-9f74-b215b2309125,Strange Roots Experimental Ales,micro,4399 Gibsonia Road,,,Gibsonia,Pennsylvania,15044-9343,United States,4124072506,http://www.strangerootsbeer.com,-79.9709659,40.6301186
-22c0044e-28f9-4ac5-a8f6-7f1390bccb63,Strange Roots Experimental Ales,micro,501 E Ohio St,,,Pittsburgh,Pennsylvania,15209-2671,United States,4124072506,http://www.strangerootsbeer.com,-79.9951469,40.4546063
-d2d86e25-5932-4c58-b430-f8ea60e9e72f,Straub Brewery,regional,303 Sorg St,,,Saint Marys,Pennsylvania,15857-1592,United States,8143356518,http://www.straubbeer.com,-78.55352821,41.42586622
+83007a0a-a4d4-4bdf-9f74-b215b2309125,Strange Roots Experimental Ales,micro,4399 Gibsonia Road,,,Gibsonia,Pennsylvania,15044-9343,United States,4124072506,http://www.strangerootsbeer.com,-79.915377,40.621179
+22c0044e-28f9-4ac5-a8f6-7f1390bccb63,Strange Roots Experimental Ales,micro,501 E Ohio St,,,Pittsburgh,Pennsylvania,15209-2671,United States,4124072506,http://www.strangerootsbeer.com,-79.968312,40.478693
+d2d86e25-5932-4c58-b430-f8ea60e9e72f,Straub Brewery,micro,303 Sorg St,,,Saint Marys,Pennsylvania,15857-1592,United States,8148342875,http://www.straubbeer.com,-78.552917,41.427629
+5ee701cf-e911-406b-99dd-e1479d66eb62,Suburban Brewing Co,taproom,3041 Horseshoe Pike,,,Honey Brook,Pennsylvania,19344,United States,,http://www.suburbanbrewingco.com,-75.857251,40.078367
+4264c7b0-6325-41ae-aa5a-e4a13d65f153,SUCCESSION Fermentory,micro,432 Leaman Rd,,,Cochranville,Pennsylvania,19311,United States,8142293928,,-75.939293,39.863341
+c72cf2e9-c5fa-49b5-95c1-93c18ffdd506,Sugar Run Brewing Company,brewpub,511 Municipal Drive,,,Duncansville,Pennsylvania,16635,United States,8143125291,http://https://www.sugarrunbeer.com/,-78.418221,40.43848
 f69603de-05b8-45b0-8212-38a36c45b432,Super Fun Time Brewing Company,planning,,,,Bangor,Pennsylvania,18013-9244,United States,6105974402,,,
-84cb4e3a-34b1-4259-916a-9c5c170d4c23,Susquehanna Brewing Co,micro,635 S Main St,,,Pittston,Pennsylvania,18640-3215,United States,5706543557,http://www.sbcbeer.com,-75.7912216,41.321577
-6992bfe1-3a44-40fc-af3c-55c22ef97a87,Swashbuckler Brewing Co,micro,2775 Lebanon Rd,,,Manheim,Pennsylvania,17545-8711,United States,7176657021,http://www.parenfaire.com,,
+84cb4e3a-34b1-4259-916a-9c5c170d4c23,Susquehanna Brewing Co,micro,635 S Main St,,,Pittston,Pennsylvania,18640-3215,United States,5706543557,http://www.sbcbeer.com,-75.80596,41.303687
+6992bfe1-3a44-40fc-af3c-55c22ef97a87,Swashbuckler Brewing Co,taproom,2775 Lebanon Rd,,,Manheim,Pennsylvania,17545-8711,United States,7176657021,http://www.parenfaire.com,-76.429332,40.226932
 9dfec154-bfdf-4489-9cfc-ed3a5611c15c,Tannery Run Brew Works,planning,,,,Ambler,Pennsylvania,19002-4407,United States,2156131113,http://www.tanneryrun.com,,
-1cc7fc9b-908c-4f47-83e7-9b1db04193d4,Tattered Flag Brewery,brewpub,1 S Union St,,,Middletown,Pennsylvania,17057-1446,United States,7176168799,http://www.tatteredflagbsw.com,-76.731309,40.194934
-ba4851b3-8034-4347-8f01-9a5183f9b555,Taylor House Brewing Co,micro,76 Lehigh St,,,Catasauqua,Pennsylvania,18032,United States,,http://www.taylorhousebrewing.com,-75.46805342,40.64817832
+ecb11712-0153-45b9-a95d-0158941202d2,Tannery Run Brew Works,taproom,131 E. Butler Ave,,,Ambler,Pennsylvania,19002,United States,2156131113,http://www.tanneryrun.com,-75.221128,40.155355
+1cc7fc9b-908c-4f47-83e7-9b1db04193d4,Tattered Flag Brewery,brewpub,1 S Union St,,,Middletown,Pennsylvania,17057-1446,United States,7176168799,http://www.tatteredflagbsw.com,-76.731854,40.195012
+ba4851b3-8034-4347-8f01-9a5183f9b555,Taylor House Brewing Co,taproom,76 Lehigh St,,,Catasauqua,Pennsylvania,18032,United States,,http://www.taylorhousebrewing.com,-75.467527,40.647412
+e1d353bf-12a6-4ce9-8a0e-dc23403bb169,TBC Brewing Company,taproom,39 N 3rd St,,,Chambersburg,Pennsylvania,17201,United States,7174460293,http://www.39barrelhouse.com/tbc-brewing-company,-77.657307,39.937664
+c2005bdf-eba9-49b9-aa92-8dd0ddfd02a7,Ten7 Brewing Company,taproom,510 Beaver St,,,North Wales,Pennsylvania,19454-3113,United States,7177102739,http://www.Ten7brewing.com,-75.277788,40.215446
 f4fecb5f-3385-48ae-947c-d4296389bc96,The Barley House Brewing Company LLC,brewpub,8399 Sharon Mercer Rd,,,Mercer,Pennsylvania,16137,United States,7242697837,http://www.barleyhousebrewing.com,-80.265315,41.225933
-819a5d53-05f9-4356-9ff0-0dbe579b1910,The Brewery At Hershey,micro,598 Schoolhouse Rd,,,Middletown,Pennsylvania,17057-4029,United States,7179441569,http://www.vineyardathershey.com,,
+fa7f938e-027d-418e-803b-0ed2b0f71d6e,The Brew Bank Brewing Company,brewpub,255 Main St.,,,Ridgway,Pennsylvania,15853,United States,8149030022,,-78.729667,41.422274
+819a5d53-05f9-4356-9ff0-0dbe579b1910,The Brewery At Hershey,taproom,598 Schoolhouse Rd,,,Middletown,Pennsylvania,17057-4029,United States,7179441569,http://www.vineyardathershey.com,-76.672678,40.195724
+57aa6cc5-92a3-49cb-9705-ea3141cf91e2,The Brewery At Luciano's,brewpub,312 Center Rd,,,Monroeville,Pennsylvania,15146,United States,,http://www.lucianoswhiteoak.com/the-brewery-at-lucianos/,-79.764216,40.446442
 82867821-92a6-473b-95b6-027fa9fd1a36,"The Brewery BÃ¶ser Geist Brewing Co., LLC",micro,1250 Simon Blvd Unit K100,,,Easton,Pennsylvania,18042-1474,United States,4842938005,,,
-40446a01-7d11-416b-9551-43903a30249e,The Harmony Inn,brewpub,230 Mercer St,,,Harmony,Pennsylvania,16037-6812,United States,,,-80.12650213,40.8029435
-419f3a76-0970-4e3b-90f9-e242deb0a782,The Millworks Brewery,brewpub,340 Verbeke St,,,Harrisburg,Pennsylvania,17102-2052,United States,7176954888,http://www.millworksharrisburg.com,-76.8874206,40.270538
-2198a974-f3cd-4290-83b7-a3d0600ad12d,The North Slope Brewing Company,brewpub,2439 Sr 309 Hwy,,,Dallas,Pennsylvania,18612-9251,United States,5702554012,http://www.northslopebrewing.com,,
+f644ee47-6458-4a46-9c25-b7e1ef8dd2e0,The Church Brew Works - Lawrenceville Brewery Inc.,brewpub,3525 Liberty Ave,,,Pittsburgh,Pennsylvania,15201-1324,United States,4126888200,http://www.churchbrew.com,-79.964394,40.462443
+40446a01-7d11-416b-9551-43903a30249e,The Harmony Inn,brewpub,230 Mercer St,,,Harmony,Pennsylvania,16037-6812,United States,,,-80.12658,40.802894
+8c179087-a47e-4108-8e8b-ad3be310ec7f,The Larimer Beer Company,taproom,15 Engle Street,,,Chester,Pennsylvania,19013,United States,6098767585,http://www.TheLarimer.com,-75.38232,39.833127
+10c141e1-c097-46a5-afa6-a59e62db219d,The Leaning Cask Brewing Company,taproom,850 Pittsburgh St,,,Springdale,Pennsylvania,15144-1623,United States,7247157539,http://www.leaningcaskbrewing.com,-79.778038,40.541206
+419f3a76-0970-4e3b-90f9-e242deb0a782,The Millworks Brewery,brewpub,340 Verbeke St,,,Harrisburg,Pennsylvania,17102-2052,United States,7176954888,http://www.millworksharrisburg.com,-76.887543,40.270706
+2198a974-f3cd-4290-83b7-a3d0600ad12d,The North Slope Brewing Company,brewpub,2439 Sr 309 Hwy,,,Dallas,Pennsylvania,18612-9251,United States,5702554012,http://www.northslopebrewing.com,-75.9767,41.3409
+a7bb4df8-6d16-487d-bd47-ad049e07319e,The Other Farm & Forge,brewpub,128 E Philadelphia Ave Ste 1,,,Boyertown,Pennsylvania,19512-1161,United States,4844150741,http://www.theotherfarmbrewingcompany.com,-75.635936,40.332331
 f6715a67-222b-4bed-802c-25b228aed9e0,The Other Farm Brewing Company,brewpub,128 E Philadelphia Ave Ste 1,,,Boyertown,Pennsylvania,19512-1161,United States,4844150741,http://www.theotherfarmbrewingcompany.com,,
-1c5234da-6871-4fb3-8c42-3ec063d6474c,The Proper Brewing Company,brewpub,117 W Broad St,,,Quakertown,Pennsylvania,18951-1200,United States,2674905168,http://www.theproperbrewing.com,-75.34137437,40.44177523
-5c9bacd3-14c6-4852-aea5-378e2f5ea523,The Vegetable Hunter,brewpub,614 N 2nd St,,,Harrisburg,Pennsylvania,17101-1001,United States,7176956229,http://www.TheVegetableHunter.com,-76.8881545,40.2638045
-1cb2123e-2834-48e5-a609-48294c80f741,Thirsty Farmer Brew Works,brewpub,290 Cashtown Road,,,Biglerville,Pennsylvania,17307,United States,7176778842,,,
-50020337-f432-4dc6-b007-546c5afe914b,Timber Creek Tap & Table,brewpub,11191 Highline Dr,,,Meadville,Pennsylvania,16335-6589,United States,8148071005,http://www.timbercreektapandtable.com,,
+1c5234da-6871-4fb3-8c42-3ec063d6474c,The Proper Brewing Company,brewpub,117 W Broad St,,,Quakertown,Pennsylvania,18951-1200,United States,2674905168,http://www.theproperbrewing.com,-75.33563,40.441626
+bf9dbb26-433e-479e-b3bf-c555edd66a38,The Referend Bier Blendery,micro,407 Old Route 22,,,Kutztown,Pennsylvania,19530,United States,6094740443,http://www.thereferend.com,-75.780142,40.579361
+9b93f221-b7ac-4258-a62a-db053331418b,The Side Room At Terrapin,brewpub,3803 Columbia Blvd,,,Bloomsburg,Pennsylvania,17815,United States,5703877703,http://www.thesideroomatterrapin.com,-76.384484,41.019736
+fba49a4a-ebff-4566-98f0-eaf23458f74f,The Soundbank Music Room & Taphouse,brewpub,119 S Main St,,,Phoenixville,Pennsylvania,19460,United States,4849208088,http://www.soundbankphx.com,-75.515161,40.132309
+5c9bacd3-14c6-4852-aea5-378e2f5ea523,The Vegetable Hunter,brewpub,614 N 2nd St,,,Harrisburg,Pennsylvania,17101-1001,United States,7176956229,http://www.TheVegetableHunter.com,-76.888239,40.263754
+d31af57b-98f6-4567-95d9-9c6d1ddc73c5,The Ways Restaurant and Brewery,brewpub,11 S. Easton rd,,,Glenside,Pennsylvania,19038,United States,2672652200,http://www.TheWaysRestaurantandBrewery,-75.152317,40.101199
+ae4ea0bc-878b-44b9-9f62-08a7442aba8f,Therapy Brewing,taproom,3978 Quaker Church Road,,,Montoursville,Pennsylvania,17754,United States,5705600987,http://therapybrewing.com,-76.793224,41.298837
+1cb2123e-2834-48e5-a609-48294c80f741,Thirsty Farmer Brew Works,brewpub,290 Cashtown Road,,,Biglerville,Pennsylvania,17307,United States,7176778842,,-77.349682,39.901424
+9b460e27-00e6-402f-9487-e88fcbf0e8ce,Three Beards Brewing,brewpub,109 Carroll Rd,,,Sunbury,Pennsylvania,17801,United States,5703926928,http://www.threebeardsbrew.com,-76.730438,40.851592
+50020337-f432-4dc6-b007-546c5afe914b,Timber Creek Tap & Table,brewpub,11191 Highline Dr,,,Meadville,Pennsylvania,16335-6589,United States,8148071005,http://www.timbercreektapandtable.com,-80.203538,41.620379
+ea664cda-108b-48f5-b245-e689571962af,Timber Creek Tap & Table,brewpub,15 Holiday Blvd,,,Mercer,Pennsylvania,16137,United States,8148071005,,-80.165436,41.143166
 2fd62d9c-43e9-44a1-88a5-6209f1da84f6,Tin Lizard Brewing Co,brewpub,1000 W Lancaster Ave,,,Bryn Mawr,Pennsylvania,19010-2611,United States,6105251100,http://www.tinlizardbrewingco.com,-75.322789,40.023568
-45fd5e31-0d8e-4f20-be9b-673df9f03a52,Tired Hands Brewing Co,brewpub,16 Ardmore Ave,,,Ardmore,Pennsylvania,19003-1302,United States,6108967621,http://www.tiredhands.com,-75.2936914,40.0086029
-b847ebf5-148f-4e38-b05a-cd3771965cd0,Tired Hands Brewing Co,brewpub,35 S Cricket Ter,,,Ardmore,Pennsylvania,19003-2203,United States,4844132983,http://www.tiredhands.com,-75.29076729,40.00683337
+45fd5e31-0d8e-4f20-be9b-673df9f03a52,Tired Hands Brewing Co,micro,35 S Cricket Ter,,,Ardmore,Pennsylvania,19003-2203,United States,4844132983,http://www.tiredhands.com,-75.291343,40.006387
+b847ebf5-148f-4e38-b05a-cd3771965cd0,Tired Hands Brewing Co,micro,35 S Cricket Ter,,,Ardmore,Pennsylvania,19003-2203,United States,4844132983,http://www.tiredhands.com,-75.291343,40.006387
+86f21fd0-a8af-4b0a-87c4-e4a24dfb3943,Tortured Souls Brewing,brewpub,125 North Main Street,,,Pittsburgh,Pennsylvania,15215,United States,4125235382,,-79.937727,40.49515
 594a7d7b-1885-4697-863e-5d60203b8a8a,Towerhill Brewery,brewpub,237 W Butler Ave,,,Chalfont,Pennsylvania,18914-3020,United States,2158228788,http://www.towerhillbrewery.com,-75.21378231,40.27984378
-e76fb79e-4dcc-4731-90d5-3d87f1d94cb7,Triumph Brewing Co of New Hope,brewpub,400 Union Square Dr,,,New Hope,Pennsylvania,18938-1367,United States,2158628300,http://www.triumphbrew.com,,
-bf19789e-0711-4e0e-80e7-98a0084c1388,Troegs Brewing Co,regional,200 E Hershey Park Dr,,,Hershey,Pennsylvania,17033-2719,United States,7175341297,http://www.troegs.com,,
+7e200242-b4d9-4261-93b7-0b83607d2a2f,Trace Brewing,taproom,4312 Main St,,,Pittsburgh,Pennsylvania,15224,United States,,http://www.tracebloomfield.com,-79.953373,40.464119
+676b0581-57e6-42d3-9c6f-3a694ae203ba,Trails to Ales Brewery,brewpub,1270 Liberty St.,,,Franklin,Pennsylvania,16323,United States,8145737474,http://trailstoalesbrewery.com,-79.830648,41.398017
+997e0e97-4905-4179-8e05-15fc6d485e5a,Tranquility Brewing Company,brewpub,780 Falcon Circle,,,Warminster,Pennsylvania,18974,United States,2155890611,http://www.rentthefuge.com/brewpub,-75.081258,40.202161
+c6405d00-0ac4-4b68-aed0-f67158e98a24,Triple Bottom Brewing Company,taproom,915 Spring Garden St,,,Philadelphia,Pennsylvania,19123,United States,2283245919,http://www.triplebottombrewing.com,-75.153407,39.962123
+e76fb79e-4dcc-4731-90d5-3d87f1d94cb7,Triumph Brewing Co of New Hope,brewpub,400 Union Square Dr,,,New Hope,Pennsylvania,18938-1367,United States,2158628300,http://www.triumphbrew.com,-74.954274,40.364842
+bf19789e-0711-4e0e-80e7-98a0084c1388,Troegs Brewing Co,regional,200 E Hershey Park Dr,,,Hershey,Pennsylvania,17033-2719,United States,7175341297,http://www.troegs.com,-76.641412,40.298426
 0c579f50-de3e-4b39-b404-cb2dec4227df,Trolley Barn Brewery,planning,,,,Quakertown,Pennsylvania,18951,United States,2154998959,http://www.trolleybarnpublicmarket.com,,
-498f8ea8-f909-4378-b437-7be8f5d01993,Tuned Up Brewing Company,micro,135 N Main St,,,Spring City,Pennsylvania,19475-1874,United States,6103063182,,-75.54752163,40.17990279
-af9086ee-bd51-4290-a609-8d3e35806c40,Turkey Hill Brewing Co Pub,brewpub,991 Central Rd,,,Bloomsburg,Pennsylvania,17815-8990,United States,5703878422,http://www.turkeyhillbrewing.com,,
+6492e3af-167f-444f-b84f-22588b0a1b70,Troubles End Brewing,brewpub,50 W Third Ave STE 310,,,Collegeville,Pennsylvania,19426,United States,4849028076,http://www.troublesendbrewing.com,-75.45308,40.185514
+b1554d2a-01d4-48d3-b857-918403004539,Truss Brewing Company,brewpub,42 Old Clairton Rd,,,Pittsburgh,Pennsylvania,15236,United States,4128081070,http://www.trussbrewing.com,-79.964624,40.339292
+19f6103f-49d4-457a-ab1a-7b64f576b7af,Truth Beer Company,micro,401 South 7th St,,,Akron,Pennsylvania,17501,United States,,http://www.truthbeercompany.com,-76.208379,40.149576
+5488e5b5-3407-4485-8c25-9bb54f296e7a,Tube City Brew Works and Restaurant,brewpub,623 Long Run Rd,,,Mc Keesport,Pennsylvania,15132,United States,4128961054,,-79.831394,40.323458
+498f8ea8-f909-4378-b437-7be8f5d01993,Tuned Up Brewing Company,taproom,135 N Main St,,,Spring City,Pennsylvania,19475-1874,United States,4843742671,http://www.tunedupbrew.com,-75.547612,40.180057
+af9086ee-bd51-4290-a609-8d3e35806c40,Turkey Hill Brewing Co Pub,brewpub,991 Central Rd,,,Bloomsburg,Pennsylvania,17815-8990,United States,5703878422,http://www.turkeyhillbrewing.com,-76.425379,41.024651
 29d82828-d18f-4ad7-9e7c-88bd7a652a7b,Twisted Bine Beer Co.,planning,,,,Mount Joy,Pennsylvania,17552-1424,United States,7179178577,,,
-1d4b058c-f5ac-4884-9ab5-d0d0d5cbf11c,Two Rivers Brewing Co,brewpub,542 Northampton St,,,Easton,Pennsylvania,18042-3517,United States,6108291131,http://www.tworiversbrewing.com,-75.214292,40.69072655
+afdffb14-6cdc-4171-a821-543b2e466a4f,Twisted Bine Beer Co.,brewpub,93 E Main St,,,Mount Joy,Pennsylvania,17552-1424,United States,7179178577,,-76.499115,40.109557
+3ce02851-7cf7-4ec7-9bda-6413deeba6dc,Twisted Gingers Brewing Company,brewpub,4317 Fleming St,,,Philadelphia,Pennsylvania,19128-4923,United States,,http://www.TwistedGingers.Beer,-75.21849,40.02751
+32a32686-3eb1-4e45-a96a-030da1550f6c,Two Frays Brewery,brewpub,5113 Penn Ave,,,PITTSBURGH,Pennsylvania,15224-1719,United States,6159178864,http://www.twofraysbrewery.com,-79.94232,40.46506
+1d4b058c-f5ac-4884-9ab5-d0d0d5cbf11c,Two Rivers Brewing Co,brewpub,542 Northampton St,,,Easton,Pennsylvania,18042-3517,United States,6108291131,http://www.tworiversbrewing.com,-75.214243,40.690716
+a21449c8-c418-4d28-800a-e6fc6593fd5a,"Understable Brewing, LLC",micro,2517 Green Avenue,,,Briston,Pennsylvania,19007,United States,2679393057,http://www.understablebrewing.com,-74.871033,40.122921
 378ffe8e-5cb8-4749-b5d6-797064394436,Union Barrel Works,brewpub,6 N Reamstown Rd,,,Stevens,Pennsylvania,17578,United States,7173357837,,,
-7eb42505-4dd3-452f-847b-2bf8f2155a79,Urban Village Brewing Company,brewpub,1001 N 2nd St,,,Philadelphia,Pennsylvania,19123-1612,United States,2676871961,http://www.urbanvillagebrewing.com,-75.1400237,39.9662701
-86157812-980d-4f66-b355-5aed2438ccc5,Vault Brewing Co,brewpub,10 S Main St,,,Morrisville,Pennsylvania,19067-1511,United States,2675734291,http://www.vaultbrewing.com,,
-1b8122fc-3b03-49c0-9ae2-e344a3510030,Victory Brewing Co,regional,420 Acorn Ln,,,Downingtown,Pennsylvania,19335-3040,United States,6108730881,http://www.victorybeer.com,,
+8b2def4e-38c3-4986-8dac-f539dbcb634f,Union Brothers Brewing,brewpub,365 Mercer road,,,Harmony,Pennsylvania,16037,United States,7244809823,http://Www.unionbrothersbrewing.com,-80.124138,40.811448
+167ebc09-a482-4319-babf-d0db27014ce7,Unity Brewing,brewpub,3862 US-30,,,Latrobe,Pennsylvania,15650,United States,7245204234,,-79.381204,40.286634
+7eb42505-4dd3-452f-847b-2bf8f2155a79,Urban Village Brewing Company,brewpub,1001 N 2nd St,,,Philadelphia,Pennsylvania,19123-1612,United States,2676871961,http://www.urbanvillagebrewing.com,-75.13983,39.966778
+b9830c67-351b-40c2-a7e6-29776adcde7a,Van Lieus Brewing Company,taproom,211 West Walnut Street,,,Perkasie,Pennsylvania,18944,United States,,http://www.vanlieusbrewing.com,-75.295196,40.369153
+86157812-980d-4f66-b355-5aed2438ccc5,Vault Brewing Co,brewpub,10 S Main St,,,Morrisville,Pennsylvania,19067-1511,United States,2675734291,http://www.vaultbrewing.com,-74.838073,40.24246
+1b8122fc-3b03-49c0-9ae2-e344a3510030,Victory Brewing Co,regional,420 Acorn Ln,,,Downingtown,Pennsylvania,19335-3040,United States,6108730881,http://www.victorybeer.com,-75.693935,40.006004
 caa654e3-bfa9-4019-8e83-2aca7a423720,Victory Brewing Co,brewpub,650 W Cypress St Ste 1,,,Kennett Square,Pennsylvania,19348-3059,United States,4847301870,http://www.victorybeer.com,,
 392b4940-7333-4a2e-9e64-3b12e0290354,Victory Brewing Co,regional,3127 Lower Valley Rd,,,Parkesburg,Pennsylvania,19365-9617,United States,6108730881,http://www.victorybeer.com,,
-496767e9-72ae-432a-aa87-a530acb459ea,Voodoo Brewing Co,brewpub,215 1/2 Arch St,,,Meadville,Pennsylvania,16335-3432,United States,8143373676,http://www.voodoobrewery.com,-80.154209,41.637124
-7df505f8-b60c-4824-8334-b71b7eabb15f,Voodoo Brewing Production Facility,brewpub,834 Bessemer St,,,Meadville,Pennsylvania,16335,United States,8143339123,,-80.15610217,41.64610467
+25b8f5c6-fd2c-4aef-b33c-bb1b6ef92fb3,Victory Brewing Co Kennett Square,brewpub,650 W Cypress St,,,Kennett Square,Pennsylvania,19348,United States,,,-75.719796,39.844436
+6d4e1da5-8369-4df1-89a6-b07b44b46649,Victory Brewing Company Parkesburg,brewpub,3127 Lower Valley Rd,,,Parkesburg,Pennsylvania,19365,United States,4847185080,http://www.taprooms.victorybeer.com/victory-brewing-company-parkesburg-6a9ff963cafd,-75.936001,39.953802
+5923385c-c8fa-4307-af90-00152e6fee3a,Victory Brewing Philly,brewpub,1776 Benjamin Franklin Pkwy,,,Philadelphia,Pennsylvania,19103,United States,,,-75.168959,39.956308
+c7eafd16-3d90-463a-913b-698344de4eff,VK Brewing,brewpub,693 East Lincoln Highway,,,Exton,Pennsylvania,19341,United States,4844331978,http://www.vkbrewing.com,-75.609912,40.03
+5e75aff5-a5cf-45bc-a5a2-986c2ca77fe2,von C Brewing Co.,taproom,1210 Stanbridge Street,,,Norristown,Pennsylvania,19401,United States,6103240378,http://www.voncbrewing.com,-75.345021,40.129626
+309de7b0-7c62-40a7-9a19-9d16a89c8b27,Voodoo Brewery at the Ritz,brewpub,956 5th Ave,,,New Kensington,Pennsylvania,15068,United States,7243212143,,-79.765118,40.5664
+496767e9-72ae-432a-aa87-a530acb459ea,Voodoo Brewing Co,brewpub,215 1/2 Arch St,,,Meadville,Pennsylvania,16335-3432,United States,8143373676,http://www.voodoobrewery.com,-80.15469,41.637357
+7df505f8-b60c-4824-8334-b71b7eabb15f,Voodoo Brewing Production Facility,brewpub,834 Bessemer St,,,Meadville,Pennsylvania,16335,United States,8143339123,,-80.158649,41.642665
 8c9a9c66-ac4e-42b4-9dc7-1628eaf00af5,Wacker Brewing Co,micro,417 W Grant St,,,Lancaster,Pennsylvania,17603,United States,7176172711,http://www.wackerbrewing.com,-76.31365439,40.03799427
-6a7acc2e-1fd6-47a7-ab20-83ac86aad50c,Wallenpaupack Brewing Company,brewpub,73 Welwood Ave,,,Hawley,Pennsylvania,18428-1500,United States,5703907933,http://www.wallenpaupackbrewingco.com,-75.17619182,41.46873956
-72bfa421-0e54-45a5-877d-3c26cedfae48,Warehouse Gourmet Bistro & Brew Pub,micro,7 Pennsylvania Ave,,,Hanover,Pennsylvania,17331-2432,United States,7174519898,http://www.warehousegourmet.net,-76.98976977,39.80232948
-9b3c11f7-2b67-49b9-98f4-3fecf1d4e6dc,Washington Brewing Co,brewpub,28 E Maiden St,,,Washington,Pennsylvania,15301-4912,United States,7242225050,http://thewashingtonbrewingcompany.com,-80.02076781,40.07308431
-8bc44d8f-07dd-4118-aecd-0bf08f70c26b,Western Pennsylvania Brewing Co,regional,119 Jefferson St,,,Latrobe,Pennsylvania,15650,United States,,http://www.citybreiwng.com,-79.38989645,40.31903018
+59a1e46b-6991-4995-a293-561d29e6a531,Wacker Brewing Co,taproom,2910 Old Tree Drive,,,Lancaster,Pennsylvania,17603,United States,7176172711,http://www.wackerbrewing.com,-76.380747,40.050102
+6a7acc2e-1fd6-47a7-ab20-83ac86aad50c,Wallenpaupack Brewing Company,brewpub,73 Welwood Ave,,,Hawley,Pennsylvania,18428-1500,United States,5703907933,http://www.wallenpaupackbrewingco.com,-75.180226,41.465888
+95eb187f-4eb9-4502-933a-21682c812ef0,War Streets Brewery,brewpub,902 Western Ave,,,Pittsburgh,Pennsylvania,15233-1718,United States,4122242163,http://www.bierspub.com,-80.016742,40.452072
+72bfa421-0e54-45a5-877d-3c26cedfae48,Warehouse Gourmet Bistro & Brew Pub,micro,7 Pennsylvania Ave,,,Hanover,Pennsylvania,17331-2432,United States,7174519898,http://www.warehousegourmet.net,-76.989253,39.802587
+da6b151d-bebd-4114-b8f2-609ab7546c87,Warwick Farm Brewing,taproom,800 Almshouse Road,,,Jamison,Pennsylvania,18929,United States,2157835809,http://www.warwickfarmbrewing.com,-75.070979,40.241655
+9b3c11f7-2b67-49b9-98f4-3fecf1d4e6dc,Washington Brewing Co,brewpub,28 E Maiden St,,,Washington,Pennsylvania,15301-4912,United States,7242225050,http://thewashingtonbrewingcompany.com,-80.243691,40.167445
+3cb62c11-bab2-4273-8bd6-efff11ff5c4e,Well Crafted Beer Company,taproom,300 Brookside Ave Bldg 19,,,Ambler,Pennsylvania,19002,United States,,,-75.232755,40.160625
+c45aa71f-8b88-440a-8c99-cb4c6ca50c6e,Well Crafted Beer Company,brewpub,310 Madison St Ste B100,,,Lansdale,Pennsylvania,19446,United States,2672632777,http://www.wellcraftedbeer.com,-75.286764,40.24398
+01f5beca-21d8-47c3-8924-411054f172a7,Wellsboro House,brewpub,34 Charleston St,,,Wellsboro,Pennsylvania,16901,United States,5707234687,http://www.thewellsborohouse.com,-77.292873,41.750474
+8bc44d8f-07dd-4118-aecd-0bf08f70c26b,Western Pennsylvania Brewing Co,regional,119 Jefferson St,,,Latrobe,Pennsylvania,15650,United States,,http://www.citybreiwng.com,-79.391541,40.320129
 aa40cdb4-5b17-46fb-94e5-b972f6cc0b86,Weyerbacher Brewing Co,regional,905 Line St Ste G,,,Easton,Pennsylvania,18042-7379,United States,6105595561,http://www.weyerbacher.com,,
+e28a3a9e-f77f-4cc4-afc3-1f8303baaf40,Whiskers Brewing Inc,taproom,7-9 South High Street,,,Newville,Pennsylvania,17241,United States,7175129803,http://Www.whiskersbrewing.com,-77.397665,40.170943
 d1cb2052-1155-4415-bb79-0d293a714de3,White Clay Brewing Company,planning,,,,Landenberg,Pennsylvania,19350-1540,United States,,,,
-a627508a-fbc7-4fa4-a0e2-d8b3c6404564,Whitehorse Brewing LLC,micro,824 Diamond St,,,Berlin,Pennsylvania,15530-1539,United States,8144442436,,-78.95695707,39.92530586
-498d083a-c992-4bd1-9ff7-39c7ea644cb6,Wissahickon Brewing Company,micro,3705 W School House Ln,,,Philadelphia,Pennsylvania,19129-1738,United States,2154838833,http://www.wissahickonbrew.com,-75.20047033,40.013655
+a627508a-fbc7-4fa4-a0e2-d8b3c6404564,Whitehorse Brewing LLC,taproom,824 Diamond St,,,Berlin,Pennsylvania,15530-1539,United States,8144442436,,-78.955788,39.926219
+52d9a651-5bdb-4501-9ed4-1469848ecb03,Wicked Warren's,brewpub,330 Pennsylvania Ave. W,,,Warren,Pennsylvania,16365,United States,7166091332,http://www.wickedwarrens.com,-79.148568,41.844846
+e876069d-cf46-4900-8241-684e04515cbc,Willow Creek Brewing,taproom,643 Penn Ave,,,West Reading,Pennsylvania,19611,United States,4846640368,http://www.willowcreekbeer.com,-75.951398,40.336192
+498d083a-c992-4bd1-9ff7-39c7ea644cb6,Wissahickon Brewing Company,brewpub,3705 W School House Ln,,,Philadelphia,Pennsylvania,19129-1738,United States,2154838833,http://www.wissahickonbrew.com,-75.200543,40.01368
 8af9aa93-cf66-48a2-b1fc-c354ad102e5f,Wolf Brewing Company,planning,,,,Harrisburg,Pennsylvania,17112-1550,United States,7176452752,http://www.wolfbrewingco.com,,
-1f10ffbf-b7bc-4704-bc6e-8101de47917f,Wyndridge Farm Brewing,brewpub,885 S Pleasant Ave,,,Dallastown,Pennsylvania,17313-9650,United States,7172449900,http://www.wyndridge.com,-76.644864,39.893878
+fedbf936-e43c-4d64-ab52-6c0be6aeb1f2,Wolf Brewing Company,micro,100 Legacy Park Drive,,,Mechanicsburg,Pennsylvania,17055,United States,7175907917,http://www.wolfbrewingco.com,-76.9767,40.2103
+9e0648de-20c5-4f9d-8185-4e546226ddc2,Workhorse Brewing Co,micro,250 King Manor Dr,,,King Of Prussia,Pennsylvania,19406,United States,2155393472,http://www.workhorsebrewing.com,-75.349638,40.091223
+e9be4f37-5ad3-435f-9f1d-847553342149,Wrong Crowd Beer Company,micro,342 Hannum Ave West,,,West Chester,Pennsylvania,19380,United States,,http://www.facebook.com/wrongcrowdbeer/,-75.610631,39.958833
+1f10ffbf-b7bc-4704-bc6e-8101de47917f,Wyndridge Farm Brewing,micro,885 S Pleasant Ave,,,Dallastown,Pennsylvania,17313-9650,United States,7172449900,http://www.wyndridge.com,-76.645618,39.883973
 1a86c24c-f5bf-4aad-90a2-71db07f18b6c,Yards Brewing Co,regional,901 N Delaware Ave,,,Philadelphia,Pennsylvania,19123-3110,United States,2156342600,http://www.yardsbrewing.com,-75.1324016,39.9655175
-0480da50-7ce0-40c3-a95f-66411e083c65,Yellow Bridge Brewing Co.,micro,2266 Route 66,,,Delmont,Pennsylvania,15626-1461,United States,7243003922,http://www.yellowbridgebrewing.com,,
+6337c1cb-8662-405c-806b-e6cacd54fa48,Yards Brewing Company,regional,500 SPRING GARDEN ST,,,Philadelphia,Pennsylvania,19123-3110,United States,2156342600,http://www.yardsbrewing.com,-75.146808,39.961021
+0480da50-7ce0-40c3-a95f-66411e083c65,Yellow Bridge Brewing Co.,taproom,2266 Route 66,,,Delmont,Pennsylvania,15626-1461,United States,7243003922,http://www.yellowbridgebrewing.com,-79.572024,40.401464
 f0098c6f-401d-4be1-9bb9-5e1de4d84673,Yergey Brewing,micro,518B Bank St,,,Emmaus,Pennsylvania,18049-2008,United States,6104172804,http://yergeybrewing.com,-75.49366592,40.53379322
-cfbd4b1b-f848-4f39-9525-9c2c607e7562,Yorkholo Brewing Co,brewpub,19 N Main St,,,Mansfield,Pennsylvania,16933-1403,United States,5704045805,http://www.yorkholobrewing.com,-77.07838707,41.80758509
+900aeb72-c3ca-47f5-aeed-1f91d526aab9,Yergey Brewing,taproom,235 Main St,,,Emmaus,Pennsylvania,18049,United States,6104172804,http://yergeybrewing.com,-75.489869,40.5365
+cfbd4b1b-f848-4f39-9525-9c2c607e7562,Yorkholo Brewing Co,brewpub,19 N Main St,,,Mansfield,Pennsylvania,16933-1403,United States,5704045805,http://www.yorkholobrewing.com,-77.078768,41.807548
+d44a4de0-ede8-4a79-884f-9465a8186109,Yough River Brewing Co,taproom,1030 S Arch St,,,Connellsville,Pennsylvania,15425,United States,,http://www.facebook.com/Yough-River-Brewing-Co-100312342060138,-79.591628,40.00894
 6b4ce9ea-b66c-455a-b284-8a629b7f8fc8,Young's Brewing,planning,,,,Wexford,Pennsylvania,15090,United States,,,,
-1e64c937-e250-448e-962a-f2a40d6ca9db,Zeroday Brewing Company,brewpub,250 Reily St Ste 103,,,Harrisburg,Pennsylvania,17102-2550,United States,7177456218,http://www.zerodaybrewing.com,-76.8915931,40.2717061
+1e64c937-e250-448e-962a-f2a40d6ca9db,Zeroday Brewing Company,brewpub,250 Reily St Ste 103,,,Harrisburg,Pennsylvania,17102-2550,United States,7177456218,http://www.zerodaybrewing.com,-76.891409,40.271612

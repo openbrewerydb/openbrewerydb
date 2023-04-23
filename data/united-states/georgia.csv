@@ -2,100 +2,200 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 d4c7fb43-6671-4597-8cdd-e938d751aca2,400 North Brewing,planning,,,,Sugarhill,Georgia,30518-7916,United States,4047911119,http://400northbrewing.com,,
 80c395e8-28c8-460a-9cc5-721fcc22410f,5 Seasons Brewing Co - Prado,brewpub,5600 Roswell Rd,,,Sandy Springs,Georgia,30342-1150,United States,4042555911,http://www.5seasonsbrewing.com,-84.3796711,33.9078086
 baad8dd7-b295-480c-8f64-e499562a3662,5 Seasons Brewing Co - Westside,brewpub,1000 Marietta St NW Ste 204,,,Atlanta,Georgia,30318-0683,United States,4048753232,http://www.5seasonsbrewing.com,,
+50301d45-21d4-4c95-8a44-37f6335acfef,52 West Brewing,taproom,350 Highway 52 West,,,Dahlonega,Georgia,30533,United States,4043741005,http://www.52westbrewing.com,-84.051016,34.523102
 76ee21a3-d4bd-4526-9ef8-5a23a4507566,6 Bridges Brewing,planning,,,,Johns Creek,Georgia,30097,United States,7708460292,http://www.sixbridgesbrewing.com,,
-b161916f-3f69-4f16-8059-eef9eee6877c,Abide Brewing Company,micro,110 Werz Industrial Blvd Ste 130,,,Newnan,Georgia,30263-5802,United States,6789726747,http://www.abidebrewing.com,-84.76356641,33.40257035
-828ee507-7142-4c7c-9f0b-82964d4195d0,Akademia Brewing Company,brewpub,150 Crane Dr,,,Athens,Georgia,30606-0600,United States,7064613208,http://www.AkademiaBC.com,-83.47153754,33.94270289
+10d1a26c-bc23-4964-8790-f2158d19117e,6S Brewing Company,taproom,3111 Main St,,,Duluth,Georgia,30096-3219,United States,6785978335,http://www.6SBeer.com,-84.144898,34.002858
+b161916f-3f69-4f16-8059-eef9eee6877c,Abide Brewing Company,micro,110 Werz Industrial Blvd Ste 130,,,Newnan,Georgia,30263-5802,United States,6789726747,http://www.abidebrewing.com,-84.763643,33.399861
+828ee507-7142-4c7c-9f0b-82964d4195d0,Akademia Brewing Company,micro,150 Crane Dr,,,Athens,Georgia,30606-0600,United States,7064613208,http://www.AkademiaBC.com,-83.470452,33.942109
+cef5f949-7764-4e33-8af8-9f7bb620bda5,Amici At Trilith,brewpub,355 Trilith Parkway STE 110,,,Fayetteville,Georgia,30214,United States,6788925858,,-84.4725,33.4801
+39face25-f720-4f8d-a08e-e4bf36b5d018,Amici Madison,brewpub,174 W Washington St,,,Madison,Georgia,30650,United States,7063420000,http://www.amici-cafe.com/madison/,-83.469418,33.596032
+6d08882f-96bd-4c2a-9441-5cbd7f16eed9,Amici Midtown,brewpub,955 Spring St NW,,,Atlanta,Georgia,30309,United States,4043014583,http://www.amici-cafe.com/midtown,-84.388703,33.781042
+dbec35a0-175d-4df7-9433-c2a0626daa7b,Angry Hops Brewing,taproom,341 E Main St,,,Blue Ridge,Georgia,30513,United States,,http://www.angryhopsbrewing.com,-84.320198,34.869579
 6599a1de-d497-4e4f-bf3d-16d5065fefec,Anheuser-Busch Inc â Cartersville,large,100 Busch Dr NE,,,Cartersville,Georgia,30121-7217,United States,7703862000,,,
-ce1af2d9-e7d4-4d13-99f6-212067335f9e,Arches Brewing,micro,3361 Dogwood Dr,,,Hapeville,Georgia,30354-1439,United States,6786532739,,,
+15c0a57b-4d5a-450e-ba71-4db094fd337e,Apparition Brewing,brewpub,1166 Church Street,,,Sugar Hill,Georgia,30518,United States,,http://https://apparitionbrew.com,-84.037249,34.106346
+ce1af2d9-e7d4-4d13-99f6-212067335f9e,Arches Brewing,micro,3361 Dogwood Dr,,,Hapeville,Georgia,30354-1439,United States,4047355479,,-84.409743,33.662746
+d8495736-035a-4fce-9bdb-47b45b5f8089,Athentic Brewing Company,taproom,108 Park Ave,,,Athens,Georgia,30601,United States,7062963992,http://www.athenticbrewing.com,-83.397304,33.962878
+93c98b0f-dc66-4a67-94a8-66cbc824f072,Atlantucky Brewing,taproom,170 Northside Dr SW,,,Atlanta,Georgia,30313,United States,,http://www.atlantucky.com,-84.405743,33.746809
+670044d9-aec2-42b7-a506-8f014ac456e2,Awkward Brewing,taproom,240 Lee St.,,,Fayetteville,Georgia,30214,United States,4258797891,http://www.awkwardbrew.com,-84.453272,33.445463
+c93ae6af-7971-44eb-a038-10d33987e605,Back Paddle Brewing,brewpub,3472 Bethany Church Rd,,,Lincolnton,Georgia,30817,United States,7063598057,,-82.415768,33.843174
+457a4ae6-5bfe-45cf-b59b-871ce3e7b5a2,Barrier Island Brewing,brewpub,1226 Ocean Blvd #1,,,St. Simons Island,Georgia,31522,United States,9122682774,http://www.bibssi.com,-81.380798,31.140742
+c59dfd11-752b-4005-8c96-207a9d9563d9,Beacon Brewing Co.,brewpub,700 Lincoln St.,,,LaGrange,Georgia,30240,United States,7064020830,http://www.beacon.beer,-85.048232,33.025833
+607e9360-6172-4f96-bf14-ef78585bef7a,Best End Brewing Company,brewpub,1036 White St SW,,,Atlanta,Georgia,30310-2634,United States,4703910999,http://Bestendbrewing.com,-84.42111,33.731494
+4d269730-41c0-489b-9fdb-5826f1b0a808,Biggerstaff Brewing Company,brewpub,537 Edgewood Ave,,,Atlanta,Georgia,30312,United States,4047969919,http://www.biggerstaffbrewing.com,-84.370111,33.75401
+da277211-152f-4c77-9009-6185872cf044,Blackbird Farms Brewery,taproom,4098 Lawrenceville Hwy,,,Lilburn,Georgia,30047,United States,,,-84.117244,33.903343
 804a6227-ddd1-41d8-8771-2485a1c63bdb,BlueTarp Brewing Co,micro,731 E College Ave,,,Decatur,Georgia,30030-5365,United States,4046696740,http://www.bluetarpbrew.com,-84.2835622,33.7740425
+2459a795-7faf-4aaa-bd0f-44d4a715b149,BlueTarp Brewing Co,taproom,2316 Main St STE K,,,Tucker,Georgia,30084,United States,4046696740,http://www.bluetarpbrew.com,-84.214721,33.852769
+d1423ac7-0d0b-4a9b-b996-bccc3fbc12f2,Bold Monk Brewing Company,brewpub,320 Peachtree St NE,,,Atlanta,Georgia,30308-3210,United States,4045254400,http://www.maxlagers.com,-84.387069,33.763367
+12ffed02-8949-400d-abb6-37096ea9a21b,Brackish Beer Company,taproom,907 Dilworth St,,,Saint Marys,Georgia,31558,United States,9123226743,http://www.brackishbeer.com,-81.556749,30.735448
 b5afc4b3-221a-49d5-8e55-c6a374ea45d2,Braselton Brewing Company,planning,,,,Braselton,Georgia,30517,United States,7068701458,,,
+b970974e-23cc-40ef-a3ef-3d5906f0a5fd,Braselton Brewing Company,brewpub,9859 Davis St,,,Braselton,Georgia,30517,United States,7066840686,http://www.braseltonbrewing.com,-83.761139,34.109338
+2d74be2d-d4e0-4d95-882a-1580caa06a85,BrewDog Atlanta,location,112 Krog St,,,Atlanta,Georgia,30307,United States,,,-84.364759,33.756549
 80a6159f-2196-4c18-bfdb-4fc34a723524,Buck Bald Brewing Corporation,planning,,,,Blue Ridge,Georgia,30513,United States,7703169971,http://www.buckbaldbrewing.com,,
-179ddd44-f2d8-4a98-ab38-ceeca78c11ad,Burnt Hickory Brewery,micro,2260 Moon Station Ct NW Ste 210,,,Kennesaw,Georgia,30144-5653,United States,7705148812,http://www.burnthickorybrewery.com,,
-cf741ae8-b09e-40af-9ea7-065f0736a458,Cannon Brewpub,brewpub,1041 Broadway,,,Columbus,Georgia,31901-5256,United States,7066532337,,,
+9ff9654e-3802-4723-898a-b38c4252a5dc,Bucking Goat Brewing Company,taproom,76 seven hills BLVD,,,Dallas,Georgia,30132,United States,7702981739,,-84.777473,34.028599
+179ddd44-f2d8-4a98-ab38-ceeca78c11ad,Burnt Hickory Brewery,micro,2260 Moon Station Ct NW Ste 210,,,Kennesaw,Georgia,30144,United States,7705148812,http://www.burnthickorybrewery.com,-84.616534,34.033147
+be4a1130-8cf0-441a-9d9c-4ca37cb98c38,Camp Brewing Company,taproom,8 Cherry St,,,Hampton,Georgia,30228,United States,4049133669,http://www.campbrewingcompany.com,-84.282225,33.386686
+cf741ae8-b09e-40af-9ea7-065f0736a458,Cannon Brewpub,brewpub,1041 Broadway,,,Columbus,Georgia,31901-5256,United States,7066532337,,-84.993726,32.466362
+e925a211-8b2c-44e6-b7b7-d0ecf5b6ecf6,Cartecay River Brewing Co,taproom,26 River Ter,,,Ellijay,Georgia,30540,United States,7063958985,http://www.cartecayriverbrewing.com,-84.491734,34.682173
 32e080ba-5023-493a-a6ea-0a13f5be02fb,Chattabrewchee Southern Brewhouse,micro,709 4th Ave,,,West Point,Georgia,31833-1506,United States,7065011151,http://www.chattabrewchee.com,-85.18536152,32.87625763
-0aa7e0cb-3465-42c8-a6cd-2af04701f286,Cherokee Brewing + Pizza Company,brewpub,207-B West Cuyler St,,,Dalton,Georgia,30720,United States,7065299478,http://www.cherokeebrewingandpizza.com,-84.96940721,34.76976664
-8f79511b-78db-4478-980f-82b9219e5916,Coastal Empire Beer Co,micro,79 Ross Rd,,,Savannah,Georgia,31405-1660,United States,9124287911,http://www.coastalempirebeer.com,,
-9ff5bda3-04ed-48cc-8d63-9c2799a12a42,Creature Comforts Brewing Co.,regional,271 W Hancock Ave,,,Athens,Georgia,30601-2727,United States,7064101043,http://www.creaturecomfortsbeer.com,-83.380087,33.95919871
-f4512d6a-51fd-4e2d-b601-f4666490f0a0,Creature Comforts Production Facility At Southern Mill,regional,355 Oneta St Bldg A100,,,Athens,Georgia,30601,United States,,,,
-35d4bdfd-bad4-4438-b690-d49cc685d774,Currahee Brewing Company,micro,25 S Main St,,,Alpharetta,Georgia,30009,United States,,,-84.2967826,34.0711104
-8f0e3986-07af-496e-9149-bbcde8bb9b84,Dry County Brewing Company,micro,1500 Lockhart Drive,,,kennesaw,Georgia,30144,United States,4045799846,http://www.DryCountyBrewCo.com,,
-c88ab21e-2a9a-4d12-a50f-9b0c478d26ea,Eagle Creek Brewing Company,micro,106 Savannah Ave Ste B,,,Statesboro,Georgia,30458-7162,United States,9124892337,http://www.eaglecreekbrewingco.com,,
+025d70ce-e80a-4a76-8e51-d2d43b0b20b5,Chattabrewchee Southern Brewhouse,taproom,"1301 6th Ave, Ste C",,,Columbus,Georgia,31901,United States,7066412733,http://www.chattabrewchee.com,-84.985027,32.472255
+0aa7e0cb-3465-42c8-a6cd-2af04701f286,Cherokee Brewing + Pizza Company,brewpub,207-B West Cuyler St,,,Dalton,Georgia,30720,United States,7065299478,http://www.cherokeebrewingandpizza.com,-84.969697,34.769436
+d983c928-d91a-49f6-90c1-f60343379f53,Cherry Street Brewing,brewpub,5810 Bond St,,,Cumming,Georgia,30040-0301,United States,9709803646,http://www.cherrystreetbrewing.com,-84.218885,34.182287
+8f75ae8f-fc4a-48b8-ab55-e969ff4e3e5d,Cherry Street Brewpub At Halcyon,brewpub,"6640 Town Sq, Ste 510",,,Alpharetta,Georgia,30005,United States,6784568189,,-84.2227,34.1105
+8f79511b-78db-4478-980f-82b9219e5916,Coastal Empire Beer Co,micro,79 Ross Rd,,,Savannah,Georgia,31405-1660,United States,9124287911,http://www.coastalempirebeer.com,-81.124064,32.05179
+ce7925d3-5ecc-42d5-b98c-8d2754df605e,"Cochran Mill Brewing Company, LLC",taproom,27 Word Street,,,Fairburn,Georgia,30213,United States,7708517896,http://www.cochranmillbrewing.com,-84.585082,33.561184
+193c1c97-97ec-4c50-aaef-fbc8368ef0a5,Contrast Artisan Ales,taproom,5504 PEACHTREE RD,,,CHAMBLEE,Georgia,30341,United States,,http://www.contrastartisanales.com,-84.297712,33.894568
+9ff5bda3-04ed-48cc-8d63-9c2799a12a42,Creature Comforts Brewing Co.,regional,271 W Hancock Ave,,,Athens,Georgia,30601-2727,United States,7064101043,http://www.creaturecomfortsbeer.com,-83.380039,33.958964
+f4512d6a-51fd-4e2d-b601-f4666490f0a0,Creature Comforts Production Facility At Southern Mill,regional,355 Oneta St Bldg A100,,,Athens,Georgia,30601,United States,,,-83.397243,33.97067
+35d4bdfd-bad4-4438-b690-d49cc685d774,Currahee Brewing Company,micro,25 S Main St,,,Alpharetta,Georgia,30009,United States,,,-84.294831,34.074803
+64928daa-6215-4765-aee0-be41a835ceb0,Currahee Brewing Company,taproom,93 W Savannah St,,,Clayton,Georgia,30525,United States,8286340078,,-83.402727,34.878106
+745cbbc0-b7ef-4d6d-b4e9-8ef4d1a50e87,Dalton Brewing Company,micro,112 W King St,,,Dalton,Georgia,30720-4220,United States,7065295524,http://placeholder,-84.968493,34.772617
+20d2d32e-96da-49d0-ab2e-130cdb4f7ea4,Debellation Brewing Co,taproom,822 Longwood Dr,,,Richmond Hill,Georgia,31324,United States,9124454282,http://www.debellationbrewing.com,-81.322133,31.968507
+83909495-72cf-41d9-9fdf-a77ca85e5ab9,Dr. Scofflaw's At The Works ATL,taproom,214 Chattahoochee Row Northwest,,,Atlanta,Georgia,30318,United States,4049153392,,-84.4334,33.8044
+a4fa560e-5e06-47f3-841e-850b4a53782e,Drowned Valley Brewing Co.,taproom,4 S. Tennessee St,,,Cartersville,Georgia,30120,United States,4705238220,http://www.drownedvalleybrewing.beer,-84.792999,34.16654
+8f0e3986-07af-496e-9149-bbcde8bb9b84,Dry County Brewing Company,micro,1500 Lockhart Drive,,,kennesaw,Georgia,30144,United States,4045799846,http://www.DryCountyBrewCo.com,-84.593732,34.021651
+c88ab21e-2a9a-4d12-a50f-9b0c478d26ea,Eagle Creek Brewing Company,brewpub,106 Savannah Ave Ste B,,,Statesboro,Georgia,30458-7162,United States,9124892337,http://www.eaglecreekbrewingco.com,-81.77975,32.448282
+4a08f3c7-b90e-4a81-adc3-6949684f7b25,Elsewhere Brewing Company,brewpub,1039 Grant Street SE,,,Atlanta,Georgia,30315,United States,5129131692,http://www.elsewherebrewing.co,-84.377316,33.725513
 5b2d36b5-9994-421e-bd81-f9bca58a9216,Etowah Brewery,planning,,,,Dahlonega,Georgia,30533,United States,6785707349,,,
 9d99fd5e-9aeb-48c6-a8b5-ece6a0607dbd,EuroBevs,contract,2255 Cumberland Pkwy SE,,,Atlanta,Georgia,30339-4515,United States,7704371285,http://www.eurobevs.com,,
-51e73708-c0e0-4502-8986-2b1db31621f5,Eventide Brewing Co,micro,1015 Grant St SE,,,Atlanta,Georgia,30315-2014,United States,4049074543,http://www.eventidebrewing.com,-84.37706291,33.72670205
-b024d4aa-863a-460b-ad4d-aba44398e2ab,Fannin Brewing,micro,3758 E First St,,,Blue Ridge,Georgia,30513-4514,United States,7062582762,http://www.fanninbrewingcompany.com,-84.31707477,34.87142613
-483e1e69-0687-445c-99c2-b1ec732eb580,Fire Maker Brewing Company,micro,975 Chattahoochee Ave NW,,,Atlanta,Georgia,30318,United States,6787058777,https://www.firemakerbeer.com,-84.41943924,33.80024037
+51e73708-c0e0-4502-8986-2b1db31621f5,Eventide Brewing Co,taproom,1015 Grant St SE,,,Atlanta,Georgia,30315-2014,United States,4049074543,http://www.eventidebrewing.com,-84.377301,33.726703
+b024d4aa-863a-460b-ad4d-aba44398e2ab,Fannin Brewing,micro,3758 E First St,,,Blue Ridge,Georgia,30513-4514,United States,7062582762,http://www.fanninbrewingcompany.com,-84.317631,34.870724
+483e1e69-0687-445c-99c2-b1ec732eb580,Fire Maker Brewing Company,micro,975 Chattahoochee Ave NW,,,Atlanta,Georgia,30318,United States,6787058777,http://www.firemakerbeer.com,-84.419406,33.800201
 4909cd1a-bb81-4e07-86e9-2737ab02fd6a,Firewater Brewing Company,planning,,,,Kennesaw,Georgia,30144,United States,,,,
-564ec142-f73e-4d0c-9430-828e8553aa79,From The Earth Brewing Company,brewpub,1570 Holcomb Bridge Rd Suite 405,,,Roswell,Georgia,30076,United States,7709109799,http://www.ftebrewing.com,,
-051c41cf-a0a9-4f3a-bf12-84f3b68960be,Gate City Brewing Company,micro,43 Magnolia St,,,Roswell,Georgia,30075-4289,United States,6784040961,http://www.gatecitybrewingco.com,-84.36395307,34.02293426
+89c97b3e-19a0-4360-8ac1-dd948a3d5c05,Firewater Brewing Company,alt prop,3949 North Indian Cir,,,Kennesaw,Georgia,30144,United States,7705475509,http://www.firewaterbrewingco.com,-84.64706,34.047184
+6f1e5e4f-7b4f-4c40-81b0-7685c895b7cd,Fox City Brewing Co,brewpub,45 N Kimbell St,,,Forsyth,Georgia,31029,United States,4789932174,http://www.foxcitybrewing.com,-83.937464,33.035346
+c131cb0a-b64d-4af3-8027-10c0aa856de1,Freedom Brew & Shine,taproom,2730 Spot Road,,,Cumming,Georgia,30040,United States,,http://www.freedombrewandshine.com,-84.106263,34.260698
+564ec142-f73e-4d0c-9430-828e8553aa79,From The Earth Brewing Company,brewpub,1570 Holcomb Bridge Rd,,,Roswell,Georgia,30076,United States,7709109799,http://www.ftebrewing.com,-84.312585,34.019289
+185e5ea9-5635-4503-9533-9bbc721a3b99,From The Earth Brewing Company,brewpub,1570 Holcomb Bridge Rd,,,Roswell,Georgia,30076,United States,7709109799,http://www.ftebrewing.com,-84.312585,34.019289
+051c41cf-a0a9-4f3a-bf12-84f3b68960be,Gate City Brewing Company,taproom,43 Magnolia St,,,Roswell,Georgia,30075-4289,United States,6784040961,http://www.gatecitybrewingco.com,-84.362753,34.023194
 509592b2-00bc-4210-b57d-35fcd2447e53,Georgia Beer Co,planning,,,,Valdosta,Georgia,31601-9017,United States,9123995883,http://www.georgiabeerco.com,,
+dedd3b8b-6ae1-46ed-912c-db6114f3e6f6,Georgia Beer Co,taproom,109 S Briggs St,,,Valdosta,Georgia,31601-9017,United States,9123995883,http://www.georgiabeerco.com,-83.282339,30.828774
 748e5fbd-c51a-4dfb-8862-089ac305832b,Glover Park Brewery,planning,,,,Marietta,Georgia,30060,United States,,,,
-649e9b90-6572-4b02-9652-90d4ffec7a92,Good Word Brewing & Public House,brewpub,3085 Main St Ste 520,,,Duluth,Georgia,30096-3261,United States,4049732077,http://www.goodwordbrewing.com,,
+1bb53fb4-1615-4cdc-b6eb-ca191e8bc4b4,Glover Park Brewery,taproom,65 Atlanta St,,,Marietta,Georgia,30060,United States,7706932417,,-84.548656,33.950169
+649e9b90-6572-4b02-9652-90d4ffec7a92,Good Word Brewing & Public House,brewpub,3085 Main St Ste 520,,,Duluth,Georgia,30096-3261,United States,6783369928,http://www.goodwordbrewing.com,-84.144247,34.003299
 a638f91d-b523-4965-875b-2c2580e990f2,Gordon Biersch Brewery Restaurant - Atlanta,brewpub,3242 Peachtree Rd NE,,,Atlanta,Georgia,30305-2425,United States,4042640253,http://www.craftworksrestaurants.com,-84.3620936,33.8503143
+06a705ce-5740-4951-9cbc-53f9c0115331,Green Line Brewery,brewpub,192 E Main St,,,Canton,Georgia,30114,United States,7702134420,http://www.greenlinebrews.com,-84.489939,34.237028
 89594197-5fd6-4032-842f-429832a52034,GRITS Brewing,planning,,,,Chamblee,Georgia,30341-2024,United States,,,,
-924b7483-1f85-4ffc-9ef2-0d2697ff8d09,Grumpy Old Men Brewing,micro,1315 E Main St,,,Blue Ridge,Georgia,30513-8506,United States,7703318870,http://www.grumpyoldmenbrewing.com,-84.33050832,34.85747136
+924b7483-1f85-4ffc-9ef2-0d2697ff8d09,Grumpy Old Men Brewing,taproom,1315 E Main St,,,Blue Ridge,Georgia,30513-8506,United States,7703318870,http://www.grumpyoldmenbrewing.com,-84.329979,34.858185
+308e835c-70ac-483d-a5d7-cf8782d1b91d,Halfway Crooks Beer,taproom,60 Georgia Ave,,,Atlanta,Georgia,30312,United States,6787055530,http://www.halfwaycrooks.beer,-84.385759,33.736992
+082c6785-95ed-450b-bf36-7ae5ece320da,Hiawassee Brew,brewpub,616 S Main St,,,Hiawassee,Georgia,30546,United States,7068962739,http://www.hiawassee-brew.com,-83.746377,34.940638
+67ce9cd5-1dd8-4b78-9c79-30dd1d9bb476,Hippin Hops Brewery,brewpub,2380 Hosea L Williams Drive,,,Atlanta,Georgia,30317,United States,4044496295,http://Hippinhopsbrewery.com,-84.309218,33.751452
+f8d3e2c6-debc-4090-a700-bfe35e85395a,Hippin' Hops and Oyster Bar,brewpub,1308 Glenwood Ave,,,Atlanta,Georgia,30316,United States,6787132739,http://www.hippinhopsbrewery.com,-84.344799,33.740326
+69877c79-2193-4daf-bf75-cc9740559994,Hippin' Hops Stone Mountain,taproom,5644 Memorial Drive,,,Stone Mountain,Georgia,30083,United States,,,-84.207552,33.801757
+2f3d374f-aa4b-495b-bbdf-73c2ae04d0c4,Hixtown Brewing Co,taproom,407 Main Street,,,Villa Rica,Georgia,30180,United States,7708836188,http://www.hixtownbrewingco.com,-84.92046,33.733355
+ef7842b7-9dfa-4f5f-a74b-2acea8b5f74f,Hop Atomica,brewpub,535 East 39th Street,,,Savannah,Georgia,31401,United States,9126874846,http://www.hopatomica.com,-81.09375,32.053373
 393fa5cb-5e38-4984-b411-f76bc6865356,Hop Soul Brewery,planning,,,,Brunswick,Georgia,31520,United States,,http://www.hopsoulbrewery.com,,
-57d4ae82-efea-44e8-8871-743ddb115857,Hopstix,brewpub,3404 Pierce Dr NE,,,Chamblee,Georgia,30341-2444,United States,6788882306,http://www.hopstix.com,,
-1859086e-a38e-4e00-8760-398e58190dac,Ironmonger Brewing,micro,2129 Northwest Pkwy SE Ste 105,,,Marietta,Georgia,30067-9223,United States,6787428551,http://www.ironmongerbrewing.com,-84.48696353,33.91959382
+57d4ae82-efea-44e8-8871-743ddb115857,Hopstix,brewpub,3404 Pierce Dr NE,,,Chamblee,Georgia,30341-2444,United States,6788882306,http://www.hopstix.com,-84.303153,33.8906
+e1eff2dd-bc7a-4487-8cc3-2228d222394a,Indio Brewing Co,taproom,5019 West Broad Street M145,,,Sugar Hill,Georgia,30518,United States,6782063700,http://www.indiobrewing.com,-84.0184,34.1199
+ea37706b-bc5b-403b-8c86-1bea3592d5cb,Inner Voice Brewing,taproom,308 West Ponce De Leon,,,Decatur,Georgia,30030,United States,,,-84.300249,33.775325
+b5a9c861-d5ac-43c7-9f25-bd754327ab7d,Iron Hill Brewery & Restaurant - Buckhead,brewpub,3535 Peachtree Rd NE,,,Atlanta,Georgia,30326,United States,3028882739,http://www.ironhillbrewery.com,-84.358671,33.851569
+4e2fcc31-4014-43dc-8ea6-6e06d47e1e32,Iron Hill Brewery & Restaurant - Perimeter,brewpub,1224 Hammond Dr,,,Atlanta,Georgia,30346,United States,3028882739,http://www.ironhillbrewery.com,-84.342884,33.920944
+1859086e-a38e-4e00-8760-398e58190dac,Ironmonger Brewing,micro,2129 Northwest Pkwy SE Ste 105,,,Marietta,Georgia,30067-9223,United States,6787428551,http://www.ironmongerbrewing.com,-84.489736,33.920879
+38fd7b3e-cb0e-4784-8376-5128d4081715,Ironshield Brewing,micro,457 N Chestnut,,,Lawrenceville,Georgia,30046,United States,6783603537,http://www.ironshieldbrewing.com,-83.98733,33.960228
 7e10797c-320d-4fdf-940b-09550b0e8fc3,Ironwood Creek,planning,,,,Evans,Georgia,30809-8239,United States,,,,
 2620bb33-78fe-4911-b4a5-3df64b547380,Jailhouse Brewing Co,micro,8 Cherry St,,,Hampton,Georgia,30228-5575,United States,4047297681,http://www.jailhousebrewing.com,-84.282374,33.387534
-7a510870-1ac8-4f7c-9b9a-e112d990e8b2,Jekyll Brewing,micro,2855 Marconi Dr Ste 350,,,Alpharetta,Georgia,30005-2051,United States,7705968788,http://www.jekyllbrewing.com,-84.2536638,34.0816562
-646eff4c-0945-4b2d-acda-dafee1142c70,"Johnnie MacCracken's Celtic Firehouse Pub, Inc.",brewpub,15 Atlanta Street,,,Marietta,Georgia,30060-1985,United States,7705907868,http://www.johnniemaccrackens.com,-84.5417592,33.9371282
+7a510870-1ac8-4f7c-9b9a-e112d990e8b2,Jekyll Brewing,micro,2855 Marconi Dr Ste 350,,,Alpharetta,Georgia,30005-2051,United States,7705968788,http://www.jekyllbrewing.com,-84.247498,34.086083
+1f008cd9-9d2e-4022-9266-b1f5f00e84ca,Jekyll Brewing - Alpharetta City Center,brewpub,251 Market Street,,,Alpharetta,Georgia,30009,United States,4702735932,,-84.2936,34.0748
+646eff4c-0945-4b2d-acda-dafee1142c70,"Johnnie MacCracken's Celtic Firehouse Pub, Inc.",brewpub,15 Atlanta Street,,,Marietta,Georgia,30060-1985,United States,7705907868,http://www.johnniemaccrackens.com,-84.548703,33.951858
+080c0d8f-d2fb-4969-bd13-346e3fcec424,Kettlerock Brewing,taproom,"6025 Peachtree Parkway, Suite 1",,,Peachtree Corners,Georgia,30092,United States,7702311674,http://www.kettlerockbrewing.com,-84.232868,33.955704
 da535f17-3fc1-45be-aefe-1620c774815d,Left Nut Brewing Co,micro,2100 Atlanta Rd,,,Gainesville,Georgia,30504-7168,United States,6788276678,http://www.leftnutbrewing.com,-83.84759634,34.25442345
 b253fcd3-e60c-4d50-8370-3321ebeed059,Line Creek Brewing,micro,150 Huddleston Rd Ste 300,,,Peachtree City,Georgia,30269,United States,,http://www.linecreekbrewing.com,,
+3af7f704-0202-49d8-a6d7-3df60feeb758,Liquid Nation Brewing,taproom,2100 Atlanta Highway,,,Gainesville,Georgia,30504-7168,United States,6788276678,http://www.liquidnationbrewing.com,-83.848508,34.25339
+fb00d3d1-615a-4481-bf2c-1773259758ee,Little Cottage Brewery,taproom,120 Olive St,,,Avondale Estates,Georgia,30002,United States,4043827960,http://www.littlecottagebrewery.com,-84.274508,33.77593
 1b52a67f-8d6f-428e-835e-4c08ec1df483,Macon Beer Company,proprietor,345 Oglethorpe St,,,Macon,Georgia,31201-3274,United States,4782167117,http://www.maconbeer.com,-83.630297,32.828235
+056c7433-0de3-424e-90d8-1bb2ecea809f,Macon Beer Company,taproom,458 2nd St,,,Macon,Georgia,31201,United States,4782167117,http://www.maconbeer.com,-83.629233,32.835593
+b105c365-a138-4997-9404-fab9c30655ad,Mandatory Fun Beer Works,taproom,3080 Jonquil Dr SE,,,Smyrna,Georgia,30080-3720,United States,2148833918,http://www.MFBrew.com,-84.504854,33.87962
 7d87f747-3b19-4648-9f34-6c0f2ff07b34,Mandatory Fun Brewing,planning,,,,Marietta,Georgia,30064,United States,9517955337,http://www.vikingalchemist.com,,
 e85f0bf7-91b9-4f63-9b69-4b78f516e8cb,Max Lager's Wood Fired Grill & Brewery,brewpub,320 Peachtree St NE,,,Atlanta,Georgia,30308-3210,United States,4045254400,http://www.maxlagers.com,-84.38706074,33.76333225
 5418e274-79d7-436c-a772-df99b4fd26ce,MillerCoors Brewing Co - Albany,large,405 Cordele Rd,,,Albany,Georgia,31705-2109,United States,,,-84.08203126,31.58549343
-bb5d13ac-8842-48f3-961a-f57413264a55,Monday Night Brewing,micro,670 Trabert Ave NW,,,Atlanta,Georgia,30318-4230,United States,4043527703,http://www.mondaynightbrewing.com,-84.40989212,33.79480405
-cddb19b7-b910-48b5-a64f-d3924eaec4e4,Monday Night Brewing - Garage,micro,933 Lee St SW,,,Atlanta,Georgia,30310,United States,,,-84.41617724,33.72906429
+bb5d13ac-8842-48f3-961a-f57413264a55,Monday Night Brewing,regional,670 Trabert Ave NW,,,Atlanta,Georgia,30318-4230,United States,4043527703,http://www.mondaynightbrewing.com,-84.409887,33.794926
+cddb19b7-b910-48b5-a64f-d3924eaec4e4,Monday Night Brewing - Garage,micro,933 Lee St SW,,,Atlanta,Georgia,30310,United States,,,-84.41621,33.729056
 f663c1cc-0fca-4d22-9d98-5e36d10e9cb4,Monkey Wrench Brewing Company LLC,planning,,,,Snellville,Georgia,30078-6503,United States,6785212142,http://www.monkeywrenchbrewing.com,,
-c534e94c-c5bf-4738-bd28-5c91120bbf51,Moon River Brewing Co,brewpub,21 W Bay St,,,Savannah,Georgia,31401-1106,United States,9124470943,http://www.moonriverbrewing.com,-81.09178578,32.08098573
-2d2814f6-493a-48aa-b037-1710e2926a61,New Realm Brewing,brewpub,550 Somerset Ter NE Unit 101,,,Atlanta,Georgia,30306-4317,United States,4049682778,http://www.newrealmbrewing.com,,
+cf8e3175-369b-4a91-953e-d0c09622e5fe,Monkey Wrench Brewing Company LLC,taproom,3425 Martin Farm Rd.,,,Suwanee,Georgia,30024,United States,6785212142,http://www.monkeywrenchbrewing.com,-84.059499,34.043012
+c534e94c-c5bf-4738-bd28-5c91120bbf51,Moon River Brewing Co,brewpub,21 W Bay St,,,Savannah,Georgia,31401-1106,United States,9124470943,http://www.moonriverbrewing.com,-81.092053,32.080896
+e5780c82-4766-4513-8dd8-fe28279539ce,Mutation Brewing Company,taproom,5825 Roswell Road NE,,,Sandy Springs,Georgia,30328,United States,4046003950,http://www.mutationbrew.com,-84.378629,33.914306
+2d2814f6-493a-48aa-b037-1710e2926a61,New Realm Brewing,regional,550 Somerset Ter NE Unit 101,,,Atlanta,Georgia,30306-4317,United States,9517194172,http://www.newrealmbrewing.com,-84.362494,33.770391
+0dd9184a-112d-4c20-b673-c26a0247ea4a,Normaltown Brewing Co.,taproom,149 Oneta St,,,Athens,Georgia,30601,United States,7068508996,http://www.normaltown-brewing-co.business.site,-83.38915,33.970782
 201c624e-15c6-46ac-93ff-3ec93543d17e,O'Dempsey's Brewing Co,contract,"205 Grosvenor Place, Nw",,,Atlanta,Georgia,30328,United States,4048450059,http://www.odempseys.com,,
-7028c787-cdf8-4eea-8d31-a7481eacd912,Ocmulgee Brewpub,brewpub,484 2nd St,,,Macon,Georgia,31201-2734,United States,4782542848,http://www.ocmulgeebrewpub.com,-83.62932833,32.8360763
-93d43473-5c16-454b-ba92-4586a4e22abc,Oconee Brewing Company,micro,202 N West St,,,Greensboro,Georgia,30642-1124,United States,7069201177,http://www.oconeebrewingco.com,,
-a88637ad-825b-415c-b29f-601794f2ecb5,Omaha Brewing Company,micro,265 Brew St,,,Omaha,Georgia,31821-2258,United States,2298384779,http://www.omahabrewingcompany.com,,
-769676e2-2a79-475b-8b35-6755a2826e47,Orpheus Brewing,micro,1440 Dutch Valley Pl NE Ste 2001,,,Atlanta,Georgia,30324-5366,United States,4043471777,http://www.orpheusbrewing.com,-84.36858051,33.79314935
-1f09c9cd-5e78-4c69-a3df-28d7728a6862,Park Tavern Brewery,brewpub,500 10th St NE,,,Atlanta,Georgia,30309-4272,United States,4042490001,http://www.parktavern.com,-84.377744,33.781867
+7028c787-cdf8-4eea-8d31-a7481eacd912,Ocmulgee Brewpub,brewpub,484 2nd St,,,Macon,Georgia,31201-2734,United States,4782542848,http://www.ocmulgeebrewpub.com,-83.629596,32.835457
+93d43473-5c16-454b-ba92-4586a4e22abc,Oconee Brewing Company,taproom,202 N West St,,,Greensboro,Georgia,30642-1124,United States,7069201177,http://www.oconeebrewingco.com,-83.184301,33.577735
+a88637ad-825b-415c-b29f-601794f2ecb5,Omaha Brewing Company,micro,265 Brew St,,,Omaha,Georgia,31821-2258,United States,2298384779,http://www.omahabrewingcompany.com,-85.000722,32.142649
+769676e2-2a79-475b-8b35-6755a2826e47,Orpheus Brewing,micro,1440 Dutch Valley Pl NE Ste 2001,,,Atlanta,Georgia,30324-5366,United States,4043471777,http://www.orpheusbrewing.com,-84.368779,33.793259
+f82ab6e3-5659-4040-b072-5c5b55dd038e,Outrun Brewing Company,taproom,5368 East Mountain Street,,,Stone Mountain,Georgia,30083,United States,7706965246,http://www.outrunbrewingco.com,-84.170102,33.808443
+1f09c9cd-5e78-4c69-a3df-28d7728a6862,Park Tavern Brewery,brewpub,500 10th St NE,,,Atlanta,Georgia,30309-4272,United States,4042490001,http://www.parktavern.com,-84.36928,33.782207
+90246e11-45bd-41e4-9683-182cd3262b2a,Pendley Creek Brewing Company,taproom,57 N Main St,,,Jasper,Georgia,30143-1500,United States,706253brew,,-84.430636,34.468703
 5ca8e3d6-f42d-4389-9854-fe521a3ce95c,Perfect Fool Brewing Company,planning,,,,Atlanta,Georgia,30319,United States,,,,
 07efdf5b-f8a3-4091-8777-9bc9cb85c92b,Phantom Horse Brewing,brewpub,56-A Fieldstone Village Dr,,,Rock Spring,Georgia,30739,United States,4233144978,http://www.phantomhorsebrewing.com,,
 dd41a944-6c7c-4a68-9ca3-f584a5e4d545,Piedmont Brewery and Kitchen,brewpub,450-B Third Street,,,Macon,Georgia,31201,United States,4782542337,http://www.piedmontbrerwery.com,,
 25566098-7a9c-4bf0-9804-2ba4470b9cc5,Pontoon Brewing Company,micro,8601 Dunwoody Pl Bld 500 Ste 500,,,Sandy Springs,Georgia,30350-2551,United States,7049293821,http://www.pontoonbrewing.com,,
-7c72c2f9-3184-4b2a-8c13-9c1bc3ab5148,Porter Pizza & Brewery,brewpub,6370 Powers Ferry Rd NW,,,Sandy Springs,Georgia,30339,United States,,http://www.porterpizzabrewery.com,-84.4304239,33.9043481
-ba1b921c-0f94-44aa-88b1-9bb31fb1776e,Pretoria Fields Collective,micro,120 Pine Ave,,,Albany,Georgia,31701-2529,United States,2295181770,http://www.pretoriafields.com,-84.149593,31.57858294
-dbb4c0fa-b513-42bb-be51-53de04f58d8b,Printer's Ale Manufacturing Co.,micro,940 Columbia Dr,,,Carrollton,Georgia,30117-8780,United States,7708364253,http://www.printers-ale.com,-85.10249657,33.61138945
+574f2111-a4d9-479d-a8c6-5072f7c3cc23,Pontoon Brewing Company,taproom,8601 Dunwoody Pl,,,Sandy Springs,Georgia,30350-2551,United States,7049293821,http://www.pontoonbrewing.com,-84.342884,33.991748
+6b2d48aa-44df-4f7d-8989-f2efd64bbf75,Porter Brew & Que Brewery,brewpub,5486 Chamblee Dunwoody Rd #14,,,Atlanta,Georgia,30338,United States,,http://http://www.porterbbqbrewery.com/,-84.335894,33.948268
+7c72c2f9-3184-4b2a-8c13-9c1bc3ab5148,Porter Pizza & Brewery,brewpub,6370 Powers Ferry Rd NW,,,Sandy Springs,Georgia,30339,United States,6789966908,http://www.porterpizzabrewery.com,-84.429941,33.903916
+ba1b921c-0f94-44aa-88b1-9bb31fb1776e,Pretoria Fields Collective,micro,120 Pine Avenue,,,Albany,Georgia,31701,United States,2295181770,http://www.pretoriafields.com,-84.150241,31.578009
+6e9de93e-e862-4dca-b7d5-df9a3dd67c7c,Pretoria Fields Collective,micro,120 Pine Avenue,,,Albany,Georgia,31701,United States,2295181770,http://www.pretoriafields.com,-84.150241,31.578009
+dbb4c0fa-b513-42bb-be51-53de04f58d8b,Printer's Ale Manufacturing Company,micro,940 Columbia Dr,,,Carrollton,Georgia,30117-8780,United States,7708364253,http://www.printers-ale.com,-85.102077,33.612548
 d658726b-aedc-4e15-be17-ebaec8b162b9,Red Brick Brewing Co / Atlanta Brewing Co,micro,2323 Defoor Hills Rd NW,,,Atlanta,Georgia,30318-2207,United States,4043555558,http://www.atlantabrewing.com,-84.43454138,33.81830375
-9e5331e9-d870-4e23-b41d-d2c18f2228f7,Red Hare Brewing Company,micro,1998 Delk Industrial Blvd SE,,,Marietta,Georgia,30067-8904,United States,6784010600,http://www.redharebrewing.com,-84.4957563,33.92440825
+45b96912-65b8-4385-961a-8e69bf4ceec2,Red Hare Brewing - The Still On the Square,brewpub,29 W Park Square,,,Marietta,Georgia,30060,United States,6784010600,,-84.549223,33.952627
+9e5331e9-d870-4e23-b41d-d2c18f2228f7,Red Hare Brewing Company,micro,1998 Delk Industrial Blvd SE,,,Marietta,Georgia,30067-8904,United States,6784010600,http://www.redharebrewing.com,-84.495768,33.924343
 fa38e7a1-3cbe-4dd4-a3c0-5830257c1427,Reformation Brewery,micro,500 Arnold Mill Way Ste A,,,Woodstock,Georgia,30188-6842,United States,6783410828,http://www.reformationbrewery.com,,
+61707661-7046-467b-9793-07c9b1151098,Reformation Brewery,taproom,225 Reformation Pkwy,,,Canton,Georgia,30114,United States,6783410828,http://www.reformationbrewery.com,-84.495978,34.238532
+f864286a-6b3b-4f81-8034-dc1c52dc0cfc,Reformation Brewery Smyrna,taproom,6255 Riverview Rd,,,Smyrna,Georgia,30126,United States,6783410828,,-84.503319,33.800788
+d3361494-4fb0-445e-a3cf-24264a3865b5,Reformation Brewery Woodstock,taproom,105 Elm St,,,Woodstock,Georgia,30188,United States,6783458080,,-84.520489,34.100077
 f473913e-7ac7-4da3-8257-896ededee890,Rick Tanner's Grille & Bar/Cherry Street Brewing Cooperative,brewpub,5810 Bond St # E-2,,,Cumming,Georgia,30040-0301,United States,7702055512,http://www.rtanners.com,,
-ebc2635f-d48f-4a50-ba77-7e4057453142,Riverwatch Brewery,micro,1150 5th St Bldg 61,,,Augusta,Georgia,30901-5861,United States,7064217177,http://www.riverwatchbrewery.com,,
+5f007a17-ebf6-4817-99d0-890dff1b0504,Rightside Brewing,micro,1678 Barfield Run NW,,,Atlanta,Georgia,30318,United States,7703567074,http://www.rightsidebrewing.com,-84.449979,33.809623
+ebc2635f-d48f-4a50-ba77-7e4057453142,Riverwatch Brewery,taproom,1150 5th St Bldg 61,,,Augusta,Georgia,30901-5861,United States,7064217177,http://www.riverwatchbrewery.com,-81.963388,33.461124
 3ecb3ca8-fa11-484b-8471-8aa857cb9b3d,Rome City Brewing Co,brewpub,325 Broad St,,,Rome,Georgia,30161-3005,United States,7062048474,http://www.romebrewhouse.com,-85.17262231,34.25410398
+e69fb5d1-4742-48f9-b3a6-29000c24b634,Round Trip Brewing Company,taproom,1279 Seaboard Industrial Blvd NW,,,Atlanta,Georgia,30318,United States,7204127527,http://www.roundtripbrewing.com,-84.429869,33.808539
 bf893977-4cd2-4fb2-bf23-087cf9da7d60,Sabbath Brewing,planning,,,,Atlanta,Georgia,30316,United States,,,,
+d75d48f5-a8b6-43c2-814b-52058e8b4fa0,Sabbath Brewing,micro,530 Flat Shoals Ave SW,,,Atlanta,Georgia,30316,United States,6786657078,http://www.sabbathbrewing.com,-84.3366,33.7248
 e948ab84-5a33-499b-9e34-203b6820fd3d,Savannah Beer Company,planning,,,,Savannah,Georgia,31410,United States,9124140187,,,
-60fde094-f45d-4e98-a136-f342a35f7e8d,Savannah River Brewing Company,micro,813 5th St,,,Augusta,Georgia,30901-2414,United States,7064268212,http://www.savannahriverbrew.com,-81.96288082,33.46534536
-f58d5583-7c68-4fb8-a080-54cfcec66cd7,Scofflaw Brewing Co,micro,1738 Macarthur Blvd NW,,,Atlanta,Georgia,30318-2022,United States,4049153392,http://www.scofflawbeer.com,,
+60fde094-f45d-4e98-a136-f342a35f7e8d,Savannah River Brewing Company,micro,813 5th St,,,Augusta,Georgia,30901-2414,United States,7064268212,http://www.savannahriverbrew.com,-81.963708,33.464527
+533886f6-175f-4f66-82f0-7fa0d7a39a33,Sceptre Brewing Arts,brewpub,630 East Lake Drive,,,Decatur,Georgia,30030,United States,6199066151,http://Www.sceptrebrewingarts.com,-84.304538,33.759833
+01f83bf6-9f20-476b-9aff-f990c1fd8f46,Schoolhouse Brewing,taproom,840 Franklin Ct,,,Marietta,Georgia,30067,United States,7703615247,http://www.schoolhousebeer.com,-84.497977,33.927264
+92203e4a-b40b-4ebc-b8f5-d023cd72c1a2,Schoolhouse Brewing The Gymnasium,taproom,1540 Avenue Place Suite B-240,,,Atlanta,Georgia,30329,United States,,,-84.327432,33.801198
+f58d5583-7c68-4fb8-a080-54cfcec66cd7,Scofflaw Brewing Co,regional,1738 Macarthur Blvd NW,,,Atlanta,Georgia,30318-2022,United States,4049153392,http://www.scofflawbeer.com,-84.444793,33.813333
+a827d96a-94aa-4fd8-bae7-24e0cee3a655,Second Self Beer Company,micro,1311 Logan Cir NW,,,Atlanta,Georgia,30318-2858,United States,6789168035,http://secondselfbeer.com,-84.430009,33.805606
 3441c0c8-b14d-4dea-8c3f-3034e2acc2b6,Second Self Brewing,micro,1311 Logan Cir NW,,,Atlanta,Georgia,30318-2858,United States,6789168035,http://secondselfbeer.com,-84.43006194,33.8055922
+bff6f3e7-b3e4-498c-969e-df2df92a0345,Senoia Beer Company,micro,1 Main St,,,Senoia,Georgia,30276-1869,United States,4044146053,,-84.569436,33.225356
 4514373e-a5e0-4974-900e-f92e50d73ca0,Service Brewing Company,micro,574 Indian St,,,Savannah,Georgia,31401-1121,United States,8452425355,http://www.servicebrewing.com,-81.0982783,32.0839717
-4fd7c5d7-8725-46dd-9174-20d118057f5b,Slow Pour Brewing Company,micro,407 N Clayton St,,,Lawrenceville,Georgia,30046-4818,United States,4045108901,http://www.slowpourbrewing.com,-83.98889581,33.96116747
-91ce7a11-6109-4dcc-98a3-196c939e96cb,Southbound Brewing Co,micro,107 E Lathrop Ave,,,Savannah,Georgia,31415-2182,United States,,http://www.southboundbrewingco.com,-81.111372,32.087032
-51618504-46a9-4a44-9d67-80ce0873d1c2,Southern Brewing Company,micro,231 Collins Industrial Blvd,,,Athens,Georgia,30601-1517,United States,7065487183,http://www.sobrewco.com,-83.35002287,33.98114012
+f935c9f9-6b76-480a-9f49-7ed7d02d9b09,Silver Bluff Brewing Co,taproom,1325 Newcastle,,,Brunswick,Georgia,31520,United States,6786124223,,-81.494687,31.146715
+294ab62f-9c32-4292-89db-e1c477c99de4,Six Bridges Brewing,micro,11455 Lakefield Dr Ste 300,,,Johns Creek,Georgia,30097,United States,4705454199,http://www.sixbridgesbrewing.com,-84.164497,34.059208
+d55d6541-f944-4e43-ae4d-777bc37a097d,Skint Chestnut Brewing Company,taproom,"3886 Broad Street
+Suite 100",,,Powder Springs,Georgia,30127,United States,6789194783,,-84.684459,33.859081
+4fd7c5d7-8725-46dd-9174-20d118057f5b,Slow Pour Brewing Company,taproom,407 N Clayton St,,,Lawrenceville,Georgia,30046-4818,United States,4045108901,http://www.slowpourbrewing.com,-83.988163,33.961203
+91ce7a11-6109-4dcc-98a3-196c939e96cb,Southbound Brewing Co,micro,107 E Lathrop Ave,,,Savannah,Georgia,31415-2182,United States,9123351737,http://www.southboundbrewingco.com,-81.111911,32.087047
+51618504-46a9-4a44-9d67-80ce0873d1c2,Southern Brewing Company,micro,231 Collins Industrial Blvd,,,Athens,Georgia,30601-1517,United States,7065487183,http://www.sobrewco.com,-83.348982,33.984625
+0b8e6708-1218-47d8-919d-7cc5d246282c,Southern Brewing Company - Monroe,taproom,123 N Lumpkin St,,,Monroe,Georgia,30655,United States,6786353662,,-83.712757,33.795789
+da5b4876-292f-4cf2-a30c-6adb718f074d,Southern Hart Brewing,brewpub,350 E Howell St,,,Hartwell,Georgia,30643,United States,7063762739,http://Www.southernhartbrewing.com,-82.932675,34.352283
+3af3efb3-2a4e-4fdf-9cc8-1512fd303285,Southern Philosophy Brewing,brewpub,114 E Broughton Street,,,Bainbridge,Georgia,39817,United States,2294009494,,-84.576035,30.905694
 3d22a2ae-d718-4714-9eaf-7afa0480f9c9,Southern Sky Brewing Co,micro,1590 N Roberts Rd NW Ste 208,,,Kennesaw,Georgia,30144-3636,United States,7707028318,http://www.southernskybrewing.com,,
-d11fa007-74a5-456a-b508-bce3dfe51414,Stats Brewpub,brewpub,300 Marietta St NW,,,Atlanta,Georgia,30313-1632,United States,7705700160,http://StatsATL.com,-84.3964736,33.7615549
+b915dbac-4275-47b2-86fc-40551362911c,Split Fin Brewing,taproom,60 Butler Street,,,Midway,Georgia,31320,United States,3153299056,http://www.splitfinbrewingllc.com,-81.419996,31.800822
+d11fa007-74a5-456a-b508-bce3dfe51414,Stats Brewpub,brewpub,300 Marietta St NW,,,Atlanta,Georgia,30313-1632,United States,7705700160,http://StatsATL.com,-84.396488,33.761594
+fb84d035-cc4a-49d6-b3d6-be3e90755916,StillFire Brewing,taproom,343 US-23,,,Suwanee,Georgia,30024,United States,7709278989,http://www.stillfirebrewing.com,-84.066301,34.056544
+c43e7d28-85d2-453b-a399-b2562785a8a2,Strange Duck Brewing,taproom,26 Old Allen Rd,,,Commerce,Georgia,30530,United States,7062015094,http://www.strangeduckbrewing.com,-83.44252,34.171117
 b2f096d6-1297-43d7-bf20-429cbbc3ddf7,Strawn Brewing Co,micro,27 Word St,,,Fairburn,Georgia,30213-1545,United States,6785453775,http://www.strawnbrewing.com,-84.58368873,33.56062198
-618e8cbb-8c2c-4617-b973-633443bc4c21,SweetWater Brewing Co,regional,195 Ottley Dr NE,,,Atlanta,Georgia,30324-3924,United States,4046912537,http://www.sweetwaterbrew.com,-84.38107219,33.80802235
+618e8cbb-8c2c-4617-b973-633443bc4c21,SweetWater Brewing Co,regional,195 Ottley Dr NE,,,Atlanta,Georgia,30324-3924,United States,4046912537,http://www.sweetwaterbrew.com,-84.381199,33.808082
+ca6aecbb-b9ba-4927-927b-9d3f3f972ba6,Talking Rock Brewery,taproom,4500 SR-136,,,Talking Rock,Georgia,30175,United States,,,-84.5148,34.5314
 692ad7e4-2bd7-452d-a0e2-08c9cc43ae0d,Tantrum Brewing Company,planning,,,,Cleveland,Georgia,30528-7804,United States,7068090808,http://www.tantrumbeer.com,,
+3374edff-1ba6-4193-b5cd-2cdf35d27033,Tantrum Brewing Company,taproom,1939 Helen Hwy,,,Cleveland,Georgia,30528,United States,7068090808,http://www.tantrumbeer.com,-83.752484,34.6269
 21c0cd50-3ad8-4525-8085-1ed7a9e378ad,Terrapin Beer Co,large,265 Newton Bridge Rd,,,Athens,Georgia,30607-1145,United States,7065493377,http://www.terrapinbeer.com,-83.39779284,33.9885289
+8dc23883-1732-4823-817a-2cab1c833bdc,The Bold Monk Brewing Co.,brewpub,"1737 Ellsworth Industrial Blvd., NW",,,Atlanta,Georgia,30318,United States,4045254400,,-84.426326,33.802499
+85d716cd-0b0b-4336-a636-cc59aed6c1d6,The Lodge,taproom,4720 Stone Drive Suite A,,,Tucker,Georgia,30084,United States,,,-84.197589,33.838884
 64bfb175-46f6-421c-9771-7fffb984c4c7,The Lost Druid,planning,,,,Atlanta,Georgia,30307-2758,United States,,,,
 e7113db6-8cc9-40b3-a17e-fceb42d28fa8,The Split Batch Brewery,planning,,,,Buford,Georgia,30519-2236,United States,4049834303,http://www.splitbatchbrewery.com,,
 f2e2ffbe-e126-494d-925a-6d79f87cadfc,The Village Corner,brewpub,6655 James B Rivers Dr,,,Stone Mountain,Georgia,30083-2232,United States,7704980329,http://www.germanresturant.com,,
-e8d5827b-34d2-4e73-83e9-8f0f118c3587,The Woodlands At SweetWater,micro,215 Ottley Dr,,,Atlanta,Georgia,30324-3924,United States,4046912537,,,
-0d2a28a2-9eab-4f92-816a-4536275b23d0,The Wrecking Bar Brewpub,brewpub,292 Moreland Ave NE,,,Atlanta,Georgia,30307-1953,United States,4042212600,http://www.wreckingbarbrewpub.com,-84.3496422,33.762309
-47f56601-da08-42bc-97db-89f2e567faaf,Three Taverns Craft Brewery,micro,121 New St,,,Decatur,Georgia,30030-4131,United States,4046003355,http://www.threetavernsbrewery.com,-84.28488078,33.77305517
-d9c48be3-cc34-4624-b4c9-f5dfc04bb240,Torched Hop Brewing Company,brewpub,249 Ponce de Leon Ave NE,,,Atlanta,Georgia,30308-1937,United States,4048352040,http://www.Torchedhopbrewing.com,-84.37929776,33.77232605
-443536da-82d9-447f-811f-0d3e069e9086,Tucker Brewing Company,micro,2003 S Bibb Dr,,,Tucker,Georgia,30084-6240,United States,8337522400,http://www.tuckerbrewing.com,-84.20758809,33.84269209
-6fa0be54-2886-4a87-98cf-189e9432310c,Twain's Brewpub & Billiards,brewpub,211 E Trinity Pl,,,Decatur,Georgia,30030-3414,United States,4043730063,http://www.twains.net,-84.294616,33.77228
-ec650c63-7266-4177-abe7-9eabdc5a6c73,Two Tides Brewing Company,micro,12 West 41st St,,,Savannah,Georgia,31401,United States,9126670706,http://www.twotidesbrewing.com,-81.10216092,32.054127
-b961ff9e-4495-4db5-aa88-dea50bc3a02b,Variant Brewing Company,micro,66 Norcross St,,,Roswell,Georgia,30075-3866,United States,6782428189,,-84.35907858,34.02576775
-c2dbd53b-c187-46d9-9776-90bdda134532,Wild Heaven Craft Beers,micro,135B Maple St,,,Decatur,Georgia,30030-3953,United States,4049978589,http://www.wildheavencraftbeers.com,,
-f8094ea6-f13b-450b-a4c0-60ea5c899c06,Wild Leap Brewing Company,micro,308 Main St,,,Lagrange,Georgia,30240-4504,United States,7062986400,http://www.wildleap.com,-85.0311916,33.037368
+6a4f580e-5ee5-454b-bdc8-4c80da5ae2ac,The Village Corner / Stone Mountain Brewery,brewpub,6655 James B Rivers Dr,,,Stone Mountain,Georgia,30083-2232,United States,7704980329,http://www.germanresturant.com,-84.170725,33.811495
+e8d5827b-34d2-4e73-83e9-8f0f118c3587,The Woodlands At SweetWater,micro,215 Ottley Dr,,,Atlanta,Georgia,30324-3924,United States,4046912537,,-84.380372,33.808722
+0d2a28a2-9eab-4f92-816a-4536275b23d0,The Wrecking Bar Brewpub,brewpub,292 Moreland Ave NE,,,Atlanta,Georgia,30307-1953,United States,4042212600,http://www.wreckingbarbrewpub.com,-84.349726,33.762275
+47f56601-da08-42bc-97db-89f2e567faaf,Three Taverns Craft Brewery,micro,121 New St,,,Decatur,Georgia,30030-4131,United States,4046003355,http://www.threetavernsbrewery.com,-84.285406,33.772584
+19760f94-d615-4c5e-949c-054be58b64d5,Three Taverns Imaginarium,taproom,777 Memorial Dr SE,,,Atlanta,Georgia,30316,United States,,,-84.361641,33.745931
+d9c48be3-cc34-4624-b4c9-f5dfc04bb240,Torched Hop Brewing Company,brewpub,249 Ponce de Leon Ave NE,,,Atlanta,Georgia,30308-1937,United States,4048352040,http://www.Torchedhopbrewing.com,-84.379298,33.772279
+78571b80-5861-4cd5-8057-0ca54290b671,Towerhouse Farm Brewery,taproom,18736 Georgia 85,,,Gay,Georgia,30218,United States,4044029881,http://towerhousebrewing.com,-84.57383,33.093344
+443536da-82d9-447f-811f-0d3e069e9086,Tucker Brewing Company,brewpub,2003 S Bibb Dr,,,Tucker,Georgia,30084-6240,United States,8337522400,http://www.tuckerbrewing.com,-84.207087,33.842782
+6fa0be54-2886-4a87-98cf-189e9432310c,Twain's Brewpub & Billiards,micro,211 E Trinity Pl,,,Decatur,Georgia,30030-3414,United States,4043730063,http://www.twains.net,-84.294667,33.772349
+ec650c63-7266-4177-abe7-9eabdc5a6c73,Two Tides Brewing Company,taproom,12 West 41st St,,,Savannah,Georgia,31401,United States,9126670706,http://www.twotidesbrewing.com,-81.102102,32.054113
+b961ff9e-4495-4db5-aa88-dea50bc3a02b,Variant Brewing Company,taproom,66 Norcross St,,,Roswell,Georgia,30075-3866,United States,7705985002,,-84.358948,34.025543
+595a37cf-11a6-4091-a663-92d9feb782c0,Whistle Top Brew Company,taproom,248 N Main St,,,Cornelia,Georgia,30531,United States,7067769556,http://www.whistletopbrew.com,-83.527779,34.513368
+8b1b3ad6-805f-48cb-a1a6-febf769621d7,Wild Heaven - West End Brewery & Gardens,brewpub,1010 White St SW,,,Atlanta,Georgia,30310,United States,4049978589,,-84.417796,33.730229
+c2dbd53b-c187-46d9-9776-90bdda134532,Wild Heaven Beer,micro,135B Maple St,,,Decatur,Georgia,30030-3953,United States,4049978589,http://www.wildheavencraftbeers.com,-84.27628,33.776311
+f8094ea6-f13b-450b-a4c0-60ea5c899c06,Wild Leap Brewing Company,regional,308 Main St,,,Lagrange,Georgia,30240-4504,United States,7062986400,http://www.wildleap.com,-85.031355,33.035322
+b4104d6f-7f54-47e9-88a0-e694ceda76a2,Wild Leap Brewing Company,regional,125 Ted Turner Dr,,,Atlanta,Georgia,30313,United States,7062986400,,-84.396868,33.751251

@@ -1,51 +1,76 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-1ecc330f-6275-42a5-b14e-00adbed62752,10 Torr Distilling and Brewing,micro,490 Mill St,,,Reno,Nevada,89502,United States,7755307014,http://www.10torr.com,-119.7732015,39.5171702
+1ecc330f-6275-42a5-b14e-00adbed62752,10 Torr Distilling and Brewing,micro,490 Mill St,,,Reno,Nevada,89502,United States,7755307014,http://www.10torr.com,-119.805833,39.525467
+a5b91060-e95d-4719-bfc5-2394fa0993e1,7018 Brewery,taproom,401 Railroad St,,,Elko,Nevada,89801,United States,,,-115.763392,40.831637
 c5f6426e-f894-4bfc-9ffb-43bc0baa0881,Able Baker Brewing,micro,1051 Mary Crest Rd #K,,,Henderson,Nevada,89104,United States,7025817742,http://www.ablebakerbrewing.com,,
-083b7953-133d-453f-ada0-2b3541d1931c,Alibi Ale Works,micro,204 E Enterprise St,,,Incline Village,Nevada,89451-9456,United States,7752987001,http://www.alibialeworks.com,-119.9537117,39.24819328
+502af4a7-062d-4877-9663-3760a85ab134,Able Baker Brewing Company,taproom,1510 S. Main St,,,Las Vegas,Nevada,89104,United States,7024796355,http://www.ablebakerbrewing.com,-115.154368,36.152916
+083b7953-133d-453f-ada0-2b3541d1931c,Alibi Ale Works,brewpub,204 E Enterprise St,,,Incline Village,Nevada,89451-9456,United States,7752987001,http://www.alibialeworks.com,-119.953517,39.247454
+0104cfaf-b87f-480d-a28a-c7b69fb82b56,Alibi Ale Works Incline Public House,brewpub,931 Tahoe Blvd,,,Incline Village,Nevada,89451,United States,7758318300,http://www.alibialeworks.com/incline-public-house,-119.948798,39.248956
 e49978bd-c6d2-46c6-a3a4-50964ab4f783,Astronomy Aleworks,planning,,,,Henderson,Nevada,89011,United States,7023754968,http://astronomyaleworks.com,,
-c7215e3b-5320-4ef4-a4ad-73ab42a39603,Bad Beat Brewing,micro,7380 Eastgate Rd Ste 110,,,Henderson,Nevada,89011-4012,United States,7024634199,http://www.badbeatbrewing.com,,
-cb33e61e-48cf-433e-96cd-7c336c6ef8bf,Banger Brewing Co,micro,450 Fremont St Ste 135,,,Las Vegas,Nevada,89101-5649,United States,7024562739,http://www.bangerbrewing.com,,
-10b2fbe8-9fc3-46f8-aaa9-d61bc19dffa8,Barley's Casino and Brewing Co,brewpub,4500 E Sunset Rd Ste 30,,,Henderson,Nevada,89014-2253,United States,7024582739,http://www.wildfire.sclv.com/barleys,,
+913b3df4-8f02-4dec-ad35-336cc904bab5,Astronomy Aleworks,taproom,7350 Eastgate Rd Ste 170,,,Henderson,Nevada,89011,United States,7023754968,http://astronomyaleworks.com,-115.019752,36.055243
+c7215e3b-5320-4ef4-a4ad-73ab42a39603,Bad Beat Brewing,micro,7380 Eastgate Rd Ste 110,,,Henderson,Nevada,89011-4012,United States,7024634199,http://www.badbeatbrewing.com,-115.017413,36.052772
+cb33e61e-48cf-433e-96cd-7c336c6ef8bf,Banger Brewing,taproom,450 Fremont St Ste 135,,,Las Vegas,Nevada,89101-5649,United States,7024562739,http://http://bangerbrewing.com/,-115.140859,36.170063
+10b2fbe8-9fc3-46f8-aaa9-d61bc19dffa8,Barley's Casino and Brewing Co,brewpub,4500 E Sunset Rd Ste 30,,,Henderson,Nevada,89014-2253,United States,7024582739,http://www.wildfire.sclv.com/barleys,-115.075369,36.072082
+371d85df-66d3-421f-b754-cd161deb9ce8,Battle Born® Beer,micro,360 East 5th St,,,Reno,Nevada,89501,United States,8183173128,http://battleborn.beer,-119.809548,39.531792
 b630a613-c4e9-4d35-a437-beef57df6fd7,Battle BornÂ® Beer,contract,100 N Arlington Ave Ste 100,,,Reno,Nevada,89501-1233,United States,8183173128,http://battleborn.beer,,
-2c048f27-d9fc-4117-ae9a-c3c79ea2470e,Big Dog's Brewing Co,brewpub,4547 N Rancho Dr Ste A,,,Las Vegas,Nevada,89130-3432,United States,7023683715,http://www.bigdogsbrews.com,,
-8fe53360-1c28-4c1a-8e98-49ff1966fc25,BJs Restaurant & Brewery - Reno,brewpub,13999 S Virginia St,,,Reno,Nevada,89511-8917,United States,7758537575,http://www.bjsbrewhouse.com,-119.8122668,39.5244083
-0afcc8c2-d95e-4ef3-9f55-009e01afeb4b,Boulder Dam Brewing Company,brewpub,453 Nevada Way,,,Boulder City,Nevada,89005-2424,United States,,,-114.836937,35.97842094
-27db60fa-fed9-40c9-9603-3c4fe5e2bfac,Brasserie Saint James,brewpub,901 S Center St,,,Reno,Nevada,89501-2307,United States,7753488888,http://www.brasseriesaintjames.com,-119.8074531,39.51655075
+2c048f27-d9fc-4117-ae9a-c3c79ea2470e,Big Dog's Brewing Co,brewpub,4547 N Rancho Dr Ste A,,,Las Vegas,Nevada,89130-3432,United States,7023683715,http://www.bigdogsbrews.com,-115.235927,36.242889
+8fe53360-1c28-4c1a-8e98-49ff1966fc25,BJs Restaurant & Brewery - Reno,brewpub,13999 S Virginia St,,,Reno,Nevada,89511-8917,United States,7758537575,http://www.bjsbrewhouse.com,-119.7489,39.405614
+0afcc8c2-d95e-4ef3-9f55-009e01afeb4b,Boulder Dam Brewing Company,brewpub,453 Nevada Way,,,Boulder City,Nevada,89005-2424,United States,,,-114.836792,35.978352
+27db60fa-fed9-40c9-9603-3c4fe5e2bfac,Brasserie Saint James,brewpub,901 S Center St,,,Reno,Nevada,89501-2307,United States,7753488888,http://www.brasseriesaintjames.com,-119.807443,39.516525
 8f5fba6f-f57d-46d3-99ce-4f2657f8f955,Brasserie Saint James - The Saint Barrelhouse,micro,761 S. Virginia St,,,Reno,Nevada,89501-2307,United States,7753488888,,-119.8090037,39.5173316
-d1998a9b-eacd-439c-be7f-09b9b84fc95a,Chicago Brewing Co - NV,brewpub,2201 S Fort Apache Rd,,,Las Vegas,Nevada,89117-5704,United States,7022543333,http://www.chicagobrewingcolv.com,-115.2983835,36.1475868
-c98eac57-3377-45db-aadb-1abe12395e10,CraftHaus Brewery,micro,7350 Eastgate Rd Ste 110,,,Henderson,Nevada,89011-4071,United States,7024159184,http://www.crafthausbrewery.com,,
-d7a5c7a9-e7b8-4b71-8b2f-fd9cbd0d0d06,Ellis Island Casino and Brewery,brewpub,4178 Koval Ln,,,Las Vegas,Nevada,89109-4568,United States,,,,
-cd6ae440-1121-4bc1-9b2f-7afd11e8b57c,Gordon Biersch Brewery Restaurant - Las Vegas,brewpub,3987 Paradise Rd,,,Las Vegas,Nevada,89169-4607,United States,7023125247,http://www.craftworksrestaurants.com,-115.1545679,36.1442243
-285ea0ca-b7c9-4e81-b72c-ece23cb76946,Great Basin Brewing Co,brewpub,5525 S Virginia St,,,Reno,Nevada,89502-6085,United States,7752847711,http://www.greatbasinbrewingco.com,-119.789957,39.4762338
-9220f96f-aeaa-48d9-b5b3-7a8e6e228730,Great Basin Brewing Co,brewpub,846 Victorian Ave,,,Sparks,Nevada,89431-5275,United States,7753557711,http://www.greatbasinbrewingco.com,-119.775003,39.53533
+d37da7b2-cea8-4fb8-b0b6-6fb200481a06,BrewDog Las Vegas,brewpub,3767 Las Vegas Boulevard South,,,Las Vegas,Nevada,89109,United States,,,-115.171638,36.104716
+d1998a9b-eacd-439c-be7f-09b9b84fc95a,Chicago Brewing Co. - NV,brewpub,2201 S Fort Apache Rd,,,Las Vegas,Nevada,89117-5704,United States,7022543333,http://www.chicagobrewinglv.com/,-115.298228,36.147576
+c98eac57-3377-45db-aadb-1abe12395e10,CraftHaus Brewery,micro,7350 Eastgate Rd Ste 110,,,Henderson,Nevada,89011-4071,United States,7024159184,http://www.crafthausbrewery.com,-115.019752,36.055243
+d7a5c7a9-e7b8-4b71-8b2f-fd9cbd0d0d06,"Ellis Island Casino, Hotel & Brewery",brewpub,4178 Koval Ln,,,Las Vegas,Nevada,89109-4568,United States,7142065810,,-115.163263,36.113092
+cd6ae440-1121-4bc1-9b2f-7afd11e8b57c,Gordon Biersch Brewery Restaurant - Las Vegas,brewpub,3987 Paradise Rd,,,Las Vegas,Nevada,89169-4607,United States,7023125247,http://www.craftworksrestaurants.com,-115.155807,36.116911
+2d394ced-1f1a-4c72-83e4-28922ba93a6d,Great Basin Brewing - Carson City,brewpub,302 N Carson St,,,Carson City,Nevada,89701,United States,7758857307,,-119.767473,39.165397
+285ea0ca-b7c9-4e81-b72c-ece23cb76946,Great Basin Brewing Co,micro,5525 S Virginia St,,,Reno,Nevada,89502-6085,United States,7752847711,http://www.greatbasinbrewingco.com,-119.788627,39.475326
+9220f96f-aeaa-48d9-b5b3-7a8e6e228730,Great Basin Brewing Co,brewpub,846 Victorian Avenue,,,Sparks,Nevada,89431,United States,7758561177,http://www.greatbasinbrewingco.com,-119.753805,39.53499
+5adbdbc9-f035-4dde-bbe1-3dc054164b35,Great Basin Brewing Co,brewpub,846 Victorian Avenue,,,Sparks,Nevada,89431,United States,7758561177,http://www.greatbasinbrewingco.com,-119.753805,39.53499
 8fb7a6e3-f6ef-47a3-b8e2-46b280be97d6,Great Basin Brewing Co - Production Facility,micro,1155 S Rock Blvd Ste 490,,,Reno,Nevada,89502-7174,United States,7753557711,http://www.greatbasinbrewingco.com,,
-ab9479f2-8245-4847-880a-f7d72512d60a,Hop Nuts Brewing,micro,1120 S Main St Ste 150,,,Las Vegas,Nevada,89104-1080,United States,7028165371,http://www.hopnutsbrewing.com,,
-81291016-df53-43a5-9e00-21269ac6b282,IMBIB Custom Brews,micro,785 E 2nd St,,,Reno,Nevada,89502-1018,United States,7753033385,http://www.imbib.beer,-119.8010403,39.52744792
+25484ed3-1fa6-41c1-a4c3-bc01953f8765,Great Basin Brewing Co - Taps & Tanks Production Brewery,micro,1155 S Rock Blvd Ste 490,,,Reno,Nevada,89502-7174,United States,7753557711,http://www.greatbasinbrewingco.com,-119.749284,39.497836
+beefcaca-9fc8-4189-8c40-28f6cfe0560f,Hofbrauhaus of America LLC,office only location,2560 Anthem Village Dr Ste 100,,,Henderson,Nevada,89052-5972,United States,7023893996,http://www.hofbrauhaus.us,-115.098018,35.981342
+ab9479f2-8245-4847-880a-f7d72512d60a,Hop Nuts Brewing,micro,1120 S Main St Ste 150,,,Las Vegas,Nevada,89104-1080,United States,7028165371,http://www.hopnutsbrewing.com,-115.153989,36.157902
+81291016-df53-43a5-9e00-21269ac6b282,IMBIB Custom Brews,taproom,785 E 2nd St,,,Reno,Nevada,89502-1018,United States,7753033385,http://www.imbib.beer,-119.801008,39.527643
+0a2e2b67-6cd1-4770-b91e-9b1ef426c70e,IMBIB Custom Brews,taproom,1180 Scheels Drive,,,Sparks,Nevada,89434,United States,7753033385,,-119.722406,39.530294
 507ef015-aa10-4ec9-9f8a-0889e1bb3c9e,Immortal Brewing Company,planning,,,,Las Vegas,Nevada,89183-5893,United States,,http://www.immortalbrewco.com,,
 2b241add-edd2-4e62-98bf-038700e8e775,"Joseph James Brewing Co, Inc",micro,155 N Gibson Rd,,,Henderson,Nevada,89014-6713,United States,7024542739,http://www.jjbrewco.com,-115.0294086,36.04146875
-7c6bc6c6-dd61-41a6-b794-6a1f742c0ebb,Lead Dog Brewing,micro,415 E 4th St,,,Reno,Nevada,89512-3315,United States,7753915110,http://www.leaddogbrewing.com,-119.8084451,39.5316052
+8294a9e7-539b-4c61-b74e-1b88b76e4df4,Las Vegas Brewing Company,taproom,3101 North Tenaya Way,,,Las Vegas,Nevada,89128,United States,7023334858,http://www.lvbrewco.com,-115.251169,36.215423
+7c6bc6c6-dd61-41a6-b794-6a1f742c0ebb,Lead Dog Brewing,taproom,415 E 4th St,,,Reno,Nevada,89512-3315,United States,7753915110,http://www.leaddogbrewing.com,-119.808396,39.531471
+1d071d79-bdab-41c4-96af-46cf5df8475d,Lead Dog Brewing - Tasting Room & Production,micro,305 E Glendale Ave,,,Sparks,Nevada,89431,United States,7609347141,,-119.737875,39.526375
 d790ba65-3bbe-453f-adaf-f5e2e2e21cc6,Little Vixen Brewing,planning,,,,Las Vegas,Nevada,89138-6120,United States,7759975936,,,
-94eb3df4-0a08-49cc-82af-4364006f756f,Lovelady Brewing Company,micro,20 S Water St,,,Henderson,Nevada,89015-7223,United States,7028578469,http://www.loveladybrewing.com,-114.9878974,36.03805558
+94eb3df4-0a08-49cc-82af-4364006f756f,Lovelady Brewing Company,micro,20 S Water St,,,Henderson,Nevada,89015-7223,United States,7025643030,http://www.loveladybrewing.com,-114.986019,36.035257
 0686cabe-b090-4b23-a821-2ae7c08c49c0,Matties,bar,2535 Mountain City Hwy,,,Elko,Nevada,89801-4496,United States,7757535100,http://www.mattiesbar-n-grill.com/,-115.793393,40.836405
+e8f29e43-9813-43ca-8e39-d5276643569f,McHoppers,taproom,396 Hwy 95A,,,Fernley,Nevada,89408,United States,7759806512,,-119.2058,39.5925
+88e408da-600c-4b12-8608-28ee2cbbd15d,Mojave Brewing Company,taproom,107 S. Water St.,,,Henderson,Nevada,89015,United States,7023083440,http://www.mojave-brewing.com,-114.983772,36.034078
+38866fac-5a5a-434d-a2ff-76b3b9ba8b4e,Neon Desert Brewing,taproom,914 S Main St,,,Las Vegas,Nevada,89101,United States,7026863675,,-115.152628,36.161854
+dc3ec544-c35f-409c-8586-db365ab13632,Nevada Brew Works,brewpub,1327 S Main St Ste 160,,,Las Vegas,Nevada,89104,United States,7026641500,http://www.nevadabrewworks.com,-115.153631,36.155675
 05ce38c8-0c0b-4c51-93dc-ae5f5e98a625,Nevadan Brewing Company,planning,,,,Las Vegas,Nevada,89139-5939,United States,7028455768,http://nevadanbrewing.com,,
+ab9238bc-4ab5-4e7d-82ca-31ef267c729e,North 5th Brewing Co,taproom,60 W. Mayflower Ave,,,North Las Vegas,Nevada,89030,United States,7023127911,,-115.140836,36.212461
 c1385831-5303-4caf-bd9f-1ecd253e6936,Occidental Brewing,brewpub,865 S Rock Blvd,,,Sparks,Nevada,89431,United States,7753984200,,-119.7600161,39.50114854
-07fe858e-1a42-477e-ab51-dac36447ae8a,Pigeon Head Brewery,micro,840 E 5th St,,,Reno,Nevada,89512-3508,United States,7752766766,http://www.pigeonheadbrewery.com,-119.802685,39.53337578
+07fe858e-1a42-477e-ab51-dac36447ae8a,Pigeon Head Brewery,micro,840 E 5th St,,,Reno,Nevada,89512-3508,United States,7752766766,http://www.pigeonheadbrewery.com,-119.802871,39.533192
 b44103c8-48e8-4156-8367-4381e34d3f87,Pints Brewery and Sports Bar,brewpub,2100 S Casino Dr,,,Laughlin,Nevada,89029,United States,7022984000,http://www.coloradobelle.com,-114.574559,35.157448
 d0963852-764a-4acd-b1b4-34af406036dd,PT's Brewing Co.,micro,3101 N Tenaya Way,,,Las Vegas,Nevada,89128-0437,United States,,,-115.2509527,36.1739188
+f91f6496-22a3-44dd-9761-e0a1fef85668,Record Street Brewing Co,brewpub,324 4th Street,,,Reno,Nevada,89521,United States,7753242337,,-119.809308,39.530609
 66f14e6f-3988-4600-876f-c3ee155541ea,Reno Brewery,planning,,,,Reno,Nevada,89502-1807,United States,7756360014,http://www.renobrewery.com,,
-2b0138e9-f65f-4231-9db9-086d79976024,Revision Brewing Company,micro,380 S Rock Blvd,,,Sparks,Nevada,89431-5545,United States,7753312739,http://www.revisionbrewing.com,-119.762654,39.511243
+2b0138e9-f65f-4231-9db9-086d79976024,Revision Brewing Company,regional,380 S Rock Blvd,,,Sparks,Nevada,89431-5545,United States,7753312739,http://www.revisionbrewing.com,-119.765562,39.53117
 7383363f-2d98-45c7-8719-8236e869aa8d,Ruby Mountain Brewing Co,micro,HC 60 Box 100,,,Wells,Nevada,89835-9802,United States,7757522337,http://www.rubymountainbrewing.com,,
-303f1b38-dfab-4cd8-83ef-853d4a0c0401,Shoe Tree Brewing Co.,micro,1496 Old Hot Springs Rd,,,Carson City,Nevada,89706-0627,United States,7752220108,http://www.shoetreebrewing.com,,
+92b2afb6-3000-4ac2-94da-d863833b14bd,Schussboom Brewing Company,brewpub,12245 S. Virginia St.,,,Reno,Nevada,89511,United States,7759003930,http://www.SchussboomBrewing.com,-119.758972,39.421358
+67a0d67c-054e-4504-beed-65d07f485f2a,Shoe Tree Brewing - Minden,brewpub,1758 US 395,,,Minden,Nevada,89423,United States,,,-119.781042,38.962303
+303f1b38-dfab-4cd8-83ef-853d4a0c0401,Shoe Tree Brewing Co.,taproom,1496 Old Hot Springs Rd,,,Carson City,Nevada,89706-0627,United States,7752220108,http://www.shoetreebrewing.com,-119.753531,39.192979
 bd708ae6-ef19-4e4d-9eca-f232fbabfdd3,Silver Peak Restaurant and Brewery,brewpub,124 Wonder St,,,Reno,Nevada,89502-2424,United States,7753241864,http://www.silverpeakbrewery.com,-119.8060433,39.51395749
 c2b494b6-da3a-45fb-9895-25e6ef1d5009,Sin City Beer Co,contract,3663 Las Vegas Blvd S Ste 504 Miracle Mile Shops,,,Las Vegas,Nevada,89109-1951,United States,7028094939,http://www.sincitybeer.com,,
+1f795097-d159-4709-8fff-72869976fec6,SLIEVE BREWING COMPANY,taproom,495 Morrill Ave. Suite 101,,,Reno,Nevada,89512,United States,7758001176,http://www.slievebrewing.com,-119.802363,39.533278
 572461d6-ab19-4469-b9c8-937a98b37941,StoneyHead Brewing LLC,micro,5301 Longley Ln Ste 84C,,,Reno,Nevada,89511-1873,United States,7758292337,http://www.stoneyheadbrewing.com,,
-a8502efc-8b0d-4af4-bfed-39cf4c829fea,Tenaya Creek Brewery,micro,831 W Bonanza Rd,,,Las Vegas,Nevada,89106-3526,United States,7023627335,http://www.tenayacreek.com,,
-021d289b-c290-4792-a688-633c2fcbe626,The Brew Brothers/Eldorado Hotel and Casino,brewpub,345 N Virginia St,,,Reno,Nevada,89501-1136,United States,7757865700,http://www.eldoradoresorts.com,-119.8164176,39.5367577
-80d67009-9e36-46d8-ae11-c35fb9842c0d,The Brewer's Cabinet,micro,475 S Arlington Ave Ste 1C,,,Reno,Nevada,89501-2099,United States,7753487481,http://www.thebrewerscabinet.com,,
-5963489b-f01b-4c19-8182-9cbf59185b34,The Depot Craft Brewery Distillery,brewpub,325 E 4th St,,,Reno,Nevada,89512-3313,United States,7757374330,http://www.thedepotreno.com,-119.809561,39.53112425
-70f0eb6a-e379-461c-bd9b-b05edf10af98,The Fox Brewpub,brewpub,310 S Carson St,,,Carson City,Nevada,89701-4754,United States,7758831369,http://www.foxbrewpub.com,-119.7708155,39.1269616
-3c0588bd-7fd2-469c-98cb-778653502107,Tonopah Brewing Co,brewpub,315 S Main St,,,Tonopah,Nevada,89049,United States,7754822000,http://www.tonopahbrewing.com,-117.2319823,38.07035024
-808d7280-d349-4db2-8082-ac9673697483,Triple 7 Restaurant & Brewery at Main St Station,brewpub,200 N Main St Main Street Station Casino,,,Las Vegas,Nevada,89101-2910,United States,7023871896,http://www.mainstreetcasino.com,,
+a8502efc-8b0d-4af4-bfed-39cf4c829fea,Tenaya Creek Brewery,taproom,831 W Bonanza Rd,,,Las Vegas,Nevada,89106-3526,United States,7023627335,http://www.tenayacreek.com,-115.153155,36.176733
+021d289b-c290-4792-a688-633c2fcbe626,The Brew Brothers/Eldorado Hotel and Casino,micro,345 N Virginia St,,,Reno,Nevada,89501-1136,United States,7757865700,http://www.eldoradoresorts.com,-119.8145,39.529456
+80d67009-9e36-46d8-ae11-c35fb9842c0d,The Brewer's Cabinet,brewpub,475 S Arlington Ave Ste 1C,,,Reno,Nevada,89501-2099,United States,7753487481,http://www.thebrewerscabinet.com,-119.816937,39.520702
+fb33724e-e560-4244-91e2-81246e0b761e,The Brewer's Cabinet Production Facility,micro,8565 White Fir St,,,Reno,Nevada,89523,United States,7753487481,,-119.902296,39.507252
+5963489b-f01b-4c19-8182-9cbf59185b34,The Depot Craft Brewery Distillery,brewpub,325 E 4th St,,,Reno,Nevada,89512-3313,United States,7757374330,http://www.thedepotreno.com,-119.809561,39.531089
+70f0eb6a-e379-461c-bd9b-b05edf10af98,The Fox Brewpub,brewpub,310 S Carson St,,,Carson City,Nevada,89701-4754,United States,7758831369,http://www.foxbrewpub.com,-119.767315,39.162404
+3c0588bd-7fd2-469c-98cb-778653502107,Tonopah Brewing Co,micro,315 S Main St,,,Tonopah,Nevada,89049,United States,7754822000,http://www.tonopahbrewing.com,-117.228737,38.066079
+808d7280-d349-4db2-8082-ac9673697483,Triple 7 Restaurant & Brewery at Main St Station,brewpub,200 N Main St,,,Las Vegas,Nevada,89101-2910,United States,7023871896,http://www.mainstreetcasino.com,-115.145147,36.174896
+aa46edb1-2234-4180-967a-5cb569ad9f33,Triple 7 Restaurant & Brewery at Main St Station,brewpub,200 N Main St,,,Las Vegas,Nevada,89101-2910,United States,7023871896,http://www.mainstreetcasino.com,-115.145147,36.174896
+4fb865d4-f534-4700-9259-ae3ffc8d507d,Trustworthy Brewing &  BBQ,brewpub,The Palazzo - Grand Canal Shoppes,,,Las Vegas,Nevada,89109,United States,8188415040,,-115.1678,36.124
 56959793-d728-4902-809a-5d075c5b2836,Two Bald Guys Beverage Co,contract,18090 Hazelnut Dr,,,Reno,Nevada,89508-6898,United States,,http://www.drinktwobaldguys.com,,
 2a549416-59b9-4ed0-9b76-4a649f29ee80,Under the Rose Brewing Company,micro,559 E 4th St,,,Reno,Nevada,89512-3317,United States,7756576619,,-119.8063947,39.5315258
 2dbbcfbc-636d-4cd8-9a57-7ae324adb66c,Under the Rose Brewing Company MidTown Location,brewpub,1041 S Virginia St,,,Reno,Nevada,89502,United States,,,-119.8072604,39.51387478

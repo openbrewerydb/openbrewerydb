@@ -1,353 +1,561 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 9c5a66c8-cc13-416f-a5d9-0a769c87d318,(512) Brewing Co,micro,407 Radam Ln Ste F200,,,Austin,Texas,78745-1197,United States,5129211545,http://www.512brewing.com,,
 08f78223-24f8-4b71-b381-ea19a5bd82df,11 Below Brewing Company,micro,6820 Bourgeois Rd,,,Houston,Texas,77066-3107,United States,2814442337,http://www.11belowbrewing.com,-95.5186591,29.9515464
+f1cf0c00-34af-4dbd-91aa-a9bfa3cc84f3,12 Fox Beer Co,taproom,4700 W Fitzhugh Rd,,,Dripping Springs,Texas,78620,United States,5126264458,http://www.12foxbeer.com,-98.144283,30.258098
 d6e77d51-2fa2-44cb-89b3-c94bf1dc77df,28th State Brewing,planning,,,,Houston,Texas,77095-6933,United States,,https://www.instagram.com/28thstatebrew/?hl=en,,
 ed387340-ea78-4f65-9de0-15e2da50371e,3 Nations Brewing,micro,2405 Squire Pl Ste 200,,,Farmers Branch,Texas,75234-4714,United States,4696607184,http://www.threenationsbrewing.com,-96.89883128,32.93044336
-aea0a6f9-557e-4907-be23-d80737a071e4,4J Brewing Company,micro,1348 Cedar Post Ln.,,,Houston,Texas,77055,United States,7136780776,https://4jbrewingcompany.com,,
+7451077d-ff4f-4740-b932-e3e1acd19b81,4 C Brewers LLC,brewpub,8778 FM 2095,,,Gause,Texas,77857,United States,8325194042,http://Www.4cbrewbarn.com,-96.808579,30.807016
+aea0a6f9-557e-4907-be23-d80737a071e4,4J Brewing Company,taproom,1348 Cedar Post Ln,,,Houston,Texas,77055-4304,United States,7136780776,http://4jbrewingcompany.com,-95.523978,29.794151
 760e8395-f2a2-4161-9bf1-c72ed1aa6ae3,4th Tap Brewing Cooperative,micro,10615 Metric Blvd,,,Austin,Texas,78758-4520,United States,5129089817,,-97.7118913,30.3852024
 83d47922-0a23-4b85-9c1c-d50b9135d64a,5 Stones Artisan Brewery,micro,11335 Farm To Market Road 1863,,,New Braunfels,Texas,78132,United States,2103808215,,-98.232345,29.711365
 eaf55668-8444-4e4f-80c2-b9f32f7e4d83,5th Element Brewing,planning,,,,Leander,Texas,78641-4009,United States,9156378199,,,
 849d5961-83c5-4115-9ae4-c0e93c8d3a7f,5x5 Brewing Co.,planning,,,,Mission,Texas,78572-6215,United States,9565291353,http://www.5x5brewing.com,,
-c2bc693f-906a-46a0-a5f9-82eab2d2845b,8th Wonder Brewery,micro,2202 Dallas St,,,Houston,Texas,77003-3519,United States,7133970072,http://www.8thwonderbrew.com,-95.3559402,29.7487783
-2b067eab-e0b0-46b6-aaea-e40a62cf632f,903 Brewers,micro,1718 S Elm St,,,Sherman,Texas,75090-8725,United States,2142438090,http://www.903brewers.com,-96.60698055,33.61788732
-7fa5779e-88df-42ab-895b-412b635498ae,Acopon Brewing Co,micro,211 W Mercer St,,,Dripping Springs,Texas,78620-5363,United States,5128294723,http://www.acoponbrewing.com,-98.09006208,30.19269957
+581bfdbd-ab03-4a0f-abcf-c112782df4af,5x5 Brewing Co.,micro,801 N Bryan Rd Ste 174,,,Mission,Texas,78572-6215,United States,9564455421,http://www.5x5brewing.com,-98.311044,26.2121
+3cc94001-9197-4530-b80d-838c3c322e60,602 Brewing Company,brewpub,919 Main Street,,,Bastrop,Texas,78602,United States,5123213577,,-97.319604,30.109952
+c2bc693f-906a-46a0-a5f9-82eab2d2845b,8th Wonder Brewery,micro,2202 Dallas St,,,Houston,Texas,77003-3519,United States,7135812337,http://www.8thwonder.com,-95.355937,29.748765
+2b067eab-e0b0-46b6-aaea-e40a62cf632f,903 Brewers,micro,1718 S Elm St,,,Sherman,Texas,75090-8725,United States,2142438090,http://www.903brewers.com,-96.606457,33.61582
+7fa5779e-88df-42ab-895b-412b635498ae,Acopon Brewing Co,taproom,211 W Mercer St,,,Dripping Springs,Texas,78620-5363,United States,5128294723,http://www.acoponbrewing.com,-98.089104,30.192532
 9ff5f718-dee7-4e69-b79c-6250de87e840,Adelbert's Brewery LLC,micro,2314 Rutland Dr Ste 100,,,Austin,Texas,78758-5273,United States,5126621462,http://www.adelbertsbeer.com,-97.7201589,30.3826286
-edf1c0fb-cce0-44ec-8d98-dd4778e2d533,Alamo Beer Co,micro,415 Burnet St,,,San Antonio,Texas,78202-1909,United States,2108725589,http://www.alamobeer.com,-98.4771638,29.42902321
+edf1c0fb-cce0-44ec-8d98-dd4778e2d533,Alamo Beer Company,micro,415 Burnet St,,,San Antonio,Texas,78202-1909,United States,2108725589,http://www.alamobeer.com,-98.47729,29.429567
 b1f7a6c5-a4e0-477b-a380-17f8a0120e2d,"Alcazar Brewery, LLC.",planning,,,,Rio Grande City,Texas,78582-4450,United States,,,,
+bf7733b6-6807-489f-bc14-97c47a77148b,"Alcazar Brewery, LLC.",micro,403 E Main St,,,Rio Grande City,Texas,78582-4450,United States,9564872660,,-98.817432,26.378229
 be64e523-9c15-4348-87e5-c6747b87abcb,Altmeyer and Lewis Brewing Company,micro,15898 N Hwy 123,,,San Marcos,Texas,78666-2418,United States,5126679537,http://www.altmeyerlewisbrewing.com,,
-68410dce-b145-4c0a-993f-08fc280cc9c8,Altstadt Brewery,micro,6120 E US Highway 290,,,Fredericksburg,Texas,78624-2176,United States,8303042337,http://www.altstadtbeer.com,-98.8467263,30.2468574
+68410dce-b145-4c0a-993f-08fc280cc9c8,Altstadt Brewery,micro,6120 E US Highway 290,,,Fredericksburg,Texas,78624-2176,United States,8303042337,http://www.altstadtbeer.com,-98.796071,30.225107
 a7e8257d-956d-46ca-81f4-33d1b6a13fc8,"Angelina Brewing Company, LLC.",planning,,,,Lufkin,Texas,75904-7550,United States,3168419327,,,
 34dd23fd-b208-4a7b-b4d2-3488b20e618f,Anheuser-Busch Inc â Houston,large,775 Gellhorn Dr,,,Houston,Texas,77029-1496,United States,7136752311,,-95.27130674,29.771858
-26a850f9-f796-427c-810d-84b4ae08dfbb,Anvil Brewing,brewpub,115 S. Compress St,,,Pittsburg,Texas,75686-1353,United States,9039267741,http://www.anvilbrewingtx.com,,
+26a850f9-f796-427c-810d-84b4ae08dfbb,Anvil Brewing,brewpub,115 S Compress St,,,Pittsburg,Texas,75686-1353,United States,9039267741,http://www.anvilbrewingtx.com,-94.967303,32.996401
 e04c1682-dba4-4366-ac2e-4a8dab19da3c,Aquabrew,brewpub,150 S L B J Dr,,,San Marcos,Texas,78666-5506,United States,5123532739,http://www.aqua-brew.com,,
+309e02f4-79f8-4e3b-a280-a280d5a46b66,AquaBrew,micro,110 E MLK Dr,,,San Marcos,Texas,78666,United States,2813001009,http://www.aqua-brew.com,-97.940293,29.879597
 e37a575c-5e11-4a2f-8e58-8fcce92e78ac,"Aransas Pass Brewing Company, LLC",planning,,,,Aransas Pass,Texas,78336-1920,United States,,,,
 7e286282-9365-48c2-8bd2-1193bac62449,Armadillo Ale Works,micro,221 S Bell Ave,,,Denton,Texas,76201-4259,United States,9405804446,http://www.armadilloaleworks.com,-97.12830051,33.21286666
+c7b0b851-e744-4db5-a3e8-de9eb2c0c7db,Ash and Ember Brewing Company,taproom,226 Texas St,,,Cedar Hill,Texas,75104,United States,9726373450,http://www.ashandemberbrewing.com,-96.950456,32.587663
 d916497e-0b1b-48aa-8add-10a62c0b3e90,Astral Brewing,micro,4816 N Shepherd Dr suite a,,,Houston,Texas,77018,United States,7135341067,https://www.astralbrewing.com,,
-be88a2bb-0975-416c-b9f4-c571ddf70e5c,Athens Brewing Co,brewpub,101 E Tyler St,,,Athens,Texas,75751-2547,United States,9039527493,http://www.athensbrewingco.com,-95.852642,32.205458
-9a280fbb-adee-484a-876b-50e71235a711,Austin Beerworks,regional,3001 Industrial Ter,,,Austin,Texas,78758-7609,United States,5128212494,http://www.austinbeerworks.com,-97.72984444,30.3795705
+f6c15767-dd8e-4c1b-bc81-4274a3420b60,Astral Brewing,taproom,4816 N Shepherd Ste A,,,Houston,Texas,77018,United States,7135341067,http://www.astralbrewing.com,-95.41023,29.835366
+be88a2bb-0975-416c-b9f4-c571ddf70e5c,Athens Brewing Co,taproom,101 E Tyler St,,,Athens,Texas,75751-2547,United States,9039527493,http://http://athensbrewingcompany.com/,-95.854818,32.205776
+28a35d96-a90e-400a-9b63-a6ba2f274e66,Auld Brewing Company,taproom,111 West Ninth Street,,,Borger,Texas,79007,United States,8062790903,http://www.auldbrewing.com,-101.39012,35.675373
+6696126c-9f3e-4822-a192-963fcdc0e7ec,Aurellias Bottle Shop and Brewhouse,brewpub,1620 N Resler dr ste C,,,El Paso,Texas,79911,United States,9154331765,http://www.Aurellias.com,-106.573182,31.891077
+9a280fbb-adee-484a-876b-50e71235a711,Austin Beerworks,regional,3001 Industrial Ter,,,Austin,Texas,78758-7609,United States,5128212494,http://www.austinbeerworks.com,-97.73003,30.379679
 483efb3e-05aa-43b5-a283-40414b6b47dc,B and J's Handcrafted Texas Ales,micro,6335 S Padre Island Dr,,,Corpus Christi,Texas,78412-4013,United States,3619926671,http://pizzaandbrew@aol.com,-97.2962784,27.6749936
+57c8ded7-9926-47ad-9710-068dbddbb6c6,B and J's Handcrafted Texas Ales,brewpub,6662 South Staples,,,Corpus Christi,Texas,78413,United States,3619926671,http://pizzaandbrew@aol.com,-97.386759,27.679554
 8f4aa88c-e9cb-4932-9245-a2230ec59b63,B-52 Brewing,micro,12470 Milroy Ln,,,Conroe,Texas,77304-5160,United States,9364474677,http://www.b52brewing.com,,
 80263b86-dfa6-46dd-86cd-3440a13d5015,B-CS  Zoigl Brewery,micro,Â 211-C W William Joel Bryan Pkwy,,,Bryan,Texas,77803-3225,United States,2819353018,http://www.bcs-zoigl.com,,
-c916c0c3-be83-4d5a-b2de-c58fc9faa206,Baa Baa Brewhouse,micro,539 FM 359 Rd S,,,Brookshire,Texas,77423-8013,United States,2819341847,http://www.baabaabrewhouse.com,,
-38c59264-ac19-4b4a-bada-cab729f71d57,Back Pew Brewing,micro,26452 Sorters Rd,,,Porter,Texas,77365-4752,United States,2816087526,http://www.backpewbrewing.com,,
-e932c001-d68a-4dc8-8eef-b4311b9399ad,Back Unturned Brewing Co.,micro,516 Brooklyn Ave,,,San Antonio,Texas,78215,United States,210-25-0022,http://www.backunturned.com/,-98.4867139,29.4330983
+c916c0c3-be83-4d5a-b2de-c58fc9faa206,Baa Baa Brewhouse,taproom,539 FM 359 Rd S,,,Brookshire,Texas,77423-8013,United States,2819341847,http://www.baabaabrewhouse.com,-95.950614,29.773019
+38c59264-ac19-4b4a-bada-cab729f71d57,Back Pew Brewing,taproom,26452 Sorters Rd,,,Porter,Texas,77365-4752,United States,2816087526,http://www.backpewbrewing.com,-95.264556,30.064489
+e932c001-d68a-4dc8-8eef-b4311b9399ad,Back Unturned Brewing Co.,brewpub,516 Brooklyn Ave,,,San Antonio,Texas,78215,United States,2102570022,http://https://www.facebook.com/backunturned/,-98.484534,29.433075
+f93d04a1-9ff0-4521-bddb-d4e69e818b09,Backstory Brewery,taproom,211 Magnolia St,,,Sulphur Springs,Texas,75482-2772,United States,9034382337,http://www.backstorybrewery.com,-95.604539,33.135048
 9618d4a8-2e33-4025-888d-ecbc0da2a8a5,BackStory Brewery,planning,,,,Sulphur Springs,Texas,75482-2772,United States,,,,
-a715d721-e382-45e3-a035-18edf1dee861,"Baileson Brewing Company, LLC",micro,2322 Bissonnet St,,,Houston,Texas,77005-1512,United States,8325169828,http://www.bailesonbrewing.com,-95.41337465,29.72562404
-2f4107b2-90e6-422e-876b-6578924206bb,BAKFISH Brewing Company,micro,1231 Broadway St,,,Pearland,Texas,77581-6303,United States,2819938658,http://www.bakfishbrewing.com,-95.4174149,29.5551351
-2d0bf6d8-1aad-42f4-8553-f78c7b90e1fd,"Bandera Ale Project, LLC",micro,3540 State Highway 16 S Ste 2A,,,Bandera,Texas,78003-3561,United States,8305224226,http://www.banderabrewery.com,,
-a8a4b78e-6e6c-4c93-a1bb-e364353f25ce,Bankhead Brewing Company,brewpub,3840 Main St,,,Rowlett,Texas,75088-5073,United States,2143847953,http://www.bankheadbrewing.com,-96.56610883,32.9029137
-ddccedb0-12d1-442c-bd66-3c2fe9b0fe80,Bar D Brew House,brewpub,213 N High St,,,San Saba,Texas,76877-3533,United States,3253726100,http://www.bardbrewhouse.com,-98.71854917,31.19678472
-df0ca5e9-9372-4516-a191-e6bfe4c466b0,Bare Arms Brewing,micro,2515 La Salle Ave,,,Waco,Texas,76706-3929,United States,2547598480,http://www.barearmsbrewing.com,-97.13081959,31.52488462
+556b2387-d31b-41fd-9e5f-e15d94fdd856,Backyard Brewing Company,brewpub,1675 Dickinson Ave,,,Dickinson,Texas,77539,United States,8322711634,http://www.backyard-brewing-company.business.site,-95.046961,29.485243
+a715d721-e382-45e3-a035-18edf1dee861,"Baileson Brewing Company, LLC",brewpub,2322 Bissonnet St,,,Houston,Texas,77005-1512,United States,8325169828,http://www.bailesonbrewing.com,-95.413717,29.725798
+2f4107b2-90e6-422e-876b-6578924206bb,BAKFISH Brewing Company,taproom,1231 Broadway St,,,Pearland,Texas,77581-6303,United States,2819938658,http://www.bakfishbrewing.com,-95.222302,29.543732
+2d0bf6d8-1aad-42f4-8553-f78c7b90e1fd,"Bandera Ale Project, LLC",taproom,3540 State Highway 16 S Ste 2A,,,Bandera,Texas,78003-3561,United States,8305224226,http://www.banderabrewery.com,-99.026529,29.741778
+a8a4b78e-6e6c-4c93-a1bb-e364353f25ce,Bankhead Brewing Company,brewpub,3840 Main St,,,Rowlett,Texas,75088-5073,United States,2143847953,http://www.bankheadbrewing.com,-96.565913,32.90281
+17f3133a-5b82-4b7d-b5b7-c9471b78c6ad,Bankhead Brewing Company - Fort Worth,brewpub,611 University Dr,,,Fort Worth,Texas,76107,United States,8174399223,,-97.360836,32.752345
+ddccedb0-12d1-442c-bd66-3c2fe9b0fe80,Bar D Brewhouse,brewpub,213 N High St,,,San Saba,Texas,76877-3533,United States,3253726100,http://www.bardbrewhouse.com,-98.718613,31.197132
+df0ca5e9-9372-4516-a191-e6bfe4c466b0,"Bare Arms Brewing, LLC",brewpub,2515 La Salle Ave,,,Waco,Texas,76706-3929,United States,2547598480,http://www.barearms.beer,-97.130812,31.524965
 2c58a683-787e-4d26-a7f0-e12e31b36e74,Barking Armadillo Brewing,micro,507 River Bend,,,Georgetown,Texas,78723-3342,United States,512-240-5137,http://www.barkingarmadillo.com/,-97.6932487,30.6608114
+8a633ae4-57cb-49f3-a136-9b9bb36ec1f0,Barking Armadillo Brewing,brewpub,507 River Bend Dr,,,Georgetown,Texas,78628,United States,5122405137,http://www.barkingarmadillo.com,-97.691088,30.660759
 d605f25e-f132-4c42-94cb-0ec7fc4fe50c,Barrel Assembly,planning,,,,Austin,Texas,78751-3019,United States,15124236579,http://www.barrelassembly.com,,
-8000063a-f3ac-41e0-8c1d-ad58ba3ad562,Barrow Brewing Company,micro,108 Royal St,,,Salado,Texas,76571,United States,2549473544,http://www.barrowbrewing.com,-97.53703133,30.94295989
-4a9101f6-a7eb-461c-95c9-a0ce6bffdaeb,Basement Brewers of Texas,micro,521 Clay St,,,Kerrville,Texas,78028-4525,United States,8309555073,http://www.basementbrewersoftexas.com,-99.1392822,30.05042839
+08331cae-c830-4e63-91b1-b5227cdbc68c,Barrelman Brewing Company,brewpub,103 Ranger Dr.,,,Boerne,Texas,78006,United States,8303311055,http://www.barrelmanbeer.com,-98.754522,29.802402
+8000063a-f3ac-41e0-8c1d-ad58ba3ad562,Barrow Brewing Company,brewpub,108 Royal St,,,Salado,Texas,76571,United States,2549473544,http://www.barrowbrewing.com,-97.53596,30.942924
+4a9101f6-a7eb-461c-95c9-a0ce6bffdaeb,Basement Brewers of Texas,taproom,521 Clay St,,,Kerrville,Texas,78028-4525,United States,8309555073,http://www.basementbrewersoftexas.com,-99.138659,30.050544
 a0fe534d-c9f1-4232-88cd-b918d16952d8,Batch Craft Beer and Kolaches,planning,,,,Austin,Texas,78723,United States,5124013025,http://www.batchatx.com,,
+934373c4-f3ac-467c-87cb-89f7fe9f7079,Batch Craft Beer and Kolaches,brewpub,3220 Manor Rd,,,Austin,Texas,78723,United States,5124013025,http://www.batchatx.com,-97.703182,30.287314
 cbe608f9-a825-478c-bdab-ef2359ab53c5,BattleHops Brewing,planning,,,,Katy,Texas,77494,United States,8323245284,http://www.battlehopsbrewing.com,,
-3a8c6632-e9df-4d42-9adb-a2cb5c6863c8,Bearded Fox Brewing Co.,micro,11729 Spring Cypress Rd Ste R,,,Tomball,Texas,77377-6063,United States,8327617928,http://www.beardedfoxbrewing.com,,
+12887b87-d39b-4d30-86b9-294986a2cb69,Bear King Brewing Company,brewpub,207 Avenue G,,,Marble Falls,Texas,78654-5844,United States,5124568689,http://www.bearkingbrewing.com,-98.274973,30.57039
+fbd22162-980a-48a6-ad13-93580cf02105,Beard Science Sour House,taproom,5959 Grove Ln,,,The Colony,Texas,75056,United States,4694016764,http://www.beardsciencesours.com,-96.857807,33.06858
+3a8c6632-e9df-4d42-9adb-a2cb5c6863c8,Bearded Fox Brewing Co.,taproom,11729 Spring Cypress Rd Ste R,,,Tomball,Texas,77377-6063,United States,8327617928,http://www.beardedfoxbrewing.com,-95.603094,30.012117
+e3e0e72a-56b5-4a71-a14a-a87816581e89,Beerburg Brewing Company,brewpub,13476 Fitzhugh Rd,,,Austin,Texas,78736,United States,5124619748,http://www.beerburgbrewing.com,-98.002357,30.232817
 09c40072-dae9-445b-a8e5-574ac4c9371a,Beerfoot Beach Bar,micro,2816 Avenue R 1/2,,,Galveston,Texas,77550-7742,United States,4097622337,http://www.yagaspresents.com/beerfoot/index.html,,
+ded42636-1eb3-4704-9582-fd731b24e73d,Bell Springs Brewing Company,taproom,Bell Springs Brewing Company,,,Dripping Springs,Texas,78620,United States,5127770018,http://www.bellspringsbrewing.com,-98.0979,30.2194
 5fe8f212-8c52-4183-85ff-687307298047,Big Bend Brewing Co,micro,3401 W Highway 90,,,Alpine,Texas,79830-4127,United States,4328373700,http://www.bigbendbrewing.com,,
+065cbe0d-c6a3-4f72-a535-60ac263e9691,Big Country Brewing Company,brewpub,2400 Patterson Industrial Drive,,,Pflugerville,Texas,78660,United States,5129104099,http://www.willardsbrewery.com,-97.628709,30.402105
 8db35211-a4ca-44d7-a6dd-a31c3e2ead66,"Big River Brewery, LLC",micro,505 W Nolana Loop,,,Pharr,Texas,78577-8345,United States,9565661455,,,
-dc1b146d-741e-426b-8216-a65911e0f76a,Big Texan Brewery,brewpub,7701 Interstate 40 Access Rd,,,Amarillo,Texas,79118-6915,United States,8063726000,http://www.bigtexan.com,,
-27812208-7d7b-4c77-b62a-bc405d6af897,Bitter Sisters Brewing Company,micro,15103 Surveyor Blvd,,,Addison,Texas,75001-4316,United States,9724790949,http://www.bittersistersbrewery.com,-96.845846,32.951222
-8f291173-eb33-4277-96a6-81a3a1b32709,BJ's Brewhouse,regional,602 E Central Ave,,,Temple,Texas,76501-4319,United States,7145002400,,-97.33525536,31.09509964
-6aa5ecd3-aaec-472c-ba67-c7f8d6b75b40,Black Laboratory Breing,micro,1602 E Houston St Suite 109,,,San Antonio,Texas,78202,United States,210-370-3442,http://www.blacklaboratorybrewing.com/,-98.4753507,29.4246556
-d67cae67-6bcf-4a02-92e0-76d81ebfb5b8,Black Page Brewing Co.,micro,210 Glen Park St.,,,Houston,Texas,77009,United States,7137846001,https://blackpagebrewing.com,,
-3a255fa1-c05a-42ce-ad91-181fbe91473d,Black Star Co-op,brewpub,7020 Easy Wind Dr Ste 100,,,Austin,Texas,78752-2373,United States,5124522337,http://www.blackstar.coop,-97.718977,30.3383262
-cb8add44-ed44-445c-911b-14d6c5363fd0,Blackwater Draw Brewing Company,brewpub,701 N Main,,,Bryan,Texas,77803,United States,9797046191,http://www.blackwaterbrew.com,-96.35277742,30.6580876
-9be2e661-7d9a-4445-b1b9-6a420a047407,Blazing Tree Brewery,micro,11426 Rojas Dr Ste A13,,,El Paso,Texas,79936-6486,United States,9153073627,,,
-5c4c95ae-4128-4510-b2c7-2a7c483de5a2,Blue Owl Brewing,micro,2400 E Cesar Chavez St Ste 300,,,Austin,Texas,78702-4638,United States,5125931262,http://www.blueowlbrewing.com,-97.7189581,30.2545583
-549145aa-cde9-4d76-a282-7508eaee9b3c,Blue Star Brewing Co,brewpub,1414 S Alamo St # 105,,,San Antonio,Texas,78210-1117,United States,2102125506,http://www.bluestarbrewing.com,-98.49615307,29.40989569
+e26042bc-35b2-4b4b-829d-e9a8a3cec1bd,Big Spray Brewing,brewpub,816 E Princeton Dr #105,,,Princeton,Texas,75407,United States,9727360002,http://www.bigspraybrewing.com,-96.491115,33.174552
+dc1b146d-741e-426b-8216-a65911e0f76a,Big Texan Brewery,micro,7701 Interstate 40 Access Rd,,,Amarillo,Texas,79118-6915,United States,8063726000,http://www.bigtexan.com,-101.7529,35.1931
+27812208-7d7b-4c77-b62a-bc405d6af897,Bitter Sisters Brewing Company,micro,15103 Surveyor Blvd,,,Addison,Texas,75001-4316,United States,9724790949,http://www.bittersistersbrewery.com,-96.847028,32.954763
+91dfdc3c-e8ec-4ece-8cec-ac04a0c66b7c,Bitter Sisters Brewing Company,micro,15103 Surveyor Blvd,,,Addison,Texas,75001-4316,United States,9724790949,http://www.bittersistersbrewery.com,-96.847028,32.954763
+8f291173-eb33-4277-96a6-81a3a1b32709,BJ's Brewhouse,regional,602 E Central Ave,,,Temple,Texas,76501-4319,United States,7145002400,,-97.334903,31.09522
+6aa5ecd3-aaec-472c-ba67-c7f8d6b75b40,Black Laboratory Brewing,taproom,1602 E. Houston St Suite 109,,,San Antonio,Texas,78202,United States,2108540804,http://www.blacklaboratorybrewing.com,-98.473072,29.424927
+d67cae67-6bcf-4a02-92e0-76d81ebfb5b8,Black Page Brewing Company,brewpub,210 Glen Park St,,,Houston,Texas,77009-5613,United States,7138053525,http://www.blackpagebrewing.com,-95.365864,29.787272
+3a255fa1-c05a-42ce-ad91-181fbe91473d,Black Star Co-op,taproom,7020 Easy Wind Dr Ste 100,,,Austin,Texas,78752-2373,United States,5124522337,http://www.blackstar.coop,-97.718869,30.338492
+cb8add44-ed44-445c-911b-14d6c5363fd0,Blackwater Draw Brewing Company,brewpub,701 N Main,,,Bryan,Texas,77803,United States,9797046191,http://www.blackwaterbrew.com,-96.372298,30.679508
+9be2e661-7d9a-4445-b1b9-6a420a047407,Blazing Tree Brewery,taproom,11426 Rojas Dr Ste A13,,,El Paso,Texas,79936-6486,United States,9153073627,http://www.blazingtreebreweryelpaso.com,-106.317798,31.738608
+5c4c95ae-4128-4510-b2c7-2a7c483de5a2,Blue Owl Brewing,micro,2400 E Cesar Chavez St Ste 300,,,Austin,Texas,78702-4638,United States,5125931262,http://www.blueowlbrewing.com,-97.717757,30.255111
+549145aa-cde9-4d76-a282-7508eaee9b3c,Blue Star Brewing Co,brewpub,1414 S Alamo St # 105,,,San Antonio,Texas,78210-1117,United States,2102125506,http://www.bluestarbrewing.com,-98.495374,29.408987
 cc7d935c-c318-4a60-9da6-e683a3ce7fb9,Bluebonnet Beer Co,micro,1700 Bryant Dr Ste 107,,,Round Rock,Texas,78664-3898,United States,5127744258,http://www.bluebonnetbeerco.com,-97.645332,30.491657
+cca0ebdf-2de3-4be0-9cc2-2e4e580f72d1,Bluebonnet Beer Company,brewpub,1700 Bryant Drive,,,Round Rock,Texas,78664-3898,United States,5127744258,http://www.bluebonnetbeerco.com,-97.647159,30.492089
 0c7d6d42-ad91-4e1c-8556-c1c1ac8617ae,"Bnaf, LLC",planning,,,,Austin,Texas,78727-7602,United States,,,,
 218c5541-892d-4bd8-9745-ebd90304f80b,Boerne Brewery,micro,9 Hill View Ln,,,Boerne,Texas,78006-7003,United States,8306889693,http://www.boernebrewery.com,,
+df37cf65-09ba-4ee9-b326-273631d735d6,Bold Republic Brewing Company,brewpub,206 N Penelope Street,,,Belton,Texas,76513,United States,2548313110,http://www.boldrepublicbrewing.com,-97.461667,31.057499
+da5a38c2-8201-47a5-82f0-132e3629450c,Boozie's Brewery,brewpub,311 Town Pl,,,Fairview,Texas,75069,United States,,http://www.booziesrg.com,-96.648939,33.13225
 8bf7e66c-cc29-473a-adf8-b63cf5cc3e69,Braindead Brewing,brewpub,2625 Main St,,,Dallas,Texas,75226-1411,United States,4692869005,http://www.braindeadbrewing.com,-96.7854202,32.7838067
 fd53e0a1-4115-4ebf-938b-e57335d40bbd,Branchline Brewing Company,closed,3633 Metro Pkwy,,,San Antonio,Texas,78247-3502,United States,3612908817,http://www.branchlinebrewing.com,,
 43c4cb4d-476d-4fce-989b-824dcc289d8f,Brash,micro,508 W Crosstimbers St,,,Houston,Texas,77018-5521,United States,,http://www.brashbeers.com,-95.40974166,29.82727538
-1cf71f6d-be03-4c41-894d-b496b5358dfe,Brazos Valley Brewing Company,micro,201 W 1st St,,,Brenham,Texas,77833,United States,9799871133,http://www.brazosvalleybrewery.com,-96.3986627,30.16447
+e296447e-5bbe-4565-89b2-39355f5dec9f,Brash Brewing Company,micro,508 W Crosstimbers St,,,Houston,Texas,77018-5521,United States,,http://www.brash-brewing.square.site,-95.407666,29.829083
+6a061f13-52f6-470e-a5c4-877b1c91b913,Bray's Smokehouse,brewpub,1500 Brahma Blvd,,,Kingsville,Texas,78363,United States,3612211100,,-97.855383,27.502696
+1cf71f6d-be03-4c41-894d-b496b5358dfe,Brazos Valley Brewing Company,micro,201 W 1st St,,,Brenham,Texas,77833,United States,9799871133,http://www.brazosvalleybrewery.com,-96.398659,30.164473
+7bead37b-a5cc-4abf-980a-e98f7ba5de54,Breakaway Brewing Company,brewpub,1518 E.Grayson Street,,,San Antonio,Texas,78208,United States,2102458998,http://www.breakawaybrewing.us,-98.461464,29.443037
 3701ef02-81a2-4d59-99ae-8344dc8b530b,Brews Brothers,brewpub,2404 Strand St,,,Galveston,Texas,77550-1412,United States,4097632739,,,
 505fb24a-cf9f-4668-845c-6a7533b2f7a5,Brick Oven Pizza Co/ Brick & Forge Brewing,brewpub,4714 S 14th St,,,Abilene,Texas,79605-4733,United States,8702364200,,-99.78335777,32.42968055
-8652536e-e81b-446d-bd70-a7ed43b8898a,Brick Vault Brewery & BBQ,brewpub,102 NW 1st St Highway 90W,,,Marathon,Texas,79842,United States,4323864205,http://www.gagehotel.com,,
+8652536e-e81b-446d-bd70-a7ed43b8898a,Brick Vault Brewery & BBQ,brewpub,102 NW 1st St Highway 90W,,,Marathon,Texas,79842,United States,4323860166,http://www.gagehotel.com,-103.2061,30.1572
 aaf2382f-cfd7-4218-a571-120982815d6a,Brigadoon Brewery & Brew School,micro,4808 Fairmont Pkwy Ste 112,,,Pasadena,Texas,77505-3722,United States,9368940425,http://www.brigadoonbrewery.com,-95.1511925,29.6501134
-68e4d79f-cb2d-4c7c-ad44-0052927e5b59,Brotherwell Brewing,micro,400 E Bridge St,,,Waco,Texas,76704-2505,United States,2147638755,,-97.124214,31.56428
-91fe878b-f118-4ed2-b733-bcde32a53f1d,BS Brewing,micro,1408 Old Lehmann Rd,,,Seguin,Texas,78155-5048,United States,8306608124,http://www.bsbrewingtx.com,-97.90477894,29.69091561
+4af32efc-8f7a-4ca4-9c8e-de7eb40dd8a9,Brigadoon Brewery & Brew School,taproom,21778 FM 1774,,,Plantersville,Texas,77363-7722,United States,2817107560,http://www.brigadoonbrewery.com,-95.830253,30.259414
+68e4d79f-cb2d-4c7c-ad44-0052927e5b59,Brotherwell Brewing,micro,400 E Bridge St,,,Waco,Texas,76704-2505,United States,2147638755,http://www.Brotherwell.com,-97.124218,31.564579
+c5c52c63-d730-420b-9e5d-d0fac609675b,Brutal Beerworks,micro,8447 Boulevard 26,,,North Richland Hills,Texas,76180,United States,8176662728,http://www.brutalbeerworks.com,-97.201162,32.843386
+91fe878b-f118-4ed2-b733-bcde32a53f1d,BS Brewing,taproom,1408 Old Lehmann Rd,,,Seguin,Texas,78155-5048,United States,8306608124,http://www.bsbrewingtx.com,-97.902387,29.68585
+ce370e93-7208-4338-b1b1-cb951a7c05fc,Buckstin Brewing Company,brewpub,1211 Boston Ave,,,Nederland,Texas,77627,United States,4093007521,http://buckstinbrewing.com,-93.991085,29.975421
 7ce4f9c5-bf79-4d42-b7bb-aaa70cd2e069,Buffalo Bayou Brewing Co,micro,5301 Nolda St,,,Houston,Texas,77007-2234,United States,7137509795,http://www.buffbrew.com,-95.4160849,29.775978
-2a1e79cc-7f90-4309-a7c7-ab03566417dd,Bull Creek Brewing Company,proprietor,7100 FM3405,,,Liberty Hill,Texas,78642,United States,5128399510,http://www.bullcreekbrewing.com,,
-31492f5d-c872-461c-b6c5-752ced93759a,Busted Sandal Brewing Company,micro,7114 Oaklawn Dr,,,San Antonio,Texas,78229-3021,United States,2108721486,http://www.bustedsandalbrewing.com,,
+2a1e79cc-7f90-4309-a7c7-ab03566417dd,Bull Creek Brewing Company,taproom,7100 FM3405,,,Liberty Hill,Texas,78642,United States,5128399510,http://www.bullcreekbrewing.com,-97.871553,30.706335
+31492f5d-c872-461c-b6c5-752ced93759a,Busted Sandal Brewing Company,micro,7114 Oaklawn Dr,,,San Antonio,Texas,78229-3021,United States,2108721486,http://www.bustedsandalbrewing.com,-98.555799,29.499428
 1a4ac5aa-6d2f-41ef-80b5-b4b11db57b9a,Cactus Land Brewing Company,micro,368 County Road 325,,,Adkins,Texas,78101-2812,United States,2104142776,http://www.cactuslandbrewing.com,,
 f99f9f8d-d2e0-4f23-9644-c95ff543e235,Caracara Brewing Company,micro,100 E Market St,,,Lockhart,Texas,78644-2747,United States,,http://www.caracarabrewingcompany.com,-97.672065,29.883798
-5b1e7138-19f6-45fa-a899-70d808b55591,Cedar Creek Brewery,brewpub,336 E Cedar Creek Pkwy,,,Seven Points,Texas,75143-8395,United States,2145029795,http://www.cedarcreekbrewery.com,,
-1e5fd874-e6fa-4189-ad30-a6aab5e2ec7b,Celis Brewery,micro,10001 Metic Blvd.,,,Austin,Texas,78758,United States,5125242377,http://www.celisbeers.com,,
-8a784d6c-14f0-4df9-b49c-37950ef9c8d1,Cellarman's Pub & Brewery,brewpub,2130 Texoma Pkwy,,,Sherman,Texas,75090-2622,United States,9038130994,http://www.cellarmanspub.com,-96.59953011,33.66188865
-729fb6cc-0d37-4179-81fe-73a18e67b667,Central Machine Works,micro,4824 E Cesar Chavez St,,,Austin,Texas,78702-5135,United States,512-220-2340,http://cmwbrewery.com/,-97.7037665,30.2520225
+5b1e7138-19f6-45fa-a899-70d808b55591,Cedar Creek Brewery,brewpub,336 E Cedar Creek Pkwy,,,Seven Points,Texas,75143-8395,United States,2145029795,http://www.cedarcreekbrewery.com,-96.207754,32.322532
+186c8ad8-c873-4aa6-a959-ea56312c21fe,Cedar Creek Brewhouse and Eatery,brewpub,13090 Bee St,,,Dallas,Texas,75234,United States,4693726997,http://www.cedarcreekbrewhouse.com/,-96.895494,32.922762
+01e33c33-8321-4bca-a657-462839af9149,Celestial Beerworks,taproom,2530 Butler Street,,,Dallas,Texas,75235,United States,8324933110,http://www.celestialbeerworks.com,-96.83301,32.819942
+1e5fd874-e6fa-4189-ad30-a6aab5e2ec7b,Celis Brewery,micro,10001 Metic Blvd.,,,Austin,Texas,78758,United States,5125242377,http://www.celisbeers.com,-97.7094,30.3837
+8a784d6c-14f0-4df9-b49c-37950ef9c8d1,Cellarman's Pub & Brewery,brewpub,2130 Texoma Pkwy,,,Sherman,Texas,75090-2622,United States,9038130994,http://www.cellarmanspub.com,-96.599518,33.661934
+729fb6cc-0d37-4179-81fe-73a18e67b667,Central Machine Works Brewery,brewpub,4824 E Cesar Chavez St,,,Austin,Texas,78702-5135,United States,5125010297,http://cmwbrewery.com,-97.701349,30.252436
+acf722e4-c0a9-4ec3-b0f9-7b7ea8c190f0,Chambers Creek Brewing Company,brewpub,319 Main Street,,,Maypearl,Texas,76064,United States,4696626900,http://www.chamberscreekbrewing.com,-97.012661,32.310361
 c2f3c08f-5b47-4dba-93c4-328762b5a266,Chimera Brewing Company,brewpub,1001 W Magnolia Ave,,,Fort Worth,Texas,76104-4504,United States,8179238000,http://www.chimerabrew.com,-97.33528782,32.7303843
-14ea4e7c-498c-417e-89e9-eabaf9b7051f,Cibolo Creek Brewing Co.,brewpub,448 S Main St,,,Boerne,Texas,78006-2338,United States,8308165275,http://www.cibolocreekbrewing.com,-98.72996029,29.79015427
-b9ff8168-abfc-429d-b6d4-8322c671a96d,Circle Brewing Company,micro,2340 W Braker Ln Ste B,,,Austin,Texas,78758-4542,United States,5128147599,http://www.circlebrewing.com,,
-5eaf3169-986e-40f9-9f2b-426f04fee23b,City Acre Brewing Co,brewpub,3418 Topping St,,,Houston,Texas,77093,United States,8323770237,http://www.cityacrebrewing.com,-95.3350882,29.8570358
+14ea4e7c-498c-417e-89e9-eabaf9b7051f,Cibolo Creek Brewing Co.,brewpub,448 S Main St,,,Boerne,Texas,78006-2338,United States,8308165275,http://www.cibolocreekbrewing.com,-98.730173,29.790074
+b9ff8168-abfc-429d-b6d4-8322c671a96d,Circle Brewing Company,micro,2340 W Braker Ln Ste B,,,Austin,Texas,78758-4542,United States,5128147599,http://www.circlebrewing.com,-97.71593,30.3911
+5eaf3169-986e-40f9-9f2b-426f04fee23b,City Acre Brewing Co,brewpub,3418 Topping St,,,Houston,Texas,77093,United States,8323770237,http://www.cityacrebrewing.com,-95.335076,29.856988
+9d996b0a-8a2c-469d-8cf3-2b85a70298cf,City Orchard,brewpub,1201 Oliver Street,,,Houston,Texas,77007,United States,7139221089,http://cityorchardhtx.xom,-95.386358,29.77072
 1d3693d3-b9ef-48b5-b76d-4464725c6064,Coastal Bend Brewing,planning,,,,Corpus Christi,Texas,78418-6697,United States,5126901050,http://www.coastalbendbrewing.com,,
-ff07eef9-fd76-4909-9f8b-e3d690dab516,Community Beer Co,regional,1530 Inspiration Dr # 200,,,Dallas,Texas,75207-3703,United States,,,-96.81658792,32.79177896
+ff07eef9-fd76-4909-9f8b-e3d690dab516,Community Beer Co,regional,3110 Commonwealth Dr.,,,Dallas,Texas,75247,United States,2147517921,http://www.communitybeer.com,-96.862546,32.810651
+96ee12ac-94b8-4d62-92e5-bc222ce736a0,Community Beer Co,taproom,3110 Commonwealth Drive,,,Dallas,Texas,75247,United States,,http://www.communitybeer.com,-96.862546,32.810651
+e3e33dfd-c36d-480a-9ca9-b9c935f60b12,Community Beer Co,regional,3110 Commonwealth Dr.,,,Dallas,Texas,75247,United States,2147517921,http://www.communitybeer.com,-96.862546,32.810651
 5eaaf2e2-d018-49d9-96fb-b9792b7f0576,Compadre Brewing,planning,,,,Aound Rock,Texas,78660,United States,3615103472,http://www.compadrebrewing.com,,
-1bf9a380-d39f-486b-81b0-96b6c90a413d,Copperhead Brewery,micro,822 N Frazier St,,,Conroe,Texas,77301-2305,United States,2819196134,http://www.copperheadbrewery.com,-95.46266,30.316443
+1bf9a380-d39f-486b-81b0-96b6c90a413d,Copperhead Brewery,micro,822 N Frazier St,,,Conroe,Texas,77301-2305,United States,2819196134,http://www.copperheadbrewery.com,-95.463052,30.316481
+910d4653-6770-4af6-86af-a251380b2deb,Cork & Barrel,brewpub,4000 E Palm Valley Blvd,,,Sandy,Texas,78665,United States,5125820155,http://www.corkandbarrelpub.com,-97.622321,30.529752
+2333ebfa-408c-49fa-a577-42ca5d9ebbde,CounterCommon Beerworks & Kitchen,brewpub,5413 Bellaire Blvd.,,,Bellaire,Texas,77401,United States,,http://www.countercommon.com,-95.47535,29.705412
 7a0c3abf-985d-4803-abdb-bc6130e9328a,Cowtown Brewing Company,planning,,,,Fort Worth,Texas,76102-2408,United States,,http://www.cowtownbrewco.com,,
+52891244-a0c1-4637-bb22-f435d4767ed6,Cowtown Brewing Company,brewpub,1301 E Belknap St,,,Fort Worth,Texas,76102-2408,United States,8174895800,http://www.cowtownbrewco.com,-97.325015,32.762025
+023fe763-4794-431b-9b13-8ac34aa1e3d3,Craft and Growler,brewpub,3601 Parry Ave,,,Dallas,Texas,75226,United States,2148211122,http://www.craftandgrowler.com/,-96.766859,32.781581
+25d6db5c-4948-44bc-aef3-bf6f6648754d,Craft Rhythm & Brews Brewing Co.,taproom,1301 Texas Ave,,,El Paso,Texas,79901,United States,9153010010,http://www.craftrhythmandbrews.com,-106.476732,31.765873
 7fc36c9a-6806-40c8-9e3a-b6586c1e32c8,Cycler's Brewing,micro,17105 Osborn Rd,,,Montgomery,Texas,77356,United States,7135692485,http://www.cyclersbrewing.com,,
-34b894d8-4439-4e1d-ad43-8764f5630483,Cypress Creek Southern Ales,micro,200 E Carnegie St,,,Winnsboro,Texas,75494-3206,United States,2088414159,http://www.cypresscreeksouthernales.com,-95.288727,32.955986
+34b894d8-4439-4e1d-ad43-8764f5630483,Cypress Creek Southern Ales,taproom,200 E CARNEGIE ST,,,WINNSBORO,Texas,75494,United States,2088414159,http://www.cypresscreeksouthernales.com,-95.289414,32.95589
 77fbe71c-77bd-4ace-99d6-e519f1f84f03,Dauntless Brewing Company,planning,,,,Farmers Branch,Texas,75234-2334,United States,9035213472,,,
-61101f4b-cd7e-401e-bab1-159dc83df85a,Deadbeach Brewery,brewpub,406 S Durango St,,,El Paso,Texas,79901-1063,United States,9158012337,http://www.deadbeach.com,,
+61101f4b-cd7e-401e-bab1-159dc83df85a,Deadbeach Brewery,brewpub,406 S Durango St,,,El Paso,Texas,79901-1063,United States,9158012337,http://www.deadbeach.com,-106.492451,31.755333
+b5525a2d-8c3b-45a7-b053-aaeca88e06a3,Deanitude Brewing Company,brewpub,1928 S Akard St,,,Dallas,Texas,75215-1903,United States,4696203131,http://www.deanitudebrewing.com,-96.788669,32.76677
 532b0c2e-6f35-448e-8f77-2e4042be5e9b,"Deanitude Brewing Company, LLC",planning,,,,Dallas,Texas,75225-0734,United States,2143600004,http://www.deanitudebrewing.com,,
-1998961a-6504-470f-af2a-15cef23e71b0,Deep Ellum Brewing Co,regional,2821 Saint Louis St,,,Dallas,Texas,75226-1904,United States,2148883322,http://www.deepellumbrewing.com,-96.78156845,32.78062733
+f047e73f-29bf-49d6-b78b-b0e9997b2f23,DECA Beer Company,brewpub,25428 TX-494 Loop,,,Porter,Texas,77365,United States,2817477746,http://www.decabeer.com,-95.23817,30.078545
+1998961a-6504-470f-af2a-15cef23e71b0,Deep Ellum Brewing Co,regional,2821 Saint Louis St,,,Dallas,Texas,75226-1904,United States,2148883322,http://www.deepellumbrewing.com,-96.781825,32.780799
 fc88252f-a4fb-4016-a929-6111f6c15eb5,Denton County Brewing Company,micro,200 E McKinney St,,,Denton,Texas,76201-4230,United States,9404350710,http://www.dentoncountybrewingco.com,-97.131672,33.216517
 e4895f5c-e308-4d17-893f-2f86bb50868d,Destination Brewing Company,contract,2708 Lawrence Drive,,,Austin,Texas,78734,United States,5129659858,http://www.destinationbrewing.co,,
-bec65b87-eadc-4db1-b303-f0ee724f4988,Devil and the Deep,micro,2425 Postoffice St,,,Galveston,Texas,77550-4629,United States,7134028868,http://www.devilandthedeep.com,,
-ad8c6d2f-e4bf-4a8c-86d7-11e87f36bf9a,Dirty Job Brewing,micro,117 N Main St,,,Mansfield,Texas,76063,United States,6825181791,http://www.dirtyjobbrewing.com,-97.14195567,32.56489124
-ae6e6e2a-84f4-45c2-adce-e5b80997f35c,Division Brewing,micro,506 E Main St,,,Arlington,Texas,76010-1228,United States,2146978350,http://www.divisionbrewing.com,-97.10256904,32.73630741
-ac4fe7b3-c512-4b96-9953-27e8362101ff,Dodging Duck Brewhaus,brewpub,402 River Rd,,,Boerne,Texas,78006-2312,United States,8302483825,http://www.dodgingduck.com,-98.72596163,29.78961761
-25dd3b18-3204-4539-b58b-95478fbcb531,Dorcol Distilling and Brewing CO,micro,1902 S Flores St,,,San Antonio,Texas,78204,United States,2102290607,http://www.dorcolspirits.com,-98.502373,29.405708
-bedc4634-4155-4448-9d33-b5a8a2e5fb71,Double Horn Brewing Co,brewpub,208 Avenue H,,,Marble Falls,Texas,78654-5750,United States,8306935165,http://www.doublehornbrewing.com,-98.27635445,30.57127795
-9e3d79b0-5411-425d-9ead-e86abeb58c98,Draught House Pub and Brewery,micro,4112 Medical Pkwy Ste 100,,,Austin,Texas,78756-3715,United States,5124526258,http://www.draughthouse.com,-97.7428611,30.3110713
+bec65b87-eadc-4db1-b303-f0ee724f4988,Devil and the Deep,taproom,2425 Postoffice St,,,Galveston,Texas,77550-4629,United States,7134028868,http://www.devilandthedeep.com,-94.794959,29.303997
+ad8c6d2f-e4bf-4a8c-86d7-11e87f36bf9a,Dirty Job Brewing,brewpub,117 N Main St,,,Mansfield,Texas,76063,United States,6825181791,http://www.dirtyjobbrewing.com,-97.142247,32.564354
+ae6e6e2a-84f4-45c2-adce-e5b80997f35c,Division Brewing,taproom,506 E Main St,,,Arlington,Texas,76010-1228,United States,2146978350,http://www.divisionbrewing.com,-97.102561,32.736231
+ac4fe7b3-c512-4b96-9953-27e8362101ff,Dodging Duck Brewhaus,brewpub,402 River Rd,,,Boerne,Texas,78006-2312,United States,8302483825,http://www.dodgingduck.com,-98.725937,29.789891
+9dab6695-51b2-4367-845e-49e944483380,Dog'Gone Brewery,taproom,1007 E North Street,,,Rockport,Texas,78382,United States,3617279888,http://www.doggonebrewery.com,-97.051399,28.022779
+25dd3b18-3204-4539-b58b-95478fbcb531,Dorcol Distilling and Brewing CO,micro,1902 S Flores St,,,San Antonio,Texas,78204,United States,2102290607,http://www.dorcolspirits.com,-98.50214,29.405601
+1452bed2-8438-4bf1-932c-3a60c7882e49,Dos Sirenos Brewing,brewpub,231 E Cevallos,,,San Antonio,Texas,78204,United States,2106693971,http://www.dossirenosbrewing.com,-98.498392,29.408389
+bedc4634-4155-4448-9d33-b5a8a2e5fb71,Double Horn Brewing Co,brewpub,208 Avenue H,,,Marble Falls,Texas,78654-5750,United States,8306935165,http://www.doublehornbrewing.com,-98.276765,30.571101
+9e3d79b0-5411-425d-9ead-e86abeb58c98,Draught House Pub and Brewery,brewpub,4112 Medical Pkwy Ste 100,,,Austin,Texas,78756-3715,United States,5124526258,http://www.draughthouse.com,-97.742839,30.310989
+d54ba19a-61aa-4e14-b0d8-51e5032d312e,DUO Winery @ Cidery /  Brewery,taproom,2150A  Dickinson Ave,,,Dickinson,Texas,77539,United States,8329704998,http://www.duowinery.com,-95.047199,29.48181
+38b66b4d-7f52-44a3-a484-cbd948ba5d36,Eccentric Brewing Company,micro,1402 Cotton Flat Rd Ste A,,,Midland,Texas,79701,United States,4326851406,http://www.eccentricbrewery.com,-102.094945,31.980198
+29020b8c-589c-49f6-9384-3112fa970d16,Edgewise Eight Brewing,brewpub,221 North Main,,,Weatherford,Texas,76086,United States,8175975750,http://www.edgewiseeight.com,-97.79774,32.761392
+2004b9d7-99cc-423d-bf5b-5fc8f1229b16,EIGHT Brewing,alt prop,106 E 6th St. STE 900-181,,,Austin,Texas,78701,United States,2032732952,http://eightbeer.com,-97.742312,30.268146
 7a3aa913-807c-4395-9714-2d65d30ad9ee,El Paso Brewing Company,micro,810-B Texas Ave,,,El Paso,Texas,79901-,United States,9152620687,http://www.elpasobrewing.com,-106.4818378,31.76216161
 377038fb-785b-4d4c-bc17-2c8514340e76,Elder Son Brewing Co.,micro,946 N Shepherd Dr Suite A,,,Houston,Texas,77008," United States",7134855749,https://eldersonbrewing.com/,,
+dd56de9d-20f1-491d-b98a-8f72e3da9778,Elder Son Brewing Co.,taproom,946 N Shepherd Dr,,,Houston,Texas,77008-3040,United States,7138196806,http://www.eldersonbrewing.com,-95.409541,29.788372
 9eae20d8-c073-4f43-b3ae-817ad1fca5ae,Eola School Restaurant,brewpub,12119 FM 381 Rd,,,Eola,Texas,76937,United States,3254693314,http://www.eolaschool.com,,
 87c781ee-9196-4e43-84ad-347f007569a2,Equal Parts Brewing,micro,3118 Harrisburg Blvd,,,Houston,Texas,77003,United States,3463523190,http://www.equalpartsbrewing.com/,,
-01a6ba0f-c1d8-4d6f-9c90-c97f611a0844,ETX Brewing Co.,micro,221 S Broadway Ave,,,Tyler,Texas,75702-7302,United States,9036307720,http://www.etxbrew.com,-95.3081695,32.2553345
-1540f10e-84b9-4af6-ac33-c3a8830aa67c,Eureka Heights Brewing Company,micro,941 W 18th St,,,Houston,Texas,77008-3336,United States,8329534677,http://www.eurekaheights.com,-95.4164348,29.8019913
-2cd2c54f-2579-4da6-8c4e-cd95c811d78a,Family Business Beer Company,micro,19510 Hamilton Pool Rd,,,Dripping Springs,Texas,78620-2823,United States,5128294202,http://www.familybusinessbeerco.com,,
+da385457-b593-4680-bddd-c93fc9921b0b,Equal Parts Brewing,taproom,3118 Harrisburg Blvd # 108,,,Houston,Texas,77003-2334,United States,3463523190,http://www.equalpartsbrewing.com,-95.343524,29.74922
+01a6ba0f-c1d8-4d6f-9c90-c97f611a0844,ETX Brewing Co.,brewpub,221 S Broadway Ave,,,Tyler,Texas,75702-7302,United States,9036307720,http://www.etxbrew.com,-95.301005,32.34897
+1540f10e-84b9-4af6-ac33-c3a8830aa67c,Eureka Heights Brew Co,micro,941 W 18th St,,,Houston,Texas,77008-3336,United States,8329534677,http://www.eurekaheights.com,-95.414984,29.80184
+bdf8ef40-b8ed-4b68-b1c7-116150bd793c,"Excalibur Brewing, LLC",taproom,26510 A Border St,,,Spring,Texas,77373,United States,8325927637,http://www.excaliburbrewing.com,-95.421567,30.079812
+2cd2c54f-2579-4da6-8c4e-cd95c811d78a,Family Business Beer Company,brewpub,19510 Hamilton Pool Rd,,,Dripping Springs,Texas,78620-2823,United States,5128294202,http://www.familybusinessbeerco.com,-98.077783,30.292159
+ba66f2b5-da0c-4236-8184-e8e92f32d8e1,Farm Ale Brewing Company,brewpub,12119 FM 381 Rd,,,Eola,Texas,76937,United States,3254693314,http://www.eolaschool.com,-100.088477,31.400763
+7226cd6a-dc5a-4f13-b4e2-11589dc9f082,Fass Brewing,taproom,236 N Main St,,,Conroe,Texas,77008,United States,8328571806,http://fassbrewing.com,-95.456929,30.311096
+d407c5ee-f5f1-4425-9740-b6f99cf3912a,Faust Brewing Co,brewpub,499 S Castell Ave,,,New Braunfels,Texas,78130-7618,United States,8306257791,http://www.faustbrewing.com,-98.120234,29.698716
 5b2dc61f-9074-4e9e-bd6f-16593b342f9c,Faust Hotel Restaurant and Brew Pub,micro,499 S Castell Ave,,,New Braunfels,Texas,78130-7618,United States,8306257791,http://www.faustbrewing.com,-98.12031,29.698525
 e31797d6-3cb0-41e8-b0b8-1c00ac264fc7,Fetching Lab Brewing Co.,micro,1578 County Road 423 Suite B,,,Alvin,Texas,77511,United States,2814147355,http://www.fetchinglabbrewery@gmail.com,,
+09e63225-f1b6-42b4-b425-514e82a5ef63,Fire Ant Brewing Company,brewpub,308 Market St,,,Tomball,Texas,77375,United States,8328436580,http://www.fireantbrewing.com,-95.61586,30.096487
+9414a2dc-f11b-4e3b-a9dc-1bb1e35e0449,"Fire Base Brewing Company, LLC",taproom,8 South 1st Street,,,Temple,Texas,76501,United States,2545982345,http://www.firebasebrewing.com,-97.342574,31.096688
+0559a5c6-f4e3-4fc9-9a6d-bb2a5d40e9a8,Fitzhugh Brewing,brewpub,15435 Fitzhugh dr.,,,Dripping Springs,Texas,78620,United States,5126578749,http://fitzhughbrewing.com,-98.0336,30.245874
 741bf3b8-3278-497f-a3f7-2efd0cc112f8,Flix Brewhouse,micro,2000 S Interstate 35 Ste B1,,,Round Rock,Texas,78681-6900,United States,5122442739,http://www.flixbrewhouse.com,,
+b5a6957e-d590-4614-98a6-79a27047426b,Flix Brewhouse - ELP,brewpub,6450 N Desert Blvd,,,El Paso,Texas,79912,United States,,,-106.579663,31.886742
+95cff4c3-d221-43fd-a190-6e470f986027,Flix Brewhouse - FLE,micro,1660 FM 423,,,Frisco,Texas,75033,United States,5122442739,,-96.891141,33.155611
 4e40d1be-52b1-4e69-b6cb-cb6391b08d71,Flix Brewhouse - Frisco/Little Elm,micro,,,,Frisco,Texas,75033,United States,5122442739,,,
+d22ca2e0-b523-4a1f-8d16-8dd3b0986022,Flix Brewhouse - SAT,brewpub,845 TX-1604 Loop,,,San Antonio,Texas,78245,United States,5122442739,,-98.515869,29.214704
 7095f8fc-bb6c-4bd3-88e2-b4900e0ceee0,Flying Man Brewing Company,micro,2400 Patterson Industrial,,,Austin,Texas,78660,United States,5129104099,http://www.flyingmanbrewing.com,,
 5714fc64-53b8-45a0-98a6-c93575828a92,Flying Rhino Brewing Company,planning,,,,Houston,Texas,77077-6108,United States,8326510114,http://flyingrhinobrewing.com/,,
-d9415cb6-2329-4827-8ec8-dd6130327ff8,Fort Brewery and Pizza,brewpub,1001 W Magnolia Ave,,,Fort Worth,Texas,76104-4504,United States,5125697369,http://www.fortbrewery.com,-97.33528782,32.7303843
-1529695e-6fe4-4799-986d-ef79236a4685,Four Bullets Brewery,micro,640 N Interurban St,,,Richardson,Texas,75081-3317,United States,,http://www.fourbulletsbrewery.com,-96.72688255,32.95803915
+af154c42-ca58-4d83-a6c1-f3d99d1a527f,Food Experience Corporation,taproom,258 US-377,,,Aubrey,Texas,76227,United States,,http://www.foodexperienceco.com,-96.980062,33.302955
+d9415cb6-2329-4827-8ec8-dd6130327ff8,Fort Brewery and Pizza,brewpub,2737 Tillar St,,,Fort Worth,Texas,76107,United States,5125697369,http://www.fortbrewery.com,-97.356099,32.759972
+50636c79-fbdc-4825-87e5-2a078d80537f,Fort Brewery and Pizza,brewpub,2737 Tillar St,,,Fort Worth,Texas,76107,United States,5125697369,http://www.fortbrewery.com,-97.356099,32.759972
+5caa2b7a-00be-4713-97af-566006b3d90f,Fortress BeerWorks,taproom,2606 Spring Cypress Rd,,,Spring,Texas,77388,United States,7135572340,,-95.458445,30.067818
+1529695e-6fe4-4799-986d-ef79236a4685,Four Bullets Brewery,micro,640 N Interurban St,,,Richardson,Texas,75081-3317,United States,,http://www.fourbulletsbrewery.com,-96.726079,32.959252
 2b86493e-8c1c-496f-91e3-8b770349e281,Four Corners Brewing Co,micro,423 Singleton Blvd,,,Dallas,Texas,75212-4104,United States,2147482739,http://www.fcbrewing.com,-96.83062417,32.7793491
 dde3ee18-a2c9-4118-a0d1-dced77329738,Four Corners Brewing Co,micro,1311 S Ervay St,,,Dallas,Texas,75215,United States,2147482739,,-96.79155915,32.77172705
-86c8dd48-d6a0-4a60-8fd1-814795effed2,Franconia Brewing Co,micro,495 McKinney Pkwy,,,McKinney,Texas,75071-1825,United States,9725420705,http://www.franconiabrewing.com,-96.60911774,33.21300297
-30bd13e7-2853-4e9f-9aae-893a4d597af6,Fredericksburg Brewing Co,brewpub,245 E Main St,,,Fredericksburg,Texas,78624-4114,United States,8309971646,http://www.yourbrewery.com,-98.865629,30.2703349
-26298dbf-a747-497e-ad82-d5168437d2bc,"Fredonia Brewery, LLC",micro,138 N Mound St,,,Nacogdoches,Texas,75961-5262,United States,9363055125,http://www.fredoniabrewery.com,-94.65198531,31.6029904
-f3e52e78-36b1-4e4b-bca8-82a34f012f75,Freetail Brewing Co,micro,2000 S Presa St,,,San Antonio,Texas,78210-2835,United States,2103954974,http://www.freetailbrewing.com,-98.482853,29.401901
-efdc7de5-3256-463e-b0b9-d4369db08f97,Freetail Brewing Co - Brewpub,brewpub,4035 N Loop 1604 W Ste 105,,,San Antonio,Texas,78257-9547,United States,2106256000,http://www.freetailbrewing.com,,
-b73eb538-fd72-4c98-8ea2-b20b60abfb21,Friends and Allies Brewing Company,micro,979 Springdale Rd Ste 124,,,Austin,Texas,78702-3753,United States,,http://www.friendsandallies.beer,-97.6961854,30.2628616
+86c8dd48-d6a0-4a60-8fd1-814795effed2,Franconia Brewing Co,micro,495 McKinney Pkwy,,,McKinney,Texas,75071-1825,United States,9725420705,http://www.franconiabrewing.com,-96.609068,33.213412
+d62abdff-77b2-485c-bad3-341d9d016399,Frankenboltzzzz Brewing Co,taproom,173 N. FM 1486 Rd.,,,Montgomery,Texas,77356,United States,9364198315,,-95.777584,30.365962
+30bd13e7-2853-4e9f-9aae-893a4d597af6,Fredericksburg Brewing Co,micro,245 E Main St,,,Fredericksburg,Texas,78624-4114,United States,8309971646,http://www.yourbrewery.com,-98.869615,30.27257
+26298dbf-a747-497e-ad82-d5168437d2bc,"Fredonia Brewery, LLC",brewpub,138 N Mound St,,,Nacogdoches,Texas,75961-5262,United States,9363055125,http://www.fredoniabrewery.com,-94.651622,31.603475
+45fabd0b-9502-4da0-8d4f-2983121412a0,Free Roam Brewing Company,taproom,325 S Main st,,,Boerne,Texas,78006,United States,8305829741,http://www.freeroambrewing.com,-98.730078,29.791337
+f3e52e78-36b1-4e4b-bca8-82a34f012f75,Freetail Brewing Co,micro,2000 S Presa St,,,San Antonio,Texas,78210-2835,United States,2103954974,http://www.freetailbrewing.com,-98.482191,29.401557
+efdc7de5-3256-463e-b0b9-d4369db08f97,Freetail Brewing Co - Brewpub,micro,4035 N Loop 1604 W Ste 105,,,San Antonio,Texas,78257-9547,United States,2106256000,http://www.freetailbrewing.com,-98.561515,29.602994
+b73eb538-fd72-4c98-8ea2-b20b60abfb21,Friends and Allies Brewing Company,micro,979 Springdale Rd Ste 124,,,Austin,Texas,78702-3753,United States,,http://www.friendsandallies.beer,-97.696118,30.263146
 012747c9-0ef8-43d7-90fe-ea4242805b7a,Frisky Brewing Company,planning,,,,Odessa,Texas,79765,United States,,http://www.friskybrewing.com,,
 bfe40849-06b8-42b7-82be-fa81af4f221f,Frontyard Brewing,micro,1607 Cuernavaca Dr North Unit #202,,,Austin,Texas,78733,United States,8503227498,http://www.frontyardbrewing.com,,
-d07babfb-1113-4977-b24d-061f87c67eb1,Frost Town Brewing,micro,100 N Jackson St,,,Houston,Texas,77002,United States,,http://www.frosttownbrew.com/,,
-2d3c7b9f-e020-4d0b-b181-b488dd706196,Fulbrook Ale Works,micro,1125 Farm To Market 359,,,Richmond,Texas,77406,United States,8329809675,http://Fulbrookaleworks.com,,
+7e950060-2bed-476c-9ec7-71d2f0a2edf7,Frontyard Brewing,micro,4514 Bob Wire Rd,,,Spicewood,Texas,78669,United States,5126144380,http://www.frontyardbrewing.com,-98.056569,30.358545
+d07babfb-1113-4977-b24d-061f87c67eb1,Frost Town Brewing,taproom,100 N Jackson St,,,Houston,Texas,77002,United States,,http://www.frosttownbrew.com,-95.352366,29.760819
+2d3c7b9f-e020-4d0b-b181-b488dd706196,Fulbrook Ale Works,micro,1125 Farm To Market 359,,,Richmond,Texas,77406,United States,8329809675,http://Fulbrookaleworks.com,-95.743245,29.611751
+cf3ae081-04f4-4114-b2b6-bf558093e799,Funky Picnic Brewery,brewpub,401 Bryan Ave,,,Fort Worth,Texas,76104,United States,8177082739,http://www.funkypicnicbrewery.com,-97.324799,32.740368
 b650d91f-3b4d-4826-a841-8a8827b804f5,Galactic Coast Brewing,micro,1675 Dickinson Ave C,,,Dickinson,Texas,77539-4213,United States,8327381960,http://www.galacticcoastbrewing.com,-95.04696,29.478
 32d370dc-63c8-48de-ba18-1d2eb06210d0,"Galveston Bay Beer Company, Inc.",micro,12900 FM 3436 Rd,,,Dickinson,Texas,77539-2565,United States,2813393210,http://www.galvestonbaybeer.com,,
-4fd86f7d-aff5-480c-890d-adf81c8e9cde,Galveston Island Brewing,micro,8423 Stewart Rd,,,Galveston,Texas,77554-9242,United States,4097407000,http://www.GalvestonIslandBrewing.com,-94.8491535,29.2556439
+ee87c550-fa41-485b-bbfc-7a1c6fd8d0dc,Galveston Bay Brewing,micro,902 Marina Bay Drive,,,Clear Lake Shores,Texas,77565,United States,2813393210,http://www.galvestonbaybeer.com,-95.030848,29.540941
+4fd86f7d-aff5-480c-890d-adf81c8e9cde,Galveston Island Brewing,micro,8423 Stewart Rd,,,Galveston,Texas,77554-9242,United States,4097407000,http://www.GalvestonIslandBrewing.com,-94.849226,29.255816
+4d6a8053-19ac-4e54-8c11-99964718def1,Gambrinus Company,office only location,14800 San Pedro Ave Ste 310,,,San Antonio,Texas,78232-3735,United States,2104909128,,-98.477252,29.576238
+f8198eca-06ee-4ab3-8f31-69d387713b49,Gather Brewing Company,brewpub,210 East Aviation Boulevard,,,Universal City,Texas,78148,United States,2104886892,http://www.gatherbrewing.co,-98.286904,29.545259
 87b3024f-7071-4399-ace2-a0a6713271f4,Goliad Brewing Company,micro,252 Metting Rd,,,Goliad,Texas,77963-3966,United States,2817827860,http://www.goliadbrewing.com,-97.39806345,28.69079583
+146387d3-b6be-4757-b634-5c1c19d38b5b,Good Line Beer Co.,taproom,2611 Boston Ave,,,Lubbock,Texas,79410,United States,5124662450,http://www.goodlinebeer.com,-101.874929,33.569863
 a2f7f1df-4a8e-49a2-8272-7804ae685e97,Good Neighbor Brews,micro,211 Regency Dr,,,Wylie,Texas,75098-7089,United States,4694714287,http://www.goodneighborbrews.com,-96.58583347,33.00449384
 1100c128-6ea6-4594-9df7-24b01dca1d77,Gordon Biersch Brewery Restaurant - Plano,brewpub,7401 Lone Star Dr Ste B120,,,Plano,Texas,75024-5646,United States,4694670464,http://www.craftworksrestaurants.com,,
 8d5259ff-4a8e-486f-8d9a-371b4f2ce224,Gordon Street Tavern,brewpub,114 N Gordon St,,,Alvin,Texas,77511-2331,United States,2819687402,http://www.gordonstreettavern.com,-95.24398685,29.42403097
 4ea74fb1-ba73-4a89-948a-20c2cabc86f0,Grain Theory Brewing Company,planning,,,,Abilene,Texas,79601,United States,2142260915,http://www.graintheorybrewing.com,,
 73f4533a-d1cc-4d4b-b82f-6a76b348f147,Granary 'Cue and Brew,closed,602 Avenue A,,,San Antonio,Texas,78215-1222,United States,2102280124,http://www.thegranarysa.com,-98.47916983,29.44143325
 d3bdee03-95c7-4b39-a912-2196cda56d8c,Granger City Brewing Company,brewpub,109 W Davilla St,,,Granger,Texas,76530,United States,5127171859,http://www.grangercitybrewingcompany.com,,
-fb5582cb-ab8e-4a54-b59e-ad6d5092a60b,Great Heights Brewing Company,micro,938 Wakefield Dr,,,Houston,Texas,77018-6204,United States,2812206900,http://www.greatheightsbrewing.com,-95.4223629,29.8216738
-6a01fef8-dd06-4ba6-99f8-fca4874e14af,Gristworkz,brewpub,1504 Chapman St,,,Houston,Texas,77009,United States,,https://www.gristworkz.com/,,
+d5224156-83bb-46bb-9b7a-c2a085f9bf5e,Grapevine Craft Brewery,beer brand,906 Jean St,,,Grapevine,Texas,76051-4112,United States,8174882337,http://www.grapevineontap.com,-97.074783,32.932333
+fb5582cb-ab8e-4a54-b59e-ad6d5092a60b,Great Heights Brewing Company,taproom,938 Wakefield Dr,,,Houston,Texas,77018-6204,United States,2812206900,http://www.greatheightsbrewing.com,-95.422165,29.821627
+6a01fef8-dd06-4ba6-99f8-fca4874e14af,Gristworkz,brewpub,1504 Chapman St,,,Houston,Texas,77009,United States,,http://www.gristworkz.com,-95.353532,29.774748
 303a23e1-3cb2-4f20-bfcf-25e82eb122e6,Guadalupe Brewery,micro,168 Rachel Dr,,,Canyon Lake,Texas,78133-3527,United States,5128789214,http://www.guadalupebrew.com,,
+dbf4f3ee-5983-4f96-8e62-d8a3fbc620c0,Guadalupe Brewing Company,brewpub,1586 WALD RD,,,NEW BRAUNFELS,Texas,78132,United States,5128789214,http://www.guadalupebrew.com,-98.163983,29.684447
+22d9b37b-26ba-44af-abaa-a992558f6df7,Gulf Coast/ Tejas,taproom,5610 Clinton Drive,,,Houston,Texas,77020,United States,,,-95.310886,29.761315
+290934fa-fba1-4ab7-8f84-1f880d4caa20,Happy Hippie Brewing  Company,micro,906 Jean Street,,,Grapevine,Texas,76051,United States,2146167681,http://www.happyhippiebeer.com,-97.074783,32.932333
 50adab67-c5bf-4be0-8116-e7311e7864d4,Happy Hippie Brewing Company,planning,,,,Richardson,Texas,75080,United States,2146167681,http://www.happyhippiebeer.com,,
 428cf3ce-3f8f-481c-bbd9-562eb61545df,Harvest Seasonal Kitchen,brewpub,112 E Louisiana St,,,McKinney,Texas,75069-4412,United States,2147260251,http://www.harvesttx.com,-96.615387,33.197177
+ec8a7891-67d5-4cc2-9920-dc98737044f9,Hedgehog Brewing,micro,3200 Woodall Dr Unit C1,,,Cedar Park,Texas,78613,United States,,http://www.hedgehogatx.com,-97.877402,30.515633
 94082cc5-8049-40e5-990f-bb1173c26140,Hell or High Water Brewing,planning,,,,Leander,Texas,78641-8882,United States,5129636701,,,
-3827ae14-9613-430b-93f9-1ac76593c88a,Hemisphere Brewing Co,micro,2015 Kristy Ln,,,Rockwall,Texas,75032-6242,United States,9727224535,http://www.hemispherebrewing.com,-96.44026588,32.91151877
+4d9949a3-7389-4252-bbc4-37dc106c8594,Hell or High Water Brewing,brewpub,931 Loop 332,,,Liberty Hill,Texas,78642-4399,United States,5129636701,http://www.hellorhighwaterbrewing.com,-97.922467,30.663934
+3827ae14-9613-430b-93f9-1ac76593c88a,Hemisphere Brewing Co,taproom,2015 Kristy Ln,,,Rockwall,Texas,75032-6242,United States,9727224535,http://www.hemispherebrewing.com,-96.440455,32.912565
 479ee657-8907-4983-9ec4-8d7f1372c69e,Hi Sign Brewing,micro,1201 Old Bastrop Hwy Bldg A,,,Austin,Texas,78742-2600,United States,5123825264,http://www.hisignbrewing.com,,
+cee5a658-0417-4f99-9829-aa326da3d39e,Hitmaker Brewing Company,taproom,11160 Circle Dr,,,Austin,Texas,78736,United States,5124652333,http://www.hitmakerbrewing.com,-97.952537,30.225183
 3f966d4c-cd26-463b-81b0-f30923649fa1,Hold Out Brewing,micro,1208 W 4th St,,,Austin,Texas,78703-5203,United States,2103165572,http://www.holdoutbrewing.com,-97.7611333,30.2713864
-573e03df-998f-432d-b125-140ad05fc08c,Holler Brewing Company,micro,2206 Edwards St Ste A,,,Houston,Texas,77007-4412,United States,8327810555,http://www.hollerbeer.com,,
+573e03df-998f-432d-b125-140ad05fc08c,Holler Brewing Company,taproom,2206 Edwards St Ste A,,,Houston,Texas,77007-4412,United States,8327810555,http://www.hollerbeer.com,-95.382083,29.770809
 49af830b-8e3c-456a-8557-504c1ccea48b,Hop And Sting Brewing Company,micro,2405 Squire Pl Ste 200,,,Farmers Branch,Texas,75234-4714,United States,6828889614,http://www.hopandsting.com,-96.89883128,32.93044336
-82f24897-257c-4df6-a629-cea41dce160b,Hopfusion Ale Works,micro,200 E Broadway Ave,,,Fort Worth,Texas,76104-1302,United States,6828411721,http://www.hopfusionaleworks.com,-97.324895,32.741719
+320d1935-c139-4084-910f-649991048b36,Hop And Sting Brewing Company,taproom,906 Jean St,,,Grapevine,Texas,76051,United States,8174882337,http://www.hopandsting.com,-97.074573,32.932606
+82f24897-257c-4df6-a629-cea41dce160b,Hopfusion Ale Works,taproom,200 E Broadway Ave,,,Fort Worth,Texas,76104-1302,United States,6828411721,http://www.hopfusionaleworks.com,-97.324729,32.741582
 d357d621-bbbc-4007-a5a3-b9bf6fb5f176,Hopped And Brewed,planning,,,,Austin,Texas,78681-7333,United States,5129225879,http://Hoppedandbrewed@gmail.com,,
 de52f2b1-2821-4958-937c-37296e25fcf2,Hops & Grain Brewing,micro,507 Calles St Ste 101,,,Austin,Texas,78702-3954,United States,5129142467,http://www.hopsandgrain.com,,
-90584a88-c47c-40e5-bbac-60dccbb39cc5,"Horny Toad Brewing Co, LLC",micro,313 Edward St,,,Rowena,Texas,76875-3609,United States,3252121177,http://www.hornytoadbrewery.com,-100.0465467,31.64750518
-3d084c65-4169-47ed-99e4-eda7aab979e8,"Huff Brewing Company, LLC",micro,9805 Koehn Rd,,,Bellville,Texas,77418-7327,United States,,http://www.huffbrewing.com,,
+46b7e165-473a-4d51-893d-f541dc14f921,Hopsquad Brewing Company,taproom,2307 Kramer Lane,,,Austin,Texas,78758,United States,9034200895,http://www.hopsquad.com,-97.714669,30.391029
+90584a88-c47c-40e5-bbac-60dccbb39cc5,Horny Toad Brewing Co. LLC,taproom,313 Edward St,,,Rowena,Texas,76875,United States,3252121177,http://www.hornytoadbrewery.com,-100.047759,31.647576
+0b81f059-766f-4cba-96c2-ed379fb1123b,Hound Song Brewing Co.,taproom,535 Walnut St,,,Columbus,Texas,78934,United States,9799427199,http://Houndsongbrewing.com,-96.541481,29.706178
+385f1d70-76d7-4a49-9969-ee57b0050c39,Howling Mutt Brewing,taproom,205 N Cedar St,,,Denton,Texas,76201,United States,,http://howlingmuttbrewing.com,-97.134447,33.21626
+3d084c65-4169-47ed-99e4-eda7aab979e8,"Huff Brewing Company, LLC",micro,9805 Koehn Rd,,,Bellville,Texas,77418-7327,United States,,http://www.huffbrewing.com,-96.189796,29.940898
 b25a0380-2356-4529-b04e-d844eb73858f,Hullabaloo Diner,brewpub,15045 FM 2154 Rd,,,College Station,Texas,77845-3345,United States,9796903002,,,
+82a9ef57-2576-4a41-818c-b9bfc4c98b33,Humble Pint Brewing Co,brewpub,11880 Hero Way West,,,Leander,Texas,78641,United States,5129475913,http://www.humblepint.com,-97.870131,30.57839
 0bfe25c6-fedf-4c8d-bb37-b6c37be4b667,Humperdinks - Arlington,brewpub,700 Six Flags Dr,,,Arlington,Texas,76011-6327,United States,8176408553,http://www.humperdinks.com,-97.0769526,32.7497637
 f9e4a98f-a333-4f66-826a-6af127c1fdb7,Humperdinks - Dallas (Greenville),brewpub,6050 Greenville Ave,,,Dallas,Texas,75206-1909,United States,2143681203,http://www.humperdinks.com,-96.76798455,32.8586789
 247250ee-18e2-4d05-b522-cd78444e34c9,Humperdinks Restaurant,brewpub,2208 W Northwest Hwy,,,Dallas,Texas,75220-4305,United States,2143584159,http://www.humperdinks.com,-96.89898835,32.8637821
 78f847f7-1c22-4110-82e8-399244097e38,Idle Vine Brewing Company,micro,16920 Joe Barbee Dr,,,Round Rock,Texas,78664-2373,United States,5125273235,http://www.IdleVineBrewery.com,,
 17e75f2d-a365-4ad0-99a7-4e5b4ca3088c,Independence Brewing,regional,3913 Todd Ln Ste 607,,,Austin,Texas,78744-1061,United States,5127070099,http://www.independencebrewing.com,-97.7361012,30.2111313
+4d2e9c98-7331-41a3-9cea-83482d717413,Independence Brewing Co.,regional,3913 Todd Ln #607,,,Austin,Texas,78744-1061,United States,5127070099,http://www.independencebrewing.com,-97.736829,30.212177
 dc0256fa-9a1f-4758-a2c0-73175c17ae2d,Industry Brewery,planning,,,,Houston,Texas,77024-7146,United States,7138514130,,,
-93d9f4fb-7f29-4f3b-bac7-c9e9cca9600e,Infamous Brewing,micro,4602 Weletka Dr,,,Austin,Texas,78734-1829,United States,5124878786,http://www.infamousbrewing.com,,
-0f10f6cc-b446-4348-97e7-38533986a0ad,Ingenious Brewing Company,micro,1986 S Houston Ave,,,Humble,Texas,77396-1507,United States,8324122142,http://www.ingeniousbeer.com,-95.2633815,29.9748544
+93d9f4fb-7f29-4f3b-bac7-c9e9cca9600e,Infamous Brewing,taproom,4602 Weletka Dr,,,Austin,Texas,78734-1829,United States,5124878786,http://www.infamousbrewing.com,-97.925869,30.406938
+0f10f6cc-b446-4348-97e7-38533986a0ad,Ingenious Brewing Company,taproom,1986 S Houston Ave,,,Humble,Texas,77396-1507,United States,8324122142,http://www.ingeniousbeer.com,-95.263835,29.974687
 220200a7-c8b3-481a-8c60-ede62fe291c0,"Intervention Brewing Company, LLC",planning,,,,Irving,Texas,75061-8826,United States,2147633070,,,
-838a99fa-a7e0-468a-97f4-a9149f627454,Intrinsic Brewing,brewpub,509 W State Street,,,Garland,Texas,75040,United States,2144345429,http://www.intrinsicbrewing.com,-96.63705236,32.91369215
+838a99fa-a7e0-468a-97f4-a9149f627454,Intrinsic Brewing,brewpub,509 W State Street,,,Garland,Texas,75040,United States,2144345429,http://www.intrinsicbrewing.com,-96.637086,32.913647
+3120ac04-14e3-4e71-a313-737917e583e1,Iron Bridge Icehouse,brewpub,601 Chestnut St #C,,,Bastrop,Texas,78602,United States,5127503152,http://www.ironbridgeicehouse.com,-97.321033,30.110378
+ad1bcdcb-359a-40a6-a962-5fce996dc83f,Iron Gauntlet Brauhaus & Taproom,taproom,400 Cheyenne Dr,,,Killeen,Texas,76542,United States,2548335020,http://www.IronGauntlet.Beer,-97.744155,31.102689
 7e491720-4757-4f4e-9353-71fbb1f4acda,Islla Street Brewing Company,micro,11911 Crosswinds Way,,,San Antonio,Texas,78233,United States,210-771-6532,http://www.isllastreetbrewing.com/,-98.3775366,29.547909
-d94d1ba9-02f8-4da2-be5e-2fdc0bb2f582,Ivanhoe Aleworks,micro,220 W Main St,,,Denison,Texas,75020-3025,United States,9034640030,,-96.53729048,33.75528217
-e2139f79-90cb-4ca3-9f42-029569204f91,Jester King Brewery,micro,13187 Fitzhugh Rd,,,Austin,Texas,78736-6510,United States,5125375100,http://www.jesterkingbrewery.com,-98.0824692,30.2547264
+d94d1ba9-02f8-4da2-be5e-2fdc0bb2f582,Ivanhoe Aleworks,taproom,220 W Main St,,,Denison,Texas,75020-3025,United States,9034640030,,-96.537861,33.755103
+83d40680-7c0d-4123-8f4d-df8cb0703b31,Javelina Watering Hole Brewing Co.,micro,211 E. Caesar,,,Kingsville,Texas,78363,United States,8324232463,,-97.866662,27.506395
+e2139f79-90cb-4ca3-9f42-029569204f91,Jester King Brewery,brewpub,13187 Fitzhugh Rd,,,Austin,Texas,78736-6510,United States,5126618736,http://www.jesterkingbrewery.com,-97.999542,30.232504
 f27cfcf7-e5ff-412e-9af2-e3d4cf3b9df1,KÃ¼nstler Brewing,brewpub,302 E Lachapelle,,,San Antonio,Texas,78204-1945,United States,2106884519,http://www.kuenstlerbrewing.com,-98.5000988,29.40503026
 4c8685f6-66d8-48c8-a80a-37edc0c7fa79,Karbach Brewing Co,large,2032 Karbach St,,,Houston,Texas,77092-8406,United States,,https://www.karbachbrewing.com/,-95.4605283,29.8063812
 0e970da0-ccda-4d50-a8bf-4e84181cc790,Kastaway Brewing Co,planning,,,,Katy,Texas,77493,United States,,,,
+00299fc6-35a6-4c62-ba27-657d61d71d96,KinderHill Brew Lab,taproom,800 S Bryan Ave,,,Bryan,Texas,77803-3971,United States,5126805117,http://www.kinderhillbrewlab.com,-96.375187,30.666423
 52d376d5-a888-4d05-bdb4-7b3f8b20e3d5,Kinematic Brewing Company,micro,635 State Highway 46 E Ste 207,,,Boerne,Texas,78006-6010,United States,,,,
+a52ddea8-f95f-4f85-aca3-e24f1bc9de4d,Kinematic Brewing Company / JODA,micro,50140 Hwy 10 West,,,Comfort,Texas,78013,United States,8304461088,http://www.kinematicbrewingco.com,-98.861877,29.932132
 de4d69d9-27e6-412f-8fd1-d32a1e05b4cc,Klaus Brewing Company,planning,,,,Houston,Texas,77065,United States,7134985004,http://www.klausbrewing.com,,
+2700326c-5009-4163-aba0-d1e4ffc43529,Klaus Brewing Company,taproom,10142 Jones Rd,,,Houston,Texas,77065,United States,7134985004,http://www.klausbrewing.com,-95.583469,29.920199
+94f75efe-62cc-4afe-bd58-753c13e77f09,Koko's Bavarian,micro,4715 E 5th St,,,Austin,Texas,78702,United States,2253287013,http://www.kokosbavarian.com,-97.702052,30.253008
+4011e077-2056-4b32-acbb-9e4bdce3c3bf,Krootz Brewing Company,brewpub,315 West Elm St.,,,Gainesville,Texas,76240,United States,2146635715,http://www.krootzbrewingcompany.com,-97.147468,33.625158
 9b2e8e78-6823-416c-8c7d-6a4dfd12ac0a,La Funke Brewing,planning,,,,Bulverde,Texas,78163-4156,United States,2104602083,http://www.lafunke.com,,
+a5d92695-9f57-420f-9a7c-9e3958dc593f,La Grange Brewing Co,brewpub,6002 FM 2981,,,La Grange,Texas,78945,United States,9792495652,http://https://lagrangebrewingco.com/,-96.814477,29.990212
 29654ba8-8b59-4704-8723-83e5769bc4ea,Lake Austin Ales,micro,3200 Woodall Dr STE C-1,,,Cedar Park,Texas,78613,United States,5129644630,http://lakeaustinales.com,,
-98fbb597-d6b0-4bf9-8029-4854766c568f,Lakewood Brewing Co,micro,2302 Executive Dr,,,Garland,Texas,75041-6121,United States,9728642337,http://www.lakewoodbrewing.com,-96.6813726,32.88842285
+98fbb597-d6b0-4bf9-8029-4854766c568f,Lakewood Brewing Company,micro,2302 Executive Dr,,,Garland,Texas,75041-6121,United States,9728642337,http://www.lakewoodbrewing.com,-96.681301,32.88939
 60f5240c-7860-4044-99fc-a537b1c3296a,Landon Winery,micro,2508 Lee Street,,,Greenville,Texas,75401,United States,9034547878,http://www.landonwinery.com,-96.10598813,33.13987105
-940ff56d-c454-425a-9de1-ceda447405af,Last Stand Brewing Company,micro,12345 Pauls Valley Rd,,,Austin,Texas,78737-9615,United States,5123733629,http://www.laststandbrewing.com,,
-fb886548-908a-4589-9c34-aa5bebe7a114,Lazarus Brewing Company,brewpub,1902 E 6th St,,,Austin,Texas,78702-3402,United States,,http://www.lazarusbrewing.com,-97.7220388,30.2616838
+67c6a161-961f-4a75-90ec-bb97e4a54895,Laredo Brewing Co.,micro,3910 E Del Mar Blvd,,,Laredo,Texas,78045,United States,9564625801,,-99.444736,27.584667
+7ed88e3e-a192-40e7-8869-ff9e0ce907b9,Lass Haus Ales,micro,5504 Samuel Huston Ave,,,Austin,Texas,78721-2217,United States,5125672716,http://lasshausales.com,-97.675001,30.280284
+940ff56d-c454-425a-9de1-ceda447405af,Last Stand Brewing Company,micro,12345 Pauls Valley Rd,,,Austin,Texas,78737-9615,United States,5123733629,http://www.laststandbrewing.com,-98.010736,30.235652
+fb886548-908a-4589-9c34-aa5bebe7a114,Lazarus Brewing Company,brewpub,1902 E 6th St,,,Austin,Texas,78702-3402,United States,,http://www.lazarusbrewing.com,-97.721885,30.261806
 21575f11-4155-422f-b3ba-741f3261dc30,Lazy Beach Brewing,micro,7522 Bichon Dr Ste 100,,,Corpus Christi,Texas,78414-3910,United States,3616935347,http://lazybeachbrewing.com,-97.3721494,27.6545883
+79aabf26-dc53-4db8-a36f-41d50ac6ac12,Lazy Beach Brewing,brewpub,7522 Bichon Dr,,,Corpus Christi,Texas,78414-3910,United States,3616935347,http://lazybeachbrewing.com,-97.372329,27.654006
 8ebd6439-dc44-4655-a40e-58987de9a664,Lazy Tree Ranch Brewing,micro,1431 County Road 264,,,Bertram,Texas,78605,United States,5125088697,,-98.069394,30.749121
 82faa8a9-2ee7-4869-85c0-d23620b5431d,Legal Draft Beer Company,micro,500 E Division St,,,Arlington,Texas,76011-7212,United States,8179622210,http://www.legaldraftbeer.com,-97.0489748,32.7400863
-de0ba3c4-611e-49b4-b136-a6c074b36c4c,Live Oak Brewing Co,regional,1615 Crozier Ln,,,del Valle,Texas,78617-2129,United States,5123852299,http://www.liveoakbrewing.com,,
+de0ba3c4-611e-49b4-b136-a6c074b36c4c,Live Oak Brewing Co,regional,1615 Crozier Ln,,,Del Valle,Texas,78617-2129,United States,5123852299,http://www.liveoakbrewing.com,-97.661266,30.220555
+69ae408c-ca64-455c-aafe-b011f0a620c9,Llano Beer Company,taproom,105 East Main Street,,,Llano,Texas,78643,United States,5124135338,http://https://www.llanobeer.com/,-98.675709,30.750453
 e5a8a40f-7285-4ab4-83d5-d0e4ceb39b3f,"Local Group Brewing Company, LLC.",planning,,,,Houston,Texas,77008-6844,United States,,,,
-298eeb62-0f2c-4315-8552-d95c451f1a6b,Lone Pint Brewery,micro,507 Commerce St,,,Magnolia,Texas,77355-8520,United States,2817315466,http://www.lonepint.com,-95.751352,30.2089852
+2eb53288-403f-487a-836b-e15990aef964,Location Six Brewing,brewpub,2316 Main St,,,Waller,Texas,77484,United States,9364191739,http://www.locationsix.com,-95.925467,30.057058
+123af8c4-f4e3-47d4-8793-b8d05d1d17e6,Lone Man Mountain Brewing Co.,brewpub,2825 Lone Man Mountain Rd,,,Driftwood,Texas,78619,United States,2103839097,,-98.055025,30.062961
+298eeb62-0f2c-4315-8552-d95c451f1a6b,Lone Pint Brewery,micro,507 Commerce St,,,Magnolia,Texas,77355-8520,United States,7133045069,http://lonepint.com,-95.751413,30.208927
 fea6b287-57d9-4f14-8eb7-0b7b0813b2b2,Long Wooden Spoon Brewing,micro,4098 Business Park Dr,,,Amarillo,Texas,79110-4233,United States,8065530397,http://www.lwsbrewing.com,-101.8832826,35.14284054
 3375a6e0-d081-4996-aa54-f8416ed7b76b,Longtab Brewing Company LLC,micro,4700 Timco W Suite 105,,,San Antonio,Texas,78238-1920,United States,2106024561,http://www.longtabbrewing.com,-98.5972829,29.4783203
-f026c03d-a77b-4af5-8b86-37ac7c7a6f65,Lorelei Brewing Co,micro,520 N A. S Dr,,,Corpus Christi,Texas,78418-3254,United States,3614458684,http://www.loreleibrewing.beer,,
-44656423-b14c-4378-aac9-da0f59576737,Mad Pecker Brewing,brewpub,6025 Tezel Rd Ste 122,,,San Antonio,Texas,78250-4180,United States,2105623059,http://www.madpeckerbrewing.com,,
-dce22bec-12d1-4aa6-a355-5780190abffe,Malai Fort Worth,brewpub,5289 Monahans Ave,,,Fort Worth,Texas,76109,United States,6827073959,,,
+46040180-75bd-4d6e-8344-c2bdb76a9b67,Longtab Brewing Company LLC,brewpub,4700 Timco W Ste 105,,,San Antonio,Texas,78238-1920,United States,2109744766,http://www.longtabbrewing.com,-98.595078,29.477997
+f026c03d-a77b-4af5-8b86-37ac7c7a6f65,Lorelei Brewing Co,micro,520 N A. S Dr,,,Corpus Christi,Texas,78418-3254,United States,3614458684,http://www.loreleibrewing.beer,-97.279287,27.674329
+6e057d4a-ea8b-440f-be98-ad4443f7d688,LT Mesquite Brew Co,brewpub,3096 US Hwy 90 W,,,Castroville,Texas,78009,United States,8303518777,,-98.944876,29.348244
+739ac447-6348-4abc-bfdd-723519cc6803,Lucky 19 Brewing Company,brewpub,154 State Highway 19,,,Huntsville,Texas,77340-7158,United States,2815467281,,-95.531074,30.687141
+d3f97216-6595-46d1-a640-4253816e745c,Lucky Brewing Co,taproom,675 County Rd 497,,,Dublin,Texas,76446,United States,2543350099,http://www.luckybrewingdublin.com,-98.334049,32.110942
+44656423-b14c-4378-aac9-da0f59576737,Mad Pecker Brewing,brewpub,6025 Tezel Rd Ste 122,,,San Antonio,Texas,78250-4180,United States,2105623059,http://www.madpeckerbrewing.com,-98.666011,29.489672
+dce22bec-12d1-4aa6-a355-5780190abffe,Malai Fort Worth,location,5289 Monahans Ave,,,Fort Worth,Texas,76109,United States,6827073959,,-97.401328,32.709264
 90b5b8ad-037c-4372-96f4-5566dec973a2,Mallory Brewing,planning,,,,Houston,Texas,77018,United States,,https://www.facebook.com/profile.php?id=100063450295613,,
+a596b1a1-4818-44ec-87f2-ed33e3ed9dd3,Man Overboard Brewing Co.,brewpub,1203 Camden St,,,San Antonio,Texas,78215,United States,2102908474,,-98.483442,29.439892
+c9e70cf3-2908-4b38-9fc6-54d04357f650,Mano Negra Brewing Co,taproom,2610 Salem Ave,,,Lubbock,Texas,79410,United States,8063193073,http://www.manonegrabrewingco.com/,-101.9104,33.570344
 d140a6a7-8618-4302-b7ca-d55880904a84,Maple Branch Craft Brewery,planning,,,,Fort Worth,Texas,76133-1226,United States,3149108854,https://www.maplebranchbrew.com/,,
-90ea9a74-74a3-46b7-bada-c336227ef480,Martin House Brewing Company,micro,220 S Sylvania Ave Ste 209,,,Fort Worth,Texas,76111-2232,United States,8172220177,http://www.martinhousebrewing.com,,
-47067a16-91aa-401c-920d-080104960ed1,Middleton Brewing (MBTX),micro,101 Oakwood Loop,,,San Marcos,Texas,78666-1762,United States,5128473435,http://www.mbtx.com,,
+651fcd93-e028-4afd-9020-25e233ce9a06,Maple Branch Craft Brewery,taproom,2628 Whitmore Street,,,Fort Worth,Texas,76107,United States,3149108854,http://https://www.maplebranchbrew.com/,-97.354011,32.758369
+90ea9a74-74a3-46b7-bada-c336227ef480,Martin House Brewing Company,regional,220 S Sylvania Ave Ste 209,,,Fort Worth,Texas,76111-2232,United States,8172220177,http://www.martinhousebrewing.com,-97.309839,32.763659
+fb90fff1-583d-4c1b-a328-381fcbc75605,Maverick Whiskey,brewpub,115 Broadway St,,,San Antonio,Texas,78205,United States,2104477010,http://www.maverickwhiskey.com,-98.488084,29.427129
+eb051f2f-0968-4109-9c9f-f62c466f43c9,Meanwhile Brewing Company,micro,3901 Promontory Point Dr,,,Austin,Texas,78744,United States,5016907361,http://www.meanwhilebeer.com,-97.730233,30.209087
+f398e7d0-5d83-4321-859a-bfbefc793bff,Megaton Brewery,taproom,808 Russell Palmer Rd,,,Kingwood,Texas,77339,United States,2819739043,http://www.megatonbeer.com,-95.226907,30.064927
+47067a16-91aa-401c-920d-080104960ed1,Middleton Brewing (MBTX),brewpub,101 Oakwood Loop,,,San Marcos,Texas,78666-1762,United States,5128473435,http://www.mbtx.com,-98.071509,29.931213
 b79c9be7-524c-413c-ba52-575944037985,MillerCoors Brewing Co - Fort Worth,large,7001 South Fwy,,,Fort Worth,Texas,76134-4001,United States,8175513255,http://www.millerbrewing.com,-97.3194181,32.6411318
-9bf8c8f9-ee9a-49b5-b80b-2a8cdb5ec407,Moon Tower Sudworks,brewpub,3004 Canal St,,,Houston,Texas,77003-1627,United States,8322660105,http://www.damngoodfoodcoldassbeer.com,-95.3409715,29.7543105
+9bf8c8f9-ee9a-49b5-b80b-2a8cdb5ec407,Moon Tower Sudworks,brewpub,3004 Canal St,,,Houston,Texas,77003-1627,United States,8322660105,http://www.damngoodfoodcoldassbeer.com,-95.341079,29.754285
+2dfe6d53-3c44-45f3-be01-c7125750be02,Motorboat Brewing Co.,micro,15103 Surveyor Blvd,,,Addison,Texas,75001,United States,2144209377,http://www.motorboatbrewingcompany.com,-96.847028,32.954763
+ccd2c29e-5d81-4bb5-8651-83fb84df3fa5,Mountain Star Brewing Co,taproom,11135 Pellicano Dr,,,El Paso,Texas,79935,United States,9153072979,http://www.mountainstarbrewingcompany.com,-106.325086,31.749444
 6941d5e5-667a-44ef-908e-ef167f9119eb,"Nacogdoches Brewing Company, Inc.",planning,,,,Nacogdoches,Texas,75964-8327,United States,9365604532,,,
-43b8ace8-09d2-4c96-9b4f-357b6a0467ab,Neches Brewing Company,brewpub,1108 Port Neches Ave,,,Port Neches,Texas,77651-2804,United States,4092375700,,-93.958435,29.991653
-7564bb65-8745-4c77-ba1b-2b264a694c2b,New Braunfels Brewing,micro,180 W Mill St Ste 100,,,New Braunfels,Texas,78130-5058,United States,8306262739,http://www.nbbrewing.com,,
-1f10e149-7bb3-43b4-9102-feebb8f5f65a,New Magnolia Brewing Co,micro,1616 Bevis St,,,Houston,Texas,77008,United States,,https://www.instagram.com/newmagnoliabrewing/?hl=en,,
+43b8ace8-09d2-4c96-9b4f-357b6a0467ab,Neches Brewing Company,brewpub,1108 Port Neches Ave,,,Port Neches,Texas,77651-2804,United States,4092375700,,-93.958531,29.991832
+f05d6330-83a4-4af2-9c37-1bd7cf626f1d,Neutral Ground Brewing Company,taproom,2929 Race St,,,Fort Worth,Texas,76111,United States,8173688072,http://www.ngbc.beer,-97.305046,32.773266
+7564bb65-8745-4c77-ba1b-2b264a694c2b,New Braunfels Brewing,taproom,180 W Mill St Ste 100,,,New Braunfels,Texas,78130-5058,United States,8306262739,http://www.nbbrewing.com,-98.126744,29.703078
+1f10e149-7bb3-43b4-9102-feebb8f5f65a,New Magnolia Brewing Co,taproom,1616 Bevis St,,,Houston,Texas,77008,United States,8325490286,,-95.421967,29.800157
 41c942ce-4213-44eb-a73b-d6541d7a807c,New Republic Brewing,micro,11405 N Dowling Rd Ste C,,,College Station,Texas,77845-8500,United States,7134894667,http://www.nrb.beer,,
 1f13514b-646f-4685-8e73-a3bdef8e651c,Nine Band Brewing Co.,micro,9 Prestige Cir,,,Allen,Texas,75002-3419,United States,9726635707,http://www.ninebandbrewing.com,-96.67280786,33.0931001
 0eef4089-8abb-43aa-9bed-2845c549c737,NLand Brewing Company,micro,4836 Hwy 71 E,,,del Valle,Texas,78617-3217,United States,5128061900,,,
-ede002ca-e4fd-42ad-8f34-f355339bec32,No Label Brewing Co,micro,5351-A 1st St,,,Katy,Texas,77493-2506,United States,2816937545,http://www.nolabelbrew.com,,
+ede002ca-e4fd-42ad-8f34-f355339bec32,No Label Brewing Co,taproom,5351-A 1st St,,,Katy,Texas,77493-2506,United States,2816937545,http://www.nolabelbrew.com,-95.814028,29.78698
 27b8a5c5-c9b0-4379-92c5-b51227419527,Noble Rey Brewing Company,micro,2636 Farrington St,,,Dallas,Texas,75207-5908,United States,9726777612,http://www.noblereybrewing.com,-96.83952145,32.79998405
+58080ff5-a573-463b-9386-77494eb0d554,Nocona Beer and Brewery,micro,915 US-82,,,Nocona,Texas,76255,United States,9408257238,http://www.noconabeer.com,-97.715226,33.789144
 4898f503-7bb3-494f-98dc-921d032912ef,Nomadic Beerworks,micro,3804 Woodbury Dr Suita A,,,Austin,Texas,78704,United States,,http://www.nomadicbeerworks.com,-97.7627464,30.2244374
+cd9d75c2-76a1-4f7f-b156-98338d419d8a,Nomadic Beerworks,brewpub,3804 Woodbury Dr,,,Austin,Texas,78704,United States,5125879669,http://www.nomadicbeerworks.com,-97.760275,30.224289
 a5719005-b4e5-49c8-95ed-47f6c6fcec05,North By Northwest Restaurant and Brewery - North Capital,brewpub,10010 N Capital of Texas Hwy,,,Austin,Texas,78759-5837,United States,5124676969,http://www.nxnwbrew.com,,
 6232a3d2-740c-4c51-b69f-234f44a6d003,North By Northwest Restaurant and Brewery - Slaughter,brewpub,5701 W Slaughter Ln Bld D,,,Austin,Texas,78759-5837,United States,5124676969,,,
 eabf7b18-6513-4c95-bfac-ef15d532a21a,O'Neil & Sons Brewing Company,micro,502 Half League Rd Unit A,,,Port Lavaca,Texas,77979-,United States,3616766023,http://www.oneilandsons.com/home,,
 e5b56c80-41a9-4101-aeec-ffb683617611,Oak Cliff Brewing Co,planning,,,,Dallas,Texas,75224-1305,United States,,,,
-7f1f3bd0-82cd-46a7-99b0-0fded816d380,Oak Highlands Brewery,micro,10484 Brockwood Rd,,,Dallas,Texas,75238-1640,United States,4698029455,http://www.ohbrewery.com,,
-5398673e-abb7-4855-ab70-276b95e0147f,Oasis Texas Brewing Company,micro,6548 Comanche Trl Ste 301,,,Austin,Texas,78732-1210,United States,5122849407,http://www.otxbc.com,-98.151206,30.043267
-c922d09e-1c59-44c2-906e-1cd7493b5867,Oddwood Ales,brewpub,3108 Manor Rd,,,Austin,Texas,78723-5719,United States,,http://www.oddwoodales.com,,
+f662e85c-ba57-490b-8ce2-8fdcb191369e,Oak Cliff Brewing Co,micro,1300 S Polk St,,,Dallas,Texas,75224,United States,2146638090,http://www.oakcliffbrewing.co,-96.83881,32.732448
+7f1f3bd0-82cd-46a7-99b0-0fded816d380,Oak Highlands Brewery,micro,10484 Brockwood Rd,,,Dallas,Texas,75238-1640,United States,4698029455,http://www.ohbrewery.com,-96.705382,32.890418
+3aef2ce1-1987-4d4a-9f26-c895bf44fcc8,Oakfire Pizza and Brewing,brewpub,107 N East St,,,Belton,Texas,76513,United States,,http://www.oakfirebelton.com/,-97.462736,31.056455
+5398673e-abb7-4855-ab70-276b95e0147f,Oasis Texas Brewing Company,micro,6548 Comanche Trl Ste 301,,,Austin,Texas,78732-1210,United States,5122849407,http://www.otxbc.com,-97.873205,30.404824
+04b21dcb-ad5d-47d4-be4e-ca05a752b1d4,ODD Muse Brewing,taproom,4488 Spring Valley Road,,,Farmer's Branch,Texas,75244,United States,9403950802,http://www.oddmusebrewing.com,-96.83291,32.939366
+c922d09e-1c59-44c2-906e-1cd7493b5867,"Oddwood Ales, LLC",taproom,3108 Manor Rd,,,Austin,Texas,78723-5719,United States,5122200612,http://www.oddwoodales.com,-97.705314,30.28661
 be4c4685-fff4-40c5-9b6a-96e25f809c09,Ode Brewing Co.,brewpub,3233 N Mesa St Spot 301,,,El Paso,Texas,79902-2337,United States,9153514377,,,
-4c18e0e2-d6c6-430f-a3aa-3ffecd52e29d,Oil Horse Brewing Company,micro,101 W Tyler St,,,Longview,Texas,75601-6318,United States,9032203414,http://Www.oilhorsebrewing.com,-94.740354,32.495365
+99fdc6c5-70ab-4748-ba96-82447199f220,Off Main Brewing,micro,703 Water St,,,Kerrville,Texas,78028,United States,5124153075,http://OffMainBrewing.com,-99.141552,30.04626
+be2b2e27-327f-479b-a8a6-92a586191263,Ogle Brewery,taproom,312 Schmidtzinsky Road,,,Fredericksburg,Texas,78624,United States,,http://https://archrayresort.com/brewery-menu/,-98.824452,30.233131
+4c18e0e2-d6c6-430f-a3aa-3ffecd52e29d,Oil Horse Brewing Company,taproom,101 W Tyler St,,,Longview,Texas,75601-6318,United States,9032203414,http://www.oilhorsebrewing.com,-94.740444,32.495593
 9dc287b2-c3b4-41d9-943f-eb24f2e4ce10,Ol' Shed Brewing Company,planning,,,,Mathis,Texas,78368-1738,United States,,,,
+e8810ddc-92b4-4f58-b4bf-91641a49238c,Old 290 Brewery,brewpub,4064 W US Highway 290,,,Johnson City,Texas,78636-5432,United States,8302251990,,-98.47629,30.2625
+0eba1fa8-88ce-4ef6-ae04-9df248d13bad,Old Main Brewing,micro,5969 Jones Rd,,,Bryan,Texas,77807,United States,2142321454,http://www.oldmainbrewing.com,-96.412057,30.616439
+e3fc672c-eb07-46c3-8c5c-4897a33801fd,Old Sheepdog Brewery,taproom,3900 Rosa Ave,,,EL PASO,Texas,79905,United States,9157020055,http://www.oldsheepdogbrewery.com,-106.445574,31.77519
+2b392cb9-8398-41da-8a01-ee7e2cd7ac7c,Old Texas Brewing Co,brewpub,112 W Ellison St,,,Burleson,Texas,76028,United States,8174472337,http://www.oldtexasbrewing.com,-97.321583,32.542363
 71e0c30f-3833-4d6c-83b6-ecce06256c93,Old Town Brewhouse,micro,146 Whatley Ave,,,Lewisville,Texas,75057-3961,United States,9722212337,http://www.cobrabrewingco.com,-96.99353141,33.044038
 76934d0b-fc8e-4050-8138-2da6a3059081,On Rotation Brewery,micro,7328 Gaston Ave # 110,,,Dallas,Texas,75214-4130,United States,9728072588,http://www.on-rotation.com,-96.731396,32.8109335
+7a594cae-b3df-478c-8987-9a60e2bb964a,On Rotation Brewery & Kitchen,brewpub,7701 Lemmon Ave,,,Dallas,Texas,75209,United States,9728509279,http://https://on-rotation.com,-96.840174,32.849494
+57b28940-293f-42ac-a85f-9c9b282ebce0,One Shot Distillery & Brewery,taproom,31610 Ranch Rd 12,,,Dripping Springs,Texas,78620,United States,5128588755,http://osdtx.com/,-98.05671,30.250672
 2f6072fd-ecfc-4842-ad47-8d39c0eb2d20,Orf Brewing,micro,4700 Burleson Rd Ste F,,,Austin,Texas,78744-1230,United States,5124285217,http://www.orfbrewing.com,,
-d128cc62-6893-4c15-bdde-6d23b55822cc,Oskar Blues Brewery,micro,10420 Metric Blvd # 150,,,Austin,Texas,78758-4939,United States,5122437054,,-97.71470248,30.3839295
-084c617f-abee-4719-b085-9d44682c00c5,Padre Island Brewing Co,brewpub,3400 Padre Blvd,,,South Padre Island,Texas,78597,United States,9567619585,http://www.pibrewingcompany.com,-97.165899,26.079915
-67d27756-36a8-402d-be42-843cfe015bd5,Panther Island Brewing Company,micro,501 N Main St,,,Fort Worth,Texas,76164-9508,United States,8178828121,http://www.pantherislandbrewing.com,-97.33793538,32.7636809
+d128cc62-6893-4c15-bdde-6d23b55822cc,Oskar Blues Brewery,regional,10420 Metric Blvd # 150,,,Austin,Texas,78758-4939,United States,5122437054,,-97.714729,30.384372
+c6edc465-2ca3-45eb-a718-ab63d72a219e,Outfit Brewing,taproom,7135 John Carpenter Frwy,,,Dallas,Texas,75247,United States,2147627166,http://www.outfitbrewing.com,-96.869811,32.815812
+8f70db12-8bc9-4ea7-9923-8060253a7de3,Outlaw's BBQ & Brew,brewpub,100 W Ferguson Rd,,,Mount Pleasant,Texas,75455,United States,9035727860,,-94.970149,33.152714
+084c617f-abee-4719-b085-9d44682c00c5,Padre Island Brewing Co,brewpub,3400 Padre Blvd,,,South Padre Island,Texas,78597,United States,9567619585,http://www.pibrewingcompany.com,-97.168246,26.109367
+67d27756-36a8-402d-be42-843cfe015bd5,Panther Island Brewing,micro,501 N Main St,,,Fort Worth,Texas,76164-9508,United States,8178828121,http://www.pantherislandbrewing.com,-97.337753,32.763873
 6309c11e-0f36-4621-80b9-33e7645e0a85,Pappy Slokum Brewing Co.,micro,409 S Treadaway Blvd,,,Abilene,Texas,79602-1750,United States,3252014112,http://waggonerr@gmail.com,-99.726991,32.444828
+bfd74e00-30e3-451f-8465-16bba85baa4a,Pecan Point Gastropub & Brewery,brewpub,213 Main St,,,Texarkana,Texas,75503,United States,9033060661,http://www.pecanpointbrewing.com,-94.044682,33.421332
 c78e00a1-dbd0-4a22-884c-99cddc4d3460,Pecan Street Brewing Co,brewpub,106 East Pecan Drive,,,Johnson City,Texas,78636-1504,United States,8308682131,http://www.pecanstreetbrewing.com,-98.4113504,30.27762004
-d9e12659-831c-433a-9229-23f71e25c592,Pegasus City Brewery,micro,2222 Vantage St,,,Dallas,Texas,75207-6102,United States,9723667722,http://www.pegasuscitybrewery.com,-96.83399696,32.79915648
-ce4a02f3-1dd0-4063-bf4b-ffef297c2bbc,Peticolas Brewing Co,micro,2026 Farrington St,,,Dallas,Texas,75207-6616,United States,2142347600,http://www.peticolasbrewing.com,-96.83031882,32.79677687
+4e7e726f-d014-47e9-be5e-6be6beff8f60,Pedernales Brewing Co,beer brand,1530 Barton Springs Rd,,,Austin,Texas,78704-1013,United States,8309987486,http://www.pedernalesbrewing.com,-97.761254,30.262062
+d9e12659-831c-433a-9229-23f71e25c592,Pegasus City Brewery,micro,2222 Vantage St,,,Dallas,Texas,75207-6102,United States,9723667722,http://www.pegasuscitybrewery.com,-96.833886,32.799349
+9415985c-2998-44da-bb83-4d090fdbd9a3,Pegasus City Brewery - Downtown Taproom & Pilot Brewery,taproom,1508 Commerce St,,,Dallas,Texas,75201,United States,,,-96.798434,32.779925
+ce4a02f3-1dd0-4063-bf4b-ffef297c2bbc,Peticolas Brewing Co,micro,2026 Farrington St,,,Dallas,Texas,75207-6616,United States,2142347600,http://www.peticolasbrewing.com,-96.828969,32.796804
 dd87a0e6-c13b-49ac-ad00-e4ee2ca428be,Pint,brewpub,332 Clay St,,,Kerrville,Texas,78028-4502,United States,8303157468,http://www.pintandplow.com,-99.141,30.0494005
-590c1861-3175-4f4f-8b2d-051d2db81294,Pinthouse Pizza North,brewpub,4729 Burnet Rd,,,Austin,Texas,78756-2826,United States,,http://www.pinthousepizza.com,-97.7390631,30.3187523
+1096d4fc-90f8-4e89-9741-b343ad3a3b2d,Pint & Plow,brewpub,332 Clay St,,,Kerrville,Texas,78028-4502,United States,8303157468,http://www.pintandplow.com,-99.141232,30.049015
+f6ac97c3-dfc4-4904-b6d4-c409e5a2988f,Pinthouse Brewing,brewpub,2201 E Benwhite BLVD,,,Austin,Texas,78741,United States,,,-97.742142,30.215177
+590c1861-3175-4f4f-8b2d-051d2db81294,Pinthouse Pizza North,regional,4729 Burnet Rd,,,Austin,Texas,78756-2826,United States,,http://www.pinthousepizza.com,-97.738938,30.318666
 6bf22b2c-4836-4d2f-8f0a-88c5f40a0a56,Pinthouse Pizza Round Rock,planning,,,,Round Rock,Texas,78681,United States,,,,
-9a8b0b19-2a32-4f4e-97c6-890cb9bf42b9,Pinthouse Pizza South,brewpub,4236 S Lamar Blvd,,,Austin,Texas,78704-7905,United States,5125685300,http://www.pinthousepizza.com,-97.7958917,30.2361072
-e4d21ea4-1561-47b0-bb15-876ab5defcfd,Platypus Brewing,brewpub,1902 Washington Ave Ste E,,,Houston,Texas,77007-6414,United States,8329858007,http://www.platypusbrewing.com,,
+c943afc3-0455-4025-b2af-5644ecd248e3,Pinthouse Pizza Round Rock,brewpub,2800 Hoppe Trail,,,Round Rock,Texas,78681,United States,,,-97.694309,30.539565
+9a8b0b19-2a32-4f4e-97c6-890cb9bf42b9,Pinthouse Pizza South,brewpub,4236 S Lamar Blvd,,,Austin,Texas,78704-7905,United States,5125685300,http://www.pinthousepizza.com,-97.79429,30.235663
+56fb5b2d-248e-4655-a461-c4d486e02b53,Plateau Brewing Co.,brewpub,214 S. Chadbourne,,,San Angelo,Texas,76903,United States,5126591826,http://www.plateaubrew.com,-100.436093,31.461468
+e4d21ea4-1561-47b0-bb15-876ab5defcfd,Platypus Brewing,taproom,1902 Washington Ave Ste E,,,Houston,Texas,77007-6414,United States,8329858007,http://www.platypusbrewing.com,-95.377452,29.768181
 0c7ebfab-f995-4487-b59c-6c90f42d8298,Pondaseta Brewing Co.,planning,,,,Amarillo,Texas,79119,United States,,http://www.pondaseta.com,,
+8a05b510-335b-4b11-8f7d-f8f4f2a3e491,Pondaseta Brewing Co.,taproom,7500 SW 45th Ave,,,Amarillo,Texas,79119,United States,,http://www.pondaseta.com,-101.923132,35.162064
+3756e9bf-8744-4492-9979-bb52fb692a63,Potato Shack,brewpub,1229 Josey St,,,Huntsville,Texas,77340,United States,9362917783,http://www.potatoshackhuntsville.com,-95.550391,30.707463
+1aefdbbb-7eb7-458b-96b8-b2e721872fc8,Primal Brewing Company,taproom,200 N Fisk,,,Brownwood,Texas,76801,United States,3255143800,,-98.979649,31.721585
+6e5c5a6b-d4f3-49db-8e6b-314941114d82,Project Halo Brewing,taproom,6520 FM 359 S.,,,Fulshear,Texas,77441,United States,,http://www.projecthalobrewing.com,-95.918687,29.710816
 bff7304d-177d-44ed-bbb1-c5d2b19783aa,Rabbit Hole Brewing,micro,106 E 6th,,,Justin,Texas,76247-4635,United States,9404413528,http://www.rabbitholebrewing.com,,
 128677f2-1463-4619-be91-9d0077e78ffd,Rabble-Rouser Brewing Company,micro,,,,Mcallen,Texas,78501,United States,9563290100,http://www.therabble-rousers.com,,
-eb13cc36-c81f-4518-9b84-24e7ea268d85,Rahr and Sons Brewing Co,regional,701 Galveston Ave,,,Fort Worth,Texas,76104-3355,United States,8178109266,http://www.rahrbrewing.com,-97.327292,32.7371
-330a7167-f217-4419-b66a-d12cb04f647d,Railport Brewing Company,micro,405 W Madison St,,,Waxahachie,Texas,75165-3666,United States,4693605383,http://www.railportbrewing.com,-96.85141051,32.38463715
-d90fdac6-8658-44a1-8e97-f6f22b74ef3a,Railroad Seafood Station & Brewing Co.,brewpub,1214 N Chaparral St,,,Corpus Christi,Texas,78401-1503,United States,3618836200,http://www.railroadseafood.com,-97.39433962,27.8027685
-9e8c2604-e9ac-4348-9f3b-3c83f7fa3599,Ranger Creek Brewery,micro,4834 Whirlwind Dr Ste 2,,,San Antonio,Texas,78217-3740,United States,8329693800,http://www.drinkrangercreek.com,,
-1f8b4200-5b3d-4b9f-b6a9-e10f29aec438,Real Ale Brewing Co,regional,231 San Saba Ct,,,Blanco,Texas,78606-4810,United States,8308332534,http://www.realalebrewing.com,-98.4128525,30.113319
-a4e94650-bbd6-45f5-ba67-b59f9ac661d8,Rebel Toad Brewing Co,micro,425 William St,,,Corpus Christi,Texas,78401-2538,United States,5122211267,http://www.rebeltoadbrewing.com,-97.3960541,27.7946329
-f844c251-07b6-48ee-935e-b30c36f12d88,Red Gap Brewing,micro,712 Conrad Hilton Blvd,,,Cisco,Texas,76437-3140,United States,2544334993,http://redgapbrewing.com,-98.97952884,32.38826259
-363cbc24-65e7-4124-9885-4aeb6e40a67f,Red Horn Brewing Co.,brewpub,13010 W Parmer Ln Ste 800,,,Cedar Park,Texas,78613-7369,United States,5125896152,http://www.redhornbrew.com,,
-659f76a6-3c54-489f-92ec-39b31760822c,Rentsch Brewery,micro,2500 NE Inner Loop Unit 3105,,,Georgetown,Texas,78626-4444,United States,5126885046,http://www.rentschbrewery.com,,
+eb13cc36-c81f-4518-9b84-24e7ea268d85,Rahr and Sons Brewing Co,micro,701 Galveston Ave,,,Fort Worth,Texas,76104-3355,United States,8178109266,http://www.rahrbrewing.com,-97.326656,32.738284
+330a7167-f217-4419-b66a-d12cb04f647d,Railport Brewing Company,micro,405 W Madison St,,,Waxahachie,Texas,75165-3666,United States,4693605383,http://www.railportbrewing.com,-96.849762,32.384135
+d90fdac6-8658-44a1-8e97-f6f22b74ef3a,Railroad Seafood Station & Brewing Co.,brewpub,1214 N Chaparral St,,,Corpus Christi,Texas,78401-1503,United States,3618836200,http://www.railroadseafood.com,-97.394159,27.802999
+9e8c2604-e9ac-4348-9f3b-3c83f7fa3599,Ranger Creek Brewing,micro,4834 Whirlwind Dr Ste 2,,,San Antonio,Texas,78217-3740,United States,2103392282,http://www.drinkrangercreek.com,-98.397085,29.529394
+1f8b4200-5b3d-4b9f-b6a9-e10f29aec438,Real Ale Brewing Co,regional,231 San Saba Ct,,,Blanco,Texas,78606-4810,United States,8308332534,http://www.realalebrewing.com,-98.412853,30.113469
+a4e94650-bbd6-45f5-ba67-b59f9ac661d8,Rebel Toad Brewing Co,taproom,425 William St,,,Corpus Christi,Texas,78401-2538,United States,5122211267,http://www.rebeltoadbrewing.com,-97.394834,27.794148
+79c98839-d506-4f87-95c0-1f561e3ed744,Reck 'Em Right Brewing,taproom,102 South Ave G,,,Johnson City,Texas,78636,United States,8302568757,http://www.reckemrightbrewing.com,-98.411027,30.276496
+f844c251-07b6-48ee-935e-b30c36f12d88,Red Gap Brewing,micro,712 Conrad Hilton Blvd,,,Cisco,Texas,76437-3140,United States,2544334993,http://redgapbrewing.com,-98.979663,32.388142
+363cbc24-65e7-4124-9885-4aeb6e40a67f,Red Horn Brewing Co.,brewpub,1615 Scottsdale Dr. Bldg 1 - Ste 110,,,Cedar Park,Texas,78641,United States,5125896152,http://www.redhornbrew.com,-97.815366,30.549907
+19bb4a8b-50c5-4e92-a2b3-2dc32a713680,Red Horn Brewing Co.,brewpub,1615 Scottsdale Dr. Bldg 1 - Ste 110,,,Cedar Park,Texas,78641,United States,5125896152,http://www.redhornbrew.com,-97.815366,30.549907
+09eba531-e727-4be6-8151-48b4fc673dfe,Red Horn Brewing Co. - Leander,taproom,1615 Scottsdale Dr.,,,Leander,Texas,78641,United States,7378437084,,-97.815659,30.550474
+51b80b85-977b-4e03-a3bc-c5917a05a850,Redbone Magic Brewing Co LLC,brewpub,1304 Texas Blvd,,,Texarkana,Texas,75501-4337,United States,9032442341,http://www.redbonemagicbrewingco.com,-94.051128,33.431009
+659f76a6-3c54-489f-92ec-39b31760822c,Rentsch Brewery,taproom,2500 NE Inner Loop Unit 3105,,,Georgetown,Texas,78626-4444,United States,5126885046,http://www.rentschbrewery.com,-97.656637,30.667254
 581f4005-1088-4fdf-b2f2-dd71151c88f6,Resignation Brewery,contract,98 San Jacinto Blvd Ste 160,,,Austin,Texas,78701-4640,United States,4254833232,http://www.kccobrewery.com,-97.742323,30.262322
 7675c62e-c161-46dc-ac96-fdf9f934054f,Revolver Brewing,large,5650 Matlock Rd,,,Granbury,Texas,76049-5347,United States,8177368034,http://www.revolverbrewing.com,,
-579678d2-7826-419b-9fe0-b3d8cfdcf574,Roadmap Brewing Co,micro,723 N Alamo St,,,San Antonio,Texas,78215-1812,United States,,http://www.roadmapbrewing.com,-98.4842435,29.4318109
+79e6e202-4a44-453a-aa93-0062c2334ace,Rickhouse Brewery,brewpub,510 N Oak Ave,,,Mineral Wells,Texas,76067,United States,8172232588,http://www.rickhousebrewing.com,-98.112576,32.812812
+579678d2-7826-419b-9fe0-b3d8cfdcf574,Roadmap Brewing Co,taproom,723 N Alamo St,,,San Antonio,Texas,78215-1812,United States,,http://www.roadmapbrewing.com,-98.482272,29.431892
+5b7d8f39-8ae1-4631-87fc-c3ec4a48c743,Rollertown Beerworks,taproom,412 N Oklahoma St #106,,,Celina,Texas,75009,United States,,http://www.rollertownbeerworks.com,-96.782659,33.326729
 8a384697-2d0f-4677-94d5-a2eea2b7a0ca,Rosehill Brewing Co.,planning,,,,Tomball,Texas,77377-3534,United States,,,,
 9c52348e-1343-4233-843f-fc29ac896ca5,Rough Diamond Brewery,micro,101 Kendalia Cir,,,Spring Branch,Texas,78070-6621,United States,8308856616,http://rdbrewery.com,,
+33194fce-39be-46e3-8e64-16b0561a37eb,Roughhouse Brewing,micro,"680 Oakwood Loop, San Marcos, TX 78666",,,San Marcos,Texas,78666,United States,5126677000,http://www.roughhousebrewing.com,-97.9505,29.8788
+ce9f8b58-6911-4486-8a4d-305f1486b99c,Round Top Brewing,brewpub,101 W. Austin St,,,Round Top,Texas,78954,United States,9792493904,http://www.roundtopbrewing.com,-96.696889,30.064993
 a19a3824-1bde-4652-a6ed-49e584d0d7d0,Ruba Brewing,micro,3310 Buttercup St,,,Houston,Texas,77063,United States,,https://untappd.com/Ruba_Brewing,-95.51694859,29.72879669
+313e05c0-9325-452a-9587-3d230dbfb2e7,Rueggenbach Brewing Co,micro,108 W Houston St,,,Marshall,Texas,75670,United States,,http://www.ruggenbach.com,-94.367873,32.54442
 4935e78e-47a1-479c-b613-88c319065314,Ruggedman Brewing Company,micro,7600 Old Bastrop Rd,,,New Braunfels,Texas,78130,United States,8306322104,http://www.drinkthedamnbeer.com,,
-6e516bce-6396-4f42-9dd0-e60a520eb651,Running Walker Brewery & Braman Winery,micro,3421 FM 359 Rd,,,Richmond,Texas,77406-7855,United States,,,,
-611a3d39-d0a2-4020-b9ce-87cbc545ad0d,Saint Arnold Brewing Co,regional,2000 Lyons Ave,,,Houston,Texas,77020-2028,United States,7136869494,http://www.saintarnold.com,-95.34846656,29.77112745
-a904f795-1ac5-40e1-a7fa-4eff2ad5882b,Saloon Door Brewing Co,brewpub,105 Magellan Cir Ste A,,,Webster,Texas,77598-2033,United States,4099393992,http://www.saloondoorbrewing.com,,
-3fa2f628-3f13-49be-a49c-b6177d912497,San Gabriel River Brewery Inc,micro,500 Chaparral Dr,,,Liberty Hill,Texas,78642-4610,United States,5126279384,http://www.sangabrielriverbrewery.com,,
+6e516bce-6396-4f42-9dd0-e60a520eb651,Running Walker Brewery,taproom,3421 FM 359 Rd,,,Richmond,Texas,77406-7855,United States,,,-95.763118,29.625974
+2593297c-dc8d-4810-9969-afca0eacd991,Rusty Axe Brewing Company,brewpub,113 N 1st St,,,Lufkin,Texas,75901-3003,United States,3168419327,http://www.rustyaxebrewing.com,-94.728937,31.339646
+611a3d39-d0a2-4020-b9ce-87cbc545ad0d,Saint Arnold Brewing Co,regional,2000 Lyons Ave,,,Houston,Texas,77020-2028,United States,7136869494,http://www.saintarnold.com,-95.348412,29.771094
+a904f795-1ac5-40e1-a7fa-4eff2ad5882b,Saloon Door Brewing Co,micro,105 Magellan Cir Ste A,,,Webster,Texas,77598-2033,United States,4097894225,http://www.saloondoorbrewing.com,-95.118904,29.526867
+5c3dbdf1-e299-4856-bf01-4745c6aa3fda,Saludos Brewing Co,taproom,4820 McPherson Road,,,Laredo,Texas,78041,United States,,http://www.saludosbrewing.com,-99.48402,27.539601
+3fa2f628-3f13-49be-a49c-b6177d912497,San Gabriel River Brewery Inc,brewpub,500 Chaparral Dr,,,Liberty Hill,Texas,78642-4610,United States,5127784100,http://www.sangabrielriverbrewery.com,-97.901252,30.712984
 81ab1434-2c88-4803-9cf3-6f1339c785bf,San Jacinto Brewing Company,planning,,,,Montgomery,Texas,77316-9200,United States,2813808200,,,
-e72050e0-715e-4333-b2a0-d8b04e2cd0f7,Save the World Brewing Co,micro,1510 Resource Pkwy,,,Marble Falls,Texas,78654-3983,United States,8306377654,http://www.savetheworldbrewing.com,,
+e72050e0-715e-4333-b2a0-d8b04e2cd0f7,Save The World Brewing Co,taproom,1510 Resource Pkwy,,,Marble Falls,Texas,78654-3983,United States,8306377654,http://www.savetheworldbrewing.com,-98.262794,30.616091
+01972435-1912-4f7b-b95a-a69db89283b9,Say When Brewing Company,micro,111 S Fannin Ave,,,Denison,Texas,75020-3116,United States,4258021263,http://www.saywhenbrewing.com,-96.541765,33.75489
 dd5d5286-addb-4b10-86fd-4cc994d05850,Sean Patrick's Pub,planning,,,,San Marcos,Texas,78666-5590,United States,,,,
-dccc67cc-2dce-407a-b18c-2d73f4aa08a0,Seguin Brewing Company,micro,111 W Gonzales St,,,Seguin,Texas,78155-5630,United States,2107713913,http://www.seguinbrewing.com,-97.96528378,29.56957082
+aaad4f60-ecfe-4fae-ad37-f262874e1558,Sean Patrick's Pub,brewpub,202 E San Antonio St,,,San Marcos,Texas,78666-5590,United States,,,-97.939387,29.882026
+c0f63a13-fdf1-444d-a757-50bb19ebbf58,Second Pitch Beer Company,taproom,11935 Starcrest Dr.,,,San Antonio,Texas,78247,United States,4086556700,http://www.secondpitchbeer.com,-98.462548,29.548471
+eeac1ca3-67db-497a-b0c5-58c684d929db,Second Rodeo Brewing,brewpub,122 E Exchange Ave,,,Fort Worth,Texas,76164,United States,8172404959,http://www.secondrodeobrewing.com,-97.347959,32.787998
+dccc67cc-2dce-407a-b18c-2d73f4aa08a0,Seguin Brewing Company,brewpub,111 W Gonzales St,,,Seguin,Texas,78155-5630,United States,2107713913,http://www.seguinbrewing.com,-97.965218,29.569427
+65abdeb9-393c-4ced-82e2-73f7339fe1ef,Senate Avenue Brewing Company,brewpub,16000 Dillard Drive,,,Houston,Texas,77040,United States,8322953188,http://www.senateave.com,-95.562012,29.879537
 9d2a7779-6e21-4052-8c9a-a7a14fe70af1,Shade Tree Saloon & Grill,brewpub,13530 Hwy 281 N,,,Spring Branch,Texas,78070,United States,8308855550,http://www.shadetreesaloon.com,,
-17d0b9b5-8782-4f73-8ca5-d9fc1b1e2b13,"Shannon Brewing Company, LLC",micro,818 N Main St,,,Keller,Texas,76248-3801,United States,8173379892,http://www.shannonbrewing.com,-97.25396446,32.94797684
+17d0b9b5-8782-4f73-8ca5-d9fc1b1e2b13,"Shannon Brewing Company, LLC",brewpub,818 N Main St,,,Keller,Texas,76248-3801,United States,8173379892,http://https://shannonbrewing.com,-97.253598,32.946695
+ed68a11f-c928-4f93-bbd2-dee3948030be,Shotgun Seltzer LLC,beer brand,4221 Freidrich Lane,,,Austin,Texas,78744,United States,2813001009,http://www.shotgunseltzer.com,-97.748802,30.21104
 b9ea4135-429b-4928-8cae-680dd9d6ad17,Sigma Brewing Company,micro,3118 Harrisburg Blvd # 108,,,Houston,Texas,77003-2334,United States,3463523190,http://www.sigmabrewingcompany.com,-95.3435901,29.7489938
 07a4bba9-7707-4a04-839c-e341490377a1,Siren Rock Brewing Company,planning,,,,Rockwall,Texas,75087,United States,,,,
+ed8d0d0c-7703-416d-983b-2defc0059bb2,Siren Rock Brewing Company,micro,310 S Goliad St,,,Rockwall,Texas,75087-3738,United States,9725228843,http://www.sirenrock.com,-96.461021,32.928858
 5f6f3cb4-e720-4a25-885e-903f1341049a,Six Car Pub,planning,,,,Amarillo,Texas,79106,United States,8062206881,http://www.sixcarpub.com,,
+68b71576-17c3-4ca7-a7a9-2973dff98447,Six Car Pub and Brewery,brewpub,625 S Polk,,,Amarillo,Texas,79106,United States,8065763396,http://www.sixcarpub.com,-101.836913,35.207312
 5f426984-68f1-4f2b-9bed-97eba2b6809e,Skull Mechanix Brewing,micro,1005 East St Elmo Rd Bldg 2,,,Austin,Texas,78745,United States,7373001002,http://www.skullmechanix.com,,
+33d96421-8b90-41a8-ad61-1b557ff46e69,Slackers Brewing Co.,brewpub,12233 Ranch Road 620 N,,,Austin,Texas,78750-1069,United States,9167475770,http://www.slackersbrewing.com,-97.814613,30.461839
 8890167c-6e54-45b2-9be3-a866eb3e6168,Slantways Brewing Company,planning,,,,The Woodlands,Texas,77381-4641,United States,,,,
 221f2f9d-0a0d-4a0e-812d-52a323b9b0b6,Small Brewpub,brewpub,333 W Jefferson Blvd,,,Dallas,Texas,75208-4602,United States,9728631594,http://www.smallbrewpub.com,-96.924553,32.747739
+03f84466-5cf7-4124-a0ab-8bd5923baafe,Smithville Brewing Company,taproom,665 NW Loop 230,,,Smithville,Texas,78967,United States,5127868221,http://www.smithvillebrewing.com,-97.162841,30.024302
 dc097df0-f535-4aba-9a70-f3dfbccb1b1c,Sockdolager Brewing Company,micro,720 China St,,,Abilene,Texas,79602-2722,United States,3257211718,http://www.sockdolagerbrewery.com,-99.7270701,32.44139071
 deeb2585-3c04-49a8-bf79-9159ea0c7d31,Solid Rock Brewing,micro,2214 Bee Creek Rd,,,Spicewood,Texas,78669-5136,United States,5124878786,http://www.solidrockbrewing.com,,
+9905aa0d-314d-4422-85c9-12ac2c1d9fc4,Soul Fire Brewing Co,brewpub,206 N Oak St,,,Roanoke,Texas,76262,United States,6822377379,http://www.soulfirebrewing.com,-97.228141,33.000049
 846c74cb-9739-4f97-b2b3-631145e7dae9,South Austin Brewery,micro,5701 W Slaughter Ln Bldg A130,,,Austin,Texas,78749-6532,United States,5123542337,http://www.southaustinbrewery.com,,
-ef1e0503-a145-451d-9e68-13ebc69b3b1a,Southerleigh Brewing,brewpub,"136 E Grayson St., Ste 120",,,San Antonio,Texas,78212-4114,United States,2103137627,http://www.southerleigh.com,,
-6c544f75-7fa2-4229-9a63-765c5e756af4,Southern Heights Brewing Co LLC,micro,6014 Techni Center Dr Ste 2-101,,,Austin,Texas,78721-2349,United States,5126506901,http://www.southernheightsbrewing.com,,
-c914b941-351f-4f4a-8256-8791d9a6562e,Southern Star Brewing,micro,3525 N Frazier St,,,Conroe,Texas,77303-1430,United States,9364412739,http://www.southernstarbrewing.com,-95.4776897,30.3587546
+ef1e0503-a145-451d-9e68-13ebc69b3b1a,Southerleigh Brewing,micro,"136 E Grayson St., Ste 120",,,San Antonio,Texas,78212-4114,United States,2103137627,http://www.southerleigh.com,-98.480074,29.444073
+6c544f75-7fa2-4229-9a63-765c5e756af4,Southern Heights Brewing Co LLC,taproom,6014 Techni Center Dr Ste 2-101,,,Austin,Texas,78721-2349,United States,5126506901,http://www.southernheightsbrewing.com,-97.669518,30.276893
+78deafa1-ed03-48f3-8b45-afc1956bab68,Southern Root Brewing Company - Waxahachie,brewpub,421 S College St,,,Waxahachie,Texas,75165,United States,,,-96.848678,32.382816
+c914b941-351f-4f4a-8256-8791d9a6562e,Southern Star Brewing,micro,3525 N Frazier St,,,Conroe,Texas,77303-1430,United States,9364412739,http://www.southernstarbrewing.com,-95.474463,30.358888
 c870f079-c22b-477a-9d05-40f2e40e56a7,Southern Yankee Beer Company,planning,,,,Houston,Texas,77073,United States,,http://southernyankeebeer.com,,
-57da9428-05ab-44e9-8f30-253292f1b1ea,Spindletap Brewery,micro,10622 Hirsch Rd,,,Houston,Texas,77016-2622,United States,7133251477,http://www.spindletap.com,-95.3149254,29.8677396
-23df1166-5226-4808-ab4c-6ebf216ccc4c,Spoetzl Brewery,regional,603 E Brewery St,,,Shiner,Texas,77984-0368,United States,3615943383,http://www.shiner.com,,
+ec389e11-f91e-47c9-b70a-dc85a2e6c1f7,Southern Yankee Beer Company,brewpub,930 FM 1960,,,Houston,Texas,77073,United States,,http://southernyankeebeer.com,-95.415223,30.024088
+57da9428-05ab-44e9-8f30-253292f1b1ea,SpindleTap Brewery,micro,10622 Hirsch Rd,,,Houston,Texas,77016-2622,United States,7133251477,http://www.spindletap.com,-95.314691,29.868342
+76b3bf2e-9ca2-487f-ae24-d2de65fa7cbc,Spirit of Texas Brewstillery,taproom,1715 Dalshank St,,,Pflugerville,Texas,78660,United States,5129899292,http://www.spiritoftx.com,-97.584142,30.480069
+23df1166-5226-4808-ab4c-6ebf216ccc4c,Spoetzl Brewery,regional,603 E Brewery St,,,Shiner,Texas,77984-0368,United States,3615943383,http://www.shiner.com,-97.16587,29.436245
 1e01a465-adc4-4d87-affc-be9648ac0dbd,SportsBreweries,contract,Private Rd 5128,,,Frisco,Texas,75034,United States,9726038647,http://www.sportsbreweries.com,-96.7687762,33.1787931
 34998893-151f-45cd-8868-39ece0153f71,St. Elmo Brewing Company,micro,440 E Saint Elmo Rd,,,Austin,Texas,78745-1281,United States,7373001965,http://www.stelmobrewing.com,-97.7611749,30.2174321
 977bad75-df98-4e2e-ad5a-ac2c6c22d120,Stache Rabbit Brewing Company,planning,,,,Austin,Texas,78727-5907,United States,,,,
 e8875dc6-aa58-4c97-90d5-7b5c4fa07d83,Stained Glass Beerworks,planning,,,,Houston,Texas,77066-2310,United States,7134529337,http://www.stainedglassbeerworks.com,,
+423a4757-6016-420f-81fb-b19842afa9d0,Starbase Brewing,taproom,4700 Burleson Rd,,,Austin,Texas,78744,United States,7062023150,http://starbasebrewery.com,-97.730528,30.213077
 c04f39d4-df5f-48d4-9645-148072eeb9f5,Steam Theory Brewing Co,planning,,,,Dallas,Texas,75212-4101,United States,,http://www.steamtheorybrewing.com,,
 c91229a8-b327-4d38-94e9-473265759cb1,Stesti Brewing Company,micro,1314 FM 2915,,,Lovelady,Texas,75851,United States,9362046858,,,
 5e44f9ac-ec1e-4143-a21e-b7af8c507e40,Stoic Brewing,contract,667 Robinett Rd,,,Waxahachie,Texas,75165-6343,United States,5128884843,http://stoicbrewing.com,,
+50b6e924-fa5b-4fec-aa7e-a7d470b81ec4,Stovetop Brewing,brewpub,11734 Barker Cypress Rd #102,,,Cypress,Texas,77433,United States,8326537217,http://www.craftbeercellar.com/stores/tx/cypress/,-95.675588,29.945754
 e16701b2-c0f1-4a14-934f-7e51fa99cc3c,Strange Land Brewery,micro,5904 Bee Cave Road,,,Austin,Texas,78746,United States,5122762295,http://www.strangelandbrewery.com,,
+d85f4916-fb8d-495e-8631-16ca24ed9b4e,Strong Arm Brew Works,taproom,1825 Dickinson Ave.,,,Dickinson,Texas,77539,United States,2816788260,http://www.strongarmbrewworks.net,-95.046912,29.482959
+b56402fa-873f-4d98-b8ca-330b665171b4,Struggle Street Brewing Company,brewpub,2140 Calder Avenue,,,Beaumont,Texas,77701,United States,4092999701,http://www.strugglestreetbrews.com,-94.117357,30.086144
 2c32c721-36b2-4610-b315-17d328a75cdd,Suds Monkey Brewing,micro,1032 Canyon Bend Dr Suite A,,,Dripping Springs,Texas,78620-5355,United States,5122223893,http://www.sudsmonkeybrew.com,,
-7d30c320-5116-4f48-8f4f-a07fb5559832,Sun Brewing Co.,brewpub,101 Canutillo La Union Ave,,,Canutillo,Texas,79835-6001,United States,9154333048,http://sunbrewingco.com,-106.6011179,31.9151882
+5db1dc0b-da18-46c5-8ca9-46767d99c486,Suds Monkey Brewing,taproom,12024 US-290,,,Austin,Texas,78737,United States,5122223893,http://www.sudsmonkeybrew.com,-97.969106,30.211019
+7d30c320-5116-4f48-8f4f-a07fb5559832,Sun Brewing Co.,brewpub,101 Canutillo La Union Ave,,,Canutillo,Texas,79835-6001,United States,9154333048,http://sunbrewingco.com,-106.60251,31.915047
+6e5d31d1-a051-4438-abff-0866f7489792,SunnHaus Brewing Project,taproom,344 Clark Rd,,,Abilene,Texas,79602,United States,4053974092,http://www.sunnhaus.com/,-99.720399,32.322432
 9daf19fc-e958-48d7-b232-53661abf49fe,Tall City Brewing Co.,planning,,,,Midland,Texas,79703-5137,United States,4327708679,,,
-84d2bd86-eaec-49d4-b4b8-8076e4905e01,Texas Ale Project,micro,1001 N Riverfront Blvd,,,Dallas,Texas,75207-4201,United States,2149650606,http://www.texasaleproject.com,-96.8148593,32.7818812
-271219df-fb1a-4947-953b-056c59afda19,Texas Beer Company,micro,1331 W 2nd St,,,Taylor,Texas,76574-2434,United States,5122897460,http://www.texasbeerco.com,-97.42424416,30.56782579
-a2e6a255-50ee-4c54-9746-85c186d7bacf,Texas Beer Company,micro,201 N Main St,,,Taylor,Texas,76574,United States,5124666939,,-97.409585,30.568804
+34988bfe-fce9-4c17-ae17-f93dc8469cea,Tall City Brewing Co.,taproom,3303 W Golf Course Rd,,,Midland,Texas,79703-5137,United States,4322187175,http://www.tallcitybrewing.com,-102.121596,32.004838
+330ceeb1-de80-44f7-8b2a-bdfba4cc819c,Teddy's Brewhaus,brewpub,102 Fisk Ave,,,Brownwood,Texas,76801,United States,3252035283,http://www.teddysbrewhaus.com,-98.979916,31.720626
+84d2bd86-eaec-49d4-b4b8-8076e4905e01,Texas Ale Project,micro,1001 N Riverfront Blvd,,,Dallas,Texas,75207-4201,United States,2149650606,http://www.texasaleproject.com,-96.818085,32.786142
+271219df-fb1a-4947-953b-056c59afda19,Texas Beer Company,micro,201 N Main St,,,Taylor,Texas,76574,United States,5124666939,,-97.409991,30.56893
+a2e6a255-50ee-4c54-9746-85c186d7bacf,Texas Beer Company,micro,201 N Main St,,,Taylor,Texas,76574,United States,5124666939,,-97.409991,30.56893
 34ea89cc-a9a9-4435-8bec-a3a26bc4de2a,Texas Beer Refinery,micro,1825 Dickinson Ave Unit B,,,Dickinson,Texas,77539-7799,United States,8327791221,http://www.texasbeerrefinery.com,,
-505134f2-092b-4275-a96e-d26953c00b4e,Texas Leaguer Brewing Company,micro,13503 Pike Rd,,,Missouri City,Texas,77489-1033,United States,8328959000,http://www.txleaguer.com,-95.5480643,29.627854
-89edb92f-550b-4b68-a503-b583d3dcba8f,The Austin Beer Garden Brewing Co,brewpub,1305 W Oltorf St Ste B,,,Austin,Texas,78704-5362,United States,,,,
+505134f2-092b-4275-a96e-d26953c00b4e,Texas Leaguer Brewing Company,micro,13503 Pike Rd,,,Missouri City,Texas,77489-1033,United States,8328959000,http://www.txleaguer.com,-95.548382,29.627541
+89edb92f-550b-4b68-a503-b583d3dcba8f,The Austin Beer Garden Brewing Co,brewpub,1305 W Oltorf St,,,Austin,Texas,78704-5362,United States,5122982242,http://www.theabgb.com,-97.769135,30.245183
+7edc8d04-48f7-45ea-9496-44735be807ba,The Austin Beer Garden Brewing Co,brewpub,1305 W Oltorf St,,,Austin,Texas,78704-5362,United States,5122982242,http://www.theabgb.com,-97.769135,30.245183
 6bbcccba-e7c3-45f4-9ce1-26adf05b50d5,The Blue Onion Brewpub,brewpub,423 S International Blvd,,,Weslaco,Texas,78596-9114,United States,9564470067,http://www.myblueonion.com,,
 3e4ab49b-b18d-4c12-bbe7-81c213b4b44f,The Brewer's Table,micro,4715 E 5th St,,,Austin,Texas,78702-5033,United States,5126199569,http://www.caskandcoal.com,-97.7043433,30.2529441
-a5b2f288-bb2b-40c1-a64c-2294f3826b01,The Brewery LBK,brewpub,1204 Broadway #104,,,Lubbock,Texas,79401,United States,8069939378,http://www.thebrewerylbk.com,,
+a5b2f288-bb2b-40c1-a64c-2294f3826b01,The Brewery LBK,brewpub,1204 Broadway,,,Lubbock,Texas,79401,United States,8069939378,http://www.thebrewerylbk.com,-101.848268,33.585396
+5b71d96b-1398-4325-b926-295a292d8248,The Brewery LBK,brewpub,1204 Broadway,,,Lubbock,Texas,79401,United States,8069939378,http://www.thebrewerylbk.com,-101.848268,33.585396
 dcea5b62-4138-4d5e-8789-0cfbf48bb21d,The Brewtorium,brewpub,6015 Dillard Cir Ste A,,,Austin,Texas,78752-4440,United States,5125240323,http://www.thebrewtorium.com,,
 6700cd5c-5360-4455-9fec-da2092e85b27,The Collective Brewing Project,micro,112 Saint Louis Ave,,,Fort Worth,Texas,76104-1228,United States,,,-97.32879227,32.74352324
 dceed539-92fe-42e7-8ca6-09eef06e3a2b,The Humble Pint,planning,,,,Round Rock,Texas,78681-5504,United States,5129475913,http://www.humblepint.com,,
 a30a71ca-d8c6-4413-b939-f38667f4ef6e,The Malai Kitchen,brewpub,3699 McKinney Ave Ste 319,,,Dallas,Texas,75204-4563,United States,2145997857,http://www.malaikitchen.com,-96.796677,32.808204
+ddf73c98-3c6e-4002-93f9-35bb27e705e3,The Malai Kitchen,brewpub,1161 E. Southlake Blvd #220,,,Southlake,Texas,76092,United States,2145997857,http://www.malaikitchen.com,-97.134426,32.940934
 392f102d-b772-47ab-bed8-641e5b70a2b6,The Manhattan Project Beer Company,micro,15103 Surveyor Blvd,,,Addison,Texas,75001-4316,United States,,http://www.manhattanproject.beer,-96.845846,32.951222
-3e98180b-d811-49d8-8085-f6a9f67af1ca,The Phoenix On Westheimer,brewpub,1915 Westheimer Rd,,,Houston,Texas,77098-1521,United States,7135263100,http://www.phoenixow.com,-95.4966157,29.7377481
-cdc5bcd0-ffab-47b9-a21b-bbd5f02c171b,The Plains Brewing Company,micro,515 N FM 179,,,Lubbock,Texas,79416-9512,United States,8067868583,,,
+1e1cccf8-8618-4bd6-9d39-eae32843d8c2,The Manhattan Project Beer Company,micro,2215 Sulphur St,,,Dallas,Texas,75208,United States,3179659593,http://www.manhattanproject.beer,-96.828571,32.771787
+3e98180b-d811-49d8-8085-f6a9f67af1ca,The Phoenix On Westheimer,brewpub,1915 Westheimer Rd,,,Houston,Texas,77098-1521,United States,7135263100,http://www.phoenixow.com,-95.407708,29.742493
+cdc5bcd0-ffab-47b9-a21b-bbd5f02c171b,The Plains Brew Co,taproom,515 N FM 179,,,Lubbock,Texas,79416-9512,United States,8067868583,,-102.009822,33.606068
+bc10475a-4864-4e54-8fb8-9819c26b9806,The Q & Brew,brewpub,13785 State Hwy 19,,,Canton,Texas,75103,United States,9035678250,http://www.thesilverspurresort.com/resort-activities/restaurant/,-95.853006,32.588789
 a3d83ebc-e6b7-4fa0-b867-2c044200e21c,The Root Cellar,brewpub,215 N Lbj Dr,,,San Marcos,Texas,78666-5621,United States,5123925158,http://www.rootcellarcafe.com,,
 6c14ba9d-86b9-4d26-befc-f49838604d3b,The SoCo Taphouse,brewpub,113 E Concho Ave Ste 210,,,San Angelo,Texas,76903-5948,United States,3257036218,http://www.socotaphouse.com,,
+13fb514f-6576-4aea-9d07-9ec33ff6bf3d,The Stay Put,taproom,73 Rainey St,,,Austin,Texas,78701,United States,,http://www.stayputbrewery.com,-97.738657,30.258255
+0fc01969-5cfb-4a94-9361-a9b75c2df23f,Third Coast Beer LLC dba Nueces Brewing Co.,brewpub,401 S Water St,,,Corpus Christi,Texas,78401,United States,2819607093,http://www.NuecesBrewing.com,-97.395794,27.788196
 cd923cb5-4ade-4303-888c-ab136b9fc616,Thirsty Bro Brewing,micro,141 E Main St,,,Royse City,Texas,75189-3712,United States,2818417246,http://www.ThirstyBroBrewingCo.com,-96.33193039,32.97521439
-04f0b99c-2b76-48a7-8314-bfeb665269c5,Thirsty Planet Brewing Co,micro,8201 S Congress Ave,,,Austin,Texas,78745-7305,United States,5128260948,http://www.thirstyplanet.net,-97.7487141,30.2521655
+04f0b99c-2b76-48a7-8314-bfeb665269c5,Thirsty Planet Brewing Co,micro,8201 S Congress Ave,,,Austin,Texas,78745-7305,United States,5128260948,http://www.thirstyplanet.net,-97.78318,30.17567
 4fb64914-6b83-4f34-b439-863aa2859e25,Thousand Oaks Brewing Co.,micro,3200 Woodall Dr Unit C1,,,Cedar Park,Texas,78613-7773,United States,5126867999,http://www.thousandoaksbrewing.com,,
 27564880-047a-443c-a11b-848da3b04c62,"Three Empires Brewing Company, LLC",planning,,,,Pearland,Texas,77584,United States,,,,
+20b51544-a07e-4725-9b4f-e527c21a1d44,Three Missions Brewery,taproom,10179 Socorro Rd,,,El Paso,Texas,79927,United States,9157044932,http://www.missiontrailbrewery.com,-106.303119,31.654228
 3fe64caf-3ed4-4954-b585-e2902ad820b5,TKO Libations,micro,2520 King Arthur Blvd Ste 109,,,Lewisville,Texas,75056-6082,United States,4696302337,http://www.tkolibations.com,,
+38887e1d-5748-4189-9c2b-fdf7e752b32a,Toasty Bros.,alt prop,906 Jean St,,,Grapevine,Texas,76051,United States,4234295415,,-97.074783,32.932333
+89f4a3f6-9698-4c50-ae46-5c443f60ddcd,Toddy Oaks Brewery,taproom,20120 Franz Rd,,,Katy,Texas,77449,United States,2815782020,http://www.toddyoaks.com,-95.731827,29.801443
+c786ea80-9b64-450a-86a9-ec7ecb061626,Toppled Turtle Brewing Company,brewpub,102 E 7th St,,,Dumas,Texas,79029,United States,8064216863,http://www.toppledturtlebrewing.com,-101.972952,35.859064
 24a7dd60-ad86-43d3-84ae-1e51aaf6d7f9,"Town In City Brewing Co, LLC",micro,1125 W Cavalcade St,,,Houston,Texas,77009-2907,United States,8328347151,http://townincitybrewing.com,-95.3870438,29.8036158
+17918f26-cf58-47c9-9f38-569574ec275d,Treaty Oak Distilling,brewpub,16604 Fitzhugh Rd,,,Dripping Springs,Texas,78620,United States,5125990335,http://www.treatyoakdistilling.com,-98.054569,30.246476
 413f12ba-347c-4343-8da7-63261f878669,"Tree Farm Brewing Company, LLC",contract,3020 Papa Bear Dr,,,College Station,Texas,77845-1402,United States,9798200535,http://www.treefarmbrewing.com,,
-76b0ca40-20bf-4a32-a0de-e89de141a96b,Triple J Chophouse and Brew Co,brewpub,1807 Buddy Holly Ave,,,Lubbock,Texas,79401-5136,United States,8067716555,http://www.triplejchophouseandbrewco.com,-101.8440375,33.5785911
-7b231fe0-34a4-4e5d-84a9-c04cc5d9d8a8,True Anomaly Brewing,micro,2012 Dallas St,,,Houston,Texas,77003,United States,3467045701,http://www.trueanomalybrewing.com,,
-97ae87b9-74f3-40c8-8773-967c92450fa5,True Vine Brewing Company,micro,219 S Englewood Ave,,,Tyler,Texas,75702-6926,United States,9036000124,http://www.truevinebrewing.com,-95.31600025,32.34866425
-898d4d98-92c7-4e57-9b3f-310a60bc45c9,Tupps Brewery,micro,721 Anderson St,,,McKinney,Texas,75069-7149,United States,2147045039,http://www.tuppsbrewery.com,-96.61169549,33.18370422
+0b0aaf56-bc38-4791-be53-649474a63d7e,Trinity Forest Brewing Company,micro,906 Jean St,,,Grapevine,Texas,76051,United States,,http://www.trinityforestbrewco.com,-97.074783,32.932333
+76b0ca40-20bf-4a32-a0de-e89de141a96b,Triple J Chophouse and Brew Co,brewpub,1807 Buddy Holly Ave,,,Lubbock,Texas,79401-5136,United States,8067716555,http://www.triplejchophouseandbrewco.com,-101.844038,33.578344
+7b231fe0-34a4-4e5d-84a9-c04cc5d9d8a8,True Anomaly Brewing Co.,taproom,2012 Dallas St,,,Houston,Texas,77003,United States,3467045701,http://www.trueanomalybrewing.com,-95.357244,29.749809
+97ae87b9-74f3-40c8-8773-967c92450fa5,True Vine Brewing Company,micro,2453 Earl Campbell Pkwy,,,Tyler,Texas,75701,United States,9036000124,http://www.truevinebrewing.com,-95.331693,32.328031
+65dc3cbf-93b3-41b0-9033-9579794720a6,True Vine Brewing Company,micro,2453 Earl Campbell Pkwy,,,Tyler,Texas,75701,United States,9036000124,http://www.truevinebrewing.com,-95.331693,32.328031
+75cdd2b7-5611-41db-b8b5-ba1ff09fe9c7,True Vine Brewing Company,taproom,110 N College,,,Tyler,Texas,75702,United States,9036000124,,-95.302279,32.351269
+898d4d98-92c7-4e57-9b3f-310a60bc45c9,Tupps Brewery,micro,721 Anderson St,,,McKinney,Texas,75069-7149,United States,2147045039,http://www.tuppsbrewery.com,-96.611538,33.183756
 41b29d2c-64d2-4b0e-948c-66f6a93fc226,Turkey Forrest Brewing,micro,1848 Airline Dr. Suite C,,,Houston,Texas,77009,United States,,,,
-b7130d67-9eb1-48e8-9c28-0fc26e4b2bd5,"Turning Point Beer, LLC",micro,1307 Brown Trl,,,Bedford,Texas,76022-6401,United States,8179251131,http://Www.turningpointbeer.com,,
+b742a4e9-002f-415b-ab61-8b9e0f36bef2,Turkey Forrest Brewing/Big Owl Craft Brew House,taproom,1848 Airline Dr,,,Houston,Texas,77009,United States,,,-95.381577,29.804591
+b7130d67-9eb1-48e8-9c28-0fc26e4b2bd5,"Turning Point Beer, LLC",taproom,1307 Brown Trl,,,Bedford,Texas,76022-6401,United States,8177058817,http://Www.turningpointbeer.com,-97.161576,32.834735
+0827bf5a-728b-486c-a7f7-b524a3fdb732,Tusculum Brewing Company,brewpub,236 S Main St,,,Boerne,Texas,78006-2334,United States,3612286227,http://www.tusculum.beer,-98.731557,29.79174
 5891a22a-ac15-4646-a0bb-4b9127899213,"Tusculum Holdings, LLC",planning,,,,Boerne,Texas,78006-2334,United States,3612286227,http://www.tusculumbrewing.com,,
-a2738df3-5b54-4a76-80ee-1e799bc9f9cb,Twin Peaks Brewery,micro,1500 Market Place Blvd,,,Irving,Texas,75063,United States,4699642921,http://twinpeaksrestaurants.com/brewery,-96.96767266,32.91862635
+a2738df3-5b54-4a76-80ee-1e799bc9f9cb,Twin Peaks Brewery,micro,1500 Market Place Blvd,,,Irving,Texas,75063,United States,4699642921,http://twinpeaksrestaurants.com/brewery,-96.967507,32.918639
 6a8fdfd9-8419-4e4a-828e-0dea8bcf5bcb,TWIN SISTERS,planning,,,,San Antonio,Texas,78210,United States,2108186515,,,
-90131c8a-a9c4-4c9f-86ea-08d631535a56,Twisted X Brewing Co,micro,23455 West RR 150,,,Dripping Springs,Texas,78620,United States,5128295323,http://www.twistedxbrewing.com,,
+cd8a1979-73ad-441b-bc24-04eb2aa95e91,Twisted Acre Brewery LLC,taproom,16103 Grant Rd Unit J,,,Cypress,Texas,77429-7582,United States,8329534707,http://www.twistedacre.com,-95.659493,30.023937
+90131c8a-a9c4-4c9f-86ea-08d631535a56,Twisted X Brewing Co,micro,23455 West RR 150,,,Dripping Springs,Texas,78620,United States,5123008074,http://www.twistedxbrewing.com,-98.0979,30.2194
+054a23a2-5eec-421d-a1ab-bf1d8b655c19,TWK Brewery,brewpub,25510 Zion Lutheran Cemetery Rd,,,Spring,Texas,77382,United States,3463368098,http://www.wheelkitchen.com,-95.5442,30.1998
 e151bd5e-806b-44d0-aa9e-c321f7a566b9,Two Docs Brewing Co.,planning,,,,Lubbock,Texas,79401,United States,,http://twodocsbrewing.com,,
+4317832c-5b82-43c7-81b9-f1a8a8bc078d,Two Docs Brewing Co.,taproom,502 Texas Ave,,,Lubbock,Texas,79401,United States,8064124888,http://twodocsbrewing.com,-101.846024,33.590833
 8b8dec5f-62d9-4970-8425-446c9f72026f,Two Knights Brewing,planning,,,,Austin,Texas,78701-3720,United States,5124176561,,,
 3c6ba9ee-3f7e-475f-a3d5-76d9924068ad,Two Rows Restaurant and Brewery - Allen,contract,711 Central Expy S,,,Allen,Texas,75013-8012,United States,9723968670,http://www.tworows.com/,-96.67987289,33.0921542
 7712331d-cff9-48e9-a76a-da423aadc841,Two Wheel Brewing Company,micro,535 S Loop 4,,,Buda,Texas,78610-9388,United States,5123613401,http://www.twowheelbrewing.com,,
 d9a65f61-f901-40fe-85d1-620af49e72fb,Uncle Billy's Brewery,micro,1530 Barton Springs Rd,,,Austin,Texas,78704-1013,United States,5124760100,http://www.unclebillys.com,-97.76126939,30.262109
 a980eb42-934a-4bca-8044-43fc23b43eb9,Uncle Buck's Brewery And Steakhouse,brewpub,2501 Bass Pro Dr,,,Grapevine,Texas,76051-2009,United States,9726915100,http://restaurants.basspro.com/UncleBucksSteakhouse/,,
-b212b659-6819-42c5-b5f2-93e735486d10,Under The Radar Brewery,micro,1506 Truxillo St,,,Houston,Texas,77004-3960,United States,7133202766,http://www.undertheradarbrewery.com,-95.3759411,29.7342113
-e8bb776f-eaeb-4132-ac76-54d9c5f4c8ec,Union Bear Brewing Co.,brewpub,5880 State Highway 121 Ste 101,,,Plano,Texas,75024,United States,2142972337,http://www.unionbear.com,-96.8494045,33.083072
-eddf1dc7-c32f-490f-8180-afe44f36438a,Unlawful Assembly Brewing Company,brewpub,7800 Windrose Ave,,,Plano,Texas,75024-0114,United States,9728967668,http://www.unlawfulassembly.com,-96.8267889,33.078317
+b212b659-6819-42c5-b5f2-93e735486d10,Under The Radar Brewery,micro,1506 Truxillo St,,,Houston,Texas,77004-3960,United States,7133202766,http://www.undertheradarbrewery.com,-95.37594,29.734192
+e8bb776f-eaeb-4132-ac76-54d9c5f4c8ec,Union Bear Brewing Co.,brewpub,5880 State Highway 121 Ste 101,,,Plano,Texas,75024,United States,2142972337,http://www.unionbear.com,-96.821058,33.090333
+eddf1dc7-c32f-490f-8180-afe44f36438a,Unlawful Assembly Brewing Company,brewpub,7800 Windrose Ave,,,Plano,Texas,75024-0114,United States,9728967668,http://www.unlawfulassembly.com,-96.825729,33.080955
+a724ba68-bada-4f8e-b9be-19b67c975043,Urban South Brewery - HTX,taproom,1200 Oliver St,,,Houston,Texas,77007,United States,,,-95.384759,29.770649
+95fe113a-5aad-422a-a791-5cc406a6f147,Vacancy Brewing,micro,415 E St Elmo Rd 1-D2,,,Austin,Texas,78745,United States,5122849083,http://vacancybrewing.com,-97.7972,30.2074
 be1fa1c4-ec5e-4cde-bf24-96858b2bc560,Vallensons Brewing Co.,micro,4081 Rice Drier Road,,,Pearland,Texas,77581,United States,2817054063,http://www.vallensons.com,-95.28716205,29.57569295
+2bfcc2f6-1890-4200-b69c-cce6a243fb7b,Vector Brewing,brewpub,9850 Walnut Hill Ln Ste 405,,,Dallas,Texas,75238,United States,4696760797,http://www.vectorbrewing.com,-96.71641,32.878719
 c09360db-487f-487c-9c6b-d3acca6cef44,Vista Brewing,brewpub,13551 Ranch To Market Rd 150,,,Driftwood,Texas,78619,United States,5127661842,http://www.vistabrewingtx.com,,
-2e8178de-963e-47fe-bb90-55cd67f2224c,Weathered Souls Brewing Co.,brewpub,606 Embassy Oaks Ste 500,,,San Antonio,Texas,78216-1501,United States,7047706605,http://www.weatheredsouls.beer,,
+232fd305-3c2b-4082-a434-9644d490856b,Waco Ale Company,brewpub,806 Austin Avenue,,,Waco,Texas,76701,United States,2543017777,http://www.wacoaleco.com,-97.134454,31.554007
+5068fcc1-496c-4336-a996-0883fd0841f0,Walking Beam Brewing Co,brewpub,1019 Halsell St TX  76426,,,Bridgeport,Texas,76426-3029,United States,5123374573,http://www.rxno22.com,-97.7573,33.2105
+7d6fddd5-4e03-46ff-a0b5-9dcc5eca3ce9,Walking Stick Brewing Company,taproom,956 Judiway St.,,,Houston,Texas,77018-5300,United States,7133001866,http://www.walkingstickbrewing.com,-95.423388,29.820969
+83a61ff7-289d-4185-a8bb-81904452e7eb,Wandering Mind,taproom,130 South Oakes Street,,,San Angelo,Texas,76903,United States,2102683243,http://wanderingmindbrewery.com,-100.434164,31.462173
+2e8178de-963e-47fe-bb90-55cd67f2224c,Weathered Souls Brewing Company LLC,brewpub,606 Embassy Oaks Ste 500,,,San Antonio,Texas,78216-1501,United States,7047706605,http://www.weatheredsouls.beer,-98.489177,29.564698
 9fa40256-171d-4372-ab21-1d87863f677c,Weilbacher Brewery,planning,,,,New Braunfels,Texas,78130-5104,United States,5126637507,http://www.weilbacherbeer.com,,
+468111c0-66d0-47ce-a9dd-32bfdc32a227,Westcave Cellars Winery & Brewery,taproom,683 Ranch Rd 1320,,,Johnson City,Texas,78636,United States,5124311403,http://www.westcavecellars.com,-98.546439,30.254096
 00950932-b737-4232-a18b-84106a891c93,Westlake Brewing Company,planning,,,,Dallas,Texas,75226-1607,United States,8779942337,http://www.westlakebeer.com,,
-ee5bf449-cae4-4ae4-a626-faa1d2ea35b5,White Rock Alehouse & Brewery,brewpub,"7331 Gaston Ave, Suite 100",,,Dallas,Texas,75214,United States,2149897570,http://www.whiterockalehouse.com,,
-ff1c0781-35f7-4018-92cd-49ce65148a84,Whitestone Brewery,micro,601 E Whitestone Blvd Ste 500,,,Cedar Park,Texas,78613-9046,United States,5127654828,http://www.whitestonebrewery.com,,
+ee5bf449-cae4-4ae4-a626-faa1d2ea35b5,White Rock Alehouse & Brewery,brewpub,"7331 Gaston Ave, Suite 100",,,Dallas,Texas,75214,United States,2149897570,http://www.whiterockalehouse.com,-96.72998,32.812054
+ff1c0781-35f7-4018-92cd-49ce65148a84,Whitestone Brewery,taproom,601 E Whitestone Blvd Ste 500,,,Cedar Park,Texas,78613-9046,United States,5127654828,http://www.whitestonebrewery.com,-97.824528,30.523599
 bb868abb-212b-4862-a8b2-0077272c9dfc,Whitis AleWorks,planning,,,,Houston,Texas,77069-3424,United States,,,,
-b024ba44-162a-4194-b8b8-84c0085a58f6,Whole Foods Market Brewing Company,micro,1700 Post Oak Blvd Ste 1G101,,,Houston,Texas,77056-3963,United States,7133460537,https://www.wholefoodsmarket.com/,,
-529115d6-8c65-4eca-832a-72a3029ca483,Wichita Falls Brewing Co.,micro,701 Indiana Ave,,,Wichita Falls,Texas,76301,United States,9402644677,http://www.wichitafallsbrewing.com,-98.491525,33.913486
+b024ba44-162a-4194-b8b8-84c0085a58f6,Whole Foods Market Brewing Company,taproom,1700 Post Oak Blvd Ste 1G101,,,Houston,Texas,77056-3963,United States,7132625284,,-95.462234,29.74922
+529115d6-8c65-4eca-832a-72a3029ca483,Wichita Falls Brewing Co.,brewpub,701 Indiana Ave,,,Wichita Falls,Texas,76301,United States,9402644677,http://www.wichitafallsbrewing.com,-98.491299,33.913477
 47595081-be0f-41ac-a459-888cef7be9d2,Wicked Boxer Brewing,brewpub,16326 Mueschke Rd # E10,,,Cypress,Texas,77433-4953,United States,2819781866,http://www.wickedboxer.com,-95.7172092,29.9809872
-12f151b7-f74b-42cc-a748-76c4afbd5b17,Wild Acre Brewing Company,micro,1734 E El Paso St Ste 190,,,Fort Worth,Texas,76102-6773,United States,8178829453,http://www.wildacrebrewing.com,,
+12f151b7-f74b-42cc-a748-76c4afbd5b17,Wild Acre Brewing Company,micro,1734 E El Paso St Ste 190,,,Fort Worth,Texas,76102-6773,United States,8172711659,http://www.wildacrebrewing.com,-97.307819,32.744201
+0f72c3a9-f209-48c6-a32c-77d6bc1c8ce4,Wild Acre Brewing Company - Camp Bowie,brewpub,6479 Camp Bowie Blvd,,,Fort Worth,Texas,76116,United States,8178829453,,-97.426159,32.723032
 d400391b-6fe4-4cab-985a-193ca079f4d3,"Wild Bunch Brewing Co, LLC",brewpub,110 E 7TH ST STE 301,,,Georgetown,Texas,78626,United States,5123983633,http://www.wildbunchbrewing.beer,,
+02799584-6da2-4aa6-8b31-4885f017fbaa,"Wild Bunch Brewing Co, LLC",taproom,1764 Taylorsville Rd,,,Red Rock,Texas,78662,United States,5123983633,http://www.wildbunchbrewing.beer,-97.4454,29.869439
 a2176552-f292-415f-ba05-609e7e484897,Wimberley Brewing Co & Brewsters Pizza,brewpub,9595 Ranch Road 12 Ste 10,,,Wimberley,Texas,78676-5248,United States,5128473299,http://www.wimberlybrewingcompany.com,,
+4c2df79f-c16d-4635-9242-e80e2c0de40b,Windmills,brewpub,5755 Grandscape Blvd,,,The Colony,Texas,75056,United States,9727776770,,-96.861086,33.076969
 97d5fb29-b30d-453a-9d47-f0351366f49d,Woodcreek Brewing Company,micro,1400 E Interstate 30 Ste A,,,Rockwall,Texas,75087-6234,United States,9725890048,http://www.woodcreekbrewing.com,,
 b39f4d9c-8aa9-48d9-9c07-e26da7557ea3,Yaxx Brewing Company,planning,,,,Waco,Texas,76712-3284,United States,8014730669,,,
 1d15aa31-6d4c-42c7-b5c7-e0d3fe314e1b,Zero One Ale House,brewpub,20 W Beauregard Ave,,,San Angelo,Texas,76903-5833,United States,3256535123,,-100.4372363,31.46245419
-8a0343e4-8195-47f0-927d-c6cc751fe88e,Zilker Brewing Co,micro,1701 E 6th St,,,Austin,Texas,78702-2701,United States,5127654946,http://www.zilkerbeer.com,-97.7245745,30.2621507
+d7f8a89d-eaed-48d3-886b-331251484f2d,Zero One Brewing Company,brewpub,20 W Beauregard Ave,,,San Angelo,Texas,76903,United States,3256535123,,-100.437697,31.462667
+8a0343e4-8195-47f0-927d-c6cc751fe88e,Zilker Brewing Company,micro,1701 E 6th St,,,Austin,Texas,78702-2701,United States,5127654946,http://www.zilkerbeer.com,-97.724567,30.262088
+9a40dec6-b083-4f34-bf50-25ad08a3bf5e,Zoch Brewing Company LLC - Giddings Brewhaus DBA,brewpub,199 N Burleson St,,,Giddings,Texas,78942,United States,9795400410,http://www.giddingsbrewhaus.com,-96.938442,30.183527

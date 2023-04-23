@@ -1,32 +1,54 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-ea5535e7-94e9-4c24-baa4-32b15b495c8b,Apponaug Brewing,brewpub,334 Knight St,,,Warwick,Rhode Island,02886,United States,4016814321,http://www.apponaugbrewing.com,-71.4691256,41.7265254
+ea5535e7-94e9-4c24-baa4-32b15b495c8b,Apponaug Brewing Company,brewpub,334 Knight St,,,Warwick,Rhode Island,02886-1286,United States,4016814321,http://www.apponaugbrewing.com,-71.470315,41.727023
 a8a27ab9-3403-4fa9-a852-ceb6fe938af4,Beer On Earth,micro,425 W Fountain St #104,,,Providence,Rhode Island,02903,United States,4018850580,http://www.beeronearth.com,-71.4238514,41.8189698
+4671c6b2-500c-4ddb-81be-41d7ee0960a1,Beer On Earth,taproom,425 W Fountain St Ste 104,,,Providence,Rhode Island,02903,United States,5083305937,http://www.beeronearth.com,-71.423823,41.819191
+fb27716e-64ac-45bb-a3b7-7d0a12821631,Bravo Brewing Company,taproom,75 Pascoag Main Street,,,Pascoag,Rhode Island,02859,United States,4013384217,http://www.bravobrewingcompany.com,-71.701723,41.956313
 1b93afb3-f335-4c76-b247-16021324c687,Brutopia Brewery and Kitchen,brewpub,505 Atwood Ave,,,Cranston,Rhode Island,02920-5327,United States,4014648877,http://www.brutopiabrewery.com,-71.47169613,41.78983825
-7499d5f1-3dee-4207-a073-aea0d069ea6b,Buttonwoods Brewery,micro,530 Wellington Ave Ste 22,,,Cranston,Rhode Island,02910-2997,United States,4014612337,http://www.buttonwoodsbrewery.com,-71.4263784,41.7731564
-c8e457a7-0753-4e02-a20e-cda524635a0e,Coddington Brewing Co,brewpub,210 Coddington Hwy,,,Middletown,Rhode Island,02842-4884,United States,4018476690,https://coddbrew.com,-71.3049167,41.51869514
-59c2cac1-d48e-4ee3-bbea-8d19cc1cfcbe,Crooked Current Brewery,micro,560 Mineral Spring Ave Ste 2-112,,,Pawtucket,Rhode Island,02860-8612,United States,4014738312,http://www.crookedcurrentbrewery.com,-71.4057415,41.8726983
-3e01b66a-8c7c-41f1-aa78-d019fe805ce7,Foolproof Brewing Company,micro,241 Grotto Ave,,,Pawtucket,Rhode Island,02860-3403,United States,4017215970,http://www.foolproofbrewing.com,-71.41017837,41.86939069
-72ca0074-8bfb-4c8e-93c3-d37f82916ef3,Grey Sail Brewing Co. LLC,micro,63 Canal St,,,Westerly,Rhode Island,02891-1552,United States,4102127592,http://www.greysailbrewing.com,-71.832459,41.385011
+7499d5f1-3dee-4207-a073-aea0d069ea6b,Buttonwoods Brewery,taproom,530 Wellington Ave Ste 22,,,Cranston,Rhode Island,02910-2997,United States,4014612337,http://www.buttonwoodsbrewery.com,-71.426646,41.772787
+c8e457a7-0753-4e02-a20e-cda524635a0e,Coddington Brewing Co,brewpub,210 Coddington Hwy,,,Middletown,Rhode Island,02842-4884,United States,,,-71.305783,41.518617
+59c2cac1-d48e-4ee3-bbea-8d19cc1cfcbe,Crooked Current Brewery,taproom,560 Mineral Spring Ave Ste 2-112,,,Pawtucket,Rhode Island,02860-8612,United States,4014738312,http://www.crookedcurrentbrewery.com,-71.406122,41.872249
+3e01b66a-8c7c-41f1-aa78-d019fe805ce7,Foolproof Brewing Company,micro,241 Grotto Ave,,,Pawtucket,Rhode Island,02860-3403,United States,4017215970,http://www.foolproofbrewing.com,-71.408576,41.870579
+72ca0074-8bfb-4c8e-93c3-d37f82916ef3,Grey Sail Brewing Co. LLC,micro,63 Canal St,,,Westerly,Rhode Island,02891-1552,United States,4102127592,http://www.greysailbrewing.com,-71.832297,41.384878
+9f3231b3-471e-4a89-bf21-ad295430b428,Hive Brewing Company,alt prop,61 Canal St,,,Westerly,Rhode Island,02891,United States,,http://https://www.hive.beer/,-71.832278,41.384919
+635005ee-4800-4ff6-a77f-b91f40a80439,Isle Brewers Guild,taproom,461 Main Street,,,Pawtucket,Rhode Island,02860,United States,4012634435,http://www.Islebrewers.com,-71.389095,41.876787
 0623e420-0d84-46f5-a662-9937ed33799b,LineSider Brewing,micro,1485 S County Trl,,,East Greenwich,Rhode Island,02818,United States,4013987700,https://linesiderbrewing.com,-71.4977115,41.6562569
-47e1f46b-e172-4f32-882b-c7bdf619fffb,Long Live Beerworks,micro,40R Sprague St,,,Providence,Rhode Island,02907-2578,United States,,http://www.longlivebeerworks.com,-71.4260511,41.8093019
+47e1f46b-e172-4f32-882b-c7bdf619fffb,Long Live Beerworks,taproom,40R Sprague St,,,Providence,Rhode Island,02907,United States,,http://www.longlivebeerworks.com,-71.425959,41.809235
+07734988-c319-4da8-8ff9-cd6a90eb474d,Lops Brewing,taproom,122 N Main St,,,Woonsocket,Rhode Island,02895,United States,7742190538,http://www.lopsbrewing.com,-71.514069,42.007139
 87ed7ff9-556b-4b20-aa67-282b4db14fd6,Mohegan Cafe and Brewery,brewpub,213 Water St,,,Block Island,Rhode Island,02807,United States,4014665911,https://monheganbrewing.com,-69.32038438,43.7594709
 62009eb2-a83b-4535-8205-1b5a9ed86aef,Moniker Brewery,micro,432 W Fountain St,,,Providence,Rhode Island,02903-3516,United States,4016480150,http://www.monikerbrewery.com,-71.4239298,41.8183971
+6dfbd9e4-3616-4220-8686-eacb359cea0b,Moniker Brewery,taproom,432 W. Fountain Street,,,Providence,Rhode Island,02908,United States,5712188541,http://www.monikerbrewery.com,-71.424113,41.818532
+29d69ef0-65de-402a-a98f-7c6db6ae5271,Narragansett Brewing Co,office only location,271 Tockwotton St,,,Providence,Rhode Island,02903,United States,4014378970,http://www.narragansettbeer.com,-71.389881,41.818844
+6812030a-d789-4578-aa72-5e5d43554381,Narragansett Brewing Co,regional,271 Tockwotten St,,,Providence,Rhode Island,02912,United States,,,-71.390448,41.818477
 f30c94db-0f97-492d-be18-e0e0d362e360,Narragansett Brewing Co - Pawtucket,regional,461 Main St,,,Pawtucket,Rhode Island,02860-2913,United States,4014378970,http://www.narragansettbeer.com,-71.38847715,41.87668875
-29d69ef0-65de-402a-a98f-7c6db6ae5271,Narragansett Brewing Co - Providence,brewpub,271 Tockwotton St,,,Providence,Rhode Island,02903-4356,United States,4014378970,http://www.narragansettbeer.com,-71.3904225,41.8185153
-a3649b1f-6f4d-47f4-b4e6-572cef4b510b,Newport Craft Bewing & Distilling Co,micro,293 JT Connell Hwy,,,Newport,Rhode Island,02840,United States,4018495232,https://newportcraft.com,-71.3159781,41.5140254
+a3649b1f-6f4d-47f4-b4e6-572cef4b510b,Newport Craft Brewing and Distilling,micro,293 JT Connell Hwy,,,Newport,Rhode Island,02840,United States,4018495232,http://www.newportcraft.com,-71.315704,41.513896
+2050984b-7693-4c4c-9036-1f98ec6047b8,Norey's Brewpub,brewpub,156 Broadway,,,Newport,Rhode Island,2840,United States,,http://noreysbrewpub.com,-71.30966,41.493901
+bb11774b-045d-4a93-96a1-0a351c13503c,Origin Beer Project,alt prop,530 Wellington Ave,,,Cranston,Rhode Island,02910,United States,4013073236,http://www.originbeerproject.com,-71.426646,41.772787
+2ce06fd4-d1a8-49a4-a5f8-cd9a0b9a8a50,Pivotal Brewing Company,taproom,"500 Wood St, Unit 111",,,Bristol,Rhode Island,02809,United States,5084541667,http://www.pivotalbrewing.com,-71.271615,41.672908
 3a56defa-55f4-47b9-8237-b3f98bf1064a,Proclamation Ale Company,micro,298 Kilvert St,,,Warwick,Rhode Island,02886,United States,4017876450,http://www.proclamationaleco.com,-71.445959,41.730117
 0c115e76-1940-4b64-ba13-c903d95f0aed,Providence Brewing Company,micro,10 Sims Ave Unit 110,,,Providence,Rhode Island,02909-1165,United States,4013491260,https://providencebrewingcompany.com,-71.4335016,41.8270445
+776b1682-fb41-4827-8c51-5071a278bcb3,Providence Brewing Company,taproom,10 Sims Avenue,,,Providence,Rhode Island,02909,United States,4013491260,http://www.pvdbc.com,-71.433411,41.826854
 8295ba7b-4f06-4370-995d-ebacaffea398,Ragged Island Brewing Company,micro,54 Bristol Ferry Rd,,,Portsmouth,Rhode Island,02871,United States,4013182991,http://www.raggedislandbrewing.com,-71.25695,41.616314
-f1f6a6cd-33f5-4675-9d9d-21ed6c823eab,Ravenous Brewing Company,micro,10 Industrial Rd,,,Cumberland,Rhode Island,02864,United States,4012165331,http://www.ravenousbrew.com,-71.401044,41.953531
+e8d019ac-bea9-40b2-ad15-5153229a7891,Ragged Island Brewing Company,taproom,54 Bristol Ferry Road,,,Portsmouth,Rhode Island,02871,United States,4013182991,http://www.raggedislandbrewing.com,-71.260562,41.616112
+f1f6a6cd-33f5-4675-9d9d-21ed6c823eab,Ravenous Brewing Company,taproom,10 Industrial Rd,,,Cumberland,Rhode Island,02830,United States,4012165331,http://www.ravenousbrew.com,-71.401023,41.953499
+3db8873b-d080-4f3b-b3da-5b7bfa6c0cc6,Rejects Beer Co.,taproom,124 aquidneck avenue,,,Middletown,Rhode Island,02842,United States,3154400168,http://www.RejectsBeerCo.com,-71.284602,41.492889
 717f5bb4-5c1c-4096-a1e4-366754c455be,Revival Brewing,proprietor,505 Atwood Ave,,,Cranston,Rhode Island,02920-5327,United States,4013727009,http://www.revivalbrewing.com,-71.47169613,41.78983825
-9ec301b9-5b19-4277-9c8c-4b59576ae1c9,"Shaidzon Beer Company, LLC",micro,141 Fairgrounds Rd.,,,West Kingston,Rhode Island,02892,United States,4013148730,http://www.shaidzonbeerco.com,-71.56763232,41.48127985
-879d1388-aaf4-43be-b148-c768b7bf7b08,Smug Brewing Company,micro,100 Carver St,,,Pawtucket,Rhode Island,02860,United States,4016425701,https://smugbrewing.com,-71.3987677,41.8598033
-f4f2d543-ddd8-4b3d-9781-d0061c7f30fb,Sons of Liberty Beer & Spirits Co.,micro,1425 Kingstown Rd,,,Wakefield,Rhode Island,02879-8313,United States,4012844006,http://www.solspirits.com,-71.50525999,41.4545347
-83368eeb-c75a-4d38-832a-91ab2d501b3d,Taproot Brewing Co / Newport Vineyards,micro,909 E Main Rd,,,Middletown,Rhode Island,02842-5529,United States,4018485161,https://www.taprootbeer.com,-71.2726634,41.5293214
+0785e297-bdc9-4f13-a299-461d6c4e050c,Revival Foodworks and Brewery,brewpub,50 Sims St,,,Cranston,Rhode Island,02909,United States,4013727009,http://www.revivalbrewing.com,-71.432452,41.826167
+9ec301b9-5b19-4277-9c8c-4b59576ae1c9,Shaidzon Beer Company,taproom,141 Fairgrounds Rd.,,,West Kingston,Rhode Island,02892,United States,4018293147,http://www.shaidzonbeerco.com,-71.565535,41.481995
+ee8cc153-5fcc-49d6-9e59-6a46bad38edc,Shebeen Brewing Company,micro,241 Grotto Avenue,,,Pawtucket,Rhode Island,02860,United States,2035142336,http://www.shebeenbrewing.com,-71.408719,41.870144
+eccc5252-4b7a-4a77-8078-7f4265030a1c,Six Pack Brewing,taproom,87-1 Gooding Ave,,,Bristol,Rhode Island,02809,United States,4012554071,http://6packbrewing.com,-71.269977,41.693852
+879d1388-aaf4-43be-b148-c768b7bf7b08,Smug Brewing,taproom,100 Carver St,,,Pawtucket,Rhode Island,02860,United States,4016425701,http://www.smugbrewing.com,-71.3887,41.8727
+f4f2d543-ddd8-4b3d-9781-d0061c7f30fb,Sons of Liberty Beer & Spirits Co.,taproom,1425 Kingstown Rd,,,Wakefield,Rhode Island,02879-8313,United States,4012844006,http://www.drinksol.com,-71.505364,41.45508
+83368eeb-c75a-4d38-832a-91ab2d501b3d,Taproot Brewing Co / Newport Vineyards,taproom,909 E Main Rd,,,Middletown,Rhode Island,02842-5529,United States,4018485161,http://www.newportvineyards.com,-71.27226,41.529318
+4e788089-5f47-42fa-9860-0c5c19a522c4,The General's Crossing Brewhouse,taproom,34 Narragansett Ave,,,Jamestown,Rhode Island,02835,United States,4015249359,http://www.generalscrossing.com,-71.369803,41.496562
 c4320b4a-ef3c-4700-8ce3-26cf9c624099,The Guild Brewing Co - Pawtucket Beer Hall,brewpub,461 Main St,,,Pawtucket,Rhode Island,02860-2913,United States,4017241241,https://www.theguildpawtucket.com,-71.3890045,41.8767586
 c948fdb4-2d63-4bf2-9da8-0e0d37038136,The Guild Brewing Co - Warren,brewpub,99 Water St Ste2,,,Warren,Rhode Island,02885,United States,4012524275,https://www.theguildwarren.com,-71.28731013,41.73399952
-62e08b27-ce3d-49a3-b579-70819bb13baf,Tilted Barn Brewery,micro,1 Helmsley Pl,,,Exeter,Rhode Island,02822-3740,United States,4018296088,http://www.tiltedbarnbrewery.com,-71.523075,41.554186
-792bd285-3d5f-4594-b5a0-4a212cd36219,Trinity Brewhouse,brewpub,186 Fountain St,,,Providence,Rhode Island,02903-1813,United States,4014532337,http://www.trinitybrewhouse.com,-71.4168238,41.8223638
-6fba2263-8f73-4ed4-805f-d25d63f18cde,Union Station Brewery,brewpub,36 Exchange Ter Ste 2,,,Providence,Rhode Island,02903-1798,United States,4012742739,https://www.unionstationpvd.com,-71.414009,41.825558
+0d2a3a0e-57f3-48e6-a419-7e7fe113fd20,The Guild Warren,brewpub,99 Water St,,,Warren,Rhode Island,02885,United States,,http://www.theguildri.com,-71.286944,41.734389
+62e08b27-ce3d-49a3-b579-70819bb13baf,Tilted Barn Brewery,taproom,1 Helmsley Pl,,,Exeter,Rhode Island,02822-3740,United States,4018296088,http://www.tiltedbarnbrewery.com,-71.518614,41.570372
+792bd285-3d5f-4594-b5a0-4a212cd36219,Trinity Brewhouse,brewpub,186 Fountain St,,,Providence,Rhode Island,02903-1813,United States,4014532337,http://www.trinitybrewhouse.com,-71.416753,41.822404
+23e18303-eff7-4fd0-8c7f-2bbef94619ba,Twelve Guns Brewing,taproom,549 Metacom Ave,,,Bristol,Rhode Island,02809,United States,4013969009,http://www.twelvegunsbrewing.com,-71.263654,41.691733
+6fba2263-8f73-4ed4-805f-d25d63f18cde,Union Station Brewery,brewpub,36 Exchange Ter Ste 2,,,Providence,Rhode Island,02903-1798,United States,4012742739,http://www.unionstationpvd.com,-71.413944,41.825559
+b8bacd95-81ad-4175-8dbc-8f271181cf61,Vigilant Brewing,taproom,44 Ballou Blvd,,,Bristol,Rhode Island,02809,United States,4014471053,http://www.vigilantbrewing.com,-71.268903,41.702723
 3107d918-5bae-4a9f-a834-3592199dffc5,West Passage Brewing Co,micro,7835 Post Rd,,,North Kingstown,Rhode Island,02852-2911,United States,4016619662,http://www.westpassagebrewing.com,-71.4592129,41.5849618
+cd0e5e76-f4c3-4ee9-abfe-0cb50fcad876,West Passage Brewing Company,brewpub,7835 Post Road N,,,Kingstown,Rhode Island,02852,United States,4015854342,http://www.westpassagebrewing.com,-71.459172,41.585142
 ee09ef76-e626-48ba-8eeb-47b57db63388,Whalers Brewing Company,micro,1174 Kingstown Rd,,,South Kingstown,Rhode Island,02879-8316,United States,4015520002,https://whalers.com,-71.49706731,41.4506997
+7e0e7d3e-67e9-49c2-a51c-68e5a1638006,Whalers Brewing Company,regional,1174 KINGSTOWN RD UNIT 1,,,Wakefield,Rhode Island,02879-8301,United States,4015520002,http://https://whalers.com,-71.497497,41.450837

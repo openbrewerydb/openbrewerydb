@@ -1,304 +1,502 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-950180bd-29c9-46b3-ad0c-e6f09799ec7f,13 Below Brewery,micro,7391 Forbes Rd,,,Cincinnati,Ohio,45233-1013,United States,5139750613,http://www.13belowbrewery.com,-84.70634815,39.12639764
-85192a9c-58a4-48c3-bd9d-496d09d22aa3,16 Lots Brewing,brewpub,753 Reading Rd,,,Mason,Ohio,45040-1303,United States,5134863672,http://www.16lots.com,-84.3183801,39.3545967
+950180bd-29c9-46b3-ad0c-e6f09799ec7f,13 Below Brewery,taproom,7391 Forbes Rd,,,Cincinnati,Ohio,45233-1013,United States,5139750613,http://www.13belowbrewery.com,-84.707241,39.126821
+107adc38-96b8-441b-9a5b-423ca9980152,1487 Brewery,taproom,7620 Industrial Parkway,,,Plain City,Ohio,43064,United States,6145361487,http://www.1487brewery.com,-83.192467,40.12241
+85192a9c-58a4-48c3-bd9d-496d09d22aa3,16 Lots Brewing,brewpub,753 Reading Rd,,,Mason,Ohio,45040-1303,United States,5134863672,http://www.16lots.com,-84.326086,39.3493
+49250ee1-9351-4561-ab28-4512c241379c,1803 Brewery and Taproom,taproom,123 Harding Way East,,,Galion,Ohio,44833-1902,United States,5673939394,,-82.788404,40.733503
+a5baae55-a986-4f5e-99e8-df3f9e3e92b3,1820 BrewWerks,brewpub,105 W Main St,,,Kalida,Ohio,45853,United States,5673760991,http://www.1820brewwerks.com,-84.202105,40.981487
 836cb05e-ee8f-4798-859e-fe0bedb0186a,2 Tones Brewing Co.,micro,4539 E Broad St,,,Whitehall,Ohio,43213-1308,United States,,http://www.2tonesbrewingco.com,-82.9118174,40.0030689
-53efe9e9-dbb3-4c98-ab77-61515abef2a9,4kd Crick Brewery,brewpub,211 Carpenter Rd,,,Defiance,Ohio,43512-1718,United States,4199562863,http://Www.4kdcrickbrewery.com,-84.341647,41.296252
+11f548d5-e48e-4fe5-891b-0b251cba8705,2 Tones Brewing Co.,taproom,4539 E Broad St,,,Columbus,Ohio,43213-1361,United States,7404120845,http://www.2tonesbrewingco.com,-82.880677,39.975149
+53efe9e9-dbb3-4c98-ab77-61515abef2a9,4kd Crick Brewery,brewpub,211 Carpenter Rd,,,Defiance,Ohio,43512-1718,United States,4199562863,http://Www.4kdcrickbrewery.com,-84.337552,41.294745
+5e0e1b24-b6dc-4ab9-abdb-7366a3202f72,5 Barrel Bullet Brewing Company,taproom,1690 East High Ave.,,,New Philadelphia,Ohio,44663,United States,,,-81.420021,40.473032
+abac2e07-6d2b-4350-8f5c-2ef748b2c27e,60cc Brewing,taproom,2113 N Reynold Rd,,,Toledo,Ohio,43615,United States,,http://www.60ccbrewing.com,-83.667823,41.660604
+bcf5d99d-04bf-4722-843e-0dd0ca48e3c3,77 Brew House,taproom,21 Canal Street,,,Navarre,Ohio,44662,United States,2344104420,http://www.77brewhouse.com,-81.523859,40.719474
 ea7f7091-5e37-4762-bbcc-9a51702c99c1,"Actual Brewing Company, LLC",micro,655 N James Rd,,,Columbus,Ohio,43219-1837,United States,6146363825,http://wwww.actualbeer.com,-82.9080986,39.9868523
-d4f4e76b-b971-4dcb-8a9b-d6c36a3e8c22,Akronym Brewing LLC,micro,58 E Market St,,,Akron,Ohio,44308,United States,3306208274,http://www.akronymbrewing.com,-81.51645882,41.08512193
+1bdbda16-c8e6-495b-91fd-e8f25e87308a,Aeonian Brewing Company,brewpub,120 W Chestnut St,,,Alliance,Ohio,44601-4733,United States,,,-81.107427,40.900707
+a371a4e5-deaa-4783-a147-ed236ea63220,Aistear Brewing,taproom,1037 N Main St,,,Bowling Green,Ohio,43402,United States,4196063478,http://https://facebook.com/aistearbrewing/,-83.65105,41.388484
+d4f4e76b-b971-4dcb-8a9b-d6c36a3e8c22,Akronym Brewing LLC,brewpub,58 E Market St,,,Akron,Ohio,44308-2002,United States,3306208274,http://www.akronymbrewing.com,-81.515939,41.084636
+37c316e5-4ce8-4123-b5d8-01b1cadb0d53,Akronym Public House,brewpub,5121 Buehlers Drive,,,Medina,Ohio,44256,United States,,,-81.814273,41.134708
 f1e3ff3e-078c-46c3-85ae-62f86d3a3a21,Alematic Artisan Ales,planning,,,,Huber Heights,Ohio,45424-3857,United States,9376122337,http://www.alematicbrewing.com,,
+dfa44eef-4634-4d7c-95c6-6471c4983a9c,Alematic Artisan Ales,taproom,6182 Chambersburg Rd,,,Huber Heights,Ohio,45424-3857,United States,9376122337,http://www.alematicbrewing.com,-84.117031,39.846941
 2360f91c-60cb-402c-ad58-3eb638859f4c,Anheuser-Busch Inc â Columbus,large,700 Schrock Rd,,,Columbus,Ohio,43229-1123,United States,6148886644,,-82.99307,40.102197
-1c215e2f-7a58-46ce-88cc-241bd3d39482,Antiques on High,micro,714 S High St,,,Columbus,Ohio,43206,United States,614-725-2070,https://www.antiquesonhigh.com/,-82.99774,39.9476
+1c215e2f-7a58-46ce-88cc-241bd3d39482,Antiques On High,micro,714 S High St,,,Columbus,Ohio,43206,United States,,http://www.antiquesonhigh.com,-82.997622,39.947586
 fc2ce5e0-8796-4749-9aba-8710cd557ccb,Aqueduct Brewing,micro,529 Grant St Ste 106,,,Akron,Ohio,44311-1184,United States,3306066583,http://www.aqueductbrewing.shutterfly.com,-81.51788487,41.0698532
+f4a102ef-c058-4d66-9b30-e3bade3ca214,Arlyn's Good Beer,taproom,520 Hankey Ave.,,,Bowling Green,Ohio,43402,United States,4192662071,,-83.657253,41.373135
+20489391-30a4-4a73-83fd-c2f0d4dc071e,Arrogant Goat Brewing,brewpub,125A E Rensselaer St,,,Bucyrus,Ohio,44820-2321,United States,,,-82.9744,40.8074
+f1024d36-9ee9-4fb0-9159-e6fcdfbd05b9,Avon Brewing Company,brewpub,37040 Detriot Road,,,Avon,Ohio,44011,United States,4409371816,http://avonbrewingcompany.com,-82.035575,41.451793
+f8003658-e0fb-4954-82c5-5fdf7cbc3c54,Avon Brewing Company Presents ZZ's Big Top,brewpub,35015 Detriot Road,,,Avon,Ohio,44011,United States,4406950536,http://www.zzsbigtop.com,-82.000361,41.453288
 ccb3350f-eade-47d0-8fa7-351d20ead048,Bad Tom Smith Brewing,micro,4720 Eastern Ave,,,Cincinnati,Ohio,45226-1893,United States,5138714677,http://www.badtomsmithbrewing.com,-84.41803086,39.11995755
 1630747e-8c36-4a34-9531-02d6b5ac2a28,Bad Tom Smith Brewing,brewpub,1836 W 25th St,,,Cleveland,Ohio,44113-3142,United States,,,-81.7051638,41.4861772
+5bd9af6b-2c91-4548-801e-2d177e14378d,Bad Tom Smith Brewing,micro,2050 Sportys Dr,,,Batavia,Ohio,45103,United States,3306176965,http://www.badtomsmithbrewing.com,-84.212791,39.073996
+25ed2047-02fe-4217-80fa-d22cf5b126cf,Bad Tom Smith Brewing,taproom,5900 Madison Rd,,,Cincinnati,Ohio,45227,United States,5138714677,,-84.392882,39.1608
+ed3a351e-5c87-4b34-97f3-2a00f5ac635a,Bait House Brewery,taproom,223 Meigs St,,,Sandusky,Ohio,44870,United States,4192715094,http://www.baithousebrewery.com,-82.702321,41.458571
 19de43df-8293-4823-b8aa-2dfb285924e8,Baithouse Brewery,planning,,,,Sandusky,Ohio,44870,United States,4193665372,http://www.baithousebrewery.com,,
 7574d2fa-b21c-48df-a206-8ea36cbc8229,Bardwell Winery and Brewery,micro,716 N High St,,,Mount Orab,Ohio,45154,United States,,http://www.bardwellwinery.com,-83.9209789,39.0419795
-80683fda-c79f-4dc1-941a-a2b4165487fe,Barley's Brewing Company (Ale House No. 1),brewpub,467 N High St,,,Columbus,Ohio,43215-2007,United States,6142282537,http://www.barleysbrewing.com,-83.0027669,39.9719408
-d73def5b-b039-4331-98b7-d84bd8a18a64,Bascule Brewery And Public House,micro,1397 Colorado Ave,,,Lorain,Ohio,44052-3377,United States,,http://www.basculebrewingcompany.com,-82.15710792,41.46560548
+80683fda-c79f-4dc1-941a-a2b4165487fe,Barley's Brewing Company (Ale House No. 1),brewpub,467 N High St,,,Columbus,Ohio,43215-2007,United States,6142282537,http://www.barleysbrewing.com,-83.002738,39.971925
+d73def5b-b039-4331-98b7-d84bd8a18a64,Bascule Brewery And Public House,taproom,1397 Colorado Ave,,,Lorain,Ohio,44052-3377,United States,4403170944,http://www.basculebrewingcompany.com,-82.157108,41.465783
+1d611a2d-0468-44bc-ad76-2ecfc0293996,Bear Vine Winery,taproom,15617 State Route 273,,,Ridgeway,Ohio,43345,United States,9373632662,,-83.585859,40.52832
+c8c66c24-8f4f-4974-b7b4-c24468a128da,Bell Tower Brewing Company,brewpub,310 Park Ave,,,Kent,Ohio,44240-2449,United States,3305546615,http://www.belltowerbrewing.com,-81.360903,41.154703
 97bb99d6-94da-4f54-8fe7-9d7d7f102556,Big Ash Brewing Company,planning,,,,Cincinnati,Ohio,45244-3244,United States,5133079688,http://www.BigAshBrewing.com,,
 ddad9761-9bd4-4dbd-a744-890c38eb61ac,Biker Brew House,micro,5700 Interstate Blvd,,,Austintown,Ohio,44515-1170,United States,,http://www.bikerbrewhouse.com,,
+c8020adc-410c-4407-9e77-5d9e83a4a3b9,Biker Brewhouse LLC,brewpub,5700 Patriot Blvd,,,Youngstown,Ohio,44515,United States,4408133283,http://www.bikerbrewhouse.net,-80.774617,41.122574
 55cf083b-d2b1-4839-878f-730d1a00fc27,BirdFish Brewing Co,micro,16 S Main St,,,Columbiana,Ohio,44408-1348,United States,3303339385,http://www.birdfishbrew.com,-80.69353036,40.888487
+d826adde-a66d-47ff-a331-9bacb20ae687,BirdFish Brewing Co,taproom,140 E Park Ave,,,Columbiana,Ohio,44408-1353,United States,3303339385,http://www.birdfishbrew.com,-80.690889,40.888898
 7f459973-0ae7-40d5-825c-a6eaa6f3843a,Black Cloister Brewing Co,brewpub,619 Monroe St,,,Toledo,Ohio,43604-1015,United States,4192141500,http://www.blackcloister.com,-83.5399665,41.6499863
-aa85b666-63af-42fd-9f3a-0484bfc6666b,Black Frog Brewing Co,micro,831 S McCord Rd,,,Holland,Ohio,43528-8746,United States,4193897136,http://www.blackfrogbrewery.com,-83.7032185,41.6171284
+aa85b666-63af-42fd-9f3a-0484bfc6666b,Black Frog Brewing Co,taproom,831 S McCord Rd,,,Holland,Ohio,43528-8746,United States,4193897136,http://www.blackfrogbrewery.com,-83.703135,41.625989
+080cfcf2-5923-452e-a14c-fa7514365c24,Blue Monkey Brewing Co.,taproom,5540 Wallings Rd,,,North Royalton,Ohio,44133,United States,4406289152,http://www.bluemonkeybrewing.com,-81.725464,41.331392
+ac742176-9479-45f4-a0cc-dc6df79be9f6,Bock Family Brewing,taproom,8150 Washington Village Dr,,,Dayton,Ohio,45458,United States,9378132000,http://www.bockfamilybrewing.com,-84.196627,39.627886
 2efab57a-8614-428d-a5e2-a6a528dd6cac,"Bookhouse Brewing, LLC.",planning,,,,Cleveland,Ohio,44113-3104,United States,4144264555,http://www.bookhouse.beer,,
-d4dc69ab-cf58-44b9-9456-cea49cf6dd35,Boss Dog Brewing,brewpub,2179 Lee Rd,,,Cleveland,Ohio,44118-2907,United States,2163212337,http://www.bossdogbrewing.com,-81.56529555,41.50030645
-a7928f72-0201-4c7e-bb72-a83016945a2e,Boston Beer Co - DBA Samuel Adams Brewing Co,regional,1625 Central Pkwy,,,Cincinnati,Ohio,45214-2423,United States,6173685000,http://www.samueladams.com,-84.5207651,39.11257
-d6317b33-57b6-4509-b4f8-d96094716eef,BottleHouse Brewery,micro,13368 Madison Ave,,,Lakewood,Ohio,44107-4840,United States,2162142120,http://www.thebottlehousebrewingcompany.com,-81.78445705,41.47721765
+28350fbe-1b8e-4822-b661-f9031db42c58,"Bookhouse Brewing, LLC.",taproom,1526 W 25th St,,,Cleveland,Ohio,44113,United States,2168624048,http://http://www.bookhouse.beer,-81.707922,41.489572
+d4dc69ab-cf58-44b9-9456-cea49cf6dd35,Boss Dog Brewing,brewpub,2179 Lee Rd,,,Cleveland,Ohio,44118-2907,United States,2163212337,http://www.bossdogbrewing.com,-81.56519,41.500204
+a7928f72-0201-4c7e-bb72-a83016945a2e,Boston Beer Co - DBA Samuel Adams Brewing Co,regional,1625 Central Pkwy,,,Cincinnati,Ohio,45214-2423,United States,6173685000,http://www.samueladams.com,-84.52332,39.114911
+d6317b33-57b6-4509-b4f8-d96094716eef,BottleHouse Brewery,taproom,13368 Madison Ave,,,Lakewood,Ohio,44107-4840,United States,2162142120,http://www.thebottlehousebrewingcompany.com,-81.784297,41.47715
 191cb275-0eda-411c-a5b8-a14d7d6b52c2,Bowling Green Beer Works,micro,322 N Grove St Ste C,,,Bowling Green,Ohio,43402-2322,United States,5122992101,,,
 81500d43-53c1-4643-a63f-4a7809e93494,Branch & Bone Artisan Ales,micro,905 Wayne Ave,,,Dayton,Ohio,45410-1247,United States,9377237608,http://www.branchandboneales.com,-84.17723419,39.75223085
-3c8d576b-ea2d-4b65-b72b-e6dad5f6451a,Brausch Brewery,micro,1030 S South St,,,Wilmington,Ohio,45177-2924,United States,9373022337,,-83.83091585,39.43274712
+3c8d576b-ea2d-4b65-b72b-e6dad5f6451a,Brausch Brewery,taproom,1030 S South St,,,Wilmington,Ohio,45177-2924,United States,9373022337,,-83.831171,39.431134
+014b7c03-6512-4147-ab10-3b1a5de2d819,Braxton Brewing Company,taproom,331 E 13th St,,,Cincinnati,Ohio,45202,United States,8592615600,,-84.508716,39.110068
 3595f655-43bc-4516-bad6-6b761f21715a,Breaking Point Brewery,micro,,,,Cleveland Heights,Ohio,44121-1706,United States,2162357411,,,
+bb3fcee1-01b5-47df-95d4-bcbb8f9701d1,Brew Kettle - Hudson,brewpub,11 Atterberry Blvd Ste 1,,,Hudson,Ohio,44236,United States,4402398788,,-81.445818,41.240613
 faf1bc0d-9c9d-4297-95cc-40f669107751,Brew Kettle - Production Works,micro,20102 Progress Dr,,,Strongsville,Ohio,44149-3259,United States,,,-81.84994566,41.32637626
-5bf2b773-e8ae-4849-b2f7-dfc3b4163deb,"BrewDog Brewing Company, LLC",micro,96 Gender Rd,,,Canal Winchester,Ohio,43110-7539,United States,6149083059,http://www.brewdog.com/usa,-82.8311352,39.8225954
+c56b72ad-133d-4e38-a059-0673ba79cc3b,Brew Kettle - Production Works,micro,18741 Sheldon Rd,,,Middleburg Heights,Ohio,44130,United States,,,-81.832581,41.388951
+5bf2b773-e8ae-4849-b2f7-dfc3b4163deb,"BrewDog Brewing Company, LLC",regional,96 Gender Rd,,,Canal Winchester,Ohio,43110-7539,United States,6149083051,http://www.brewdog.com/usa,-82.824802,39.847279
+bca17496-5652-4f70-8e19-4c8c10cff089,BrewDog Cleveland,location,1956 Carter Rd,,,Cleveland,Ohio,44113,United States,,http://www.brewdog.com/usa/bars/usa/cleveland,-81.697769,41.492506
 b235bb6e-ff89-4860-923a-71c5ab5f183d,Brewdog Short North & Kennels,brewpub,1175 N High St,,,Columbus,Ohio,43201,United States,614-908-3053,https://www.brewdog.com/,-83.00579,39.98637
-9c2e1d47-fae6-463d-9f85-d95d6c6e1bdc,"Brewery 33 Hocking Hills, LLC",micro,12684 College Prospect Dr,,,Logan,Ohio,43138-8983,United States,,,-82.44991565,39.54378185
-6d20287b-6572-4b77-bb8d-97068a3ba8b1,Brick and Barrel,micro,1844 Columbus Rd,,,Cleveland,Ohio,44113-2412,United States,5039270629,http://www.brickandbarrelbrewing.com,-81.7008861,41.4895629
+9c2e1d47-fae6-463d-9f85-d95d6c6e1bdc,"Brewery 33 Hocking Hills, LLC",taproom,12684 College Prospect Dr,,,Logan,Ohio,43138,United States,7403856033,http://www.br3w3ry.com,-82.450304,39.543321
+ce1f0858-2481-4835-912b-56f3c7186879,Brewing Green,taproom,322 N Grove St Ste C,,,Bowling Green,Ohio,43402-2322,United States,5122992101,,-83.65299,41.377525
+bb6a7539-262c-41e1-98f4-cb0e66019a91,BrewLounge Beer Company,taproom,115 Town Center Ave,,,Columbiana,Ohio,44408,United States,3308920080,http://www.Brewloungebeercompany.com,-80.6859,40.9053
+d3891d83-fbd6-494d-8fda-cc2325be060c,BriarBrown Brewing Company,brewpub,3564 Gordon-Landis Rd,,,Arcanum,Ohio,45304,United States,9374170565,http://www.arwinery.com,-84.515929,40.021702
+6d20287b-6572-4b77-bb8d-97068a3ba8b1,Brick and Barrel Brewing,micro,1844 Columbus Rd,,,Cleveland,Ohio,44113-2412,United States,5039270629,http://www.brickandbarrelbrewing.com,-81.70079,41.489477
+4a0250e6-fc51-4384-88f8-7efef5293f38,Brighten Brewing,taproom,1374 S. Cleveland-Mass Rd.,,,Copley,Ohio,44321,United States,3305763200,http://Brightenbrew.com,-81.644795,41.100776
 befb66c9-be92-4e98-be8c-f201b38c775c,Brim Kitchen and Brewery,brewpub,3941 Erie St,,,Willoughby,Ohio,44094-7704,United States,4402068183,http://www.brimbrewery.com,-81.40637701,41.64346969
-54028e4d-c6db-43f2-a3f8-75474a41a5d6,Brink Brewing Company,micro,5905 Hamilton Ave,,,Cincinnati,Ohio,45224-3045,United States,5138823334,http://www.brinkbrewing.com,-84.545876,39.192788
+54028e4d-c6db-43f2-a3f8-75474a41a5d6,Brink Brewing Company,taproom,5905 Hamilton Ave,,,Cincinnati,Ohio,45224-3045,United States,5138823334,http://www.brinkbrewing.com,-84.547128,39.198994
+0eb8f2e7-537a-412c-9fa3-b571a5bd3fca,Broadview Brewing Company,taproom,4001 A Towpath Road,,,Broadview Heights,Ohio,44147,United States,4406276017,http://www.broadviewbrewingcompany.com,-81.683673,41.291153
 6f687fce-bdae-4938-8ad5-3615520d9664,Brubaker's Brewery & Pub,planning,,,,Sylvania,Ohio,43560-9586,United States,,,,
 3e7df4e6-1fb8-4509-9943-124da33f3bec,Buck's Brewing Co,micro,993 Mount Vernon Rd,,,Newark,Ohio,43055-4728,United States,7406412337,,-82.41752143,40.08367829
 c2cb20bd-eb6d-40af-afef-44896bb4e3d8,Buckeye Beer Engine,brewpub,15315 Madison Ave,,,Lakewood,Ohio,44107-4020,United States,2162262337,http://www.buckeyebeerengine.com,-81.803918,41.477245
-2af8709e-55ca-41bc-8686-673157606216,Buckeye Lake Brewery,micro,5176 Walnut Rd,,,Buckeye Lake,Ohio,43008,United States,7405356225,,-82.488973,39.928559
-c7cedf0a-db47-42a9-8642-dda456d33f52,Canton Brewing Company,brewpub,120 3rd St NW,,,Canton,Ohio,44702,United States,,http://www.drinkcantonbeer.com,-81.37453867,40.7998289
-aee2380a-6178-4db4-9688-7559cc0f8c43,Carillon Brewing Company,brewpub,1000 Carillon Blvd,,,Dayton,Ohio,45409-2023,United States,9372932841,http://www.carillonbrewingco.org,-84.20121,39.730102
+2af8709e-55ca-41bc-8686-673157606216,Buckeye Lake Brewery,micro,5176 Walnut Rd,,,Buckeye Lake,Ohio,43008,United States,7405356225,,-82.482973,39.931764
+0869fcdd-7e2d-47a5-bb19-71e2a02830df,Buffalo Rock Brewing Company,taproom,345 Anthony Wayne Tr,,,Waterville,Ohio,43566,United States,5679520392,http://www.buffalorockbrewing.com,-83.72424,41.492363
+7770fc5e-c274-4e55-b2b9-b4feb0f89fb9,Bummin' Beaver Brewery,taproom,11610 Washington St,,,Chagrin Falls,Ohio,44023-9214,United States,4405439900,http://www.bumminbeaver.com,-81.223846,41.388026
+b6213409-80ce-4303-9ea6-2a1776a4497f,Bushrod Brew Works,taproom,117 East Main Street,,,Eaton,Ohio,45320,United States,9372489453,http://www.bushrodbrewworks.net,-84.635371,39.743523
+d82d5fa1-a2e8-4f99-aedd-f84b134e9147,Buzzsaw Brewing Co,micro,951 Robinwood Ave,,,Columbus,Ohio,43213,United States,,http://buzzsaw.beer,-82.896464,39.953707
+c7cedf0a-db47-42a9-8642-dda456d33f52,Canton Brewing Company,brewpub,120 3rd St NW,,,Canton,Ohio,44702,United States,,http://www.drinkcantonbeer.com,-81.374567,40.799781
+eeaa236b-4f4b-44ba-9a32-ed3f9693fba5,Carey Brewing Station,taproom,300 East Findlay St,,,Carey,Ohio,43316,United States,4193965375,http://www.careybrewingstation.com,-83.379083,40.952234
+aee2380a-6178-4db4-9688-7559cc0f8c43,Carillon Brewing Company,brewpub,1000 Carillon Blvd,,,Dayton,Ohio,45409-2023,United States,9372932841,http://www.carillonbrewingco.org,-84.199905,39.729194
+c6b812e4-0f1e-4459-9468-bf871e8a2f60,Cartridge Brewing,brewpub,1411 Grandin Road,,,Maineville,Ohio,45039,United States,,http://www.cartridgebrewing.com,-84.237939,39.347495
 476e6a16-b68f-4b13-ac67-b8774e4bfa23,Catawba Island Brewing Company,micro,2330 East Harbor Rd,,,Port Clinton,Ohio,43452-1517,United States,4199607764,http://catawbaislandbrewing.com,,
 ecbd7424-8f25-4db0-af5e-8334991c2983,Chagrin Beer Company,contract,178 E Washington St,,,Chagrin Falls,Ohio,44022-2978,United States,2166451739,,-81.38518067,41.42999722
 cee664ba-c129-45ea-a00e-8fad713dcea0,Christian Moerlein Brewing Co,regional,1621 Moore St,,,Cincinnati,Ohio,45202-6438,United States,5138276025,http://www.christianmoerlein.com,-84.51533432,39.11322509
+972ae2dd-5cb8-4f4a-acb2-9e41f4034e1a,Cincinnati Beverage Company,regional,242 W. McMicken,,,Cincinnati,Ohio,45214,United States,5137489106,,-84.522507,39.119755
+dc218ac4-62a4-4e0d-ad1d-9f3dfc7e40da,Cincy Brewing Co.,taproom,607 Shepherd Dr. Unit 6,,,Cincinnati,Ohio,45215,United States,,http://www.cincybrewingco.com,-84.463007,39.235392
+bd38f3c8-1b79-4eea-8d0a-5e7dc687f06d,Clag Brewing Co.,brewpub,218 Columbus Ave,,,Sandusky,Ohio,44870,United States,4192028199,http://www.clagbrewingco.com,-82.6906,41.4203
 252f7a2b-637c-4a90-bce9-5fab3e0d6702,CLE Brewing,micro,9431 Mercantile Dr,,,Mentor,Ohio,44060,United States,4405278330,http://www.smarterbrewing.com,-81.30644573,41.69622887
-a630d9e9-b184-4c4f-aa32-56e61cfd6c92,Cleveland Brewing Company @ Butcher and The Brewer,brewpub,2043 E 4th St,,,Cleveland,Ohio,44115-1023,United States,,,-81.690036,41.4991502
+a630d9e9-b184-4c4f-aa32-56e61cfd6c92,Cleveland Brewing Company @ Butcher and The Brewer,micro,2043 E 4th St,,,Cleveland,Ohio,44115-1023,United States,2163310805,http://butcherandthebrewer.com,-81.68998,41.499134
+9da15725-8015-4368-a443-626d4acc103f,Cloven Hoof Brewing Co,taproom,1308 Bridge St,,,Ashtabula,Ohio,44004,United States,4405364344,http://www.clovenhoofbrewing.com,-80.801443,41.898229
 81228a3c-b30b-426b-bbb4-00fcc575e858,Clubhouse Brewing Company Ltd,micro,668 N River Rd NW,,,Warren,Ohio,44483,United States,3305487854,,-80.82676867,41.26602856
 98e114d3-a3df-40c9-aab9-dc4d7b0287ce,Collision Bend Brewing Co,brewpub,1250 Old River Rd,,,Cleveland,Ohio,44113-1243,United States,2162737879,http://www.collisionbendbrewery.com,-81.7039719,41.49884829
-bbcde627-f506-4691-952b-2cf82d65addd,Columbus Brewing Co,regional,2555 Harrison Rd,,,Columbus,Ohio,43204-3511,United States,6142243626,http://www.columbusbrewing.com,-83.0692897,39.9675898
-e6bce769-14cc-4451-b15e-789526980662,Combustion Brewery,micro,80 W Church St Ste 101,,,Pickerington,Ohio,43147-1484,United States,6143628450,http://www.combustionbrewing.com,,
+bbcde627-f506-4691-952b-2cf82d65addd,Columbus Brewing Co,regional,2555 Harrison Rd,,,Columbus,Ohio,43204-3511,United States,6142243626,http://www.columbusbrewing.com,-83.069415,39.96753
+e6bce769-14cc-4451-b15e-789526980662,Combustion Brewery & Taproom,taproom,80 W Church St Ste 101,,,Pickerington,Ohio,43147-1484,United States,6143628450,http://www.combustionbrewing.com,-82.754669,39.885304
+0873ca3e-3847-43a8-b2b9-d8910abc4bca,Combustion Brewery & Taproom,taproom,2971 N High S,,,Columbus,Ohio,43202,United States,6143628450,,-83.013646,40.022416
 ef9f8a53-3e7e-4d5b-acb1-82692306aa19,Commonhouse Ales,micro,535 Short St,,,Columbus,Ohio,43215-5614,United States,6142530272,http://www.commonhouseales.com,-83.00367741,39.95045334
-d2f08212-1e67-4c5e-bd67-371a41000fa3,Cornerstone Brewing Co,brewpub,58 Front St,,,Berea,Ohio,44017-1911,United States,4402399820,,-81.85304867,41.36685385
-ec621443-0cb1-44c5-9b60-0ee49bc0b672,Cornerstone Brewing Co,brewpub,70 W  Main St,,,Madison,Ohio,44057-3126,United States,4402399820,,-81.04814066,41.77136994
-74cbeded-8edb-49ef-95a4-f0a1cb372a7e,Crooked Handle Brewing Co.,micro,760 N Main St,,,Springboro,Ohio,45066-8944,United States,9377903450,http://www.crookedhandle.com,-84.23082816,39.57664643
+d2f08212-1e67-4c5e-bd67-371a41000fa3,Cornerstone Brewing Co,brewpub,58 Front St,,,Berea,Ohio,44017-1911,United States,4402399820,,-81.852655,41.366912
+ec621443-0cb1-44c5-9b60-0ee49bc0b672,Cornerstone Brewing Co,brewpub,70 W  Main St,,,Madison,Ohio,44057-3126,United States,4402399820,,-81.048813,41.77154
+9084e9b6-3419-4652-bb96-ed799f6fdb1d,Craft Collective,taproom,3449 Tuttle Rd,,,Shaker Heights,Ohio,44122,United States,2162142120,,-81.537144,41.466
+4a469484-4e5a-49fa-9fa2-2a23aee480dc,Crafted Nano Brewery,taproom,1016 Tiffin Ave,,,Findlay,Ohio,45840,United States,4198892722,http://www.craftedbc.business.site,-83.631223,41.049314
+c6ed0f13-b7a7-4013-ba7f-73aa25bc7707,Crooked Can Brewing Company Ohio,brewpub,5354 Center St,,,Hilliard,Ohio,43026-1454,United States,6142191500,,-83.160042,40.034575
+74cbeded-8edb-49ef-95a4-f0a1cb372a7e,Crooked Handle Brewing Co.,brewpub,760 N Main St,,,Springboro,Ohio,45066-8944,United States,9377903450,http://www.crookedhandle.com,-84.230403,39.579637
+324e08d3-70d3-4760-bdf0-d593f11b7e59,Crooked Handle Brewing Co.,brewpub,123 North Main Street,,,Piqua,Ohio,45356,United States,,,-84.239385,40.147236
 ba9ac1f0-2b7d-4cc2-ab55-9eaa479fee80,Crooked Pecker Brewing,planning,,,,Newbury,Ohio,44065-9735,United States,4404763427,,,
+16cda51a-c4df-47d2-a953-04fd781ad8de,Crooked Pecker Brewing Co,taproom,8284 Washington St.,,,Chagrin Falls,Ohio,44023,United States,4404763427,,-81.346209,41.416065
+240ab234-1420-4ad1-87c1-52573a47a41c,Dalton Union,taproom,21100 SHIRK RD,,,MARYSVILLE,Ohio,43040-7048,United States,6144195956,http://Www.daltonunion.com,-83.449306,40.296862
 85b56270-6c8c-41dd-9499-a6b5abc62160,Dalton Union Winery & Brewery,micro,2110 Shirk Rd,,,Marysville,Ohio,43040,United States,9373193667,http://www.daltonunion.com,,
-5fac14bb-dfe3-4d40-b056-d8d4353b80a9,DankHouse Brewing Company,micro,161 Forry St,,,Newark,Ohio,43055-3760,United States,,http://www.dankhousebrewing.com,-82.41720528,40.0442341
-94cd9d0e-312e-4f41-8162-50179ef32e8a,Dayton Beer Co Production Brewery & Bierhall,micro,41 Madison St,,,Dayton,Ohio,45402-2105,United States,9372282337,http://www.thedaytonbeerco.com,-84.18528868,39.76226676
+5fac14bb-dfe3-4d40-b056-d8d4353b80a9,DankHouse Brewing Company,taproom,161 Forry St,,,Newark,Ohio,43055-3760,United States,7409156413,http://www.dankhousebrewing.com,-82.418493,40.043308
+94cd9d0e-312e-4f41-8162-50179ef32e8a,Dayton Beer Co Production Brewery & Bierhall,micro,41 Madison St,,,Dayton,Ohio,45402-2105,United States,9372282337,http://www.thedaytonbeerco.com,-84.185453,39.76177
 7324090e-aaf4-4a30-8370-e8eb664445d0,Dead Low Brewing,planning,,,,Cincinnati,Ohio,45230,United States,5132909434,http://www.deadlowbrewing.com,,
-09c632a5-61d8-4653-abd0-e2f55da61d8a,Derive Brewing company,micro,2808 N. High St.,,,Columbus,Ohio,43206,United States,614-732-4186,https://www.derivebeer.com/,-83.01185,40.01939
-ce046f9c-50f8-433e-93a5-1fede0c47538,Devil Wind Brewing LLC,micro,130 S Detroit St,,,Xenia,Ohio,45385,United States,9376090002,http://www.devilwindbrewing.com,-83.92913685,39.68294798
-58ff2d70-8794-4eac-ba96-2ec4c590539d,Devil's Kettle Brewing,micro,97 Columbus Rd,,,Athens,Ohio,45701-1313,United States,7405897187,http://www.devilskettlebrewing.com,-82.09543176,39.34871425
-9144058f-df13-47b0-b656-4c4384058085,DogBerry Brewing LLC,micro,9964 Crescent Park Dr,,,West Chester,Ohio,45069,United States,5138478208,http://www.dogberrybrewing.com,,
+9bbd336d-89fc-4603-8c92-c2c095f0c86e,Dead Low Brewing,brewpub,5959 Kellogg Avenue,,,Cincinnati,Ohio,45230,United States,5138001231,http://www.deadlowbrewing.com,-84.423296,39.06347
+09c632a5-61d8-4653-abd0-e2f55da61d8a,Derive Brewing Company,taproom,2808 N High St,,,Columbus,Ohio,43202,United States,6147324186,http://www.derivebeer.com,-83.011843,40.019396
+ce046f9c-50f8-433e-93a5-1fede0c47538,Devil Wind Brewing LLC,taproom,130 S Detroit St,,,Xenia,Ohio,45385,United States,9376090002,http://www.devilwindbrewing.com,-83.929602,39.683119
+58ff2d70-8794-4eac-ba96-2ec4c590539d,Devil's Kettle Brewing,taproom,97 Columbus Rd,,,Athens,Ohio,45701-1313,United States,7405897187,http://www.devilskettlebrewing.com,-82.095273,39.348564
+9144058f-df13-47b0-b656-4c4384058085,DogBerry Brewing LLC,micro,9964 Crescent Park Dr,,,West Chester,Ohio,45069,United States,5138478208,http://www.dogberrybrewing.com,-84.419989,39.304519
 95269547-cf11-40b4-bd0c-81cf20fb49fe,Double Edge Brewing Co,micro,158 W Chestnut St,,,Lancaster,Ohio,43130-4308,United States,7402777465,http://www.double-edge.beer,-82.6042529,39.7123647
-1fd31bf5-ffde-495e-8bdc-cc4666cd7cb5,Double Wing Brewing Co,brewpub,7840 Doty Rd,,,Madison,Ohio,44057-9511,United States,4404663485,http://www.ratbrew.com,-81.00537902,41.74037309
+1fd31bf5-ffde-495e-8bdc-cc4666cd7cb5,Double Wing Brewing Co,brewpub,7840 Doty Rd,,,Madison,Ohio,44057-9511,United States,4404663485,http://www.ratbrew.com,-81.006163,41.739723
+68deaad9-3e8b-4cd8-bf87-ac472d96d3ce,Drop Tine Winery and Tap House,brewpub,311 W Main St,,,Montpelier,Ohio,43543,United States,4192165175,,-84.610411,41.586719
 ebb7e49d-a6ed-48e1-a9cb-4a9343e8034b,Dungeon Hollow Brewing,micro,572 County Rd 22A,,,Bloomingdale,Ohio,43910,United States,7403371510,http://www.dungeonhollow.com,,
+9c9c65e1-617f-49fd-b9d7-fe84a1529f97,Dungeon Hollow Brewing Company,taproom,572 County Road 22A,,,Bloomingdale,Ohio,43910,United States,7403371510,http://www.dungeonhollow.com,-80.747443,40.360557
 381795a6-ff78-48b4-a49c-b46ed2ed423f,Earlybird Brewing Company,contract,737 Bolivar Rd Ste 4100,,,Cleveland,Ohio,44115-1259,United States,,http://www.earlybirdbrewing.com,,
-5b238658-1684-4f51-bc1c-6059ba35c9b9,Earnest Brew Works,micro,4342 S Detroit Ave,,,Toledo,Ohio,43614-5367,United States,4193402589,http://www.earnestbrewworks.com,-83.61522535,41.590252
-3037658d-3655-4682-a2f2-5b03d3f96090,Elevator Brewery and Draught Haus,brewpub,161 N High St,,,Columbus,Ohio,43215-2402,United States,6142280500,http://www.elevatorbrewing.com,-83.0017892,39.9656697
+5b238658-1684-4f51-bc1c-6059ba35c9b9,Earnest Brew Works,taproom,4342 S Detroit Ave,,,Toledo,Ohio,43614-5367,United States,4192773996,http://www.earnestbrewworks.com,-83.615321,41.590226
+248a98a1-a1e4-4968-947a-6de3407ef48f,Earnest Brew Works Downtown,taproom,25 S St Clair,,,Toledo,Ohio,43604,United States,4193188344,http://www.earnestbrewworks.com/location/earnest-brew-works-downtown,-83.538565,41.646562
+16f84efa-9ad0-4b3a-8a5e-a63d1b9c33ff,Earthworks Brewing,micro,1889 Faye Dr NE Unit 21,,,Heath,Ohio,43056,United States,7409738933,http://www.earthworksbrewing.com,-82.473615,40.035631
+b1c21dd1-d89f-4601-9c09-60c259a9669d,Eastside Brewing Company,brewpub,1421 Davidson Dr,,,Reynoldsburg,Ohio,43068,United States,,,-82.805659,39.950431
+52dc3839-b808-47d5-a7da-0df2df6d3628,Edison Brewing Company,taproom,785 Science Blvd,,,Gahanna,Ohio,43230,United States,,,-82.84351,39.996599
+78876860-7130-4346-8764-50c907308b3f,Eighty-Three Brewery,taproom,1201 E Market St Suite 110,,,Akron,Ohio,44305,United States,2342813282,http://www.eighty-threebrewery.com,-81.481672,41.065916
+3037658d-3655-4682-a2f2-5b03d3f96090,Elevator Brewery and Draught Haus,brewpub,161 N High St,,,Columbus,Ohio,43215-2402,United States,6142280500,http://www.elevatorbrewing.com,-83.001878,39.965904
 1f4af7fe-6b86-4d3c-95f2-c0fec87a67fb,Elevator Brewing Co - Production facility,micro,165 N 4th St,,,Columbus,Ohio,43215-2906,United States,6146792337,http://elevatorbrewery.com,-82.9995686,39.9662282
-ce9e3633-3660-4da7-9ceb-5f4f99d9d3a5,Endeavor Brewing Company,micro,909 W 5th Ave,,,Columbus,Ohio,43212,United States,6144567074,http://www.endeavorbrewingco.com,-83.030429,39.988002
+ce9e3633-3660-4da7-9ceb-5f4f99d9d3a5,Endeavor Brewing Company,taproom,909 W 5th Ave,,,Columbus,Ohio,43212,United States,6145581901,http://www.endeavorbrewingco.com,-83.030376,39.987584
 a9090cf0-65c9-4c4b-985b-0d8692dae5ac,Endless Pint Brewing,planning,,,,Versailles,Ohio,45380,United States,4197338806,http://www.endlesspintbrewing.com,,
+97824b87-e61f-4436-a423-7aa71c394cdf,Esoteric Brewing Co.,taproom,918 E McMillan Street,,,Cincinnati,Ohio,45206,United States,5137677159,http://www.esotericbrewing.com,-84.490089,39.126064
+81cac0df-8eff-4db2-bea7-6befd733a5c0,ESP Brewing Company,taproom,8055 LEAVITT RD,,,Amherst,Ohio,44001,United States,4402131096,http://www.espbrewingco.com,-82.210103,41.374452
 d3fd07d4-ccaa-4100-bf82-a6acd3ed4b7e,Eudora Brewing Co,micro,4716 Wilmington Pike,,,Dayton,Ohio,45440-2021,United States,9377236863,http://www.eudorabrewing.com,-84.162271,39.735916
+7fac7987-b9aa-4a1d-b3a4-aa90bc2a57f6,Eudora Brewing Co,brewpub,3022 Wilmington Pike,,,Dayton,Ohio,45429,United States,9377236863,http://www.eudorabrewing.com,-84.141123,39.702516
+f7e905c6-5c48-4fc2-add8-ea6dbc0c155c,False Chord Brewing Co,taproom,326 S Main St,,,Findlay,Ohio,45840,United States,5673012604,http://falsechordbrewing.com,-83.650825,41.038213
 e47d18ae-4f7c-4c27-8a28-feae3c16d541,Fat Head's Brewery,regional,,,,Middleburg Heights,Ohio,44130-2472,United States,2168980242,http://www.fatheads.com,,
-7b7dbd69-0464-48a3-898e-cad1deb07b3b,Fat Head's Brewery & Saloon,brewpub,24581 Lorain Rd,,,North Olmsted,Ohio,44070-2170,United States,4408011001,http://www.fatheadscleveland.com,-81.89440993,41.42667743
-26f084da-1c39-4d15-9139-a0566da855da,Fat Head's Brewpub - Canton,brewpub,3885 Everhard Rd NW,,,Canton,Ohio,44709-4003,United States,,,-81.41867571,40.85972436
-0b8ec1a7-bd72-439d-a741-71d61f851aa8,Father John's Microbrewery,brewpub,301 W Butler St,,,Bryan,Ohio,43506-1608,United States,4196331313,http://www.fatherjohnsbrewery.com,-84.553828,41.473192
+3976d9ba-2dd9-4dc7-8f2d-488df18fb39c,Fat Head's Brewery,regional,17450 Engle Lake Dr,,,Middleburg Heights,Ohio,44130,United States,2168980242,http://www.fatheads.com,-81.8232,41.3774
+26f084da-1c39-4d15-9139-a0566da855da,Fat Head's Brewery - Canton,brewpub,3885 Everhard Rd NW,,,Canton,Ohio,44709-4003,United States,3302448601,,-81.420502,40.86084
+7b7dbd69-0464-48a3-898e-cad1deb07b3b,Fat Head's Brewery & Saloon,brewpub,24581 Lorain Rd,,,North Olmsted,Ohio,44070-2170,United States,4408011001,http://www.fatheadscleveland.com,-81.894162,41.42634
+0b8ec1a7-bd72-439d-a741-71d61f851aa8,Father John's Microbrewery,brewpub,301 W Butler St,,,Bryan,Ohio,43506-1608,United States,4196331313,http://www.fatherjohnsbrewery.com,-84.554014,41.473005
 9c92b8c8-750c-4ac9-b9fd-e5b708bb249d,Fibonacci Brewing Company,micro,1445 Compton Rd,,,Cincinnati,Ohio,45231-3559,United States,5138321422,http://fibbrew.com,-84.4805528,39.218908
-0be4ed90-78cb-44f9-bcb6-dfbc52e770f3,Fifth Street Brewpub,brewpub,1600 E 5th St,,,Dayton,Ohio,45403-2304,United States,9374430919,http://Fifthstreetbrewpub.coop,-84.1881863,39.7572259
-a84e6dc3-0e93-455b-8655-819b832b6bc3,Fifty West Brewing Co,micro,7605 Wooster Pike,,,Cincinnati,Ohio,45227-3925,United States,5138348789,,-84.4134859,39.11952
-e16b6c28-c37c-43fe-9234-705513701060,Fifty West Brewing Co,brewpub,7668 Wooster Pike,,,Cincinnati,Ohio,45227-3926,United States,5138348789,http://www.fiftywestbrew.com,-84.4134859,39.11952
-1198ad91-b35e-470b-a7e2-bcb93934e6f2,FigLeaf Brewing Company,micro,3387 Cincinnati Dayton Rd,,,Middletown,Ohio,45044-8905,United States,9373612573,http://www.figleafbrewing.com,-84.34678975,39.46688114
-9f1fdcb0-c5f9-46c4-b1c3-18dee1027afd,Findlay Brewing Co.,micro,213 E. Crawford St.,,,Findlay,Ohio,45840,United States,4197227395,http://www.findlaybrewingcompany.com,-83.64817394,41.03767553
+0be4ed90-78cb-44f9-bcb6-dfbc52e770f3,Fifth Street Brewpub,brewpub,1600 E 5th St,,,Dayton,Ohio,45403-2304,United States,9374430919,http://Fifthstreetbrewpub.com,-84.172093,39.758717
+a84e6dc3-0e93-455b-8655-819b832b6bc3,Fifty West Brewing Co,micro,7605 Wooster Pike,,,Cincinnati,Ohio,45227-3925,United States,5138348789,,-84.356396,39.139113
+e16b6c28-c37c-43fe-9234-705513701060,Fifty West Brewing Co,micro,7668 Wooster Pike,,,Cincinnati,Ohio,45227-3926,United States,5138348789,http://www.fiftywestbrew.com,-84.35268,39.138595
+4273874e-c1f6-4d80-aa77-055bba4f7b78,Fifty West Brewing Co - Chillicothe,brewpub,1 N Paint St,,,Chillicothe,Ohio,45601,United States,5138348789,,-82.981858,39.333448
+1198ad91-b35e-470b-a7e2-bcb93934e6f2,FigLeaf Brewing Company,brewpub,3387 Cincinnati Dayton Rd,,,Middletown,Ohio,45044-8905,United States,9373612573,http://www.figleafbrewing.com,-84.347328,39.467159
+9f1fdcb0-c5f9-46c4-b1c3-18dee1027afd,Findlay Brewing Co.,taproom,213 E Crawford St,,,Findlay,Ohio,45840-4804,United States,4194192739,http://www.findlaybrewing.com,-83.647909,41.037527
+6f4b133b-0090-4e34-8745-8f7364057728,Firehouse Grill & Brewery,brewpub,4785 Lake Forest Drive,,,Cincinnati,Ohio,45242,United States,5137333473,http://www.firehousegrillcincinnati.com,-84.378408,39.251749
 adf91e10-69dd-4901-b617-d915d4d24bbe,Flatrock Brewery,micro,621 N Perry St,,,Napoleon,Ohio,43545-1701,United States,4199661440,http://www.flatrockbrewery.com,-84.1245567,41.39090717
-d1066da0-cbff-433c-ba06-9183f189e1fd,Forest City Brewery,brewpub,2135 Columbus Rd Ste A,,,Cleveland,Ohio,44113-4243,United States,,http://www.forestcitybrewery.com,,
+0bfe178d-95c4-4e42-bfa9-f20fba72ec84,Forbidden Root Columbus,brewpub,4080 Worth Ave,,,Columbus,Ohio,43219,United States,,,-82.91162,40.054408
+d1066da0-cbff-433c-ba06-9183f189e1fd,Forest City Brewery,taproom,2135 Columbus Rd Ste A,,,Cleveland,Ohio,44113-4243,United States,2162289116,http://www.forestcitybrewery.com,-81.700262,41.483254
 0a0e6f09-385e-4fd4-a70c-df0828e63619,Four String Brewing Company,micro,985 W 6th Ave,,,Columbus,Ohio,43212-2601,United States,6147251282,http://www.fourstringbrewing.com,-83.03279943,39.98904657
 49f223ca-b83b-4c2d-a700-9ce07d38982f,Four String Brewing Company - West Side Production Facility,micro,660 N Hague Ave,,,Columbus,Ohio,43204-,United States,6147251282,,,
 8cb64220-c9ae-40a4-a916-555d93b36696,Franklin Brewing Co,micro,1345 East Ave,,,Elyria,Ohio,44035-7681,United States,,,-82.10041992,41.35034495
+109541ba-36eb-4e21-800e-2a3c7958aea4,Franklin Brewing Co,taproom,516 Main Street,,,Grafton,Ohio,44044,United States,,,-82.063367,41.281199
+2f545e3f-7957-4a86-8af0-bcef8df9b472,Fretboard Brewing & Public House,brewpub,103 Main Street,,,Hamilton,Ohio,45013,United States,5137371111,http://https://www.fbpublichouse.com/,-84.567293,39.402399
 ba99e6ac-4f25-49a3-980b-04818ce101c7,Fretboard Brewing Company,micro,5800 Creek Rd,,,Blue Ash,Ohio,45242-4010,United States,5139144677,http://www.fretboardbrewing.com,-84.390108,39.260924
-113ef241-1d07-45a6-a9e5-7a528f441063,Goldhorn Brewery,brewpub,1361 E 55th St,,,Cleveland,Ohio,44103-1301,United States,,,-81.6516143,41.5214479
+61d3c3c8-11da-4107-b244-431300aa0069,Funky Turtle Brewing Company,micro,643 W Sylvania Ave,,,Toledo,Ohio,43612,United States,2696152246,http://www.funkyturtlebrewing.com,-83.559471,41.692597
+b333329e-8459-4e19-a6f4-9a243b2ccc46,Galena Brewing Company,taproom,5901-B Chandler Ct.,,,Westerville,Ohio,43082,United States,6143921430,http://www.galenabrew.com,-82.923304,40.154372
+ea87ba06-d4e7-44f5-a704-03b1104d886c,Garrett's Mill and Brewing Company,micro,8148 Main St,,,Garrettsville,Ohio,44231,United States,3305278080,http://www.garrettsmillbrewing.com,-81.097297,41.284019
+f04dbbd3-5caa-4155-b9ef-7a8a6b78604e,Gemut Biergarten,brewpub,734 Oak Street,,,Columbus,Ohio,43205,United States,6147251725,http://www.gemutbiergarten.com,-82.981034,39.963378
+e51c8150-a3ae-42f8-8647-5a7c263ff32d,Getaway Brewing,taproom,108 N High St,,,Bremen,Ohio,43107,United States,,,-82.4194,39.6951
+4a61ed0f-0ae7-493e-80a7-29d174acafbf,Ghost Tree Brewing Company,brewpub,223 Church St,,,Amherst,Ohio,44001,United States,,http://www.ghosttreebrewing.com,-82.224781,41.397989
+113ef241-1d07-45a6-a9e5-7a528f441063,Goldhorn Brewery,brewpub,1361 E 55th St,,,Cleveland,Ohio,44103-1301,United States,2164651352,,-81.65131,41.521802
+0314571e-990f-4f18-b368-10b3aa6caa47,Gongoozlers Brewery,taproom,629 W. Monroe St.,,,New Bremen,Ohio,45869-1328,United States,,http://www.gongoozlersbrewery.com,-84.392579,40.436699
+94fbe444-1549-4b6b-b4e9-0c79d8751d48,Goodwood Brewing - Columbus,brewpub,401 N Front St,,,Columbus,Ohio,43215,United States,,,-83.004391,39.969786
 961d74ed-dc8a-4894-8283-b979b6e547af,Gordon Biersch Brewery Restaurant - Columbus,closed,401 N Front St Ste 120,,,Columbus,Ohio,43215-8200,United States,6142462900,http://www.gordonbiersch.com/restaurant,-83.0040735,39.9703677
-6a35d8fa-40c8-4f62-82d1-90273dfd5b41,GOTL Brewing Co,brewpub,5243 Lake Rd E,,,Geneva,Ohio,44041-9433,United States,4403614864,http://www.gotlbrewing.com,-80.94434114,41.86120536
-a455bc2a-9c25-40d1-acc1-9e446c40554a,Grainworks Brewing Company,micro,7790 Service Center Dr,,,West Chester,Ohio,45069-2442,United States,5134802337,,,
+6a35d8fa-40c8-4f62-82d1-90273dfd5b41,GOTL Brewing Co,brewpub,5243 Lake Rd E,,,Geneva,Ohio,44041-9433,United States,4403614864,http://www.gotlbrewing.com,-80.944143,41.861719
+a455bc2a-9c25-40d1-acc1-9e446c40554a,Grainworks Brewing Company,taproom,7790 Service Center Dr,,,West Chester,Ohio,45069-2442,United States,5134802337,http://www.grainworks.beer,-84.364706,39.364818
 75bac68b-5b63-4dc2-a3b8-05dd0737af92,Granite City Food & Brewery,brewpub,24519 Cedar Rd,,,Cleveland,Ohio,44124-3780,United States,,,-81.5040318,41.5033931
 8ee9964e-dfc5-48c0-b079-06750fad8f70,Granite City Food & Brewery (#25),brewpub,2300 Village Dr W,,,Maumee,Ohio,43537-7550,United States,4198789050,http://www.gcfb.net,,
-a9c8887b-fd79-4f21-b314-88c44a86c087,Granville Brewing Company,micro,5371 Columbus Rd,,,Granville,Ohio,43023-9192,United States,,http://www.granvillewbrewing.com,-82.58861603,40.03527379
+a9c8887b-fd79-4f21-b314-88c44a86c087,Granville Brewing Company,taproom,5371 Columbus Rd,,,Granville,Ohio,43023-9192,United States,7404042268,http://www.granvillewbrewing.com,-82.593739,40.032687
 c4a394ea-a3df-4a0d-892b-92972acabf9a,Great Black Swamp Brewing Co,micro,3323 Monroe St,,,Toledo,Ohio,43606-4553,United States,4199731256,http://www.greatblackswampbrewing.com,-83.5462275,41.6530711
+386df23f-e881-4a0b-94a1-52f2480bf46a,Great Black Swamp Brewing Co,taproom,2250 Tedrow Rd,,,Toledo,Ohio,43614,United States,4199731256,http://www.greatblackswampbrewing.com,-83.621054,41.598554
 5c7ca72a-568e-4586-b3cb-10043ee53764,Great Lakes Brewing Co,regional,1947 W 28th St,,,Cleveland,Ohio,44113-3422,United States,2167714404,http://www.greatlakesbrewing.com,-81.70571113,41.48405803
-2517f2a6-d216-43be-be6e-e3bdace21d54,Great Lakes Brewing Co,brewpub,2516 Market Ave,,,Cleveland,Ohio,44113-3434,United States,,http://www.greatlakesbrewing.com,-81.7044266,41.4844172
-9a4b3e7f-3c66-4d4a-8318-127d957ca2e4,Grove City Brewing Company,brewpub,3946 Broadway,,,Grove City,Ohio,43123-2623,United States,6149910338,http://www.grovecitybrewingcompany.com,,
+f0325ca5-0784-437b-830f-0c72daec60d9,Great Lakes Brewing Co,brewpub,2516 Market Ave,,,Cleveland,Ohio,44113-3434,United States,,http://www.greatlakesbrewing.com,-81.704439,41.484442
+2517f2a6-d216-43be-be6e-e3bdace21d54,Great Lakes Brewing Company,regional,2516 Market Ave.,,,Cleveland,Ohio,44113-3422,United States,2167714404,http://www.greatlakesbrewing.com,-81.704054,41.484577
+564fa5d2-224c-4987-a8ef-b0fa16e3c9dc,Greene Eagle Winery and Brewpub,brewpub,2576 Davis Peck Rd,,,Cortland,Ohio,44410,United States,3305839463,http://www.greeneeagle.com,-80.72712,41.430697
+9a4b3e7f-3c66-4d4a-8318-127d957ca2e4,Grove City Brewing Company,brewpub,3946 Broadway,,,Grove City,Ohio,43123-2623,United States,6149910338,http://www.grovecitybrewingcompany.com,-83.092036,39.883809
+17ce97ab-ee2c-4ec8-aa3a-a9371584fd8f,Guernsey Brewhouse,taproom,4550 Bloomfield Rd,,,Cambridge,Ohio,43725,United States,7409953467,http://www.guernseybrewhouse.com,-81.655831,40.051128
 80e11204-916f-4d79-8687-9650e0d647bd,Gypsy Brewery,micro,3506 Vega Ave,,,Cleveland,Ohio,44113-4900,United States,,,-81.70785488,41.47449194
-cf1d9929-1881-4f8c-b4e2-9aefe750cc16,Hairless Hare Brewery,micro,738 W National Rd,,,Vandalia,Ohio,45377-1015,United States,9373876476,http://www.hairlessharebrewery.com,,
-1fcb7d97-83ee-4b1b-ba5a-f2c8c2b5b1d1,Hansa Brewery,brewpub,2717 Lorain Ave,,,Cleveland,Ohio,44113-3414,United States,2166316585,http://www.hansabrewery.com,-81.70479139,41.48344207
+cf1d9929-1881-4f8c-b4e2-9aefe750cc16,Hairless Hare Brewery,brewpub,738 W National Rd,,,Vandalia,Ohio,45377-1015,United States,9373876476,http://www.hairlessharebrewery.com,-84.212155,39.889583
+1fcb7d97-83ee-4b1b-ba5a-f2c8c2b5b1d1,Hansa Brewery,brewpub,2717 Lorain Ave,,,Cleveland,Ohio,44113-3414,United States,2166316585,http://www.hansabrewery.com,-81.704818,41.483272
+1f75334e-c14a-4999-98f9-11e4b4200e09,Happy 2 Brewing Co,taproom,8298 Clough Pike,,,Cincinnati,Ohio,45244-2771,United States,5134743777,,-84.322426,39.088499
+b47685bf-e51b-4b80-821e-78ef3664411f,Hartford Hill Winery,taproom,3864 Bushnell Campbell Road,,,Fowler,Ohio,44418,United States,3307728040,http://https://www.hartfordhillwinery.com/,-80.598069,41.325166
 277de331-35c8-4efa-8248-22dd81e768d9,Hasseman Brewing,micro,115 S 6th St,,,Coshocton,Ohio,43812-1625,United States,7402941364,http://www.hassemanbrewing.com,-81.86176557,40.27239943
 856d9ba1-2d2b-4f4c-a4f5-596b273ce762,Headtrip Brewery,micro,1634 Norton Rd,,,Stow,Ohio,44224-1412,United States,,http://www.headtripbrewery.com,-81.442913,41.202942
-12b869d0-0f6e-4cff-a6c6-04532f770c00,Heavier Than Air Brewing Co,micro,497 Miamisburg Centerville Rd,,,Centerville,Ohio,45459-4753,United States,9374331500,http://www.heavierthanairbrewing.com,-84.1733314,39.62796812
-16b4086d-3c39-4b01-9ea3-9342ea428832,Hightower Brewing Co,micro,3445 County Road 16 Unit B,,,Rayland,Ohio,43943-7765,United States,7408590764,http://www.hightowerbrewingcompany.com,,
-051e8ce2-8aa3-4ca2-9157-52e12f1db45f,HiHO Brewing Co,brewpub,1707 Front St,,,Cuyahoga Falls,Ohio,44221-4711,United States,2343347564,http://www.hihobrewingco.com,-81.48536118,41.12813502
+313f6a93-06b4-40ca-be6b-bcdd6566c395,Heart State Brewing Company,micro,505 Morrison Rd,,,Columbus,Ohio,43230,United States,6146049768,,-82.864342,40.005944
+3047329a-786f-4b6b-b071-e6dd74b6dd99,Heart State Brewing Company - Production Facility,micro,750 Crosspoint Rd,,,Columbus,Ohio,43230,United States,6146049768,,-82.831749,39.996559
+12b869d0-0f6e-4cff-a6c6-04532f770c00,Heavier Than Air Brewing Co,taproom,497 Miamisburg Centerville Rd,,,Centerville,Ohio,45459-4753,United States,9374331500,http://www.heavierthanairbrewing.com,-84.172448,39.62811
+b1c760a1-1c29-44df-8aab-75b9eac0048c,HEAVY Beer Co.,brewpub,1301 N Summit St,,,Toledo,Ohio,43604,United States,6145716860,http://heavy.beer,-83.521296,41.659574
+ec6f73f7-3b8c-4857-8723-f667b764cedb,HEAVY Wheelhouse,taproom,33 Pattison Avenue,,,Mingo Junction,Ohio,43938,United States,,,-80.647487,40.337392
+8df772d3-5b33-4620-bf87-a07aedac4a6d,Henmick Farm & Brewery,taproom,4380 N. Old State Rd.,,,Delaware,Ohio,43015,United States,,,-82.955655,40.335669
+0de347f8-0002-4d84-89e4-3934bdd1e6f7,HighGrain Brewing Co.,brewpub,6860 Plainfield Road,,,Cincinnati,Ohio,45236,United States,5137917000,http://www.highgrainbrewing.com,-84.400257,39.192953
+16b4086d-3c39-4b01-9ea3-9342ea428832,Hightower Brewing Co,taproom,3445 County Road 16 Unit B,,,Rayland,Ohio,43943-7765,United States,7408590764,http://www.hightowerbrewingcompany.com,-80.689931,40.195881
+051e8ce2-8aa3-4ca2-9157-52e12f1db45f,HiHO Brewing Co.,taproom,1707 Front St,,,Cuyahoga Falls,Ohio,44221-4711,United States,2343347564,http://www.hihobrewingco.com,-81.484672,41.128228
+41a3711c-b7ec-4cf2-9012-b03409bf8264,Hocking Hills Brewing Co,micro,60 West 2nd Street,,,Logan,Ohio,43138,United States,,http://https://www.hockinghillsbrewingco.com/,-82.410004,39.539213
+4cc79d5e-2aa9-4738-b6c8-22f3d89b04b2,Hofbrauhaus Cleveland,micro,1550 Chester Ave,,,Cleveland,Ohio,44114-3615,United States,2166212337,http://www.hofbrauhauscleveland.com,-81.681136,41.502763
 1fcf7c77-15b9-499e-a181-e5d1cdf2bce4,Hofbrauhaus Cleveland / Cincinatti Restaurant Group,brewpub,1550 Chester Ave,,,Cleveland,Ohio,44114-3615,United States,2166212337,http://www.hofbrauhauscleveland.com,-81.68115344,41.50310892
-76dd1606-3e5b-4095-92e6-10ffd3c5fc9c,Hofbrauhaus Columbus,brewpub,800 Goodale Blvd,,,Columbus,Ohio,43212-3825,United States,6142942437,http://www.hofbrauhauscolumbus.com,-83.025737,39.974313
-a9ad782a-5e15-4ddb-ad90-a40b599974ff,Homestead Beer Co.,micro,811 Irving Wick Dr W,,,Heath,Ohio,43056-1199,United States,7405228018,http://www.homesteadbeerco.com,-82.47380719,40.02494781
-deb5a55b-9937-4af4-9888-74d338881600,Hoof Hearted Brewing,micro,300 County Road 26,,,Marengo,Ohio,43334-9678,United States,5672333115,http://www.hoofheartedbrewing.com,,
-5f190fa6-7153-4ecb-bbd8-d2271064a478,Hoof Hearted Brewing - Brewery and Kitchen,brewpub,850 N 4th St,,,Columbus,Ohio,43215-1845,United States,6144014033,https://hoofheartedkitchen.com/,-83.0002482,39.9803665
-75dc420d-0a24-4537-b29b-07b09f168bce,Hop Tree Brewing Company Ltd,brewpub,1297 Hudson Gate Dr,,,Hudson,Ohio,44236-3764,United States,3303420060,http://www.hoptreebrewing.com,-81.44518205,41.20893905
-053d96fd-337c-4d7d-9a18-2ed997b4f6b5,Hoppin' Frog Brewing Co,micro,1680 E Waterloo Rd Ste F,,,Akron,Ohio,44306-4523,United States,,http://www.hoppinfrog.com,,
+76dd1606-3e5b-4095-92e6-10ffd3c5fc9c,Hofbrauhaus Columbus,brewpub,800 Goodale Blvd,,,Columbus,Ohio,43212-3825,United States,6142942437,http://www.hofbrauhauscolumbus.com,-83.024123,39.974497
+d731471b-6bab-4b50-b26d-14aa95dd699b,Holy Moley Brewing Company,taproom,306 Grant St,,,Dennison,Ohio,44621,United States,,http://http://holymoleybrewing.com/,-81.333657,40.392882
+0642135b-f57e-4508-b9a6-82b646ed40c8,Holy Trinity Brewing Company,taproom,155 N 5th St,,,Columbus,Ohio,43215,United States,6146005576,http://www.holytrinitybrewing.com,-82.995913,39.966218
+a9ad782a-5e15-4ddb-ad90-a40b599974ff,Homestead Beer Co.,micro,811 Irving Wick Dr W,,,Heath,Ohio,43056-1199,United States,7405228018,http://www.homesteadbeerco.com,-82.466908,40.020842
+c4c110f5-a29d-40ff-addf-cac6e0dd65d8,Homestead Beer Co. - Cherry Valley,brewpub,2319 Cherry Valley Rd SE,,,Newark,Ohio,43055,United States,7406245017,http://www.homesteadbeerco.com/cherryvalley,-82.4038,40.0794
+34a2bf03-daf9-4000-a677-eff7491506aa,Homestead Beer Co. - Delaware,taproom,59 Potter St.,,,Delaware,Ohio,43015,United States,,,-83.057971,40.30023
+47f40518-005a-442e-8768-3535e2ddf4c9,Hoodletown Brewing Co,taproom,424 W 3rd St,,,Dover,Ohio,44622-3169,United States,3304479354,,-81.480442,40.517939
+deb5a55b-9937-4af4-9888-74d338881600,Hoof Hearted Brewing,micro,300 County Road 26,,,Marengo,Ohio,43334-9678,United States,5672333115,http://www.hoofheartedbrewing.com,-82.818596,40.366767
+5f190fa6-7153-4ecb-bbd8-d2271064a478,Hoof Hearted Brewing - Brewery and Kitchen,brewpub,850 N 4th St,,,Columbus,Ohio,43215,United States,6144014033,,-82.998096,39.980046
+67502f1b-9ff0-4dc6-99db-01d1d390d92d,Hop Brothers Brewing,brewpub,32650 Lorain Rd,,,North Ridgeville,Ohio,44039,United States,4407313007,http://www.hopbrothersbrewing.com,-81.979961,41.383958
+75dc420d-0a24-4537-b29b-07b09f168bce,Hop Tree Brewing Ltd,brewpub,1297 Hudson Gate Dr,,,Hudson,Ohio,44236-3764,United States,3303420060,http://www.hoptreebrewing.com,-81.445041,41.209239
+053d96fd-337c-4d7d-9a18-2ed997b4f6b5,Hoppin' Frog Brewing,micro,1680 E Waterloo Rd Ste F,,,Akron,Ohio,44306-4523,United States,3303524578,http://www.hoppinfrog.com,-81.467736,41.024833
+6d342696-174b-45bb-81ed-91a2348f89fd,Hoppy Dude Brews,taproom,1369 Ridge Road,,,Hinckley,Ohio,44233,United States,3302281072,http://hoppydudebrews.com,-81.744191,41.239389
 2ffeece0-e295-46d9-8f2f-9f898e41d80a,Hoster Brewing Co,contract,760 Harmon Ave,,,Columbus,Ohio,43223,United States,6142213606,http://www.hosterbeer.com,-83.01615373,39.94440869
+9b9e0db1-9d7a-4df7-8c45-a95a23cdc2f9,Humble Monk Brewing Co,micro,1641 Blue Rock St,,,Cincinnati,Ohio,45223,United States,5135104615,http://www.humblemonkbrewing.com,-84.541616,39.160179
 ab91cb99-55d9-48e4-96c9-77593a53a78c,"Ignite Brewing Company, Ltd.",micro,600 W Tuscarawas Ave,,,Barberton,Ohio,44203-2460,United States,3306966881,http://www.facebook.com/Ignitebrewingcompany,-81.61268,41.012866
-0a187cd6-eafd-4c4e-869a-78d4bd9f59fc,Ill Mannered Brewing Company,micro,38 Grace Dr,,,Powell,Ohio,43065-8466,United States,614-859-6819,http://www.illmanneredbeer.com/,-83.0740121,40.1635259
-0fd5160d-52eb-4624-a69c-4553618bf8d6,Inside The Five Brewing,brewpub,5703 Main St,,,Sylvania,Ohio,43560-4901,United States,5674087212,http://www.insidethefive.com,-83.70328149,41.71726502
-64c9113d-9f06-4fc4-9db7-e8973bb30bc0,Jackie O's Brewery,micro,25 Campbell St,,,Athens,Ohio,45701-2616,United States,6147473434,,-82.09053555,39.3315139
-1faa634b-2bef-45e2-a641-67e5c865aa6f,Jackie O's Pub & Brewery,brewpub,22-24 W Union St,,,Athens,Ohio,45701-2818,United States,7405929686,http://www.jackieos.com,-82.10216171,39.32764186
+0a187cd6-eafd-4c4e-869a-78d4bd9f59fc,Ill Mannered Brewing Company,taproom,38 Grace Dr,,,Powell,Ohio,43065-8466,United States,6148596819,,-83.073434,40.16328
+b062d98e-95c3-49d2-bd47-ca65e922cfec,Ill Will Brewing,brewpub,45417 Ohio 14,,,Columbiana,Ohio,44408,United States,,http://http://www.illwillbrewing.com/,-80.646585,40.883495
+bed08738-6b7f-4bd0-931b-abae788dea3a,Immigrant Son Brewery,brewpub,18120 Sloane Ave,,,Lakewood,Ohio,44107,United States,2162888516,http://www.immigrantsonbrewing.com,-81.823527,41.486342
+0fd5160d-52eb-4624-a69c-4553618bf8d6,Inside The Five Brewing,brewpub,5703 Main Street,,,Sylvania,Ohio,43560,United States,5674087212,http://www.insidethefive.com,-83.70334,41.717271
+0699d849-0765-4168-aa4a-8c2d38ecec6f,Inside The Five Brewing,brewpub,5703 Main Street,,,Sylvania,Ohio,43560,United States,5674087212,http://www.insidethefive.com,-83.70334,41.717271
+7ccc8257-fe41-4436-9a2f-810bab4c1b3b,Inside The Five Brewing - Perrysburg,brewpub,127 W 3rd St,,,Perrysburg,Ohio,43551,United States,4199310707,,-83.630056,41.55809
+64c9113d-9f06-4fc4-9db7-e8973bb30bc0,Jackie O's Brewery,regional,25 Campbell St,,,Athens,Ohio,45701-2616,United States,9375541986,http://www.jackieos.com,-82.090428,39.331534
+ba4e2f31-422b-49a1-bfce-ada65dfb0ca6,Jackie O's Columbus,taproom,165 N 4th St,,,Columbus,Ohio,43215,United States,,,-82.997416,39.966218
+1faa634b-2bef-45e2-a641-67e5c865aa6f,Jackie O's Pub & Brewery,brewpub,22-24 W Union St,,,Athens,Ohio,45701-2818,United States,7405929686,http://www.jackieos.com,-82.102254,39.327864
 314dfee4-0f05-4eba-aef6-573122095f3f,JAFB Brewery,micro,120 Beall Ave,,,Wooster,Ohio,44691-3673,United States,3306011827,http://www.jafbbeer.com,-81.93429705,40.7995432
+de906c23-76d3-4ed5-8063-ab01ba9efe7f,JAFB Wooster Brewery,taproom,120 Beall Ave,,,Wooster,Ohio,44691-3673,United States,3306011827,http://www.jafbbeer.com,-81.934738,40.799482
+2c7bdb9b-d50a-4508-9ccd-10acf30bba63,Jilbert Winery & Brewery,taproom,1496 Columbia Rd,,,Valley City,Ohio,44280,United States,2166185749,http://www.ohiohoneywine.com,-81.922766,41.233516
+3070b9f8-e3d6-467a-b5a2-6c83eb9935d0,Juniper Brewing Company,brewpub,145 S. Main St,,,Bowling Green,Ohio,43402,United States,4195750165,http://www.juniperbrew.com,-83.650241,41.373949
+757be233-ce7c-401c-9a13-2c0ace69aef0,Karrikin Spirits,brewpub,3717 Jonlen Dr,,,Cincinnati,Ohio,45227,United States,5135615000,http://www.karrikinspirits.com,-84.398229,39.138257
+57af76bf-4d0a-4eef-b452-4604335ed923,Kelleys Island Brewery,brewpub,504 W Lakeshore Drive,,,Kelleys Island,Ohio,43438,United States,4197462314,http://www.kelleysislandbrewpub.com,-82.725496,41.595915
 b5afa137-0ed6-42c1-953c-5e496af7e3dc,Kennedy Vineyard,micro,3911 State Route 722,,,New Madison,Ohio,45346,United States,9372738381,http://www.kennedyvineyard.net,,
 fc649f04-8490-4309-9e68-9b93139caa3f,Kindred Beer,micro,750 Cross Pointe Rd Unit I and J,,,Columbus,Ohio,43230,United States,6146264341,http://www.kindredbeer.com,,
-d6bbd553-b258-4860-b522-938490e779f0,Knotty Pine Brewing,brewpub,1765 W 3rd Ave,,,Columbus,Ohio,43212-2769,United States,6148171515,http://www.knottypinebrewing.net,-83.0529324,39.9852813
-30c84a6c-3fc8-4025-a025-22cdc5e3165a,Lager Heads Brewing Co.,micro,325 W Smith Rd,,,Medina,Ohio,44256-2352,United States,3307212337,http://www.lagerheads.us,-81.86844379,41.13633377
-85cd6388-ee30-4325-8fd3-6ac7018eabda,Lager Heads Smokehouse,brewpub,2832 Abbeyville Rd,,,Medina,Ohio,44256,United States,3307251947,,-81.88755054,41.19980605
-54a9a10c-dd29-45f7-8b67-0a0c7b6ad2b6,Lake Rat Brewing,brewpub,108 S Main St,,,Celina,Ohio,45822,United States,4197331830,http://www.lakeratbrewing.com,-84.57069367,40.54820057
-045c0c63-50a7-423d-b65a-681179f870e9,Land-Grant Brewing Company,micro,424 W Town St,,,Columbus,Ohio,43215-4040,United States,2169562634,http://www.landgrantbrewing.com,-83.01150763,39.95787195
-b34a359c-6b74-4f5a-8900-cca5edc1aef6,Laxton Hollow Brewing Works,micro,302 E Main St,,,Mansfield,Ohio,44904-1300,United States,4195252842,http://www.laxtonhollow.com,,
+d6bbd553-b258-4860-b522-938490e779f0,Knotty Pine Brewing,brewpub,1765 W 3rd Ave,,,Columbus,Ohio,43212-2769,United States,6148171515,http://www.knottypinebrewing.net,-83.052964,39.985172
+30c84a6c-3fc8-4025-a025-22cdc5e3165a,Lager Heads Brewing Co.,micro,325 W Smith Rd,,,Medina,Ohio,44256-2352,United States,3307212337,http://www.lagerheads.us,-81.868948,41.136427
+85cd6388-ee30-4325-8fd3-6ac7018eabda,Lager Heads Smokehouse,brewpub,2832 Abbeyville Rd,,,Medina,Ohio,44256,United States,3307251947,,-81.887169,41.197229
+13489f02-6fc0-4cb2-86e8-cf2abec110bf,Lake Milton Brewery,taproom,17762 Mahoning Ave,,,Lake Milton,Ohio,44429,United States,,,-80.990105,41.0964
+54a9a10c-dd29-45f7-8b67-0a0c7b6ad2b6,Lake Rat Brewing,brewpub,108 S Main St,,,Celina,Ohio,45822,United States,4197331830,http://www.lakeratbrewing.com,-84.570333,40.548662
+045c0c63-50a7-423d-b65a-681179f870e9,Land-Grant Brewing Company,micro,424 W Town St,,,Columbus,Ohio,43215-4040,United States,2169562634,http://www.landgrantbrewing.com,-83.011563,39.957676
+b34a359c-6b74-4f5a-8900-cca5edc1aef6,Laxton Hollow Brewing Works,taproom,302 E Main St,,,Mansfield,Ohio,44904-1300,United States,4195252842,http://www.laxtonhollow.com,-82.571797,40.679997
+d544a25d-a0b8-49e1-9c27-0cde6e97ca2e,Lebanon Brewing Co.,brewpub,20 W. Silver St.,,,Lebanon,Ohio,45036,United States,4402425153,http://lebanonbrewingco.com,-84.209522,39.435875
 0c64f81d-9404-443f-83d4-8aa79babb415,Levitate,planning,,,,Mount Victory,Ohio,43340-8908,United States,3133849757,,,
 a8e9cd3f-220f-4cf7-954c-6fc64705570b,Lil Paws Winery,micro,17574-A Mahoning Ave,,,Lake Milton,Ohio,44429-9583,United States,3309709463,http://www.lilpawswinery.com,,
 ab06cfba-c43a-48c7-ae62-70efe3163e74,Lineage Brewing,brewpub,2971 N High St,,,Columbus,Ohio,43202,United States,6144613622,http://www.lineagebrew.com,-83.01413155,40.0225652
-bd1649e5-21f8-4e5d-9ab4-e276abb822f6,Listermann Brewing Company,micro,1621 Dana Ave,,,Cincinnati,Ohio,45207-1007,United States,5137311130,http://Listermannbrewing.com,-84.4721318,39.1463506
-ace6c26f-6fff-4688-9e28-14e977c38d78,Little Fish Brewing Company,micro,8675 Armitage Rd,,,Athens,Ohio,45701-8900,United States,7402046187,http://www.littlefishbrewing.com,-82.12957738,39.33333227
-e7693960-bc75-4c83-bf5f-fb4e03a47a11,Little Miami Brewing Company,brewpub,208 Mill St,,,Milford,Ohio,45150-1072,United States,5137131121,http://www.littlemiamibrewing.com,-84.29623162,39.17161035
+bd1649e5-21f8-4e5d-9ab4-e276abb822f6,Listermann Brewing Company,taproom,1621 Dana Ave,,,Cincinnati,Ohio,45207-1007,United States,5137311130,http://Listermannbrewing.com,-84.472444,39.146309
+ace6c26f-6fff-4688-9e28-14e977c38d78,Little Fish Brewing Company,brewpub,8675 Armitage Rd,,,Athens,Ohio,45701-8900,United States,7402046187,http://www.littlefishbrewing.com,-82.129758,39.332969
+e7693960-bc75-4c83-bf5f-fb4e03a47a11,Little Miami Brewing Company,brewpub,208 Mill St,,,Milford,Ohio,45150-1072,United States,5137131121,http://www.littlemiamibrewing.com,-84.296523,39.17162
 b744848c-8e41-40f1-9ecb-e46ff290466c,Lock 15 Brewing Co,planning,,,,Akron,Ohio,44304-1035,United States,,http://www.lock15brewing.com,,
-fb6f6bff-1e40-42b5-9a86-0de2e080be56,Lock 27 Brewing,brewpub,1035 S Main St,,,Centerville,Ohio,45458-3840,United States,9374332739,http://www.lock27brewing.com,-84.1626371,39.6089321
-575dd400-8f94-4441-a09c-dbde302d6cd7,Lock 27 Brewing,brewpub,329 E 1st St,,,Dayton,Ohio,45402-1705,United States,9374332739,http://www.lock27brewing.com,-84.18693529,39.76332003
+424f0c85-8bfa-4b86-b912-d2ea5e7f2fcf,Lock 15 Brewing Co.,brewpub,21 W. North St.,,,Akron,Ohio,44304,United States,3305549299,http://www.lock15brewing.com,-81.517279,41.091851
+fb6f6bff-1e40-42b5-9a86-0de2e080be56,Lock 27 Brewing,brewpub,1035 S Main St,,,Centerville,Ohio,45458-3840,United States,9374332739,http://www.lock27brewing.com,-84.160888,39.608898
+575dd400-8f94-4441-a09c-dbde302d6cd7,Lock 27 Brewing,brewpub,329 E 1st St,,,Dayton,Ohio,45402-1705,United States,9374332739,http://www.lock27brewing.com,-84.186425,39.76373
 02a141f3-ba6a-4ce4-95ce-0ca90daa2734,Lockport Brewery,brewpub,10891 OH-212,,,Bolivar,Ohio,44612-8664,United States,3308746037,http://www.lockportbeer.com,,
-7c56b27e-c6d8-4f39-844d-c663d31ab159,Loose Rail Brewing,micro,37 W Waterloo St,,,Canal Winchester,Ohio,43110-1140,United States,6143216634,http://www.looserailbrewing.com,-82.8069082,39.84329
+02032963-81d1-451c-b61f-f52dd584cc5f,Loose Ends Brewing Company,brewpub,890 South Main St,,,Dayton,Ohio,45458,United States,9377236328,http://www.looseendsbrewing.com,-84.158851,39.615009
+7c56b27e-c6d8-4f39-844d-c663d31ab159,Loose Rail Brewing,taproom,37 W Waterloo St,,,Canal Winchester,Ohio,43110-1140,United States,6143216634,http://www.looserailbrewing.com,-82.807078,39.843279
 bb74ff2e-a0b7-457c-9b9e-7a7343cf91bc,Lucky Owl Brewing,micro,8660 Tamarack Trl,,,Chagrin Falls,Ohio,44023-1876,United States,4408363440,http://www.luckyowlbrewing.com,,
-5add03e6-9a49-4e98-89bd-8bf41dafb72e,Lucky Star Brewery,brewpub,219 S 2nd St,,,Miamisburg,Ohio,45342-2924,United States,9378662739,http://www.luckystarbrewery.com,-84.28782443,39.63943573
-f4db9b09-2c1c-4dc8-b2b6-5a4d6903477a,Madcap Brew Co.,micro,1422 Mogadore Rd,,,Kent,Ohio,44240-7536,United States,3305489654,,-81.372012,41.139183
-337b4c62-2460-4ae7-b271-d022058469cc,MadTree Brewing,regional,3301 Madison Rd,,,Cincinnati,Ohio,45209-1132,United States,5138368733,http://www.madtreebrewing.com,-84.4239715,39.1563725
-b54b16e1-ac3b-4bff-a11f-f7ae9ddc27e0,MadTree Brewing 2.0,regional,5164 Kennedy Ave,,,Cincinnati,Ohio,45213,United States,5138368733,http://www.madtreebrewing.com,-84.4137736,39.1885752
+5add03e6-9a49-4e98-89bd-8bf41dafb72e,Lucky Star Brewery,brewpub,219 S 2nd St,,,Miamisburg,Ohio,45342-2924,United States,9378662739,http://www.luckystarbrewery.com,-84.288126,39.639122
+f4db9b09-2c1c-4dc8-b2b6-5a4d6903477a,MadCap Brew Co,micro,1422 Mogadore Rd,,,Kent,Ohio,44240-7536,United States,3305489654,,-81.372571,41.138801
+337b4c62-2460-4ae7-b271-d022058469cc,MadTree Brewing,regional,5164 Kennedy Ave,,,Cincinnati,Ohio,45209-1132,United States,5138368733,http://www.madtreebrewing.com,-84.419639,39.166526
+b54b16e1-ac3b-4bff-a11f-f7ae9ddc27e0,MadTree Brewing,regional,5164 Kennedy Ave,,,Cincinnati,Ohio,45209-1132,United States,5138368733,http://www.madtreebrewing.com,-84.419639,39.166526
 7f5b3890-2faf-428f-8855-cd1d3c458b4e,Magic City Brewing Company,micro,161 2nd St NW,,,Barberton,Ohio,44203,United States,3307039806,http://Www.magiccitybrewingcompany.com,-81.60738829,41.01444672
-bc35bec8-bdb0-405a-be1f-6c19a3d805a6,Main Sail Brewery / Atwood Yacht Club,micro,2637 Lodge Rd SW,,,Sherrodsville,Ohio,44675-9719,United States,3307352135,http://www.atwoodyachtclub.com,,
-b35ddbfe-490e-4eaf-aeca-fb041e06c7aa,Maize Valley Craft Brewery,brewpub,6193 Edison St NE,,,Hartville,Ohio,44632-9326,United States,3308778344,http://www.maizevalley.com,-81.27813638,40.95340888
+1d088626-4ad5-4db1-8882-c9936355d88b,Magic City Brewing Company,taproom,2727 Manchester Rd,,,Akron,Ohio,44319,United States,3307039806,http://Www.magiccitybrewingcompany.com,-81.548417,41.024696
+bc35bec8-bdb0-405a-be1f-6c19a3d805a6,Main Sail Brewery / Atwood Yacht Club,taproom,2637 Lodge Rd SW,,,Sherrodsville,Ohio,44675-9719,United States,3307352135,http://www.atwoodyachtclub.com,-81.241962,40.546927
+b35ddbfe-490e-4eaf-aeca-fb041e06c7aa,Maize Valley Craft Brewery,taproom,6193 Edison St NE,,,Hartville,Ohio,44632-9326,United States,3308778344,http://www.maizevalley.com,-81.278914,40.955177
 2b99e526-9f10-4e4d-bbfc-5890c7e4e69c,Maple Lawn Brewery,micro,110 Mulberry Ave,,,Pomeroy,Ohio,45769-1004,United States,7406915018,http://www.maplelawnbrew.com,-82.034268,39.027513
-8acae3ab-9840-4619-9f8b-873d262ff38e,March First Brewing,brewpub,7885 E Kemper Rd,,,Cincinnati,Ohio,45249-1622,United States,5135620759,http://www.marchfirstbrewing.com,,
-6ec5c9d0-34df-4a2e-b041-ff956ce3d98a,Marietta Brewing Co,brewpub,167 Front St,,,Marietta,Ohio,45750-3125,United States,7403732739,http://www.mariettabrewingcompany.com,-81.45339993,39.41184635
-cbff0c83-0ea9-4114-bb4c-96d372c21365,Market Garden Brewery,micro,1849 W 24th St,,,Cleveland,Ohio,44113,United States,2166214000,,-81.70272815,41.48573746
-2634ae09-4e13-4aa7-b0f1-dfcecf935a42,Market Garden Brewery,micro,1947 W 25th St,,,Cleveland,Ohio,44113-3418,United States,2166214000,http://www.marketgardenbrewery.com,-81.7036495,41.4848964
+8acae3ab-9840-4619-9f8b-873d262ff38e,March First Brewing,brewpub,7885 E Kemper Rd,,,Cincinnati,Ohio,45249-1622,United States,5135620759,http://www.marchfirstbrewing.com,-84.348647,39.279205
+6ec5c9d0-34df-4a2e-b041-ff956ce3d98a,Marietta Brewing Co,brewpub,167 Front St,,,Marietta,Ohio,45750-3125,United States,7403732739,http://www.mariettabrewingcompany.com,-81.453774,39.411742
+1db537af-12ca-4267-878a-5c8f925684ae,Marion Brewing Company,taproom,151 S Main St,,,Marion,Ohio,43302,United States,,,-83.129202,40.587604
+cbff0c83-0ea9-4114-bb4c-96d372c21365,Market Garden Brewery,micro,1849 W 24th St,,,Cleveland,Ohio,44113,United States,2166214000,,-81.702933,41.486398
+2634ae09-4e13-4aa7-b0f1-dfcecf935a42,Market Garden Brewery,brewpub,1947 W 25th St,,,Cleveland,Ohio,44113-3418,United States,2166214000,http://www.marketgardenbrewery.com,-81.703502,41.484987
 cefd9035-5695-4a1e-97bb-8d449468797a,Masthead Brewing Co,brewpub,1261 Superior Ave E,,,Cleveland,Ohio,44114-3204,United States,4192604770,http://www.mastheadbrewingco.com,-81.6853889,41.5041432
-a1feb3da-eae6-4fa3-8972-73bb057798bc,Maumee Bay Brewing Co,brewpub,27 Broadway St Ste A,,,Toledo,Ohio,43604-8701,United States,4192431302,http://www.maumeebaybrewing.com,,
-c3e7b965-dfce-4765-9d5b-dd2d49b28e7a,McArthur's Brew House,micro,2721 Front St,,,Cuyahoga Falls,Ohio,44221-1904,United States,3308054600,http://www.mcarthursbrewhouse.com,-81.47237058,41.14618347
+a1feb3da-eae6-4fa3-8972-73bb057798bc,Maumee Bay Brewing Co,micro,27 Broadway St Ste A,,,Toledo,Ohio,43604-8701,United States,4192431302,http://www.maumeebaybrewing.com,-83.53817,41.643213
+c3e7b965-dfce-4765-9d5b-dd2d49b28e7a,McArthur's Brew House,brewpub,2721 Front St,,,Cuyahoga Falls,Ohio,44221-1904,United States,3308054600,http://www.mcarthursbrewhouse.com,-81.471839,41.146571
+11d42044-4bd4-4828-932d-4b6d212047a1,Medina Brewing Company,taproom,320 S Court St,,,Medina,Ohio,44256,United States,,,-81.863364,41.135351
+4284dc1e-6691-4751-99fc-775725b23125,Mentor Brewing Company,taproom,9528 Diamond Centre Dr,,,Mentor,Ohio,44060-1876,United States,4409512739,http://www.thebrewmentor.com,-81.297762,41.714385
 11b078bc-1356-418c-b59e-544845f135b2,MillerCoors Brewing Co - Trenton,large,2525 Wayne Madison Rd,,,Trenton,Ohio,45067-9760,United States,5138964601,http://www.millerbrewing.com,-84.48297139,39.45673615
-215e7463-7bd6-446f-b20a-b7b9f55bbc09,Millersburg Brewing,brewpub,60 E Jackson St,,,Millersburg,Ohio,44654-1257,United States,3306744728,http://www.millersburgbrewing.com,-81.91677867,40.55424322
+215e7463-7bd6-446f-b20a-b7b9f55bbc09,Millersburg Brewing Company,brewpub,60 E Jackson St,,,Millersburg,Ohio,44654-1257,United States,3306744728,http://www.millersburgbrewing.com,-81.916571,40.554426
 9b62df32-e3f8-4f7e-a346-f5530a533a57,Missing Falls Brewery,planning,,,,Akron,Ohio,44311-1079,United States,3308086097,,,
-a5fb1cc5-cdcd-4b4e-ab3b-dd0ecc74d1cc,Missing Mountain Brewing Company,brewpub,2811 Front St,,,Cuyahoga Falls,Ohio,44262,United States,,http://www.missingmountain.com,-81.46928097,41.14838453
-ce39bb88-81c5-4d53-b95c-da6ffaa25c3c,Modern Methods Brewing Company,micro,125 David Grohl Alley,,,Warren,Ohio,44481,United States,3303331594,http://www.modernmethodsbrew.com,,
-bbd537a3-ccad-4284-88a1-914527d8ed6e,Moeller Brew Barn,micro,8016 Marion Dr,,,Maria Stein,Ohio,45860-8706,United States,4199253005,http://www.moellerbrewbarn.com,-84.49312675,40.42144783
-916efcdf-12c7-4c76-9a22-1312ad526e34,Moerlein Lager House,brewpub,115 Joe Nuxhall Way,,,Cincinnati,Ohio,45202-4143,United States,5134212337,http://www.moerleinlagerhouse.com,-84.50871677,39.09630095
-8a895c3b-63fc-4838-981a-627e366fcf2e,Monzula Farm Brewery / Vineyard 22,micro,83800 Monzula Rd,,,Cadiz,Ohio,43907,United States,7404917000,http://www.vineyard22winery.com,,
+43d70792-8732-466e-95c8-e09e00e1f77e,Missing Falls Brewery,brewpub,540 S Main St Bldg 1 Ste 112,,,Akron,Ohio,44311-1079,United States,2342311000,,-81.528362,41.071369
+a5fb1cc5-cdcd-4b4e-ab3b-dd0ecc74d1cc,Missing Mountain Brewing Company,brewpub,2821 Front St,,,Cuyahoga Falls,Ohio,44221,United States,,http://www.missingmountain.com,-81.468539,41.148214
+c350eb91-42f0-4023-b2f6-fe0478ade4b4,Missing Mountain Brewing Company,brewpub,2821 Front St,,,Cuyahoga Falls,Ohio,44221,United States,,http://www.missingmountain.com,-81.468539,41.148214
+ce39bb88-81c5-4d53-b95c-da6ffaa25c3c,Modern Methods Brewing Company,taproom,125 David Grohl Alley,,,Warren,Ohio,44481,United States,3303331594,http://www.modernmethodsbrew.com,-80.8196,41.2356
+bbd537a3-ccad-4284-88a1-914527d8ed6e,Moeller Brew Barn,taproom,8016 Marion Dr,,,Maria Stein,Ohio,45860-8706,United States,4199253005,http://www.moellerbrewbarn.com,-84.492809,40.421003
+bc5019e3-9379-487e-8c01-826e1fff7a28,Moeller Brew Barn,taproom,6550 Hamilton Lebanon Rd,,,Middletown,Ohio,45044,United States,4199253005,,-84.398332,39.446041
+472b92b5-49a8-4ca7-8254-5a408700cac5,Moeller Brew Barn,brewpub,214 W Main St,,,Troy,Ohio,45373,United States,9375529430,,-84.206016,40.040383
+8a1750c0-cce7-424c-a7fe-622c1639cda6,Moeller Brew Barn - Dayton,brewpub,416 E First St,,,Dayton,Ohio,45402,United States,,,-84.185083,39.763411
+916efcdf-12c7-4c76-9a22-1312ad526e34,Moerlein Lager House,brewpub,115 Joe Nuxhall Way,,,Cincinnati,Ohio,45202-4143,United States,5134212337,http://www.moerleinlagerhouse.com,-84.508724,39.096333
+8a895c3b-63fc-4838-981a-627e366fcf2e,Monzula Farm Brewery / Vineyard 22,taproom,83800 Monzula Rd,,,Cadiz,Ohio,43907,United States,7404917000,http://www.vineyard22winery.com,-80.969728,40.30537
+547980d9-41ee-4cb5-aa50-7ddcc92d1ed6,Morning Dew Spa and Brewery,micro,42520 State Farm Road,,,Albany,Ohio,45710,United States,7405410832,http://Morningdewhopfarm.com,-82.197473,39.19128
 37c52935-6621-428b-b1ee-fc8856b6dc1c,Mosaic Brewing,planning,,,,Lancaster,Ohio,43130-4308,United States,6149402500,http://www.double.edge.beer,,
-c0329997-60e4-453b-95c1-f5a1aa5841c5,Mother Stewart's Brewing Co,micro,109 W North St,,,Springfield,Ohio,45504-2546,United States,,,-83.81196566,39.92716841
-c59d0db5-f675-4808-97c4-ab1a38643c58,Mt. Carmel Brewing Co,micro,4362 Mount Carmel Tobasco Rd,,,Cincinnati,Ohio,45244-2338,United States,5132402739,,,
+c0329997-60e4-453b-95c1-f5a1aa5841c5,Mother Stewart's Brewing Co,taproom,109 W North St,,,Springfield,Ohio,45504-2546,United States,9377170618,,-83.812512,39.926896
+e93e6754-98be-4c24-8b06-80e8a765c688,MPH Brewery,brewpub,7880 Remington Road,,,Montgomery,Ohio,45242,United States,5138732846,,-84.353168,39.228344
+c59d0db5-f675-4808-97c4-ab1a38643c58,Mt. Carmel Brewing Co,micro,4362 Mount Carmel Tobasco Rd,,,Cincinnati,Ohio,45244-2338,United States,5132402739,,-84.299116,39.093529
 52ee5ff2-5e93-447c-ac91-80670d1ed06f,Mucky Duck Brewery,brewpub,4019 S Main St,,,Akron,Ohio,44319-3668,United States,3306445444,,-81.5268804,41.0629094
+3f81ae8c-ded2-472a-81f7-a88b9fb38b61,Muffleheads Brewery,taproom,4931 Fitchville River Road,,,Wakeman,Ohio,44889,United States,4407147316,http://www.muffleheadsbrewery.com,-82.425928,41.270973
 3341c9bb-1676-4f4c-a884-156f8fd827bf,Multiple Brewing Company,micro,82 W Washington St,,,Nelsonville,Ohio,45764-1135,United States,6144957199,,-82.23343359,39.46109582
-f03af10b-8b0b-4acf-b3a2-494ccb06f346,Municipal Brew Works,micro,20 High St,,,Hamilton,Ohio,45011-2709,United States,5136422424,http://municipalbrewworks.com,-84.5638199,39.4009136
-8af28f23-b686-4f3f-ad7e-7962ef086450,Muskellunge Brewing Company,micro,425 5th St NW,,,Canton,Ohio,44702,United States,,http://www.muskybrewco.com,-81.37672433,40.80191841
-02738c45-4084-46f9-9dec-a0cbe7c9656b,Nano Brew Cleveland,brewpub,1859 W 25th St,,,Cleveland,Ohio,44113,United States,2168626631,http://www.nanobrewcleveland.com,-81.7045531,41.4860486
-659f6d61-f3e0-431f-9da0-9234fe22b6b3,Narrow Path Brewing Company,micro,106 Karl Brown Way,,,Loveland,Ohio,45140-2902,United States,5133123414,http://www.narrowpathbrewing.com,,
-7ceebde8-ab10-4657-9c3e-8f725b8cc388,Neon Groundhog Brewery - Majestic Oak Winery,micro,13554 Mohler Rd,,,Grand Rapids,Ohio,43522-9648,United States,4198756474,http://www.majesticoakwinery.com,,
+f03af10b-8b0b-4acf-b3a2-494ccb06f346,Municipal Brew Works,taproom,20 High St,,,Hamilton,Ohio,45011-2709,United States,5136422424,http://municipalbrewworks.com,-84.563819,39.400599
+eed0d71a-8274-476d-8c83-f1afec7293bf,Municipal Brew Works - Champion Mill,taproom,600 North B Street,,,Hamilton,Ohio,45013,United States,,,-84.561322,39.408049
+8af28f23-b686-4f3f-ad7e-7962ef086450,Muskellunge Brewing Company,taproom,425 5th St NW,,,Canton,Ohio,44702,United States,5138023417,http://www.muskybrewco.com,-81.37659,40.801948
+cd520de5-6e0f-4961-91c7-6e55aca4eab5,N.E.W. Ales Brewing,taproom,1521 First Ave,,,Middletown,Ohio,45044,United States,,http://www.newalesbrewing.com,-84.39745,39.513328
+02738c45-4084-46f9-9dec-a0cbe7c9656b,Nano Brew Cleveland,brewpub,1859 W 25th St,,,Cleveland,Ohio,44113,United States,2168626631,http://www.nanobrewcleveland.com,-81.704419,41.486042
+659f6d61-f3e0-431f-9da0-9234fe22b6b3,Narrow Path Brewing Company,taproom,106 Karl Brown Way,,,Loveland,Ohio,45140-2902,United States,5133123414,http://www.narrowpathbrewing.com,-84.260312,39.266897
+7ceebde8-ab10-4657-9c3e-8f725b8cc388,Neon Groundhog Brewery - Majestic Oak Winery,taproom,13554 Mohler Rd,,,Grand Rapids,Ohio,43522-9648,United States,4198756474,http://www.majesticoakwinery.com,-83.867834,41.488309
 d550e8d8-a356-4188-bf71-8febfcb326f9,New Bremen Brewing Company,planning,,,,New Bremen,Ohio,45869-1328,United States,,http://www.gongoozlersbeer.com,,
-66825536-6e93-4eed-aa6c-eba138076b0e,Nine Giant Brewing,brewpub,6095 Montgomery Rd,,,Cincinnati,Ohio,45213-1617,United States,5133664550,http://www.ninegiant.com,-84.4276285,39.1822755
-cd6e88e8-4e7d-4c49-bffe-278c5e329313,Noble Beast Brewing Co.,brewpub,1470 Lakeside Ave E,,,Cleveland,Ohio,44114-1137,United States,7175859216,http://noblebeastbeer.com,-81.68692334,41.50768107
-35c24341-b1dd-4218-a209-a4b8e26b6d04,Noble Creature Cask House,brewpub,126 E Rayen Ave,,,Youngstown,Ohio,44503-1619,United States,2347191827,http://www.noblecreaturebeer.com,-80.64576162,41.1022793
-32f14df7-72c2-4b46-be09-9c9c887a8cc1,Nocterra Brewing Co,micro,41 Depot St,,,Powell,Ohio,43065,United States,614-896-8000,https://nocterrabrewing.com/,-83.0784981,40.1596311
-83737f10-3aa4-47c7-899d-d0eac85b098c,North High Brewing,micro,1125 Cleveland Ave,,,Columbus,Ohio,43201-2900,United States,6142263244,http://www.northhighbrewing.com,-82.982658,39.992787
-cb19bf9b-71b5-444c-a8a5-00a4fadf1d7b,Northern Row Brewery & Distillery,micro,111 W McMicken Ave,,,Cincinnati,Ohio,45202-4915,United States,5136736689,http://www.northernrow.com,-84.51924466,39.11836855
+66825536-6e93-4eed-aa6c-eba138076b0e,Nine Giant Brewing,brewpub,6095 Montgomery Road,,,Cincinnati,Ohio,45213,United States,5133664550,http://www.ninegiant.com,-84.427699,39.182301
+0afab921-ba1f-4f73-8420-5ac5cdd47723,Nine Giant Brewing,brewpub,6095 Montgomery Road,,,Cincinnati,Ohio,45213,United States,5133664550,http://www.ninegiant.com,-84.427699,39.182301
+cd6e88e8-4e7d-4c49-bffe-278c5e329313,Noble Beast Brewing Co.,brewpub,1470 Lakeside Ave E,,,Cleveland,Ohio,44114-1137,United States,2164178588,http://www.noblebeastbeer.com,-81.68636,41.507913
+35c24341-b1dd-4218-a209-a4b8e26b6d04,Noble Creature Cask House,brewpub,126 E Rayen Ave,,,Youngstown,Ohio,44503-1619,United States,2347191827,http://www.noblecreaturebeer.com,-80.64485,41.102238
+f3172c5f-f8af-4c8c-8739-814726563eea,Nobleman Brewing Company,micro,15078 Halleys Ridge Road,,,Caldwell,Ohio,43724,United States,7402550175,,-81.560439,39.824837
+32f14df7-72c2-4b46-be09-9c9c887a8cc1,Nocterra Brewing Company,brewpub,41 Depot St,,,Powell,Ohio,43065-9344,United States,6142822266,http://www.nocterrabrewing.com,-83.078587,40.159703
+a3fdd7be-f283-47bb-b240-6e2054e9a785,North High Brewery - Dublin Bridge Park,location,56 N High St,,,Dublin,Ohio,43017,United States,,,-83.113606,40.100699
+83737f10-3aa4-47c7-899d-d0eac85b098c,North High Brewing,micro,1125 Cleveland Ave,,,Columbus,Ohio,43201-2900,United States,6142263244,http://www.northhighbrewing.com,-82.988418,39.987461
+956ae271-2e46-44c8-a50b-7f3e5e5b1e22,North High Brewing - Hyde Park,brewpub,2724 Erie Ave,,,Cincinnati,Ohio,45208,United States,6146398800,http://www.northhighbrewing.com/hydepark,-84.442231,39.139884
+741213e1-1b2f-43c9-92ac-243520f6275c,North High Brewing - Ohio City,brewpub,2814 Detroit Ave,,,Cleveland,Ohio,44113,United States,6146398800,http://www.northhighbrewing.com/ohiocity,-81.709741,41.490526
+d0a46aa4-7b2a-4b58-b39e-b70236edd08a,North High Brewing Beachwood,brewpub,26300 Cedar Rd,,,Beachwood,Ohio,44122,United States,2162450875,,-81.494769,41.501107
+c3c58498-f105-4b4e-bbb4-9b36c712cb69,North Water Brewing Co.,taproom,101 E Crain Ave,,,Kent,Ohio,44240-2457,United States,8287729374,http://www.northwaterbrewing.com,-81.357059,41.158527
+cb19bf9b-71b5-444c-a8a5-00a4fadf1d7b,Northern Row Brewery,micro,111 W McMicken Ave,,,Cincinnati,Ohio,45202-4915,United States,5136736689,http://www.northernrow.com,-84.519748,39.118114
+7d5043f5-6b24-496e-9727-3a797c3a54a9,Nostalgia Brewing,brewpub,81 Mill St,,,Columbus,Ohio,43230,United States,6149347039,http://www.nostalgiabrewing.com,-82.880119,40.01995
 44e8dfa5-7682-466d-9fcb-7ab1c42ca7bf,Nowhere In Particular Brewing Company,proprietor,6826 Loop Rd,,,Dayton,Ohio,45459-2159,United States,5133487282,http://www.nipbrewco.com,,
-ff1c4781-8052-4cb7-bbc5-510de9df420a,Numbers Brewing Company,brewpub,127 N Beaver St,,,Lisbon,Ohio,44432-1121,United States,3308705305,,-80.76970138,40.77253357
+aad0f097-af06-4759-b332-4db5e8b17336,Nowhere In Particular Cabinet of Curiosity,taproom,4716 Wilmington Pike,,,Dayton,Ohio,45440,United States,5133487282,http://www.nipbrewco.com,-84.115728,39.674797
+ff1c4781-8052-4cb7-bbc5-510de9df420a,Numbers Brewing Company,brewpub,127 N Beaver St,,,Lisbon,Ohio,44432-1121,United States,3308705305,http://https://www.numbersbrewco.com/,-80.770008,40.772946
 cf1aec2c-18d4-42cc-a4e2-f8407b060607,Off Track Brewing Company,micro,227 Stark Street,,,Cincinnati,Ohio,45214,United States,5136044527,http://www.OffTrackBrewingCompany.com,-84.522243,39.118674
-88ae39de-93d2-4832-97a1-3c28a0457ce8,Ohio Brewing Company,micro,2250 Front St,,,Cuyahoga Falls,Ohio,44221-2510,United States,2342086243,http://www.ohiobrewing.com,-81.4748217,41.1444116
-1799d0b2-7266-4ad9-a3ca-15cc2e3bf833,Old Dog Alehouse & Brewery,micro,13 W William St,,,Delaware,Ohio,43015,United States,740-990-4506,https://www.olddogalehouse.com/menu,-83.0998526,40.2984874
+52b8ea26-5f11-419c-b910-4771a54293cc,Ohio Brewing Co,brewpub,421 E 2nd Ave,,,Columbus,Ohio,43201,United States,,,-82.993153,39.981374
+88ae39de-93d2-4832-97a1-3c28a0457ce8,Ohio Brewing Company,brewpub,2250 Front St,,,Cuyahoga Falls,Ohio,44221-2510,United States,2342086243,http://www.ohiobrewing.com,-81.482943,41.137556
+639c2cc5-ae1a-406b-82c0-e36098ca3832,Old Bridge Brewing Co,taproom,281 W Main St,,,Mc Connelsville,Ohio,43756,United States,7347782739,http://www.oldbridgebrewing.com,-81.856734,39.649242
+173d2efe-ae9e-4a60-bee9-f1a6fc099d4d,Old Capitol Brewing,taproom,79 N Paint St,,,Chillicothe,Ohio,45601,United States,7407013959,http://www.oldcapitolbrewing.com,-82.982198,39.335109
+1799d0b2-7266-4ad9-a3ca-15cc2e3bf833,Old Dog Alehouse,brewpub,13 W William St,,,Delaware,Ohio,43015,United States,7409904506,http://www.olddogalehouse.com,-83.068282,40.298684
 18749797-7047-40a7-915d-feb5edfd5caa,Old Firehouse Brewery,micro,237 W Main St,,,Williamsburg,Ohio,45176-1342,United States,5135369071,http://www.oldfirehousebrewery.com,-84.05307618,39.05398396
-5a9cc7b6-2864-48be-81a8-0a27a48440ac,Old Mill Craft Beer,micro,2376 State Route 850,,,Bidwell,Ohio,45614-9590,United States,7402459463,,,
-bf79ba63-583a-4545-bc3c-feddd9123c36,Olentangy River Brewing Company,micro,303 Green Meadows Dr S,,,Lewis Center,Ohio,43035,United States,740-803-1561,http://www.olentangybrew.com/,-83.0798709,40.1618242
+5a9cc7b6-2864-48be-81a8-0a27a48440ac,Old Mill Craft Beer,taproom,2376 State Route 850,,,Bidwell,Ohio,45614-9590,United States,7402459463,,-82.296518,38.879694
+bf79ba63-583a-4545-bc3c-feddd9123c36,Olentangy River Brewing Company,taproom,303 Green Meadows Dr S,,,Lewis Center,Ohio,43035,United States,7408031561,http://www.olentangybrew.com,-83.012344,40.155399
 666792cc-8e1e-4db4-8d1d-c59c01356838,On The Fly Brewing Company,planning,,,,Sunbury,Ohio,43074-9022,United States,6145618735,http://www.ontheflybrewing.com,,
+93409937-a361-4345-bb3d-f23c77e1ad14,Oncore Brewing,taproom,14249 Airport Hwy Ste 1,,,Swanton,Ohio,43558-1501,United States,4193084838,,-83.88196,41.580683
 cc5bec77-94df-470f-bcaf-c2d9a5d091a7,Outerbelt Brewing Company,planning,,,,Carroll,Ohio,43112,United States,6143096796,http://www.outerbeltbrewing.com,,
-b648c0ea-b1df-4f26-96fb-403d963c07e3,Paladin Brewing,micro,6520 Mahoning Ave,,,Austintown,Ohio,44515-2012,United States,3305506338,http://www.paladinbrewing.com,-80.78742748,41.099487
-f2376e93-a30f-4e71-9476-b56f98957f16,Paradigm Shift Brewing,micro,128 North Ave NE,,,Massillon,Ohio,44646-5526,United States,3308800008,http://www.paradigmshiftbrew.com,-81.52183929,40.79865814
+40319383-9faf-4392-92a6-c22dff4ba586,Outerbelt Brewing Company,taproom,3560 Dolson Ct Ste A,,,Carroll,Ohio,43112,United States,7409930448,http://www.outerbeltbrewing.com,-82.666243,39.76008
+9b892ad2-b84a-43a2-9b5c-61d753918b38,Outskirts Brew Co,brewpub,2412 Cable Court,,,Lima,Ohio,45805,United States,4192211010,http://https://outskirtsbrewco.com/,-84.144084,40.730775
+b648c0ea-b1df-4f26-96fb-403d963c07e3,Paladin Brewing,taproom,6520 Mahoning Ave,,,Austintown,Ohio,44515-2012,United States,3305506338,http://www.paladinbrewing.com,-80.787738,41.099911
+f2376e93-a30f-4e71-9476-b56f98957f16,Paradigm Shift Brewing,taproom,128 North Ave NE,,,Massillon,Ohio,44646-5526,United States,3308800008,http://www.paradigmshiftbrew.com,-81.521955,40.798867
+407cad44-a212-43d4-bf51-e8f76e383af4,Paradise Brewing / Paradise Brewing Supplies,taproom,7766 Beechmont Ave,,,Cincinnati,Ohio,45255,United States,5132327271,http://www.paradisebrewingsupplies.com,-84.342239,39.073093
+b94d6f51-0db2-498c-a9ff-fccd62a22bf1,Paradise Brewing East,taproom,237 West Main Street,,,Williamsburg,Ohio,45176,United States,,,-84.052971,39.053696
 5bd1f033-c140-4d10-9e22-ba828de064ea,Paradune Brewing,micro,10551 1/2 County Rd 286,,,Huntsville,Ohio,43324,United States,,,,
 a48cf2bc-b38c-493f-8c15-c5d6c572b561,Paradune Brewing Company,micro,20707 Township Rd 119,,,Belle Center,Ohio,43310,United States,9375891730,http://www.paradunebrewing.com,,
-239ea12a-9340-4a7b-81c5-d819af331f2c,Patron Saints Brewery,micro,4730 W Bancroft St #8,,,Toledo,Ohio,43615,United States,,http://www.PatronSaintsBrewery.com,-83.650886,41.662495
+6db52df5-4d03-4e24-a003-a000b6ea40a6,Parsons North Brewing Company,taproom,685 Parsons Ave,,,Columbus,Ohio,43206,United States,6148244208,http://www.parsonsnorth.com,-82.982819,39.949806
+239ea12a-9340-4a7b-81c5-d819af331f2c,Patron Saints Brewery,taproom,4730 W Bancroft St #8,,,Toledo,Ohio,43615,United States,4197202337,http://www.PatronSaintsBrewery.com,-83.654158,41.662763
 add42f7c-059e-4ecc-81dd-2f7d3eabb800,Pedestrian Brewing,planning,,,,Lakewood,Ohio,44107-3309,United States,2162620740,http://pedestrian.beer,,
 06cfb198-fc60-4119-bd71-813f5d4db893,Permission Brewing Company,planning,,,,Columbus,Ohio,43004,United States,6143530762,http://www.permissionbrewing.com,,
 4f4eb2c0-5053-4232-a3b4-eaa37434ef33,Pigskin Brewing Company,brewpub,81 Mill St Ste 150,,,Gahanna,Ohio,43230-1718,United States,6149449311,,,
-b649ace0-0985-41c2-828e-807cbee21bcc,Pinups & Pints,micro,10963 Lower Valley Pike,,,Medway,Ohio,45341-9706,United States,9378491400,http://www.pinupsandpints.com,-84.045082,39.860912
+b649ace0-0985-41c2-828e-807cbee21bcc,Pinups & Pints,taproom,10963 Lower Valley Pike,,,Medway,Ohio,45341-9706,United States,9378491400,http://www.pinupsandpints.com,-84.021371,39.875354
+4b941692-6082-4432-a027-7151dd4f7abb,Planted Flag Brewing,brewpub,3594 Pearl Rd,,,Medina,Ohio,44256,United States,13309522739,,-81.85658,41.17734
 2cbfe2ea-677a-4c4d-95b1-349556953fa2,Platform Beer Co,regional,4125 Lorain Ave,,,Cleveland,Ohio,44113-3718,United States,2162021386,http://platformbeer.co,-81.7140045,41.4799605
 309b3fd3-b726-48a2-a141-5d1f3a71f493,Platform Beer Co - Production Facility,micro,3506 Vega Ave,,,Cleveland,Ohio,44113-4900,United States,,http://www.platformbeer.co,-81.70785488,41.47449194
 442750a7-de36-4035-969e-e73915939443,Platform Beer Co Taproom,micro,408 N 6th St,,,Columbus,Ohio,43215-2137,United States,6148262285,http://www.platformbeer.co,-82.9949497,39.97173
 3230d289-2e6c-456c-b9c4-256dc17f44f1,Platform Cincinnati,micro,916 Dalton Ave,,,Cincinnati,Ohio,45203,United States,2162021386,,-84.5362431,39.10592991
-87fa87d6-8042-493b-9926-c515656f1e9f,Portsmouth Brewing Co/Maults,brewpub,224 Second St,,,Portsmouth,Ohio,45662-0218,United States,7403546106,http://www.portsmouthohbrewing.com,,
-af17e34e-10da-4da5-bcb7-9ec68a5c16cf,Pretentious Barrel House,micro,745 Taylor Ave,,,Columbus,Ohio,43219-2526,United States,6148877687,http://www.pretentiousbarrelhouse.com,-82.960769,39.981855
-c522a9cc-0865-4764-8447-d733d4a7046f,Put-In-Bay Brewing Co,brewpub,441 Catawba Ave,,,Put In Bay,Ohio,43456-6536,United States,4192854677,http://www.putinbaybrewery.com,-82.81996476,41.65188956
+94aed0cb-60aa-4906-81d0-61572c11d6c2,Portsmouth Brewing Co,brewpub,224 Second St,,,Portsmouth,Ohio,45662-0218,United States,7403546106,http://www.portsmouthohbrewing.com,-83.008127,38.731533
+87fa87d6-8042-493b-9926-c515656f1e9f,Portsmouth Brewing Co/Maults,brewpub,224 Second St,,,Portsmouth,Ohio,45662-0218,United States,7403546106,http://www.portsmouthohbrewing.com,-83.008127,38.731533
+af17e34e-10da-4da5-bcb7-9ec68a5c16cf,Pretentious Barrel House,taproom,745 Taylor Ave,,,Columbus,Ohio,43219-2526,United States,6148877687,http://www.pretentiousbarrelhouse.com,-82.961242,39.981898
+63bff27f-131a-449b-983f-594f6b8ed9ef,Pulpo Beer Company,taproom,3941 ERIE ST,,,Willoughby,Ohio,44094,United States,4406375708,http://www.pulpobeerco.com,-81.406304,41.643511
+c522a9cc-0865-4764-8447-d733d4a7046f,Put-In-Bay Brewing Co,brewpub,441 Catawba Ave,,,Put In Bay,Ohio,43456-6536,United States,4192854677,http://www.putinbaybrewery.com,-82.820288,41.652007
 8c192935-c685-444f-abc2-5a5e637f8b8d,Quarter Barrel Brewery,brewpub,107 E Church St,,,Oxford,Ohio,45056-1317,United States,5135232525,,-84.74045186,39.51142737
 8c1536cc-c630-465c-9694-85490c0c13b6,Quarter Barrel Brewery and Pub,brewpub,103 Main St,,,Hamilton,Ohio,45013,United States,5135552525,,-84.3556606,39.1246414
 4dfeb9cd-7b63-46e6-ac77-76a97d86daeb,Queen City Brewery of Cincinnati,micro,11253 Williamson Rd,,,Cincinnati,Ohio,45241-2230,United States,,,,
-d6fde152-fd90-463c-9eec-7c25da6278f4,R.Shea Brewing,micro,1662 Merriman Rd,,,Akron,Ohio,44313-9000,United States,3307945654,http://www.rsheabrewing.com,-81.55341503,41.13489995
-52dc49dc-14c6-426f-821c-a52f9d5552b3,Railroad Brewing Company,micro,1010 Center Rd,,,Avon,Ohio,44011-1206,United States,4407238234,http://www.railroadbrewingcompany.com,-82.01953725,41.4754617
-5517b5d0-3406-4ce2-9a6e-af552695dfc0,Ramblin Reds Brewing Company,brewpub,1493 N Shoop Ave Unit A,,,Wauseon,Ohio,43567-2801,United States,4193352000,http://www.northriverbrewingco.com,,
-7a0e79f9-4cb5-4225-8742-46689b054269,Random Precision Brewing Company,micro,2365 W Dublin Granville Rd,,,Columbus,Ohio,43235-2700,United States,6143893864,http://www.randomprecisionbrewing.com,-83.05232,40.090144
-bbdbbaa0-4f65-4c35-80b2-8d6be878806f,Restoration Brew Worx,brewpub,25 N Sandusky St,,,Delaware,Ohio,43015-1901,United States,,http://www.restorationbrewworx.com,-83.0677272,40.30056202
+1478aa27-528c-4c9e-9589-27220e0d8b8d,Quenched & Tempered Brewery,micro,1210 Jackson Street,,,Toledo,Ohio,43604,United States,4197640119,http://www.quenchedandtempered.com,-83.540259,41.657769
+20488827-6952-4ec0-9521-89477ae5655a,R. Shea Brewing - Canal Place,brewpub,540 S Main St,,,Akron,Ohio,44311,United States,2345715036,,-81.528362,41.071369
+d6fde152-fd90-463c-9eec-7c25da6278f4,R.Shea Brewing,micro,1662 Merriman Rd,,,Akron,Ohio,44313-9000,United States,3307945654,http://www.rsheabrewing.com,-81.549587,41.133388
+52dc49dc-14c6-426f-821c-a52f9d5552b3,Railroad Brewing Company,micro,1010 Center Rd,,,Avon,Ohio,44011-1206,United States,4407238234,http://www.railroadbrewingcompany.com,-82.021651,41.475187
+c3e30ada-9ce7-4294-b85f-468b64008134,"Rainbow Hills Winery, Brewpub & Pizzeria",brewpub,26349 Township Rd 251,,,Newcomerstown,Ohio,43832,United States,7405459305,http://www.rainbowhillswinery.com,-81.668536,40.328679
+5517b5d0-3406-4ce2-9a6e-af552695dfc0,Ramblin Reds Brewing Company,micro,1493 N Shoop Ave Unit A,,,Wauseon,Ohio,43567-2801,United States,4193352000,http://www.northriverbrewingco.com,-84.134678,41.572592
+7a0e79f9-4cb5-4225-8742-46689b054269,Random Precision Brewing Company,taproom,2365 W Dublin Granville Rd,,,Columbus,Ohio,43235-2700,United States,6143893864,http://www.randomprecisionbrewing.com,-83.053499,40.08976
+bbdbbaa0-4f65-4c35-80b2-8d6be878806f,Restoration Brew Worx,brewpub,25 N Sandusky St,,,Delaware,Ohio,43015-1901,United States,7409907120,http://www.restorationbrewworx.com,-83.068245,40.299651
 bc178419-2cae-4a48-8315-21bdc97954d3,Revel Urban Winery / Revel OTR,brewpub,111 E 12th St,,,Cincinnati,Ohio,45202,United States,5135799463,http://www.revelotr.com,-84.5126641,39.1085275
-6e5f19f9-b0cb-424d-ac2a-828ea580bddd,Rhinegeist Brewery,regional,1910 Elm St,,,Cincinnati,Ohio,45202-7751,United States,5133811356,http://www.rhinegeist.com,-84.51992076,39.1172
+fa106a79-3112-460e-af89-d8c615550a4b,Rhetoric Brewing Co.,taproom,25420 Claibourne Road,,,Richwood,Ohio,43344,United States,6144007588,http://rhetoricbrewingco.com,-83.347182,40.372235
+6e5f19f9-b0cb-424d-ac2a-828ea580bddd,Rhinegeist Brewery,regional,1910 Elm St,,,Cincinnati,Ohio,45202-7751,United States,5133811356,http://www.rhinegeist.com,-84.519929,39.117228
+4c330f88-6251-4eb0-b43e-dedeade2dd5e,Rhinegeist Innovation Brewery,micro,3209 Spring Grove Ave,,,Cincinnati,Ohio,45225,United States,,,-84.541885,39.140964
+33d08de9-38d7-439a-a5b7-74640c7af965,"Rice Family Brewing, LLC",micro,1069 Baker Road,,,Albany,Ohio,45710,United States,7407076972,,-82.248506,39.218856
 46a30b10-a4bb-43f1-9219-d0e6ffbde56f,Ridge Runner Brewing LLC,planning,,,,Wauseon,Ohio,43567-9294,United States,,,,
 50f46329-bc95-4781-b109-dd71958479b0,Rivals Brewing Company,planning,,,,middleburg hts,Ohio,44130,United States,3306316700,https://www.facebook.com/RivalsBrewingCo/,,
 7104bc4a-20af-46c5-9f5f-eca71eddbf9e,Rivals Sports Grille,contract,6710 Smith Rd,,,Middleburg Heights,Ohio,44130-2656,United States,2162670005,http://www.rivalscleveland.com,-81.80433472,41.38531549
 973a0067-bd17-472b-a30b-a8228921f6e0,Rivertown Brewing Co - Monroe Barrel House,micro,6550 Hamilton Lebanon Rd,,,Monroe,Ohio,45044-9285,United States,5133607839,http://www.rivertownbrewery.com,-84.41215417,39.44575612
 ef644d34-4eef-4ab0-8b2f-92ce400e2eb0,Rock Bottom Brewery - Cincinnati,brewpub,10 Fountain Square Plz,,,Cincinnati,Ohio,45202-3102,United States,5136211588,http://www.rockbottom.com,,
-059fb0da-8330-4660-aeba-aa9a1c41288c,Rockmill Brewing Co,micro,5705 Lithopolis Rd NW,,,Lancaster,Ohio,43130-9515,United States,7402058076,http://www.rockmillbrewery.com,,
+059fb0da-8330-4660-aeba-aa9a1c41288c,Rockmill Brewing Co,taproom,5705 Lithopolis Rd NW,,,Lancaster,Ohio,43130-9515,United States,6146343912,http://www.rockmillbrewery.com,-82.709533,39.747379
 e40910db-618b-46fc-9804-6bf8a0164902,Rocky River Brewing Co,brewpub,21290 Center Ridge Rd,,,Rocky River,Ohio,44116-3204,United States,4408952739,http://www.rockyriverbrewco.com,-81.8553198,41.46100065
 d27dd56e-9f41-4789-a2a0-ece0209dcac0,Rolling Mill Brewing Company,micro,916 1st Ave,,,Middletown,Ohio,45044-8217,United States,5132174444,http://www.rollingmillbc.com,-84.40683123,39.51616686
 cc6614a4-dcc4-4b2d-8d32-b737ba0503a3,Roobrew,contract,,,,Akron,Ohio,44311-1051,United States,3307033947,http://www.roobrew.com,,
-f765f05b-b755-45a8-844d-bc48962c6a52,Roundhouse Depot Brewing,micro,217 W Chillicothe Ave,,,Bellefontaine,Ohio,43311,United States,5403231295,,-83.76289625,40.35981532
-485f4ed6-a9ae-42c7-9d66-c39540651709,Royal Docks Brewhouse and Cannery,micro,5646 Wales Ave NW,,,Massillon,Ohio,44646,United States,,,-81.498326,40.844016
+f765f05b-b755-45a8-844d-bc48962c6a52,Roundhouse Depot Brewing Co. Llc,taproom,217 W Chillicothe Ave,,,Bellefontaine,Ohio,43311,United States,5403231295,http://roundhousedepotbrewing.com,-83.762845,40.359664
+8da48a0e-7713-4a6b-a380-25fd2cf48e69,Royal Docks Brewing Co - Foudre House + Kitchen,brewpub,2668 Easton St NE,,,Canton,Ohio,44721,United States,3303539103,,-81.331848,40.871605
+485f4ed6-a9ae-42c7-9d66-c39540651709,Royal Docks Brewing Co.- Brewhouse + Cannery,micro,5646 Wales Ave NW,,,Massillon,Ohio,44646,United States,,,-81.483825,40.863589
+f13f3aca-65ab-45fa-8b56-eee2d2a41589,Royal Docks Brewing Co.- Original Taproom + Kitchen,micro,7162 Fulton Dr NW,,,Canton,Ohio,44718-1523,United States,3303539103,http://www.docks.beer,-81.482931,40.860441
 a6f89f70-e00a-43a3-9779-f70e71393ae9,Royal Docks Brewing Company,contract,7162 Fulton Dr NW,,,Canton,Ohio,44718-1523,United States,3303539103,http://www.docks.beer,,
-df62a0f5-73ba-457c-90c9-9d79d495348d,Saint Hazards Brewery,brewpub,1233 Fox Road,,,Middle Bass Island,Ohio,43446,United States,4192856121,,,
-1cb033df-d217-475d-8b40-90af3a179934,Sandy Springs Brewing Company,brewpub,232 N Market St,,,Minerva,Ohio,44657-1616,United States,3304516926,http://www.sandyspringsbrewery.com,-81.10382014,40.72956679
-6a08ad19-89d0-4c1a-b5ef-1cdb106a5f07,Saucy Brew Works,brewpub,2885 Detroit Ave,,,Cleveland,Ohio,44113-2765,United States,2166662568,http://www.saucybrewworks.com,-81.7105691,41.4894793
-81491cd1-e954-4409-bc3c-b5a7b2dc7c3d,Seventh Son Brewing Co,micro,1101 N 4th St,,,Columbus,Ohio,43201-3683,United States,6144212337,http://www.seventhsonbrewing.com,-83.0019404,39.985351
+df62a0f5-73ba-457c-90c9-9d79d495348d,Saint Hazards Brewery,brewpub,1233 Fox Road,,,Middle Bass Island,Ohio,43446,United States,4192856121,,-82.809653,41.678546
+1cb033df-d217-475d-8b40-90af3a179934,Sandy Springs Brewing Co,brewpub,232 N Market St,,,Minerva,Ohio,44657-1616,United States,3305224024,http://www.sandyspringsbrewery.com,-81.10421,40.729844
+6a08ad19-89d0-4c1a-b5ef-1cdb106a5f07,Saucy Brew Works,micro,2885 Detroit Ave,,,Cleveland,Ohio,44113-2765,United States,2166662568,http://www.saucybrewworks.com,-81.710612,41.489628
+41af68c1-0106-4658-af11-9283db149a47,Saucy Brew Works,brewpub,215 E Water Street,,,Sandusky,Ohio,44870,United States,2166662568,,-82.710266,41.458169
+128c7573-c48e-4a7e-a5d5-2d32508d00ca,Saucy Brew Works Columbus LLC,brewpub,443 W 3rd Ave,,,Columbus,Ohio,43201-3363,United States,4408566943,http://saucybrewworks.com,-83.017065,39.983736
+51b9d323-2407-47dd-a348-a0497247df96,Saucy Brew Works Pinecrest LLC,taproom,400 PARK AVE STE 170,,,Orange Village,Ohio,44122,United States,2168151857,,-81.486313,41.45205
+be022a8b-6ed6-447d-aabc-4e97584eccc6,Schnitz Ale Brewery,brewpub,5729 Pearl Rd,,,Cleveland,Ohio,44129,United States,4403404353,http://www.schnitzalebrewery.com,-81.741931,41.406268
+1c5bb638-afe2-46f1-a826-17d2b6d27acb,Scotty's 22-Brew,taproom,246 Jefferson Street,,,Greenfield,Ohio,45123,United States,,http://https://scottys22brew.com/,-83.382355,39.351586
+cc596dce-4018-4616-b631-103f6e41908b,Second Crossing Brew Co,taproom,142 N Main St,,,Rockford,Ohio,45882,United States,4193050150,,-84.646054,40.692224
+81491cd1-e954-4409-bc3c-b5a7b2dc7c3d,Seventh Son Brewing Co,taproom,1101 N 4th St,,,Columbus,Ohio,43201-3683,United States,6144212337,http://www.seventhsonbrewing.com,-82.999799,39.985381
 a4459eb6-9f7b-45b2-b060-2aed5d7169d4,Shale Brewing Co,micro,7253 Whipple Ave NW,,,North Canton,Ohio,44720,United States,3307768812,http://www.shalebrewing.com,-81.422424,40.866706
-b7114432-0efb-4b42-a3f2-40c7035b4215,Sibling Revelry Brewing,micro,29305 Clemens Rd,,,Westlake,Ohio,44145-1008,United States,4404718589,http://www.siblingrevelrybrewing.com,-81.94620111,41.47040238
-55cb0b84-5e32-4a93-85d0-8cc26c00e12e,Sideswipe Brewing,micro,2419 Scioto Harper Dr,,,Columbus,Ohio,43204-3420,United States,6147199654,http://www.sideswipebrewing.com,-83.06626767,39.96723751
-1b104780-1145-4be5-8ffd-14ec7bd9532a,Sixth Sense Brewing Company,micro,175 Main St.,,,Jackson,Ohio,45640,United States,7405773681,http://www.sixthsensebrewing.com,-82.63876433,39.05323989
-61f48b53-84df-41ce-8dac-170b22a19caf,Smokehouse Brewing,brewpub,1130 Dublin Rd,,,Columbus,Ohio,43215-1039,United States,6144850227,http://www.smokehousebrewing.com,-83.047935,39.973715
+f5f1f831-49f9-4f95-a927-003a03a54ab5,Shale Craft Beer + Barbecue,brewpub,2700 Easton St NE,,,Canton,Ohio,44721,United States,3307768812,,-81.330913,40.872106
+b7114432-0efb-4b42-a3f2-40c7035b4215,Sibling Revelry Brewing,micro,29305 Clemens Rd,,,Westlake,Ohio,44145-1008,United States,4404718589,http://www.siblingrevelrybrewing.com,-81.946256,41.470109
+55cb0b84-5e32-4a93-85d0-8cc26c00e12e,Sideswipe Brewing,taproom,2419 Scioto Harper Dr,,,Columbus,Ohio,43204-3420,United States,6147199654,http://www.sideswipebrewing.com,-83.066939,39.967016
+1b104780-1145-4be5-8ffd-14ec7bd9532a,Sixth Sense Brewing Company,brewpub,175 Main St.,,,Jackson,Ohio,45640,United States,7404185167,http://www.sixthsensebrewing.com,-82.638675,39.052832
+61f48b53-84df-41ce-8dac-170b22a19caf,Smokehouse Brewing,brewpub,1130 Dublin Rd,,,Columbus,Ohio,43215-1039,United States,6144850227,http://www.smokehousebrewing.com,-83.048981,39.974453
 645db033-5fd1-47f2-aa98-8d996d148669,Snow Belt Brew,micro,9511 Kile Rd,,,Chardon,Ohio,44024,United States,,,,
+c9209aae-58fd-4db1-a793-ad86ef7122ca,Somewhere In Particular Brewing,brewpub,5055 Dierker Rd,,,Columbus,Ohio,43220,United States,5133487282,http://www.sipbrew.com,-83.075435,40.061778
 1d5af320-379d-4812-b7c9-a2cfe9e3b22d,Sonder Brewing,planning,,,,Maineville,Ohio,45039-8103,United States,6303473323,http://www.sonderbrewery.com,,
-25a9e66c-1c32-48fd-91d6-33cd1e134a72,Sons Of Toil Brewing LLC,micro,14090 Klein Rd,,,Mount Orab,Ohio,45154-8312,United States,5132509082,http://www.sonsoftoilllc.com/,,
+a1f2fb42-fd14-4925-9780-6fb65c5c933c,Sonder Brewing,micro,8584 Duke Blvd,,,Mason,Ohio,45040,United States,5139149581,http://www.sonderbrewing.com,-84.302087,39.313113
+25a9e66c-1c32-48fd-91d6-33cd1e134a72,Sons Of Toil Brewing LLC,taproom,14090 Klein Rd,,,Mount Orab,Ohio,45154-8312,United States,5132509082,http://www.sonsoftoilllc.com/,-83.87683,39.027485
+e010e9e7-176f-468a-931e-61c1f91b2405,Southern Ohio Brewing,taproom,818 Factory Rd,,,Beavercreek,Ohio,45434,United States,9377056690,http://www.southernohiobrewing.com,-84.027802,39.711765
 33b5dae7-7850-4d45-a7a5-8716f7bcb6c6,Southern Tier Brewing Co,planning,,,,Cleveland,Ohio,44115-1111,United States,,,,
-2e5cf2f4-d238-4eba-95f1-1d736e7cfa2e,Southside Brewing Co,brewpub,62920 Georgetown Rd,,,Cambridge,Ohio,43725-9749,United States,7404353222,http://www.southsidebrewing.net,,
+0e238e11-c567-4280-a660-648de73fbf59,Southern Tier Brewing Co,brewpub,811 Prospect Ave E,,,Cleveland,Ohio,44115-1111,United States,4404844045,,-81.687036,41.499167
+2e5cf2f4-d238-4eba-95f1-1d736e7cfa2e,Southside Brewing Co,brewpub,62920 Georgetown Rd,,,Cambridge,Ohio,43725-9749,United States,7404353222,http://www.southsidebrewing.net,-81.593351,40.013574
 0dfcc382-8b95-4506-a24d-6d5466af82d8,Spires Social Brewing Co.,micro,8757 Sancus Blvd,,,Columbus,Ohio,43240,United States,6144268057,http://www.spiressocial.com,-83.004836,40.1473396
-ac9ab389-9f5d-465a-a4fe-3634cb34de6f,Staas Brewing Company,micro,31 W Winter St,,,Delaware,Ohio,43015-1948,United States,7404174690,http://www.staasbrewing.com,-83.069285,40.300173
-121e183d-f8b2-4b24-8d45-a12a318f0629,Star City Brewing Company,micro,319 S 2nd St,,,Miamisburg,Ohio,45342-2926,United States,9377017827,http://www.starcitybrewing.com,-84.28859645,39.6379944
+ac9ab389-9f5d-465a-a4fe-3634cb34de6f,Staas Brewing Company,taproom,31 W Winter St,,,Delaware,Ohio,43015-1948,United States,7404174690,http://www.staasbrewing.com,-83.069204,40.300112
+f6ebf8b3-6711-4bf5-aa3e-197fd569c6a0,Star Brick Brewing At Hocking College,brewpub,The Lodge At Hocking College,,,Nelsonville,Ohio,45764,United States,7407533591,,-82.2327,39.4481
+121e183d-f8b2-4b24-8d45-a12a318f0629,Star City Brewing Company,taproom,319 S 2nd St,,,Miamisburg,Ohio,45342-2926,United States,9377017827,http://www.starcitybrewing.com,-84.288815,39.637566
 4142b73a-3079-4c57-ac64-9577f134a13b,Stein Brewing Company,planning,,,,Mount Vernon,Ohio,43050-3323,United States,,http://www.SteinBrewCo.com,,
-1068e771-b1ba-47d0-960b-03ef44043ecd,Streetside Brewery,micro,4003 Eastern Ave,,,Cincinnati,Ohio,45226-1747,United States,5136155877,,-84.43295078,39.10919541
-d077007b-16b4-4539-9a36-b7485b89af98,Swine City Brewing Company,micro,4614 Industry Dr,,,Fairfield,Ohio,45014-1923,United States,7045601214,http://www.swinecitybrewing.com,-84.53106178,39.34895418
+3c08716e-1fe9-407f-a26f-a25737ecc0ef,Stein Brewing Company,brewpub,109 South Main Street,,,Mount Vernon,Ohio,43050,United States,7408306760,http://www.SteinBrewCo.com,-82.485881,40.392399
+1068e771-b1ba-47d0-960b-03ef44043ecd,Streetside Brewery,taproom,4003 Eastern Ave,,,Cincinnati,Ohio,45226-1747,United States,5136155877,,-84.433119,39.109143
+d077007b-16b4-4539-9a36-b7485b89af98,Swine City Brewing Company,taproom,4614 Industry Dr,,,Fairfield,Ohio,45014-1923,United States,7045601214,http://www.swinecitybrewing.com,-84.530694,39.348932
 251283fc-99a8-447b-b6ba-bf80a8c2ebce,Taft's Ale House,micro,1429 Race St,,,Cincinnati,Ohio,45202-7009,United States,,,-84.51750995,39.111325
 bb0ddc58-bfea-4564-8c6a-052d6445d0d4,Taft's Brewing Co,brewpub,4831 Spring Grove Ave,,,Cincinnati,Ohio,45232-1938,United States,5138535016,,-84.5127071,39.1681213
-08eeda9e-f259-42eb-a3db-4e52d38b66e8,Tailspin Brewing Co,micro,626 S 2nd St,,,Coldwater,Ohio,45828-9603,United States,4198529366,http://Www.TailspinBrewing.co,-84.6288605,40.47316407
+d5031f40-40cd-4c53-81f4-a33da3ee3543,Taft's Brewing Co- Brewpourium Cincinnati,regional,4831 Spring Grove Ave,,,Cincinnati,Ohio,45232-1938,United States,5138535016,http://www.taftsbeer.com,-84.512828,39.168083
+d875d23f-26ac-45b3-be28-7f178e2c4d56,Taft's Brewing Co- Brewpourium Columbus,brewpub,440 W Broad St,,,Columbus,Ohio,43215,United States,8592295303,,-83.012244,39.960986
+3f81ac7b-a25a-4f76-b5f2-eb8e7f28eab6,Taft's Brewing Co-Ale House,micro,1429 Race Street,,,Cincinnati,Ohio,45202,United States,8592295303,http://www.taftsbeer.com,-84.517525,39.111365
+08eeda9e-f259-42eb-a3db-4e52d38b66e8,Tailspin Brewing Co,taproom,626 S 2nd St,,,Coldwater,Ohio,45828-9603,United States,4198529366,http://Www.TailspinBrewing.co,-84.629394,40.472582
 6a7335ee-c49f-4220-89f4-f239d5bf089c,Tap and Screw Brewery,brewpub,4721 Red Bank Rd,,,Cincinnati,Ohio,45277,United States,5134511763,http://www.tapandscrew.com,-84.40434316,39.158691
-ba1f3a28-30d7-4a1f-bf5f-e1c858d3ef97,Temperance Row Brewing and Uptown Deli,brewpub,41 N State St,,,Westerville,Ohio,43081-2123,United States,6148912337,http://www.uptowndeliandbrew.com,-82.92806564,40.11493135
-7000641c-5ae1-4c4e-9c82-8b18d7a12660,Terrestrial Brewing Company,micro,7524 Father Frascati Dr,,,Cleveland,Ohio,44102-2087,United States,2164659999,,-81.7361552,41.4869219
+ba1f3a28-30d7-4a1f-bf5f-e1c858d3ef97,Temperance Row Brewing and Uptown Deli,brewpub,41 N State St,,,Westerville,Ohio,43081-2123,United States,6148912337,http://www.uptowndeliandbrew.com,-82.932197,40.126999
+7000641c-5ae1-4c4e-9c82-8b18d7a12660,Terrestrial Brewing Company,taproom,7524 Father Frascati Dr,,,Cleveland,Ohio,44102-2087,United States,2164703435,,-81.736864,41.487177
 3141c2ff-c808-4ef7-a8bf-77abe27fda02,The Blue Heron Brewery,planning,,,,Hinckley,Ohio,44233,United States,,http://www.bookblueheron.com,,
-609ff65b-c360-4866-be7c-8ae0f56dc818,The BottleHouse Brewery And Meadery,micro,2050 Lee Rd,,,Cleveland Heights,Ohio,44118-2557,United States,2162142120,http://www.thebottlehousebrewingcompany.com,-81.5658351,41.503726
-0d0e109d-9d2b-4ada-b823-00026df3a5e8,The Brew Brothers / Scioto Downs Racino,brewpub,6000 S. High Street,,,Columbus,Ohio,43207,United States,614-295-4675,https://www.sciotodowns.com/venue/restaurants/brew-brothers?utm_source=gmb&utm_medium=brew%20brothers,-82.995426,39.922819
-b40519e8-a25b-4443-828f-8082a3a31ba3,"The Brew Kettle, Taproom and Smokehouse",brewpub,8377 Pearl Rd,,,Strongsville,Ohio,44136-1637,United States,4402398788,http://www.thebrewkettle.com,-81.8224061,41.3471323
+73e693db-5356-47c0-9929-9c8ee458a79e,The Blue Heron Brewery,brewpub,3227 Blue Heron Trace,,,Medina,Ohio,44256,United States,3305208511,http://www.bookblueheron.com,-81.80451,41.112296
+609ff65b-c360-4866-be7c-8ae0f56dc818,The BottleHouse Brewery And Meadery,taproom,2050 Lee Rd,,,Cleveland Heights,Ohio,44118-2557,United States,2162142120,http://www.thebottlehousebrewingcompany.com,-81.565879,41.503608
+0d0e109d-9d2b-4ada-b823-00026df3a5e8,The Brew Brothers / Scioto Downs Racino,brewpub,6000 S. High Street,,,Columbus,Ohio,43207,United States,6142954700,,-82.9675,39.9006
+691275a7-bb03-428f-b546-44a9dbe70a53,The Brew Kettle - Amherst,brewpub,300 Church St,,,Amherst,Ohio,44001,United States,4409842739,http://www.thebrewkettle.com/locations/amherst,-82.225402,41.397448
+2b96d746-1d42-4f92-98d3-ffd5a8c170d4,The Brew Kettle - Mentor,brewpub,7850 Mentor Ave,,,Mentor,Ohio,44060,United States,,,-81.361115,41.659929
+b40519e8-a25b-4443-828f-8082a3a31ba3,"The Brew Kettle, Taproom and Smokehouse",brewpub,8377 Pearl Rd,,,Strongsville,Ohio,44136-1637,United States,4402398788,http://www.thebrewkettle.com,-81.822807,41.347415
 a38fc148-8e8e-4e22-84d2-d67be494a013,The Brew Mentor,micro,9528 Diamond Centre Dr,,,Mentor,Ohio,44060-1876,United States,4409512739,http://www.thebrewmentor.com,-81.30001012,41.71468462
 50530753-54b2-41d2-9d48-cab429a76c7c,The Brick Oven Brewpub,brewpub,604 Canton Rd,,,Akron,Ohio,44312-2513,United States,3304757005,http://www.thebrickovenbrewpub.com,-81.43734194,41.04719534
-18ac6fc1-dc25-49ba-b4a3-63d8139270af,The Cleveland Brewery,micro,777 E 185th St,,,Cleveland,Ohio,44119-2170,United States,2165346992,http://Www.facebook.com/216brew,-81.549766,41.586428
+18ac6fc1-dc25-49ba-b4a3-63d8139270af,The Cleveland Brewery,taproom,777 E 185th St,,,Cleveland,Ohio,44119-2170,United States,2165346992,http://Www.facebook.com/216brew,-81.549677,41.586393
 a3307ec6-4c65-49fb-85e2-8fc48bd2b95c,The Common Beer Company,planning,,,,Mason,Ohio,45040,United States,5136580170,https://commonbeercompany.com/,,
-16025731-a854-4661-8786-8151d8db7f15,The Jolly Scholar,brewpub,11111 Euclid Ave,,,Cleveland,Ohio,44106-1715,United States,2163680090,http://www.thejollyscholar.com,-81.60836498,41.5074076
-5c34509f-9eb7-4321-ba65-68eefc23c536,The Laird Arcade Brewery,micro,114 S Washington St Ste D,,,Tiffin,Ohio,44883-3915,United States,4196186489,,,
+13c427d7-d38c-4c7b-84c3-d8b18b0cdc5e,The Common Beer Company,taproom,126 E Main St,,,Mason,Ohio,45040,United States,5132040023,http://www.commonbeercompany.com,-84.306902,39.361543
+16025731-a854-4661-8786-8151d8db7f15,The Jolly Scholar,brewpub,11111 Euclid Ave,,,Cleveland,Ohio,44106-1715,United States,2163680090,http://www.thejollyscholar.com,-81.608419,41.506723
+5c34509f-9eb7-4321-ba65-68eefc23c536,The Laird Arcade Brewery,taproom,114 S Washington St Ste D,,,Tiffin,Ohio,44883-3915,United States,4196186489,,-83.176721,41.114442
+ee62e434-f096-44b0-8b2f-e6d80d146ba3,The Lebanon Brewing Company,brewpub,20 West Silver St,,,Lebanon,Ohio,45036,United States,5132881131,http://www.lebanonbrewingco.com,-84.209522,39.435875
 ed81bb82-b081-445b-98f2-0af438ce3ddc,The Lodge Restaurant & Microbrewery,brewpub,29042 Hide AWay Hills Rd,,,Sugar Grove,Ohio,43155,United States,7405697944,http://www.hideawayhillslodge.com,,
-b351f9ac-ec78-4778-8dbf-a5359bdf5bd0,The Phoenix Brewing Company,micro,131 N Diamond St,,,Mansfield,Ohio,44902-1331,United States,4195222552,http://www.phoenixbrewing.com,-82.51395188,40.76201837
-b94e8965-6f1f-4e08-b741-38484f8cb4a9,The Vine N Hop Shop,micro,1327 N. Carpenter Rd.,,,Brunswick,Ohio,44212,United States,3306236940,http://www.vinehop.com,,
-efc1fdf0-8856-4d35-b0e9-d6ac2736043a,The Woodburn Brewery,micro,2800 Woodburn Ave,,,Cincinnati,Ohio,45206-1793,United States,5132212337,http://www.woodburnbrewery.com,-84.4768398,39.1289592
+1b7835dd-1240-4cd2-8b5e-7a49cdb8ac60,The Loramie Brewing Co,brewpub,17 N Main St,,,Fort Loramie,Ohio,45845,United States,9378972739,http://www.theloramiebrewbank.com,-84.374782,40.350272
+5e6beac0-e94a-4eca-82fd-73273dd1325c,The Lot Beer Co,brewpub,140 North Prospect Street,,,Granville,Ohio,43023,United States,,,-82.51816,40.068778
+2c41f59a-f36a-4677-b9fc-c26a15fbbacc,The Old Fool Brewery,brewpub,17495 Pinewood Trail Road Northeast,,,Newark,Ohio,43055,United States,7408779432,http://https://www.oldfoolbrewery.com/,-82.4038,40.0794
+b351f9ac-ec78-4778-8dbf-a5359bdf5bd0,The Phoenix Brewing Company,taproom,131 N Diamond St,,,Mansfield,Ohio,44902-1331,United States,4195222552,http://www.phoenixbrewing.com,-82.51413,40.761956
+ce8c0ef9-fefb-4e60-a00c-8022208ac1b4,The Pine Lake Brewing Company,brewpub,14101 Market Street,,,Columbiana,Ohio,44408,United States,3305490195,http://www.thevineyardsatpinelake.com/the-pine-lake-brewing-company,-80.644944,40.912747
+cba0cbdd-1230-44f1-bf2d-f0a64ccb4972,"The Tiffin Brewery / AH Brewing, LLC",taproom,277 Wall St,,,Tiffin,Ohio,44883,United States,5678049380,http://tiffinbrewery.com,-83.187269,41.122596
+ebf6abd3-4459-4613-a1ec-9234b8904513,The UrbanWoody Brewery,taproom,105 E Tiffin St,,,Fostoria,Ohio,44830,United States,4197885979,http://www.theurbanwoody.com,-83.413781,41.156443
+b94e8965-6f1f-4e08-b741-38484f8cb4a9,The Vine N Hop Shop,taproom,1327 N. Carpenter Rd.,,,Brunswick,Ohio,44212,United States,3306236940,http://www.vinenhop.com,-81.807893,41.239618
+efc1fdf0-8856-4d35-b0e9-d6ac2736043a,The Woodburn Brewery,taproom,2800 Woodburn Ave,,,Cincinnati,Ohio,45206-1793,United States,5132212337,http://www.woodburnbrewery.com,-84.476708,39.128929
 261457bf-6164-49da-b03e-88ce62b1ce17,Third Eye Brewery,planning,,,,Cincinnati,Ohio,45246,United States,,http://www.thirdeyebrewingcompany.com,,
-3a6986ab-3cfc-4301-9689-aff66afb46d7,Thirsty Dog Brewing Company,micro,529 Grant St Ste 103,,,Akron,Ohio,44311-1184,United States,3302522739,http://www.thirstydog.com,-81.51788487,41.0698532
+f0625cec-ea5b-4896-8e23-075ce323cff9,Third Eye Brewing Company,micro,11276 Chester Rd,,,Cincinnati,Ohio,45246-4013,United States,5137712739,http://www.thirdeyebrewingco.com,-84.443254,39.278153
+3a6986ab-3cfc-4301-9689-aff66afb46d7,Thirsty Dog Brewing Company,micro,529 Grant St Ste 103,,,Akron,Ohio,44311-1184,United States,3302522739,http://www.thirstydog.com,-81.517228,41.068897
 4aa52f48-c03f-45a4-833c-9526e37b2a69,Three Points Urban Brewery,micro,331 E 13th St,,,Cincinnati,Ohio,45202-7307,United States,5135555555,http://www.3pointsbeer.com,-84.509442,39.11009082
-80277c37-d557-4a42-8c92-19126cc96dfc,Three Tigers Brewing Company,brewpub,140 N Prospect St,,,Granville,Ohio,43023-1337,United States,7409204680,http://www.threetigersbrewing.com,-82.51826713,40.06839886
-f1f9309d-bf1e-4b7a-95b8-ea3505cad878,Toxic Brew Company,brewpub,431 E 5th St,,,Dayton,Ohio,45402-2911,United States,9379853618,http://www.toxicbrewcompany.com,-84.1843655,39.75724887
-ac5b056f-49e7-4785-b58a-4ce34e6934c6,Trek Brewing,micro,1486 Granville Rd,,,Newark,Ohio,43055-1538,United States,,http://www.trekbeer.com,-82.45564409,40.05722817
+80277c37-d557-4a42-8c92-19126cc96dfc,Three Tigers Brewing Company,brewpub,133 North Prospect Street,,,Granville,Ohio,43023,United States,7409204680,http://www.threetigersbrewing.com,-82.518519,40.068775
+0e57c697-48ea-46c1-bf6d-2ac81bbacb95,Three Tigers Brewing Company,brewpub,133 North Prospect Street,,,Granville,Ohio,43023,United States,7409204680,http://www.threetigersbrewing.com,-82.518519,40.068775
+03f5413a-dc8b-462a-99e6-a72d32a93858,Tipsy Farmer Winery,taproom,32849 Speidel Road,,,Hanoverton,Ohio,44423,United States,3302229737,,-80.881742,40.776473
+f1f9309d-bf1e-4b7a-95b8-ea3505cad878,Toxic Brew Company,brewpub,431 E 5th St,,,Dayton,Ohio,45402-2911,United States,9379853618,http://www.toxicbrewcompany.com,-84.183939,39.757393
+ac5b056f-49e7-4785-b58a-4ce34e6934c6,Trek Brewing,brewpub,1486 Granville Rd,,,Newark,Ohio,43055-1538,United States,7402813394,http://www.trekbeer.com,-82.455898,40.057772
 e53fb44b-d194-49f0-9549-c8355297616d,TwentyNine Brewpub,brewpub,1775 Marion-Waldo Rd,,,Marion,Ohio,43302,United States,7407514586,,-83.1163533,40.55509204
-3d49e8be-de9a-4688-8483-9ffdf3037bf3,Twin Oast Brewing,brewpub,3630 NE Catawba Rd,,,Catawba Island,Ohio,43452,United States,4195736126,http://www.twinoast.com,-82.832581,41.578044
-183f1e6c-ef70-449f-a77b-de8913b19e2b,Two Bandits Brewing Company,brewpub,106 E High St,,,Hicksville,Ohio,43526,United States,4195421087,,-84.76170108,41.29361163
-5edd07f2-5db8-4527-b234-227b23129c43,Two Monks Brewing Company,micro,352 Massillon Rd,,,Akron,Ohio,44312-2021,United States,2347382337,http://www.2monksbru.com,-81.46292368,41.05205025
-6812f970-918c-4d57-be26-4b33baff46f0,Uniontown Brewing Co.,brewpub,105 W Main St,,,Ashland,Ohio,44805-2221,United States,4199088542,http://www.uniontownbrewing.com,-82.31638932,40.8686238
-4e18f3a1-a457-412a-a724-e48c5cf72dc2,Upside Brewing,brewpub,5692 N Main St,,,Sylvania,Ohio,43560-1928,United States,4198826061,http://www.facebook.com/UpsideBrewing,,
-c5f18c89-13af-4176-8e2d-9c58ffa7c4b2,Urban Artifact,micro,1660 Blue Rock St,,,Cincinnati,Ohio,45223-2554,United States,,http://www.artifactbeer.com,-84.54196282,39.1607827
-76aca7b3-9521-49b0-bc20-96fa67e4b42f,Valley Vineyards Winery & Cellar Dweller Brewing,brewpub,2276 E US Highway 22 and 3,,,Morrow,Ohio,45152-9414,United States,5138992485,http://www.valleyvineyards.com,,
+3d49e8be-de9a-4688-8483-9ffdf3037bf3,Twin Oast Brewing,brewpub,3630 NE Catawba Rd,,,Catawba Island,Ohio,43452,United States,4195736126,http://www.twinoast.com,-82.834864,41.577219
+183f1e6c-ef70-449f-a77b-de8913b19e2b,Two Bandits Brewing Company,brewpub,106 E High St,,,Hicksville,Ohio,43526,United States,4195421087,,-84.761897,41.293191
+5edd07f2-5db8-4527-b234-227b23129c43,Two Monks Brewing Company,taproom,352 Massillon Rd,,,Akron,Ohio,44312-2021,United States,2347382337,http://www.2monksbru.com,-81.463004,41.051959
+b955170e-57be-4c3d-9f81-0d75d5f9c887,Understory,brewpub,2571 Neil Ave,,,Columbus,Ohio,43202,United States,,,-83.014186,40.014338
+b29e3e6b-98c3-4031-9459-e5248d606fce,UnHitched Brewing Company,brewpub,115 s mill st,,,louisville,Ohio,44641,United States,3308718021,http://www.unhitched.beer,-81.258272,40.837245
+6812f970-918c-4d57-be26-4b33baff46f0,Uniontown Brewing Co.,brewpub,105 W Main St,,,Ashland,Ohio,44805-2221,United States,4199088542,http://www.uniontownbrewing.com,-82.316428,40.868383
+21d4fe70-96ec-40ff-8829-d1e75e530f6e,Unplugged Brewing Co.,brewpub,201 East Bridge Street,,,Elyria,Ohio,44035,United States,4405062466,http://www.unplugbrew.com,-82.098297,41.368692
+4e18f3a1-a457-412a-a724-e48c5cf72dc2,Upside Brewing,brewpub,5692 N Main St,,,Sylvania,Ohio,43560-1928,United States,4198826061,http://www.facebook.com/UpsideBrewing,-83.702822,41.716961
+c5f18c89-13af-4176-8e2d-9c58ffa7c4b2,Urban Artifact,micro,1660 Blue Rock St,,,Cincinnati,Ohio,45223-2554,United States,5135424222,http://www.artifactbeer.com,-84.542263,39.160535
+8a3c5c83-00cb-49cd-b7ba-548164ead8b4,Urbana Brewing Company,taproom,35 Monument Square,,,Urbana,Ohio,43078,United States,,http://www.urbanabrewingco.com,-83.752907,40.108505
+76aca7b3-9521-49b0-bc20-96fa67e4b42f,Valley Vineyards Winery & Cellar Dweller Brewing,brewpub,2276 E US Highway 22 and 3,,,Morrow,Ohio,45152-9414,United States,5138992485,http://www.valleyvineyards.com,-84.171348,39.357607
 aa0393b5-3623-4eeb-98c8-56547386d4eb,Veteran Brewhouse,micro,829 CR 801,,,Ashland,Ohio,44805,United States,4196064014,http://www.veteranbrewhouse.com,,
-1c9765e4-b86d-4127-8403-ba0eaa4a6e68,Virant Family Winery / Black Angus Brewery,micro,541 Atkins Rd,,,Geneva,Ohio,44041,United States,4404666279,http://www.virantfamilywinery.com,,
-298c427c-b928-4d61-a268-9f09b793699f,Wadsworth Brewing Company,brewpub,126 Main St,,,Wadsworth,Ohio,44281-1432,United States,3304754935,http://www.wadsworthbrewingcompany.com,-81.72980288,41.02478661
+1c9765e4-b86d-4127-8403-ba0eaa4a6e68,Virant Family Winery / Black Angus Brewery,brewpub,541 Atkins Rd,,,Geneva,Ohio,44041,United States,4404666279,http://www.virantfamilywinery.com,-80.991905,41.738059
+298c427c-b928-4d61-a268-9f09b793699f,Wadsworth Brewing Company,brewpub,126 Main St,,,Wadsworth,Ohio,44281-1432,United States,3304754935,http://www.wadsworthbrewingcompany.com,-81.729937,41.02494
 4bf53592-21c4-46b8-96a8-595144ed971d,Wandering Griffin,planning,,,,Beavercreek,Ohio,45324-9095,United States,9379565216,http://www.wanderinggriffin.com,,
-12af83ba-36ce-4066-b886-af36123e0644,Warped Wing Brewing Co,micro,26 Wyandot St,,,Dayton,Ohio,45402-2145,United States,9372227003,http://www.warpedwing.com,,
-a828db31-d32a-4fb3-a96b-46ba8c1cb9f8,Weasel Boy Brewing Co  LLC,brewpub,126 Muskingum Ave Unit E,,,Zanesville,Ohio,43701-4921,United States,7404553767,http://www.weaselboybrewing.com,,
+12af83ba-36ce-4066-b886-af36123e0644,Warped Wing Brewing Company,micro,26 Wyandot St,,,Dayton,Ohio,45402-2145,United States,9372227003,http://www.warpedwing.com,-84.185404,39.759731
+259a7c00-4d07-4ac1-902c-9904a3dd0404,Warped Wing Brewing Company Barrel Room & Smokery,brewpub,25 Wright Station Way,,,Springboro,Ohio,45066,United States,9372227003,,-84.2285,39.5472
+844b6494-a673-458e-b2fa-abe03d90125b,Warped Wing Brewpub & Smokery,brewpub,5650 Tylersville Rd,,,Mason,Ohio,45040,United States,9372227003,,-84.321402,39.353041
+a828db31-d32a-4fb3-a96b-46ba8c1cb9f8,Weasel Boy Brewing Co  LLC,brewpub,126 Muskingum Ave Unit E,,,Zanesville,Ohio,43701-4921,United States,7404553767,http://www.weaselboybrewing.com,-82.009475,39.936392
 80d05615-2f61-4e0e-8d1e-d3f25d70d960,West East Brewing Co,contract,4125 Lorain Ave,,,Cleveland,Ohio,44113-3718,United States,2162021386,,-81.7140045,41.4799605
+780cbb73-3699-42d5-8579-17901caef59d,West Main Street Winery and Brewery,brewpub,234 West Main Street,,,Ravenna,Ohio,44266,United States,3308398042,http://https://wmswinery.com/,-81.244482,41.157993
 6d54504b-074c-417a-bb3a-008e26e0b662,West Side Brewing,micro,3044 Harrison Ave,,,Cincinnati,Ohio,45211-5752,United States,5136612337,http://www.westsidebrewing.com,-84.598433,39.14890246
-4c4f077d-6ffa-44bb-aa9d-8cf3116db0a4,White Shutter Winery and Brewery,micro,3794 County Hwy 56,,,Nevada,Ohio,44849,United States,4198352900,http://www.whiteshutterwinery.com,,
-43ad77a1-454e-4e77-8f8a-8e7c2b542da6,"Wiedemann Brewing Co, LLC",micro,4811 Vine St,,,Cincinnati,Ohio,45217-1217,United States,5138009560,http://www.wiedemannbeer.com,-84.4746169,39.2072785
-bccbb662-6467-4d57-816e-9cb99adcfa30,Wild Side Brewing Company,micro,24194 Front St,,,Grand Rapids,Ohio,43522,United States,4193892776,http://www.wildsidebrewing.com,-83.86731385,41.41253259
+4c4f077d-6ffa-44bb-aa9d-8cf3116db0a4,White Shutter Winery and Brewery,brewpub,3794 County Hwy 56,,,Nevada,Ohio,44849,United States,4193100834,http://www.whiteshutterwinery.com,-83.184243,40.805619
+43ad77a1-454e-4e77-8f8a-8e7c2b542da6,"Wiedemann Brewing Co, LLC",brewpub,4811 Vine St,,,Cincinnati,Ohio,45217-1217,United States,5138009560,http://www.wiedemannbeer.com,-84.497889,39.168345
+bccbb662-6467-4d57-816e-9cb99adcfa30,Wild Side Brewing Company,brewpub,24194 Front St,,,Grand Rapids,Ohio,43522,United States,4193892776,http://www.wildsidebrewing.com,-83.868097,41.41255
 bedf2a5f-08b9-4db2-80d9-66bb6e6e5175,Willoughby Brewing Co,brewpub,4057 Erie St,,,Willoughby,Ohio,44094-7804,United States,4409750202,http://www.willoughbybrewing.com,-81.40548972,41.64152155
-632d6d8c-2f43-479e-aca7-a843624023c7,Wolf's Ridge Brewing,micro,215 N 4th St,,,Columbus,Ohio,43215-2510,United States,6144293936,http://www.wolfsridgebrewing.com,-82.99517953,39.9577586
-5a81d70c-7d2b-4f40-b878-e8c4e147ce92,Wooly Pig Farm Brewery,micro,23631 Township Road 167,,,Fresno,Ohio,43824-9704,United States,7406935050,http://www.woolypigfarmbrewery.com,-81.73572372,40.2914144
-a8c90d87-a9e7-45b5-a8db-c58ed9780676,Working Class Brewery,micro,17448 Lorain Ave,,,Cleveland,Ohio,44111-4028,United States,2164175112,http://www.workingclassbrewery.com,-81.820461,41.44993
-32e48cef-1c43-4445-bba4-d8d5c7e626dd,Y Bridge Brewing Company,micro,1417 Linden Ave,,,Zanesville,Ohio,43701,United States,7408684265,,-82.00422961,39.95603429
-5be46e78-dd4c-44c7-9164-6aa1f502af37,Yellow Springs Brewery,micro,305 N Walnut St Ste B,,,Yellow Springs,Ohio,45387-2059,United States,9377670222,http://www.yellowspringsbrewery.com,,
+632d6d8c-2f43-479e-aca7-a843624023c7,Wolf's Ridge Brewing,micro,215 N 4th St,,,Columbus,Ohio,43215-2510,United States,6144293936,http://www.wolfsridgebrewing.com,-82.997615,39.967273
+2c9b6775-8165-4a6e-bd05-630ebf1d49ba,Wolf's Ridge Brewing Production Operations,micro,660 N Hague Ave,,,Columbus,Ohio,43204,United States,,,-83.078281,39.968006
+5a81d70c-7d2b-4f40-b878-e8c4e147ce92,Wooly Pig Farm Brewery,taproom,23631 Township Road 167,,,Fresno,Ohio,43824-9704,United States,7406935050,http://www.woolypigfarmbrewery.com,-81.734481,40.292537
+a8c90d87-a9e7-45b5-a8db-c58ed9780676,Working Class Brewery,micro,17448 Lorain Ave,,,Cleveland,Ohio,44111-4028,United States,2164175112,http://www.workingclassbrewery.com,-81.818066,41.45019
+30bfc379-efec-41ff-86ad-4ddb37b4dea1,Wrecking Crew Brew Works,micro,144 North Court Street,,,Medina,Ohio,44256,United States,3309521480,http://www.wreckingcrewbrewworks.com,-81.863593,41.140365
+32e48cef-1c43-4445-bba4-d8d5c7e626dd,Y Bridge Brewing Company,taproom,1417 Linden Ave,,,Zanesville,Ohio,43701,United States,7408684265,,-82.004419,39.956274
+5be46e78-dd4c-44c7-9164-6aa1f502af37,Yellow Springs Brewery,micro,305 N Walnut St Ste B,,,Yellow Springs,Ohio,45387-2059,United States,9377670222,http://www.yellowspringsbrewery.com,-83.888998,39.810043
+4ff4c9b2-e774-40a6-bb91-11537fc6f338,Yellow Springs Brewery Barrel Room,taproom,1475 Xenia Ave,,,Yellow Springs,Ohio,45387,United States,9373196024,http://www.yellowspringsbrewery.com/barrel-room,-83.898778,39.790443
+e65be0d2-e99c-4064-b60c-e58735952bc3,Zaftig Brewing Co - Italian Village,brewpub,119 E Fifth Ave,,,Columbus,Ohio,43201,United States,6149021730,http://www.drinkzaftigitalianvillage.com,-83.002215,39.98687
 ea88eaf9-2b9c-4073-8d37-5af9e4b8c166,Zaftig Brewing Co.,micro,7020 Huntley Rd Ste A,,,Columbus,Ohio,43229-1050,United States,6146362537,http://www.drinkzaftig.com,-83.0003532,40.1063329
+681eabd2-548c-4f37-9f92-f41569a76742,Zaftig Brewing Company,taproom,7020 A Huntley Road,,,Columbus,Ohio,43229,United States,6146362537,http://www.drinkzaftig.com,-82.997212,40.106205

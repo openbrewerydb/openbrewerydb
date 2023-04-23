@@ -3,141 +3,207 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 be0ec266-d637-42e4-94ba-4ce21e456054,2nd Shift Brewing Co,brewpub,1601 Sublette Ave,,,Saint Louis,Missouri,63110-1924,United States,6187910728,http://www.2ndshiftbrewing.com,-90.280526,38.621943
 cb56e27e-d113-4f74-925a-69305a56d082,3 Trails Brewing Co,micro,"111 N Main St ",,,Independence,Missouri,64050,United States,8168866256,http://www.3trailsbrewing.com,-94.41265,39.122385
 4f70ac94-eca5-4cec-8581-92ec5afdf4f2,3Halves Brewing Co,brewpub,110 E Kansas St,,,Liberty,Missouri,64068-2374,United States,8164296886,http://www.3halvesbrewingco.com,-94.4190247,39.2461993
-b72f2ce6-e062-404d-ac31-c1060db2d870,4 By 4 Brewing Company,micro,2811 E Galloway St Ste A,,,Springfield,Missouri,65804-4601,United States,4178616400,http://www.4by4brewingcompany.com,-93.239889,37.147986
-ac2f41ed-e1e8-4586-aa78-253543db7714,4 Hands Brewing Co,regional,1220 S 8th St,,,Saint Louis,Missouri,63104-3610,United States,3144361559,http://www.4handsbrewery.com,-90.19762012,38.61526593
+583e4fb5-e1af-4094-a71b-9dfae26432fa,"3Halves Brewing Co, LLC",taproom,110 E Kansas St Liberty MO,,,LIBERTY,Missouri,64068,United States,6606541689,http://3Halvesbrewingco.com,-94.4238,39.2465
+b72f2ce6-e062-404d-ac31-c1060db2d870,4 By 4 Brewing Company,taproom,2811 E Galloway St Ste A,,,Springfield,Missouri,65804-4601,United States,,http://www.4by4brewingcompany.com,-93.239909,37.147801
+ac2f41ed-e1e8-4586-aa78-253543db7714,4 Hands Brewing Co,regional,1220 S 8th St,,,Saint Louis,Missouri,63104-3610,United States,3144361559,,-90.197664,38.615048
+8615f2a8-bff2-4734-9e7d-d9687acc5fd9,"A-Squared Brewing Company, LLC",brewpub,2400 N Main Ave,,,Mountain Grove,Missouri,65711-1449,United States,4179262266,,-92.262841,37.151897
 085c97d4-5a01-4e28-a1c6-683bf773b062,Alma Mader Brewing,micro,2635 Southwest Blvd,,,Kansas City,Missouri,64108,United States,8169452589,http://almamaderbrewing.com,-94.599389,39.082495
-0edb8050-2911-4a04-a99a-7927e05cd018,Alpha Brewing Co.,micro,4310 Fyler Ave,,,Saint Louis,Missouri,63116,United States,3146212337,http://www.alphabrewingcompany.com,-90.26236838,38.59861817
+02139ce0-364a-40b2-b538-d53363f9f05f,Alma Mader Brewing,taproom,2635 Southwest Boulevard,,,Kansas City,Missouri,64108,United States,,http://www.almamaderbrewing.com,-94.599078,39.07942
+0edb8050-2911-4a04-a99a-7927e05cd018,Alpha Brewing Co.,taproom,4310 Fyler Ave,,,Saint Louis,Missouri,63116,United States,3146212337,http://www.alphabrewingcompany.com,-90.262593,38.598386
 32dd19c9-33b8-4ed5-b5f0-1fb5f5d8ad02,Amerisports Brew Pub,brewpub,3200 Ameristar Dr,,,Kansas City,Missouri,64161,United States,8164147435,http://www.ameristar.com,-94.484526,39.150682
+f51e2171-870d-4d83-95ac-2ae50db5ca51,Angry Swede Brewing Company,taproom,513 Francis St,,,Saint Joseph,Missouri,64501,United States,,,-94.853589,39.767588
 d1a61260-d377-4e7d-8ce9-8851e30934ae,Anheuser-Busch InBev,large,1 Busch Pl,,,Saint Louis,Missouri,63118-1849,United States,3145772000,http://www.anheuser-busch.com,-90.2118998,38.5954536
+cdfbdc92-f3c5-453d-8160-d613c3c8687a,Apex Aleworks,taproom,4356 Noland Rd,,,Independence,Missouri,64055-4741,United States,8163135039,http://www.apexaleworks.com,-94.415533,39.041368
 e61dc891-91d8-4a0f-a55e-b5e34acc97fd,Apex Aleworks Brew And BBQ Supplies,micro,4360 S Noland Rd,,,Independence,Missouri,64055-4741,United States,8163135039,http://www.apexaleworks.com,-94.416872,39.041039
 084a0621-2a9d-4588-825e-5c5cebc4e8db,Arcadian Moon,brewpub,19203 Old Highway 40,,,Higginsville,Missouri,64037,United States,6605846661,http://www.arcadianmoon.com,-93.773203,39.001467
+238e6ce8-58f8-4856-845c-3b6476aa4249,Atlas Saloon Brewery,brewpub,100 W Broadway St,,,Excelsior Springs,Missouri,64024,United States,8166309229,http://www.atlassaloon.com,-94.223337,39.3425
 895ef2f2-7ce5-44c7-af97-ee9c7cce774b,Augusta Brewing Co,brewpub,109 W Main St,,,Washington,Missouri,63090-2191,United States,6362395010,http://www.augustabrewing.com,-91.01173472,38.56026935
+25f372b1-a5b0-4e28-8ace-7e78ae0b4765,Back Home Brewing Company,brewpub,1502 S 3rd St,,,Ozark,Missouri,65721,United States,4175810782,,-93.205695,37.006127
+0f8e2105-1656-4e1d-a447-c585f664a1e0,Banter Brewing Co,taproom,330 W Plainview Rd,,,Springfield,Missouri,65810,United States,,http://www.facebook.com/banterbrewingco,-93.299053,37.116144
 7cdb5832-f9fb-421c-b94c-3989c6240894,"Bard's Brewery, LLC",proprietor,,,,Lees Summit,Missouri,64063-0905,United States,8167281707,http://www.bardsbeer.com,,
 66e4ffa1-88da-4a41-8bf3-fea86dbcaada,Bastard Brothers Brewing Company,micro,2114 Penta Dr,,,High Ridge,Missouri,63049-2684,United States,3145203401,http://www.bastardbrothersbrewery.com,-90.503349,38.48282
-cfd1342e-ac6e-4c57-9d5c-c120c6d7468b,Beard Engine Brewing Co,micro,208 Main St,,,Alba,Missouri,64830,United States,4174830709,,-94.418276,37.248046
+5ee7c5a6-ef5d-4b2a-81e6-108039dac682,Bear Creek Wine Company And Brewery,brewpub,1320 Keithley Rd,,,Walnut Shade,Missouri,65771,United States,4174430036,http://www.bearcreekwinecompany.com,-93.247549,36.802952
+cfd1342e-ac6e-4c57-9d5c-c120c6d7468b,Beard Engine Brewing Company,taproom,208 Main St,,,Alba,Missouri,64830,United States,4174830709,http://beardenginebrewco.com,-94.418043,37.238149
 53d076da-4ee2-491f-9513-f2bee77c3688,Bee's Knees Ale House,brewpub,106 W Jasper St,,,Versailles,Missouri,65084,United States,5735392525,,-92.835774,38.479374
-068bdaad-c6e9-47b2-a3f8-fbdf24c059b6,Big Rip Brewing Company,micro,216 E 9th Ave,,,North Kansas City,Missouri,64116-4315,United States,8168660747,http://www.bigripbrewing.com,-94.57786,39.1261133
+068bdaad-c6e9-47b2-a3f8-fbdf24c059b6,Big Rip Brewing Company,taproom,216 E 9th Ave,,,North Kansas City,Missouri,64116-4315,United States,8168660747,http://www.bigripbrewing.com,-94.578012,39.126094
 9e7959cb-8292-4892-aa10-6467c2b764b0,BKS Artisan Ales,micro,633 E 63rd St #120,,,Kansas City,Missouri,64110,United States,8166733027,http://www.bksartisanales.com,-94.493961,39.010093
 47245471-08aa-439c-acfb-67fb282e336a,Bluewood Brewing,micro,1821 Cherokee St,,,Saint Louis,Missouri,63118,United States,3143764166,http://www.bluewoodbrewing.com,-90.216631,38.601767
-1e876ec1-817a-4153-a143-459dc0627309,Boat Town Brewing,micro,18146 Campground Rd,,,Phillipsburg,Missouri,65722-8122,United States,4175332306,http://www.boattownbrewing.com,-92.712765,37.59991
+1e876ec1-817a-4153-a143-459dc0627309,Boat Town Brewing,taproom,18146 Campground Rd,,,Phillipsburg,Missouri,65722-8122,United States,4175322772,http://www.boattownbrewing.com,-92.712677,37.599829
 05250da0-46b3-4d2a-bf60-c185f602780d,Border Brewing Company,micro,406 E 18th St,,,Kansas City,Missouri,64108,United States,8163156807,http://www.borderbrewco.com,-94.5786142,39.0917581
-8aa463ce-a1d9-44ce-9e1a-36f16ff8fdf4,Boulevard Brewing Co,regional,2501 Southwest Blvd,,,Kansas City,Missouri,64108-2345,United States,8164747095,http://www.boulevard.com,-94.59682307,39.08196355
+61c69dd4-81d2-46f6-b0a7-b778d95ca79e,Border Brewing Company,taproom,512 E 18th St,,,Kansas City,Missouri,64108,United States,8163156807,http://www.borderbrewco.com,-94.577087,39.091832
+8aa463ce-a1d9-44ce-9e1a-36f16ff8fdf4,Boulevard Brewing Co,regional,2501 Southwest Blvd,,,Kansas City,Missouri,64108-2345,United States,8164747095,http://www.boulevard.com,-94.596634,39.082153
 f7977d73-f02d-4adb-b948-6080168f5545,Brew Hub Taproom,brewpub,5656 Oakland Avenue,,,Saint Louis,Missouri,63110,United States,3148335453,http://www.tapbrewhub.com,-90.28300053,38.63049786
-88977bac-d0ac-41b8-bcde-bfc17bb0d043,Brewery Emperial,brewpub,1829 Oak St,,,Kansas City,Missouri,64108,United States,8169459625,http://www.breweryemperial.com,-94.57886314,39.09119471
-5d8946d2-ed0c-404b-9ae9-3e8626089ca8,Broadway Brewery,brewpub,816 E Broadway Ste B,,,Columbia,Missouri,65201-4898,United States,5734435054,http://www.broadwaybrewery.com,-92.327968,38.951342
-68b69497-3a9f-49b3-a523-26bd686d4be2,Bronze Owl Brewing,brewpub,506 Vine St,,,Poplar Bluff,Missouri,63901-7331,United States,5738405202,http://www.bronzeowlbrewing.com,-90.39577338,36.75663108
+88977bac-d0ac-41b8-bcde-bfc17bb0d043,Brewery Emperial,brewpub,1829 Oak St,,,Kansas City,Missouri,64108,United States,8169459625,http://www.breweryemperial.com,-94.578673,39.090543
+75dfcebc-8a0f-460f-9f10-f582e70700be,Brick House,brewpub,400 East 31st Street,,,Kansas City,Missouri,64108,United States,8162553912,http://www.brickhousekc.com,-94.579869,39.071069
+5d8946d2-ed0c-404b-9ae9-3e8626089ca8,Broadway Brewery,brewpub,816 E Broadway Ste B,,,Columbia,Missouri,65201-4898,United States,5734435054,http://www.broadwaybrewery.com,-92.327938,38.951213
+119790f2-ce8d-403b-854d-24561180797e,Broadway Brewery @ Les Bourgeois Winery,micro,12847 W Hwy Bb,,,Rocheport,Missouri,65279,United States,5734435054,,-92.53323,38.969463
+446c3a55-5948-49df-a71d-f4565199f9bb,Broken Hatchet Brewing,taproom,422 Main Street,,,Belton,Missouri,64012,United States,8165475562,http://https://brewedinbelton.com/,-94.531775,38.811028
+68b69497-3a9f-49b3-a523-26bd686d4be2,Bronze Owl Brewing,brewpub,506 Vine St,,,Poplar Bluff,Missouri,63901-7331,United States,5738405202,http://www.bronzeowlbrewing.com,-90.395971,36.756493
+646e5106-edfb-4dc3-97c5-49966375ec5a,Bur Oak Brewing,micro,8250 E Trade Center Drive,,,Columbia,Missouri,65203,United States,5734240509,http://buroakbeer.com,-92.211712,38.954525
 e08ccb72-2e87-42f2-92d8-e5987c724b02,Bur Oak Brewing Company,micro,8250 E Trade Center Dr,,,Columbia,Missouri,65201-7635,United States,5738142178,http://www.buroakbeer.com,-92.210993,38.954686
+0bd664ac-59b0-4804-b80d-bd4c9a749d6e,"Busch Family Brewing and Distilling, LLC",micro,4020 Benne Rd,,,Defiance,Missouri,63341-1422,United States,,http://https://www.buschfamilybrewinganddistilling.com/,-90.818968,38.706587
 2a7ed844-ea02-4a69-a41c-1fc7c476dd16,Calibration Brewery,brewpub,119 Armour Rd,,,Kansas City,Missouri,64116-3502,United States,8169948277,http://www.calibrationbrewery.com,-94.578762,39.141723
 2b34e802-aa74-4ab7-baf3-3de5c82bd751,Callsign Brewing,micro,1447 Gentry St,,,North Kansas City,Missouri,64116,United States,8162552320,http://www.callsignbrewing.com,-94.574428,39.138525
+285a5774-1b6d-4469-b3c4-5a14cee6ca5c,Callsign Brewing,brewpub,1340 Burlington St,,,Kansas City,Missouri,64116,United States,,http://www.callsignbrewing.com,-94.58106,39.133827
 dd121468-1064-4fab-98b5-8b2044e3a3b4,Casual Animal,micro,1725 McGee St,,,Kansas City,Missouri,64108,United States,8162145388,http://www.casualanimalbrewing.com,-94.57977386,39.0924045
 946fddaa-7222-4ece-823e-52896e661874,Cathedral Square Brewery,closed,3914 Lindell Blvd,,,Saint Louis,Missouri,63108-3204,United States,3148033605,http://www.cathedralsquarebrewery.com,-90.2439837,38.6394897
 c37ba1f6-a014-4529-b8f0-240e95740556,Center Ice Brewing Company,micro,3126 Olive St.,,,Saint Louis,Missouri,63103,United States,3142779843,http://www.centericebrewery.com,-90.22430637,38.63530006
 82055805-2151-4d92-aa60-9f30c6c0457c,Chaos Brewing,micro,112 S Main St,,,Joplin,Missouri,64801,United States,,http://www.chaosbrewing.beer,-94.514437,37.1027
+a7b5dd77-67ee-4081-ab81-c0846dd526bf,"Chaos Brewing Company, LLC",brewpub,112 S. Main St,,,Joplin,Missouri,64801,United States,4174995307,http://www.chaosbrewing.beer,-94.513542,37.090073
+cef5ddbf-9a38-4af1-be89-63aba459e40e,Charleville Brewery & Winery,micro,16937 Boyd Rd,,,Sainte Genevieve,Missouri,63670-7914,United States,5735688165,http://www.charlevillemo.com,-90.157753,37.756768
 d03afb99-77f5-472e-add0-52b4da9d6b59,Charleville Vineyard & Microbrewery,micro,16937 Boyd Rd,,,Sainte Genevieve,Missouri,63670-7914,United States,5737564537,http://www.charlevillevineyard.com,-90.150279,37.757916
-e1677dd0-b321-4dd6-be81-713226ddd0bc,"Charlie's Steak, Ribs & Ale",brewpub,3009 W 76 Country Blvd,,,Branson,Missouri,65616-8312,United States,4173346090,http://www.charliesbranson.com,-93.275808,36.639618
+e1677dd0-b321-4dd6-be81-713226ddd0bc,"Charlie's Steak, Ribs & Ale",brewpub,3009 E State Hiwy 76,,,Branson,Missouri,65616-8312,United States,4173346090,http://www.charliesbranson.com,-93.177541,36.634065
+ed24453b-bed2-4b4f-a551-02aec487e03b,"Charlie's Steak, Ribs & Ale",brewpub,3009 E State Hiwy 76,,,Branson,Missouri,65616-8312,United States,4173346090,http://www.charliesbranson.com,-93.177541,36.634065
 e26d38f2-3c74-4256-b0a8-971d3225aef0,Cinder Block Brewery,brewpub,110 E 18th Ave,,,North Kansas City,Missouri,64116-3635,United States,8165608365,http://www.cinderblockbrewery.com,-94.57946521,39.14033716
 1070f42d-7db8-46a3-8f09-ec835be0ef1f,City Barrel Brewing + Kitchen,brewpub,1740 Holmes St,,,Kansas City,Missouri,64108-1803,United States,8162987008,http://www.citybarrelbrewing.com,-94.575464,39.091892
-728581d2-7245-4303-b6c9-2b003ed185fd,Civil Life Brewing Company,brewpub,3714 Holt Ave,,,Saint Louis,Missouri,63116-2614,United States,,http://www.thecivillife.com,-90.25807165,38.5908973
-579a7124-2729-4320-97d4-7ae1e3405562,Crane Brewing Company,micro,6515 Railroad St,,,Raytown,Missouri,64133-5210,United States,8167434132,http://www.cranebrewing.com,-94.46290138,39.00524272
-5a29edb9-1db8-432e-b45c-1bd6588b6c5a,Crown Valley Brewing & Distilling Co,micro,23589 State Route Ww,,,Sainte Genevieve,Missouri,63670-9039,United States,5737569700,http://www.crownvalleybrewery.com,-90.21257,37.777679
+728581d2-7245-4303-b6c9-2b003ed185fd,Civil Life Brewing Company,micro,3714 Holt Ave,,,Saint Louis,Missouri,63116-2614,United States,,http://www.thecivillife.com,-90.258044,38.590704
+579a7124-2729-4320-97d4-7ae1e3405562,Crane Brewing Company,micro,6515 Railroad St,,,Raytown,Missouri,64133-5210,United States,8167434132,http://www.cranebrewing.com,-94.462145,39.00476
+7570055e-1584-4489-9674-a5db59f08347,Crossroads Brewery,taproom,9995 Winghaven Blvd,,,O Fallon,Missouri,63368-3623,United States,6362650751,http://www.crossroadsbrewery.com,-90.744845,38.765329
+5a29edb9-1db8-432e-b45c-1bd6588b6c5a,Crown Valley Brewing & Distilling Co,micro,23589 State Route Ww,,,Sainte Genevieve,Missouri,63670-9039,United States,5737569700,http://www.crownvalleybrewery.com,-90.188841,37.773898
 a50dfe25-5de9-4b5f-8a1a-b04a489e26ea,Deep Sleep Brewing Company LLC,closed,6891 Whiskey Creek Rd.,,,Washington,Missouri,63090,United States,3142395801,,,
-1a9e21df-18dd-4373-a41c-a54d949336e8,Deslogetown Brewery,brewpub,1669 Pine Ridge Trail,,,Park Hills,Missouri,63601,United States,5734314294,http://stfrancoiswinery.com,-90.561161,37.830972
-98ba45e2-9378-4b2b-8e58-82b651e99d5e,Double Shift Brewing,micro,412 E 18th St,,,Kansas City,Missouri,64108-1410,United States,8163047028,http://www.doubleshiftbrewing.com,-94.57868373,39.09170494
-0229fb16-b24c-4b75-a16c-b2a6f7047ed7,Dubious Claims Brewing,brewpub,451 S Thompson Ave,,,Excelsior Springs,Missouri,64024-2133,United States,8168962477,http://www.dubiousclaimsbrewingco.com/,-94.22589926,39.33933583
-c89278ec-ce5b-41a6-9386-e28fa07599ea,Earthbound Beer,brewpub,2724 Cherokee St,,,Saint Louis,Missouri,63118-3036,United States,3147699576,http://www.earthboundbeer.com,-90.22866959,38.5935863
-0ec36f0b-bba3-48d9-bd47-716177bcb056,East Forty Brewing,micro,1201 W Main St,,,Blue Springs,Missouri,64015-3613,United States,8169888217,http://www.eastfortybrewing.com,-94.279316,39.018709
-ad3eac47-5589-4d11-a8cf-f118895fe7f7,Exit 6 Brewery,micro,5055 Highway N Ste 112,,,Saint Charles,Missouri,63304-8031,United States,6362444343,http://www.exit6brewery.com,-90.639934,38.745126
-7cb31a73-07b5-42ea-949e-18d43b99c153,Ferguson Brewing Co,brewpub,418 S Florissant Rd,,,Saint Louis,Missouri,63135-2716,United States,3142547359,http://www.fergusonbrewing.com,-90.3023163,38.7383895
+1a9e21df-18dd-4373-a41c-a54d949336e8,Deslogetown Brewery,brewpub,1669 Pine Ridge Trail,,,Park Hills,Missouri,63601,United States,,,-90.561915,37.832428
+b4c6df20-625f-4802-8483-65e919276a46,Diametric Brewing Co.,taproom,949 NE Columbus St,,,Lees Summit,Missouri,64086,United States,,http://www.newaxiombrewco.com,-94.359416,38.920886
+98ba45e2-9378-4b2b-8e58-82b651e99d5e,Double Shift Brewing,taproom,412 E 18th St,,,Kansas City,Missouri,64108-1410,United States,8163047028,http://www.doubleshiftbrewing.com,-94.578683,39.091769
+0229fb16-b24c-4b75-a16c-b2a6f7047ed7,Dubious Claims Brewing,brewpub,451 S Thompson Ave,,,Excelsior Springs,Missouri,64024-2133,United States,8168962477,,-94.225658,39.339392
+bc9ba164-6a58-445e-a41e-3f07e7e93b56,Duvel Moortgat,office only location,2501 Southwest Blvd,,,Kansas City,Missouri,64108-2345,United States,,,-94.596634,39.082153
+c89278ec-ce5b-41a6-9386-e28fa07599ea,Earthbound Beer,taproom,2724 Cherokee St,,,Saint Louis,Missouri,63118-3036,United States,3147699576,http://www.earthboundbeer.com,-90.228368,38.593526
+0ec36f0b-bba3-48d9-bd47-716177bcb056,East Forty Brewing,taproom,1201 W Main St,,,Blue Springs,Missouri,64015-3613,United States,8169888217,http://www.eastfortybrewing.com,-94.279287,39.018947
+ef4b6a2d-9478-4dfa-8526-b3c763d49fea,Ebb and Flow Fermentations,brewpub,11 S Spanish St,,,Cape Girardeau,Missouri,63703,United States,5733821623,http://www.ebbandflowfermentations.com,-89.519771,37.303187
+be9b7a3f-587e-4619-a488-2ae2426e3ddc,"Edg-Clif Vineyard, Winery, Brewery",taproom,10035 Edg-Clif Drive,,,Potosi,Missouri,63664,United States,5734384741,http://www.edg-clif.com,-90.90207,37.982013
+ad3eac47-5589-4d11-a8cf-f118895fe7f7,Exit 6 Brewery,taproom,5055 Highway N Ste 112,,,Saint Charles,Missouri,63304-8031,United States,6362444343,http://www.exit6brewery.com,-90.640412,38.744839
+7cb31a73-07b5-42ea-949e-18d43b99c153,Ferguson Brewing Co,brewpub,418 S Florissant Rd,,,Saint Louis,Missouri,63135-2716,United States,3142547359,http://www.fergusonbrewing.com,-90.302205,38.738305
 0a17cef1-8631-4534-8b87-03bdbb33d479,Flag City Brewing,micro,618 W 4th St,,,Webb City,Missouri,64870,United States,,,-94.467058,37.156896
-6037fc17-102b-4137-9197-446eb6fd511d,Flat Branch Pub and Brewing,brewpub,115 S 5th St,,,Columbia,Missouri,65201-4230,United States,5734990400,http://www.flatbranch.com,-92.33196896,38.95030013
-02dcc02a-6cb5-4081-8d36-991f0d31dd09,Friendship Brewing Company,brewpub,100 Pitman Ave,,,Wentzville,Missouri,63385-1700,United States,6368569300,http://www.friendshipbrewingcompany.com,-90.8512976,38.8107544
-6c7bd802-9fa1-4c0c-879c-b09ffa3583cd,Fringe Beerworks,micro,224 SE Douglas St,,,Lees Summit,Missouri,64063-2329,United States,8166002552,http://www.fringebeerworks.com,-94.37672,38.913133
-e9d98f63-620d-4282-95bc-e6cc8240cdd2,Good News Brewing Company,brewpub,330 Sonderen St,,,O Fallon,Missouri,63366-2629,United States,6362946593,http://goodnewsbrewing.com,-90.694613,38.807136
+e3b45d0b-fc77-4f39-a2af-91881e35c77f,Flag City Brewing,taproom,618 West 4th St,,,Webb City,Missouri,64870,United States,,,-94.469798,37.141444
+6037fc17-102b-4137-9197-446eb6fd511d,Flat Branch Pub and Brewing,brewpub,115 S 5th St,,,Columbia,Missouri,65201-4230,United States,5734990400,http://www.flatbranch.com,-92.332289,38.950007
+02dcc02a-6cb5-4081-8d36-991f0d31dd09,Friendship Brewing Company,brewpub,100 Pitman Ave,,,Wentzville,Missouri,63385-1700,United States,6368569300,http://http://www.friendshipbrewco.com,-90.851269,38.810639
+6c7bd802-9fa1-4c0c-879c-b09ffa3583cd,Fringe Beerworks,taproom,224 SE Douglas St,,,Lees Summit,Missouri,64063-2329,United States,8166002552,http://www.fringebeerworks.com,-94.376606,38.912828
+e9d98f63-620d-4282-95bc-e6cc8240cdd2,Good News Brewing Company,brewpub,330 Sonderen St,,,O Fallon,Missouri,63366-2629,United States,6365442753,http://goodnewsbrewing.com,-90.695006,38.807235
+507b8d1f-70f5-48c9-a897-13d1eb55581a,Good News Brewing Defiance,brewpub,2886 S Missouri 94,,,Defiance,Missouri,63341,United States,6365442753,,-90.775887,38.635038
+c05b3732-6f98-48e4-b753-26df9e0a00ad,Grains & Taps,taproom,10 SW 3rd St,,,Lees Summit,Missouri,64063,United States,8168665827,http://www.GrainsAndTaps.com,-94.378617,38.911836
 d06a2b64-5a7c-4dda-8ee3-404473ca3e5c,Grains and Taps Brewery and Taproom,micro,10 SW 3rd St,,,Lees Summit,Missouri,64063,United States,8168665827,http://www.grainsandtaps.com,-94.383478,38.91366
-8b012caf-eea9-47a0-a9e3-93a8f30f8403,Granite City Food & Brewery (#11),brewpub,8461 NW Prairie View Rd,,,Kansas City,Missouri,64153-1842,United States,8165873838,http://www.gcfb.net,-94.66105,39.24936415
-b985d531-a4ad-426c-94da-206264dd5eb0,Granite City Food & Brewery (#29),brewpub,11411 Olive Blvd,,,Creve Coeur,Missouri,63141-7108,United States,3144323535,http://www.gcfb.net,-90.43338752,38.67222065
-113283e7-f702-44d8-b86c-1203b4e20421,Green Room Burgers & Beer,brewpub,4010 Pennsylvania Ave,,,Kansas City,Missouri,64111-3010,United States,8162167682,http://www.greenroomkc.com,-94.5932559,39.0544808
+8b012caf-eea9-47a0-a9e3-93a8f30f8403,Granite City Food & Brewery (#11),brewpub,8461 NW Prairie View Rd,,,Kansas City,Missouri,64153-1842,United States,8165873838,http://www.gcfb.net,-94.660339,39.248795
+b985d531-a4ad-426c-94da-206264dd5eb0,Granite City Food & Brewery (#29),brewpub,11411 Olive Blvd,,,Creve Coeur,Missouri,63141-7108,United States,3144323535,http://www.gcfb.net,-90.434636,38.672753
+07b6dbde-709e-419b-b120-c45f5d1d0012,Great Escape Beer Works,taproom,4022 S Lone Pine Ave,,,Springfield,Missouri,65804,United States,3028871750,http://www.greatescapebeerworks.com,-93.236819,37.139337
+113283e7-f702-44d8-b86c-1203b4e20421,Green Room Burgers & Beer,brewpub,4010 Pennsylvania Ave,,,Kansas City,Missouri,64111-3010,United States,8162167682,http://www.greenroomkc.com,-94.593148,39.054534
 8d234406-06c0-4ae0-8d45-f962b4ef0db0,Greer Brewing,closed,16050 Manchester Rd,,,Ellisville,Missouri,63011-2161,United States,6363463979,http://www.greerbrewingco.com,-90.59484652,38.590625
-49f6d4fd-9671-4465-8d83-be8b2255d33e,Griesedieck Brothers Brewery,contract,1240 Switzer Ave,,,Saint Louis,Missouri,63147-1840,United States,3143093210,http://www.gb-beer.com,-90.23498721,38.70903511
-8a158d9f-026f-4ee4-8941-e78c0c0ec638,Gruhlke's Microbrewery / Bias Vineyards,brewpub,3166 Highway B,,,Berger,Missouri,63014-1418,United States,5738345475,http://www.biaswinery.com,-91.3352114,38.6769847
-ae561941-e5ed-4f23-87cb-10aafd105bb4,Heavy Riff Brewing,brewpub,6413 Clayton Ave,,,Saint Louis,Missouri,63139-3305,United States,3148286148,http://www.heavyriffbrewing.com,-90.29310035,38.62871654
+49f6d4fd-9671-4465-8d83-be8b2255d33e,Griesedieck Brothers Brewery,micro,1240 Switzer Ave,,,Saint Louis,Missouri,63147-1840,United States,3143093210,http://www.gb-beer.com,-90.238181,38.711388
+8a158d9f-026f-4ee4-8941-e78c0c0ec638,Gruhlke's Microbrewery / Bias Vineyards,brewpub,3166 Highway B,,,Berger,Missouri,63014-1418,United States,5738345475,http://www.biaswinery.com,-91.317785,38.665959
+ae561941-e5ed-4f23-87cb-10aafd105bb4,Heavy Riff Brewing Company,taproom,6413 Clayton Ave,,,Saint Louis,Missouri,63139-3305,United States,3148286148,http://www.heavyriffbrewing.com,-90.29347,38.628959
 22a3cd4c-ae04-4147-9cd8-b6eaa845ee92,High Heel Brewing,closed,5656 Oakland,,,Saint Louis,Missouri,63110,United States,,http://highheelbrewing.com,,
 4e9edeef-4d5b-4c71-8461-ab35c25094c6,Hold Fast Brewing,micro,235 N Kimbrough Ave,,,Springfield,Missouri,65806,United States,4177612318,http://www.hfbrewing.com,-93.285942,37.217206
+dff80ae2-2b80-40a2-920e-fa8fd437f787,Hold Fast Brewing,taproom,235 North Kimbrough Ave,,,Springfield,Missouri,65806,United States,4177612318,http://HFBrewing.com,-93.287074,37.209939
 86844328-44bd-4af1-92e8-dc417c3c63f7,Hubrew Beer,micro,3463 State Hwy FF,,,Jackson,Missouri,63755,United States,5732044164,,-89.639478,37.448863
 2caa7307-e994-482a-a10f-f82087ff582f,Hungry Hollow Brewing Company,micro,14396 FR 2140,,,Cassville,Missouri,65625,United States,4173422072,http://www.hungryhollowbrewing.com,-93.831482,36.757718
-fb6a0065-5bf8-4a97-8036-bba568020d92,Indian Springs Brewing Company,proprietor,109 E Main St,,,Neosho,Missouri,64850-1810,United States,4174549498,http://www.indianspringsbrewing.com,-94.36740902,36.86853698
+fb6a0065-5bf8-4a97-8036-bba568020d92,Indian Springs Brewing Company,alt prop,109 E Main St,,,Neosho,Missouri,64850,United States,4174549498,http://www.indianspringsbrewing.com,-94.368162,36.868303
+e61216b8-8860-48ae-87a8-3bedeffb72c0,Iron Kettle Brewing,taproom,508 S Main St,,,Grain Valley,Missouri,64029,United States,8163550069,http://www.ironkettlebrew.com,-94.198467,39.015554
 2286d60e-a83b-4f9f-b568-1f6fb4cc8810,Jackson Street Brew Co.,brewpub,106 N Jackson St,,,Perryville,Missouri,63775-1336,United States,5736053297,http://jstreetbrewco.com,-89.86375484,37.72597286
-d2b60a75-2bed-4360-a4d7-ca0bb6004d0a,Kansas City Bier Company,micro,310 W 79th St,,,Kansas City,Missouri,64114-1843,United States,8162148691,http://www.kcbier.com,-94.59367119,38.98548485
+d2b60a75-2bed-4360-a4d7-ca0bb6004d0a,Kansas City Bier Company,micro,310 W 79th St,,,Kansas City,Missouri,64114-1843,United States,8166740455,http://www.kcbier.com,-94.593123,38.985144
+7cf43b19-cfaa-4e5b-9dc1-91877810f0d0,King David’s Brewing Company,brewpub,1844 Co. Rd. 448,,,Poplar Bluff,Missouri,63901,United States,5737783833,,-90.499815,36.765562
 5c7d9592-68ed-4509-b68c-18f932001ebe,Kirkwood Station Brewing,closed,105 E Jefferson Ave,,,Kirkwood,Missouri,63122-4025,United States,3149662739,http://www.kirkwoodstationbrewing.com,-90.40608849,38.58234304
-af6716b1-35fe-4511-9c87-05d9d9d408af,"Lake Bums BrewCo, LLC.",micro,112 Parrothead Ln,,,Pontiac,Missouri,65729-7134,United States,4172936684,http://www.lakebumsbrewco.com,-92.602321,36.509057
-aea59bd4-e1de-4f88-a7f3-f3285d4d57ac,Levi Garrison & Sons Brewing Company,micro,105 W Bird St,,,Hamilton,Missouri,64644-1029,United States,8166689421,http://www.lgsbrewingco.com,-94.00051,39.744246
-e69bc9bf-ee02-406b-9e70-bae68db2e914,Logboat Brewing Co,micro,504 Fay St,,,Columbia,Missouri,65201-4782,United States,5733976786,http://www.logboatbrewing.com,-92.32265015,38.95708639
+af6716b1-35fe-4511-9c87-05d9d9d408af,"Lake Bums BrewCo, LLC.",taproom,112 Parrothead Ln,,,Pontiac,Missouri,65729-7134,United States,4172936684,http://www.lakebumsbrewco.com,-92.601578,36.508799
+7e2f4459-dea3-4d7d-bcfc-45a2d9e1caf7,Lake of the Ozarks Brewing Company,taproom,6192 Osage Beach Pkwy,,,Osage Beach,Missouri,65065,United States,5736931993,http://www.lozbrewingco.com,-92.688223,38.107449
+45753329-0853-45ad-9e45-6588900e2f08,Last Flight Brewing Company,taproom,738 Heisinger Road,,,Jefferson City,Missouri,65109,United States,5736063200,http://Lastflightbrewing.com,-92.207969,38.580078
+aea59bd4-e1de-4f88-a7f3-f3285d4d57ac,Levi Garrison & Sons Brewing Company,taproom,105 W Bird St,,,Hamilton,Missouri,64644-1029,United States,8166689421,http://www.lgsbrewingco.com,-93.998905,39.744444
+e69bc9bf-ee02-406b-9e70-bae68db2e914,Logboat Brewing Co,micro,504 Fay St,,,Columbia,Missouri,65201-4782,United States,5733976786,http://www.logboatbrewing.com,-92.322469,38.957337
 692a06a1-3923-4b48-9bd8-cdb9c87ef848,Lost Signal Brewing Company,brewpub,610 W College St,,,Springfield,Missouri,65806-1240,United States,9723104162,http://www.lostsignalbrewing.com,-93.2974611,37.2085049
 e6bfe52d-1f1e-4c1e-a57e-8f12f481a52c,Mackenzie Brewing Company,micro,932 Meramec Station Rd,,,Valley Park,Missouri,63088,United States,6362264148,http://www.mknzbrewing.com,-90.497364,38.537146
+3dde199c-b000-4a83-b63a-6a7d4d630802,Main And Mill Barrelworks,micro,10 E. Main St,,,Festus,Missouri,63028,United States,6365433031,,-90.388772,38.2191
 70ff7200-901e-4279-afa4-41f0ae57fdd2,Main And Mill Brewing Company,brewpub,240 E Main St,,,Festus,Missouri,63028-1907,United States,6365433031,http://www.mainandmill.com,-90.39265217,38.21974885
+fe434eb6-e8e0-45b0-8870-bf6c02d522d0,Many Good Things Brewing,taproom,121 N Water St,,,Cape Girardeau,Missouri,63701-7322,United States,5738030301,,-89.517881,37.30546
+4a505077-63a7-4107-bfd4-c398e744223d,"Many Good Things, LLC",taproom,920 Perry,,,Cape Girardeau,Missouri,63701,United States,5734504576,,-89.538446,37.317953
 e9673697-3229-45ee-bab1-6889e63ccffe,Mark Twain Brewing Company,brewpub,422 N Main St,,,Hannibal,Missouri,63401-3324,United States,5734061300,http://www.marktwainbrewery.com,-91.35744225,39.71293685
-1c357f75-dc18-43cf-bcc4-45e1089b6086,Martin City Brewing Company,micro,500 E 135th St,,,Kansas City,Missouri,64145-1672,United States,8162682222,http://www.martincitybrewing.com,-94.590214,38.882691
+1c357f75-dc18-43cf-bcc4-45e1089b6086,Martin City Brewing Company,micro,410 E 135th St,,,Kansas City,Missouri,64145-1672,United States,8162682222,http://www.martincitybrewing.com,-94.590232,38.88288
+93803946-627f-429b-a357-b379488f5cb5,Martin City Brewing Company,micro,410 E 135th St,,,Kansas City,Missouri,64145-1672,United States,8162682222,http://www.martincitybrewing.com,-94.590232,38.88288
 e64276ac-2aa7-404a-a538-212734a0eb84,Martin City Brewing Company Pizza and Taproom,brewpub,354 SW Blue Pkwy,,,Lees Summit,Missouri,64063,United States,8164345100,http://www.martincitybrewingcompany.com,-94.388546,38.916883
 771010b0-2631-49c3-8821-034588bfbc7a,McCoy's Public House,closed,4057 Pennsylvania Ave,,,Kansas City,Missouri,64111-3021,United States,8169600866,http://www.mccoyspublichouse.com,-94.5911729,39.1002989
-6fdaf0f7-d914-4314-b744-eae724453c6e,Melvin Brewing,regional,110 Hilltop Village Center Dr,,,Eureka,Missouri,63025,United States,6365499231,http://www.melvinbrewing.com,-90.649695,38.52826
+6fdaf0f7-d914-4314-b744-eae724453c6e,Melvin Brewing,brewpub,110 Hilltop Village Center Dr,,,Eureka,Missouri,63025,United States,,,-90.640183,38.505744
 e1c5d42f-a9b3-4a2e-afe1-d1fa24ff9825,Miami Creek Brewing Company,closed,14226 NW County Road 14001,,,Drexel,Missouri,64742-9733,United States,8168920297,http://www.miamicreek.com,,
-7e26b37a-fa1d-4acf-8095-ae9c540098f1,Minglewood Brewery,brewpub,121 Broadway St,,,Cape Girardeau,Missouri,63701-7326,United States,5738030524,http://www.minglewoodbrewery.com,-89.51852096,37.30583636
+7e26b37a-fa1d-4acf-8095-ae9c540098f1,Minglewood Brewery,brewpub,121 Broadway St,,,Cape Girardeau,Missouri,63701-7326,United States,5738030524,http://www.minglewoodbrewery.com,-89.519039,37.305775
 a1274517-d0af-4c1b-8b7b-2ec4662d2681,Missouri Beer Company,micro,22 W Industrial Dr,,,O Fallon,Missouri,63366-1926,United States,6362946672,http://www.mobeerco.com,-90.75261,38.805938
-5895ab5b-ba99-44f5-b9f1-48e332e7f20e,Modern Brewery,micro,5231 Manchester Ave # E,,,Saint Louis,Missouri,63110-2092,United States,,http://www.mb314.com,-90.273784,38.625149
-c9ad889d-bf39-4366-886f-a140c0a52dd7,Morgan Street Brewery,proprietor,721 N 2nd St,,,Saint Louis,Missouri,63102-2518,United States,3142319970,http://www.morganstreetbrewery.com,-90.18465871,38.63032719
-69912ded-9a07-4f49-870a-85a78260bf4d,Mother's Brewing Co,micro,215 S Grant Ave,,,Springfield,Missouri,65806-2001,United States,4178620423,http://www.mothersbrewing.com,-93.29928282,37.20791735
-02e33b6d-ac7d-44ad-8b38-cb1c8ebea1e7,Narrow Gauge Brewing Company,brewpub,1595 N Highway 67 St,,,Florissant,Missouri,63031-4606,United States,3148313222,http://www.narrowgaugestl.com,-90.319028,38.799
+6ddad2d6-e305-4df2-b9de-84bed44c2755,Missouri Ridge Distillery & Brewery LLC,taproom,7000 State Highway 248,,,Branson,Missouri,65616,United States,4176994095,http://www.missouriridgedistillery.com,-93.275009,36.722243
+5895ab5b-ba99-44f5-b9f1-48e332e7f20e,Modern Brewery,micro,5231 Manchester Ave # E,,,Saint Louis,Missouri,63110-2092,United States,,http://www.modernbrewery.com,-90.273608,38.624819
+c9ad889d-bf39-4366-886f-a140c0a52dd7,Morgan Street Brewery,brewpub,721 N 2nd St,,,Saint Louis,Missouri,63102-2518,United States,3142319970,http://www.morganstreetbrewery.com,-90.184751,38.630731
+69912ded-9a07-4f49-870a-85a78260bf4d,Mother's Brewing Co,micro,215 S Grant Ave,,,Springfield,Missouri,65806-2001,United States,4178620423,http://www.mothersbrewing.com,-93.299488,37.207835
+3f73bd2b-60cc-4cbc-93a1-43e8de44f97f,Muddy Banks Brewing Company,brewpub,725 Acid Mine rd,,,Sullivan,Missouri,63080,United States,3144139145,http://www.muddybanksbrewery.com,-91.155162,38.227242
+02e33b6d-ac7d-44ad-8b38-cb1c8ebea1e7,Narrow Gauge Brewing Company,brewpub,1595 N Highway 67,,,Florissant,Missouri,63031-4606,United States,3148313222,http://www.narrowgaugestl.shop,-90.31871,38.798749
+8b59b72b-4c50-4dfd-bcfc-7084e289f1ca,Narrow Gauge Brewing Company,brewpub,1595 N Highway 67,,,Florissant,Missouri,63031-4606,United States,3148313222,http://www.narrowgaugestl.shop,-90.31871,38.798749
 40c11daf-e510-45be-bf1f-6b8f0b77ebed,New Axiom Brewing Company,micro,"949 NE Columbus ",,,Lees Summit,Missouri,64086,United States,,http://www.newaxiombrewco.com,-94.351812,38.947403
-b0c7325d-5406-4b94-9a9b-9f951189a42c,Nimble Brewing,micro,1735 Oak St,,,Kansas City,Missouri,64108,United States,8167871822,http://www.nimblebrewing.com,-94.579238,39.095177
-79ed4f4a-a470-42c2-af50-955633f757b7,O'Fallon Brewery,micro,45 Progress Pkwy,,,Maryland Heights,Missouri,63043-3701,United States,6364742337,http://www.ofallonbrewery.com,-90.44580667,38.71250421
+b0c7325d-5406-4b94-9a9b-9f951189a42c,Nimble Brewing,taproom,1735 Oak St,,,Kansas City,Missouri,64108,United States,8167871822,http://www.nimblebrewing.com,-94.578731,39.092703
+79ed4f4a-a470-42c2-af50-955633f757b7,O'Fallon Brewery,micro,45 Progress Pkwy,,,Maryland Heights,Missouri,63043-3701,United States,6364742337,http://www.ofallonbrewery.com,-90.447908,38.704638
 50e149c8-f205-4469-8f9c-27cc526fc78e,Outlaw Cigar / Gunslinger Saloon Brewing,planning,,,,Kansas City,Missouri,64151-2026,United States,8165052442,http://www.outlawcigar.com,,
-e80e1cb2-de57-4bc2-8330-94ea13ec1c0c,Ozarks Brewing Company,closed,1872 S. U.S. Hwy. 63,,,West Plains,Missouri,65775,United States,4172741507,http://www.ozarksbrewing.com,,
+9057487b-9272-40c3-9680-9dd4fe9b99e5,Outlaw Cigar / Gunslinger Saloon Brewing,taproom,309 E. 10th Ave,,,Kansas City,Missouri,64116,United States,8165695118,http://www.outlawcigar.com,-94.576817,39.126459
+69e7a933-8867-4cee-88f1-4b49fd2c4d04,Ozark Brewery,brewpub,1684 Hwy KK,,,Osage Beach,Missouri,65065,United States,5733482449,http://ozarkdistillery.com,-92.706905,38.13318
+e80e1cb2-de57-4bc2-8330-94ea13ec1c0c,Ozarks Brewing Company,taproom,1872 S. U.S. Hwy. 63,,,West Plains,Missouri,65775,United States,4172741507,http://www.ozarksbrewing.com,-91.816285,36.70561
 8f3206c8-8c13-4357-875b-25fcbbc9d63f,Pacific Brew Haus,brewpub,220 S 1st St,,,Pacific,Missouri,63069,United States,6362572650,http://www.pacificbrewhaus.com,-90.741706,38.500322
-bcd21562-9ff4-4a7b-8230-8cb051094f2d,Perennial Artisan Ales,micro,8125 Michigan Ave Ste 116,,,Saint Louis,Missouri,63111-3535,United States,3146317300,http://www.perennialbeer.com,-90.265979,38.54573
+bcd21562-9ff4-4a7b-8230-8cb051094f2d,Perennial Artisan Ales,micro,8125 Michigan Ave Ste 116,,,Saint Louis,Missouri,63111-3535,United States,3146317300,http://www.perennialbeer.com,-90.2657,38.545732
+06c45559-2b91-45f7-9e58-a045bd26b863,Perennial on Lockwood,taproom,216 W Lockwood,,,Webster Groves,Missouri,63119,United States,3148109903,,-90.361522,38.59294
 a929c6d4-0f33-4aa0-98c9-bc419b661c53,Petrichor Brewing,micro,"7434 Village Center Dr. ",,,O Fallon,Missouri,63368,United States,6362654004,http://www.petrichorbeer.com,-90.733123,38.749498
-bfb0e8c9-fed1-4332-9fff-c4b45b49a7bf,Piney River Brewing Company,micro,15194 Walnut Grove Dr,,,Bucyrus,Missouri,65444-9002,United States,4179674001,http://www.pineyriverbrewing.com,-92.01768537,37.32148798
+bfb0e8c9-fed1-4332-9fff-c4b45b49a7bf,Piney River Brewing Company,micro,15194 Walnut Grove Drive,,,BUCYRUS,Missouri,65444,United States,4179674001,http://www.pineyriverbrewing.com,-92.01623,37.321931
+744e0dfb-b435-4524-9437-4c245dec3cdd,Piney River Brewing Company,micro,15194 Walnut Grove Drive,,,BUCYRUS,Missouri,65444,United States,4179674001,http://www.pineyriverbrewing.com,-92.01623,37.321931
 2c7c2d1e-c48c-4842-9753-a0bb88a605c7,Piney River Taproom,brewpub,326 US Rte 66 E,,,Waynesville,Missouri,65583,United States,5734332739,http://www.pineyriverbrewing.com,-92.193612,37.87597
 8b639b0e-6598-469e-871f-940b1143a3ba,POG Brewing Company,brewpub,24524 S State State Rte D,,,Cleveland,Missouri,64734,United States,8164064179,http://www.pogbrewing.com,-94.582691,38.701465
 d454edbb-ddb4-4aaa-a922-e6c7ad84c73b,Point Labaddie Brewery,micro,1029 Thiebes Rd,,,Labadie,Missouri,63055-1712,United States,6367422861,http://www.pointlabaddiebrewery.com,-90.80569,38.500563
 ab1a267c-6a92-4f19-b127-66065ad1b993,Prehistoric Brewing Company,micro,1816 S Glenstone Ave,,,Springfield,Missouri,65804,United States,4175011083,http://www.prehistoricbrewing.com,-93.261483,37.181077
-6e63e61e-d792-4cf6-ab67-6dfafe3ac8ee,Prison Brews,brewpub,305 Ash St,,,Jefferson City,Missouri,65101-4002,United States,5736350678,http://www.prisonbrews.com,-92.1616013,38.5687256
+6e63e61e-d792-4cf6-ab67-6dfafe3ac8ee,Prison Brews,brewpub,305 Ash St,,,Jefferson City,Missouri,65101-4002,United States,5736350678,http://www.prisonbrews.com,-92.161497,38.568559
 a9dbe836-f39c-466c-8776-21caac8d433e,Propagation LLC,planning,,,,Saint Louis,Missouri,63104-2425,United States,,http://www.propagation.us,,
-fa88cd5f-0c7d-495a-a4db-1ef89e1c1b7a,Public House Brewing Co,micro,551 State Route B,,,Saint James,Missouri,65559-1055,United States,5732613333,http://www.publichousebrewery.com,-91.609275,38.01608
+fa88cd5f-0c7d-495a-a4db-1ef89e1c1b7a,Public House Brewing Co,micro,551 State Route B,,,Saint James,Missouri,65559-1055,United States,5732613333,http://www.publichousebrewery.com,-91.608295,38.009808
 7c04768b-0adb-46eb-844b-c7f150a45831,Public House Brewing Company,micro,600 N Rolla St Ste B,,,Rolla,Missouri,65401-3111,United States,5734262337,http://www.publichousebrewery.com,-91.77201,37.954113
+537b0e57-4f5f-4173-83ac-21de77b8a7f6,Public House Brewing Company,brewpub,540 State Route B,,,St James,Missouri,65559,United States,5732613396,http://www.publichousebrewery.com,-91.609578,38.009475
+8402185e-2650-4c1c-9aa3-7dd27877641d,Red Sash Brewing,taproom,406 E 18th St,,,Kansas CIty,Missouri,64108,United States,8162607062,http://www.redsashbrewing.com,-94.578732,39.09177
 f292442b-c5ce-457d-bb84-371e4189d687,River Bluff Brewing,micro,1224 Frederick Ave,,,St Joseph,Missouri,64501-2334,United States,8162595339,http://www.riverbluffbrew.com,-94.844399,39.770343
-8b916006-84bf-455e-8aa8-7590e4c72bc8,River Bottoms Brewing Company,brewpub,12 W Benton St,,,Carrollton,Missouri,64633,United States,6603226110,http://www.riverbottomsbrewing.com,-93.497006,39.405185
+8a9deba6-a26d-44ba-8a09-2cbf17375a22,River Bluff Brewing,taproom,1224 Frederick Ave,,,Saint Joseph,Missouri,64501-2334,United States,8162595339,,-94.844393,39.770144
+f92eb4a2-8e15-4e65-b494-d33fd1b61da1,River Bluff Brewing At River Market,taproom,201 Main St,,,Kansas City,Missouri,64105,United States,,,-94.583284,39.110698
+8b916006-84bf-455e-8aa8-7590e4c72bc8,River Bottoms Brewing Company,brewpub,12 W Benton St,,,Carrollton,Missouri,64633,United States,6603226110,http://www.riverbottomsbrewing.com,-93.496243,39.358667
+52b1d132-21cb-436e-b35c-4059248c64a3,Rochester Brewing and Roasting Company,taproom,2129 Washington St,,,Kansas City,Missouri,64108,United States,,http://www.rochesterkc.com,-94.589925,39.08623
 147c0123-232a-448a-b689-3ae78d34d66f,Rock & Run Brewery,closed,110 E Kansas St,,,Liberty,Missouri,64068-2374,United States,8164152337,http://www.rockandrunbrewery.com,-94.4190247,39.2461993
-c4099a64-9be0-4e03-9f24-218c35acd747,Rockwell Beer Company,regional,1320 S Vandeventer Ave,,,Saint Louis,Missouri,63110,United States,3142561657,http://www.rockwellbeer.com,-90.251576,38.625572
-e0e79155-5263-49c9-b001-df29d38fe160,Sandy Valley Brewing Co,micro,3660 Linhorst Rd,,,Hillsboro,MIssouri,63050,United States,6364755008,http://www.sandyvalleybrewingcompany.com,-90.476661,38.30122
-e918f066-b632-4423-96cf-b46c3aa3cf47,"Schlafly Beer/The Saint Louis Brewery, LLC",regional,2100 Locust St,,,Saint Louis,Missouri,63103-1616,United States,3142412337,http://www.schlafly.com,-90.20969425,38.63298865
-e1cf911d-240b-4393-9a85-9b70efb965ca,Schlafly Bottleworks,regional,1 Schlafly Plz,,,Saint Louis,Missouri,63143-2454,United States,3142412337,http://www.schlafly.com,,
+c4099a64-9be0-4e03-9f24-218c35acd747,Rockwell Beer Company,taproom,1320 S Vandeventer Ave,,,Saint Louis,Missouri,63110,United States,3144094119,http://www.rockwellbeer.com,-90.251327,38.625679
+e0e79155-5263-49c9-b001-df29d38fe160,Sandy Valley Brewing,taproom,3660 Linhorst Rd,,,Hillsboro,Missouri,63050,United States,6364755008,http://www.sandyvalleybrewingcompany.com,-90.473308,38.278908
+12e312e3-d07d-498a-a1d9-b689c300af6c,Saxony Hills Brewery,brewpub,303 Maple St,,,Altenburg,Missouri,63732,United States,5738243030,http://www.saxonyhillsbrewery.com,-89.593199,37.624499
+b53fa53b-514c-4454-81f4-65651689dad5,Schlafly Bankside,brewpub,920 S Main St,,,Saint Charles,Missouri,63301,United States,6369462739,,-90.484555,38.774231
+e918f066-b632-4423-96cf-b46c3aa3cf47,"Schlafly Beer/The Saint Louis Brewery, LLC",regional,2100 Locust St,,,Saint Louis,Missouri,63103-1616,United States,3142412337,http://www.schlafly.com,-90.209776,38.632964
+e1cf911d-240b-4393-9a85-9b70efb965ca,Schlafly Bottleworks,regional,7260 Southwest Ave,,,Saint Louis,Missouri,63143,United States,3142412337,http://www.schlafly.com,-90.314933,38.612947
+eca603e0-6123-42d3-a150-3c801150f93f,Schlafly Bottleworks,regional,7260 Southwest Ave,,,Saint Louis,Missouri,63143,United States,3142412337,http://www.schlafly.com,-90.314933,38.612947
 c69231e2-6ff1-4d14-a940-02a8b551d03b,Schlafly Bottleworks Maplewood,regional,7260 Southwest Ave,,,Maplewood,Missouri,63143,United States,3142412337,http://www.schlafly.com,-90.314774,38.613184
+86b694e6-ce83-4a1a-8d5c-e02361cc3760,Shortleaf Brewing,brewpub,7434 Village Center Dr,,,O'Fallon,Missouri,63368,United States,6364867135,http://www.shortleafbeer.com,-90.73491,38.743683
+7c037d1f-ca17-414f-ae6d-ef3d87828fc5,Show-Me Brewing,taproom,1925 E Bennett St,,,Springfield,Missouri,65804,United States,4173158617,http://www.showmebrewing.com,-93.259098,37.189377
 c3b74785-b1d3-4e76-9037-7512e99970eb,Side Project Brewing,micro,7458 Manchester Rd,,,Maplewood,Missouri,63143-3032,United States,3142245211,http://www.SideProjectBrewing.com,-90.32221146,38.61223484
-937b7b68-c9da-4466-851f-14a583a95844,Six Mile Bridge Brewery,micro,11841 Dorsett Rd,,,Maryland Heights,Missouri,63043-2503,United States,3149422211,http://www.sixmilebridgebeer.com,-90.43182572,38.714489
-b2c68158-4806-47ed-8150-a45d1661c2b9,Smoke Brewing Company,brewpub,209 SE Main St,,,Lees Summit,Missouri,64063,United States,8165252337,http://www.smokebrewingcompany.com,-94.37807739,38.91334904
+937b7b68-c9da-4466-851f-14a583a95844,Six Mile Bridge Brewery,micro,11841 Dorsett Rd,,,Maryland Heights,Missouri,63043-2503,United States,,http://www.sixmilebridgebeer.com,-90.432639,38.714669
+b2c68158-4806-47ed-8150-a45d1661c2b9,Smoke Brewing Company,brewpub,209 SE Main St.,,,Lees Summit,Missouri,64063,United States,8165252337,http://www.smokebrewingcompany.com,-94.377631,38.913089
 fdab4b0b-4e70-4033-a944-69a49285e5f4,Springfield Brewing Co,brewpub,305 S Market Ave,,,Springfield,Missouri,65806-2023,United States,4178328277,http://www.springfieldbrewingco.com,-93.295625,37.20776303
-d603fb71-4ae5-4e4d-aa48-82b663dcd09a,Square One Brewery and Distillery,brewpub,1727 Park Ave,,,Saint Louis,Missouri,63104-2941,United States,3142312537,http://www.squareonebrewery.com,-90.21039473,38.616665
+d603fb71-4ae5-4e4d-aa48-82b663dcd09a,Square One Brewery and Distillery,brewpub,1727 Park Ave,,,Saint Louis,Missouri,63104-2941,United States,3142312537,http://www.squareonebrewery.com,-90.211084,38.616924
 279c975d-899d-45a9-9655-ab335b6ebf60,Steampunk Brew Works,micro,231 Lamp and Lantern Vlg,,,Chesterfield,Missouri,63017-8209,United States,6362308277,http://www.steampunkbrewworks.com,-90.517873,38.625963
-b632b81c-fc78-4789-a37a-0e77d6c483f7,Stockyards Brewing Company,micro,1600 Genessee St Ste 100,,,Kansas City,Missouri,64102-1044,United States,8168958880,http://www.stockyardsbrewing.com,-94.605113,39.094436
+9cda2f69-6274-4fd3-ab3a-f5f7436f8dbe,Steampunk Brew Works,taproom,231 Lamp and Lantern Vlg,,,Town and Country,Missouri,63017-8209,United States,6362308277,http://www.steampunkbrewworks.com,-90.518036,38.625709
+b632b81c-fc78-4789-a37a-0e77d6c483f7,Stockyards Brewing Company,taproom,1600 Genessee St Ste 100,,,Kansas City,Missouri,64102-1044,United States,8168958880,http://www.stockyardsbrewing.com,-94.605602,39.094656
 494b4e52-242c-4bf4-bd7d-8717602538ae,Strange Days Brewing Co,micro,316 Oak St,,,Kansas City,Missouri,64106,United States,8164695321,http://www.strangedaysbrewing.com,-94.57994512,39.1100614
-0aa2b16d-c58f-4577-94ac-5b70d28b94d6,Strange Days Brewing Company,micro,316 Oak St,,,Kansas City,Missouri,64106,United States,9134336232,http://www.strangedaysbrewing.com,-94.57994512,39.1100614
+0aa2b16d-c58f-4577-94ac-5b70d28b94d6,Strange Days Brewing Co,taproom,316 Oak St,,,Kansas City,Missouri,64106,United States,8164695321,http://www.strangedaysbrewing.com,-94.579979,39.110162
 e7c79215-daf5-46b7-8013-2e1088496ee8,The Angry Swede Brewing Company,micro,513 Francis St,,,St Joseph,Missouri,64501,United States,8166174038,,-94.867977,39.808641
+3e7966dc-9ffc-4c96-bca2-2da69014b689,The Crafty Chameleon,brewpub,1384 Clarkson Clayton Ctr,,,Ellisville,Missouri,63011-2145,United States,3144956054,http://www.craftychameleonbar.com,-90.588715,38.603377
+6387414f-f698-40cd-a9c4-00ebc8323d40,The Russell House Restaurant Inn Brewery,brewpub,10333 MO-21 Bus,,,Hillsboro,Missouri,63050,United States,6367978501,http://www.therussellhouserest.com,-90.560583,38.243082
 cfd5ec0b-09e6-4d89-b56a-e0a46f1a89f2,Third Wheel Brewing,brewpub,4008 N Service Rd,,,Saint Peters,Missouri,63376-6462,United States,6363239810,http://www.thirdwheelbrewing.com,-90.57023315,38.79578116
+c403954a-64ee-4e81-97be-70cbfffda7e6,Tie & Timber Beer Co.,taproom,1459 E Cherry St,,,Springfield,Missouri,65802-3356,United States,7202814664,,-93.268857,37.203867
 5aafd9ac-cb3b-4a21-9952-9baff7a7d3e4,Tie and Timber Beer Company,micro,1459 E Cherry St,,,Springfield,Missouri,65802-3356,United States,7202814664,http://www.tieandtimberbeerco.com,-93.2689605,37.20378983
-07244546-6ab3-4193-a093-2c5eee31e61f,Tin Mill Brewing Co,brewpub,114 Gutenberg St,,,Hermann,Missouri,65041-1138,United States,5734862275,http://www.tinmillbrewing.com,-91.43303557,38.706022
-be539c44-e3bf-4344-af13-7d3daf10a539,Torn Label Brewing Company,micro,1708 Campbell St,,,Kansas City,Missouri,64108-1524,United States,8166565459,http://www.tornlabel.com,-94.5731695,39.0926934
+07244546-6ab3-4193-a093-2c5eee31e61f,Tin Mill Brewing Co,brewpub,114 Gutenberg St,,,Hermann,Missouri,65041-1138,United States,5734862275,http://www.tinmillbrewing.com,-91.433256,38.706089
+be539c44-e3bf-4344-af13-7d3daf10a539,Torn Label Brewing Company,micro,1708 Campbell St,,,Kansas City,Missouri,64108-1524,United States,9136348001,http://www.tornlabel.com,-94.573294,39.092494
+309aa7c4-5a70-45cb-a087-cf7733049b2d,Track 94 Brewing,brewpub,1420 Oneida St,,,Seneca,Missouri,64865,United States,4177765252,http://www.track94brewery.com,-94.604819,36.84165
 64e8e735-2d18-48d8-8dbd-f6729513da71,Trailhead Brewing Co,closed,921 S Riverside Dr,,,Saint Charles,Missouri,63301-3489,United States,6369462739,http://www.trailheadbrewing.com,-90.48424843,38.77419057
-1fd4733e-3c00-46a6-a358-36877f23cc09,Transparent Brewing Company,micro,14501 White Ave,,,Grandview,Missouri,64030,United States,8164998888,http://www.transparentbrewingcompany.com,-94.525651,38.893126
+1fd4733e-3c00-46a6-a358-36877f23cc09,Transparent Brewing Company,brewpub,14501 White Ave,,,Grandview,Missouri,64030,United States,,http://www.transparentBrewing.com,-94.526218,38.859346
 218d3127-127b-4e78-a192-db5617c2f6fa,Twisted Roots Brewing,micro,3690 Forest Park Ave,,,Saint Louis,Missouri,63108,United States,3144496363,http://www.twistedrootsbrewing.com,-90.238117,38.637188
-a893c395-8dab-41a1-9b57-eee9e396ecb9,Two Plumbers Brewery and Arcade,micro,2236 1st Capitol Dr,,,Saint Charles,Missouri,63301,United States,6362248626,http://www.twoplumbers.com,-90.511795,38.791625
+78a334e1-885f-49d6-9731-76b0af360a02,Two Plumbers Brewery & Event Space,micro,751 Friedens Rd,,,Saint Charles,Missouri,63303,United States,6362248626,,-90.520836,38.764632
+a893c395-8dab-41a1-9b57-eee9e396ecb9,Two Plumbers Brewery + Arcade,brewpub,2236 1st Capitol Dr,,,Saint Charles,Missouri,63301,United States,6362248626,http://twoplumbers.com,-90.508565,38.7793
+973ececd-b523-42f2-9352-ae4899326b18,Uncle Bob's Brew Pub,brewpub,1851 N Hwy CC,,,Nixa,Missouri,65714,United States,,,-93.293885,37.07925
 7b2fe435-2c61-4045-a631-c87c309ca8c2,Uranus Brewery,planning,,,,Saint Robert,Missouri,65584,United States,5735282924,http://www.UranusMissouri.com,,
-f336bf99-b21e-41ae-8c4a-717e66d35b93,Urban Chestnut Brewing Co,regional,4465 Manchester Ave,,,Saint Louis,Missouri,63110-2113,United States,3142220143,http://www.urbanchestnut.com,-90.261143,38.626662
+f336bf99-b21e-41ae-8c4a-717e66d35b93,Urban Chestnut Brewing Company,regional,4465 Manchester Ave,,,Saint Louis,Missouri,63110,United States,3142220143,http://urbanchestnut.com,-90.261459,38.62649
+dc1ceacf-3267-4b14-8bf1-dd87e3403767,Urban Chestnut Grove Brewery and Bierhall,micro,4465 Manchester Ave,,,Saint Louis,Missouri,63110,United States,3142220143,,-90.261459,38.62649
 bb7f7dc2-64dc-4d59-a13a-8162440a3f5a,Urban Research Brewery,brewpub,4501 Manchester Ave,,,Saint Louis,Missouri,63110-2113,United States,3144740935,http://www.urbpizzaandbeer.com,-90.274034,38.627933
-bd5f13e7-c53f-4bfb-9845-619a7ad059e7,Wages Brewing Company,micro,1382 Bill Virdon Blvd,,,West Plains,Missouri,65775-3383,United States,4172933119,http://www.wagesbrewco.com,-91.835109,36.72461005
+bd5f13e7-c53f-4bfb-9845-619a7ad059e7,Wages Brewing Company,brewpub,1382 Bill Virdon Blvd,,,West Plains,Missouri,65775-3383,United States,4172933119,http://www.wagesbrewco.com,-91.834813,36.72259
 6b197016-089f-4fa7-ac77-4d08c03035c2,Wellspent Brewing Company,micro,2917 Olive Street,,,Saint Louis,Missouri,63103,United States,3143280505,http://www.wellspentbeer.com,-90.22073676,38.6348785
-4f20644c-efbe-4c66-932e-712507f9e99e,"Welpman Springs Brewing Company, LLC.",closed,517 Hatchery Rd,,,Stover,Missouri,65078-1132,United States,5733772343,http://www.welpmanspringsbrewing.weebly.com,,
-90b580a3-4c08-4dd4-a69e-4a69fe8499f4,Weston Brewing Co / O'Malley's Pub,micro,500 Welt St,,,Weston,Missouri,64098-1242,United States,8166405235,http://www.westonirish.com,-94.899934,39.411378
-7ebf9a9b-da69-4a31-af9f-ec7320d82f66,White River Brewing Co,micro,505 W Commercial St,,,Springfield,Missouri,65803-2631,United States,4178691366,http://www.whiteriverbrewingco.com,-93.29542085,37.2296298
+c710bbd2-1928-4e26-92fd-2db7d590f8e2,Wellspent Brewing Company,taproom,2917 OLIVE ST,,,Saint Louis,Missouri,63103-1337,United States,3143280505,http://www.wellspentbeer.com,-90.220737,38.63486
+4f20644c-efbe-4c66-932e-712507f9e99e,"Welpman Springs Brewing Company, LLC.",taproom,517 Hatchery Rd,,,Stover,Missouri,65078-1132,United States,5733772343,http://www.welpmanspringsbrewing.weebly.com,-93.057091,38.507251
+90b580a3-4c08-4dd4-a69e-4a69fe8499f4,Weston Brewing Co / O'Malley's Pub,micro,500 Welt St,,,Weston,Missouri,64098-1242,United States,,http://www.westonirish.com,-94.8996,39.411009
+f6aad594-1211-4831-b768-8ea66623ff17,Whistling Springs Brewing Company - Dark Hills Brewery,taproom,246 Whistling Springs Lane,,,Seligman,Missouri,65745,United States,4792836365,http://www.whistlingsprings.beer,-94.100952,36.527752
+7ebf9a9b-da69-4a31-af9f-ec7320d82f66,White River Brewing Co,micro,505 W Commercial St,,,Springfield,Missouri,65803-2631,United States,4178691366,http://www.whiteriverbrewingco.com,-93.295488,37.229658
 0751ebe6-8350-44ca-92c0-e06822ba72e4,Wild Water,closed,9995 Winghaven Blvd,,,O Fallon,Missouri,63368-3623,United States,6362650751,,,
 8fe80c7b-3dcc-4231-bd5c-e1a557480564,William K Busch Brewing Co.,closed,8047 Litzsinger Rd,,,Saint Louis,Missouri,63144-2505,United States,3149327911,http://www.enjoykraftig.com,-90.33733442,38.61687711
 17469498-8632-4e10-8076-cb9cb22e7978,Wind Shift Brewing,micro,3421B NW Jefferson St,,,Blue Springs,Missouri,64015,United States,8167862699,http://www.windshiftbrew.com,-94.303423,39.073677
+79bc09eb-0dba-4276-9050-2c5320911c9f,Wind Shift Brewing Company,taproom,3421 NW Jefferson St Ste B,,,Blue Springs,Missouri,64015,United States,8167862699,http://www.windshiftbrew.com,-94.304167,39.03628
+ac88c84b-637d-4175-bc83-fd67fecb3d2d,Wire Road Brewing Company,taproom,4453 S Timbercreek Ave,,,Brookline Station,Missouri,65619,United States,4178308363,http://wireroadbrewing.com,-93.364184,37.134998

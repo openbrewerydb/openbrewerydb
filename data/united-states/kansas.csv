@@ -1,48 +1,86 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-c70c8ad5-4bfa-4b2a-a383-7e7d15e0baf9,23rd Street Brewery,brewpub,3512 Clinton Pkwy,,,Lawrence,Kansas,66047-2145,United States,7858562337,http://www.brew23.com,-95.28093353,38.9429674
+0ab8067b-9764-45ee-b56c-a789b68c71ff,11 Worth Station Brewhouse,taproom,305 Cherokee Street,,,Leavenworth,Kansas,66048,United States,,,-94.912314,39.317165
+49fe6176-dd58-4607-8680-fbbe03e380b5,15-24 Brew House,brewpub,420 Lincoln Ave,,,Clay Center,Kansas,67432-2908,United States,9133609927,,-97.127911,39.376434
+c70c8ad5-4bfa-4b2a-a383-7e7d15e0baf9,23rd Street Brewery,brewpub,3512 Clinton Pkwy,,,Lawrence,Kansas,66047-2145,United States,7858562337,http://www.brew23.com,-95.280916,38.942982
 6f0bba92-cc4b-49df-ad02-827b08bd7272,Aero Plains Brewing,micro,117 N Handley St,,,Wichita,Kansas,67203-6114,United States,3164482811,http://www.aeroplainsbrewing.com,-97.35071131,37.68455054
 9209ed61-b9dd-4b06-bf2c-8cacbef097f8,Augustino Brewing,brewpub,756 N Tyler Rd,,,Wichita,Kansas,67212-3617,United States,3167215554,http://www.augustinobrew.com,-97.44431468,37.69517328
+ce3023d6-5d99-4704-8ee3-73c7071cac78,Barrister's Brewing Inc.,taproom,2822 SW Arrowhead Rd.,,,Topeka,Kansas,66614,United States,7858175185,http://https://barristersbrewing.com/,-95.752258,39.015154
 571e446c-b17d-40ba-98b1-a60daa9bb961,Beaver Brewery At Mo's Place,brewpub,1908 Elm St,,,Beaver,Kansas,67525-9231,United States,6205872350,http://www.mosbrewpub.com,-98.667933,38.639049
-789c9614-dbbd-473e-a5d8-7c881dfa5e51,Blind Tiger Brewery & Restaurant,brewpub,417 SW 37th St,,,Topeka,Kansas,66611-2354,United States,7852672739,http://www.blindtiger.com,-95.6846745,39.0002602
-3b5c7026-2f62-4fc0-ad1b-71a62ed0989d,Blue Skye Brewery,brewpub,116 N Santa Fe Ave,,,Salina,Kansas,67401-2614,United States,7854521234,http://blueskyebrewery.com,-97.608998,38.84100296
-ca1f9cfe-a140-49ae-a24a-443173fc662a,Brew Lab,brewpub,7925 Marty St,,,Overland Park,Kansas,66204-3727,United States,9134002343,http://www.brewlabkc.com,-94.66993927,38.98568748
+21957d88-a893-4218-a186-e9e7b8395632,Black Stag Brewery,brewpub,623 Massachusetts St,,,Lawrence,Kansas,66044,United States,7857641628,http://www.blackstagbrew.com,-95.236098,38.972331
+789c9614-dbbd-473e-a5d8-7c881dfa5e51,Blind Tiger Brewery & Restaurant,brewpub,417 SW 37th St,,,Topeka,Kansas,66611-2354,United States,7852672739,http://www.blindtiger.com,-95.684504,39.000139
+3b5c7026-2f62-4fc0-ad1b-71a62ed0989d,Blue Skye Brewery,brewpub,116 N Santa Fe Ave,,,Salina,Kansas,67401-2614,United States,7854521234,http://blueskyebrewery.com,-97.60871,38.841303
+ca1f9cfe-a140-49ae-a24a-443173fc662a,Brew Lab,brewpub,7925 Marty St,,,Overland Park,Kansas,66204-3727,United States,9134002343,http://www.brewlabkc.com,-94.669859,38.985342
 b77f57dd-6d85-4cf1-a1ee-bf44e3ef7935,Center Pivot,planning,,,,Quinter,Kansas,67752,United States,7857548344,,,
-3e9028ae-2464-4ab9-b852-26d54695af7a,Central Standard Brewing,micro,156 S Greenwood St,,,Wichita,Kansas,67211-1815,United States,3162608515,http://www.drinkcsb.com,-97.3184245,37.6846165
-7b891d71-9462-467d-ad32-54fd732162ea,Defiance Brewing Co.,micro,2050 E US Highway 40,,,Hays,Kansas,67601-9310,United States,7853012337,http://www.defiancebeer.com,,
-56dce899-ff23-4f0e-be56-05900ecac53e,Dodge City Brewing,brewpub,701 3rd Ave,,,Dodge City,Kansas,67801-4336,United States,6203713999,http://www.dodgecitybrewing.com,-100.020307,37.754632
+92d50811-3508-46dc-801d-850947166ea5,Center Pivot,brewpub,300 Main St,,,Quinter,Kansas,67752,United States,7857548344,,-100.23457,39.069637
+3e9028ae-2464-4ab9-b852-26d54695af7a,Central Standard Brewing,taproom,156 S Greenwood St,,,Wichita,Kansas,67211-1815,United States,3162608515,http://www.drinkcsb.com,-97.318171,37.684583
+7b891d71-9462-467d-ad32-54fd732162ea,Defiance Brewing Co.,micro,2050 E US Highway 40,,,Hays,Kansas,67601-9310,United States,7853012337,http://www.defiancebeer.com,-99.236744,38.850608
+56dce899-ff23-4f0e-be56-05900ecac53e,Dodge City Brewing,brewpub,701 3rd Ave,,,Dodge City,Kansas,67801-4336,United States,6203713999,http://www.dodgecitybrewing.com,-100.020537,37.754725
+126db453-6bb0-4a6e-91b5-5389408d102e,Down Under Brewery,brewpub,121 W Court St,,,Beloit,Kansas,67420,United States,7855341888,,-98.11138,39.457999
+5decc639-402c-4cc6-8128-b817076b07fe,Drop the H Brewing Company,micro,107 East Rose Street,,,Pittsburg,Kansas,66762,United States,6206879916,http://droptheh.com,-94.70383,37.407514
+68cddf93-c2f8-4587-9281-ce9c8f985ffd,ExBEERiment Brewing,taproom,925 E Lincoln Ln,,,Gardner,Kansas,66030,United States,9139384175,http://www.exbeerimentbrewing.com,-94.906239,38.812739
 5871b814-9d72-47ba-9733-82f43d0b79d9,Fields & Ivy Brewery,planning,,,,Olathe,Kansas,66061-7464,United States,9136710349,,,
-9db36c6e-0386-41f5-b03c-6e83f3185253,Free State Brewing Co,brewpub,636 Massachusetts St,,,Lawrence,Kansas,66044-2236,United States,7858434555,http://www.freestatebrewing.com,-95.23580916,38.97243469
-3f2f7f99-2c28-4ec3-a272-83cddacd69c5,Free State Brewing Co - Production,micro,1923 Moodie Rd,,,Lawrence,Kansas,66046-3167,United States,,,-95.22586264,38.94967284
-7c88a2c2-0288-40b5-acc5-5a6b6fcb8f1d,Gella's Diner & Liquid Bread Brewing Co,brewpub,117 E 11th St,,,Hays,Kansas,67601-3603,United States,7856212739,http://www.lbbrewing.com,-99.32909033,38.87174492
-65f4e5eb-5d05-4b40-acb8-a7311ad1460c,Granite City Food & Brewery (#12),brewpub,1701 Village West Pkwy,,,Kansas City,Kansas,66111-1879,United States,9133342255,http://www.gcfb.net,-94.8239539,39.1233376
+9c145037-9295-4a62-976e-2b69c02d580e,Fields & Ivy Brewery,brewpub,706 E 23rd St,,,Lawrence,Kansas,66046-4908,United States,9134165825,http://https://fieldsandivy.com,-95.226043,38.94337
+d264dbc7-6186-4aed-b5af-bde2aa84a2f9,First Man Brewery,brewpub,437 E Madison,,,Derby,Kansas,67037,United States,3162603675,,-97.266206,37.547765
+d91da492-afdf-47e5-9178-8b0977d635e1,Flat Mountain Brewhouse,brewpub,207 N Main St,,,Garden City,Kansas,67846,United States,6202602886,http://www.flatmountainbrewhouse.com,-100.874579,37.966039
+755b7824-d19a-4171-b2bc-deb6b7652c10,Fly Boy Brewery and Eats / Props & Hops Brewing,brewpub,105 N Main St,,,Sylvan Grove,Kansas,67481,United States,7855267800,,-98.393631,39.011192
+9db36c6e-0386-41f5-b03c-6e83f3185253,Free State Brewing Co,brewpub,636 Massachusetts St,,,Lawrence,Kansas,66044-2236,United States,7858434555,http://www.freestatebrewing.com,-95.235744,38.972301
+3f2f7f99-2c28-4ec3-a272-83cddacd69c5,Free State Brewing Co - Production,micro,1923 Moodie Rd,,,Lawrence,Kansas,66046-3167,United States,,,-95.225917,38.949544
+7c88a2c2-0288-40b5-acc5-5a6b6fcb8f1d,Gella's Diner & Liquid Bread Brewing Co,brewpub,117 E 11th St,,,Hays,Kansas,67601-3603,United States,7856212739,http://www.lbbrewing.com,-99.3299,38.872149
+65f4e5eb-5d05-4b40-acb8-a7311ad1460c,Granite City Food & Brewery (#12),brewpub,1701 Village West Pkwy,,,Kansas City,Kansas,66111-1879,United States,9133342255,http://www.gcfb.net,-94.823932,39.124241
 34899927-e405-4bc0-8fdb-56887498737f,Granite City Food & Brewery (#13),brewpub,15085 W 119th St,,,Olathe,Kansas,66062-9628,United States,9138296060,http://www.gcfb.net,-94.75995296,38.91268389
 bfca8916-7e6b-4978-ba73-ef4faa3898c9,Grinderâs High Noon Brewery,brewpub,206 Choctaw St,,,Leavenworth,Kansas,66048-2821,United States,9136511000,http://info@grindershighnoon.com,-94.91052465,39.31683651
-dd702c3b-e231-4e25-865c-c9ef68a57c74,Hank Is Wiser Brewery,brewpub,213 N Main St,,,Cheney,Kansas,67025-9730,United States,3165420113,http://www.hankiswiserbrewery.com,-97.7812689,37.62820924
+dd702c3b-e231-4e25-865c-c9ef68a57c74,Hank Is Wiser Brewery,brewpub,213 N Main St,,,Cheney,Kansas,67025-9730,United States,3165420113,http://www.hankiswiserbrewery.com,-97.781611,37.628381
+5a3eae10-3ad6-4540-9f57-7fdbd13ff620,Happy Basset Barrel House,taproom,510 W 49th Street,,,Topeka,Kansas,66609,United States,7857833688,,-95.69107,38.979829
 073d02c4-85e2-4118-955b-89e8d51ff119,Happy Basset Brewing Company,micro,6044 SW 29th St,,,Topeka,Kansas,66614-4268,United States,7857833688,http://www.happybassetbrewingco.com,-95.7637047,39.01466361
-b11b2594-f5ba-4586-9b45-fe81be3af157,Hopping Gnome Brewing Company,micro,1710 E Douglas Ave,,,Wichita,Kansas,67214-4212,United States,,http://www.hoppinggnome.com,-97.3335112,37.6860464
+b11b2594-f5ba-4586-9b45-fe81be3af157,Hopping Gnome Brewing Company,taproom,1710 E Douglas Ave,,,Wichita,Kansas,67214-4212,United States,,http://www.hoppinggnome.com,-97.316765,37.686498
+32bf76bc-b131-44d4-a2ab-f9f1d2a24811,Indy Brew Works,taproom,223 W. Main St,,,Independence,Kansas,67301,United States,6205772162,http://www.indybrewworks.com,-95.709182,37.223052
+7f078709-e364-4a60-bdd3-4b89a88516c4,Iron Rail Brewing,brewpub,705 S Kansas Ave,,,Topeka,Kansas,66603,United States,7852158123,http://www.ironrailbrewing.com,-95.674493,39.050093
+1598ff8b-b77c-47e2-8feb-2281642125f7,Irrigation Ales,taproom,414 Main Street,,,Courtland,Kansas,66939,United States,7853743511,http://www.irrigationales.com,-97.895382,39.782607
 817b2847-133e-4139-8a6e-97a07259ea82,Kansas City Breweries Company,proprietor,12650 S Pflumm Rd Ste 202,,,Olathe,Kansas,66062-3895,United States,8163016313,http://www.KCLite.com,,
-76e95144-1f59-427d-9db8-b0a87d5e7f08,Kansas Territory Brewing,micro,310 C St,,,Washington,Kansas,66968-1909,United States,7853253300,,-97.0511838,39.81655418
-adee1eae-92a4-4ce5-80c3-bff045a4dd7a,Lawrence Beer Company,brewpub,826 Pennsylvania St,,,Lawrence,Kansas,66044-2754,United States,7858560453,http://www.lawrencebeerco.com,-95.2285539,38.9683511
-bad0e931-ed7c-4c5f-937b-6e53a705d16d,Limestone Beer Co,brewpub,707 N Waco Ave Ste 105,,,Wichita,Kansas,67203-3944,United States,3167296200,http://www.limestonebeerco.com,,
+76e95144-1f59-427d-9db8-b0a87d5e7f08,Kansas Territory Brewing,micro,1827 Wilson Street,,,Washington,Kansas,66968,United States,9135470386,,-97.045682,39.804053
+f52110ff-21bc-495d-82d7-45285dc46b70,Kansas Territory Brewing,micro,1827 Wilson Street,,,Washington,Kansas,66968,United States,9135470386,,-97.045682,39.804053
+1a6f7f4c-9b6e-469b-9f7a-d0ec5ac90e67,Ladybird Brewing,taproom,523 Main,,,Winfield,Kansas,67156,United States,6202625697,http://www.ladybird.beer,-96.997748,37.243638
+adee1eae-92a4-4ce5-80c3-bff045a4dd7a,Lawrence Beer Company,brewpub,826 Pennsylvania St,,,Lawrence,Kansas,66044-2754,United States,7858560453,http://www.lawrencebeerco.com,-95.228558,38.968427
+bad0e931-ed7c-4c5f-937b-6e53a705d16d,Limestone Beer Co,brewpub,707 N Waco Ave Ste 105,,,Wichita,Kansas,67203-3944,United States,3167296200,http://www.sweetalliebs.com,-97.341482,37.69584
 392b01d7-c957-4c47-ae57-24e179a809b7,Limitless Brewing,planning,,,,Lenexa,Kansas,66215-1260,United States,,http://www.limitlessbrewing.com,,
+175b0a94-54e4-4c32-b685-094148a08b11,Limitless Brewing,taproom,9500 Dice Lane,,,Lenexa,Kansas,66215,United States,,http://www.limitlessbrewing.com,-94.755234,38.956128
+5f4f5f1b-e7bb-4138-b373-c64560f4d55d,Limitless Brewing,taproom,9500 Dice Lane,,,Lenexa,Kansas,66215,United States,,http://www.limitlessbrewing.com,-94.755234,38.956128
 8de6b4e6-4616-4f07-aeec-c53830db03ca,Little Apple Brewing Co,micro,1110 Westloop Pl,,,Manhattan,Kansas,66502-2838,United States,7855395500,http://www.littleapplebrewery.com,-96.6083689,39.1915231
+258e603c-ca57-4875-a20d-b110e5b1b538,Manhattan Brewing Company,taproom,406 Poyntz Ave,,,Manhattan,Kansas,66502,United States,7857750406,http://mhkbeer.com,-96.562229,39.179708
 385aa942-7fc3-441b-90c5-7ad9410e2d03,Norsemen Brewing Co.,micro,830 N Kansas Ave,,,Topeka,Kansas,66608-1211,United States,7856085065,http://www.norsemenbrewingco.com,-95.6663742,39.06706165
-2486587b-e54e-48e4-842e-f35d9111767c,Nortons Brewing Co.,brewpub,125 N Saint Francis St,,,Wichita,Kansas,67202-2607,United States,3166446067,http://www.nortonsbrewing.com,-97.331744,37.68657784
+2486587b-e54e-48e4-842e-f35d9111767c,Nortons Brewing Co.,brewpub,125 N Saint Francis St,,,Wichita,Kansas,67202-2607,United States,3166446067,http://www.nortonsbrewing.com,-97.332018,37.68696
+d1bc742f-e82d-4c35-84d3-db8c168da255,Not Lost Brewing Company,brewpub,229 South Main St,,,Ottawa,Kansas,66067,United States,7854186888,http://www.notlostbrewing.com,-95.268189,38.614633
+79c71e1a-96b4-45fa-a49e-520319244626,Outfield Beer Company,taproom,611 W 2nd St,,,Bonner Springs,Kansas,66012-1253,United States,9132760142,http://www.outfieldbeer.com,-94.889984,39.052688
+99ad7665-1c0d-4e28-a1df-67788eb36bfe,Oz Brewing,brewpub,603 4th Street,,,Phillipsburg,Kansas,67661,United States,7852080065,http://www.ozbrewing.com,-99.323594,39.754944
+2130c8ae-c2bb-442a-a2c1-d7d8cf6f5dec,Pathlight Brewing,taproom,11200 W. 75TH ST.,,,SHAWNEE,Kansas,66214,United States,9134002615,http://www.pathlightbrewing.com,-94.716006,38.993309
+305fbf4a-6774-4ca5-999b-2901264b43aa,Pour House,brewpub,711 E Douglas Avenue Ste 103-105,,,Wichita,Kansas,67202,United States,3163518086,,-97.328923,37.685119
 633070e8-f61d-4e78-82ce-54d4d229f58e,Radius Brewing Company,micro,610 Merchant St,,,Emporia,Kansas,66801-2859,United States,6202084677,http://radiusbrewing@yahoo.com,-96.18130706,38.40521996
+63cd891e-5ea7-44f2-9fc3-dc873390bbaf,Range 23 Brewing,taproom,13400 Donahoo Rd.,,,Kansas City,Kansas,66109,United States,9132290992,http://www.range23brewing.com,-94.890856,39.161497
 91b1bfea-a4e2-487f-b290-b234c582ee0c,Red Crow Brewing Company,micro,,,,Olathe,Kansas,66062,United States,9132473641,http://www.redcrowbrew.com,,
-a3c97ac8-ab6b-4812-b918-b5485ab461cb,River City Brewing Co,brewpub,150 N Mosley St,,,Wichita,Kansas,67202-2804,United States,3162632739,http://rivercitybrewingco.com,,
-979a9377-27e4-436c-938e-fddea2d87888,Salt City Brewing,micro,514 N Main Street,,,Hutchinson,Kansas,67501,United States,6209606210,,-97.93175306,38.05869143
+8d844fe9-a08a-411b-a531-2d8edf78829b,Red Crow Brewing Company,taproom,1062 W Santa Fe St,,,Olathe,Kansas,66061,United States,9132473641,http://www.redcrowbrew.com,-94.833111,38.884788
+a3c97ac8-ab6b-4812-b918-b5485ab461cb,River City Brewing Co,brewpub,150 N. Mosley,,,Wichita,Kansas,67202,United States,3162632739,http://www.rivercitybrewingco.com,-97.327229,37.687439
+4a693530-eed2-40e8-93b2-9fdf16fcfcb7,River City Brewing Co,brewpub,150 N. Mosley,,,Wichita,Kansas,67202,United States,3162632739,http://www.rivercitybrewingco.com,-97.327229,37.687439
+cd2397d5-f520-4e8f-965f-bf5c7495a1b1,"Riverbank Brewing, LLC.",taproom,13 West Main Street,,,Council Grove,Kansas,66846,United States,,http://www.riverbankbrewing.com,-96.48829,38.661517
+979a9377-27e4-436c-938e-fddea2d87888,Salt City Brewing,micro,514 N Main Street,,,Hutchinson,Kansas,67501,United States,6209606210,http://www.saltcitybrewing.com,-97.931418,38.059183
+b5d12be1-5b40-4396-b443-80a05b221875,Sandhills Brewing,taproom,111 W 2nd St,,,Hutchinson,Kansas,67501,United States,,http://www.sandhillsbrewing.com,-97.9219,38.0338
+b0373b5a-55ac-460e-8ef8-6d362e9c6cd6,Sandhills Brewing,taproom,5612 Johnson Dr,,,Mission,Kansas,66202,United States,,,-94.650831,39.022461
+b9eafba5-b11d-47cb-9c00-aef240c7b3fe,Tall Trellis Brew Co.,brewpub,25600 W Valley Parkway,,,Olathe,Kansas,66061,United States,,http://www.talltrellis.com,-94.884684,38.945143
 069a5770-2241-4f0d-b635-c0f61825a1fd,Tallgrass Brewing Co,regional,5960 Dry Hop Cir,,,Manhattan,Kansas,66503-9815,United States,7855371131,http://www.tallgrassbeer.com,-96.6792762,39.1428736
 aa01c26f-b816-4afe-a4a2-e42afd3d9039,Tallgrass Taphouse Co,brewpub,320 Poyntz Ave,,,Manhattan,Kansas,66502-6038,United States,7853202933,http://www.tallgrasstaphouse.com,-96.561291,39.1795046
 14bbd16f-2874-46d2-8762-6bbde9003183,The Boiler Room Brewhaus LLC,micro,10 S National Ave,,,Fort Scott,Kansas,66701-1311,United States,6202232702,http://www.Boileroombrewhaus.com,-94.70741825,37.84103842
+a3b32a9d-48b6-4ec5-9228-c8ff30ae3719,"The Farm & The Odd Fellows, LLC",brewpub,205 W 2nd St,,,Minneapolis,Kansas,67467,United States,6202456562,http://https://thefarmminneapolis.com/,-97.707323,39.122222
 aa332036-3ce5-47dc-aa9b-73b2b457b3d3,The Jolly Fox Brewery,planning,,,,Pittsburg,Kansas,66762,United States,,http://Www.thejollyfoxbrrewery.com,,
+e52a475e-8afe-4321-9106-f36ad1e15088,The Jolly Fox Brewery,taproom,301 S Broadway,,,Pittsburg,Kansas,66762,United States,,http://Www.thejollyfoxbrewery.com,-94.704452,37.40609
 9a7195db-8207-4809-b558-6eea7cb928ea,Third Place Brewing,micro,630 E Douglas Ave  Suite #150,,,Wichita,Kansas,67202-3537,United States,,http://www.thirdplacebrew.com,,
-9d39924c-570a-47cb-afea-297a2de285b4,Three Rings Brewery,micro,536 South Old Highway 81,,,McPherson,Kansas,67401-6026,United States,6205045022,,,
+9d39924c-570a-47cb-afea-297a2de285b4,Three Rings Brewery,micro,536 South Old Highway 81,,,McPherson,Kansas,67401-6026,United States,6205045022,,-97.613058,38.830692
+2b24c6f4-306e-49e5-a80e-59d0c52a5245,Tor Brewing,taproom,222 South Commerce Street,,,Wichita,Kansas,67202,United States,,http://www.torbrewing.com,-97.330804,37.684045
 1a25fc20-de4d-4e06-aed5-0013bc2446ee,Transport Brewery,planning,,,,Shawnee,Kansas,66203-2749,United States,,http://www.transportbrewery.com,,
+d619d920-608f-4048-ac07-d619b404713b,Transport Brewery,micro,11113 Johnson Dr,,,Shawnee,Kansas,66203-2749,United States,9137666673,http://www.transportbrewery.com,-94.715212,39.022666
 0101bc6d-8868-4673-9ed5-f15c5e545b96,Union Works Brewery LLC,planning,,,,Humboldt,Kansas,66748-1050,United States,,,,
-32cee56d-132f-404d-a744-598476b6351c,Walnut River Brewing Company,micro,111 W Locust Ave,,,El Dorado,Kansas,67042-3513,United States,3163518086,http://www.walnutriverbrewing.com,-96.85004869,37.81367549
-f89d304a-d3ac-41d9-92b8-0ea150b231f0,Wichita Brewing Co & Pizzeria,brewpub,8815 W 13th St N Ste 100,,,Wichita,Kansas,67212-4072,United States,3162101641,http://www.wichitabrew.com,,
-bf687e4e-81f9-45ff-bb1f-34aff10e95e9,Wichita Brewing Co & Pizzeria,brewpub,535 N Woodlawn St,,,Wichita,Kansas,67208-3668,United States,3164404885,http://www.wichitabrew.com,-97.262463,37.74682
-b6eb55a9-aea4-433e-bcf7-c5a99cf248af,"Wichita Brewing Co Production, LLC",micro,727 E Osie St,,,Wichita,Kansas,67211-4327,United States,,,-97.32983941,37.66244565
+32cee56d-132f-404d-a744-598476b6351c,Walnut River Brewing Company,micro,111 W Locust Ave,,,El Dorado,Kansas,67042-3513,United States,3163518086,http://www.walnutriverbrewing.com,-96.850374,37.813528
+f89d304a-d3ac-41d9-92b8-0ea150b231f0,Wichita Brewing Co & Pizzeria,brewpub,535 N Woodlawn St,,,Wichita,Kansas,67208-3668,United States,3164404885,http://www.wichitabrew.com,-97.263662,37.695213
+bf687e4e-81f9-45ff-bb1f-34aff10e95e9,Wichita Brewing Co & Pizzeria,brewpub,535 N Woodlawn St,,,Wichita,Kansas,67208-3668,United States,3164404885,http://www.wichitabrew.com,-97.263662,37.695213
+b6eb55a9-aea4-433e-bcf7-c5a99cf248af,"Wichita Brewing Co Production, LLC",micro,727 E Osie St,,,Wichita,Kansas,67211-4327,United States,,,-97.329302,37.661845
 9fff553d-8ede-435a-ab11-01b8bbed9b18,Willcott Brewing Company,planning,,,,Holton,Kansas,66436-1703,United States,7853381611,http://www.willcottbrewing.com,,
-c5372484-366c-45b2-81d9-bf141c9587aa,Yankee Tank Brewing Company,micro,807 E 23rd St Ste J,,,Lawrence,Kansas,66046-4952,United States,7852339333,http://yankeetankbrewing.com,,
+59e56a9b-1176-418d-9337-dc1242915965,Willcott Brewing Company,micro,219 W 4th St,,,Holton,Kansas,66436-1703,United States,7853381611,http://www.willcottbrewing.com,-95.737365,39.463226
+c5372484-366c-45b2-81d9-bf141c9587aa,Yankee Tank Brewing Company,micro,807 E 23rd St Ste J,,,Lawrence,Kansas,66046-4952,United States,7852339333,http://yankeetankbrewing.com,-95.226466,38.941654

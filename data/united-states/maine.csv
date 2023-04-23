@@ -1,115 +1,187 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-2005a2bb-0f89-4520-8553-f79cf0b4c909,2 Feet Brewing Company,brewpub,80 Columbia St,,,Bangor,Maine,04401-6319,United States,2075731979,http://www.2feetbrewing.com,-68.77283099,44.80012684
-f4c592ed-4c20-4b87-bb35-64f894a6cc6b,Airline Brewing Company,micro,22 Mill Ln,,,Amherst,Maine,04428,United States,2075842337,http://www.abcmaine.beer,-68.3677435,44.8329462
-8a7a2bc0-0f42-4889-94ef-7f8f647268fa,Allagash Brewing Co,regional,50 Industrial Way,,,Portland,Maine,04103-1270,United States,2078785385,http://www.allagash.com,-70.3179518,43.7030951
+2005a2bb-0f89-4520-8553-f79cf0b4c909,2 Feet Brewing Company,brewpub,80 Columbia St,,,Bangor,Maine,04401-6319,United States,2075731979,http://www.2feetbrewing.com,-68.772767,44.800128
+f4c592ed-4c20-4b87-bb35-64f894a6cc6b,Airline Brewing Company,taproom,22 Mill Ln,,,Amherst,Maine,04428,United States,2075842337,http://www.abcmaine.beer,-68.370429,44.832589
+dae3e664-806b-4bd9-8459-131569ba1895,Airline Brewing Company - Brewpub,location,173 Main St,,,Ellsworth,Maine,04605-1903,United States,2074120045,,-68.422521,44.541676
+8a7a2bc0-0f42-4889-94ef-7f8f647268fa,Allagash Brewing Company,regional,50 Industrial Way,,,Portland,Maine,04103-1270,United States,2078785385,http://www.allagash.com,-70.317677,43.703222
+d5776450-c5e0-4e3d-9362-41ebe1bde92c,Ambition Brewing,taproom,295 Main Street,,,Wilton,Maine,04294,United States,2074918458,http://www.ambitionbrews.com,-70.231131,44.586925
 adb4eef2-cd2f-4664-9912-c58890711b30,Andrews Brewing Co,micro,353 High St,,,Lincolnville,Maine,04849-5846,United States,2077633305,,,
-5f353918-3d93-49ba-93d1-098a0ecf318f,Atlantic Brewing Co,micro,15 Knox Rd,,,Bar Harbor,Maine,04609-7770,United States,2072882337,http://atlanticbrewing.com,,
-36a6f65e-aa9d-45d5-9ce8-cbbc82ca9ab1,Atlantic Brewing Co / Bar Harbor Brewing,brewpub,52 Cottage Street Bar Harbor,,,Bar Harbor,Maine,04609,United States,2072884592,http://www.barharborbrewing.com,-68.20607075,44.389488
+36a6f65e-aa9d-45d5-9ce8-cbbc82ca9ab1,Atlantic Brewing Co / Bar Harbor Brewing,brewpub,52 Cottage Street Bar Harbor,,,Bar Harbor,Maine,04609,United States,2072884592,http://www.barharborbrewing.com,-68.2535,44.3762
+5f353918-3d93-49ba-93d1-098a0ecf318f,Atlantic Brewing Company,taproom,15 Knox Rd,,,Bar Harbor,Maine,04609-7770,United States,2072882337,http://atlanticbrewing.com,-68.333303,44.399631
 840d509e-f231-4722-ab4c-bf2ef7996196,Austin Street Brewery,micro,1 Industrial Way Ste 8,,,Portland,Maine,04103-1072,United States,2072001994,http://www.austinstreetbrewery.com,,
-62c3eba7-bba3-4ab5-aa14-9b049415c3df,"Bag and Kettle, The",brewpub,9000 Main St Apt 21,,,Carrabassett Valley,Maine,04947-6808,United States,2072372451,http://www.thebagandkettle.com,,
-56be2bfb-6de2-4c08-b707-4e5a9e27005c,Banded Brewing Company,micro,32 Main St. Bldg 13-W Ste 102,,,Biddeford,Maine,04005-5145,United States,2076021561,http://www.bandedhorn.com,,
+79619e5a-3d24-4bea-b79b-04f8da65bf26,Austin Street Brewery,taproom,1 Industrial Way,,,Portland,Maine,04103,United States,,,-70.319933,43.702805
+7ee39603-5261-4274-9453-66e12809a306,Austin Street Brewery,taproom,1 Industrial Way,,,Portland,Maine,04103,United States,,,-70.319933,43.702805
+62c3eba7-bba3-4ab5-aa14-9b049415c3df,"Bag and Kettle, The",brewpub,9000 Main St Apt 21,,,Carrabassett Valley,Maine,04947-6808,United States,2072372451,http://www.thebagandkettle.com,-70.3077,45.053929
+56be2bfb-6de2-4c08-b707-4e5a9e27005c,Banded Brewing Company,micro,32 Main St. Bldg 13-W Ste 102,,,Biddeford,Maine,04005-5145,United States,2076021561,http://www.bandedbrewing.com,-70.45049,43.492753
+e0c59b87-5882-4e6e-af9a-de80bfbb13db,Banded Brewing Company,taproom,82 Hanover St,,,Portland,Maine,04101,United States,2076021561,http://www.bandedbrewing.com,-70.264643,43.659583
 e8a8053c-22a8-4f42-90e0-5d6474477a10,Bangor Beer Co.,brewpub,330 Bangor Mall Blvd,,,Bangor,Maine,04401-3644,United States,2079476605,http://www.bangorbeerco.com,,
 6ea2ecc3-d933-4c8d-852c-f20db3b19976,Barreled Souls Brewing Company LLC,micro,743 Portland Rd,,,Saco,Maine,04072-9005,United States,2076026439,http://www.barreledsouls.com,-70.405728,43.553358
-b9371de8-5c61-41c2-b2dd-9d4f5fd6eae7,Bath Brewing Company,brewpub,141 Front St,,,Bath,Maine,04530,United States,2075603389,http://www.bathbrewing.com,-69.81414593,43.91408541
-5d9e917f-4b58-41bf-9acb-a4d06fcacba5,Battery Steele Brewing,micro,1 Industrial Way Ste 12,,,Portland,Maine,04103-1072,United States,,http://www.batterysteele.com,,
-8fb49b63-7bf4-489e-ab18-bf77a99dfc34,"Baxter Brewing Co, LLC",regional,130 Mill St,,,Lewiston,Maine,04240-7774,United States,2073336769,http://www.baxterbrewing.com,-70.219607,44.09567728
+4bc49dd0-32ec-4cad-b310-31a12f968072,Barreled Souls Brewing Company LLC,taproom,743 PORTLAND ROAD,,,Saco,Maine,04072-9005,United States,2076026439,http://www.barreledsouls.com,-70.427047,43.523575
+55e43857-1022-4942-97a9-0364d30918f2,Barreled Souls Brewing Company LLC,taproom,743 PORTLAND ROAD,,,Saco,Maine,04072-9005,United States,2076026439,http://www.barreledsouls.com,-70.427047,43.523575
+d76edc6b-bed8-4ddf-8605-daacdbfa3372,Bateau Brewing,taproom,149 WATER STREET,,,Gardiner,Maine,04345,United States,,,-69.770493,44.228932
+b9371de8-5c61-41c2-b2dd-9d4f5fd6eae7,Bath Brewing Company,brewpub,141 Front St,,,Bath,Maine,04530-2610,United States,2073896039,http://www.bathbrewing.com,-69.813754,43.914229
+e80d17ff-9d71-467b-9f87-fd2bdb82e134,Batson River Brewing and Distilling,brewpub,12 Western Ave,,,Kennebunk,Maine,04043-7752,United States,2079855132,,-70.479852,43.359893
+5d9e917f-4b58-41bf-9acb-a4d06fcacba5,Battery Steele Brewing,taproom,1 Industrial Way Ste 12,,,Portland,Maine,04103-1072,United States,,http://www.batterysteele.com,-70.319933,43.702805
+8fb49b63-7bf4-489e-ab18-bf77a99dfc34,"Baxter Brewing Co, LLC",micro,130 Mill St,,,Lewiston,Maine,04240-7774,United States,2073336769,http://www.baxterbrewing.com,-70.218706,44.09435
 70141f89-287c-496b-8379-bdef1a8f4d0d,Bear Bones Beer,micro,2 Cottage St Ste 1,,,Bridgton,Maine,04009-1137,United States,2076478000,,,
 25a5fef8-192f-4cd3-95b2-9d0a903354f5,Bear Bones Beer,micro,43 Lisbon St,,,Lewiston,Maine,04240-7115,United States,2072001324,http://www.bearbonesbeer.com,-70.09605519,44.02012732
 ebb8c392-eddb-44c8-9561-44f9186b8518,Belfast Bay Brewing Co,contract,100 Searsport Ave,,,Belfast,Maine,04915-7221,United States,2074608654,http://www.belfastbaybrewing.com,-68.9880177,44.4309432
-f62eed3c-818b-49a8-9aca-20ebe1793f23,Bigelow Brewing Company,brewpub,473 Bigelow Hill Rd,,,Skowhegan,Maine,04976-5126,United States,2073996262,http://www.bigelowbrewing.com,-69.72961613,44.71991967
-9ca594a0-97b0-4bd5-a4fe-5b8ee789289f,Bissell Brothers Brewing,micro,4 Thompsons Pt Ste 108,,,Portland,Maine,04102-2639,United States,2074233622,http://www.bissellbrothers.com,-70.2904097,43.6514062
-77c455db-9445-408f-8447-c4d28830edf9,Black Bear Brewery,micro,19 Mill St Ste 4,,,Orono,Maine,04473-4095,United States,2078899123,http://www.blackbearmicrobrew.com,,
+68df39d0-5b97-44e6-88e8-4b557cf14d46,Belleflower Brewing Company,taproom,66 Cove St,,,Portland,Maine,04101,United States,2078051696,http://www.belleflowerbeer.com,-70.256751,43.668162
+f62eed3c-818b-49a8-9aca-20ebe1793f23,Bigelow Brewing Company,micro,473 Bigelow Hill Rd,,,Skowhegan,Maine,04976-5126,United States,2073996262,http://www.bigelowbrewing.com,-69.732745,44.720464
+0c816529-b0d3-455a-b9e4-ecec22814bfe,Birchwood Brewing Co,brewpub,19 Portland Rd,,,Gray,Maine,04039,United States,2076574593,http://Birchwoodbrewingco.com,-70.32721,43.881077
+9ca594a0-97b0-4bd5-a4fe-5b8ee789289f,Bissell Brothers Brewing,micro,38 Resurgam Place,,,Portland,Maine,04102-2639,United States,2074233622,http://www.bissellbrothers.com,-70.2924,43.6563
+462d4de3-f6d1-4b2a-b399-4ef4c7610418,Bissell Brothers Brewing,micro,38 Resurgam Place,,,Portland,Maine,04102-2639,United States,2074233622,http://www.bissellbrothers.com,-70.2924,43.6563
+93973cdc-362d-4665-b0c7-49ce5ba1de14,Bissell Brothers Three Rivers,micro,157 Elm St,,,Milo,Maine,04463,United States,2078088258,,-68.972182,45.242072
+77c455db-9445-408f-8447-c4d28830edf9,Black Bear Brewery,taproom,19 Mill St Ste 4,,,Orono,Maine,04473-4095,United States,2078899123,http://www.blackbearmicrobrew.com,-68.671261,44.883119
+df2b0e75-76f0-497a-99f5-64dc5aeea7f7,Black Bear Brewery - Bangor,taproom,191 Exchange St,,,Bangor,Maine,04401,United States,2075731711,,-68.768759,44.801827
+fe2ce331-99e6-4bbc-9afd-51d5fc371620,Black Pug Brewing,taproom,30 Bath Rd,,,Brunswick,Maine,04011,United States,2072725356,,-69.950903,43.908822
 3b7eac5f-539f-4a65-9066-1558446f68b7,Blank Canvas Brewery,micro,46 Betton St Ste 3,,,Brewer,Maine,04412-2636,United States,,http://www.blankcanvasbrewery.wordpress.com,,
-59b00fce-d9cf-4278-982e-684554d23b87,"Boothbay Craft Brewery, Inc",micro,301 Adams Pond Rd,,,Boothbay,Maine,04537-4334,United States,2076333411,http://www.boothbaycraftbrewery.com,,
-7669b9ef-f467-4bc6-a8c2-95be8ed156a9,Bunker Brewing Co,micro,17 Westfield St Unit D,,,Portland,Maine,04102-2730,United States,2074505014,http://www.bunkerbrewingco.com,,
-8d28a416-b855-4299-9428-f91817f8e874,Cushnoc Brewing Company,brewpub,243 Water St,,,Augusta,Maine,04330-4615,United States,2072136332,http://www.cushnocbrewing.com,-69.77344232,44.31664349
+79e9d1f0-fd3f-4851-b2ce-bfa3c06fb97d,Blaze Brewing Company,taproom,5 Bay View St,,,Camden,Maine,04843,United States,2072308713,,-69.064647,44.209471
+5084af68-20b0-4ccc-821a-248c4f53aa94,Blaze Brewing Company - Biddeford,micro,28 Pearl St,,,Biddeford,Maine,04005,United States,2075719412,,-70.456129,43.495654
+59b00fce-d9cf-4278-982e-684554d23b87,"Boothbay Craft Brewery, Inc",micro,301 Adams Pond Rd,,,Boothbay,Maine,04537-4334,United States,2076333411,http://www.boothbaycraftbrewery.com,-69.634234,43.880638
+f6da2b88-a714-4a2b-b137-7870483436c6,Brickyard Hollow Brewing Co,brewpub,20 BOW STREET,,,Freeport,Maine,04032,United States,2078470411,,-70.101921,43.856699
+b4302916-c0e6-4070-b0fd-d89a018ed920,Brickyard Hollow Brewing Co,brewpub,236 Main St,,,Yarmouth,Maine,04096,United States,2078470411,http://www.brickyardhollow.com,-70.18831,43.800978
+7669b9ef-f467-4bc6-a8c2-95be8ed156a9,Bunker Brewing Co,micro,17 Westfield St Unit D,,,Portland,Maine,04102-2730,United States,2074505014,http://www.bunkerbrewingco.com,-70.283707,43.652688
+2601ecb9-5205-42c9-9f6a-5e0522f31d5a,Crooked Keg Brewing Company,micro,8 Blueberry Lane,,,Topsham,Maine,04086,United States,,http://www.crookedkegbrewing.com,-69.988688,43.945644
+6bfba685-c3ca-4d17-aeb4-be18ee9f21b2,Cushnoc Brewing Co - Annex,micro,3044 North Belfast Ave,,,Augusta,Maine,04330,United States,2072136672,,-69.667056,44.339341
+8d28a416-b855-4299-9428-f91817f8e874,Cushnoc Brewing Company,brewpub,243 Water St,,,Augusta,Maine,04330-4615,United States,3037101107,http://www.cushnocbrewing.com,-69.773811,44.31564
 8167d47e-1fb4-44b8-b3db-6e33bee6a966,D.L. Geary Brewing Co Inc.,micro,38 Evergreen Dr,,,Portland,Maine,04103-1066,United States,2078782337,http://www.gearybrewing.com,-70.31484813,43.70767416
-8476a30e-0e24-40a2-907e-92109c972a03,DeepWater Brewing Company,micro,33 Tenney Hl,,,Blue Hill,Maine,04614,United States,2073742411,http://www.arborvine.com,,
+8476a30e-0e24-40a2-907e-92109c972a03,DeepWater Brewing Company,brewpub,33 Tenney Hl,,,Blue Hill,Maine,04614,United States,2073742411,http://www.arborvine.com,-68.592928,44.411566
 8f2ea1f7-965f-4106-ab3c-46efecfb941e,Definitive Brewing Company,micro,35 Industrial Way,,,Portland,Maine,04103-1071,United States,,http://www.definitivebrewing.com,-70.3142737,43.70629522
+ebdcd69e-ab1c-4259-90d6-11ac437e24a5,Definitive Brewing Company - Kittery,taproom,318 US-1,,,Kittery,Maine,03904,United States,,,-70.733165,43.111785
 3cf021a2-dc21-469c-a56d-2bd377e3a1eb,Dirigo Brewing Co.,micro,28 Pearl St,,,Biddeford,Maine,04005-2040,United States,2078385321,http://www.dirigobrewingcompany.com,-70.45608584,43.49545704
 e1f2d5c0-4b41-47f1-9a7a-5638851a9ac5,"Drumming Grouse Brewery, LLC",micro,318 Fosterville Rd,,,Bridgton,Maine,04009-4032,United States,4109609679,http://www.drumminggrousebrewery.com,-70.68838325,43.97416125
-13d751c0-5894-4f61-a372-d07f9ff9a71e,First Mile Brewing Company,micro,28 Market St Ste 103,,,Fort Kent,Maine,04743,United States,,,,
+6708a481-35ae-48ab-9fd7-24c4baadcb91,East Outlet Brewing,brewpub,375 Ripley Road,,,Cambridge,Maine,04923,United States,2072773235,,-69.440581,45.016726
+13d751c0-5894-4f61-a372-d07f9ff9a71e,First Mile Brewing Company,taproom,28 Market St Ste 103,,,Fort Kent,Maine,04743,United States,,,-68.587228,47.256737
 ef4a200b-134c-422f-94c1-8564116b05b9,Flight Deck Brewing,micro,11 Atlantic Dr,,,Brunswick,Maine,04011-4400,United States,2075045133,http://www.flightdeckbrewing.com,,
+f388ad0c-28e5-4d5f-bf08-54d344fb692b,Fluvial Brewing,micro,860 Maple Ridge Rd,,,Harrison,Maine,04040,United States,2077797663,http://www.fluvialbrewing.com,-70.622766,44.077104
 529f1fc8-2f98-43d1-b8b1-897a324ea20c,Fogtown Brewing Company,micro,25 Pine St,,,Ellsworth,Maine,04605-2023,United States,6103897224,http://www.fogtownbrewing.com,-68.42259791,44.5408544
-d89c9978-d12b-435b-bf5e-8ad598cb2ec1,Fore River Brewing Company,micro,45 Huntress Ave,,,South Portland,Maine,04106-4115,United States,2073700629,http://www.foreriverbrewing.com,-70.28767105,43.63249066
+d8a44053-c221-42b6-a510-b88a447103a9,Fogtown Brewing Company,taproom,25 Pine Street,,,Ellsworth,Maine,04605,United States,2073700845,http://www.fogtownbrewing.com,-68.421475,44.539919
+6f7ab04e-52a8-4613-876a-9cfd7c904777,Fogtown Brewing Company - Bar Harbor,location,33 Cottage St,,,Ellsworth,Maine,04609,United States,,,-68.206136,44.389723
+4d5236c6-608d-4e7b-873a-ada5026ed8de,Footbridge Brewery,taproom,25 Granary Way,,,Boothbay Harbor,Maine,04544,United States,2073523007,http://www.footbridgebrewery.com,-69.626841,43.852274
+d89c9978-d12b-435b-bf5e-8ad598cb2ec1,Fore River Brewing Company,micro,35 Park Ave,,,South Portland,Maine,04106-4115,United States,2073700629,http://www.foreriverbrewing.com,-70.283065,43.626293
+d08dee57-55fd-4ef4-aba9-9e7f41ec1600,Fore River Brewing Company,micro,35 Park Ave,,,South Portland,Maine,04106-4115,United States,2073700629,http://www.foreriverbrewing.com,-70.283065,43.626293
+46da757a-45ef-4cc9-8ca5-48b37a098465,Fore River Brewing Company - Production Brewery,micro,35 Park Ave,,,South Portland,Maine,04106,United States,,,-70.283065,43.626293
 1ce06580-ed70-4d32-bc01-5bd23e5aa388,Foulmouthed Brewing,brewpub,15 Ocean St,,,South Portland,Maine,04106-2838,United States,2076186977,http://www.foulmouthedbrewing.com,-70.2548007,43.640989
-860bf417-1430-4680-b406-0252a2568ac9,Foundation Brewing Company,micro,1 Industrial Way Ste 5,,,Portland,Maine,04103-1072,United States,2073708187,http://www.foundationbrew.com,,
-c5a2fe16-973f-4ee2-9764-e51ed9a4d190,Friars' Brewhouse,micro,84 Main St,,,Bucksport,Maine,04416,United States,2079473770,,-68.79558414,44.57202344
-b2a171c8-a008-43cc-b4c1-ca52c4cfe67a,Funky Bow Brewery & Beer Company,micro,21 Ledgewood Ln,,,Lyman,Maine,04002-7376,United States,2074096814,http://www.funkybowbeercompany.com,-70.60146195,43.48539497
+860bf417-1430-4680-b406-0252a2568ac9,Foundation Brewing Company,micro,1 Industrial Way Ste 5,,,Portland,Maine,04103-1072,United States,2073708187,http://www.foundationbrew.com,-70.320203,43.703209
+c173be3c-e158-484d-9db7-687edbc0e26d,Freeport Brewing Co,micro,130 Breakwater Drive,,,South Portland,Maine,04106,United States,2078373021,,-70.233519,43.647993
+c5a2fe16-973f-4ee2-9764-e51ed9a4d190,Friars' Brewhouse,brewpub,84 Main St,,,Bucksport,Maine,04416,United States,2079473770,,-68.795305,44.571879
+3bdf1aee-ed68-4159-a0c2-f7a2668b07a1,Frosty Bottom Brewing,micro,18 Hunt Road,,,Belfast,Maine,04915,United States,2075924946,http://www.frostybottombrewing.com,-69.052134,44.38926
+b2a171c8-a008-43cc-b4c1-ca52c4cfe67a,Funky Bow Brewery & Beer Company,micro,21 Ledgewood Lane,,,Lyman,Maine,04002-0449,United States,2074096814,http://www.funkybowbeercompany.com,-70.602578,43.486177
+b6d66a30-e960-47be-a5a9-2ea4c756a79e,Funky Bow Brewery & Beer Company,micro,21 Ledgewood Lane,,,Lyman,Maine,04002-0449,United States,2074096814,http://www.funkybowbeercompany.com,-70.602578,43.486177
+4f9efbd8-32ab-4ff4-9a52-4ce851ea50e9,Furbish Brew House & Eats,brewpub,2451 Main St,,,Rangeley,Maine,04970,United States,2078645847,,-70.641043,44.963958
 e4ac1f5e-095a-48a6-9d9c-5af5ad082a1a,Gary's Olde Towne Tavern,micro,678 Roosevelt Trl,,,Naples,Maine,04055-5335,United States,2076936806,http://www.garysoldetownetavern.com,-70.601073,43.969705
-2d5a0022-34d3-4822-a97b-7a5b1e5abc79,Geaghan Brothers Brewing Co,micro,34 Abbott St,,,Brewer,Maine,04412-2202,United States,2079453730,http://www.geaghanspub.com,-68.77310776,44.78208079
-776deebd-50ee-41e3-af82-4cbcd95dae6e,Geaghan's Pub & Craft Brewery,brewpub,570 Main St,,,Bangor,Maine,04401-6821,United States,2079453730,http://www.geaghanspub.com,-68.777503,44.7867295
-4334a92c-8d08-42b0-86b0-b5e73b282253,Gneiss Brewing,micro,94 Patterson Rd,,,Limerick,Maine,04048-4242,United States,2077930046,http://www.gneissbeer.com,-70.81799747,43.64831306
-1c372c46-860d-40a6-9a33-8b1c491d6090,Goodfire Brewing Company,micro,219 Anderson St Ste 6,,,Portland,Maine,04101-1401,United States,2078088910,http://www.goodfirebrewing.com,,
-5cb67e83-2c03-4d60-b6b1-0e0aa47c72f9,Grateful Grain Brewing Company,micro,26 Route 126,,,Monmouth,Maine,04259-7727,United States,,http://www.gratefulgrainbrewing.com,,
-b4d7adbc-50ad-4a81-ba14-1831a1a55b39,Gritty McDuffs - Freeport,brewpub,187 Lower Main St,,,Freeport,Maine,04032,United States,2078654321,http://www.grittys.com,,
-22209ec8-d403-44af-9f67-97f08f89c9be,Gritty McDuffs - Lewiston/Auburn,brewpub,68 Main St,,,Auburn,Maine,04210-5812,United States,2073762739,,-70.22448665,44.0971728
-0eacb04d-cb09-4f16-83c7-81a7aeefef85,Gritty McDuffs - Portland,brewpub,396 Fore St,,,Portland,Maine,04101-4026,United States,2077722739,http://www.grittys.com,-70.2533609,43.6564108
-09c1302b-48d1-4272-bcc6-920e67672c86,Gruit Brewing,micro,200 Anderson St,,,Portland,Maine,04101-2562,United States,2077738331,http://www.fermentory.com,-70.255898,43.669074
+2d5a0022-34d3-4822-a97b-7a5b1e5abc79,Geaghan Brothers Brewing Co,micro,34 Abbott St,,,Brewer,Maine,04412-2202,United States,2079453730,http://www.geaghanspub.com,-68.772609,44.780998
+776deebd-50ee-41e3-af82-4cbcd95dae6e,Geaghan's Pub & Craft Brewery,micro,570 Main St,,,Bangor,Maine,04401-6821,United States,2076591652,http://www.geaghans.com,-68.779503,44.78516
+be05353d-e933-45cf-959d-94ba85e4f49d,GFB Scottish Pub,brewpub,32 Old Orchard St,,,Old Orchard Beach,Maine,04064,United States,,http://www.gfbscottishpub.com,-70.37623,43.516963
+4334a92c-8d08-42b0-86b0-b5e73b282253,Gneiss Brewing,taproom,94 Patterson Rd,,,Limerick,Maine,04048-4242,United States,2077930046,http://www.gneissbeer.com,-70.817564,43.64847
+1c372c46-860d-40a6-9a33-8b1c491d6090,Goodfire Brewing Company,taproom,219 Anderson St Ste 6,,,Portland,Maine,04101-1401,United States,2078088910,http://www.goodfirebrewing.com,-70.255726,43.670046
+a88875f8-4553-4d37-9fb6-e3ce4911fdb0,Gordon's Grog,brewpub,330 Todds Corner Rd,,,St Albans,Maine,04971,United States,,http://www.gordonsgrog.com,-69.408584,44.935735
+5cb67e83-2c03-4d60-b6b1-0e0aa47c72f9,Grateful Grain Brewing Company,taproom,26 Route 126,,,Monmouth,Maine,04259-7727,United States,,http://www.gratefulgrainbrewing.com,-69.991726,44.181598
+b4d7adbc-50ad-4a81-ba14-1831a1a55b39,Gritty McDuffs - Freeport,brewpub,187 Lower Main St,,,Freeport,Maine,04032,United States,2078654321,http://www.grittys.com,-70.11238,43.846635
+22209ec8-d403-44af-9f67-97f08f89c9be,Gritty McDuffs - Lewiston/Auburn,brewpub,68 Main St,,,Auburn,Maine,04210-5812,United States,2073762739,,-70.224684,44.096985
+0eacb04d-cb09-4f16-83c7-81a7aeefef85,Gritty McDuffs - Portland,brewpub,396 Fore St,,,Portland,Maine,04101-4026,United States,2077722739,http://www.grittys.com,-70.25339,43.656203
+09c1302b-48d1-4272-bcc6-920e67672c86,Gruit Brewing,taproom,200 Anderson St,,,Portland,Maine,04101-2562,United States,2077738331,http://www.fermentory.com,-70.256043,43.669481
+70a62bb6-eb19-4a63-bf3c-6c05b94cbbee,Hi-Fidelity,taproom,200 Anderson Street Bay 6,,,Portland,Maine,04101,United States,,http://https://www.hifidelitybeer.com/,-70.2599,43.661
 82327d79-b1ca-4120-a8f7-b1a74611dd8c,Hidden Cove Brewing Co,micro,73 Mile Rd,,,Wells,Maine,04090-4135,United States,2076460228,http://www.hiddencovebrewingcompany.com,-70.58104548,43.30407704
-9c5f000c-f091-43c8-9bef-8a7031edbc30,"Inn On Peaks Island Brewery, The",brewpub,33 Island Ave,,,Peaks Island,Maine,04108-1333,United States,2077665100,http://www.innonpeaks.com,-70.1979666,43.65417851
+5ff132d4-bd89-4e36-99e0-0d0e18609316,Horn Run Brewing,brewpub,75 WATER STREET,,,Eastport,Maine,04631,United States,,,-66.984473,44.905101
+9c5f000c-f091-43c8-9bef-8a7031edbc30,"Inn On Peaks Island Brewery, The",brewpub,33 Island Ave,,,Peaks Island,Maine,04108-1333,United States,2077665100,http://www.innonpeaks.com,-70.19734,43.655139
 fa2fde2e-51da-470a-a151-ce76e6d529b3,Island Dog Brewing,micro,125 John Roberts Rd,,,South Portland,Maine,04106-3295,United States,2073300283,http://www.islanddogbrewing.com,-70.33101442,43.63059386
-db792297-5556-4f59-8132-e5b877c9da2e,Jack Russell's Steakhouse and Brewery / Maine Coast Brewing Co.,brewpub,102 Eden St,,,Bar Harbor,Maine,04609-1106,United States,2072885214,http://www.jackrussellssteakhouse.com,-68.2231868,44.3946497
+db792297-5556-4f59-8132-e5b877c9da2e,Jack Russell's Steakhouse and Brewery / Maine Coast Brewing Co.,brewpub,102 Eden St,,,Bar Harbor,Maine,04609-1106,United States,2072885214,http://www.jackrussellssteakhouse.com,-68.226767,44.395737
+728e4a9f-2800-4995-b052-4ba65b2c1843,Jokers & Rogues Brewing,brewpub,561 Maine Avenue,,,Farmingdale,Maine,04344,United States,2075828811,,-69.775517,44.258893
+ca5ef8fd-a965-4e66-8def-f41e9761fd14,Katahdin Brew Works,taproom,10 Katahdin St,,,Patten,Maine,04765,United States,2076312957,http://www.katahdinbrewworks.com,-68.448193,45.996309
 45567ad8-a070-473e-a129-4e2e7a57e070,Kennebec River Brewery,brewpub,1771 US Rte 201,,,West Forks,Maine,04985-0100,United States,8007657238,http://www.northernoutdoors.com,,
-27672b6b-dcfb-42eb-841d-6634524fb542,Kennebunkport Brewery / Federal Jacks,brewpub,8 Western Ave Ste 6,,,Kennebunk,Maine,04043-7756,United States,2079674311,http://www.federaljacks.com,,
-249b9b41-61c6-47da-855e-41bc35e43bcb,Lake St George Brewing Company,micro,4 Marshall Shore Rd,,,Liberty,Maine,04949,United States,2075893031,http://www.lakestgeorgebrewing.com,,
-9e1ff7aa-1d0d-47e1-8243-9fcbe139d1c3,Liberal Cup Public House and Brewery,brewpub,115 Water St,,,Hallowell,Maine,04347-1357,United States,2076232739,http://www.theliberalcup.com,-69.79013068,44.28681996
+5bd74e9a-4c40-4062-828a-aa6fc69f2eb6,Kennebec River Brewery,brewpub,1771 US Rte 201,,,The Forks,Maine,04985,United States,8007657238,http://www.northernoutdoors.com,-69.994715,45.265502
+27672b6b-dcfb-42eb-841d-6634524fb542,Kennebunkport Brewery / Federal Jacks,brewpub,8 Western Ave Ste 6,,,Kennebunk,Maine,04043-7756,United States,2079674311,http://www.federaljacks.com,-70.779968,43.103995
+06b3e8c5-e4cd-43ae-9153-19bf1f021103,Kit NA Brewing,micro,65 Hanover Street,,,Portland,Maine,04101,United States,2072454815,http://www.kitna.beer,-70.263792,43.659203
+249b9b41-61c6-47da-855e-41bc35e43bcb,Lake St George Brewing Company,brewpub,4 Marshall Shore Rd,,,Liberty,Maine,04949,United States,2075893031,http://www.lakestgeorgebrewing.com,-69.358089,44.386772
+9e1ff7aa-1d0d-47e1-8243-9fcbe139d1c3,Liberal Cup Public House and Brewery,brewpub,115 Water St,,,Hallowell,Maine,04347-1357,United States,2076232739,http://www.theliberalcup.com,-69.788915,44.289784
+7725dbd3-fa84-42bf-8361-5aa8d2dd5dc9,Liberator Brewing Company,brewpub,218 S Main St,,,Rockland,Maine,04841-3820,United States,2075938436,http://www.liberatorbrewingmaine.com,-69.109,44.1022
 89d0d9f9-2826-4571-9a97-d4d4f32c2b5d,Liberty Craft Brewing,brewpub,7 Coon Mountain Ln,,,Liberty,Maine,04949-3654,United States,2073227663,http://www.libertycraftbrewing.com,-69.33139756,44.36199964
-db21126a-a56a-411d-a815-40fff4f2b54c,Liquid Riot Bottling Co.,brewpub,4 Canal Plz Ste 1,,,Portland,Maine,04101-4594,United States,2072218889,http://www.novareresbiercafe.com,,
-5aea39a2-d404-4548-81ab-c4d6645f6699,Lone Pine Brewing Company,micro,219 Anderson St #4,,,Portland,Maine,04101-1400,United States,2075364952,http://www.lonepinebrewery.com,-70.25577318,43.66965322
-db5a667c-b8b3-4477-a482-43fa0dd3086b,Lost Valley Brewing Co,micro,200 Lost Valley Rd,,,Auburn,Maine,04210,United States,,,-70.280399,44.130958
-aefd86d4-eb51-4aae-bacb-bf1f69025b41,Lubec Brewing Co,brewpub,41 Water St,,,Lubec,Maine,04652-,United States,2077334555,,-66.98348086,44.86083118
+db21126a-a56a-411d-a815-40fff4f2b54c,Liquid Riot Bottling Co.,brewpub,250 Commercial St.,,,Portland,Maine,04101-4594,United States,2072218889,http://www.novareresbiercafe.com,-70.25428,43.654469
+25333b95-6a78-4eb7-8d60-3c612078c048,Liquid Riot Bottling Co.,brewpub,250 Commercial St.,,,Portland,Maine,04101-4594,United States,2072218889,http://www.novareresbiercafe.com,-70.25428,43.654469
+5aea39a2-d404-4548-81ab-c4d6645f6699,Lone Pine Brewing Company,regional,219 Anderson St #4,,,Portland,Maine,04101-1400,United States,2075364952,http://www.lonepinebrewery.com,-70.255726,43.670046
+ed12b477-fa3c-445a-affe-5a60301b661a,Lone Pine Brewing Company - Gorham Tasting Room,taproom,48 Sanford Dr,,,Gorham,Maine,04038,United States,2075364952,,-70.396551,43.679168
+db5a667c-b8b3-4477-a482-43fa0dd3086b,Lost Valley Brewing Co,brewpub,200 Lost Valley Rd,,,Auburn,Maine,04210,United States,,,-70.282953,44.136072
+aefd86d4-eb51-4aae-bacb-bf1f69025b41,Lubec Brewing Co,taproom,41 Water St,,,Lubec,Maine,04652,United States,2077334555,,-66.983625,44.860886
 c0e603fa-36fa-48e5-80fa-1008ba0af69e,Lucky Pigeon Brewing,planning,,,,Gorham,Maine,04038-2371,United States,,,,
 87f669f2-1318-4fdf-8018-3e590996759d,Machias River Brewing Company,micro,86 Main St,,,Machias,Maine,04654-1150,United States,2072596001,,-67.45804551,44.71446257
-85e606f3-cfcc-44de-b8e5-9c29c873c532,Maine Beer Co,micro,525 US Route 1,,,Freeport,Maine,04032-7009,United States,2072215711,http://www.mainebeercompany.com,,
+85e606f3-cfcc-44de-b8e5-9c29c873c532,Maine Beer Company,regional,525 US Route 1,,,Freeport,Maine,04032-7009,United States,2072215711,http://www.mainebeercompany.com,-70.12119,43.838969
 532b6171-7a1e-4caa-9e28-75cc148ce369,Mainely Brews Restaurant and Brewhouse,contract,1 Post Office Sq Ste 302,,,Waterville,Maine,04901-6651,United States,2078732457,http://www.mainelybrews.com,,
-05330622-853a-411b-8e86-a8c167bf58ae,Marsh Island Brewing Company,micro,2 Main St,,,Orono,Maine,04473-4004,United States,2078661277,http://www.marshislandbrewing.com,-68.671416,44.884496
+05330622-853a-411b-8e86-a8c167bf58ae,Marsh Island Brewing Company,taproom,2 Main St,,,Orono,Maine,04473-4004,United States,2078661277,http://www.marshislandbrewing.com,-68.671152,44.884468
 f4fee96e-e540-44f0-9e7a-177758d1f2ec,Marshall Wharf Brewing Co,micro,40 Marshall Wharf,,,Belfast,Maine,04915-6835,United States,2073381707,http://www.marshallwharf.com,,
-4b1d8776-79c5-40c4-9baf-a6ba63f9ba2a,Mason's Brewing Company,micro,15 Hardy St,,,Brewer,Maine,04412-2207,United States,2079896300,http://www.masonsbrewingcompany.com,-68.76957092,44.79146596
-d124427e-32a9-4946-a033-6fe93b09d6d8,Mast Landing Brewing Company,micro,920 Main St,,,Westbrook,Maine,04092-2862,United States,2077126051,http://www.mastlandingbrewing.com,-70.36920486,43.676947
+40b7cf3a-8ec0-45f4-b4c1-f55717eb9735,Marshall Wharf Brewing Co,taproom,36 Marshall Wharf,,,Belfast,Maine,04915,United States,2073384640,http://www.marshallwharfbrewing.com,-69.005338,44.428852
+4b1d8776-79c5-40c4-9baf-a6ba63f9ba2a,Mason's Brewing Company,micro,15 Hardy St,,,Brewer,Maine,04412-2207,United States,2079896300,http://www.masonsbrewingcompany.com,-68.769527,44.791832
+d124427e-32a9-4946-a033-6fe93b09d6d8,Mast Landing Brewing Company,micro,920 Main St,,,Westbrook,Maine,04092-2862,United States,2077126051,http://www.mastlandingbrewing.com,-70.3696,43.676514
+e61940ff-3baa-4caa-b713-e98739964e3c,Mast Landing Brewing Company,taproom,200 Lower Main St,,,Freeport,Maine,04032,United States,2078695632,http://www.mastlandingbrewing.com/freeport-tasting-room,-70.116704,43.844806
 73878a6f-9d44-49b4-a0b1-31ea0a115e20,Moderation Brewing,micro,103 Maine St,,,Brunswick,Maine,04011-2012,United States,12073479918,http://www.moderationbrewery.com,-69.96566833,43.91631921
-94e299ad-65d5-422a-a3ec-e26e2354765e,Monhegan Brewing Co.,micro,1 Boody Lane,,,Monhegan,Maine,04852,United States,2079753958,http://www.monheganbrewing.com,-69.320989,43.758828
+94e299ad-65d5-422a-a3ec-e26e2354765e,Monhegan Brewing Co.,taproom,1 Boody Lane,,,Monhegan,Maine,04852,United States,2079753958,http://www.monheganbrewing.com,-69.320799,43.758587
 5448b56f-2da6-4a53-a379-061c33b7b66c,Nonesuch River Brewing,brewpub,201 Gorham Rd,,,Scarborough,Maine,04074-8970,United States,2072198948,http://www.nonesuchriverbrewing.com,,
-453056a2-f7af-460b-81bc-d88e3e558889,North Haven Brewing Company,micro,2 Iron Point Rd # 2,,,North Haven,Maine,04853,United States,2078672337,http://www.northhavenbrewing.com,-68.8719897,44.1280622
-16b64ce9-966d-4ef8-be16-2fd585f45b9b,Northern Maine Brewing Co,brewpub,22 Main St,,,Caribou,Maine,04736-4163,United States,2074922185,,-67.99670995,46.81407692
+453056a2-f7af-460b-81bc-d88e3e558889,North Haven Brewing Company,taproom,2 Iron Point Rd # 2,,,North Haven,Maine,04853,United States,2078672337,http://www.northhavenbrewing.com,-68.871855,44.127844
+16b64ce9-966d-4ef8-be16-2fd585f45b9b,Northern Maine Brewing Co,brewpub,22 Main St,,,Caribou,Maine,04736-4163,United States,2074922185,,-67.999253,46.815462
 439343a8-59c1-4823-9bf6-ea0c831d9db5,Norway Brewing Company,brewpub,237 Main St,,,Norway,Maine,04268-5913,United States,2077392126,http://www.norwaybrewing.com,-70.5268344,44.1973621
+cb5596c7-8624-4f8e-b509-c3aca275fe83,NU Brewery,micro,437 Lewiston Road,,,New Gloucester,Maine,04260,United States,2079268284,http://www.nubrewery.com,-70.301438,43.95136
 370c64be-4eac-4b7b-b0d0-a40c69290320,Nuts and Bolts Brewing,micro,10 Westpoint Ln Bldg 10 Ste 204,,,Biddeford,Maine,04005,United States,2074681538,http://www.nutsnboltsbeer.com,,
-36159780-2e66-42c6-92ca-54b98c9d9b56,Oak Pond Brewing Co,micro,101 Oak Pond Rd,,,Skowhegan,Maine,04976-4602,United States,2074743233,http://www.oakpondbrewery.com,,
-78b74aa2-7f5e-4ce4-96ad-f36ffd789fe5,Odd Alewives Farm Brewery,micro,99 Old Rte One,,,Waldoboro,Maine,04572,United States,2077908406,http://www.oddalewives.com,,
+36159780-2e66-42c6-92ca-54b98c9d9b56,Oak Pond Brewing Co,micro,101 Oak Pond Rd,,,Skowhegan,Maine,04976-4602,United States,2074743233,http://www.oakpondbrewery.com,-69.592824,44.75971
+78b74aa2-7f5e-4ce4-96ad-f36ffd789fe5,Odd Alewives Farm Brewery,taproom,99 Old Rte One,,,Waldoboro,Maine,04572,United States,2077908406,http://www.oddalewives.com,-69.364803,44.099232
+a6ab429f-fb94-48ec-9961-b87363edb595,Odd By Nature Brewing,brewpub,1400 US Route 1,,,Cape Neddick,Maine,03902,United States,2072519073,http://www.oddbynaturebrewing.com,-70.621999,43.200919
+3bf92d73-c48e-4802-8568-f45f659779d1,Olive Pit Brewing Co.,taproom,16 Main St.,,,Lisbon Falls,Maine,04252,United States,2074074044,http://olivepitbrewing.com,-70.060373,43.99735
 bfe4620f-2af2-457c-8465-2d85e6b926bb,One Eye Open Brewing Company,micro,41 Fox Street Shed A,,,Portland,Maine,04101-2538,United States,2075364176,http://www.oeobrewing.com,,
-9fca7f46-6737-4633-a566-cb957ca93034,Orono Brewing Bangor Draught Room,micro,26 State St,,,Bangor,Maine,04401,United States,,,-68.7428115,44.81159483
+9fca7f46-6737-4633-a566-cb957ca93034,Orono Brewing Bangor Draught Room,micro,26 State St,,,Bangor,Maine,04401,United States,,,-68.769601,44.802378
 91949951-a50a-430e-a009-59bc9124ed00,Orono Brewing Brewery & Draught Room,planning,,,,Orono,Maine,04473,United States,,,,
-f255ae39-f3df-4876-bbc6-28073432c3e3,Orono Brewing Company,brewpub,20 Main St,,,Orono,Maine,04473,United States,2078664677,http://www.oronobrewing.com,-68.669582,44.88754094
+e7c5d9be-44ef-47f6-bd02-71df5f86d5e4,Orono Brewing Brewery & Draught Room,micro,61 Margin St,,,Orono,Maine,04473,United States,,,-68.675895,44.873546
+f255ae39-f3df-4876-bbc6-28073432c3e3,Orono Brewing Company,brewpub,20 Main St,,,Orono,Maine,04473,United States,2078661272,http://www.oronobrewing.com,-68.671793,44.883681
 3000da0a-9704-41be-b9e2-dad825b50e56,Outland Farm Brewery,planning,,,,Pittsfield,Maine,04967-5811,United States,2076168125,http://www.outlandfarmbrewery.com,,
-1931756b-8cf2-4dc4-9ee6-b406cdf5f5aa,Oxbow Blending & Bottling,micro,49 Washington Ave,,,Portland,Maine,04101,United States,,,-70.2513253,43.6649414
-e37d3cfa-dc4a-46fe-ae52-e6b4d25f173a,Oxbow Brewing Co,micro,274 Jones Woods Rd,,,Newcastle,Maine,04553-3123,United States,2073155962,http://www.oxbowbeer.com,-69.5639953,44.0830789
-a8882009-9fd1-4cab-a8e8-c19bf22d6dea,Peak Organic Brewing Co,proprietor,110 Marginal Way # 802,,,Portland,Maine,04101-2442,United States,2075865586,http://www.peakbrewing.com,-70.26454878,43.66244776
+5d22eeca-529d-4ed7-bd1d-b074afb01733,Outland Farm Brewery,brewpub,113 N Lancey Street,,,Pittsfield,Maine,04967-5811,United States,2076168125,http://www.outlandfarmbrewery.com,-69.380358,44.783279
+1931756b-8cf2-4dc4-9ee6-b406cdf5f5aa,Oxbow Blending & Bottling,micro,49 Washington Ave,,,Portland,Maine,04101,United States,,,-70.251801,43.665092
+e37d3cfa-dc4a-46fe-ae52-e6b4d25f173a,Oxbow Brewing Co,micro,274 Jones Woods Rd,,,Newcastle,Maine,04553-3123,United States,2073155962,http://www.oxbowbeer.com,-69.566343,44.083072
+c54707f3-85fa-4117-80eb-64e6ab70c9cc,Oxbow Brewing Co,brewpub,420 MAIN St,,,Oxford,Maine,04270,United States,2073155962,,-70.460463,44.130763
+a8882009-9fd1-4cab-a8e8-c19bf22d6dea,Peak Organic Brewing Co,alt prop,110 Marginal Way # 802,,,Portland,Maine,04101-2442,United States,2075865586,http://www.peakbrewing.com,-70.264285,43.662684
 a4d8d567-4e45-4a19-9798-6e882bbcae17,Pennesseewassee Brewing,micro,458 Plains Rd,,,Harrison,Maine,04040-3829,United States,2077439808,http://www.pennybrew.com,,
-06198bbc-2cab-40c1-b306-692a299452eb,Penobscot Bay Brewery,micro,279 South Main Street,,,Winterport,Maine,04496-0405,United States,2072234500,http://www.winterportwinery.com/brewery.asp,-68.847883,44.634187
-52639e4f-8a95-4c65-b241-a3cc1b3afb3c,Rising Tide Brewing Co,micro,103 Fox St,,,Portland,Maine,04101-2539,United States,2073702337,http://www.risingtidebrewing.com,-70.2570974,43.6655545
+06198bbc-2cab-40c1-b306-692a299452eb,Penobscot Bay Brewery,micro,279 South Main Street,,,Winterport,Maine,04496-0405,United States,2072234500,http://www.winterportwinery.com/brewery.asp,-68.849099,44.63326
+affe6a1b-b7ee-4454-a326-76538af3c1f3,Portland Zoo,taproom,41 Fox St,,,Portland,Maine,04101,United States,,http://www.theportlandzoo.com,-70.254952,43.666793
+52639e4f-8a95-4c65-b241-a3cc1b3afb3c,Rising Tide Brewing Company,micro,103 Fox St,,,Portland,Maine,04101-2539,United States,2073702337,http://www.risingtidebrewing.com,-70.255671,43.666278
+2b1d9dd1-6f3b-437a-9334-8068ff8aad3a,Riverstone Brewing Co,micro,4 SUMMER ST,,,Sanford,Maine,04073,United States,,,-70.781942,43.444035
 213a3276-bfc0-4b98-a47a-c46ce1584545,Rock Harbor Brewing Co.,micro,5 Payne Ave,,,Rockland,Maine,04841,United States,2077017811,http://www.rockharborbrewing.com,-69.127326,44.100544
-b5dc01f5-90a9-414f-97a0-a6fd189da07b,Rock Harbor Pub & Brewery,brewpub,416 Main St,,,Rockland,Maine,04841-3345,United States,2075937488,,-69.10907557,44.1049557
-689e4378-f742-4443-bb82-778d19036512,Run of the Mill Public House & Brewery,brewpub,100 Main St,,,Saco,Maine,04072-3500,United States,2075719648,http://www.therunofthemill.net,-70.442601,43.501374
-403dbaa0-4494-48ac-896d-29752895b876,Saco River Brewing,micro,10 Jockey Cap Ln,,,Fryeburg,Maine,04037-1428,United States,2072563028,http://www.facebook.com/sacoriverbrewing,,
-189df38b-d6a6-40c0-917e-5b172be8d859,Sea Dog Brewing,micro,1 Main St,,,Camden,Maine,04843-1703,United States,,http://www.seadogbrewing.com,-69.064576,44.209809
-d6accc58-89f9-43fd-bb06-e87a48ed9f2c,Sea Dog Brewing Co - Bangor,brewpub,26 Front St,,,Bangor,Maine,04401-6418,United States,2079478009,http://www.seadogbrewing.com,-68.770233,44.7966948
-85958926-717c-4fd4-a9b1-b57958058c21,Sea Dog Brewing Co - S. Portland,brewpub,125 Western Ave,,,S Portland,Maine,04106-2413,United States,2078717000,http://www.seadogbrewing.com,-70.31903067,43.63519195
-693d0204-ed8c-4c03-a842-f385ca0c8a2b,Sebago Brewing Co,micro,48 Sanford Dr,,,Gorham,Maine,04038-2646,United States,,,,
-7a5a1362-fd09-4b1d-a98d-766ba4c069bd,Sebago Brewing Co,micro,616 Main St,,,Gorham,Maine,04038,United States,2078562537,http://www.sebagobrewing.com,-70.39706723,43.68956533
-da2a220d-dd8f-455d-ba9e-ab8d512dbefd,Sheepscot Valley Brewing Co,micro,74 Hollywood Blvd,,,Whitefield,Maine,04353-3729,United States,2075495530,http://www.sheepscotbrewing.com,,
-2d27191c-75fa-4255-a2c1-411366d73527,Shipyard Brew Pub Eliot,brewpub,28 Levesque Dr Ste 4 C/O Eliot Commons,,,Eliot,Maine,03903-2073,United States,2076862026,http://www.shipyard.com,,
-136e3e55-0345-4951-96b6-de63339426b5,Shipyard Brewing Co,regional,86 Newbury St,,,Portland,Maine,04101-4219,United States,2077610807,http://www.shipyard.com,-70.24862314,43.6615851
+b5dc01f5-90a9-414f-97a0-a6fd189da07b,Rock Harbor Pub & Brewery,brewpub,416 Main St,,,Rockland,Maine,04841-3345,United States,2075937488,,-69.109393,44.10455
+689e4378-f742-4443-bb82-778d19036512,Run of the Mill Public House & Brewery,brewpub,100 Main St,,,Saco,Maine,04072-3500,United States,2075719648,http://www.therunofthemill.net,-70.448374,43.494873
+ffa02bd1-eb82-40cc-825e-350d71900b53,Rusty Bus Brewing Company,taproom,120 Lisbon Street,,,Lewiston,Maine,04240,United States,,,-70.217001,44.09661
+403dbaa0-4494-48ac-896d-29752895b876,Saco River Brewing,taproom,10 Jockey Cap Ln,,,Fryeburg,Maine,04037-1428,United States,2072563028,http://www.sacoriverbrewing.com,-70.963595,44.020027
+8eeffe54-447d-4d7e-bd9f-084eac620e58,Sacred Profane,brewpub,50 Washington Street,,,Biddeford,Maine,04005,United States,2072983307,http://www.sacredprofane.com,-70.456048,43.49236
+19f926fa-93f9-41e3-bb71-e6d92d531d00,Sasanoa Brewing,micro,61 Tarbox Rd,,,Westport Island,Maine,04578,United States,2077762015,http://www.sasanoabrewing.com,-69.726468,43.882131
+189df38b-d6a6-40c0-917e-5b172be8d859,Sea Dog Brewing,micro,1 Main St,,,Camden,Maine,04843-1703,United States,,http://www.seadogbrewing.com,-69.064573,44.209814
+d6accc58-89f9-43fd-bb06-e87a48ed9f2c,Sea Dog Brewing Co - Bangor,micro,26 Front St,,,Bangor,Maine,04401-6418,United States,2079478009,http://www.seadogbrewing.com,-68.769663,44.796881
+85958926-717c-4fd4-a9b1-b57958058c21,Sea Dog Brewing Co - S. Portland,brewpub,125 Western Ave,,,S Portland,Maine,04106-2413,United States,2078717000,http://www.seadogbrewing.com,-70.32018,43.635418
+693d0204-ed8c-4c03-a842-f385ca0c8a2b,Sebago Brewing Co,micro,29 Elm St,,,Gorham,Maine,04038,United States,2078562537,http://www.sebagobrewing.com,-70.439571,43.678379
+7a5a1362-fd09-4b1d-a98d-766ba4c069bd,Sebago Brewing Co,micro,616 MAIN ST,,,Gorham,Maine,04038-2620,United States,2078562537,http://www.sebagobrewing.com,-70.395347,43.688929
+b9a4dfe6-457a-4528-8c0f-84aa326c57ed,Sebago Brewing Co,micro,29 Elm St,,,Gorham,Maine,04038,United States,2078562537,http://www.sebagobrewing.com,-70.439571,43.678379
+9badafbe-1a2a-4ff0-a00e-fa31c76e63fd,Sebago Brewing Co - Kennebunk,location,65 Portland Rd Ste 12,,,Kennebunk,Maine,04043-6743,United States,2079859855,http://www.sebagobrewing.com,-70.527174,43.396029
+e49ec9f1-9427-4711-9fba-cdbde258897c,Sebago Brewing Co - Scarborough,location,201 Southborough Dr,,,Scarborough,Maine,04074-5908,United States,2078742337,http://www.sebagobrewing.com,-70.344039,43.627394
+da2a220d-dd8f-455d-ba9e-ab8d512dbefd,Sheepscot Valley Brewing Co,micro,74 Hollywood Blvd,,,Whitefield,Maine,04353-3729,United States,2075495530,http://www.sheepscotbrewing.com,-69.603853,44.145165
+2d27191c-75fa-4255-a2c1-411366d73527,Shipyard Brew Pub Eliot,brewpub,28 Levesque Dr Ste 4,,,Eliot,Maine,03903-2073,United States,2076862026,http://www.shipyard.com,-70.771825,43.129432
+db203b78-aa68-443b-99c8-326d29aabda7,Shipyard Brew Pub Eliot,brewpub,28 Levesque Dr Ste 4,,,Eliot,Maine,03903-2073,United States,2076862026,http://www.shipyard.com,-70.771825,43.129432
+136e3e55-0345-4951-96b6-de63339426b5,Shipyard Brewing Co,regional,86 Newbury St,,,Portland,Maine,04101-4219,United States,2077610807,http://www.shipyard.com,-70.248776,43.661785
 99526c72-24a9-4027-bad0-a1e42218b60a,Side By Each Brewing Co,planning,,,,Auburn,Maine,04210-3739,United States,2073479920,,,
 0a127250-075c-42ac-98a6-135535cd3fc6,Simplicity Brewing Company,micro,2473 Camden Rd,,,Warren,Maine,04864-4113,United States,2072730143,http://www.mkt.com/simplicitybrewingsupplies,-69.1881349,44.15177662
 472b6fa3-7855-4a02-a21e-b75b9ed12eea,SoMe Brewing Co,micro,1 York St Ste 3,,,York,Maine,03909-1392,United States,2073518162,http://somebrewingco.com,,
-d6639eb1-44cd-4b0e-a08c-c3a3143d695b,Strong Brewing,micro,7 Rope Ferry Rd,,,Sedgwick,Maine,04676-3409,United States,2073598722,http://strongbrewing.com/,,
-44f6bbcc-42ee-4ead-8f3d-3216d6f60698,Sunday River Brewing Company,brewpub,29 Sunday River Rd,,,Bethel,Maine,04217-4623,United States,2078244253,http://www.sundayriverbrewingcompany.com,-70.8096128,44.4483482
+166dd8ec-cd89-41f5-83c4-567741971303,Stars & Stripes Brewing,taproom,8 Varney Rd,,,Freeport,Maine,04032-1007,United States,2073171115,http://www.starsstripesbrewing.com,-70.116033,43.844287
+d6639eb1-44cd-4b0e-a08c-c3a3143d695b,Strong Brewing,taproom,7 Rope Ferry Rd,,,Sedgwick,Maine,04676-3409,United States,2073598722,http://strongbrewing.com/,-68.66142,44.380602
+44f6bbcc-42ee-4ead-8f3d-3216d6f60698,Sunday River Brewing Company,brewpub,29 Sunday River Rd,,,Bethel,Maine,04217-4623,United States,2078244253,http://www.sundayriverbrewingcompany.com,-70.810213,44.448532
+9fd78c05-cba9-4fdc-9fd1-c5a03902752f,Tattooed Dad Brewing Co,taproom,894 Moosehead Trail Hwy,,,Jackson,Maine,04921,United States,2075050006,,-69.1331,44.562
 64187393-244a-4e18-8fae-9628e3979dac,The Pour Farm,planning,,,,Union,Maine,04862,United States,5083805372,http://www.thepourfarm.com,,
-3387dbaa-7163-4a4c-9f1a-fa031edcaa40,Threshers Brewing Company,micro,22 Main St N Bldg 3B,,,Searsmont,Maine,04973-3409,United States,2079753225,http://www.threshersbrewingco.com,,
-042461eb-cc89-4c95-bc61-8a6a95bbf989,Tributary Brewing Company,micro,10 Shapleigh Rd,,,Kittery,Maine,03904-1480,United States,,http://www.tributarybrewingcompany.com,-70.736801,43.090863
-7b08b3ee-5d16-47fa-ac17-7d7dee9c0ba0,Tumbledown Brewing LLC,micro,805 Farmington Falls Rd Ste 7,,,Farmington,Maine,04938-6454,United States,2079440697,http://www.tumbledownbrewing.com,,
+d08a7fb9-0e86-4f63-95c4-521e33282f82,The Pour Farm,taproom,56 Crawfordsburn Ln,,,Union,Maine,04862,United States,5083805372,http://www.thepourfarm.com,-69.261598,44.196519
+3387dbaa-7163-4a4c-9f1a-fa031edcaa40,Threshers Brewing Company,taproom,22 Main St N Bldg 3B,,,Searsmont,Maine,04973-3409,United States,2079753225,http://www.threshersbrewingco.com,-69.193358,44.361645
+042461eb-cc89-4c95-bc61-8a6a95bbf989,Tributary Brewing Company,taproom,10 Shapleigh Rd,,,Kittery,Maine,03904-1480,United States,2077030093,http://www.tributarybrewingcompany.com,-70.735827,43.090264
+f3979b8c-345a-4faf-b952-b1aacf442c64,Trinken Brewing Co.,taproom,144 State Road,,,West Bath,Maine,04530,United States,2077668118,http://www.trinkenbrewingco.com,-69.846312,43.902618
+7b08b3ee-5d16-47fa-ac17-7d7dee9c0ba0,Tumbledown Brewing LLC,taproom,805 Farmington Falls Rd Ste 7,,,Farmington,Maine,04938-6454,United States,2079440697,http://www.tumbledownbrewing.com,-70.093924,44.635859
+059c5eae-968f-4c46-a2d7-6c513d9836ed,Turning Page Farm Brewery,taproom,842 N Guilford Rd,,,Monson,Maine,04464,United States,2078766360,http://www.turningpagefarm.com,-69.443078,45.247389
 36b75972-6f6a-4e3e-b1ac-0b137f9c6410,Two Gramps Brewing,brewpub,266 Water St,,,Gardiner,Maine,04345,United States,2075920776,http://www.twogrampsbrewing.com,-69.77292634,44.22957832
+49b804d5-916f-40d4-a305-d259e919e145,TWO KNIGHTS BREWING COMPANY,brewpub,136 MCPHETRES ROAD,,,Sangerville,Maine,04479,United States,,http://twoknightsbc.com,-69.367406,45.160536
 032e8235-e88f-4a5c-97a5-77e536a29e2d,Van Der Brew,planning,,,,Winthrop,Maine,04364-1253,United States,2074411102,,,
-a06d2559-f43d-4818-9c51-2b6ed78ded6a,Woodland Farms Brewery,micro,"306 Route 1, Suite C",,,Kittery,Maine,03904,United States,2079943911,http://www.wfbrewery.com,,
+8be033ba-9d2c-4f31-af06-f2efa57ec1dd,Van Der Brew,taproom,30 Summer St Ste B,,,Winthrop,Maine,04364-1253,United States,2073955340,http://https://van-der-brew.com/,-69.975293,44.308371
+40218270-a2a9-46e2-8e0d-c4b4601a0bbe,Waterman's Beach Brewery,taproom,362 Waterman Beach Rd,,,South Thomaston,Maine,04858,United States,2075932575,http://www.watermansbeachbrewery.com,-69.126274,44.020368
+82122700-3d48-4d91-924d-735ab0a82463,Waterville Brewing Company,taproom,10 Water St Ste 110,,,Waterville,Maine,04901,United States,2073142400,http://www.watervillebrewingcompany.com,-69.630056,44.545913
+a06d2559-f43d-4818-9c51-2b6ed78ded6a,Woodland Farms Brewery,taproom,"306 Route 1, Suite C",,,Kittery,Maine,03904,United States,2079943911,http://www.wfbrewery.com,-70.739,43.0999
+87ed234b-4ad9-4a45-8199-87d718626f2e,Xota Brewing Company,taproom,721 Main St.,,,Waterboro,Maine,04087,United States,2072865290,http://www.xotabrewing.com/,-70.711387,43.549465
 df9c7974-6add-4917-8536-6a6f6de0a79a,Yes Brewing,micro,609 Main St,,,Westbrook,Maine,04092-4143,United States,2075910633,http://www.yesbrewing.com,-70.35776285,43.67838435
 aa43f7b4-5ece-4fd5-9dac-9eb81124ddf0,York Beach Beer Company,planning,,,,York,Maine,03902,United States,,,,
+d2b0cf74-8a6e-4715-a7e0-f2ce6db11b23,York Beach Beer Company,micro,33 Railroad Ave,,,York,Maine,03902,United States,,,-70.612285,43.173844

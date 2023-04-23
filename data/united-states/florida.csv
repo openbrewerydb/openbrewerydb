@@ -1,313 +1,516 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-6751228c-5373-4a54-8d68-72df6849a437,26 Degree Brewing Company,micro,2600 E Atlantic Blvd,,,Pompano Beach,Florida,33062-4940,United States,9545326964,,-80.1224169,26.2316338
-065200ec-51cf-4612-b1b9-61f7db489c3c,3 Daughters Brewing,micro,222 22nd St S,,,Saint Petersburg,Florida,33712-1240,United States,7274956002,http://www.3dbrewing.com,-82.6629721,27.76899022
+6751228c-5373-4a54-8d68-72df6849a437,26 Degree Brewing Company,micro,2600 E Atlantic Blvd,,,Pompano Beach,Florida,33062-4940,United States,9545326964,,-80.097152,26.231601
+2093f9de-ce25-4ebf-a74f-598620d4733c,2nd Bay Brewing Co,taproom,108 Bartram Oaks Walk,,,Fruit Cove,Florida,32259,United States,9045140458,http://www.2ndbaybrewing.com,-81.623469,30.122896
+8b5d2cb9-29b3-4d51-9ebc-46e8be4cfa4c,3 Bridges Brewing,brewpub,2107 Tamiami Trl S,,,Venice,Florida,34293-5011,United States,9414688100,,-82.411389,27.055602
+c560bc81-fdf1-47b4-8c32-82b19535376c,3 Car Garage Brewing Co,taproom,8405 Heritage Green Way,,,Bradenton,Florida,34212,United States,9418098694,http://www.3cargaragebrewing.com,-82.455888,27.488442
+065200ec-51cf-4612-b1b9-61f7db489c3c,3 Daughters Brewing,micro,222 22nd St S,,,Saint Petersburg,Florida,33712-1240,United States,7274956002,http://www.3dbrewing.com,-82.662327,27.768819
+3ca15892-d1a2-4823-8dd8-8a618e9fc6a7,3 Daughters Brewing,brewpub,381 Mandalay Ave,,,Clearwater Beach,Florida,33767,United States,7274956002,,-82.827282,27.978173
+8688d0a4-d1db-481f-850a-301f8b2bc536,3 Keys Brewing,brewpub,2505 Manatee Ave E,,,Bradenton,Florida,34208-2421,United States,9546293050,http://www.3keysbrewing.com,-82.532668,27.496491
 1218736c-bfcf-4b95-b473-7399aaf60d1d,"3 Keys Brewing Company, LLC",brewpub,2505 Manatee Ave E,,,Bradenton,Florida,34208-2421,United States,9412180396,http://www.3keysbrewing.com,-82.53393502,27.49645026
 e2ddeea8-03d4-43e7-bfd0-d27797b9d016,3 Sons Brewing Co.,proprietor,236 N Federal Hwy,,,Dania,Florida,33004-2870,United States,9546013833,http://www.3sonsbrewingco.com,-80.14361029,26.04800238
 370fdc3b-55a0-43f0-a54e-f617a7cec7b8,3rd Planet Brewing,micro,120 Partin Dr N,,,Niceville,Florida,32578-2053,United States,8505029952,http://www.facebook.com/3rdplanetbrewing/,,
-c179a049-9988-4640-821d-ddf349cdd87e,7venth Sun Brewery,micro,1012 Broadway,,,Dunedin,Florida,34698-5762,United States,7277333013,http://www.7venthsun.com,,
-4679ff59-8ef6-4443-b6ec-f58232c6b7d7,7venth Sun Tampa,micro,6809 N Nebraska Ave,,,Tampa,Florida,33604-5660,United States,8132315900,,-82.4500207,27.9495902
-783c5daa-ea5c-4462-836e-c2846ad3ff4e,81Bay Brewing Company,micro,4465 W Gandy Blvd Ste 600,,,Tampa,Florida,33611-3379,United States,8133722739,http://81baybrewco.com,,
+d8098b29-7c10-48ea-8f85-4aca2be2a991,3rd Planet Brewing,taproom,1400 E John Sims Pkwy,,,Niceville,Florida,32578,United States,8204244257,http://www.3rdplanetbrewing.com,-86.460304,30.514902
+3652a2c9-cbac-415b-b219-e3f29c5ac7c4,3rd Planet Brewing Inc,taproom,1400 Sims Parkway East,,,Niceville,Florida,32578-2053,United States,8505029952,http://www.3rdplanetbrewing.com,-86.4799,30.5203
+c179a049-9988-4640-821d-ddf349cdd87e,7venth Sun Brewery,taproom,1012 Broadway,,,Dunedin,Florida,34698-5762,United States,7277333013,http://www.7venthsun.com,-82.790006,28.016117
+4679ff59-8ef6-4443-b6ec-f58232c6b7d7,7venth Sun Tampa,micro,6809 N Nebraska Ave,,,Tampa,Florida,33604-5660,United States,8132315900,,-82.450428,28.009976
+783c5daa-ea5c-4462-836e-c2846ad3ff4e,81Bay Brewing Company,micro,4465 W Gandy Blvd Ste 600,,,Tampa,Florida,33611-3379,United States,8133722739,http://81baybrewco.com,-82.520202,27.895615
 88a7ac77-a52b-4496-91df-b41e5831a568,A Little Madness Brewing Company,planning,,,,Pensacola,Florida,32514-8122,United States,,http://www.ALittleMadnessBrewingCompany.com,,
+a4828201-8d2d-45b4-affb-fa1db20f53cb,A Little Madness Brewing Company,taproom,9838 N Davis Hwy,,,Pensacola,Florida,32514-8122,United States,7248758622,http://www.ALittleMadnessBrewingCompany.com,-87.199741,30.537019
 5b627789-ff7e-4890-a7cf-24572bf547a2,Aardwolf Brewing Company,micro,1461 Hendricks Ave,,,Jacksonville,Florida,32207-8622,United States,9043010755,http://www.aardwolfbrewing.com,-81.6545197,30.3108962
-9c7b9f2a-6deb-44a1-9b3e-f83952a4db38,Abbey Brewing Co,contract,1115 16th St,,,Miami Beach,Florida,33139-2441,United States,3055388110,,-80.1402943,25.7890381
+9c7b9f2a-6deb-44a1-9b3e-f83952a4db38,Abbey Brewing Co,brewpub,1115 16th St,,,Miami Beach,Florida,33139-2441,United States,3055388110,,-80.140354,25.789058
 ec26cd9a-540f-4f23-b030-670115eed645,Alcatraz Brewing,micro,20 Ocean Vista Ln,,,Palm Coast,Florida,32137-2743,United States,3866278909,http://www.alcatraz.beer,-81.19287028,29.61781196
+ff457765-8070-4908-b9e3-6a7ad36a1bda,Alestone Brewing,brewpub,351 N Ronald Reagan Blvd,,,Longwood,Florida,32750,United States,3219728575,http://www.alestonebrewing.com,-81.345823,28.701366
+8f5ca538-f26d-4245-bdd8-a969d2de535e,Alga Beer Company,taproom,2435 N 12th,,,Pensacola,Florida,32503,United States,,http://www.algabeerco.com,-87.206608,30.439645
 10795316-cc0d-42d7-80c7-e237aae40a06,Alligator Brewing / Tall Paul's Brewhouse,micro,10 SE 2nd Ave,,,Gainesville,Florida,32601-6232,United States,3525050990,,-82.3222523,29.6502615
-f02ee574-d02d-486f-8d2e-851ad54b25ab,Amelia Island Brewing Company,brewpub,318 Centre St,,,Fernandina Beach,Florida,32034-4241,United States,9043106088,http://www.theameliatavern.com,-81.46236272,30.67106045
-6ec8cb60-72f6-4c30-af4b-3e59e736b3fc,American Icon Brewery,brewpub,1133 19th Place,,,Vero Beach,Florida,32960,United States,7729344266,http://www.americaniconbrewery.com,-80.3955067,27.63674361
+f02ee574-d02d-486f-8d2e-851ad54b25ab,Amelia Island Brewing Company,brewpub,318 Centre St,,,Fernandina Beach,Florida,32034-4241,United States,9043106088,http://www.ameliaislandbrewing.com,-81.462362,30.67086
+aa212c0e-2c4f-4277-a09b-bdcbdf9ab453,Amelia Island Brewing Company,brewpub,318 Centre St,,,Fernandina Beach,Florida,32034-4241,United States,9043106088,http://www.ameliaislandbrewing.com,-81.462362,30.67086
+6ec8cb60-72f6-4c30-af4b-3e59e736b3fc,American Icon Brewery,brewpub,1133 19th Place,,,Vero Beach,Florida,32960,United States,7729344266,http://www.americaniconbrewery.com,-80.397232,27.637192
+a41e06ae-2cbd-403f-8667-c664e1efd169,American Icon Brewery Kitchen & Taproom,brewpub,911 NE 4th Ave,,,Fort Lauderdale,Florida,33304,United States,7729344266,,-80.14053,26.135876
 045441f8-1882-4960-9e4d-0a32d24625e6,Americana Brewery,planning,,,,Fort Lauderdale,Florida,33328-1606,United States,,,,
 6c8aafd9-6e4a-4f1d-9dc0-a5e4cb710dce,Ancient City Brewing Co.,micro,3420 Agricultural Center Dr Ste 8,,,Saint Augustine,Florida,32092-0690,United States,9044299654,http://www.ancientcitybrewing.com,,
+12f34e27-1dd5-43e7-81ae-be43b433cf1a,Ancient City Brewing Company,micro,3420 Agricultural Center Drive STE 8,,,Saint Augustine,Florida,32092,United States,9045365327,http://ancientcitybrewing.com,-81.415379,29.912292
+449e043d-94b9-40b3-a7fc-8e0c1c8a5fc3,Anecdote Brewing Co.,taproom,321 Gulf Blvd,,,Indian Rocks Beach,Florida,33785,United States,7272395555,http://www.anecdotebrewing.com,-82.850064,27.881739
 d4e376b6-3aad-46ae-ae8d-471791ae03f8,"Angry Chair Brewing, LLC.",micro,6401 N Florida Ave,,,Tampa,Florida,33604-6007,United States,8138921651,http://www.angrychairbrewing.com,-82.459381,28.005127
+34cb0237-b365-47b9-8838-43bcd81bd66f,"Angry Chair Brewing, LLC.",taproom,4101 N Florida Ave,,,Tampa,Florida,33603,United States,8138921651,http://www.angrychairbrewing.com,-82.458822,27.98266
 a7e9194f-28a7-4fb8-85fb-38ee669b66e6,Anheuser-Busch Inc â Jacksonville,large,111 Busch Dr,,,Jacksonville,Florida,32218-5546,United States,9047510700,,-81.6481156,30.4319552
 236cb5e3-d827-453a-a3a4-5a4d59d87adf,Ankrolab Brewing Company,planning,,,,Naples,Florida,34112-6363,United States,2394511223,http://ankrolab.com,,
+929a6e8a-9925-4e8e-8a5f-ee8462cbd0e1,Ankrolab Brewing Company,taproom,3555 Bayshore Dr,,,Naples,Florida,34112-6363,United States,2394511223,http://ankrolab.com,-81.769897,26.120319
+51a32983-9417-4306-98e0-318a072e8c5f,Antibrewery,location,1367 Martin Luther King Jr Ave,,,Dunedin,Florida,34698-5061,United States,,,-82.784804,28.022399
 5acdc1a1-5631-4c03-960c-bd076237f124,Arkane Aleworks,micro,2480 E Bay Dr #23,,,Largo,Florida,33771-2467,United States,7272707117,http://www.arkanebeer.com,,
 4e0403f6-c040-4d4c-b9fe-1f5a115b0172,Atlantic Beach Brewing Company,micro,725 Atlantic Blvd Suite 3,,,Atlantic Beach,Florida,32233-3946,United States,9048948426,http://www.atlanticbeachbrewingcompany.com,,
+e81f9826-a620-4b1e-a91c-b0a09ca6e78c,Azalea City Brewing Company,taproom,120 South 7th Street,,,Palatka,Florida,32177,United States,3865302084,http://www.azaleacitybrewing.com,-81.636192,29.646682
 1d5ac885-33a0-4bed-971b-dfb24772eb0b,Backyard Barn Winery and Microbrewery,micro,1945 E County Road 462,,,Wildwood,Florida,34785-8594,United States,3524187887,http://www.backyardbardwinery.com,,
 e049fe2d-95ad-4c99-8c93-439f39339b60,Bangin' Banjo Brewing Company,micro,3200 NW 23rd Ave Ste 500,,,Pompano Beach,Florida,33069-5909,United States,9549783113,http://www.banginbanjobrewing.com,,
-4eb9962b-708d-4221-9eee-f68e2abead7a,Barrel of Monks Brewing,micro,1141 S Rogers Cir Ste 5,,,Boca Raton,Florida,33487-2789,United States,5615101253,http://www.barrelofmonks.com,,
+4eb9962b-708d-4221-9eee-f68e2abead7a,Barrel of Monks Brewing,taproom,1141 S Rogers Cir Ste 5,,,Boca Raton,Florida,33487-2789,United States,5615101253,http://www.barrelofmonks.com,-80.110153,26.404019
 bd4c1883-0fa4-4ebf-84a5-750eeccb7546,Barrie Brewing Company,planning,,,,Gainesville,Florida,32607-4807,United States,,,,
+b2f45f9a-9e63-4b03-9e0c-55fe84629687,BarrieHaus Beer Co.,brewpub,1403 E 5th Ave,,,Tampa,Florida,33605-5021,United States,8132422739,http://www.barriehaus.com,-82.443847,27.958614
 469e0667-cecc-4e07-b27c-443a187baf51,Bastet Brewing,planning,,,,Tampa,Florida,33613-1254,United States,,http://www.bastetbrewing.com,,
+3b7c7407-7fdb-4bae-86b5-0048028b39ad,Bastet Brewing,taproom,"1951 E. Adamo Dr., Suite B",,,Tampa,Florida,33605,United States,8132420064,http://www.bastetbrewing.com,-82.436754,27.955293
+b645d8af-06cc-4b7a-8b2a-93f549ce8d1c,Bay 13 Brewery,brewpub,65 Alhambra Plaza,,,Coral Gables,Florida,33134,United States,,http://www.bay13brewery.com,-80.255833,25.75258
 b39a23d8-56f2-48a3-b505-3f460935ec54,Bay Brewing Company,planning,,,,Miami,Florida,33130-3488,United States,18134763767,,,
+f38805c5-61c1-4714-a2b2-38162c19c24d,Bayboro Brewing Co.,taproom,2390 5th Ave S,,,Saint Petersburg,Florida,33712,United States,7277679666,http://www.bayborobrewing.com,-82.665678,27.76594
+db9d2b72-0ef8-4a52-a562-49aadf2f2cc9,Beach Island Brewery,taproom,2058 Bayshore Blvd,,,Dunedin,Florida,34698,United States,3525410616,,-82.784219,28.039778
 827042d6-0920-484e-94ae-6f8ef520cd74,BeachFly Brewing Company,planning,,,,Indian Harbour Beach,Florida,32937,United States,3214124900,,,
-4f5f6278-99db-45cf-9ed3-72744cd475d4,Beachside Brew Pub,micro,1368 Ocean Shore Blvd,,,Ormond Beach,Florida,32176-3630,United States,3868465143,http://www.beachsidebrewpub.com,-81.057048,29.326634
+333b464b-68bb-4eb8-9664-04df86e15f79,BeachFly Brewing Company,brewpub,513 Barton Blvd,,,Rockledge,Florida,32955,United States,3213056865,,-80.733059,28.330492
+4f5f6278-99db-45cf-9ed3-72744cd475d4,Beachside Brew Pub,taproom,1368 Ocean Shore Blvd,,,Ormond Beach,Florida,32176-3630,United States,3868465143,http://www.beachsidebrewpub.com,-81.057337,29.326594
+72279551-cfe7-419a-9d8e-857e6052c291,Beardless Brewhaus,taproom,5139 Elmira Street,,,Milton,Florida,32570,United States,8506650663,http://www.beardlessbrewhaus.com,-87.035957,30.62091
+94839b6c-6588-4510-a7ef-f793e9efdad9,Beat Culture Brewery,brewpub,7250 NW 11th Street,,,Miami,Florida,33126,United States,3057732760,,-80.313647,25.780769
 7aa429f1-a3c8-4ff8-b2c3-18a451dee621,Beer Religion,planning,,,,Winter Park,Florida,32792-5111,United States,,,,
-1a67833a-71e7-482e-9f85-9726583aceb7,Big Bear Brewing Co,brewpub,1800 N University Dr,,,Coral Springs,Florida,33071-6031,United States,9543415545,http://www.bigbearbrewingco.com,-80.2505088,26.2992083
+1a67833a-71e7-482e-9f85-9726583aceb7,Big Bear Brewing Co,micro,1800 N University Dr,,,Coral Springs,Florida,33071-6031,United States,9543415545,http://www.bigbearbrewingco.com,-80.253691,26.253645
 b9f816db-8d71-4be2-9370-5100c2b1257a,Big Blue Brewing,brewpub,4721 SE 10th Pl,,,Cape Coral,Florida,33904-9168,United States,9737693294,http://www.bigbluebrewing.com,-81.95242639,26.56445895
-077585a3-1bbb-46fa-90ac-6494765afc75,Big River Grille & Brewing Works - Disney,brewpub,2101 Epcot Resorts Blvd,,,Lake Buena Vista,Florida,32830-8442,United States,4075600253,http://www.craftworksrestaurants.com,,
-20a11408-a1f1-408c-89c0-aef4faef79c4,Big Storm Brewing,micro,839 Miramar St,,,Cape Coral,Florida,33904-9046,United States,,,-81.9557454,26.5609342
-881c39be-bb1c-4517-ad04-f6bd052fd74c,Big Storm Brewing,micro,2330 Success Dr,,,Odessa,Florida,33556,United States,7273762890,,-82.62618762,28.19192178
-491566c3-b7e2-42f6-a400-545ef0ceffdb,Big Storm Brewing Co.,micro,12707 49th St N,,,Clearwater,Florida,33762-4604,United States,7274970666,http://www.bigstormbrewery.com,,
+49ce2d61-f5e1-409b-b05a-16f8f76c4659,Big Hammock Brewery,brewpub,103 SE 1st Ave,,,Ocala,Florida,34471,United States,3528778176,http://www.bbighammockbrewery.com,-82.135811,29.185325
+077585a3-1bbb-46fa-90ac-6494765afc75,Big River Grille & Brewing Works - Disney,brewpub,2101 Epcot Resorts Blvd,,,Lake Buena Vista,Florida,32830-8442,United States,4075600253,http://www.craftworksrestaurants.com,-81.555558,28.365864
+20a11408-a1f1-408c-89c0-aef4faef79c4,Big Storm Brewing,micro,4721 SE 10th Place,,,Cape Coral,Florida,33904,United States,,,-81.952228,26.563997
+881c39be-bb1c-4517-ad04-f6bd052fd74c,Big Storm Brewing,micro,2330 Success Dr,,,Odessa,Florida,33556,United States,7273762890,,-82.625582,28.192724
+f78d377b-ddb3-4b1f-aa5b-db4e7eecc98a,Big Storm Brewing,micro,4721 SE 10th Place,,,Cape Coral,Florida,33904,United States,,,-81.952228,26.563997
+491566c3-b7e2-42f6-a400-545ef0ceffdb,Big Storm Brewing Co.,micro,12707 49th St N,,,Clearwater,Florida,33762-4604,United States,7274970666,http://www.bigstormbrewery.com,-82.699526,27.887061
+1c9ea07b-6c9a-431b-ac18-3f2ab57c742e,Big Storm Brewing Co.,brewpub,430 W. Church St,,,Orlando,Florida,32801,United States,7274970666,,-81.384686,28.539988
+358d4aea-25ce-41d1-a4ab-138daf70056a,Big Storm Brewing Co. Tampa,brewpub,1600 E 7th Ave,,,Clearwater,Florida,33762-4604,United States,,,-82.7001,27.8878
 83b19e83-5855-4e53-88e4-987ab398d8ae,Big Top Brewing Company,micro,6111 Porter Way Unit B,,,Sarasota,Florida,34232-6224,United States,,http://Bigtopbrewing.com,,
-9baed18a-8f26-4e9a-a56f-280ced6d1d7a,Biscayne Bay Brewing Co,micro,8000 NW 25th St Ste 500,,,Miami,Florida,33122-1631,United States,,,,
+3b75be4b-5a2c-4808-9d55-cadc484c959a,Big Top Brewing Company Gainesville,brewpub,201 SE Second Ave Ste 101,,,Gainesville,Florida,32601,United States,,http://www.bigtopbrewing.com,-82.323469,29.649965
+e6b02f1e-5931-4b7d-9844-d9e8e82abeeb,Big Top Brewing Company Pensacola,brewpub,21 W Romana St,,,Pensacola,Florida,32502,United States,8504662072,,-87.215909,30.410912
+9baed18a-8f26-4e9a-a56f-280ced6d1d7a,Biscayne Bay Brewing Co,micro,8000 NW 25th St Ste 500,,,Miami,Florida,33122-1631,United States,,,-80.326366,25.79591
+c5efa10a-4211-4d65-9a91-fc5b8954439e,Black Flamingo Brewing Company,taproom,3260 NW 23rd Ave,,,Pompano Beach,Florida,33069,United States,9549331960,,-80.155521,26.270754
 bf4605ce-568b-4442-a8e0-41d0d261b451,Blackadder Brewing Company,micro,618 NW 60th St Ste A,,,Gainesville,Florida,32607-6014,United States,3523390324,http://www.blackadderbrewing.com,,
+84ffa8dc-bd9f-452c-92d1-5a76c0249d35,Blast Beer Company,alt prop,6810 Front St,,,Key West,Florida,33040,United States,3056901028,http://https://blastbeerco.com,-81.734569,24.566592
+03ed76df-a037-45ea-a29c-6ec9d42225fa,Blountstown Beer Co,brewpub,19119 SR 20W,,,Blountstown,Florida,32424,United States,,,-85.071494,30.442139
+012dc14c-3043-4fa2-80a2-fd21707a8f71,Blue Springs Brewing,brewpub,1070 S Volusia Ave,,,Orange City,Florida,32763,United States,3862183042,http://www.bluespringsbrewing.com,-81.298304,28.936197
 941a14d9-f881-4f74-992c-75ab08d5837e,Bob Loblaw Brewing,planning,,,,Miami,Florida,33179,United States,3052495628,http://www.bobloblawbrewing.com,,
-b3e33c9a-90f4-4ea3-9177-3b05e2ce0062,Bog Brewing Company,micro,218 W King St,,,Saint Augustine,Florida,32084-4144,United States,9046793146,http://www.bogbrewery.com,-81.3267969,29.8908994
-6ac83b12-2e87-47ac-a439-11af6b9038a2,Bold City Brewery,micro,2670 Rosselle St Ste 7,,,Jacksonville,Florida,32204-3004,United States,9043796551,http://www.boldcitybrewery.com,,
-823d7543-75ef-4ce6-b3f3-6108eea702f8,Bold City Brewery,micro,109 E Bay St,,,Jacksonville,Florida,32202-3414,United States,9045037682,http://www.boldcitybrewery.com,-81.656519,30.326002
-a2105e97-2f68-4d9d-a1eb-e2914936f086,Bone Hook Brewing Company,micro,1514 Immokalee Rd Unit 106,,,Naples,Florida,34110-1454,United States,2396318522,http://www.bonehookbrewing.com,,
+b3e33c9a-90f4-4ea3-9177-3b05e2ce0062,Bog Brewing Company,taproom,218 W King St,,,Saint Augustine,Florida,32084-4144,United States,9046793146,http://www.bogbrewery.com,-81.327086,29.890988
+6ac83b12-2e87-47ac-a439-11af6b9038a2,Bold City Brewery,micro,2670 Rosselle St Ste 7,,,Jacksonville,Florida,32204-3004,United States,9043796551,http://www.boldcitybrewery.com,-81.695975,30.319166
+823d7543-75ef-4ce6-b3f3-6108eea702f8,Bold City Brewery,taproom,109 E Bay St,,,Jacksonville,Florida,32202-3414,United States,9045037682,http://www.boldcitybrewery.com,-81.656455,30.326038
+a2105e97-2f68-4d9d-a1eb-e2914936f086,Bone Hook Brewing Company,taproom,1514 Immokalee Rd Unit 106,,,Naples,Florida,34110-1454,United States,2396318522,http://www.bonehookbrewing.com,-81.788769,26.271324
 6c808c0d-3021-4545-ace7-652f67dd1d44,Bone Island Brewing,micro,1111 Eaton St,,,Key West,Florida,33040-6926,United States,3053043472,http://www.boneislandbrewing.com,-81.79651464,24.56141707
-6fce9f76-f613-4654-b32e-1c22994ee157,Bousa Brewing Company,micro,7235 NE 4th Ave,,,Miami,Florida,33138-5315,United States,3053635166,http://www.bousabrewing.com,-80.18941017,25.8414587
-ec41c18f-88fd-47ba-8677-b9b44ccef39c,Bowigens Beer Company,micro,1014 State Road 436,,,Casselberry,Florida,32707-5722,United States,4079607816,http://www.bowigens.com,,
+923591bf-7990-43d6-895c-ac396690fa92,Bootleggers Brewing Company,taproom,10256 Causeway Blvd,,,Tampa,Florida,33619,United States,8136439433,http://www.bootleggersbrewco.com,-82.341723,27.923233
+61f365b8-ee2b-4db5-853f-2efd0c234a80,Bottlenose Brewing,brewpub,9700-1 Deer Lake Rd,,,Jacksonville,Florida,32246,United States,9042542700,http://www.BottlenoseBrewing.com,-81.556055,30.264462
+ec41c18f-88fd-47ba-8677-b9b44ccef39c,Bowigens Beer Company,taproom,1014 State Road 436,,,Casselberry,Florida,32707-5722,United States,4079607816,http://www.bowigens.com,-81.321034,28.646499
 58d96e3e-6dae-4fae-a383-1a0c2c2edbf1,Bremen Beer Ventures,planning,,,,Key Biscayne,Florida,33149-7213,United States,3059036996,,,
-c932db7a-8671-4052-ae9b-64ed0eb05e0b,Brew Angels LLC,brewpub,6821 Caroline St,,,Milton,Florida,32570-2206,United States,8505640034,,-87.038565,30.621944
+c932db7a-8671-4052-ae9b-64ed0eb05e0b,Brew Angels LLC,taproom,6821 Caroline St,,,Milton,Florida,32570-2206,United States,8505640034,,-87.038022,30.621885
 26baf7e9-4615-4874-84b7-4b718c84d5ea,Brew Bus Brewing,brewpub,4101 N Florida Ave,,,Tampa,Florida,33603-3817,United States,8139907310,http://www.brewbususa.com,-82.4586495,27.9826232
-42684296-1506-42cc-a14c-1cd31a69bfc4,"Brew Hub, LLC",regional,3900 Frontage Rd S,,,Lakeland,Florida,33815-3205,United States,8636987600,http://www.brewhub.com,,
-ff125d8f-74ad-4c15-8154-b5a4ef9d767f,Brew Life Brewing,micro,5767 Beneva Rd,,,Sarasota,Florida,34233-4105,United States,9419523831,http://www.brewlifebrewing.com,-82.49751806,27.27001312
+42684296-1506-42cc-a14c-1cd31a69bfc4,"Brew Hub, LLC",regional,3900 Frontage Rd S,,,Lakeland,Florida,33815-3205,United States,8636987600,http://www.brewhub.com,-82.023858,28.044203
+7526c93c-aa2c-43ad-a3fe-462f001383c6,"Brew Hub, LLC",regional,3900 Frontage Rd S,,,Lakeland,Florida,33815-3205,United States,8636987600,http://www.brewhub.com,-82.023858,28.044203
+ff125d8f-74ad-4c15-8154-b5a4ef9d767f,Brew Life Brewing,taproom,5767 Beneva Rd,,,Sarasota,Florida,34233-4105,United States,9419523831,http://www.brewlifebrewing.com,-82.497,27.269983
+36bda941-6780-47a7-a2d5-8262cb444ba0,Brew Theory,micro,400 Pittman St,,,Orlando,Florida,32801,United States,3864538936,,-81.383484,28.546374
 7d21464e-0574-44fb-901c-2481e843d8ec,Brewers Tasting Room,brewpub,11270 4th St N Ste 202,,,Saint Petersburg,Florida,33716-2937,United States,7278733900,http://www.brewerstastingroom.com,,
+dcec10b1-a0f9-47ad-a0ad-4073cd1a2956,Brewlando,taproom,6820 Hoffner Ave,,,Orlando,Florida,32822,United States,4078080181,,-81.29102,28.478852
 2c81530e-f7b2-4d1c-85ae-c351b12b11fc,Brewpop Brewery,brewpub,2122 US Highway 92 W,,,Auburndale,Florida,33823-3962,United States,8636623864,http://www.brewpop.com,,
 34110279-e23c-4e08-b7b1-79da0196ee17,Brighter Day's Brewing Company,planning,,,,New Port Richey,Florida,34655-3717,United States,7272242027,http://www.brighterdaysbeer.com,,
+4b68a421-bfb2-4661-a948-5572e8784b84,Brighter Days Brewing Co,taproom,311 N Safford Ave,,,Tarpon Springs,Florida,34689,United States,7272242027,http://www.brighterdaysbeer.com,-82.754944,28.148968
 3603ecd0-8aae-44ec-8098-058724396b05,Broken Cauldron Taproom and Brewery,micro,1012 W Church St,,,Orlando,Florida,32805-2216,United States,4079861012,http://www.brokencauldrontaproom.com,,
 b8852f37-7df8-49d3-aac5-2ef793e589bf,Broken Coat Brewing,planning,,,,Lake Worth,Florida,33467-1002,United States,,,,
+b959351d-a258-4d7b-b87b-568096c9233b,Broken Strings Brewery,taproom,1012 W Church St,,,Orlando,Florida,32805-2216,United States,4077309108,http://www.brokenstringsbrewery.com,-81.3933,28.540022
 89c19afc-7874-4372-8edf-1e86f9e0fe90,Buffalo Theory Brewing Co. LLC,planning,,,,Merritt Island,Florida,32953-3222,United States,,http://www.Buffalotheorybrewingco.com,,
 ebeb8215-5ffe-4bd6-af1f-d39016bc77e4,Bugnutty Brewing Company,brewpub,715 N Courtenay Pkwy,,,Merritt Island,Florida,32953-4651,United States,3214524460,http://www.bugnutty.com,,
+efa417b0-786c-481b-b617-ee5fb4db8e1f,Bugnutty Brewing Company,micro,225 KING ST # B,,,Cocoa,Florida,32922-7939,United States,3214524460,http://www.bugnutty.com,-80.726846,28.355726
 5aeae53c-94dd-42aa-9bf0-bbd23df9b767,Bullfrog Creek Brewing Company,micro,3632 Lithia Pinecrest Rd,,,Valrico,Florida,33596-6305,United States,8137038835,http://www.bullfrogcreekbrewing.com,-82.2695872,27.9229731
+3a8933f1-40ad-409b-8ed3-b8d81a6c44b3,Bully Brewing,taproom,2204 Griffin Rd,,,Leesburg,Florida,34748,United States,3526389207,,-81.898559,28.828768
 2403a143-2664-4c84-a0c3-a97aa99f71de,Bury Me Brewing Company,micro,4224 Cleveland Ave Ste 7,,,Fort Myers,Florida,33901-9051,United States,2393322337,http://www.burymebrewing.com,,
 c0c8f2f1-ec01-4d3e-8faf-b05f3f18f945,Cafe Karibo,brewpub,27 N 3rd St,,,Fernandina Beach,Florida,32034-4111,United States,9042775269,http://www.cafekaribo.com,-81.46300291,30.6716253
-07abdcde-be13-49ed-9000-409d7d3d1975,Cage Brewing,micro,2001 1st Ave S,,,Saint Petersburg,Florida,33712-1201,United States,7272014278,,-82.660409,27.770292
+07abdcde-be13-49ed-9000-409d7d3d1975,Cage Brewing,taproom,2001 1st Ave S,,,Saint Petersburg,Florida,33712-1201,United States,7272014278,http://www.cagebrewing.com,-82.660435,27.770463
 87f356ba-1eee-4480-96a9-5877cc669edb,Caledonia Brewing,micro,587 Main St,,,Dunedin,Florida,34698-4998,United States,7273515105,http://www.caledoniabrewing.com,-82.7840735,28.01394225
-40a385d5-25cb-4bf4-9b04-fd1501f8b8fb,Calusa Brewing Company,micro,5701 Derek Ave,,,Sarasota,Florida,34233-2413,United States,9419228150,http://www.calusabrewing.com,-82.483799,27.269363
+40a385d5-25cb-4bf4-9b04-fd1501f8b8fb,Calusa Brewing Company,taproom,5377 McIntosh Rd,,,Sarasota,Florida,34233,United States,,,-82.480142,27.275644
+694f66cc-6464-485c-88c0-c5acb5ad34ad,Calusa Brewing Company,taproom,5377 McIntosh Rd,,,Sarasota,Florida,34233,United States,,,-82.480142,27.275644
+1ff07637-0c8b-4277-bafa-34d23ff3f18e,Carib Brewery USA,regional,200 Imperial Blvd,,,Cape Canaveral,Florida,32920-4245,United States,3217284114,http://www.caribbreweryusa.com,-80.611517,28.3991
+4deaefce-b5b7-458f-89fc-2c1be46ff6e3,Carnival Cruise Line,alt prop,3655 NW 87th Ave,,,Doral,Florida,33178-2418,United States,3055992600,http://www.carnival.com,-80.337075,25.807111
 51b16993-d99b-4a27-8e00-b9af14c372fa,Castle Church Brewing Community,planning,,,,Kissimmee,Florida,34744-3990,United States,,http://www.castlechurchbrewing.com,,
-f72eb79f-b910-4ab2-bee9-6af0c1abb7e7,Central 28 Beer Company,micro,290 Springview Commerce Dr Ste 1,,,Debary,Florida,32713-4848,United States,3866682811,http://www.central28beer.com,,
+f72eb79f-b910-4ab2-bee9-6af0c1abb7e7,Central 28 Beer Company,taproom,290 Springview Commerce Dr Ste 1,,,Debary,Florida,32713-4848,United States,3866682811,http://www.central28beer.com,-81.328348,28.86963
+0493e3c0-afc0-4596-be6e-05dd4fbb929f,Ceremony Brewing,micro,10441 Packinghouse Ln,,,Bonita Springs,Florida,34135,United States,2392217849,http://www.ceremonybrewing.com,-81.779649,26.333364
 979f53b8-e18d-45d6-a893-bd7f3419f803,Cervecentro,planning,,,,Miami,Florida,33181-3404,United States,3055171656,http://www.cervecentro.com.ve,,
 7d199c4a-13fd-4568-825f-73c2b6722bb8,Cerveza Guajira,planning,,,,Miami,Florida,33137,United States,3056005692,,,
-44c7a96e-0bb9-4477-9302-9571d15068bf,Charlie and Jakes Brewery and Grille,brewpub,6300 N Wickham Rd Ste 137,,,Melbourne,Florida,32940-2037,United States,3217527675,http://www.cjbrewery.com,,
+44c7a96e-0bb9-4477-9302-9571d15068bf,Charlie and Jakes Brewery and Grille,brewpub,6300 N Wickham Rd Ste 137,,,Melbourne,Florida,32940-2037,United States,3217527675,http://www.cjbrewery.com,-80.673344,28.213271
 028c442f-1eaa-45b0-b4be-3871ed49f217,Cigar City Airport Location,planning,,,,Tampa,Florida,33607,United States,,,,
-1eff0c5d-93dc-4b96-acec-cdcfd85b6769,Cigar City Brewing Co,regional,3924 W Spruce St,,,Tampa,Florida,33607-2441,United States,8133486363,http://www.cigarcitybrewing.com,-82.509195,27.959172
-3e4025f3-efcc-4913-a66b-a6985899ad29,Civil Society Brewing Co,micro,1200 Town Center Dr Ste 101,,,Jupiter,Florida,33458-5257,United States,5618556680,http://www.civilsocietybrewing.com,-80.11462571,26.88964636
+28adf33f-8836-4c16-bc99-815158268c3c,Cigar City Airport Location,brewpub,TIA Airside C 3rd Level,,,Tampa,Florida,33607,United States,,,-82.5053,27.9642
+1eff0c5d-93dc-4b96-acec-cdcfd85b6769,Cigar City Brewing,regional,3924 W Spruce St,,,Tampa,Florida,33607-2441,United States,8133486363,http://www.cigarcitybrewing.com,-82.509299,27.958669
+73939ae1-bd03-41a4-a6c5-c10d1a081e3d,Civic Brewing Company,taproom,106 Municipal Ave,,,Sopchoppy,Florida,32358,United States,,http://www.civicbrewingco.com,-84.491734,30.061804
+3e4025f3-efcc-4913-a66b-a6985899ad29,Civil Society Brewing Co,micro,1200 Town Center Dr Ste 101,,,Jupiter,Florida,33458-5257,United States,5618556680,http://www.civilsocietybrewing.com,-80.113956,26.88961
+447e7451-549c-4ed2-9596-186bfcc9eb69,Civil Society Brewing Co- West Palm Beach,micro,425 Kanuga Dr,,,West Palm Beach,Florida,33401,United States,5618556680,,-80.055337,26.697309
+9f45e9ab-67a2-4bec-8a44-7b2ddae9d30d,Clearwater Brewing Company,taproom,1700 N Fort Harrison Ave,,,Clearwater,Florida,33755,United States,8447371700,http://www.clearwaterbrewingcompany.com,-82.796732,27.982538
 84229303-605d-4216-be85-cd5ad19ccb91,Clermont Brewing Company,planning,,,,Clermont,Florida,34711-2108,United States,,,,
+d6abee35-c5ef-4aaf-9985-ae24e316966e,Clermont Brewing Company,taproom,750 W Desoto St,,,Clermont,Florida,34711-2108,United States,,http://www.clermontbrewingcompany.com,-81.767789,28.554545
 e55521d5-aded-4bd6-9bed-072d74a2f8c8,CNB Brewpub,planning,,,,Sarasota,Florida,34242-3811,United States,9418096760,,,
+f2609cff-8375-47fd-8412-e313d2d33f7f,Coastal County Brewing Company,brewpub,3041 E Olive Rd,,,Pensacola,Florida,32514,United States,8507412973,http://www.coastalcounty.com,-87.201638,30.508919
+448ae395-eb15-4e5e-aede-9ce8e9b7b14a,Coastal Dayz Brewery LLC,taproom,2161 McGregor Blvd Ste E,,,Fort Myers,Florida,33901-3426,United States,2392049665,http://www.coastaldayzbrewery.com,-81.876393,26.637252
+298b3f6f-ccab-4224-9ca8-ded5a9553e62,Coastal Karma Brewing,taproom,796 10th St,,,Lake Park,Florida,33403,United States,5612491491,http://www.coastalkarmabrewery.com,-80.073193,26.799962
 b757743f-6586-498f-84f0-8d92d0b5ae6e,Cocoa Beach Brewing Co,brewpub,150 N Atlantic Ave,,,Cocoa Beach,Florida,32931-2960,United States,3216132941,http://www.cocoabeachbrewingcompany.com,-80.6090792,28.3213572
+d2223d5a-e48b-4ca8-84af-cd1558848273,Coconut Grove Brewing,brewpub,2884 SW 27th Ave,,,Miami,Florida,33133-3760,United States,3054482111,,-80.238131,25.738152
+c4d3b91a-28db-41c0-b2c5-9cc40e8e2e64,Common Dialect,taproom,5023 N Florida Ave,,,Tampa,Florida,33603,United States,,http://https://www.commondialectbeer.com/,-82.459129,27.991986
 048b7e46-aa54-4397-8f42-93b9fd2cd93c,Concrete Beach Brewery,micro,325 NW 24th St,,,Miami,Florida,33127-4325,United States,3057962727,http://www.concretebeachbrewery.com/,-80.20091709,25.800254
-bad8c409-2e39-4ebc-847c-c74865fa30d6,Copp Brewery & Winery,micro,11 NE 4th Ave,,,Crystal River,Florida,34429-4246,United States,3525649463,http://www.coppbrewery.com,-82.58738072,28.89472626
-322308d2-d7e1-4faf-84e6-77b5948aaffc,Copperpoint Brewing Company,micro,151 Commerce Rd,,,Boynton Beach,Florida,33426-9365,United States,,,-80.073376,26.55907743
-070be339-1a2e-4ec9-a995-23a55599dc0f,Coppertail Brewing,micro,2601 E 2nd Ave,,,Tampa,Florida,33605-5503,United States,8132471500,http://www.coppertailbrewing.com,-82.430498,27.956553
+bad8c409-2e39-4ebc-847c-c74865fa30d6,Copp Brewery & Winery,taproom,11 NE 4th Ave,,,Crystal River,Florida,34429-4246,United States,3525649463,http://www.coppbrewery.com,-82.58718,28.894743
+322308d2-d7e1-4faf-84e6-77b5948aaffc,Copperpoint Brewing Company,micro,151 Commerce Rd,,,Boynton Beach,Florida,33426-9365,United States,5615087676,,-80.07277,26.559558
+070be339-1a2e-4ec9-a995-23a55599dc0f,Coppertail Brewing,regional,2601 E 2nd Ave,,,Tampa,Florida,33605-5503,United States,8132471500,http://www.coppertailbrewing.com,-82.429971,27.956322
+07fc6da1-8e81-4f92-bea5-c61528d1994e,Coquina Coast Brewing Company,taproom,318 Moody Blvd,,,Flagler Beach,Florida,32136,United States,3863383735,http://www.coquinacoastbrewingcompany.com,-81.13006,29.48018
 c1a44969-f495-4182-9ae1-0736234cbdb7,Cotee River Brewing Company,planning,,,,New Port Richey,Florida,34652,United States,,http://www.coteeriverbrewing.com,,
+f00ac4c1-661d-42bc-b706-3d8eea5d9fd4,Cotee River Brewing Company,taproom,5760 Main St,,,New Port Richey,Florida,34652,United States,7278076806,http://www.coteeriverbrewing.com,-82.718713,28.249956
 52048a4e-8f81-4515-bc5e-9289da7fcead,Craft Life Brewing,micro,2624 Land O Lakes Blvd,,,Land O Lakes,Florida,34639-4910,United States,8135758440,,-82.46477873,28.19614552
-ef8cb80a-8a31-4038-834a-a27874bfa9d8,Crooked Can Brewing Co,micro,426 W Plant St,,,Winter Garden,Florida,34787-3014,United States,,http://www.crookedcan.com,-81.590376,28.5639024
+322f0666-f9f4-4f5d-b200-e03cca0e0e6f,Craft Life Brewing Company,taproom,6810 Tower Drive,,,Hudson,Florida,34667,United States,7273784530,http://www.craftlifebrewingcompany.com,-82.70194,28.345601
+3a12b1cc-bc8d-4d90-bf53-4101f75e468c,Crazy Dingo Brewing Company,brewpub,8500 Penzance Blvd,,,Fort Myers,Florida,33912,United States,2397680309,http://www.crazydingobrewing.com,-81.814177,26.56797
+bc55bae6-98fb-44da-86e2-c0ee9cb455ae,Crazy Uncle Mike's,brewpub,6450 N Federal Hwy,,,Boca Raton,Florida,33487,United States,5619312889,http://www.crazyunclemikes.com,-80.075682,26.406961
+ef8cb80a-8a31-4038-834a-a27874bfa9d8,Crooked Can Brewing Co,taproom,426 W Plant St,,,Winter Garden,Florida,34787-3014,United States,,http://www.crookedcan.com,-81.590789,28.563962
 903ba837-e27a-48b6-8287-da98c01e0b35,Crooked Rooster Brewery LLC.,micro,1478 S 6th St,,,Macclenny,Florida,32063,United States,9046532337,http://www.crookedroosterbrews.com,-82.1223325,30.2707152
-ee71a877-46d6-45a9-9e2d-6291f4609de6,Crooked Thumb Brewery,micro,555 10th Ave S,,,Safety Harbor,Florida,34695-3821,United States,7277245953,http://www.crookedthumbbrew.com,-82.6986687,27.9874212
-e031e745-1aab-47a5-8f44-728abdf4bc76,Cueni Brewing Co.,micro,945 Huntley Ave,,,Dunedin,Florida,34698-5722,United States,7272664102,http://www.cuenibrewing.com,-82.78928423,28.01440368
-378ffef4-9cee-40e2-b61e-d08262e6ac49,Cycle Brewing,micro,534 Central Ave,,,St Petersburg,Florida,33701-3704,United States,7273207954,http://www.cyclebrewing.com,-82.6409282,27.7709069
-6b7fe7b8-047b-4f6e-96b3-1ae1efa5ae73,Cycle Brewing Production and Warehouse,micro,2135 5th Ave S,,,Saint Petersburg,Florida,33712-1304,United States,,,-82.66222158,27.76663544
-4b031da7-db66-4d57-995d-cb1473236ba3,Cypress and Grove Brewing Company,micro,1001 NW 4th Street,,,Gainesville,Florida,32601-4256,United States,6419900950,http://www.cypressandgrove.com,-82.328751,29.661257
-285cd494-30a4-4dd7-8034-5c0c648cde0a,D. G. Yuengling and Son Inc,regional,11111 N 30th St,,,Tampa,Florida,33612-6439,United States,8139728552,http://www.yuengling.com,-82.42608918,28.04767978
+ee71a877-46d6-45a9-9e2d-6291f4609de6,Crooked Thumb Brewery,taproom,555 10th Ave S,,,Safety Harbor,Florida,34695-3821,United States,7277245953,http://www.crookedthumbbrew.com,-82.698671,27.987469
+e031e745-1aab-47a5-8f44-728abdf4bc76,Cueni Brewing Co.,taproom,945 Huntley Ave,,,Dunedin,Florida,34698-5722,United States,7272664102,http://www.cuenibrewing.com,-82.789052,28.0145
+853883f2-4269-49ff-a51c-06cb14f3247f,Cultured Collective,taproom,835 Park Ave,,,Orange Park,Florida,32073,United States,5617162979,http://culturedcollective.co,-81.700749,30.179949
+378ffef4-9cee-40e2-b61e-d08262e6ac49,Cycle Brewing,micro,534 Central Ave,,,St Petersburg,Florida,33701-3704,United States,,http://www.cyclebrewing.com,-82.640927,27.771054
+6b7fe7b8-047b-4f6e-96b3-1ae1efa5ae73,Cycle Brewing Production and Warehouse,micro,2135 5th Ave S,,,Saint Petersburg,Florida,33712-1304,United States,,,-82.661423,27.76677
+4b031da7-db66-4d57-995d-cb1473236ba3,Cypress & Grove Brewing Company,taproom,1001 NW 4th Street,,,Gainesville,Florida,32601-4256,United States,6419900950,http://www.cypressandgrove.com,-82.328244,29.661435
+285cd494-30a4-4dd7-8034-5c0c648cde0a,D. G. Yuengling and Son Inc,regional,11111 N 30th St,,,Tampa,Florida,33612-6439,United States,8139728552,http://www.yuengling.com,-82.424137,28.048631
 5036c9a3-e210-4fa0-8a95-0a9bb054bcc0,"D. MANATEE HOLDINGS, LLC",planning,,,,Miami,Florida,33131-1210,United States,,http://www.tiliaventure.com,,
+3f9b5d75-bf93-48bb-864a-e77a8a01c3e0,Daft Cow Brewery,taproom,"13800 Tech City Circle, Suite 100",,,Alachua,Florida,32615,United States,3528713930,http://www.daftcowbrewery.com,-82.532,29.7619
 96602876-0631-4e93-ae60-25bfaac0a6ae,Dangerous Minds Brewing Co,planning,,,,Pompano Beach,Florida,33062,United States,9549181698,https://dangerousmindsbrewing.com/,,
+36eaa6d4-14d5-4628-b59d-04deb601d194,Dangerous Minds Brewing Co,brewpub,1901 N Federal Hwy,,,Pompano Beach,Florida,33062-1000,United States,9549181698,http://dangerousmindsbrewing.com,-80.100496,26.255464
 57e52f8c-6b7f-4a55-83f1-203e2faa7f60,Darwin Brewing Co,micro,803 17th Ave W,,,Bradenton,Florida,34205-7608,United States,9417471970,http://www.darwinbrewingco.com,-82.57040458,27.48432988
 4fe3ec65-0606-43e6-9eeb-33151ac9ce76,Daytona Beach Brewing Company,micro,482 Fentress Blvd Ste N,,,Daytona Beach,Florida,32114-1298,United States,3866792337,http://www.daytonabeachbrewingcompany.com,,
-59f9f6fc-ea91-4fb3-9445-2f21156b1e6d,De Bine Brewing Company,micro,993 Florida Ave,,,Palm Harbor,Florida,34683-4224,United States,7272337964,http://www.debinebrewingco.com,-82.76761678,28.07847685
-53b24a8d-eb78-4361-8cf8-c060925d2f73,Dead Lizard Brewing Company,micro,4507 36th St Ste C,,,Orlando,Florida,32811-6520,United States,4077108949,http://www.deadlizardbrewing.com,,
+59f9f6fc-ea91-4fb3-9445-2f21156b1e6d,De Bine Brewing Company,micro,993 Florida Ave,,,Palm Harbor,Florida,34683-4224,United States,7272337964,http://www.debinebrewingco.com,-82.767689,28.078383
+53b24a8d-eb78-4361-8cf8-c060925d2f73,Dead Lizard Brewing Company,brewpub,4507 36th St Ste C,,,Orlando,Florida,32811-6520,United States,4077108949,http://www.deadlizardbrewing.com,-81.436322,28.50299
 c6c9841a-2199-4cf7-9892-4fcaa46d7fa1,Deadly Sins Brewing,micro,750 Jackson Ave Ste 102,,,Winter Park,Florida,32789-4673,United States,4079008726,http://www.deadlysinsbrewing.com,,
+758e251c-e472-4920-a5aa-0f872869bb22,Deadwords Brewing Co.,taproom,23 N Orange Blossom Trl,,,Orlando,Florida,32805,United States,,http://www.deadwords.com,-81.396693,28.542883
 60e1a83a-3b06-4d02-aef9-7e1ae7e9feec,Deep Brewing Company,micro,2524 Cathay Ct STE 2,,,Tallahassee,Florida,32308-4248,United States,8505701478,http://www.deepbrewing.com,,
+076c4f9d-fe35-4fe4-aa15-b601230fb405,Deep Brewing Company,taproom,2524 Cathay Ct,,,Tallahassee,Florida,32308-4248,United States,8505701478,http://www.deepbrewing.com,-84.226779,30.488899
 a3f25ad0-001b-4e6b-8dd3-cbcbd0962654,Dees Brothers Brewery,planning,,,,Orlando,Florida,32807-1633,United States,4072575104,http://www.deesbrosbrew.com,,
+2d052f47-e5af-476f-adc9-59fb3cd9c33a,Dees Brothers Brewery,brewpub,210 Magnolia Ave,,,Sanford,Florida,32771,United States,4077324008,http://www.deesbrosbrew.com,-81.267297,28.810353
 6d646324-bf6f-49c8-b9d9-e2d2cf508e2f,Department Coffee,contract,1940 N 30th Rd,,,Hollywood,Florida,33021-4401,United States,3235382955,http://www.depatmentcoffee.com,-80.16836199,26.02618324
-89e47f0f-7710-4478-ac7e-ddb8268e7897,Destin Brewery,micro,505 Mountain Dr Ste N,,,Destin,Florida,32541-7334,United States,,http://www.destinbrewery.com,,
-7ff0b266-a8d0-423a-a831-2df0fca90a5a,Deviant Wolfe Brewing,micro,121 W 1st St,,,Sanford,Florida,32771-1201,United States,4078786239,http://www.facebook.com/DeviantWolfeBrewing,,
+89e47f0f-7710-4478-ac7e-ddb8268e7897,Destin Brewery,micro,505 Mountain Dr Ste N,,,Destin,Florida,32541-7334,United States,8508424757,http://www.destinbrewery.com,-86.498637,30.394624
+7ff0b266-a8d0-423a-a831-2df0fca90a5a,Deviant Wolfe Brewing,taproom,121 W 1st St,,,Sanford,Florida,32771-1201,United States,4078784367,http://www.deviantwolfebrewing.com,-81.268681,28.811462
 82606c09-9315-47f5-9754-5149dc8a1205,Devour Brewing Co,micro,1500 SW 30th Ave Ste 4,,,Boynton Beach,Florida,33426-9044,United States,5618066011,http://www.devourbrewing.com,,
-77fc61b5-b1e7-4ee3-a28c-823a3de62365,Dirty Oar Beer Company,micro,329 W King St,,,Cocoa,Florida,32922-4607,United States,,http://dirtyoarbeercompany.com/,-80.7473064,28.355795
-b67ada4b-9179-4e79-ba2f-70d956f0af1c,"Dissent Craft Brewing Company, LLC",micro,5518 Haines Rd N,,,Saint Petersburg,Florida,33714-1999,United States,7273420255,http://www.dissentcraftbrewing.com,-82.66998676,27.82225781
-f4b8dca8-d143-4ec1-ad09-9bc6426723be,Dixie Grill & Brewery,brewpub,5101 South Dixie Highway,,,West Palm Beach,Florida,33405,United States,5615863189,,-80.055437,26.667349
-fe4c36a3-d900-46b0-b445-a4f951b9f7e2,Dog Rose Brewing Company,micro,77 Bridge St,,,Saint Augustine,Florida,32084-4335,United States,9042173355,http://www.dogrosebrewing.com,-81.31306668,29.88948146
+77fc61b5-b1e7-4ee3-a28c-823a3de62365,Dirty Oar Beer Company,taproom,329 W King St,,,Cocoa,Florida,32922-4607,United States,,http://http://dirtyoarbeercompany.com/,-80.728829,28.355553
+ce180dcf-402a-4247-a27b-fde3cc5aefa7,Disco Witch Brewing,taproom,464073 State Road 200,,,Yulee,Florida,32097,United States,2392484540,http://Www.discowitchbrewing.com,-81.528099,30.621613
+bbb2ed45-40f2-4c36-ad9a-03318a4670b9,Dissent Craft Brewing - Lakeland,taproom,125 S Kentucky Ave,,,Lakeland,Florida,33801,United States,,,-81.955456,28.043176
+b67ada4b-9179-4e79-ba2f-70d956f0af1c,"Dissent Craft Brewing Company, LLC",taproom,5518 Haines Rd N,,,Saint Petersburg,Florida,33714-1999,United States,7273420255,http://www.dissentcraftbrewing.com,-82.670387,27.822612
+f4b8dca8-d143-4ec1-ad09-9bc6426723be,Dixie Grill & Brewery,brewpub,5101 South Dixie Highway,,,West Palm Beach,Florida,33405,United States,5615863189,,-80.055607,26.667341
+fe4c36a3-d900-46b0-b445-a4f951b9f7e2,Dog Rose Brewing Company,micro,77 Bridge St,,,Saint Augustine,Florida,32084-4335,United States,9042173355,http://www.dogrosebrewing.com,-81.313765,29.888928
+74adb2f4-6303-4bd1-ae23-2efdb80e63c5,Double Branch Brewing & Bites,brewpub,5956 Wesley Grove Blvd.,,,Wesley Chapel,Florida,33544,United States,8134928800,http://www.dbaa.com,-82.351813,28.242879
+d72bc09e-acc7-4f31-99c9-346fa857018d,Dream State Brewing,micro,115 Northwest 6th Street,,,Fort Lauderdale,Florida,33311,United States,,http://dream-state-brewing.ueniweb.com,-80.145417,26.129975
 b62722b0-6f7f-4a83-9330-ca1a8942d118,Due South Brewing Co,micro,2900 High Ridge Rd Ste 3,,,Boynton Beach,Florida,33426-8708,United States,5614632337,http://www.duesouthales.com,,
+e5738257-4332-45c3-8bb1-874d9ec03286,Dunedin Brewery,brewpub,937 Douglas Ave,,,Dunedin,Florida,34698-4945,United States,7277360606,http://www.dunedinbrewery.com,-82.787639,28.013991
 715cad58-79ad-4a69-bf61-b5cf15fdfe67,Dunedin Brewery & Public House,brewpub,937 Douglas Ave,,,Dunedin,Florida,34698-4945,United States,7277360606,http://www.dunedinbrewery.com,-82.78782561,28.01418231
 10e6848c-4cbb-4d37-b56e-7bddea848778,Dunedin Brewery Production Facility,planning,,,,Dunedin,Florida,34698-5061,United States,,,,
-c136997e-054a-4163-a60f-00aaaa91633a,Ellipsis Brewing,micro,7500 Tpc Blvd Ste 8,,,Orlando,Florida,32822-5181,United States,4072505848,,,
+ce4fca68-d81f-4702-9c7d-e94cf86adceb,Dunes Brewing,taproom,59 Dunlawton Ave,,,Port Orange,Florida,32176,United States,3862958076,http://www.dunesbrewing.com,-80.972649,29.150074
+a2d72abb-52f0-48bf-b2d3-369a677c6443,Eastpoint Beer Company,brewpub,374 US-98,,,Eastpoint,Florida,32328,United States,8508155185,,-84.877687,29.736661
+73b42f51-c1d8-415b-bf6b-ba00139b2636,"Eight-Foot Brewing, LLC",brewpub,"4417 SE 16th PL., Unit 11",,,Cape Coral,Florida,33904,United States,2399842679,http://www.eightfootbrewing.com,-81.942179,26.56975
+c136997e-054a-4163-a60f-00aaaa91633a,Ellipsis Brewing,micro,7500 Tpc Blvd Ste 8,,,Orlando,Florida,32822-5181,United States,4072505848,http://www.ellipsisbrewing.com,-81.296183,28.456331
+dedd2a3b-48d1-4204-bc6d-9c2a0e0e0e61,Emerald Republic Brewing,taproom,1414 W Government St,,,Pensacola,Florida,32502,United States,9726934502,http://www.emeraldrepublicbrewing.com,-87.233324,30.407687
 f5b03217-9e4c-4cb2-9b10-5d983f8bd811,Engine 15 Brewing Company,micro,633 N Myrtle Ave,,,Jacksonville,Florida,32204-1319,United States,9045519429,http://www.engine15.com,,
-6e65e1de-6602-4580-a801-140ca2430354,Engine 15 Brewing Company,brewpub,1500 Beach Blvd Ste 217,,,Jacksonville Beach,Florida,32250-2624,United States,9042492337,http://www.engine15.com,-81.3923194,30.2882669
+6e65e1de-6602-4580-a801-140ca2430354,Engine 15 Brewing Company,brewpub,1500 Beach Blvd Ste 217,,,Jacksonville Beach,Florida,32250-2624,United States,9042492337,http://www.engine15.com,-81.407727,30.287598
+2c547a3f-0247-4022-82ef-266887804a71,Epoca Brewing,taproom,12355 NE 13th Ave Ste 108,,,North Miami,Florida,33161-5973,United States,,http://www.epocabrewing.com,-80.171949,25.889407
 d9942ca7-6ba7-4f64-90de-73796afe5851,Escape Brewing Company,micro,9945 Trinity Blvd Ste 108,,,Trinity,Florida,34655-4552,United States,7276393820,http://www.escapebrewingcompany.com,-82.65284391,28.18036575
+1d6ef21e-5fb0-4379-9075-7e775a044b48,Escape Brewing Company,taproom,10553 Pontofino Cir,,,New Port Richey,Florida,34655,United States,7276393820,http://www.escapebrewingcompany.com,-82.644664,28.177078
+46a2d357-c1dc-48fc-956d-081e400ad93e,Est.33 Thai Craft Brewery & Kitchen,brewpub,701 S Miami Ave,,,Miami,Florida,33131,United States,3054259266,http://www.est33.us,-80.192532,25.766897
 e82ab4e0-4615-4ab0-b7f5-8d5b75839bb7,"Fantasy Brewmasters, LLC",contract,5825 Dogwood Way,,,Naples,Florida,34116-4909,United States,2392063247,,,
 14dd447c-9aa5-4fd8-bdd0-f8febf45176c,Fat Point Brewing,micro,611 Charlotte St,,,Punta Gorda,Florida,33950-4115,United States,8003807405,http://www.fatpoint.com,,
-e5cb89b8-c9c7-4947-a825-9371002a12a0,First Flight Island Restaurant & Brewery,brewpub,301 Whitehead St,,,Key West,Florida,33040-6542,United States,,http://firstflightkw.com,-81.805413,24.557321
-5654c809-0b29-49f0-855f-7ea45be8d8c0,First Magnitude Brewing Company,micro,1220 SE Veitch St,,,Gainesville,Florida,32601-7917,United States,3527274677,http://www.fmbrewing.com,-82.32429908,29.63983022
+e5cb89b8-c9c7-4947-a825-9371002a12a0,First Flight Island Restaurant & Brewery,brewpub,301 Whitehead St,,,Key West,Florida,33040-6542,United States,,http://www.firstflightkw.com,-81.805266,24.557332
+5654c809-0b29-49f0-855f-7ea45be8d8c0,First Magnitude Brewing Company,micro,1220 SE Veitch St,,,Gainesville,Florida,32601-7917,United States,3527274677,http://www.fmbrewing.com,-82.325043,29.639181
 9fbea2d8-57b9-4b17-bb19-01a96485e0d3,Fishale Taphouse and Grill,brewpub,7715 Front Beach Rd,,,Panama City Beach,Florida,32407-4813,United States,8506401410,,-85.7855375,30.1823237
+ab39ca71-4e78-4c59-b4c4-4b4c14ea2c0a,Fishweir Brewing Company,taproom,1183 Edgewood Ave S,,,Jacksonville,Florida,32205,United States,8435925217,http://www.fishweirbrewing.com,-81.713486,30.308699
+fba649bf-39b0-4f79-8dda-57727a71ec7c,Five Branches Brewing,taproom,531 Athens St,,,Tarpon Springs,Florida,34689,United States,7274839122,http://www.fivebranchesbrewing.com,-82.760545,28.154536
+efcdcfd3-6706-4c3f-b25d-840b32d59382,Florida Avenue Brewing Co.,micro,2029 Arrowgrass Drive,,,Wesley Chapel,Florida,33544,United States,8139907310,http://floridaavebrewing.com,-82.3674,28.186338
+a9bb6925-5355-44eb-a7e7-a6865336b579,Florida Avenue Brewing Co.,micro,2029 Arrowgrass Drive,,,Wesley Chapel,Florida,33544,United States,8139907310,http://floridaavebrewing.com,-82.3674,28.186338
 4748ee56-1199-47ee-87c2-2d9d9250885f,Florida Beer Co,regional,200 Imperial Blvd,,,Cape Canaveral,Florida,32920-4245,United States,3217284114,http://www.floridabeer.com,-80.611259,28.398461
 3f4ffaca-b98e-4ebf-b3f2-35b218ad9f51,Florida Keys Brewing Co.,micro,,,,Islamorada,Florida,33036,United States,,http://www.floridakeysbrewingco.com,,
+f86678e1-6640-416e-a842-5824d99bbbeb,Florida Keys Brewing Co.,micro,200 Morada Way,,,Islamorada,Florida,33036,United States,3059165206,http://www.floridakeysbrewingco.com,-80.637043,24.914614
+3250e00d-3bad-4acc-93e7-959d31664124,Florida Keys Brewing Co. Taproom,taproom,81611 Old Highway,,,Islamorada,Florida,33036,United States,3059165206,,-80.637478,24.915469
 f8575860-7e83-4dee-9625-b2819c053973,Flying Boat Brewing Company,micro,1776 11th Ave N,,,St Petersburg,Florida,33713-5747,United States,7278002999,http://www.flyingboatbrewing.com,-82.65719969,27.78284571
+6fce9f76-f613-4654-b32e-1c22994ee157,Focal Brewing Company,micro,7235 NE 4th Ave,,,Miami,Florida,33138-5315,United States,3053635166,http://www.focalbrewing.com,-80.189154,25.841539
+eb2cb5c7-ff42-47c8-b8e2-af3fd8423289,Fools Fire Brewing Company,brewpub,415 Saint Francis Street,,,Tallahassee,Florida,32301-2201,United States,8507274033,http://www.foolsfire.com,-84.286642,30.433989
 c1e03ca4-dfa7-4723-8028-dd86467e3226,Fools Fire Brewing Company At Fermentation Lounge,brewpub,415 Saint Francis Street Unit 112,,,Tallahassee,Florida,32301-2201,United States,8507274033,http://www.foolsfire.com,,
-26232dc1-e177-4342-a9ae-58da4d2d223c,Fort Myers Brewing,micro,12811 Commerce Lakes Dr Ste 28,,,Fort Myers,Florida,33913-8649,United States,9162343332,,-81.7619411,26.5611037
-b2e2278e-68fc-4b7d-a86f-c4db12787c21,Four Stacks Brewing,micro,5469 N US Highway 41,,,Apollo Beach,Florida,33572-3505,United States,8136412036,http://fourstacksbrewing.com,,
+26232dc1-e177-4342-a9ae-58da4d2d223c,Fort Myers Brewing Co,micro,12811 Commerce Lakes Dr Ste 28,,,Fort Myers,Florida,33913-8649,United States,2392229909,http://www.fmbrew.com,-81.743281,26.562062
+b2e2278e-68fc-4b7d-a86f-c4db12787c21,Four Stacks Brewing,taproom,5469 N US Highway 41,,,Apollo Beach,Florida,33572-3505,United States,8136412036,http://fourstacksbrewing.com,-82.41408,27.747259
+26f97373-159a-4a51-a81b-be2fb33f138f,Frazier Creek Brewing and Distilling Co.,micro,973 SE Federal Hwy,,,Stuart,Florida,34994-3702,United States,7729057184,,-80.250447,27.190117
 db4e37ae-8228-440a-86a5-d02f08b1ea29,Funky Buddha Brewery,large,1201 NE 38th St Ste A1 Bay A1,,,Oakland Park,Florida,33334-4504,United States,9544400046,http://www.thefunkybuddha.com,,
+738cbbca-5135-4105-9421-b93e9e83b474,Funky Buddha Brewery,beer brand,"1201 NE 38th St
+A1",,,Oakland Park,Florida,33334,United States,2392934073,,-80.1344,26.182
 eb8b179b-3811-4755-b2c4-7516b49de2dc,Funky Buddha Lounge & Brewery,large,2621 N Federal Hwy,,,Boca Raton,Florida,33431-7785,United States,5613684643,http://www.thefunkybuddha.com,-80.0805397,26.3640441
-4a3268b5-c896-462f-9567-57a490d77f22,Goat Lips Chew and Brewhouse / Redneck Riviera Brewing,brewpub,2811 Copter Rd,,,Pensacola,Florida,32514-7606,United States,8504741919,http://www.goatlips.com,,
+7e8a09f6-74ea-400e-866a-c7b55a8a7d03,Gary's Brewery & Biergarten,brewpub,208 Newman Ave,,,Pensacola,Florida,32507,United States,8597232739,http://www.garysbrew.com,-87.319269,30.375105
+9bdf6209-4c8a-4fa1-bad1-78f7eb1fb053,Gatlin Hall Brewing,brewpub,4721 S Orange Ave,,,Orlando,Florida,32806,United States,3366082306,http://gatlinhallbrewing.com,-81.3748,28.494852
+4a3268b5-c896-462f-9567-57a490d77f22,Goat Lips Chew and Brewhouse / Redneck Riviera Brewing,brewpub,2811 Copter Rd,,,Pensacola,Florida,32514-7606,United States,8504741919,http://www.goatlips.com,-87.204801,30.528318
 1df544e7-9d2b-4bc8-a9a0-a57d1baf058d,Good Liquid Brewing Company,micro,4824 14th St W,,,Bradenton,Florida,34207-2017,United States,9418966381,http://www.thegoodliquidbrewing.com,-82.575274,27.470805
+dc0d0234-a998-4259-9841-f51bc8903539,Good Liquid Brewing Company,micro,1570 Lakefront Dr,,,Sarasota,Florida,34240,United States,9418966381,http://www.thegoodliquidbrewing.com,-82.3997,27.3353
 1798b840-e915-4e64-a1ca-ac81a0bb8c84,Grasslands Brewing Co,micro,603 W Gaines St Ste 7,,,Tallahassee,Florida,32304-4447,United States,8507653014,http://www.grasslandsbrewery.com,,
-8e531fdc-43a7-4783-a070-546bd56b250d,Gravity Brewlab,contract,1521 Alton Rd # 591,,,Miami Beach,Florida,33139-3301,United States,7865367085,http://www.Gravity.beer,,
-b560642e-b3a4-4ec9-9a71-00fb884ee623,Grayton Beer Brewpub,brewpub,217 Serenoa Rd,,,Santa Rosa Beach,Florida,32459-6099,United States,8502314786,,,
-e19d6c20-0f5a-4b68-859f-ad96654840f2,Grayton Beer Company,micro,217 Serenoa Rd,,,Santa Rosa Beach,Florida,32459-6099,United States,8502314786,http://www.graytonbeer.com,,
-dc3e008a-2387-4aea-addd-c05a1049ee89,Great Chicago Fire Brewery and Tap Room,brewpub,311 W Magnolia St,,,Leesburg,Florida,34748-5894,United States,3524742739,http://www.chifibrew.com,-81.8767662,28.81023951
-b77b713c-c91c-4c44-8dc2-13148b04edee,Green Bench Brewing Co,micro,1133 Baum Ave N,,,Saint Petersburg,Florida,33705-1555,United States,7278007836,http://www.greenbenchbrewing.com,-82.65067185,27.7717121
-6e0bab8b-6adc-4584-b6d1-927c9379fdd6,Green Room Brewing,micro,228 3rd St N,,,Jacksonville Beach,Florida,32250-6935,United States,9042019283,http://www.greenroombrewing.com,-81.39230143,30.29033471
-6bfe06c9-8741-41b9-b22a-b7a13d649a03,Grindhaus Brew Lab,micro,1650 N Hercules Ave Ste I,,,Clearwater,Florida,33765-1969,United States,7272400804,http://www.grindhausbrewlab.com,,
+8e531fdc-43a7-4783-a070-546bd56b250d,Gravity Brewlab,alt prop,1521 Alton Rd # 591,,,Miami Beach,Florida,33139-3301,United States,7865367085,http://www.Gravity.beer,-80.140932,25.788058
+b560642e-b3a4-4ec9-9a71-00fb884ee623,Grayton Beer Brewpub,brewpub,170 E. Hwy 30A,,,Santa Rosa Beach,Florida,32459,United States,8502314786,,-86.164073,30.336327
+980f61af-3fed-444e-aee1-b14c049eac74,Grayton Beer Brewpub,brewpub,170 E. Hwy 30A,,,Santa Rosa Beach,Florida,32459,United States,8502314786,,-86.164073,30.336327
+e19d6c20-0f5a-4b68-859f-ad96654840f2,Grayton Beer Company,micro,217 Serenoa Rd,,,Santa Rosa Beach,Florida,32459-6099,United States,8502314786,http://www.graytonbeer.com,-86.067504,30.342217
+dc3e008a-2387-4aea-addd-c05a1049ee89,Great Chicago Fire Brewery and Tap Room,taproom,311 W Magnolia St,,,Leesburg,Florida,34748-5894,United States,3524742739,http://www.chifibrew.com,-81.876816,28.810121
+b77b713c-c91c-4c44-8dc2-13148b04edee,Green Bench Brewing Co,micro,1133 Baum Ave N,,,Saint Petersburg,Florida,33705-1555,United States,7278009836,http://www.greenbenchbrewing.com,-82.650655,27.771711
+6e0bab8b-6adc-4584-b6d1-927c9379fdd6,Green Room Brewing,taproom,228 3rd St N,,,Jacksonville Beach,Florida,32250-6935,United States,9042019283,http://www.greenroombrewing.com,-81.392609,30.290711
+6bfe06c9-8741-41b9-b22a-b7a13d649a03,Grindhaus Brew Lab,taproom,1650 N Hercules Ave Ste I,,,Clearwater,Florida,33765-1969,United States,7272400804,http://www.grindhausbrewlab.com,-82.754752,27.981254
 2bd11bd2-132f-46f8-8e0b-5d3ddb3d2db8,Grove Roots Brewing,micro,302 3rd St SW,,,Winter Haven,Florida,33880-3409,United States,8632910700,http://www.groveroots.com,-81.73049326,28.01977247
-ed040add-786c-4758-b42a-1ab876837de7,Gulf Coast Brewery LLC,micro,500 E Heinberg St,,,Pensacola,Florida,32502-4145,United States,8506962335,http://www.gulfcoastbrewery.net,-87.20552274,30.41799103
+ed040add-786c-4758-b42a-1ab876837de7,Gulf Coast Brewery LLC,taproom,500 E Heinberg St,,,Pensacola,Florida,32502-4145,United States,5127994644,http://www.gulfcoastbrewery.net,-87.204179,30.41843
 b096f2f3-c941-418e-9011-f613fecdcd1a,Gulf Stream Brewing,planning,,,,Fort Lauderdale,Florida,33304-1802,United States,9547664842,http://www.gulfstreambeer.com,,
-545394a7-58c6-4c11-92a8-c9218ebc82c7,Half Barrel Beer Project,brewpub,9650 Universal Blvd Ste 143,,,Orlando,Florida,32819-9383,United States,4072033946,http://www.halfbarrelproject.com,-81.46606722,28.43441073
+d5ba9299-49b3-4ca2-ac3a-1d95bf7ed168,Gulf Stream Brewing Company,taproom,1105 NE 13th St,,,Fort Lauderdale,Florida,33304,United States,3606065929,http://www.gulfstreambeer.com,-80.132319,26.142774
+3d2d7ef7-4e4b-432a-9118-85f23d816cf4,"Gulf Stream Brewing Company, LLC",micro,1105 NE 13th Street,,,Fort Lauderdale,Florida,33304,United States,9547864842,http://www.gulfstreambeer.com,-80.132319,26.142774
+80aa0a95-6b4a-4aba-a150-6a1a5719d9ec,Gulfport Brewery + Eatery,taproom,3007 Beach Blvd S,,,Gulfport,Florida,33707,United States,,http://www.gulfport-brewing.com,-82.708122,27.739986
+545394a7-58c6-4c11-92a8-c9218ebc82c7,Half Barrel Beer Project,brewpub,9650 Universal Blvd Ste 143,,,Orlando,Florida,32819-9383,United States,4072033946,http://www.halfbarrelproject.com,-81.449335,28.430945
 abf50e49-2787-4478-851f-366154085942,Half Wall Brewery,micro,1887 SR 44,,,New Smyrna Beach,Florida,32168,United States,3864268410,http://www.halfwallbrewery.com,,
-19fb8b9c-9a8e-4ed9-a5cb-ce00e818265e,Halpatter Brewing Company,micro,264 NE Hernando Ave,,,Lake City,Florida,32055-4012,United States,3864388788,http://www.halpatterbrewing.com,-82.63654594,30.19050388
-78e2bb06-6b67-42c1-9b8e-9df4c67ac224,Hell 'n Blazes Brewing Company,micro,1002 E New Haven Ave,,,Melbourne,Florida,32901-5437,United States,3218214052,http://www.HellnBlazesBrewing.com,-80.60455067,28.07835245
-457de2b4-b8fd-4821-8f97-38dd0e27bc37,Hidden Springs Ale Works,micro,1631 N Franklin St,,,Tampa,Florida,33602-2621,United States,8132262739,http://www.Hiddenspringsaleworks.com,-82.46008537,27.95878231
-433e1570-3f51-45bb-89c7-20483a0c39f2,Hollywood Brewing Co,micro,3410 N 29th Ave,,,Hollywood,Florida,33020-1002,United States,3054144757,http://www.hollywood.beer,-80.1658845,26.0405657
-7d85c9fb-d831-46a4-8a3b-42757806fa84,Hollywood Brewing Co,brewpub,290 N Broadwalk,,,Hollywood,Florida,33019-1787,United States,9546749674,http://www.hollywood.beer,,
+79e9e59b-e943-4b3a-ab0b-a72501845feb,Half Wall Brewery,brewpub,1887 SR 44,,,New Smyrna Beach,Florida,32168,United States,3864268410,http://www.halfwallbrewery.com,-80.945125,29.01394
+19fb8b9c-9a8e-4ed9-a5cb-ce00e818265e,Halpatter Brewing Company,brewpub,264 NE Hernando Ave,,,Lake City,Florida,32055-4012,United States,3864388788,http://www.halpatterbrewing.com,-82.636613,30.191705
+78e2bb06-6b67-42c1-9b8e-9df4c67ac224,Hell 'n Blazes Brewing Company,brewpub,1002 E New Haven Ave,,,Melbourne,Florida,32901-5437,United States,3218214052,http://www.HellnBlazesBrewing.com,-80.604282,28.078729
+ef80dc6a-9fa7-49ed-8875-2e1904eb9c2d,Hiatus Brewing Company,brewpub,6230 SW Hwy 200,,,Ocala,Florida,34476,United States,3525094867,http://www.hiatusbrewing.com,-82.222429,29.113089
+457de2b4-b8fd-4821-8f97-38dd0e27bc37,Hidden Springs Ale Works,micro,1631 N Franklin St,,,Tampa,Florida,33602-2621,United States,8132262739,http://www.Hiddenspringsaleworks.com,-82.459937,27.959293
+f31aa2d5-22b2-4641-a12b-e6b7f619763d,High Springs Brewing Company,taproom,18562 NW 237th St,,,High Springs,Florida,32643,United States,3862328756,http://www.highspringsbrewing.com,-82.59842,29.826886
+d2fced93-325a-405a-9e25-150130246926,Historically Hoppy Brewing Co.,taproom,1636 N Main St,,,Jacksonville,Florida,32206,United States,,http://historicallyhoppy.com,-81.654546,30.343932
+17940d70-b9d1-4626-ab57-1f3e793218a7,HOB Brewing Company/Dunedin House of Beer,taproom,931 Huntley,,,Dunedin,Florida,34698,United States,7274532479,http://www.dunedinhob.com,-82.789052,28.0145
+433e1570-3f51-45bb-89c7-20483a0c39f2,Hollywood Brewing Co,micro,3410 N 29th Ave,,,Hollywood,Florida,33020-1002,United States,3054144757,http://www.hollywood.beer,-80.16605,26.040126
+7d85c9fb-d831-46a4-8a3b-42757806fa84,Hollywood Brewing Co,brewpub,290 N Broadwalk,,,Hollywood,Florida,33019-1787,United States,9546749674,http://www.hollywood.beer,-80.115557,26.013112
 0944f429-a668-487b-b20d-76be91da063a,Holy Mackerel Small Batch Beers,micro,3260 NW 23rd Ave Ste 400E,,,Pompano Beach,Florida,33069-5937,United States,9545320196,http://www.holymackerelbeers.com,,
+f5cbc2c3-a88c-4770-9c33-b24b6d848e1f,Holy Mackerel Small Batch Beers,brewpub,1414 NE 26th St,,,Wilton Manors,Florida,33305,United States,9543063458,http://www.holymackerelbeers.com,-80.129702,26.158933
 98818832-60ab-466d-b0b9-578677d6fc5e,HopLife Brewing Company,micro,679 NW Enterprise Dr,,,Port Saint Lucie,Florida,34986-2253,United States,7725280037,,-80.40865001,27.3298823
-9ce8a190-c62a-40bd-826d-858a51c4f700,Hourglass Brewing,micro,480 S Ronald Reagan Blvd Ste 1020,,,Longwood,Florida,32750-5498,United States,4072620056,http://www.HourglassBrewing.com,-81.3450528,28.70366681
-6e978e0d-a64e-42de-9c9d-d04b5da5b021,Hyperion Brewing,micro,1740 N Main St,,,Jacksonville,Florida,32206-4404,United States,9045185131,http://www.hyperionbrewing.com,,
+3c870e28-61a9-4fd9-b501-2a4fde9e62f2,Hopsized Brewing Company,taproom,9201 Cockleshell Court • Ste 13,,,Bonita Springs,Florida,34135,United States,,http://www.hopsizedbrewing.com,-81.787552,26.362714
+9ce8a190-c62a-40bd-826d-858a51c4f700,Hourglass Brewing,taproom,480 S Ronald Reagan Blvd Ste 1020,,,Longwood,Florida,32750-5498,United States,4072620056,http://www.HourglassBrewing.com,-81.346862,28.692376
+820e01a0-f657-4a77-a2d5-b6f3fd348989,Hyderhead Brewery,taproom,142 W Georgia Ave,,,Deland,Florida,32720,United States,3867387410,http://www.hyderheadbrewery.com,-81.305292,29.027024
+6e978e0d-a64e-42de-9c9d-d04b5da5b021,Hyperion Brewing,taproom,1740 N Main St,,,Jacksonville,Florida,32206-4404,United States,9045185131,http://www.hyperionbrewing.com,-81.654371,30.345406
 ad71e208-40a4-4f53-b3a5-a92df88d83f7,IBC Brewery & Tasting Room,micro,3200 St Lucie Blvd,,,Fort Pierce,Florida,34946-6761,United States,3055089093,,,
-203fa65b-62d0-4e3c-bd62-48e06b9fb22f,Idyll Hounds Brewing Company,micro,845 Serenoa Rd,,,Santa Rosa Beach,Florida,32459-5019,United States,,,,
-2c4ebd88-700d-4707-bd5f-af7dcb121f75,In the Loop Brewing,micro,3338 Land O Lakes Blvd,,,Land O Lakes,Florida,34639-4408,United States,8139979189,http://www.intheloopbrewingcompany.com,-82.46279799,28.20530858
+203fa65b-62d0-4e3c-bd62-48e06b9fb22f,Idyll Hounds Brewing Company,micro,845 Serenoa Rd,,,Santa Rosa Beach,Florida,32459-5019,United States,8502311138,,-86.065227,30.349376
+b1539bd6-9343-4539-a12d-d4fd2fcea26f,If I Brewed the World Brewery,taproom,2200 1st Ave S,,,Saint Petersburg,Florida,33712,United States,7272014484,http://www.ifibrewedtheworld.com,-82.663235,27.769862
+2c4ebd88-700d-4707-bd5f-af7dcb121f75,In the Loop Brewing,taproom,3338 Land O Lakes Blvd,,,Land O Lakes,Florida,34639-4408,United States,8139979189,http://www.intheloopbrewingcompany.com,-82.461481,28.206419
 c169996a-d5d7-4499-b868-ca921a80d2a6,Infinite Ale Works,micro,304 S Magnolia Ave,,,Ocala,Florida,34471-1158,United States,3525726083,http://InfiniteAleWorks.com,-82.1362315,29.1244956
 64aa273d-2bdc-4bc8-a501-99905a1d070d,Infusion Brewing Company of Trinity,micro,7813 Mitchell Blvd,,,New Port Richey,Florida,34655-4723,United States,7273124512,,,
-de007555-83ec-4b44-b54c-32c0befded7d,Inlet Brewing Co,proprietor,4448 Nicole Cir,,,Jupiter,Florida,33469,United States,5613390004,http://www.inletbrewingco.com,-80.10011389,26.96003048
+36a112af-30b0-40a7-a45d-102990eb61af,Infusion Brewing Company of Trinity,taproom,6345 Grand Blvd,,,New Port Richey,Florida,34652,United States,7273124512,http://www.infusionbrewingcompany.com,-82.720162,28.250816
+a9ffb8d4-9997-44cc-9342-f5ef39d9534d,Ink Factory Brewing,taproom,602 Shetter Ave,,,Jacksonville Beach,Florida,32250,United States,9043955628,http://www.inkfactorybrewing.com,-81.395281,30.287304
+de007555-83ec-4b44-b54c-32c0befded7d,Inlet Brewing Co,alt prop,4448 Nicole Cir,,,Jupiter,Florida,33469,United States,5613390004,http://www.inletbrewingco.com,-80.099391,26.961123
 bddf12ae-541c-4c95-8b14-0f107296582c,Inner Compass Brewing,micro,300 E 2nd St,,,Sanford,Florida,32771-1312,United States,4074071792,http://www.innercompassbrewing.com,-81.270294,28.810888
 a1740e03-084e-4970-8a36-6a2b9653a92f,Inoculum Ale Works,micro,1320 Commercial Way,,,Spring Hill,Florida,34606,United States,,http://www.inoculumaleworks.com,-82.551896,28.6060793
-c5607e29-ab4c-4475-aba5-cf5538bd7df0,Intracoastal Brewing Co.,micro,652 W Eau Gallie Blvd,,,Melbourne,Florida,32935-6509,United States,3218727395,http://www.intracoastalbrewingcompany.com,-80.7039168,28.1206522
-ce5c20ab-e826-470b-afe6-204ed343e2d8,Intuition Ale Works,micro,929 E Bay St,,,Jacksonville,Florida,32202-2307,United States,9046837720,http://www.intuitionaleworks.com,-81.64490792,30.32336192
-07439e86-ae1e-45ce-8078-2ede40215f1a,Intuition Ale Works Production Facility,micro,720 King St,,,Jacksonville,Florida,32204-3440,United States,,,-81.69702371,30.31799538
-5f3f1c30-b19d-47da-a908-2b8bafa0e6fc,Invasive Species Brewing,micro,726 NE 2nd Ave,,,Fort Lauderdale,Florida,33304-2616,United States,7546662687,http://www.invasivespeciesbrewing.com,-80.1418016,26.1298369
-d2961893-908c-48e2-b691-9f066c1306f6,Islamorada Beer Company,micro,82229 Overseas Hwy,,,Islamorada,Florida,33036-3659,United States,3055089093,http://www.islamoradabeerco.com,-80.5805987,24.9552722
+c5607e29-ab4c-4475-aba5-cf5538bd7df0,Intracoastal Brewing Company,taproom,652 W Eau Gallie Blvd,,,Melbourne,Florida,32935,United States,3218727395,http://www.intracoastalbrewingcompany.com,-80.62891,28.129867
+ce5c20ab-e826-470b-afe6-204ed343e2d8,Intuition Ale Works,micro,929 E Bay St,,,Jacksonville,Florida,32202-2307,United States,9046837720,http://www.intuitionaleworks.com,-81.644979,30.323701
+07439e86-ae1e-45ce-8078-2ede40215f1a,Intuition Ale Works Production Facility,micro,720 King St,,,Jacksonville,Florida,32204-3440,United States,,,-81.697232,30.317962
+5f3f1c30-b19d-47da-a908-2b8bafa0e6fc,Invasive Species Brewing,taproom,726 NE 2nd Ave,,,Fort Lauderdale,Florida,33304-2616,United States,7546662687,http://www.invasivespeciesbrewing.com,-80.141582,26.132527
+d2961893-908c-48e2-b691-9f066c1306f6,Islamorada Beer Company,micro,82229 Overseas Hwy,,,Islamorada,Florida,33036,United States,3055089093,http://www.islamoradabeerco.com,-80.627861,24.924037
+0855645f-623b-43a7-8936-f90b2e02c2b1,Islamorada Beer Company,micro,3200 St Lucie Blvd,,,Fort Pierce,Florida,34946-6761,United States,3055089093,,-80.357069,27.484744
 aebe9690-3051-4a17-8aa7-145c3155aa98,Island Coastal Lager,micro,3900 Frontage Rd S,,,Lakeland,Florida,33815,United States,8636987600,http://www.islandcoastallager.com,,
-34add3a8-8902-41eb-9105-7e4d107284a4,Ivanhoe Park Brewing Company,micro,1300 Alden Rd,,,Orlando,Florida,32803-1822,United States,7144254756,http://www.IvanhoeParkBrewing.com,-81.3718448,28.5631918
-1f821dd4-8c5f-4aca-af33-3989ac3f0702,J Wakefield Brewing,micro,120 NW 24th St,,,Miami,Florida,33127-4414,United States,7862547779,http://www.jwakefieldbrewing.com,-80.19752867,25.7995437
+34add3a8-8902-41eb-9105-7e4d107284a4,Ivanhoe Park Brewing Company,micro,1300 Alden Rd,,,Orlando,Florida,32803-1822,United States,7144254756,http://https://www.IvanhoeParkBrewing.com,-81.372135,28.563239
+1f821dd4-8c5f-4aca-af33-3989ac3f0702,J Wakefield Brewing,micro,120 NW 24th St,,,Miami,Florida,33127-4414,United States,7862547779,http://www.jwakefieldbrewing.com,-80.197556,25.799616
 723e9a14-cd3a-4193-908f-9c5b9eea143f,JDub's Brewing Co.,micro,1215 Mango Ave,,,Sarasota,Florida,34237-2816,United States,9419552739,http://www.jdubsbrewing.com,-82.52525823,27.34877798
+a7e2101d-a66b-4199-be0c-753af073026c,Keel Farms Agrarian Ale + Cider,micro,5210 Thonotosassa Rd,,,Plant City,Florida,33565-5700,United States,8137529100,,-82.18846,28.048628
 4abee17c-99ad-42b6-ab38-348e1ec56c19,Keen Brewing,planning,,,,Jacksonville,Florida,32204-1806,United States,9044698266,,,
+bafd675b-2c4b-4a85-a47e-c7f3df45c3a0,Kelsey City Brewing Company,taproom,720 Park Avenue,,,Lake Park,Florida,33403,United States,5614698930,http://https://www.kelseycitybrewing.com/,-80.067151,26.798493
 5f6a21d7-310c-4b7e-9448-b3443056f8c2,Khoffner Brewery LTD,micro,1110 NE 8th Avenue Bay #1,,,Fort Lauderdale,Florida,33304,United States,7547018860,http://www.khoffner.us,,
 cc49edfb-728e-44ad-a34b-187460ce8b1b,King Fox Brewery,planning,,,,Hialeah,Florida,33014-5231,United States,,,,
+0d9b71e1-c9b3-4a5d-a71c-7489d7a256d4,King Maker Brewing,taproom,720 King St,,,Jacksonville,Florida,32204,United States,3035174004,http://www.kingmakerbrewing.com,-81.697232,30.317962
+27142b3e-f6d4-45d7-afc3-a387a5cf7f8f,King State Beer,office only location,520 E Floribraska Ave,,,Tampa,Florida,33603,United States,8132212100,http://www.king-state.com,-82.454288,27.971113
+aafff4dd-182f-42fb-8a8d-0f107ec127d6,LaBelle Brewing Company,brewpub,PO Box 1710,,,Labelle,Florida,33975,United States,8283083258,http://www.labellebrewingco.com,-81.4506,26.7215
+8b59fadc-8cbf-448b-b493-f424161ff447,LaBelle Brewing Company - Production Facility,micro,540 1st Ave,,,Labelle,Florida,33935,United States,,,-81.44709,26.760646
 52953326-4295-42ce-b0aa-44b398ab9dc7,Lagerhaus Brewery & Grill,brewpub,3438 E Lake Rd,,,Palm Harbor,Florida,34685-2400,United States,7272169682,http://www.lagerhausbrewery.com,,
-ca3ec22e-8fdc-4437-9de0-d7af9e5cb382,Lake Tribe Brewing,micro,3357 Garber Dr Unit 4,,,Tallahassee,Florida,32303-1123,United States,,http://www.laketribebrewing.com,,
-6e780304-7cea-43ee-893f-74819c224a86,LauderAle,micro,3305 SE 14th Ave Bldg 4,,,Fort Lauderdale,Florida,33316-4212,United States,9546539711,http://www.lauderale.co,,
-f9268939-529c-4d4d-a76d-99b97092e6d3,Leaven Brewing Co.,micro,11238 Boyette Rd,,,Riverview,Florida,33569-8009,United States,8136777023,http://www.leavenbrewing.com,-82.31417467,27.85381371
+ca3ec22e-8fdc-4437-9de0-d7af9e5cb382,Lake Tribe Brewing,micro,3357 Garber Dr Unit 4,,,Tallahassee,Florida,32303-1123,United States,,http://www.laketribebrewing.com,-84.352458,30.465783
+6e780304-7cea-43ee-893f-74819c224a86,LauderAle,taproom,3305 SE 14th Ave Bldg 4,,,Fort Lauderdale,Florida,33316-4212,United States,9546539711,http://www.lauderale.co,-80.128485,26.083225
+0ea8d3c8-329b-4ca6-ba3e-0e24ab88c93e,Leader Brewing,micro,2350 Commerce Park Dr NE,,,Palm Bay,Florida,32905,United States,7033627969,http://www.leaderbrewing.com,-80.60059,28.050054
+f9268939-529c-4d4d-a76d-99b97092e6d3,Leaven Brewing Co.,taproom,11238 Boyette Rd,,,Riverview,Florida,33569-8009,United States,2399895899,http://www.leavenbrewing.com,-82.316725,27.853802
 aeb83fab-b449-41c6-aed0-a84b0f9abaac,Legacy Ale Works,planning,,,,Jacksonville,Florida,32258,United States,9043253195,http://www.legacyaleworks.com,,
-4c341afe-af5b-4793-abc4-c1010e3e5bb5,Legacy Caribbean Craft Brewery,micro,13416 NW 38th Ct,,,Opa Locka,Florida,33054-4506,United States,7866816572,http://Www.legacyccb.com,-80.2626834,25.8950665
+4c341afe-af5b-4793-abc4-c1010e3e5bb5,Legacy Caribbean Craft Brewery,taproom,13416 NW 38th Ct,,,Opa Locka,Florida,33054-4506,United States,7866816572,http://Www.legacyccb.com,-80.262501,25.895779
+25f9ebb9-6472-4dd3-b4a2-f553b562d6aa,Lemonstreet Brewing Co.,taproom,2100 Dennis St,,,Jacksonville,Florida,32204-1806,United States,9044698266,http://www.lemonstreetbrewing.com,-81.683795,30.329799
 5b818cb4-0d49-49b0-8ae3-ec76db9825db,Lincoln's Beard Brewing Co.,micro,7360 SW 41st St,,,Miami,Florida,33155-4504,United States,3059127390,http://lincolnsbeardbrewing.com/,-80.3143531,25.732096
 7cb2e78f-4ddc-4557-bc84-bda74063c090,Little Giant Brewery,planning,,,,Bradenton,Florida,34208-1139,United States,9419626650,,,
+efcdc486-1d1d-4038-b633-c5346ed4fce6,Little Wekiva Brewery,brewpub,"145 Wekiva Springs Road
+Suite 105",,,Longwood,Florida,32779,United States,4074031109,http://https://littlewekivabrewery.com,-81.405257,28.688522
+d114ffac-5c22-4937-8d98-da22475736cf,Lost City Brewing Company,taproom,12207 NE 13th Court,,,North Miami,Florida,33161,United States,3057819049,http://www.lostcitybrewing.com,-80.170806,25.888283
 a89dffd1-be0c-42d0-802f-c8d942e5df50,Lost Shirt Brewing Company,micro,7025 Industrial Rd Unit B,,,West Melbourne,Florida,32904-1616,United States,13214994323,http://lostshirtbrewingco@gmail.com,,
-06f29dde-6f82-4e2e-923a-6ddcaa8c61b0,M.I.A. Beer Co,micro,10400 NW 33rd St Ste 150,,,Doral,Florida,33172-5902,United States,3055675550,http://www.mia.beer,,
-244e7c7d-7e0b-4c20-bc3d-8707c7c42f34,Mad Beach Brewing,micro,12945 Village Blvd,,,Madeira Beach,Florida,33708-2656,United States,7273620008,http://www.madbeachbrewing.com,-82.7835534,27.7865945
+06f29dde-6f82-4e2e-923a-6ddcaa8c61b0,M.I.A. Beer Co,micro,10400 NW 33rd St Ste 150,,,Doral,Florida,33172-5902,United States,3059924531,http://www.mia.beer,-80.365356,25.804171
+244e7c7d-7e0b-4c20-bc3d-8707c7c42f34,Mad Beach Brewing,brewpub,12945 Village Blvd,,,Madeira Beach,Florida,33708-2656,United States,7273620008,http://www.madbeachbrewing.com,-82.782898,27.786287
+f506ed94-04c3-4826-b82e-43e225ad79a8,Magnanimous Brewing,micro,1420 N. Florida Ave,,,Tampa,Florida,33602,United States,8136000451,http://www.magnanimousbrewing.com,-82.459641,27.957466
+d406164c-e715-4287-8488-85f298109684,Magnanimous Brewing,taproom,803 17th Ave W,,,Bradenton,Florida,34205,United States,8136000451,,-82.57027,27.483943
 19800ec6-9709-45e5-a934-cd0b322a0649,Main & Six Brewing Company,micro,1636 N Main St,,,Jacksonville,Florida,32206-4402,United States,9046730144,,,
-1cf8e00c-e42d-428a-8be5-d8fdfeccc21e,Marker 48 Brewing LLC,micro,12147 Cortez Blvd,,,Brooksville,Florida,34613-5551,United States,3526062509,http://www.marker48.com,-82.4012824,28.5396995
-6eda5cd6-c8c7-4297-bd3f-b3e9aa2013a0,Mash Monkeys Brewing Company,micro,920 U.S. Highway 1 Unit 1,,,Sebastian,Florida,32958,United States,7725716283,http://Www.mashmonkeysbrewing.com,,
-95ace274-f4ca-4490-a5f3-0f5e68930f84,Mastry's Brewing Co,micro,7701 Blind Pass Rd,,,St Pete Beach,Florida,33706-1726,United States,7272028045,http://www.mastrysbrewingco.com,-82.751357,27.74434
-1dba5e88-52ec-4d47-a3aa-9d955b4374ea,Mathews Brewing Company,micro,130 S H St,,,Lake Worth,Florida,33460-4431,United States,5618123738,http://www.mathewsbrewingcompany.com,-80.05819245,26.6136144
-8df1dd63-af4f-4173-805a-3c1c22a4df2d,McGuire's Irish Pub and Brewery - Destin,brewpub,33 Highway 98 E,,,Destin,Florida,32541-2309,United States,8506540567,http://www.mcguiresirishpub.com,,
-b29d754c-ba72-49ec-a6e7-d1cf054ebe17,McGuire's Irish Pub and Brewery - Pensacola,brewpub,600 E Gregory St,,,Pensacola,Florida,32502-4153,United States,8504336789,http://www.mcguiresirishpub.com,-87.2024655,30.4180618
-66578541-da2c-44e8-905d-13658b49e726,Miami Brewing Co,brewpub,30205 SW 217th Ave,,,Homestead,Florida,33030-7601,United States,3052421224,http://www.miamibrewing.org,,
-c6d5739a-7f19-404c-a561-009c384535d5,Millennial Brewing Company,micro,1811 Royal Palm Ave,,,Fort Myers,Florida,33901-3023,United States,2392712255,http://www.millennialbrewing.com,-81.8643461,26.6429182
+4f01f870-ac41-43f9-9590-7dfc57ec2ab0,Mammoth Oak Brewing Company,brewpub,1107 West North Boulevard,,,Leesburg,Florida,34748,United States,3523260100,http://www.mammothoakbrewing.vaultsites.com,-81.882223,28.820536
+1cf8e00c-e42d-428a-8be5-d8fdfeccc21e,Marker 48 Brewing LLC,taproom,12147 Cortez Blvd,,,Brooksville,Florida,34613-5551,United States,3526062509,http://www.marker48.com,-82.524467,28.534292
+6eda5cd6-c8c7-4297-bd3f-b3e9aa2013a0,Mash Monkeys Brewing Company,brewpub,920 U.S. Highway 1 Unit 1,,,Sebastian,Florida,32958,United States,7725716283,http://www.mashmonkeysbrewing.com,-80.467145,27.812177
+95ace274-f4ca-4490-a5f3-0f5e68930f84,Mastry's Brewing Co,brewpub,7701 Blind Pass Rd,,,St Pete Beach,Florida,33706-1726,United States,7272028045,http://www.mastrysbrewingco.com,-82.751271,27.744559
+1dba5e88-52ec-4d47-a3aa-9d955b4374ea,Mathews Brewing Company,taproom,130 S H St,,,Lake Worth,Florida,33460-4431,United States,5618123738,http://www.mathewsbrewingcompany.com,-80.058166,26.613677
+8df1dd63-af4f-4173-805a-3c1c22a4df2d,McGuire's Irish Pub and Brewery - Destin,brewpub,33 Highway 98 E,,,Destin,Florida,32541-2309,United States,8506540567,http://www.mcguiresirishpub.com,-86.511629,30.395971
+b29d754c-ba72-49ec-a6e7-d1cf054ebe17,McGuire's Irish Pub and Brewery - Pensacola,brewpub,600 E Gregory St,,,Pensacola,Florida,32502-4153,United States,8504336789,http://www.mcguiresirishpub.com,-87.201821,30.418212
+8425bd2e-9580-430f-9b36-435414ff7525,Mcks Tavern & Brewery,taproom,218 S Beach St,,,Daytona Beach,Florida,32114,United States,3862383321,http://www.mckstavern.com,-81.018377,29.209589
+66578541-da2c-44e8-905d-13658b49e726,Miami Brewing Co,brewpub,30205 SW 217th Ave,,,Homestead,Florida,33030-7601,United States,3052421224,http://www.miamibrewing.org,-80.540282,25.485507
+c6d5739a-7f19-404c-a561-009c384535d5,Millennial Brewing Company,taproom,1811 Royal Palm Ave,,,Fort Myers,Florida,33901-3023,United States,2392712255,http://www.millennialbrewing.com,-81.864373,26.64289
+fc1eae43-6d72-464c-a326-82a45070d4cd,Mocama Beer Company,micro,629 S 8th St,,,Fernandina Beach,Florida,32034,United States,7062022077,http://www.mocama.com,-81.460539,30.662392
 c516f2aa-753b-484a-abb9-91312929211d,Mocama Brewing Company,planning,,,,Fernandina Beach,Florida,32034,United States,7062022077,http://www.mocama.com,,
 a2c6c2f2-7f07-4130-a7e3-19dd8e504134,Momentum Brewhouse,micro,9786 Bonita Beach Rd SE Ste 1,,,Bonita Springs,Florida,34135-4666,United States,2399499945,http://www.momentumbrewhouse.com,,
-54fc97d9-c6f1-4e46-8b36-fcc628540b51,Motorworks Brewing,micro,1014 9th St W,,,Bradenton,Florida,34205-7331,United States,9415676218,http://www.motorworksbrewing.com,-82.57129,27.49087629
+54fc97d9-c6f1-4e46-8b36-fcc628540b51,Motorworks Brewing,micro,1014 9th St W,,,Bradenton,Florida,34205-7331,United States,9418405511,http://www.motorworksbrewing.com,-82.571573,27.490585
+23e2eadf-698b-4a20-9e2b-b7a574aa6c3a,Motorworks Brewing - Orlando,brewpub,131 N Orange Ave Ste 106,,,Orlando,Florida,32801,United States,9415676218,,-81.378713,28.5443
 9dc2d761-e45b-463c-8eef-c2c340176f3b,Mount Dora Brewing Co,micro,405 S Highland St,,,Mount Dora,Florida,32757-6101,United States,3527351111,http://www.mountdorabrewing.com,,
-9b6630e3-3499-4472-8406-a9c59037fb9f,Mr Dunderbaks Biergarten and Brewery / Dunderbrau Brewing,brewpub,14929 Bruce B Downs Blvd,,,Tampa,Florida,33613-2860,United States,8139774104,http://www.dunderbaks.ieasysite.com,-82.4138299,28.08237293
-f40926c8-e9e3-490b-9756-0972db299bcf,Naples Beach Brewery,micro,4110 Enterprise Ave Ste 217,,,Naples,Florida,34104-7084,United States,2393048795,http://www.naplesbeachbrewery.com,,
+9b6630e3-3499-4472-8406-a9c59037fb9f,Mr Dunderbaks Biergarten and Brewery / Dunderbrau Brewing,brewpub,14929 Bruce B Downs Blvd,,,Tampa,Florida,33613-2860,United States,8139774104,http://www.dunderbaksbeer.wordpress.com,-82.41189,28.083943
+f40926c8-e9e3-490b-9756-0972db299bcf,Naples Beach Brewery,taproom,4110 Enterprise Ave Ste 217,,,Naples,Florida,34104-7084,United States,2393048795,http://www.naplesbeachbrewery.com,-81.758842,26.160553
 ef38df48-391f-4f62-81a0-5263d7ab21fb,Nature Coast Brewing Company,micro,564 N Citrus Ave,,,Crystal River,Florida,34428-4017,United States,3527950956,http://www.naturecoastbrewingco.com,-82.5931784,28.89917957
-d7b5805d-0762-4f33-b677-8269d16c6a61,Naughty Monk Brewery L.L.C.,micro,2507 Lakewood Ranch Blvd,,,Bradenton,Florida,34211-4949,United States,9417082966,http://www.naughtymonkbrewery.com,-82.4324118,27.4519957
+d7b5805d-0762-4f33-b677-8269d16c6a61,Naughty Monk Brewery L.L.C.,taproom,2507 Lakewood Ranch Blvd,,,Bradenton,Florida,34211-4949,United States,9417082966,http://www.naughtymonkbrewery.com,-82.433092,27.474953
 d482fba0-cae2-4d98-b1ad-5de60ebef9ef,New Smyrna Beach Brewing Co,micro,143 Canal St,,,New Smyrna Beach,Florida,32168-7067,United States,3869573802,http://www.newsmyrnabrewing.com,-80.92236384,29.02541495
-fc18188e-adce-4ed3-8c6d-35a746da8e86,NightLife Brewing Co,micro,1588 Nw 7th St,,,Miami,Florida,33125,United States,7867872337,http://www.nightlifebrewingco.com,-80.22131343,25.7800687
+fc18188e-adce-4ed3-8c6d-35a746da8e86,NightLife Brewing Co,micro,1588 Nw 7th St,,,Miami,Florida,33125,United States,7867872337,http://www.nightlifebrewingco.com,-80.221328,25.779889
+1a6e8487-00c6-4e5c-a1ea-d9aefe408812,Nine State Brewery,taproom,200 Tompkins St,,,Inverness,Florida,34450,United States,3524194067,http://www.ninestatebrewery.com,-82.332237,28.83719
 5ac42050-fd76-4876-9391-6b7b84a7d845,Nivol Brewing,micro,483 N Richard Jackson Blvd,,,Panama City Beach,Florida,32407-3647,United States,8502491150,http://www.nivolbrewery.com,,
-7a316e4c-43af-48c4-9dd7-238c29c9355e,NOBO Brewing Company,micro,2901 Commerce Park Dr,,,Boynton Beach,Florida,33426-8728,United States,5613201522,http://www.nobobrewing.com,,
+7a316e4c-43af-48c4-9dd7-238c29c9355e,NOBO Brewing Company,taproom,2901 Commerce Park Dr,,,Boynton Beach,Florida,33426-8728,United States,5613201522,http://www.nobobrewing.com,-80.071229,26.555055
+1b07a8de-a6bd-40ed-8636-4cd1be9e842e,Ocean Republic Brewing,brewpub,1630 SE Federal Hwy,,,Stuart,Florida,34994,United States,7726005596,http://www.oceanrepublicbrewing.com,-80.242709,27.183641
 872b17f6-785d-4116-93af-a1144865ed17,Ocean Sun Brewing,micro,3030 Curry Ford Road,,,Orlando,Florida,32806-3376,United States,4077455551,,-81.3249533,28.5243367
 bd90a960-3620-4563-98d1-4b77f5c69a62,Odd Breed Wild Ales,micro,50 NE 1st St,,,Pompano Beach,Florida,33060-6602,United States,8646506210,http://www.oddbreed.com,-80.124792,26.23234049
-485b439f-0d2d-4106-8859-dbaafd85729b,Old Coast Ales,micro,300 Anastasia Blvd Ste C,,,Saint Augustine,Florida,32080-4759,United States,9045018575,http://www.oldcoastales.com,,
+59aca7cb-5a91-4e50-87fc-03c6eefcca4a,Odd Pelican Beer Co. LLC,taproom,355 Bulldog Rd,,,Freeport,Florida,32439,United States,8505147403,http://www.theoddpelicanbeerco.com,-86.117641,30.537476
+942c1781-3d7d-471b-a662-635b09547fa7,Oil Well Craft Beer,taproom,5334 Ave Maria Blvd. Unit 500 & 600,,,Ave Maria,Florida,34142,United States,2393544454,,-81.440043,26.325311
+485b439f-0d2d-4106-8859-dbaafd85729b,Old Coast Ales,taproom,300 Anastasia Blvd Ste C,,,Saint Augustine,Florida,32080-4759,United States,9048386569,http://www.oldcoastales.com,-81.299207,29.891678
 788d873c-70cc-4d9e-94f5-a2675f2c23fa,Old Soul Brewing,micro,10970 S Cleveland Ave Ste 402,,,Fort Myers,Florida,33907-2315,United States,2393344334,http://www.oldsoulbrewcompany.com,,
-74ece31f-809b-4139-882a-1e1c9328b7f6,Ology Brewing Co,micro,118 E 6th Ave,,,Tallahassee,Florida,32303,United States,8505662463,http://www.ologybrewing.com,-84.2815824,30.45646517
-2a2cfa3a-a9b7-43bb-bac4-3961a0eb84af,Ookapow Brewing Company,micro,"1142 Old Okeechobee Road, Bay 13",,,West Palm Beach,Florida,33401,United States,7183009006,http://www.ookapow.com,,
+9785b392-cb09-4027-ae09-86a266b720b2,Olde Florida Brewing Company,taproom,1158 7th St NW,,,Largo,Florida,33770,United States,7272298010,,-82.794767,27.927441
+7c874a3a-746b-4fdc-9ed2-9564b480545e,Ology Brewing - Northside,brewpub,2910 Kerry Forest Pkwy,,,Tallahasse,Florida,32309,United States,,,-84.225569,30.542765
+74ece31f-809b-4139-882a-1e1c9328b7f6,Ology Brewing Co,micro,118 E 6th Ave,,,Tallahassee,Florida,32303,United States,8505662463,http://www.ologybrewing.com,-84.281225,30.456526
+03ae816a-563c-4681-acda-9a503020d9b1,Ology Power Mill,taproom,2708 Power Mill Ct Suite E,,,Tallahassee,Florida,32301,United States,8505662463,,-84.230665,30.450453
+2a2cfa3a-a9b7-43bb-bac4-3961a0eb84af,Ookapow Brewing Company,taproom,"1142 Old Okeechobee Road, Bay 13",,,West Palm Beach,Florida,33401,United States,7183009006,http://www.ookapow.com,-80.0629,26.7131
 47085a48-f74d-4905-926c-013f1bfaddf6,Orange Blossom Brewing Company,proprietor,44 W Illiana St Ste 102,,,Orlando,Florida,32806-4439,United States,4077540045,http://www.orangeblossombrewing.com,,
 678aa828-c482-4334-b05a-fe618c364226,Orange County Brewers,brewpub,131 N Orange Ave Ste 106,,,Orlando,Florida,32801-2385,United States,3864538936,http://www.theocbrewers.com,,
-109f1a56-7519-4e67-991a-0dc6ef43ca4e,Orchid Island Brewery,micro,2855 Ocean Dr Ste C1,,,Vero Beach,Florida,32963-2038,United States,7722052436,http://www.orchidislandbrewery.com,,
+13a64f84-6f9c-4496-97eb-f4a8686a7740,Orange County Brewers,brewpub,1117 International Pkwy Suite 1701,,,Lake Mary,Florida,32746,United States,3864538936,http://www.theocbrewers.com,-81.357082,28.779432
+286b14b9-942e-40f4-9434-3388457093fd,Orchestrated Minds Brewing,taproom,803 NW 1st street,,,Fort Lauderdale,Florida,33311,United States,9545306655,http://www.orchestratedmindsbrewing.co,-80.152223,26.12314
+109f1a56-7519-4e67-991a-0dc6ef43ca4e,Orchid Island Brewery,micro,2745 Saint Lucie Boulevard,,,Vero Beach,Florida,32960,United States,7723211244,http://oib.beer,-80.401105,27.648082
+9afe11d0-95f0-4637-9ffa-7f9f9cd27297,Orchid Island Brewery,micro,2745 Saint Lucie Boulevard,,,Vero Beach,Florida,32960,United States,7723211244,http://oib.beer,-80.401105,27.648082
+da2e16fc-0517-43a3-8127-8bef1c1a20df,Orlando Brewing,taproom,1301 Atlanta Ave,,,Orlando,Florida,32806-3908,United States,4078721117,http://www.orlandobrewing.com,-81.382703,28.526501
 6b8450c8-3810-40ce-bac3-55bf20261c4c,"Orlando Brewing Partners, Inc.",micro,1301 Atlanta Ave,,,Orlando,Florida,32806-3908,United States,4078721117,http://www.orlandobrewing.com,-81.38304499,28.52691826
-fcfc9ac7-49ce-4ab4-a727-0d2fa89919b9,Ormond Brewing,micro,301 Division Ave Unit 15,,,Ormond Beach,Florida,32174-8812,United States,3862563904,http://www.ormondbrewing.com,,
-ecc8660b-2bf6-4e95-b4b1-a6659fc74c0f,Overflow Brewing Company,micro,770 1st Ave N,,,Saint Petersburg,Florida,33701,United States,,http://www.overflowbrewingco.com,-82.644494,27.77196743
+fcfc9ac7-49ce-4ab4-a727-0d2fa89919b9,Ormond Brewing,micro,301 Division Ave Unit 15,,,Ormond Beach,Florida,32174-8812,United States,3862563904,http://www.ormondbrewing.com,-81.060793,29.274468
+6aa531c3-1572-4551-9a2f-9947e51a0cd4,Ormond Garage,taproom,48 W Granada Blvd,,,Ormond Beach,Florida,32174,United States,3864927981,http://www.ormondgarage.beer,-81.056937,29.284839
+ecc8660b-2bf6-4e95-b4b1-a6659fc74c0f,Overflow Brewing Company,taproom,770 1st Ave N,,,Saint Petersburg,Florida,33701,United States,7279140665,http://www.overflowbrewingco.com,-82.644523,27.771849
 093abb2e-c49c-4581-ab52-3148c1494a61,Oviedo Brewing Co,planning,,,,Oviedo,Florida,32765-7426,United States,4075875400,http://www.facebook.com/OviedoBrewingCo,,
-43fa1fa9-3de8-45ed-b56d-b4b79349587a,Oyster City Brewing Company,micro,17 Avenue D,,,Apalachicola,Florida,32320-1801,United States,,http://www.oystercitybrewingco.com,-84.98504389,29.7259562
+53d4a5a7-74f3-47e1-acb6-06d4e1348fb9,Oviedo Brewing Co,brewpub,1280 Oviedo Mall Blvd,,,Oviedo,Florida,32765-7426,United States,4075428248,http://http://www.oviedobrewingco.com,-81.238433,28.664714
+43fa1fa9-3de8-45ed-b56d-b4b79349587a,Oyster City Brewing Company,micro,17 Avenue D,,,Apalachicola,Florida,32320-1801,United States,,http://www.oystercity.beer,-84.983604,29.727634
+1c0ff787-2297-49ef-8304-89dfa25a15e4,Oyster City Brewing Company,taproom,603 W. Gaines St,,,Tallahassee,Florida,32304,United States,,,-84.29067,30.435134
+97011661-c1a0-4de9-9af1-5fc1444a5cd3,Ozona Brewing Company,brewpub,315 Orange St,,,Palm Harbor,Florida,34683,United States,,http://www.ozonabrewing.com,-82.776683,28.069545
 3446ec5f-e21e-4583-83be-a3a086f212a1,Pair O' Dice Brewing Company,micro,4400 118th Ave N Ste 208,,,Clearwater,Florida,33762-4433,United States,7277553423,http://www.pairodicebrewing.com,,
-2439bcd8-7ffc-4e87-8a39-c093ada01419,Palm City Brewing,micro,7887 Drew Cir Ste 130,,,Fort Myers,Florida,33967-6083,United States,2393622862,,,
-7c3cbcf7-16f2-41af-a384-804acd5261c1,Palm Harbor Brewery,brewpub,1022 Georgia Ave,,,Palm Harbor,Florida,34683-4317,United States,7277868039,,-82.76688529,28.07707237
-77b2e1c4-db34-4c4b-b0ed-55b2553f1191,Pareidolia Brewing Co.,brewpub,712 Cleveland St,,,Sebastian,Florida,32958-4178,United States,7725840331,http://www.pareidoliabeer.com,-80.46645659,27.81084556
-c7a5c1e3-3814-4acd-bef9-d408dead58fe,Pensacola Bay Brewery,micro,225 E Zaragoza St,,,Pensacola,Florida,32502-6048,United States,8504343353,http://www.pbbrew.com,,
+2439bcd8-7ffc-4e87-8a39-c093ada01419,Palm City Brewing,micro,"7887 Drew Circle, Suite 130",,,Fort Myers,Florida,33967-6083,United States,2392926880,http://www.palmcitybrewing.com,-81.823062,26.486683
+f72ab237-ebff-4621-800f-bc4b46c61ea9,Palm City Brewing,micro,"7887 Drew Circle, Suite 130",,,Fort Myers,Florida,33967-6083,United States,2392926880,http://www.palmcitybrewing.com,-81.823062,26.486683
+7c3cbcf7-16f2-41af-a384-804acd5261c1,Palm Harbor Brewery,brewpub,1022 Georgia Ave,,,Palm Harbor,Florida,34683-4317,United States,7272433610,http://www.palmharborbrewery.com,-82.766512,28.07689
+77b2e1c4-db34-4c4b-b0ed-55b2553f1191,Pareidolia Brewing Co.,brewpub,712 Cleveland St,,,Sebastian,Florida,32958-4178,United States,7725715693,http://www.pareidoliabeer.com,-80.465927,27.810639
+1a1740db-d866-4c8c-be61-541778e0e699,Pee-Pa's Garage Craft Brewery LLC,taproom,6340 49th St N,,,Pinellas Park,Florida,33781,United States,7275262300,http://www.peepasgaragecraftbrewery.com,-82.700395,27.830278
+c7a5c1e3-3814-4acd-bef9-d408dead58fe,Pensacola Bay Brewery,taproom,225 E Zaragoza St,,,Pensacola,Florida,32502-6048,United States,8504343353,http://www.pbbrew.com,-87.21079,30.408665
+9dc349f3-77cc-43d8-b1a8-3c61876ae885,Pepper Brewing At the Angry Pepper Brewhouse,brewpub,9366 Oakhurst Rd,,,Seminole,Florida,33776,United States,7275965766,http://www.angrypeppertaphouse.com,-82.83112,27.856768
+ce2bbde5-3ef7-4c71-a824-4c34f49834ce,Perfect Plain Brewing Co,taproom,50 E Garden Street,,,Pensacola,Florida,32502,United States,8504718998,http://www.perfectplain.com,-87.214033,30.413729
 2d9384f0-ef54-4aaf-bc74-05c5b5169ee9,Perfect Plain Brewing Co.,micro,50 E Garden St,,,Pensacola,Florida,32502-5604,United States,,http://www.perfectplain.com,-87.214831,30.4132165
-71398a4c-3cfb-41ef-8869-738b39958d46,Persimmon Hollow Brewing,micro,111 W Georgia Ave,,,Deland,Florida,32720-5406,United States,3868737350,http://www.persimmonhollowbrewing.com,-81.30372058,29.02726822
-6d9f7f4e-e492-4647-8e5f-89612b4fcbd9,Pesky Pelican Brewpub,brewpub,923 72nd St N,,,Saint Petersburg,Florida,33710-4666,United States,7273029600,http://www.peskypelicanbrewpub.com,-82.73743948,27.78248193
-1d263d88-3e19-4945-864d-fdd8dd5cb715,Pinellas Ale Works,micro,1962 1st Ave S,,,Saint Petersburg,Florida,33712-1345,United States,7272350970,http://www.pawbeer.com,-82.6597329,27.77012863
-3802e9d2-1bbd-4a80-a045-ab7e15c28113,Pinglehead Brewery / Brewer's Pizza,brewpub,14B  Blanding Blvd Ste B,,,Orange Park,Florida,32073-2232,United States,9042765159,http://www.brewerspizza.com,,
+71398a4c-3cfb-41ef-8869-738b39958d46,Persimmon Hollow Brewing,taproom,111 W Georgia Ave,,,Deland,Florida,32720-5406,United States,3868737350,http://www.persimmonhollowbrewing.com,-81.303891,29.02732
+98918a5d-0698-4918-8467-461378b316c4,Persimmon Hollow Brewing - Orlando,brewpub,227 N Eola Dr,,,Orlando,Florida,32801,United States,3868737350,,-81.369543,28.545568
+6d9f7f4e-e492-4647-8e5f-89612b4fcbd9,Pesky Pelican Brewpub,brewpub,923 72nd St N,,,Saint Petersburg,Florida,33710-4666,United States,7273029600,http://www.peskypelicanbrewpub.com,-82.737385,27.781236
+003349ea-2128-45c0-a9d4-33bfe69bf38c,Phyre Brewery and Tavern,brewpub,1108 10th St,,,Saint Cloud,Florida,34769,United States,4075930399,http://phyre-brewery-and-tavern.business.site,-81.281803,28.249108
+1d263d88-3e19-4945-864d-fdd8dd5cb715,Pinellas Ale Works,taproom,1962 1st Ave S,,,Saint Petersburg,Florida,33712-1345,United States,7272350970,http://www.pawbeer.com,-82.660092,27.769897
+3802e9d2-1bbd-4a80-a045-ab7e15c28113,Pinglehead Brewing Company / Brewer's Pizza,brewpub,14B  Blanding Blvd Ste B,,,Orange Park,Florida,32073-2232,United States,9042765159,http://www.brewerspizza.com,-81.739642,30.188307
 73d3ba34-6019-4f55-ac56-068d10796b70,Playalinda Brewing Company,micro,305 S Washington Ave,,,Titusville,Florida,32796-3539,United States,3212258978,http://www.playalindabrewingcompany.com,,
+9343862c-6411-40b8-a819-38dadeb718fd,Playalinda Brewing Company,brewpub,305 South Washington Avenue,,,Titusville,Florida,32796,United States,3215675974,http://www.playalindabrewingcompany.com,-80.807339,28.61235
 c66dae41-8336-4879-af3a-190e804e6268,Playalinda Brewing Company -  Brix Project,brewpub,5220 S Washington Ave,,,Titusville,Florida,32780-7316,United States,,http://www.playalindabrewingcompany.com,,
-db32cfd6-bffb-4f0e-9ed3-f71ab574c505,Point Ybel Brewing Company,micro,16120 San Carlos Blvd Ste 4,,,Fort Myers,Florida,33908-3294,United States,2396036535,http://www.pointybelbrew.com,,
+dd5630b8-6d9c-4156-a857-e6997688f046,Playalinda Brewing Company -  Brix Project,micro,5220 South Washington Avenue,,,Titusville,Florida,32780,United States,,http://www.playalindabrewingcompany.com,-80.796259,28.546638
+db32cfd6-bffb-4f0e-9ed3-f71ab574c505,Point Ybel Brewing Company,taproom,16120 San Carlos Blvd Ste 4,,,Fort Myers,Florida,33908-3294,United States,9418152692,http://www.pointybelbrew.com,-81.944238,26.506499
+e0902eea-36ab-4f5b-9374-d114f1c3f12d,Pompano Beach Brewing Company,taproom,3200 NW 23rd Ave Ste 500,,,Pompano Beach,Florida,33069-5909,United States,9549783113,http://www.pompanobeachbrewing.com,-80.155764,26.269529
+2089dd4b-90b2-4242-b392-25a146f18284,Prison Pals Brewing Co,micro,8302 NW 14th St,,,Doral,Florida,33126-1504,United States,3055708908,http://prisionpals.com,-80.330687,25.786135
 79c3efb7-c8a0-4171-8734-ab6d1d3d32f0,Proof Brewing Co,micro,644 McDonnell Dr,,,Tallahassee,Florida,32310-4808,United States,,http://www.proofbrewingco.com,-84.29116011,30.43293512
+2f4cdc0c-0e45-49a3-a0f7-7054a11b1757,Proof Brewing Co,taproom,1320 South Monroe Street,,,Tallahassee,Florida,32301,United States,,http://www.proofbrewingco.com,-84.281225,30.430842
+3fbfb04c-2730-413c-b57d-c86c24f99539,Props Alehouse,brewpub,1128 John Sims Pwky,,,Niceville,Florida,32578,United States,8505867117,,-86.466664,30.516344
 2cd4b108-518b-491d-8716-ef275c5d743b,Props Brewery and Grill,brewpub,125 Lovejoy Rd,,,Fort Walton Beach,Florida,32548,United States,8505867117,http://www.propsbrewery.com,,
-5a129cf3-6e47-4244-ac3a-473028cd577e,Props Craft Brewery Taproom,micro,125 Lovejoy Rd NW,,,Fort Walton Beach,Florida,32548-3418,United States,8505867117,http://www.propsbrewery.com,-86.64962237,30.42411689
-d91cbdb4-443b-43e6-8005-02616b3c3e80,Ragtime Tavern Seafood and Grill,brewpub,207 Atlantic Blvd,,,Atlantic Beach,Florida,32233-5273,United States,9042417877,http://www.ragtimetavern.com,-81.3964898,30.3247964
+5a129cf3-6e47-4244-ac3a-473028cd577e,Props Craft Brewery Taproom,micro,255 Miracle Strip Pkwy,,,Fort Walton Beach,Florida,32548,United States,8505867117,http://www.propsbrewery.com,-86.602399,30.404649
+fd861105-cdeb-4006-8c58-2fb5c84ba3cc,Props Craft Brewery Taproom,micro,255 Miracle Strip Pkwy,,,Fort Walton Beach,Florida,32548,United States,8505867117,http://www.propsbrewery.com,-86.602399,30.404649
+1839e93e-708d-4d33-8767-fc7bddd400c0,Prosperity Brewers,taproom,"4160 NW 1st Avenue, Suite 21",,,Boca Raton,Florida,33431,United States,5619610573,http://www.prosperitybrewers.com,-80.08245,26.387822
+d91cbdb4-443b-43e6-8005-02616b3c3e80,Ragtime Tavern Seafood and Grill,brewpub,207 Atlantic Blvd,,,Atlantic Beach,Florida,32233-5273,United States,9042417877,http://www.ragtimetavern.com,-81.396409,30.324882
 df8f790d-c35b-4564-8aa0-d03f1c7594f7,Rapp Brewing Company,micro,10930 Endeavour Way Ste C,,,Seminole,Florida,33777-1632,United States,7276927912,http://www.rapp.beer,,
+b9486af7-49af-4fc2-b2a6-090e0b2f639d,Rapp Brewing Company,taproom,10930 Endeavour Way,,,Seminole,Florida,33777,United States,7276927912,http://www.rapp.beer,-82.73558,27.870735
 eb2a453b-7104-4863-8631-6aa540f1f27e,Red Cypress Brewery,micro,855 E SR 434,,,Winter Springs,Florida,32708-2704,United States,,http://www.redcypressbrewery.com,,
+cea94e1b-d38f-4410-9ee6-52302eede97d,Red Pig Brewery,taproom,101 2nd St Unit 401,,,Holly Hill,Florida,32117,United States,3862389149,http://www.theredpigbrewery.com,-81.02894,29.230223
 572a822f-eb09-4d2d-b701-0e179fc91713,Redlight Redlight Beer Parlour and Brewery,micro,2810 Corrine Dr,,,Orlando,Florida,32803-2226,United States,4078939832,http://www.redlightredlightbeerparlour.com,-81.34851757,28.567899
-b08522ec-5b52-4510-90a7-e82dc1d8f5a7,Right Around The Corner,micro,2244 Central Ave,,,Saint Petersburg,Florida,33712,United States,7273319395,,-82.66369394,27.77095137
-0d3ae8be-740a-47f8-b76c-1e1f871e79de,Riptide Brewing Company,micro,987 3rd Ave N,,,Naples,Florida,34102-5810,United States,2392286533,http://www.riptidebrewingcompany.com,-81.7949268,26.15088596
+b08522ec-5b52-4510-90a7-e82dc1d8f5a7,Right Around The Corner,taproom,2244 Central Ave,,,Saint Petersburg,Florida,33712,United States,7273319395,,-82.663945,27.770779
+0d3ae8be-740a-47f8-b76c-1e1f871e79de,Riptide Brewing Company,taproom,987 3rd Ave N,,,Naples,Florida,34102-5810,United States,2392286533,http://www.riptidebrewingcompany.com,-81.794917,26.150941
+7343e114-78dd-4f78-86f3-c0a5dc06a57c,Riptide Brewing Company Bonita Springs Brewhouse,micro,28120 Hunters Ridge Blvd,,,Bonita Springs,Florida,34135,United States,2309499944,,-81.746076,26.328656
 fcc98f37-d0d3-459f-8e38-85bf9d9367f0,River City Brewing Co,brewpub,835 Museum Cir,,,Jacksonville,Florida,32207-9003,United States,9043982299,http://www.rivercitybrewing.com,-81.66111727,30.31862639
-b13f6378-84b6-40c6-b2a1-784aba2cfcc3,Rock Bottom Brewery,brewpub,1864 Victory Cir Bldg K,,,Daytona Beach,Florida,32114,United States,3865168322,,,
-c6b4c5c8-5a02-4a51-84a2-29bb0e70930e,RockPit Brewing,micro,10 West Illiana St,,,Orlando,Florida,32806,United States,4076906612,http://www.rockpitbrewing.com,-81.37882592,28.51101657
+b13f6378-84b6-40c6-b2a1-784aba2cfcc3,Rock Bottom Brewery,brewpub,1864 Victory Cir Bldg K,,,Daytona Beach,Florida,32114,United States,3865168322,,-81.0717,29.1959
+c6b4c5c8-5a02-4a51-84a2-29bb0e70930e,RockPit Brewing,brewpub,10 West Illiana St,,,Orlando,Florida,32806,United States,4076906612,http://www.rockpitbrewing.com,-81.376867,28.510979
 6d95be92-78fd-4ea6-9584-5ff77345f84b,"RoosterBragh Brewing Company, LLC",planning,,,,Tallahassee,Florida,32312-8000,United States,8507924458,http://www.roosterbragh.com,,
-5c9afad5-0cf3-4f3d-9918-0c4e9a002968,Royal Palm Brewing Company,brewpub,543 N State Road 7 Ste 103,,,Royal Palm Beach,Florida,33411-3516,United States,4079600128,http://www.facebook.com/royalpalmbrewingcompany/,,
-34011fb5-ccda-4f99-b21a-62953b9b6128,"Sailfish Brewing Company, llc",micro,130 N 2nd St,,,Fort Pierce,Florida,34950-4403,United States,7725774382,http://www.sailfishbrewingco.com,-80.32431828,27.44903854
-05ec470f-09d7-4582-b432-fca4758f146e,Saint Somewhere Brewing Co,micro,312 E Tarpon Ave,,,Tarpon Springs,Florida,34689-4320,United States,8135036181,http://www.saintsomewherebrewing.com,-82.75335373,28.14615551
-efdc475f-8e3c-42f7-8e69-7d5fda684097,Saltwater Brewery,micro,1701 W Atlantic Ave,,,Delray Beach,Florida,33444-1566,United States,6092808464,http://www.saltwaterbrewery.com,-80.0913747,26.4619509
-2199b077-5cfa-4a8a-81bb-2be99e73338e,Sanford Brewing Company,brewpub,400 Sanford Ave,,,Sanford,Florida,32771-1971,United States,4077326419,http://www.sanfordbrewing.com,-81.265044,28.808877
-86e2d1b2-4613-441a-a543-e762718d3153,Sarasota Brewing Co,brewpub,6607 Gateway Ave,,,Sarasota,Florida,34231-5805,United States,9419252337,http://www.sarasotabrewing.com,-82.5163259,27.26007897
-07ef764b-6b3d-458b-b39e-7b352b36dd42,Scotty's Bierwerks,micro,901 E Industrial Cir Unit 1-3,,,Cape Coral,Florida,33909-7446,United States,2398885482,http://www.facebook.com/scottysbierwerks,,
-bf3c0dbf-53cf-40d9-906a-baf2a57bc0a6,Sea Dog Brewing Co - Clearwater,micro,26200 US Highway 19 N,,,Clearwater,Florida,33761-3580,United States,7274664916,http://www.seadogbrewing.com,,
+5c9afad5-0cf3-4f3d-9918-0c4e9a002968,Royal Palm Brewing Company,brewpub,543 N State Road 7 Ste 103,,,Royal Palm Beach,Florida,33411-3516,United States,4079600128,http://www.facebook.com/royalpalmbrewingcompany/,-80.202282,26.68666
+1c39384a-6447-4441-aa04-be2fb30a4ecb,Ruby Beach Brewing Company,brewpub,228 E Forsyth St,,,Jacksonville,Florida,32202,United States,9043720721,http://www.rubybeachbrewing.com,-81.654688,30.326071
+34011fb5-ccda-4f99-b21a-62953b9b6128,"Sailfish Brewing Company, llc",micro,130 N 2nd St,,,Fort Pierce,Florida,34950-4403,United States,7725774382,http://www.sailfishbrewingco.com,-80.323896,27.448655
+05ec470f-09d7-4582-b432-fca4758f146e,Saint Somewhere Brewing Co,micro,115 S Ring Ave,,,Tarpon Springs,Florida,34689,United States,8135036181,http://www.saintsomewherebrewing.com,-82.753285,28.145659
+c4fe6801-fbed-4b73-a52c-19553d1cdcce,Saint Somewhere Brewing Co,micro,115 S Ring Ave,,,Tarpon Springs,Florida,34689,United States,8135036181,http://www.saintsomewherebrewing.com,-82.753285,28.145659
+efdc475f-8e3c-42f7-8e69-7d5fda684097,Saltwater Brewery,micro,1701 W Atlantic Ave,,,Delray Beach,Florida,33444-1566,United States,5618655373,http://www.saltwaterbrewery.com,-80.091391,26.461901
+a812391b-1076-4ae1-b4fd-cabb95ee56b6,Salty Oak Brewing,taproom,2337 St Andres blvd,,,Panama city,Florida,32405,United States,8505442775,http://www.saltyoakbrewing.com,-85.69895,30.190831
+2199b077-5cfa-4a8a-81bb-2be99e73338e,Sanford Brewing Company,brewpub,400 Sanford Ave,,,Sanford,Florida,32771-1971,United States,4077326419,http://www.sanfordbrewing.com,-81.265221,28.808857
+2efdaa0b-56c1-45c5-ba71-72fa3dc7119b,Sanford Brewing Company - Maitland,brewpub,160 Independence Lane,,,Maitland,Florida,32751,United States,4075719256,,-81.3645,28.6272
+86e2d1b2-4613-441a-a543-e762718d3153,Sarasota Brewing Co,brewpub,6607 Gateway Ave,,,Sarasota,Florida,34231-5805,United States,9419252337,http://www.sarasotabrewing.com,-82.516161,27.259737
+07ef764b-6b3d-458b-b39e-7b352b36dd42,Scotty's Bierwerks,taproom,901 E Industrial Cir Unit 1-3,,,Cape Coral,Florida,33909-7446,United States,2398885482,http://www.facebook.com/scottysbierwerks,-81.929188,26.668262
+bf3c0dbf-53cf-40d9-906a-baf2a57bc0a6,Sea Dog Brewing Co - Clearwater,micro,26200 US Highway 19 N,,,Clearwater,Florida,33761-3580,United States,7274664916,http://www.seadogbrewing.com,-82.732745,28.009903
+658a3c70-39dc-4b35-964a-937d3d570b39,Sea Dog Brewing Treasure Island,brewpub,9610 Gulf Blvd,,,Treasure Island,Florida,33706,United States,7279547805,,-82.762418,27.756299
 f7602a9d-bf7e-4e26-8c22-4aff954ad271,Sea Drift Ales and Lagers,micro,521 Commerce Dr,,,Largo,Florida,33770-1834,United States,7275847772,http://www.barleymowbrewingco.com,,
-8a7ac609-cceb-47f1-8221-8ac257e3caa1,Seven Bridges Grille and Brewery,brewpub,9735 Gate Pkwy N,,,Jacksonville,Florida,32246-8221,United States,9049971999,http://www.7bridgesgrille.com,-81.55312193,30.26129582
+8a7ac609-cceb-47f1-8221-8ac257e3caa1,Seven Bridges Grille and Brewery,brewpub,9735 Gate Pkwy N,,,Jacksonville,Florida,32246-8221,United States,9049971999,http://www.7bridgesgrille.com,-81.553811,30.261604
 a5252773-86c6-4b69-a224-8c9e07598c75,SFLBrewery In Planning,planning,,,,Weston,Florida,33326-4041,United States,,,,
-a2fedbfd-b74d-4d8b-9292-23f087b2ffae,Side Door Brewing Company,micro,1419 SE Village Green Dr,,,Port Saint Lucie,Florida,34952-3454,United States,7726319068,http://www.sidedoorbrewery.com,-80.3079342,27.30575664
-a5b1ff54-9d6d-4742-8141-f496a1fc2d1d,Silverking Brewing Company,micro,325 E Lemon St,,,Tarpon Springs,Florida,34689-4309,United States,7276472524,http://www.silverkingbrewing.com,-82.75325369,28.14509027
-c8751600-8370-4ce2-b405-9c39238a2f17,Six Ten Brewing,micro,7052 Benjamin Rd,,,Tampa,Florida,33634-3034,United States,8138860610,,,
+a2fedbfd-b74d-4d8b-9292-23f087b2ffae,Side Door Brewing Company,taproom,1419 SE Village Green Dr,,,Port Saint Lucie,Florida,34952,United States,7726319068,http://www.sidedoorbrewery.com,-80.307538,27.306333
+6169410d-a2ee-45a7-b9fb-422ac3a4753b,Sideward Brewing Co,taproom,210 N Bumby Ave,,,Orlando,Florida,32803,United States,4078662195,http://www.sidewardbrewing.com,-81.352214,28.545495
+a5b1ff54-9d6d-4742-8141-f496a1fc2d1d,Silverking Brewing Company,taproom,325 E Lemon St,,,Tarpon Springs,Florida,34689-4309,United States,7276472524,http://www.silverkingbrewing.com,-82.752869,28.145266
+c8751600-8370-4ce2-b405-9c39238a2f17,Six Ten Brewing,taproom,7052 Benjamin Rd,,,Tampa,Florida,33634-3034,United States,8138860610,http://www.sixtenbrewing.com,-82.542105,28.015307
+dd765022-af63-410d-aa3d-38b0712679dc,Skunkworts Brewing Concern,taproom,525 Northwood Rd,,,West Palm Beach,Florida,33407,United States,5618551603,http://www.skunkworts.com,-80.056193,26.735157
 84a0e21f-7d91-42ba-9c07-81e504778f60,Soggy Bottom Brewing Co.,micro,660 Main St,,,Dunedin,Florida,34698,United States,7276011698,http://www.soggybottombrewery.com,-82.78271981,28.0152064
+4b437824-79d7-4956-b511-dd02d0ef418e,South Beach Brewing Company,taproom,1255 West Ave,,,Miami Beach,Florida,33139-4307,United States,3053978456,http://www.southbeachbrew.com,-80.141999,25.783725
 5c7faaef-a2b0-4c31-bdd8-a0330cdd9d57,South Cypress Brewing,brewpub,895 Wiggins Pass Rd,,,Naples,Florida,34110-6118,United States,2396316397,,,
-66db9365-5062-4f15-b25f-c40c894c9ec3,Southern Brewing & Winemaking Brewery,brewpub,4500 N Nebraska Ave,,,Tampa,Florida,33603-4149,United States,8132387800,http://www.southernbrewingwinemaking.com,-82.4500207,27.9495902
+66db9365-5062-4f15-b25f-c40c894c9ec3,Southern Brewing & Winemaking,brewpub,4500 N Nebraska Ave,,,Tampa,Florida,33603-4149,United States,8132387800,http://www.southernbrewingwinemaking.com,-82.451599,27.986325
+bbc3cfaa-be59-40a4-be28-36152256092c,Southern Fields Brewing,taproom,2328 Highway 2,,,Campbellton,Florida,32426,United States,8506588190,http://southernfieldsbrewingco.com,-85.402019,30.950456
 c92aeb72-e934-460d-aa03-86da72b6d0c4,Southern Lights Brewing,micro,2045 Gulf To Bay Blvd Ste D,,,Clearwater,Florida,33765-3752,United States,7276149919,http://www.southernlightsbrewing.com,,
-1feb9508-e9e7-476b-bf27-54e7beb0dc46,Southern Swells Brewing Company,micro,1312 Beach Blvd,,,Jacksonville Beach,Florida,32250-3408,United States,9046546425,http://www.southernswells.com,-81.3923194,30.2882669
-74960c65-dabf-4e8e-a2e8-8ee5d304aec0,Spahr Brewing Company,micro,3541 W Fairfield Dr,,,Pensacola,Florida,32505-4862,United States,8504395362,http://www.spahrbrewingcompany.com,-87.25663063,30.44184376
+ef2b583c-4fc0-4c27-953c-08ae4331a5f9,Southern Lights Brewing,taproom,2075 Sunnydale Blvd,,,Clearwater,Florida,33765,United States,7276149919,http://www.southernlightsbrewing.com,-82.751413,27.986244
+1feb9508-e9e7-476b-bf27-54e7beb0dc46,Southern Swells Brewing Company,taproom,1312 Beach Blvd,,,Jacksonville Beach,Florida,32250-3408,United States,9046546425,http://www.southernswells.com,-81.403971,30.287978
+74960c65-dabf-4e8e-a2e8-8ee5d304aec0,Spahr Brewing Company,taproom,3541 W Fairfield Dr,,,Pensacola,Florida,32505-4862,United States,8504395362,http://www.spahrbrewingcompany.com,-87.259691,30.439511
+502a1286-4e09-4cdd-ae62-deb0e0a72ae7,Spanish Marie Brewery,taproom,14241 SW 120th St Ste 109,,,Miami,Florida,33186,United States,305456549,http://www.spanishmariebrewery.com,-80.42489,25.657007
 fd0debe1-ea74-4e3e-b724-2efb69def9de,St. Pete Brewing Company,micro,544 1st Ave NÂ ,,,Saint Petersburg,Florida,33701-3702,United States,7276928809,http://www.stpetebrewingcompany.com,-82.64102088,27.77179015
-08279a5f-e91d-4233-aa86-b79c58f45644,Stilt House Brewery,micro,625 US 19 Alt,,,Palm Harbor,Florida,34683,United States,8138911693,http://www.stilthousebrewery.com,,
+87e4cfc5-5020-4791-bc3d-db7f0f407544,St. Pete Brewing Company,taproom,544 1st Ave N ,,,Saint Petersburg,Florida,33701-3702,United States,7276928809,http://www.stpetebrewingcompany.com,-82.641046,27.771794
+8666c628-6cc0-4f84-a775-55914df22848,Steam Horse Brewing,taproom,1500 Elizabeth Ave,,,West Palm Beach,Florida,33401,United States,,,-80.064611,26.698048
+08279a5f-e91d-4233-aa86-b79c58f45644,Stilt House Brewery,taproom,625 US 19 Alt,,,Palm Harbor,Florida,34683,United States,8138911693,http://www.stilthousebrewery.com,-82.767353,28.074103
+38066271-0b8f-4c5e-8e13-5a578545943a,Stormhouse Brewing,brewpub,1201 US Highway 1,,,North Palm Beach,Florida,33408,United States,9728391735,http://www.stormhousebrewing.com,-80.061164,26.835922
+4695c052-6bb0-4d95-8985-e108a3fc9322,Strange Beast,brewpub,15220 SW 72 ST,,,Miami,Florida,33193,United States,3052090406,,-80.439348,25.698729
+bb10f5d6-d25c-4661-9fb9-b67e36855e16,Strange Colt Brewery,brewpub,1103-B John Sims Pkwy,,,Niceville,Florida,32578,United States,8504245300,http://www.strangecoltbrewery.com,-86.465313,30.515604
+c0f48b56-2650-4a5c-9fd8-ddeb461c107b,Sun King Brewing,taproom,1215 Mango Ave,,,Sarasota,Florida,34237,United States,3176023702,,-82.525402,27.348903
 acd12d74-76fe-4c74-ad0a-977b67f6d4f7,Suncreek Brewery,planning,,,,Clermont,Florida,34711-2135,United States,4078508810,http://www.suncreekbrewery.com,,
-3f8790cd-03b9-4172-99c9-f88940c731a0,Swamp Head Brewery,micro,3650 SW 42nd Ave,,,Gainesville,Florida,32608-2598,United States,3525053035,http://www.swamphead.com,-82.3736302,29.6142515
-8aa90b99-32fa-4727-b14a-324db6f758f6,Swan Brewing,micro,115 W. Pine St.,,,Lakeland,Florida,33815,United States,8637030472,http://www.swanbrewing.com,-81.95746167,28.04600888
+9a3184d2-7534-4b36-abc6-6bdb6f47eab2,Suncreek Brewery,brewpub,790 W Minneola Ave Unit 3,,,Clermont,Florida,34711,United States,3526369089,http://www.suncreekbrewery.com,-81.768227,28.556613
+3f8790cd-03b9-4172-99c9-f88940c731a0,Swamp Head Brewery,micro,3650 SW 42nd Ave,,,Gainesville,Florida,32608-2598,United States,3525053035,http://www.swamphead.com,-82.37581,29.613847
+8aa90b99-32fa-4727-b14a-324db6f758f6,Swan Brewing,taproom,115 W. Pine St.,,,Lakeland,Florida,33815,United States,8637030472,http://www.swanbrewing.com,-81.958145,28.046203
 51a67223-d853-4316-bf42-eb38eca9121f,Sweet Mercy Brewing Co.,planning,,,,Miami,Florida,33143,United States,3057999260,http://www.sweetmercybrewing.com,,
 cb8f9bf5-9928-481f-8700-3bb86a34b170,Tabula Rasa Brewing,planning,,,,Jacksonville,Florida,32204-1705,United States,,,,
+a689a4df-79ae-4789-aad9-eb4c6aa0526f,Tabula Rasa Brewing,taproom,2385 Corbett St,,,Jacksonville,Florida,32204-1705,United States,9043531523,http://Tabularasa.beer,-81.689439,30.328775
+2069054b-1948-4816-ac10-f1f3e1e85a4e,Tactical Brewing Company,taproom,4882 New Broad St,,,Orlando,Florida,32814,United States,4072033303,http://www.tacticalbeer.com,-81.326686,28.567723
 f54a5693-be9d-4faa-ac97-47d62a225392,Tampa Bay Brewing Co Brewpub,micro,1600 E 8th Ave Ste A123,,,Tampa,Florida,33605-3760,United States,8132471422,http://tbbc.beer,,
-582945be-7f01-4bdc-850f-1f93e5b149a2,Tampa Bay Brewing Co Production Brewery,brewpub,13937 Monroes Business Park,,,Tampa,Florida,33635-6309,United States,8132471422,,,
+582945be-7f01-4bdc-850f-1f93e5b149a2,Tampa Bay Brewing Co Production Brewery,micro,13937 Monroes Business Park,,,Tampa,Florida,33635-6309,United States,8132471422,,-82.647647,28.038148
+aee943ff-b0c8-4004-a785-c35e2677bc07,Tampa Bay Brewing Company,regional,13937 Monroes Business Park,,,Tampa,Florida,33635,United States,8139095165,http://tbbc.beer,-82.647647,28.038148
 84a82ca6-2e8c-4d10-a24a-375ba1f2ca58,Tampa Beer Works,micro,333 N Falkenburg Rd Ste D407,,,Tampa,Florida,33619-7895,United States,8136851909,http://www.esbbrewing.com,,
-623ee5b9-a7a3-4401-86ae-4af68f3c1071,Tarpon River Brewing,micro,280 SW 6th Street,,,Fort Lauderdale,Florida,33301,United States,9545334590,http://www.nativebrewingco.com/index.html,-80.14595562,26.11462092
-8d5bb097-d59f-49d0-911a-0af4f63f66a4,Ten 10 Brewing Co,brewpub,1010 Virginia Dr,,,Orlando,Florida,32803-2532,United States,4079308993,http://www.ten10brewingcompany.com,-81.36592044,28.56397689
-c5ddef5e-2664-4f02-b59b-d37f00967414,Tequesta Brewing Co,micro,287 S US Highway 1,,,Tequesta,Florida,33469-2701,United States,5617455000,http://www.tequestabrewing.com,,
+623ee5b9-a7a3-4401-86ae-4af68f3c1071,Tarpon River Brewing,brewpub,280 SW 6th Street,,,Fort Lauderdale,Florida,33301,United States,9545334590,http://http://www.tarponriverbrewing.com,-80.145766,26.11456
+8d5bb097-d59f-49d0-911a-0af4f63f66a4,Ten 10 Brewing Co,brewpub,1010 Virginia Dr,,,Orlando,Florida,32803-2532,United States,4079308993,http://www.ten10brewingcompany.com,-81.365962,28.563698
+f76fdb64-ec0d-4f4c-8020-ef48cd1b136b,Tepeyolot Cerveceria,brewpub,2130 Kings Avenue,,,Jacksonville,Florida,32207,United States,9042400250,http://www.tepeys.com,-81.646224,30.306438
+c5ddef5e-2664-4f02-b59b-d37f00967414,Tequesta Brewing Co,micro,287 S US Highway 1,,,Tequesta,Florida,33469-2701,United States,5617455000,http://www.tequestabrewing.com,-80.084595,26.958196
+5ea973ae-4e09-414e-be35-b937685f8ad2,The 5 Barrel,taproom,121 S Palafox St,,,Pensacola,Florida,32502,United States,,http://www.the5barrel.com,-87.215476,30.410566
 ffe46b43-ebe3-4102-a3d2-4110fe1752a7,The Amelia Tavern,brewpub,318 Centre St,,,Fernandina Beach,Florida,32034-4241,United States,9043106088,http://www.TheAmeliaTavern.com,-81.46236272,30.67106045
 c78c54d8-ef9a-417c-838e-548e5a4d0f4f,The Bear And Peacock,micro,1288 Orange Ave,,,Winter Park,Florida,32789-4940,United States,4078012714,http://www.thebearandpeacock.com,-81.3566559,28.5929429
-b8428a9b-a712-4d05-8c6c-c585b4125371,The Florida Brewery,regional,202 Gandy Rd,,,Auburndale,Florida,33823-2726,United States,8639651825,http://www.floridabrewery.com,,
-79e9e59b-e943-4b3a-ab0b-a72501845feb,The Half Wall Brewery,brewpub,1887 SR 44,,,New Smyrna Beach,Florida,32168,United States,3864268410,http://www.halfwallbrewery.com,,
-9250d166-8224-4a1b-a75f-7470c2f7a268,The Mack House Brewpub,brewpub,9118 W State Road 84,,,Davie,Florida,33324-4416,United States,9544745040,http://www.themackhouse.com,,
+ce7fae3a-70f3-4221-8e10-06e44e483252,The BrewCraftery,taproom,2624 Land O Lakes Blvd,,,Land O Lakes,Florida,34639,United States,8138200050,http://www.thebrewcraftery.com,-82.464062,28.195831
+e5974664-dbe2-4e3d-aedc-c7fc721b9dca,The Brutalist,taproom,1776 11th Ave N,,,Saint Petersburg,Florida,33713,United States,8132212100,,-82.657741,27.782599
+8f21f0b2-3f4d-4fb3-9547-2f4743341af5,The Corkscrew Winery and Brewery,micro,1171 Main St,,,Lady Lake,Florida,32159,United States,3527511787,http://www.thecorkscrewwinery.com,-81.948595,28.941604
+b8428a9b-a712-4d05-8c6c-c585b4125371,The Florida Brewery,regional,202 Gandy Rd,,,Auburndale,Florida,33823-2726,United States,8639651825,http://www.floridabrewery.com,-81.781581,28.0689
+1ee18dc8-e431-46df-857a-07fa0a4136dc,The Liquid Garage,taproom,1306 Seven Springs Blvd,,,New Port Richey,Florida,34655,United States,7276455885,http://www.theliquidgarage.com,-82.697385,28.178817
+9250d166-8224-4a1b-a75f-7470c2f7a268,The Mack House Brewpub,brewpub,9118 W State Road 84,,,Davie,Florida,33324-4416,United States,9544745040,http://www.themackhouse.com,-80.273938,26.10432
 fafb891c-aace-44e9-b4d1-b554f0e6d72a,The Ravenous Pig / Cask & Larder,brewpub,565 W Fairbanks Ave,,,Winter Park,Florida,32789-5005,United States,3212804200,http://www.caskandlarder.com,-81.3558211,28.5933111
-2e8426ce-ade4-43f3-8966-ee839e1152ee,The Tank Brewing Company,micro,5100 NW 72nd Ave. Bay A-1,,,Miami,Florida,33166,United States,7868011554,http://www.thetankbrewing.com,,
-efcc1f93-659b-4e5b-aa97-5f8518c5ef36,The Wild Rover Brewery,micro,13921 Lynmar Blvd,,,Tampa,Florida,33626,United States,8134755995,http://www.thewildroverbrewery.com,,
+dcd0cb89-2709-41e4-9ecb-0a0d5c49e93a,The Ravenous Pig Brewing Co.,micro,565 W Fairbanks Ave,,,Winter Park,Florida,32789-5005,United States,3212804200,http://www.theravenouspig.com,-81.35614,28.593411
+2e8426ce-ade4-43f3-8966-ee839e1152ee,The Tank Brewing Company,micro,5100 NW 72nd Ave. Bay A-1,,,Miami,Florida,33166,United States,7868011554,http://www.thetankbrewing.com,-80.3082,25.824
+9db4c698-5b78-4623-9da1-4bf6753f5659,The Tubby Pig,brewpub,3732 Cleveland Ave,,,Fort Myers,Florida,33901-7907,United States,2393621670,,-81.872346,26.608189
+efcc1f93-659b-4e5b-aa97-5f8518c5ef36,The Wild Rover Brewery,brewpub,13921 Lynmar Blvd,,,Tampa,Florida,33626,United States,8134755995,http://www.thewildroverbrewery.com,-82.632234,28.065573
 19ad46cc-8102-47eb-bc11-0f91546e6e13,Three Bridges Brewing / Off the Wagon Brewery,brewpub,2107 Tamiami Trl S,,,Venice,Florida,34293-5011,United States,9414972048,http://www.otwbar.com,-82.3913649,27.0497931
-d60006b3-34eb-46e4-acd3-62a773d980ad,Titanic Brewing Co,brewpub,5813 Ponce de Leon Blvd,,,Miami,Florida,33146-2422,United States,3056672537,http://www.titanicbrewery.com,-80.271314,25.719812
+d8f013b3-6b5c-43ff-8124-0cf2d4afd55b,Three Bulls Tavern & Brewery,brewpub,4330 Bell Shoals Rd.,,,Valrico,Florida,33596,United States,8133813853,http://www.threebullstavern.com,-82.268319,27.874579
+3605889b-9efc-4e67-800d-cbec089a2a06,Three Odd Guys Brewing,brewpub,48 E 5 St,,,Apopka,Florida,32703,United States,4077032051,http://www.threeoddguysbrewing.com,-81.510086,28.671758
+c9258c45-4c31-4783-b778-5d602ce40dc2,Tidal Brewing Co,taproom,14311 Spring Hill Dr,,,Spring Hill,Florida,34609-5234,United States,3527011602,http://Tidalbrewingfl.com,-82.489153,28.477433
+d60006b3-34eb-46e4-acd3-62a773d980ad,Titanic Brewing Co,brewpub,5813 Ponce de Leon Blvd,,,Miami,Florida,33146-2422,United States,3056672537,http://www.titanicbrewery.com,-80.282757,25.710746
 ef25ed7b-5311-45d7-ad82-42e4f7714d2c,Tomoka Brewing Company,brewpub,4647 Clyde Morris Blvd Unit 504,,,Port Orange,Florida,32129-3001,United States,3862564979,http://www.tomokabrewingco.com,,
-7a2fe357-8cbf-45c4-9195-9b261846da32,troubled waters brewing co.,contract,670 Main Street,,,Safety Harbor,Florida,34695,United States,6303357890,http://www.troubledwatersbeer.com,-82.69391186,27.99073329
+42bc1e7b-9ff8-4dcd-9a75-03e306652d12,Tripping Animals Brewing Company,micro,2685 NW 105th Ave,,,Doral,Florida,33172,United States,3056461339,http://www.trippinganimals.com,-80.367019,25.798789
+7a2fe357-8cbf-45c4-9195-9b261846da32,Troubled Waters Brewing Co.,taproom,670 Main Street,,,Safety Harbor,Florida,34695,United States,6303357890,http://www.troubledwatersbeer.com,-82.694033,27.990654
 ffe5f5cd-242c-4da3-96ed-d8468a342284,Turn 2 Brewing Company Inc.,planning,,,,Sebring,Florida,33872-9253,United States,,http://www.turn2brew.com,,
-7570bfc2-7a5e-444e-bbb4-995703ea572b,Twisted Trunk Brewing Company,micro,2000 Pga Blvd Ste 5506,,,North Palm Beach,Florida,33408-2726,United States,5616712337,http://www.twistedtrunkbrewing.com,,
-fa21605f-18f8-48da-9302-97dcf2d3ac64,Two Frogs Brewing Company,micro,151 E Tarpon Ave,,,Tarpon Springs,Florida,34689-3451,United States,7279406077,,-82.75503088,28.14632482
+12bc6766-d1a3-45ed-930d-968249938bb4,Turn 2 Brewing Company Inc.,taproom,4496 Tanglewood Dr,,,Sebring,Florida,33872-9253,United States,8037102337,http://www.turn2brew.com,-81.500891,27.524037
+7570bfc2-7a5e-444e-bbb4-995703ea572b,Twisted Trunk Brewing Company,micro,2000 Pga Blvd Ste 5506,,,North Palm Beach,Florida,33408-2726,United States,5616712337,http://www.twistedtrunkbrewing.com,-80.063294,26.842854
+fa21605f-18f8-48da-9302-97dcf2d3ac64,Two Frogs Brewing Company,micro,151 E Tarpon Ave,,,Tarpon Springs,Florida,34689-3451,United States,7279406077,http://placeholder,-82.755058,28.1465
 02c2b09f-d059-4888-9164-e7d963c709e5,Two Henrys Brewing Company,micro,5210 Thonotosassa Rd,,,Plant City,Florida,33565-5700,United States,8137529100,,-82.1366836,28.0158875
-f3e74162-e002-43ad-acc8-2e55d563cd4a,Ulele Spring Brewery,brewpub,1810 N Highland Ave,,,Tampa,Florida,33602-2605,United States,,,-82.46281904,27.9599097
+f3e74162-e002-43ad-acc8-2e55d563cd4a,Ulele Spring Brewery,micro,1810 N Highland Ave,,,Tampa,Florida,33602-2605,United States,,,-82.462839,27.959928
+5a5717f1-71f5-4d70-9f19-77d9f9639421,Unbranded Brewing Company,taproom,1395 E 11th Ave,,,Hialeah,Florida,33010,United States,,http://www.unbrandedbrewing.com,-80.259691,25.834916
 684dfd0e-c132-413a-bb46-9daf08ed35e7,Uncle Ernies Bayfront Grill & Brew House,contract,1151 Bayview Ave,,,Panama City,Florida,32401-1452,United States,8507638427,http://uncleerniesbayfrontgrill.com/welcome/,-85.702765,30.1698125
+c581e660-5d6d-481b-9cdf-c353faea2d77,Unrefined Brewing,brewpub,312 East Tarpon Ave,,,Tarpon Springs,Florida,34689,United States,8134493273,http://www.unrefinedbrewing.com,-82.75309,28.145968
+1103e894-7812-4957-a05c-46c0ac437cdc,Unseen Creatures Brewing & Blending,taproom,4178 SW 74th Ct,,,Miami,Florida,33155,United States,7863518875,http://www.unseencreatures.com,-80.31616,25.732192
 779fbf58-ba7b-4f78-858c-db3a19aa6a04,Urban Comfort Restaurant and Brewery,brewpub,2601 Central Ave,,,Saint Petersburg,Florida,33713-8722,United States,7272018157,http://www.urbancomfortstpete.com,-82.668678,27.771098
 2d3c288c-ecb1-47fc-bca3-c277c7728944,Veterans United Craft Brewery,micro,8999 Western Way Ste 104,,,Jacksonville,Florida,32256,United States,9042533326,http://www.vubrew.com,-81.5570848,30.2008038
 3895d6bc-06f0-4440-8350-9b929b95cda2,Veza Sur Brewing Co,large,55 NW 25th St,,,Miami,Florida,33127-4415,United States,,,-80.19614871,25.80089733
-eadec31f-a82e-40c6-97ce-a160689e95cd,Walking Tree Brewery,micro,3209 Dodger Rd,,,Vero Beach,Florida,32960-7976,United States,3055623717,http://www.walkingtreebrewery.com,-80.41852475,27.6455742
-82cb77d5-b49e-43c4-b604-2ba532006d06,Waterfront Brewery LLC,brewpub,201 William St,,,Key West,Florida,33040-6679,United States,3054402270,http://www.thewaterfrontbrewery.com,-81.801344,24.561016
+eadec31f-a82e-40c6-97ce-a160689e95cd,Walking Tree Brewery,taproom,3209 Dodger Rd,,,Vero Beach,Florida,32960-7976,United States,7722173502,http://www.walkingtreebrewery.com,-80.418443,27.645603
+82cb77d5-b49e-43c4-b604-2ba532006d06,Waterfront Brewery LLC,brewpub,201 William St,,,Key West,Florida,33040-6679,United States,3054402270,http://www.thewaterfrontbrewery.com,-81.801053,24.561134
+8e736199-c336-4559-8787-658b1d564abd,Welton Brewing Company,taproom,2624 Land o lakes Blvd,,,Land O Lakes,Florida,34639,United States,8138200050,http://www.thebrewcraftery.com,-82.464062,28.195831
 493d8254-89e2-407a-986b-5ddb06a572e2,West Palm Beach Brewery & Wine Vault,brewpub,332 Evernia St,,,West Palm Beach,Florida,33401-5404,United States,5616198813,http://www.WestPalmBeer.com,-80.05314345,26.7110654
+1a54d23b-8afb-43a9-9e13-3a9e6e004aaa,Wet Dogs Brewing,taproom,231 North Main Avenue,,,Lake Placid,Florida,33852,United States,8634102010,http://www.wetdogsbrewing.com,-81.367063,27.30001
 f08836a0-a759-48a1-b8ae-22bfae945d22,Whisper Creek Farm: Kitchen and Brewery,brewpub,4040 Central Florida Pkwy,,,Orlando,Florida,32837-7662,United States,4073934755,http://www.grandelakes.com,-81.42861801,28.40168865
 69aacfb0-223a-452c-a71a-db3487dd4186,Wicked Barley Brewing Co.,brewpub,4100 Baymeadows Rd,,,Jacksonville,Florida,32217-4602,United States,9043797077,http://www.wickedbarley.com,-81.5779846,30.2208765
 8d18bc5f-91ae-48b4-8333-b2858f1649fb,Wild Hordeum Brewing Co.,planning,,,,Titusville,Florida,32796-2357,United States,7274886300,,,
-646c7e47-1f06-46e0-803f-8f989e95186b,Wolf Branch Brewing Co.,micro,119 N Bay St,,,Eustis,Florida,32726-3402,United States,4072761510,http://www.wolfbranchbrewing.com,-81.68556847,28.85386984
-9ebe71f4-6a99-4b06-8f89-f9ecfe891f44,Woodwright Brewing Company,micro,985 Douglas Ave,,,Dunedin,Florida,34698-4945,United States,7272388717,,-82.78780975,28.01539972
-fd99a363-f02a-4197-8ffc-bd7031ab9b45,WopsHops Brewing Company,brewpub,419 Sanford Ave,,,Sanford,Florida,32771-1970,United States,4078787819,http://www.wopshopsbrewing.com,-81.26485422,28.80875529
+0a3f68f7-a62e-42fb-ad2a-701c5c1b0ff3,Windermere Brewing Company,taproom,111 W 5th Avenue,,,Windermere,Florida,34786,United States,4073570072,http://www.windermerebrewing.com,-81.535843,28.495592
+646c7e47-1f06-46e0-803f-8f989e95186b,Wolf Branch Brewing Co.,taproom,119 N Bay St,,,Eustis,Florida,32726-3402,United States,4072761510,http://www.wolfbranchbrewing.com,-81.685502,28.853863
+e3e5fd88-2d5b-4224-8119-41f8374827ed,Wolf Branch Brewing Co. - Mount Dora,taproom,100 E 4th Ave,,,Mount Dora,Florida,32757,United States,4072761510,,-81.644538,28.799453
+9ebe71f4-6a99-4b06-8f89-f9ecfe891f44,Woodwright Brewing Company,taproom,985 Douglas Ave,,,Dunedin,Florida,34698-4945,United States,7272388717,,-82.787626,28.015512
+fd99a363-f02a-4197-8ffc-bd7031ab9b45,Wop's Hops Brewing Co.,brewpub,419 Sanford Ave,,,Sanford,Florida,32771,United States,14078787819,http://www.wopshopsbrewing.com,-81.264796,28.808764
+cd19ccd7-f2f7-441f-94cf-917f5e825171,World's Most Famous Brewery,taproom,816 Main St,,,Daytona Beach,Florida,32118,United States,5163228669,,-81.008716,29.226229
+e17d5fcd-2f5e-4f62-a113-867fc80a0c81,Woven Water Brewing Company,micro,456 W Columbus Dr,,,Tampa,Florida,33602,United States,8134439463,http://www.wovenwaterbrew.com,-82.46738,27.966645
 87003934-0deb-4c4e-bc31-a6fcff7943d2,Wynwood Brewing Company,micro,565 NW 24th St,,,Miami,Florida,33127-4327,United States,3056405043,http://www.wynwoodbrewing.com,-80.2044925,25.8003759
-0c27013d-74f0-4bc5-93e6-c95fa605ea81,Ye Olde Brothers Brewery,brewpub,4458 Highway 87,,,Navarre,Florida,32566-9658,United States,8506841495,http://www.yeoldbrothersbrewery.com,,
-698fe7e8-85e4-4482-b608-43534a67862a,Zephyrhills Brewing Company,proprietor,38530 5th Ave,,,Zephyrhills,Florida,33542-4318,United States,8137152683,http://www.zbcbeer.com,-82.17921783,28.23444039
+0c27013d-74f0-4bc5-93e6-c95fa605ea81,Ye Olde Brothers Brewery,brewpub,4458 Highway 87,,,Navarre,Florida,32566-9658,United States,8506841495,http://www.yeoldbrothersbrewery.com,-86.909549,30.466159
+77d2429d-707f-4d7d-aaa0-da1eca2d2fdc,Yeasty Brews,taproom,3944 NW 19 St,,,Fort Lauderdale,Florida,33311,United States,3057107794,http://www.yeastybrews.com,-80.200941,26.150481
+698fe7e8-85e4-4482-b608-43534a67862a,Zephyrhills Brewing Company,alt prop,38530 5th Ave,,,Zephyrhills,Florida,33542-4318,United States,8137152683,http://www.zbcbeer.com,-82.179008,28.2343
 06244489-87fd-44ea-8a83-f0b3f1210314,Zeta Brewing Company,brewpub,131 1st Ave N,,,Jacksonville Beach,Florida,32250-6912,United States,9043720727,http://www.zetabrewing.com,-81.39029104,30.29038796
-8d18da7a-1ed9-4eb4-b87c-ac444aa81e14,Zydeco Brew Werks,brewpub,1902 E 7th Ave,,,Tampa,Florida,33605-3810,United States,8132524541,,-82.43783229,27.9603438
+8d18da7a-1ed9-4eb4-b87c-ac444aa81e14,Zydeco Brew Werks,brewpub,1902 E 7th Ave,,,Tampa,Florida,33605-3810,United States,8132524541,,-82.437794,27.960463

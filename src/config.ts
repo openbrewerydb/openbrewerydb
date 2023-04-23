@@ -15,25 +15,6 @@ export const headers = [
   "latitude",
 ];
 
-export const BREWERY_TYPES = [
-  "alt prop",
-  "bar",
-  "beer brand",
-  "brewpub",
-  "cidery",
-  "closed",
-  "contract",
-  "large",
-  "location",
-  "micro",
-  "nano",
-  "office only location",
-  "planning",
-  "proprietor",
-  "regional",
-  "taproom",
-] as const;
-
 export const papaParseOptions = {
   header: true,
   skipEmptyLines: true,

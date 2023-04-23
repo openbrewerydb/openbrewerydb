@@ -1,308 +1,499 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+be41a462-294e-4246-a4fe-c87a596e0d30,12 Bones Brewing,taproom,2350 Hendersonville Rd,,,Arden,North Carolina,28704,United States,,http://www.12bonesbrewing.com,-82.51619,35.465827
 5c53b314-ebab-4e3e-89be-e4139d9318ae,1323 R & D,micro,1323 Capital Blvd 1323 R and D,,,Raleigh,North Carolina,27603-1117,United States,9199775654,http://www.1323rnd.com,,
 f41a0c47-ba9b-4547-bfed-fcbefe0fc74b,1718 Ocracoke Brewing,brewpub,1129 Irvin Garrish Hwy,,,Ocracoke,North Carolina,27960,United States,2529282337,http://www.ocracokebrewing.com,-75.97176063,35.10715368
 46a8ed58-5d1a-413e-871e-d2d29d6d43f0,217 Brew Works,micro,217 South St S,,,Wilson,North Carolina,27893-4911,United States,2529916959,,-77.9120318,35.7227625
-a964a343-e4f1-40d8-9353-09ef9b74f513,34 Degree North Experiment Station,micro,4802 Main St,,,Shallotte,North Carolina,28470,United States,,,-78.38636517,33.97270364
+6c5cd76c-199b-4086-9854-2c71a8e24b39,2x4 Brew Pub,brewpub,20 Gala Drive,,,Asheville,North Carolina,28803,United States,,,-82.521969,35.503416
+a964a343-e4f1-40d8-9353-09ef9b74f513,34 Degree North Experiment Station,taproom,4802 Main St,,,Shallotte,North Carolina,28470,United States,,,-78.386484,33.973273
 694547f5-28fd-4363-bad6-03b6eaf0f1dd,3rd Degree Brewhouse,micro,1625 N Main St,,,Fuquay Varina,North Carolina,27526,United States,9192015457,http://www.facebook.com/3rddegreebrewhouse/,-78.794223,35.5914556
 3c9354c5-4d21-40a8-8e53-8f2f9b5e043b,3rd Rock Brewing Company,micro,134 Industrial Park Dr,,,Trenton,North Carolina,28585-9593,United States,2526319213,http://www.3rockbrew.com,-77.36749285,35.06939877
+e6c75abf-075e-4c9f-8567-3e14c8832b9b,78 Catawba Avenue,brewpub,78 Catawba Avenue,,,Old Fort,North Carolina,28762,United States,8286686372,,-82.181834,35.627855
+c383f694-5a2f-4ce6-9b62-9c2705419bb6,All Sevens Brewing,brewpub,777 Haywood Rd,,,Asheville,North Carolina,28806,United States,8282259782,http://www.allsevensavl.com,-82.594292,35.578836
+38081162-63c6-4a92-be9e-e4755e2a952a,Altered State Brewing Company,taproom,8471 Garvey Dr,,,Raleigh,North Carolina,27616-3370,United States,9198162324,http://www.alteredstatebrewing.com,-78.568523,35.896382
+b844be59-36e7-469c-af4b-7abe330fd6f7,Americana Beer Company,taproom,222 N Main St,,,Monroe,North Carolina,28112,United States,1904238021,http://www.linktr.ee/americanabeerco,-80.550152,34.982166
 bd12815b-aceb-485f-9070-e37b03bbcbb4,Andrews Brewing Co At Calaboose Cellars,micro,575 Aquone Rd,,,Andrews,North Carolina,28901-7004,United States,8283212006,http://www.calaboosecellars.com,-83.81487799,35.19958164
+f9fb6829-819f-4a8d-b344-26b5017735ff,Angry Troll Brewing,brewpub,222 E Main St,,,Elkin,North Carolina,28621-3493,United States,3362582251,http://www.angrytrollbrewing.com,-80.848627,36.244476
 fa4da286-e9a3-4d00-ab49-8e5f027f76d5,Angry Troll Brewing / 222 Public House,brewpub,222 E Main St Ste U2,,,Elkin,North Carolina,28621-3493,United States,3362582251,http://www.angrytrollbrewing.com,,
 5b127f6a-3364-4588-b5ad-f7953fc6ee54,Appalachian Mountain Brewery - Boone,micro,163 Boone Creek Dr,,,Boone,North Carolina,28607-7911,United States,8282631111,http://www.appalachianmountainbrewery.com,-81.668461,36.2033414
-d86d40e0-1a3f-4c34-9b07-002191bc0952,Archetype Brewing,micro,265 Haywood Rd,,,Asheville,North Carolina,28806-4545,United States,8285054177,http://www.archetypebrewing.com,,
+d86d40e0-1a3f-4c34-9b07-002191bc0952,Archetype Brewing,taproom,265 Haywood Rd,,,Asheville,North Carolina,28806-4545,United States,8285054177,http://www.archetypebrewing.com,-82.574952,35.578252
+218068c9-ba43-4c92-8483-46cfd3eebc68,Armored Cow Brewing Co.,brewpub,8821 JW Clay Blvd Ste 1,,,Charlotte,North Carolina,28262,United States,7046159990,,-80.753049,35.313309
+557d4cec-7193-43ba-bd82-6a3bbf6d7187,Artisanal Brewing Ventures,regional,4001 Yancey Rd Ste A,,,Charlotte,North Carolina,28217-1772,United States,7045795625,,-80.878709,35.186542
 b5671147-4dec-4e19-b256-79a2f03b94e9,Asheville Brewing Co,brewpub,77 Coxe Ave,,,Asheville,North Carolina,28801-3621,United States,8282554077,http://www.ashevillepizza.com,-82.55530545,35.5917763
-eafb7a5f-83c9-427b-b894-8ea1d0751c31,Ass Clown Brewing Co,micro,10620 Bailey Rd Ste E,,,Cornelius,North Carolina,28031-9364,United States,9805050399,http://www.assclownbrewery.com,,
-7006a17a-74da-497a-ba35-2338c7efbb25,Aviator Brewing Company,regional,209 Technology Park Ln,,,Fuquay Varina,North Carolina,27526-9311,United States,9195672337,http://www.aviatorbrew.com,-78.8073896,35.61695983
-cb8d7ce9-114c-44b6-91de-45ad0cd2285f,Balsam Falls Brewing,micro,506 W Main St,,,Sylva,North Carolina,28779-5544,United States,8286311987,,-83.2218237,35.3737065
+eafb7a5f-83c9-427b-b894-8ea1d0751c31,Ass Clown Brewing Co,taproom,10620 Bailey Rd Ste E,,,Cornelius,North Carolina,28031-9364,United States,7049978490,http://www.assclownbrewery.com,-80.855032,35.457713
+7006a17a-74da-497a-ba35-2338c7efbb25,Aviator Brewing Company,micro,209 Technology Park Ln,,,Fuquay Varina,North Carolina,27526-9311,United States,9195672337,http://www.aviatorbrew.com,-78.808522,35.619695
+cb8d7ce9-114c-44b6-91de-45ad0cd2285f,Balsam Falls Brewing,brewpub,506 W Main St,,,Sylva,North Carolina,28779-5544,United States,8286311987,,-83.222023,35.373738
 de70c697-36e2-4f30-9c08-f15fbca43bc8,Bark Brewing Company,brewpub,3021 Spring Garden St,,,Greensboro,North Carolina,27403-1968,United States,3368561406,http://barkbrewingcompany.com,-79.84360434,36.06201036
 4e51c656-001a-4f64-9fcd-0edc5b8e6669,Barking Duck Brewing Company,micro,4400 Morris Park Dr Ste R,,,Mint Hill,North Carolina,28227-9269,United States,9809386300,http://www.barkingduckbrew.com,,
-0a857a91-0b76-4850-9594-08938b756d99,Barrel Culture Brewing And Blending,proprietor,4913 S Alston Ave,,,Durham,North Carolina,27713-4424,United States,,,-78.88891655,35.89445737
+0a857a91-0b76-4850-9594-08938b756d99,Barrel Culture Brewing And Blending,micro,4913 S Alston Ave,,,Durham,North Carolina,27713-4424,United States,,,-78.888543,35.893273
 a30cdbff-d7d7-48b2-8aa1-90a25758ad02,BDD Brewing Company,micro,1147 Falls Rd Ste 107,,,Rocky Mount,North Carolina,27804,United States,9196327551,,-77.80208267,35.958026
-c682b36a-29b9-429f-b109-e75251bb6cd8,Bear Creek Brews,micro,10538 Nc 902 Hwy,,,Bear Creek,North Carolina,27207-9269,United States,9192003930,http://www.bearcreekbrews.com,,
+c682b36a-29b9-429f-b109-e75251bb6cd8,Bear Creek Brews,micro,10538 Nc 902 Hwy,,,Bear Creek,North Carolina,27207-9269,United States,9192003930,http://www.bearcreekbrews.com,-79.330816,35.653191
+944a2575-c861-4cd0-aa10-77f1ca71e86d,BearWaters Brewing - Riverside,brewpub,339 Park St,,,Canton,North Carolina,28716-4319,United States,8284920220,http://www.bearwatersbrewing.com,-82.84286,35.531343
 a2a4f05a-7e2d-4b7c-a22f-45f90db7d334,BearWaters Brewing Co,brewpub,101 Park St,,,Canton,North Carolina,28716-4319,United States,8282734200,http://www.bwbrewing.com,-82.843001,35.53137
-4e43ccbc-bc47-405d-a48b-1d928c5ca462,Beech Mountain Brewing Company,micro,1007 Beech Mountain Pkwy,,,Beech Mountain,North Carolina,28604-8018,United States,8283872011,http://www.beechmountainresort.com,-81.873356,36.16819584
+61f24712-b9e0-4246-ad38-d4a92d77765c,BearWaters Brewing Co - Creekside,taproom,4352 Soco Rd,,,Maggie Valley,North Carolina,28751,United States,8289440009,,-83.101381,35.518477
+4e43ccbc-bc47-405d-a48b-1d928c5ca462,Beech Mountain Brewing Company,brewpub,1007 Beech Mountain Pkwy,,,Beech Mountain,North Carolina,28604-8018,United States,8283872011,http://www.beechmountainresort.com,-81.878179,36.193918
 98b4c7f1-cdf7-465b-a41c-ab456bfd6a61,Beer Army,brewpub,,,,New Bern,North Carolina,28564-3051,United States,2522885814,,,
+dc38fbc3-a297-405c-bde5-d4eb082031fa,Beer Lab By Ghostface Brewing,micro,225 S Broad St,,,Mooresville,North Carolina,28115,United States,7042337056,,-80.815329,35.581515
+7e272099-9772-46a8-ae9b-751157314b22,Belleau Wood Brewing Company,taproom,6 W Ivey St,,,Lillington,North Carolina,27546-5620,United States,9199841312,,-78.816787,35.39786
+c9af4bd6-ee63-4766-969e-804fd781e0d8,Belmont Brewing Company,taproom,1500 River Drive,,,Belmont,North Carolina,28012,United States,9804833740,,-81.015828,35.236692
 db8a8a89-3084-4632-8215-36c9446426b5,Ben's Tune-Up / Ben's Beer,brewpub,195 Hilliard Ave,,,Asheville,North Carolina,28801-3616,United States,8284247580,http://www.benstuneup.com,-82.5557931,35.5912756
 e5fc6a44-a2f0-4c19-82a7-cb160e3a7a86,Bhramari Brewhouse,micro,101 S Lexington Ave,,,Asheville,North Carolina,28801-3309,United States,8282147981,http://www.bhramaribrewing.com,-82.55191879,35.59166763
-b1813df6-ffad-4604-b909-874bfb56e41b,Big Boss Brewing Co,micro,1249 Wicker Dr Ste A,,,Raleigh,North Carolina,27604-1683,United States,9198340045,http://www.bigbossbrewing.com,,
+b1813df6-ffad-4604-b909-874bfb56e41b,Big Boss Brewing Co,micro,1249 Wicker Dr,,,Raleigh,North Carolina,27604-1683,United States,9198180277,http://www.bigbossbrewing.com,-78.61792,35.810414
+0d3c9785-b84c-48f4-9508-f31240ad9037,Big Boss Brewing Co,micro,1249 Wicker Dr,,,Raleigh,North Carolina,27604-1683,United States,9198180277,http://www.bigbossbrewing.com,-78.61792,35.810414
+a5b00dc0-7e87-4fa0-a838-32e0db71eccb,Big Game Brewing,micro,225 East New Bern Road,,,Kinston,North Carolina,28504,United States,,,-77.582142,35.242265
+6c07c7c1-2f05-4ed3-92a1-27b226a67825,Big Pillow Brewing Company,taproom,27 n andrews ave,,,Hot Springs,North Carolina,28743,United States,5416399371,http://www.bigpillowbrewing.com,-82.826762,35.893749
 2e6d6446-a752-4ed5-85dc-164d7bb799ba,Bill's Brewing Co.,brewpub,4238 Market St.,,,Wilmington,North Carolina,28403,United States,9107626333,http://www.billsfrontporch.com,-77.892361,34.242224
+502164d6-3b55-415f-bcc7-619dba583e86,Bill's Brewing Company,brewpub,4238 Market St,,,Wilmington,North Carolina,28403,United States,9107626333,http://www.billsfrontporch.com,-77.892159,34.242003
 76f46964-b68a-4156-8a61-dbd2e6acaacf,Bill's Front Porch Pub and Brewery,brewpub,4238 Market St,,,Wilmington,North Carolina,28403-1409,United States,9107626333,http://www.billsfrontporch.com,-77.892361,34.242224
+fcaaee7c-37ae-4baa-a73b-b651760e16c1,Billy Beer,micro,50 Capital Dr,,,Walstonburg,North Carolina,27888,United States,,http://www.billybeer.com,-77.666483,35.607819
 6ccd6e8a-5d6c-4a5e-a285-57067d8b3a41,Biltmore Brewing Company,proprietor,1 N Pack Sq C/O Biltmore Winery Estates,,,Asheville,North Carolina,28801-3462,United States,8004113812,http://www.biltmore.com,,
-2f8dee5a-fc6e-49f3-84de-20ca5580acd4,Birdsong Brewing Co.,micro,1016 N Davidson St,,,Charlotte,North Carolina,28206-3371,United States,7043321810,http://www.birdsongbrewing.com,-80.82704272,35.23060753
-68534594-0610-4e38-93fa-b8a9e76941c6,Black Creek Brewery,micro,111 Depot St,,,Roxboro,North Carolina,27573-5503,United States,9195244319,,-78.98146367,36.39362085
+19acfbcb-eb52-42ac-a4b1-eb5c8ffefccb,Biltmore Brewing Company,alt prop,1 N Pack Sq,,,Asheville,North Carolina,28801-3462,United States,8004113812,http://www.biltmore.com,-82.551303,35.595459
+2f8dee5a-fc6e-49f3-84de-20ca5580acd4,Birdsong Brewing Co.,micro,1016 N Davidson St,,,Charlotte,North Carolina,28206-3371,United States,7043321810,http://www.birdsongbrewing.com,-80.826423,35.230652
+68534594-0610-4e38-93fa-b8a9e76941c6,Black Creek Brewery,taproom,111 Depot St,,,Roxboro,North Carolina,27573-5503,United States,9195244319,,-78.982736,36.393788
+071b244c-0b14-4390-b27d-92194cbbebb1,Black Mountain Brewing,taproom,131 Broadway Street,,,Black Mountain,North Carolina,28711,United States,8283575010,,-82.319543,35.616857
 f2972e73-5167-41ea-ab23-08c16ec14221,Blind Squirrel Brewery,micro,4716 South US Highway 19 E Suite B,,,Plumtree,North Carolina,28664-0173,United States,8287652739,http://www.blindsquirrelbrewery.com,,
-22ef447a-0379-4be5-ab93-72d95e4a778a,Blowing Rock Brewing Company,brewpub,152 Sunset Dr,,,Blowing Rock,North Carolina,28605-7205,United States,8284149600,http://www.blowingrockbrewing.com,-81.677229,36.1327196
-68f388b7-f7ed-4ece-8968-879d2846b189,Blue Blaze Brewing,micro,528 S Turner Ave,,,Charlotte,North Carolina,28208-4259,United States,9808592586,http://www.blueblazebrewing.com,-80.86710843,35.24138809
-2e73516c-cb09-4946-a500-e6bc12149b97,Blue Ghost Brewing Company,brewpub,125 Underwood Rd,,,Fletcher,North Carolina,28732-,United States,8283760159,http://www.blueghostbrewing.com,-82.5305803,35.4368388
-23799b52-1cb9-423e-abd5-35c913bf68e9,Blue Mountain Pizza and Brew Pub,brewpub,55 N Main St,,,Weaverville,North Carolina,28787-6634,United States,8286588777,http://www.bluemountainpizza.com,-82.55934457,35.70849553
+22ef447a-0379-4be5-ab93-72d95e4a778a,Blowing Rock Brewing Company,brewpub,152 Sunset Dr,,,Blowing Rock,North Carolina,28605-7205,United States,8284149600,http://www.blowingrockbrewing.com,-81.677261,36.132686
+c7d060db-151e-4d35-bfee-bc3aabc1139c,Blowing Rock Draft House and Brewery,brewpub,883 Highland Ave SE,,,Hickory,North Carolina,28602,United States,8288559999,,-81.325602,35.735378
+68f388b7-f7ed-4ece-8968-879d2846b189,Blue Blaze Brewing,taproom,528 S Turner Ave,,,Charlotte,North Carolina,28208-4259,United States,9808592586,http://www.blueblazebrewing.com,-80.867139,35.241976
+2e73516c-cb09-4946-a500-e6bc12149b97,Blue Ghost Brewing Company,brewpub,125 Underwood Road,,,Fletcher,North Carolina,28732,United States,8283760159,http://www.blueghostbrewing.com,-82.530462,35.43705
+cc06e310-b93f-43fc-b2ed-a0a5ac5225df,Blue Ghost Brewing Company,brewpub,125 Underwood Road,,,Fletcher,North Carolina,28732,United States,8283760159,http://www.blueghostbrewing.com,-82.530462,35.43705
+23799b52-1cb9-423e-abd5-35c913bf68e9,Blue Mountain Pizza and Brew Pub,brewpub,55 N Main St,,,Weaverville,North Carolina,28787-6634,United States,8286588778,http://www.bluemountainpizza.com,-82.5602,35.698224
 e1312a12-35d9-4636-a80a-9f9a95463964,Blue Ridge Community College,planning,,,,Flat Rock,North Carolina,28731-4774,United States,8286941674,http://www.blueridge.edu,,
+8080ded2-6f49-4c6a-ae70-f653da309276,BMC  Brewing,taproom,213 Lorax Lane,,,Pittsboro,North Carolina,27312,United States,9197591206,http://www.bmcbrewing.com,-79.156507,35.710042
 bcaa1166-a27a-447f-b057-3bf43d21ed68,Bold Missy Brewery,brewpub,610 Anderson St,,,Charlotte,North Carolina,28205-1208,United States,9802994184,http://www.boldmissybrewery.com,-80.796429,35.24960852
-43a54dba-6adf-4248-bffd-50e0cf422b93,Bombshell Beer Company,micro,120 Quantum Dr,,,Holly Springs,North Carolina,27540-8861,United States,9198231933,http://www.bombshellbeer.com,-78.83588932,35.65841825
-1186065b-e2c7-4d71-8bc2-30bcdd0e6150,Bond Brothers Beer Company,micro,202 E Cedar St,,,Cary,North Carolina,27511-3440,United States,9194592670,http://www.bondbrothersbeer.com,-78.77797444,35.78798475
-1e9d4558-c7eb-44a6-b943-1f7c2f39f9c5,Boojum Brewing Company,micro,357 Dayton Dr,,,Waynesville,North Carolina,28786-6931,United States,8289440888,http://www.BoojumBrewing.com,-82.99383657,35.52574804
-01f95ff4-9f8a-4626-8b01-75efb27f8673,Boondocks Brewing,brewpub,302 S Jefferson Ave,,,West Jefferson,North Carolina,28694-,United States,3362465222,http://www.boondocksbrew.com,-81.49133567,36.39941459
-bcdb6b87-37af-4168-ae08-976e89498a10,Booneshine Brewing Company,micro,465 Industrial Park Dr.,,,Boone,North Carolina,28607,United States,8282634305,http://www.booneshine.beer,-81.645208,36.222104
+43a54dba-6adf-4248-bffd-50e0cf422b93,Bombshell Beer Company,micro,120 Quantum Dr,,,Holly Springs,North Carolina,27540-8861,United States,9198231933,http://www.bombshellbeer.com,-78.836856,35.658214
+1186065b-e2c7-4d71-8bc2-30bcdd0e6150,Bond Brothers Beer Company,taproom,202 E Cedar St,,,Cary,North Carolina,27511-3440,United States,9194592670,http://www.bondbrothersbeer.com,-78.778234,35.788184
+1e9d4558-c7eb-44a6-b943-1f7c2f39f9c5,Boojum Brewing Company,micro,357 Dayton Dr,,,Waynesville,North Carolina,28786-6931,United States,8289440888,http://www.BoojumBrewing.com,-82.994429,35.525599
+01f95ff4-9f8a-4626-8b01-75efb27f8673,Boondocks Brewing,brewpub,302 S Jefferson Ave,,,West Jefferson,North Carolina,28694,United States,3362465222,http://www.boondocksbrew.com,-81.491576,36.39957
+bcdb6b87-37af-4168-ae08-976e89498a10,Booneshine Brewing Company,brewpub,465 Industrial Park Dr.,,,Boone,North Carolina,28607,United States,8282634305,http://www.booneshine.beer,-81.643206,36.222608
 e23c476c-0f42-4d31-9a59-0fe5a809c76f,Bottle Tree Beer Co,contract,10 N Trade St Apt A,,,Tryon,North Carolina,28782-3476,United States,8642660133,http://www.bottletree.net,,
 280918cb-8713-4c5a-85c8-005a6b8d4d33,Boylan Bridge Brewpub,brewpub,201 S BOYLAN AVE,,,Raleigh,North Carolina,27603-1803,United States,9198038927,http://www.boylanbridge.com,-78.649139,35.778465
-d2bbcb0a-59a1-481e-886a-df2a0decbbc8,Brevard Brewing Co,micro,63 E Main St,,,Brevard,North Carolina,28712-3746,United States,,http://www.brevard-brewing.com,-82.7303593,35.2319789
+977d18a6-a7c0-403c-bc76-980db99c8fee,Bragging Rooster Beer and Mead,taproom,120 S Main St,,,Warrenton,North Carolina,27589,United States,2528790173,http://www.braggingrooster.com,-78.155046,36.397932
+d2bbcb0a-59a1-481e-886a-df2a0decbbc8,Brevard Brewing Co,taproom,63 E Main St,,,Brevard,North Carolina,28712-3746,United States,,http://www.brevard-brewing.com,-82.73327,35.233438
+020290ea-8918-4c42-8bc0-6911069c7f10,Brew and Feed Brewing,micro,225 S Broad St,,,Mooresville,North Carolina,28115,United States,9806891927,http://www.brewandfeed.com,-80.815329,35.581515
 3c666d47-78ff-4e4c-a1f0-c5a9aeb9ad9c,Brewers,planning,,,,Charlotte,North Carolina,28217,United States,,,,
-affcbbea-9dce-435f-9440-d0964cebae7a,Brewery 99,micro,417 Broad St Ste F,,,New Bern,North Carolina,28560-4900,United States,2522596393,http://www.brewery99.com,,
-cbdfe3ef-928c-4444-b5f1-c1a2fcd3e14b,Brewery Bhavana,micro,218 S Blount St,,,Raleigh,North Carolina,27601,United States,4154701370,http://brewerybhavana.com,-78.6366938,35.77786298
+2137d781-c473-4c2c-94c1-284d51a00194,Brewers At 4001 Yancey,brewpub,4001 Yancey Rd,,,Charlotte,North Carolina,28217,United States,,,-80.878709,35.186542
+affcbbea-9dce-435f-9440-d0964cebae7a,Brewery 99,taproom,417 Broad St Ste F,,,New Bern,North Carolina,28560-4900,United States,2522596393,http://www.brewery99.com,-77.040959,35.108063
+af49c56c-4093-4992-af7c-7b43b5542a45,Brewery 99 - Production Facility,micro,1014 Pollock Street,,,New Bern,North Carolina,28560,United States,,,-77.050739,35.107039
+cbdfe3ef-928c-4444-b5f1-c1a2fcd3e14b,Brewery Bhavana,micro,1401 S Bloodworth St Ste 101,,,Raleigh,North Carolina,27610,United States,4154701370,http://brewerybhavana.com,-78.633965,35.763186
+4d2ed101-a89c-45f3-a538-6da0acd9c177,Brewery Bhavana,micro,1401 S Bloodworth St Ste 101,,,Raleigh,North Carolina,27610,United States,4154701370,http://brewerybhavana.com,-78.633965,35.763186
 943e18a6-f4e8-4651-b49e-1e0967cb687d,Brice's Brewing Company,micro,1822 Garner Station Blvd,,,Raleigh,North Carolina,27603-3643,United States,9842001803,http://www.bricesbrewing.com,-78.65871577,35.72493108
-488ed63b-a706-4519-9f97-3d03b224e7a6,Bright Light Brewing Company,micro,444 W Russel St Ste 102,,,Fayetteville,North Carolina,28301,United States,9103390464,,,
+58d390ec-b226-4591-9086-3224e9c06a74,BrickTree Brewing Co.,taproom,414 E Water St,,,Lincolnton,North Carolina,28092-3353,United States,9807854970,http://www.bricktreebrewing.com,-81.251383,35.472079
+488ed63b-a706-4519-9f97-3d03b224e7a6,Bright Light Brewing Company,taproom,444 W Russel St Ste 102,,,Fayetteville,North Carolina,28301,United States,9103390464,,-78.885239,35.052964
 28862a02-5d35-4a4a-833b-acd94dfbb4a0,Bright Penny Brewing Company,contract,309 W Graham St,,,Mebane,North Carolina,27302-2311,United States,,http://www.brightpennybrewing.com,-79.27030152,36.09926877
-cc1c45a6-09d4-4f32-bf72-cde81102a8bd,Broomtail Craft Brewery,micro,6404 Amsterdam Way Ste 100,,,Wilmington,North Carolina,28405-2563,United States,9102641369,http://www.broomtailcraftbrewery.com,,
-67840cfb-5c46-4a2b-912c-49165bc73d88,Brouwerij Cursus Keme,brewpub,155 Thompson St,,,Asheville,North Carolina,28803-1443,United States,,,-82.52572837,35.57438843
-57d05506-be15-4281-bb0b-1b139d75e66a,Brown Truck Brewery,micro,1234 N Main St,,,High Point,North Carolina,27262-3118,United States,3368861234,http://www.browntruckbrewery.com,-80.0158688,35.9709266
-6817baf7-52fc-4ab6-8d28-79d598676fad,Brueprint Brewing Company LLC,micro,1229 Perry Rd Ste 101,,,Apex,North Carolina,27502-6898,United States,9199718846,http://www.brueprint.com,-78.85014375,35.70884819
-d89ba7ba-c249-48a2-bae7-48f3b39cb18f,Bull City Burger And Brewery,brewpub,107 E Parrish St Ste 105,,,Durham,North Carolina,27701-3318,United States,9196802333,http://www.bullcityburgerandbrewery.com,,
+ba699e18-3989-41c1-b369-d2bd7a92ca27,Bright Penny Brewing Company,brewpub,107 North 7th St,,,Mebane,North Carolina,27302-2311,United States,9194825588,http://www.brightpennybrewing.com,-79.263697,36.095632
+cc1c45a6-09d4-4f32-bf72-cde81102a8bd,Broomtail Craft Brewery,micro,6404 Amsterdam Way Ste 100,,,Wilmington,North Carolina,28405-2563,United States,9102641369,http://www.broomtailcraftbrewery.com,-77.846779,34.25971
+67840cfb-5c46-4a2b-912c-49165bc73d88,Brouwerij Cursus Keme,brewpub,155 Thompson St,,,Asheville,North Carolina,28803-1404,United States,8284125193,,-82.524998,35.575809
+57d05506-be15-4281-bb0b-1b139d75e66a,Brown Truck Brewery,micro,1234 N Main St,,,High Point,North Carolina,27262-3118,United States,3368861234,http://www.browntruckbrewery.com,-80.016117,35.97156
+6817baf7-52fc-4ab6-8d28-79d598676fad,Brueprint Brewing Company LLC,micro,1229 Perry Rd Ste 101,,,Apex,North Carolina,27502-6898,United States,9199718846,http://www.brueprint.com,-78.851408,35.712036
+51420669-6d7a-4c23-9453-9bc55b5ffc46,BrÜtopia Brewing Co,taproom,1201 US Highway 70 E,,,New Bern,North Carolina,28560,United States,2526315142,http://www.brutopiabeer.com,-77.030792,35.078146
+e1bd0d3a-a2cd-41e9-8da0-1a4f257f90f0,Buck Bald Brewing Murphy,taproom,104 Tennessee St,,,Murphy,North Carolina,28906,United States,,,-84.035053,35.08962
+d89ba7ba-c249-48a2-bae7-48f3b39cb18f,Bull City Burger And Brewery,brewpub,107 E Parrish St Ste 105,,,Durham,North Carolina,27701-3318,United States,9196802333,http://www.bullcityburgerandbrewery.com,-78.899835,35.995548
 6e967aa2-6e2b-4396-ac4e-d4cd8119cbb3,Bull Durham Beer Co,micro,409 Blackwell St,,,Durham,North Carolina,27701-3972,United States,9197443568,http://www.bulldurhambeer.com,-78.90481568,35.9915653
-b571a872-4317-48e2-a0a2-18607eedb6e7,Burial Beer Co,micro,40 Collier Ave,,,Asheville,North Carolina,28801-4024,United States,,http://www.burialbeer.com,-82.55379062,35.5879562
+b98b6c47-0625-4e32-84cf-95475d556738,Bull Durham Beer Co,alt prop,8816 Gulf Court Ste 100,,,Raleigh,North Carolina,27617,United States,,,-78.762498,35.903679
+b571a872-4317-48e2-a0a2-18607eedb6e7,Burial Beer Co,micro,40 Collier Ave,,,Asheville,North Carolina,28801-4024,United States,,http://www.burialbeer.com,-82.553634,35.588053
 854f374d-ad3e-4b8a-b1e5-b780eba1918a,Burial Beer Co Forestry Camp,micro,,,,Asheville,North Carolina,28803-2719,United States,,,,
+8a5eaff4-97f6-4ff8-a9f8-4a1bcbdc7359,Burial Beer Co Forestry Camp,micro,10 Shady Oak Dr,,,Asheville,North Carolina,28803,United States,,,-82.537323,35.563121
+3222e761-b642-4c20-9cf7-6ea07e64acf6,Burlington Beer Works,brewpub,103 E Front St,,,Burlington,North Carolina,27215-5803,United States,3362635139,http://www.burlingtonbeerworks.coop,-79.436726,36.093627
+127f041d-ce34-40ad-9039-a987884221c2,Burning Blush Brewery,taproom,4891 Boylston Hwy,,,Mills River,North Carolina,28759,United States,,http://www.burningblush.com,-82.569248,35.383523
+09afd1b8-cc81-4b96-b2ec-de80450bdb89,Buzzed Viking Brewing Company,brewpub,1048 Copperfield Blvd NE,,,Concord,North Carolina,28025,United States,7047245379,http://buzzedviking.com,-80.586545,35.458225
 ef9d5ee5-045d-4d41-92f9-2d518fa0cc7a,Cabarrus Brewing Company,micro,329 McGill Ave NW,,,Concord,North Carolina,28027-6149,United States,7044904487,http://www.cabarrusbrewing.com,-80.60600028,35.41573578
+9695db2c-c8d9-4788-bd5c-ab947e460ba4,Camelback Brewing Company,brewpub,804 Spring Lane,,,Sanford,North Carolina,27330,United States,9194781614,http://www.camelbackbrewingco.com,-79.193895,35.487374
+8c17d34e-b7fc-4dbe-8db9-acbe83ce8fac,Carolina Brewery,brewpub,120 Lowes Drive,,,Pittsboro,North Carolina,27312,United States,9195452330,http://www.carolinabrewery.com,-79.164693,35.743651
 737792a8-6c59-4e95-82cf-7cdc6cb079c1,Carolina Brewery - Chapel Hill,brewpub,460 W Franklin St,,,Chapel Hill,North Carolina,27516,United States,9199421800,http://www.carolinabrewery.com,-79.0627304,35.9106269
-68d63e28-2666-47f4-9d74-daf21aa85e80,Carolina Brewery - Pittsboro,micro,120 Lowes Dr Ste 100,,,Pittsboro,North Carolina,27312-8872,United States,9195452337,http://www.carolinabrewery.com,-79.1652429,35.7438093
-76d1605e-55fc-4c6b-8ba2-7a8d30eac9f6,Carolina Brewing Co,micro,140 Thomas Mill Rd,,,Holly Springs,North Carolina,27540-9372,United States,9195572337,http://www.carolinabrew.com,-78.85444105,35.6561051
+68d63e28-2666-47f4-9d74-daf21aa85e80,Carolina Brewery - Pittsboro,micro,120 Lowes Dr Ste 100,,,Pittsboro,North Carolina,27312-8872,United States,9195452337,http://www.carolinabrewery.com,-79.164693,35.743651
+76d1605e-55fc-4c6b-8ba2-7a8d30eac9f6,Carolina Brewing Co,micro,140 Thomas Mill Rd,,,Holly Springs,North Carolina,27540-9372,United States,9195572337,http://www.carolinabrew.com,-78.854734,35.656493
+c5a83dae-579e-4a17-8128-b5775cb9b01e,Casita Brewing Company,taproom,217 South Street S,,,Wilson,North Carolina,27893,United States,,http://wwww.casitabrews.com,-77.912139,35.722951
 3b1a5b42-5517-4da1-b1ee-93b3e3bce99d,Catawba Brewing Co,regional,212 S Green St,,,Morganton,North Carolina,28655-3525,United States,8284306883,http://www.CatawbaBrewing.com,-81.68543695,35.74471934
-5d4d326a-dc02-4959-aab7-2d23a36bfc9e,Catawba Brewing Co - Asheville,micro,63 Brook St Ste 1,,,Asheville,North Carolina,28803-2685,United States,8284247290,http://www.catawbavalleybrewingcompany.com,,
-612795ac-9fca-4569-8b5c-2e4056fdbd8f,Catawba Brewing Co - Charlotte,micro,933 Louise Ave Ste 105,,,Charlotte,North Carolina,28204-2299,United States,9804986145,,,
-7cabd85d-217f-49c7-b0eb-3031a9efca4d,Cavendish Brewing Company,micro,207 N Chester St,,,Gastonia,North Carolina,28052-2234,United States,7048300435,http://www.cavendishbrewing.com,-81.18741223,35.26577507
-de78fdc6-98f3-4a6b-b3f7-acce58a94271,Cavern Brewing At Lowes Foods,brewpub,1381 Old Mill Cir Ste 200,,,Winston Salem,North Carolina,27103-1497,United States,3367753007,http://www.lowesfoods.com,,
+5d4d326a-dc02-4959-aab7-2d23a36bfc9e,Catawba Brewing Co - Asheville,micro,32 Banks Ave Ste 105,,,Asheville,North Carolina,28801,United States,8285523934,http://www.catawbavalleybrewingcompany.com,-82.553525,35.58906
+02a28769-32dc-450f-b217-2b969f1ad16b,Catawba Brewing Co - Asheville,micro,32 Banks Ave Ste 105,,,Asheville,North Carolina,28801,United States,8285523934,http://www.catawbavalleybrewingcompany.com,-82.553525,35.58906
+612795ac-9fca-4569-8b5c-2e4056fdbd8f,Catawba Brewing Co - Charlotte,micro,933 Louise Ave Ste 105,,,Charlotte,North Carolina,28204-2299,United States,9804986145,,-80.820874,35.224801
+5f114413-c255-4e36-a0e9-25e9d5cb3e4b,Catawba Brewing Wilmington,brewpub,4712 New Centre Drive,,,Wilmington,North Carolina,28405,United States,9106608721,,-77.881898,34.247476
+7cabd85d-217f-49c7-b0eb-3031a9efca4d,Cavendish Brewing Company,taproom,207 N Chester St,,,Gastonia,North Carolina,28052-2234,United States,7048300435,http://www.cavendishbrewing.com,-81.187658,35.265593
+de78fdc6-98f3-4a6b-b3f7-acce58a94271,Cavern Brewing At Lowes Foods,brewpub,1381 Old Mill Cir Ste 200,,,Winston Salem,North Carolina,27103-1497,United States,3367753007,http://www.lowesfoods.com,-80.308831,36.07536
+513aa06a-7f9b-4f73-a814-e7e17bee5803,Cellarest Beer Project,taproom,395 Haywood Road,,,Asheville,North Carolina,28806,United States,9718320033,http://www.cellarestbeer.com,-82.579479,35.578063
 101dd923-8a78-4db5-9902-663d4e80b07c,Check Six Brewing Co,micro,5130 Southport Supply Rd SE,,,Southport,North Carolina,28461-9261,United States,9104779280,http://www.checksixbeer.com,-78.0477587,33.952339
-eaed88bf-4da0-43bc-bf43-4ed6299752a3,Clouds Brewing,micro,1233 Front St Ste E,,,Raleigh,North Carolina,27609-7534,United States,9197474863,http://www.cloudsbrewing.com,,
+eaed88bf-4da0-43bc-bf43-4ed6299752a3,Clouds Brewing,micro,1233 Front St Ste E,,,Raleigh,North Carolina,27609-7534,United States,9197474863,http://www.cloudsbrewing.com,-78.614084,35.821534
 ee97bdcf-d7b4-48f3-82a1-7983a370b7b1,Collection Brewing Company,planning,,,,Raleigh,North Carolina,27614-8519,United States,,,,
 e99f22dd-9f82-4a46-9666-dbf81cec179f,Commoners Brewing Company,micro,1048 Copperfield Blvd Ste 101,,,Concord,North Carolina,28025,United States,7048866002,http://www.commonersbrewingcompany.com,,
-07e76f00-bcbc-4134-a322-679dbcc0b8ec,Compass Rose,micro,"3201 Northside Dr, Ste. 101",,,Raleigh,North Carolina,27615-4126,United States,9198755683,http://www.compassrosebrewery.com,-78.582171,35.883411
+07e76f00-bcbc-4134-a322-679dbcc0b8ec,Compass Rose,taproom,"3201 Northside Dr, Ste. 101",,,Raleigh,North Carolina,27615-4126,United States,9198755683,http://www.compassrosebrewery.com,-78.582719,35.883936
+ffbca4b7-4f83-4a4a-a642-c813329c4d33,Cotton House Craft Brewers,taproom,320 E Durham Rd,,,Cary,North Carolina,27513,United States,9194267520,http://www.cottonhousecraft.com,-78.775459,35.790169
+c1f2fb56-2304-473f-93a6-960b387dcc7f,Craftboro Brewing Depot,taproom,101 Two Hills Dr Unit 180,,,Carrboro,North Carolina,27510,United States,9192404400,http://www.craftborobrewing.com,-79.0778,35.9021
 8d3a51f6-de81-4434-a662-9e7f7f7390bf,Crank Arm Brewing Co,micro,319 W Davie St,,,Raleigh,North Carolina,27601-1718,United States,,http://www.crankarmbrewing.com,-78.64405,35.7756043
+6f4d4859-63ce-4967-8b6c-b157131f3fc1,Crystal Coast Brewing Company,taproom,219 W Fort Macon Rd,,,Atlantic Beach,North Carolina,28512-5303,United States,2522962841,http://www.CrystalCoastBrewingCompany.com,-76.741368,34.700919
 e7828fc7-72e4-4f74-b2e5-afedfedf49c7,Crystal Coast Brewing Company LLC,micro,702 Arendell St,,,Morehead City,North Carolina,28557-4234,United States,7044513618,http://www.CrystalCoastBrewingCompany.com,-76.71137408,34.72105219
-d418185e-3746-4aa3-83f3-c93a3278f8b3,Currahee Brewing Company,micro,100 Lakeside Dr,,,Franklin,North Carolina,28734-9706,United States,8286340078,http://www.curraheebrew.com,-83.37194784,35.18754718
+d418185e-3746-4aa3-83f3-c93a3278f8b3,Currahee Brewing Company,micro,100 Lakeside Dr,,,Franklin,North Carolina,28734-9706,United States,8286340078,http://www.curraheebrew.com,-83.372929,35.187566
 49f7e647-2035-4e16-a37e-6aa327acaa7f,D9 Brewing Company,micro,11138 Treynorth Dr Ste C,,,Cornelius,North Carolina,28031-8186,United States,7044579368,http://www.d9brewing.com,,
-a20aa253-c1dc-4922-a3f5-7e905f774d8d,Deep River Brewing Company,micro,700 W Main St Ste 102,,,Clayton,North Carolina,27520-1657,United States,9193683243,http://www.deepriverbrewing.com,,
+0cf31294-f2f8-405f-ba13-69a807d1665b,D9 Brewing Company - Hendersonville,taproom,425 N Main St,,,Hendersonville,North Carolina,28792,United States,,,-82.460724,35.317171
+5d2a7a7b-a489-4fdb-be19-022d564e1ae8,D9 Brewing Company Uptown Charlotte,taproom,650 E Stonewall St,,,Charlotte,North Carolina,28202,United States,7046910314,,-80.843566,35.218177
+a20aa253-c1dc-4922-a3f5-7e905f774d8d,Deep River Brewing Company,taproom,"700 W Main St, Ste 102",,,Clayton,North Carolina,27520-1657,United States,9193683243,http://www.deepriverbrewing.com,-78.466862,35.659337
+50d4ef18-a777-45d4-90a2-bd7193e2b69e,Devil's Logic Brewing,brewpub,1426 E 4th Street,,,Charlotte,North Carolina,28204,United States,7042773813,http://www.devilslogic.com,-80.829376,35.213747
 d9640321-8cf9-41bd-aeb8-9a2163e23f42,Dingo Dog Brewing Co,micro,,,,Carrboro,North Carolina,27510,United States,9198859793,http://www.dingodogbrewing.com,,
 48ff4878-7666-422c-8ba0-6107382ff258,Dirtbag Ales Brewery and Taproom,micro,5435 Corporation Dr,,,Hope Mills,North Carolina,28348-8413,United States,9104262537,http://www.dirtbagales.com,-78.92209697,34.99397526
-24b9cbee-b251-4444-b5b1-714b0cb90c0c,Divine Barrel Brewing,micro,3701 N Davidson St Ste 203,,,Charlotte,North Carolina,28205-1303,United States,9802371803,http://www.divinebarrel.com,,
-4c3bac7f-3fa2-4153-8abd-28009c6e3031,Double Barley Brewing,brewpub,3174 US Highway 70 W,,,Smithfield,North Carolina,27577-7613,United States,9199343433,http://www.doublebarleybrewing.com,,
+24b9cbee-b251-4444-b5b1-714b0cb90c0c,Divine Barrel Brewing,taproom,3701 N Davidson St Ste 203,,,Charlotte,North Carolina,28205-1303,United States,9802371803,http://www.divinebarrel.com,-80.796362,35.250189
+4c3bac7f-3fa2-4153-8abd-28009c6e3031,Double Barley Brewing,taproom,3174 US Highway 70 W,,,Smithfield,North Carolina,27577-7613,United States,9199343433,http://www.doublebarleybrewing.com,-78.338093,35.566788
+7deda47d-5faf-45a5-90de-6a664a5519e2,Double-E Brewing,taproom,222 W Warren St,,,Shelby,North Carolina,28150,United States,,http://www.eebrewing.com,-81.542994,35.291101
+107e5a47-cf4a-433b-a175-e6967cdbebfa,DrumTrout Brewing Co,taproom,3710 College Road #143,,,Wilmington,North Carolina,28412,United States,9103991633,http://www.drumtroutbrewing.com,-77.891483,34.174323
 ec86cc6f-53f8-4715-8595-fe68cf676bc6,Dry County Brewing,brewpub,585 Oak Ave,,,Spruce Pine,North Carolina,28777-2727,United States,8287654583,http://www.drycountybrewing.com,-82.063578,35.9158912
-a1ecd2e7-3b9c-4ad8-ac87-dfd78d234992,Duck Rabbit Craft Brewery,micro,4519 West Pine St,,,Farmville,North Carolina,27828-8526,United States,2527537745,http://duckrabbitbrewery.com,-77.591863,35.5980644
-ae111ea0-b5a2-46f0-9e64-bcc1ecadca27,Durty Bull Brewing Co.,micro,206 Broadway St Ste 104,,,Durham,North Carolina,27701-2404,United States,9196882337,http://www.durtybull.com,,
-4c106efe-6804-48ef-8420-58a09829c931,Ecusta Brewing Co,micro,49 Pisgah Hwy Ste 3,,,Pisgah Forest,North Carolina,28768,United States,8289662337,http://www.ecustabrewing.com,,
+3ef2d1eb-dd88-4fb8-b5ef-4fdf2db1777b,DSSOLVR,micro,63 N Lexington Ave,,,Asheville,North Carolina,28801,United States,,http://https://dssolvr.com/,-82.553572,35.597018
+a1ecd2e7-3b9c-4ad8-ac87-dfd78d234992,Duck Rabbit Craft Brewery,micro,4519 West Pine St,,,Farmville,North Carolina,27828-8526,United States,2527537745,http://duckrabbitbrewery.com,-77.596829,35.600303
+ae111ea0-b5a2-46f0-9e64-bcc1ecadca27,Durty Bull Brewing Co.,micro,206 Broadway St Ste 104,,,Durham,North Carolina,27701-2404,United States,9196882337,http://www.durtybull.com,-78.898185,36.001233
+4c106efe-6804-48ef-8420-58a09829c931,Ecusta Brewing Co,taproom,49 Pisgah Hwy Ste 3,,,Pisgah Forest,North Carolina,28768,United States,8289662337,http://www.ecustabrewing.com,-82.704985,35.273959
 356dcb41-83fd-41cd-9a0b-a65a770a2652,Ecusta Brewing Co - Drift Taproom,micro,49 Pisgah Hwy,,,Pisgah Forest,North Carolina,28768-8817,United States,8289662337,,,
-1a810992-ac1c-41b5-87ae-6da0f0900733,Edward Teach Brewing,micro,604 N 4th St,,,Wilmington,North Carolina,28401,United States,9105235401,,-77.945422,34.242576
+22ff8fb3-73c4-439c-bdb2-adcdc6e7d3fd,Edge City Brewery,taproom,6209 Old Post Road - Ste 109,,,Charlotte,North Carolina,28212,United States,9809496199,http://www.edgecitybrewery.com,-80.755669,35.178362
+079add0f-c505-4d9b-89e1-79e3a07fde76,Edit Beer Co.,micro,"1911 Sego Ct
+#101",,,Raleigh,North Carolina,27616,United States,9193076467,http://https://www.editbeer.com,-78.601387,35.851455
+1a810992-ac1c-41b5-87ae-6da0f0900733,Edward Teach Brewing,taproom,604 N 4th St,,,Wilmington,North Carolina,28401,United States,9105235401,,-77.945318,34.242655
 9f67414c-21a7-4be0-8f7f-9f3c7d1e82e2,Eleven Lakes Brewing Company,micro,10228 Bailey Rd Ste 201,,,Cornelius,North Carolina,28031-9420,United States,7044000927,http://www.elevenlakesbrewing.com,-80.86054928,35.45400686
-78ab1ee9-b1b7-437a-8175-4cd608de8451,Eluvium Brewing Co.,micro,11 Florida Ave,,,Weaverville,North Carolina,28787,United States,8284841799,http://www.eluviumbrewing.com,-82.5615737,35.69741414
-409cbbab-e5e4-45a7-a251-16406806ccda,Fainting Goat Brewing Company,micro,330 S Main St,,,Fuquay Varina,North Carolina,27526-2225,United States,9193950642,http://www.faintinggoatbeer.com,-78.80001933,35.5812855
-8c42eb4a-367c-4fca-bffa-5b82aaf268c5,Fiddlin' Fish Brewing Company,micro,772 N Trade St.,,,Winston Salem,North Carolina,27101,United States,3364079671,http://www.fiddlinfish.com,,
+5ba9ad9b-6d65-4756-8ac9-a1b7d882d48d,Eleven Lakes Brewing Company,taproom,10228 Bailey Rd Suite 201,,,Cornelius,North Carolina,28031-9420,United States,7044000927,http://www.elevenlakesbrewing.com,-80.859289,35.453372
+78ab1ee9-b1b7-437a-8175-4cd608de8451,Eluvium Brewing Co.,taproom,11 Florida Ave,,,Weaverville,North Carolina,28787,United States,8284841799,http://www.eluviumbrewing.com,-82.561024,35.697512
+e9b1da6c-ea18-4662-8a3d-de59be53e003,Embassy At Gilde Brewery,brewpub,3530 Dewitt Ln,,,Charlotte,North Carolina,28217,United States,,,-80.876326,35.194216
+b96c11e6-2e89-4a60-bb69-b4392728b3b2,Eurisko Beer Company,taproom,29 Dortch Ave,,,Asheville,North Carolina,28801-1100,United States,8287745055,http://www.euriskobeer.com,-82.559634,35.609979
+409cbbab-e5e4-45a7-a251-16406806ccda,Fainting Goat Brewing Company,taproom,330 S Main St,,,Fuquay Varina,North Carolina,27526-2225,United States,9193950642,http://www.faintinggoatbeer.com,-78.800078,35.581361
+852ee516-1edb-4630-8737-4a9808cbcd65,Fainting Goat Brewing Company - Benson,taproom,102 W Parrish Dr,,,Benson,North Carolina,27504,United States,9197011500,http://www.faintinggoatbeer.com,-78.548782,35.380968
+8c42eb4a-367c-4fca-bffa-5b82aaf268c5,Fiddlin' Fish Brewing Company,taproom,772 N Trade St.,,,Winston Salem,North Carolina,27101,United States,3369998945,http://www.fiddlinfish.com,-80.246674,36.104081
+f47177b1-0f5b-4893-a43c-ae64c32e54e7,Fishtowne Brew House,taproom,133 B Turner St,,,Beaufort,North Carolina,28516,United States,2528381102,http://www.fishtownebrewhouse.com,-76.665598,34.71799
 b5d72612-a3e3-414b-9242-170a6bccdbea,Flat Top Mountain Brewery,micro,567 Main St E,,,Banner Elk,North Carolina,28604-8974,United States,8288988677,http://www.flattopbrew.com,-81.86657602,36.16510256
 277143dd-a012-4650-9ab5-603a9b5afe5c,Flying Machine Brewing Company,planning,,,,Wilmington,North Carolina,28403,United States,,http://www.facebook.com/flyingmachinebrewing,,
-56790b8f-beb7-4218-92cf-82cfbcd04b7e,Flytrap Brewing,micro,319 Walnut St,,,Wilmington,North Carolina,28401-4051,United States,9107692881,http://flytrapbrewing.com,-77.94545788,34.24034335
-4ef2a5c4-c562-4405-acd7-c57dd4d2d6ac,Fonta Flora Brewery,micro,317 N Green St,,,Morganton,North Carolina,28655-3324,United States,8284750153,http://www.fontaflora.com,-81.69093777,35.7476204
-7a8a42df-2b2b-4f6e-8b53-b2fabccc25a1,Fonta Flora Brewery At Whipoorwill Farm,micro,6751 NC HWY 126,,,Nebo,North Carolina,28761,United States,8284750153,,,
-d9bbc65e-3c8c-4dd6-8489-e16a8fd46888,Foothills Brewing Co,regional,3800 Kimwell Dr,,,Winston Salem,North Carolina,27103-6708,United States,3363544030,http://www.foothillsbrewing.com,-80.32680515,36.04816426
-eb0d1615-0316-4257-8193-b0e182281f34,Foothills Brewing Co Brewpub,brewpub,638 W 4th St,,,Winston Salem,North Carolina,27101-2730,United States,3367773348,http://www.foothillsbrewing.com,-80.25085212,36.0976512
+38eb4024-708e-4878-8bf1-d799e38fe073,Flying Machine Brewing Company,taproom,3130 Randall Pkwy,,,Wilmington,North Carolina,28403,United States,,http://www.facebook.com/flyingmachinebrewing,-77.901324,34.229579
+56790b8f-beb7-4218-92cf-82cfbcd04b7e,Flytrap Brewing,taproom,319 Walnut St,,,Wilmington,North Carolina,28401-4051,United States,9107692881,http://flytrapbrewing.com,-77.945509,34.24046
+4ef2a5c4-c562-4405-acd7-c57dd4d2d6ac,Fonta Flora Brewery,alt prop,317 N Green St,,,Morganton,North Carolina,28655-3324,United States,8284750153,http://www.fontaflora.com,-81.690929,35.747647
+7a8a42df-2b2b-4f6e-8b53-b2fabccc25a1,Fonta Flora Brewery At Whipoorwill Farm,micro,6751 NC HWY 126,,,Nebo,North Carolina,28761,United States,8284750153,,-81.9019,35.7532
+d9bbc65e-3c8c-4dd6-8489-e16a8fd46888,Foothills Brewing,regional,3800 Kimwell Dr,,,Winston Salem,North Carolina,27103-6708,United States,3363544030,http://www.foothillsbrewing.com,-80.323161,36.045366
+eb0d1615-0316-4257-8193-b0e182281f34,Foothills Brewing Co Brewpub,brewpub,638 W 4th St,,,Winston Salem,North Carolina,27101-2730,United States,3367773348,http://www.foothillsbrewing.com,-80.250902,36.097359
 1cfa05f2-9520-4707-9716-496749ddfd67,Forgotten Road Ales,planning,,,,Graham,North Carolina,27253,United States,4342031993,,,
+3adfe338-d02f-48ca-90cb-4284094c6e6d,Forgotten Road Ales,taproom,141 E Harden St,,,Graham,North Carolina,27253,United States,4342031993,,-79.398958,36.070383
 cf1a2b61-8b8d-4baa-9246-945c5d4326ab,Fortnight Brewing Company,micro,211 Powers Ferry Rd,,,Cary,North Carolina,27519-1510,United States,9194340742,http://www.fortnightbrewing.com,-78.91133714,35.80576231
-8aa75d11-acb0-4454-8fd9-6190217c729e,Four Saints Brewing,micro,218 S Fayetteville St,,,Asheboro,North Carolina,27203-5725,United States,3366103722,http://www.foursaintsbrewing.com,-79.81447771,35.70368557
+fc12bc8c-2bf3-42be-8ec4-133598e97586,Fortnight Brewing Company,taproom,1006 SW Maynard Rd,,,Cary,North Carolina,27511-4385,United States,9194340742,http://www.fortnightbrewing.com,-78.801757,35.77687
+8aa75d11-acb0-4454-8fd9-6190217c729e,Four Saints Brewing,taproom,218 S Fayetteville St,,,Asheboro,North Carolina,27203-5725,United States,3366103722,http://www.foursaintsbrewing.com,-79.814989,35.703919
 7bf1aca7-78cb-4592-95b8-adb77d5ead26,"Franklin Brewing Company, LLC",planning,,,,Angier,North Carolina,27501-6094,United States,,http://www.franklin-brewing.com,,
 18d675ae-8273-4b8d-bd10-b1ff4bf2b3a5,Free Range Brewing,micro,2320 N Davidson St Unit D,,,Charlotte,North Carolina,28205-1832,United States,9802019096,http://www.freerangebrewing.com,,
-aa897103-0752-4ec6-a10f-f90ec51b2836,French Broad River Brewing Co,micro,101 Fairview Rd Ste D,,,Asheville,North Carolina,28803-4301,United States,8282770222,http://www.frenchbroadbrewery.com,,
-ce7ce315-a777-4537-8769-21885f40d043,Frog Level Brewing Company,micro,56 Commerce St,,,Waynesville,North Carolina,28786-5738,United States,8284545664,http://www.froglevelbrewing.com,-82.99178072,35.4929673
-f481d5cc-589c-43d2-95c3-e47eeea39f89,Front Street Brewery,brewpub,9 N Front St,,,Wilmington,North Carolina,28401-4436,United States,9102511935,http://www.frontstreetbrewery.com,-77.94886883,34.2357825
-e9f6be0f-0246-47ec-92b2-8d99fdabbbf2,Fullsteam Brewery,micro,726 Rigsbee Ave,,,Durham,North Carolina,27701-2139,United States,9196822337,http://www.fullsteam.ag,-78.89959435,36.00310675
-5c2cce18-999e-45f9-92f7-5106164a0b6f,Funguys Brewery,micro,2408 Paula St,,,Raleigh,North Carolina,27608-1706,United States,,http://www.funguysbrewing.com,-78.62513369,35.81309826
+a76450d0-0eb3-41d9-8620-fd1d2d07e68e,Free Range Brewing,taproom,2320 N Davidson St,,,Charlotte,North Carolina,28205-1832,United States,9802019096,http://www.freerangebrewing.com,-80.813483,35.240684
+aa897103-0752-4ec6-a10f-f90ec51b2836,French Broad River Brewing Co,taproom,101 Fairview Rd Ste D,,,Asheville,North Carolina,28803-4301,United States,8282770222,http://www.frenchbroadbrewery.com,-82.537484,35.566256
+ead0669e-3a04-4c5f-9d87-06d0c7f491e2,Freshwater Beer Co.,taproom,904 Pollock St,,,New Bern,North Carolina,28562,United States,,http://www.freshwaterbeerco.com,-77.048371,35.106988
+ce7ce315-a777-4537-8769-21885f40d043,Frog Level Brewing Company,brewpub,56 Commerce St,,,Waynesville,North Carolina,28786,United States,8284545664,http://www.froglevelbrewing.com,-82.991145,35.493541
+f481d5cc-589c-43d2-95c3-e47eeea39f89,Front Street Brewery,brewpub,9 N Front St,,,Wilmington,North Carolina,28401-4436,United States,9102511935,http://www.frontstreetbrewery.com,-77.949398,34.235727
+e9f6be0f-0246-47ec-92b2-8d99fdabbbf2,Fullsteam Brewery,micro,726 Rigsbee Ave,,,Durham,North Carolina,27701-2139,United States,9196822337,http://www.fullsteam.ag,-78.899821,36.002943
+5c2cce18-999e-45f9-92f7-5106164a0b6f,Funguys Brewery,taproom,2408 Paula St,,,Raleigh,North Carolina,27608-1706,United States,,http://www.funguysbrewing.com,-78.624847,35.813596
 e4edfb7b-9143-4e6e-a866-bb2ecde062c9,"G. Mansfield, Inc",planning,,,,Greensboro,North Carolina,27403-2744,United States,3363370757,,,
-50af38eb-7473-4c40-a365-3deadd41da42,Ghost Harbor Brewing Company,micro,606 B E Colonial Ave,,,Elizabeth City,North Carolina,27909,United States,2525991030,http://www.ghostharborbrewing.com,-76.21879622,36.30042229
-1516418f-29e7-42bc-9759-6697ce515c49,Ghostface Brewing Company,brewpub,427 E Statesville Ave Ste 100,,,Mooresville,North Carolina,28115-2595,United States,7047997433,http://www.ghostfacebrewing.com,,
+50af38eb-7473-4c40-a365-3deadd41da42,Ghost Harbor Brewing Company,taproom,606 B E Colonial Ave,,,Elizabeth City,North Carolina,27909,United States,2525991030,http://www.ghostharborbrewing.com,-76.218929,36.300843
+1516418f-29e7-42bc-9759-6697ce515c49,Ghostface Brewing Company,brewpub,427 E Statesville Ave Ste 100,,,Mooresville,North Carolina,28115-2595,United States,7047997433,http://www.ghostfacebrewing.com,-80.804434,35.58056
 e3f9214c-88cf-470f-81ef-8531d23a69fe,Gibb's Hundred Brewing Company,micro,504 State St,,,Greensboro,North Carolina,27405,United States,3367637087,http://www.gibbshundred.com,-79.783217,36.101006
-11db5351-443e-469e-a2ee-705d8449dd37,Gizmo Brew Works,micro,5907 Triangle Dr,,,Raleigh,North Carolina,27617-4742,United States,9197822099,http://www.gizmobrewworks.com,-78.74513578,35.89611719
-52559e7e-39e4-418e-bb43-368a74e38f1e,Good Hops Brewing LLC,micro,811 Harper Ave,,,Carolina Beach,North Carolina,28428-4202,United States,7067131594,http://www.goodhopsbrewing.com,-77.9038204,34.04080721
+035aa34c-0f9b-49cd-b6cc-3fb0aaa5e081,Gilde Brewery,brewpub,3530 Dewitt Lane,,,Charlotte,North Carolina,28217,United States,,,-80.876326,35.194216
+217cda88-64f2-4fbb-baee-252ccec17d92,Ginger's Revenge,micro,829 Riverside Dr Ste 100,,,Asheville,North Carolina,28801-0228,United States,8285052463,http://www.gingersrevenge.com,-82.574884,35.614152
+11db5351-443e-469e-a2ee-705d8449dd37,Gizmo Brew Works,taproom,5907 Triangle Dr,,,Raleigh,North Carolina,27617-4742,United States,9197822099,http://www.gizmobrewworks.com,-78.744412,35.896432
+52559e7e-39e4-418e-bb43-368a74e38f1e,Good Hops Brewing LLC,micro,811 Harper Ave,,,Carolina Beach,North Carolina,28428-4202,United States,7067131594,http://www.goodhopsbrewing.com,-77.904679,34.041247
+e945f19e-7a54-4613-8420-cab08c3d47cf,Goofy Foot Taproom and Brewery,taproom,2762 NC-68 Unit 109,,,High Point,North Carolina,27265,United States,3363072567,http://www.goofyfoottaproom.com,-79.961892,36.041908
 c77a6112-2b38-4e69-ae8e-53077c8f2307,"Goose And The Monkey Brew House, LLC",planning,,,,Lexington,North Carolina,27292,United States,3362405310,http://www.gooseandthemonkeybrewhouse.com,,
-4c4a6c76-3b34-4061-b690-1d263451426d,Granite Falls Brewing Co.,brewpub,47 Duke St,,,Granite Falls,North Carolina,28630-1807,United States,8282121399,http://www.GraniteFallsBrewing.com,-81.4285158,35.7894173
-467e3456-7b3b-4cc5-abe6-e86460e3473d,Green Man Brewing Co,micro,27 Buxton Ave,,,Asheville,North Carolina,28801-4019,United States,8282525502,http://www.greenmanbrewery.com,-82.55367153,35.5886249
+85b196d5-a304-4304-a7f1-80be62ae1a0d,"Goose And The Monkey Brew House, LLC",brewpub,401 S Railroad St,,,Lexington,North Carolina,27292,United States,3362390206,http://www.gooseandthemonkeybrewhouse.com,-80.255889,35.818414
+4c4a6c76-3b34-4061-b690-1d263451426d,Granite Falls Brewing Co.,brewpub,47 Duke St,,,Granite Falls,North Carolina,28630-1807,United States,9199242201,http://www.GraniteFallsBrewing.com,-81.430571,35.794962
+467e3456-7b3b-4cc5-abe6-e86460e3473d,Green Man Brewing Co,micro,27 Buxton Ave,,,Asheville,North Carolina,28801-4019,United States,8282525502,http://www.greenmanbrewery.com,-82.553135,35.588664
 e5bd0c69-0309-4696-a031-221df1d49d29,GroundLion Brewing,planning,,,,Seagrove,North Carolina,27341-0459,United States,9192705112,http://www.groundlionbrewing.com,,
+7c7e52a1-c094-4fb8-bfe5-a57014cdc7d5,Grove Cartel Brewing Co.,taproom,211 N Main St,,,China Grove,North Carolina,28023,United States,,,-80.578688,35.571246
+2ee261c8-dc81-4f19-b57c-eed6c0a3621f,Guidon Brewing Co.,micro,415 8th Ave. E.,,,Hendersonville,North Carolina,28792,United States,8285957976,,-82.458666,35.322535
+f01c11de-0eb1-41cc-b22a-6dc6d7ed8cbc,Gypsy Road Brewing Company,taproom,1105 B East Mountain Street,,,Kernersville,North Carolina,27284,United States,3364065662,http://Www.gypsyroadbrewing.com,-80.047294,36.111665
 8b8d3e0f-22b8-4350-9975-575793331af8,Habitat Brewing Co,micro,174 Broadway St,,,Asheville,North Carolina,28801-2305,United States,7047018141,http://www.habitatbrewing.com,-82.5533973,35.5986648
 99e8f097-0412-43ec-849e-e95add4bd3c2,Hatchet Brewing Company,planning,,,,Southern Pines,North Carolina,28387-6164,United States,5715334898,http://www.hatchetbrewing.com,,
-6d32ae11-f633-45ad-b018-b100c588c69d,Haw River Farmhouse Ales,micro,1713 Saxapahaw-Bethlehem Church Rd,,,Saxapahaw,North Carolina,27340-0390,United States,3365259270,http://www.hawriverales.com,-79.31872,35.946942
-f6d2a5d3-96af-47ff-b3d3-a38a3d6c1e0d,Hayesville Brewing Co,brewpub,1568 Highway 64 W,,,Hayesville,North Carolina,28904-4651,United States,8288356010,http://www.facebook.com/leisa5678/,,
+61e367b7-7994-4bf7-b641-a268d040399d,Hatchet Brewing Company,taproom,490 SW Broad Street,,,Southern Pines,North Carolina,28387-6164,United States,9107257022,http://www.hatchetbrewing.com,-79.397174,35.171379
+58207c11-e284-4cdf-82cb-d9436abfb665,Havoc Brewing Company,office only location,39 West Street,,,Pittsboro,North Carolina,27312,United States,,,-79.177993,35.720002
+6d32ae11-f633-45ad-b018-b100c588c69d,Haw River Farmhouse Ales,micro,1713 Saxapahaw-Bethlehem Church Rd,,,Saxapahaw,North Carolina,27340-0390,United States,3365259270,http://www.hawriverales.com,-79.3212,35.9476
+f6d2a5d3-96af-47ff-b3d3-a38a3d6c1e0d,Hayesville Brewing Co,brewpub,1568 Highway 64 W,,,Hayesville,North Carolina,28904-4651,United States,8288356010,http://www.facebook.com/leisa5678/,-83.847362,35.033927
 528481d4-f3c8-479a-aad9-fce4b9cfe36a,Heist Brewery,brewpub,2909 N Davidson St,,,Charlotte,North Carolina,28205-1190,United States,7043758260,http://www.heistbrewery.com,-80.80904551,35.2451928
-6b16f03c-39e6-48c1-88e5-6889179807cf,Hi-Wire Brewing Big Top Production Facility,micro,2 Huntsman Pl,,,Asheville,North Carolina,28803-2600,United States,,http://www.hiwirebrewing.com,-82.54566311,35.57020551
-6f18252e-ae65-4c45-9867-2c1b72b4ce11,Hi-Wire Brewing South Slope Specialty Brewery,micro,197 Hilliard Ave,,,Asheville,North Carolina,28801-3616,United States,8285759675,http://www.hiwirebrewing.com,-82.55603747,35.5912315
+8b3998fa-85e5-41cb-a1ac-4395f4fc904b,Heist Brewery & Barrel Arts,micro,1064 Woodward Ave,,,Charlotte,North Carolina,28206,United States,7045953111,,-80.833921,35.249632
+59a511c7-1c40-4b67-ad7d-b5047261816b,Hell on Horsecreek Brewing,taproom,107 E Murphy St,,,Madison,North Carolina,27025,United States,7439991915,http://www.hohcbc.com,-79.959313,36.387739
+f2bcf8bb-46e8-4ee8-9816-702d32d7deed,Heyday Brewing,brewpub,5301 Tin Roof Way,,,Raleigh,North Carolina,27616,United States,9193516668,http://heydaybrewing.com,-78.5419,35.8634
+e5cced7b-63c9-49f5-acc7-c3a2e99a6dc9,Hi-Wire Brewing,taproom,330 W Tremont Ave,,,Charlotte,North Carolina,28203,United States,,,-80.865709,35.211201
+6f18252e-ae65-4c45-9867-2c1b72b4ce11,Hi-Wire Brewing - South Slope Specialty Brewery,regional,197 Hilliard Ave,,,Asheville,North Carolina,28801-3616,United States,8287382448,http://hiwirebrewing.com,-82.55581,35.591268
+6b16f03c-39e6-48c1-88e5-6889179807cf,Hi-Wire Brewing Big Top Production Facility,regional,2 Huntsman Pl,,,Asheville,North Carolina,28803-2600,United States,,http://www.hiwirebrewing.com,-82.546017,35.570987
 d7338230-e2a4-478e-bb8d-f0b3563e65e1,Hi-Wire Brewing Taproom,planning,,,,Durham,North Carolina,27701,United States,,,,
+cad586af-4882-4d8c-bb2f-dd4bd4273873,Hi-Wire Brewing Taproom,micro,800 Taylor St,,,Durham,North Carolina,27701,United States,,,-78.889699,35.991162
 25a0da54-49c0-4228-9c5a-eb8af9a4d259,Hickory Brewery / American Honor Ale House and Brewery,micro,883 Highland Ave SE,,,Hickory,North Carolina,28602-1106,United States,8284149600,,-81.32549762,35.73533517
 8d913abb-4d7e-4282-bad5-bf3f1884af85,Hickory Nut Gorge Brewery,micro,615 Bottemless Pools Rd,,,Lake Lure,North Carolina,28746-5525,United States,,,,
+3fe4c7e8-4baa-4f97-8a71-5573ef84ce31,Hickory Nut Gorge Brewery,taproom,461 Main Street,,,Chimney Rock,North Carolina,28139,United States,8284367047,http://www.hickorynutbrewery.com,-81.956669,35.375235
+3ea1cdfc-2c88-4ecb-bbe8-92c09dd69494,Hickory Nut Gorge Brewery - Mars Hill,brewpub,7 Main Street,,,Mars Hill,North Carolina,28754,United States,8287718330,,-82.548782,35.827147
 0c6e9e51-ab87-45d7-8204-6450076db013,High Branch Brewing Co,micro,325 McGill Ave NW Ste 148,,,Concord,North Carolina,28027-0011,United States,,,,
-4b013cfb-62b1-441a-b301-5f1d26c2b48c,Highland Brewing Co,regional,12 Old Charlotte Hwy Ste H,,,Asheville,North Carolina,28803-9419,United States,8282993816,http://www.highlandbrewing.com,,
+13c55758-31e0-4250-b06e-e10074d5e347,High Branch Brewing Co,taproom,"305 McGill Ave NW, Ste 100",,,Concord,North Carolina,28027-0011,United States,,,-80.601867,35.413733
+4b013cfb-62b1-441a-b301-5f1d26c2b48c,Highland Brewing Co,regional,12 Old Charlotte Hwy Ste 200,,,Asheville,North Carolina,28803,United States,8284120404,http://www.highlandbrewing.com,-82.498637,35.570208
+f54187a4-19e0-4cc5-8ef9-7e08d946b8e3,Highland Brewing Co,regional,12 Old Charlotte Hwy Ste 200,,,Asheville,North Carolina,28803,United States,8284120404,http://www.highlandbrewing.com,-82.498637,35.570208
 0b2b1db2-e196-4b8c-a099-2b94ae8665ad,Hillman Beer,brewpub,25 Sweeten Creek Rd,,,Asheville,North Carolina,28803-2318,United States,8285051312,http://www.hillmanbeer.com,-82.520631,35.5139103
 f8a0cdb0-843e-431c-8f52-e5e23664ae6a,Homeplace Beer Co,micro,6 South Main Street Area C,,,Burnsville,North Carolina,28714,United States,8285365147,http://www.homeplacebeer.com,,
-c4ce5349-c572-4c37-99a6-e670199d46bf,HOOTS Beer Co.,micro,840 Mill Works St,,,Winston Salem,North Carolina,27101-1243,United States,3366086026,http://www.hootspublic.com,,
+d0499667-8b53-427b-8c31-b45c825a3900,Homeplace Beer Co,taproom,321 West Main Street,,,Burnsville,North Carolina,28714,United States,8285365147,http://www.homeplacebeer.com,-82.303112,35.916543
+c4ce5349-c572-4c37-99a6-e670199d46bf,HOOTS Beer Co.,micro,840 Mill Works St,,,Winston Salem,North Carolina,27101-1243,United States,3366086026,http://www.hootspublic.com,-80.259111,36.103935
 3a149c58-99fe-45f5-a1ac-9e0aeb9723fa,HopFly Brewing Company,micro,1147 Falls Rd Suite 121,,,Rocky Mount,North Carolina,27804,United States,,,,
-9724e0dd-bda2-4375-8baa-c2a83e33eca0,Hoppy Trout Brewing Company,brewpub,911 Main St,,,Andrews,North Carolina,28901-7087,United States,8288352111,http://www.hoppytroutbrewing.com,-83.8165709,35.2016188
-5da052ee-3285-4b86-be50-4cedfb00ffb5,Hugger Mugger Brewing Company,micro,229 Wicker St,,,Sanford,North Carolina,27330,United States,,http://www.huggermuggerbrewing.com,-79.17896314,35.47890286
-390f8036-dad5-49da-845e-2f93db0cc19d,Huske Hardware House Brewing Co,brewpub,405 Hay St,,,Fayetteville,North Carolina,28301-5537,United States,9104265650,http://www.huskehardware.com,-78.88249131,35.05393051
+037503e1-fb85-480e-96df-258ddc74c995,HopFly Brewing Company,micro,1327 S Mint St,,,Charlotte,North Carolina,28203,United States,,http://www.hopflybrewing.com,-80.85816,35.220554
+9724e0dd-bda2-4375-8baa-c2a83e33eca0,Hoppy Trout Brewing Company,brewpub,911 Main St,,,Andrews,North Carolina,28901-7087,United States,8288352111,http://www.hoppytroutbrewing.com,-83.826534,35.200622
+6ba309b1-e53d-4ae9-ad8d-e5cc96b8959d,Hoptown Brewing Company,taproom,107 Plantation Ridge Drive,,,Mooresville,North Carolina,28117,United States,7043609536,http://www.hoptownbrewing.com,-80.875143,35.588181
+5da052ee-3285-4b86-be50-4cedfb00ffb5,Hugger Mugger Brewing Company,micro,229 Wicker St,,,Sanford,North Carolina,27330,United States,,http://www.huggermuggerbrewing.com,-79.178516,35.478579
+390f8036-dad5-49da-845e-2f93db0cc19d,Huske Hardware House Brewing Co,brewpub,405 Hay St,,,Fayetteville,North Carolina,28301-5537,United States,9104265650,http://www.huskehardware.com,-78.88296,35.053389
 7b6d1417-b858-4ec3-9b7a-c54b738e8750,Hyde Brewing,brewpub,2911 Griffith St,,,Charlotte,North Carolina,28203-5429,United States,7046095363,http://hydebrewing.com/,-80.86910602,35.20083417
 5d027860-dc1f-407a-9d80-b887f6ec3b84,Incendiary Brewing Company,planning,,,,Winston Salem,North Carolina,27101,United States,3369999999,http://www.incendiarybrewing.com,,
-e4cad2e2-73fb-4fa2-9705-85a1507acfca,Innovation Brewing,brewpub,414 W Main St,,,Sylva,North Carolina,28779-5548,United States,8285869678,http://www.innovationbrewing.com,-83.22208589,35.37361923
-e7444032-8c9b-4755-9ccb-fa603653e1c9,Ironclad Brewery,micro,115 N 2nd St,,,Wilmington,North Carolina,28401-3936,United States,9107690290,http://www.ironcladbrewery.com,-77.94767214,34.23671629
+e16d51c3-103e-42f5-a2c9-54cda5ef7e1e,Incendiary Brewing Production,taproom,5495 Williams Rd,,,Lewisville,North Carolina,27023,United States,3368936714,,-80.502648,36.089526
+e4cad2e2-73fb-4fa2-9705-85a1507acfca,Innovation Brewing,taproom,414 W Main St,,,Sylva,North Carolina,28779-5548,United States,8285869678,http://www.innovationbrewing.com,-83.220186,35.37394
+29e35567-5d84-40c3-91f7-e7eab91600cb,Innovation Station At Dillsboro,taproom,40 Depot St,,,Dillsboro,North Carolina,28725,United States,,,-83.2525,35.3691
+20889d62-e836-4d75-9613-7472950e3f42,Iron Key Brewing Company,taproom,135 Locust St,,,Columbus,North Carolina,28722,United States,8288021045,http://www.ironkeybrewing.com,-82.193972,35.254119
+e7444032-8c9b-4755-9ccb-fa603653e1c9,Ironclad Brewery,taproom,115 N 2nd St,,,Wilmington,North Carolina,28401-3936,United States,9107690290,http://www.ironcladbrewery.com,-77.947942,34.237013
 35a9e0b9-bd35-45a5-9c18-d393d24e1998,Ivory Tower Brewery,planning,,,,Boone,North Carolina,28608-0001,United States,8282627847,http://ivorytowerscience.com,,
+b5d113cc-b698-4255-b8e6-8b710e85c44d,Jekyll and Hyde Belmont,brewpub,10 East Catawba Street,,,Belmont,North Carolina,28012,United States,,,-81.037065,35.243613
 e8c066e0-5d8a-485c-bedc-3ddd80d0129f,"Jigsaw Brewing, LLC",planning,,,,High Point,North Carolina,27260-5056,United States,,http://www.jigsawbrewing.com,,
-50265193-672b-4d13-9d9a-0344fe4d074c,Jolly Roger Brew,micro,236 Raceway Dr Ste 12,,,Mooresville,North Carolina,28117-6518,United States,9194128132,http://www.jollyrogerbrew.com,,
+a969ea8c-8c05-4a30-8166-e52d3ff2e60b,JoCo Brewing Company,brewpub,463 Cleveland Crossing Dr Ste 100,,,Garner,North Carolina,27529-7833,United States,9198966435,,-78.553078,35.606222
+50265193-672b-4d13-9d9a-0344fe4d074c,Jolly Roger Brew,micro,236 Raceway Dr Ste 12,,,Mooresville,North Carolina,28117-6518,United States,9194128132,http://www.jollyrogerbrew.com,-80.865826,35.586273
 da1cdce4-f03a-42cd-bea5-9174991e9127,Jordan Lake Brewing Co,micro,320 E Durham Rd,,,Cary,North Carolina,27513-4043,United States,9196945096,http://jordanlakebrewing.com,-78.77537897,35.79022306
-7fadcb6d-a145-4f04-8e86-afceff597e81,Joymongers Brewing Co.,micro,576 N Eugene St,,,Greensboro,North Carolina,27401,United States,3367635255,http://www.joymongers.com,-79.79380945,36.07871896
-3d05adb6-96f4-4f39-8d89-68954bf26620,Kernersville Brewing Company,micro,210 N Main St,,,Kernersville,North Carolina,27284-4004,United States,3368167283,,-80.07181578,36.12191605
+7fadcb6d-a145-4f04-8e86-afceff597e81,Joymongers Brewing Co.,taproom,576 N Eugene St,,,Greensboro,North Carolina,27401,United States,3367635255,http://www.joymongers.com,-79.793443,36.079348
+3d05adb6-96f4-4f39-8d89-68954bf26620,Kernersville Brewing Company,micro,1031 E Mountain St,,,Kernersville,North Carolina,27284-7998,United States,3368167283,http://kernersvillebrewing.com,-80.050758,36.114177
+ebdb419e-256e-4f35-8ee5-99ad51a999c6,Kernersville Brewing Company,micro,1031 E Mountain St,,,Kernersville,North Carolina,27284-7998,United States,3368167283,http://kernersvillebrewing.com,-80.050758,36.114177
+a602e481-1336-4f93-a50a-90b3d5168fe0,Kettell Beerworks,micro,567 Main St E,,,Banner Elk,North Carolina,28604-8974,United States,8288988677,http://www.flattopbrew.com,-81.864127,36.166263
 d0955deb-f952-4a6a-b470-61efa8b3d64a,Kind Beer Distributing,contract,6014 McDaniel Ln Ste C,,,Charlotte,North Carolina,28213-7351,United States,9105154140,http://www.kindbeers.com,,
 52cf27d7-5cce-4438-b0fe-f4bc1fc79b29,King Canary Brewing Company,micro,562 Williamson Rd,,,Mooresville,North Carolina,28117-9186,United States,,http://www.kingcanarybrewing.com,-80.8683812,35.5706022
-9cfadedb-019c-48df-ba2c-3811cc10687a,Koi Pond Brewing Co,micro,1107 Falls Rd,,,Rocky Mount,North Carolina,27804-4407,United States,2529035127,http://www.koipondbrewing.com,,
+9cfadedb-019c-48df-ba2c-3811cc10687a,Koi Pond Brewing Co,taproom,1107 Falls Rd,,,Rocky Mount,North Carolina,27804-4407,United States,2524526601,http://www.koipondbrewing.com,-77.801487,35.957644
+ac32c9e9-8b32-4fb6-9b61-6cec157f8535,Laconia Ale Works,taproom,433 N Main St,,,Sparta,North Carolina,28675,United States,3363724005,http://www.laconiaaleworks.com,-81.127058,36.508678
 5fbb8bd8-de7e-4a7c-be21-f5f291e84026,Lake Gaston Brewing Company,brewpub,124 Hay St,,,Fayetteville,North Carolina,28301-5650,United States,9107790444,http://www.lakegastonbrew.com,-78.87881455,35.0528321
-a78bc94c-b905-49fc-ad69-8d7fbf52cdfc,Lazy Hiker Brewing Co.,micro,188 W Main St,,,Franklin,North Carolina,28734-2949,United States,8283492337,http://www.lazyhikerbrewing.com,-83.3828255,35.18133363
-7d13578b-bcef-44e2-8894-e4ea8c6b4421,Legion Brewing Company,brewpub,1906 Commonwealth Ave,,,Charlotte,North Carolina,28205-5020,United States,8444675683,http://www.legionbrewing.com,-80.81322316,35.21870073
-29b2bf8e-d0bf-4111-baf6-9d008cac8831,Lenny Boy Brewing Co,micro,3000 S Tryon St,,,Charlotte,North Carolina,28217-1342,United States,9805851728,http://www.discoverlennyboy.com,-80.87362412,35.20146285
+a78bc94c-b905-49fc-ad69-8d7fbf52cdfc,Lazy Hiker Brewing Co.,taproom,188 W Main St,,,Franklin,North Carolina,28734-2949,United States,8283492337,http://www.lazyhikerbrewing.com,-83.383747,35.180734
+7d13578b-bcef-44e2-8894-e4ea8c6b4421,Legion Brewing Company,brewpub,211 East Blvd.,,,Charlotte,North Carolina,28203,United States,8444675683,http://www.legionbrewing.com,-80.857119,35.211505
+8b817765-10f8-4cae-97f7-cef4462d9b0f,Legion Brewing Company,brewpub,211 East Blvd.,,,Charlotte,North Carolina,28203,United States,8444675683,http://www.legionbrewing.com,-80.857119,35.211505
+827b6741-e0cc-4291-b41e-98ae23f2a455,Legion Brewing Company - Southpark,brewpub,5610 Carnegie Blvd,,,Charlotte,North Carolina,28209,United States,8444675683,http://www.legionbrewing.com/southpark,-80.839011,35.153847
+80256698-c05f-4042-8df1-d09721331760,Legion Brewing Company - West Morehead,brewpub,2013 W Morehead St,,,Charlotte,North Carolina,28208,United States,8444675683,,-80.873659,35.227692
+29b2bf8e-d0bf-4111-baf6-9d008cac8831,Lenny Boy Brewing Co,taproom,3000 S Tryon St,,,Charlotte,North Carolina,28217-1342,United States,9805851728,http://www.discoverlennyboy.com,-80.873876,35.201394
+2287dafa-c79f-40b0-9ea6-fb89da736204,Lesser Known Beer Co,taproom,901 S Broad St,,,Winston Salem,North Carolina,27101,United States,,http://www.lesserknownbeer.com,-80.245241,36.08256
+5339be33-17c9-4352-ae38-e84585cedce8,Leveller Brewing Co.,taproom,25 North Main Street,,,Weaverville,North Carolina,28787,United States,6169901984,,-82.560225,35.697211
 f8b70c73-33d2-42c7-b16e-0e8cc4c45399,Lexington Avenue Brewery - The LAB,brewpub,39 N Lexington Ave,,,Asheville,North Carolina,28801-2827,United States,8282520212,http://www.lexavebrew.com,-82.5532489,35.5961485
 89cd3953-5fbb-4fd3-b129-9914968d7e81,Liberty Brewery & Grill,brewpub,914 Mall Loop Rd,,,High Point,North Carolina,27262-7654,United States,3368824677,http://www.hp.libertybreweryandgrill.com,,
+4838dc4e-84e5-4be8-8b3d-5388217f0b1c,Liquid Roots Brewing Project,taproom,1048 Harper Ave NW,,,Lenoir,North Carolina,28645,United States,8287295717,http://www.liquidrootsbrewing.com,-81.542342,35.912812
 cd5ef38d-235e-4318-931a-defea9b4296a,Little Brother Brewing,micro,348 S Elm St,,,Greensboro,North Carolina,27401-2606,United States,7049990577,http://Www.littlebrotherbrew.com,-79.7907703,36.0686165
-e4293558-1bdb-40ec-9954-b252397283bf,Little City Brewing Co.,micro,400 W North St Ste 120,,,Raleigh,North Carolina,27603-1570,United States,9195027155,http://Www.thelocalicon.com/little-city,,
+dbee40f7-7b29-4865-ad70-475b385b593d,Little Brother Brewing: Barrel and Bottle,taproom,106 W Elm St,,,Graham,North Carolina,27253,United States,3365109678,,-79.401122,36.068989
+e4293558-1bdb-40ec-9954-b252397283bf,Little City Brewing Co.,taproom,400 W North St Ste 120,,,Raleigh,North Carolina,27603-1570,United States,9195027155,http://Www.thelocalicon.com/little-city,-78.645213,35.785207
+600fea4b-73e4-4f39-b7df-ca2c5892b02d,Little Oblivion Brewing Company,taproom,112 N. Main St.,,,Graham,North Carolina,27253,United States,,http://www.litlleoblivionbrewing.com,-79.400554,36.069979
+26e40401-00ac-453f-b2bf-0b463c5cf0bc,Local Oak Brewing Company,taproom,2564 Railroad Street,,,Winterville,North Carolina,28520,United States,,,-77.402205,35.529232
 e1cb5bc9-1582-4718-bf98-4fa43b9de958,Loe's Brewing Company,brewpub,1048 Harper Ave NW,,,Lenoir,North Carolina,28645-5085,United States,8287543652,http://www.loesbrewing.com,-81.54235348,35.91276115
-dfec0210-90f3-4ada-af1e-b4543f19423b,Lonerider Brewing Co,regional,8816 Gulf Ct Ste 100,,,Raleigh,North Carolina,27617-4628,United States,9194428004,http://www.loneriderbeer.com,-78.76254395,35.90357415
-8171a9b9-6476-4cb2-867c-1b25547c6360,Lookout Brewing Company,micro,103 S Ridgeway Ave,,,Black Mountain,North Carolina,28711-3550,United States,8283575169,http://www.lookoutbrewing.com,-82.31794593,35.619217
-c4ca2446-26fe-453c-a7c2-9aa6a63f8ace,Lost Colony Brewery and Cafe,brewpub,208 Queen Elizabeth Ave,,,Manteo,North Carolina,27954-,United States,2524736666,http://www.lostcolonybrewery.com,-75.66954474,35.90949405
-8dffaa96-db92-45c9-a0d7-3cd2b8686f42,"Lost Province Brewing Company, LLC",brewpub,130 N. Depot Street PO Box 614,,,Boone,North Carolina,28607-3603,United States,8282653506,http://www.lostprovince.com,,
+dfec0210-90f3-4ada-af1e-b4543f19423b,Lonerider Brewing Company,micro,8816 Gulf Ct Ste 100,,,Raleigh,North Carolina,27617-4628,United States,9192146141,http://www.loneriderbeer.com,-78.762498,35.903679
+8171a9b9-6476-4cb2-867c-1b25547c6360,Lookout Brewing Company,taproom,103 S Ridgeway Ave,,,Black Mountain,North Carolina,28711-3550,United States,8283575169,http://www.lookoutbrewing.com,-82.318012,35.619304
+c4ca2446-26fe-453c-a7c2-9aa6a63f8ace,Lost Colony Brewery and Cafe,micro,208 Queen Elizabeth Ave,,,Manteo,North Carolina,27954,United States,2524736666,http://www.lostcolonybrewery.com,-75.669518,35.909519
+32c4483d-e42e-48ad-b74c-11418cbf85af,Lost Province Brewing Company At Hardin Creek,taproom,289 Daniel Boone Drive,,,Boone,North Carolina,28607-3603,United States,8282653506,,-81.65731,36.217651
+8dffaa96-db92-45c9-a0d7-3cd2b8686f42,"Lost Province Brewing Company, LLC",brewpub,130 N. Depot Street,,,Boone,North Carolina,28607-3603,United States,8282653506,http://www.lostprovince.com,-81.683261,36.219181
+d43a7083-f864-42db-87fd-18a9f01180b9,"Lost Province Brewing Company, LLC",brewpub,130 N. Depot Street,,,Boone,North Carolina,28607-3603,United States,8282653506,http://www.lostprovince.com,-81.683261,36.219181
+d4884e7e-6880-4430-94a5-a986213ef8da,Lost Worlds Brewing,taproom,19700-D One Norman Way,,,Cornelius,North Carolina,28031,United States,9806892467,http://www.lostworldsbeer.com,-80.88196,35.480939
+5f9f7792-838f-4d15-aefe-7f3f940c1a14,Lower Left Brewing Co.,taproom,4528 Nations Crossing Rd,,,Charlotte,North Carolina,28217,United States,,http://www.llbrewco.com,-80.880363,35.182598
 97782b4a-4cfc-4168-8f18-48ed9c10abf5,Lucky City Brewing Co.,planning,,,,Reidsville,North Carolina,27320-3810,United States,3364716758,http://www.luckycitybrewing.com,,
-bb0715b7-bf7b-460d-aae4-d5a2ada52773,Lynnwood Brewing Concern,brewpub,4821 Grove Barton Rd,,,Raleigh,North Carolina,27613-1900,United States,9197850043,http://www.lynnwoodbrewing.beer,-78.71623989,35.87060368
-73d0933d-61ce-4b09-be56-2ca9f5bcc482,Lynnwood Brewing Concern,micro,1053 E Whitaker Mill Rd Ste 101,,,Raleigh,North Carolina,27604-5305,United States,5207779456,,-78.62430807,35.80788061
-15f89eab-85d7-40df-97bb-dab2bb810c07,Mad County Brewing,brewpub,45 N Main St,,,Marshall,North Carolina,28753-0040,United States,8286498600,http://www.madisoncountybrewing.com,-82.68585484,35.79772897
+b87baaa7-48c5-4609-9a15-ca3f178c8e67,Lucky City Brewing Co.,taproom,228 Gilmer St,,,Reidsville,North Carolina,27320-3810,United States,3365587967,http://www.luckycitybrewing.net,-79.665137,36.360425
+bb0715b7-bf7b-460d-aae4-d5a2ada52773,Lynnwood Brewing Concern,brewpub,4821 Grove Barton Rd,,,Raleigh,North Carolina,27613-1900,United States,9197850043,http://www.lynnwoodbrewing.beer,-78.717098,35.870435
+73d0933d-61ce-4b09-be56-2ca9f5bcc482,Lynnwood Brewing Concern,micro,1053 E Whitaker Mill Rd Ste 101,,,Raleigh,North Carolina,27604-5305,United States,5207779456,,-78.621244,35.808718
+15f89eab-85d7-40df-97bb-dab2bb810c07,Mad County Brewing,brewpub,45 N Main St,,,Marshall,North Carolina,28753-0040,United States,8286498600,http://www.madisoncountybrewing.com,-82.68485,35.797305
 ca45ba20-0c37-46ec-8767-c02efb7951e5,Mad Mole Brewing LLC,micro,6309 Boathouse Rd Ste C,,,Wilmington,North Carolina,28403-3576,United States,9108598115,http://www.madmolebrewing.com,,
 686b5441-1a16-4bef-abc2-889de7800102,Makai Brewing Company,micro,5850 Ocean Hwy W,,,Ocean Isle Beach,North Carolina,28469-3510,United States,9105792739,http://www.MakaiBrewingCompany.com,,
-b41d9c2b-b22e-4744-acdc-6ab0c5ca383f,Mash House Restaurant & Brewery,brewpub,4150 Sycamore Dairy Rd,,,Fayetteville,North Carolina,28303-3459,United States,9108679223,http://www.themashhouse.com,-78.95654831,35.07468171
-7ed9bc5e-2062-476c-810f-8c5a9833df9d,Mason Jar Lager Co.,micro,341 Broad St # 151,,,Fuquay Varina,North Carolina,27526-1703,United States,9195575303,http://www.masonjarlagerco.com,-78.8026696,35.6015909
-b1b569f5-9c84-468e-bf1a-89f1867fa64c,Mica Town Brewing,micro,25 Brown Dr,,,Marion,North Carolina,28752-4294,United States,8285598300,http://www.micatownbrewing.com,,
+b41d9c2b-b22e-4744-acdc-6ab0c5ca383f,Mash House Restaurant & Brewery,brewpub,4150 Sycamore Dairy Rd,,,Fayetteville,North Carolina,28303-3459,United States,9108679223,http://www.themashhouse.com,-78.955158,35.07057
+7ed9bc5e-2062-476c-810f-8c5a9833df9d,Mason Jar Lager Co.,micro,341 Broad St # 151,,,Fuquay Varina,North Carolina,27526-1703,United States,9195575303,http://www.masonjarlagerco.com,-78.794815,35.595263
+b1b569f5-9c84-468e-bf1a-89f1867fa64c,Mica Town Brewing,taproom,25 Brown Dr,,,Marion,North Carolina,28752-4294,United States,8285598300,http://www.micatownbrewing.com,-82.009586,35.684265
 53b5289a-b220-4c1a-8fe4-4d509fe6577d,Middle James Brewing Company,planning,,,,Pineville,North Carolina,28134,United States,,,,
-5bacfaa1-8019-431f-8e45-a7a999fa5871,Mill Whistle Brewing,micro,1354 Lennoxville Rd,,,Beaufort,North Carolina,28616,United States,,,-76.65042934,34.71738799
+2fd8762d-1fd5-4434-95fb-b5668912b4f3,Midnight Mulligan Brewing,brewpub,2215 Thrift Road,,,Charlotte,North Carolina,28208,United States,,http://www.midnightmulligan.com,-80.87383,35.234057
+802a8b74-5ddc-454f-99e1-01d5a7863b05,"Midsummer Brewing, LLC",taproom,8544 NC Highway 89 B,,,Westfield,North Carolina,27053,United States,3363515007,http://www.midsummerbrewing.com,-80.392332,36.499782
+b07f87a7-908d-4874-a7b1-4358d6abef22,Mike's Pizza and Pasta,brewpub,803 Spartanburg Hwy,,,Hendersonville,North Carolina,28792,United States,8286922002,http://www.mikespizzaandpasta.com,-82.452693,35.306054
+1e0d9044-66f9-4c73-88e6-177ff74600c6,Mill Hill Taproom,taproom,112 Madison St,,,Warrenton,North Carolina,27589,United States,,http://www.millhillnc.com,-78.155993,36.408991
+5bacfaa1-8019-431f-8e45-a7a999fa5871,Mill Whistle Brewing,taproom,1354 Lennoxville Rd,,,Beaufort,North Carolina,28616,United States,,,-76.649448,34.716588
 93fc5696-a0b1-4e3c-b813-f8712792092e,Mills River Brewery,brewpub,330 Rockwood Rd Ste 103,,,Arden,North Carolina,28704-8216,United States,8285852396,http://www.millsriverbrewery.net,,
+2212c85b-d9dc-4972-b48b-b86d07cc5cc5,Mills River Brewing Co,brewpub,336 Banner Farm Road,,,Mills River,North Carolina,28759,United States,8285852396,http://www.millsriverbrewingco.com,-82.565293,35.380655
 0203914c-a149-405a-8138-084ec3e5c1e4,Modern Romance Brewery,planning,,,,Durham,North Carolina,27703-5133,United States,9192594469,http://www.drinkmodern.com,,
-ef5f2236-8173-4696-b128-1531f5f7a3c6,Morgan Ridge Railwalk Brewery & Eatery,brewpub,421 N Lee St,,,Salisbury,North Carolina,28144-4424,United States,7047548379,http://www.morganridgerailwalk.com,-80.46510306,35.66920051
-e17e1ab6-dfb3-4975-aa30-498b915f69d6,Morgan Ridge Vineyards & Brewhouse,brewpub,486 John Morgan Rd,,,Gold Hill,North Carolina,28071-9758,United States,7046390911,http://www.morganridgevineyard.com,,
-add015c9-2bb1-4047-a365-8b9f3b263fc5,Mother Earth Brewing,regional,311 N Herritage St,,,Kinston,North Carolina,28501-4823,United States,2522082437,http://www.motherearthbrewing.com,,
-a88bd839-f573-4ef2-97cc-f7e997e54781,Mountain Layers Brewing Company,micro,90 Everett Street,,,Bryson City,North Carolina,28713,United States,8285380115,http://www.mtnlayersbeer.com,-83.446029,35.428795
+3fa30161-d92f-454d-bcd2-24dc531f3d4e,Mordecai Beverage Company,micro,2425 Crabtree Blvd,,,Raleigh,North Carolina,27604,United States,,,-78.613701,35.805949
+ef5f2236-8173-4696-b128-1531f5f7a3c6,Morgan Ridge Railwalk Brewery & Eatery,brewpub,421 N Lee St,,,Salisbury,North Carolina,28144-4424,United States,7047548379,http://www.morganridgerailwalk.com,-80.464208,35.669062
+e17e1ab6-dfb3-4975-aa30-498b915f69d6,Morgan Ridge Vineyards & Brewhouse,brewpub,486 John Morgan Rd,,,Gold Hill,North Carolina,28071-9758,United States,7046390911,http://www.morganridgevineyard.com,-80.270529,35.55698
+add015c9-2bb1-4047-a365-8b9f3b263fc5,Mother Earth Brewing,micro,311 N Herritage St,,,Kinston,North Carolina,28501-4823,United States,2522082437,http://www.motherearthbrewing.com,-77.582472,35.262775
+a88bd839-f573-4ef2-97cc-f7e997e54781,Mountain Layers Brewing Company,taproom,90 Everett Street,,,Bryson City,North Carolina,28713,United States,8285380115,http://www.mtnlayersbeer.com,-83.445882,35.42889
 cd8b09a9-6ebf-43a8-bd96-8b889e8b753f,Mystery Brewing Co,brewpub,437 Dimmocks Mill Rd Ste 41,,,Hillsborough,North Carolina,27278-2379,United States,9196978379,http://www.mysterybrewing.com,-79.1135558,36.0695647
-910d5a63-31aa-40ba-b720-91d1c21cdb52,Nantahala Brewing Co,micro,61 Depot Street,,,Bryson City,North Carolina,28713-0483,United States,8287886185,http://www.nantahalabrewing.com,-83.446278,35.4311525
+29375fd1-5d72-4f6a-8607-c3e3f7bc4ca1,Mythic Brewing,taproom,1147 Falls Rd Ste 107,,,Rocky Mount,North Carolina,27804,United States,9196327551,,-77.802088,35.95815
+910d5a63-31aa-40ba-b720-91d1c21cdb52,Nantahala Brewing Co,micro,61 Depot Street,,,Bryson City,North Carolina,28713-0483,United States,8287886185,http://www.nantahalabrewing.com,-83.446246,35.43133
 68fc2bdf-4401-4dc0-a3c0-2a8a29189e6e,Natty Greene's Brewing Co,regional,1918 W Gate City Blvd,,,Greensboro,North Carolina,27403-2615,United States,3362741373,http://www.nattygreenes.com,-79.7923996,36.0646259
+ba94445a-7bed-4b1b-b6ff-b922fedfcc01,Natty Greene's Brewing Co,brewpub,345 South Elm St,,,Greensboro,North Carolina,27401,United States,3362101165,http://www.nattygreenes.com,-79.790259,36.068626
 e4ada546-4330-42bd-9304-5fcbe922f4f5,Natty Greene's Pub & Brewing Co,brewpub,345 S Elm St,,,Greensboro,North Carolina,27401-2603,United States,3368566111,http://www.nattygreenes.com,-79.7903852,36.0686458
+1197445b-a985-44a7-8458-f317f666306e,Nauti Dog Brewing Co,taproom,210 West Main Street,,,Winterville,North Carolina,28590,United States,2523473401,http://www.nautidogbrewingco.com,-77.402938,35.527632
 6c4dc675-17ad-4f13-afd5-d69438a709d8,NAZZ'D Brew Works and Pub,planning,,,,Pittsboro,North Carolina,27312,United States,9196042081,http://www.nazzdbrew.com,,
 e21cd242-f85b-4dd1-9328-e9ca1237624a,NC State Brewery,micro,400 Dan Allen Drive Campus Box 7624,,,Raleigh,North Carolina,27695-0001,United States,9195130802,http://www.fbns.ncsu.edu/Sheppard/,,
-061fcb41-7dd1-4db4-8963-733096eea370,Neuse River Brewing Company,micro,518 Pershing Rd,,,Raleigh,North Carolina,27608-2624,United States,9842328479,http://www.neuseriverbrewing.com,-78.63345205,35.8045083
-d76c7a31-bcf2-42b5-842c-abb9b40d8cb1,New Anthem Beer Project,micro,116 Dock St,,,Wilmington,North Carolina,28401-4433,United States,9103994683,http://www.newanthembeer.com,-77.94826959,34.23413971
+061fcb41-7dd1-4db4-8963-733096eea370,Neuse River Brewing Company,brewpub,518 Pershing Rd,,,Raleigh,North Carolina,27608-2624,United States,9842328479,http://www.neuseriverbrewing.com,-78.632776,35.804157
+d76c7a31-bcf2-42b5-842c-abb9b40d8cb1,New Anthem Beer Project,micro,110 Greenfield St,,,Wilmington,North Carolina,28401-6123,United States,9103868837,http://www.newanthembeer.com,-77.945806,34.215929
+3f213d10-a548-4145-af6e-136bab2705cf,New Anthem Beer Project,micro,110 Greenfield St,,,Wilmington,North Carolina,28401-6123,United States,9103868837,http://www.newanthembeer.com,-77.945806,34.215929
 de5ee7c1-54e0-4d20-960a-b825a76ddc9e,New Belgium Brewing Co,regional,21 Craven St,,,Asheville,North Carolina,28806-,United States,8885989552,http://www.newbelgium.com,-82.57194293,35.5879302
 285b5827-7b82-428b-856c-f12e3756c663,New Realm Brewing,planning,,,,Charlotte,North Carolina,28203,United States,,,,
 c6d7e285-5fbb-4a5c-acc2-6d1555340ac2,New River Brewing,micro,9211 NC Hwy 194 N Unit A,,,Lansing,North Carolina,28643,United States,9194528367,http://www.newriverbrewing.beer,,
-612e347f-19d3-4bab-896a-ba6783ef3cd9,New Sarum Brewing,micro,109 N Lee St,,,Salisbury,North Carolina,28144,United States,7043105048,http://www.newsarumbrewing.com,-80.46853163,35.66652728
-ca3fbf41-dcfb-478e-bede-15a75f61090b,New Village Brewery and Taproom,micro,702 Broad St,,,Oriental,North Carolina,28571-9778,United States,2522496132,http://www.newvillagebrewery.com,-76.69472257,35.02921067
-3e49da3b-a8b2-454c-a97d-ada31a36d104,Newgrass Brewing Company,micro,213 S Lafayette St,,,Shelby,North Carolina,28150-5349,United States,7049371280,http://www.newgrassbrewing.com,-81.54035756,35.29061978
-3bc90ba0-66f5-4728-a5b3-049e98d37a3c,Nickelpoint Brewing Co,micro,506 Pershing Rd,,,Raleigh,North Carolina,27608-2624,United States,9199165961,http://www.nickelpointbrewing.com,-78.63369468,35.8045808
-34b3f37c-5c35-4afa-a10f-590b88a055f1,NoDa Brewing Co - NE,regional,2921 N Tryon St,,,Charlotte,North Carolina,28206-2762,United States,7044511394,http://www.nodabrewing.com,-80.7190968,35.3342735
-537b2caf-1ce6-4c4f-9e7c-618d3c0bf9c1,NoDa Brewing Co - OG,micro,2229 N Davidson St,,,Charlotte,North Carolina,28205-1829,United States,7044511394,,-80.81513271,35.23971743
-b66534e0-f458-43b0-b9b4-e72487d9414e,Northern Outer Banks Brewing Company,micro,520 Old Stoney Rd,,,Corolla,North Carolina,27927,United States,2522071890,http://www.northernobxbrewing.com,,
+19ed9a52-d16a-4b88-96bb-27deb2017a89,New River Brewing,brewpub,108 South 3rd Avenue,,,Jefferson,North Carolina,28694,United States,3368462739,http://www.newriverbrewing.beer,-81.491309,36.401019
+075fb7f6-5bcb-4e9b-aefe-39e4cce772e9,New River Brewing,micro,833 US Hwy 221 Bus,,,West Jefferson,North Carolina,28694,United States,,,-81.484234,36.409845
+612e347f-19d3-4bab-896a-ba6783ef3cd9,New Sarum Brewing,micro,109 N Lee St,,,Salisbury,North Carolina,28144,United States,7048306577,http://www.newsarumbrewing.com,-80.467894,35.666448
+ca3fbf41-dcfb-478e-bede-15a75f61090b,New Village Brewery and Taproom,taproom,702 Broad St,,,Oriental,North Carolina,28571-9778,United States,2522496132,http://www.newvillagebrewery.com,-76.694437,35.029285
+3e49da3b-a8b2-454c-a97d-ada31a36d104,Newgrass Brewing Company,taproom,213 S Lafayette St,,,Shelby,North Carolina,28150-5349,United States,7049371280,http://www.newgrassbrewing.com,-81.539975,35.290228
+3bc90ba0-66f5-4728-a5b3-049e98d37a3c,Nickelpoint Brewing Co,micro,506 Pershing Rd,,,Raleigh,North Carolina,27608-2624,United States,9199165961,http://www.nickelpointbrewing.com,-78.633633,35.804424
+3f290022-f2e1-4365-9048-2057147dcd5a,Noblebräu Brewing,brewpub,185 King st,,,Brevard,North Carolina,28712,United States,8285777442,http://https://noblebrau.com/,-82.736152,35.237791
+0d94d95a-3c92-4f8f-bb59-dfd2027a54b8,Noblebräu Brewing,brewpub,185 King st,,,Brevard,North Carolina,28712,United States,8285777442,http://https://noblebrau.com/,-82.736152,35.237791
+6b2ac438-61c1-4b4b-bf43-c0804b7ee4c8,Nocturnal Brewing Company,brewpub,893 Hwy 64 Bus,,,Hayesville,North Carolina,28904,United States,8283057337,http://www.nocturnalbrewing.com,-83.818912,35.045413
+34b3f37c-5c35-4afa-a10f-590b88a055f1,NoDa Brewing Co - NE,regional,2921 N Tryon St,,,Charlotte,North Carolina,28206-2762,United States,7044511394,http://www.nodabrewing.com,-80.812639,35.251681
+537b2caf-1ce6-4c4f-9e7c-618d3c0bf9c1,NoDa Brewing Co - OG,micro,2229 N Davidson St,,,Charlotte,North Carolina,28205-1829,United States,7044511394,,-80.814809,35.240379
+85e33daa-c6d5-4d8c-99d4-9d5dfe4abdcd,Norse Brewing Company,micro,203 Brooks St,,,Wake Forest,North Carolina,27587,United States,9195544555,http://www.norsebrewingco.com,-78.50814,35.977391
+b66534e0-f458-43b0-b9b4-e72487d9414e,Northern Outer Banks Brewing Company,micro,520 Old Stoney Rd,,,Corolla,North Carolina,27927,United States,2522071890,http://www.northernobxbrewing.com,-75.79891,36.279552
 ce6318f1-dd45-402a-849d-43548e7b8e6a,Oak and Dagger Public House,brewpub,18 Seaboard Ave Ste 150,,,Raleigh,North Carolina,27604-8010,United States,9199459382,http://www.oakanddagger.beer,,
+91bf5516-719a-45f9-8761-7cd4b0be9ca7,Oak City Brewing Company,taproom,616 N 1st Ave,,,Knightdale,North Carolina,27545-8506,United States,9193738487,http://www.oakcitybrewingcompany.com,-78.476605,35.793867
 25beda23-8920-4a0a-a7a7-fd8b972ac1cd,Oaklyn Springs Brewery,planning,,,,Fuquay Varina,North Carolina,27526-5499,United States,9192800046,http://www.oaklynspringsbrewery.com,,
+c9f1c383-15f6-4af3-befb-ec890dce0f76,Oaklyn Springs Brewery,taproom,2912 N Main St,,,Fuquay Varina,North Carolina,27526-5499,United States,9192800046,http://www.oaklynspringsbrewery.com,-78.732592,35.615592
+3b9e962b-26b2-4fe3-bacf-b0aa23010296,Oden Brewing Company,taproom,802 W Gate City Blvd,,,Greensboro,North Carolina,27403,United States,9105150889,http://www.odenbrewing.com,-79.803433,36.064227
 970d787c-1b48-4cf7-a213-0c1845db1391,Off Main Brewing,planning,,,,Davidson,North Carolina,28036-6945,United States,5124153075,http://OffMainBrewing.com,,
-6b3bd021-21d2-4a08-8883-3f22c7df0896,Olde Hickory Brewery - Production,micro,2 3rd St SW,,,Hickory,North Carolina,28602-2941,United States,,,-81.34229502,35.7313114
-538cd69c-0efe-43e1-bef4-a93fac2ae151,Olde Hickory Brewery & Amos Howards,brewpub,2828 US Highway 70 SW,,,Hickory,North Carolina,28602-4645,United States,8283238753,http://www.amoshowards.com,,
+56741aa2-b074-4290-b48f-56d5de625280,Old Armor Beer Company,taproom,211 W. Ave.,,,Kannapolis,North Carolina,28081,United States,7049339203,http://www.armorybeer.com,-80.6482,35.4967
+07335885-2ea0-413e-9db2-1e05af8deaf0,Old Well Brewery,brewpub,1467 N Main St,,,Mount Pleasant,North Carolina,28124,United States,7044362050,http://www.73andmain.com/oldwellbrewery,-80.435241,35.399128
+6b3bd021-21d2-4a08-8883-3f22c7df0896,Olde Hickory Brewery,micro,2 3rd St SW,,,Hickory,North Carolina,28602-2941,United States,,,-81.342135,35.731599
+8ff2105b-e734-481a-9503-8a9bc9297bb6,Olde Hickory Brewery (Corp),office only location,2 3rd Street Southwest,,,Hickory,North Carolina,28602,United States,8283221422,,-81.342135,35.731599
+538cd69c-0efe-43e1-bef4-a93fac2ae151,Olde Hickory Brewery & Amos Howards,brewpub,2828 US Highway 70 SW,,,Hickory,North Carolina,28602-4645,United States,8283238753,http://www.amoshowards.com,-81.387277,35.721543
 24245887-9267-4799-b5a4-82e95deea0c0,Ole Dallas Brewery,micro,,,,Dallas,North Carolina,28034-9793,United States,7042661472,http://www.oledallasbrewery.com,,
 4d0805e5-a99c-4deb-b8f7-1eb3a2449fd6,One World Brewing,micro,10 Patton Ave Ste 002,,,Asheville,North Carolina,28801-3302,United States,8287855580,http://www.oneworldbrewing.com,,
-b3b08e37-95c0-4756-9ad5-2a6388705534,Oskar Blues Brewery - Brevard,regional,342 Mountain Industrial Dr,,,Brevard,North Carolina,28712-5122,United States,3037760724,http://www.oskarblues.com,-82.7069595,35.2536956
+14a69397-d877-4526-b941-47478c4e26dd,One World Brewing,taproom,520 Haywood Rd,,,Asheville,North Carolina,28806,United States,8285759992,,-82.584653,35.578219
+b3b08e37-95c0-4756-9ad5-2a6388705534,Oskar Blues Brewery - Brevard,regional,342 Mountain Industrial Dr,,,Brevard,North Carolina,28712-5122,United States,8288832337,http://www.oskarblues.com,-82.706502,35.25371
 51855a0c-1fcc-40d4-b1c8-d3e1be783068,Other Side of the Moon Brewery / Full Moon Oyster Bar,brewpub,1477 River Ridge Dr,,,Clemmons,North Carolina,27012,United States,3367128200,http://www.fullmoonoysterbar.com,-80.3912598,36.0738908
-8151cea5-19ff-42c4-8f3e-e3dbbeb384c2,Outer Banks Brewing Station,brewpub,600 S Croatan Hwy,,,Kill Devil Hills,North Carolina,27948,United States,2524492739,http://www.obbrewing.com,-75.65925231,36.00947755
+8151cea5-19ff-42c4-8f3e-e3dbbeb384c2,Outer Banks Brewing Station,brewpub,600 S Croatan Hwy,,,Kill Devil Hills,North Carolina,27948,United States,2524492739,http://www.obbrewing.com,-75.659458,36.009475
+56f80dc9-b51e-447b-a32b-b303f2b32e9f,Outer Dunes Brewing Company,taproom,7976 Market Street,,,Wilmington,North Carolina,28411,United States,9108210069,http://www.outerdunesbrewing.com,-77.798829,34.290926
+4887b407-0ecb-4d5c-9598-247d942e609a,Owls Roost Brewery,taproom,20 N. Main St,,,Franklinton,North Carolina,27525,United States,9193573131,http://www.owlsroostbrewing.com,-78.456388,36.104039
 18703afa-900e-4dee-a6ab-08eb0034b8e2,Owls Roost Brewing,planning,,,,Wake Forest,North Carolina,27587-2958,United States,9197491428,,,
-8c600205-6e67-43a7-983a-0e2daba7bb93,Oyster House Brewing Co.,brewpub,625 Haywood Rd,,,Asheville,North Carolina,28806-3255,United States,8285759370,http://www.oysterhousebeers.com,,
+8c600205-6e67-43a7-983a-0e2daba7bb93,Oyster House Brewing Co.,brewpub,625 Haywood Rd,,,Asheville,North Carolina,28806-3255,United States,8285759370,http://www.oysterhousebeers.com,-82.588873,35.578994
+cd6aca6f-f992-46a5-8563-05794c5f6533,Panacea Brewing Company,brewpub,311 Judges Rd. Unit  6B,,,Wilmington,North Carolina,28405,United States,9106601817,http://panaceabrewingcompany.com,-77.855331,34.25306
 e0f10443-62fe-48ca-a9d5-3b1c3cb426f0,Peaks and Creeks Brewing Company,micro,212 King St Ste B,,,Brevard,North Carolina,28712,United States,8285504765,http://www.brevardlumberyard.com,,
-86e9610f-9d70-45d5-a43a-cdf824923728,Pig Pounder Brewery,micro,1107 Grecade St,,,Greensboro,North Carolina,27408-8709,United States,3365531290,http://www.pigpounder.com,-79.804196,36.084466
+40a538ef-33f2-43f8-ad67-5dd9ca1a5920,Percent Tap House LLC,taproom,4250 Main Street #109,,,Harrisburg,North Carolina,28075,United States,9802588651,http://www.percenttaphouse.com,-80.646593,35.32652
+21015948-311b-4306-a54c-3233f5111604,Petty Thieves Brewing Company,taproom,413 Dalton Ave,,,Charlotte,North Carolina,28206,United States,,http://www.pettythievesbrewing.com,-80.835256,35.239291
+066c3f50-5ba5-43c8-b471-e8e2b96c9734,Pharr Mill Brewing Company,taproom,105 Oakley Dr,,,Harrisburg,North Carolina,28075,United States,7042886120,http://www.pharrmillbrewing.com,-80.65984,35.32032
+86e9610f-9d70-45d5-a43a-cdf824923728,Pig Pounder Brewery,taproom,1107 Grecade St,,,Greensboro,North Carolina,27408-8709,United States,3365531290,http://www.pigpounder.com,-79.804363,36.08423
 e9841166-8a2c-481b-8fbf-0a8c50bc31b6,Pilot Brewing,planning,,,,Charlotte,North Carolina,28205,United States,,,,
 a418742c-1196-4602-8a28-6f4f4203d82b,Pinehurst Brewery,planning,,,,Pinehurst,North Carolina,28374,United States,,,,
 3882eece-5d4c-4783-89dc-03717599fcdd,Pinehurst Resort,planning,,,,Pinehurst,North Carolina,28374,United States,9102358703,,,
-b9ffed7c-9569-4f18-82a6-b51b59dd5bb8,Pisgah Brewing Co,micro,150 Eastside Dr,,,Black Mountain,North Carolina,28711-8208,United States,8286690190,http://www.pisgahbrewing.com,-82.35826,35.6079376
-5c29c1ec-f2dd-4b73-b9be-b89a91c94dae,Pitt Street Brewing Company,micro,630 S Pitt St,,,Greenville,North Carolina,27834-3159,United States,2522274151,http://www.pittstreetbrewing.com,-77.37694822,35.6095883
+b9ffed7c-9569-4f18-82a6-b51b59dd5bb8,Pisgah Brewing Co,micro,150 Eastside Dr,,,Black Mountain,North Carolina,28711-8208,United States,8286690190,http://www.pisgahbrewing.com,-82.356828,35.607449
+5c29c1ec-f2dd-4b73-b9be-b89a91c94dae,Pitt Street Brewing Company,taproom,630 S Pitt St,,,Greenville,North Carolina,27834-3159,United States,2522274151,http://www.pittstreetbrewing.com,-77.37672,35.610559
 9a279764-f687-43a5-b361-8c98189d177b,Ponysaurus Brewing Company,brewpub,219 Hood St,,,Durham,North Carolina,27701-3715,United States,9784827701,http://www.ponysaurusbrewing.com,-78.89399922,35.99008624
 21dd64a1-c254-4c35-a7b7-f909b88c8d10,Preyer Brewing Company,micro,600 A-B Battleground Ave,,,Greensboro,North Carolina,27401-2015,United States,3362569450,http://www.preyerbrewing.com,,
-041933ef-caad-429f-84eb-2fe597d09c3b,Primal Brewery,micro,16432 Old Statesville Rd,,,Huntersville,North Carolina,28078-7245,United States,7049472920,http://www.primalbrewery.com,-80.84384068,35.43603236
-105764ab-27f9-4bd0-8d62-2a2c61e5ec8d,Quick Trigger Brewing Company,brewpub,118 Main St W,,,Ahoskie,North Carolina,27910-3302,United States,2523326844,http://www.quicktriggerbrewing.com,-76.9863065,36.2857593
+041933ef-caad-429f-84eb-2fe597d09c3b,Primal Brewery,taproom,16432 Old Statesville Rd,,,Huntersville,North Carolina,28078,United States,7049098855,http://https://primalbrewery.com/,-80.84365,35.436993
+a6b9f517-fcee-4a27-8119-b66c7d221ff3,Primal Brewery - Belmont,brewpub,52 Ervin Street,,,Belmont,North Carolina,28012,United States,7049472920,,-81.035269,35.244655
+b42e55c1-f444-497c-aa1b-10f9fade5207,Protagonist Beer,brewpub,227 Southside Dr Unit A,,,Charlotte,North Carolina,28217,United States,5132264960,http://www.protagonistbeer.com,-80.881601,35.186036
+74673df2-7b8e-4156-ad66-26f4c70334bf,Protagonist Beer - Southend Brewery,brewpub,227 Southside Dr A1,,,Charlotte,North Carolina,28217,United States,5132264960,,-80.8989,35.1694
+105764ab-27f9-4bd0-8d62-2a2c61e5ec8d,Quick Trigger Brewing Company,brewpub,118 Main St W,,,Ahoskie,North Carolina,27910-3302,United States,2523326844,http://www.quicktriggerbrewing.com,-76.986473,36.286111
+c027a53f-5856-4866-8064-bb81b651cb0d,R & R Brewing,taproom,541 NW Center St,,,Mount Olive,North Carolina,28365,United States,2525500853,http://www.randrbrew.com,-78.0637,35.20034
+1baff8b9-666f-4bf1-a79e-dadbdbe73c70,R&D Brewing,micro,1323 Capital Blvd,,,Raleigh,North Carolina,27603-1117,United States,9199775654,http://www.rndbrewing.com,-78.6359,35.800187
+6d8bfec3-0f79-4dd5-b5ec-f223140f19e3,"Radar Brewing Company, LLC",taproom,216 East 9th Street,,,Winston-Salem,North Carolina,27101,United States,3369998090,http://www.radarbrewingcompany.com,-80.24232,36.105594
 a7e1db73-8d89-46f7-b3a5-7f186529e972,Railhouse Brewery,micro,105 E South St Unit C,,,Aberdeen,North Carolina,28315-,United States,9107835280,http://www.railhousebrewery.com,,
-cd1f1a39-af96-4e8a-a863-93e5ae52624b,Raleigh Brewing Company,micro,3709 Neil St,,,Raleigh,North Carolina,27607-5415,United States,9194009086,http://www.raleighbrewingcompany.com,-78.6875149,35.7931167
+027bdca3-93b3-4430-a31d-95a1ede314de,"Railhouse Brewery, LLC",brewpub,105 E South St,,,Aberdeen,North Carolina,28315,United States,9107835280,http://www.railhousebrewery.com,-79.427098,35.130622
+cd1f1a39-af96-4e8a-a863-93e5ae52624b,Raleigh Brewing Company,micro,3709 Neil St,,,Raleigh,North Carolina,27607-5415,United States,9194009086,http://www.raleighbrewingcompany.com,-78.686326,35.793043
+4b434150-9139-490b-a018-0a607a8ad93e,Red Buffalo Brewing Co,taproom,108 N Center St,,,Statesville,North Carolina,28677,United States,7043802219,http://www.redbuffalobrewing.com,-80.888247,35.785151
 0ea7eb38-71d2-4166-98e3-827be3878d92,Red Hill Brewing Co,micro,21 Union St S,,,Concord,North Carolina,28025-5009,United States,7047842337,http://www.redhillbrewing.com,-80.5806658,35.41030435
+c904c122-ca60-4db5-89af-10746ff1da29,Red Oak Brewery,regional,6901 Konica Dr,,,Whitsett,North Carolina,27377-9787,United States,3362993649,http://www.redoakbrewery.com,-79.569559,36.061278
 1b22d595-585c-4818-8e8d-6e62b5ca1d2c,Red Oak Brewing Co,regional,6901 Konica Dr,,,Whitsett,North Carolina,27377-9787,United States,3362993649,http://www.redoakbrewery.com,,
+b75bae9a-d37e-4972-b59b-a5a53c73d1ec,Resident Culture,taproom,2101 Central Ave,,,Charlotte,North Carolina,28205-5203,United States,7043331862,http://www.residentculturebrewing.com,-80.805295,35.220219
 c9815e98-046a-4e4e-bbd2-80d265b62747,Resident Culture Brewing Company LLC,micro,2101 Central Ave,,,Charlotte,North Carolina,28205-5203,United States,7043331862,http://www.residentculturebrewing.com,-80.80542365,35.21995586
+6da68490-5877-45cb-90ca-2394e0d6b499,Resident Culture South End,taproom,332 W Bland St,,,Charlotte,North Carolina,28203,United States,7043331862,,-80.857699,35.219909
 302a399c-c230-4e4d-a906-c438f006d953,Rivermen Brewing Co,brewpub,1500 River Dr,,,Belmont,North Carolina,28012-3586,United States,7043634698,http://www.rivermenbrewingcompany.com,-81.015546,35.240249
+f6b0073c-26d5-40d3-a05d-4b4387132c7a,Riverside Rhapsody Beer Company,taproom,995 Riverside Drive,,,Woodfin,North Carolina,28801,United States,,,-82.579663,35.625475
+60820785-1cf2-453e-90a7-8d8e3b9ecc28,RMM Brewery Incubator,micro,409 Blackwell St,,,Durham,North Carolina,27701-3972,United States,9197443576,http://www.rockymountmills.com,-78.904014,35.991589
 4cdbfe24-ad60-4972-b9c0-9808b3dcb2ec,Rock Bottom Brewery- Charlotte,brewpub,401 N Tryon St Ste 100,,,Charlotte,North Carolina,28202-2108,United States,7043342739,,,
-22b97f6b-cd22-42f9-99cf-01554417b7a2,Salty Turtle Beer Company,micro,103 Triton Ln,,,Surf City,North Carolina,28445,United States,9108032019,http://www.saltyturtlebeer.com,,
-7613627e-54af-4cea-9279-9ae4ef452fe1,Salud Cerveceria,brewpub,3306-B N Davidson St,,,Charlotte,North Carolina,28205-1036,United States,7045782941,http://www.saludbeershop.com,,
+22b97f6b-cd22-42f9-99cf-01554417b7a2,Salty Turtle Beer Company,taproom,103 Triton Ln,,,Surf City,North Carolina,28445,United States,9108032019,http://www.saltyturtlebeer.com,-77.559636,34.443833
+7613627e-54af-4cea-9279-9ae4ef452fe1,Salud Cerveceria,brewpub,3306-B N Davidson St,,,Charlotte,North Carolina,28205-1036,United States,7045782941,http://www.saludbeershop.com,-80.804038,35.247795
 c5b7b93b-7ce2-4e53-8515-12ec1bd8475d,Sanctuary Brewing Company,micro,147 1st Ave E,,,Hendersonville,North Carolina,28792-5191,United States,8285959956,http://www.sanctuarybrewco.com,-82.45881412,35.31453259
 b1cb9fee-8488-43dd-9073-5cb426b580fc,Sapphire Mountain Brewing Co,contract,50 Slicers Ave,,,Sapphire,North Carolina,28774-9405,United States,8287430220,http://www.sapphiremountainbrewingcompany.com,,
-c930a583-8540-418a-aaf2-d0042d20f5a6,Satulah Mountain Brewing Co,micro,454 Carolina Way,,,Highlands,North Carolina,28741,United States,8284829794,http://www.satulahmountainbrewing.com,-83.19553951,35.05400622
-625c43c9-7a7d-4434-abb2-fac1028b28ae,Seven Jars Products,micro,6148-B Brookshire Blvd,,,Charlotte,North Carolina,28216,United States,7049190278,http://sevenjars.com/brewery,,
-ae444b8a-16f8-425f-a4ca-f3d518667f02,Shortway Brewing Company,micro,230 Chatham Street,,,Newport,North Carolina,28570,United States,2527773065,http://www.shortwaybrewing.com,-76.85945669,34.78998841
-91799fbb-6b2d-449b-a0aa-0ac579692489,Sierra Nevada Brewing Co,regional,100 Sierra Nevada Way,,,Mills River,North Carolina,28732-8608,United States,,http://www.sierranevada.com,,
-f90c6800-2533-4fec-9ad3-2e0c910b9ae4,Skull Camp Brewing,micro,1980 N Bridge St,,,Elkin,North Carolina,28621-2106,United States,3363525595,http://www.skullcampbrewing.com,-80.8524566,36.28339789
-c43a62fc-9928-4483-a067-e18a9f6a62f4,Skull Camp Brewing,micro,765 Round Peak Church Rd,,,Mount Airy,North Carolina,27030-8421,United States,3363525595,http://www.skullcampbrewing.com,,
-a2fd5880-bb20-447c-8676-06d5c3204bb2,Small Batch Beer Co,brewpub,241 W 5th St,,,Winston Salem,North Carolina,27101-2825,United States,3368936395,http://www.smallbatchws.com,-80.24656194,36.09984057
-3e1ffead-2087-4bf9-8d03-621591c0ee27,Southern Appalachian Brewery,micro,822 Locust St Ste 100,,,Hendersonville,North Carolina,28792-3758,United States,8286841235,,,
-3ae0a49a-4062-4373-a647-98d246ce43d2,Southern Peak Brewery,micro,950 Windy Rd Ste 100,,,Apex,North Carolina,27502-2410,United States,9192084515,http://www.southernpeakbrewery.com,-78.8439995,35.7461806
-2be3a6fa-c941-4347-ac5e-52aef8acabd4,Southern Pines Brewing Company,micro,565 Air Tool Dr Ste E,,,Southern Pines,North Carolina,28387-3469,United States,9103659925,http://www.southernpinesbrewing.com,,
-87decbbd-efa4-4914-a50b-0622169f7dfd,Southern Range Brewing,brewpub,151 S Stewart St,,,Monroe,North Carolina,28112,United States,7042894049,http://www.southernrangebrewing.com,-80.55091346,34.98073637
-dc52c24c-dd41-4c5f-b25f-7969dbc1a035,"Starpoint Brewing, LLC",micro,901 Clarence Dr,,,Chapel Hill,North Carolina,27516-3145,United States,9195232302,http://starpointbrewing.com,,
+c930a583-8540-418a-aaf2-d0042d20f5a6,Satulah Mountain Brewing Co,taproom,454 Carolina Way,,,Highlands,North Carolina,28741,United States,8284829794,http://www.satulahmountainbrewing.com,-83.195394,35.054113
+f7f4351b-a959-4df0-9675-2b0cfab475b2,Seaboard Brewing,taproom,213 N Trade St,,,Matthews,North Carolina,28105,United States,7042468323,http://www.seaboardbrewing.com,-80.721388,35.117642
+625c43c9-7a7d-4434-abb2-fac1028b28ae,Seven Jars Products,taproom,6148-B Brookshire Blvd,,,Charlotte,North Carolina,28216,United States,7049190278,http://sevenjars.com/brewery,-80.906343,35.28756
+dca41303-1a4f-49b8-801e-c788432ce1f0,Seven Sounds Brewing Company,taproom,112 N Water Street,,,Elizabeth City,North Carolina,27909,United States,,http://www.sevensounds.beer,-76.218196,36.300139
+ae444b8a-16f8-425f-a4ca-f3d518667f02,Shortway Brewing Company,micro,230 Chatham Street,,,Newport,North Carolina,28570,United States,2527773065,http://www.shortwaybrewing.com,-76.859306,34.790911
+c99c671a-e4f8-418e-b157-ed6c8d79f700,Sidetracked Brewery,taproom,609 South Green Street,,,Morganton,North Carolina,28655,United States,8285445840,http://www.sidetrackedbrew.com,-81.681769,35.742259
+1492a937-a245-4324-8bcb-47e3e265d40d,Sideways Farm and Brewery,taproom,62 Eade Rd,,,Etowah,North Carolina,28729,United States,8285953445,http://www.sidewaysfarm.com,-82.609255,35.309208
+91799fbb-6b2d-449b-a0aa-0ac579692489,Sierra Nevada Brewing Co,regional,100 Sierra Nevada Way,,,Mills River,North Carolina,28732-8608,United States,,http://www.sierranevada.com,-82.545056,35.429193
+f90c6800-2533-4fec-9ad3-2e0c910b9ae4,Skull Camp Brewing,micro,1980 N Bridge St,,,Elkin,North Carolina,28621-2106,United States,3363525595,http://www.skullcampbrewing.com,-80.852429,36.284384
+c43a62fc-9928-4483-a067-e18a9f6a62f4,Skull Camp Brewing,taproom,765 Round Peak Church Rd,,,Mount Airy,North Carolina,27030-8421,United States,3363525595,http://www.skullcampbrewing.com,-80.767758,36.498782
+a2fd5880-bb20-447c-8676-06d5c3204bb2,Small Batch Beer Co,brewpub,241 W 5th St,,,Winston Salem,North Carolina,27101-2825,United States,3368936395,http://www.smallbatchws.com,-80.24665,36.099861
+6f588f70-d10e-4542-a581-b4146d62c11d,Sneaky Penguin Brewing Company,taproom,7449 Six Forks Rd,,,Raleigh,North Carolina,27615-6164,United States,9192394212,http://www.sneakypenguinbrewing.com,-78.646288,35.881677
+270cc825-30e0-4779-879b-875065cd8cbd,Snowbird Mountains Brewery,taproom,378 Locust St,,,Andrews,North Carolina,28901,United States,6784103035,http://www.snowbirdmountainsbrewery.com,-83.825485,35.201457
+85948726-d13a-4769-a962-dc54b282ca20,Solar Brewing Company,brewpub,8108 E Oak Island Dr,,,Oak Island,North Carolina,28465-8059,United States,9104082579,http://wwwsolarbrewingcompany.com,-78.083765,33.908968
+cb40087a-6ca6-4bad-883c-9890806c2884,Southend Brewing Co.,brewpub,117 W Lewis St,,,Greensboro,North Carolina,27406,United States,,http://http://www.southendbrewing.com/,-79.791774,36.065854
+3e1ffead-2087-4bf9-8d03-621591c0ee27,Southern Appalachian Brewery,taproom,822 Locust St Ste 100,,,Hendersonville,North Carolina,28792-3758,United States,8286841235,,-82.459107,35.322418
+3ae0a49a-4062-4373-a647-98d246ce43d2,Southern Peak Brewery,taproom,950 Windy Rd Ste 100,,,Apex,North Carolina,27502-2410,United States,9192084515,http://www.southernpeakbrewery.com,-78.844209,35.746247
+2be3a6fa-c941-4347-ac5e-52aef8acabd4,Southern Pines Brewing Company,micro,565 Air Tool Dr Ste E,,,Southern Pines,North Carolina,28387-3469,United States,9103659925,http://www.southernpinesbrewing.com,-79.3731,35.1935
+87decbbd-efa4-4914-a50b-0622169f7dfd,Southern Range Brewing,brewpub,151 S Stewart St,,,Monroe,North Carolina,28112,United States,7042894049,http://www.southernrangebrewing.com,-80.550843,34.980737
+4bced4f0-829f-49fc-9f0b-df8cce76b0a4,Spaceway Brewing Company,alt prop,115 S. Church Street,,,Rocky Mount,North Carolina,27804,United States,9196678141,http://www.spacewaybrewing.com,-77.79691,35.942126
+dc52c24c-dd41-4c5f-b25f-7969dbc1a035,"Starpoint Brewing, LLC",micro,901 Clarence Dr,,,Chapel Hill,North Carolina,27516-3145,United States,9195232302,http://starpointbrewing.com,-79.08441,35.873569
 a9441b9a-abbf-4b32-ba73-ee112330ecbc,"Starpoint Brewing, LLC / Beer Study",micro,2501 University Dr Ste 4,,,Chapel Hill,North Carolina,22707,United States,9842197538,http://www.drinkdurham.com,,
+ed054192-8ed4-40bb-8a61-b1716629c2e0,"Starpoint Brewing, LLC / Beer Study",taproom,2501 University Dr Ste 4,,,Durham,North Carolina,27707,United States,9842197538,http://www.drinkdurham.com,-78.923547,35.974273
+e4d7cf65-6eba-4e2f-b017-3116d9ad684f,Steel Hands Brewing,micro,1918 West Gate City Blvd,,,Greensboro,North Carolina,27403,United States,8039200592,,-79.825246,36.061203
 8016ba19-ba7a-4ea1-bd8f-86203aa8fa08,Steel String Craft Brewery,brewpub,106 S Greensboro St Ste A,,,Carrboro,North Carolina,27510-2266,United States,9192407215,http://www.steelstringbrewery.com,,
+5ec88cf4-c199-4ef8-a9f5-78cad6a57751,Steel String Craft Brewery,taproom,6901 NC Highway 54,,,Mebane,North Carolina,27302,United States,9192407215,http://www.steelstringbrewery.com,-79.255313,35.952242
+639284c2-dab4-4656-95bc-032e9e58fca3,Steinhaugen Brewery,micro,1017 Ivy Avenue,,,Winston Salem,North Carolina,27101,United States,3366248127,,-80.238853,36.107353
 ed99535c-e134-4d94-8962-f04aad4386c6,Sub Noir Brewing Company,micro,2039 Progress Ct,,,Raleigh,North Carolina,27608-2761,United States,9194802337,http://www.subnoir.net,-78.6231748,35.8091103
-ced563fa-0fc3-4c4c-bd16-2b9b7717f28a,Sugar Creek Brewing Co.,micro,215 Southside Dr,,,Charlotte,North Carolina,28217-1727,United States,7044082021,http://www.sugarcreekbrewing.com,-80.88045065,35.18571693
-f015b19a-40c0-48e9-b310-faa577b03406,Sweet Union Brewing,micro,13717 E Independence Blvd,,,Indian Trail,North Carolina,28079-7600,United States,7046285211,http://www.sweetunionbrewing.com,,
-fe331f63-1c49-4cf2-91a7-b2403023b1e0,Sweeten Creek Brewing,brewpub,1127 Sweeten Creek Rd,,,Asheville,North Carolina,28803-1728,United States,8285752785,http://www.sweetencreekbrewing.com,-82.520631,35.5139103
+ced563fa-0fc3-4c4c-bd16-2b9b7717f28a,Sugar Creek Brewing Co.,micro,215 Southside Dr,,,Charlotte,North Carolina,28217-1727,United States,7044082021,http://www.sugarcreekbrewing.com,-80.880919,35.185491
+f015b19a-40c0-48e9-b310-faa577b03406,Sweet Union Brewing,taproom,13717 E Independence Blvd,,,Indian Trail,North Carolina,28079-7600,United States,7046285211,http://www.sweetunionbrewing.com,-80.6614,35.085
+fe331f63-1c49-4cf2-91a7-b2403023b1e0,Sweeten Creek Brewing,micro,1127 Sweeten Creek Rd,,,Asheville,North Carolina,28803-1728,United States,8285752785,http://www.sweetencreekbrewing.com,-82.522218,35.5431
+e3fc3616-7452-434e-85ff-4f2299e26154,Swellsa Brewing,taproom,1802 S Virgina Dare Trail,,,Kill Devil Hills,North Carolina,27948,United States,2522071527,http://www.swellsabrewing.com,-75.647909,35.998046
 970430cb-49db-4d40-bda4-a3fd12d3b40c,Sycamore Brewing,brewpub,2161 Hawkins St Ste A,,,Charlotte,North Carolina,28203-5396,United States,7049103821,http://www.sycamorebrew.com,,
-85314e5d-defb-44cf-9630-55a5bced2268,Tarboro Brewing Company,micro,526 N Main St,,,Tarboro,North Carolina,27886-4313,United States,2525636522,http://www.tarborobrewingcompany.com,-77.53557317,35.89855641
+2f09262d-c9a9-495a-94ca-e9bbd14d564d,Sycamore Brewing,regional,401 W 24th St,,,Charlotte,North Carolina,28206-2664,United States,7049103821,http://www.sycamorebrew.com,-80.826229,35.246108
+85b62280-d251-44a0-96d7-2821aa5ca980,Sycamore Brewing Taproom & Beer Garden,micro,2161 Hawkins St,,,Charlotte,North Carolina,28203,United States,7049103821,,-80.86263,35.20844
+59cf7000-6c97-4abb-88f0-9e62e0b1ec58,TapStation Apex,taproom,320 S Salem St,,,Apex,North Carolina,27502,United States,9197968599,,-78.854352,35.727634
+5c10e70a-ae8e-4caa-a4e7-2a25540f6bc7,Tar Banks Brewing Co.,taproom,108 N. Main St.,,,Louisburg,North Carolina,27549,United States,9197291750,http://www.tarbanksbrewing.com,-78.300446,36.099301
+85314e5d-defb-44cf-9630-55a5bced2268,Tarboro Brewing Company,taproom,526 N Main St,,,Tarboro,North Carolina,27886-4313,United States,2525636522,http://www.tarborobrewingcompany.com,-77.536075,35.898909
 a0a6eb69-2178-4809-8797-840da743d2e9,Tek Mountain Brewing,micro,1844 Sir Tyler Dr,,,Wilmington,North Carolina,28405-8305,United States,9104705334,http://www.facebook.com/groups/TekMountainBrewing/,-77.8239017,34.24224042
-74fbfde8-1486-4bb9-b7c9-7f4b27f32b27,The Dreamchaser's Brewery,micro,115 E North Main St,,,Waxhaw,North Carolina,28173-6029,United States,7048437326,http://www.dreamchasersbrewery.com,-80.74349914,34.92524057
+cf28183a-fe97-430a-a582-8ed5b5a4892f,The Chamber By Wooden Robot Brewery,taproom,"416 E. 36th Street, Suite 100",,,Charlotte,North Carolina,28205,United States,7723594993,,-80.8059,35.248655
+74fbfde8-1486-4bb9-b7c9-7f4b27f32b27,The Dreamchaser's Brewery,taproom,115 E North Main St,,,Waxhaw,North Carolina,28173-6029,United States,7048437326,http://www.dreamchasersbrewery.com,-80.743012,34.925459
+e8d5f00d-d428-46ee-bc50-027f43272acd,The Garage,taproom,1209 US Hwy 70 E,,,New Bern,North Carolina,28560,United States,2522886077,http://www.thegaragenc.com,-77.030154,35.077383
 6a79cd82-1833-4c70-ac8f-808dc79b6f7a,The Glass Jug,micro,5410 Nc Highway 55 Ste V,,,Durham,North Carolina,27713-7802,United States,9198186907,http://www.glass-jug.com,,
 a56d515f-cf35-4f04-a0df-e8b57260580d,The Laboratory Mill Brewery,micro,848 Southfork Rd,,,Lincolnton,North Carolina,28092,United States,,,,
+ea4d91db-20a2-4124-ad1c-dd807b36dbc5,The Levee Brewery and Pub,brewpub,118 Main St W,,,Valdese,North Carolina,28690,United States,8283901041,http://www.theleveepub.com,-81.563337,35.743723
 b4bad111-e8f4-45ac-bb74-c3dbac3cdceb,"The Levee Brewing Company, Inc",planning,,,,Valdese,North Carolina,28690,United States,8383901041,http://www.theleveepub.com,,
-5de171b9-729f-4203-bdb5-33aca95fdd46,The Olde Mecklenburg Brewery,regional,4150 Yancey Rd,,,Charlotte,North Carolina,28217-1738,United States,7045255644,http://www.oldemeckbrew.com,-80.88195345,35.18741705
+367f1c2b-d798-489b-94d8-7b641018455b,The Mulberry House Brewery,brewpub,189 W Main St,,,Washington,North Carolina,27889,United States,,http://www.themulberryhousebrewery.com,-77.057058,35.542676
+5de171b9-729f-4203-bdb5-33aca95fdd46,The Olde Mecklenburg Brewery,regional,4150 Yancey Rd,,,Charlotte,North Carolina,28217-1738,United States,5042501180,http://www.oldemeckbrew.com,-80.881543,35.187414
 9ec433d3-96fc-4055-88ef-cdc1b2aa9caa,The Other Side of the Moon - Jamestown,brewpub,103 W Main St,,,Jamestown,North Carolina,27282,United States,3633072887,,-79.93765165,35.99284597
-2f09262d-c9a9-495a-94ca-e9bbd14d564d,The Sycamore Brewing Cannery,micro,401 W 24th St,,,Charlotte,North Carolina,28206-2664,United States,7049103821,,-80.825601,35.246262
-86bbdd3d-05eb-4bbc-a96f-acdf06161539,Thirsty Monk Brewery,brewpub,92 Patton Ave,,,Asheville,North Carolina,28801-3315,United States,8282545470,http://www.monkpub.com,-82.55531475,35.59410425
+86bbdd3d-05eb-4bbc-a96f-acdf06161539,Thirsty Monk Brewery,brewpub,92 Patton Ave,,,Asheville,North Carolina,28801-3315,United States,8282545470,http://www.monkpub.com,-82.555332,35.59411
 9315fc33-084f-4cb6-857b-73b8afa0d7e7,Thirsty Nomad Brewing,micro,4402 Stuart Andrew Blvd Ste A,,,Charlotte,North Carolina,28217-1520,United States,7049400947,http://www.thirstynomadbrewing.com,,
-55d1e39f-f8ec-4b22-a153-a3ddc6a86615,Thirsty Souls Community Brewing,micro,238 Market St,,,Mount Airy,North Carolina,27030-3514,United States,,http://www.thirstysoulscommunitybrewing.com,-80.6087621,36.5008814
+105f770c-cee3-440d-b3a4-a4f8e8b54130,Thirsty Skull Brewing,micro,915 N Second Ave,,,Siler City,North Carolina,27344,United States,,http://www.thirstyskull.com,-79.467362,35.731575
+55d1e39f-f8ec-4b22-a153-a3ddc6a86615,Thirsty Souls Community Brewing,brewpub,238 Market St,,,Mount Airy,North Carolina,27030-3514,United States,3367562063,http://www.thirstysoulscommunitybrewing.com,-80.608781,36.500787
 6275d4e7-2531-4855-870f-25616819d7ae,Three Spirits Brewery,micro,5046 Old Pineville Rd Ste 200,,,Charlotte,North Carolina,28217-3033,United States,9802074881,http://www.threespiritsbrewery.com,-80.87842302,35.1718311
-2eb793d3-b52c-4c6b-9944-578f12c4d30c,Tight Lines Pub,brewpub,709 Arendell St,,,Morehead City,North Carolina,28557-4214,United States,2527730641,http://www.tightlinesbrewing.com,-76.71168962,34.72107454
-70b7d406-90d7-460e-b473-9bfa759cb53f,Tobacco Road Brewery,brewpub,505 W Jones St,,,Raleigh,North Carolina,27603-1428,United States,9193018793,http://www.tobaccoroadsportscafe.com,-78.64598965,35.78269753
+2eb793d3-b52c-4c6b-9944-578f12c4d30c,Tight Lines Pub,brewpub,709 Arendell St,,,Morehead City,North Carolina,28557-4214,United States,2527730641,http://www.tightlinesbrewing.com,-76.712068,34.720951
+98457972-20b9-4beb-9313-c639d851c596,Toasty Kettlyst Beer Company,micro,106 West Main Street,,,Gibsonville,North Carolina,27249,United States,,http://www.toastykettlyst.com,-79.542093,36.106143
+70b7d406-90d7-460e-b473-9bfa759cb53f,Tobacco Road Brewery,brewpub,505 W Jones St,,,Raleigh,North Carolina,27603-1428,United States,9193061406,http://www.tobaccoroadsportscafe.com,-78.64627,35.782649
 dbdef60f-fa3c-42a4-8536-5b4c85c946b9,Tobacco Wood Brewing Company,planning,,,,Oxford,North Carolina,27565,United States,9199391909,,,
-e498ccee-c405-451c-b27d-1426970983dc,Top Of The Hill Restaurant and Brewery,brewpub,100 E Franklin St Ste F,,,Chapel Hill,North Carolina,27514-3629,United States,9199298676,http://www.thetopofthehill.com,,
+ebebd034-d11c-4623-a781-3ee04148ced4,Tobacco Wood Brewing Company,taproom,117 Wall Street,,,Oxford,North Carolina,27565,United States,9197259402,http://www.tobaccowoodbrewing.com,-78.589228,36.310612
+e498ccee-c405-451c-b27d-1426970983dc,Top Of The Hill Restaurant and Brewery,micro,100 E Franklin St Ste F,,,Chapel Hill,North Carolina,27514-3629,United States,9199298676,http://www.thetopofthehill.com,-79.055526,35.913083
 2043d4a7-0356-4c97-bc40-739598829e90,Traust Brewing Co.,planning,,,,Charlotte,North Carolina,28205,United States,9805053111,http://www.traustbrewing.com,,
-7c4c41ee-e482-4f94-9815-1f46759444d9,Triple C Brewing,micro,2900 Griffith St,,,Charlotte,North Carolina,28203-5430,United States,7043723212,http://www.triplecbrewing.com,-80.8695658,35.20109925
+4c69d2b0-2a02-4ec6-b39b-b0e925b04acb,Triangle Beer Co,taproom,320 E Durham Rd,,,Cary,North Carolina,27513,United States,,,-78.775459,35.790169
+7c4c41ee-e482-4f94-9815-1f46759444d9,Triple C Brewing Company,micro,2900 Griffith St,,,Charlotte,North Carolina,28203-5430,United States,7043723212,http://www.triplecbrewing.com,-80.869645,35.201187
+9d7f3c7a-7b77-40eb-bc45-2be5bace1a23,Triple C Brewing Company - The Barrel Room,micro,2832 Griffith St,,,Charlotte,North Carolina,28203-5428,United States,,http://www.triplecbrewing.com,-80.869071,35.201468
 ad729d81-7f38-4f14-ad4b-fc75d9c740d6,Triskelion Brewing Company,micro,340 7th Avenue East,,,Hendersonville,North Carolina,28792,United States,8283887051,http://www.triskelionbrewing.com,-82.45789699,35.32060017
+4ecab973-3778-433a-a674-2f0b8a3e4be4,Trolley Barn Fermentory,taproom,2104 South Blvd,,,Charlotte,North Carolina,28203,United States,9809380984,http://www.trolleybarnclt.com,-80.861267,35.208433
 a09a3e43-9898-41d6-a426-4ee68780f8a9,Trollingwood Taproom & Brewery,micro,707 Dickinson Ave,,,Greenville,North Carolina,27834-3147,United States,2522106295,http://www.trollingwoodbrewery.com,-77.37544525,35.60994375
-03e0afb0-b86a-4b47-a9cd-7a302ac2cb75,Trophy Brewing Company,micro,656 Maywood Ave,,,Raleigh,North Carolina,27603-2340,United States,9198034849,http://www.trophybrewing.com,-78.65744714,35.76136262
+0e78ec5b-9122-4868-bcc7-abf243353f22,Trophy Brewing & Pizza,brewpub,827 West Morgan Street,,,Raleigh,North Carolina,27603,United States,,,-78.654011,35.779759
+03e0afb0-b86a-4b47-a9cd-7a302ac2cb75,Trophy Brewing Company,micro,656 Maywood Ave,,,Raleigh,North Carolina,27603-2340,United States,9198034849,http://www.trophybrewing.com,-78.657096,35.761646
 b6631112-1916-4334-a5cf-f2937c70a976,Turgua Brewing Co,micro,27 Firefly Hollow Dr,,,Fairview,North Carolina,28730-1648,United States,8282220984,http://www.turguabrewing.com,,
 84f3121a-293b-4a1e-89c8-c7fa0ca735d5,Twenty-Six Acres Brewing Company,micro,7285 Westwinds Blvd NW,,,Concord,North Carolina,28027-3310,United States,9802772337,http://www.26acres.com,-80.72192703,35.38617748
 44113b77-122d-4680-85e7-cc0662cc6da0,Twin Leaf Brewery,micro,144 Coxe Ave,,,Asheville,North Carolina,28801-4026,United States,8283332221,http://www.twinleafbrewery.com,-82.55454185,35.58942485
-1a2e0257-a0c5-4ea9-b786-5d5585674596,Unknown Brewing Company,micro,1327 S Mint St,,,Charlotte,North Carolina,28203-4121,United States,9802372628,http://www.unknownbrewing.com,-80.8575419,35.2205129
+b83e12c6-14df-40a8-b376-8a46f82e2c3c,Two Rivers Alehouse NC,taproom,186 W Main St,,,Washington,North Carolina,27889,United States,,,-77.056514,35.543146
+e218b1a2-b407-4d87-b07d-eecf23e4a807,"Twoboros Brewery, LLC",taproom,111 East Main St,,,Wilkesboro,North Carolina,28697,United States,3369576642,,-81.151046,36.148279
+1a2e0257-a0c5-4ea9-b786-5d5585674596,Unknown Brewing Company,micro,1327 S Mint St,,,Charlotte,North Carolina,28203-4121,United States,9802372628,http://www.unknownbrewing.com,-80.857807,35.220596
 b9abbfd2-4a52-4d64-80ac-e236e2ce40da,"Untapped Territory, LLC",contract,326 E Main St Ste 1735,,,Lincolnton,North Carolina,28092-3335,United States,7042586466,,,
-4064247b-325f-4f0a-8269-d7c061bf1c53,UpCountry Brewing,brewpub,1042 Haywood Rd,,,Asheville,North Carolina,28806-2639,United States,8285752400,http://upcountrybrewing.com/,,
-422294e8-cbf4-4e06-8983-603bf57b5a55,Uptown Brewing Co,micro,418 Evans St,,,Greenville,North Carolina,27858-1834,United States,2526712633,http://www.uptownbrewingcompany.com,,
-0d4174b9-66de-4f8c-8e61-8a5d38f3a999,Valley River Brewery & Eatery,brewpub,71 Tennessee St,,,Murphy,North Carolina,28906-2938,United States,8288372337,http://www.valleyriverbrewery.com,-84.03520817,35.08890404
-5dafecff-6ef6-430d-87ed-1f9e315f3f92,Vecino Brewing,brewpub,300 E Main St,,,Carrboro,North Carolina,27510-2359,United States,9196495101,http://www.vecinobrewing.com,-79.0689722,35.9100127
-4c321585-4c57-400b-9a56-fb95767b8cee,Vicious Fishes Brewery,micro,219 Fish Dr,,,Angier,North Carolina,27501-6077,United States,9196393369,http://www.viciousfishes.com,-78.749408,35.507541
-540ec31e-ebbf-40d9-858a-09f23e1ff802,Waterline Brewing Co.,micro,721 Surrey St,,,Wilmington,North Carolina,28401-5043,United States,9107778955,http://www.waterlinebrewing.com,-77.94884067,34.22609746
-02813c09-43d2-4f5e-a098-0b69a1278ca9,Waterman's Brewing Co,brewpub,1610 Pavillion Pl,,,Wilmington,North Carolina,28403-3735,United States,9108393103,http://www.watermansbrewing.com,,
+4064247b-325f-4f0a-8269-d7c061bf1c53,UpCountry Brewing Company,brewpub,1042 Haywood Rd,,,Asheville,North Carolina,28806-2639,United States,8285752400,http://http://upcountrybrewing.com/,-82.604208,35.581503
+921cdb84-5851-45fb-93ab-d5f2ec0aad71,UpCountry Brewing Company,taproom,212 King St Ste B,,,Brevard,North Carolina,28712,United States,,,-82.735979,35.238135
+422294e8-cbf4-4e06-8983-603bf57b5a55,Uptown Brewing Co,micro,418 Evans St,,,Greenville,North Carolina,27858-1834,United States,2526712633,http://www.uptownbrewingcompany.com,-77.37327,35.611442
+fc318079-80e3-41c2-9482-672b099a2ae7,Uwharrie Brewing,taproom,121 N 3rd St,,,Albemarle,North Carolina,28001,United States,7045505779,,-80.197164,35.351099
+0d4174b9-66de-4f8c-8e61-8a5d38f3a999,Valley River Brewery & Eatery,brewpub,71 Tennessee St,,,Murphy,North Carolina,28906-2938,United States,8288372337,http://www.valleyriverbreweries.com,-84.035292,35.088742
+7b2230d6-06e6-4a42-aad7-1f630342bd97,Vaulted Oak Brewing,taproom,3726 Monroe Rd,,,Charlotte,North Carolina,28205,United States,9802090309,http://www.VaultedOakBrewing.com,-80.796482,35.199562
+5dafecff-6ef6-430d-87ed-1f9e315f3f92,Vecino Brewing Co.,brewpub,300 E Main St,,,Carrboro,North Carolina,27510-2359,United States,9195379591,http://www.vecinobrewing.com,-79.068415,35.910021
+4c321585-4c57-400b-9a56-fb95767b8cee,Vicious Fishes Brewery,taproom,219 Fish Dr,,,Angier,North Carolina,27501-6077,United States,9196393369,http://www.viciousfishes.com,-78.748614,35.507733
+540ec31e-ebbf-40d9-858a-09f23e1ff802,Waterline Brewing Co.,taproom,721 Surrey St,,,Wilmington,North Carolina,28401-5043,United States,9107778955,http://www.waterlinebrewing.com,-77.948451,34.225569
+02813c09-43d2-4f5e-a098-0b69a1278ca9,Waterman's Brewing Co,brewpub,1610 Pavillion Pl,,,Wilmington,North Carolina,28403-3735,United States,9108393103,http://www.watermansbrewing.com,-77.82049,34.221233
+1e9d61b3-e3b5-403e-b805-797710503d40,Weathered Souls Brewing Company LLC,brewpub,255 Clanton Rd,,,Charlotte,North Carolina,28217,United States,7047706605,,-80.875129,35.194688
 cbe89f10-6763-4ed1-90d0-80cabea11a29,Wedge Brewing Co,micro,37 Paynes Way Ste 100,,,Asheville,North Carolina,28801-2626,United States,8285052792,http://www.wedgebrewing.com,-82.56659201,35.5865571
-8968d98d-b553-4b7d-ae11-1b60a0a323a1,Weeping Radish Farm Brewery,micro,6810 Caratoke Hwy,,,Grandy,North Carolina,27939-9635,United States,2524915205,http://www.weepingradish.com,-75.891944,36.253775
+79bee102-de95-451a-9444-d43579b06cfb,Wedge Brewing Co,taproom,5 Foundy Street,,,Asheville,North Carolina,28801,United States,8282537152,http://www.wedgebrewing.com,-82.566297,35.577747
+8968d98d-b553-4b7d-ae11-1b60a0a323a1,Weeping Radish Farm Brewery,brewpub,6810 Caratoke Hwy,,,Grandy,North Carolina,27939-9635,United States,2524915205,http://www.weepingradish.com,-75.869288,36.219775
 1ab4a268-90ec-4506-944d-545e126fa337,Westbend Winery and Brewery,micro,5394 Williams Rd,,,Lewisville,North Carolina,27023-8278,United States,3369459999,http://www.westbendwineryandbrewery.com,-80.50459165,36.08868228
-cd74c02e-30a1-4e9e-9774-aa8d39788ae3,Whistle Hop Brewing Company,micro,1288 Charlotte Hwy,,,Fairview,North Carolina,28730-8797,United States,8283389447,http://www.whistlehop.com,-82.41693073,35.52314413
-6001a312-5d2b-456a-a0e1-ed2c3233cacf,White Elephant Beer Company,micro,225 Market St,,,Mount Airy,North Carolina,27030-3513,United States,3366488277,http://www.whiteelephantbeer.com,-80.6090865,36.5006581
-8517ebf6-2df8-488e-8fd6-87a94fe3bf1d,White Labs Kitchen and Tap,brewpub,172 S Charlotte St,,,Asheville,North Carolina,28801,United States,8289743868,,-82.5490695,35.5911334
-c9a7083e-1d8a-416c-a0d5-489b04f0e1bc,White Street Brewing Company,micro,218 S White St,,,Wake Forest,North Carolina,27587-2742,United States,9196479439,http://www.whitestreetbrewing.com,-78.5100617,35.9774896
-2c2f893e-57b6-42ef-8f74-931edf8b2dc9,White Street Brewing Company - Production Facility,micro,400 Park Ave,,,Youngsville,North Carolina,27596-8688,United States,9196479439,,-78.48610616,36.03960848
+0a32d50a-ff33-48bb-8090-fa6359d47370,Whaley Farm Brewery,taproom,178 Catawba Ave.,,,Old Fort,North Carolina,28762,United States,8286686352,http://www.whaleyfarmbrewery.com,-82.181628,35.626564
+cd74c02e-30a1-4e9e-9774-aa8d39788ae3,Whistle Hop Brewing Company,taproom,1288 Charlotte Hwy,,,Fairview,North Carolina,28730-8797,United States,8283389447,http://www.whistlehop.com,-82.417258,35.523785
+6001a312-5d2b-456a-a0e1-ed2c3233cacf,White Elephant Beer Company,taproom,225 Market St,,,Mount Airy,North Carolina,27030-3513,United States,3366488277,http://www.whiteelephantbeer.com,-80.609138,36.500663
+8517ebf6-2df8-488e-8fd6-87a94fe3bf1d,White Labs Kitchen and Tap,brewpub,172 S Charlotte St,,,Asheville,North Carolina,28801,United States,8289743868,,-82.548543,35.590885
+c9a7083e-1d8a-416c-a0d5-489b04f0e1bc,White Street Brewing Company,micro,218 S White St,,,Wake Forest,North Carolina,27587-2742,United States,9196479439,http://www.whitestreetbrewing.com,-78.510161,35.977505
+2c2f893e-57b6-42ef-8f74-931edf8b2dc9,White Street Brewing Company - Production Facility,micro,400 Park Ave,,,Youngsville,North Carolina,27596-8688,United States,9196479439,,-78.484763,36.038419
+63c751d5-aef3-4b18-8c7f-1b4a9d432da4,Whiteside Brewing Co,brewpub,128 State Rte 107,,,Cashiers,North Carolina,28717,United States,8287436000,http://www.whitesidebrewing.com,-83.10225,35.115093
 2849f939-f34f-498f-beba-c243b678765b,Wicked Weed Brewing,large,91 Biltmore Ave,,,Asheville,North Carolina,28801-3626,United States,8285759599,http://www.wickedweedbrewing.com,-82.55106832,35.5916712
 99c72386-748e-40dc-8e1b-db36bc5919d5,Wicked Weed Brewing,large,145 Jacob Holme Way,,,Candler,North Carolina,28715-0209,United States,4846789424,http://www.wickedweedbrewing.com,,
 995b3da6-99ed-4cf4-9562-05286f4430f8,Wicked Weed Funk House,large,95 Old Shoals Rd,,,Arden,North Carolina,28704-9401,United States,,http://www.wickedweedbrewing.com,-82.52495553,35.4674064
 5937f6df-a6e0-48cf-9234-bfd66b3c4c8e,Wicked Weed Funkatorium,large,95 Old Shoals Rd,,,Arden,North Carolina,28704-9401,United States,8285759599,http://www.wickedweedbrewing.com,-82.52495553,35.4674064
-bc28fab5-4e26-4e76-b294-64823949a61b,Wilmington Brewing Company,micro,824 S Kerr Ave,,,Wilmington,North Carolina,28403-8426,United States,9103923315,http://www.wilmingtonbeer.com,-77.88680231,34.2213165
-23c65942-1fb9-414b-93f9-b0d083673440,Wise Man Brewing,micro,826 Angelo Brothers Ave,,,Winston-Salem,North Carolina,27101,United States,3367250008,http://www.wisemanbrewing.com,,
+bc28fab5-4e26-4e76-b294-64823949a61b,Wilmington Brewing Company,taproom,824 S Kerr Ave,,,Wilmington,North Carolina,28403-8426,United States,9103923315,http://www.wilmingtonbrewingcompany.com,-77.886725,34.22142
+23c65942-1fb9-414b-93f9-b0d083673440,Wise Man Brewing,micro,826 Angelo Brothers Ave,,,Winston-Salem,North Carolina,27101,United States,3367250008,http://www.wisemanbrewing.com,-80.245194,36.104915
+986328e2-571f-4381-8d12-d03f55837b89,Wobbly Butt Brewery,alt prop,125 Morlake Dr,,,Mooresville,North Carolina,28117,United States,7046642695,http://Www.wobblybuttbrewery.com,-80.864826,35.600086
 13bf0163-6103-4307-a4ed-70309601bc0e,Wooden Robot,micro,1440 S Tryon St Ste 110,,,Charlotte,North Carolina,28203-4263,United States,7723594993,http://www.woodenrobotbrewery.com,,
 c346bd50-0c32-4700-816e-b8aa8d111630,Wooden Robot,planning,,,,Charlotte,North Carolina,28203-4263,United States,7723594993,,,
-2ae64f6a-c243-4554-9000-0cf70b7d220a,Wrightsville Beach Brewery,brewpub,6201 Oleander Dr,,,Wilmington,North Carolina,28403-3535,United States,9102564938,http://www.wbbeer.com,-77.836851,34.210452
-2a1157b5-b257-4b23-95df-a565b26da285,Yellow Sun Brewing Company,micro,127 Trade St,,,Rutherfordton,North Carolina,28139-2849,United States,8283750089,http://www.yellowsunbrewing.com,-81.9581017,35.3666796
+2ae64f6a-c243-4554-9000-0cf70b7d220a,Wrightsville Beach Brewery,brewpub,6201 Oleander Drive,,,Wilmington,North Carolina,28403,United States,9102564938,http://www.wbbeer.com,-77.836892,34.210873
+879ac6a7-fa67-41c0-82af-ee2428c1f48f,Wrightsville Beach Brewery,brewpub,6201 Oleander Drive,,,Wilmington,North Carolina,28403,United States,9102564938,http://www.wbbeer.com,-77.836892,34.210873
+18a7e8fa-dc9a-4e50-a6b3-b3b9f6157913,Wye Hill Brewery,brewpub,201 S Boylan Ave,,,Raleigh,North Carolina,27603,United States,9192755718,http://www.wyehill.com,-78.649098,35.778427
+2a1157b5-b257-4b23-95df-a565b26da285,Yellow Sun Brewing Company,brewpub,127 Trade St,,,Rutherfordton,North Carolina,28139-2849,United States,8283750089,http://www.yellowsunbrewing.com,-81.958441,35.366627
 f39e0ae5-07cc-45b7-bece-11e390807652,York Chester Brewing Company,micro,1500 River Dr Ste 250,,,Belmont,North Carolina,28012-3587,United States,7047555104,http://www.yorkchesterbrew.com,,
-e1278d06-ae74-4c23-9103-8ef505d24f5b,Zebulon Artisan Ales,micro,8 Merchents Alley,,,Weaverville,North Carolina,28787-8860,United States,,http://www.zebulonbrewing.com,,
-169cd01b-b11c-449e-87df-9d1dd056ebf2,Zillicoah Beer Company,proprietor,870 Riverside Dr,,,Woodfin,North Carolina,28804-3222,United States,8284846502,,-82.57561089,35.61776547
+e1278d06-ae74-4c23-9103-8ef505d24f5b,Zebulon Artisan Ales,micro,8 Merchents Alley,,,Weaverville,North Carolina,28787-8860,United States,,http://www.zebulonbrewing.com,-82.560997,35.696874
+169cd01b-b11c-449e-87df-9d1dd056ebf2,Zillicoah Beer Company,taproom,870 Riverside Dr,,,Woodfin,North Carolina,28804-3222,United States,8284247929,,-82.575768,35.617417

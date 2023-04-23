@@ -1,84 +1,131 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 126f87c3-1c6d-4ff0-b35c-c8dfa9a8e1b4,550 Brewing,proprietor,119 E Chuska St,,,Aztec,New Mexico,87410-2110,United States,5054861094,http://Www.550brew.com,-107.9950235,36.8213739
+84d37100-d3b4-4fbd-b4f6-3a79e5c68b99,"550 Brewing Company, LLC",taproom,119 N. Main Ave.,,,Aztec,New Mexico,87410,United States,5054029300,http://www.550brew.com,-107.995085,36.823167
+16e68bf2-65ed-46e0-a47f-5bb9deb6063e,575 Brewing Company,brewpub,234 W 8th St,,,Alamogordo,New Mexico,88310,United States,5759215739,http://www.575brewing.co,-105.963554,32.897857
 9c5acc37-15fa-4838-91ee-47bf27a94777,"Abbey Brewing Company, LLC",micro,215 W. Alicante Rd,,,Santa Fe,New Mexico,87505,United States,5056706802,http://www.abbeybrewing.biz,-105.9465207,35.66555826
 148e8fb4-4977-4ba8-8fa6-1133a56198d4,Ale Republic,micro,28 Arroyo Seco,,,Cedar Crest,New Mexico,87008,United States,5052812828,http://www.alerepublic.com,,
-e1f999c9-3012-41ab-869b-767125e19b7f,Alien Brewpub,brewpub,6601 Uptown Blvd NE Ste B,,,Albuquerque,New Mexico,87110-4207,United States,5058841116,http://www.abqbrewpub.com,,
+e1f999c9-3012-41ab-869b-767125e19b7f,Alien Brewpub,brewpub,6601 Uptown Blvd NE Ste B,,,Albuquerque,New Mexico,87110-4207,United States,5058841116,http://www.abqbrewpub.com,-106.570956,35.103905
+16f37d49-cd46-4ceb-aece-0f3bccf20b37,B2B ABQ,brewpub,8338 Comanche NE,,,Albuquerque,New Mexico,87110,United States,5052622222,http://www.b2babq.com,-106.552083,35.122946
+def02bab-20eb-4e6c-9116-f85179d72338,Bandolero Brewery,brewpub,421 N Main St,,,Clovis,New Mexico,88101,United States,5759355780,http://www.bandolerobrewery.com,-103.204939,34.402683
 7166c5a7-c772-44de-b0e1-fea41d5b4368,Bathtub Row Brewing Co-op,micro,163 Central Park Sq,,,Los Alamos,New Mexico,87544-4029,United States,5055008381,,-106.3007594,35.8839054
+affe7286-2e90-4100-8589-d8d7191f68b7,Beer Creek Brewing Co,brewpub,3810 Hwy 14,,,Santa Fe,New Mexico,87508,United States,5054719271,http://www.beercreekbrew.com,-106.063251,35.493604
 77c019ef-bc30-40e4-aa2b-5c51ffa38453,Bistronomy B2B Craft Brewery,brewpub,3118 Central Ave SE,,,Albuquerque,New Mexico,87106-2216,United States,5052622222,http://www.bistronomyb2b.com,-106.6102147,35.080354
 e018afc5-b867-44d2-b3e6-9f54e66bc5c8,BlÃ¼ Dragonfly Brewing,brewpub,301 E 9th St # C,,,Cimarron,New Mexico,87714-4027,United States,9186361095,,-104.914428,36.511427
+6794a97d-bd82-409a-9d5b-86a78faca036,Black Cock Brewery,taproom,1719 SE Main St,,,Roswell,New Mexico,88203,United States,5758386184,http://www.blackcockbrewery.com,-104.516525,33.371376
+27eaa69d-0da3-43eb-873d-676d6becc84b,Blü Dragonfly Brewing,micro,HWY 64 HCR 62 Box 20,,,Raton,New Mexico,87740,United States,5753761110,http://www.bludragonflybrewing.com,-104.4154,36.8428
 bfcbf176-9040-445a-a70f-58d8ce0df722,Blue Corn Cafe,brewpub,4056 Cerrillos Rd Ste G,,,Santa Fe,New Mexico,87507-2605,United States,5059841800,http://www.bluecorncafe.com,,
 7d96c9eb-d026-4579-b0d2-703de93af667,Blue Heron Brewing,micro,2214 New Mexico 68,,,Embudo,New Mexico,87531,United States,5055799188,http://www.blueheronbrews.com,,
-3e64794e-5a83-41d5-b017-19fdc058cf3e,Boese Brothers Brewing,micro,601 Gold Ave SW,,,Albuquerque,New Mexico,87102-3119,United States,5053827060,http://www.boesebrothers.com,-106.654295,35.083957
-b2c6e5d4-0637-44be-977b-ffb98569da4d,Bombs Away Beer Company,brewpub,9801 Acoma Rd SE,,,Albuquerque,New Mexico,87123-3301,United States,5055543204,http://www.bombsawaybeer.com,-106.53905,35.070904
+d0c6eda5-3ee9-490c-98b0-387a6452a7c2,Blue Heron Brewing Co. LLC,taproom,2214 New Mexico HWY 68,,,Embudo,New Mexico,87531,United States,5055799188,http://www.blueheronbrews.com,-106.0357,36.1438
+3e64794e-5a83-41d5-b017-19fdc058cf3e,Boese Brothers Brewing,taproom,601 Gold Ave SW,,,Albuquerque,New Mexico,87102-3119,United States,5053827060,http://www.boesebrothers.com,-106.654303,35.083992
+b2c6e5d4-0637-44be-977b-ffb98569da4d,Bombs Away Beer Company,brewpub,9801 Acoma Rd SE,,,Albuquerque,New Mexico,87123-3301,United States,5055543204,http://www.bombsawaybeer.com,-106.539103,35.07089
+d27073c1-094d-40db-a958-c763b75f0a03,Bonito Valley Brewing Company,taproom,692 Calle La Placita,,,Lincoln,New Mexico,88338,United States,5756534810,http://www.bonitovalleybrewing.com,-105.4027,33.4995
+b7f4ceba-b930-4669-b82b-879a39083e24,Boogie's Brewery & Distillery,taproom,2000 Friar Santa Maria Ave.,,,Deming,New Mexico,88030,United States,5752022763,http://www.demingbrew.com,-107.7197,32.25
 024f587b-17f8-42b6-8554-423162e200c9,Bosque Brewing Co,micro,8900 San Mateo Blvd NE Ste I,,,Albuquerque,New Mexico,87113-2459,United States,5054333889,http://www.bosquebrewingco.com,,
-9cfb70f4-7918-426f-9280-2c93e0b46c09,Bosque Brewing Co - Bosque North,micro,834 W. Highway 550,,,Bernalillo,New Mexico,87004,United States,5054333889,,,
+9cfb70f4-7918-426f-9280-2c93e0b46c09,Bosque Brewing Co,brewpub,834 W Highway 550,,,Bernalillo,New Mexico,87004,United States,5053611876,http://bosquebrewing.com,-106.560936,35.323452
+aa52366f-cf94-4f44-9ed9-d0d14e043b89,Bow and Arrow Brewing Co,taproom,602 McKnight Ave NW,,,Albuquerque,New Mexico,87102-1237,United States,5052479800,http://www.bowandarrowbrewing.com,-106.650929,35.104841
 6577673a-61c0-4ef0-830d-031e6a3ceb59,Bow and Arrow Brewing Co.,micro,608 McKnight Ave NW,,,Albuquerque,New Mexico,87102-1237,United States,5052479800,http://www.bowandarrowbrewing.com,,
-8ff02914-7639-412c-9165-dda506bdd61b,Boxing Bear Brewing Company,brewpub,10200 Corrales Rd NW,,,Albuquerque,New Mexico,87114-9268,United States,5058972327,http://www.boxingbearbrewing.com,-106.6460549,35.2036804
+6328195c-c1de-463d-9472-2a3332d98d12,Boxing Bear Brewing Co. - Firestone,taproom,8420 Firestone Lane NE,,,Albuquerque,New Mexico,87113,United States,5055036341,,-106.590351,35.180439
+8ff02914-7639-412c-9165-dda506bdd61b,Boxing Bear Brewing Company,brewpub,10200 Corrales Rd NW,,,Albuquerque,New Mexico,87114-9268,United States,5058972327,http://www.boxingbearbrewing.com,-106.645282,35.203275
+4b4e9109-82dd-489f-879d-f4c568c57ec9,Brew Lab 101 Beer & Cider Co.,taproom,3301 Southern Blvd SE,,,Rio Rancho,New Mexico,87124,United States,5059621587,http://www.brewlab101.com,-106.669919,35.242655
 b57658a7-b65b-4b79-bb7e-e0fa8c401415,Broken Trail Brewery & Distillery,micro,2921 Stanford Dr NE,,,Albuquerque,New Mexico,87107-1813,United States,5052216281,http://www.brokentrailspirits.com,-106.6175091,35.11440682
-06f89ef6-e14a-4642-9609-46c6aad9813f,Callahan West Brewery,micro,20 Main St,,,Mosquero,New Mexico,87733,United States,,,-103.9581938,35.77706974
-14f8c0f8-5f24-4eb8-865a-437cd5ec28dc,Canteen Brewhouse,micro,2381 Aztec Rd NE,,,Albuquerque,New Mexico,87107-4207,United States,5058304629,http://www.canteenbrewhouse.com,-106.617653,35.12025411
+06f89ef6-e14a-4642-9609-46c6aad9813f,Callahan West Brewery,taproom,20 Main St,,,Mosquero,New Mexico,87733,United States,5753663330,,-103.958849,35.776683
+14f8c0f8-5f24-4eb8-865a-437cd5ec28dc,Canteen Brewhouse,brewpub,2381 Aztec Rd NE,,,Albuquerque,New Mexico,87107-4207,United States,5058304629,http://www.canteenbrewhouse.com,-106.617964,35.120312
 a38bc569-6c71-4356-8456-e3a7bf13eab9,Casa Vieja LLC,planning,,,,Corrales,New Mexico,87048-8616,United States,5052691919,http://www.casaviejaevents.com,,
+8bd15e63-b79d-4555-be86-ee714f7338f3,Casa Vieja LLC,taproom,4541 Corrales Rd,,,Corrales,New Mexico,87048-8616,United States,5052691919,http://www.casaviejaevents.com,-106.615112,35.225943
+f729c1d4-653c-4c3e-8565-34246c8e20f5,Chile Line Brewery,brewpub,204 N. Guadalupe St.,,,Santa Fe,New Mexico,87501-1827,United States,5055007903,http://chilelinebrewery.com,-105.944001,35.689447
 653a1d3f-2589-46f0-b8f5-e76db412ae53,Chili Line Brewing Co.,brewpub,204 N. Guadalupe St.,,,Santa Fe,New Mexico,87501-1827,United States,5055007903,http://www.chililinebrewery@gmail.com,-105.9435314,35.68947555
-c76631f7-1fa9-4b31-b126-bedd85f363dd,Colfax Ale Cellar,micro,215 S 2nd St,,,Raton,New Mexico,87740-3907,United States,5754459727,Http://www.ColfaxAleCellar.com,-104.4396637,36.90092538
+e524bfea-de53-4157-baaa-8acf52fdd797,Cloudcroft Brewing Company,brewpub,1301 Burro Ave,,,Cloudcroft,New Mexico,88317,United States,5756822337,http://www.cloudcroftbrewing.com,-105.734889,32.958499
+c76631f7-1fa9-4b31-b126-bedd85f363dd,Colfax Ale Cellar,taproom,215 S 2nd St,,,Raton,New Mexico,87740-3907,United States,5754451111,http://Http://www.ColfaxAleCellar.com,-104.43941,36.900519
 44892f34-eb78-4fc3-ace4-80a59ca7236b,Comanche Creek Brewing Co,micro,225 Comanche Creek Road,,,Eagle Nest,New Mexico,87718,United States,5753772337,http://www.comanchecreekbrewingco.com,,
-f851b4a2-b3f0-49c3-9691-ab4622da8a06,Corrales Bistro Brewery,brewpub,4908 Corrales Rd,,,Corrales,New Mexico,87048-8613,United States,5058971036,http://www.cbbistro.com,-106.6127225,35.2298508
-82d6623d-c9e3-4d5f-a2ae-82d175bf00e6,De La Vegaâs Pecan Grill and Brewery,contract,500 S Telshor Blvd,,,Las Cruces,New Mexico,88011-4613,United States,5755211099,http://www.pecangrill.com,-106.7374222,32.3019659
+f851b4a2-b3f0-49c3-9691-ab4622da8a06,Corrales Bistro Brewery,brewpub,4908 Corrales Rd,,,Corrales,New Mexico,87048-8613,United States,5058971036,http://www.cbbistro.com,-106.612509,35.229932
+82d6623d-c9e3-4d5f-a2ae-82d175bf00e6,De La Vega’s Pecan Grill and Brewery,brewpub,500 S Telshor Blvd,,,Las Cruces,New Mexico,88011-4613,United States,5755211099,http://www.pecangrill.com,-106.744399,32.31439
+cb217a5e-3eb3-496f-9b3d-efad63f21ec8,Desert Dogs Brewery & Cidery,brewpub,"112 West San Francisco St, Unit 307",,,Santa Fe,New Mexico,87501,United States,5059830134,,-105.939812,35.687203
 cd625c02-0023-4fdd-803c-34a1343d37da,Desert Valley Brewing Co.,micro,"2809 Broadbent Pkwy NE, Suite D C/O The Craftroom",,,Albuquerque,New Mexico,87107-1613,United States,5057171985,,,
 483666c9-df7b-48b6-a09e-9dc2c39ddd22,Dialogue Brewing,micro,1501 1st St NW,,,Albuquerque,New Mexico,87102-1535,United States,5055851501,http://www.dialoguebrewing.com,-106.6456104,35.0976942
-e9f88398-a093-46e3-91d9-efa85d0412d7,Drylands Brewing,brewpub,322 N Main Ave,,,Lovington,New Mexico,88260-3643,United States,5757392739,http://Drylandsbrewing.com,-103.3484834,32.9504929
+2a5e4700-be59-4381-b5b0-fef7d70bf7b5,Differential Brewing Co,taproom,500 Yale Blvd se,,,Albuquerque,New Mexico,87106,United States,,http://www.differentialbrewing.com,-106.621734,35.073509
+f2c11377-3eba-4a0d-a5a8-be9fd72b91a6,Downshift Brewing Outpost 1706,location,301 Romero St NW,,,Albuquerque,New Mexico,87104,United States,,,-106.670783,35.096604
+e9f88398-a093-46e3-91d9-efa85d0412d7,Drylands Brewing,brewpub,322 N Main Ave,,,Lovington,New Mexico,88260-3643,United States,5757392739,http://Drylandsbrewing.com,-103.348265,32.951071
 5e0fa2b7-af5d-4aae-889d-8b9a3a1bf10f,Duel Brewing Company,brewpub,1228 Parkway Dr Ste D,,,Santa Fe,New Mexico,87507-7319,United States,5054745301,http://www.duelbrewing.com,,
-68a034ef-a640-4950-be85-deb482c883ce,Elkins Brewing Company,micro,1901 E Santa Fe Ave,,,Grants,New Mexico,87020,United States,5052878665,http://www.elkinsbrewing.com,,
-cc77b466-cfd0-4906-a0ea-fbfa768e7a6b,Enchanted Circle Brewing Company,brewpub,20 Sage Ln.,,,Angel Fire,New Mexico,87710,United States,5055078687,,-105.2882775,36.396276
+703379fc-8a2a-4dc4-9ef4-e87b943d15b9,Echoes,taproom,313 Gold SW,,,Albuquerque,New Mexico,87102,United States,,http://www.echoes-brewery.business.site,-106.651203,35.083742
+68a034ef-a640-4950-be85-deb482c883ce,Elkins Brewing Company,taproom,1901 E Santa Fe Ave,,,Grants,New Mexico,87020,United States,5052878665,http://www.elkinsbrewing.com,-107.833169,35.123762
+cc77b466-cfd0-4906-a0ea-fbfa768e7a6b,Enchanted Circle Brewing Company,taproom,20 Sage Ln.,,,Angel Fire,New Mexico,87710,United States,5055078687,,-105.287857,36.396177
 2f4ac980-04c4-4391-a4e4-2f5d90f9e4c2,Eskes Brew Pub,brewpub,106 Des Georges Pl,,,Taos,New Mexico,87571-6179,United States,5757581517,http://www.eskesbrewpub.com,-105.5731656,36.4058929
-fe89aa40-9b5d-4cb2-a8e9-54de1ec11c15,Flix Brewhouse,brewpub,3236 La Orilla Rd NW,,,Albuquerque,New Mexico,87120-2630,United States,5054458500,,-106.6815896,35.15878955
-69a152da-143e-4c71-b3aa-e0ffb6c3048e,Guadalupe Mountain Brewing Company,brewpub,3404 National Parks Hwy,,,Carlsbad,New Mexico,88220-5349,United States,5753617761,,-104.2240211,32.3821008
-71aaef45-0755-40d8-bbbe-a24adfc0932a,High and Dry Brewing,micro,529 Adams St NE,,,Albuquerque,New Mexico,87108-1228,United States,2197750232,http://www.highanddrybrewing.com,-106.5942753,35.08612571
-6631958b-a386-4865-a02c-4853ec7c2504,High Desert Brewing Co,brewpub,1201 W Hadley Ave,,,Las Cruces,New Mexico,88005-2422,United States,5755256752,http://www.highdesertbrewingco.com,-106.7934619,32.3096681
+37a58d34-f9a4-4e53-b06e-8aba272354b6,Ex Novo Brewing Co - Corrales,micro,4895 Corrales Road,,,Corrales,New Mexico,87048,United States,5055080547,,-106.61323,35.230865
+fe89aa40-9b5d-4cb2-a8e9-54de1ec11c15,Flix Brewhouse - ABQ,brewpub,3236 La Orilla Rd NW,,,Albuquerque,New Mexico,87120-2630,United States,5054458500,,-106.681296,35.158885
+02431f6d-161b-4842-8a60-7d22a5ea63b1,Gravity Bound Brewing Company,taproom,816 3rd St NW,,,Albuquerque,New Mexico,87102,United States,7209379564,,-106.648562,35.092428
+69a152da-143e-4c71-b3aa-e0ffb6c3048e,Guadalupe Mountain Brewing Company,brewpub,3324 National Parks Hwy,,,Carlsbad,New Mexico,88220,United States,5753617761,,-104.223683,32.382101
+faefa19e-97c6-4dc0-9abd-6a704bc6ce63,Guadalupe Mountain Brewing Company,brewpub,3324 National Parks Hwy,,,Carlsbad,New Mexico,88220,United States,5753617761,,-104.223683,32.382101
+3c00b156-4723-4bf6-a1ab-7a52a549fadf,Harmon Lane Brewing,taproom,3401 Candelaria Rd NE,,,Albuquerque,New Mexico,87107,United States,5053322739,,-106.606435,35.117009
+850bd42b-d46f-48cc-b5eb-7f263b71bbbb,Hidden Mountain Brewing Co.,brewpub,4056 Cerrillos Rd Ste G,,,Santa Fe,New Mexico,87507-2605,United States,5059841800,,-106.015706,35.639108
+71aaef45-0755-40d8-bbbe-a24adfc0932a,High and Dry Brewing,taproom,529 Adams St NE,,,Albuquerque,New Mexico,87108-1228,United States,2197750232,http://www.highanddrybrewing.com,-106.594505,35.08662
+6631958b-a386-4865-a02c-4853ec7c2504,High Desert Brewing Co,brewpub,1201 W Hadley Ave,,,Las Cruces,New Mexico,88005-2422,United States,5755256752,http://www.highdesertbrewingco.com,-106.793453,32.309595
 3f1aea69-e48b-4325-a181-43f69c6987e6,Honeymoon Brewery,planning,,,,Santa Fe,New Mexico,87501,United States,5059208379,http://www.honeymoonbrewery.com,,
-b7b10f9b-f5e3-444b-94b3-05d9357ac15d,Hops Brewery,brewpub,3507 Central Ave NE,,,Albuquerque,New Mexico,87106,United States,5053691378,,-106.6053016,35.0800564
+b7b10f9b-f5e3-444b-94b3-05d9357ac15d,Hops Brewery,brewpub,7222 4th Street. NW.,,,Albuquerque,New Mexico,87107,United States,5052692952,http://hopsbrewery.com,-106.635628,35.166056
+7cc0709b-c95d-474a-a13c-fdc6c3e25d60,Hops Brewery,brewpub,7222 4th Street. NW.,,,Albuquerque,New Mexico,87107,United States,5052692952,http://hopsbrewery.com,-106.635628,35.166056
+a404fe27-de29-4104-bc90-ad5dae017ad2,Hub City Brewing Company,taproom,202 De Soto Ave,,,Belen,New Mexico,87002,United States,5058594064,,-106.765693,34.662815
 0f79930c-9395-4d3d-9611-a9b9f16c759a,Icebox Brewing LLC,planning,,,,Las Cruces,New Mexico,88007-4722,United States,5755267129,,,
-e4f18c07-2a3d-4019-bae0-463e3591dbeb,Kaktus Brewing Co.,brewpub,471 South Hill Rd,,,Bernalillo,New Mexico,87004-9199,United States,5053795072,http://www.kaktusbrewery.com,-106.5387392,35.30844008
+46fb3c7d-fcb2-4487-84b0-fb5ac36600ee,Juno Brewery,brewpub,1501 1st St NW,,,Albuquerque,New Mexico,87102,United States,5052193938,http://www.junopub.com,-106.645618,35.097788
+e4f18c07-2a3d-4019-bae0-463e3591dbeb,Kaktus Brewing Co.,brewpub,471 South Hill Rd,,,Bernalillo,New Mexico,87004-9199,United States,5053795072,http://www.kaktusbrewery.com,-106.539222,35.308222
 50914ed3-6bd6-40d5-bcf7-f1bbebb1c6ab,Kellys Brewpub,brewpub,3222 Central Ave SE,,,Albuquerque,New Mexico,87106-1458,United States,5052622739,http://www.kellysbrewpub.com,-106.6085695,35.0800666
-70c7aa10-d43f-44c0-b78c-07a2bf3f03c9,Kilt Check Brewing Co,micro,4814 Hardware Dr NE,,,Albuquerque,New Mexico,87109,United States,5058810234,http://www.draftykiltbrewingco.com,-106.5898844,35.13600551
+70c7aa10-d43f-44c0-b78c-07a2bf3f03c9,Kilt Check Brewing Co,taproom,4814 Hardware Dr NE,,,Albuquerque,New Mexico,87109,United States,5058810234,http://www.draftykiltbrewingco.com,-106.589469,35.136449
 e8b5db64-dfbd-41b0-beff-0c4fd4c9be96,La Cumbre Brewing Co,micro,3313 Girard Blvd NE,,,Albuquerque,New Mexico,87107-1930,United States,5058720225,http://www.lacumbrebrewing.com,-106.6138649,35.11789781
-ac58a585-c2cf-4ac8-861b-2a45acba63a7,Las Cazuelas Brewing,brewpub,4051 Sara Rd SE,,,Rio Rancho,New Mexico,87124-1031,United States,5059949364,http://www.cazuelasmexicangrill.com,-106.6559686,35.23142306
+67ba0fe7-4c58-4e4c-9f1c-f4731b37228e,La Reforma,brewpub,8900 San Mateo Blvd NE,,,Albuquerque,New Mexico,87113,United States,5057171361,http://www.lareformabrewery.com,-106.586114,35.18666
+ac58a585-c2cf-4ac8-861b-2a45acba63a7,Las Cazuelas Brewing,brewpub,4051 Sara Rd SE,,,Rio Rancho,New Mexico,87124-1031,United States,5059949364,http://www.cazuelasmexicangrill.com,-106.654658,35.231768
+13391915-f9e1-4d5a-838c-3cf750cc2465,Late Shift Lager House,brewpub,2809 Broadbent Parkway,,,Albuquerque,New Mexico,87107,United States,5054001101,,-106.62869,35.113009
+2b40251d-7763-4294-a236-94c18e9d3d2f,Lava Rock Brewing Co,brewpub,2220 Unser Blvd NW,,,Albuquerque,New Mexico,87120-3889,United States,5058361022,http://www.lavarockbrewpub.com,-106.730353,35.111558
 3ee87e75-96e5-44d9-bd1c-0768d71ca878,Lava Rock Brewing Company,brewpub,2220 Unser Blvd,,,Albuquerque,New Mexico,87120,United States,5058361022,http://www.lavarockbrewpub.com,-106.7227497,35.0769954
 7e2593a2-8276-4e06-84e5-e2e0869fbebc,Leaf & Hive,planning,,,,Santa Fe,New Mexico,87507-6203,United States,6024481294,http://www.leafandhive.com,,
-b9a78a53-e345-4ff1-8b48-0ecfc8be956f,Little Toad Creek Brewery & Distillery,brewpub,200 N Bullard St,,,Silver City,New Mexico,88061,United States,5755369649,http://www.littletoadcreek.com,-108.2764,32.769863
-4d8d14f0-e079-44a2-b571-86d129ead825,Lizard Tail Brewing,brewpub,9800 Montgomery Blvd NE Ste 7,,,Albuquerque,New Mexico,87111-3560,United States,5057171301,http://www.lizardtailbrewing.com,,
-667d2685-1595-4d34-b636-d3768a7b6d7d,Lost Hiker Brewing Company,micro,26394 E Hwy 70 Unit 6,,,Ruidoso Downs,New Mexico,88346,United States,5128257521,http://www.losthikerbrewing.com,,
-45a4d916-2bc4-4e46-8d7a-d7e994f0d3fb,Marble Brewery - Mav Lab,micro,9904 Montgomery Blvd NE,,,Albuquerque,New Mexico,87111-3554,United States,5053234030,,-106.5308452,35.13056812
-90ecf47b-00b7-4b34-8ce3-2a704d6eddd6,Marble Brewery - Production,regional,111 Marble Ave NW,,,Albuquerque,New Mexico,87102-2315,United States,5052432739,http://www.marblebrewery.com,-106.6467287,35.0928224
+22cd00bb-ae43-497c-af1a-c40cbe37c322,Leaf & Hive Brew Lab,taproom,1208 Mercantile Rd Ste A,,,Santa Fe,New Mexico,87507-6203,United States,6024481294,http://www.leafandhive.com,-106.000789,35.655907
+b9a78a53-e345-4ff1-8b48-0ecfc8be956f,Little Toad Creek Brewery & Distillery,brewpub,203 S Mill Road,,,Silver City,New Mexico,88061,United States,5756547357,http://www.littletoadcreek.com,-108.2751,32.765
+561ed67c-ad13-4ac8-9569-2da3b37d262b,Little Toad Creek Brewery & Distillery,brewpub,203 S Mill Road,,,Silver City,New Mexico,88061,United States,5756547357,http://www.littletoadcreek.com,-108.2751,32.765
+4d8d14f0-e079-44a2-b571-86d129ead825,Lizard Tail Brewing,taproom,9800 Montgomery Blvd NE Ste 7,,,Albuquerque,New Mexico,87111-3560,United States,5057171301,http://www.lizardtailbrewing.com,-106.531831,35.12984
+04f42a75-e127-49ce-8c5a-373db01e4489,Lizard Tail Brewing Industrial,brewpub,3351 Columbia Dr. NE,,,Albuquerque,New Mexico,87107,United States,5057171301,,-106.622294,35.119017
+9caac89d-95d0-4bfe-bd70-0673c0e11c0d,Lizard Tail Brewing Nob Hill,brewpub,3417 Central Ave. NE,,,Albuquerque,New Mexico,87106,United States,5055037575,,-106.60624,35.080307
+667d2685-1595-4d34-b636-d3768a7b6d7d,Lost Hiker Brewing Company,taproom,26394 E Hwy 70 Unit 6,,,Ruidoso Downs,New Mexico,88346,United States,5128257521,http://www.losthikerbrewing.com,-105.581598,33.334903
+45a4d916-2bc4-4e46-8d7a-d7e994f0d3fb,Marble Brewery - MavLab,micro,9904 Montgomery Blvd NE,,,Albuquerque,New Mexico,87111-3554,United States,5053234030,,-106.530156,35.130192
+90ecf47b-00b7-4b34-8ce3-2a704d6eddd6,Marble Brewery - Production,regional,111 Marble Ave NW,,,Albuquerque,New Mexico,87102-2315,United States,5052432739,http://www.marblebrewery.com,-106.646698,35.092931
 b9875d8a-6efc-49e5-ae7a-87146be3d872,Milton's Brewing,micro,108 E Mermod St,,,Carlsbad,New Mexico,88220,United States,5756891026,http://www.miltonsbrewing.com,-104.2256158,32.42061065
+84fa7331-bc13-4fd3-8934-291d2fd8cc89,Milton's Brewing,taproom,213 W Mermod St,,,Carlsbad,New Mexico,88220-5729,United States,5756891026,http://www.miltonsbrewing.com,-104.228466,32.419977
+e7373e35-dc74-4043-bfa7-9643b4b76e48,Moonwalk,taproom,505 Central Ave NW,,,Albuquerque,New Mexico,87102,United States,5055038777,,-106.653007,35.085039
 bd61da27-2aa3-411f-aeff-6d141479c847,New Mexico State University Department Of Chemical,planning,,,,Las Cruces,New Mexico,88003,United States,5756461213,http://chme.nmsu.edu,,
-b140291a-b48c-4ed0-bafd-fee68859e48f,Nexus Brewery,brewpub,4730 Pan American Fwy NE Ste D,,,Albuquerque,New Mexico,87109-2204,United States,5052424100,http://www.nexusbrewery.com,,
-a3045868-5a15-46de-9eb3-d721be2231e5,Palmer Brewery & Cider House,micro,2926 Girard Blvd NE,,,Albuquerque,New Mexico,87107-1935,United States,5055080508,,-106.6136878,35.11493302
-75e58a42-3f5b-416e-b7e1-abd3f1207bd0,Picacho Peak Brewing Company,brewpub,3900 W Picacho Ave,,,Las Cruces,New Mexico,88007,United States,5756806394,http://www.picachopeakbrewery.com,-106.8024024,32.3118566
-759c9519-636c-434e-b7c9-4bedae0d5f42,Ponderosa Brewing,brewpub,1761 Bellamah Ave NW,,,Albuquerque,New Mexico,87104-2247,United States,5056395941,http://www.ponderosabrewing.net,-106.6650502,35.10091248
+b140291a-b48c-4ed0-bafd-fee68859e48f,Nexus Brewery,brewpub,4730 Pan American Fwy NE Ste D,,,Albuquerque,New Mexico,87109-2204,United States,5052424100,http://www.nexusbrewery.com,-106.606563,35.133309
+a3045868-5a15-46de-9eb3-d721be2231e5,Palmer Brewery & Cider House,brewpub,2926 Girard Blvd NE,,,Albuquerque,New Mexico,87107-1935,United States,5055080508,,-106.613366,35.115689
+75e58a42-3f5b-416e-b7e1-abd3f1207bd0,Picacho Peak Brewing Company,brewpub,3900 W Picacho Ave,,,Las Cruces,New Mexico,88007,United States,5756806394,http://www.picachopeakbrewery.com,-106.837939,32.307556
+22828271-aa7f-4b13-887a-a18f0729dd13,Piedra Blanca Brewing Company,taproom,303 Potrillo Dr,,,Los Alamos,New Mexico,87547-3829,United States,5056959205,,-106.20438,35.80033
+759c9519-636c-434e-b7c9-4bedae0d5f42,Ponderosa Brewing,brewpub,1761 Bellamah Ave NW,,,Albuquerque,New Mexico,87104-2247,United States,5056395941,http://www.ponderosabrewing.net,-106.664243,35.101248
+b06a262b-e137-4bee-a9f3-499a8beeeb61,Public House 28 Brewery,taproom,10092 S Hwy 28,,,Anthony,New Mexico,88021,United States,9155035207,http://www.hwy28brewery.com,-106.674668,32.049282
 9faf7b68-73ee-4252-aafa-b903c7376a12,Quarter Celtic Brewpub,brewpub,1100 San Mateo Blvd NE Ste 50,,,Albuquerque,New Mexico,87110-6473,United States,5055031387,http://www.quartercelticbrewery.com,,
 a1daf057-072c-4295-ab5c-ea8a668d0bc6,Red Door Brewing Co,micro,1001 Candelaria Rd NE,,,Albuquerque,New Mexico,87107-2115,United States,5056336675,http://www.reddoorbrewing.com,-106.5864617,35.1165072
-98ed229d-aac1-48b0-a562-d954e5f742ec,Red River Brewing Company,brewpub,217 W Main St,,,Red River,New Mexico,87558,United States,5757702519,http://www.redriverbrewing.com,,
+28da86ef-d05c-46eb-8c7c-4be483be0cf5,Red Door Brewing Co,taproom,1011 Sawmill Rd NW,,,Albuquerque,New Mexico,87104,United States,5053069066,http://www.reddoorbrewing.com,-106.656704,35.100571
+98ed229d-aac1-48b0-a562-d954e5f742ec,Red River Brewing Company,brewpub,217 W Main St,,,Red River,New Mexico,87558,United States,5757702519,http://www.redriverbrewing.com,-105.407493,36.708662
+75afad4e-663c-411f-aea4-937f7fce26bc,Resource Brewing Company,taproom,3107 Eubank Blvd NE,,,Albuquerque,New Mexico,87111,United States,5053128107,,-106.534427,35.117133
 ef794faa-d294-40fd-82c2-ed36b366a0c3,Rio Bravo Brewing Company,brewpub,1912 2nd Street NW,,,Albuquerque,New Mexico,87102,United States,5059003909,http://www.riobravobrewing.com,-106.6454774,35.10343814
-54204c13-3e22-44fe-8ac0-b0d72022b584,Roosevelt Brewing Company,brewpub,201 S Main Ave,,,Portales,New Mexico,88130-6216,United States,5752262739,http://www.rooseveltbrewing.com,-103.335715,34.185293
-87740a12-4392-41e7-b244-8f013503d567,Route 66 Junkyard Brewery,brewpub,1634 E Hwy 66,,,Grants,New Mexico,87020,United States,5052855000,http://www.facebook.com/Route66JunkyardBrewery/,,
-641c91ad-d21c-44f3-b66b-993457ee9fae,Rowley Farmhouse Ales,brewpub,1405 MacLovia St,,,Santa Fe,New Mexico,87505-3244,United States,5054280719,http://rowleyfarmhouse.com,-105.9836551,35.66076999
-3a366221-e927-47b5-a137-a553b82c3245,Santa Fe Brewing Co,regional,35 Fire Place,,,Santa Fe,New Mexico,87508-4493,United States,5054243333,http://www.santafebrewing.com,-106.0515883,35.59654205
-332bd2d1-af79-415e-827d-2b6d3d7cd0d4,Second Street Brewery,brewpub,1814 2nd St,,,Santa Fe,New Mexico,87505-3848,United States,5059823030,http://www.secondstreetbrewery.com,-105.9656754,35.66300492
-4b2a927f-b6ac-43ed-8bc5-42db70cc46ce,Second Street Brewery - Rufina,brewpub,2920 Rufina St,,,Santa Fe,New Mexico,87507-2999,United States,5059823030,http://www.secondstreetbreweryrufina.com,-105.9909993,35.65875738
+54204c13-3e22-44fe-8ac0-b0d72022b584,Roosevelt Brewing Company,brewpub,201 S Main Ave,,,Portales,New Mexico,88130-6216,United States,5752262739,http://www.rooseveltbrewing.com,-103.336123,34.186036
+87740a12-4392-41e7-b244-8f013503d567,Route 66 Junkyard Brewery,brewpub,1436 E. Hwy 66,,,Grants,New Mexico,87020,United States,5052855000,http://www.facebook.com/Route66JunkyardBrewery/,-107.824706,35.137988
+4dc3b2ad-78d4-422d-99ec-c4bcde78be93,Route 66 Junkyard Brewery,brewpub,1436 E. Hwy 66,,,Grants,New Mexico,87020,United States,5052855000,http://www.facebook.com/Route66JunkyardBrewery/,-107.824706,35.137988
+641c91ad-d21c-44f3-b66b-993457ee9fae,Rowley Farmhouse Ales,brewpub,1405 Maclovia St,,,Santa Fe,New Mexico,87505-3244,United States,5054280719,http://www.rowleyfarmhouse.com,-105.983399,35.660862
+3a366221-e927-47b5-a137-a553b82c3245,Santa Fe Brewing Co,regional,35 Fire Place,,,Santa Fe,New Mexico,87508-4493,United States,5054243333,http://www.santafebrewing.com,-106.051373,35.596004
+2938e143-78a1-413e-8a9e-90ecd4749f06,Santa Fe Dining,office only location,4056 CERRILLOS RD STE F-6,,,Santa Fe,New Mexico,87507,United States,,,-106.015706,35.639108
+332bd2d1-af79-415e-827d-2b6d3d7cd0d4,Second Street Brewery,brewpub,2920 Rufina St,,,Santa Fe,New Mexico,87507-2999,United States,5059823030,http://www.secondstreetbrewery.com,-105.99597,35.655789
+4b2a927f-b6ac-43ed-8bc5-42db70cc46ce,Second Street Brewery,brewpub,2920 Rufina St,,,Santa Fe,New Mexico,87507-2999,United States,5059823030,http://www.secondstreetbrewery.com,-105.99597,35.655789
 94b87f1d-ae3f-4d3c-a147-75edaa4e5fb7,Sidetrack Brewing Company,micro,413 2nd St SW,,,Albuquerque,New Mexico,87102-3307,United States,5052886468,http://www.sidetrackbrewing.net,-106.6500567,35.0807893
-1b39d4f8-f285-4bbf-a52c-429a2ba39856,Sierra Blanca Brewing Co,micro,1016 Industrial Rd,,,Moriarty,New Mexico,87035-3567,United States,5058322337,http://www.sierrablancabrewery.com,,
-f8c5522b-6ccf-44ff-86b4-92498df8a9a5,Spotted Dog Brewery,brewpub,2920 Avenida De Mesilla,,,Las Cruces,New Mexico,88005,United States,5756502729,http://www.spotteddogbrewery.com,-106.7852399,32.2938747
-c483ea80-d10a-497f-9f02-47e8a4b23861,Starr Brothers Brewing Co.,brewpub,5700 San Antonio Dr NE Ste B1,,,Albuquerque,New Mexico,87109-4179,United States,5054922752,http://starrbrothersbrewing.com,,
+1b39d4f8-f285-4bbf-a52c-429a2ba39856,Sierra Blanca Brewing Co,micro,1016 Industrial Rd,,,Moriarty,New Mexico,87035-3567,United States,5058322337,http://www.sierrablancabrewery.com,-106.023937,35.00031
+fbe8b7c1-dba0-4d8a-90e1-aded8c9fd473,Sobremesa,taproom,3421 Coors Blvd NW,,,Albuquerque,New Mexico,87120,United States,5053175557,http://www.sobremesanm.com,-106.703366,35.122241
+f8c5522b-6ccf-44ff-86b4-92498df8a9a5,Spotted Dog Brewery,brewpub,2920 Avenida De Mesilla,,,Las Cruces,New Mexico,88005,United States,5756502729,http://www.spotteddogbrewery.com,-106.791074,32.270594
+c483ea80-d10a-497f-9f02-47e8a4b23861,Starr Brothers Brewing Co.,brewpub,5700 San Antonio Dr NE Ste B1,,,Albuquerque,New Mexico,87109-4179,United States,5054922752,http://starrbrothersbrewing.com,-106.58012,35.159122
 e1bcecf4-738e-41e0-a2c8-c0fca901a0e2,Steel Bender Brewyard,brewpub,8305 2nd St NW,,,Los Ranchos de Albuquerque,New Mexico,87114-1038,United States,5054333537,http://www.steelbenderbrewyard.com,,
+a6f3d219-cc6a-4f68-b8ac-d9a7e0fe7e15,Tall Pines Beer And Wine Garden,taproom,2213 Sudderth Dr,,,Ruidoso,New Mexico,88345,United States,5756300327,,-105.668271,33.330657
 194b8100-0dde-43ba-8918-eea6c71bb406,Taos Ale House,brewpub,401 Paseo del Pueblo Norte,,,Taos,New Mexico,87571-5907,United States,5757585522,http://www.taosalehouse.com,-105.568722,36.41222
-1fa3fc1b-d53f-4154-89d0-f1d6955d6635,Taos Mesa Brewing Co,brewpub,20 ABC Mesa Road,,,El Prado,New Mexico,87529,United States,5757790449,http://www.taosmesabrewing.com,,
-0b29b25e-6a2f-476e-9ce3-585c14973f02,Taos Trail Inn Brewery & Steakhouse,brewpub,35309 US-285,,,Ojo Caliente,New Mexico,87549,United States,5055839215,http://www.taostrailinn.com/Restaurant,,
-5d90a63a-6a22-430e-a403-ecfd5f041f16,The 377 Brewery,micro,2027 Yale Blvd SE,,,Albuquerque,New Mexico,87106-4139,United States,5052503388,http://www.the377.com,-106.6219267,35.0561133
+1fa3fc1b-d53f-4154-89d0-f1d6955d6635,Taos Mesa Brewing Co,taproom,20 ABC Mesa Road,,,El Prado,New Mexico,87529,United States,5757790449,http://www.taosmesabrewing.com,-105.661375,36.46524
+0b29b25e-6a2f-476e-9ce3-585c14973f02,Taos Trail Inn Brewery & Steakhouse,brewpub,35309 US-285,,,Ojo Caliente,New Mexico,87549,United States,5055839215,http://www.taostrailinn.com/Restaurant,-105.996006,36.991315
+5d90a63a-6a22-430e-a403-ecfd5f041f16,The 377 Brewery,brewpub,2027 Yale Blvd SE,,,Albuquerque,New Mexico,87106-4139,United States,5059160331,http://www.the377brewery.com,-106.622429,35.059002
 59cfe7a7-cbc9-416b-a54e-fdae2591266b,The Blue Grasshopper Brew Pub,brewpub,4500 Arrowhead Ridge Dr SE,,,Rio Rancho,New Mexico,87124-5986,United States,5058968579,http://www.bghnm.com,-106.648789,35.254421
-9c92f2ed-a4b1-4347-884c-70f227b61c30,Three Rivers Eatery and Brewery,brewpub,101 E Main St,,,Farmington,New Mexico,87401-2701,United States,5053242187,http://www.threeriversbrewery.com,-108.205192,36.729011
-910f6318-1536-4e84-b0b8-bb5f1ce9f787,Toltec Brewing Co,brewpub,10250 Cottonwood Park NW # S,,,Albuquerque,New Mexico,87114-7018,United States,5057307982,,,
-373559ad-c964-477c-a443-f0531e3f78b0,Tractor Brewing Co,micro,1800 4th St NW,,,Albuquerque,New Mexico,87102-1426,United States,5052436752,http://www.getplowed.com,-106.6478962,35.1022749
-e512a4c1-76aa-485e-b12a-331ff2859f2a,Truth Or Consequences Brewing Company,micro,410 N Broadway St,,,Truth or Consequences,New Mexico,87901-2836,United States,5752970289,http://www.torc.beer,,
-ad99d8ce-7e57-4544-89e7-894eaaf58457,Tumbleroot Brewery And Distillery,micro,32 Bisbee Court Unit 3-4,,,Santa Fe,New Mexico,87508,United States,5052217894,http://www.tumblerootbreweryanddistillery.com,,
+40cd44fb-d7d7-44c9-8eeb-870356d93008,Thirsty Eye Brewing,taproom,206 Broadway Blvd SE,,,Albuquerque,New Mexico,87102-3425,United States,5056395831,http://www.thirstyeyebrew.com,-106.644487,35.082311
+9c92f2ed-a4b1-4347-884c-70f227b61c30,Three Rivers Eatery and Brewery,brewpub,101 E Main St,,,Farmington,New Mexico,87401-2701,United States,5053242187,http://www.threeriversbrewery.com,-108.205364,36.72877
+910f6318-1536-4e84-b0b8-bb5f1ce9f787,Toltec Brewing Co,brewpub,10250 Cottonwood Park NW # S,,,Albuquerque,New Mexico,87114-7018,United States,5058901455,http://www.toltecbrewing.com,-106.654698,35.203978
+373559ad-c964-477c-a443-f0531e3f78b0,Tractor Brewing Co,micro,1800 4th St NW,,,Albuquerque,New Mexico,87102-1426,United States,5052436752,http://www.getplowed.com,-106.647878,35.102222
+e512a4c1-76aa-485e-b12a-331ff2859f2a,Truth Or Consequences Brewing Company,taproom,410 N Broadway St,,,Truth or Consequences,New Mexico,87901-2836,United States,5752970289,http://www.torc.beer,-107.254672,33.128303
+ad99d8ce-7e57-4544-89e7-894eaaf58457,Tumbleroot Brewery And Distillery,brewpub,32 Bisbee Court Unit 3-4,,,Santa Fe,New Mexico,87508,United States,5052217894,http://www.tumblerootbreweryanddistillery.com,-106.043247,35.595989
+28ca5290-b458-41f3-9c14-06b0fecb1f56,Tumbleroot Brewery And Distillery,location,2797 Agua Fria St,,,Santa Fe,New Mexico,87507,United States,5052217894,http://www.tumblerootbreweryanddistillery.com,-105.994389,35.665361
 e4230c83-bfbc-4e17-a3da-7966a859d4af,Turtle Mountain Brewing Co,brewpub,905 36th Pl SE Ste C,,,Rio Rancho,New Mexico,87124-4850,United States,5059949497,http://www.turtlemountainbrewing.com,,
-e7f0a2c0-dd17-48ff-8d9f-5ab8b6803bb1,Wellhead Restaurant/Brewpub,brewpub,332 W Main St,,,Artesia,New Mexico,88210-2161,United States,5757460640,http://www.thewellhead.com,-104.399337,32.842417
+e7f0a2c0-dd17-48ff-8d9f-5ab8b6803bb1,Wellhead Restaurant/Brewpub,brewpub,332 W Main St,,,Artesia,New Mexico,88210-2161,United States,5757460640,http://www.thewellheadpub.com,-104.40091,32.842539

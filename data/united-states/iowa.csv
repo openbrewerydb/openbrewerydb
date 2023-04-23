@@ -1,92 +1,145 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 84bd3b3c-bd2d-4e07-bc31-b43a8c8ebf4c,1717 Brewing Co,micro,322 E Court Ave,,,Des Moines,Iowa,50309-2015,United States,5152437868,http://1717brewing.com,-93.6120353,41.5872267
-d8b4ad26-346b-40dd-8215-b0e89ace23e2,5 Alarm Brewing Co,micro,211 W Main St,,,Lake Mills,Iowa,50450,United States,6415922739,,-93.53398788,43.41926615
-fafc2e23-c3bf-46d3-87c0-00e92209269b,515 Brewing Co,micro,7700 University Ave,,,Clive,Iowa,50325-1271,United States,5156614615,http://www.515brewing.com,-93.7228408,41.599992
-e861ea88-9815-48a0-84ba-d2a1929178e7,7 Hills Brewing Company,brewpub,1085 Washington St,,,Dubuque,Iowa,52001-4932,United States,5635878306,http://www.7hillsbrew.com,-90.6635263,42.5045556
+2d235071-d738-40cd-9472-6962ec253029,1st Down Brewing Co.,taproom,106 E Court Avenue,,,Winterset,Iowa,50273,United States,5153212711,http://1st-down-brewing-co.spiritsale.com/?fbclid=IwAR2atPTFRy3xy1yfop3wh1RKJxmYH3tX8GJP1tj9HACbDq7jxYJKRMM2f1w,-94.013042,41.334175
+d8b4ad26-346b-40dd-8215-b0e89ace23e2,5 Alarm Brewing Co,taproom,211 W Main St,,,Lake Mills,Iowa,50450,United States,6415922739,,-93.534216,43.419065
+fafc2e23-c3bf-46d3-87c0-00e92209269b,515 Brewing Co,taproom,7700 University Ave,,,Clive,Iowa,50325-1271,United States,5156614615,http://www.515brewing.com,-93.72277,41.599994
+ef8eb443-f817-469a-8323-f3673a56b16e,5ive Cities Brewing,taproom,2255 Falcon Ave,,,Bettendorf,Iowa,52722,United States,5632326105,http://www.fivecitiesbrewing.com,-90.500836,41.574134
+e861ea88-9815-48a0-84ba-d2a1929178e7,7 Hills Brewing Company,brewpub,1085 Washington St,,,Dubuque,Iowa,52001-4932,United States,5635878306,http://www.7hillsbrew.com,-90.663612,42.50446
+0b9556ee-2813-432f-874d-fd94ca6b00c5,Adventurous Brewing,taproom,1040 State Street,,,Bettendorf,Iowa,52722,United States,3096317709,,-90.518443,41.525272
 d188560a-fd0d-4a44-9e4b-11aab9db8205,Albia Brewing Co,brewpub,11 Benton Ave E,,,Albia,Iowa,52531-2032,United States,6419324085,http://www.albiabrewingcompany.blogspot.com,-92.8073711,41.02718903
-6e103afb-f4ad-4fea-bf67-b31d390c269d,Alluvial Brewing Company,micro,3715 W 190th St,,,Ames,Iowa,50014-9316,United States,515337118,http://www.alluvialbrewing.com,-93.6370387,41.5831617
-d4c25fef-5c3e-423e-831b-599cc328424c,Backpocket Brewing Co,micro,903 Quarry Rd,,,Coralville,Iowa,52241-2208,United States,3194493700,http://www.backpocketbrewing.com,-91.55981337,41.68139484
-a2cdb369-d869-4f9a-9d80-7a5d2becd096,BackRoad Brewery,micro,90 School St,,,Carlisle,Iowa,50047,United States,5152102096,http://www.backroadbeer.com,-93.48531767,41.498501
-976cb1b1-2e1d-4b63-b8cc-003104c9af21,Barn Town Brewing Co.,brewpub,9500 SE University Ave #1110,,,West Des Moines,Iowa,50266-1888,United States,5159786767,,-93.8385143,41.5996472
-5e6cbfb1-f958-47d5-9a19-d8a639216888,Bent River Brewing Co,brewpub,500 Jefferson St,,,Burlington,Iowa,52601,United States,3192092773,http://www.burlingtonbentriver.com,-91.1052085,40.8106128
+add3d852-4fd4-4a6c-b587-869fb7f04933,Allerton Brewing Company,taproom,110 First Street East,,,Independence,Iowa,50644,United States,3193348250,http://www.allertonbeer.com,-91.895155,42.46885
+6e103afb-f4ad-4fea-bf67-b31d390c269d,Alluvial Brewing Company,taproom,3715 W 190th St,,,Ames,Iowa,50014-9316,United States,515337118,http://www.alluvialbrewing.com,-93.666627,42.079746
+70e540a3-e0ef-4e0f-a5b9-2a4b55345fec,Backcountry Winery & Brewery,taproom,3533 Fenton Ave,,,Stratford,Iowa,50249,United States,,http://www.backcountrywinery.com,-93.875129,42.276813
+d4c25fef-5c3e-423e-831b-599cc328424c,Backpocket Brewing Co,micro,903 Quarry Rd,,,Coralville,Iowa,52241-2208,United States,3194493700,http://www.backpocketbrewing.com,-91.559634,41.682341
+a2cdb369-d869-4f9a-9d80-7a5d2becd096,BackRoad Brewery,micro,140 N. First St.,,,Carlisle,Iowa,50047,United States,5152102096,http://www.backroadbeer.com,-93.486874,41.499028
+b9286e71-f50a-4c46-876f-e2781f278f14,BackRoad Brewery,micro,140 N. First St.,,,Carlisle,Iowa,50047,United States,5152102096,http://www.backroadbeer.com,-93.486874,41.499028
+976cb1b1-2e1d-4b63-b8cc-003104c9af21,Barn Town Brewing Co.,brewpub,9500 University Ave Ste 1110,,,West Des Moines,Iowa,50266-1888,United States,5159786767,,-93.838749,41.599562
+9560ed3d-b5b5-423e-8637-f3a8c76d5a0b,Barn Town Brewing Co.,brewpub,9500 University Ave Ste 1110,,,West Des Moines,Iowa,50266-1888,United States,5159786767,,-93.838749,41.599562
+198e3861-868d-4412-bb09-edbe0370c04c,Beer in the Barn Brewery,brewpub,101 N Main St,,,Saint Donatus,Iowa,52071-7808,United States,5632138014,,-90.540131,42.360641
+5e6cbfb1-f958-47d5-9a19-d8a639216888,Bent River Brewing Co,brewpub,500 Jefferson St,,,Burlington,Iowa,52601,United States,3192092773,http://www.burlingtonbentriver.com,-91.10521,40.81072
+625269dc-926f-4263-967d-9a1ba8e96799,Benton County Brewing Company,taproom,78 12th St,,,Belle Plaine,Iowa,52208,United States,,http://www.bentoncountybrewingcompany.com,-92.2711,41.8922
 b1040378-9992-4329-90d8-989fabdf5097,Big Grove Brewery,micro,1225 S Gilbert St,,,Iowa City,Iowa,52240-4507,United States,3195941891,http://www.biggrovebrewery.com,-91.53189828,41.64713299
-7541c361-f556-481e-905f-172dab289cce,Big Grove Brewery & Tap Room,brewpub,1225 S Gilbert St,,,Iowa City,Iowa,52240-4507,United States,3196242337,,-91.53189828,41.64713299
-62b7e476-a41e-4d17-a57a-e3658fc9224c,Big Rack Brew Haus,micro,2475 Hiatt Apple Trl,,,Winterset,Iowa,50273-8113,United States,,http://www.bigrackbrewhaus.com,-93.923386,41.286503
-810dda02-89b0-44a0-a287-228109259314,Big's BBQ Brewpub,brewpub,124 2nd Ave NW,,,Mount Vernon,Iowa,52314,United States,3195351060,http://www.bigsbbqmv.com,-91.41772002,41.92299939
-90bd1462-fbc7-4ced-a354-cd24f3996576,Boone Valley Brewing Co,micro,816 7th St,,,Boone,Iowa,50036-2818,United States,5154321232,http://www.boonevalleybrewing.com,-93.88096265,42.062643
-7dd5dd2e-62e8-427f-81a3-8ecfa17d63d6,Boot N Flute Brewery / Guild Wurst Tavern,brewpub,53 2nd St,,,Coralville,Iowa,52241,United States,3193331740,http://www.guildwursttavern.com,-91.56271744,41.66788468
-3fe061f6-7b81-4969-acde-93f045661cd5,Bremer Brewing Company,brewpub,102 W Bremer Ave,,,Waverly,Iowa,50677-3318,United States,3193522337,https://www.bremerbrewingcompany.com,-92.4723192,42.7259202
+7541c361-f556-481e-905f-172dab289cce,Big Grove Brewery and Taproom,regional,1225 S Gilbert St,,,Iowa City,Iowa,52240-4507,United States,3195941891,http://www.biggrovebrewery.com,-91.533027,41.646783
+fac8dee6-a4f0-4efc-a28f-2696a663a856,Big Grove Brewery Des Moines,brewpub,555 17th St,,,Des Moines,Iowa,50309,United States,,,-93.639445,41.586616
+07074dd7-9e43-4fa3-a6c1-f63321d7dab8,Big Grove Brewpub,brewpub,101 W. Main St,,,Solon,Iowa,52333,United States,3196242337,,-91.495545,41.806922
+62b7e476-a41e-4d17-a57a-e3658fc9224c,Big Rack Brew Haus,taproom,2475 Hiatt Apple Trl,,,Winterset,Iowa,50273-8113,United States,,http://www.bigrackbrewhaus.com,-93.924232,41.284898
+810dda02-89b0-44a0-a287-228109259314,Big's BBQ Brewpub,brewpub,124 2nd Ave NW,,,Mount Vernon,Iowa,52314,United States,3195351060,http://www.bigsbbqmv.com,-91.417169,41.923282
+c8002f69-fcc1-4e07-bd92-c266703dfce4,BIT Brewery,brewpub,26 4th Street North,,,Central City,Iowa,52214,United States,3194383100,http://www.bitbrew3.com,-91.524202,42.204486
+df992437-6c41-4bfb-996f-b1f8579980e9,Blind Butcher Brewing Company,brewpub,2167 Buchanan Ave,,,Inwood,Iowa,51240,United States,6053591670,http://www.blindbutcherbrewery.com,-96.46924,43.336928
+2868615b-c0f2-4da8-b3c0-d2c66b1c38f7,Boone Valley Brewing - Production Facility,micro,702 Keeler Street,,,Boone,Iowa,50036,United States,5154321232,http://www.boonevalleybrewing.com,-93.88082,42.062881
+90bd1462-fbc7-4ced-a354-cd24f3996576,Boone Valley Brewing Co,micro,816 7th St,,,Boone,Iowa,50036-2818,United States,5154321232,http://www.boonevalleybrewing.com,-93.880669,42.062524
+7dd5dd2e-62e8-427f-81a3-8ecfa17d63d6,Boot N Flute Brewery / Guild Wurst Tavern,brewpub,53 2nd St,,,Coralville,Iowa,52241,United States,3193331740,http://www.guildwursttavern.com,-91.560794,41.667479
+3fe061f6-7b81-4969-acde-93f045661cd5,Bremer Brewing Company,taproom,102 W Bremer Ave,,,Waverly,Iowa,50677,United States,3193529844,http://www.bremerbrewingcompany.com,-92.472201,42.726088
+8ed289b6-0952-4277-9f08-b264296f001a,Breu Haus,taproom,1220 2nd Ave,,,Sheldon,Iowa,51201,United States,,,-95.858707,43.176026
+4d0bff5d-40df-4481-8943-2ff374b21fd1,Brew-lik Brewing,micro,85 Highway 38,,,Olin,Iowa,52320,United States,3194313360,,-91.15234,41.934792
+acbda5a5-3e19-4d65-b8bc-fabcefee53fc,Brightside Aleworks,taproom,480 Center Pl,,,Altoona,Iowa,50009,United States,5159679989,http://www.brightsidealeworks.com,-93.46903,41.642282
 0c97fff4-cab4-4997-89ec-9f99ea4c761f,Brioux City Brewery,micro,1306 Court St,,,Sioux City,Iowa,51105,United States,7122779568,http://www.briouxcitybrewery.com,-96.39640025,42.50441425
-e86edb51-0915-4c48-af9a-db55ae5156ff,Carroll Brewing Co.,micro,226 E 5th St,,,Carroll,Iowa,51401-2743,United States,5157090030,http://www.carrollbrewing.com,-94.86534008,42.06385868
-c14fb00c-7034-45e9-8581-e5865bc72e0a,Catfish Charlies / Catfish Creek Brew Pub,brewpub,1630 E 16th St,,,Dubuque,Iowa,52001-2306,United States,5635828600,http://www.catfishcharliesdubuque.com,-90.65372886,42.51225898
-a4f67a90-e30b-4e7b-949c-1ab62077742c,Clock House Brewing,micro,600 1st St SE,,,Cedar Rapids,Iowa,52401,United States,3192004099,http://www.clockhousebrewing.com,-91.665354,41.973813
+e86edb51-0915-4c48-af9a-db55ae5156ff,Carroll Brewing Co.,brewpub,226 E 5th St,,,Carroll,Iowa,51401-2743,United States,5157090030,http://www.carrollbrewing.com,-94.865206,42.063678
+c14fb00c-7034-45e9-8581-e5865bc72e0a,Catfish Charlies / Catfish Creek Brew Pub,brewpub,1630 E 16th St,,,Dubuque,Iowa,52001-2306,United States,5635828600,http://www.catfishcharliesdubuque.com,-90.650764,42.513505
+a4f67a90-e30b-4e7b-949c-1ab62077742c,Clock House Brewing,brewpub,600 1st St SE,,,Cedar Rapids,Iowa,52401,United States,3192004099,http://www.clockhousebrewing.com,-91.664959,41.97387
 5447d888-e88c-4480-9258-a649dbd94cdd,Confluence Brewing Co,micro,1235 Thomas Beck Rd Ste A,,,Des Moines,Iowa,50315-1055,United States,5152859005,http://www.confluencebrewing.com,-93.6324853,41.5681381
-342cfb9f-a0bf-4a4b-a50c-4d66174ed767,Contrary Brewing Co,micro,411 W Mississippi Dr,,,Muscatine,Iowa,52761-3150,United States,5632997894,http://www.contrarybrewing.com,-91.05121455,41.41700522
-7b07c312-aee4-4132-a4ac-12953862f003,Court Avenue Brewing Co,brewpub,309 Court Ave Ste 100,,,Des Moines,Iowa,50309-2230,United States,5152822739,http://www.courtavebrew.com,-93.620995,41.585503
+930ab0cc-b344-43fd-8137-aab99066743f,Confluence Brewing Company,micro,1235 Thomas Beck Rd,,,Des Moines,Iowa,50315-1055,United States,5152859005,http://www.confluencebrewing.com,-93.630252,41.569424
+342cfb9f-a0bf-4a4b-a50c-4d66174ed767,Contrary Brewing Co,taproom,411 W Mississippi Dr,,,Muscatine,Iowa,52761-3150,United States,5632997894,http://www.contrarybrewing.com,-91.048947,41.418604
+7b07c312-aee4-4132-a4ac-12953862f003,Court Avenue Brewing Co,brewpub,309 Court Ave Ste 100,,,Des Moines,Iowa,50309-2230,United States,5152822739,http://www.courtavebrew.com,-93.620999,41.585503
 7b60c65d-c7a2-474b-8d5b-83dc4744b4c9,Crawford Brew Works,micro,3659 Devils Glen Rd,,,Bettendorf,Iowa,52722,United States,,,-90.48344378,41.55924419
-1aa70549-6274-422c-ac3f-9c2e9df3b210,Deb's Brewtopia,micro,106 Cedar St,,,Elkader,Iowa,52043,United States,5632453737,http://www.debsbrewtopia.com,-91.40608353,42.85486681
-574d5320-9db5-4b09-a017-5d0eeb92dba3,Depot Deli and Lounge,brewpub,101 N Railroad St,,,Shenandoah,Iowa,51601-1158,United States,7122464444,http://www.depotdeli.com,-95.376823,40.765042
-0bcb0b7a-5328-4186-9264-1a068316de22,Dimensional Brewing Co.,micro,67 Main St,,,Dubuque,Iowa,52001-7627,United States,,http://www.dimensionalbrewing.com,-90.664108,42.494438
-fd696e0a-a7bc-4f17-ac41-ede9b13b24d0,Drink Me Brewing,micro,210 9th St,,,Sibley,Iowa,51249-1812,United States,2173161890,http://www.drinkmebrewing.com,-95.7506989,43.39942206
+cad6b41a-5602-4509-b791-f6614eacd169,Crawford Brew Works - Bettendorf Iowa,taproom,3659 Devils Glenn Rd,,,Bettendorf,Iowa,52722,United States,3097373500,http://www.crawfordbrewworks.com,-90.482874,41.559713
+1aa70549-6274-422c-ac3f-9c2e9df3b210,Deb's Brewtopia,micro,106 Cedar St,,,Elkader,Iowa,52043,United States,5632453737,http://www.debsbrewtopia.com,-91.406019,42.855126
+574d5320-9db5-4b09-a017-5d0eeb92dba3,Depot Deli and Lounge,brewpub,101 N Railroad St,,,Shenandoah,Iowa,51601-1158,United States,7122464444,http://www.depotdeli.com,-95.375826,40.766498
+0bcb0b7a-5328-4186-9264-1a068316de22,Dimensional Brewing Co.,taproom,67 Main St,,,Dubuque,Iowa,52001,United States,,http://www.dimensionalbrewing.com,-90.663975,42.494518
+fd696e0a-a7bc-4f17-ac41-ede9b13b24d0,Drink Me Brewing,taproom,210 9th St,,,Sibley,Iowa,51249-1812,United States,2173161890,http://www.drinkmebrewing.com,-95.751526,43.399532
 c8a34b95-8a72-4f56-8c50-c790c01261ff,Dubuque Star Brands / Otter Tail Brewery,contract,132 Sheridan St,,,Muscatine,Iowa,52761-5543,United States,,,-91.02937536,41.43346737
+8e5e2480-47f5-47dc-8c0e-ba64065da7b0,E18 Brewing Co,micro,2108 130th St,,,Boone,Iowa,50036,United States,,http://www.e18brewing.com,-93.753604,42.165735
 7a156b9c-1010-4774-ab03-3f401a22089c,Exile Brewing,micro,1514 Walnut St,,,Des Moines,Iowa,50309-3420,United States,5158832337,http://www.exilebrewing.com,-93.63702159,41.5830167
-5916f082-a258-478f-9586-9096ee1d159d,Fat Hill Brewing,micro,17 N Federal Ave,,,Mason City,Iowa,50401-3250,United States,9524126272,http://FatHillBrewing.com,-93.20096509,43.15203459
+d0ce3a2c-d001-4c2e-b87c-8f9ee1ed71b7,Farmhand Brewing Company,taproom,101 Main Street,,,Earling,Iowa,51530,United States,7123096370,http://farmhandbrewco.com,-95.417977,41.774752
+5916f082-a258-478f-9586-9096ee1d159d,Fat Hill Brewing,taproom,17 N Federal Ave,,,Mason City,Iowa,50401-3250,United States,9524126272,http://FatHillBrewing.com,-93.200664,43.152429
 55a2e9a7-753a-4299-a65a-fbe19b76f5cd,Fenceline Beer Lab,brewpub,107 S Main Ave,,,Huxley,Iowa,50124-9311,United States,5154106814,https://www.fencelinebeerlab.com,-93.606476,41.892071
-187aa8b1-c795-42b5-aedb-c8947f5a7442,Fenders Brewing Company,micro,212 W Van Dorn St,,,Polk City,Iowa,50226-2297,United States,,http://fendersbrewing.com,-93.71392,41.77079882
-711f4130-d7c6-4856-8bcf-92ea1865b3ae,Firetrucker Brewery,micro,716 SW 3rd St,,,Ankeny,Iowa,50023-2615,United States,5159641284,http://www.firetrucker.com,-93.60984369,41.7299268
-ef8eb443-f817-469a-8323-f3673a56b16e,Five Cities Brewing,micro,2255 Falcon Ave,,,Bettendorf,Iowa,52722,United States,5632326105,http://www.fivecitiesbrewing.com,-90.50126378,41.57430518
-134bb873-9fc1-4065-b516-2598450f49e3,Flix Brewhouse,brewpub,3800 Merle Hay Rd,,,Des Moines,Iowa,50310-1305,United States,5122442739,,-93.6997831,41.6306427
-a8f97e99-0d4c-4d7f-a655-8c2d8ab6c4b2,Fox Brewing,micro,103 S 11th St,,,West Des Moines,Iowa,50265-4410,United States,5156350323,http://www.foxbrewco.com,-93.71821038,41.56970863
-edd421a2-f8b7-436c-af5b-c75595047dbf,Franklin Street Brewing Company,micro,116 S Franklin St,,,Manchester,Iowa,52057-2121,United States,5639272722,http://www.franklinstreetbrewing.com,-91.45777929,42.48329324
+187aa8b1-c795-42b5-aedb-c8947f5a7442,Fenders Brewing Company,taproom,212 W Van Dorn St,,,Polk City,Iowa,50226,United States,5154027787,http://fendersbrewing.com,-93.714035,41.770808
+711f4130-d7c6-4856-8bcf-92ea1865b3ae,Firetrucker Brewery,micro,716 SW 3rd St,,,Ankeny,Iowa,50023-2615,United States,5159641284,http://www.firetrucker.com,-93.609881,41.730022
+134bb873-9fc1-4065-b516-2598450f49e3,Flix Brewhouse - DSM,brewpub,3800 Merle Hay Rd,,,Des Moines,Iowa,50310-1305,United States,5122442739,,-93.700502,41.630056
+a8f97e99-0d4c-4d7f-a655-8c2d8ab6c4b2,Fox Brewing,micro,103 S 11th St,,,West Des Moines,Iowa,50265-4410,United States,5156350323,http://www.foxbrewco.com,-93.719106,41.568727
+edd421a2-f8b7-436c-af5b-c75595047dbf,Franklin Street Brewing Company,micro,116 S Franklin St,,,Manchester,Iowa,52057-2121,United States,5639272722,http://www.franklinstreetbrewing.com,-91.457741,42.483437
 5c90cce6-a368-42b9-8b61-5482607a1805,Front Street Brewery - IA,brewpub,208 E River Dr,,,Davenport,Iowa,52801-1609,United States,5633221569,http://www.frontstreetbrew.com,-90.572491,41.520329
+6d54082e-f8f1-4c10-a2c6-5dc46240822d,Front Street Brewery - IA,taproom,421 W River Drive,,,Davenport,Iowa,52801,United States,5633221569,http://www.frontstreetbrew.com,-90.580205,41.520052
+b2fce105-3ca9-4779-a158-69a9da0cea07,Full Fledged Brewing Company,taproom,40 Arena Way,,,Council Bluffs,Iowa,51501,United States,7128282015,http://fullfledgedbeer.com,-95.89142,41.236559
+8560b113-00b5-4980-a64e-d5f91795a325,Gamble Block Brewery,taproom,1203 2nd St,,,Perry,Iowa,50220,United States,,,-94.10554,41.839719
 589a5420-aaa2-4cca-a8c5-feb60bdfb862,Gezzelig Brewing Company,brewpub,403 W 4th St Ste 103,,,Newton,Iowa,50208-3019,United States,6417929218,https://www.gezelligbrewing.com,-93.058182,41.7022754
 eeb8b590-826b-4085-a6bc-f199c7c12d96,Granite City Food & Brewery (#4),brewpub,12801 University Ave,,,Clive,Iowa,50325-8219,United States,5152241300,http://www.gcfb.net,-93.795293,41.600494
-3e536c0b-f3ec-4723-99e5-768baf817b55,Granite City Food & Brewery (#5),brewpub,4755 1st Ave SE,,,Cedar Rapids,Iowa,52402-3211,United States,3193957500,http://www.gcfb.net,,
-f61275ff-aa86-4a3a-8612-acd3d2af70a3,Granite City Food & Brewery (#6),brewpub,5270 Utica Ridge Rd,,,Davenport,Iowa,52807-3872,United States,5633449700,http://www.gcfb.net,-90.51357975,41.57457211
-caab6c5c-2ab1-4496-8ef1-2181f9e4e912,Granite City Food & Wort House,micro,1722 Detroit St,,,Ellsworth,Iowa,50075,United States,5158364060,http://www.gcfb.net,-93.57473798,42.31330919
+3e536c0b-f3ec-4723-99e5-768baf817b55,Granite City Food & Brewery (#5),brewpub,4755 1st Ave SE,,,Cedar Rapids,Iowa,52402-3211,United States,3193957500,http://www.gcfb.net,-91.621188,42.024967
+f61275ff-aa86-4a3a-8612-acd3d2af70a3,Granite City Food & Brewery (#6),brewpub,5270 Utica Ridge Rd,,,Davenport,Iowa,52807-3872,United States,5633449700,http://www.gcfb.net,-90.514714,41.573465
+caab6c5c-2ab1-4496-8ef1-2181f9e4e912,Granite City Food & Wort House,micro,1722 Detroit St,,,Ellsworth,Iowa,50075,United States,5158364060,http://www.gcfb.net,-93.574283,42.315096
 2934514c-a0f6-4810-8f4b-042fcb398a0c,Great River Brewery,micro,332 E 2nd St,,,Davenport,Iowa,52801-1702,United States,3195415160,http://www.greatriverbrewery.com,-90.57063937,41.52138805
-9a1cdb87-cb36-40c3-8f76-3ef7ae24d6d0,Green Tree Brewery,micro,309 N Cody Road,,,Le Claire,Iowa,52753,United States,5637291164,https://greentreebrewery.com,-90.343376,41.599934
-75661940-50cd-4e30-a7dc-772b0852d66f,Iowa Brewing Company,micro,708 3rd St SE,,,Cedar Rapids,Iowa,52401-2012,United States,3193662337,http://www.iowabrewing.beer,-91.66212463,41.97421739
+9a1cdb87-cb36-40c3-8f76-3ef7ae24d6d0,Green Tree Brewery,taproom,309 N Cody Road,,,Le Claire,Iowa,52753,United States,,,-90.343354,41.599974
+aa81849e-01ce-44fb-b1c0-aa1b4b1ee3e2,Guttenberg Brewing Company,taproom,530 S 1st St,,,Guttenberg,Iowa,52052,United States,5632522739,http://www.guttenbergbrewing.com,-91.096494,42.780581
+f6be9a79-7437-4a9f-aba1-662aff64c703,Hot Air Brewing,taproom,212 N. Maple St,,,Creston,Iowa,50801,United States,5152908185,http://www.hotairbrewing.com,-94.363001,41.059033
+8eb31977-0fef-4702-8726-cbd64c407762,Into Brewing,micro,102 W Ashland Ave,,,Indianola,Iowa,50125,United States,5153338489,,-93.561186,41.361522
+75661940-50cd-4e30-a7dc-772b0852d66f,Iowa Brewing,micro,708 3rd St SE,,,Cedar Rapids,Iowa,52401-2012,United States,3193662337,http://www.iowabrewing.beer,-91.661904,41.974288
 ac2278d6-ed4a-4c1a-a94d-e114717389ce,Iowa River Brewing Company,micro,107 N 1st St,,,Marshalltown,Iowa,50158-5803,United States,6417512848,http://www.iowariverbrewing.com,-92.91450419,42.05061076
-37b68562-5c86-4441-823d-dbfacafd75fa,Jackson Street Brewing,micro,607 5th St,,,Sioux City,Iowa,51101-1301,United States,7125748403,,-96.40323429,42.49533849
-43b62c73-4d76-433d-8c2b-bc19214eddb4,Jubeck New World Brewing,micro,115 W 11th St,,,Dubuque,Iowa,52001-4802,United States,7753755692,http://www.jubeckbrewing.com,-90.66770404,42.50362393
+37b68562-5c86-4441-823d-dbfacafd75fa,Jackson Street Brewing,taproom,607 5th St,,,Sioux City,Iowa,51101-1301,United States,7125748403,,-96.403676,42.495415
+43b62c73-4d76-433d-8c2b-bc19214eddb4,Jubeck New World Brewing,taproom,115 W 11th St,,,Dubuque,Iowa,52001-4802,United States,7753755692,http://www.jubeckbrewing.com,-90.671136,42.503227
 715614d8-f8f2-4d32-a1c1-2d0c8ba8536c,Kalona Brewing Company,brewpub,405 B Ave,,,Kalona,Iowa,52247,United States,3196563335,http://www.kalonabrewing.com,-91.7075553,41.4833131
 cd1bd913-e951-4679-9314-4ed1ad3a7736,Keg Creek Brewing Company,micro,22381 221st S,,,Glenwood,Iowa,51534-5183,United States,7125209029,http://www.kegcreekbrewing.com,-95.7611617,41.0257584
-dff1b174-0608-4025-9d5c-dcc38fc05944,Lake Time Brewery,micro,801 Main Ave Ste C,,,Clear Lake,Iowa,50428-1919,United States,6413572040,http://www.laketimebrewery.com,-93.378387,43.137066
+58af17b0-fa20-4b51-a1a0-314e0162694f,Kinship Brewing Company,micro,255 NW Sunrise Dr,,,Waukee,Iowa,50263,United States,4046803814,http://https://kinshipbeer.com/,-93.8697,41.6187
+dff1b174-0608-4025-9d5c-dcc38fc05944,Lake Time Brewery,taproom,801 Main Ave Ste C,,,Clear Lake,Iowa,50428-1919,United States,6413572040,http://www.laketimebrewery.com,-93.378382,43.137094
+0ecdbef5-aae0-413f-86d8-d9b993e37b64,Lake Time Brewery Production Facility,micro,2401 Main Ave,,,Clear Lake,Iowa,50428,United States,6413572040,,-93.359266,43.137212
 97e95da5-4527-40fa-9690-2d195561b45e,Lark Brewing,brewpub,3295 University Ave,,,Waterloo,Iowa,50701-2003,United States,3192385275,http://www.larkbrewing.com,-92.39002129,42.50147007
-e9d3ac3a-772d-4550-bfc2-fe7db5ef7a8d,Limestone Brewers,micro,518 Main St,,,Osage,Iowa,50461,United States,6418323100,http://www.limestonebrewers.com,-92.813673,43.2839156
-71db85db-6fd8-4313-9e2b-eb32f84b31b4,Lion Bridge Brewing Company,brewpub,59 16th Ave SW,,,Cedar Rapids,Iowa,52404-5948,United States,3192004460,http://www.lionbridgebrewing.com,-91.66095281,41.96478948
-348fb7b9-8901-4bf3-a9da-09ca2904ed24,Lost Duck Brewing Co.,brewpub,723 Avenue H # 725,,,Fort Madison,Iowa,52627-2935,United States,3193728255,http://www.duckbrewing.com,-91.31026009,40.63007017
+c9b42620-240d-4b6d-b84a-cb2a15ac88c7,Lark Brewing,brewpub,6301 University Ave,,,Cedar Falls,Iowa,50613,United States,3192602279,http://www.larkbrewing.com,-92.433465,42.510674
+131f9c4a-429c-47c1-b110-b63ba76520cc,Late Harvest Brewery,brewpub,815 N Main Ave,,,Sioux Center,Iowa,51250,United States,7127222739,,-96.17647,43.085709
+e9d3ac3a-772d-4550-bfc2-fe7db5ef7a8d,Limestone Brewers,taproom,518 Main St,,,Osage,Iowa,50461,United States,6418323100,http://www.limestonebrewers.com,-92.814191,43.283976
+71db85db-6fd8-4313-9e2b-eb32f84b31b4,Lion Bridge Brewing Company,brewpub,59 16th Ave SW,,,Cedar Rapids,Iowa,52404-5948,United States,3192004460,http://www.lionbridgebrewing.com,-91.660326,41.965245
+348fb7b9-8901-4bf3-a9da-09ca2904ed24,Lost Duck Brewing Co.,brewpub,723 Avenue H # 725,,,Fort Madison,Iowa,52627-2935,United States,3193728255,http://www.duckbrewing.com,-91.310765,40.630371
+a5102c6e-2f1f-4ae6-b670-8fbbff56154c,Lua Brewing,brewpub,1525 High St.,,,Des Moines,Iowa,50309,United States,,http://www.luabeer.com,-93.638027,41.587396
 998ea6f7-1be2-4fb0-8b48-31a983acec3c,Madhouse Brewing Co,micro,501 Scott Ave,,,Des Moines,Iowa,50309-5047,United States,9165017014,http://www.madhousebeer.com,-93.60766907,41.58113315
-c73bb5c8-f1cc-4554-9b58-9878ce1c8554,Mason City Brewing,micro,28 E State St,,,Mason City,Iowa,50401-3318,United States,6414231080,http://www.masoncitybrewing.com,-93.20033373,43.15160788
-ba4811a2-f65a-4295-b420-e7750a42fc1f,Millstream Brewing Co,brewpub,835 48th Ave,,,Amana,Iowa,52203-8122,United States,3196223672,http://www.millstreambrewing.com,-91.86527265,41.7949318
+e71a2b7b-3a1d-4ab1-b531-adfda1cbca53,Maquoketa Brewing,taproom,110 S Main ST,,,Maquoketa,Iowa,52060-1268,United States,5633574503,http://www.maqbrew.com,-90.665815,42.068897
+d200debe-a81d-4ff7-b3cf-ed2a09de8727,Marto Brewing Co.,brewpub,930 4th St,,,Sioux City,Iowa,51101,United States,7125603397,http://www.martobrewing.com,-96.398462,42.493991
+c73bb5c8-f1cc-4554-9b58-9878ce1c8554,"Mason City Brewing, LLC",micro,28 E State St,,,Mason City,Iowa,50401-3318,United States,6414231080,http://www.masoncitybrewing.com,-93.199811,43.152066
+ba4811a2-f65a-4295-b420-e7750a42fc1f,Millstream Brewing Co,taproom,835 48th Ave,,,Amana,Iowa,52203-8122,United States,3127711168,http://www.millstreambrewing.com,-91.865615,41.796715
 e6c27506-2269-4b6e-bad9-6b9e2c16a1da,Mistress Brewing Company,micro,1802 N Ankeny Blvd #108,,,Ankeny,Iowa,50023-1802,United States,5157712133,http://www.mistressbrewing.com,-93.60151181,41.74780209
 e1cf02fc-0380-4c80-89e4-0e52946d9338,New American Brewing Company,closed,1631 SW Main St Ste 105,,,Ankeny,Iowa,50023-7254,United States,5152505648,http://www.newamericanbeer.com,-93.618309,41.712502
 0ef56b9f-5e22-4727-9507-4e81e18ec36c,NoCoast Beer Co,micro,1407 17th Ave E Ste B,,,Oskaloosa,Iowa,52577-3563,United States,6416733481,http://www.nocoastbeer.co,-92.629066,41.280628
-eabc841f-1006-44c9-a1bf-1b067946ea0a,Okoboji Brewing Co,micro,3705 Highway 71,,,Spirit Lake,Iowa,51360-7196,United States,7123303363,http://www.brewokoboji.com,-95.125984,43.405983
+eabc841f-1006-44c9-a1bf-1b067946ea0a,Okoboji Brewing Co,taproom,3705 Highway 71,,,Spirit Lake,Iowa,51360-7196,United States,7123303363,http://www.brewokoboji.com,-95.125702,43.405948
 1abb8651-92a8-4388-89ad-0c62011de017,Olde Main Brewing Co & Restaurant,closed,316 Main St,,,Ames,Iowa,50010,United States,5152320553,http://www.oldemainbrewing.com/,-93.61410043,42.02503227
-699d53b0-0296-411c-8d95-8a7f6637448a,Pallister Brothers Brewing Company,micro,116 N Market St,,,Ottumwa,Iowa,52501,United States,,,-92.4101724,41.0180942
-69f0e786-deae-48b2-9320-8dae1f85a1a5,Parkside Brewing Company,brewpub,2601 Madison Ave,,,Burlington,Iowa,52601-6622,United States,3192092739,http://www.parksidebrewing.com,-91.1079175,40.77905391
+699d53b0-0296-411c-8d95-8a7f6637448a,Pallister Brothers Brewing Company,taproom,116 N Market St,,,Ottumwa,Iowa,52501,United States,,,-92.410112,41.018011
+69f0e786-deae-48b2-9320-8dae1f85a1a5,Parkside Brewing Company,brewpub,2601 Madison Ave,,,Burlington,Iowa,52601-6622,United States,3192092739,http://www.parksidebrewing.com,-91.108716,40.779711
 686a7573-f9de-4f70-a03d-1c8a225ca092,Peace Tree Brewing Company,micro,107 W Main St,,,Knoxville,Iowa,50138-2528,United States,6418422739,http://www.peacetreebrewing.com,-93.09970823,41.31903523
-2944a16b-b018-42bb-9c9e-48a05ec26739,Peace Tree Brewing Company - Des Moines Branch,micro,317 E Court Ave,,,Des Moines,Iowa,50309-2014,United States,5158832739,http://www.peacetreebrewing.com,-93.6121558,41.5867046
-f7860ee9-ed57-4b51-b919-5dd6a1e83b39,PIVO Brewery,micro,101 Huber Dr,,,Calmar,Iowa,52132,United States,5635621053,http://www.pivoblepta.com,-91.871483,43.190941
+2944a16b-b018-42bb-9c9e-48a05ec26739,Peace Tree Brewing Company - Des Moines Branch,taproom,317 E Court Ave,,,Des Moines,Iowa,50309,United States,6418422739,http://www.peacetreebrewing.com/des-moines-taproom/,-93.61203,41.586563
+f7860ee9-ed57-4b51-b919-5dd6a1e83b39,PIVO Brewery,brewpub,101 Huber Dr,,,Calmar,Iowa,52132,United States,5635621053,http://www.pivoblepta.com,-91.871043,43.191562
 9119c101-09bb-4ac0-a3fe-da23442b96b7,Pulpit Rock Brewing Co.,micro,207 College Dr,,,Decorah,Iowa,52101-1304,United States,5633803610,http://www.pulpitrockbrewing.net,-91.7962545,43.30654024
 2b5180bb-1de5-4961-af08-6a227d1cb37c,Quarter Barrel Arcade,brewpub,616 2nd Ave SE,,,Cedar Rapids,Iowa,52401-1306,United States,3196211836,http://www.thequarterbarrel.com,-91.66318094,41.98062533
-f0adad3f-a28d-403c-ac19-e4e6cb2bcaa0,Reclaimed Rails Brewing Company,micro,101 Main St. SE,,,Bondurant,Iowa,50035-7722,United States,,http://www.reclaimedrailsbrewing.com,-93.461872,41.699717
-9cfaca46-16e6-4531-abf8-d5120f2666e5,ReUnion Brewery,brewpub,516 2nd St,,,Coralville,Iowa,52241-2614,United States,3193373000,http://www.reunionbrewery.com,-91.57498607,41.67171431
+f0adad3f-a28d-403c-ac19-e4e6cb2bcaa0,Reclaimed Rails Brewing Company,taproom,101 Main St. SE,,,Bondurant,Iowa,50035-7722,United States,5157771443,http://www.reclaimedrailsbrewing.com,-93.461813,41.700378
+9cfaca46-16e6-4531-abf8-d5120f2666e5,ReUnion Brewery,micro,516 2nd St,,,Coralville,Iowa,52241-2614,United States,3193373000,http://www.reunionbrewery.com,-91.573557,41.670588
+fa1ed839-7b18-44bf-8f6a-e7cc65c57b79,ReUnion Brewery - The Juice Factory,micro,2319 Heinz Rd,,,Iowa City,Iowa,52240,United States,3193373000,,-91.490929,41.636566
+57e7e535-f99b-4968-98d1-a97e77626111,ReUnion Downtown,brewpub,111 East College Street,,,Iowa City,Iowa,52240,United States,,,-91.533926,41.658842
+2b4ef1c5-4a85-4567-8c8b-6ffe39b14147,River Hops Brewing,taproom,1014 Central Ave,,,Fort Dodge,Iowa,50501,United States,5153028800,,-94.184273,42.50581
 49867107-1f94-468e-9a6f-4e5505b6ce9e,River Ridge Brewing,micro,303 S Riverview St,,,Bellevue,Iowa,52031-1353,United States,5632310299,http://www.riverridgebrewing.com,-90.4223409,42.2567622
-cea10be6-618c-4188-9f35-3fde4a5b1080,Rustic Brew,brewpub,117 1st St NW,,,Hampton,Iowa,50441-1701,United States,6414562141,http://www.rusticbrew.com,-93.20855984,42.74298149
-7607a45f-3839-41bf-9531-0af896826a2b,Second State Brewing Company,micro,203 State St,,,Cedar Falls,Iowa,50613-3360,United States,3192400692,,-92.4442681,42.53674424
-2efebbef-cc50-428c-a2e5-5a21c5bcf731,Shiny Top Brewing,micro,520 Central Ave,,,Fort Dodge,Iowa,50501-3810,United States,5153028055,http://www.shinytopbrewing.com,-94.19057896,42.50474204
+3748a1bc-6fa8-42c4-ae43-9c36a2d2419d,River Ridge Brewing,taproom,303 S Riverview,,,Bellevue,Iowa,52031,United States,5632310299,http://www.riverridgebrewing.com,-90.422099,42.256858
+684e0def-bf45-4c16-8a5e-965842ac6e41,Rock River Brewing Co,brewpub,113 S. Story St,,,Rock Rapids,Iowa,51246,United States,,http://www.rockriverbrewingcompany.com,-96.168445,43.431264
+cea10be6-618c-4188-9f35-3fde4a5b1080,Rustic Brew,micro,117 1st St NW,,,Hampton,Iowa,50441-1701,United States,6414562141,http://www.rusticbrew.com,-93.208364,42.743309
+7607a45f-3839-41bf-9531-0af896826a2b,Second State Brewing Company,brewpub,203 State St,,,Cedar Falls,Iowa,50613-3360,United States,3192400692,,-92.444482,42.536672
+2efebbef-cc50-428c-a2e5-5a21c5bcf731,Shiny Top Brewing,brewpub,520 Central Ave,,,Fort Dodge,Iowa,50501-3810,United States,5153028055,http://www.shinytopbrewing.com,-94.19051,42.504953
 925d80b0-c611-445e-8799-262a9e0f9259,Single Speed Brewing Co,brewpub,325 Commercial St,,,Waterloo,Iowa,50701,United States,3198833604,http://www.singlespeedbrewing.com,-92.34249686,42.49709571
-17d4939c-ac7c-4283-96e9-d1cae8d2ac1a,Single Speed Brewing Co Tap Room,brewpub,325 Commercial St,,,Waterloo,Iowa,50701-1315,United States,3198833604,,-92.34249686,42.49709571
-b9faff23-c49c-4adb-a11c-5672cd383961,Thew Brewing Company,micro,301 2nd Ave,,,Cedar Rapids,Iowa,52404,United States,3193438439,http://www.thewbrew.com,-91.67294,42.035746
-96286af2-3741-43d0-a059-a42f8ea584d0,Third Base Brewery,brewpub,500 Blairs Ferry Rd NE Ste 2,,,Cedar Rapids,Iowa,52402-1466,United States,3193789090,http://www.Thirdbasebrew.com,-91.639755,42.035164
-3bacbef1-dd83-4eba-9fc8-93641f69454e,Timbukbru,micro,215 6th St SW,,,Clarion,Iowa,50525,United States,5155320015,http://www.timbukbru.com,-93.740532,42.731535
-8ef9610b-bda9-4703-8205-34bcbac4cedf,Toppling Goliath Brewing Co,micro,1600 Prosperity Rd,,,Decorah,Iowa,52101-7892,United States,5633826198,http://www.tgbrews.com,-91.7250841,43.2727293
-542910b2-3af4-4b62-b5d4-d8edf440cd1a,Torrent Brewing Co,micro,504 Burnett Ave,,,Ames,Iowa,50010-6178,United States,5152333155,http://www.torrentbrewingco.com,-93.61526616,42.02605341
-2f9d7258-dbf0-44b0-bb2f-9b0cd5ad590d,TractorLift Brewery,micro,708 Sumner Ave,,,Humboldt,Iowa,50548-1763,United States,5158909484,,-94.21895665,42.72094547
+17d4939c-ac7c-4283-96e9-d1cae8d2ac1a,SingleSpeed Brewing,micro,325 Commercial St,,,Waterloo,Iowa,50701,United States,3198833604,http://www.singlespeedbrewing.com,-92.34221,42.496955
+1b3bb6df-59e4-4654-8daf-753f38063268,SingleSpeed Brewing Tap Room,brewpub,128 Main Street,,,Cedar Falls,Iowa,50613,United States,3198833604,,-92.445228,42.537
+2c64c4d3-5cd1-494f-8d78-ef653d1a408b,Stompbox Brewing,taproom,210 East River Drive,,,Davenport,Iowa,52801,United States,,http://www.stompboxbrewing.com,-90.571952,41.520546
+2a6089ed-fcec-4196-a2c1-270d63f097d7,Tellurian Brewing,taproom,100 South Main,,,Charles City Ia,Iowa,50616,United States,6417151157,http://https://www.tellurianbrewing.com/,-92.680463,43.065079
+22cfa820-bc5c-4b1e-a70d-07d78586e60e,Textile Brewing Company,brewpub,146 2nd St NE,,,Dyersville,Iowa,52040-1210,United States,5632070357,http://www.textilebrews.com,-91.123179,42.485373
+a3a7c6f2-c77a-4b7e-a6c4-0201cece4447,The Granary,brewpub,219 North 1st St,,,Eldridge,Iowa,52748,United States,,http://www.thegranaryiowa.com,-90.582361,41.65684
+61456155-f812-40c4-8937-8613a7f531c5,The Grange Public House and Brewery,brewpub,129 S Jefferson St,,,Mount Pleasant,Iowa,52641,United States,3193853121,http://www.grangepublichouse.com,-91.555136,40.965893
+fd32dca3-a332-47de-90e2-2a469ff54057,The Iowa Project,taproom,316 Grand Ave,,,Spencer,Iowa,51301,United States,8162444850,http://the-iowa-project-brewing.square.site,-95.144299,43.140909
+e9ac92c6-cfd1-45c4-bbe9-d7a1d2d53aa7,The Iowa Project Brewing Co,taproom,316 Grand Ave,,,Spencer,Iowa,51301,United States,8162444850,,-95.144299,43.140909
+b9faff23-c49c-4adb-a11c-5672cd383961,Thew Brewing Company,taproom,301 2nd Ave,,,Cedar Rapids,Iowa,52404,United States,3193438439,http://www.thewbrew.com,-91.675168,41.974417
+96286af2-3741-43d0-a059-a42f8ea584d0,Third Base Brewery,brewpub,500 Blairs Ferry Rd NE Ste 2,,,Cedar Rapids,Iowa,52402-1466,United States,3193789090,http://www.Thirdbasebrew.com,-91.639837,42.035203
+3bacbef1-dd83-4eba-9fc8-93641f69454e,Timbukbru,taproom,215 6th St SW,,,Clarion,Iowa,50525,United States,5154606181,http://www.timbukbru.com,-93.740182,42.730148
+cc376cd2-8aef-45ee-be6b-3098846baa1f,Titonka Brewing Company,micro,223 1st Ave Nw,,,Titonka,Iowa,50480,United States,5153202322,,-94.044768,43.23626
+bcd28512-6ca9-41fe-bbd4-51912b3a28d0,TLC Brew Works,brewpub,947 Main Street,,,Holy Cross,Iowa,52053,United States,5633491401,http://www.tlcbrewworks.com,-90.996147,42.601587
+8ef9610b-bda9-4703-8205-34bcbac4cedf,Toppling Goliath Brewing Co,regional,1600 Prosperity Rd,,,Decorah,Iowa,52101,United States,5633826198,http://www.tgbrews.com,-91.725158,43.274091
+542910b2-3af4-4b62-b5d4-d8edf440cd1a,Torrent Brewing Co,taproom,504 Burnett Ave,,,Ames,Iowa,50010-6178,United States,5152333155,http://www.torrentbrewingco.com,-93.61521,42.026357
+2f9d7258-dbf0-44b0-bb2f-9b0cd5ad590d,TractorLift Brewery,taproom,708 Sumner Ave,,,Humboldt,Iowa,50548-1763,United States,5158909484,,-94.218062,42.720733
+a2c295f8-d87a-4598-bff7-55e972a0a78e,Treppenhaus Brewing,micro,2401 Falls Ave Ste A,,,Waterloo,Iowa,50701,United States,3197215726,,-92.377376,42.499726
+aa9a1c85-ef1a-47c1-a2e1-25997c379473,Twin Span Brewing,brewpub,6776 Championship Dr,,,Bettendorf,Iowa,52722,United States,5632651902,http://www.twinspanbrewing.com,-90.4628,41.5904
 cee9d52e-b11f-489e-ace5-d67641dbd713,Twisted Vine Brewery,micro,3320 Westown Pkwy,,,West Des Moines,Iowa,50266-1111,United States,5157202940,http://www.twistedvinebrewery.com,-93.7489517,41.5936597
+f4785868-34b7-43d4-bdd8-8c72fd17bd0b,Twisted Vine Brewery,taproom,112 SE 4th St,,,Des Moines,Iowa,50309,United States,5157202940,http://www.twistedvinebrewery.com,-93.611574,41.585302
 4a20bd57-f979-4ad8-82a4-4da5b02f8147,V's Restaurant and Brewpub,brewpub,3461 Main St,,,Keokuk,Iowa,52632-2227,United States,3193138384,,-91.40894211,40.42055614
-752dfbd2-fa6e-43e8-98fd-602dcff7eb04,West O Beer,micro,503 Terrace Park Blvd,,,Milford,Iowa,51351-7300,United States,7123328090,http://www.westobeer.com,-95.14996965,43.34657697
+d1efbcd4-a1c5-44e7-ae39-059a10c9f2c3,West Hill Brewing Company,taproom,219 West Salem Ave,,,Indianola,Iowa,50125,United States,5159625884,http://www.westhillbrewingcompany.com,-93.563304,41.360031
+752dfbd2-fa6e-43e8-98fd-602dcff7eb04,West O Beer,micro,503 Terrace Park Blvd,,,Milford,Iowa,51351-7300,United States,7123328090,http://www.westobeer.com,-95.150658,43.345582
+2eed4c59-d3e9-4300-aee1-320da8b7be34,Wise I Brewing Company,taproom,15 2nd St. NE,,,Le Mars,Iowa,51031,United States,7125403925,http://www.wiseibrew.com,-96.166073,42.7957
 0928f004-3195-40fc-a6e9-a985df23768b,Worth Brewing Co,brewpub,835 Central Ave,,,Northwood,Iowa,50459-1519,United States,6413249899,http://www.worthbrewing.com,-93.219581,43.444038
