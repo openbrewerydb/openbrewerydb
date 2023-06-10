@@ -23,7 +23,7 @@ c498dd04-30b2-4f8f-b06b-c47a34dd61c7,Animas Brewing Co,brewpub,1560 E 2nd Ave,,,
 325d44c0-53fb-4991-a694-659ac9f89fa9,Atom Brewing Company,micro,654 Moffat St,,,Erie,Colorado,80516,United States,8634120917,http://www.atombrewingcompany.com,-105.0542327,40.0488359
 26567ffb-52fb-40b2-a31f-08f4ea3699b9,Atrevida Beer Company,micro,204 Mount View Ln Unit 3,,,Colorado Springs,Colorado,80908,United States,7192664200,http://www.atrevidabeerco.com,,
 102c478e-ab27-4c8c-82c3-8eaee82959fa,Avalanche Brewing Co,brewpub,1067 Blair St,,,Silverton,Colorado,81433-0377,United States,9703875282,http://www.avalanchebrewing.com,-107.664791,37.8098899
-d07100f1-ab4b-413e-bc07-045ee4d61fe6,Avant Garde Aleworks,micro,920 Dunraven St,,,Estes Park,Colorado,80517,United States,9705912700,https://avantgardealeworks.com,40.3728533,-105.5085669
+d07100f1-ab4b-413e-bc07-045ee4d61fe6,Avant Garde Aleworks,micro,920 Dunraven St,,,Estes Park,Colorado,80517,United States,9705912700,https://avantgardealeworks.com,-105.5085669,40.3728533
 3bde4342-bfc1-49cb-9b40-7fb1aef26886,Avery Brewing Co,regional,4910 Nautilus Ct N,,,Boulder,Colorado,80301-3242,United States,,,-105.2047652,40.0625835
 e25d20e1-1700-45a6-b236-9eb6d01a9434,Baere Brewing Company,micro,"320 Broadway, Unit E",,,Denver,Colorado,80203-3955,United States,9709014810,http://www.baerebrewing.com,,
 2b5fbb61-2e0b-42ec-8d68-dcc62fe244e9,Banded Oak Brewing Company,brewpub,470 N Broadway,,,Denver,Colorado,80203-3404,United States,7204798033,http://Bandedoakbrewing.com,-104.9874187,39.7282897
@@ -224,7 +224,7 @@ ba029671-6ffc-4c6d-bac8-e6daed74efb5,James Peak Brewery,brewpub,70 E First St,,,
 0d571efd-3562-4e7a-8b73-728e3929c416,Landlocked Ales,micro,3225 S Wadsworth Blvd Unit R,,,Lakewood,Colorado,80227-5009,United States,3032848748,http://www.landlockedales.com,,
 ea302610-7ff2-449c-acda-074e4610143c,Lariat Lodge Brewing,brewpub,27618 Fireweed Dr,,,Evergreen,Colorado,80439-8462,United States,3036741842,http://www.LariatLodgeBrewing.com,-105.3136925,39.63935145
 eb3bca03-12e0-49b2-ae4f-42616521289c,Launch Pad Brewery,micro,884 S Buckley Rd,,,Aurora,Colorado,80017-3174,United States,7208782627,http://www.launchpadbrewery.com,-104.7911253,39.6853036
-3ef4fdd1-cf1f-4227-a6b6-5e4d13471c0b,Left Hand Brewing - RiNo,micro,4180 Wynkoop Street,,,Denver,Colorado,80216,United States,7204497535,https://lefthandbrewing.com/rino,-104.9701988,9.781078414
+3ef4fdd1-cf1f-4227-a6b6-5e4d13471c0b,Left Hand Brewing - RiNo,micro,4180 Wynkoop Street,,,Denver,Colorado,80216,United States,7204497535,https://lefthandbrewing.com/rino,-104.9701988,39.78107841
 e5453b50-8dfe-4aee-9cea-d8c4bc5f282b,Left Hand Brewing Company,regional,1265 Boston Ave,,,Longmont,Colorado,80501-5809,United States,3037720258,http://www.lefthandbrewing.com,-105.1168403,40.158688
 7908d63d-e957-4092-939f-32f9e8079113,Liquid Mechanics Brewing Company,micro,297 N US Highway 287,,,Lafayette,Colorado,80026-8932,United States,7205507813,http://www.liquidmechanicsbrewing.com,,
 1d101475-9df6-49ee-8590-e9b82f12bd41,Little Machine,micro,2924 W 20th Ave,,,Denver,Colorado,80211-4622,United States,3032847893,http://www.littlemachinebeer.com,-105.0243557,39.7474051
