@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -134,6 +134,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/anthonylaflamme"><img src="https://avatars.githubusercontent.com/u/4626172?v=4?s=100" width="100px;" alt="Anthony Laflamme"/><br /><sub><b>Anthony Laflamme</b></sub></a><br /><a href="https://github.com/openbrewerydb/openbrewerydb/commits?author=anthonylaflamme" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Schurlo"><img src="https://avatars.githubusercontent.com/u/124918466?v=4?s=100" width="100px;" alt="Georg Engelsmann"/><br /><sub><b>Georg Engelsmann</b></sub></a><br /><a href="#data-Schurlo" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/solidocean007"><img src="https://avatars.githubusercontent.com/u/106035937?v=4?s=100" width="100px;" alt="Clinton Williams"/><br /><sub><b>Clinton Williams</b></sub></a><br /><a href="#data-solidocean007" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/buzzamus"><img src="https://avatars.githubusercontent.com/u/15583028?v=4?s=100" width="100px;" alt="Brent Busby"/><br /><sub><b>Brent Busby</b></sub></a><br /><a href="#data-buzzamus" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
