@@ -2,24 +2,30 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 28e05fda-77a4-4a5a-9f8a-08169ec07ce5,Abolitionist Ale Works,brewpub,129 W Washington St,,,Charles Town,West Virginia,25414-1529,United States,6812521548,http://www.abolitionistaleworks.com,-77.8607888,39.28867207
 97ea0a56-c25b-45ab-afaa-ff0b37d68de5,Amani Brewing,brewpub,654 Ropp Dr,,,Martinsburg,West Virginia,25403-1533,United States,3042793861,https://amanibrewing.com,-77.949602,39.5332966
 7e470330-e32a-42aa-8d9b-db15529b8faa,Bad Shepherd Beer Company,brewpub,702 Quarrier St,,,Charleston,West Virginia,25301-2627,United States,3045527569,http://www.blacksheepwv.com,-81.63612015,38.35094943
-9e12b6a6-9445-4a29-818c-4b96dbd30f55,Banjo Brewing,planning,,,,Fayetteville,West Virginia,25840,United States,3042164231,,,
+9e12b6a6-9445-4a29-818c-4b96dbd30f55,Banjo Brewing,closed,,,,Fayetteville,West Virginia,25840,United States,3042164231,,,
 6865f9b6-b99a-4d4c-a12a-824924ac27ea,Banning's Inc,micro,620 Water St,,,Summersville,West Virginia,26651-1453,United States,3046196972,,-80.85147552,38.281623
 f5d36db3-999a-49b8-84e0-7416f86bd23a,Bavarian Brothers Brewing,brewpub,164 Shepherd Grade Rd,,,Shepherdstown,West Virginia,25443-4601,United States,3048762551,,-77.804886,39.436699
 dcf991c9-6692-4346-a52a-b6e9ff25520e,Berkeley Springs Brewing Co,brewpub,110 Michigan Ln,,,Berkeley Springs,West Virginia,25411-3008,United States,3042583369,http://www.berkeleyspringsbrewingcompany.com,-78.271156,39.576782
 36840152-444d-4615-b422-752e0e0bf044,Big Draft Brewing,micro,697 Main St E,,,White Sulphur Springs,West Virginia,24986-3003,United States,3049152442,https://bigdraftbrewing.com/,-80.3001175,37.7945598
 77e31ad7-17aa-4c92-9200-ab12888aaacd,Big Timber Brewing,micro,1210 S Davis Ave,,,Elkins,West Virginia,26241-3437,United States,3046375008,http://www.bigtimberbrewing.com,-79.85143109,38.91765609
 b248192a-f86e-4dbd-a324-0a71424f2656,Blackwater Brewing Co,micro,912 William Ave,,,Davis,West Virginia,26260-0356,United States,3042098118,http://www.BlackwaterBrewingWV.com,-79.4695264,39.1274943
-ec51ec32-1a6a-4e97-9571-70a81db3bec8,Brew Keepers,micro,2245 Market St,,,Wheeling,West Virginia,26003-2866,United States,7248098968,,-80.724774,40.059259
+ec51ec32-1a6a-4e97-9571-70a81db3bec8,Brew Keepers,micro,2245 Market St,,,Wheeling,West Virginia,26003-2866,United States,7248098968,https://www.facebook.com/BrewKeepers,-80.724774,40.059259
 f3598750-c881-4e7c-a2d5-c978c56416da,Brewstel,micro,120 Davis Ave,,,Elkins,West Virginia,26241-3812,United States,3049974769,http://www.brewstel.com,-79.849588,38.923407
 6c2e3bd6-08af-43b8-881b-35a6342be026,Bridge Brew Works,micro,335 Nick Rahall Greenway,,,Fayetteville,West Virginia,25840-1617,United States,3042822201,http://www.bridgebrewworks.com,-81.113708,38.0164353
+,Cacapon Mountain Brewing Co,micro,42 Williams St,,,Berkeley Springs,West Virginia,25411-5306,United States,,http://www.cacaponbrewing.com,-78.23460149524098,39.69077897197115
+,Charleston Nano Brewery,nano,320 W Washington St,,,Charleston,West Virginia,25302-2231,United States,3043437289,http://www.charlestonnano.com,-81.61537541623007,38.37773389722528
 ad90e19c-cc4a-47ff-ba91-8779d55aa040,Chestnut Brew Works,micro,444 Brockway Ave,,,Morgantown,West Virginia,26501,United States,3042762737,http://www.chestnutbrewworks.com,-79.9507513,39.6272755
+,Clendenin Brewing Co,micro,2 Main St,,,Clendenin,West Virginia,25045-1001,United States,3045484505,https://clendenin.beer,-81.32698431202729,38.53474238675053
 0e0d87e1-64b3-423d-a658-a81fc56341c2,Dobra Zupas,brewpub,600 S Oakwood Ave,,,Beckley,West Virginia,25801-5928,United States,3042539872,http://www.dobrazupas.com,-81.196413,37.770874
 0c4225cc-f91e-4955-a19c-07d6e43b9849,Eight Rivers Brewery,planning,,,,Hillsboro,West Virginia,24946-0039,United States,2022513083,,,
+,Fife Street Brewing,micro,180 Summers St,,,Charleston,West Virginia,25301-2132,United States,3043463433,http://www.fifestreetbrewing.com,-81.64009465373316,38.39495697581363
+,Gad Dam Brewing,brewpub,922 Broad St,,,Summersville,West Virginia,26651-1709,United States,3048805735,http://www.gaddambrewing.com,-80.86006538141328,38.30664535415466
 4e4dd1c0-4bfb-45ab-ae2d-33a45e0b6307,Greenbrier Valley Brewing Co,micro,862 Industrial Park Rd Ste A,,,Maxwelton,West Virginia,24957,United States,3045204669,http://www.gvbeer.com,-79.9614382,39.6272603
 619494eb-6947-43e5-9af7-222b038c0aa8,High Ground Brewing,micro,102 Railroad Ave,,,Terra Alta,West Virginia,26764,United States,3047891216,https://www.highgroundbrewing.co/,-79.5468713,39.4441088
-57d8c1a8-2932-4735-88d1-eba02bd05e4e,Mash Brewing Company,micro,122 N George St,,,Charles Town,West Virginia,25414-1502,United States,6812521788,http://www.mashbrewingcompany.com,-77.86015133,39.28926882
+57d8c1a8-2932-4735-88d1-eba02bd05e4e,Mash Brewing Company,closed,122 N George St,,,Charles Town,West Virginia,25414-1502,United States,6812521788,http://www.mashbrewingcompany.com,-77.86015133,39.28926882
 e64f154b-6644-49e1-89b4-f1c042ae34d5,Morgantown Brewing Co,brewpub,1291 University Ave,,,Morgantown,West Virginia,26505-5450,United States,3042926959,http://www.morgantownbrewing.com,-79.9579978,39.6305115
 750a134b-a13a-44ed-a7d4-56d429d5e9aa,Mountain State Brewing Co,micro,1 Nelson Blvd,,,Thomas,West Virginia,26292,United States,3044634500,http://www.mountainstatebrewing.com,-79.498521,39.142037
+,North Branch Brewing Co,micro,101 Armstrong St Ste 1,,,Keyser,West Virginia,26726-3502,United States,3047884000,https://www.facebook.com/NorthBranchPub,-78.98167178422341,39.462143670225686
 ca5d6e06-3eb3-4a52-a827-5c237b414323,North End Tavern & Brewery,brewpub,3500 Emerson Ave,,,Parkersburg,West Virginia,26104-1806,United States,3044285854,http://www.netbrewery.com,-81.5330081,39.2874512
 d6dab3d7-38df-41b7-a2f0-21699fcf1a7b,Old Spruce Brewing,brewpub,10 Snowshoe Dr,,,Snowshoe,West Virginia,26209,United States,3045721020,http://www.oldsprucetavern.com,-80.036148,38.416222
 536453ac-c66c-4cd2-b3c4-34095183ed62,Parkersburg Brewing Co,brewpub,707 Market St,,,Parkersburg,West Virginia,26101-4628,United States,3049161502,http://www.parkersburgbrewing.com,-81.55823029,39.26705857
@@ -29,6 +35,7 @@ f0feae2a-8472-4d11-bceb-c29b4bbeffa4,Screech Owl Brewing,micro,2323 Ralph Liveng
 af6eaa73-2763-49d5-86ec-001b84cd8e84,Short Story Brewing,brewpub,5904 Fairmont Rd,,,Rivesville,West Virginia,26588-8844,United States,3049332165,http://www.shortstorybrewing.com,-80.119282,39.544687
 a0af6b24-2eb6-4ce8-b42d-87e7cad700cd,Sophisticated Hound Brewing Company,micro,,,,Princeton,West Virginia,24739,United States,3043206674,https://www.facebook.com/sophisticatedhoundbrewing,-81.094116,37.369408
 24bea67c-fd27-4e48-968e-14e46f842203,Stumptown Ales,micro,390 William Ave,,,Davis,West Virginia,26260,United States,3042595570,http://www.stumptownales.com,-79.4646754,39.12899878
+,The Freefolk Brewery Taproom,micro,1690 Court St,,,Fayetteville,West Virginia,25840-6818,United States,3045746094,http://www.freefolkbrew.com,-81.11000433838905,38.08647637991187
 1dd33c00-3a98-42bc-a33c-4c19da3a6a8b,The Peddler,brewpub,835 3rd Ave,,,Huntington,West Virginia,25701,United States,3046910415,,-82.44527196,38.42165769
 c5b50d77-0a38-43e3-82fc-c240281c0139,Weathered Ground Brewery,micro,2027 Flat Top Rd,,,Ghent,West Virginia,25843-9303,United States,3047166230,http://www.weatheredgroundbrewery.com,-81.09682583,37.64833857
-ca4dec0f-a148-492a-80c5-b78aa252b288,Wheeling Brewing Co,brewpub,2247 Market St,,,Wheeling,West Virginia,26003-3839,United States,3049058757,http://www.wheelingbrewing.com,-80.72429082,40.05925145
+ca4dec0f-a148-492a-80c5-b78aa252b288,Wheeling Brewing Co,closed,2247 Market St,,,Wheeling,West Virginia,26003-3839,United States,3049058757,http://www.wheelingbrewing.com,-80.72429082,40.05925145
