@@ -1,5 +1,5 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-,1 of Us Brewing Company,micro,8100 Washington Ave,,,Mount Pleasant,Wisconsin,53406-3920,United States,2624847553,https://www.1ofusbrewing.com,-87.88336350209435,42.72010826899558
+34e8c68b-6146-453f-a4b9-1f6cd99a5ada,1 of Us Brewing Company,micro,8100 Washington Ave,,,Mount Pleasant,Wisconsin,53406-3920,United States,2624847553,https://www.1ofusbrewing.com,-87.88336350209435,42.72010826899558
 1a1b2165-73ed-40aa-b89b-56794d140f22,1840 Brewing Company,micro,342 E Ward St,,,Milwaukee,Wisconsin,53207-1348,United States,4142364056,http://www.1840brewing.com,-87.90606942,43.00436242
 a8fda9a9-026b-4b15-86b9-62b4ccb126c1,3 Sheeps Brewing Co,micro,1837 North Ave,,,Sheboygan,Wisconsin,53083-4620,United States,9209469715,http://www.3sheepsbrewing.com,-87.73006524,43.77384561
 62871bbc-a963-4c09-9eff-eb36ade49fd7,608 Brewing Company,micro,83 Copeland Ave,,,La Crosse,Wisconsin,54603-3403,United States,,http://www.608brewingcompany.com,-91.24992798856552,43.82596395589804
@@ -7,11 +7,11 @@ a8fda9a9-026b-4b15-86b9-62b4ccb126c1,3 Sheeps Brewing Co,micro,1837 North Ave,,,
 2d880e85-5b0f-447b-b1b2-5bcae8a4b130,8th Street Ale Haus,brewpub,1132 N 8th St,,,Sheboygan,Wisconsin,53081-3402,United States,9202087540,http://www.sheboyganalehaus.com,-87.71305702,43.75674392
 85c7bc77-387c-449f-8091-6c694b35077c,Agonic Brewing Company LLC,planning,,,,Rice Lake,Wisconsin,54868-8786,United States,7153089283,http://www.agonicbrewing.com,-91.73228441549789,45.50218442479316
 685be3dc-20b8-434d-880c-d7aabac5bfc0,Ahnapee Brewery,micro,N9153 Cherry Tree Rd Apt 4,,,Algoma,Wisconsin,54201-9501,United States,9202178527,http://www.ahnapeebrewery.com,-87.43645394436277,44.60761365888498
-,Al. Ringling Brewing Co,micro,623 Broadway St,,,Baraboo,Wisconsin,53913-2513,United States,6084484013,http://www.alringlingbrewingco.com,-89.74483177323495,43.471751392446656
+39e91766-af3e-4074-9d49-26ca621e45dc,Al. Ringling Brewing Co,micro,623 Broadway St,,,Baraboo,Wisconsin,53913-2513,United States,6084484013,http://www.alringlingbrewingco.com,-89.74483177323495,43.471751392446656
 c812aa3f-208b-49e2-a1e6-96cae8943605,Ale Asylum,regional,2002 Pankratz St,,,Madison,Wisconsin,53704-4024,United States,6086633926,http://www.aleasylum.com,-89.35416285,43.12046815
 8e69dcd6-de4f-41b5-a9be-cc35844fb273,ALT Brew / Greenview Brewing LLC,brewpub,1808 Wright St,,,Madison,Wisconsin,53704-2522,United States,6083523373,http://www.altbrew.com,-89.33026,43.12576305
-,Amery Ale Works,micro,588 115th St,,,Amery,Wisconsin,54001-7801,United States,7152685226,http://www.ameryaleworks.com,-92.39679783454335,45.293806062122286
-,Amorphic Beer,micro,3700 N Fratney St,,,Milwaukee,Wisconsin,53212-2360,United States,4144856705,http://www.amorphicbeer.com,-87.9009785002345,43.08422407406965
+9bd199ef-1796-410e-abaa-1a4c9da3a1ca,Amery Ale Works,micro,588 115th St,,,Amery,Wisconsin,54001-7801,United States,7152685226,http://www.ameryaleworks.com,-92.39679783454335,45.293806062122286
+f330bf2b-e342-4265-b41f-59d8ebf8bba7,Amorphic Beer,micro,3700 N Fratney St,,,Milwaukee,Wisconsin,53212-2360,United States,4144856705,http://www.amorphicbeer.com,-87.9009785002345,43.08422407406965
 64b090eb-64c7-4dc2-9799-d0420b517169,Angry Minnow Brewery,brewpub,10440 Florida Ave,,,Hayward,Wisconsin,54843-7112,United States,7159343055,http://www.angryminnow.com,-91.4887672,46.0104853
 12a02dc2-b34b-48cd-8e34-eac44554c0cf,Appleton Beer Factory,brewpub,603 W College Ave,,,Appleton,Wisconsin,54911-5803,United States,9203649931,http://www.appletonbeerfactory.com,-88.4139148,44.26173602
 b83daf92-6347-44b0-91df-8fec02c2a22c,Backcountry Brewing,micro,3250 Mecca Dr,,,Plover,Wisconsin,54467,United States,7155729400,https://www.backcountrybrewingco.com,-89.5413643,44.3304949
@@ -28,7 +28,7 @@ da6ab5c6-b221-47cd-97dc-eedd9bf5e589,Black Husky Brewing LLC,micro,909 E Locust 
 08270e49-04d2-43a5-ae56-f9025f60668a,Bloomer Brewing Co,micro,1103 9th Ave,,,Bloomer,Wisconsin,54724-1409,United States,7159334995,,-91.48668085783991,45.10745090411906
 ff28c999-2a8b-4f5e-be5c-61708b56d8c2,Blue Heron Brew Pub,brewpub,108 W 9th St,,,Marshfield,Wisconsin,54449-4111,United States,7153891868,http://www.blueheronbrewpub.com,-90.18148902,44.65938079
 676ccc41-f722-484a-b4b8-c9b8713d6249,Bobtown Brewhouse & Grill,brewpub,220 W Main St,,,Roberts,Wisconsin,54023,United States,7153381046,http://www.bobtownbrewhouse.com,-92.55599,44.983639
-,Bog's Edge Brewing Company,micro,3511 Blarney Rd,,,Warrens,Wisconsin,54666-7000,United States,6083436708,http://www.bogsedgebrewing.com,-90.60271052305036,-44.7821698395834
+e55300d0-99ac-4968-9d27-8fdd0fd45a85,Bog's Edge Brewing Company,micro,3511 Blarney Rd,,,Warrens,Wisconsin,54666-7000,United States,6083436708,http://www.bogsedgebrewing.com,-90.60271052305036,-44.7821698395834
 cdc4b4be-ac3e-4ee8-8d93-87e0d8f14f0c,Brewery Resolute,planning,,,,Stevens Point,Wisconsin,54481-1843,United States,7153214617,,,
 f5876665-7981-4cf5-8a2e-400d7a05c29a,Brewfinity Brewing Co,brewpub,N58 W39800 Industrial Rd Ste D,,,Oconomowoc,Wisconsin,53066,United States,2624562843,https://www.brewfinitybrewing.com,-88.5374107309169,43.12675823932299
 91edce96-9b05-47fb-b160-efa8f5dfd2c2,"BrewPlan, Inc.",planning,,,,Onalaska,Wisconsin,54650,United States,6083869430,http://www.brewplan.com,,
@@ -43,11 +43,11 @@ e07b6621-ed3a-4aaf-ad46-81b0f4d44fee,Capital Brewery Co Inc,regional,7734 Terrac
 5476e31e-0ce8-4fdf-9502-ef3e89d34832,City Brewing Co,regional,925 3rd St S,,,La Crosse,Wisconsin,54601-4411,United States,6087854200,http://www.citybrewery.com,-91.25335046,43.80435523
 f0f38619-5ed5-4064-83b0-e48f05783d4c,City Lights Brewing Co.,micro,2200 W Mount Vernon Ave,,,Milwaukee,Wisconsin,53233-2672,United States,4145209692,http://www.citylightsbrewing.com,-88.0118646,43.0339815
 190bb19b-1b65-4585-8ba8-55bbcf1efebe,City Service Brewing,micro,404 Main St,,,Darlington,Wisconsin,53530-1428,United States,,http://www.cityservicebrewing.wixsite.com,-90.11787155,42.68028418
-,Cocoon Brewing,micro,2233 Kaftan Way,,,De Pere,Wisconsin,54115-4052,United States,9204254888,http://www.cocoonbrewing.com,-88.01993391553306,44.43019537817209
+c97cbf45-cb24-4b09-ab4d-cb6859e12e03,Cocoon Brewing,micro,2233 Kaftan Way,,,De Pere,Wisconsin,54115-4052,United States,9204254888,http://www.cocoonbrewing.com,-88.01993391553306,44.43019537817209
 9140eb7f-d86d-4fee-981e-4f7527d91a22,Commerce Street Brewery Hotel,brewpub,23 Commerce St,,,Mineral Point,Wisconsin,53565-1368,United States,6089873298,http://www.commercehotel.com,-90.17712179,42.85729962
 15a2144f-9a86-48fd-9fc4-5c450fd828fd,Company Brewing Co,brewpub,735 E Center St,,,Milwaukee,Wisconsin,53212-2944,United States,4149300909,https://www.companybrewing.com,-87.90182086,43.0672919
 e0b5cb85-eab8-400f-85b7-95a600e7740b,Component Brewing Co,micro,2018 S 1st St Ste 207,,,Milwaukee,Wisconsin,53207,United States,4149791088,http://www.componentbrewing.com,-87.91078255975626,43.00689727650658
-,Cool City Brewing Company,micro,1718 W Park St,,,Two Rivers,Wisconsin,54241-3060,United States,9206571325,http://www.coolcitybrewing.com,-87.56903164437763,44.14960903857421
+468d04c3-f53d-44da-b79e-534193126c0b,Cool City Brewing Company,micro,1718 W Park St,,,Two Rivers,Wisconsin,54241-3060,United States,9206571325,http://www.coolcitybrewing.com,-87.56903164437763,44.14960903857421
 6383b0a3-75af-4db1-9c58-744f9b019426,Copper State Brewing Co,brewpub,313 Dousman St,,,Green Bay,Wisconsin,54303-2713,United States,9204898575,http://www.copperstate.beer,-88.01916054,44.51896164
 1a7ee0ba-4199-42c1-845a-c41800af60d8,Corner Pub Brewery,brewpub,100 E Main St,,,Reedsburg,Wisconsin,53959-1967,United States,6085248989,,-90.00993854439756,43.5325142053154
 68920a21-7bf7-4655-a5d3-824df9feec4d,Courthouse Pub,brewpub,1001 S 8th St,,,Manitowoc,Wisconsin,54220-5307,United States,9206861166,http://www.courthousepub.com,-87.65789588,44.08950638
@@ -60,7 +60,7 @@ ad2e2d38-f7f8-4c10-899a-9b14ad947743,Dissident Brewing,closed,,,,Milwaukee,Wisco
 f6f63bf2-1334-4a58-8254-a0ac22457e05,District 14 Brewery & Pub,closed,2273 S Howell Ave,,,Milwaukee,Wisconsin,53207-1325,United States,4147440399,,-87.9095587,42.9581912
 4761d4a5-08c2-4b99-94d6-9870a1296f0b,Door County Brewing Co./ Hacienda Beer Co,micro,8099 State Highway 57 PO Box 201,,,Baileys Harbor,Wisconsin,54202-0201,United States,9204931517,http://doorcountybrewingco.com,-87.12375981551232,45.06454895086927
 44c3432e-9643-4a92-b7fc-4fa6c375995c,Driftless Brewing Co,micro,102 Sunbeam Blvd W,,,Soldiers Grove,Wisconsin,54655-1001,United States,66086245577,http://www.driftlessbrewing.com,-90.76571832,43.38921997
-,Duesterbeck's Brewing Company,micro,N5543 County Rd O,,,Elkhorn,Wisconsin,53121-3815,United States,2627299771,http://www.dbcbrewery.com,-88.6316572845383,42.69267514005675
+e31a1d5a-42e7-4d84-a9a0-12b7849c8c8a,Duesterbeck's Brewing Company,micro,N5543 County Rd O,,,Elkhorn,Wisconsin,53121-3815,United States,2627299771,http://www.dbcbrewery.com,-88.6316572845383,42.69267514005675
 c3bd1af8-2ca2-4a14-b733-8c4d788c4752,Eagle Park Brewing Company,brewpub,823 E Hamilton St,,,Milwaukee,Wisconsin,53202,United States,4145850123,http://www.eagleparkbrewing.com,-87.90143961,43.0542106
 e5b6ac32-d6df-4bd8-929a-46d2b5828a2d,Earth Rider Brewing Co,micro,1617 N 3rd St,,,Superior,Wisconsin,54880-1016,United States,7153947391,http://www.earthrider.beer,-92.10117749,46.73528116
 315b49b3-1996-4fa8-b249-2e917245fd72,East Troy Brewery,micro,2905 Main St,,,East Troy,Wisconsin,53120-1245,United States,2626422670,http://www.etbrew.com,-88.40615097325679,42.78494685487931
