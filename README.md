@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -139,6 +139,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kenster89"><img src="https://avatars.githubusercontent.com/u/32558172?v=4?s=100" width="100px;" alt="kenster89"/><br /><sub><b>kenster89</b></sub></a><br /><a href="#data-kenster89" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sadilet"><img src="https://avatars.githubusercontent.com/u/20108793?v=4?s=100" width="100px;" alt="Adilet Sarsembayev"/><br /><sub><b>Adilet Sarsembayev</b></sub></a><br /><a href="#data-sadilet" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://blog.deciphermiddleware.in/"><img src="https://avatars.githubusercontent.com/u/30888879?v=4?s=100" width="100px;" alt="Pranav Davar"/><br /><sub><b>Pranav Davar</b></sub></a><br /><a href="#data-pranav-davar" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
