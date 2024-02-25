@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -141,6 +141,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sadilet"><img src="https://avatars.githubusercontent.com/u/20108793?v=4?s=100" width="100px;" alt="Adilet Sarsembayev"/><br /><sub><b>Adilet Sarsembayev</b></sub></a><br /><a href="#data-sadilet" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://blog.deciphermiddleware.in/"><img src="https://avatars.githubusercontent.com/u/30888879?v=4?s=100" width="100px;" alt="Pranav Davar"/><br /><sub><b>Pranav Davar</b></sub></a><br /><a href="#data-pranav-davar" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/b-mc2"><img src="https://avatars.githubusercontent.com/u/78936105?v=4?s=100" width="100px;" alt="b-mc2"/><br /><sub><b>b-mc2</b></sub></a><br /><a href="#data-b-mc2" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/nicole440"><img src="https://avatars.githubusercontent.com/u/111709554?v=4?s=100" width="100px;" alt="Nicole"/><br /><sub><b>Nicole</b></sub></a><br /><a href="#data-nicole440" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
