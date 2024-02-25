@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -143,6 +143,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/b-mc2"><img src="https://avatars.githubusercontent.com/u/78936105?v=4?s=100" width="100px;" alt="b-mc2"/><br /><sub><b>b-mc2</b></sub></a><br /><a href="#data-b-mc2" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/nicole440"><img src="https://avatars.githubusercontent.com/u/111709554?v=4?s=100" width="100px;" alt="Nicole"/><br /><sub><b>Nicole</b></sub></a><br /><a href="#data-nicole440" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.reenhanced.com/"><img src="https://avatars.githubusercontent.com/u/602226?v=4?s=100" width="100px;" alt="Nicholas Hance"/><br /><sub><b>Nicholas Hance</b></sub></a><br /><a href="#data-nhance" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jocce-Nilsson"><img src="https://avatars.githubusercontent.com/u/59723488?v=4?s=100" width="100px;" alt="Joachim Nilsson"/><br /><sub><b>Joachim Nilsson</b></sub></a><br /><a href="#data-Jocce-Nilsson" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
