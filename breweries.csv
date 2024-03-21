@@ -1,4 +1,6 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+,Canjob Taproom,bar,50 Tiong Bahru Rd,#01-03,Link Hotel,Singapore,Singapore,168733,Singapore,93853497,https://www.canjobtaproom.com/,1.2858878817271582,103.83520589939332
+,Lion Brewery Co,brewpub,36 Club St,,,Singapore,Singapore,069469,Singapore,93665815,https://lionbreweryco.com/visit-our-brewpub/,1.2839262761695964,103.84846644516956
 5128df48-79fc-4f0f-8b52-d06be54d0cec,(405) Brewing Co,micro,1716 Topeka St,,,Norman,Oklahoma,73069-8224,United States,4058160490,http://www.405brewing.com,-97.46818222,35.25738891
 9c5a66c8-cc13-416f-a5d9-0a769c87d318,(512) Brewing Co,micro,407 Radam Ln Ste F200,,,Austin,Texas,78745-1197,United States,5129211545,http://www.512brewing.com,,
 34e8c68b-6146-453f-a4b9-1f6cd99a5ada,1 of Us Brewing Company,micro,8100 Washington Ave,,,Mount Pleasant,Wisconsin,53406-3920,United States,2624847553,https://www.1ofusbrewing.com,-87.88336350209435,42.72010826899558
