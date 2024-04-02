@@ -2,7 +2,7 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 ddf69cff-978e-47b6-b42e-75f102418bd0,603 Brewery,micro,12 Liberty Dr Unit 7,,,Londonderry,New Hampshire,03053-2286,United States,6036307745,http://www.603brewery.com,,
 66a91db6-7d2a-4d67-a720-7f924cae3571,7th Settlement Brewery,brewpub,47 Washington St,,,Dover,New Hampshire,03820-3877,United States,6033731001,http://www.7thsettlement.com,-70.8728379,43.1953787
 e6780612-ff74-4289-8718-a229529e3ee1,Able Ebenezer Brewing Company,micro,31 Columbia Cir,,,Merrimack,New Hampshire,03054-4161,United States,8442232253,http://www.ableebenezer.com,-71.493705,42.851742
-b9f4f532-15df-4a50-b15e-e5cd5d41977b,Aigean Ales,micro,250 Commercial St Ste 2001,,,Manchester,New Hampshire,03101-1165,United States,6035188550,,-71.46899187,42.9899594
+b9f4f532-15df-4a50-b15e-e5cd5d41977b,Aigean Ales,closed,250 Commercial St Ste 2001,,,Manchester,New Hampshire,03101-1165,United States,6035188550,,-71.46899187,42.9899594
 c1e8a479-5371-44bb-a952-b76b60997a9e,Anheuser-Busch Inc â Merrimack,large,221 Daniel Webster Hwy,,,Merrimack,New Hampshire,03054-4807,United States,6038896631,,-71.48598162,42.8253635
 d8528f09-f3d8-48f9-9719-db00b4e10b71,Appalachian Mountain Brewery - Portsmouth,micro,1 Redhook Way,,,Portsmouth,New Hampshire,03801-6853,United States,8282631111,,-70.8044602,43.087884
 799a4fc7-16fb-40e7-9fd5-4664da3976f3,Ashuelot Brewing Company,micro,101 Old County Rd,,,Richmond,New Hampshire,03470-4918,United States,,,-72.23236816,42.75946232
@@ -46,6 +46,7 @@ dfe6e726-9bba-4653-8dcc-c8ec944baa1c,Moat Mountain Smoke House and Brewing Co,br
 b07ee09f-2060-4238-8d2e-b9dbba17da2f,Modestman Brewing,micro,100 Main St,,,Keene,New Hampshire,03431-3736,United States,6033527695,http://modestmanbrewing.com/,-72.27818311,42.93427008
 11c1cf1f-22e3-429d-8cfb-ebb84b90b6f9,Monadnock Brewing Company LLC,planning,,,,Langdon,New Hampshire,03602-8604,United States,6033136317,http://www.monadnockbrewing.com,,
 e1408cf3-3932-4ca7-bbfa-4f5fda95ade3,Moonlight Meadery/Hidden Moon Brewing,contract,23 Londonderry Rd Unit 17,,,Londonderry,New Hampshire,03053-3314,United States,6032162162,http://www.moonlightmeadery.com,,
+378d7eee-7a3b-41ea-a4b1-c27c35c28b07,Mountain Base Brewery,micro,553 Mast Rd #111,,,Goffstown,New Hampshire,03045,United States,6039357132,https://www.mountainbasebrewery.com/,-71.51532,43.00128
 762d6bfd-e2ba-469e-b3f5-05817d0a2d96,Northwoods Brewing Co,planning,,,,Northwood,New Hampshire,03261,United States,2073516983,,,
 3d6ce7c7-5481-48c6-afd7-4b68dccec4dc,Oddball Brewing,micro,6 Glass St,,,Suncook,New Hampshire,03275-1512,United States,6032105654,http://www.oddballbrewingnh.com,-71.45239635,43.1308185
 1d7e5d18-1159-4ff0-ae9a-eb00af7d14cb,One Love Brewery,brewpub,25 S Mountain Rd,,,Lincoln,New Hampshire,03251-4268,United States,6037457290,http://www.onelovebrewery.com,,
