@@ -2,7 +2,7 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 ddf69cff-978e-47b6-b42e-75f102418bd0,603 Brewery,micro,12 Liberty Dr Unit 7,,,Londonderry,New Hampshire,03053-2286,United States,6036307745,http://www.603brewery.com,,
 66a91db6-7d2a-4d67-a720-7f924cae3571,7th Settlement Brewery,brewpub,47 Washington St,,,Dover,New Hampshire,03820-3877,United States,6033731001,http://www.7thsettlement.com,-70.8728379,43.1953787
 e6780612-ff74-4289-8718-a229529e3ee1,Able Ebenezer Brewing Company,micro,31 Columbia Cir,,,Merrimack,New Hampshire,03054-4161,United States,8442232253,http://www.ableebenezer.com,-71.493705,42.851742
-b9f4f532-15df-4a50-b15e-e5cd5d41977b,Aigean Ales,micro,250 Commercial St Ste 2001,,,Manchester,New Hampshire,03101-1165,United States,6035188550,,-71.46899187,42.9899594
+b9f4f532-15df-4a50-b15e-e5cd5d41977b,Aigean Ales,closed,250 Commercial St Ste 2001,,,Manchester,New Hampshire,03101-1165,United States,6035188550,,-71.46899187,42.9899594
 c1e8a479-5371-44bb-a952-b76b60997a9e,Anheuser-Busch Inc â Merrimack,large,221 Daniel Webster Hwy,,,Merrimack,New Hampshire,03054-4807,United States,6038896631,,-71.48598162,42.8253635
 d8528f09-f3d8-48f9-9719-db00b4e10b71,Appalachian Mountain Brewery - Portsmouth,micro,1 Redhook Way,,,Portsmouth,New Hampshire,03801-6853,United States,8282631111,,-70.8044602,43.087884
 799a4fc7-16fb-40e7-9fd5-4664da3976f3,Ashuelot Brewing Company,micro,101 Old County Rd,,,Richmond,New Hampshire,03470-4918,United States,,,-72.23236816,42.75946232
@@ -21,6 +21,7 @@ fecd5791-19fe-43ae-b618-3ddf1e3d9761,Concord Craft Brewery,micro,117 Storrs St,,
 f8eb2cdf-8cda-482f-9df5-53e7bdc3d42f,Deciduous Brewing Company,micro,12 Weaver St,,,Newmarket,New Hampshire,03857-2307,United States,6032925809,,,
 b9304a09-0ecf-488b-a437-e4654edf1148,Earth Eagle Brewing,brewpub,165 High Street,,,Portsmouth,New Hampshire,03801,United States,,http://www.eartheaglebrewings.com,-70.75957196,43.0792548
 c6211a84-875e-491b-8ba3-051fd0f6e0ea,Elm City Brewing Company,brewpub,222 West St Ste 46,,,Keene,New Hampshire,03431-2459,United States,6033553335,http://www.elmcitybrewing.com,-72.28642285,42.93326464
+e202f7ae-1d8f-42ff-b427-8d1460490b56,Feathered Friend Brewing,micro,231 S Main St,,,Concord,New Hampshire,03301,United States,6037152347,https://www.featheredfriendbrewing.com/,-71.53136,43.1945
 3e264584-4208-4f8f-afcf-caa974679c1d,Flying Goose Brewpub,brewpub,40 Andover Rd,,,New London,New Hampshire,03257-5901,United States,6035266899,http://www.flyinggoose.com,,
 4f00fa3a-9592-42eb-8cb8-18cdfc18dbeb,Frogg Brewing,micro,580 Sawyers Crossing Road,,,Swanzey,New Hampshire,03446-3638,United States,6035477639,http://www.froggbrewing.com/,-72.32039194,42.88419156
 5bfe0fee-f654-42fb-a8cb-2ec2709cd104,From the Barrel Brewing Company,micro,15 Londonderry Rd Unit 9,,,Londonderry,New Hampshire,03053-3388,United States,6033281896,http://www.drinkfromthebarrel.com,,
@@ -30,7 +31,7 @@ b10d422b-421d-4eab-9688-11783edace14,Great North Aleworks,micro,1050 Holt Ave Un
 facf7af6-1103-42ef-9522-de783df81127,Great Rhythm Brewing Co.,micro,105 Bartlett St Ste 6,,,Portsmouth,New Hampshire,03801-7608,United States,6034309640,http://www.greatrhythmbrewing.com,,
 76e7738e-61bf-472b-8e97-44c5b2f5d2af,Green Gecko Brewing Co - St. Croix USVI,planning,,,,North Conway,New Hampshire,03860-3190,United States,6038606608,,,
 efabcc36-ebba-44f1-82ad-5194fc55574e,"Henniker Brewing Company, LLC",micro,129 Centervale Rd,,,Henniker,New Hampshire,03242-3280,United States,6034283579,http://www.hennikerbrewing.com,-71.7824433,43.17880862
-5a5cbcd9-1316-40a8-8c75-6037a8d5ccf2,Hobbs Tavern & Brewing Co.,brewpub,2415 NH Route 16,,,West Ossipee,New Hampshire,3890,United States,6035392000,http://www.hobbstavern.com,,
+5a5cbcd9-1316-40a8-8c75-6037a8d5ccf2,Hobbs Tavern & Brewing Co.,brewpub,2415 NH Route 16,,,West Ossipee,New Hampshire,03890,United States,6035392000,http://www.hobbstavern.com,,
 0938598a-808e-4d37-98ef-d38539e19a7f,Hornbug Brewing Company,micro,165 Peterborough Road,,,Hancock,New Hampshire,03449-6011,United States,7814024308,http://www.hornburgbrewingcompany.com/,-71.9689697,42.94829817
 c7eb5f72-f903-4578-bc8d-9ca20592d23c,Kelsen Brewing Company,brewpub,80 N High St Unit 3,,,Derry,New Hampshire,03038-2272,United States,6039653078,http://www.kelsenbrewing.com,,
 7818c5b5-3446-4c29-80ac-e0e51cc5bccc,Kettlehead Brewing Company,brewpub,407 W Main St,,,Tilton,New Hampshire,03276-5012,United States,6033258266,http://www.kettleheadbrewing.com,-71.60013898,43.44219881
@@ -38,12 +39,14 @@ b95af364-dbcf-4842-8a12-59d3c2e41fea,Laughinghouse Brewing,planning,,,,Nashua,Ne
 561cd005-2fdd-4998-8501-bded8f7df8a9,Liars Bench Beer Company,brewpub,459 Islington St Ste 4,,,Portsmouth,New Hampshire,03801-4291,United States,6032949156,http://liarsbenchbeer.com,,
 7483a72d-fbd6-4b7c-91c7-4e4f8cab78f4,Lithermans Limited Brewery,micro,126 Hall St Ste B,,,Concord,New Hampshire,03301-3447,United States,6038189102,http://www.lithermans.beer,,
 8c47911e-39d3-45ec-bc56-70ad9ca6197f,Loaded Question Brewing Co,micro,909 Islington St Ste 12,,,Portsmouth,New Hampshire,03801,United States,,http://www.loadedquestionbrewing.com,,
+def3d990-95bc-40df-a996-c0eab6f54e08,Long Blue Cat Brewing,micro,298 Rockingham Rd,,,Londonderry,New Hampshire,03053,United States,6038188068,https://www.longbluecat.com/,-71.40209,42.92138
 40add606-afd1-430a-b274-2af693e0e5aa,Martha's Exchange Restaurant and Brewery,brewpub,185 Main St,,,Nashua,New Hampshire,03060-2701,United States,6038838781,http://www.marthas-exchange.com,-71.46548181,42.7604446
 aa3d493d-936c-4798-beb1-ea4491de99ac,Millyard Brewing,micro,25 E Otterson St,,,Nashua,New Hampshire,03060-3941,United States,6035055079,http://www.millyardbrewery.com,-71.45988189,42.7544214
 dfe6e726-9bba-4653-8dcc-c8ec944baa1c,Moat Mountain Smoke House and Brewing Co,brewpub,3378 White Mountain Highway,,,North Conway,New Hampshire,03860-1518,United States,6033566381,http://www.moatmountain.com,-71.14358535,44.06850015
 b07ee09f-2060-4238-8d2e-b9dbba17da2f,Modestman Brewing,micro,100 Main St,,,Keene,New Hampshire,03431-3736,United States,6033527695,http://modestmanbrewing.com/,-72.27818311,42.93427008
 11c1cf1f-22e3-429d-8cfb-ebb84b90b6f9,Monadnock Brewing Company LLC,planning,,,,Langdon,New Hampshire,03602-8604,United States,6033136317,http://www.monadnockbrewing.com,,
 e1408cf3-3932-4ca7-bbfa-4f5fda95ade3,Moonlight Meadery/Hidden Moon Brewing,contract,23 Londonderry Rd Unit 17,,,Londonderry,New Hampshire,03053-3314,United States,6032162162,http://www.moonlightmeadery.com,,
+378d7eee-7a3b-41ea-a4b1-c27c35c28b07,Mountain Base Brewery,micro,553 Mast Rd #111,,,Goffstown,New Hampshire,03045,United States,6039357132,https://www.mountainbasebrewery.com/,-71.51532,43.00128
 762d6bfd-e2ba-469e-b3f5-05817d0a2d96,Northwoods Brewing Co,planning,,,,Northwood,New Hampshire,03261,United States,2073516983,,,
 3d6ce7c7-5481-48c6-afd7-4b68dccec4dc,Oddball Brewing,micro,6 Glass St,,,Suncook,New Hampshire,03275-1512,United States,6032105654,http://www.oddballbrewingnh.com,-71.45239635,43.1308185
 1d7e5d18-1159-4ff0-ae9a-eb00af7d14cb,One Love Brewery,brewpub,25 S Mountain Rd,,,Lincoln,New Hampshire,03251-4268,United States,6037457290,http://www.onelovebrewery.com,,
@@ -74,4 +77,5 @@ dfdff781-6127-4db8-be9d-ce1cef869e20,Throwback Brewery,brewpub,7 Hobbs Rd,,,Nort
 e0c4bb78-9720-4af7-8188-a5b132646ede,West LA Beer Company,micro,647 West Swanzey Rd,,,Swanzey,New Hampshire,03446-3310,United States,6039030724,http://westlabeercompany.com/,-72.33262282,42.87499023
 e3addd66-8750-4844-82de-88710adf9b49,White Birch Brewing,micro,1339 Hooksett Rd,,,Hooksett,New Hampshire,03106-1847,United States,6032448593,http://www.whitebirchbrewing.com,-71.44114457,43.05712534
 3cf6f95a-0aae-4bfa-8904-f47aeb945414,Woodman's Brewery,micro,195 Peaked Hill Rd,,,Bristol,New Hampshire,03222-3331,United States,6037443669,http://www.facebook.com/woodmansbrewery,-71.70955815,43.60711645
+6e9dcd2b-fc79-49e3-8a6c-009a726fd771,Woodstacker Beer Company,micro,850 Elm St,,,Manchester,New Hampshire,03101,United States,,https://woodstackerbeerco.com/,-71.46309,42.99003
 48898f65-cd5b-4a64-b775-d9f8b8fd6627,Woodstock Inn Brewery,micro,135 Main St,,,North Woodstock,New Hampshire,03262,United States,6037453951,http://www.woodstockinnnh.com,-71.6865275,44.0316675
