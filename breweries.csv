@@ -233,7 +233,7 @@ c185b848-a69a-4d73-8a33-7b6f0db2e3fc,Afterthought Brewing Company,micro,844 N Ri
 85c7bc77-387c-449f-8091-6c694b35077c,Agonic Brewing Company LLC,planning,,,,Rice Lake,Wisconsin,54868-8786,United States,7153089283,http://www.agonicbrewing.com,-91.73228441549789,45.50218442479316
 f1ed5260-13cb-4f22-a4ac-0e1f7f676a12,"Agrarian Ales, LLC",closed,31115 W Crossroads Ln,,,Eugene,Oregon,97408-9220,United States,5416323803,http://www.agales.com,-123.1277712,44.18922784
 685be3dc-20b8-434d-880c-d7aabac5bfc0,Ahnapee Brewery,micro,N9153 Cherry Tree Rd Apt 4,,,Algoma,Wisconsin,54201-9501,United States,9202178527,http://www.ahnapeebrewery.com,-87.43645394436277,44.60761365888498
-b9f4f532-15df-4a50-b15e-e5cd5d41977b,Aigean Ales,micro,250 Commercial St Ste 2001,,,Manchester,New Hampshire,03101-1165,United States,6035188550,,-71.46899187,42.9899594
+b9f4f532-15df-4a50-b15e-e5cd5d41977b,Aigean Ales,closed,250 Commercial St Ste 2001,,,Manchester,New Hampshire,03101-1165,United States,6035188550,,-71.46899187,42.9899594
 dfec4bba-cfbc-4562-b6be-f0563f51821a,Aiken Brewing Co,brewpub,140 Laurens St SW,,,Aiken,South Carolina,29801-3848,United States,8035020707,http://www.aikenbrewingcompany.com,-81.7228141,33.5603084
 f4c592ed-4c20-4b87-bb35-64f894a6cc6b,Airline Brewing Company,micro,22 Mill Ln,,,Amherst,Maine,04428,United States,2075842337,http://www.abcmaine.beer,-68.3677435,44.8329462
 9737bf0c-b29e-49d7-9778-3951072eb147,Airways Brewing Co,micro,8611 S 212th St,,,Kent,Washington,98031-1910,United States,2532001707,http://www.airwaysbrewing.com,-122.2391026,47.4119802
@@ -2705,6 +2705,7 @@ cdbeb166-5eaf-4a66-9ca5-1cf6b55df680,Fawken Beer Company,planning,,,,Columbia,Te
 4f86b0c5-c7a2-4cfa-8fa3-40afca62a741,Fearless Brewing Co,brewpub,326 S Broadway St,,,Estacada,Oregon,97023-7000,United States,5036302337,http://www.fearless.beer,-122.3350759,45.2870468
 39a29354-6247-4e93-bc5d-5f1ee33b24ab,Feather Falls Brewing Co,brewpub,3 Alverda Dr,,,Oroville,California,95966-9379,United States,5305344059,http://www.featherfallscasino.com,-121.521407,39.46576
 d26eddc8-d40c-4448-8eea-011b109966c2,Feather River Brewing Co,micro,14665 Forest Ridge Rd,,,Magalia,California,95954-0443,United States,5308730734,http://www.featherriverbrewing.com,-121.5777621,39.84088592
+e202f7ae-1d8f-42ff-b427-8d1460490b56,Feathered Friend Brewing,micro,231 S Main St,,,Concord,New Hampshire,03301,United States,6037152347,https://www.featheredfriendbrewing.com/,-71.53136,43.1945
 502b4291-c1be-403f-aeb4-0e5434def665,Feathered Serpent Brewery,planning,,,,San Dimas,California,91773-1477,United States,3237079238,,-117.8067257,34.1066756
 2b08803c-7d1c-4eb9-bb76-6c8b744482f3,Feckin Brewery,micro,415 S McLoughlin Blvd,,,Oregon City,Oregon,97045-3101,United States,5038805608,http://www.fecknbrew.com,-122.6217909,45.3474038
 fedb74bd-dba3-42c7-8214-dc462f596369,Federation Brewing,micro,420 3rd St Unit A,,,Oakland,California,94607-3809,United States,,http://www.federationbrewing.com,-122.2752148,37.79677436
@@ -3623,7 +3624,7 @@ abaf347e-2480-44a8-8485-8f7ad45415ef,Hilton Head Brewing Co,brewpub,1 Cardinal C
 93793161-bc9b-46f7-908c-10d7af3cbbf8,Hitchcock Brewing Company,micro,129 Christian Ln,,,Whately,Massachusetts,01093,United States,4136952400,http://www.hitchcockbrewing.com,-72.60641222,42.44606511
 86590a44-6260-4fc2-a71f-98f52356bc20,Hitchhiker Brewing Co.,brewpub,190 Castle Shannon Blvd,,,Pittsburgh,Pennsylvania,15228-2267,United States,4123431950,http://www.hitchhikerbrewing.com,,
 64112422-723d-4867-9dd8-4d9b448305d7,Hix Farm Brewery,micro,54 S Cedar Ave,,,Cookeville,Tennessee,38501-3216,United States,9313161623,http://www.hixfarmbrewery.com,-85.507921,36.161868
-5a5cbcd9-1316-40a8-8c75-6037a8d5ccf2,Hobbs Tavern & Brewing Co.,brewpub,2415 NH Route 16,,,West Ossipee,New Hampshire,3890,United States,6035392000,http://www.hobbstavern.com,,
+5a5cbcd9-1316-40a8-8c75-6037a8d5ccf2,Hobbs Tavern & Brewing Co.,brewpub,2415 NH Route 16,,,West Ossipee,New Hampshire,03890,United States,6035392000,http://www.hobbstavern.com,,
 71ac4b9f-1452-42e4-957d-c0075671f9ac,Hodad's Brewing Company,planning,,,,San Diego,California,92123,United States,8582782770,,-117.1627714,32.7174209
 f902bfca-fb32-4581-8b09-f3fb80ea731c,Hofbrauhaus Buffalo,planning,,,,Buffalo,New York,14221-4616,United States,7165631781,http://www.facebook.com/Hofbrauhaus-Buffalo-476335022466386/,,
 5fde3431-947e-41a9-8884-5763020f18a4,Hofbrauhaus Chicago,brewpub,5500 Park Pl,,,Rosemont,Illinois,60018-3730,United States,8476712739,http://www.hofbrauhauschicago.com,,
@@ -4456,6 +4457,7 @@ dfec0210-90f3-4ada-af1e-b4543f19423b,Lonerider Brewing Co,regional,8816 Gulf Ct 
 ebcfd143-2150-4fa3-8b91-354be586e531,Lonesome Pine Brewing Co.,micro,12262 US Highway 19,,,Lebanon,Virginia,24266,United States,2762743697,http://www.lonesomepinebrewing.com,,
 01f78943-0aa0-4158-b1a4-52160c97a87f,Lonesome Valley Brewing,brewpub,3040 N Windsong Dr Ste 101,,,Prescott Valley,Arizona,86314-2250,United States,9285153541,http://www.lonesomevalleybrewing.com,,
 53869ea0-bee5-4c51-b08c-1866b5cc99e0,Long Beach Beer Lab,micro,518 W Willow St,,,Long Beach,California,90806-2831,United States,5623413659,http://www.lbbeer.com,-118.2156232,33.8044209
+def3d990-95bc-40df-a996-c0eab6f54e08,Long Blue Cat Brewing,micro,298 Rockingham Rd,,,Londonderry,New Hampshire,03053,United States,6038188068,https://www.longbluecat.com/,-71.40209,42.92138
 83184b61-ebc9-46b8-903d-6516e9a63046,Long Branch Brewery,planning,,,,Long Branch,New Jersey,07740,United States,7325013025,,,
 a817db45-c5c8-4b51-981d-e68a2795114f,Long Brewing LLC,micro,29380 NE Owls Ln,,,Newberg,Oregon,97132-7217,United States,5033498341,http://www.longbrewing.com,-122.9354492,45.3262403
 2562ab61-f1f6-4fb2-bb84-896ea3eb3fbe,Long Ireland Brewing Co,micro,817 Pulaski St,,,Riverhead,New York,11901-3039,United States,6314034303,,-72.67411924,40.9199771
@@ -4987,6 +4989,7 @@ ce476ba7-dc6c-4fae-a6b1-1b4a2a48fa96,Motobrewer,planning,,,,San Francisco,Califo
 6547c1e3-c0e6-43ec-9bc7-f6d254cb5d85,Mount Gretna Craft Brewery,micro,2701 Horseshoe Pike,,,Palmyra,Pennsylvania,17078-8949,United States,7178383545,http://www.gretnabrewery.com,,
 4949c8f1-8073-4644-9d1d-e97001f4f7a7,Mount Hood Brewing Co,brewpub,87304 E Government Camp Loop,,,Government Camp,Oregon,97028,United States,5032723272,http://www.mthoodbrewing.com,-121.7662065,45.30311485
 5976e057-8502-4193-839c-8129210a9766,Mount Shasta Brewing Co,micro,360 College Ave,,,Weed,California,96094-2706,United States,5309382394,http://www.weedales.com,-122.3866251,41.41662138
+378d7eee-7a3b-41ea-a4b1-c27c35c28b07,Mountain Base Brewery,micro,553 Mast Rd #111,,,Goffstown,New Hampshire,03045,United States,6039357132,https://www.mountainbasebrewery.com/,-71.51532,43.00128
 b26705f7-3797-4dd9-8f7c-86a5fbadda58,Mountain Cowboy Brewing Company,brewpub,318 5th St,,,Frederick,Colorado,80530,United States,3039524433,http://www.mountaincowboybrewing.com,-104.9369796,40.09855473
 8b6d327f-e82c-43c9-b068-f80a1ae4cbb2,Mountain Fork Brewery,micro,89 N Lukfata Trail Rd,,,Broken Bow,Oklahoma,74728-7025,United States,5804943233,http://www.mountainforkbrewery.com,-94.7770233,34.1827774
 8532bb33-d392-4448-baca-277d791ff259,Mountain Hops Brewhouse,micro,612 N Beverly St,,,Casper,Wyoming,82609-1616,United States,3073371052,https://www.facebook.com/MountainHopsBrewhouse,-106.29792831549283,42.85612280383781
@@ -8105,6 +8108,7 @@ a06d2559-f43d-4818-9c51-2b6ed78ded6a,Woodland Farms Brewery,micro,"306 Route 1, 
 8a058b3f-9a57-469d-9f1f-c31c3ae064a5,Woods Boss Brewing Company,micro,2210 California St,,,Denver,Colorado,80205-2824,United States,9149609225,http://www.woodsbossbrew.com,-104.9845374,39.7509153
 eb859746-2153-4704-bae9-a39ba7e725c7,Woods Cabin Brewery,planning,,,,Yarrow Point,Washington,98004,United States,4258945483,,,
 c95c466f-2ae4-4ea0-9c32-1877d686c264,Woods CervecerÃ­a,brewpub,3801 18th St,,,San Francisco,California,94114-2615,United States,4152739295,http://www.cerveceriasf.com,-122.4285438,37.761163
+6e9dcd2b-fc79-49e3-8a6c-009a726fd771,Woodstacker Beer Company,micro,850 Elm St,,,Manchester,New Hampshire,03101,United States,,https://woodstackerbeerco.com/,-71.46309,42.99003
 a75e7e8a-4f8a-4f67-b33f-7aa2c25b3913,Woodstock Brewhouse,brewpub,123 E Court St,,,Woodstock,Virginia,22664-1761,United States,5404592739,http://www.woodstockbrewhouse.com,-78.50414235,38.88142648
 a83ffb66-54d3-41f7-828a-4cdf2aad7c38,Woodstock Brewing,micro,5581 NY-28,,,Phoenicia,New York,12464,United States,8456880054,http://www.drinkwoodstock.com,,
 48898f65-cd5b-4a64-b775-d9f8b8fd6627,Woodstock Inn Brewery,micro,135 Main St,,,North Woodstock,New Hampshire,03262,United States,6037453951,http://www.woodstockinnnh.com,-71.6865275,44.0316675
