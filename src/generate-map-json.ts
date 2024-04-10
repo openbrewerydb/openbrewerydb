@@ -7,7 +7,7 @@ import { Brewery } from "./types";
 const csvFilePath = join(__dirname, "../breweries.csv");
 const jsonFilePath = join(__dirname, "../breweries-map.json");
 
-interface BreweryMap {
+interface BreweryMarker {
   name: string;
   lngLat: number[];
   id: string;
@@ -16,7 +16,7 @@ interface BreweryMap {
 try {
   const data = readFileSync(csvFilePath, { encoding: "utf-8" });
   const result = Papa.parse<Brewery>(data, papaParseOptions);
-  let breweries: BreweryMap[] = [];
+  let breweries: BreweryMarker[] = [];
 
   for (let brewery of result.data) {
     if (brewery.latitude && brewery.longitude) {
