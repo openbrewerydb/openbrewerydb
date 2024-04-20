@@ -1,34 +1,34 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+b3bea277-345d-4154-9a79-1c9364ee0172,Aloha Sea Sports Centre,bar,1212 East Coast Parkway,E2 Area E,,Singapore,Singapore,449886,Singapore,+65 6241 9212,https://www.alohaseasports.com/bar,1.3064394414909997,103.934847
+e5c53698-deb0-4bb9-ab37-56db1bc09efb,Asia Pacific Breweries Pte Ltd,large,459 Jalan Ahmad Ibrahim,,,Singapore,Singapore,639934,Singapore,+65 6861 6200,https://www.apbsingapore.com.sg/,1.336511131543926,103.64778327672454
+8a28140f-79c5-493b-a9b7-3a494c9449fc,Bar Room,bar,899 East Coast Road,,,Singapore,Singapore,459102,Singapore,+65 9265 2461,,1.3128500369078353,103.9241232
+6d35da2a-ee38-4b85-ba89-0cfd1180e4f5,Café Football,bar,920 East Coast Park,Parkland Green,#01-28,Singapore,Singapore,449875,Singapore,+65 8827 7490,,1.299047915954234,103.9061601
+0acbc5f2-6427-46e0-8302-7c26017975ec,Café Wolfgang Ranner,bar,20 Eastwood Road,Eastwood Centre,#01-06,Singapore,Singapore,486442,Singapore,+65 9118 0336,https://ranner.sg/,1.3215789923361645,103.95544389742997
 d832ea72-d8ca-4b3e-a7f0-679599883d89,Canjob Taproom,bar,50 Tiong Bahru Rd,#01-03,Link Hotel,Singapore,Singapore,168733,Singapore,93853497,https://www.canjobtaproom.com/,103.8339047,1.2853965
+db18bb6e-f763-4c39-a823-a961aa19c5a1,Coastal Rhythm,bar,1206A East Coast Parkway,Singapore Wake Park,,Singapore,Singapore,449891,Singapore,+65 6636 3705,https://www.coastalrhythm.sg/,1.3058550499371302,103.9316688
+17f2475a-d7b2-4565-b9c3-cfccbb44a5cf,Desi Firangi,bar,97 East Coast Road,,,Singapore,Singapore,428794,Singapore,+65 8518 4250,https://www.desifirangi.sg/,1.30586526758343,103.9041354
+6d718d37-3a1f-4eff-91da-6857bbe5756b,Hubs,bar,889 East Coast Road,,,Singapore,Singapore,459092,Singapore,+65 6908 8037,https://hubs.sg/,1.3127828115220286,103.9239284
+21ba3bb4-b9ec-47c9-8e95-eda8f7f5b410,Iza Local Izakaya,bar,695E East Coast Road,,,Singapore,Singapore,459059,Singapore,+65 6385 2883,,1.3118909225064634,103.9219623
+cc7a08ca-f10b-4cc8-9dc2-a585d0b2fc61,Jags@Siglap,bar,922 East Coast Road,,,Singapore,Singapore,459114,Singapore,+65 6241 2168,https://jags.com.sg/,1.312338406799028,103.9249077
+151050ee-ccee-4ff2-98b3-4b2be567de2c,JagWine,bar,384 East Coast Road,,,Singapore,Singapore,428988,Singapore,+65 6348 1778,https://www.jagwine.com/,1.3088733714988796,103.9116301
+218545f9-4d45-424e-be42-1e9fca19dc5c,Kei Bar,bar,378 East Coast Road,,,Singapore,Singapore,428985,Singapore,+65 8292 6363,,1.3087788892433805,103.9112709
+20063b5b-6218-44c5-bc19-932339a6b2d1,Lazy Sloth & Drunken Sloth,bar,41 East Coast Road,,,Singapore,Singapore,428761,Singapore,+65 6241 3933,,1.305092519750664,103.9029638
+23a4fc72-237e-48fd-b06f-4484d8fc7ef7,Legacy,bar,274 East Coast Road,,,Singapore,Singapore,428942,Singapore,,,1.3082136591314375,103.9090124
 882855c2-3294-494e-be49-0c48f8263cca,Lion Brewery Co,brewpub,36 Club St,,,Singapore,Singapore,069469,Singapore,93665815,https://lionbreweryco.com/visit-our-brewpub/,103.8434419,1.2826554
-,Café Wolfgang Ranner,bar,20 Eastwood Road,Eastwood Centre,#01-06,Singapore,Singapore,486442,Singapore,+65 9118 0336,https://ranner.sg/,1.3215789923361645,103.95544389742997,,,
-,OMD Café,bar,12 East Coast Road,,,Singapore,Singapore,428723,Singapore,+65 8783 3494,,1.304190941656327,103.90239119743,,,
-,The Runway Café and Bar,bar,20 Eastwood Road,Eastwood Centre,#01-14B,Singapore,Singapore,486442,Singapore,+65 9859 5348,,1.321709985797653,103.95543724232834,,,
-,Mooloolabar,bar,20 East Coast Road,,,Singapore,Singapore,428747,Singapore,+65 8500 4488,,1.304338624043325,103.9025629,,,
-,Aloha Sea Sports Centre,bar,1212 East Coast Parkway,E2 Area E,,Singapore,Singapore,449886,Singapore,+65 6241 9212,https://www.alohaseasports.com/bar,1.3064394414909997,103.934847,,,
-,Coastal Rhythm,bar,1206A East Coast Parkway,Singapore Wake Park,,Singapore,Singapore,449891,Singapore,+65 6636 3705,https://www.coastalrhythm.sg/,1.3058550499371302,103.9316688,,,
-,Café Football,bar,920 East Coast Park,Parkland Green,#01-28,Singapore,Singapore,449875,Singapore,+65 8827 7490,,1.299047915954234,103.9061601,,,
-,Patro's Sports Bar and Restaurant,bar,920 East Coast Park,Parkland Green,,Singapore,Singapore,449875,Singapore,+65 6440 9372,,1.299292228877786,103.9066415,,,
-,Malt House,brewpub,685 East Coast Road,,,Singapore,Singapore,459054,Singapore,+65 6636 4436,https://www.malthouse.sg/,1.312025419150772,103.9216266,,,
-,Winery Tapas Bar @Chijmes,bar,30 Victoria Street,Chijmes,#B1-05,Singapore,Singapore,187996,Singapore,+65 8388 8850,https://www.thewinery.com.sg/chijmes/,1.2951320828701371,103.8527013306865,,,
-,Winery @Springvale,bar,907 East Coast Road,Springvale,#01-03,Singapore,Singapore,459107,Singapore,+65 9643 3188,https://www.thewinery.com.sg/siglap/,1.3129317454797864,103.9246936,,,
-,Jags@Siglap,bar,922 East Coast Road,,,Singapore,Singapore,459114,Singapore,+65 6241 2168,https://jags.com.sg/,1.312338406799028,103.9249077,,,
-,Bar Room,bar,899 East Coast Road,,,Singapore,Singapore,459102,Singapore,+65 9265 2461,,1.3128500369078353,103.9241232,,,
-,Hubs,bar,889 East Coast Road,,,Singapore,Singapore,459092,Singapore,+65 6908 8037,https://hubs.sg/,1.3127828115220286,103.9239284,,,
-,Masala Bar,bar,723 East Coast Road,,,Singapore,Singapore,459071,Singapore,+65 6282 4648,https://www.masalaabar.com/,1.312518816161274,103.922957,,,
-,Santai,bar,697D East Coast Road,,,Singapore,Singapore,459060,Singapore,+65 9732 4742,,1.3120292964810685,103.9221119,,,
-,Iza Local Izakaya,bar,695E East Coast Road,,,Singapore,Singapore,459059,Singapore,+65 6385 2883,,1.3118909225064634,103.9219623,,,
-,Platypus,bar,1 Raffles Link,Citylink Mall,#B1-23,Singapore,Singapore,039393,Singapore,+65 6908 1773,https://platypuscantina.net/,1.2930832027366579,103.85587808465772,,,
-,Platypus,bar,693 East Coast Road,,,Singapore,Singapore,459058,Singapore,+65 6320 3601,https://platypuscantina.net/,1.3119000040122457,103.921908,,,
-,JagWine,bar,384 East Coast Road,,,Singapore,Singapore,428988,Singapore,+65 6348 1778,https://www.jagwine.com/,1.3088733714988796,103.9116301,,,
-,Legacy,bar,274 East Coast Road,,,Singapore,Singapore,428942,Singapore,,,1.3082136591314375,103.9090124,,,
-,Kei Bar,bar,378 East Coast Road,,,Singapore,Singapore,428985,Singapore,+65 8292 6363,,1.3087788892433805,103.9112709,,,
-,Mels Place,bar,2A Kuo Chuan Ave,,,Singapore,Singapore,426897,Singapore,+65 6440 3573,https://melsplace.com.sg/,1.3077475195212973,103.9079025,,,
-,Tap Out Craft Beers,brewpub,103 East Coast Road,,,Singapore,Singapore,428797,Singapore,+65 8404 9144,https://tapoutcraftbeers.com/,1.3059135415297052,103.9043525,,,
-,Desi Firangi,bar,97 East Coast Road,,,Singapore,Singapore,428794,Singapore,+65 8518 4250,https://www.desifirangi.sg/,1.30586526758343,103.9041354,,,
-,Monks Brew Club,brewpub,57 East Coast Road,,,Singapore,Singapore,428773,Singapore,+65 8606 5690,https://monksbrew.club/,1.3052288634216105,103.9034599,,,
-,Lazy Sloth & Drunken Sloth,bar,41 East Coast Road,,,Singapore,Singapore,428761,Singapore,+65 6241 3933,,1.305092519750664,103.9029638,,,
-,Q-wa Bar Yakitori,bar,39 East Coast Road,,,Singapore,Singapore,428756,Singapore,+65 6348 9938,,1.3049374192656675,103.9029166,,,
-,Pigsfly Kitchen and Bar,bar,19 East Coast Road,,#01-03,Singapore,Singapore,428746,Singapore,+65 6348 2283,,1.3045323352253766,103.9024138,,,
-,Lower East Side,bar,19 East Coast Road,,#01-02,Singapore,Singapore,428746,Singapore,+65 6348 1302,,1.3045852951216796,103.9024387,,,
-,Asia Pacific Breweries Pte Ltd,large,459 Jalan Ahmad Ibrahim,,,Singapore,Singapore,639934,Singapore,+65 6861 6200,https://www.apbsingapore.com.sg/,1.336511131543926,103.64778327672454,,,
+4565a652-7e93-45d2-957b-738bb0b5a63b,Lower East Side,bar,19 East Coast Road,,#01-02,Singapore,Singapore,428746,Singapore,+65 6348 1302,,1.3045852951216796,103.9024387
+6e1689d8-3fde-4cfc-b8ca-2054c8fa20b5,Malt House,brewpub,685 East Coast Road,,,Singapore,Singapore,459054,Singapore,+65 6636 4436,https://www.malthouse.sg/,1.312025419150772,103.9216266
+7239ab18-8f23-4c56-9b53-27187bc0ab6b,Masala Bar,bar,723 East Coast Road,,,Singapore,Singapore,459071,Singapore,+65 6282 4648,https://www.masalaabar.com/,1.312518816161274,103.922957
+6c38c54f-6e64-44f9-b2e6-3d435c540b29,Mels Place,bar,2A Kuo Chuan Ave,,,Singapore,Singapore,426897,Singapore,+65 6440 3573,https://melsplace.com.sg/,1.3077475195212973,103.9079025
+7db027c1-8845-4f46-ba38-fddfa4b2e4c2,Monks Brew Club,brewpub,57 East Coast Road,,,Singapore,Singapore,428773,Singapore,+65 8606 5690,https://monksbrew.club/,1.3052288634216105,103.9034599
+d36e2c31-cee2-4199-ad4a-8cdf13cb4e51,Mooloolabar,bar,20 East Coast Road,,,Singapore,Singapore,428747,Singapore,+65 8500 4488,,1.304338624043325,103.9025629
+249bc0e5-0816-45db-98f3-adfdf97ac144,OMD Café,bar,12 East Coast Road,,,Singapore,Singapore,428723,Singapore,+65 8783 3494,,1.304190941656327,103.90239119743
+d74c242a-21e2-4817-873b-1314dff7770f,Patro's Sports Bar and Restaurant,bar,920 East Coast Park,Parkland Green,,Singapore,Singapore,449875,Singapore,+65 6440 9372,,1.299292228877786,103.9066415
+886981c9-f7df-4bc6-8d39-193176fe3d15,Pigsfly Kitchen and Bar,bar,19 East Coast Road,,#01-03,Singapore,Singapore,428746,Singapore,+65 6348 2283,,1.3045323352253766,103.9024138
+4d2fe5ef-0674-47fc-9c31-f88b75f2056a,Platypus,bar,1 Raffles Link,Citylink Mall,#B1-23,Singapore,Singapore,039393,Singapore,+65 6908 1773,https://platypuscantina.net/,1.2930832027366579,103.85587808465772
+5b10f972-8107-42f7-8023-85845934982d,Platypus,bar,693 East Coast Road,,,Singapore,Singapore,459058,Singapore,+65 6320 3601,https://platypuscantina.net/,1.3119000040122457,103.921908
+4073c00b-a6c5-4b1f-b9fd-3671fc10cff9,Q-wa Bar Yakitori,bar,39 East Coast Road,,,Singapore,Singapore,428756,Singapore,+65 6348 9938,,1.3049374192656675,103.9029166
+dd5de877-b112-412e-a58e-5b704fd71f92,Santai,bar,697D East Coast Road,,,Singapore,Singapore,459060,Singapore,+65 9732 4742,,1.3120292964810685,103.9221119
+c544e05c-deeb-4010-bf0d-aa10ad178d71,Tap Out Craft Beers,brewpub,103 East Coast Road,,,Singapore,Singapore,428797,Singapore,+65 8404 9144,https://tapoutcraftbeers.com/,1.3059135415297052,103.9043525
+e31f2a40-51ea-433b-ab68-a327ddd1d59b,The Runway Café and Bar,bar,20 Eastwood Road,Eastwood Centre,#01-14B,Singapore,Singapore,486442,Singapore,+65 9859 5348,,1.321709985797653,103.95543724232834
+398dfc78-dc36-4579-9f18-7240f4bf24a3,Winery @Springvale,bar,907 East Coast Road,Springvale,#01-03,Singapore,Singapore,459107,Singapore,+65 9643 3188,https://www.thewinery.com.sg/siglap/,1.3129317454797864,103.9246936
+66dad51b-f958-4aed-b924-8838dbc68937,Winery Tapas Bar @Chijmes,bar,30 Victoria Street,Chijmes,#B1-05,Singapore,Singapore,187996,Singapore,+65 8388 8850,https://www.thewinery.com.sg/chijmes/,1.2951320828701371,103.8527013306865
