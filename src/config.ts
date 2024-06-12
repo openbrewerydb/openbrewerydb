@@ -32,6 +32,7 @@ export const BREWERY_TYPES = [
   "proprietor",
   "regional",
   "taproom",
+  "beergarden"
 ] as const;
 
 export const papaParseOptions = {
