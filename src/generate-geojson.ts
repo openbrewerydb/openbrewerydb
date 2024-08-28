@@ -24,7 +24,12 @@ interface GeoJsonFeature {
 
 interface GeoJsonObject {
   type: "FeatureCollection";
-  crs: { type: string; properties: { name: string } };
+  crs: {
+    type: string;
+    properties: {
+      name: string;
+    };
+  };
   features: GeoJsonFeature[];
 }
 
@@ -60,7 +65,6 @@ try {
   if (geoJson.features.length) {
     console.log(`📝 Writing to ${jsonFilePath}`);
     writeFileSync(jsonFilePath, JSON.stringify(geoJson));
-
     console.log("Summary:");
     console.log(`🍺 Total Breweries: ${geoJson.features.length}`);
   }
