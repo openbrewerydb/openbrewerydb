@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-48-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-49-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -152,6 +152,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="http://johnhenryward.me/"><img src="https://avatars.githubusercontent.com/u/43694168?v=4?s=100" width="100px;" alt="JohnHenry"/><br /><sub><b>JohnHenry</b></sub></a><br /><a href="#data-JohnHenry-Ward" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jose-Alfredo-Garcia"><img src="https://avatars.githubusercontent.com/u/68479370?v=4?s=100" width="100px;" alt="Alfredo Garcia"/><br /><sub><b>Alfredo Garcia</b></sub></a><br /><a href="#data-Jose-Alfredo-Garcia" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Qerewe"><img src="https://avatars.githubusercontent.com/u/20256930?v=4?s=100" width="100px;" alt="Qerewe"/><br /><sub><b>Qerewe</b></sub></a><br /><a href="#data-Qerewe" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://portfolio.nathan-peters.me/"><img src="https://avatars.githubusercontent.com/u/77593152?v=4?s=100" width="100px;" alt="Nathan Peters"/><br /><sub><b>Nathan Peters</b></sub></a><br /><a href="#data-nathanpeters8" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
