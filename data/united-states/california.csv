@@ -182,7 +182,7 @@ a702447d-f43b-4aab-80a7-1c3c0f40b1c7,Cebula Craft Brewing LLC dba GameCraft Brew
 7d69186e-193b-47cd-84dc-60ccdea2b1b3,Cellarmaker Brewing Company,micro,1150 Howard St,,,San Francisco,California,94103-3914,United States,4158633940,http://www.cellarmakerbrewing.com,-122.4106996,37.7771589
 b067aab3-c4e6-4417-b84f-3f8b4290084b,Central Coast Brewing Co - Higuera St.,brewpub,6 Higuera St.,,,San Luis Obispo,California,93401,United States,8057832739,,-120.6709908,35.2651725
 ec8490e6-a241-47af-8746-eb5f95a2012f,Central Coast Brewing Co - Monterey St.,micro,1422 Monterey St Ste B100,,,San Luis Obispo,California,93401-2900,United States,8057832739,http://www.centralcoastbrewing.com,-120.655724,35.28597462
-6ee6cc71-b24b-481e-95f3-05bdefbaa41d,Cerveceria Del Pueblo,planning,,,,Pasadena,California,91105-1822,United States,,,-118.1444779,34.1476452
+6ee6cc71-b24b-481e-95f3-05bdefbaa41d,Cerveceria Del Pueblo,micro,141 W Bellevue Dr,#100,,Pasadena,California,91105-1822,United States,6266587652,https://www.cerveceriadelpueblo.com/,-118.1532146753971,34.13866636119097
 60b2dd42-d68e-482b-a6a9-5b67213fd4d4,Channel Brewing Co.,micro,110 N San Joaquin St,,,Stockton,California,95209-4506,United States,2094904133,http://www.channelbrewing.co,-121.2874106,37.95439196
 96ac0045-d677-4fe5-8dba-ba3fca9f2fe1,Chapman Crafted Beer,micro,123 N Cypress St,,,Orange,California,92866-1309,United States,8448552337,http://www.chapmancrafted.beer,-117.856454,33.788493
 468df106-530f-47c1-956a-8544beb7c6d6,Chau Tien Beer Company,contract,,,,Fairfield,California,94533-0244,United States,7072808044,http://www.paleale.com,-122.0399663,38.2493581
@@ -205,7 +205,7 @@ b8ad748d-59b1-4860-a062-94cad3f77a70,Cismontane Brewing Co,micro,1409 E Warner A
 5b5da0b9-7219-4bcf-a841-ceb5388ef7da,Coastal Star Brewing Company,planning,,,,Santa Maria,California,93455-1722,United States,8053284677,http://www.coastalstarbrewing.com,-120.4358577,34.9531295
 7c7015c0-c7af-41f9-bab3-1cb9e4db0c7f,Cold Water Brewery and Grill,brewpub,2544 Lake Tahoe Blvd,,,South Lake Tahoe,California,96150-7707,United States,5305444677,http://www.tahoecoldwaterbrewery.com,-119.986213,38.925231
 be75d031-fb04-4805-9de2-962ea65fe830,Common Space Brewery,micro,3411 W El Segundo Blvd,,,Hawthorne,California,90250-4816,United States,3106662825,http://www.commonspace.la,-118.3328574,33.91653119
-e75b5599-7133-4cb8-ab49-0048d0f4443a,Congregation Ales,micro,619 N Azusa Ave Ste C,,,Azusa,California,91702-2910,United States,6263342337,http://www.congregationalehouse.com,-117.9077193,34.13260803
+e75b5599-7133-4cb8-ab49-0048d0f4443a,Congregation Brewery & Cocina - Azusa,brewpub,619 N Azusa Ave,,,Azusa,California,91702-2910,United States,6263342337,https://congregationbreweryandcocina.com/,-117.9071466142403,34.13253856094962
 9e9d2ed9-ee58-44ce-8694-374196db165e,Constellation Brands,closed,9045 Caroll Way,,,San Diego,California,92121,United States,,,-117.1578979,32.88808261
 9df45ed5-3546-43e7-a1dd-3311c0c1176b,Converge Brewing Company,planning,,,,Paso Robles,California,93446-8360,United States,3076908538,,-120.6912456,35.6267654
 2e6814a0-f256-4825-8f63-edad88ba3736,Cool Beerwerks,brewpub,5020 Ellinghouse Dr,,,Cool,California,95614-9569,United States,5308855866,http://www.cbwbeer.com,-121.0145495,38.88649696
@@ -911,3 +911,8 @@ bb0fca35-1169-4881-b032-27ca29deaced,Yolo Brewing Co,micro,1520 Terminal St,,,We
 76b3e4f1-7075-4881-ac9a-f5462fb44dca,Yorkshire Square Brewing Co.,micro,1109 Van Ness Ave,,,Torrance,California,90501-2236,United States,4243765115,http://www.yorkshiresquarebrewery.com,-118.3163507,33.83720085
 0b194fbf-8dd6-4a88-848f-4a784af05c1c,Zone 9 Brewing Company,micro,1450 Tollhouse Rd Ste 105,,,Clovis,California,93611-0503,United States,5592600539,,-119.6906567,36.82610331
 e9d9a4ad-9583-4b07-846a-d99aeb5ea706,Zymurgy Brew Works,micro,22755 Hawthorne Blvd,,,Torrance,California,90505-3613,United States,3106502474,http://www.zymurgybrewworks.com,-118.3524672,33.8635371
+,Wild Parrot Brewing Company,micro,2302 E Colorado Blvd,,,Pasadena,California,91107,United States,6265293150,https://www.wildparrotbrewing.com/,-118.1030564,34.14610329
+,Campsite Brewing Company,brewpub,321 E Front St,,,Covina,California,91723,United States,6263801467,https://www.campsitebrewingco.com/,-117.88386203143791,34.09186700794698
+,Beer Thug Brewing Company,micro,4400 Gage Ave,,,Bell,California,90201,United States,2133068955,https://www.beerthugbrew.com/,-118.18860164470873,33.978161447334536
+,Benny Boy Brewing,micro,1821 Daly St,,,Los Angeles,California,90031,United States,,https://bennyboybrewing.com/,-118.21606709577259,34.06425931821174
+,Congregation Brewery & Cocina - Pasadena,brewpub,300 S Raymond Ave,,,Pasadena,California,91105,United States,6264032337,https://congregationbreweryandcocina.com/,-118.14557859162267,34.14138359750164
