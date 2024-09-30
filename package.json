@@ -19,6 +19,7 @@
     "csv:combine": "ts-eager ./src/combine-csv.ts",
     "csv:split": "ts-eager ./src/split-csv.ts",
     "generate:json": "ts-eager ./src/generate-json.ts",
+    "generate:map-json": "ts-eager ./src/generate-map-json.ts",
     "generate:sql": "ts-eager ./src/generate-sql.ts",
     "validate": "ts-eager --unhandled-rejections=strict ./src/validate-csv.ts",
     "workflow:maintain": "run-s validate csv:combine csv:split generate:json generate:sql"
