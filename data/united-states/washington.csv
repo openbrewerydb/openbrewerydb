@@ -1,12 +1,11 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-03118499-a3d0-4c22-860d-4529509ae095,Quilbilly's Restaurant and Taproom,brewpub,294793 US Highway 101,,,Quilcene,Washington,98376-9000,United States,3607656485,https://www.quilbillys.com,-122.8755823,47.82347577
 e54c2f02-acd6-4172-861d-fcfa54c8701a,122 West Brewing Co,closed,2416 Meridian St,,,Bellingham,Washington,98225-2405,United States,3603063285,https://www.122westbrew.com/,-122.485982,48.7621709
 4ccad9b9-f9cf-4d21-b6d5-ab005ee1532d,192 Brewing,micro,7324 NE 175th St,,,Kenmore,Washington,98028-2500,United States,4254242337,http://www.192brewing.com,-122.2415652,47.75670075
 64a48d9e-08e9-45e3-83ca-f00d24bb7e49,20 Corners Brewing LLC,brewpub,14148 NE 190th St Ste A,,,Woodinville,Washington,98072-8437,United States,4253755223,http://www.20cornersbrewing.com,-122.1517007,47.76864301
 c018299b-db2d-438b-b58c-ecaa0f07a0df,210 Brewing Co,brewpub,3438 Stoluckquamish Ln,,,Arlington,Washington,98223-9056,United States,3604749740,http://www.angelofthewind.com,-122.18421,48.215096
 e05dc493-284f-4ece-995e-19899398f077,238 Brewing Company,closed,10321 E Day Mt Spokane Rd,,,Mead,Washington,99021,United States,5092382739,http://www.238brewing.com,,
 7c669ae6-460d-476b-bc56-0b4d566a152c,4 Stitch Brewing Co - Brewery & Taproom,taproom,16709 9th Ave SE,,,Mill Creek,Washington,98012-6309,United States,4252247583,https://www.4stitchbrewing.com,-122.21991381534453,47.84671432549031
-,4 Stitch Brewing Co - Taproom & Kitchen,brewpub,5817 238th St SE Ste 3,,,Woodinville,Washingon,98072-8669,United States,4252866004,https://www.4stitchbrewing.com,-122.15488674811915,47.782473284417534 
+b237e2d5-dabc-41f9-a3ff-2b4e3f3a9c8e,4 Stitch Brewing Co - Taproom & Kitchen,brewpub,5817 238th St SE Ste 3,,,Woodinville,Washington,98072-8669,United States,4252866004,https://www.4stitchbrewing.com,-122.15488674811915,47.782473284417534
 257e9aac-7dbe-4656-b366-9d8a94c49d58,5 North Brewing Company,closed,6501 N Cedar Rd,,,Spokane,Washington,99208,United States,5093217818,http://5northbrewingcompany.com/,-117.4328496,47.71758683
 5c99b790-e00d-4ca6-86a5-37723f728690,5 Rights Brewing Co,micro,1514 3rd St,,,Marysville,Washington,98270,United States,4253341026,http://www.5rightsbrewing.com,-122.1762906,48.05156015
 4d878d25-a8fb-49e7-93da-56d229bf46ff,54-40 Brewing Company,brewpub,3801 S Truman Rd Ste 1,,,Washougal,Washington,98671-2589,United States,3609077062,http://www.54-40brewing.com,-122.3269349,45.56577849
@@ -55,8 +54,8 @@ d246dbd2-5991-48f5-9e47-3bca8b6027f0,Bent Bine Brew Co. LLC,brewpub,23297 WA-3,,
 0f7cb775-114f-4c6f-ad6b-4a3552568d91,Bickerson's Brewhouse,micro,4710 NE 4th St #C105,,,Renton,Washington,98059,United States,4254422347,https://www.bickersonsbrewhouse.com,-122.1555405,47.48904979
 b9237ad4-42fd-43e1-a953-19fc451f9601,Big Barn Brewing Co / Bodacious Berries Fruits and Brews,micro,16004 N Applewood Ln,,,Mead,Washington,99021-7818,United States,5097102961,http://www.bigbarnbrewing.com,-117.266079,47.80652793
 d05957b0-56af-4e14-8e32-326fa3769253,Big Block Brewing,micro,3310 E Lake Sammamish Pkwy SE,,,Sammamish,Washington,98075-7497,United States,4254570515,https://www.bigblockbrewery.com/sammamish-taproom,-122.07474,47.57926212
+67d3c520-42cb-481f-9256-dfb29c62c3b4,Big Block Brewing - Carnation Taproom,micro,4534 Tolt Ave,,,Carnation,Washington,98014-7627,United States,4255490018,https://www.bigblockbrewery.com/carnation-taproom,-121.91366040290218,47.648469887926765
 e4631ae5-8fbe-4576-8d03-cd284bec84cd,Big Block Brewing - Redmond Taproom,micro,14950 NE 95th St,,,Redmond,Washington,98052-2500,United States,4256583644,https://www.bigblockbrewery.com/redmond-taproom,-122.1410868,47.68654123
-,Big Block Brewing - Carnation Taproom,micro,4534 Tolt Ave,,,Carnation,Washington,98014-7627,United States,4255490018,https://www.bigblockbrewery.com/carnation-taproom,-121.91366040290218,47.648469887926765
 a1964010-0e7c-4bd0-9da1-1aef938faf44,Big Time Brewery,brewpub,4133 University Way NE,,,Seattle,Washington,98105-6213,United States,2065454509,http://www.bigtimebrewery.com,-122.3135759,47.65785225
 10617c0b-c29a-4e60-bd3d-5e4d56649398,BirdsView Brewing Co,micro,38302 State Route 20,,,Concrete,Washington,98237-9460,United States,3608263406,http://www.birdsviewbrewingcompany.com,-121.7378167,48.5357818
 283ac187-d4fb-4859-b536-3a4566d9631a,BJs Restauraunt & Brewhouse,brewpub,4502 S. Steele St. Suite 1500,,,Tacoma,Washington,98409-7277,United States,2534721220,https://www.bjsrestaurants.com/locations/wa/tacoma,-122.467515,47.214875
@@ -79,21 +78,20 @@ fa8b32bf-0499-4fdb-990e-a2b1d1fead6c,Brick West Brewing Co,micro,1318 W 1st Ave,
 809d5238-5077-4731-82fa-7ec6d4ca10d9,Brother Ass Brewing,micro,11700 NE 54th Ct,,,Vancouver,Washington,98686-4589,United States,3606073275,http://www.brotherassbrewing.com,-122.6170235,45.70699686
 c657e584-d468-40a7-835a-aa0bd8ecbf92,Brothers Cascadia Brewing,micro,9811 NE 15th Ave,,,Vancouver,Washington,98665-9102,United States,3607188927,http://www.brotherscascadiabrewing.com,-122.6553318,45.6499058
 6a5fa9b2-e8fe-4156-8a2a-d27e5b678ddd,Brouwerij Les Deplorables,nano,19812 163rd Ave NE,,,Woodinville,Washington,98072-7027,United States,2067902496,,-122.1225485,47.7711936
+245f05e1-8216-45f4-9a5d-d8f6f600719a,Buckwheat Brewing,brewpub,148 E Main St,,,Dayton,Washington,99328-1351,United States,5093824677,https://buckwheatbrewing.com,-117.9811345,46.3192285
 28001115-35a0-41eb-93f3-c5f2de448461,Buffalo Brewing Co,planning,790 Hop Rd,,,Toppenish,Washington,98948-9674,United States,,,-120.1634675,46.23727233
 b340b266-417c-42f7-8344-1545ced2ee6c,Burdick Brewery,closed,8520 14th Ave S,,,Seattle,Washington,98108-4803,United States,2069099632,http://www.burdickbrewery.com,-122.3145617,47.5267286
 a743ab27-0175-4ef3-b65f-1d5e67af200a,Burke-Gilman Brewing,micro,3626 NE 45th St Ste 102,,,Seattle,Washington,98105-5652,United States,2062680220,http://www.burkegilmanbrewing.com/,-122.2880715,47.66183205
 3b6721e6-29b6-4eeb-81e5-a105fa4178d4,Burwood Brewing Company,micro,1120 E St,,,Walla Walla,Washington,99362-9505,United States,5098766220,http://www.burwoodbrewing.com,-118.2653286,46.0940928
 0254d394-bf18-4793-900b-7320ae176e3c,Cairn Brewing,micro,7204 NE 175th St,,,Kenmore,Washington,98028-3561,United States,4259495295,http://www.cairnbrewing.com,-122.2440866,47.7571424
 4a928417-cd54-4806-9085-98b4d47f8e81,Camp Colvos Brewing,micro,17636 Vashon Hwy SW,,,Vashon,Washington,98070-6052,United States,2069473527,http://www.campcolvos.com,-122.4602697,47.44701386
-8c73e22d-9012-4515-b769-94cd608c90a5,Ridgefield Craft Brewing Co Taphouse,micro,120 N 3rd Ave,,,Ridgefield,Washington,98642-3805,United States,3607273046,https://ridgefieldcraftbrewing.com,-122.7447476731583,45.816050857668635
 846e6b9a-e4ea-46ae-9597-fbdcdc4568c7,Cardinal Craft Brewing Academy/ Skagit Valley College,micro,15579 Peterson Rd,,,Burlington,Washington,98233-3625,United States,3604162537,http://www.skagit.edu,-122.3533958,48.4719343
 2e7ae73a-42cf-4e35-89c2-41d5557727eb,Cascadia Brewing Co.,closed,211 4th Ave E,,,Olympia,Washington,98501-1104,United States,3609432337,http://www.cascadiahomebrew.com,-122.900174,47.04491273
 37adfb0e-f64e-4e66-98d9-9dde6a7df11d,Cash Brewing Company,closed,3388 NW Byron St Ste 100,,,Silverdale,Washington,98383-8548,United States,3606337852,http://www.cashbrewing.com,,
 10bbba8b-368e-4c6e-adeb-cc6ff7faa782,Chainline Brewing Company,closed,503 6th St S,,,Kirkland,Washington,98033-6717,United States,4252420923,http://www.chainlinebrewing.com,-122.1967583,47.6717847
+6df522c7-de96-4790-a66a-510f9591b7a2,Chainline Brewing Company - Chainline Station,taproom,604 5th Pl S,,,Kirkland,Washington,98033-6673,United States,4255424550,https://chainlinebrewing.com,-122.1981685452286,47.67063909134697
 9a5923b4-e597-40e8-8b91-8ae103c1fa03,Chainline Brewing Company Taproom at Urban,micro,500 Uptown Ct Ste 210,,,Kirkland,Washington,98033-5375,United States,4252420923,http://www.chainlinebrewing.com,-122.19855,47.67924
-,Chainline Brewing Company - Chainline Station,taproom,604 5th Pl S,,,Kirkland,Washington,98033-6673,United States,4255424550,https://chainlinebrewing.com,-122.1981685452286,47.67063909134697
 50f44b4d-4e59-4fbb-9a62-f10bb61496c5,Chaos Bay Brewing Co,micro,2901 Perry Ave,,,Bremerton,Washington,98310-4945,United States,3603772344,https://www.chaosbaybrewing.com,-122.6145084,47.58932601
-245f05e1-8216-45f4-9a5d-d8f6f600719a,Buckwheat Brewing,brewpub,148 E Main St,,,Dayton,Washington,99328-1351,United States,5093824677,https://buckwheatbrewing.com,-117.9811345,46.3192285
 44b14d44-1156-467f-b3dc-c04127bccc6f,Chuckanut - South Nut,micro,11937 Higgins Airport Way,,,Burlington,Washington,98233-5312,United States,3607523377,https://chuckanutbrewery.com/south-nut/,-122.411968,48.473804
 813e88ed-ddef-4c0c-9151-66ab6f745a2e,Chuckanut Brewery - North Nut,closed,601 W Holly St,,,Bellingham,Washington,98225-3920,United States,3607523377,https://chuckanutbrewery.com/north-nut/,-122.4851164,48.7533261
 6305c46c-4977-4df8-9f2e-fc98709f971f,Circle 7 Brew Works,closed,20290 Corbridge Rd SE,,,Monroe,Washington,98272-8602,United States,2067470269,,-121.9584645,47.86794845
@@ -345,6 +343,7 @@ f50b650c-b23f-4c28-aaf0-e41b540df87b,Propolis Brewing LLC,micro,2457 Jefferson S
 64ef6c86-1c4e-41aa-983f-3a380b552973,Puyallup River Brewing Co,closed,,,,Puyallup,Washington,98375-6923,United States,2535908219,http://www.puyallupriverbrewing.com,,
 07b5c626-a59e-4b2c-894e-e940ec87d094,Pyramid Breweries / North American Breweries,brewpub,1201 1st Ave S,,,Seattle,Washington,98134-1238,United States,2066823377,http://www.pyramidbrew.com,-122.33477,47.5920086
 79a8d058-2314-4b8b-b1ce-e125ca04e45b,Quartzite Brewing Company,micro,105 W Main Ave,,,Chewelah,Washington,99109-9257,United States,5099363686,https://quartzitebrewco.business.site,-117.71646,48.27618
+03118499-a3d0-4c22-860d-4529509ae095,Quilbilly's Restaurant and Taproom,brewpub,294793 US Highway 101,,,Quilcene,Washington,98376-9000,United States,3607656485,https://www.quilbillys.com,-122.8755823,47.82347577
 5185fd8b-4369-4613-a595-5e9c06f624b6,Quirk Brewing,micro,425 B St,,,Walla Walla,Washington,99362-2265,United States,,,-118.2755318,46.0913886
 5a8a414d-d2a5-4ca8-b436-27d5571bd56c,Rail Hop'n Brewing Co,micro,122 W Main St Ste 101B,,,Auburn,Washington,98001-4924,United States,2532176800,http://www.railhopn.com,-122.2290885,47.3120419
 d370a13b-1914-4da8-a6c9-253d6406e0bb,Railside Brewing,micro,309 NE 76th St,,,Vancouver,Washington,98665-8210,United States,3609078582,http://www.railsidebrewing.com,-122.66809623083395,45.67701328155718
@@ -363,6 +362,7 @@ f6774aa1-f73e-42d5-bf3b-3f2e3e81b3a6,Redifer Brewing Co,micro,123 E Yakima Ave,,
 551c4a45-2563-4d1d-b6dc-651218ebd690,Resonate Brewery + Pizzeria,brewpub,5606 119th Ave SE,,,Bellevue,Washington,98006-3754,United States,4256443164,http://www.resonatebrewery.com,-122.1774828,47.5523206
 781c0940-c556-433d-8ca2-202fc631629d,Reuben's Brews,micro,1133 NW 51st St,,,Seattle,Washington,98107-5126,United States,2067842859,http://www.reubensbrews.com,-122.3721641,47.6655088
 262002b9-b5bd-4de4-92b2-266a1f21fbdf,Reuben's Brews Taproom,micro,5010 14th Ave NW,,,Seattle,Washington,98107-5113,United States,2067842859,http://www.reubensbrews.com,-122.3732468,47.6654087
+8c73e22d-9012-4515-b769-94cd608c90a5,Ridgefield Craft Brewing Co Taphouse,micro,120 N 3rd Ave,,,Ridgefield,Washington,98642-3805,United States,3607273046,https://ridgefieldcraftbrewing.com,-122.7447476731583,45.816050857668635
 431908ce-6f85-4d24-bf4a-da70495754a5,River City Brewing,micro,121 S Cedar St,,,Spokane,Washington,99201-6500,United States,9043982299,http://www.rivercitybrew.com,-117.4323508,47.65605308
 e8c5b1f3-a823-485f-8f68-050c88adbe12,River Mile 38 Brewing Co,micro,285 3rd St,,,Cathlamet,Washington,98612-9561,United States,3603554662,http://www.rivermile38.com,-123.3853742,46.2054338
 9d9082d8-b3f1-47c4-b068-b3b8a272b2b5,River Time Brewing,brewpub,650 Emens Ave S,,,Darrington,Washington,98241,United States,2674837411,http://www.rivertimebrewing.com,-121.6020402,48.24905291
