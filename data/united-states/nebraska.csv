@@ -1,5 +1,5 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-,APEShip Brewing,micro,520 N Dewey St,,,North Platte,Nebraska,69101-3913,United States,3085689433,https://apeshipbrewing.com,-100.75354430574538,41.18156626078701
+6d598adb-bca7-42d8-99b6-4f2074bc8aee,APEShip Brewing,micro,520 N Dewey St,,,North Platte,Nebraska,69101-3913,United States,3085689433,https://apeshipbrewing.com,-100.75354430574538,41.18156626078701
 08d2efda-af3e-4611-b8c6-d5c46af4c7a6,Backswing Brewing Co.,micro,500 W South St Ste 8,,,Lincoln,Nebraska,68522-1744,United States,4024135576,http://www.backswingbrewing.com,-96.7274091,40.7922193
 7466d420-8ee9-41b1-8794-f9618df77361,Barley Boys Brewery,planning,,,,Omaha,Nebraska,68144-1922,United States,4025986096,http://www.barleyboysbrewery.com,,
 c74f06ec-3978-451b-88b4-92d813b11903,Benson Brewery,brewpub,6059 Maple St,,,Omaha,Nebraska,68104-4050,United States,4029348668,http://www.bensonbrewery.com,-96.00634511,41.28489756
@@ -12,7 +12,7 @@ b98d7721-ffac-4618-8fd5-7ae3c61255b5,Bottle Rocket Brewing Co,micro,230 S 5th St
 77565858-e764-4dfd-9657-1a21fc5f7eb5,Brickway Brewery and Distillery,micro,1116 Jackson St,,,Omaha,Nebraska,68102-2825,United States,4029332613,http://www.drinkbrickway.com,-95.93090524,41.25449082
 5349a160-b8e9-4447-bb32-947718daf82f,Brush Creek Brewing Company,brewpub,102 N Main St,,,Atkinson,Nebraska,68713-4946,United States,4029252629,https://www.brushcreekbrewingcompany.com,-98.97836727,42.53141502
 a7ba0514-376a-46d5-9827-230e5467c0bb,Code Beer Co.,micro,200 S Antelope Valley Pkwy,,,Lincoln,Nebraska,68510-1016,United States,4023185888,http://www.codebeer.co,-96.69344422,40.8123075
-,Corn Coast Brewing Company,micro,1433 Dahlberg Dr,,,Lincoln,Nebraska,68512-9267,United States,4024132288,https://www.corncoastbrewing.com,-96.70835109719759,40.77659900329594
+af950b93-c6c2-42b4-a341-f24b75bbbfb4,Corn Coast Brewing Company,micro,1433 Dahlberg Dr,,,Lincoln,Nebraska,68512-9267,United States,4024132288,https://www.corncoastbrewing.com,-96.70835109719759,40.77659900329594
 6b743f23-0d8a-4cb5-9ea1-2fdaad3dde93,Cosmic Eye Brewing,micro,6800 P St #300,,,Lincoln,Nebraska,68505-2463,United States,5315002739,http://www.cosmiceye.beer,-96.6271153,40.8154683
 4e240752-baf7-4fb7-8f32-c22e7a1e9933,Divots Brewery,brewpub,4200 W Norfolk Ave,,,Norfolk,Nebraska,68701-9202,United States,4028442985,http://www.divotsbrewery.com,-97.466386,42.032539
 b9675043-285f-4bc2-bb74-2d14bbd4840f,Empyrean Brewing Co,micro,729 Q St,,,Lincoln,Nebraska,68508-1536,United States,4024345970,http://www.empyreanbrewingco.com,-96.7105429,40.8155873
@@ -20,13 +20,13 @@ ff7683a0-1be0-4ac4-a538-91e45d7db527,Fairfield Opera House Brewery,brewpub,415 N
 e07da07f-d0a7-46e5-ac44-190dbff63bfa,Farnam House Brewing Company,brewpub,3558 Farnam St,,,Omaha,Nebraska,68131-3304,United States,4024016086,http://www.farnamhousebrewing.com,-95.96580178,41.2578153
 78965a98-743a-4f7c-8338-ee6c548e73db,First Street Brewing,micro,119 N St Joseph Ave,,,Hastings,Nebraska,68901-7553,United States,4028342400,http://www.firststreetbrewing.com,-98.3877198,40.5844989
 d4af7a8e-f8de-40e8-91cd-b09c827fe215,Flyover Brewing Co,brewpub,1824 Broadway,,,Scottsbluff,Nebraska,69361-2458,United States,3085750335,https://www.flyoverbrewingcompany.com,-103.6629749,41.8651034
-,Frontier Frau,micro,114 W 7th St,,,Cozad,Nebraska,69130-1726,United States,3087841000,https://frontierfrau.com,-99.97815910574538,40.90227874836971
+7ddbc44a-d8f3-47f9-a9fa-a014775afb77,Frontier Frau,micro,114 W 7th St,,,Cozad,Nebraska,69130-1726,United States,3087841000,https://frontierfrau.com,-99.97815910574538,40.90227874836971
 c8289fce-485f-454c-9065-c699a7eeb6e3,Gottberg Brew Pub,brewpub,2804 13th St,,,Columbus,Nebraska,68601-4919,United States,4025626488,http://www.dustersrestaurant.com,-97.3621271,41.42940061
 92f4e0c5-ec29-40e4-8798-019f1bbded65,Granite City Food & Brewery (#16),brewpub,1001 N 102nd St,,,Omaha,Nebraska,68114-2155,United States,4023935000,http://www.gcfb.net,-96.071539,41.268008
 fe235f51-102d-4240-b5c9-b0adf45b5b92,Granite City Food & Brewery (#7),brewpub,6200 O St,,,Lincoln,Nebraska,68510-2240,United States,4024661900,http://www.gcfb.net,-96.6872327,40.8135885
 81bda7fc-e284-4140-b2b0-7d43f5ad9212,Green Flash Brewing Co,closed,1630 P St,,,Lincoln,Nebraska,68508-1644,United States,4029752285,,-96.69768022,40.81481116
 344298b7-4657-4f82-88e7-4e558131da4e,Hanging Horseshoe Brewing Company,micro,73892 332 Ave,,,Imperial,Nebraska,69033-3034,United States,3088827772,,-101.64814,40.536221
-,Heavy Brewing,micro,20333 Patton St,,,Gretna,Nebraska,68028-8048,United States,5316008245,https://heavybrewing.beer,-96.23813291528894,41.19883173811541
+b0860796-6b61-4e66-bc0e-4c50a273d385,Heavy Brewing,micro,20333 Patton St,,,Gretna,Nebraska,68028-8048,United States,5316008245,https://heavybrewing.beer,-96.23813291528894,41.19883173811541
 a6ccf0f3-1496-479a-8108-56b641ec3922,Highway 14 Brewing Company,micro,134 S 4th St,,,Albion,Nebraska,68620-1216,United States,4023958733,http://hwy14brewingco.com,-98.001389,41.6922
 2cea348d-f05f-471b-a911-79a5ed5b4262,Infusion Brewing Company - Benson,micro,6115 Maple St,,,Omaha,Nebraska,68104-4043,United States,4029342064,http://www.infusionbrewing.com,-96.007724,41.284907
 8f012711-6e6e-4f02-ab5c-e67a5c6e5c44,Infusion Brewing Company - Southwest,micro,6271 S 118th St,,,Omaha,Nebraska,68137-3574,United States,4029342064,http://www.infusionbrewing.com,-96.0980711,41.2077948
@@ -56,7 +56,7 @@ cb1ffe91-e2d8-44fc-81e3-1e8a742a7843,Scratchtown Brewing Company,micro,141 S 16t
 9164b9c4-f14f-41ef-851f-994b79502e3d,Steeple Brewing Co,micro,717 W 1st St,,,Hastings,Nebraska,68901,United States,4025194205,http://www.steeplebrewing.com,-98.39024973,40.58418233
 e0a66be0-edf0-405e-b6cb-44dcff79fac5,Stone Hollow Brewing Company,micro,301 Court Street,,,Beatrice,Nebraska,68310,United States,4028064664,https://www.stonehollowbrewing.com,-96.7506365,40.265751
 1d1f1c20-d34b-4fa5-85fa-7f2da4091b4c,Thunderhead Brewing Co,brewpub,18 E 21st St,,,Kearney,Nebraska,68847-5402,United States,3082371558,http://www.thunderheadbrewing.com,-99.080732,40.69665183
-,Upper Room Brewery,micro,1540 W 56th St Ste D,,,Kearny,Nebraska,68845-1036,United States,3082516227,https://upperroombrewery.com,-99.09748753661616,40.74481414811827
+edefea44-cd3f-42b5-8a5d-9f5db3eac76e,Upper Room Brewery,micro,1540 W 56th St Ste D,,,Kearny,Nebraska,68845-1036,United States,3082516227,https://upperroombrewery.com,-99.09748753661616,40.74481414811827
 076ee5fa-1801-4360-9727-3a3620c1013d,Upstream Brewing Co (#1),brewpub,514 S 11th St,,,Omaha,Nebraska,68102-2808,United States,4023440200,http://www.upstreambrewing.com,-95.9308408,41.2547107
 e3f7a311-cddb-4810-9fb8-32bca371f72c,Vis Major Brewing Co,brewpub,3501 Center St,,,Omaha,Nebraska,68105-2423,United States,4028844082,http://www.vismajorbrewing.com,-95.964461,41.241419
 5de62477-b829-4c11-8120-471c19fd52e6,White Elm Brewing Co,micro,720 Van Dorn St,,,Lincoln,Nebraska,68502-3353,United States,4022616078,http://www.whiteelmbrewing.com,-96.7167126,40.7856925
