@@ -291,8 +291,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 > Last updated: 2024-11-01
 
 ### Overview
-- Total Breweries: 8355
-- Data Completeness: 78%
+- Total Breweries: 8,355
+- Data Completeness: 78.0%
 
 ### 🏛 Top 10 States by Brewery Count
 | State | Count |
@@ -310,24 +310,24 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
-|------|-------|------------|
-| micro | 4305 | 52% |
-| brewpub | 2500 | 30% |
-| planning | 684 | 8% |
-| regional | 225 | 3% |
-| closed | 216 | 3% |
-| contract | 192 | 2% |
-| large | 90 | 1% |
-| proprietor | 69 | 1% |
-| bar | 37 | 0% |
-| taproom | 20 | 0% |
-| nano | 13 | 0% |
-| beergarden | 3 | 0% |
-| location | 1 | 0% |
+|------|--------|------------|
+| micro | 4,305 | 51.5% |
+| brewpub | 2,500 | 29.9% |
+| planning | 684 | 8.2% |
+| regional | 225 | 2.7% |
+| closed | 216 | 2.6% |
+| contract | 192 | 2.3% |
+| large | 90 | 1.1% |
+| proprietor | 69 | 0.8% |
+| bar | 37 | 0.4% |
+| taproom | 20 | 0.2% |
+| nano | 13 | 0.2% |
+| beergarden | 3 | 0.0% |
+| location | 1 | 0.0% |
 
 ### 🌆 Top 10 Cities by Brewery Count
 | City | Count |
-|------|-------|
+|------|--------|
 | Denver, Colorado | 92 |
 | San Diego, California | 91 |
 | Portland, Oregon | 85 |
@@ -339,19 +339,19 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Minneapolis, Minnesota | 38 |
 | Cincinnati, Ohio | 34 |
 
-### 📋 Data Field Completeness
-| Field | Completion Rate |
-|-------|----------------|
-| name | 100% |
-| brewery_type | 100% |
-| city | 100% |
-| state_province | 100% |
-| postal_code | 100% |
-| country | 100% |
-| address_1 | 91% |
-| phone | 90% |
-| website_url | 86% |
-| longitude | 72% |
-| latitude | 72% |
-| address_2 | 1% |
-| address_3 | 0% |
+### 📋 Data Completeness by Field
+| Field | Completeness |
+|-------|-------------|
+| name | 100.0% |
+| brewery_type | 100.0% |
+| city | 100.0% |
+| state_province | 100.0% |
+| postal_code | 100.0% |
+| country | 100.0% |
+| address_1 | 91.0% |
+| phone | 90.0% |
+| website_url | 86.0% |
+| longitude | 72.0% |
+| latitude | 72.0% |
+| address_2 | 1.0% |
+| address_3 | 0.0% |

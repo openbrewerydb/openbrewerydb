@@ -86,38 +86,41 @@ function formatStats(stats: BreweryStats): string {
 > Last updated: ${lastUpdated}
 
 ### Overview
-- Total Breweries: ${stats.totalBreweries}
-- Data Completeness: ${stats.completeness.total}%
+- Total Breweries: ${stats.totalBreweries.toLocaleString()}
+- Data Completeness: ${stats.completeness.total.toFixed(1)}%
 
 ### 🏛 Top 10 States by Brewery Count
 | State | Count |
 |-------|-------|
 ${Object.entries(sortedByCount(stats.byState))
   .slice(0, 10)
-  .map(([state, count]) => `| ${state} | ${count as number} |`)
+  .map(([state, count]) => `| ${state} | ${(count as number).toLocaleString()} |`)
   .join('\n')}
 
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
-|------|-------|------------|
+|------|--------|------------|
 ${Object.entries(sortedByCount(stats.byType))
-  .map(([type, count]) => `| ${type} | ${count as number} | ${Math.round((count as number / stats.totalBreweries) * 100)}% |`)
+  .map(([type, count]) => {
+    const percentage = ((count as number / stats.totalBreweries) * 100).toFixed(1);
+    return `| ${type} | ${(count as number).toLocaleString()} | ${percentage}% |`;
+  })
   .join('\n')}
 
 ### 🌆 Top 10 Cities by Brewery Count
 | City | Count |
-|------|-------|
+|------|--------|
 ${Object.entries(sortedByCount(stats.byCity))
   .slice(0, 10)
-  .map(([city, count]) => `| ${city} | ${count} |`)
+  .map(([city, count]) => `| ${city} | ${(count as number).toLocaleString()} |`)
   .join('\n')}
 
-### 📋 Data Field Completeness
-| Field | Completion Rate |
-|-------|----------------|
+### 📋 Data Completeness by Field
+| Field | Completeness |
+|-------|-------------|
 ${Object.entries(stats.completeness.byField)
   .sort(([, a], [, b]) => b - a)
-  .map(([field, percentage]) => `| ${field} | ${percentage}% |`)
+  .map(([field, completeness]) => `| ${field} | ${completeness.toFixed(1)}% |`)
   .join('\n')}`;
 }
 
