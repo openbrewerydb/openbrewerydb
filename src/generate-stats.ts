@@ -94,14 +94,14 @@ function formatStats(stats: BreweryStats): string {
 |-------|-------|
 ${Object.entries(sortedByCount(stats.byState))
   .slice(0, 10)
-  .map(([state, count]) => `| ${state} | ${count} |`)
+  .map(([state, count]) => `| ${state} | ${count as number} |`)
   .join('\n')}
 
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|-------|------------|
 ${Object.entries(sortedByCount(stats.byType))
-  .map(([type, count]) => `| ${type} | ${count} | ${Math.round((count / stats.totalBreweries) * 100)}% |`)
+  .map(([type, count]) => `| ${type} | ${count as number} | ${Math.round((count as number / stats.totalBreweries) * 100)}% |`)
   .join('\n')}
 
 ### 🌆 Top 10 Cities by Brewery Count
