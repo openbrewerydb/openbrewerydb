@@ -126,7 +126,7 @@ function updateReadmeStats(statsContent: string) {
   let readme = readFileSync(readmePath, 'utf-8');
 
   // Remove existing statistics section if it exists
-  readme = readme.replace(/## 📊 Statistics[\s\S]*?(?=##|$)/, '');
+  readme = readme.replace(/## 📊 Statistics[\s\S]*?$/, '');
 
   // Append new statistics at the end of the file
   readme = readme.trim() + '\n\n' + statsContent + '\n';
