@@ -288,7 +288,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2024-11-16
+> Last updated: 2024-11-01
 
 ### Overview
 - Total Breweries: 8355
@@ -297,7 +297,16 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🏛 Top 10 States by Brewery Count
 | State | Count |
 |-------|-------|
-
+| California | 918 |
+| Washington | 486 |
+| Colorado | 448 |
+| New York | 419 |
+| Michigan | 375 |
+| Texas | 352 |
+| Pennsylvania | 345 |
+| Florida | 312 |
+| North Carolina | 307 |
+| Ohio | 303 |
 
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
@@ -319,16 +328,16 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🌆 Top 10 Cities by Brewery Count
 | City | Count |
 |------|-------|
-| Portland | 105 |
-| Denver | 92 |
-| San Diego | 91 |
-| Seattle | 80 |
-| Chicago | 64 |
-| Austin | 49 |
-| Houston | 40 |
-| San Francisco | 39 |
-| Columbus | 39 |
-| Minneapolis | 38 |
+| Denver, Colorado | 92 |
+| San Diego, California | 91 |
+| Portland, Oregon | 85 |
+| Seattle, Washington | 80 |
+| Chicago, Illinois | 64 |
+| Austin, Texas | 49 |
+| Houston, Texas | 40 |
+| San Francisco, California | 39 |
+| Minneapolis, Minnesota | 38 |
+| Cincinnati, Ohio | 34 |
 
 ### 📋 Data Field Completeness
 | Field | Completion Rate |

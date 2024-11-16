@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync } from "fs";
+import { readFileSync, writeFileSync, statSync } from "fs";
 import { join } from "path";
 import Papa from "papaparse";
 import { Brewery } from "./types";
@@ -47,8 +47,8 @@ function generateStats(breweries: Brewery[]): BreweryStats {
 
   breweries.forEach(brewery => {
     // Count by state
-    if (brewery.state) {
-      stats.byState[brewery.state] = (stats.byState[brewery.state] || 0) + 1;
+    if (brewery.state_province) {
+      stats.byState[brewery.state_province] = (stats.byState[brewery.state_province] || 0) + 1;
     }
 
     // Count by type
@@ -57,8 +57,10 @@ function generateStats(breweries: Brewery[]): BreweryStats {
     }
 
     // Count by city
-    if (brewery.city) {
-      stats.byCity[brewery.city] = (stats.byCity[brewery.city] || 0) + 1;
+    if (brewery.city && brewery.state_province) {
+      // Include state with city to differentiate between cities with same name
+      const cityKey = `${brewery.city}, ${brewery.state_province}`;
+      stats.byCity[cityKey] = (stats.byCity[cityKey] || 0) + 1;
     }
   });
 
@@ -69,14 +71,19 @@ function generateStats(breweries: Brewery[]): BreweryStats {
 }
 
 function formatStats(stats: BreweryStats): string {
-  const sortedByCount = (obj: { [key: string]: number }) => 
+  const sortedByCount = (obj: { [key: string]: number }) =>
     Object.entries(obj)
       .sort(([, a], [, b]) => b - a)
       .reduce((r, [k, v]) => ({ ...r, [k]: v }), {});
 
+  // Get the last modified date of breweries.csv
+  const breweriesFilePath = join(__dirname, '../breweries.csv');
+  const { mtime } = statSync(breweriesFilePath);
+  const lastUpdated = mtime.toISOString().split('T')[0];
+
   return `## 📊 Statistics
 
-> Last updated: ${new Date().toISOString().split('T')[0]}
+> Last updated: ${lastUpdated}
 
 ### Overview
 - Total Breweries: ${stats.totalBreweries}
@@ -117,13 +124,13 @@ ${Object.entries(stats.completeness.byField)
 function updateReadmeStats(statsContent: string) {
   const readmePath = join(__dirname, '../README.md');
   let readme = readFileSync(readmePath, 'utf-8');
-  
+
   // Remove existing statistics section if it exists
   readme = readme.replace(/## 📊 Statistics[\s\S]*?(?=##|$)/, '');
-  
+
   // Append new statistics at the end of the file
   readme = readme.trim() + '\n\n' + statsContent + '\n';
-  
+
   // Write updated content back to README.md
   writeFileSync(readmePath, readme);
 }
@@ -132,24 +139,24 @@ const main = async () => {
   try {
     console.log('Generating brewery statistics...');
     const startTime = new Date().getTime();
-    
+
     // Read the main CSV file
     const csv = readFileSync(join(__dirname, '../breweries.csv'), { encoding: 'utf-8' });
     const breweries = Papa.parse<Brewery>(csv, papaParseOptions).data;
-    
+
     // Generate and format statistics
     const stats = generateStats(breweries);
     const formattedStats = formatStats(stats);
-    
+
     // Update README.md with new statistics
     updateReadmeStats(formattedStats);
-    
+
     // Log statistics to console
     console.log(formattedStats);
-    
+
     const endTime = new Date().getTime();
     console.log(`\n✨ Statistics generated and README.md updated in ${endTime - startTime}ms`);
-    
+
     return stats;
   } catch (error) {
     console.error('Error generating statistics:', error);
