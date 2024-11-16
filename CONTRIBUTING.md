@@ -51,7 +51,7 @@ During the discussion, you may be asked to make some changes to your pull reques
 
 If so, add more commits to your branch and push them – they will automatically go into the existing pull request!
 
-Opening a pull request will trigger a Github Action build to check the validity of all links in the project. After the build completes, **please ensure that the build has passed**. If the build did not pass, please view the Github Action log and correct any errors that were found in your contribution. 
+Opening a pull request will trigger a Github Action build to check the validity of all links in the project. After the build completes, **please ensure that the build has passed**. If the build did not pass, please view the Github Action log and correct any errors that were found in your contribution.
 
 Thanks for being a part of this project, and we look forward to hearing from you soon! 🍻
 

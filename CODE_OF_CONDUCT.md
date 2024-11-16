@@ -2,45 +2,107 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We are committed to providing a welcoming, inclusive, and harassment-free environment for all participants in our open-source community. We pledge to create a positive, supportive space that respects individual differences and promotes mutual understanding.
 
 ## Our Standards
 
-Examples of behavior that contributes to creating a positive environment include:
+### Positive Behaviors
+
+Examples of behavior that contributes to a positive, inclusive environment include:
 
 - Using welcoming and inclusive language
 - Being respectful of differing viewpoints and experiences
 - Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
+- Focusing on collective community well-being
+- Showing empathy and kindness towards others
+- Actively listening and seeking to understand diverse perspectives
+- Providing and graciously accepting help
 
-Examples of unacceptable behavior by participants include:
+### Unacceptable Behaviors
 
-- The use of sexualized language or imagery and unwelcome sexual attention or advances
-- Trolling, insulting/derogatory comments, and personal or political attacks
+Examples of unacceptable behavior include:
+
+- Harassment in any form, including but not limited to:
+  - Offensive comments related to gender, gender identity, sexual orientation
+  - Age, body size, disability, ethnicity, nationality
+  - Personal appearance, race, religion, or technological choices
+- Unwelcome sexual attention or advances
+- Trolling, insulting, or derogatory comments
 - Public or private harassment
-- Publishing others' private information, such as a physical or electronic address, without explicit permission
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+- Publishing others' private information without explicit permission
+- Any conduct that could reasonably be considered inappropriate in a professional setting
+- Deliberate intimidation or repeated social or professional disruptions
 
 ## Our Responsibilities
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+### Community Leaders
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+Project maintainers are responsible for:
 
-## Scope
+- Clarifying and enforcing community standards of acceptable behavior
+- Taking fair and appropriate corrective action in response to unacceptable behavior
+- Removing, editing, or rejecting contributions that do not align with this Code of Conduct
+- Communicating reasons for moderation decisions transparently
+- Providing support and guidance to community members
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+### Community Members
+
+All community members are expected to:
+
+- Assume positive intent from others
+- Ask for help when unsure
+- Engage in constructive, respectful dialogue
+- Be accountable for their actions
+- Prioritize community well-being
+
+## Scope of Application
+
+This Code of Conduct applies to:
+
+- All project spaces (online and offline)
+- Public spaces when representing the project
+- Official project communication channels
+- Project-related events and conferences
+- Online platforms and social media associated with the project
+
+## Reporting Incidents
+
+### How to Report
+
+If you experience or witness unacceptable behavior, please report it by:
+
+1. Emailing [info@openbrewerydb.org]
+2. Contacting a project maintainer directly
+
+### Reporting Process
+
+- All reports will be reviewed promptly and confidentially
+- Initial response expected within 72 hours
+- Comprehensive investigation within 2 weeks
+- Confidentiality and protection from retaliation guaranteed
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at info@openbrewerydb.org. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Potential consequences for violating the Code of Conduct may include:
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+- Verbal warning
+- Temporary removal from project spaces
+- Temporary or permanent ban from the community
+- Reporting to relevant platforms or authorities if legal boundaries are crossed
 
-## Attribution
+Enforcement decisions will be made collectively by project leadership, considering:
+- Severity of the incident
+- Impact on community
+- Pattern of behavior
+- Willingness to learn and improve
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
+## Acknowledgments
 
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.1, available at [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html]
+
+[homepage]: https://www.contributor-covenant.org
+[version]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+
+## License
+
+This Code of Conduct is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
