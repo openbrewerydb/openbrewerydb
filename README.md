@@ -39,28 +39,16 @@ A shared Postman collection containing all the API requests to fetch breweries i
 1. `git clone git@github.com:openbrewerydb/openbrewerydb.git`
 2. `cd openbrewerydb && npm install`
 
-## 🤝 Contributing
-
-For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md) and our [code of conduct](CODE_OF_CONDUCT.md).
-
-1. Fork the repository
-2. Add or update breweries in the CSV (Excel, Google Sheets)
-3. Submit a Pull Request
-
-### Tips
-
-First and foremost, don't worry about messing up! 🙂 Thank you so much for contributing! 🙌
-
-- CSVs are organized by `data/[country]/[state_province]`
-- Required fields/columns: `name`, `brewery_type`, `city`, `state_province`, `postal_code`, and `country`
-- When adding a brewery, do not include an `id`. This will be created after review.
-- Please either add to `breweries.csv` (preferred if adding breweries for a new country) or the individual state/province CSV file. Adding to both at the same time may introduce duplicates/errors.
-
 ## ⚙️ Scripts
 
 The following npm scripts help maintain and manage the dataset:
 
 ### Data Management
+- `npm run validate`
+  - Validates all CSV files against the JSON Schema
+  - Checks for required fields and data format consistency
+  - Reports any validation errors that need attention
+
 - `npm run csv:combine`
   - Combines all individual CSV files from country/state-region folders into a single `breweries.csv`
   - Useful when you've made changes to individual state files and need to update the main dataset
@@ -70,7 +58,7 @@ The following npm scripts help maintain and manage the dataset:
   - Helps maintain organized, manageable data files for each region
   - Creates directories if they don't exist
 
-### File Generation
+### Data Generation
 - `npm run generate:ids`
   - Creates unique OBDB IDs for each brewery based on name and city
   - Automatically updates `breweries.csv` with new IDs
@@ -86,6 +74,12 @@ The following npm scripts help maintain and manage the dataset:
   - Includes table creation and data insertion statements
   - Perfect for database implementations
 
+- `npm run generate:stats`
+  - Generates comprehensive dataset statistics
+  - Shows brewery counts by state/city
+  - Displays brewery type distribution
+  - Reports data completeness metrics
+
 ### Contributor Management
 - `npm run contributors:add`
   - Interactive CLI tool to add new contributors
@@ -100,19 +94,32 @@ The following npm scripts help maintain and manage the dataset:
   - Updates the Contributors section in `README.md`
   - Generates contributor table with avatars and contribution types
 
-### Validation & Maintenance
-- `npm run validate`
-  - Validates all CSV files against the JSON Schema
-  - Checks for required fields and data format consistency
-  - Reports any validation errors that need attention
-
+### Workflow
 - `npm run workflow:maintain`
   - Comprehensive maintenance workflow that:
-    1. Combines all CSV files
-    2. Generates new IDs if needed
-    3. Creates JSON and SQL files
-    4. Splits back into individual state files
+    1. Validates all CSV files
+    2. Combines all CSV files
+    3. Generates new IDs if needed
+    4. Creates JSON and SQL files
+    5. Splits back into individual state files
   - Run this after making any dataset updates
+
+## 🤝 Contributing
+
+For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md) and our [code of conduct](CODE_OF_CONDUCT.md).
+
+1. Fork the repository
+2. Add or update breweries in the CSV (Excel, Google Sheets)
+3. Submit a Pull Request
+
+### Tips
+
+First and foremost, don't worry about messing up! 🙂 Thank you so much for contributing! 🙌
+
+- CSVs are organized by `data/[country]/[state_province]`
+- Required fields/columns: `name`, `brewery_type`, `city`, `state_province`, and `country`
+- When adding a brewery, do not include an `id`. This will be created after review.
+- Please either add to `breweries.csv` (preferred if adding breweries for a new country) or the individual state/province CSV file. Adding to both at the same time may introduce duplicates/errors.
 
 ## 👾 Community
 
@@ -227,14 +234,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/samuel-rusher/"><img src="https://avatars3.githubusercontent.com/u/55074718?v=4?s=100" width="100px;" alt="Samuel Rusher"/><br /><sub><b>Samuel Rusher</b></sub></a><br /><a href="#data-srusher" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/EACaraway"><img src="https://avatars1.githubusercontent.com/u/71463301?v=4?s=100" width="100px;" alt="Evan Caraway"/><br /><sub><b>Evan Caraway</b></sub></a><br /><a href="#data-EACaraway" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tylerkkp"><img src="https://avatars0.githubusercontent.com/u/30785626?v=4?s=100" width="100px;" alt="Tyler K Kuromiya Parker"/><br /><sub><b>Tyler K Kuromiya Parker</b></sub></a><br /><a href="#data-tylerkkp" title="Data">🔣</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kendellmendoza"><img src="https://avatars.githubusercontent.com/u/32558172?v=4?s=100" width="100px;" alt="kendellmendoza"/><br /><sub><b>kendellmendoza</b></sub></a><br /><a href="#data-kendellmendoza" title="Data">🔣</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Johnnyk737"><img src="https://avatars.githubusercontent.com/u/20580717?v=4?s=100" width="100px;" alt="Johnnyk737"/><br /><sub><b>Johnnyk737</b></sub></a><br /><a href="#data-Johnnyk737" title="Data">🔣</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jameshschuler"><img src="https://avatars.githubusercontent.com/u/41769529?v=4?s=100" width="100px;" alt="James Schuler"/><br /><sub><b>James Schuler</b></sub></a><br /><a href="#data-jameshschuler" title="Data">🔣</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cleif"><img src="https://avatars.githubusercontent.com/u/6209424?v=4?s=100" width="100px;" alt="Creighton Leif"/><br /><sub><b>Creighton Leif</b></sub></a><br /><a href="#data-cleif" title="Data">🔣</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vitaly-t"><img src="https://avatars.githubusercontent.com/u/5108906?v=4?s=100" width="100px;" alt="Vitaly Tomilov"/><br /><sub><b>Vitaly Tomilov</b></sub></a><br /><a href="https://github.com/openbrewerydb/openbrewerydb/commits?author=vitaly-t" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kylescudder"><img src="https://avatars.githubusercontent.com/u/74150974?v=4?s=100" width="100px;" alt="Kyle Scudder"/><br /><sub><b>Kyle Scudder</b></sub></a><br /><a href="#data-kylescudder" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://chrisjmears.com/"><img src="https://avatars.githubusercontent.com/u/96110?v=4?s=100" width="100px;" alt="Chris Mears"/><br /><sub><b>Chris Mears</b></sub></a><br /><a href="#question-chrisjm" title="Answering Questions">💬</a> <a href="https://github.com/openbrewerydb/openbrewerydb/commits?author=chrisjm" title="Code">💻</a> <a href="#data-chrisjm" title="Data">🔣</a> <a href="#maintenance-chrisjm" title="Maintenance">🚧</a> <a href="#projectManagement-chrisjm" title="Project Management">📆</a> <a href="#tool-chrisjm" title="Tools">🔧</a> <a href="#tutorial-chrisjm" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/donkeyslaps"><img src="https://avatars.githubusercontent.com/u/91644699?v=4?s=100" width="100px;" alt="donkeyslaps"/><br /><sub><b>donkeyslaps</b></sub></a><br /><a href="#data-donkeyslaps" title="Data">🔣</a></td>
     </tr>
@@ -286,3 +285,64 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## 📊 Statistics
+
+> Last updated: 2024-11-16
+
+### Overview
+- Total Breweries: 8355
+- Data Completeness: 78%
+
+### 🏛 Top 10 States by Brewery Count
+| State | Count |
+|-------|-------|
+
+
+### 🍺 Brewery Types Distribution
+| Type | Count | Percentage |
+|------|-------|------------|
+| micro | 4305 | 52% |
+| brewpub | 2500 | 30% |
+| planning | 684 | 8% |
+| regional | 225 | 3% |
+| closed | 216 | 3% |
+| contract | 192 | 2% |
+| large | 90 | 1% |
+| proprietor | 69 | 1% |
+| bar | 37 | 0% |
+| taproom | 20 | 0% |
+| nano | 13 | 0% |
+| beergarden | 3 | 0% |
+| location | 1 | 0% |
+
+### 🌆 Top 10 Cities by Brewery Count
+| City | Count |
+|------|-------|
+| Portland | 105 |
+| Denver | 92 |
+| San Diego | 91 |
+| Seattle | 80 |
+| Chicago | 64 |
+| Austin | 49 |
+| Houston | 40 |
+| San Francisco | 39 |
+| Columbus | 39 |
+| Minneapolis | 38 |
+
+### 📋 Data Field Completeness
+| Field | Completion Rate |
+|-------|----------------|
+| name | 100% |
+| brewery_type | 100% |
+| city | 100% |
+| state_province | 100% |
+| postal_code | 100% |
+| country | 100% |
+| address_1 | 91% |
+| phone | 90% |
+| website_url | 86% |
+| longitude | 72% |
+| latitude | 72% |
+| address_2 | 1% |
+| address_3 | 0% |
