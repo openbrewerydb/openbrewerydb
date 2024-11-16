@@ -58,18 +58,61 @@ First and foremost, don't worry about messing up! 🙂 Thank you so much for con
 
 ## ⚙️ Scripts
 
-These are the npm scripts used to maintain this dataset.
+The following npm scripts help maintain and manage the dataset:
 
-- `npm run csv:combine` - Combine CSVs from country/state-region folders into `breweries.csv`
-- `npm run csv:split` - Split `breweries.csv` into country/state-region/city CSVs
-- `npm run contributors:add` - Add contributor (interactive CLI)
-- `npm run contributors:check` - Check if there are any missing contributors
-- `npm run contributors:generate` - Generate contributors into `README.md`
-- `npm run generate:ids` - Generate unique OBDB IDs based on the brewery name and city and overwrite `breweries.csv`
-- `npm run generate:json` - Generate JSON from `breweries.csv` output to `breweries.json`
-- `npm run generate:sql` - Generate PostgreSQL SQL from `breweries.csv` output to `breweries.sql`
-- `npm run validate` - Validate CSVs based on JSON Schema
-- `npm run workflow:maintain` - Combine, generate, split (used when updating individual CSVs)
+### Data Management
+- `npm run csv:combine`
+  - Combines all individual CSV files from country/state-region folders into a single `breweries.csv`
+  - Useful when you've made changes to individual state files and need to update the main dataset
+
+- `npm run csv:split`
+  - Splits the main `breweries.csv` into separate files by country/state-region
+  - Helps maintain organized, manageable data files for each region
+  - Creates directories if they don't exist
+
+### File Generation
+- `npm run generate:ids`
+  - Creates unique OBDB IDs for each brewery based on name and city
+  - Automatically updates `breweries.csv` with new IDs
+  - Ensures no duplicate IDs exist in the dataset
+
+- `npm run generate:json`
+  - Converts `breweries.csv` into a JSON format (`breweries.json`)
+  - Useful for applications that prefer working with JSON data
+  - Maintains data consistency across formats
+
+- `npm run generate:sql`
+  - Creates PostgreSQL SQL file from `breweries.csv`
+  - Includes table creation and data insertion statements
+  - Perfect for database implementations
+
+### Contributor Management
+- `npm run contributors:add`
+  - Interactive CLI tool to add new contributors
+  - Prompts for contributor information and contribution type
+  - Updates `.all-contributorsrc` file
+
+- `npm run contributors:check`
+  - Verifies if any contributors are missing from the list
+  - Helps maintain accurate recognition of all contributors
+
+- `npm run contributors:generate`
+  - Updates the Contributors section in `README.md`
+  - Generates contributor table with avatars and contribution types
+
+### Validation & Maintenance
+- `npm run validate`
+  - Validates all CSV files against the JSON Schema
+  - Checks for required fields and data format consistency
+  - Reports any validation errors that need attention
+
+- `npm run workflow:maintain`
+  - Comprehensive maintenance workflow that:
+    1. Combines all CSV files
+    2. Generates new IDs if needed
+    3. Creates JSON and SQL files
+    4. Splits back into individual state files
+  - Run this after making any dataset updates
 
 ## 👾 Community
 
@@ -81,6 +124,83 @@ These are the npm scripts used to maintain this dataset.
 Any feedback, please [email me](mailto:chris@openbrewerydb.org).
 
 Cheers! 🍻
+
+## 📊 Project Status
+
+- **Status**: Active
+- **Last Dataset Update**: 2024
+- **Maintenance**: Actively maintained through community contributions
+- **Dataset Size**: 8,000+ breweries
+- **Coverage**: United States, with growing international data
+
+## 🔧 Requirements
+
+- Node.js v18 or higher
+- npm package manager
+- Git
+
+## 📚 Data Schema
+
+Each brewery entry contains the following fields:
+
+| Field | Type | Description | Required |
+|-------|------|-------------|-----------|
+| id | String | Unique identifier | Yes |
+| name | String | Name of the brewery | Yes |
+| brewery_type | String | Type of brewery (micro, regional, brewpub, etc.) | Yes |
+| street | String | Street address | No |
+| city | String | City | Yes |
+| state_province | String | State/Province | Yes |
+| postal_code | String | Postal code | Yes |
+| country | String | Country | Yes |
+| longitude | String | Decimal longitude coordinate | No |
+| latitude | String | Decimal latitude coordinate | No |
+| phone | String | Phone number | No |
+| website_url | String | Website URL | No |
+
+## 📖 Usage Examples
+
+### Python
+```python
+import pandas as pd
+
+# Read CSV
+breweries_df = pd.read_csv('breweries.csv')
+
+# Filter by state
+california_breweries = breweries_df[breweries_df['state_province'] == 'California']
+```
+
+### JavaScript/Node.js
+```javascript
+const fs = require('fs');
+
+// Read JSON
+const breweries = JSON.parse(fs.readFileSync('breweries.json', 'utf8'));
+
+// Filter by type
+const microBreweries = breweries.filter(b => b.brewery_type === 'micro');
+```
+
+### SQL
+```sql
+-- After importing breweries.sql
+SELECT name, city, state_province
+FROM breweries
+WHERE brewery_type = 'brewpub'
+ORDER BY state_province, city;
+```
+
+## 🔄 Versioning
+
+The dataset is updated regularly through community contributions. Each update goes through the following process:
+
+1. Community members submit new breweries or updates via pull requests
+2. Changes are reviewed and validated
+3. Upon approval, changes are merged and new dataset files are generated
+4. The API is automatically updated with the new data
+
+Latest dataset version: 2024.1
 
 ## Contributors ✨
 
@@ -97,7 +217,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="http://www.therearefourmics.com/"><img src="https://avatars2.githubusercontent.com/u/39307371?v=4?s=100" width="100px;" alt="Jason Allen"/><br /><sub><b>Jason Allen</b></sub></a><br /><a href="#data-jallend1" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Juicob"><img src="https://avatars1.githubusercontent.com/u/68080175?v=4?s=100" width="100px;" alt="Juicob"/><br /><sub><b>Juicob</b></sub></a><br /><a href="#data-Juicob" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/wkarney"><img src="https://avatars0.githubusercontent.com/u/35663282?v=4?s=100" width="100px;" alt="Will Karnasiewicz"/><br /><sub><b>Will Karnasiewicz</b></sub></a><br /><a href="#data-wkarney" title="Data">🔣</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://dvavs.github.io/"><img src="https://avatars0.githubusercontent.com/u/49594473?v=4?s=100" width="100px;" alt="Dylan T. Vavra"/><br /><sub><b>Dylan T. Vavra</b></sub></a><br /><a href="#data-dvavs" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dvavs"><img src="https://avatars0.githubusercontent.com/u/49594473?v=4?s=100" width="100px;" alt="Dylan T. Vavra"/><br /><sub><b>Dylan T. Vavra</b></sub></a><br /><a href="#data-dvavs" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/amadisonm1209"><img src="https://avatars0.githubusercontent.com/u/44384309?v=4?s=100" width="100px;" alt="Madison Martinez"/><br /><sub><b>Madison Martinez</b></sub></a><br /><a href="#data-amadisonm1209" title="Data">🔣</a></td>
     </tr>
     <tr>
@@ -139,7 +259,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kenster89"><img src="https://avatars.githubusercontent.com/u/32558172?v=4?s=100" width="100px;" alt="kenster89"/><br /><sub><b>kenster89</b></sub></a><br /><a href="#data-kenster89" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sadilet"><img src="https://avatars.githubusercontent.com/u/20108793?v=4?s=100" width="100px;" alt="Adilet Sarsembayev"/><br /><sub><b>Adilet Sarsembayev</b></sub></a><br /><a href="#data-sadilet" title="Data">🔣</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://blog.deciphermiddleware.in/"><img src="https://avatars.githubusercontent.com/u/30888879?v=4?s=100" width="100px;" alt="Pranav Davar"/><br /><sub><b>Pranav Davar</b></sub></a><br /><a href="#data-pranav-davar" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/b-mc2"><img src="https://avatars.githubusercontent.com/u/78936105?v=4?s=100" width="100px;" alt="b-mc2"/><br /><sub><b>b-mc2</b></sub></a><br /><a href="#data-b-mc2" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/nicole440"><img src="https://avatars.githubusercontent.com/u/111709554?v=4?s=100" width="100px;" alt="Nicole"/><br /><sub><b>Nicole</b></sub></a><br /><a href="#data-nicole440" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.reenhanced.com/"><img src="https://avatars.githubusercontent.com/u/602226?v=4?s=100" width="100px;" alt="Nicholas Hance"/><br /><sub><b>Nicholas Hance</b></sub></a><br /><a href="#data-nhance" title="Data">🔣</a></td>
