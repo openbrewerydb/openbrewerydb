@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-51-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-52-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -157,6 +157,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://www.eonjava.com/"><img src="https://avatars.githubusercontent.com/u/173938?v=4?s=100" width="100px;" alt="Erich Cervantez"/><br /><sub><b>Erich Cervantez</b></sub></a><br /><a href="#data-erichcervantez" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/epikkoder"><img src="https://avatars.githubusercontent.com/u/20148265?v=4?s=100" width="100px;" alt="Ronald Sahagun"/><br /><sub><b>Ronald Sahagun</b></sub></a><br /><a href="#data-epikkoder" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gregwilson42"><img src="https://avatars.githubusercontent.com/u/132391327?v=4?s=100" width="100px;" alt="Greg W."/><br /><sub><b>Greg W.</b></sub></a><br /><a href="#content-gregwilson42" title="Content">🖋</a> <a href="#data-gregwilson42" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
