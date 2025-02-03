@@ -9,7 +9,7 @@ fe6b9893-b93e-43d5-a9f6-3e0c89a3f13c,1850 Brewing Company,micro,,,,Mariposa,Cali
 5fdcc498-f9df-4fa5-b35d-487a59f0fecc,2Kids Brewing Company,micro,8680 Miralani Dr Ste 123,,,San Diego,California,92126-6391,United States,8584805437,http://www.2kidsBrewing.com,-117.137429,32.896584
 60c00c0b-b797-4f6a-b442-3bfbaec156ca,3 Disciples Brewing,micro,,,,Sebastopol,California,95472-5937,United States,7072287309,http://www.3disciplesbrewing.com/home,-122.8332502,38.3845125
 a74744eb-ca98-43c5-9199-09df39f8b400,3 Iron Brewing Company,micro,898 Via Lata Ste A,,,Colton,California,92324-3920,United States,9095334892,http://www.3ironbrewingco.com,-117.3066993,34.05616889
-3b0b5b9b-f6d8-49e3-8ebd-0bcef6939bcd,32 North Brewing Co,closed,8655 Production Ave Ste A,,,San Diego,California,92121-2258,United States,,,-117.1649842,32.88313237
+3b0b5b9b-f6d8-49e3-8ebd-0bcef6939bcd,32 North Brewing Co,brewpub,8655 Production Ave Ste A,,,San Diego,California,92121-2258,United States,(619) 363-2622,https://42northbrewing.com,-117.1649842,32.88313237
 b7f2ebb8-6764-4654-a98b-246724c8952a,411 Broadway Ales,planning,,,,Fresno,California,93721-2801,United States,5412706076,,-119.7088613,36.7295295
 6b892c61-269b-453f-acd1-b79491b0ef0b,47 Hills Brewing Co,brewpub,137 S Linden Ave,,,South San Francisco,California,94080-6410,United States,6508678476,http://47hillsbrewingcompany.com,-122.4136168,37.64425595
 7e12d827-22dc-4d07-8715-8192c9680b23,5150 Brewing At The Brass Tap Rocklin,micro,5150 Commons Dr Ste 101,,,Rocklin,California,95677-3925,United States,9162462729,http://www.brasstaprocklin.com,-121.207331,38.8047402
@@ -321,7 +321,6 @@ daf5b513-a3e3-4103-b819-24588bf9331a,Fireman's Brew,contract,6433 Topanga Canyon
 43216af5-739e-43aa-8640-69c3631e4ce7,Firestone Walker Barrelworks,micro,620 McMurray Rd,,,Buellton,California,93427-2511,United States,8056861557,http://www.firestonewalker.com,-120.1883447,34.6248627
 cec5d778-9c24-46f7-841e-174976076100,Firestone Walker Brewing Co,brewpub,3205 Washington Blvd,,,Marina del Rey,California,90292-5552,United States,3104398264,,-118.4485365,33.98999791
 209ae692-2dc3-45bd-baf5-6a2ef68c1a6e,Firestone Walker Brewing Co,regional,1400 Ramada Dr,,,Paso Robles,California,93446-3993,United States,8052255911,http://www.firestonebeer.com,-120.6943059,35.59606059
-1c7505c4-4a84-4293-990d-c3001a6ec798,First Water Brewing Company,planning,,,,Pasadena,California,91106-1420,United States,,http://firstwaterbrewing.com,-118.1444779,34.1476452
 ede7c380-b556-4de8-b05b-8b81cc227915,Five Suns Brewing,micro,701 Escobar St Ste C,,,Martinez,California,94553,United States,9259576706,http://www.fivesunsbrewing.com,-122.1370278,38.01851399
 16d59447-30f9-4999-a8db-6d5773eb2d1b,Five Threads Brewing Company,micro,31133 Via Colinas Ste 109,,,Westlake Village,California,91362-4525,United States,,,-118.801724,34.1529112
 d5090655-da65-4759-b130-60c5e256aa0e,Five Window Beer Co,micro,9 W Locust St,,,Lodi,California,95240-2137,United States,2097122336,http://www.fivewindow.com,-121.29526,38.136971
@@ -513,7 +512,7 @@ f811f1bc-0d7c-4a83-bb70-e4b44eacdc8e,"Lost Coast Brewery and Cafe - Table Bluff 
 73d6562a-6747-47fb-bc80-57dbc43603fb,Lucky Devil Brewing,contract,Frank H Ogawa Pl,,,Oakland,California,94612,United States,5109692865,http://www.luckydevilbrewery.com,-122.2713141,37.80450396
 19263853-9099-41a4-80ff-0c7e9905e9ee,Lucky Luke Brewing Company,micro,610 W Avenue O Ste 104,,,Palmdale,California,93551-3610,United States,6612705588,http://www.luckylukebrewing.com,-118.1411039,34.61623136
 d8f0b1a8-9976-49b8-8e3d-d38b17496c9c,M.Special Brewing Company,micro,6860 Cortona Dr Ste C,,,Goleta,California,93117-5507,United States,,http://www.mspecialbrewco.com,-119.8684287,34.43298751
-68cb3ab3-3136-419e-aff6-06d965cfb280,M.Special Brewing Company,micro,634 State St,,,Santa Barbara,California,93101,United States,,http://www.mspecialbrewco.com,-119.6977816,34.41874978
+68cb3ab3-3136-419e-aff6-06d965cfb280,M.Special Brewing Company,micro,634 State St,,,Santa Barbara,California,93101,United States,8053080050,http://www.mspecialbrewco.com,-119.6977816,34.41874978
 7a9b2fa2-8e51-4a5c-98c0-a09d99303f39,MachineHead Brewing Co.,planning,,,,Clovis,California,93612,United States,,,-119.7029194,36.8252277
 b261b101-bcad-4384-98a9-8da00ddb71f0,"MacLeod Ale Brewing Company, LLC",micro,14741 Calvert St,,,Van Nuys,California,91411-2706,United States,8186311963,http://www.macleodale.com,-118.4540488,34.1817376
 588e8cf3-e3e0-44ef-a94f-d3e9231c2237,Mad Duck Craft Brewing Company,brewpub,3085 E Campus Pointe Dr,,,Fresno,California,93710-7526,United States,5593253825,http://www.madduckcraft.com,-119.7346794,36.81180929
