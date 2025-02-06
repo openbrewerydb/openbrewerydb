@@ -92,7 +92,7 @@ bd8b76ca-a70a-4363-96cb-24f1d0118a74,3 Stars Brewing Co,micro,6400 Chillum Pl NW
 cb56e27e-d113-4f74-925a-69305a56d082,3 Trails Brewing Co,micro,"111 N Main St ",,,Independence,Missouri,64050,United States,8168866256,http://www.3trailsbrewing.com,-94.41265,39.122385
 6c5dabed-6a59-4610-abc9-b1e958393186,30 Mile Brewing Co.,closed,39 Ragged Rock Rd Unit 5,,,Old Saybrook,Connecticut,06475-1518,United States,8603395238,http://www.30milebrewingco.com,,
 2f6062af-4d6f-42b2-b4ad-626cf01a1fec,300 Suns Brewing Company,brewpub,335 1st Ave Unit C,,,Longmont,Colorado,80501-5958,United States,,http://www.300sunsbrewing.com,,
-3b0b5b9b-f6d8-49e3-8ebd-0bcef6939bcd,32 North Brewing Co,closed,8655 Production Ave Ste A,,,San Diego,California,92121-2258,United States,,,-117.1649842,32.88313237
+3b0b5b9b-f6d8-49e3-8ebd-0bcef6939bcd,32 North Brewing Co,brewpub,8655 Production Ave Ste A,,,San Diego,California,92121-2258,United States,(619) 363-2622,https://42northbrewing.com,-117.1649842,32.88313237
 a964a343-e4f1-40d8-9353-09ef9b74f513,34 Degree North Experiment Station,micro,4802 Main St,,,Shallotte,North Carolina,28470,United States,,,-78.38636517,33.97270364
 098595c2-f606-40b4-9b49-195f73fb6fd6,350 Brewing Co,brewpub,7144 183rd St,,,Tinley Park,Illinois,60477-3933,United States,7088257339,http://www.350brewing.com,-87.79160288,41.55864726
 63969ec8-b557-4c71-b993-ad00c99ab70e,360 Degree Brewing Company,micro,Bluebell Business Estate,,,Sheffield Park,East Sussex,TN22 3HQ,England,1825722375,https://www.360degreebrewing.com/,-0.00086,50.993912
@@ -2830,7 +2830,6 @@ e5cb89b8-c9c7-4947-a825-9371002a12a0,First Flight Island Restaurant & Brewery,br
 13d751c0-5894-4f61-a372-d07f9ff9a71e,First Mile Brewing Company,micro,28 Market St Ste 103,,,Fort Kent,Maine,04743,United States,,,,
 5a4a3717-4640-405b-90d7-47a69be1c8e4,First State Brewing Company,planning,,,,Middletown,Delaware,19709-1482,United States,3022859535,http://www.firststatebrewing.com,,
 78965a98-743a-4f7c-8338-ee6c548e73db,First Street Brewing,micro,119 N St Joseph Ave,,,Hastings,Nebraska,68901-7553,United States,4028342400,http://www.firststreetbrewing.com,-98.3877198,40.5844989
-1c7505c4-4a84-4293-990d-c3001a6ec798,First Water Brewing Company,planning,,,,Pasadena,California,91106-1420,United States,,http://firstwaterbrewing.com,-118.1444779,34.1476452
 2d60ec76-646d-4512-9e57-4d04406cd1e2,Fish Brewing Co,micro,514 Jefferson St SE,,,Olympia,Washington,98501-1467,United States,3609436480,http://www.fishbrewing.com,-122.8954179,47.03437129
 10364982-a5d1-4595-bf95-25068d2386e3,Fish Brewing Pub & Eatery,closed,5108 Grand Loop,,,Ruston,Washington,98407-3180,United States,,,,
 9fbea2d8-57b9-4b17-bb19-01a96485e0d3,Fishale Taphouse and Grill,brewpub,7715 Front Beach Rd,,,Panama City Beach,Florida,32407-4813,United States,8506401410,,-85.7855375,30.1823237
@@ -4389,7 +4388,7 @@ ad5cdcdf-a787-4b90-a721-d350c532c57c,Lengthwise Brewing Co,brewpub,7700 District
 e8496c18-2615-4e81-a29f-ea64ea88269c,Les Cheneaux Distillers,brewpub,172 S Meridian St,,,Cedarville,Michigan,49719,United States,9064841213,http://www.lescheneauxdistillers.com,-84.36301089,45.99742724
 3e578a77-9a52-44ae-ba8a-fd77bfa30ab3,Levante Brewing Company,micro,208 Carter Dr Ste 2,,,West Chester,Pennsylvania,19382-4500,United States,4849998761,http://levantebrewing.com,,
 9fc7686f-dbb3-4dea-81fe-74e95738150f,Level Beer,micro,5211 NE 148th Ave,,,Portland,Oregon,97230-3434,United States,5037141222,http://www.levelbeer.com,-122.5110275,45.560506
-447ee073-dfab-4ef3-aacd-e6d0e9553972,Level Crossing Brewing Company,brewpub,2496 S West Temple,,,Salt Lake City," Utah",84115-3050,United States,3852705752,https://levelcrossingbrewing.com,-111.954182,40.732607
+447ee073-dfab-4ef3-aacd-e6d0e9553972,Level Crossing Brewing Company,brewpub,2496 S West Temple,,,Salt Lake City,Utah,84115-3050,United States,3852705752,https://levelcrossingbrewing.com,-111.954182,40.732607
 aea59bd4-e1de-4f88-a7f3-f3285d4d57ac,Levi Garrison & Sons Brewing Company,micro,105 W Bird St,,,Hamilton,Missouri,64644-1029,United States,8166689421,http://www.lgsbrewingco.com,-94.00051,39.744246
 0c64f81d-9404-443f-83d4-8aa79babb415,Levitate,planning,,,,Mount Victory,Ohio,43340-8908,United States,3133849757,,,
 8fb9e997-a02c-4def-82cd-293821f252d9,Levity Brewing Co,brewpub,1380 Wayne Ave Ste A,,,Indiana,Pennsylvania,15701-3544,United States,,,,
@@ -4631,7 +4630,7 @@ bb0715b7-bf7b-460d-aae4-d5a2ada52773,Lynnwood Brewing Concern,brewpub,4821 Grove
 f1e6162d-bdbc-41d8-af4a-a0c940ba9bed,Lyonsmith Brewing Company,micro,138 Water St,,,Penn Yan,New York,14527-1651,United States,3155365603,http://www.lyonsmithbrewing.com,-77.05463635,42.65899476
 06f29dde-6f82-4e2e-923a-6ddcaa8c61b0,M.I.A. Beer Co,micro,10400 NW 33rd St Ste 150,,,Doral,Florida,33172-5902,United States,3055675550,http://www.mia.beer,,
 d8f0b1a8-9976-49b8-8e3d-d38b17496c9c,M.Special Brewing Company,micro,6860 Cortona Dr Ste C,,,Goleta,California,93117-5507,United States,,http://www.mspecialbrewco.com,-119.8684287,34.43298751
-68cb3ab3-3136-419e-aff6-06d965cfb280,M.Special Brewing Company,micro,634 State St,,,Santa Barbara,California,93101,United States,,http://www.mspecialbrewco.com,-119.6977816,34.41874978
+68cb3ab3-3136-419e-aff6-06d965cfb280,M.Special Brewing Company,micro,634 State St,,,Santa Barbara,California,93101,United States,8053080050,http://www.mspecialbrewco.com,-119.6977816,34.41874978
 6fea98ab-5ca3-4876-a1da-d0004045a00d,Mac and Jacks Brewery Inc,regional,17825 NE 65th St Ste B110,,,Redmond,Washington,98052-4995,United States,4255589697,https://www.macandjacks.com,-122.1026326,47.66431006
 2ef707fa-134a-4660-8523-64c0ab830e55,Macatawa Ale Company,micro,102 S River Ave,,,Holland,Michigan,49423-2851,United States,6168487677,http://www.macatawaalecompany.com,-86.10911659,42.79223968
 87f669f2-1318-4fdf-8018-3e590996759d,Machias River Brewing Company,micro,86 Main St,,,Machias,Maine,04654-1150,United States,2072596001,,-67.45804551,44.71446257
