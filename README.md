@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-54-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-55-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -271,6 +271,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/gregwilson42"><img src="https://avatars.githubusercontent.com/u/132391327?v=4?s=100" width="100px;" alt="Greg W."/><br /><sub><b>Greg W.</b></sub></a><br /><a href="#data-gregwilson42" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/davidaholm"><img src="https://avatars.githubusercontent.com/u/4689571?v=4?s=100" width="100px;" alt="David Holm"/><br /><sub><b>David Holm</b></sub></a><br /><a href="#data-davidaholm" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sadilett"><img src="https://avatars.githubusercontent.com/u/195586942?v=4?s=100" width="100px;" alt="sadilett"/><br /><sub><b>sadilett</b></sub></a><br /><a href="#data-sadilett" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RyanMallette"><img src="https://avatars.githubusercontent.com/u/13306840?v=4?s=100" width="100px;" alt="Ryan Mallette"/><br /><sub><b>Ryan Mallette</b></sub></a><br /><a href="#data-RyanMallette" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
