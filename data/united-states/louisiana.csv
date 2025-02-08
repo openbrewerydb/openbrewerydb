@@ -1,16 +1,17 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-c074ba4c-0b31-4344-a85a-7930df7fb410,Abita Brewing Co,regional,166 Barbee Rd,,,Covington,Louisiana,70433-8651,United States,9858933143,http://www.abita.com,,
+c074ba4c-0b31-4344-a85a-7930df7fb410,Abita Brewing Co,regional,166 Barbee Rd,,,Covington,Louisiana,70433-8651,United States,9858933143,http://www.abita.com,-90.056477,30.481981
 faabb5c6-fc44-4300-84cd-66f8af67e8fd,Bayou Teche Brewing,micro,1094 Bushville Hwy,,,Arnaudville,Louisiana,70512-3526,United States,3373038117,http://www.bayoutechebrewing.com,,
 887aaeec-884a-4a60-986a-daf4333cca08,Brasserie L'Etrange,planning,,,,Prairieville,Louisiana,70769-6114,United States,2258002337,,,
 1d80031e-2255-4467-8cd2-cd8e3194289e,Brieux Carre Brewing Company,micro,2115 Decatur St,,,New Orleans,Louisiana,70116,United States,5043044242,http://www.brieuxcarre.com,-90.0572496,29.9627851
 cab32ebd-9d23-425f-ad99-fc0959be6858,Broken Wheel Brewery,brewpub,109 Tunica Dr E,,,Marksville,Louisiana,71351-3005,United States,3182536543,,-92.06931518,31.12386287
 6265172a-55a2-405b-8a59-efbd4de3adfd,Cajun Brewing,micro,206 Rayburn St,,,Lafayette,Louisiana,70506-4130,United States,3378069196,http://www.cajunbrewing.com,-92.04978922,30.21549043
 604378f2-9c18-4ac2-bd4b-206f4423d9ea,"Cane River Brewing Co., L.L.C",planning,,,,Natchitoches,Louisiana,71457,United States,3184719115,http://www.caneriverbrewing.com,,
-27baa23f-707d-40e8-98f5-64f94b3f19ad,Chafunkta Brewing Co,micro,69123 Skybrook Rd. STE E,,,Mandeville,Louisiana,70471-7777,United States,9858690716,http://www.chafunkta.com,,
+27baa23f-707d-40e8-98f5-64f94b3f19ad,Chafunkta Brewing Co,micro,69123 Skybrook Rd. STE E,,,Mandeville,Louisiana,70471-7777,United States,9858690716,http://www.chafunkta.com,-90.035658,30.432895
 d672e35e-6486-4d98-9343-994e67768660,Chappapeela Farms Brewery,micro,57542 Hillcrest School Rd,,,Amite,Louisiana,70422-4922,United States,2252819474,http://www.chapbrewery.com,,
 11ca4b21-c34e-4857-9434-b1f264140524,Covington Brewhouse,micro,226 E Lockwood St,,,Covington,Louisiana,70433-2828,United States,9858932884,http://www.covingtonbrewhouse.com,-90.0970557,30.47766326
 f7de41dc-b46c-4ab5-82bd-c437e685b48f,Crescent City Brewhouse,brewpub,527 Decatur St,,,New Orleans,Louisiana,70130-1027,United States,5045220571,http://www.crescentcitybrewhouse.com,-90.0639242,29.9557185
 534c0a74-1e1a-422a-894a-1fe55ea95af4,Crying Eagle Brewing Company,micro,1165 E McNeese St,,,Lake Charles,Louisiana,70607-4753,United States,3379904871,http://www.cryingeagle.com,-93.20515133,30.17626439
+,Deadbeat Brewing Co,micro,14258 W Club Deluxe Rd,,,Hammond,Louisiana,70403,United States,9856620445,https://deadbeatbrewing.company.site,-90.492386,30.475008
 ee957438-dbb4-4cc4-8731-d3482d3a4775,Dixie Brewing Co Inc.,contract,6221 S Claiborne Ave Ste 101,,,New Orleans,Louisiana,70125-4191,United States,5048228711,,,
 2795f339-b872-44dd-af71-e79550711989,"Dixie Brewing Company, LLC",contract,1450 Poydras St Ste 580,,,New Orleans,Louisiana,70112-1227,United States,5059176071,http://www.dixiebeer.com,,
 230482be-8886-42e9-b6ae-25948beba74c,Flying Heart Brewing,micro,700 Barksdale Blvd,,,Bossier City,Louisiana,71111-4502,United States,3183448775,http://www.flyingheartbrewing.com,-93.732075,32.515706
@@ -24,7 +25,7 @@ d4a8d201-e4ce-4f5e-ad83-b3f3d43cf5dd,High Ground Brewery,planning,,,,Saint Franc
 a35771c8-3596-4ac0-99b1-d00a400cd923,Le Chien Brewing Company,planning,,,,Greenwell Springs,Louisiana,70739,United States,,http://www.lechien.beer,,
 7fd0b5f9-cf63-4db1-b797-fe50461dcbc5,Mudbug Brewery,micro,1878 LA Hwy 3185,,,Thibodaux,Louisiana,70302-1077,United States,9854921610,http://www.mudbugbrewery.com,,
 9eb2f4e3-a109-438b-8a64-61b3d572488c,New Orleans Lager and Ale Brewing (NOLA Brewing),micro,3001 Tchoupitoulas St,,,New Orleans,Louisiana,70115-1039,United States,5048969996,http://www.nolabrewing.com,-90.08141776,29.9199522
-ebc2f1b3-852f-4e01-b412-09a669cd0c7f,Old Rail Brewing Co,brewpub,639 Girod St,,,Mandeville,Louisiana,70448-5205,United States,9856121828,http://www.oldrailbrewing.com,-90.06386106,30.35985466
+ebc2f1b3-852f-4e01-b412-09a669cd0c7f,Old Rail Brewing Co,closed,639 Girod St,,,Mandeville,Louisiana,70448-5205,United States,9856121828,http://www.oldrailbrewing.com,-90.06386106,30.35985466
 597ab1af-dcc7-4df0-9c4d-018bfcec68ff,Ouachita Brewing Company,micro,95 McClendon Ave,,,West Monroe,Louisiana,71291-3299,United States,383879816,http://www.ouachitabrewing.com,-92.1221749,32.49990448
 703a9282-97f8-4305-8d39-b06b9814d34c,Parish Brewing Company,micro,229 Jared Dr,,,Broussard,Louisiana,70518-4362,United States,3373308601,http://www.parishbeer.com,-91.9485237,30.1592466
 fff36b1b-b208-4477-8652-8eb64bee33c9,Parleaux Beer Lab,micro,634 Lesseps St,,,New Orleans,Louisiana,70117,United States,5047028433,http://www.parleauxbeerlab.com,-90.03400238,29.9607459
