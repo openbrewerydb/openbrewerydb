@@ -197,7 +197,7 @@ b4e012c5-0f36-4d0a-a40b-cbcb29c7ceed,95ate5 Brewpub,brewpub,9585 N Industrial Dr
 30d8f77b-aeec-4435-a280-16bacd1b1c97,Aberrant Ales,brewpub,219 W Grand River Ave,,,Howell,Michigan,48843,United States,5175188699,http://www.aberrantales.com,-83.93094539,42.60773722
 b161916f-3f69-4f16-8059-eef9eee6877c,Abide Brewing Company,micro,110 Werz Industrial Blvd Ste 130,,,Newnan,Georgia,30263-5802,United States,6789726747,http://www.abidebrewing.com,-84.76356641,33.40257035
 e2fa853c-ca91-4043-878d-0bcee9900ea3,Abigaile,brewpub,1301 Manhattan Ave,,,Hermosa Beach,California,90254-3666,United States,3107988227,http://abigailrestaurant.com,-118.4048656,33.8734519
-c074ba4c-0b31-4344-a85a-7930df7fb410,Abita Brewing Co,regional,166 Barbee Rd,,,Covington,Louisiana,70433-8651,United States,9858933143,http://www.abita.com,,
+c074ba4c-0b31-4344-a85a-7930df7fb410,Abita Brewing Co,regional,166 Barbee Rd,,,Covington,Louisiana,70433-8651,United States,9858933143,http://www.abita.com,-90.056477,30.481981
 f8ab9530-289b-4684-89f1-474e89f4c5ae,Abjuration Brewing,micro,644 Broadway Ave,,,Mc Kees Rocks,Pennsylvania,15136-3008,United States,4127661668,http://www.abjurationbrewing.com,,
 c5f6426e-f894-4bfc-9ffb-43bc0baa0881,Able Baker Brewing,micro,1051 Mary Crest Rd #K,,,Henderson,Nevada,89104,United States,7025817742,http://www.ablebakerbrewing.com,,
 e6780612-ff74-4289-8718-a229529e3ee1,Able Ebenezer Brewing Company,micro,31 Columbia Cir,,,Merrimack,New Hampshire,03054-4161,United States,8442232253,http://www.ableebenezer.com,-71.493705,42.851742
@@ -1753,7 +1753,7 @@ d41989d3-e3a4-47c0-a0eb-cdcfe61a1066,Cerebral Brewing,micro,1477 Monroe St,,,Den
 5b077a9d-d97a-43d7-9c66-68e6d512f499,Cerveja Alvoreada,brewpub,"Rua Sousa Porto, 24",,,Beja,Beja,7800-071,Portugal,+351 963 592 133,,-7.853814062401847,38.009903135996986
 7d199c4a-13fd-4568-825f-73c2b6722bb8,Cerveza Guajira,planning,,,,Miami,Florida,33137,United States,3056005692,,,
 c592a01a-6e1d-4f47-b65c-7d83344977b9,CH Evans Brewing Co/Albany Pump Station,brewpub,19 Quackenbush Sq,,,Albany,New York,12207-2311,United States,5184479000,http://www.evansale.com,,
-27baa23f-707d-40e8-98f5-64f94b3f19ad,Chafunkta Brewing Co,micro,69123 Skybrook Rd. STE E,,,Mandeville,Louisiana,70471-7777,United States,9858690716,http://www.chafunkta.com,,
+27baa23f-707d-40e8-98f5-64f94b3f19ad,Chafunkta Brewing Co,micro,69123 Skybrook Rd. STE E,,,Mandeville,Louisiana,70471-7777,United States,9858690716,http://www.chafunkta.com,-90.035658,30.432895
 ecbd7424-8f25-4db0-af5e-8334991c2983,Chagrin Beer Company,contract,178 E Washington St,,,Chagrin Falls,Ohio,44022-2978,United States,2166451739,,-81.38518067,41.42999722
 54a938fd-f2bc-4579-b173-3657eaaed527,Chain Reaction Brewing Company,micro,902 S Lipan St,,,Denver,Colorado,80223-2717,United States,3039220960,http://www.chainreactionbrewingco.com,-105.001629,39.69879376
 10bbba8b-368e-4c6e-adeb-cc6ff7faa782,Chainline Brewing Company,closed,503 6th St S,,,Kirkland,Washington,98033-6717,United States,4252420923,http://www.chainlinebrewing.com,-122.1967583,47.6717847
@@ -2216,6 +2216,7 @@ e34b5399-e300-423a-8c2e-34f1091878b1,Dead Centre Brewing,brewpub,Custume Pier Ap
 7324090e-aaf4-4a30-8370-e8eb664445d0,Dead Low Brewing,planning,,,,Cincinnati,Ohio,45230,United States,5132909434,http://www.deadlowbrewing.com,,
 ccb30821-042d-43fc-a8a1-1ef9f9c6a288,Dead Oak Brewing Company,micro,5925 Entrada Ave,,,Atascadero,California,93422-4223,United States,6023327027,http://www.facebook.com/deadoakbrewing,-120.6687359,35.4897884
 61101f4b-cd7e-401e-bab1-159dc83df85a,Deadbeach Brewery,brewpub,406 S Durango St,,,El Paso,Texas,79901-1063,United States,9158012337,http://www.deadbeach.com,,
+e6e3663e-f931-44f1-ba5b-a9191f3eef41,Deadbeat Brewing Co,micro,14258 W Club Deluxe Rd,,,Hammond,Louisiana,70403,United States,9856620445,https://deadbeatbrewing.company.site,-90.492386,30.475008
 c6c9841a-2199-4cf7-9892-4fcaa46d7fa1,Deadly Sins Brewing,micro,750 Jackson Ave Ste 102,,,Winter Park,Florida,32789-4673,United States,4079008726,http://www.deadlysinsbrewing.com,,
 d2f3c749-faf4-4551-a912-c207ccbc141a,Deadwood Brewery / Boston Bowl,brewpub,820 William T Morrissey Blvd,,,Boston,Massachusetts,02122-3404,United States,6177401440,http://www.deadwoodbrewery.com,-71.04799748,42.29485605
 e18fd074-fb35-422b-85bd-b5ce56b72d2a,Dean and Co,micro,201 Grant St,,,La Junta,Colorado,81050,United States,,,,
@@ -5442,7 +5443,7 @@ caf2d686-872a-423f-9593-6ec537c7f13e,Old Nation Brewing Company,micro,1500 W. Gr
 b02c0a0c-840d-459e-b9e9-347cd9ebfc44,Old Ox Brewery LLC,micro,44652 Guilford Dr Ste 114,,,Ashburn,Virginia,20147-6006,United States,7037298375,http://www.oldoxbrewery.com,-77.45608031,39.02226368
 2582e5ad-5382-4e33-a5a3-7c0e321b7208,Old Planters Brewing Co.,micro,100 Corning St,,,Beverly,Massachusetts,01915-3837,United States,9785226446,http://www.oldplanters.com,-70.86287139,42.55499645
 6ce2c54b-2304-46e8-a50d-ffc84489ed06,Old Possum Brewing Company,brewpub,357 Sutton Pl,,,Santa Rosa,California,95407,United States,7073037177,http://www.oldpossumbrewing.com,-122.7252078,38.39097419
-ebc2f1b3-852f-4e01-b412-09a669cd0c7f,Old Rail Brewing Co,brewpub,639 Girod St,,,Mandeville,Louisiana,70448-5205,United States,9856121828,http://www.oldrailbrewing.com,-90.06386106,30.35985466
+ebc2f1b3-852f-4e01-b412-09a669cd0c7f,Old Rail Brewing Co,closed,639 Girod St,,,Mandeville,Louisiana,70448-5205,United States,9856121828,http://www.oldrailbrewing.com,-90.06386106,30.35985466
 43e3961c-245d-448b-9745-6be68d5bd105,Old Redwood Brewing Co,closed,9000 Windsor Rd # A,,,Windsor,California,95492-9701,United States,7076577624,http://www.oldredwoodbrewing.com,-122.8166482,38.5475452
 0b2aaada-2557-45f9-a039-b4a41832183f,Old Schoolhouse Brewery,brewpub,155 Riverside Ave,,,Winthrop,Washington,98862-0577,United States,5099963183,http://www.oldschoolhousebrewery.com,-120.1866354,48.47814625
 788d873c-70cc-4d9e-94f5-a2675f2c23fa,Old Soul Brewing,micro,10970 S Cleveland Ave Ste 402,,,Fort Myers,Florida,33907-2315,United States,2393344334,http://www.oldsoulbrewcompany.com,,
