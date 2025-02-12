@@ -1,6 +1,6 @@
 import { readFileSync } from "fs";
 import { join } from "path";
-import glob from "glob-promise";
+import { glob } from "glob";
 import Papa from "papaparse";
 import { Brewery } from "./types";
 import { papaParseOptions } from "./config";

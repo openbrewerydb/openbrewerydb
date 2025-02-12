@@ -17,8 +17,15 @@ function generateId(brewery: Brewery, suffix: null | string = null) {
   );
 }
 
+// Helper function to check if an ID is unique
+function isUnique(id: string, collection: Record<string, any>): boolean {
+  return collection[id] === undefined;
+}
+
 const main = () => {
   let obdbIdMapping = new Map<string, string>();
+  const breweries: Record<string, Brewery> = {};
+  const duplicates: Record<string, Brewery[]> = {};
 
   try {
     const csvFile = readFileSync(csvFilePath, { encoding: "utf-8" });
@@ -29,7 +36,7 @@ const main = () => {
     for (let brewery of result.data) {
       const obdbId = generateId(brewery);
       if (isUnique(obdbId, breweries) && isUnique(obdbId, duplicates)) {
-        brewery.obdb_id = obdbId;
+        brewery.id = obdbId;
         breweries[obdbId] = brewery;
       } else {
         if (duplicates[obdbId] === undefined) {
@@ -47,14 +54,14 @@ const main = () => {
         for (let i = 0; i < duplicates[key].length; i++) {
           const dedupedBrewery = duplicates[key][i];
           const obdbId = generateId(dedupedBrewery, (i + 1).toString());
-          dedupedBrewery.obdb_id = obdbId;
+          dedupedBrewery.id = obdbId;
           breweries[obdbId] = dedupedBrewery;
         }
       }
     }
 
     const sortedBreweries = Object.values(breweries).sort((a, b) =>
-      a.obdb_id < b.obdb_id ? -1 : 1
+      a.id < b.id ? -1 : 1
     );
 
     if (result.data.length === sortedBreweries.length) {
