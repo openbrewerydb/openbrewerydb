@@ -24,6 +24,9 @@
     "validate": "ts-eager --unhandled-rejections=strict ./src/validate-csv.ts",
     "workflow:maintain": "run-s validate csv:combine csv:split generate:json generate:sql"
   },
+  "engines": {
+    "node": "22.x"
+  },
   "devDependencies": {
     "@types/glob": "^8.1.0",
     "@types/mustache": "^4.2.1",
