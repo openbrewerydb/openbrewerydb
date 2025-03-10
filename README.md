@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-57-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-58-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -276,6 +276,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Wi5ARD"><img src="https://avatars.githubusercontent.com/u/42097753?v=4?s=100" width="100px;" alt="Wi5ARD"/><br /><sub><b>Wi5ARD</b></sub></a><br /><a href="#data-Wi5ARD" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jpbulman.com/"><img src="https://avatars.githubusercontent.com/u/12652192?v=4?s=100" width="100px;" alt="JP Bulman"/><br /><sub><b>JP Bulman</b></sub></a><br /><a href="#data-jpbulman" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
