@@ -6,7 +6,7 @@
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
 
-This is the open-source dataset for the [Open Brewery DB API](https://www.openbrewerydb.org/) which is served by a [REST API built with Ruby on Rails](https://github.com/chrisjm/openbrewerydb-rails-api)
+This is the open-source dataset for the [Open Brewery DB API](https://www.openbrewerydb.org/) which is served by a [REST API built with Laravel](https://github.com/openbrewerydb/openbrewerydb-laravel-api)
 
 ## 🎯 Purpose
 
