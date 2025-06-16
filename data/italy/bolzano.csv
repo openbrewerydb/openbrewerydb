@@ -1,0 +1,5 @@
+id;name;brewery_type;address_1;address_2;address_3;city;state_province;postal_code;country;phone;website_url;longitude;latitude
+fc1a8b7d-4870-408a-8810-3dd7720df531;Floribunda;nano;Via Aldo Moro 2;;;Salorno;Bolzano;39040;Italy;+39 334 1449 150;https://www.floribunda.it/;46.24338001970647;11.215853689066979
+299656e1-ccc9-4659-8fe8-e62b86be62eb;Batzen;regional;Via Andreas Hofer 30;;;Bolzano;Bolzano;39100;Italy;+39 0471 050 950;https://www.batzen.it/brauerei/;46.501855459781744;11.35737635854895
+fc2985d7-f666-4922-bb61-819ddf0c8f88;Gassl Bräu;micro;Via conciatori 18;;;Chiusa;Bolzano;39043;Italy;+39 0472 523 623;https://www.gassl-braeu.it/;46.640560455837736;11.564648173988987
+a6e8b0d5-d8ba-4206-bd8b-31c1e8cf1061;Brauerei Forst;large;Via Venosta 10;;;Lagundo;Bolzano;39022;Italy;+39 0473 260 111;https://www.forst.it/;46.67751201634895;11.117459635399072
