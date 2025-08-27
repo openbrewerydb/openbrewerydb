@@ -1,12 +1,12 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-57-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-60-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
 
-This is the open-source dataset for the [Open Brewery DB API](https://www.openbrewerydb.org/) which is served by a [REST API built with Ruby on Rails](https://github.com/chrisjm/openbrewerydb-rails-api)
+This is the open-source dataset for the [Open Brewery DB API](https://www.openbrewerydb.org/) which is served by a [REST API built with Laravel](https://github.com/openbrewerydb/openbrewerydb-laravel-api)
 
 ## 🎯 Purpose
 
@@ -276,6 +276,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Wi5ARD"><img src="https://avatars.githubusercontent.com/u/42097753?v=4?s=100" width="100px;" alt="Wi5ARD"/><br /><sub><b>Wi5ARD</b></sub></a><br /><a href="#data-Wi5ARD" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jpbulman.com/"><img src="https://avatars.githubusercontent.com/u/12652192?v=4?s=100" width="100px;" alt="JP Bulman"/><br /><sub><b>JP Bulman</b></sub></a><br /><a href="#data-jpbulman" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/sarakaneki"><img src="https://avatars.githubusercontent.com/u/115870918?v=4?s=100" width="100px;" alt="Sara"/><br /><sub><b>Sara</b></sub></a><br /><a href="#data-sarakaneki" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://seanwp.pythonanywhere.com/"><img src="https://avatars.githubusercontent.com/u/133682090?v=4?s=100" width="100px;" alt="Sean"/><br /><sub><b>Sean</b></sub></a><br /><a href="#data-SeanRVACode" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
