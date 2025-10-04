@@ -459,7 +459,7 @@ be30d928-4a14-45eb-a944-89b01b544080,Aslan Brewing Company,micro,1330 N Forest S
 9c9090eb-a361-47e7-b2e5-06fefe21eef7,Aslan Brewing Seattle,micro,401 N 36th St Ste 102,,,Seattle,Washington,98103-8630,United States,3603934106,https://aslanbrewing.com/seattle,-122.354134,47.652201
 59bdcaa8-a690-429d-8f85-539eb4e57120,Aslin Beer Company,micro,257 Sunset Park Dr.,,,Herndon,Virginia,20170,United States,7037875766,http://www.aslinbeer.com,,
 5b2501b2-d069-4e5f-8c6b-ef9f6ee408cd,Aspen Brewing Company,micro,404 Aspen Airport Business Ctr,,,Aspen,Colorado,81611-3530,United States,9709202739,http://www.aspenbrewingcompany.com,-106.8597747,39.22153402
-60195a53-786c-4540-ae1d-a3bbca7a41fd,Aspetuck Brew Lab,micro,3389 Fairfield Avenue,,,Bridgeport,Connecticut,06605,United States,2032539423,http://www.aspetuckbrewlab.com,-73.2357109,41.1544649
+60195a53-786c-4540-ae1d-a3bbca7a41fd,Aspetuck Brew Lab,closed,3389 Fairfield Avenue,,,Bridgeport,Connecticut,06605,United States,2032539423,http://www.aspetuckbrewlab.com,-73.2357109,41.1544649
 eafb7a5f-83c9-427b-b894-8ea1d0751c31,Ass Clown Brewing Co,micro,10620 Bailey Rd Ste E,,,Cornelius,North Carolina,28031-9364,United States,9805050399,http://www.assclownbrewery.com,,
 4cabbfbc-d07c-40b0-b5f5-fa456c22b7a2,Assembly brewing,planning,,,,Portland,Oregon,97206-3739,United States,5037299080,http://www.assemblybrewingco.com,-122.6003912,45.491048
 215dc8f1-754b-4dac-a448-255375c5a8d9,Aston Abbey Brewing Co,micro,340 Turner Industrial Way,,,Aston,Pennsylvania,19014-3014,United States,6102452178,http://www.astonabbeybrewing.com,,
@@ -1830,7 +1830,7 @@ bbae1c38-aaae-4d38-b72a-9ed1ded92f05,Chubby Squirrel Brewing Company,brewpub,103
 813e88ed-ddef-4c0c-9151-66ab6f745a2e,Chuckanut Brewery - North Nut,closed,601 W Holly St,,,Bellingham,Washington,98225-3920,United States,3607523377,https://chuckanutbrewery.com/north-nut/,-122.4851164,48.7533261
 9c5edc2a-5f36-449f-b407-dc124c466fe9,Chula Vista Brewery,micro,294 Third Ave,,,Chula Vista,California,91910-2701,United States,6196168806,http://www.chulavistabrewery.com,-117.080369,32.641495
 f644ee47-6458-4a46-9c25-b7e1ef8dd2e0,Church Brew Works/Lawrenceville Brewery Inc.,brewpub,3525 Liberty Ave,,,Pittsburgh,Pennsylvania,15201-1324,United States,4126888200,http://www.churchbrew.com,-79.9643613,40.4620769
-3c601a1e-82a4-4cc3-a407-3a5e6306438a,Church Owl Beer,micro,,,,Stratford,Connecticut,06615-7320,United States,,http://www.churchowlbeer.com,,
+3c601a1e-82a4-4cc3-a407-3a5e6306438a,Church Owl Beer,closed,,,,Stratford,Connecticut,06615-7320,United States,,http://www.churchowlbeer.com,,
 6fae9a05-6763-4a14-9812-bc6101b5860c,Church Street Brewing Company,micro,1480 Industrial Dr Ste C,,,Itasca,Illinois,60143-1857,United States,6307098851,http://www.churchstreetbrew.com,,
 14ea4e7c-498c-417e-89e9-eabaf9b7051f,Cibolo Creek Brewing Co.,brewpub,448 S Main St,,,Boerne,Texas,78006-2338,United States,8308165275,http://www.cibolocreekbrewing.com,-98.72996029,29.79015427
 acf2e29a-72cf-4d57-8de8-99681e6cf598,Ciclops Cyderi and Brewery,brewpub,197 E Saint John St,,,Spartanburg,South Carolina,29306-5121,United States,8647049080,http://www.ciclopscyderiandbrewery.com,-81.92952168,34.95241345
@@ -1877,7 +1877,7 @@ da01256e-6b46-4fb2-94e4-e18d5fe01b65,Clemson Bros. Brewery,brewpub,22 Cottage St
 418f4dca-b6cc-46ef-bdd8-fb7a4febb9e8,Cleophus Quealy Beer Company,micro,448 Hester St,,,San Leandro,California,94577-1024,United States,,http://www.cleoph.us,-122.1914202,37.72210256
 84229303-605d-4216-be85-cd5ad19ccb91,Clermont Brewing Company,planning,,,,Clermont,Florida,34711-2108,United States,,,,
 a630d9e9-b184-4c4f-aa32-56e61cfd6c92,Cleveland Brewing Company @ Butcher and The Brewer,brewpub,2043 E 4th St,,,Cleveland,Ohio,44115-1023,United States,,,-81.690036,41.4991502
-9aab61ae-eeb8-493e-8c80-92e79bd86a2c,Cliffside Brewing,micro,16B Center St,,,Wallingford,Connecticut,06492-4110,United States,,http://www.cliffsidebrewing.com,-72.8236736,41.45664583
+9aab61ae-eeb8-493e-8c80-92e79bd86a2c,Cliffside Brewing,closed,16B Center St,,,Wallingford,Connecticut,06492-4110,United States,,http://www.cliffsidebrewing.com,-72.8236736,41.45664583
 8690decb-8627-47c1-8a42-bf73cca5662e,Climate City Brewing Co.,brewpub,509 SW G St,,,Grants Pass,Oregon,97526-2472,United States,5414793725,http://www.climatecitybrewing.com,-123.3313287,42.4401171
 3f324410-c135-498c-b5cc-4116df6d9f8f,Climax Brewing Co,micro,112 Valley Rd,,,Roselle Park,New Jersey,07204-1402,United States,9086209585,http://www.climaxbrewing.com,-74.28252639,40.65943179
 03c5e7d6-e98d-481f-ad60-64d363f20446,Climber Nine Brewing,planning,,,,Cameron Park,California,95682-8975,United States,,,-120.9851442,38.68200185
@@ -2504,7 +2504,7 @@ ebb7e49d-a6ed-48e1-a9cb-4a9343e8034b,Dungeon Hollow Brewing,micro,572 County Rd 
 ae111ea0-b5a2-46f0-9e64-bcc1ecadca27,Durty Bull Brewing Co.,micro,206 Broadway St Ste 104,,,Durham,North Carolina,27701-2404,United States,9196882337,http://www.durtybull.com,,
 cbf07548-d3c6-4cb2-92a6-cf16e1375846,Dust Bowl Brewing Co,micro,3000 Fulkerth Rd,,,Turlock,California,95380-9403,United States,2096341934,http://www.dustbowlbrewing.com,-120.8826535,37.50655825
 33ca4264-c729-4345-b454-8a6d7a04da88,Dutch's BrewHouse,brewpub,4244 Atlantic Ave,,,Long Beach,California,90807-2802,United States,5623361326,http://dutchsbrewhouse.com,-118.1859647,33.8781951
-5d2bad15-ad08-486d-b92a-4c70fc276f7e,Duvig Brewing Co,micro,59 School Ground Rd Ste 10,,,Branford,Connecticut,06405-2868,United States,2032082213,http://www.duvig.com,,
+5d2bad15-ad08-486d-b92a-4c70fc276f7e,Duvig Brewing Co,closed,59 School Ground Rd Ste 10,,,Branford,Connecticut,06405-2868,United States,2032082213,http://www.duvig.com,,
 c50af63f-c38a-4d1d-a15e-bd676e055505,Dwinell Country Ales,micro,206 W Broadway St,,,Goldendale,Washington,98620-9130,United States,5097733138,http://www.countryales.com,-120.8247773,45.822927
 b691e779-d2ff-46dc-9171-46b99a9043e1,Dyckman Beer Co,contract,,,,Bronx,New York,10451,United States,,http://www.dyckmanbeerco.com,,
 8870078b-8ebf-4c47-9ae5-1db667dc247d,Dynasty Brewing Company,planning,,,,Ashburn,Virginia,20147,United States,7037279229,http://www.dynastybrewing.com,,
@@ -3371,7 +3371,7 @@ f2734f1f-4106-4b74-84b6-16ee5d4e0f1c,Great Divide Brewery & Roadhouse - Castle R
 6a8bae2f-396a-4349-90f5-f4dc6c4ea5e8,Great Divide Brewery & Roadhouse - Lone Tree,brewpub,9978 Sky Ridge Ave #240,,,Lone Tree,Colorado,80124,United States,7205472533,https://www.greatdividebreweryandroadhouse.com/,-104.873104,39.5323743
 8d07cc1f-6941-4ee7-8fbe-6ce91eb7b098,Great Divide Brewing Co,regional,2201 Arapahoe St,,,Denver,Colorado,80205-2512,United States,3032969460,http://www.greatdivide.com,-104.9885279,39.7539229
 419be70a-a970-41f1-99cd-0b42875001e5,Great Divide Brewing Co - RiNo Barrel Bar,micro,1812 35th St,,,Denver,Colorado,80216-3665,United States,3032969460,http://greatdivide.com/,-104.979247,39.7703322
-9a89836a-5d4d-46f4-b51c-4150cc63fc72,Great Falls Brewing Company,planning,,,,Canaan,Connecticut,06018,United States,8609217843,http://GreatFallsBrews.com,,
+9a89836a-5d4d-46f4-b51c-4150cc63fc72,Great Falls Brewing Company,closed,,,,Canaan,Connecticut,06018,United States,8609217843,http://GreatFallsBrews.com,,
 cbf3ff33-da42-4d33-9a6e-8fe1aec55b7c,Great Flats Brewing,micro,151 Lafayette St,,,Schenectady,New York,12305-2051,United States,5182800232,http://www.greatflatsbrewing.com,-73.93839638,42.81243538
 461de6a5-8f4f-4422-a103-df77bd33e6af,Great Flood Brewing,micro,2120 Bardstown Rd,,,Louisville,Kentucky,40205-1916,United States,5024577711,http://www.greatfloodbrewing.com,-85.6938076,38.2239974
 cc9854cc-ed86-4336-8a59-4076b40248a5,Great Flood Brewing- Production Facility,micro,629 Bergman St,,,Louisville,Kentucky,40203-2618,United States,5024577711,,-85.74511415,38.2290463
@@ -4018,6 +4018,7 @@ a5aec8f0-08ed-49ea-a440-7b30f2aadb79,Island To Island Brewery,brewpub,642 Rogers
 29f0a24d-a6b6-4b3b-999f-37ae825c6e5e,Islay Ales,micro,Islay House Square,Bridgend,,Isle of Islay,Argyll,PA44 7NZ,Scotland,1496810014,https://www.islayales.com/,-6.2511858,55.7845598
 71d2dd5e-51f1-4e20-a625-09d404e487ce,Isley Brewing Company,micro,1715 Summit Ave,,,Richmond,Virginia,23230-4515,United States,8047162132,http://www.isleybrewingcompany.com,-77.46838631,37.56890085
 7e491720-4757-4f4e-9353-71fbb1f4acda,Islla Street Brewing Company,micro,11911 Crosswinds Way,,,San Antonio,Texas,78233,United States,210-771-6532,http://www.isllastreetbrewing.com/,-98.3775366,29.547909
+90ffbd84-7f7e-4caa-acba-2a7a93212e65,ISM Brewing & Kitchen,brewpub,210 E 3rd St,Unit A,,Long Beach,California,90802,United States,5624360497,https://ism.beer/,-118.19088877346623,33.77016332332773
 6e667bb3-b1d5-42ad-96ef-bdee307a9ad5,Itasca Brewing Company Inc,micro,400 E Orchard St Ste B,,,Itasca,Illinois,60143-1773,United States,7738994998,http://www.itascabrewingcompany.com,,
 315fd733-fd6e-4619-af95-98ef88bfba74,Ithaca Beer Co,regional,122 Ithaca Beer Dr,,,Ithaca,New York,14850-8813,United States,6072730766,http://www.ithacabeer.com,,
 d94d1ba9-02f8-4da2-be5e-2fdc0bb2f582,Ivanhoe Aleworks,micro,220 W Main St,,,Denison,Texas,75020-3025,United States,9034640030,,-96.53729048,33.75528217
@@ -5259,7 +5260,7 @@ b0c7325d-5406-4b94-9a9b-9f951189a42c,Nimble Brewing,micro,1735 Oak St,,,Kansas C
 bd119567-1524-49cd-a608-4b15f885a7f7,No Clue Craft Brewery,micro,9037 Arrow Rte Ste 170,,,Rancho Cucamonga,California,91730-4433,United States,9099892394,http://www.nocluebrew.com,-117.5410707,34.0990988
 993fa956-4a45-4a84-94c7-975cea6e9602,No Drought Brewing Co,micro,10604 E 16th Ave,,,Spokane Valley,Washington,99206,United States,4257735309,https://nodroughtbrewing.com,-117.2624031,47.64269047
 ede002ca-e4fd-42ad-8f34-f355339bec32,No Label Brewing Co,micro,5351-A 1st St,,,Katy,Texas,77493-2506,United States,2816937545,http://www.nolabelbrew.com,,
-ab6833ed-c009-48fc-9c28-66b346f3a66d,No Worries Brewing Company,micro,2520 State St,,,Hamden,Connecticut,06517-3004,United States,2036916662,http://www.noworriesbeer.com,,
+ab6833ed-c009-48fc-9c28-66b346f3a66d,No Worries Brewing Company,closed,2520 State St,,,Hamden,Connecticut,06517-3004,United States,2036916662,http://www.noworriesbeer.com,,
 a2f1cd52-8d42-4763-935d-f6d3846e163b,No-Li Brewhouse,micro,1003 E Trent Ave Ste 170,,,Spokane,Washington,99202-2185,United States,5093154061,http://www.nolibrewhouse.com,-117.3935426,47.6637169
 365669a0-156f-4d7c-8f11-e50bf0b85c80,Noble Ale Works,micro,1621 S Sinclair St Ste B,,,Anaheim,California,92806-5947,United States,7146342739,http://www.noblealeworks.com,-117.8826431,33.80875036
 cd6e88e8-4e7d-4c49-bffe-278c5e329313,Noble Beast Brewing Co.,brewpub,1470 Lakeside Ave E,,,Cleveland,Ohio,44114-1137,United States,7175859216,http://noblebeastbeer.com,-81.68692334,41.50768107
@@ -7040,7 +7041,7 @@ e4a8b737-6725-4ec2-b635-e43f8fcb1de4,Stones Throw Brewery,micro,1009 Larrabee Av
 259107e5-6645-48b5-a986-80d207d43aa0,Stoney Acres Farm,brewpub,7002 Rangeline Rd,,,Athens,Wisconsin,54411,United States,7154326285,http://www.stoneyacresfarm.net,,
 58092f14-3cd5-47c0-8077-7f11c1ef9e96,Stoneyard Brewing Company,brewpub,48 Merchant St,,,Brockport,New York,14420,United States,5856373390,http://www.stoneyardbrewingcompany.com,,
 572461d6-ab19-4469-b9c8-937a98b37941,StoneyHead Brewing LLC,micro,5301 Longley Ln Ste 84C,,,Reno,Nevada,89511-1873,United States,7758292337,http://www.stoneyheadbrewing.com,,
-b1b259ea-a03c-4836-80eb-c222770dacf3,Stony Creek Brewery,regional,5 Indian Neck Ave,,,Branford,Connecticut,06405-4615,United States,2034334545,http://www.stonycreekbeer.com,-72.81330366,41.27475355
+b1b259ea-a03c-4836-80eb-c222770dacf3,Stony Creek Brewery,closed,5 Indian Neck Ave,,,Branford,Connecticut,06405-4615,United States,2034334545,http://www.stonycreekbeer.com,-72.81330366,41.27475355
 667f8870-c7eb-4b5d-8d80-3fa37f7e1de7,Stony Creek Brewery At Foxwoods Resort Casino,closed,,,,Mashantucket,Connecticut,06338-3830,United States,8603123000,,,
 2540a41e-870c-4298-b711-e9b1da63bc2d,Stony Lake Brewing Company,micro,447 E Michigan Ave,,,Saline,Michigan,48176-1547,United States,7343167919,http://www.stonylakebrewing.com,-83.7735354,42.17041729
 37181ee1-680d-41f3-811a-34b4abab22d4,Storm Peak Brewing Company,micro,1885 Elk River Plz Unit 4,,,Steamboat Springs,Colorado,80487-5237,United States,9708791999,http://www.stormpeakbrewing.com,,
@@ -7468,7 +7469,7 @@ e8d5827b-34d2-4e73-83e9-8f0f118c3587,The Woodlands At SweetWater,micro,215 Ottle
 82cf46b2-ab8d-4efd-9f75-a3e910c9a9bb,There Does Not Exist,planning,,,,San Luis Obispo,California,93401,United States,,http://www.theredoesnotexist.com,-120.6596156,35.2827525
 714524c7-19aa-4b05-9a40-72f641b91d3d,These Guys Brewing Company,brewpub,78 Franklin St,,,Norwich,Connecticut,06360-5806,United States,8609498550,http://www.theseguysbrewig.com,-72.07474352,41.52487646
 b9faff23-c49c-4adb-a11c-5672cd383961,Thew Brewing Company,micro,301 2nd Ave,,,Cedar Rapids,Iowa,52404,United States,3193438439,http://www.thewbrew.com,-91.67294,42.035746
-566c3a39-7a96-460d-b55a-89ea82f6ca34,Thimble Island Brewery,micro,16 Business Park Dr,,,Branford,Connecticut,06405-2924,United States,2032082827,http://www.thimbleislandbrewery.com,-72.77202768,41.29695786
+566c3a39-7a96-460d-b55a-89ea82f6ca34,Thimble Island Brewery,closed,16 Business Park Dr,,,Branford,Connecticut,06405-2924,United States,2032082827,http://www.thimbleislandbrewery.com,-72.77202768,41.29695786
 f26c65be-a08b-4bb5-a053-5a0c63ae4ff0,Thin Man Brewery,brewpub,486 Elmwood Ave,,,Buffalo,New York,14222-2014,United States,7169234100,http://www.thinmanbrewery.com,-78.87720285,42.91037815
 e56e71b6-8a59-47b5-a4ee-b91451ad4d81,Think Tank Brew Lab,planning,,,,Greenville,South Carolina,29607,United States,,http://www.thinktankbrewlab.com,,
 0fd31f1d-0bc5-402a-ab2c-86d414218398,Third Barrel Brewing,micro,Bluebell Avenue,Bluebell Industrial Estate,Dublin 12,Dublin,Dublin,D12 NPF9,Ireland,353014604387,https://thirdbarrel.com/,-6.3506651,53.3308805
@@ -7831,7 +7832,7 @@ b1ef75c0-ad17-4e34-aaf1-761af30aee08,Union House Brewing LLC,planning,,,,Plum Ci
 6812f970-918c-4d57-be26-4b33baff46f0,Uniontown Brewing Co.,brewpub,105 W Main St,,,Ashland,Ohio,44805-2221,United States,4199088542,http://www.uniontownbrewing.com,-82.31638932,40.8686238
 1a2e0257-a0c5-4ea9-b786-5d5585674596,Unknown Brewing Company,micro,1327 S Mint St,,,Charlotte,North Carolina,28203-4121,United States,9802372628,http://www.unknownbrewing.com,-80.8575419,35.2205129
 eddf1dc7-c32f-490f-8180-afe44f36438a,Unlawful Assembly Brewing Company,brewpub,7800 Windrose Ave,,,Plano,Texas,75024-0114,United States,9728967668,http://www.unlawfulassembly.com,-96.8267889,33.078317
-89f7f1eb-3dbd-40d1-b530-aad3166b8ef0,Unleashed Brewing Company,planning,,,,Stonington,Connecticut,06378-1628,United States,,http://www.unleashedbrewing.com,,
+89f7f1eb-3dbd-40d1-b530-aad3166b8ef0,Unleashed Brewing Company,closed,,,,Stonington,Connecticut,06378-1628,United States,,http://www.unleashedbrewing.com,,
 6eab32b5-1f19-44bf-9901-285deb3581f8,Unmapped Brewing Co.,micro,14625 Excelsior Blvd,,,Minnetonka,Minnesota,55345-6605,United States,9525009622,http://www.unmappedbrewing.com,-93.46551151,44.90425928
 00ea9c67-130c-4fa0-9b92-8cfb2b6ca81f,"Unnamed Beer Company, LLC",planning,,,,Boulder,Colorado,80301,United States,,http://www.unnamedbeer.com,,
 a2a27dba-f20a-4d98-a29c-005a2dfbe724,Unruly Brewing Company,micro,360 W Western Ave,,,Muskegon,Michigan,49440-1273,United States,2312881068,http://www.unrulybrewing.com,-86.25381541,43.23504367
@@ -7913,7 +7914,7 @@ e4e8348e-71ba-41df-b571-b866fffbf050,Venice Ale House Brewing Co,contract,2 Rose
 be340e56-0609-44de-a684-eca999c2b5a4,Venice Duck Brewery,contract,,,,Venice,California,90291-3833,United States,3103834927,http://www.veniceduckbrewery.com,-118.4668875,33.995044
 cdb0ccdd-a7c9-457e-aaef-2aacb17954b9,Venn Brewing Company,micro,3550 E 46th St Suite 140,,,Minneapolis,Minnesota,55406-3965,United States,,http://www.vennbrewing.com,,
 f74cf0da-72f1-449c-b2ec-81b5fcd848bf,Ventura Coast Brewing Company,micro,76 S Oak St,,,Ventura,California,93001-2702,United States,8056678640,http://www.vcbc.beer,-119.2945588,34.27988394
-007923ef-19cb-4433-be8e-355ff64b34e7,Veracious Brewing Company,micro,246 Main St,,,Monroe,Connecticut,06468-1171,United States,2038805670,http://www.veraciousbrewing.com,,
+007923ef-19cb-4433-be8e-355ff64b34e7,Veracious Brewing Company,closed,246 Main St,,,Monroe,Connecticut,06468-1171,United States,2038805670,http://www.veraciousbrewing.com,,
 d217a26e-7eec-4618-b32c-2689c76b92c3,Verboten Brewing,micro,127 E 5th St,,,Loveland,Colorado,80537-5503,United States,9707757371,http://www.verbotenbrewing.com,-105.0749674,40.39658612
 2d9ff9d8-6a92-49fd-b03c-d77bbb371600,Verde Brewing Company,micro,724 Industrial Dr Unit 7A,,,Camp Verde,Arizona,86322,United States,9285678626,http://www.verdebrewing.com,,
 5504068e-77c6-41c1-a1a2-01b796b52cd1,Verdugo West Brewing Company,micro,156 W Verdugo Ave,,,Burbank,California,91502-2132,United States,8188415040,http://www.verdugowestbrewing.com,-118.3103682,34.17375015
