@@ -1,0 +1,48 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+8e3da0ab-cbfe-4264-a7d3-0fbcd697e64c,Barossa Valley Brewing,micro,2A Murray Street,,,Tanunda,SA,5352,Australia,+61 8 8563 0696,http://www.bvbeer.com.au/,138.949246,-34.5298193
+2fd04e11-b782-40c8-9d56-49698bbf2afa,Beer Garden Brewing,micro,28 London Street,,,Port Lincoln,SA,5606,Australia,+61 8 7530 1400,http://www.portlincoln.beer/,135.8699779,-34.724806
+e0c54ca2-410c-4279-86da-1c10b44e2f2b,Big Shed Brewing Co,micro,1154 Old Port Road,,,Royal Park,SA,5014,Australia,+61 8 8240 5037,http://www.bigshed.beer/,138.5107437,-34.8649329
+c0bc0f33-14bc-4a3c-b056-176cf994a79e,Big Shed Brewing Concern,micro,1154 Old Port Road,,,Royal Park,SA,5014,Australia,+61 8 8240 5037,http://www.bigshed.beer/,138.5107437,-34.8649329
+977dd7c4-75e8-4d1b-bcc6-7e448aa908a7,Bowden Brewing,micro,12 Fourth Street,,,Bowden,SA,5007,Australia,,https://bowdenbrewing.com/,138.5786305,-34.9060177
+b18961e9-ba20-4b30-86f7-0c2366b042d7,Cooper Family,large,230 Regency Road,,,Regency Park,SA,5010,Australia,+61 8 8440 1800,https://coopers.com.au/,138.5737899,-34.8748433
+1ffe568d-9d56-4b96-adb1-b545bbd5320f,Fox Hat Brewing,micro,128 Ingoldby Road,,,McLaren Flat,SA,5171,Australia,+61 8 8151 0404,https://www.foxhatbrewing.com.au/,138.5931222,-35.1948624
+d6a7156a-1229-4922-a49f-74fdf267f9fd,Fox Hat Brewing Co.,micro,128 Ingoldby Road,,,McLaren Flat,SA,5171,Australia,+61 8 8151 0404,https://www.foxhatbrewing.com.au/,138.5931222,-35.1948624
+a9b2c809-ac4d-4a4e-ab86-23eb70015827,Gawler River Brewing Co.,micro,1029 Dawkins Road,,,Gawler River,SA,5118,Australia,+61 478 960 342,,138.6433491,-34.6121645
+df18d9c7-51ad-44b4-a693-02658b23ac8b,Goodieson,micro,194 Sand Road,,,McLaren Vale,SA,5171,Australia,+61 409 676 542,https://www.goodiesonbrewery.com.au/,138.5798321,-35.2177862
+123b5e5c-36a0-4ab7-8590-b433bc00110e,Jump Ship Brewing,micro,11-13 Edinburgh Street,,,Port Lincoln,SA,5606,Australia,+61 407 171 971,http://www.jumpshipbrewing.com.au/,135.8605863,-34.7241695
+ee425504-a1ac-4318-916d-3fb918079230,Kick Back Brewing Co,micro,11 Old Coach Road,,,Aldinga,SA,5173,Australia,+61 423 739 745,http://www.kickbackbrewing.com.au/,138.4828559,-35.2679294
+f45b808e-219d-4ccf-bbd2-a81c6161fcfc,Lady Burra Brewhouse,micro,4 Topham Mall,,,Adelaide,SA,5000,Australia,+61 8 8231 8928,https://www.ladyburrabrewhouse.com.au/,138.5977858,-34.9248574
+b8756226-5b2f-419b-bae2-a04549d3b78d,Little Bang Brewing Co.,micro,25 Henry Street,,,Stepney,SA,5069,Australia,+61 8 8362 7761,https://littlebang.com.au/,138.6255729,-34.9148094
+0bce65d5-d04c-4b2d-9f2a-6440a8a644aa,Little Bang Brewing Company,micro,25 Henry Street,,,Stepney,SA,5069,Australia,+61 8 8362 7761,https://littlebang.com.au/,138.6255729,-34.9148094
+82d36728-935e-4ed7-897a-af821be16d7d,Little Blessings Brewing,micro,38 Victoria Street,,,Laura,SA,5480,Australia,+61 493 799 232,http://www.littleblessingsbrewing.com.au/,138.3011384,-33.1801514
+92fbdabe-13d5-4cc6-bc08-54a0e536260c,Little Pete Brewing,micro,543 Step Road,,,Langhorne Creek,SA,5255,Australia,+61 438 262 966,http://www.littlepetebrewing.com.au/,139.0324059,-35.3327593
+cabf373a-6fa7-4450-ad02-6d7dfe964491,Little Rippa Brewing Co.,micro,107 Ruwoldt Road,,,Yahl,SA,5291,Australia,,https://littlerippabrewingco.com.au/,140.830226,-37.8548477
+6c103fb0-7517-4c59-a70b-dc6bb0889ad1,Lobethal Bierhaus,micro,3A Main Street,,,Lobethal,SA,5241,Australia,+61 8 8389 5570,http://www.bierhaus.com.au/,138.8734721,-34.9072717
+c1c302ab-3ee9-4ebf-983f-ff27fed3cb32,Lone Gum Farmhouse,micro,Devon Street,,,Lonsdale,SA,5160,Australia,+61 452 209 784,http://lonegumfarmhouse.com/,138.5005547,-35.1162351
+4a3f72fc-5a78-4d32-a149-ed9f4dd9d9ea,Loophole Brewing,micro,Limestone Coast Road,,,Wangolina,SA,5275,Australia,+61 8 8768 5053,http://www.loopholebrewing.com.au/,139.7581393,-36.9698048
+6df8ee9c-596f-47ad-a4dc-2dc59ac57c66,Ministry of Beer,micro,1 Lyndoch Valley Road,,,Lyndoch,SA,5351,Australia,+61 402 572 229,http://www.ministryofbeer.com.au/,138.8912853,-34.6015664
+bae421ad-41a3-48f8-aef4-536f3accc455,Mismatch Brewing Co,micro,317 Morphett Street,,,Adelaide,SA,5000,Australia,+61 8 7009 4216,https://www.mismatchbrewingadl.com.au/,138.5938151,-34.931714
+132199d7-65f1-4362-8baf-abaab4763334,Mismatch Brewing Co.,micro,317 Morphett Street,,,Adelaide,SA,5000,Australia,+61 8 7009 4216,https://www.mismatchbrewingadl.com.au/,138.5938151,-34.931714
+fc5a19c0-7f02-4f50-834e-e4a3f02a37d5,Parachilna Brew Project,micro,West Terrace,,,Parachilna,SA,5730,Australia,+61 1800 331 473,https://www.prairiehotel.com.au/,138.39551,-31.1326753
+a051ba94-9f47-4313-9dc7-ebb8ad2a5069,Pikes Beer Co.,micro,233 Polish Hill Road,,,Polish Hill River,SA,5453,Australia,+61 8 8843 4370,http://www.pikesbeercompany.com.au/,138.675003,-33.8874435
+e21b6aea-a78f-498d-9bb0-469b4deeac4b,Pirate Life Brewing,large,18 Baker Street,,,Port Adelaide,SA,5015,Australia,+61 8 8317 2111,https://piratelife.com.au/,138.5096616,-34.8445271
+66a3e623-89dd-482b-b87f-aff2f1d293fc,Port Dock Brewery Hotel,micro,18 Baker Street,,,Port Adelaide,SA,5015,Australia,+61 8 8317 2111,https://piratelife.com.au/,138.5096616,-34.8445271
+34fddd70-3f61-4758-8e03-157410164201,Prancing Pony Brewery,micro,42 Mount Barker Road,,,Totness,SA,5250,Australia,+61 8 8398 3881,http://www.prancingponybrewery.com.au/,138.8465935,-35.0527777
+7c7a35d4-dfbb-4802-9756-c3264782e566,Robe Town Brewery,micro,10 White Street,,,Robe,SA,5276,Australia,+61 415 993 693,http://www.robetownbrewery.com/,139.7595541,-37.1744326
+0aebc4a0-b9a2-4162-aa14-dd3f311a510d,Shapeshifter Brewing Co.,micro,54 Crittenden Road,Unit 2,,Findon,SA,5023,Australia,+61 8 7444 5475,http://www.shapeshifterbrewing.com.au/,138.5425577,-34.9017714
+68f64b47-9cae-49ad-a344-66c7a91c2951,Shifty Lizard Brewing Co,micro,33 High Street,,,Willunga,SA,5172,Australia,+61 8 7079 2471,https://www.shiftylizard.com/,138.5570983,-35.2731646
+49304d5d-ed4a-4fbc-9d1a-b8d8e97b3bca,SixTwelve Brewing,micro,132 Tolley Road,warehouse 3,,Saint Agnes,SA,5097,Australia,+61 460 956 700,http://www.sixtwelvebrewing.com.au/,138.7060608,-34.8295756
+b286b333-e7d2-4707-97e2-cda9aa7ada04,Smiling Samoyed,micro,,,,Myponga,SA,5202,Australia,+61 8 8558 6166,http://www.smilingsamoyed.com.au/,138.4630252,-35.3903026
+a306fd68-d8cc-4a6a-8c42-6b2be6ceefa0,South Australian Brewing Company,large,11 Jay Drive,1,,Willunga,SA,5172,Australia,+61 448 012 669,http://www.southcoastbrewingcompany.com.au/,138.5422447,-35.2687754
+f8d204a5-7ac2-4264-b0fd-894d8df1f8b3,South Coast Brewing Co.,micro,11 Jay Drive,1,,Willunga,SA,5172,Australia,+61 448 012 669,http://www.southcoastbrewingcompany.com.au/,138.5422447,-35.2687754
+000fccce-1c75-46b9-bd14-b132c401c2b1,Swell Brewing Co.,micro,168 Olivers Road,,,McLaren Vale,SA,5171,Australia,+61 8 8323 0879,http://www.swellbeer.com.au/,138.5418023,-35.1939187
+b8d3e1d3-53ce-4471-8b45-d492878d6312,Tafe SA Campus Brewery,micro,,,,Urrbrae,SA,5064,Australia,+61 8 8313 6713,https://set.adelaide.edu.au/agriculture-food-wine/research/facilities/micro,138.6366588,-34.968736
+d131776d-42ee-47c7-a3dc-8283cb8904d0,The Suburban Brew,micro,30 Provident Avenue,26,,Glynde,SA,5070,Australia,+61 494 119 316,http://www.thesuburbanbrew.com.au/,138.6549819,-34.8948191
+8e3e58e5-d561-4159-a755-aa5a2188110e,The Uraidla Brewery,micro,1196 B26,,,Uraidla,SA,5142,Australia,+61 8 8390 0500,,138.7450256,-34.9566288
+9f4b0da0-b7e5-47a5-9477-d8f6ed9a23f6,Tiny Fish Brew Co.,micro,6 Todd Street,,,Port Adelaide,SA,5015,Australia,+61 431 102 417,https://www.tinyfish.com.au/contact,138.5075402,-34.8434132
+6c6fe5fb-a26b-4e76-a93f-a80eca0a6d4b,Vale Brewing,large,128 Ingoldby Road,,,McLaren Flat,SA,5171,Australia,+61 8 8151 0404,https://www.valebrewing.com.au/vale-restaurant-and-bar/,138.5960528,-35.1949647
+d544b132-8957-4eb5-be3b-69b3ebd47cc5,Watsacowie Brewing Co.,micro,9 Depot Road,,,Minlaton,SA,5575,Australia,+61 8 8822 7117,http://www.watsacowie.com.au/,137.5961583,-34.76398
+809ba3fb-feae-426e-9fca-b0fe3020cfd6,Wheaty Brewing Corps,micro,39 George Street,,,Thebarton,SA,5031,Australia,+61 8 8443 4546,http://wheatsheafhotel.com.au/,138.575292,-34.9189155
+b25e5a65-599d-4b3b-ae3e-3bad05812a7e,Woolshed Brewery,micro,65 Wilkinson Road,,,Murtho,SA,5340,Australia,+61 8 8595 8188,http://www.wilkadene.com.au/,140.835086,-34.0519086
+021e9dd7-a7d2-4424-ac53-b0a9fdb292b9,Woolstore Brewery,micro,36 Margaret Street,,,Mount Gambier,SA,5290,Australia,+61 8 7704 2280,https://woolstorebrewery.com.au/,140.7742933,-37.8311611
+40398e9b-5e8a-4965-b30a-62be8aafd265,Yellow Matter,micro,118 Marion Road,unit 18/108,,Brooklyn Park,SA,5032,Australia,+61 8 8234 0945,https://yellowmatter.beer/,138.5524716,-34.9352989

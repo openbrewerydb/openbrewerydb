@@ -1,0 +1,164 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+50f26a2b-242d-40af-b78b-cf975ce37761,3 Ravens,micro,260 Dundas Street,,,Thornbury,VIC,3071,Australia,+61 424 707 592,https://3ravens.com.au/index,145.026872,-37.755894
+b84d47b5-43a1-4a05-9ee4-e795dfbf019c,3806 Brewing,micro,12 Enterprise Avenue,,,Berwick,VIC,3806,Australia,+61 477 581 483,http://3806.beer/,145.3416748,-38.0371856
+cbcca8ac-55f6-47cb-967f-1a77dfa959e5,4 Pines,large,,,,Richmond,VIC,3121,Australia,,,144.9901574,-37.824664
+d678c1a4-713e-483e-8c60-c891d5cf043e,Alefarm Brewing,micro,96 Riversdale Road,,,Hawthorn,VIC,3122,Australia,+61 406 260 073,http://www.ramblers.beer/,145.0346325,-37.8289324
+9a296fcc-818b-4f73-88a4-a47dadc53a39,Bad Shepherd Brewing Co,micro,386 Reserve Road,,,Cheltenham,VIC,3192,Australia,+61 3 8555 3175,http://www.badshepherd.com.au/,145.0390473,-37.9566857
+7d84d498-dd3a-40ac-b920-5ec914defc24,Bad Shepherd Brewing Co.,micro,386 Reserve Road,,,Cheltenham,VIC,3192,Australia,+61 3 8555 3175,http://www.badshepherd.com.au/,145.0390473,-37.9566857
+d88e48bb-6bc9-46a6-a91f-56ec550e3262,Bells Beach Brewing,micro,22 Baines Crescent,Shed 2,,Torquay,VIC,3228,Australia,+61 3 7019 8161,http://www.bellsbeachbrewing.com/,144.3143953,-38.326986
+39e157a0-d45a-486e-b23e-17010910d1f1,Bendigo Brewing,micro,25 Farmer Lane,,,Bendigo,VIC,3550,Australia,+61 429 232 928,https://www.bendigobrewing.com.au/,144.2833465,-36.7554722
+67b57b32-f216-4506-86eb-6ffd5ce23a00,Benson Brothers Brewing,micro,18 Translink Drive,,,Keilor Park,VIC,3042,Australia,+61 3 9336 7077,https://www.thebeerfactory.net.au/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB,144.848697,-37.7224426
+11a4731f-5d28-410a-b5fe-a2302ea49e84,Bent Bridge Brewing,micro,141 Nicholson Street,137,,Brunswick East,VIC,3057,Australia,+61 3 9967 5232,http://www.bridgeroadbrewers.com.au/,144.9793033,-37.7716941
+5a534132-ae7b-462d-b58e-58e7c2d3e785,Black Dog Brewing Co,micro,339 Booth Road,,,Taminick,VIC,3675,Australia,+61 3 5766 2282,http://blackdogbrewery.com.au/,146.183609,-36.3745155
+4288a6e0-e794-43bf-b5ee-ea1351fa379e,Blackman’s Brewery,micro,8 Lewalan Street,29,,Grovedale,VIC,3216,Australia,+61 456 794 006,http://www.blackmansbrewery.com.au/,144.3453063,-38.1971588
+f5c0e336-2bd4-442b-8913-7cd25f8d435c,Blackmans Brewery,micro,8 Lewalan Street,29,,Grovedale,VIC,3216,Australia,+61 456 794 006,http://www.blackmansbrewery.com.au/,144.3453063,-38.1971588
+d4a0b14b-98cf-41d4-87df-ff18a1bfd59c,Boatrocker Brewers & Distillers,micro,34 MacBeth Street,,,Braeside,VIC,3195,Australia,+61 494 025 686,https://www.boatrocker.com.au/,145.1129705,-38.0030937
+df2412ca-3731-4332-b7a8-c81945a6878f,Boatrocker Brewing Co.,micro,34 MacBeth Street,,,Braeside,VIC,3195,Australia,+61 494 025 686,https://www.boatrocker.com.au/,145.1129705,-38.0030937
+77cc2f0f-98dd-45b9-8a3f-edc2c027bf64,Bodriggy Brewing co.,micro,245 Johnston Street,,,Abbotsford,VIC,3067,Australia,+61 3 9417 2293,https://bodriggy.beer/,144.99446,-37.8001587
+d21b0f42-78e7-4390-9cbf-9b7208975fdb,Bonehead Brewing,micro,86 Parsons Street,,,Kensington,VIC,3031,Australia,+61 490 334 892,https://www.boneheadbrewing.com.au/,144.9351056,-37.7903722
+de15320f-70e1-4e39-94c0-7fc31c0a23fb,Braeside Brewing Co.,micro,43 Governor Road,,,Mordialloc,VIC,3195,Australia,+61 435 985 423,http://www.braesidebrewingco.com.au/,145.0971283,-38.0086876
+19a59099-ee5b-49d8-8cda-6de8823876b6,Brevet Brewing Co.,micro,18 Translink Drive,,,Keilor Park,VIC,3042,Australia,+61 3 9336 7077,https://www.thebeerfactory.net.au/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB,144.848697,-37.7224426
+6f1d6c06-0c99-49f9-b7a1-dfe34a9716b1,Brewcult Brewing Co,micro,841 Sydney Road,,,Brunswick,VIC,3056,Australia,,http://subculturebrewing.com.au/,144.9637434,-37.7565629
+a5485562-03fe-4578-856f-6005ff261cbb,Brewdog,micro,1 Champ Street,,,Coburg,VIC,3058,Australia,+61 3 8840 4896,https://brewdogpentridge.com.au/?utm_campaign=gmb&utm_medium=organic&utm_source=google&utm_term=plcid_13735306181176417173,144.9683229,-37.7367888
+411eadd9-073f-4b6a-8f17-db0bc6b91708,Brewmanity Beer Co.,micro,50 Tope Street,,,South Melbourne,VIC,3205,Australia,+61 3 8652 8325,https://brewmanity.com.au/,144.9629367,-37.8305483
+66d3ce30-cb04-4340-85ec-f3ab90c47c76,Brewski Beers,micro,Cameron Street,,,Coburg,VIC,3058,Australia,,,144.9624512,-37.7534
+1175a260-0f9f-487f-be30-c8ea146908da,Brick Lane Brewing,micro,,,,Melbourne,VIC,3000,Australia,+61 3 9525 0938,https://bricklanebrewing.com/pages/brick-lane-shed,144.9564333,-37.8077895
+89a7f139-0e06-4216-9d68-0b13aa5102f1,Bridge Road Brewers,micro,42 Ford Street,,,Beechworth,VIC,3747,Australia,+61 3 5728 2703,http://www.bridgeroadbrewers.com.au/,146.6862229,-36.3607187
+ae6a20ab-dac6-442b-b569-08b54a35311b,Bright Brewery,micro,121 Great Alpine Road,,,Bright,VIC,3741,Australia,+61 3 5755 1301,https://brightbrewery.com.au/,146.9618432,-36.726437
+d9c5233b-82a3-4e20-9c2b-55a8aa8ac12a,Brogans Way,micro,61 North Street,,,Richmond,VIC,3121,Australia,+61 3 9428 8173,http://www.brogansway.com.au/,145.012002,-37.816305
+4eaf3879-7d8b-4445-9eb2-4bd3f438c69c,Broo Brewery,micro,20 Langtree Avenue,,,Mildura,VIC,3500,Australia,+61 3 5984 2222,,142.1627611,-34.1834042
+613b7204-b9a3-4362-84f4-499304103d66,Buller Road Brewery,micro,223 Mount Buller Road,,,Mansfield,VIC,3722,Australia,+61 410 321 650,http://www.bullerroadbrewery.com.au/,146.1033325,-37.0631637
+3966a2ac-e4c8-44ed-a9cf-388e755b0b08,Burra Brewing Co.,micro,12 Commercial Street,,,Korumburra,VIC,3950,Australia,+61 3 5658 1446,http://www.burrabrewingco.com.au/,145.8248599,-38.4326505
+a36146d0-57f4-4ce1-ad54-e6bc200c02a3,Carlton & United Breweries,large,1 Southampton Crescent,,,Abbotsford,VIC,3067,Australia,,,145.0046161,-37.8085828
+1d43a011-6979-405e-92b5-e2d941756dc5,CBCo Brewing,micro,89 Bertie Street,,,Port Melbourne,VIC,3207,Australia,+61 3 8644 4044,http://www.cbco.beer/,144.9370538,-37.8285701
+f899a5de-68f7-481a-b3fd-fb3bdd91b1f8,Clifton Hill Brewpub,micro,89 Queens Parade,,,Clifton Hill,VIC,3068,Australia,+61 3 9489 8705,http://www.thecliftonhillhotel.com.au/,144.9890488,-37.7897212
+ffeb7b6f-b61d-4ed8-aee3-f2fdcda4250e,CoConspirators Brewing,micro,377 Victoria Street,,,Brunswick,VIC,3056,Australia,+61 3 9193 9765,http://www.coconspirators.com.au/,144.9568143,-37.7662408
+4ce01b93-8d28-4041-b335-0929841001e6,CoConspirators Brewing Co,micro,377 Victoria Street,,,Brunswick,VIC,3056,Australia,+61 3 9193 9765,http://www.coconspirators.com.au/,144.9568143,-37.7662408
+b89a46c4-2677-425f-b81d-665b9261ba0b,Coldstream Brewery,micro,694 Maroondah Highway,,,Coldstream,VIC,3770,Australia,+61 3 9739 1794,http://coldstreambrewery.com.au/,145.379093,-37.724435
+25121ad2-59fa-4e29-8536-00403b36abab,Colonial Brewing Co,micro,89 Bertie Street,,,Port Melbourne,VIC,3207,Australia,+61 3 8644 4044,http://www.cbco.beer/,144.9370538,-37.8285701
+d4cd9789-f251-4b02-ba16-000fc8dc50b4,Colonial Brewing Company,regional,89 Bertie Street,,,Port Melbourne,VIC,3207,Australia,+61 3 8644 4044,http://www.cbco.beer/,144.9370538,-37.8285701
+0bbfb49b-6570-462a-adff-1dd9c633e426,Crank Handle Brewery,micro,211 Kiewa Valley Highway,,,Tawonga South,VIC,3698,Australia,+61 3 5754 4443,http://www.crankhandlebrewery.com.au/,147.158988,-36.736341
+8fa3418a-4274-4842-82ef-e0d0d3461e05,Cubby Haus Brewing,micro,884 Humffray Street South,,,Mount Pleasant,VIC,3350,Australia,+61 3 4343 1777,https://cubbyhausbrewing.com.au/,143.8497352,-37.5777782
+901cb5e0-ac27-411f-a530-76d7322e2674,Dainton Beer,micro,560 Frankston - Dandenong Road,,,Carrum Downs,VIC,3201,Australia,+61 488 330 292,https://www.dainton.beer/,145.1704142,-38.1014115
+834fe52a-5b2a-416e-9805-04afa1ab2693,Deeds Brewing,micro,4 Paran Place,,,Glen Iris,VIC,3146,Australia,+61 2 0217 3633,http://www.deedsbrewing.com.au/,145.0576826,-37.8592362
+c1c9dd61-20c0-463f-aa57-1e756c379e38,Destination Brewery & Distillery,micro,9 Hi-Tech Place,Unit 7,,Rowville,VIC,3178,Australia,,https://www.loadedbarreldistillery.com/,145.2461347,-37.909791
+cff02790-1ce3-4e6d-92cd-ee274279f1fc,Devilbend Farm Beer Co.,micro,990 Stumpy Gully Road,,,Tuerong,VIC,3915,Australia,+61 472 877 079,http://www.devilbend.beer/,145.1276772,-38.2852944
+a499ec86-8681-42b0-a94d-af8d49acf949,Eclectic Brewing,micro,18 Translink Drive,,,Keilor Park,VIC,3042,Australia,+61 3 9336 7077,https://www.thebeerfactory.net.au/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB,144.848697,-37.7224426
+e7e309e8-2f75-4754-854d-3bb06baa3173,Epic Brewing Company,micro,18 Translink Drive,,,Keilor Park,VIC,3042,Australia,+61 3 9336 7077,https://www.thebeerfactory.net.au/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB,144.848697,-37.7224426
+71754762-f167-40a1-9b74-e368a1b88bce,Fields Brewing Co.,micro,24 Thompson Street,,,Abbotsford,VIC,3067,Australia,+61 3 9420 6800,https://carltonbrewhouse.com.au/,145.0040044,-37.8096489
+27bee265-ef8b-449e-9d06-411719d1ae29,Fixation Brewing Co,micro,414 Smith Street,,,Collingwood,VIC,3066,Australia,,http://www.fixationbrewing.com.au/,144.9850124,-37.7963295
+ee80a4a7-3d9e-4abd-990d-cc393eb0d69d,Forest For The Trees Brewing,micro,26 Grant Street,,,Forrest,VIC,3236,Australia,+61 3 5236 6170,https://forrestbrewing.com.au/,143.7143851,-38.5185925
+773ba78c-ab00-49a8-9374-8f27b21e3291,Forrest Brewing Company,micro,26 Grant Street,,,Forrest,VIC,3236,Australia,+61 3 5236 6170,https://forrestbrewing.com.au/,143.7143851,-38.5185925
+a1d8fdc4-b837-4c41-8b3e-ea6015bf545c,Fury and Son Brewing Co,micro,46 Concorde Drive,,,Keilor Park,VIC,3042,Australia,+61 3 9331 6818,,144.8492333,-37.7205428
+be332572-03d3-4253-86cc-36ea588d74f2,Gales Brewery,micro,28 Gale Street,,,Brunswick East,VIC,3057,Australia,+61 418 378 952,https://galesbrewery.com.au/,144.9733595,-37.7690116
+00aaab80-8675-4884-b892-c54de3389867,Garage Project,micro,12 Laser Drive,Unit 3,,Rowville,VIC,3178,Australia,+61 408 392 226,https://projectbrewing.com.au/,145.2450774,-37.9096844
+e0905164-9cc4-4bc3-9815-164c701ae48b,Good Land Brewing Co.,micro,12 Standing Drive,,,Traralgon East,VIC,3844,Australia,+61 3 5174 8454,http://goodland.beer/,146.5637055,-38.1918076
+f7858573-6456-4a49-84b5-90a52b130668,Goose Island Beer Co,micro,79 Coghlan Road,,,Cowes,VIC,3922,Australia,+61 429 832 304,http://www.islandbeer.com.au/,145.2573309,-38.4755139
+c8036fe9-357e-43c8-aafd-9e26fb192bb4,Grand Ridge Brewery,micro,1 Baromi Road,,,Mirboo North,VIC,3871,Australia,+61 3 5668 2222,https://www.grand-ridge.com.au/,146.1628112,-38.4008598
+b89876b4-681f-46b9-8716-d4a961954a7f,Grassy Knoll brewing,micro,89 Bertie Street,,,Port Melbourne,VIC,3207,Australia,+61 3 8644 4044,http://www.cbco.beer/,144.9370538,-37.8285701
+514b488e-616a-49fd-9496-eb1a97fe5ba2,Great Ocean Road Brewing,micro,112 Balliang Street,,,South Geelong,VIC,3220,Australia,+61 406 752 043,http://greatoceanroadbrewing.com.au/,144.3660395,-38.1639968
+63707511-0d3a-4b8b-a27c-46e1c785f6e8,Green Gully Brewing,micro,79 Coghlan Road,,,Cowes,VIC,3922,Australia,+61 429 832 304,http://www.islandbeer.com.au/,145.2573309,-38.4755139
+aad1d9f2-87ca-4ca0-8394-17141062ca84,Grumpy Mo Brewery,micro,150 Murphy Street,148,,Richmond,VIC,3121,Australia,+61 422 520 477,https://mountainculture.com.au/pages/melbourne-brewpub-restaurant,145.0110031,-37.8182717
+22202868-72b8-4013-b3d0-5a3d01b449d2,Hahn Brewery,large,107-109 Whitehall Street,Unit 6,,Footscray,VIC,3011,Australia,+61 450 973 644,https://hopnation.com.au/pages/footscray-taproom,144.9040948,-37.8100439
+d3d71277-4b66-4dcf-a217-f92338387e05,Hard Road Brewing,micro,31 Holloway Drive,,,Bayswater,VIC,3153,Australia,+61 499 580 804,https://www.hardroadbrewing.com/,145.281061,-37.850716
+5868b402-a6ec-4182-aec9-48a7bd333899,Hawkers,micro,167 Henty Street,,,Reservoir,VIC,3073,Australia,+61 3 9462 0650,http://www.hawkers.beer/,144.984805,-37.718126
+eca98477-5eab-467f-b4b2-ccc871cf9499,Hawkers Beer,micro,167 Henty Street,,,Reservoir,VIC,3073,Australia,+61 3 9462 0650,http://www.hawkers.beer/,144.984805,-37.718126
+73992185-499f-406c-afc8-d11c88c3a220,Hepburn Springs Brewing Co.,micro,12 Forest Avenue,,,Hepburn Springs,VIC,3461,Australia,+61 458 151 061,http://www.hepburnspringsbrewingco.com.au/,144.1432189,-37.3094177
+88f36bd6-dc3a-470c-9d88-92c0aa305e56,Holgate Brewhouse,micro,79 High Street,,,Woodend,VIC,3442,Australia,+61 3 5427 2510,http://www.holgatebrewhouse.com/,144.5269444,-37.3569444
+dbaeff16-a93c-4a2f-b40d-866bd4e5c688,Hop Hen,micro,64-86 Beresford Road,Unit 17,,Lilydale,VIC,3140,Australia,+61 3 9739 7980,http://www.hophenbrewing.com.au/,145.3451329,-37.7511644
+1a000061-f7a6-43b4-a64f-d9c1afd7558b,Hop Nation Brewing Co,micro,107-109 Whitehall Street,Unit 6,,Footscray,VIC,3011,Australia,+61 450 973 644,https://hopnation.com.au/pages/footscray-taproom,144.9040948,-37.8100439
+04268b2c-89f1-4aa2-8d95-fca3128b1c73,Hop Nation Brewing Co.,micro,107-109 Whitehall Street,Unit 6,,Footscray,VIC,3011,Australia,+61 450 973 644,https://hopnation.com.au/pages/footscray-taproom,144.9040948,-37.8100439
+21b41496-91a2-4372-8fd5-4be78e5152ab,HyperNix Brewing,micro,64-86 Beresford Road,Unit 17,,Lilydale,VIC,3140,Australia,+61 3 9739 7980,http://www.hophenbrewing.com.au/,145.3451329,-37.7511644
+13d4b189-7c2e-4d8d-a705-89cdf373c491,Inner North Brewing Co.,micro,10A Russell Street,,,Brunswick,VIC,3056,Australia,+61 490 902 818,http://innernorthbrewing.com.au/,144.9579254,-37.7672834
+b3cc0efa-402d-4a20-8ab8-eb305f544e0a,Jamieson Brewery,micro,5953 Eildon-Jamieson Road,,,Jamieson,VIC,3723,Australia,+61 3 5777 0678,http://jamiesonbrewery.com/,146.1323242,-37.2805099
+90900029-eb0f-4202-accd-a9a01e0af940,Jetty Road Brewery,micro,12-14 Brasser Avenue,,,Dromana,VIC,3936,Australia,+61 3 5987 2754,https://www.jettyroad.com.au/,144.987442,-38.3320465
+b50581f8-43c3-4a97-8c1d-c9ad5f2832f8,JKB Brewing,micro,5 Bennet Street,,,Dandenong,VIC,3175,Australia,+61 481 210 322,http://bojakbrewing.com.au/,145.200171,-37.9850805
+b952998d-6e72-4971-9f01-ece9be765f11,KAIJU! Beer,micro,27 Hume Street,,,Huntingdale,VIC,3166,Australia,+61 474 640 868,https://kaijubeer.com.au/pages/beer-pizza,145.1075402,-37.9109742
+32239ea5-85c6-4011-823f-8137bba67846,Killer Sprocket,micro,981 Mountain Highway,Factory 1c,,Boronia,VIC,3155,Australia,+61 434 154 557,http://www.killersprocket.com.au/,145.2907463,-37.8376208
+9c28b33d-f0b1-44d4-953f-61cefac7179c,Killer Sprocket Brewery & Tasting Room,micro,981 Mountain Highway,Factory 1c,,Boronia,VIC,3155,Australia,+61 434 154 557,http://www.killersprocket.com.au/,145.2907463,-37.8376208
+a438ad69-c7c2-4727-9ae5-ca3f1a7e70aa,King River Brewing,micro,4515 Wangaratta-Whitfield Road,,,Whitfield,VIC,3733,Australia,+61 3 5729 3604,http://www.kingriverbrewing.com.au/,146.4069976,-36.7305259
+f5786ba6-a38a-44ae-80fa-164b538a9210,Ko na Brewing Co,micro,89 Bertie Street,,,Port Melbourne,VIC,3207,Australia,+61 3 8644 4044,http://www.cbco.beer/,144.9370538,-37.8285701
+d9896031-9330-4530-95c4-7cde7b22ebb8,Lake Meran Brewery,micro,325 Meering West Road,,,Meering West,VIC,3579,Australia,+61 499 023 975,http://www.lakemeranfarm.com.au/,143.7417908,-35.9117735
+2757b86d-3e69-4017-ab3c-f1b9b9c41da4,Latin Beer,micro,279 La Trobe Street,,,Melbourne,VIC,3000,Australia,+61 416 502 798,,144.9609685,-37.8107314
+e3d70cc5-6dc6-4a31-b71f-1d3b39976967,Loch Brewery & Distillery,micro,44 Victoria Road,42,,Loch,VIC,3945,Australia,+61 428 953 933,http://www.lochbrewery.com.au/,145.707453,-38.369101
+927bb4c7-b2b1-4165-b455-73e897699c59,Lost Watering Hole,micro,10 The Crescent,8,,Lancefield,VIC,3435,Australia,+61 3 4410 1054,https://lostwateringhole.com/,144.7360441,-37.2765051
+fd54eb56-9f19-4fa2-8003-966b896fc3fc,Love Shack Brewing Co.,micro,26 Hargraves Street,,,Castlemaine,VIC,3450,Australia,+61 3 5470 5774,https://loveshackbrewingco.beer/,144.2195468,-37.066549
+7cb788b7-4aee-4b17-9b6d-bccffea5fe89,Malt Shovel Brewery,large,7-21 Bellerine Street,,,Geelong,VIC,3220,Australia,+61 3 5222 8756,https://maltshoveltaphouse.com.au/our-venues/geelong/,144.3661784,-38.1483781
+1e58eb19-79ca-4820-86b4-e14c0ec2b7bb,Matilda Bay,micro,336 Maroondah Highway,,,Healesville,VIC,3777,Australia,+61 3 5957 3200,,145.5229098,-37.6513807
+343a98f9-2af7-4b2e-9f3b-03aadb366259,Matilda Bay Brewing Company,large,50 Tope Street,,,South Melbourne,VIC,3205,Australia,+61 3 8652 8325,https://brewmanity.com.au/,144.9629367,-37.8305483
+11fe95a9-6086-4e9f-bc72-a6a05468b97b,Mitta Mitta Brewing Co.,micro,1639 Mitta North Road,,,Mitta Mitta,VIC,3701,Australia,+61 499 600 914,http://mittabrewing.com.au/,147.3715972,-36.5192451
+4c6c6707-77b4-4bb6-bad0-8abfd42ac48e,Modern Times Beer,micro,50 Tope Street,,,South Melbourne,VIC,3205,Australia,+61 3 8652 8325,https://brewmanity.com.au/,144.9629367,-37.8305483
+a861f29e-917a-42f0-86c3-aa89464d63a6,Molly Rose Brewing Co.,micro,285 Wellington Street,279,,Collingwood,VIC,3066,Australia,+61 3 9113 6046,http://www.mollyrosebrewing.com/,144.9875616,-37.7966551
+095924d8-a631-407e-97ac-1730ca064b30,Mondo Brewing Company,micro,32 Chifley Drive,,,Preston,VIC,3072,Australia,+61 3 9428 2307,https://moondog.com.au/moon-dog-world,145.0296148,-37.7524911
+ce4632c8-fc13-4412-b5d3-002501d3dd91,Moo Brew,micro,32 Chifley Drive,,,Preston,VIC,3072,Australia,+61 3 9428 2307,https://moondog.com.au/moon-dog-world,145.0296148,-37.7524911
+45e0fb3d-250a-43b5-97c7-12bffc42e14e,Moon Dog Craft Brewery,micro,17 Duke Street,,,Abbotsford,VIC,3067,Australia,+61 3 9428 2307,https://moondog.com.au/moon-dog-og,145.0055272,-37.8099105
+d9c01e62-eec1-4dde-9c50-df5707c2a375,Mornington Peninsula Brewery,micro,72 Watt Road,,,Mornington,VIC,3931,Australia,+61 477 378 294,http://www.tarbarrel.com.au/,145.056865,-38.232544
+19601a41-1e70-464f-b5c3-a53083e6d0bc,Mount Pleasant Rd Brewers,micro,110 Mount Pleasant Road,,,Belmont,VIC,3216,Australia,,https://www.mtpleasantrdbrewers.com.au/,144.3365317,-38.1697258
+ea0438fe-612f-44ce-9cdc-8de309c288ad,Mountain Goat Beer,large,80 North Street,,,Richmond,VIC,3121,Australia,+61 3 9428 1180,https://www.goatbeer.com.au/,145.0128053,-37.8167663
+ef7b698c-0ce4-461d-b4e8-5d7bb8335c17,Mountain Monk Brewers,micro,1 Lakeside Avenue,,,Mount Beauty,VIC,3699,Australia,+61 3 5754 4985,https://www.mountainmonkbrewers.com.au/,147.1683015,-36.742213
+a8a19ee5-8333-4dae-89bb-935ba6c94620,Mr.Banks Brewing Co,micro,12 Hi-Tech Place,,,Seaford,VIC,3198,Australia,+61 3 9786 9905,http://www.banksbrewing.com.au/,145.1381702,-38.1160714
+52074314-7d5c-42fb-8737-3a91e2188bc3,Muffy Malone Brewing,micro,150 Murphy Street,148,,Richmond,VIC,3121,Australia,+61 422 520 477,https://mountainculture.com.au/pages/melbourne-brewpub-restaurant,145.0110031,-37.8182717
+7d397ad8-2cf4-4fc7-90e8-f0fe6d870cbe,Murray Towns Brewing Co.,micro,64 Lincoln Causeway,,,Gateway Island,VIC,3691,Australia,,http://www.murraytowns.au/,146.9030905,-36.0952095
+d3dd2767-728a-4313-9223-12882fcaa296,Nail Brewing,micro,18 Translink Drive,,,Keilor Park,VIC,3042,Australia,+61 3 9336 7077,https://www.thebeerfactory.net.au/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB,144.848697,-37.7224426
+8a04b14b-6b7e-41d8-973f-f0b5fcf18f90,Noodledoof Brewing Co,micro,128 Commercial Road,,,Koroit,VIC,3282,Australia,+61 3 5545 3178,http://www.noodledoof.com/,142.3654736,-38.2917696
+908d69a1-e550-4409-98e6-9c9a676d956a,Oak Haven Brewery,micro,12 Laser Drive,Unit 3,,Rowville,VIC,3178,Australia,+61 408 392 226,https://projectbrewing.com.au/,145.2450774,-37.9096844
+b4745b6b-01a8-42f4-902c-ff6865829c71,Ocean Beach Brewing,micro,47 Thompson Avenue,,,Cowes,VIC,3922,Australia,+61 401 250 977,http://oceanreach.beer/,145.239258,-38.449759
+00ee07d7-10ff-43de-a0b1-dc5d6f249a89,Ocean Reach Brewing,micro,47 Thompson Avenue,,,Cowes,VIC,3922,Australia,+61 401 250 977,http://oceanreach.beer/,145.239258,-38.449759
+47f822de-3870-4731-8c79-59628d19e9fe,Ocho Beer,micro,8 Yallourn Parade,,,Ringwood,VIC,3134,Australia,,http://8trackbrewery.com.au/,145.2142326,-37.8199056
+55b4f23d-823a-4281-8045-52184ec7e9e0,Old Wives Ales,micro,36 Alfred Street,,,South Melbourne,VIC,3205,Australia,+61 3 9694 2124,http://www.westsidealeworks.com.au/,144.949474,-37.83206
+42168831-d3a0-4eef-a36d-254e4095a412,Paper Scissors Rock Brew Co.,micro,119 Grampians Road,,,Halls Gap,VIC,3381,Australia,+61 3 5311 3709,http://www.paperscissorsrock.beer/,142.5193149,-37.1407882
+00e3e4f3-9883-42dd-8297-1c32b2525df8,Phillip Island Brewing Co.,micro,1821 Phillip Island Road,,,Cowes,VIC,3922,Australia,+61 3 5952 1666,http://www.phillipislandbrewingco.com.au/,145.261352,-38.4864802
+ba2847cc-d3ae-450c-ace5-22cb58964107,Port Phillip Brewing,micro,28 Simcock Street,2,,Somerville,VIC,3912,Australia,+61 407 487 107,http://www.portphillipbrewing.com.au/,145.18209,-38.2199569
+a317edad-2ea2-4516-8dc7-5ec18b47df07,Prickly Moses,micro,10 Hoveys Road,,,Barongarook,VIC,3249,Australia,+61 3 5233 8400,https://otwayestate.com.au/,143.5644836,-38.4439392
+422281a2-7f59-4338-99db-a4490358113f,Ramblers Ale Works,micro,96 Riversdale Road,,,Hawthorn,VIC,3122,Australia,+61 406 260 073,http://www.ramblers.beer/,145.0346325,-37.8289324
+8dba45dc-c9dc-494d-b559-8b1cd104a790,Rebellion Brewing (O’Brien Brewing),micro,36 Gregory Street West,,,Wendouree,VIC,3355,Australia,+61 1300 432 337,https://www.rebellionbrewing.com.au/,143.8109293,-37.5408059
+5b0fdc42-401a-4af1-af91-cfbb45794c28,Red Hill Brewery,micro,88 Shoreham Road,,,Red Hill South,VIC,3937,Australia,+61 3 5989 2959,http://www.redhillbrewery.com.au/,145.0181808,-38.3917703
+6b3a0238-51d5-4ff3-a8cc-7751adde4349,Rightbank Brewing Society,micro,58C Darlot Street,,,Horsham,VIC,3400,Australia,+61 417 532 114,https://www.rightbankbrewingsociety.com.au/,142.1962725,-36.7173466
+52b27681-158d-47d2-97cf-92fd88623177,River Road Beer Co.,micro,167 Henty Street,,,Reservoir,VIC,3073,Australia,+61 3 9462 0650,,144.9848051,-37.718126
+e0d50b38-4604-42b9-90e1-d5ba4fe83b34,Rock & Ranges Brewing Co-Op,micro,272 Johnston Street,,,Abbotsford,VIC,3067,Australia,,http://www.rangebrewing.com/,144.994069,-37.799771
+e930cc25-07a6-49ec-9122-b26820b1af87,Rocky Ridge Brewing,micro,130 Barkly Street,,,Brunswick,VIC,3057,Australia,+61 487 687 382,http://rocky.beer/,144.9702085,-37.7773023
+b3278c57-cb96-472d-a25e-18afebe917dd,Rocky Ridge Brewing Co,micro,130 Barkly Street,,,Brunswick,VIC,3057,Australia,+61 487 687 382,http://rocky.beer/,144.9702085,-37.7773023
+e64ebbd4-fda9-4377-82c0-9a0d80d4cd17,Sailors Grave Brewing,micro,85 Marlo Plains Road,,,Marlo,VIC,3888,Australia,,http://www.sailorsgravebrewing.com/,148.6368767,-37.7997632
+736a78a7-5cca-4bff-83c2-858a7402026d,Salt Brewing Co.,micro,45 Great Ocean Road,,,Aireys Inlet,VIC,3231,Australia,+61 3 5289 6804,https://www.saltbrewing.co/,144.1048638,-38.4609259
+3e1c4960-e463-448c-9e2c-e18950ba0cc3,Shedshaker Brewing,micro,9 Walker Street,,,Castlemaine,VIC,3450,Australia,+61 487 860 060,https://shedshakerbrewing.com/,144.2147938,-37.0567335
+6772586a-99de-4990-a836-88a5e7c30a5e,Shepparton Brewery,micro,15 Edward Street,,,Shepparton,VIC,3630,Australia,+61 3 5821 9776,http://www.sheppartonbrewery.com.au/,145.4032299,-36.378185
+bea38221-67c0-4322-adcb-17e7b9fcc25c,Smart Brothers Brewing,micro,1 Bray Street,5,,Hastings,VIC,3915,Australia,+61 491 763 765,https://www.smartbrothersbrewing.com.au/,145.1830069,-38.3149735
+6ff628c3-ea43-4404-bffb-c4f3b2e24830,Smiley Brewing Co.,micro,9 Southeast Boulevard,Factory 1,,Pakenham,VIC,3810,Australia,+61 3 8840 6568,http://www.smileybrewing.com.au/,145.484957,-38.0980134
+ef0704b9-02ca-4805-9ee1-5a954b1ecc15,Sobremesa Fermentary & Blendary,micro,86 Parsons Street,,,Kensington,VIC,3031,Australia,,https://sobremesabeer.com/,144.9350775,-37.7903317
+079beead-f337-41f4-96cf-1d7f5c32fd12,Sparkke Change Beverage Company,micro,32 Somerton Park Drive,,,Campbellfield,VIC,3061,Australia,+61 3 9308 6681,http://sparklingbeverages.com.au,144.945791,-37.647971
+08d52b04-bc18-4f4f-8e3a-5c3cd2210a5e,St Andrews Beach Brewery,micro,160 Sandy Road,,,Fingal,VIC,3939,Australia,+61 491 938 717,http://standrewsbeachbrewery.com.au/,144.8598607,-38.418584
+d3b875ef-34d2-4954-be22-acdf816d7b5c,Stockade Brew Co,micro,89 Bertie Street,,,Port Melbourne,VIC,3207,Australia,+61 3 8644 4044,http://www.cbco.beer/,144.9370538,-37.8285701
+0a2cdd57-6606-4f9f-aa1b-ad1a4f12d095,Stomping Ground Brewing Co.,micro,100 Gipps Street,,,Collingwood,VIC,3066,Australia,+61 3 9415 1944,http://www.stompingground.beer/,144.9910898,-37.8047204
+2c221ed3-041e-4a80-951a-1293c6a816a8,Strath Creek Brewery,micro,8 Glover Road,,,Strath Creek,VIC,3658,Australia,+61 418 971 200,http://www.thegeneralstrathcreek.com.au/,145.2181649,-37.2380674
+9ffd9922-40fb-430c-8537-ef92d851374d,Subculture Brewing Co.,micro,841 Sydney Road,,,Brunswick,VIC,3056,Australia,,http://subculturebrewing.com.au/,144.9637434,-37.7565629
+7285cbb6-9d06-4d45-b3ce-1dd1c1badff4,Tallboy & Moose,micro,270 Raglan Street,,,Preston,VIC,3072,Australia,+61 3 9484 7803,http://www.tallboyandmoose.com/,145.0029444,-37.7486
+ce6e8c91-cfbd-44a0-98ac-5798866555a3,Tallboy and Moose,micro,270 Raglan Street,,,Preston,VIC,3072,Australia,+61 3 9484 7803,http://www.tallboyandmoose.com/,145.0029444,-37.7486
+dba073fb-2feb-4ad4-a654-20d777036e74,Tar Barrel Brewery & Distillery,micro,72 Watt Road,,,Mornington,VIC,3931,Australia,+61 477 378 294,http://www.tarbarrel.com.au/,145.056865,-38.232544
+8ed986a5-16ee-48c9-8163-eb5e22b33594,Temple Brewing Co,micro,122 Weston Street,,,Brunswick East,VIC,3057,Australia,+61 3 9380 8999,http://www.templebrewing.com.au/,144.9718358,-37.7761377
+6b0f7d44-9f29-4ffa-a9a0-6af4c6ccc37e,The Craft & Co,micro,3 Hilton Street,,,Clifton Hill,VIC,3068,Australia,+61 3 4828 7617,https://www.localbrewing.co/,144.987194,-37.7934422
+d3908a40-280c-4de1-8eb9-12c7c6fe73c7,The Garden Brewery,micro,245 Gertrude Street,243,,Fitzroy,VIC,3065,Australia,+61 482 697 784,http://www.thefbg.com.au/,144.982572,-37.806153
+00bca394-bc68-4c8f-bc2b-d81a75ab728b,The Mill Brewery,micro,125 Johnston Street,,,Collingwood,VIC,3066,Australia,,http://www.themillbrewery.com.au/,144.9891061,-37.7996125
+6eb642b4-0006-4890-b163-87088711b8da,Thornbridge Brewery,micro,245 Johnston Street,,,Abbotsford,VIC,3067,Australia,+61 3 9417 2293,https://bodriggy.beer/,144.99446,-37.8001587
+873b4d10-f0c3-43ff-9efa-73b7a69c30b0,Three Legged Cow Brewing Co.,micro,110 Northey Road,,,Grahamvale,VIC,3631,Australia,+61 456 526 593,https://threeleggedcow.com.au/,145.4449792,-36.3338572
+e2f2ec74-e250-42b0-9992-61d7eb9d8e4f,Thunder Road Brewing Company,micro,130 Barkly Street,,,Brunswick,VIC,3057,Australia,+61 1800 831 817,http://www.thunderroadbrewing.com/,144.9701732,-37.7772934
+64d9f2a1-17c1-4813-a5d5-ee3b45cf2419,To-Ol,micro,3 Hilton Street,,,Clifton Hill,VIC,3068,Australia,+61 3 4828 7617,https://www.localbrewing.co/,144.987194,-37.7934422
+b0dd6b63-e818-4619-89ae-ec31ec227412,Tooborac Hotel and Brewery,micro,5115 Northern Highway,,,Tooborac,VIC,3522,Australia,+61 3 5433 5201,http://www.tooborachotel.com.au/,144.7984619,-37.0426063
+31c868bb-2d78-4181-8213-df2935cdc29d,Tooheys,large,1320 Malvern Road,,,Malvern,VIC,3144,Australia,+61 3 9277 5800,,145.0395845,-37.8531494
+9cfdd057-49b9-4134-85a9-88f579cb0137,Two Birds Brewing,large,136 Hall Street,,,Spotswood,VIC,3015,Australia,+61 3 9762 0000,,144.8852885,-37.8347067
+c242fde5-04e3-4059-8b08-565b899ebea5,Two Cities Brewing,micro,2 Trewhitt Court,Unit 1,,Dromana,VIC,3936,Australia,+61 3 5910 0880,https://www.twobays.beer/?utm_source=GMBlisting&utm_medium=organic,144.9876337,-38.3370899
+86e19596-1bfd-480d-9fc9-21f897c2a1ce,Two Heads Brewing,micro,2 Trewhitt Court,Unit 1,,Dromana,VIC,3936,Australia,+61 3 5910 0880,https://www.twobays.beer/?utm_source=GMBlisting&utm_medium=organic,144.9876337,-38.3370899
+45a2f90c-8466-4ca6-81cd-c992009dc1d7,TWØBays Brewing Co.,micro,2 Trewhitt Court,Unit 1,,Dromana,VIC,3936,Australia,+61 3 5910 0880,https://www.twobays.beer/?utm_source=GMBlisting&utm_medium=organic,144.9876337,-38.3370899
+09115f55-cccc-4bbc-bdf2-f206e134fd10,Urban Alley Brewery,micro,12 Star Circus,,,Docklands,VIC,3008,Australia,+61 3 4149 7011,https://urbanalley.com.au/,144.936629,-37.812277
+25d60262-0d68-4a22-a05e-7aecacff096b,Valhalla Brewing Co,micro,13-35 Mackey Street,E17,,North Geelong,VIC,3215,Australia,+61 412 997 329,,144.3574676,-38.1133346
+f9801938-bef2-4dc4-a683-9c6865cfd167,Watts River Brewing,micro,7 Hunter Road,,,Healesville,VIC,3777,Australia,+61 493 776 686,http://www.wattsriverbrewing.com.au/,145.506696,-37.65818
+15e01076-cfa6-461e-9117-cbed3ef0759e,West City Brewing,micro,36 Alfred Street,,,South Melbourne,VIC,3205,Australia,+61 3 9694 2124,http://www.westsidealeworks.com.au/,144.949474,-37.83206
+c53b2034-e708-46b3-8f21-20d847198b78,Western Ridge Brewing,micro,263 Hampshire Road,,,Sunshine,VIC,3020,Australia,+61 433 919 886,,144.8318105,-37.784077
+e15a800c-73e4-4e6a-bbf1-c3c76879d27c,Westside Ale Works,micro,36 Alfred Street,,,South Melbourne,VIC,3205,Australia,+61 3 9694 2124,http://www.westsidealeworks.com.au/,144.949474,-37.83206
+2e5584ae-1741-4210-bb11-575341a5c35f,White Rabbit Brewery,large,221 Swanston Street,,,Geelong,VIC,3220,Australia,+61 3 5202 4009,https://whiterabbitbeer.com.au/barrel-hall/,144.3619537,-38.1652412
+bdbe6d77-6ee1-4e72-811a-36aca67005f9,Wilde Gluten Free,micro,12 Laser Drive,Unit 3,,Rowville,VIC,3178,Australia,+61 408 392 226,https://projectbrewing.com.au/,145.2450774,-37.9096844
+8863a998-e42b-467d-adc9-8a1923864460,Wildspirit,micro,96 Chifley Drive,,,Preston,VIC,3072,Australia,+61 3 9487 1170,https://gypsyhub.com.au/,145.030651,-37.7441999
+1639dd43-3106-40fd-9f88-ab452add1526,Wolf Of The Willows,micro,39 De Havilland Road,,,Mordialloc,VIC,3195,Australia,+61 3 9587 2480,http://www.wolfofthewillows.com.au/,145.1001076,-37.9893536
+ebd4eb78-21a5-41b6-bfea-feeb9ecec9a2,Wolf of the Willows Brewery and Taproom,micro,39 De Havilland Road,,,Mordialloc,VIC,3195,Australia,+61 3 9587 2480,http://www.wolfofthewillows.com.au/,145.1001076,-37.9893536
+596dfcf5-a68b-4bb1-8870-27b4488f5941,Wooden Axe Brewing Co.,micro,100 Gipps Street,,,Collingwood,VIC,3066,Australia,+61 3 9415 1944,http://www.stompingground.beer/,144.9910898,-37.8047204
+81e2a173-e2d8-4238-9891-4d4a1f3b2175,Yeah Drinks,micro,53 Anderson Street,,,Yarraville,VIC,3013,Australia,+61 3 7037 8040,http://hopheads.com.au/,144.8900545,-37.8167245
+d6e5a1fc-bd8e-4950-92f9-ed929736df99,Yeastie Boys,micro,18 Translink Drive,,,Keilor Park,VIC,3042,Australia,+61 3 9336 7077,https://www.thebeerfactory.net.au/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB,144.848697,-37.7224426
