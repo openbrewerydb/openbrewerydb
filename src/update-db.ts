@@ -1,9 +1,11 @@
-require("dotenv").config();
+import "dotenv/config";
+import pg from "pg";
 
-const { Pool } = require("pg");
+const { Pool } = pg;
 
 const pool = new Pool({ connectionString: process.env.DB_CONNECT });
-(async () => {
+
+const main = async () => {
   const client = await pool.connect();
   try {
     await client.query("BEGIN");
@@ -22,4 +24,9 @@ const pool = new Pool({ connectionString: process.env.DB_CONNECT });
   } finally {
     client.release();
   }
-})().catch((e) => console.error(e.stack));
+};
+
+main().catch((e) => {
+  console.error(e.stack);
+  process.exit(1);
+});
