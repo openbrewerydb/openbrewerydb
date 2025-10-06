@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
     "outDir": "./lib",
-    "target": "es2020",
-    "lib": ["ES2019"],
+    "target": "ES2023",
+    "lib": ["ES2023"],
     "alwaysStrict": true,
     "module": "commonjs",
     "declaration": true,

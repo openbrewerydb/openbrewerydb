@@ -71,8 +71,7 @@ const main = async () => {
   }
 };
 
-try {
-  main();
-} catch (error) {
+main().catch((error) => {
+  console.error(error);
   process.exit(1);
-}
+});
