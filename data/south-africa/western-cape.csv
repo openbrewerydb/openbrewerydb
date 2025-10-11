@@ -6,7 +6,7 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 ,ABRU Craft Brewery,micro,15 Pasita Street,Rosenpark,,Bellville,Western Cape,7530,South Africa,+27 72 616 8377,https://abru.co.za/,18.6533,-33.8742
 ,Nieuw Brew,brewpub,24 Main Road,,,Nieuwoudtville,Western Cape,8180,South Africa,+27 27 218 1075,https://nieuwbrew.co.za/,19.1091,-31.3789
 ,Stellenbosch Brewing Company,brewpub,Klein Joostenberg Farm,R304,,Stellenbosch,Western Cape,7606,South Africa,+27 21 884 4014,https://stelliesbeer.com/,18.7845,-33.8217
-,Kennel Brewery,micro,Unit 25, The Interchange,9 Nobel Street,,Somerset West,Western Cape,7130,South Africa,+27 71 361 7122,https://kennelbrewery.co.za/,18.8132,-34.0734
+,Kennel Brewery,micro,Unit 25 The Interchange,9 Nobel Street,,Somerset West,Western Cape,7130,South Africa,+27 71 361 7122,https://kennelbrewery.co.za/,18.8132,-34.0734
 ,Patiala Brew,micro,34 Fabriek Street,,,Paarl,Western Cape,7646,South Africa,+27 60 715 0341,,18.9619,-33.7381
 ,Valley Brewery & Taproom,brewpub,8 Unie Street,,,Hopefield,Western Cape,7355,South Africa,+27 72 254 8848,https://www.facebook.com/ValleyBrewerySA/,18.3503,-33.0645
 ,Hey Joe Brewing Company,brewpub,R45,,,Franschhoek,Western Cape,7690,South Africa,+27 63 Hey-Joe,https://www.heyjoebrewery.com/,18.9678,-33.8583
@@ -25,7 +25,7 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 ,Hoghouse Brewing Company,brewpub,42 Morningside Street,Ndabeni,,Cape Town,Western Cape,7405,South Africa,+27 21 810 4545,https://www.hoghouse.co.za/,18.4879,-33.9312
 ,Hermanus Brewery,micro,The Village,14 Harmony Avenue,,Hermanus,Western Cape,7200,South Africa,+27 28 316 1234,https://www.hermanus-brewery.co.za/,19.2291,-34.4215
 ,Hemel & Aarde Brewery,brewpub,Hemel en Aarde Village,R320,,Hermanus,Western Cape,7200,South Africa,+27 28 316 2578,https://thebrewery.co.za/,19.1918,-34.3986
-,Havoc Brew,micro,Unit 17, The Interchange,9 Nobel Street,,Somerset West,Western Cape,7130,South Africa,+27 82 552 9491,https://havocbrew.com/,18.8132,-34.0734
+,Havoc Brew,micro,Unit 17 The Interchange,9 Nobel Street,,Somerset West,Western Cape,7130,South Africa,+27 82 552 9491,https://havocbrew.com/,18.8132,-34.0734
 ,Fraser’s Folly,micro,Black Oystercatcher Wines,R317,,Bredasdorp,Western Cape,7280,South Africa,+27 28 482 1618,https://frasersfolly.co.za/,20.1068,-34.5772
 ,Franschhoek Beer Company,brewpub,R45,,,Franschhoek,Western Cape,7690,South Africa,+27 21 876 2145,https://franschhoekbeerco.co.za/,19.0682,-33.9515
 ,Red Bridge Brewing Company,micro,5 Noble Street,Knysna Industrial,,Knysna,Western Cape,6571,South Africa,+27 82 552 9491,https://redbridgebrewing.co.za/,23.0645,-34.0412
@@ -35,11 +35,11 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 ,Maskam Brewing Company,micro,11 Hoog Street,,,Vredendal,Western Cape,8160,South Africa,+27 27 213 5410,https://www.maskambrewing.co.za/,18.5021,-31.6705
 ,Loxtonia Cider,cidery,Loxtonia Farm,Ezelsfontein Road,,Ceres,Western Cape,6835,South Africa,+27 23 004 0930,https://www.loxtonia.co.za/,19.2845,-33.2431
 ,Lilypatrick Craft Brewery,micro,Cnr of R44 and Klein Helderberg Road,,,Somerset West,Western Cape,7130,South Africa,+27 79 501 1935,https://lilypatrick.co.za/,18.8525,-34.0402
-,Elysium Brewing Company,micro,Unit B1, Centurion Business Park,Milnerton,,Cape Town,Western Cape,7441,South Africa,+27 63 605 9413,https://elysiumbrewing.co.za/,18.5134,-33.8687
+,Elysium Brewing Company,micro,Unit B1 Centurion Business Park,Milnerton,,Cape Town,Western Cape,7441,South Africa,+27 63 605 9413,https://elysiumbrewing.co.za/,18.5134,-33.8687
 ,Darling Brew,brewpub,48 Caledon Street,,,Darling,Western Cape,7345,South Africa,+27 21 286 1099,https://darlingbrew.co.za/,18.3804,-33.3797
 ,Cape Brewing Company,micro,Spice Route Destination,Suid-Agter-Paarl Road,,Paarl,Western Cape,7646,South Africa,+27 21 863 2270,https://capebrewing.co.za/,18.9056,-33.7845
 ,Ceres Brewery,micro,Loxtonia Farm,Ezelsfontein Road,,Ceres,Western Cape,6835,South Africa,+27 23 004 0930,https://www.ceresbrewery.co.za/,19.2845,-33.2431
-,Buchanan’s Brewery,micro,Devon Valley Road,,,Stellenbosch,Western Cape,7600,South Africa,,,https://www.facebook.com/BuchanansBrewery/,18.8153,-33.9178
+,Buchanan’s Brewery,micro,Devon Valley Road,,,Stellenbosch,Western Cape,7600,South Africa,,https://www.facebook.com/BuchanansBrewery/,18.8153,-33.9178
 ,Woodstock Brewery,brewpub,252 Albert Road,Woodstock,,Cape Town,Western Cape,7925,South Africa,+27 21 203 3046,https://woodstockbrewery.co.za/,18.4491,-33.9272
 ,Urban Brewing Company,micro,31 Heath Circle,Parklands,,Cape Town,Western Cape,7441,South Africa,+27 76 607 7226,https://urbanbrewing.co.za/,18.5126,-33.8118
 ,Tuk Tuk Microbrewery,brewpub,14 Huguenot Road,,,Franschhoek,Western Cape,7690,South Africa,+27 21 492 2207,https://tuktukbrew.com/,19.1175,-33.9113
@@ -47,6 +47,6 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 ,Boston Breweries,micro,48-50 Canterbury Street,Zonnebloem,,Cape Town,Western Cape,8001,South Africa,+27 21 461 4666,https://bostonbreweries.co.za/,18.4283,-33.9304
 ,Birkenhead Brewery,brewpub,R326,,,Stanford,Western Cape,7210,South Africa,+27 28 341 0183,https://www.birkenhead.co.za/,19.4682,-34.4265
 ,Berg River Brewery,brewpub,34-36, Jan Van Riebeeck Drive,,Paarl,Western Cape,7646,South Africa,+27 21 872 1308,https://www.bergriverbrewery.co.za/,18.9781,-33.7214
-,Afro Caribbean Brewing Company,brewpub,112, 102 Upper Main Road,Observatory,,Cape Town,Western Cape,7925,South Africa,+27 21 447 1787,https://www.acbc.co.za/,18.4705,-33.9372
+,Afro Caribbean Brewing Company,brewpub,157 Second Avenue,Kenilworth,,Cape Town,Western Cape,7925,South Africa,+27 21 447 1787,https://www.acbc.co.za/,18.4705,-33.9372
 ,Aegir Project Brewery,brewpub,65 Beach Road,Noordhoek,,Cape Town,Western Cape,7979,South Africa,+27 66 587 9566,https://aegirprojectbrewery.com/,18.3582,-34.1035
 ,Devil’s Peak Brewing Company,brewpub,95 Durham Avenue,Salt River,,Cape Town,Western Cape,7925,South Africa,+27 21 200 5818,https://www.devilspeak.beer/,18.4595,-33.9348
