@@ -1,10 +1,10 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-,Hogsback Brewing Company,micro,The Lighthouse Ranch,,,Hogsback,Eastern Cape,5721,South Africa,+27 83 482 4892,,26.9329,-32.5936
-,Featherstone Brewery,micro,Goodwin Farm,Highlands Road,,Makhanda,Eastern Cape,6139,South Africa,+27 82 821 2146,https://featherstonebrewery.co.za/,26.5415,-33.2087
-,The Brewery & Two Goats Deli,brewpub,23 Hudson Street,,,Nieu-Bethesda,Eastern Cape,6286,South Africa,+27 49 841 1602,,24.5544,-31.8679
-,Table 58 Brewing,micro,58 Main Road,Cove Rock,,East London,Eastern Cape,5201,South Africa,+27 72 359 8980,,27.8732,-32.9696
-,Richmond Hill Brewing Company,brewpub,2 Alabaster Street,Baakens Valley,,Gqeberha,Eastern Cape,6001,South Africa,+27 63 353 3523,https://www.rhbc.co.za/,25.6171,-33.9678
-,Emerald Vale Brewing Company,micro,Emerald Vale Farm,Chintsa West,,East London,Eastern Cape,5275,South Africa,+27 43 738 5397,https://emeraldvalebrewery.co.za/,28.0864,-32.8306
-,Bridge Street Brewery,brewpub,1 Bridge Street,South End,,Gqeberha,Eastern Cape,6001,South Africa,+27 41 581 0361,https://bridgestreet.co.za/,25.6212,-33.9694
-,Tsitsikamma Microbrewery,micro,Darnell Street,,,Storms River,Eastern Cape,6308,South Africa,+27 42 281 1711,https://www.tsitsikammavillageinn.co.za/brewery/,23.8863,-33.9715
-,Brewhaha JBay,brewpub,20 Da Gama Road,,,Jeffreys Bay,Eastern Cape,6330,South Africa,+27 63 884 4969,https://brewhahajbay.co.za/,24.9258,-34.0514
+da86ddee-bb17-4143-a02e-195afa438c12,Brewhaha JBay,brewpub,20 Da Gama Road,,,Jeffreys Bay,Eastern Cape,6330,South Africa,+27 63 884 4969,https://brewhahajbay.co.za/,24.9258,-34.0514
+b3b5f9f6-ffbf-484f-add2-3ee88b6f8de2,Bridge Street Brewery,brewpub,1 Bridge Street,South End,,Gqeberha,Eastern Cape,6001,South Africa,+27 41 581 0361,https://bridgestreet.co.za/,25.6212,-33.9694
+17ca0408-60dc-4523-82c2-d7c5c1d16cde,Emerald Vale Brewing Company,micro,Emerald Vale Farm,Chintsa West,,East London,Eastern Cape,5275,South Africa,+27 43 738 5397,https://emeraldvalebrewery.co.za/,28.0864,-32.8306
+a7dc9d1f-cd7c-424f-91e2-47641cd50735,Featherstone Brewery,micro,Goodwin Farm,Highlands Road,,Makhanda,Eastern Cape,6139,South Africa,+27 82 821 2146,https://featherstonebrewery.co.za/,26.5415,-33.2087
+544bcda5-1939-41fd-9b4f-511798a710e2,Hogsback Brewing Company,micro,The Lighthouse Ranch,,,Hogsback,Eastern Cape,5721,South Africa,+27 83 482 4892,,26.9329,-32.5936
+5723b764-d8ff-4eda-a31d-19c70c8c4445,Richmond Hill Brewing Company,brewpub,2 Alabaster Street,Baakens Valley,,Gqeberha,Eastern Cape,6001,South Africa,+27 63 353 3523,https://www.rhbc.co.za/,25.6171,-33.9678
+9c26f5a5-fc31-467f-b413-6675fa1cd8b5,Table 58 Brewing,micro,58 Main Road,Cove Rock,,East London,Eastern Cape,5201,South Africa,+27 72 359 8980,,27.8732,-32.9696
+256c1dde-edc3-4f0c-9777-cbf2a5baa404,The Brewery & Two Goats Deli,brewpub,23 Hudson Street,,,Nieu-Bethesda,Eastern Cape,6286,South Africa,+27 49 841 1602,,24.5544,-31.8679
+c89b72ee-4a9e-4987-84aa-55b8de34ad73,Tsitsikamma Microbrewery,micro,Darnell Street,,,Storms River,Eastern Cape,6308,South Africa,+27 42 281 1711,https://www.tsitsikammavillageinn.co.za/brewery/,23.8863,-33.9715

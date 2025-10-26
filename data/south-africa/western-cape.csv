@@ -1,52 +1,52 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-,Starke Brews,micro,Contermanskloof Farm,Contermanskloof Road,,Durbanville,Western Cape,7550,South Africa,+27 82 858 2441,https://starkebrews.com/,18.5776,-33.7915
-,Barrington’s Craft Brewery,brewpub,Barrington's,Piesang Valley Road,,Plettenberg Bay,Western Cape,6600,South Africa,+27 44 050 3767,https://barringtonsplett.co.za/,23.3564,-34.0521
-,Soul Barrel Brewing,micro,R45,,,Simondium,Western Cape,7670,South Africa,+27 82 821 1233,https://soulbarrel.co.za/,18.9622,-33.8443
-,Drifter Brewing Company,micro,656 Mowbray Road,Woodstock,,Cape Town,Western Cape,7925,South Africa,+27 21 447 8710,https://drifterbrewing.co.za/,18.4552,-33.9314
-,ABRU Craft Brewery,micro,15 Pasita Street,Rosenpark,,Bellville,Western Cape,7530,South Africa,+27 72 616 8377,https://abru.co.za/,18.6533,-33.8742
-,Nieuw Brew,brewpub,24 Main Road,,,Nieuwoudtville,Western Cape,8180,South Africa,+27 27 218 1075,https://nieuwbrew.co.za/,19.1091,-31.3789
-,Stellenbosch Brewing Company,brewpub,Klein Joostenberg Farm,R304,,Stellenbosch,Western Cape,7606,South Africa,+27 21 884 4014,https://stelliesbeer.com/,18.7845,-33.8217
-,Kennel Brewery,micro,Unit 25 The Interchange,9 Nobel Street,,Somerset West,Western Cape,7130,South Africa,+27 71 361 7122,https://kennelbrewery.co.za/,18.8132,-34.0734
-,Patiala Brew,micro,34 Fabriek Street,,,Paarl,Western Cape,7646,South Africa,+27 60 715 0341,,18.9619,-33.7381
-,Valley Brewery & Taproom,brewpub,8 Unie Street,,,Hopefield,Western Cape,7355,South Africa,+27 72 254 8848,https://www.facebook.com/ValleyBrewerySA/,18.3503,-33.0645
-,Hey Joe Brewing Company,brewpub,R45,,,Franschhoek,Western Cape,7690,South Africa,+27 63 Hey-Joe,https://www.heyjoebrewery.com/,18.9678,-33.8583
-,Maker’s Brew,micro,70-72 Wale Street,Cape Town City Centre,,Cape Town,Western Cape,8001,South Africa,+27 21 422 2912,https://makerslanding.co.za/,18.4162,-33.9221
-,Lunar Brew,micro,15 Wallflower Street,Paarden Eiland,,Cape Town,Western Cape,7405,South Africa,+27 79 571 5262,https://lunarbrew.co.za/,18.4719,-33.9056
-,Italian Job Brewery,micro,Allée Bleue Wine Estate,Intersection R45 & R310,,Groot Drakenstein,Western Cape,7680,South Africa,+27 21 874 1021,https://alleebleue.co.za/,18.9669,-33.8569
-,Shackleton Brewing Company,micro,23 Transvaal Street,Paarden Eiland,,Cape Town,Western Cape,7405,South Africa,+27 71 887 2363,https://shackletonbrewing.co.za/,18.4761,-33.9077
-,Sedgefield Brewery,micro,Scarab Village,N2 Highway,,Sedgefield,Western Cape,6573,South Africa,+27 82 901 2029,https://sedgefieldbrewery.co.za/,22.8225,-34.0084
-,Saggy Stone Brewing Company,brewpub,Amandalia Farm,Agtervinkrivier,,Robertson,Western Cape,6705,South Africa,+27 83 453 3526,https://saggystone.co.za/,19.6738,-33.8324
-,Robertson Brewery,micro,5 Voortrekker Street,,,Robertson,Western Cape,6705,South Africa,+27 23 626 3288,https://robertsonbrewery.co.za/,19.8821,-33.8033
-,Karusa Winery & Micro Brewery,micro,Schoemanshoek,Cango Valley,,Oudtshoorn,Western Cape,6625,South Africa,+27 44 272 8717,https://www.karusa.co.za/,22.2598,-33.4795
-,Karoo Brew,brewpub,Laingsburg Country Hotel,Voortrekker Street,,Laingsburg,Western Cape,6900,South Africa,+27 23 551 1009,https://laingsburgcountryhotel.co.za/,20.8584,-33.1956
-,Karoo Craft Breweries,micro,62 Voortrekker Street,,,Barrydale,Western Cape,6750,South Africa,+27 28 572 1018,https://www.facebook.com/KarooCraftBreweries/,20.7208,-33.8967
-,Honingklip Brewery,micro,Honingklip Farm,R43,,Bot River,Western Cape,7185,South Africa,+27 82 887 2927,https://www.honingklip.co.za/,19.1245,-34.1979
-,Hoogeberg Brewing Company,micro,Signal Gun Wines,Hoogeberg Road,,Durbanville,Western Cape,7550,South Africa,+27 21 976 7343,https://signalgun.com/,18.6011,-33.7845
-,Hoghouse Brewing Company,brewpub,42 Morningside Street,Ndabeni,,Cape Town,Western Cape,7405,South Africa,+27 21 810 4545,https://www.hoghouse.co.za/,18.4879,-33.9312
-,Hermanus Brewery,micro,The Village,14 Harmony Avenue,,Hermanus,Western Cape,7200,South Africa,+27 28 316 1234,https://www.hermanus-brewery.co.za/,19.2291,-34.4215
-,Hemel & Aarde Brewery,brewpub,Hemel en Aarde Village,R320,,Hermanus,Western Cape,7200,South Africa,+27 28 316 2578,https://thebrewery.co.za/,19.1918,-34.3986
-,Havoc Brew,micro,Unit 17 The Interchange,9 Nobel Street,,Somerset West,Western Cape,7130,South Africa,+27 82 552 9491,https://havocbrew.com/,18.8132,-34.0734
-,Fraser’s Folly,micro,Black Oystercatcher Wines,R317,,Bredasdorp,Western Cape,7280,South Africa,+27 28 482 1618,https://frasersfolly.co.za/,20.1068,-34.5772
-,Franschhoek Beer Company,brewpub,R45,,,Franschhoek,Western Cape,7690,South Africa,+27 21 876 2145,https://franschhoekbeerco.co.za/,19.0682,-33.9515
-,Red Bridge Brewing Company,micro,5 Noble Street,Knysna Industrial,,Knysna,Western Cape,6571,South Africa,+27 82 552 9491,https://redbridgebrewing.co.za/,23.0645,-34.0412
-,Old Potter’s Inn & Brewhouse,brewpub,19 Main Road,,,Greyton,Western Cape,7233,South Africa,+27 28 254 9690,https://oldpottersinn.com/,19.6087,-34.0518
-,Noon Gun Brewery,micro,214-216 Capricorn Drive,Capricorn Park,Muizenberg,Cape Town,Western Cape,7945,South Africa,+27 21 709 0013,https://noongun.net/,18.4901,-34.0954
-,Mountain Brewing Company,micro,Klipbokkop Mountain Reserve,,,Worcester,Western Cape,6850,South Africa,+27 23 349 1908,https://www.mountainbrewing.co/,19.5583,-33.7259
-,Maskam Brewing Company,micro,11 Hoog Street,,,Vredendal,Western Cape,8160,South Africa,+27 27 213 5410,https://www.maskambrewing.co.za/,18.5021,-31.6705
-,Loxtonia Cider,cidery,Loxtonia Farm,Ezelsfontein Road,,Ceres,Western Cape,6835,South Africa,+27 23 004 0930,https://www.loxtonia.co.za/,19.2845,-33.2431
-,Lilypatrick Craft Brewery,micro,Cnr of R44 and Klein Helderberg Road,,,Somerset West,Western Cape,7130,South Africa,+27 79 501 1935,https://lilypatrick.co.za/,18.8525,-34.0402
-,Elysium Brewing Company,micro,Unit B1 Centurion Business Park,Milnerton,,Cape Town,Western Cape,7441,South Africa,+27 63 605 9413,https://elysiumbrewing.co.za/,18.5134,-33.8687
-,Darling Brew,brewpub,48 Caledon Street,,,Darling,Western Cape,7345,South Africa,+27 21 286 1099,https://darlingbrew.co.za/,18.3804,-33.3797
-,Cape Brewing Company,micro,Spice Route Destination,Suid-Agter-Paarl Road,,Paarl,Western Cape,7646,South Africa,+27 21 863 2270,https://capebrewing.co.za/,18.9056,-33.7845
-,Ceres Brewery,micro,Loxtonia Farm,Ezelsfontein Road,,Ceres,Western Cape,6835,South Africa,+27 23 004 0930,https://www.ceresbrewery.co.za/,19.2845,-33.2431
-,Buchanan’s Brewery,micro,Devon Valley Road,,,Stellenbosch,Western Cape,7600,South Africa,,https://www.facebook.com/BuchanansBrewery/,18.8153,-33.9178
-,Woodstock Brewery,brewpub,252 Albert Road,Woodstock,,Cape Town,Western Cape,7925,South Africa,+27 21 203 3046,https://woodstockbrewery.co.za/,18.4491,-33.9272
-,Urban Brewing Company,micro,31 Heath Circle,Parklands,,Cape Town,Western Cape,7441,South Africa,+27 76 607 7226,https://urbanbrewing.co.za/,18.5126,-33.8118
-,Tuk Tuk Microbrewery,brewpub,14 Huguenot Road,,,Franschhoek,Western Cape,7690,South Africa,+27 21 492 2207,https://tuktukbrew.com/,19.1175,-33.9113
-,Triggerfish Brewing,brewpub,9 de Beers Avenue,Paardevlei,,Somerset West,Western Cape,7130,South Africa,+27 21 851 5861,https://www.triggerfishbrewing.co.za/,18.8189,-34.0858
-,Boston Breweries,micro,48-50 Canterbury Street,Zonnebloem,,Cape Town,Western Cape,8001,South Africa,+27 21 461 4666,https://bostonbreweries.co.za/,18.4283,-33.9304
-,Birkenhead Brewery,brewpub,R326,,,Stanford,Western Cape,7210,South Africa,+27 28 341 0183,https://www.birkenhead.co.za/,19.4682,-34.4265
-,Berg River Brewery,brewpub,34-36, Jan Van Riebeeck Drive,,Paarl,Western Cape,7646,South Africa,+27 21 872 1308,https://www.bergriverbrewery.co.za/,18.9781,-33.7214
-,Afro Caribbean Brewing Company,brewpub,157 Second Avenue,Kenilworth,,Cape Town,Western Cape,7925,South Africa,+27 21 447 1787,https://www.acbc.co.za/,18.4705,-33.9372
-,Aegir Project Brewery,brewpub,65 Beach Road,Noordhoek,,Cape Town,Western Cape,7979,South Africa,+27 66 587 9566,https://aegirprojectbrewery.com/,18.3582,-34.1035
-,Devil’s Peak Brewing Company,brewpub,95 Durham Avenue,Salt River,,Cape Town,Western Cape,7925,South Africa,+27 21 200 5818,https://www.devilspeak.beer/,18.4595,-33.9348
+9de7f346-3918-4e5c-b59e-a36bf61b0441,ABRU Craft Brewery,micro,15 Pasita Street,Rosenpark,,Bellville,Western Cape,7530,South Africa,+27 72 616 8377,https://abru.co.za/,18.6533,-33.8742
+82b967b9-3808-4716-9a51-58f80cd038c6,Aegir Project Brewery,brewpub,65 Beach Road,Noordhoek,,Cape Town,Western Cape,7979,South Africa,+27 66 587 9566,https://aegirprojectbrewery.com/,18.3582,-34.1035
+580dba92-5b7a-4e6c-9129-ac5621c90ecd,Afro Caribbean Brewing Company,brewpub,157 Second Avenue,Kenilworth,,Cape Town,Western Cape,7925,South Africa,+27 21 447 1787,https://www.acbc.co.za/,18.4705,-33.9372
+40c40840-a67e-42c5-9393-71c82bead0da,Barrington’s Craft Brewery,brewpub,Barrington's,Piesang Valley Road,,Plettenberg Bay,Western Cape,6600,South Africa,+27 44 050 3767,https://barringtonsplett.co.za/,23.3564,-34.0521
+4b7fc8c9-464c-449f-9c6a-1ef990870184,Berg River Brewery,brewpub,34-36," Jan Van Riebeeck Drive",,Paarl,Western Cape,7646,South Africa,+27 21 872 1308,https://www.bergriverbrewery.co.za/,18.9781,-33.7214
+91c3a9b6-22f3-42cc-814d-d9895dadb1af,Birkenhead Brewery,brewpub,R326,,,Stanford,Western Cape,7210,South Africa,+27 28 341 0183,https://www.birkenhead.co.za/,19.4682,-34.4265
+5e8ccdbb-df4e-4a4a-9133-2503eb7dd0bb,Boston Breweries,micro,48-50 Canterbury Street,Zonnebloem,,Cape Town,Western Cape,8001,South Africa,+27 21 461 4666,https://bostonbreweries.co.za/,18.4283,-33.9304
+2386c8a4-ab86-4bfe-8070-d0c09e257268,Buchanan’s Brewery,micro,Devon Valley Road,,,Stellenbosch,Western Cape,7600,South Africa,,https://www.facebook.com/BuchanansBrewery/,18.8153,-33.9178
+610568ff-fd4f-4837-a1a8-53cca7a7e78b,Cape Brewing Company,micro,Spice Route Destination,Suid-Agter-Paarl Road,,Paarl,Western Cape,7646,South Africa,+27 21 863 2270,https://capebrewing.co.za/,18.9056,-33.7845
+73c91f80-e751-43d0-9ac4-7cde2bd2a171,Ceres Brewery,micro,Loxtonia Farm,Ezelsfontein Road,,Ceres,Western Cape,6835,South Africa,+27 23 004 0930,https://www.ceresbrewery.co.za/,19.2845,-33.2431
+80e73c47-eb4c-43ef-ac47-e23e00c3fbc6,Darling Brew,brewpub,48 Caledon Street,,,Darling,Western Cape,7345,South Africa,+27 21 286 1099,https://darlingbrew.co.za/,18.3804,-33.3797
+88910cf5-944c-4b41-96bd-fe90946cca8d,Devil’s Peak Brewing Company,brewpub,95 Durham Avenue,Salt River,,Cape Town,Western Cape,7925,South Africa,+27 21 200 5818,https://www.devilspeak.beer/,18.4595,-33.9348
+62129c35-2820-46bb-8ed6-daf95d0c2a2a,Drifter Brewing Company,micro,656 Mowbray Road,Woodstock,,Cape Town,Western Cape,7925,South Africa,+27 21 447 8710,https://drifterbrewing.co.za/,18.4552,-33.9314
+38cca64f-a75d-4577-807c-3b7f785cee38,Elysium Brewing Company,micro,Unit B1 Centurion Business Park,Milnerton,,Cape Town,Western Cape,7441,South Africa,+27 63 605 9413,https://elysiumbrewing.co.za/,18.5134,-33.8687
+183b9d57-243d-4de8-b66e-2001c590e922,Franschhoek Beer Company,brewpub,R45,,,Franschhoek,Western Cape,7690,South Africa,+27 21 876 2145,https://franschhoekbeerco.co.za/,19.0682,-33.9515
+815808c5-4ec3-4a1a-a70a-2e8b43869803,Fraser’s Folly,micro,Black Oystercatcher Wines,R317,,Bredasdorp,Western Cape,7280,South Africa,+27 28 482 1618,https://frasersfolly.co.za/,20.1068,-34.5772
+294fc99c-a598-4612-9012-22c8723405c6,Havoc Brew,micro,Unit 17 The Interchange,9 Nobel Street,,Somerset West,Western Cape,7130,South Africa,+27 82 552 9491,https://havocbrew.com/,18.8132,-34.0734
+5efb546e-64b3-4a61-96aa-1552e5af0d62,Hemel & Aarde Brewery,brewpub,Hemel en Aarde Village,R320,,Hermanus,Western Cape,7200,South Africa,+27 28 316 2578,https://thebrewery.co.za/,19.1918,-34.3986
+23d34fe5-27e0-489e-ab7c-adbcada944b9,Hermanus Brewery,micro,The Village,14 Harmony Avenue,,Hermanus,Western Cape,7200,South Africa,+27 28 316 1234,https://www.hermanus-brewery.co.za/,19.2291,-34.4215
+456e17f6-7c51-478e-ae5f-9112a2008b64,Hey Joe Brewing Company,brewpub,R45,,,Franschhoek,Western Cape,7690,South Africa,+27 63 Hey-Joe,https://www.heyjoebrewery.com/,18.9678,-33.8583
+b5ccfc00-94ba-43a3-bb23-dffd719a75ec,Hoghouse Brewing Company,brewpub,42 Morningside Street,Ndabeni,,Cape Town,Western Cape,7405,South Africa,+27 21 810 4545,https://www.hoghouse.co.za/,18.4879,-33.9312
+60acc406-20d7-429e-8e5f-743dd8ad2450,Honingklip Brewery,micro,Honingklip Farm,R43,,Bot River,Western Cape,7185,South Africa,+27 82 887 2927,https://www.honingklip.co.za/,19.1245,-34.1979
+bacde337-e51c-4f1d-a8ff-cf0896a51476,Hoogeberg Brewing Company,micro,Signal Gun Wines,Hoogeberg Road,,Durbanville,Western Cape,7550,South Africa,+27 21 976 7343,https://signalgun.com/,18.6011,-33.7845
+e98dd776-54cd-4da8-bb05-3af5b4769924,Italian Job Brewery,micro,Allée Bleue Wine Estate,Intersection R45 & R310,,Groot Drakenstein,Western Cape,7680,South Africa,+27 21 874 1021,https://alleebleue.co.za/,18.9669,-33.8569
+8f11d155-4367-4941-856e-a092beb60139,Karoo Brew,brewpub,Laingsburg Country Hotel,Voortrekker Street,,Laingsburg,Western Cape,6900,South Africa,+27 23 551 1009,https://laingsburgcountryhotel.co.za/,20.8584,-33.1956
+48ea23aa-2239-4bf0-8581-c8bab06f9d26,Karoo Craft Breweries,micro,62 Voortrekker Street,,,Barrydale,Western Cape,6750,South Africa,+27 28 572 1018,https://www.facebook.com/KarooCraftBreweries/,20.7208,-33.8967
+b6371629-e2db-40a4-a29f-59b5cf633f37,Karusa Winery & Micro Brewery,micro,Schoemanshoek,Cango Valley,,Oudtshoorn,Western Cape,6625,South Africa,+27 44 272 8717,https://www.karusa.co.za/,22.2598,-33.4795
+605b096e-2566-4f4a-95ae-75c4426ffc0c,Kennel Brewery,micro,Unit 25 The Interchange,9 Nobel Street,,Somerset West,Western Cape,7130,South Africa,+27 71 361 7122,https://kennelbrewery.co.za/,18.8132,-34.0734
+926a2f12-ac52-4a18-811b-54bd09293d3d,Lilypatrick Craft Brewery,micro,Cnr of R44 and Klein Helderberg Road,,,Somerset West,Western Cape,7130,South Africa,+27 79 501 1935,https://lilypatrick.co.za/,18.8525,-34.0402
+06b3aef6-951b-4db7-a602-785f90feb728,Loxtonia Cider,cidery,Loxtonia Farm,Ezelsfontein Road,,Ceres,Western Cape,6835,South Africa,+27 23 004 0930,https://www.loxtonia.co.za/,19.2845,-33.2431
+3e9d4c32-f050-4f00-946c-f7f6771bb214,Lunar Brew,micro,15 Wallflower Street,Paarden Eiland,,Cape Town,Western Cape,7405,South Africa,+27 79 571 5262,https://lunarbrew.co.za/,18.4719,-33.9056
+6fc645e2-6f39-4934-b011-4640a7bd616d,Maker’s Brew,micro,70-72 Wale Street,Cape Town City Centre,,Cape Town,Western Cape,8001,South Africa,+27 21 422 2912,https://makerslanding.co.za/,18.4162,-33.9221
+ea4ffed3-de2d-49e8-a7f4-ea25793d5d67,Maskam Brewing Company,micro,11 Hoog Street,,,Vredendal,Western Cape,8160,South Africa,+27 27 213 5410,https://www.maskambrewing.co.za/,18.5021,-31.6705
+48e2ce3f-c70d-408a-820a-b91175e0245e,Mountain Brewing Company,micro,Klipbokkop Mountain Reserve,,,Worcester,Western Cape,6850,South Africa,+27 23 349 1908,https://www.mountainbrewing.co/,19.5583,-33.7259
+05ab0897-df45-4c61-a821-99eb3df920b4,Nieuw Brew,brewpub,24 Main Road,,,Nieuwoudtville,Western Cape,8180,South Africa,+27 27 218 1075,https://nieuwbrew.co.za/,19.1091,-31.3789
+6e462aba-f111-4a3b-a35f-e2f2a9a4ed75,Noon Gun Brewery,micro,214-216 Capricorn Drive,Capricorn Park,Muizenberg,Cape Town,Western Cape,7945,South Africa,+27 21 709 0013,https://noongun.net/,18.4901,-34.0954
+90b7c712-b3e7-4302-8b5d-761dcb0412cd,Old Potter’s Inn & Brewhouse,brewpub,19 Main Road,,,Greyton,Western Cape,7233,South Africa,+27 28 254 9690,https://oldpottersinn.com/,19.6087,-34.0518
+d16230f3-d387-46cf-bd27-570d88645432,Patiala Brew,micro,34 Fabriek Street,,,Paarl,Western Cape,7646,South Africa,+27 60 715 0341,,18.9619,-33.7381
+cd59775b-b065-43ef-bde8-cc7ac5dbab30,Red Bridge Brewing Company,micro,5 Noble Street,Knysna Industrial,,Knysna,Western Cape,6571,South Africa,+27 82 552 9491,https://redbridgebrewing.co.za/,23.0645,-34.0412
+b4ed6ece-d462-46ed-bf31-3c2c9b240230,Robertson Brewery,micro,5 Voortrekker Street,,,Robertson,Western Cape,6705,South Africa,+27 23 626 3288,https://robertsonbrewery.co.za/,19.8821,-33.8033
+986a59ff-6361-4e31-b616-5ff65310d47e,Saggy Stone Brewing Company,brewpub,Amandalia Farm,Agtervinkrivier,,Robertson,Western Cape,6705,South Africa,+27 83 453 3526,https://saggystone.co.za/,19.6738,-33.8324
+6ac9a5f5-ba57-4e7a-ab50-5be232733a6f,Sedgefield Brewery,micro,Scarab Village,N2 Highway,,Sedgefield,Western Cape,6573,South Africa,+27 82 901 2029,https://sedgefieldbrewery.co.za/,22.8225,-34.0084
+bcd9f90c-78cd-4fec-9ff9-608447cf12a9,Shackleton Brewing Company,micro,23 Transvaal Street,Paarden Eiland,,Cape Town,Western Cape,7405,South Africa,+27 71 887 2363,https://shackletonbrewing.co.za/,18.4761,-33.9077
+6d8c4ee2-8a0e-4e69-8669-c145471543b7,Soul Barrel Brewing,micro,R45,,,Simondium,Western Cape,7670,South Africa,+27 82 821 1233,https://soulbarrel.co.za/,18.9622,-33.8443
+f46e5f3a-5a8b-4b7a-be4f-e080b0518550,Starke Brews,micro,Contermanskloof Farm,Contermanskloof Road,,Durbanville,Western Cape,7550,South Africa,+27 82 858 2441,https://starkebrews.com/,18.5776,-33.7915
+02e2a072-6710-4d7e-b19c-a51a281c0bda,Stellenbosch Brewing Company,brewpub,Klein Joostenberg Farm,R304,,Stellenbosch,Western Cape,7606,South Africa,+27 21 884 4014,https://stelliesbeer.com/,18.7845,-33.8217
+b44ee45f-694b-474a-a802-a28856b51183,Triggerfish Brewing,brewpub,9 de Beers Avenue,Paardevlei,,Somerset West,Western Cape,7130,South Africa,+27 21 851 5861,https://www.triggerfishbrewing.co.za/,18.8189,-34.0858
+eeec3aa8-164f-4cf2-9232-fbf3b2f8a53f,Tuk Tuk Microbrewery,brewpub,14 Huguenot Road,,,Franschhoek,Western Cape,7690,South Africa,+27 21 492 2207,https://tuktukbrew.com/,19.1175,-33.9113
+c0a08183-e953-4b1a-a010-a637a2451f91,Urban Brewing Company,micro,31 Heath Circle,Parklands,,Cape Town,Western Cape,7441,South Africa,+27 76 607 7226,https://urbanbrewing.co.za/,18.5126,-33.8118
+8d49c923-a8fa-429d-aa0d-21d7a170289b,Valley Brewery & Taproom,brewpub,8 Unie Street,,,Hopefield,Western Cape,7355,South Africa,+27 72 254 8848,https://www.facebook.com/ValleyBrewerySA/,18.3503,-33.0645
+763463d6-3129-4590-80ec-a1c05740c49d,Woodstock Brewery,brewpub,252 Albert Road,Woodstock,,Cape Town,Western Cape,7925,South Africa,+27 21 203 3046,https://woodstockbrewery.co.za/,18.4491,-33.9272
