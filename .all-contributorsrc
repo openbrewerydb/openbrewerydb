@@ -435,6 +435,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/133682090?v=4",
       "profile": "https://seanwp.pythonanywhere.com/",
       "contributions": ["data"]
+    },
+    {
+      "login": "simonmackinnon",
+      "name": "Simon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4686123?v=4",
+      "profile": "https://theclouddevopslearningblog.com/",
+      "contributions": ["data"]
     }
   ],
   "contributorsPerLine": 7
