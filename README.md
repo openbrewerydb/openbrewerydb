@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-62-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-63-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -281,6 +281,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://seanwp.pythonanywhere.com/"><img src="https://avatars.githubusercontent.com/u/133682090?v=4?s=100" width="100px;" alt="Sean"/><br /><sub><b>Sean</b></sub></a><br /><a href="#data-SeanRVACode" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://theclouddevopslearningblog.com/"><img src="https://avatars.githubusercontent.com/u/4686123?v=4?s=100" width="100px;" alt="Simon"/><br /><sub><b>Simon</b></sub></a><br /><a href="#data-simonmackinnon" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/willkrakow"><img src="https://avatars.githubusercontent.com/u/17362961?v=4?s=100" width="100px;" alt="willkrakow"/><br /><sub><b>willkrakow</b></sub></a><br /><a href="#data-willkrakow" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CharlRitter"><img src="https://avatars.githubusercontent.com/u/13846799?v=4?s=100" width="100px;" alt="Charl Ritter"/><br /><sub><b>Charl Ritter</b></sub></a><br /><a href="#data-CharlRitter" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
