@@ -1,0 +1,4 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+,Stellar Brewery,micro,R702,Dassiekop,,Dewetsdorp,Free State,9940,South Africa,+27 72 396 6736,https://stellarbrewery.com/,26.3121,-29.6206
+,Highland Brew,micro,Moolmanshoek,Ficksburg,,Fouriesburg,Free State,9725,South Africa,+27 82 770 9625,https://moolmanshoek.co.za/activities/highland-brew/,28.1882,-28.4907
+,Clarens Brewery,brewpub,361 Main Street,,,Clarens,Free State,9707,South Africa,+27 58 256 1193,https://www.clarensbrewery.co.za/,28.5173,-28.4187

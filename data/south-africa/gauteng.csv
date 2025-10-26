@@ -1,0 +1,18 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+,Arlington Brewery & Cidery,brewpub,1060 Spioenkop Street,,,Arlington,Gauteng,1933,South Africa,+27 72 191 2470,https://arlington.co.za/,28.0267,-26.7909
+,Brewhogs Micro Brewery,micro,Unit 5, 156 Saffier Street,Jukskei Park,Randburg,Gauteng,2196,South Africa,+27 82 853 5255,https://www.brewhogs.co.za/,28.0305,-26.0245
+,Gilroy’s Brewery,brewpub,R114 & N14, Nietgedacht,,Muldersdrift,Gauteng,1747,South Africa,+27 11 796 3020,https://www.gilroybeers.co.za/,27.9102,-26.0142
+,Frontier Beer Company,micro,Unit 4, 100 Voortrekker Road,,Salt River,Gauteng,7925,South Africa,+27 21 813 5459,https://frontierbeer.co.za/,18.4619,-33.9298
+,Swagga Breweries,micro,1026 Bultfontein Street,,,Pretoria,Gauteng,0182,South Africa,+27 82 552 9585,https://swaggabrewery.co.za/,28.1633,-25.9080
+,Friar’s Habit Craft Brewery,brewpub,141 Dr Van der Merwe Drive,Montana,,Pretoria,Gauteng,0182,South Africa,+27 12 548 0244,https://www.friarshabit.co.za/,28.2435,-25.6811
+,Redrock Brewing Company,micro,599 Fan-Fan Street,Garsfontein,,Pretoria,Gauteng,0081,South Africa,+27 82 337 4478,https://redrockbrewing.co.za/,28.3039,-25.7958
+,Optimum Craft Brewery,micro,,,,Meyerton,Gauteng,1961,South Africa,+27 72 841 7142,,28.0833,-26.5667
+,Mainstream Brewing Company,micro,24 Gwigwi Mrwebi Street,Newtown,,Johannesburg,Gauteng,2001,South Africa,,https://www.mainstreambeer.co.za/,28.0300,-26.2023
+,Mad Giant Beer,brewpub,1 Fox Street,Ferreiras Dorp,,Johannesburg,Gauteng,2048,South Africa,+27 10 020 8035,https://www.madgiant.co.za/,28.0381,-26.2081
+,Legends Brewery,brewpub,101 Ghwarri Road,Rietvalleirand,,Pretoria,Gauteng,0181,South Africa,+27 12 345 5969,https://legendsbrewery.co.za/,28.2721,-25.8459
+,Draymans Brewery,micro,331 Alwyn Street,Waltloo,,Pretoria,Gauteng,0184,South Africa,+27 12 804 8838,https://draymans.com/,28.3151,-25.7276
+,Copperlake Breweries,brewpub,1006 Bultfontein Street,,,Pretoria,Gauteng,0182,South Africa,+27 82 929 1222,https://copperlake.co.za/,28.1635,-25.9081
+,Three Stags Brewery,micro,25, 6th Street,Wynberg,Sandton,Gauteng,2090,South Africa,+27 11 440 2800,https://www.threestagsbrewery.com/,28.0931,-26.1102
+,TNT Brewery,micro,Plot 164, Elandsfontein,,Pretoria,Gauteng,0027,South Africa,+27 82 320 2362,,28.3297,-25.6264
+,Black Horse Brewery,brewpub,32 Seekoeihoek, Bekker Schools Road,,Magaliesburg,Gauteng,1791,South Africa,+27 82 453 5295,https://www.blackhorse.co.za/,27.6719,-25.9961
+,Agar’s Brewery,micro,Unit 12,109 Landmarks Avenue,Samrand,Centurion,Gauteng,0157,South Africa,+27 83 294 8322,https://agarsbrewery.co.za/,28.1256,-25.9189
