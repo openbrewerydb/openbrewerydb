@@ -149,10 +149,10 @@ a7cbed0a-bbfb-4158-8032-4f44d680d7be,Dubtown Brewing Company,micro,201 Main Ave 
 8eaa6a32-0504-43d6-a18a-4005355bebf6,Dungeness Brewing Company,micro,4017 S Mount Angeles Rd,,,Port Angeles,Washington,98362-8966,United States,3607751877,http://www.dungenessbrewing.com,-123.418449,48.087279
 c50af63f-c38a-4d1d-a15e-bd676e055505,Dwinell Country Ales,micro,206 W Broadway St,,,Goldendale,Washington,98620-9130,United States,5097733138,http://www.countryales.com,-120.8247773,45.822927
 c5e25b7e-f1ba-422f-aa26-44096d022060,Dystopian State Brewing,micro,611 S Baker St,,,Tacoma,Washington,98402-2318,United States,2533023466,http://www.dystopianstate.com,-122.4433066,47.25836061
-dad5cb3d-3e6d-4099-b9d9-1a89b7b1d714,E2W Brewing,micro,12913 Shady Glen Ave SE,,,Olalla,Washington,98359,United States,2532147463,https://www.facebook.com/E2WBrewing,-122.594069,47.432463
-60548726-66cb-4e76-ac56-935de154b4b7,E9 Brewing Company,micro,2506 Fawcett Avenue,,,Tacoma,Washington,98402,United States,2533837707,https://e9brewingco.com/,-122.44,47.238169
-f31f30a7-6d1c-42b0-9428-a6164ded8c06,Echoes Brewing Company,micro,19479 Viking Ave NW,,,Poulsbo,Washington,98370,United States,3609308152,https://www.echoesbrewing.com/,-122.6597498,47.74030477
-7d6e56b6-1b6b-497e-b4fc-6e19dbf099bb,Elk Head Brewing Co,micro,28120 State Route 410 E,,,Buckley,Washington,98321-8721,United States,3608292739,,-122.0529573,47.15968788
+dad5cb3d-3e6d-4099-b9d9-1a89b7b1d714,E2W Brewing,micro,12913 Shady Glen Ave SE,,,Olalla,Washington,98359-9804,United States,2532147463,https://www.facebook.com/E2WBrewing,-122.594069,47.432463
+60548726-66cb-4e76-ac56-935de154b4b7,E9 Brewing Company,micro,2506 Fawcett Avenue,,,Tacoma,Washington,98402-1302,United States,2533837707,https://e9brewingco.com,-122.44,47.238169
+f31f30a7-6d1c-42b0-9428-a6164ded8c06,Echoes Brewing Company,micro,19479 Viking Ave NW,,,Poulsbo,Washington,98370-8370,United States,3609308152,https://www.echoesbrewing.com,-122.6597498,47.74030477
+7d6e56b6-1b6b-497e-b4fc-6e19dbf099bb,Elk Head Brewing Co,micro,28120 State Route 410 E,,,Buckley,Washington,98321-8721,United States,3608292739,https://www.facebook.com/pages/Elk-Head-Brewing-Company-Inc/115852391770175,-122.0529573,47.15968788
 92d0b2ac-85a6-4f1a-a11e-4a05e1bf0767,Ellersick Brewing / Big E Ales,closed,5030 208th St SW Ste A,,,Lynnwood,Washington,98036-7642,United States,4256727051,http://www.bigeales.com,-122.301844,47.810408
 76772c7e-f116-416d-8646-0f824d12dec3,Elliott Bay Brewery and Pub - West Seattle,brewpub,4720 California Ave SW,,,Seattle,Washington,98116-4413,United States,2069328695,http://www.elliottbaybrewing.com,-122.3865765,47.5604072
 9f309558-6675-475c-bfac-bef4aee4858d,Elliott Bay Brewhouse & Pub - Burien,brewpub,255 SW 152nd St,,,Burien,Washington,98166-2307,United States,2062464211,http://www.elliottbaybrewing.com,-122.3373381,47.466775
@@ -165,77 +165,82 @@ f31f30a7-6d1c-42b0-9428-a6164ded8c06,Echoes Brewing Company,micro,19479 Viking A
 f58c9bc0-34ca-4673-99f3-c124e0a41ee1,Enso Brewing Company,micro,,,,Vashon,Washington,98070,United States,2067072437,,,
 413d419f-ee43-4e41-a70e-4e7268346f9b,Enumclaw Brewing Company @ Rockridge Orchards & Cidery,closed,40709 264th Ave SE,,,Enumclaw,Washington,98022-8366,United States,3608026800,http://www.rockridgeorchards.com,,
 7c0fa97b-b482-43bd-a429-b62ed564e50c,Everybody's Brewing Co,micro,177 E Jewett Blvd,,,White Salmon,Washington,98672-8976,United States,5096372774,http://www.everybodysbrewing.com,-121.4854565,45.72787736
-e7d630be-55a7-4d75-8fa0-72a6f25e49ec,Explorer Brewing Company,micro,209 Ash St,,,Kelso,Washington,98626,United States,3602328337,https://www.facebook.com/discoverourcraft,-122.9120251,46.14277372
+e7d630be-55a7-4d75-8fa0-72a6f25e49ec,Explorer Brewing Company,micro,209 Ash St,,,Kelso,Washington,98626-2212,United States,3602328337,https://www.facebook.com/discoverourcraft,-122.9120251,46.14277372
 146c521f-d3c9-4a86-82a8-7bbf951aedea,Fair Isle Brewing,micro,936 NW 49th St,,,Seattle,Washington,98107-3653,United States,2064283434,http://www.fairislebrewing.com,-122.37009151542475,47.66461174988398
 90f16bb9-b94f-4f2c-8fae-c64ed95208b3,Farm Shed Wines & Brews,micro,22808 Sumner Buckley Hwy E,,,Buckley,Washington,98321-8424,United States,8444379786,http://www.farmshedwines.com,-122.124967,47.180813
 7eaa5cbc-b92b-4c5f-91fa-5242c2a66214,Farmstrong Brewing Co,micro,110 Stewart Rd,,,Mount Vernon,Washington,98273-9628,United States,3608738852,http://www.farmstrongbrewing.com,-122.3369645,48.4431376
-dfa10b9e-ad89-4a05-b718-2621cca3d5f9,Fast Fashion Brewing,micro,730 N 34th St,,,Seattle,Washington,98103,United States,2065574907,https://fastfashion.us/,-122.3484134,47.64970532
+dfa10b9e-ad89-4a05-b718-2621cca3d5f9,Fast Fashion Brewing,micro,1723 1st Ave S,,,Seattle,Washington,98134-1403,United States,2064202569,https://themasonryseattle.com/fast-fashion,-122.33446420793315,47.587897798553314
+,Fast Fashion Brewing - Lower Queen Anne,taproom,16 Roy St,,,Seattle,Washington,98109-4018,United States,2064202569,https://themasonryseattle.com/fast-fashion-lqa-tasting-room,-122.3559712607499,47.62558707724656
 e9e4a440-843a-43d3-b481-52a7e5307444,Fathom & League Hop Yard Brewery,micro,360 Grandview Dr,,,Sequim,Washington,98382-7875,United States,3602860278,http://www.fathomandleaguebrewery.com,,
-8c2b58e7-e1fc-495d-adda-5be4c18fb4e1,Feral Public House,brewpub,1109 Washington St,,,Vancouver,Washington,98660,United States,3608365255,http://www.heathenbrewing.com,-122.6723137,45.63010593
+8c2b58e7-e1fc-495d-adda-5be4c18fb4e1,Feral Public House,closed,1109 Washington St,,,Vancouver,Washington,98660,United States,3608365255,http://www.heathenbrewing.com,-122.6723137,45.63010593
 379eceb5-bc20-4627-ad9c-d3cb922048b8,Figurehead Brewing Company,micro,4001 21st Ave W Unit B,,,Seattle,Washington,98199-1201,United States,2064927981,http://www.figureheadbrewingcompany.com,-122.3835563,47.65688785
 dca618d0-fe3f-4829-9f56-36f9ba2dca26,Fired Up Brewing,brewpub,1235 S Main St,,,Colville,Washington,99114-9504,United States,5096843328,http://www.facebook.com/firedupbrewing,-117.9057561,48.540198
-2d60ec76-646d-4512-9e57-4d04406cd1e2,Fish Brewing Co,micro,514 Jefferson St SE,,,Olympia,Washington,98501-1467,United States,3609436480,http://www.fishbrewing.com,-122.8954179,47.03437129
+2d60ec76-646d-4512-9e57-4d04406cd1e2,Fish Brewing Co,closed,514 Jefferson St SE,,,Olympia,Washington,98501-1467,United States,3609436480,http://www.fishbrewing.com,-122.8954179,47.03437129
 10364982-a5d1-4595-bf95-25068d2386e3,Fish Brewing Pub & Eatery,closed,5108 Grand Loop,,,Ruston,Washington,98407-3180,United States,,,,
-b0b97e05-5db0-4825-b1c4-406e6b807bd0,Five Dolar Ranch Brewing,micro,1570 Beet Rd,,,Walla Walla,Washington,99362,United States,5095403989,https://fivedollarranchbeer.com/,-118.4191129,46.0036876
-d267fb22-568a-4037-83d0-2c2daf10a815,Five Dons Brewing Co,micro,1158 11th Ave,,,Longview,Washington,98632-3110,United States,3604306440,http://www.fivedonsbeer.com,-122.9326287,46.13418506
-73c24a7a-a78f-4958-93b0-ff937ab9bf37,Floating Bridge Brewing,micro,722 NE 45th St,,,Seattle,Washington,98105-4719,United States,2064664784,http://www.floatingbridgebrewing.com,-122.3198017,47.6615295
+b0b97e05-5db0-4825-b1c4-406e6b807bd0,Five Dollar Ranch Brewing,micro,1570 Beet Rd,,,Walla Walla,Washington,99362-7182,United States,5095403989,https://fivedollarranchbeer.com,-118.4191129,46.0036876
+d267fb22-568a-4037-83d0-2c2daf10a815,Five Dons Brewing Co,closed,1158 11th Ave,,,Longview,Washington,98632-3110,United States,3604306440,http://www.fivedonsbeer.com,-122.9326287,46.13418506
+73c24a7a-a78f-4958-93b0-ff937ab9bf37,Floating Bridge Brewing,closed,722 NE 45th St,,,Seattle,Washington,98105-4719,United States,2064664784,http://www.floatingbridgebrewing.com,-122.3198017,47.6615295
 208f5a9e-de1f-4af8-a959-49ee229284d0,Floodland Brewing,micro,3806 Woodland Park Ave North Suite 100,,,Seattle,Washington,98103,United States,2064862854,http://www.floodlandbrewing.com,,
 83987247-12ba-49f6-b677-6b28384d3c9d,Flycaster Brewing Co.,closed,12815 NE 124th St Ste I,,,Kirkland,Washington,98034-8313,United States,2069636626,https://flycasterbrewing.com,-122.169021,47.711115
-60dbcce5-f754-4a42-ac63-e3a246b7a0fb,Flyers Restaurant and Brewery,brewpub,32295 State Route 20,,,Oak Harbor,Washington,98277-5923,United States,3606755858,http://www.eatatflyers.com,-122.6528474,48.2991197
+60dbcce5-f754-4a42-ac63-e3a246b7a0fb,Flyers Restaurant and Brewery,closed,32295 State Route 20,,,Oak Harbor,Washington,98277-5923,United States,3606755858,http://www.eatatflyers.com,-122.6528474,48.2991197
 c8b11b14-e5ba-401d-accb-d3c74a54c98e,Flying Bike Cooperative Brewery,micro,8570 Greenwood Ave N,,,Seattle,Washington,98103-3614,United States,2064287709,http://www.flyingbike.coop,-122.3550721,47.6920561
 f803556e-bc5e-4ce2-b4c0-197818963520,Flying Lion Brewing,micro,5041 Rainier Ave S Ste 106,,,Seattle,Washington,98118-1946,United States,2066599912,http://www.flyinglionbrewing.com,-122.2840136,47.5560348
 287dfebf-9ff0-4fab-b98d-720e0d7816ef,Foggy Noggin Brewing,micro,22329 53rd Ave SE,,,Bothell,Washington,98021-8017,United States,2065539223,http://www.foggynogginbrewing.com,-122.161117,47.794727
 af5b4f9c-51d7-4813-8ed6-30aa56cb8dea,Foothills Brewing and Beverage Co,closed,25312 Kanaskat Dr,,,Black Diamond,Washington,98010,United States,3608862215,,-122.006345,47.328838
-9852462c-c574-4947-ba8a-bcfc753916be,For the Love of God Brewing,micro,2617 W Northwest Blvd,,,Spokane,Washington,99205,United States,5095988601,https://www.fortheloveofgodbrewing.com,-117.4505585,47.68614962
+9852462c-c574-4947-ba8a-bcfc753916be,For the Love of God Brewing,micro,2617 W Northwest Blvd,,,Spokane,Washington,99205-3877,United States,5095988601,https://www.fortheloveofgodbrewing.com,-117.4505585,47.68614962
 e8d72e1d-cdd5-4d61-87a2-18aeaee80e9e,Fortside Brewing Company,micro,2200 NE Andresen Rd Ste B,,,Vancouver,Washington,98661-7350,United States,3605244692,http://www.fortsidebrewing.com,-122.6011643,45.63911642
-e85a8ede-cc69-446a-a751-75e47c74dc2c,Forward Operating Base Brewing Company / FOB Brewing,micro,2750 Williamson Pl Ste 100,,,Dupont,Washington,98327-7501,United States,2535074667,http://www.fobbrewingcompany.com,-122.625039,47.107496
-bc2f73b9-a10d-447c-8f49-93b9569b7193,Four Eyed Guys Brewing,micro,910 W Indiana Ave,,,Spokane,Washington,99205,United States,5097959648,http://foureyedguysbrewing.com,-117.4256801,47.67578312
+e85a8ede-cc69-446a-a751-75e47c74dc2c,Forward Operating Base Brewing Company / FOB Brewing,closed,2750 Williamson Pl Ste 100,,,Dupont,Washington,98327-7501,United States,2535074667,http://www.fobbrewingcompany.com,-122.625039,47.107496
+bc2f73b9-a10d-447c-8f49-93b9569b7193,Four Eyed Guys Brewing,micro,910 W Indiana Ave,,,Spokane,Washington,99205-4508,United States,5097959648,http://foureyedguysbrewing.com,-117.4256801,47.67578312
 62f9e6a6-9200-45aa-9cf0-03ef0ffce99b,Four Generals Brewing,micro,229 Wells Ave S,,,Renton,Washington,98057-2131,United States,4252824360,http://www.fourgenerals.com,-122.205586,47.4801424
 8b23de29-c85d-4aae-8769-ea1fece3eab6,Four Horsemen Brewery,micro,30221 148th Ave SE,,,Kent,Washington,98042-9368,United States,2539814258,http://www.fourhorsemen.beer,-122.1426915,47.3844953
 a8874024-4542-4460-adf9-a7ee686d7b92,Fox Island Brewing,closed,2416 14th Ave NW,,,Gig Harbor,Washington,98335,United States,,http://www.foxislandbrewing.com,,
 a59a6f78-d894-4d75-835d-1415f6a333ce,Fremont Brewing Co,regional,3409 Woodland Park Ave N,,,Seattle,Washington,98103-8925,United States,2064202407,http://www.fremontbrewing.com,-122.3444367,47.64919175
+,Fremont Brewing Co - Fremont Urban Beer Garden,taproom,1050 N 34th St,,,Seattle,Washington,98103-8843,United States,2064202407,https://www.fremontbrewing.com/fremont-urban-beer-garden,-122.34438475881333,47.649149020365016
+,Fremont Brewing Co - Columbia City Urban Beer Garden,taproom,3808 S Edmunds St #1730,,,Seattle,Washington,98118-1730,United States,2064202407,https://www.fremontbrewing.com/columbia-city-urban-beer-garden,-122.28503240299845,47.55902581526204
 769105a9-f552-4c1c-80b5-e85463582e8c,Friday Harbor Brewing,closed,665B Mullis St,,,Friday Harbor,Washington,98250-7902,United States,3603786205,http://www.fridayharborbrewhouse.com,-123.0223327,48.53026803
-1ec61aa6-bd2f-43f4-b3cf-cd0cb92caa57,FrinGe Brewing,micro,5640 3rd Ave,,,Ferndale,Washington,98248,United States,3603986071,https://fringebrewing.com,-122.593,48.84596
-e359d959-95c2-40c6-936b-04c4a8ed947b,Future Primitive Brewing Company,micro,"9832 14th Ave SW ",,,Seattle,Washington,98106-2816,United States,2068192241,https://www.futureprimitivebeer.com,-122.3524234,47.51481725
+1ec61aa6-bd2f-43f4-b3cf-cd0cb92caa57,FrinGe Brewing,micro,5640 3rd Ave,,,Ferndale,Washington,98248-8394,United States,3603986071,https://fringebrewing.com,-122.593,48.84596
+e359d959-95c2-40c6-936b-04c4a8ed947b,Future Primitive Brewing Company - White Center,micro,9832 14th Ave SW,,,Seattle,Washington,98106-2816,United States,2068192241,https://www.futureprimitivebeer.com,-122.3524234,47.51481725
+,Future Primitive Brewing Company - Alki Beach Bar,taproom,2536 Alki Ave SW,,,Seattle,Washington,98116-3013,United States,,https://www.futureprimitivebeer.com,-122.40683073483498,47.58028100630402
 fd8c59f5-b0c0-47b3-be6e-002f60580fed,Gallaghers' Where U Brew,micro,180 W Dayton St Ste 105,,,Edmonds,Washington,98020-4160,United States,4257764209,http://www.whereubrew.com,-122.3866448,47.80984882
 9e1a5201-f59d-42d0-b77e-d2f16676a587,Garden Path Fermentation,micro,11653 Higgins Airport Way,,,Burlington,Washington,98233-5308,United States,3605038956,http://www.gardenpathwa.com,-122.4179847,48.47697354
-70079d9d-bd45-47e3-9a4d-d6cbd4fbf644,Garland Brew Werks,micro,603 W Garland Ave,,,Spokane,Washington,99205,United States,5098639419,https://www.facebook.com/Garland-Brew-Werks-102172055439160,-117.4204687,47.69391487
-f478ca13-2978-4461-9651-3949addc563a,Geaux Brewing LLC,brewpub,3205 C St NE,,,Auburn,Washington,98002-1725,United States,2533973939,http://www.geauxbrewing.com,-122.2237209,47.30767457
+70079d9d-bd45-47e3-9a4d-d6cbd4fbf644,Garland Brew Werks,micro,603 W Garland Ave,,,Spokane,Washington,99205-2956,United States,5098639419,https://garlandbrewwerks.com,-117.4204687,47.69391487
+f478ca13-2978-4461-9651-3949addc563a,Geaux Brewing LLC,closed,3205 C St NE,,,Auburn,Washington,98002-1725,United States,2533973939,http://www.geauxbrewing.com,-122.2237209,47.30767457
 396384cf-1d53-4020-994f-4ce801a9910b,Genus Brewing and Supply,micro,17018 E Sprague Ave,,,Spokane Valley,Washington,99216-2171,United States,5098082395,https://www.genusbrewing.com,-117.1754302,47.65718663
 34ee7dba-496b-42ca-bf2a-ff24f89ae3eb,Georgetown Brewing Co,regional,5200 Denver Ave S,,,Seattle,Washington,98108-2246,United States,2067668055,http://www.georgetownbeer.com,-122.3256809,47.5552618
 fc2b7dc0-a96f-46c8-a23d-9395d4b48aee,Ghost Runners Brewery,micro,4216 NE Minnehaha St # 108,,,Vancouver,Washington,98661-1244,United States,3609893912,https://ghostrunnersbrewery.com,-122.639599,45.6678127
 59929344-4ce7-4499-ba98-db6bbe6bfca0,Ghostfish Brewing Company,micro,2942 1st Ave S,,,Seattle,Washington,98134-1820,United States,2532494650,http://www.ghostfishbrewing.com,-122.3338908,47.5763508
-ee356525-7374-4203-97ee-767fbcef6cc2,Gig Harbor Brewing,micro,3120 South Tacoma Way,,,Tacoma,Washington,98409-4717,United States,2538304653,http://www.gigharborbrewing.com,-122.4772721,47.22805896
-045fb2d4-698c-4d1a-a8ca-ecf225871dd3,Golden Handle Project,micro,111 S Cedar St,,,Spokane,Washington,99201,United States,5098680264,https://www.goldenhandle.org,-117.4326605,47.65656661
-4fc2ac9a-57df-4cf2-80c6-ba63dd3d8340,Good Brewing Company,micro,16104 125th Pl NE,,,Woodinville,Washington,98072-7983,United States,4252473245,http://www.globalbeercompany.com,-122.1717877,47.74469959
+ee356525-7374-4203-97ee-767fbcef6cc2,Gig Harbor Brewing,closed,3120 South Tacoma Way,,,Tacoma,Washington,98409-4717,United States,2538304653,http://www.gigharborbrewing.com,-122.4772721,47.22805896
+045fb2d4-698c-4d1a-a8ca-ecf225871dd3,Golden Handle Project,closed,111 S Cedar St,,,Spokane,Washington,99201,United States,5098680264,https://www.goldenhandle.org,-117.4326605,47.65656661
+4fc2ac9a-57df-4cf2-80c6-ba63dd3d8340,Good Brewing Company - Woodinville,brewpub,16104 125th Pl NE,,,Woodinville,Washington,98072-7983,United States,4252473245,https://goodbrewingco.com/brewpub-1,-122.1717877,47.74469959
+,Good Brewing Company - Sultan,brewpub,410 Main St,,,Sultan,Washington,98294-0070,United States,3602433159,https://goodbrewingco.com/sultan-1,-121.81562857599963,47.86234662840536
 c24f54a0-dbde-40c1-8e15-c78dffb5e2c2,Gordon Biersch Brewery Restaurant - Seattle,closed,600 Pine St Ste 401,,,Seattle,Washington,98101-3709,United States,2064054205,http://www.craftworksrestaurants.com,,
-d1248bce-f8fd-4070-b8c8-714565fa0cbb,Grains of Wrath Brewing,brewpub,230 NE 5th Ave,,,Camas,Washington,98607,United States,3602105717,http://www.gowbeer.com,-122.4056003,45.5857341
-99d5c421-3198-4d61-98b1-726595c930e2,Green Oak Brewing,brewpub,1427 Wine Country Rd,,,Prosser,Washington,99350-1148,United States,5097864922,http://www.whitstranbrewing.com,-119.7707374,46.210051
+d1248bce-f8fd-4070-b8c8-714565fa0cbb,Grains of Wrath Brewing,brewpub,230 NE 5th Ave,,,Camas,Washington,98607-2003,United States,3602105717,http://www.gowbeer.com,-122.4056003,45.5857341
+99d5c421-3198-4d61-98b1-726595c930e2,Green Oak Brewing,closed,1427 Wine Country Rd,,,Prosser,Washington,99350-1148,United States,5097864922,http://www.whitstranbrewing.com,-119.7707374,46.210051
 98a49693-43bc-4f99-99ff-bdb1bd6470b4,Gruff Brewing Company,micro,104 E Maple St # 101,,,Bellingham,Washington,98225-5006,United States,3607340115,http://www.gruff-brewing.com,-122.4822547,48.7472243
 53b5c0a9-2201-4a60-a110-fe1136a658ea,GSP Craft Brewing,closed,,,,Gig Harbor,Washington,98332-7918,United States,2533281121,http://www.facebook.com/gspcraftbrewing,,
 b3f83269-b3e9-4637-b5a2-acfbfbe35387,Haas Innovations Brewing LLC,micro,1600 River Rd,,,Yakima,Washington,98902-1249,United States,5094694000,https://www.johnihaas.com,-120.530565,46.617844
-593a9ce4-520b-458f-a184-05debb3a7295,Hale's Ales Brewery and Pub,micro,4301 Leary Way NW,,,Seattle,Washington,98107-4538,United States,2069632118,http://www.halesbrewery.com,-122.3655909,47.6592451
-afd6863b-7e66-4f05-aca0-319fc7054288,Half Lion Brewing Company,micro,1723 West Valley Hwy E Ste 101,,,Sumner,Washington,98390-9700,United States,2537504479,http://www.halflion.com,-122.2553244,47.24128441
-37d585b5-00ee-4be0-ac6b-6d15b6416cac,Half Lion Public House,brewpub,2019 W Meeker St,,,Kent,Washington,98032,United States,2532770685,https://www.halflion.com,-122.2629041,47.38103
-cdcc3305-d175-4cdb-b775-c150700bca78,Harmon Brewing Company,micro,204 St Helens Ave,,,Tacoma,Washington,98402-2522,United States,253212725,http://www.harmonbrewingco.com,-122.4457804,47.26209356
-017c8df5-27bd-4812-b42a-6d5e3e555ecf,Haywire Brewing Company,micro,12125 Treosti Rd,,,Snohomish,Washington,98290-6918,United States,3605682739,http://www.haywirebrewery.com,-122.0812498,47.8860915
-81292878-bdc3-40ab-8237-c84d384c2b6d,Headless Mumby Brewing,micro,232 Division St NW,,,Olympia,Washington,98502,United States,3607423880,https://www.headlessmumbybrewing.com,-122.92562,47.04735502
+593a9ce4-520b-458f-a184-05debb3a7295,Hale's Ales Brewery and Pub,closed,4301 Leary Way NW,,,Seattle,Washington,98107-4538,United States,2069632118,http://www.halesbrewery.com,-122.3655909,47.6592451
+afd6863b-7e66-4f05-aca0-319fc7054288,Half Lion Brewing Company,closed,1723 West Valley Hwy E Ste 101,,,Sumner,Washington,98390-9700,United States,2537504479,http://www.halflion.com,-122.2553244,47.24128441
+37d585b5-00ee-4be0-ac6b-6d15b6416cac,Half Lion Public House,closed,2019 W Meeker St,,,Kent,Washington,98032,United States,2532770685,https://www.halflion.com,-122.2629041,47.38103
+cdcc3305-d175-4cdb-b775-c150700bca78,Harmon Brewing Company,closed,204 St Helens Ave,,,Tacoma,Washington,98402-2522,United States,253212725,http://www.harmonbrewingco.com,-122.4457804,47.26209356
+017c8df5-27bd-4812-b42a-6d5e3e555ecf,Haywire Brewing Company,micro,738 Rainier St,,,Snohomish,Washington,98290-6918,United States,3605682739,https://www.haywirebrewingco.com,-122.0812498,47.8860915
+81292878-bdc3-40ab-8237-c84d384c2b6d,Headless Mumby Brewing,closed,232 Division St NW,,,Olympia,Washington,98502,United States,3607423880,https://www.headlessmumbybrewing.com,-122.92562,47.04735502
 48982837-dca0-4eae-824b-5b6194d9d1b3,Headworks Brewing,micro,1110 Marshall Ave,,,Enumclaw,Washington,98022-3525,United States,2532635318,http://www.headworksbrewing.com,-121.987758,47.205096
 b5295ee6-9e4c-406b-a84e-6aaf544ad1c8,Heathen Brewing,micro,2225 NE 119th St Ste 109,,,Vancouver,Washington,98686,United States,3607265239,https://heathenbrewing.com,-122.6482176,45.70807949
 4b8dd29d-2300-4035-b29f-0b26c90fcb62,Hellbent Brewing Company,micro,13035 Lake City Way NE,,,Seattle,Washington,98125-4428,United States,2063613707,http://www.hellbentbrewingcompany.com,-122.2931111,47.7238772
-f1427bfc-7f95-4c32-a70b-bf937b2cc9c4,Hemlock State Brewing Company,micro," 23601 56th Ave W Ste 400",,,Lake Forest Park,Washington,98043,United States,4259672062,http://www.hemlockstate.com,-122.3081169,47.78517681
+f1427bfc-7f95-4c32-a70b-bf937b2cc9c4,Hemlock State Brewing Company,micro,23601 56th Ave W Ste 400,,,Lake Forest Park,Washington,98043-5277,United States,4259672062,http://www.hemlockstate.com,-122.3081169,47.78517681
 b94bee85-f9e3-4ad0-95b5-d9d031e15f1a,Herbert B. Friendly Brewing,closed,527 Wells Ave S,,,Renton,Washington,98057-2703,United States,4252434372,http://www.drinkhbf.com,-122.205605,47.47609918
 a76526c6-eb26-4c41-bbae-f9e9596d21a8,Hideaway Brewing Co,micro,18731 SE 314th St,,,Auburn,Washington,98092-6556,United States,2536319393,,-122.1764384,47.3206933
 52146aef-1417-4860-ae49-61680902c8de,Hillbilly Brewing Company,micro,23118 NW Maplecrest Rd,,,Ridgefield,Washington,98642,United States,,http://www.hillbillybrewingcompany.com,-122.6758409,45.78840953
 57a523b2-d226-44fc-9469-6a7901a2deee,Hoh River Brewery,micro,2442 Mottman Rd SW,,,Tumwater,Washington,98512-6219,United States,3607054000,http://www.hohriverbrewery.com,-122.9356218,47.02543196
 5ea34660-4d18-4e33-9d78-aecdd3a4ba10,Holy Mountain Brewing Co,micro,1421 Elliott Ave W,,,Seattle,Washington,98119-3104,United States,2064988435,http://holymountainbrewing.com,-122.3745615,47.6308277
 14fe825b-3b9f-43dc-b953-b593774e0221,Hood Canal Brewery,brewpub,26499 Bond Rd NE,,,Kingston,Washington,98346-8477,United States,3602978316,http://www.hoodcanalbrewery.com,-122.5733597,47.80443335
-db9c3f9b-48fb-43c2-9a29-26624d6c8ec4,Hop Nation Brewing Company,micro,31 N 1st Ave,,,Yakima,Washington,98902-2663,United States,5099856449,http://www.hopnation.us,-120.5097321,46.6018934
+db9c3f9b-48fb-43c2-9a29-26624d6c8ec4,Hop Nation Brewing Company,closed,31 N 1st Ave,,,Yakima,Washington,98902-2663,United States,5099856449,http://www.hopnation.us,-120.5097321,46.6018934
 f8ac7038-8f93-4496-af76-5bb647c3bfb7,Hopped Up Brewing Company,closed,10421 E Sprague Ave,,,Spokane,Washington,99206-3629,United States,5094132488,http://www.hoppedupbrew.com,-117.2178526,47.6571208
-a8dc325e-aa85-4eea-bde2-a7a9e89b7bcc,Hopworks Urban Brewery - Vancouver,micro,17707 SE Mill Plain Blvd,,,Vancouver,Washington,98683-7578,United States,5032324677,https://www.hopworksbeer.com,-122.5483264,45.6202601
+a8dc325e-aa85-4eea-bde2-a7a9e89b7bcc,Hopworks Urban Brewery - Vancouver,closed,17707 SE Mill Plain Blvd,,,Vancouver,Washington,98683-7578,United States,5032324677,https://www.hopworksbeer.com,-122.5483264,45.6202601
 bdaa5724-aa0a-470f-9a3b-ad21d434f43d,Hoquiam Brewing Company,micro,526 8th St,,,Hoquiam,Washington,98550-3521,United States,3606378252,http://www.hoquiambrews.com,-123.8865612,46.97536712
-4afaf336-af79-49e2-b2d1-69f5cb920f28,Horse Heaven Hills Brewery,micro,1118 Meade Ave,,,Prosser,Washington,99350,United States,5097816400,http://www.horseheavenhillsbrewery.com,-119.7706331,46.20447447
-6e89294b-68f9-4af9-a5e8-f729a7adbc6e,Humble Abode Brewery,micro,1620 E Houston Ave Ste 800,,,Spokane,Washington,99217,United States,5093815055,https://humbleabodebrewing.square.site,-117.3850304,47.71699977
+4afaf336-af79-49e2-b2d1-69f5cb920f28,Horse Heaven Hills Brewery,micro,1118 Meade Ave,,,Prosser,Washington,99350-1367,United States,5097816400,http://www.horseheavenhillsbrewery.com,-119.7706331,46.20447447
+6e89294b-68f9-4af9-a5e8-f729a7adbc6e,Humble Abode Brewery,micro,1620 E Houston Ave Ste 800,,,Spokane,Washington,99217,United States,5093815055,https://www.humbleabodebeer.com,-117.3850304,47.71699977
 01ecbbdb-475c-40d0-a336-9951ac60e52e,Ice Harbor Brewing Company,brewpub,206 N Benton St Ste C,,,Kennewick,Washington,99336-3608,United States,5095825340,http://www.iceharbor.com,-119.119238,46.2111
 feb525c5-293c-4e08-88b7-0005da6e8bea,Ice Harbor Brewing Company at the Marina,brewpub,350 Clover Island Dr,,,Kennewick,Washington,99336-3678,United States,5095863181,http://www.iceharbor.com,-119.111368,46.217631
 3581f90d-ae3d-4608-8f26-1d695d811946,Icicle Brewing Co,brewpub,935 Front St,,,Leavenworth,Washington,98826-1427,United States,5095482739,http://www.iciclebrewing.com,-120.6597193,47.5962501
@@ -337,7 +342,7 @@ e81874e0-d418-4c9e-aaf6-6420272a1796,Off Camber Brewing,micro,6506 114th Avenue 
 d3794681-04d5-428e-91b4-c700d35e1eef,One Brewing / Harmony Meadows Center,closed,4848 Green Ave Ste B,,,Manson,Washington,98831-9404,United States,5098882344,http://www.harmonymeadowscenter.com,,
 654be923-513c-48dc-ac4b-d2a422c24a35,Optimism Brewing Company,closed,1158 Broadway,,,Seattle,Washington,98122-3822,United States,2062289227,http://www.optimismbrewing.com,-122.32052197309751,47.6129229269871
 e9c56fbd-e001-470f-88b6-29df8e0573c9,Orlison Brewing Company,closed,12921 West 17th Ave,,,Airway Heights,Washington,99001,United States,5093896253,http://www.orlisonbrewing.com,-117.5924443,47.6403069
-8280e47c-4aed-4aa0-b20f-b3217d7478be,Outer Planet Craft Brewing,micro,1812 12th Ave,,,Seattle,Washington,98122-8420,United States,2067637000,http://www.outerplanetbrewing.com,-122.3167381,47.6180009
+8280e47c-4aed-4aa0-b20f-b3217d7478be,Outer Planet Craft Brewing,closed,1812 12th Ave,,,Seattle,Washington,98122-8420,United States,2067637000,http://www.outerplanetbrewing.com,-122.3167381,47.6180009
 1f57f054-d4ec-473d-b2a6-12c4ac8ff5de,Outlander Brewery & Pub,brewpub,225 N 36th St,,,Seattle,Washington,98103-8610,United States,2064864088,http://www.outlanderbrewing.com,-122.3555596,47.6523014
 5a50aa54-5ae5-4968-a8ec-fc53d5796df2,Pacific Brewing and Malting,micro,610 Pacific Ave,,,Tacoma,Washington,98402-4606,United States,2533832337,http://www.pacificbrewingandmalting.com,-122.437927,47.250289
 e8524519-a341-4027-b4ab-331fcb328f8c,"Pacific Northwest Brewing Center, LLC",planning,,,,Everett,Washington,98208-3320,United States,,,,
