@@ -1,9 +1,9 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 2af85509-aee5-46bc-ab1a-fd9b8b0026d4,5 Rivers Brewing LLC,planning,,,,Spanish Fort,Alabama,36527-3161,United States,2516897483,http://5riversbrewing.com,-87.9152724,30.6749127
 bb02e7c9-bf6e-47dd-a0dc-a0e8eb1b9ad3,Avondale Brewing Co,micro,201 41st St S,,,Birmingham,Alabama,35222-1932,United States,2057775456,http://www.avondalebrewing.com,-86.774322,33.524521
-,Back Forty Beer Company - Birmingham,micro,3201 1st Ave N,,,Birmingham,Alabama,35222-1257,United States,2054078025,https://www.backfortybeer.com/birmingham-back-forty-beer-company,-86.78845899814998,33.522254920617335
+a6b00494-538a-4c1c-b670-a97d62ef5f60,Back Forty Beer Company - Birmingham,micro,3201 1st Ave N,,,Birmingham,Alabama,35222-1257,United States,2054078025,https://www.backfortybeer.com/birmingham-back-forty-beer-company,-86.78845899814998,33.522254920617335
 3564fec6-6f87-45cd-88a7-94063757ce94,Back Forty Beer Company - Gadsden,micro,200 N 6th St,,,Gadsden,Alabama,35901-3361,United States,2564674912,https://www.backfortybeer.com/gadsden-al-back-forty-beer-company,-86.005006,34.016888
-,Back Forty Beer Company - Huntsville,brewpub,3254 Leeman Ferry Rd SW,,,Huntsville,Alabama,35801-5322,United States,2564948658,https://www.backfortybeer.com/huntsville,-86.59351174589759,34.68985135121486
+7ce4af1b-ca7d-409f-b199-2a26d9e04a9d,Back Forty Beer Company - Huntsville,brewpub,3254 Leeman Ferry Rd SW,,,Huntsville,Alabama,35801-5322,United States,2564948658,https://www.backfortybeer.com/huntsville,-86.59351174589759,34.68985135121486
 063107cd-7134-41d9-b44e-f75439937878,Band of Brothers Brewing Company,closed,1605 23rd Ave,,,Tuscaloosa,Alabama,35401-4653,United States,2052665137,http://www.bandofbrosbrewing.com,-87.56215513,33.19849071
 0825c760-b25e-4d4d-ac6f-67498bffe8f6,Below the Radar Brewing Co,closed,220 Holmes Ave NE,,,Huntsville,Alabama,35801-4837,United States,2564696617,http://www.btrbrew.com,-86.58583931,34.73272365
 1dc47da7-faa4-498f-8e97-e83e74d1c79d,Big Beach Brewing Company,micro,300 E 24th Ave,,,Gulf Shores,Alabama,36542-3104,United States,2519482337,http://www.bigbeachbrewing.com,-87.683039,30.278051
@@ -11,7 +11,7 @@ c1b16bee-8dc2-4b8f-ae1a-3f9134183d29,Birmingham District Brewing,taproom,2201 2n
 f0798955-8b91-4b1f-bed3-995467ca5700,Black Warrior Brewing Co.,micro,2216 University Blvd,,,Tuscaloosa,Alabama,35401-1542,United States,,http://www.blackwarriorbrewing.com,-87.565915,33.21061755
 638f8af8-5c7f-4eed-9b7e-5c199227e154,Blue Pants Brewery,closed,"500 Lanier Rd, Bld 1 - Ste A",,,Madison,Alabama,35758-8675,United States,2566796330,http://www.bluepantsbrew.com,,
 6cf234fc-dbea-49e6-8f47-900554620a42,Bluewater Brewing Co,closed,318 S Royal Ave,,,Florence,Alabama,35630-4810,United States,2562751221,http://www.facebook.com/pg/BluewaterBrewingCompanyInc,-87.65970529,34.8041295
-,Braided River Brewing Company,taproom,420 St Louis St,,,Mobile,Alabama,36602-2522,United States,2513016879,https://www.braidedriverbrewing.com,-88.04840519629995,30.69278367009464
+243eba27-3da2-4016-b24b-b83d3e4da5da,Braided River Brewing Company,taproom,420 St Louis St,,,Mobile,Alabama,36602-2522,United States,2513016879,https://www.braidedriverbrewing.com,-88.04840519629995,30.69278367009464
 241eadea-4c86-420f-9ce9-76eb2beed93c,Brewpub In Planning - Birmingham,planning,,,,Birmingham,Alabama,35222,United States,2565854531,,-86.8024326,33.5206824
 a476acbb-451e-4eb5-a250-55c9216ea153,Cahaba Brewing Co,micro,4500 5th Ave S Ste C,,,Birmingham,Alabama,35222-2911,United States,2059669444,http://www.cahababrewing.com,-86.7655151,33.52770958781569
 852afa33-abfd-43c6-8a70-25726671635f,Chandler's Ford Brewing LLC,brewpub,109 N Side Sq,,,Huntsville,Alabama,35802-4833,United States,2564272500,https://www.gobeezr.com,-86.58557011349285,34.73097911654642
@@ -29,12 +29,12 @@ bc569d24-491c-424d-a0ca-f1f01e6a5b94,Ghost Train Brewing Co,micro,2616 3rd Ave S
 fad0bdb4-e128-4ff5-bd61-d32139d55f7b,Green Bus Brewing,brewpub,206 Eustis Ave SE,,,Huntsville,Alabama,35801-4233,United States,2569902477,http://www.greenbusbrewing.com,-86.58405136,34.73010503
 314a71f6-2f8c-4461-8a64-d479b1002129,Haint Blue Brewing Company,closed,806 Monroe Street,,,Mobile,Alabama,36602,United States,,http://haintbluebrew.com,-88.05126184,30.68474321
 c15aae1a-0782-4cf8-8a03-00e986ba7511,InnerSpace Brewing Company,micro,2414 Clinton Ave W,,,Huntsville,Alabama,35805-3014,United States,2564895599,http://www.innerspacebrewing.com,-86.5932014,34.7277523
-,Iron Hand Brewing,brewpub,206 State St,,,Mobile,Alabama,36603-6423,United States,2517256912,https://www.ironhandbrewing.com,-88.04532535582143,30.69567170759518
+85f46674-4d7c-4660-91d8-ec42547b0e2b,Iron Hand Brewing,brewpub,206 State St,,,Mobile,Alabama,36603-6423,United States,2517256912,https://www.ironhandbrewing.com,-88.04532535582143,30.69567170759518
 9d006d77-28d5-41d3-9781-748bcec556a2,Mad Malts Brewery & Tap Room,micro,109 Maple Ave NW,,,Huntsville,Alabama,35801-4634,United States,2564243543,http://www.madmaltsbrewing.com,-86.585242,34.746475
 9ac5be0c-c048-4566-b831-7fb7e8d76b0f,Main Channel Brewing Company,micro,2090 Gunter Ave,,,Guntersville,Alabama,35976-2113,United States,2569605070,http://www.mainchannelbeer.com,-86.31216035,34.33873684
 f684669c-35f3-4626-9f4e-04906fbbfb58,Old Black Bear Brewing,micro,208 Main St,,,Madison,Alabama,35758-1813,United States,2568504639,https://oldblackbear.com,-86.74922409,34.69329345
 ee77f852-eeaf-4166-ac21-72afe9810545,Old Majestic Brewing Company,closed,656 St Louis St,,,Mobile,Alabama,36602-1823,United States,2514347387,,-88.0430541,30.6943566
-,Oversoul Brewing Company,closed,4161 Helena Rd,,,Helena,Alabama,35080-3258,United States,2059996444,,-86.84355464232857,33.29682642185512
+d0220f66-917e-4055-99fd-6bd26b364b2a,Oversoul Brewing Company,closed,4161 Helena Rd,,,Helena,Alabama,35080-3258,United States,2059996444,,-86.84355464232857,33.29682642185512
 2f29e159-a768-4404-a2b7-63ef157397bc,Red Clay Brewing Company,micro,704 N Railroad Ave,,,Opelika,Alabama,36801-4344,United States,3347375409,http://www.redclaybrewingcompany.com,-85.37875418,32.64939542
 38944523-1c18-43bd-85fe-176d06f9dd5b,Red Hills Brewing Co,closed,2823 Central Ave Ste 107,,,Birmingham,Alabama,35209-2581,United States,2055822897,http://www.redhillsbrew.com,-86.79436987478356,33.47950454344703
 7ea9525f-94f5-4e6e-99f9-70b9a35659e0,Rocket Republic Brewing Company,closed,289 Production Ave,,,Madison,Alabama,35758-8991,United States,2563254677,http://www.rocketrepublicbrewing.com,-86.77401733,34.6728014
@@ -43,11 +43,11 @@ a0cb0659-7da0-4ad1-92bb-36e5a2760408,Salty Nut Brewery,closed,2406 Clinton Ave W
 ba05f051-e0b9-4d33-94a8-a578652175b7,Serda Brewing Company,closed,600 Government St,,,Mobile,Alabama,36602-1720,United States,2519299349,http://www.serdabrewing.com,-88.04938713,30.6879563
 d33c7492-1fc8-4ad6-b832-2d8b674ce585,Siluria Brewing Company,micro,145 1st Ave W,,,Alabaster,Alabama,35007-8501,United States,2056243037,http://www.siluriabrewing.com,-86.81867287116427,33.24399074899736
 ce0ed90b-f28e-476c-b61d-9465ad1e3060,"Singin' River Brewing Company, LLC",micro,526 E College St,,,Florence,Alabama,35630-5764,United States,2563492294,http://www.singinriverbrewing.com,-87.66892994,34.8016657
-,Slag Heap Brewing Company,closed,227 Main St,,,Trussville,Alabama,35173-1422,United States,2055371015,http://www.slagheap.co,-86.60980975767141,33.619181020234265
+1f447603-4e1a-4479-995d-fb1c7be6e7d7,Slag Heap Brewing Company,closed,227 Main St,,,Trussville,Alabama,35173-1422,United States,2055371015,http://www.slagheap.co,-86.60980975767141,33.619181020234265
 b88fe606-1632-4efd-bd71-3ce087044d3d,Straight to Ale,micro,2610 Clinton Ave W,,,Huntsville,Alabama,35805-3046,United States,2566039096,http://www.straighttoale.com,-86.5932014,34.7277523
 3978dbf8-ca5f-4cc3-9a15-6ba5fb7b23e7,Tallulah Brewing Company,micro,1804 4th Ave S,,,Jasper,Alabama,35501-5330,United States,2055308555,https://www.tallulahbrewing.com,-87.278675,33.830796
 864ffc76-4334-4f8e-baa2-42c2d3a6605c,The Railyard Brewing Co,closed,12 W Jefferson St Ste 100,,,Montgomery,Alabama,36104-2573,United States,3342620080,http://www.railyardbrewingcompany.com,-86.31008894599209,32.38120444260538
 ffaf9ab2-0357-4109-a086-0cf83291c006,Trim Tab Brewing,micro,2721 5th Ave S,,,Birmingham,Alabama,35233-3401,United States,2057030536,http://www.trimtabbrewing.com,-86.79140006,33.51284923
-,True Story Brewing,taproom,5510 Crestwood Blvd,,,Birmingham,Alabama,35212-4131,United States,2055934144,https://truestorybrewing.com,-86.7476270637642,33.52968388140503
+a271f4cf-e0bd-4720-85ef-324b805973eb,True Story Brewing,taproom,5510 Crestwood Blvd,,,Birmingham,Alabama,35212-4131,United States,2055934144,https://truestorybrewing.com,-86.7476270637642,33.52968388140503
 d54e5f65-dc4f-4db3-8b21-0cbde3d83680,Twisted Barley Brewing Company,micro,520 19th St W,,,Jasper,Alabama,35501-5351,United States,2052653253,https://twistedbarleybrewi.wixsite.com/website,-87.28338,33.832359
 17bb95d7-d3d7-4b8c-bbdd-f18104f8a815,Yellowhammer Brewery,micro,2600 Clinton Ave W,,,Huntsville,Alabama,35805-3046,United States,2569755950,http://www.yellowhammerbrewery.com,-86.5932014,34.7277523
