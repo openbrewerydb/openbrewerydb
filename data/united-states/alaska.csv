@@ -1,52 +1,61 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 cd97aeab-a499-4c95-b20b-881bfe3ed6c8,49th State Brewing Co,micro,248.4 Parks Hwy 5 Mile,,,Healy,Alaska,99743,United States,9076832739,https://www.49statebrewing.com/denali,-149.017877,63.864759
 eaa4afea-bcb5-434c-839e-ef48fe8811d0,49th State Brewing Co - Anchorage,brewpub,717 W 3rd Ave,,,Anchorage,Alaska,99501-2104,United States,9076832739,http://www.49statebrewing.com/,-149.8958196,61.2197366
+,49th State Brewing Co - Ted Stevens,taproom,5000 W International Airport Rd,,,Anchorage,Alaska,99502-1023,United States,9077432504,https://www.49thstatebrewing.com/ted-stevens,-149.99057054232856,61.177175621109036
 d065903f-f9fc-4e4c-a64d-9b69905431b5,Alaskan Brewing Co.,regional,5429 Shaune Dr,,,Juneau,Alaska,99801-9540,United States,9077805866,http://www.alaskanbeer.com,-134.4918763,58.35681231
 ce8f55f6-ba10-4d74-94c3-e26cc131f473,Anchorage Brewing Co,micro,148 W 91st Ave,,,Anchorage,Alaska,99515-1901,United States,9073605104,http://www.anchoragebrewingcompany.com,-149.8893581,61.1385311
 5f887385-2c6a-4de6-8dec-68fb5c58029d,Arkose Brewery,micro,650 E Steel Loop,,,Palmer,Alaska,99645-6689,United States,9077462337,http://www.arkosebrewery.com,-149.103408,61.582157
-9d58821d-291a-4258-82b2-bb7f97f5df63,Baleen Brewing Co.,micro,884 Mizzen Ln #9462,,,Ketchikan,Alaska,99901,United States,9072207492,https://www.baleenbrewing.com,-131.817681,55.472907
+9d58821d-291a-4258-82b2-bb7f97f5df63,Baleen Brewing Co.,micro,884 Mizzen Ln #9462,,,Ketchikan,Alaska,99901-9462,United States,9072207492,https://www.baleenbrewing.com,-131.817681,55.472907
 08fffdf5-41f6-4445-a9a5-63d4927dc366,Baranof Island Brewing Co,closed,1209 Sawmill Creek Rd Ste A,,,Sitka,Alaska,99835-9759,United States,9077472739,http://www.baranofislandbrewing.com,-135.309951,57.049586
-5edc486d-03b2-4fe1-a794-e0a972e21bf6,Barnaby Brewing Company,micro,165 Shattuck Way,,,Juneau,Alaska,99801,United States,9074190916,http://www.barnabybrew.com,-134.405962,58.300314
-9c9033e3-8657-4d05-af18-5bc1d3077810,Bawden Street Brewing Company,micro,325 Bawden St,,,Ketchikan,Alaska,99901,United States,9072254722,https://www.facebook.com/bawdenstreetbrewing,-131.644822,55.34321
+5edc486d-03b2-4fe1-a794-e0a972e21bf6,Barnaby Brewing Company,micro,165 Shattuck Way,,,Juneau,Alaska,99801-1366,United States,9074190916,http://www.barnabybrew.com,-134.405962,58.300314
+9c9033e3-8657-4d05-af18-5bc1d3077810,Bawden Street Brewing Company,micro,325 Bawden St,,,Ketchikan,Alaska,99901-6502,United States,9072254722,https://www.facebook.com/bawdenstreetbrewing,-131.644822,55.34321
 b534a072-f086-416b-bfce-3efdcba1784b,Bearpaw River Brewing Co,micro,4605 E Palmer Wasilla Hwy,,,Wasilla,Alaska,99654-7679,United States,,http://bearpawriverbrewing.com,-149.4127103,61.5752695
-967e2ae2-4955-4372-94ca-88fb0db58df7,Bleeding Heart Brewery,closed,1150 S Colony Way Ste 3 Pmb 618,,,Palmer,Alaska,99645-6972,United States,7609172417,http://facebook.com/bleedingheartbrewery,-149.109799,61.601303
+967e2ae2-4955-4372-94ca-88fb0db58df7,Bleeding Heart Brewery,brewpub,562 S Denali St,,,Palmer,Alaska,99645-6438,United States,90774624210,https://bleedingheartbrewery.com,-149.1097361730143,61.601081676374534
+,Brewerks,micro,625 W 59th Ave Units A/B,,,Anchorage,Alaska,99518-1623,United States,,,-149.8948672748643,61.16761904948283
 e9d8d2f1-c53c-46f6-8195-3799d6c3e818,Broken Tooth Brewing Co,brewpub,2021 Spar Ave,,,Anchorage,Alaska,99501-1815,United States,9072784999,https://brokentoothbrewing.net,-149.8437638,61.2225517
 bd647651-c56e-42ad-a5f8-51f1767bb362,Cooper Landing Brewing Company,micro,21879 Sterling Hwy,,,Cooper Landing,Alaska,99572,United States,9075952522,http://www.cooperlandingbrewing.com,-149.8478495,60.4952185
+,Copper River Brewing,brewpub,507 1st St,,,Cordova,Alaska,99574-1017,United States,9074243355,https://copperriverbrewing.com,-145.75885556746425,60.545607465539916
 19f5dd52-2120-49b5-8d2a-0d89bc617f93,Cynosure Brewing,micro,144 E Potter Dr Unit E,,,Anchorage,Alaska,99518-1363,United States,9075632966,https://www.cynosure.beer,-149.881789,61.168841
 6cfdd1a7-5875-490d-ac21-972b403aaf56,Denali Brewing Company,micro,37083 Talkeetna Spur Rd,,,Talkeetna,Alaska,99676,United States,9077332536,http://www.denalibrewing.com,-150.029188,62.161453
 f4a8753b-095c-470b-9336-f639441ba51c,Devil's Club Brewing,brewpub,100 N Franklin St,,,Juneau,Alaska,99801-1223,United States,9077232337,http://www.devilsclubbrewing.com,-134.406956,58.301309
 6b709f6c-f30d-44bd-843e-3dd0a99fb05d,Faults Brewing,planning,,,,Anchorage,Alaska,99509-0312,United States,9073019922,,-149.8948523,61.2163129
 8e789e1c-18f7-46ba-9901-3a527ad1466d,Forbidden Peak Brewery,micro,11798 Glacier Hwy,,,Juneau,Alaska,99801,United States,9075237787,https://forbiddenpeak.com,-134.645965,58.387811
 5d055cfc-fb44-4cee-8ee7-7b1c7b4706a3,Gakona Brewing Company,micro,Mile 0.5 Tok Cutoff Hwy,,,Gakona,Alaska,99586-0336,United States,9078225609,https://www.gakonabrewing.com,-145.335689,62.293667
-4c0a2216-b456-49fa-821e-2fec06c653d2,Girdwood Brewing Company,micro,2700 Alyeska Highway,,,Girdwood,Alaska,99587-0058,United States,907783,http://www.girdwoodbrewing.com,-149.1540907,60.9578421
+4c0a2216-b456-49fa-821e-2fec06c653d2,Girdwood Brewing Company,micro,2700 Alyeska Highway,,,Girdwood,Alaska,99587-0058,United States,9077832739,http://www.girdwoodbrewing.com,-149.1540907,60.9578421
 39590a48-9284-4b47-93a5-2c8d9bca2484,Glacier Brewhouse,brewpub,737 W 5th Ave Ste 110,,,Anchorage,Alaska,99501-2129,United States,9072742739,http://www.glacierbrewhouse.com,-149.896703,61.218047
 c833789a-356a-4f78-8c97-61deb25d5c1b,Grace Ridge Brewing,micro,3388 B St Suite 2,,,Homer,Alaska,99603-7905,United States,9074350601,https://www.graceridgebrewing.com,-151.504362,59.639728
-a42cdc23-92ae-4234-a13a-86a3c1af3d8d,Growler Bay Brewing Co,planning,,,,Valdez,Alaska,99686-3716,United States,9072555191,https://growlerbaybrewing.com,-146.3493638,61.1299396
+a42cdc23-92ae-4234-a13a-86a3c1af3d8d,Growler Bay Brewing Co,taproom,224 Galena Dr,,,Valdez,Alaska,99686-3716,United States,9078354222,https://growlerbaybrewing.com,-146.35576887116426,61.12802549230988
 9b732794-2a95-48ec-80b2-c01ef485d97a,Haines Brewing Co,micro,327 Main St,,,Haines,Alaska,99827,United States,9077663823,http://www.hainesbrewing.com,-135.4551927,59.2357624
-eb9f6c47-2c75-4462-9da1-9208979fdb07,Harbor Mountain Brewing Co,micro,1209 Sawmill Creek Rd Ste A,,,Sitka,Alaska,99835-9759,United States,9073087339,https://www.harbormountainbrewing.com/,-135.309951,57.049586
+eb9f6c47-2c75-4462-9da1-9208979fdb07,Harbor Mountain Brewing Co,micro,1209 Sawmill Creek Rd Ste A,,,Sitka,Alaska,99835-9759,United States,9073087339,https://www.harbormountainbrewing.com,-135.309951,57.049586
 da0d62fc-e0ab-4a8b-a99a-539e09ebc6ff,Homer Brewing Co,micro,1411 Lake Shore Dr,,,Homer,Alaska,99603-7945,United States,9072353626,http://homerbrew.com,-151.506636,59.640509
 bd37752a-b7fe-40a2-a9f5-8ed9abcdc97d,HooDoo Brewing Co,micro,1951 Fox Ave,,,Fairbanks,Alaska,99701-2701,United States,9074592337,http://www.hoodoobrew.com,-147.7598199,64.84855501
 5b39343d-ac51-48b3-b7fe-db6cd1989291,Humpy's Great Alaskan Alehouse,contract,610 W 6th Ave,,,Anchorage,Alaska,99501-2225,United States,9072762337,http://www.humpysalaska.com,-149.8938928,61.216502
-4614e14e-68ec-42b1-b972-598da619bf51,Icy Strait Brewery,micro,286 Front St,,,Hoonah,Alaska,99829,United States,9077235482,http://icystraitbrewing.company,-135.4464887,58.11031874
+4614e14e-68ec-42b1-b972-598da619bf51,Icy Strait Brewery,micro,286 Front St,,,Hoonah,Alaska,99829,United States,9077235482,https://icystraitbrewing.com,-135.4464887,58.11031874
 a0d63612-aa12-440a-89fe-da702b1bbeec,Inside Passage Brewing Company LLC,closed,,,,Ketchikan,Alaska,99901-6502,United States,5133240762,,-131.6466819,55.3430696
-89f65ec7-dd3b-4449-a9fe-3cc3b16ce365,Kassik's Brewery,micro,47160 Spruce Haven St,,,Kenai,Alaska,99611-9677,United States,,,-151.307721,60.663773
+89f65ec7-dd3b-4449-a9fe-3cc3b16ce365,Kassik's Brewery,closed,47160 Spruce Haven St,,,Kenai,Alaska,99611-9677,United States,,,-151.307721,60.663773
 2c53eb34-d7da-4310-b8c2-3457d13874b7,Kenai River Brewing Co,brewpub,308 Homestead Ln,,,Soldotna,Alaska,99669-8010,United States,9072622337,http://www.kenairiverbrewing.com,-151.0561141,60.4850753
-a0a49f09-fed5-4a49-b6f0-e95ed67ea1c0,King Street Brewing Co,micro,9050 King Street,,,Anchorage,Alaska,99515,United States,9073365464,http://www.kingstreetbrewing.com,-149.879076,61.13848935
+a0a49f09-fed5-4a49-b6f0-e95ed67ea1c0,King Street Brewing Co,micro,9050 King Street,,,Anchorage,Alaska,99515-1924,United States,9073365464,http://www.kingstreetbrewing.com,-149.879076,61.13848935
 5d5339d0-738d-4619-a5f8-8390ab694465,Klondike Brewing Company,brewpub,365 2nd Ave,,,Skagway,Alaska,99840,United States,9079832778,http://www.klondikebeer.com,-135.3188721,59.45385743
 c4bf52e4-1afc-4373-bead-a0871f261adf,Kodiak Island Brewing Co,micro,117 Lower Mill Bay Rd,,,Kodiak,Alaska,99615-6580,United States,9074862537,http://www.kodiakbrewery.com,-152.407155,57.79008256
 d08ba7d7-3d15-4127-bd79-89f9f482efd3,Last Frontier Brewing Company,brewpub,238 N Boundary St,,,Wasilla,Alaska,99654-7127,United States,9073577200,https://lastfrontierbrew.com,-149.4395534,61.581483
-304126ea-a12e-4685-9e26-be36742f8d64,Matanuska Brewing Company - Downtown Brewpub,brewpub,535 W 3rd Ave,,,Anchorage,Alaska,99501,United States,9078656995,https://matanuskabrewingcompany.com,-149.893012,61.219744
-3fba9614-8dae-420b-b024-4f0387278a64,Matanuska Brewing Company - Eagle River,brewpub,11901 Old Glenn Hwy,,,Eagle River,Alaska,99577,United States,9076963000,https://matanuskabrewingcompany.com,-149.568403,61.328403
-3515eba4-8e81-4e9a-924d-a9b03ffe0072,Matanuska Brewing Company - Midtown Brewpub,brewpub,2830 C St,,,Anchorage,Alaska,99503,United States,9076772531,https://matanuskabrewingcompany.com,-149.888563,61.195228
+,Latitude 65 Brewing Company,brewpub,150 Eagle Ave Unit B,,,Fairbanks,Alaska,99701-3400,United States,9073287748,https://www.lat65brewing.com,-147.70054932884904,64.84540882945139
+,Matanuska Brewing Company,brewpub,513 S Valley Way,,,Palmer,Alaska,99645-6425,United States,9077452337,https://matanuskabrewco.com,-149.11044915582147,61.60131476180482
+304126ea-a12e-4685-9e26-be36742f8d64,Matanuska Brewing Company - Downtown Brewpub,closed,535 W 3rd Ave,,,Anchorage,Alaska,99501,United States,9078656995,https://matanuskabrewingcompany.com,-149.893012,61.219744
+3fba9614-8dae-420b-b024-4f0387278a64,Matanuska Brewing Company - Eagle River,closed,11901 Old Glenn Hwy,,,Eagle River,Alaska,99577,United States,9076963000,https://matanuskabrewingcompany.com,-149.568403,61.328403
+3515eba4-8e81-4e9a-924d-a9b03ffe0072,Matanuska Brewing Company - Midtown Brewpub,closed,2830 C St,,,Anchorage,Alaska,99503,United States,9076772531,https://matanuskabrewingcompany.com,-149.888563,61.195228
 1f6bc6e7-aa85-49d5-b281-ecd1cf7cc8df,Midnight Sun Brewing Co,micro,8111 Dimond Hook Dr,,,Anchorage,Alaska,99507-3144,United States,9073441179,http://www.midnightsunbrewing.com,-149.8445465,61.1471249
-fec0e3af-f2bd-4b39-ab32-3c30fc0b1e6e,Midnite Mine Brewpub,micro,308 Wendell Ave,,,Fairbanks,Alaska,99701-4838,United States,9074565348,,-147.714159,64.845689
+fec0e3af-f2bd-4b39-ab32-3c30fc0b1e6e,Midnite Mine Brewpub,micro,308 Wendell Ave,,,Fairbanks,Alaska,99701-4838,United States,9074565348,https://www.facebook.com/midniteminefairbanks,-147.714159,64.845689
 52a1d246-495c-4d4a-9166-5fed18ae10f0,Odd Man Rush,micro,10930 Mausel St Ste A1,,,Eagle River,Alaska,99577-8095,United States,9076962337,http://www.oddmanrushbrewing.com,-149.580902,61.320013
+,Olds River Brewery,brewpub,32233 Pasagshak Rd,,,Kodiak,Alaska,99615,United States,9074866040,https://oldsriverinn.com,-152.4528246618762,57.58103241355288
 82356efc-f035-4524-9d3a-b92cc7f49ba6,Onsite Brewing Company,micro,3211 Denali St,,,Anchorage,Alaska,99503-4030,United States,9073102337,https://onsitebrewing.com,-149.876395,61.191918
 9ea909e7-6392-4241-a9a3-b5a11932fb7a,QUAKE! Brewing Company,closed,1540 N Shoreline Dr,,,Wasilla,Alaska,99654,United States,4048340997,http://www.quakebrewingcompany.com,-149.340342,61.596646
 002ffa9d-8549-4fe5-a883-8f6fe197d55e,Resolution Brewing Company,brewpub,3024 Mountain View Dr Ste 105,,,Anchorage,Alaska,99501-3141,United States,9073304523,http://www.resolutionbeer.com,-149.823091,61.21997889
-7500e370-f58a-40a6-87b6-005b0f1469e3,RoughWoods Inn,brewpub,623 North A St,,,Nenana,Alaska,99760-9999,United States,9078325299,http://www.roughwoodsinn.biz,-149.096237,64.56274
+7500e370-f58a-40a6-87b6-005b0f1469e3,RoughWoods Inn,brewpub,623 North A St,,,Nenana,Alaska,99760-9999,United States,9078325299,https://roughwoodsinncafeandmicrobrewery.com,-149.096237,64.56274
 b54fad5f-9951-461c-b393-e1993698a69b,Seward Brewing,brewpub,139 4th Ave,,,Seward,Alaska,99664,United States,9074220337,http://www.sewardbrewingcompany.com,-149.440886,60.101258
-fac0abcb-db02-4ec6-845d-457caab0f3ab,Silver Gulch Brewing Co,micro,2195 Old Steese Highway,,,Fox,Alaska,99712,United States,9074522739,http://www.silvergulch.com,-147.6219761,64.95708588
+fac0abcb-db02-4ec6-845d-457caab0f3ab,Silver Gulch Brewing Co,brewpub,2195 Old Steese Highway,,,Fairbanks,Alaska,99712-1023,United States,9074522739,http://www.silvergulch.com,-147.6219761,64.95708588
+,Silver Gulch Brewing Co - Anchorage,taproom,5000 W International Airport Rd,,,Anchorage,Alaska,99502,United States,9072481048,https://silvergulch.com/anchorage,-149.98284637329,61.17390902381052
 f096099d-7cbb-4e6c-be76-55d6918f3bd7,Skagway Brewing Co,brewpub,641 Broadway St Ste 946,,,Skagway,Alaska,99840-9800,United States,9079832759,http://www.skagwaybrewing.com,-135.315716,59.45506
 af822c22-b3af-4258-be3d-50f7b19775bd,St Elias Brewing Co,micro,434 Sharkathmi Ave,,,Soldotna,Alaska,99669-7665,United States,9072607837,http://steliasbrewingco.com,-151.0472293,60.49148673
+,Susitna Brewing Co,brewpub,5120 S Big Lake Rd,,,Big Lake,Alaska,99652-4892,United States,9078922337,https://www.susitnabrewing.com,-149.8418377711643,61.531040299571615
 940232f8-d664-42b4-aa8c-2b663d877252,Turnagain Brewing,micro,7920 King St,,,Anchorage,Alaska,99518-3058,United States,9076462337,https://www.turnagainbrewing.com,-149.878675,61.14944
+,Valdez Brewing,taproom,141 Galena Dr,,,Valdez,Alaska,99686,United States,9078354123,https://valdezbrewing.com,-146.35308101164281,61.128612336934374
