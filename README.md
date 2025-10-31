@@ -1,7 +1,9 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-64-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -28,12 +30,15 @@ Provide an approval-based pipeline to update the dataset and API.
 The following npm scripts help maintain and manage the dataset:
 
 ### Data Management
+
 - `npm run validate`
+
   - Validates all CSV files against the JSON Schema
   - Checks for required fields and data format consistency
   - Reports any validation errors that need attention
 
 - `npm run csv:combine`
+
   - Combines all individual CSV files from country/state-region folders into a single `breweries.csv`
   - Useful when you've made changes to individual state files and need to update the main dataset
 
@@ -43,34 +48,47 @@ The following npm scripts help maintain and manage the dataset:
   - Creates directories if they don't exist
 
 ### Data Generation
+
 - `npm run generate:ids`
+
   - Creates unique OBDB IDs for each brewery based on name and city
   - Automatically updates `breweries.csv` with new IDs
   - Ensures no duplicate IDs exist in the dataset
 
 - `npm run generate:json`
+
   - Converts `breweries.csv` into a JSON format (`breweries.json`)
   - Useful for applications that prefer working with JSON data
   - Maintains data consistency across formats
 
 - `npm run generate:sql`
+
   - Creates PostgreSQL SQL file from `breweries.csv`
   - Includes table creation and data insertion statements
   - Perfect for database implementations
 
 - `npm run generate:stats`
+
   - Generates comprehensive dataset statistics
   - Shows brewery counts by state/city
   - Displays brewery type distribution
   - Reports data completeness metrics
 
+- `npm run update:readme-stats`
+  - Updates the Statistics section in `README.md` with latest data
+  - Automatically calculates and formats all statistics
+  - Includes last updated timestamp
+
 ### Contributor Management
+
 - `npm run contributors:add`
+
   - Interactive CLI tool to add new contributors
   - Prompts for contributor information and contribution type
   - Updates `.all-contributorsrc` file
 
 - `npm run contributors:check`
+
   - Verifies if any contributors are missing from the list
   - Helps maintain accurate recognition of all contributors
 
@@ -79,13 +97,15 @@ The following npm scripts help maintain and manage the dataset:
   - Generates contributor table with avatars and contribution types
 
 ### Workflow
+
 - `npm run workflow:maintain`
   - Comprehensive maintenance workflow that:
     1. Validates all CSV files
     2. Combines all CSV files
-    3. Generates new IDs if needed
-    4. Creates JSON and SQL files
-    5. Splits back into individual state files
+    3. Creates unique IDs for each brewery
+    4. Splits back into individual state files
+    5. Creates JSON and SQL files
+    6. Updates README.md with latest statistics
   - Run this after making any dataset updates
 
 ## 🤝 Contributing
@@ -134,24 +154,25 @@ Cheers! 🍻
 
 Each brewery entry contains the following fields:
 
-| Field | Type | Description | Required |
-|-------|------|-------------|-----------|
-| id | String | Unique identifier | Yes |
-| name | String | Name of the brewery | Yes |
-| brewery_type | String | Type of brewery (micro, regional, brewpub, etc.) | Yes |
-| street | String | Street address | No |
-| city | String | City | Yes |
-| state_province | String | State/Province | Yes |
-| postal_code | String | Postal code | Yes |
-| country | String | Country | Yes |
-| longitude | String | Decimal longitude coordinate | No |
-| latitude | String | Decimal latitude coordinate | No |
-| phone | String | Phone number | No |
-| website_url | String | Website URL | No |
+| Field          | Type   | Description                                      | Required |
+| -------------- | ------ | ------------------------------------------------ | -------- |
+| id             | String | Unique identifier                                | Yes      |
+| name           | String | Name of the brewery                              | Yes      |
+| brewery_type   | String | Type of brewery (micro, regional, brewpub, etc.) | Yes      |
+| street         | String | Street address                                   | No       |
+| city           | String | City                                             | Yes      |
+| state_province | String | State/Province                                   | Yes      |
+| postal_code    | String | Postal code                                      | Yes      |
+| country        | String | Country                                          | Yes      |
+| longitude      | String | Decimal longitude coordinate                     | No       |
+| latitude       | String | Decimal latitude coordinate                      | No       |
+| phone          | String | Phone number                                     | No       |
+| website_url    | String | Website URL                                      | No       |
 
 ## 📖 Usage Examples
 
 ### Python
+
 ```python
 import pandas as pd
 
@@ -163,17 +184,19 @@ california_breweries = breweries_df[breweries_df['state_province'] == 'Californi
 ```
 
 ### JavaScript/Node.js
+
 ```javascript
-const fs = require('fs');
+const fs = require("fs");
 
 // Read JSON
-const breweries = JSON.parse(fs.readFileSync('breweries.json', 'utf8'));
+const breweries = JSON.parse(fs.readFileSync("breweries.json", "utf8"));
 
 // Filter by type
-const microBreweries = breweries.filter(b => b.brewery_type === 'micro');
+const microBreweries = breweries.filter((b) => b.brewery_type === "micro");
 ```
 
 ### SQL
+
 ```sql
 -- After importing breweries.sql
 SELECT name, city, state_province
@@ -298,42 +321,43 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2024-11-01
+> Last updated: 2025-10-31
 
 ### Overview
-- Total Breweries: 8,355
+- Total Breweries: 9,076
 - Data Completeness: 78.0%
 
 ### 🏛 Top 10 States by Brewery Count
 | State | Count |
 |-------|-------|
-| California | 918 |
-| Washington | 486 |
+| California | 919 |
+| Washington | 498 |
 | Colorado | 448 |
 | New York | 419 |
 | Michigan | 375 |
 | Texas | 352 |
 | Pennsylvania | 345 |
 | Florida | 312 |
-| North Carolina | 307 |
+| North Carolina | 311 |
 | Ohio | 303 |
 
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 4,305 | 51.5% |
-| brewpub | 2,500 | 29.9% |
-| planning | 684 | 8.2% |
-| regional | 225 | 2.7% |
-| closed | 216 | 2.6% |
-| contract | 192 | 2.3% |
-| large | 90 | 1.1% |
+| micro | 4,826 | 53.2% |
+| brewpub | 2,573 | 28.3% |
+| planning | 664 | 7.3% |
+| closed | 313 | 3.4% |
+| regional | 228 | 2.5% |
+| contract | 187 | 2.1% |
+| large | 114 | 1.3% |
 | proprietor | 69 | 0.8% |
+| taproom | 45 | 0.5% |
 | bar | 37 | 0.4% |
-| taproom | 20 | 0.2% |
-| nano | 13 | 0.2% |
+| nano | 15 | 0.2% |
 | beergarden | 3 | 0.0% |
 | location | 1 | 0.0% |
+| cidery | 1 | 0.0% |
 
 ### 🌆 Top 10 Cities by Brewery Count
 | City | Count |
@@ -341,12 +365,12 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Denver, Colorado | 92 |
 | San Diego, California | 91 |
 | Portland, Oregon | 85 |
-| Seattle, Washington | 80 |
+| Seattle, Washington | 85 |
 | Chicago, Illinois | 64 |
 | Austin, Texas | 49 |
 | Houston, Texas | 40 |
 | San Francisco, California | 39 |
-| Minneapolis, Minnesota | 38 |
+| Minneapolis, Minnesota | 39 |
 | Cincinnati, Ohio | 34 |
 
 ### 📋 Data Completeness by Field
@@ -358,10 +382,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | state_province | 100.0% |
 | postal_code | 100.0% |
 | country | 100.0% |
-| address_1 | 91.0% |
+| address_1 | 92.0% |
 | phone | 90.0% |
 | website_url | 86.0% |
-| longitude | 72.0% |
-| latitude | 72.0% |
-| address_2 | 1.0% |
+| longitude | 74.0% |
+| latitude | 74.0% |
+| address_2 | 3.0% |
 | address_3 | 0.0% |
