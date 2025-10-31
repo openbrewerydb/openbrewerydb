@@ -37,11 +37,11 @@ const main = () => {
     }
 
     const regionSlug = slugify(
-      brewery.state_province.toLowerCase(),
+      brewery.state_province.trim().toLowerCase(),
       slugifyOptions
     );
 
-    const countrySlug = slugify(brewery.country.toLowerCase(), slugifyOptions);
+    const countrySlug = slugify(brewery.country.trim().toLowerCase(), slugifyOptions);
 
     if (output[countrySlug] === undefined) {
       output[countrySlug] = {};

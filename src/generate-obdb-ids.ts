@@ -8,9 +8,9 @@ import { Brewery } from "./types";
 
 const csvFilePath = join(__dirname, "../breweries.csv");
 
-function generateId(brewery: Brewery, suffix: null | string = null) {
+function generateId(brewery: Brewery, suffix?: string): string {
   return slugify(
-    `${brewery.name.toLowerCase()}-${brewery.city.toLowerCase()}${
+    `${brewery.name.trim().toLowerCase()}-${brewery.city.trim().toLowerCase()}${
       suffix ? `-${suffix}` : ""
     }`,
     slugifyOptions

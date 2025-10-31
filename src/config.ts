@@ -44,7 +44,11 @@ export const papaParseOptions = {
     latitude: true,
   },
   transform: (value: string | number | null | undefined) => {
-    return value === "" ? null : value;
+    if (typeof value === 'string') {
+      value = value.trim();
+      return value === "" ? null : value;
+    }
+    return value;
   },
 };
 
