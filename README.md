@@ -1,7 +1,9 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-64-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -28,12 +30,15 @@ Provide an approval-based pipeline to update the dataset and API.
 The following npm scripts help maintain and manage the dataset:
 
 ### Data Management
+
 - `npm run validate`
+
   - Validates all CSV files against the JSON Schema
   - Checks for required fields and data format consistency
   - Reports any validation errors that need attention
 
 - `npm run csv:combine`
+
   - Combines all individual CSV files from country/state-region folders into a single `breweries.csv`
   - Useful when you've made changes to individual state files and need to update the main dataset
 
@@ -43,22 +48,27 @@ The following npm scripts help maintain and manage the dataset:
   - Creates directories if they don't exist
 
 ### Data Generation
+
 - `npm run generate:ids`
+
   - Creates unique OBDB IDs for each brewery based on name and city
   - Automatically updates `breweries.csv` with new IDs
   - Ensures no duplicate IDs exist in the dataset
 
 - `npm run generate:json`
+
   - Converts `breweries.csv` into a JSON format (`breweries.json`)
   - Useful for applications that prefer working with JSON data
   - Maintains data consistency across formats
 
 - `npm run generate:sql`
+
   - Creates PostgreSQL SQL file from `breweries.csv`
   - Includes table creation and data insertion statements
   - Perfect for database implementations
 
 - `npm run generate:stats`
+
   - Generates comprehensive dataset statistics
   - Shows brewery counts by state/city
   - Displays brewery type distribution
@@ -70,12 +80,15 @@ The following npm scripts help maintain and manage the dataset:
   - Includes last updated timestamp
 
 ### Contributor Management
+
 - `npm run contributors:add`
+
   - Interactive CLI tool to add new contributors
   - Prompts for contributor information and contribution type
   - Updates `.all-contributorsrc` file
 
 - `npm run contributors:check`
+
   - Verifies if any contributors are missing from the list
   - Helps maintain accurate recognition of all contributors
 
@@ -84,13 +97,15 @@ The following npm scripts help maintain and manage the dataset:
   - Generates contributor table with avatars and contribution types
 
 ### Workflow
+
 - `npm run workflow:maintain`
   - Comprehensive maintenance workflow that:
     1. Validates all CSV files
     2. Combines all CSV files
-    3. Splits back into individual state files
-    4. Creates JSON and SQL files
-    5. Updates README.md with latest statistics
+    3. Creates unique IDs for each brewery
+    4. Splits back into individual state files
+    5. Creates JSON and SQL files
+    6. Updates README.md with latest statistics
   - Run this after making any dataset updates
 
 ## 🤝 Contributing
@@ -139,24 +154,25 @@ Cheers! 🍻
 
 Each brewery entry contains the following fields:
 
-| Field | Type | Description | Required |
-|-------|------|-------------|-----------|
-| id | String | Unique identifier | Yes |
-| name | String | Name of the brewery | Yes |
-| brewery_type | String | Type of brewery (micro, regional, brewpub, etc.) | Yes |
-| street | String | Street address | No |
-| city | String | City | Yes |
-| state_province | String | State/Province | Yes |
-| postal_code | String | Postal code | Yes |
-| country | String | Country | Yes |
-| longitude | String | Decimal longitude coordinate | No |
-| latitude | String | Decimal latitude coordinate | No |
-| phone | String | Phone number | No |
-| website_url | String | Website URL | No |
+| Field          | Type   | Description                                      | Required |
+| -------------- | ------ | ------------------------------------------------ | -------- |
+| id             | String | Unique identifier                                | Yes      |
+| name           | String | Name of the brewery                              | Yes      |
+| brewery_type   | String | Type of brewery (micro, regional, brewpub, etc.) | Yes      |
+| street         | String | Street address                                   | No       |
+| city           | String | City                                             | Yes      |
+| state_province | String | State/Province                                   | Yes      |
+| postal_code    | String | Postal code                                      | Yes      |
+| country        | String | Country                                          | Yes      |
+| longitude      | String | Decimal longitude coordinate                     | No       |
+| latitude       | String | Decimal latitude coordinate                      | No       |
+| phone          | String | Phone number                                     | No       |
+| website_url    | String | Website URL                                      | No       |
 
 ## 📖 Usage Examples
 
 ### Python
+
 ```python
 import pandas as pd
 
@@ -168,17 +184,19 @@ california_breweries = breweries_df[breweries_df['state_province'] == 'Californi
 ```
 
 ### JavaScript/Node.js
+
 ```javascript
-const fs = require('fs');
+const fs = require("fs");
 
 // Read JSON
-const breweries = JSON.parse(fs.readFileSync('breweries.json', 'utf8'));
+const breweries = JSON.parse(fs.readFileSync("breweries.json", "utf8"));
 
 // Filter by type
-const microBreweries = breweries.filter(b => b.brewery_type === 'micro');
+const microBreweries = breweries.filter((b) => b.brewery_type === "micro");
 ```
 
 ### SQL
+
 ```sql
 -- After importing breweries.sql
 SELECT name, city, state_province
