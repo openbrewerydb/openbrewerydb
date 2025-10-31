@@ -64,6 +64,11 @@ The following npm scripts help maintain and manage the dataset:
   - Displays brewery type distribution
   - Reports data completeness metrics
 
+- `npm run update:readme-stats`
+  - Updates the Statistics section in `README.md` with latest data
+  - Automatically calculates and formats all statistics
+  - Includes last updated timestamp
+
 ### Contributor Management
 - `npm run contributors:add`
   - Interactive CLI tool to add new contributors
@@ -83,9 +88,9 @@ The following npm scripts help maintain and manage the dataset:
   - Comprehensive maintenance workflow that:
     1. Validates all CSV files
     2. Combines all CSV files
-    3. Generates new IDs if needed
+    3. Splits back into individual state files
     4. Creates JSON and SQL files
-    5. Splits back into individual state files
+    5. Updates README.md with latest statistics
   - Run this after making any dataset updates
 
 ## 🤝 Contributing
@@ -298,42 +303,43 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2024-11-01
+> Last updated: 2025-10-31
 
 ### Overview
-- Total Breweries: 8,355
+- Total Breweries: 9,076
 - Data Completeness: 78.0%
 
 ### 🏛 Top 10 States by Brewery Count
 | State | Count |
 |-------|-------|
-| California | 918 |
-| Washington | 486 |
+| California | 919 |
+| Washington | 498 |
 | Colorado | 448 |
 | New York | 419 |
 | Michigan | 375 |
 | Texas | 352 |
 | Pennsylvania | 345 |
 | Florida | 312 |
-| North Carolina | 307 |
+| North Carolina | 311 |
 | Ohio | 303 |
 
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 4,305 | 51.5% |
-| brewpub | 2,500 | 29.9% |
-| planning | 684 | 8.2% |
-| regional | 225 | 2.7% |
-| closed | 216 | 2.6% |
-| contract | 192 | 2.3% |
-| large | 90 | 1.1% |
+| micro | 4,826 | 53.2% |
+| brewpub | 2,573 | 28.3% |
+| planning | 664 | 7.3% |
+| closed | 313 | 3.4% |
+| regional | 228 | 2.5% |
+| contract | 187 | 2.1% |
+| large | 114 | 1.3% |
 | proprietor | 69 | 0.8% |
+| taproom | 45 | 0.5% |
 | bar | 37 | 0.4% |
-| taproom | 20 | 0.2% |
-| nano | 13 | 0.2% |
+| nano | 15 | 0.2% |
 | beergarden | 3 | 0.0% |
 | location | 1 | 0.0% |
+| cidery | 1 | 0.0% |
 
 ### 🌆 Top 10 Cities by Brewery Count
 | City | Count |
@@ -341,12 +347,12 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Denver, Colorado | 92 |
 | San Diego, California | 91 |
 | Portland, Oregon | 85 |
-| Seattle, Washington | 80 |
+| Seattle, Washington | 85 |
 | Chicago, Illinois | 64 |
 | Austin, Texas | 49 |
 | Houston, Texas | 40 |
 | San Francisco, California | 39 |
-| Minneapolis, Minnesota | 38 |
+| Minneapolis, Minnesota | 39 |
 | Cincinnati, Ohio | 34 |
 
 ### 📋 Data Completeness by Field
@@ -358,10 +364,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | state_province | 100.0% |
 | postal_code | 100.0% |
 | country | 100.0% |
-| address_1 | 91.0% |
+| address_1 | 92.0% |
 | phone | 90.0% |
 | website_url | 86.0% |
-| longitude | 72.0% |
-| latitude | 72.0% |
-| address_2 | 1.0% |
+| longitude | 74.0% |
+| latitude | 74.0% |
+| address_2 | 3.0% |
 | address_3 | 0.0% |
