@@ -373,6 +373,27 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Minneapolis, Minnesota | 39 |
 | Cincinnati, Ohio | 34 |
 
+### 🌍 By Country
+| Country | Count | Percentage |
+|---------|------------|------------|
+| United States | 8,120 | 89.5% |
+| Australia | 514 | 5.7% |
+| South Africa | 104 | 1.1% |
+| Ireland | 70 | 0.8% |
+| England | 62 | 0.7% |
+| South Korea | 61 | 0.7% |
+| Poland | 34 | 0.4% |
+| Singapore | 33 | 0.4% |
+| Austria | 15 | 0.2% |
+| Portugal | 14 | 0.2% |
+| Japan | 10 | 0.1% |
+| Germany | 10 | 0.1% |
+| Sweden | 10 | 0.1% |
+| Scotland | 10 | 0.1% |
+| Italy | 4 | 0.0% |
+| France | 3 | 0.0% |
+| Isle of Man | 2 | 0.0% |
+
 ### 📋 Data Completeness by Field
 | Field | Completeness |
 |-------|-------------|

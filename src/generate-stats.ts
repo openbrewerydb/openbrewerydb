@@ -9,6 +9,7 @@ interface BreweryStats {
   byState: { [key: string]: number };
   byType: { [key: string]: number };
   byCity: { [key: string]: number };
+  byCountry: { [key: string]: number };
   completeness: {
     total: number;
     byField: { [key: string]: number };
@@ -39,6 +40,7 @@ function generateStats(breweries: Brewery[]): BreweryStats {
     byState: {},
     byType: {},
     byCity: {},
+    byCountry: {},
     completeness: {
       total: 0,
       byField: {}
@@ -61,6 +63,11 @@ function generateStats(breweries: Brewery[]): BreweryStats {
       // Include state with city to differentiate between cities with same name
       const cityKey = `${brewery.city}, ${brewery.state_province}`;
       stats.byCity[cityKey] = (stats.byCity[cityKey] || 0) + 1;
+    }
+
+    // Count by country
+    if (brewery.country) {
+      stats.byCountry[brewery.country] = (stats.byCountry[brewery.country] || 0) + 1;
     }
   });
 
@@ -113,6 +120,16 @@ ${Object.entries(sortedByCount(stats.byType))
 ${Object.entries(sortedByCount(stats.byCity))
   .slice(0, 10)
   .map(([city, count]) => `| ${city} | ${(count as number).toLocaleString()} |`)
+  .join('\n')}
+
+### 🌍 By Country
+| Country | Count | Percentage |
+|---------|------------|------------|
+${Object.entries(sortedByCount(stats.byCountry))
+  .map(([country, count]) => {
+    const percentage = ((count as number / stats.totalBreweries) * 100).toFixed(1);
+    return `| ${country} | ${(count as number).toLocaleString()} | ${percentage}% |`;
+  })
   .join('\n')}
 
 ### 📋 Data Completeness by Field
