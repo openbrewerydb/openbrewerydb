@@ -376,7 +376,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🌍 By Country
 | Country | Count | Percentage |
 |---------|------------|------------|
-| United States | 8,119 | 89.5% |
+| United States | 8,120 | 89.5% |
 | Australia | 514 | 5.7% |
 | South Africa | 104 | 1.1% |
 | Ireland | 70 | 0.8% |
@@ -393,7 +393,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Italy | 4 | 0.0% |
 | France | 3 | 0.0% |
 | Isle of Man | 2 | 0.0% |
-|  United States | 1 | 0.0% |
 
 ### 📋 Data Completeness by Field
 | Field | Completeness |
