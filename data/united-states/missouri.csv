@@ -1,7 +1,7 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 84337872-75da-4cdd-9f8f-1e1691f21642,21st St Brewers Bar,brewpub,2017 Chouteau Ave,,,Saint Louis,Missouri,63103,United States,3142416969,http://www.21stbrew.com,-90.213781,38.624291
 be0ec266-d637-42e4-94ba-4ce21e456054,2nd Shift Brewing Co,brewpub,1601 Sublette Ave,,,Saint Louis,Missouri,63110-1924,United States,6187910728,http://www.2ndshiftbrewing.com,-90.280526,38.621943
-cb56e27e-d113-4f74-925a-69305a56d082,3 Trails Brewing Co,micro,"111 N Main St ",,,Independence,Missouri,64050,United States,8168866256,http://www.3trailsbrewing.com,-94.41265,39.122385
+cb56e27e-d113-4f74-925a-69305a56d082,3 Trails Brewing Co,micro,111 N Main St,,,Independence,Missouri,64050,United States,8168866256,http://www.3trailsbrewing.com,-94.41265,39.122385
 4f70ac94-eca5-4cec-8581-92ec5afdf4f2,3Halves Brewing Co,brewpub,110 E Kansas St,,,Liberty,Missouri,64068-2374,United States,8164296886,http://www.3halvesbrewingco.com,-94.4190247,39.2461993
 b72f2ce6-e062-404d-ac31-c1060db2d870,4 By 4 Brewing Company,micro,2811 E Galloway St Ste A,,,Springfield,Missouri,65804-4601,United States,4178616400,http://www.4by4brewingcompany.com,-93.239889,37.147986
 ac2f41ed-e1e8-4586-aa78-253543db7714,4 Hands Brewing Co,regional,1220 S 8th St,,,Saint Louis,Missouri,63104-3610,United States,3144361559,http://www.4handsbrewery.com,-90.19762012,38.61526593
@@ -87,14 +87,14 @@ a1274517-d0af-4c1b-8b7b-2ec4662d2681,Missouri Beer Company,micro,22 W Industrial
 c9ad889d-bf39-4366-886f-a140c0a52dd7,Morgan Street Brewery,proprietor,721 N 2nd St,,,Saint Louis,Missouri,63102-2518,United States,3142319970,http://www.morganstreetbrewery.com,-90.18465871,38.63032719
 69912ded-9a07-4f49-870a-85a78260bf4d,Mother's Brewing Co,micro,215 S Grant Ave,,,Springfield,Missouri,65806-2001,United States,4178620423,http://www.mothersbrewing.com,-93.29928282,37.20791735
 02e33b6d-ac7d-44ad-8b38-cb1c8ebea1e7,Narrow Gauge Brewing Company,brewpub,1595 N Highway 67 St,,,Florissant,Missouri,63031-4606,United States,3148313222,http://www.narrowgaugestl.com,-90.319028,38.799
-40c11daf-e510-45be-bf1f-6b8f0b77ebed,New Axiom Brewing Company,micro,"949 NE Columbus ",,,Lees Summit,Missouri,64086,United States,,http://www.newaxiombrewco.com,-94.351812,38.947403
+40c11daf-e510-45be-bf1f-6b8f0b77ebed,New Axiom Brewing Company,micro,949 NE Columbus,,,Lees Summit,Missouri,64086,United States,,http://www.newaxiombrewco.com,-94.351812,38.947403
 b0c7325d-5406-4b94-9a9b-9f951189a42c,Nimble Brewing,micro,1735 Oak St,,,Kansas City,Missouri,64108,United States,8167871822,http://www.nimblebrewing.com,-94.579238,39.095177
 79ed4f4a-a470-42c2-af50-955633f757b7,O'Fallon Brewery,micro,45 Progress Pkwy,,,Maryland Heights,Missouri,63043-3701,United States,6364742337,http://www.ofallonbrewery.com,-90.44580667,38.71250421
 50e149c8-f205-4469-8f9c-27cc526fc78e,Outlaw Cigar / Gunslinger Saloon Brewing,planning,,,,Kansas City,Missouri,64151-2026,United States,8165052442,http://www.outlawcigar.com,,
 e80e1cb2-de57-4bc2-8330-94ea13ec1c0c,Ozarks Brewing Company,closed,1872 S. U.S. Hwy. 63,,,West Plains,Missouri,65775,United States,4172741507,http://www.ozarksbrewing.com,,
 8f3206c8-8c13-4357-875b-25fcbbc9d63f,Pacific Brew Haus,brewpub,220 S 1st St,,,Pacific,Missouri,63069,United States,6362572650,http://www.pacificbrewhaus.com,-90.741706,38.500322
 bcd21562-9ff4-4a7b-8230-8cb051094f2d,Perennial Artisan Ales,micro,8125 Michigan Ave Ste 116,,,Saint Louis,Missouri,63111-3535,United States,3146317300,http://www.perennialbeer.com,-90.265979,38.54573
-a929c6d4-0f33-4aa0-98c9-bc419b661c53,Petrichor Brewing,micro,"7434 Village Center Dr. ",,,O Fallon,Missouri,63368,United States,6362654004,http://www.petrichorbeer.com,-90.733123,38.749498
+a929c6d4-0f33-4aa0-98c9-bc419b661c53,Petrichor Brewing,micro,7434 Village Center Dr.,,,O Fallon,Missouri,63368,United States,6362654004,http://www.petrichorbeer.com,-90.733123,38.749498
 bfb0e8c9-fed1-4332-9fff-c4b45b49a7bf,Piney River Brewing Company,micro,15194 Walnut Grove Dr,,,Bucyrus,Missouri,65444-9002,United States,4179674001,http://www.pineyriverbrewing.com,-92.01768537,37.32148798
 2c7c2d1e-c48c-4842-9753-a0bb88a605c7,Piney River Taproom,brewpub,326 US Rte 66 E,,,Waynesville,Missouri,65583,United States,5734332739,http://www.pineyriverbrewing.com,-92.193612,37.87597
 8b639b0e-6598-469e-871f-940b1143a3ba,POG Brewing Company,brewpub,24524 S State State Rte D,,,Cleveland,Missouri,64734,United States,8164064179,http://www.pogbrewing.com,-94.582691,38.701465

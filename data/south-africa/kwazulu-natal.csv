@@ -1,18 +1,18 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-49eaa1ab-5cee-40cd-a0dc-da14ba2b7dac,1000 Hills Brewing Company,brewpub,168 Old Main Road," Botha's Hill",,Durban,KwaZulu-Natal,3610,South Africa,+27 31 777 1566,https://1000hillsbrewingcompany.co.za/,30.7063,-29.7711
-4cee6968-b00d-4f1f-afd2-d6d54ef9dd89,Balgowan Brewery,micro,Currys Post Road," off R103",,Balgowan,KwaZulu-Natal,3275,South Africa,+27 79 362 5818,,30.0135,-29.4217
-5598ed95-9b3e-40d4-bfdf-5d22fef4868d,Ballito Brewing Company,micro,8 Coconut Grove," Shaka's Rock Road",,Ballito,KwaZulu-Natal,4420,South Africa,+27 32 946 1902,https://www.ballitobrewingcompany.co.za/,31.2131,-29.5204
+49eaa1ab-5cee-40cd-a0dc-da14ba2b7dac,1000 Hills Brewing Company,brewpub,168 Old Main Road,Botha's Hill,,Durban,KwaZulu-Natal,3610,South Africa,+27 31 777 1566,https://1000hillsbrewingcompany.co.za/,30.7063,-29.7711
+4cee6968-b00d-4f1f-afd2-d6d54ef9dd89,Balgowan Brewery,micro,Currys Post Road,off R103,,Balgowan,KwaZulu-Natal,3275,South Africa,+27 79 362 5818,,30.0135,-29.4217
+5598ed95-9b3e-40d4-bfdf-5d22fef4868d,Ballito Brewing Company,micro,8 Coconut Grove,Shaka's Rock Road,,Ballito,KwaZulu-Natal,4420,South Africa,+27 32 946 1902,https://www.ballitobrewingcompany.co.za/,31.2131,-29.5204
 3be1e4b7-54d8-42f2-a49f-30a38b452570,Basset Breweries,micro,57 Club Lane,,,Pennington,KwaZulu-Natal,4184,South Africa,+27 82 822 4434,https://www.bassetbreweries.co.za/,30.6865,-30.3876
 292c3038-e1ab-415f-a817-7cf8e02cea4c,Clockwork Brewhouse,brewpub,60 Station Road,,,Cartwrights flat,KwaZulu-Natal,4390,South Africa,+27 60 762 9713,,30.4357,-29.6267
-654a71a4-5c14-4035-ae91-f7c462d9c4f5,Drakensberg Brewery,brewpub,El Mirador Farm," R600",,Winterton,KwaZulu-Natal,3340,South Africa,+27 82 815 1373,https://drakensbergbrewery.co.za/,29.5633,-29.0227
-c1a2ffae-716f-4938-a522-9ba113954f8f,Durban Brewing Company,micro,206 Mathews Meyiwa Road," Greyville",,Durban,KwaZulu-Natal,4001,South Africa,+27 31 303 3923,https://www.durbanbrewingco.co.za/,31.0112,-29.8407
+654a71a4-5c14-4035-ae91-f7c462d9c4f5,Drakensberg Brewery,brewpub,El Mirador Farm,R600,,Winterton,KwaZulu-Natal,3340,South Africa,+27 82 815 1373,https://drakensbergbrewery.co.za/,29.5633,-29.0227
+c1a2ffae-716f-4938-a522-9ba113954f8f,Durban Brewing Company,micro,206 Mathews Meyiwa Road,Greyville,,Durban,KwaZulu-Natal,4001,South Africa,+27 31 303 3923,https://www.durbanbrewingco.co.za/,31.0112,-29.8407
 19508b9b-bc32-4da1-9a61-feea7b5db8c7,East Coast Brewing Company,micro,134/135 Brackenhill Road,,,Umbogintwini,KwaZulu-Natal,4126,South Africa,+27 31 914 0975,https://www.eastcoastbrewing.co.za/,30.9328,-30.0211
 8531b73e-c11f-498c-90bb-317d8783624b,Happy Days Brewery at Netherwood,brewpub,Netherwood Farm R103,,,Nottingham Road,KwaZulu-Natal,3280,South Africa,+27 33 266 7132,https://www.netherwoodfarm.com/happy-days-brewery,29.9861,-29.3879
 e8957cf9-fe86-4bfa-8b81-e081e8badbfd,Lions River Craft Brewery,micro,Thokans Farm R103,,,Lidgetton,KwaZulu-Natal,3270,South Africa,+27 83 626 5747,https://www.lionsriverbrewery.co.za/,30.0768,-29.4795
-6453bee8-0fca-4da3-9404-92b1d840747c,Nottingham Road Brewing Company,brewpub,Rawdons Hotel," R103",,Nottingham Road,KwaZulu-Natal,3280,South Africa,+27 33 266 6728,https://nottsbrewery.co.za/,29.9702,-29.3524
-9a0fc9c0-88c8-4f0a-8b1e-a083302c6f91,Robson’s Real Beer,micro,72 Clairwood Road," Umhlangane",,Durban,KwaZulu-Natal,4051,South Africa,+27 31 569 6552,https://robsonsrealbeer.com/,31.0207,-29.7905
-97c645ba-d2ae-4c22-b784-9d9de01f8b88,Stumpnose Brewery,micro,The Saddlery," R102",,Umdloti,KwaZulu-Natal,4350,South Africa,+27 31 568 1567,https://www.stumpnose.com/,31.1118,-29.6642
-4de986cb-9905-47ab-8464-a87197953cec,That Brewing Company,micro,38 rapid waters road," riverside business park",,Durban,KwaZulu-Natal,4051,South Africa,+27 31 569 3132,https://thatbrewingco.co.za/,31.0206,-29.7912
+6453bee8-0fca-4da3-9404-92b1d840747c,Nottingham Road Brewing Company,brewpub,Rawdons Hotel,R103,,Nottingham Road,KwaZulu-Natal,3280,South Africa,+27 33 266 6728,https://nottsbrewery.co.za/,29.9702,-29.3524
+9a0fc9c0-88c8-4f0a-8b1e-a083302c6f91,Robson’s Real Beer,micro,72 Clairwood Road,Umhlangane,,Durban,KwaZulu-Natal,4051,South Africa,+27 31 569 6552,https://robsonsrealbeer.com/,31.0207,-29.7905
+97c645ba-d2ae-4c22-b784-9d9de01f8b88,Stumpnose Brewery,micro,The Saddlery,R102,,Umdloti,KwaZulu-Natal,4350,South Africa,+27 31 568 1567,https://www.stumpnose.com/,31.1118,-29.6642
+4de986cb-9905-47ab-8464-a87197953cec,That Brewing Company,micro,38 rapid waters road,riverside business park,,Durban,KwaZulu-Natal,4051,South Africa,+27 31 569 3132,https://thatbrewingco.co.za/,31.0206,-29.7912
 ab8862bc-e12d-4bf4-a9a7-7973a028f46e,Toti Brewing Company,brewpub,316 Kingsway Road,,,Amanzimtoti,KwaZulu-Natal,4126,South Africa,+27 78 458 9700,https://www.totibrewingcompany.co.za/,30.8872,-30.0494
-789304df-b94e-489b-a553-66c841ed8de6,YNG GNS Brewery,micro,Unit 12 Ithala Industrial Park," 20 Flanders Drive",,Mount Edgecombe,KwaZulu-Natal,4300,South Africa,+27 63 949 9779,https://www.ynggns.com/,31.0253,-29.7269
-36ddde49-4fad-4500-aaa6-9677d5e351d0,Zululand Brewery,brewpub,George Hotel," 36 Main Street",,Eshowe,KwaZulu-Natal,3815,South Africa,+27 35 474 4919,https://www.zululandbrewery.co.za/,31.4593,-28.8927
+789304df-b94e-489b-a553-66c841ed8de6,YNG GNS Brewery,micro,Unit 12 Ithala Industrial Park,20 Flanders Drive,,Mount Edgecombe,KwaZulu-Natal,4300,South Africa,+27 63 949 9779,https://www.ynggns.com/,31.0253,-29.7269
+36ddde49-4fad-4500-aaa6-9677d5e351d0,Zululand Brewery,brewpub,George Hotel,36 Main Street,,Eshowe,KwaZulu-Natal,3815,South Africa,+27 35 474 4919,https://www.zululandbrewery.co.za/,31.4593,-28.8927
