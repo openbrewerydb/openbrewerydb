@@ -321,7 +321,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2025-11-11
+> Last updated: 2025-12-23
 
 ### Overview
 - Total Breweries: 9,077
@@ -344,10 +344,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 4,826 | 53.2% |
+| micro | 4,825 | 53.2% |
 | brewpub | 2,574 | 28.4% |
 | planning | 664 | 7.3% |
-| closed | 313 | 3.4% |
+| closed | 314 | 3.5% |
 | regional | 228 | 2.5% |
 | contract | 187 | 2.1% |
 | large | 114 | 1.3% |
