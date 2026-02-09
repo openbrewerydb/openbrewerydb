@@ -19,6 +19,7 @@
     "csv:combine": "ts-eager ./src/combine-csv.ts",
     "csv:split": "ts-eager ./src/split-csv.ts",
     "generate:json": "ts-eager ./src/generate-json.ts",
+    "generate:map-json": "ts-eager ./src/generate-map-json.ts",
     "generate:sql": "ts-eager ./src/generate-sql.ts",
     "generate:stats": "ts-eager ./src/generate-stats.ts",
     "update:readme-stats": "ts-eager ./src/update-readme-stats.ts",
