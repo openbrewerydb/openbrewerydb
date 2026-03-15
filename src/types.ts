@@ -14,8 +14,8 @@ export const Brewery = z.object({
   country: z.string().min(2).transform(val => val.trim()),
   phone: z.coerce.string().nullable().optional().transform(val => val?.trim() ?? null),
   website_url: z.string().url().nullable().optional().transform(val => val?.trim() ?? null),
-  longitude: z.coerce.number().nullable().optional(),
-  latitude: z.coerce.number().nullable().optional(),
+  longitude: z.coerce.number().min(-180).max(180).nullable().optional(),
+  latitude: z.coerce.number().min(-90).max(90).nullable().optional(),
 });
 
 export type Brewery = z.infer<typeof Brewery>;
