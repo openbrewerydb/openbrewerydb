@@ -498,6 +498,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/3619514?v=4",
       "profile": "https://github.com/BruddahChrispy",
       "contributions": ["data"]
+    },
+    {
+      "login": "pirxpilot",
+      "name": "Damian Krzeminski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3240?v=4",
+      "profile": "https://pirxpilot.me/",
+      "contributions": ["code", "data"]
     }
   ],
   "contributorsPerLine": 7

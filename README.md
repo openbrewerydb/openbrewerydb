@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-69-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-70-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -311,6 +311,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://fabiovitalba.github.io/"><img src="https://avatars.githubusercontent.com/u/3830362?v=4?s=100" width="100px;" alt="Fabio Vitalba"/><br /><sub><b>Fabio Vitalba</b></sub></a><br /><a href="#data-fabiovitalba" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dustinb"><img src="https://avatars.githubusercontent.com/u/1167912?v=4?s=100" width="100px;" alt="Dustin Butler"/><br /><sub><b>Dustin Butler</b></sub></a><br /><a href="#data-dustinb" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/BruddahChrispy"><img src="https://avatars.githubusercontent.com/u/3619514?v=4?s=100" width="100px;" alt="BruddahChrispy"/><br /><sub><b>BruddahChrispy</b></sub></a><br /><a href="#data-BruddahChrispy" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://pirxpilot.me/"><img src="https://avatars.githubusercontent.com/u/3240?v=4?s=100" width="100px;" alt="Damian Krzeminski"/><br /><sub><b>Damian Krzeminski</b></sub></a><br /><a href="https://github.com/openbrewerydb/openbrewerydb/commits?author=pirxpilot" title="Code">💻</a> <a href="#data-pirxpilot" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
@@ -324,7 +325,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2026-02-21
+> Last updated: 2026-03-15
 
 ### Overview
 - Total Breweries: 9,251
