@@ -1,0 +1,81 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+,Rock City Beers,micro,Mijnbouwweg 15,,,Amersfoort,Utrecht,3812 RT,Netherlands,+31 033 202 2230,https://rockcitybrewing.nl/,5.367071399999999,52.1664465
+,Amstel Brewery,large,Funenkade 7,,,Amsterdam,Noord-Holland,1018 AL,Netherlands,+31 020 261 9801,https://www.brouwerijhetij.nl/proeflokalen/proeflokaal-de-molen,4.9264253,52.36669080000001
+,Bird Brewery,micro,Diemerbospad 1a,,,Diemen,Noord-Holland,1111 PZ,Netherlands,+31 020 214 6555,http://birdbrewery.com/,4.990673,52.3325138
+,Brouwerij 't IJ,regional,Funenkade 7,,,Amsterdam,Noord-Holland,1018 AL,Netherlands,+31 020 261 9801,https://www.brouwerijhetij.nl/proeflokalen/proeflokaal-de-molen,4.9264253,52.36669080000001
+,Brouwerij de Eeuwige Jeugd,micro,H.J.E. Wenckebachweg 48,,,Amsterdam,Noord-Holland,1096 AH,Netherlands,,http://www.deeeuwigejeugd.nl/,4.924842,52.337032
+,Brouwerij De Prael,micro,Oudezijds Armsteeg 26,,,Amsterdam,Amsterdam,1012 GP,Netherlands,+31 020 408 4469,http://www.depraelamsterdam.nl/,4.899391,52.3756081
+,Bruut Bier,micro,Spaklerweg 1F,,,Amsterdam,Noord-Holland,1096 BA,Netherlands,+31 06 34239354,https://bruutbier.nl/,4.91919,52.3431793
+,Butcher's Tears,micro,Karperweg 45,,,Amsterdam,Noord-Holland,1075 LB,Netherlands,,http://butchers-tears.com/,4.8535124,52.3472257
+,Gebrouwen Door Vrouwen,micro,Jan Pieter Heijestraat 119D,,,Amsterdam,hs,1054 MD,Netherlands,+31 020 854 5277,https://www.gebrouwendoorvrouwen.nl/de-bar,4.864332999999999,52.362525
+,Heineken,large,Stadhouderskade 78,,,Amsterdam,Noord-Holland,1072 AE,Netherlands,+31 020 205 0593,https://www.heinekenexperience.com/,4.8918249,52.35783130000001
+,Oedipus Brewing,micro,Schaafstraat 21,,,Amsterdam,Noord-Holland,1021 KD,Netherlands,,http://oedipus.com/,4.9241202,52.385357
+,Pontus Brewing,micro,Johan Huizingalaan 262,,,Amsterdam,Noord-Holland,1065 JM,Netherlands,,,4.8270084,52.3543823
+,Two Chefs Brewing,micro,Moezelhavenweg 6,,,Amsterdam,Noord-Holland,1043 AM,Netherlands,+31 020 894 8944,http://twochefsbrewing.com/,4.8201689,52.3926576
+,Hertog Jan Brouwerij,regional,Kruisweg 44,,,Arcen,Limburg,5944 EN,Netherlands,+31 077 473 6081,https://www.hertogjan.nl/,6.1733489,51.4862376
+,Bierbrouwerij De Koningshoeven,micro,Eindhovenseweg 3,,,Berkel-Enschot,Noord-Brabant,5056 RP,Netherlands,+31 013 535 8147,https://nl.latrappetrappist.com/nl/nl.html,5.1294129,51.5425075
+,Uthoka Sommelier & Brouwerij,micro,Nieuwstraat 34,,,Vught,Noord-Brabant,5261 VH,Netherlands,,http://www.bierstudio.eu/,5.2933355,51.6555354
+,Brouwerij Dorst,micro,,,,Best,Noord-Brabant,,Netherlands,,,,
+,Brouwerij de Molen,micro,Overtocht 43,,,Bodegraven,Zuid-Holland,2411 BT,Netherlands,+31 0172 610 848,https://www.brouwcafedemolen.nl/,4.7420895,52.0857214
+,De Friese Bierbrouwerij Us Heit,micro,Snekerstraat 43,,,Bolsward,Friesland,8701 XC,Netherlands,+31 0515 577 449,https://www.usheit.com/nl/bierbrouwerij/,5.5340992,53.0607214
+,Brouwerij Frontaal,micro,Liniestraat,,,Breda,De Faam 31,4816 BG,Netherlands,+31 076 785 4329,https://frontaalbrewingcompany.com/brouwcafe,4.783386699999999,51.5976715
+,Oranjeboom Brewery,regional,Druivenstraat 21,,,Breda,Noord-Brabant,4816 KB,Netherlands,+31 076 578 1000,http://www.uniteddutchbreweries.com/,4.8081501,51.5999409
+,Weidmann Bier,micro,Druivenstraat 21,,,Breda,Noord-Brabant,4816 KB,Netherlands,+31 076 578 1000,http://www.uniteddutchbreweries.com/,4.8081501,51.5999409
+,Budelse Brouwerij,micro,Nieuwstraat 9,,,Budel,Noord-Brabant,6021 HP,Netherlands,+31 0495 491 369,http://www.budels.nl/,5.5738978,51.2732255
+,Dorpsbrouwerij de Pimpelmeesch,micro,Elsakkerpad 11 - (kantooradres,,,Chaam,Elsakkerpad 11,4861 TA,Netherlands,+31 0161 491 615,https://pimpelmeesch.nl/,4.8548898,51.5095974
+,Ambachtelijke Vechtdal Brouwerij,micro,Molendijk 11,,,Dalfsen,Overijssel,7721 AB,Netherlands,+31 06 30781380,http://vechtdalbrouwerij.nl/,6.2628498,52.5061472
+,De Leckere,micro,,,,De Meern,Utrecht,,Netherlands,,,,
+,Brouwerij De Koperen Kat,micro,Schieweg 15,,,Delft,Zuid-Holland,2627 AN,Netherlands,+31 06 42123398,https://www.dekoperenkat.nl/,4.3674291,51.9949092
+,Iki Beer,micro,Rietveldenweg 25,,,'s-Hertogenbosch,Noord-Brabant,5222 AP,Netherlands,+31 073 620 9911,http://www.heineken.nl/,5.2802583,51.6992048
+,Brouwerij Kwartje,micro,Zamenhofstraat 90,,,Den Haag,Zuid-Holland,2518 LB,Netherlands,,,4.2921562,52.0739457
+,Het Brouwcafe,brewpub,Dr. Lelykade 28,,,Den Haag,Zuid-Holland,2583 CM,Netherlands,+31 070 354 0970,http://www.dehofnar.nl/,4.271861599999999,52.099884
+,Kompaan Bier,micro,Saturnusstraat 55,,,Den Haag,Zuid-Holland,2516 AE,Netherlands,+31 06 43442048,https://kompaanbier.nl/bars/thuishaven-binckhorst/,4.3462556,52.0671662
+,Berghoeve Brouwerij,micro,Achteres 15,,,Den Ham,Overijssel,7683 SX,Netherlands,+31 06 18278345,http://www.berghoevebrouwerij.nl/,6.5180278,52.4661069
+,De Heidebrouwerij,micro,Venturistraat 12 A,,,Ede,Gelderland,6718 XW,Netherlands,+31 0318 785 428,http://www.deheidebrouwerij.nl/,5.6031654,52.0328156
+,Stadsbrouwerij Eindhoven,micro,Bleekweg 1,,,Eindhoven,Noord-Brabant,5611 CZ,Netherlands,+31 040 842 8000,https://100watt.nl/?utm_source=google&utm_medium=organic&utm_campaign=gmb,5.4847971,51.435935
+,Van Moll BrewPub,brewpub,Keizersgracht 16A,,,Eindhoven,Noord-Brabant,5611 GD,Netherlands,+31 040 848 7255,https://vanmollcraftbeer.com/bar/,5.4772446,51.4368773
+,Koninklijke Grolsch,large,De Groote Plooij,,,Enschede,Brouwerslaan 1,7548 XA,Netherlands,+31 053 483 3333,http://www.grolsch.nl/,6.8160167,52.20594759999999
+,Speciaalbierbrouwerij Duits & Lauret,micro,Noodweg 2,,,Everdingen,Utrecht,4121 KK,Netherlands,+31 0347 769 005,http://www.duitslauret.com/,5.174904199999999,51.96174999999999
+,Bax Bier,micro,Friesestraatweg 201,,,Groningen,2a,9743 AC,Netherlands,+31 050 211 2040,http://baxbier.com/,6.5351487,53.2266548
+,Folkingebrew,micro,Boterdiep 75,,,Groningen,Groningen,9712 LL,Netherlands,+31 06 28801883,https://www.folkingebrew.nl/the-pub/,6.5636606,53.2249652
+,Gulpener Bierbrouwerij,regional,Rijksweg 16,,,Gulpen,Limburg,6271 AE,Netherlands,+31 043 450 7575,http://www.gulpener.nl/,5.8907412,50.8143644
+,Jopen,micro,Gedempte Voldersgracht 2,,,Haarlem,Noord-Holland,2011 WD,Netherlands,+31 023 533 4114,https://www.jopenkerk.nl/haarlem/,4.6297315,52.3812145
+,Het Uiltje,micro,Zijlstraat 18,,,Haarlem,Noord-Holland,2011 TN,Netherlands,+31 023 844 6227,https://www.uiltjebrewing.com/venue/uiltje-bar/,4.6306578,52.3828983
+,Brouwerij Klein Duimpje,micro,Hyacintenlaan 2A,,,Hillegom,Zuid-Holland,2182 DE,Netherlands,+31 0252 531 186,https://kleinduimpje.nl/,4.5698523,52.2790299
+,Museumbrouwerij de Roos,micro,Sint Sebastiaanstraat 4,,,Hilvarenbeek,Noord-Brabant,5081 ZG,Netherlands,+31 013 505 5045,https://www.bierbrouwerijderoos.nl/,5.13486,51.4860513
+,Bierbrouwerij Emelisse,micro,Nieuweweg 7,,,Kamperland,Zeeland,4493 PA,Netherlands,+31 0113 370 262,http://www.restaurantdebrouwerij.nl/,3.708862,51.57543
+,Peelander Brewery,micro,,,,Kerkwerve,Zeeland,,Netherlands,,,,
+,The Melchers Group,regional,Nieuwegracht 12,,,Soest,Flevoland,3763 LB,Netherlands,+31 085 222 1266,http://www.melchers.nl/,5.264505799999999,52.1795166
+,Bavaria Brouwerij,large,Heuvel 5,,,Lieshout,Noord-Brabant,5737 BX,Netherlands,+31 0499 425 585,http://www.bavariabrouwerijcafe.nl/,5.5957611,51.5178125
+,Hoöten Brewing,micro,De Stater 5,,,Lieshout,Noord-Brabant,5737 RV,Netherlands,+31 0499 428 111,https://nl.bavaria.com/,5.613055,51.518775
+,Thissen's Brouwerij,micro,Brouwerspad 26a,,,Lith,Noord-Brabant,5397 GG,Netherlands,+31 06 53228614,http://www.thissensbrouwerij.nl/contact/,5.4284446,51.8090178
+,De Ridder Brewery,regional,Oeverwal 9,,,Maastricht,Limburg,6221 EN,Netherlands,,,5.697515999999999,50.8499881
+,Brouwerij Kees,micro,Voltaweg 16,,,Middelburg,Zeeland,4338 PS,Netherlands,+31 06 25172472,https://www.brouwerijkees.nl/,3.6442091,51.4918096
+,Lindeboom Brouwerij,regional,Engelmanstraat 54,,,Neer,Limburg,6086 BD,Netherlands,+31 0475 592 900,http://www.lindeboom.nl/,5.9832,51.25783999999999
+,Brouwtoren,micro,Waldeck Pyrmontsingel 12,,,Nijmegen,Gelderland,6521 BC,Netherlands,+31 06 25106052,https://www.brouwtoren.nl/,5.8696424,51.8415276
+,Oersoep,micro,Waalplein 7,,,Nijmegen,Gelderland,6541 AX,Netherlands,+31 06 16059557,https://www.oersoepbrouwerij.nl/brouwlab,5.8389696,51.857236
+,Stadsbrouwerij De Hemel,brewpub,Franseplaats 1,,,Nijmegen,Gelderland,6511 VS,Netherlands,+31 024 360 6167,http://www.brouwerijdehemel.nl/,5.864321299999999,51.848794
+,Bierbrouwerij Oijen,brewpub,Oijense Bovendijk 61,,,Oijen,Noord-Brabant,5394 LA,Netherlands,+31 0412 492 217,https://bierbrouwerij-oijen.nl/,5.5310204,51.8104867
+,Brouwerij De Vandeoirsprong,micro,Koestraat 20,,,Oirschot,Noord-Brabant,5688 AH,Netherlands,+31 0499 572 002,http://www.vandeoirsprong.nl/,5.305426600000001,51.5014878
+,Muifelbrouwerij,micro,Vikingenweg 5,,,Oss,Noord-Brabant,5349 BT,Netherlands,+31 06 40560581,http://www.muifelbrouwerij.nl/,5.5577691,51.7597627
+,Texels Bierbrouwerij,micro,Schilderweg 214b,,,Oudeschild,Noord-Holland,1792 CK,Netherlands,+31 0222 320 325,http://www.texels.nl/,4.8278991,53.04486619999999
+,Bierbrouwerij St. Christoffel,micro,Metaalweg 10,,,Roermond,Limburg,6045 JB,Netherlands,+31 0475 341 447,http://www.christoffelbieren.com/,6.0504787,51.16865629999999
+,Laveloos Brewery,micro,,,,Roosendaal,Noord-Brabant,,Netherlands,,,,
+,Brouwerij Noordt,micro,Zaagmolenkade 46,,,Rotterdam,Zuid-Holland,3035 KA,Netherlands,+31 010 223 0566,http://www.brouwerijnoordt.nl/,4.4866771,51.9332923
+,Kaapse Brouwers,micro,Nico Koomanskade 1025,,,Rotterdam,Zuid-Holland,3072 LM,Netherlands,+31 06 18417773,https://www.kaapsebrouwers.nl/en/splash-kaap-en/,4.4867529,51.9020324
+,Stadsbrouwerij de Pelgrim,brewpub,Aelbrechtskolk 12,,,Rotterdam,Zuid-Holland,3024 RD,Netherlands,+31 010 477 1189,https://www.pelgrimbier.nl/,4.448939000000001,51.908737
+,Maximus Brouwerij,micro,Pratumplaats 2A,,,Utrecht,Utrecht,3454 NA,Netherlands,+31 030 737 0077,http://www.maximusbrouwerij.nl/,5.0458145,52.0884895
+,Rooie Dop,micro,Jagerskade 13,,,Utrecht,Utrecht,3552 TL,Netherlands,+31 030 721 0004,https://rooienel.nl/,5.107283300000001,52.10700749999999
+,vandeStreek bier,micro,Ontariodreef 43,,,Utrecht,Utrecht,3565 BC,Netherlands,+31 030 737 1255,http://www.vandestreekbier.nl/,5.086886799999999,52.1275108
+,Dommelsche Bierbrouwerij,regional,5551 AE Valkenswaard,,,Valkenswaard,Noord-Brabant,5551 AE,Netherlands,+31 016 27 61 11,https://dommelsch.nl/,5.4279544,51.3482553
+,Bierbrouwerij Maallust,micro,Hoofdweg 140,,,Veenhuizen,Drenthe,9341 BL,Netherlands,+31 0592 388 971,http://www.maallust.nl/,6.387536799999999,53.0332193
+,Voortsche Bieren,micro,Harremaatweg 34,,,Voorthuizen,Gelderland,3781 NJ,Netherlands,,http://www.voortschebieren.nl/,5.630355,52.1872848
+,Brouwerij De Natte Gijt,micro,Julianalaan 54,,,Weert,Limburg,6006 AP,Netherlands,+31 06 45002670,,5.7071844,51.2470614
+,Brand Bierbrouwerij,regional,Brouwerijstraat 2,,,Wijlre,Limburg,6321 AG,Netherlands,+31 0800 0244321,https://www.brand.nl/,5.8940572,50.8306858
+,Wentersch Brewery,micro,Groenloseweg 75,,,Winterswijk,Gelderland,7101 AD,Netherlands,+31 0543 769 080,http://www.wentersch.nl/,6.7097576,51.9782749
+,De Bierderie,micro,Witte Vlinderweg 72,,,Wormerveer,A15,1521 PS,Netherlands,,,4.7877418,52.50441860000001
+,Hilldevils Brewery,micro,Plantagebaan 99A,,,Wouwse Plantage,Noord-Brabant,4725 RB,Netherlands,+31 06 22197086,http://www.hilldevils.nl/,4.3996164,51.4992773
+,Breugem Brewery,micro,Lagedijk 69,,,Zaandijk,Noord-Holland,1544 BC,Netherlands,+31 075 204 7000,http://www.brouwerijhoop.nl/,4.8111073,52.4761056
+,Brouwerij Hoop,micro,Lagedijk 69,,,Zaandijk,Noord-Holland,1544 BC,Netherlands,+31 075 204 7000,http://www.brouwerijhoop.nl/,4.8111073,52.4761056
+,Trappistenbrouwerij De Kievit,micro,Rucphenseweg 38,,,Zundert,Noord-Brabant,4882 KC,Netherlands,+31 076 597 4251,http://www.zunderttrappist.nl/,4.6079355,51.4954005
+,Axes Castellum Kloosterbier,micro,Grote Voort 10,,,Zwolle,Overijssel,8041 AM,Netherlands,+31 06 29990260,http://www.axes-castellum.nl/,6.0716513,52.5125093
