@@ -1,0 +1,69 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+,Ant Brew,brewpub,Mallaskatu 1,,,Lahti,Päijät-Häme,15140,Finland,+358 50 3028181,https://www.antbrew.fi,25.6521,60.9827
+,Atmos Brewing,micro,Erkkilänkatu 11 B,,,Tampere,Pirkanmaa,33100,Finland,+358 45 78706709,https://atmosbrewing.fi,23.7745,61.5034
+,Bock's Corner Brewery,brewpub,Gerbyntie 18,,,Vaasa,Ostrobothnia,65230,Finland,+358 46 9236175,https://www.bockscornerbrewery.com,21.6241,63.1114
+,CoolHead Brew,micro,Koetilantie 1,,,Helsinki,Uusimaa,00790,Finland,+358 40 8291581,https://www.coolhead.fi,25.0134,60.2269
+,Etko Brewing,micro,Kumitehtaankatu 5,,,Kerava,Uusimaa,04260,Finland,+358 50 4120980,https://www.etko.beer,25.1051,60.3923
+,Fat Lizard Brewing Co.,micro,Betonimiehenkuja 8,,,Espoo,Uusimaa,02150,Finland,+358 9 31523705,https://fatlizard.beer,24.8239,60.1843
+,Fiskarsin Panimo,micro,Peltorivi 7,,,Fiskars,Uusimaa,10470,Finland,+358 40 9381411,https://www.fiskarsinpanimo.fi,23.6062,60.1293
+,Haapala Brewery,brewpub,Haapalantie 3,,,Sotkamo,Kainuu,88600,Finland,+358 44 9847840,https://www.haapalabnb.fi,28.3243,64.1287
+,Hailuodon Panimo,micro,Luovontie 233,,,Hailuoto,Northern Ostrobothnia,90480,Finland,+358 44 9862223,https://www.hailuodonpanimo.fi,24.7153,65.0101
+,Hiisi,micro,Lutakonaukio 3,,,Jyväskylä,Central Finland,40100,Finland,+358 50 3399416,https://hiisi.beer,25.7928,62.2547
+,Hollolan Hirvi,brewpub,Aikkalantie 37,,,Hollola,Päijät-Häme,15880,Finland,+358 45 3204221,https://www.hollolanhirvi.fi,25.5342,60.9995
+,Husky Brewing,micro,Sahaajankatu 20 D,,,Helsinki,Uusimaa,00880,Finland,+358 40 7686981,https://www.huskybrewing.fi,25.0435,60.1932
+,Iso-Kallan Panimo,micro,Siikaranta 5,,,Kuopio,North Savo,70620,Finland,+358 40 5562321,https://www.isokallanpanimo.fi,27.6891,62.8797
+,Kahakka Brewery,micro,Indolantie 15,,,Kokkola,Central Ostrobothnia,67600,Finland,+358 50 3595487,https://www.kahakkabrewery.com,23.1561,63.8231
+,Kakola Brewing Company,micro,Graniittilinnankatu 2,,,Turku,Varsinais-Suomi,20100,Finland,+358 40 6672011,https://www.kakolabrewing.com,22.2428,60.4429
+,Kanavan Panimo,micro,Meijeritie 1,,,Vääksy,Päijät-Häme,17200,Finland,+358 44 5242288,https://www.kanavanpanimo.fi,25.5333,61.1764
+,Karvilan Panimo,micro,Miilunkankaantie 50,,,Enonkoski,South Savo,58160,Finland,+358 29 3093999,https://karvilanpanimo.fi,28.8576,62.0391
+,Kimito Brewing,micro,Hallitie 8,,,Kemiö,Varsinais-Suomi,25700,Finland,+358 40 5963317,https://www.kimitobrewing.com,22.7231,60.1652
+,Koskipanimo,brewpub,Itäinenkatu 8,,,Tampere,Pirkanmaa,33210,Finland,+358 3 2601200,https://www.plevna.fi,23.7592,61.5008
+,Kråkö Bryggeri,micro,Veneenrakentajantie 5,,,Kråkö,Uusimaa,07410,Finland,+358 44 2314352,https://www.krakobryggeri.com,25.6881,60.3242
+,Kuninkaantien Panimo,micro,Jättänväljäntie 9,,,Piikkiö,Varsinais-Suomi,21500,Finland,+358 40 8421870,https://www.kuninkaantienpanimo.fi,22.5204,60.4248
+,Kurikan Lakkitehdas,brewpub,Koivistonkyläntie 74,,,Panttila,South Ostrobothnia,61310,Finland,+358 50 5874541,https://www.kurikanlakkitehdas.fi,22.5855,62.5123
+,Kvarken Brewery,micro,Klobbskatintie 185,,,Söderudden,Ostrobothnia,65970,Finland,+358 50 3557789,https://www.kvarkenbrewery.com,21.0423,63.2681
+,Laitilan Wirvoitusjuomatehdas,regional,Limonaadikuja 4,,,Laitila,Varsinais-Suomi,23800,Finland,+358 2 85841,https://laitilan.com,21.6884,60.9161
+,Lammin Sahti,micro,Liesontie 554,,,Lammi,Kanta-Häme,16900,Finland,+358 40 5410657,https://www.sahti.fi,24.9084,61.1681
+,Lapin Panimo,micro,Teollisuustie 14 B,,,Rovaniemi,Lapland,96320,Finland,+358 45 1334410,https://www.lapinpanimo.fi,25.7111,66.4914
+,Lepaan Panimo,micro,Viinitilantie 12,,,Lepaa,Kanta-Häme,14610,Finland,+358 3 6461,https://www.hami.fi/lepaan-viinitila,24.3855,61.1114
+,Mad Finn Brewing Co,brewpub,Pyynikintie 25-29,,,Tampere,Pirkanmaa,33230,Finland,+358 44 9811440,https://www.madfinn.fi,23.7381,61.4939
+,Mad Hopper Brewing Company,brewpub,Mannerheimintie 55,,,Helsinki,Uusimaa,00250,Finland,+358 50 4721473,https://www.madhopper.fi,24.9213,60.1831
+,Maku Brewing,micro,Sarvivälkkeentie 12,,,Tuusula,Uusimaa,04300,Finland,+358 40 9008301,https://www.makubrewing.com,25.0441,60.4144
+,Mallaskosken Panimo,micro,Vesitorninkatu 1,,,Seinäjoki,South Ostrobothnia,60100,Finland,+358 40 9615663,https://www.mallaskoski.fi,22.8271,62.7944
+,Mallaskuun Panimo,micro,Siiriläntie 261,,,Lapua,South Ostrobothnia,62100,Finland,+358 50 3633571,https://www.mallaskuunpanimo.fi,23.0112,62.9691
+,Mallassepät,micro,Lietsalantie 11,,,Naantali,Varsinais-Suomi,21110,Finland,+358 45 1195620,https://mallassepat.fi,22.0531,60.4789
+,Malmgårdin Panimo,micro,Malmgård 53,,,Malmgård,Uusimaa,07720,Finland,+358 40 0513101,https://www.malmgardinpanimo.fi,25.9284,60.5481
+,Masis Brewery,micro,Tietotie 2 B,,,Espoo,Uusimaa,02150,Finland,+358 40 7351662,https://www.masisbrewery.com,24.8191,60.1834
+,Mathildedalin Kyläpanimo,micro,Matildan puistotie 4,,,Mathildedal,Varsinais-Suomi,25660,Finland,+358 40 5088219,https://kylapanimo.fi,22.9031,60.2194
+,Nailo Brewing,micro,Kempeleentie 7 B,,,Oulu,Northern Ostrobothnia,90400,Finland,+358 40 0380388,https://www.nailobrewing.fi,25.4851,64.9961
+,Narvan Kyläpanimo,micro,Latomaantie 1,,,Narva,Pirkanmaa,37370,Finland,+358 40 6714092,https://www.narvankylapanimo.com,23.5112,61.2781
+,Nilkko Brewing,micro,Pyhävedentie 22,,,Mäntyharju,South Savo,52700,Finland,+358 50 3294743,https://www.nilkko.fi,26.7791,61.4161
+,Nokian Panimo,regional,Nuijamiestentie 17,,,Nokia,Pirkanmaa,37120,Finland,+358 50 5713305,https://www.nokianpanimo.fi,23.4981,61.4744
+,Olarin Panimo,micro,Bruno Granholmin kuja 1,,,Helsinki,Uusimaa,00510,Finland,+358 40 8401438,https://www.olarinpanimo.fi,24.9851,60.1884
+,Olu Bryki Raum,micro,Hakrinkatu 4,,,Rauma,Satakunta,26100,Finland,+358 40 5227702,https://olubrykiraum.fi,21.5031,61.1274
+,Olutpaja,micro,Hämeenlinnantie 270,,,Laitikkala,Pirkanmaa,36660,Finland,+358 40 5354921,https://olutpaja.fi,24.5081,61.2291
+,Oma Panimo,micro,Tillinmäentie 3,,,Espoo,Uusimaa,02330,Finland,+358 50 3270586,https://www.omapanimo.fi,24.6331,60.1654
+,Panimo Hoppa,micro,Valtakatu 11,,,Kuusankoski,Kymenlaakso,45700,Finland,+358 44 9789397,https://panimohoppa.fi,26.6351,60.9104
+,Panimo OlutMylly,micro,Yrittäjänkaari 17 A,,,Forssa,Kanta-Häme,30420,Finland,+358 40 5536993,https://olutmylly.fi,23.6331,60.8144
+,Beer Hunter's,brewpub,Antinkatu 11,,,Pori,Satakunta,28100,Finland,+358 2 6415599,https://www.beerhunters.fi,21.7941,61.4864
+,Panimoravintola Koulu,brewpub,Eerikinkatu 18,,,Turku,Varsinais-Suomi,20100,Finland,+358 2 2745757,https://www.panimoravintolakoulu.fi,22.2641,60.4494
+,Panimoyhtiö Tuju,micro,Soittokunnanraitti 3,,,Lappeenranta,South Karelia,53900,Finland,+358 40 1629808,https://www.panimotuju.fi,28.1721,61.0594
+,Panimoyhtiö X,micro,Helmintie 10,,,Jyväskylä,Central Finland,40250,Finland,+358 50 5906392,https://www.panimoyhtiox.fi,25.7512,62.2641
+,Perhon Panimo,brewpub,Perhonkatu 11,,,Helsinki,Uusimaa,00100,Finland,+358 40 5090770,https://www.perhonpanimo.fi,24.9221,60.1691
+,Pihamaa,micro,Työmiehentie 8,,,Heinola,Päijät-Häme,18200,Finland,+358 50 5938747,https://www.viini-pihamaa.fi,26.0331,61.2014
+,Pramia,micro,Ilvesjoentie 1060,,,Ilvesjoki,South Ostrobothnia,61760,Finland,+358 40 7026470,https://www.pramia.fi,22.6841,62.1984
+,Rosendal Brewery,micro,Tammiston kauppatie 9,,,Vantaa,Uusimaa,01510,Finland,+358 40 0411624,https://rosendal.fi,24.9651,60.2741
+,RPS Brewing,micro,Siikaranta 3 B,,,Kuopio,North Savo,70620,Finland,+358 40 0229227,https://www.rpsbrewing.fi,27.6895,62.8795
+,Saimaa Brewing Company,micro,Insinöörinkatu 7,,,Mikkeli,South Savo,50150,Finland,+358 40 0507925,https://www.saimaabrewingco.fi,27.2721,61.6881
+,Salama Brewing Co,micro,Fallåker 1 A,,,Espoo,Uusimaa,02740,Finland,+358 40 5633860,https://www.salamabrewing.com,24.6641,60.2181
+,Stadin Panimo,micro,Kaasutehtaankatu 1,,,Helsinki,Uusimaa,00540,Finland,+358 46 9224996,https://www.stadinpanimo.fi,24.9721,60.1861
+,Stallhagen,micro,Getavägen 196,,,Godby,Åland,AX-22410,Finland,+358 18 48500,https://www.stallhagen.com,19.9821,60.2414
+,Suomenlinnan Panimo,brewpub,Suomenlinna C 1,,,Helsinki,Uusimaa,00190,Finland,+358 9 2285030,https://suomenlinnanpanimo.fi,24.9851,60.1451
+,Takatalo & Tompuri Brewery,micro,Uskintie 23 C,,,Ravijoki,Kymenlaakso,49980,Finland,+358 50 5543216,https://takatalotompuri.com,27.5512,60.5231
+,Teerenpeli Brewery & Distillery,micro,Liimaajankatu 5,,,Lahti,Päijät-Häme,15520,Finland,+358 40 8611081,https://www.teerenpeli.com,25.6881,60.9681
+,Temperance Brewing Co.,micro,Puusepänkatu 5,,,Hämeenlinna,Kanta-Häme,13110,Finland,+358 40 8331131,https://www.temperance.fi,24.4531,60.9941
+,Tired Uncle Brewing Co.,micro,Hämeentie 135,,,Helsinki,Uusimaa,00560,Finland,+358 50 4804855,https://store.tireduncle.beer,24.9751,60.2081
+,Tornion Panimo,micro,Panimonranta 3,,,Tornio,Lapland,95400,Finland,+358 40 0419902,https://www.tornionpanimo.fi,24.1451,65.8481
+,Vakka-Suomen Panimo,micro,Välttitie 2,,,Uusikaupunki,Varsinais-Suomi,23500,Finland,+358 2 8415200,https://www.prykmestar.fi,21.4111,60.8011
+,Vanhan Porvoon Panimo,micro,Rihkamakatu 10,,,Porvoo,Uusimaa,06100,Finland,+358 40 5005822,https://www.vanhanporvoonpanimo.fi,25.6581,60.3951
+,Varikko Panimo,micro,Lipporannantie 2,,,Oulu,Northern Ostrobothnia,90500,Finland,+358 40 5585522,https://varikkopanimo.fi,25.4521,65.0311
