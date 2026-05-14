@@ -1,11 +1,11 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 6c5dabed-6a59-4610-abc9-b1e958393186,30 Mile Brewing Co.,closed,39 Ragged Rock Rd Unit 5,,,Old Saybrook,Connecticut,06475-1518,United States,8603395238,http://www.30milebrewingco.com,,
 fc0ae4ac-07b5-4df2-a1d2-0785af183a35,Almost Famous Brewing Company,micro,17 Kripes Rd,,,East Granby,Connecticut,06026,United States,8604139401,https://www.almostfamousbrewing.com/,-72.4224674,41.9581654
-15ccd19e-e5bc-4216-939f-3d3348fb6d5c,Alvarium Beer Company,micro,365 John Downey Dr Ste B,,,New Britain,Connecticut,06051-2922,United States,8603572039,http://www.alvariumbeer.com,,
-6caf8832-1b1d-468a-a01e-87c9f82dcad7,Armada Brewing,contract,250 Bradley Street,,,East Haven,Connecticut,06512,United States,4754413759,http://www.armadabeer.com,-72.87397563,41.29004301
+15ccd19e-e5bc-4216-939f-3d3348fb6d5c,Alvarium Beer Company,micro,365 John Downey Dr Ste B,,,New Britain,Connecticut,06051-2922,United States,8603572039,http://www.alvariumbeer.com,-72.7575129,41.6642131
+6caf8832-1b1d-468a-a01e-87c9f82dcad7,Armada Brewing,micro,190 River St,,,New Haven,Connecticut,06513,United States,,https://www.armadabrewing.com/,-72.9029373,41.3028906
 60195a53-786c-4540-ae1d-a3bbca7a41fd,Aspetuck Brew Lab,closed,3389 Fairfield Avenue,,,Bridgeport,Connecticut,06605,United States,2032539423,http://www.aspetuckbrewlab.com,-73.2357109,41.1544649
-01dfa6a1-0ad4-4ac5-a184-1d6c69294460,Athletic Brewing Company,planning,,,,Stratford,Connecticut,06615-7167,United States,2032730422,http://www.AthleticBrewing.com,,
-fc54b886-6305-4dc2-8511-a8b9049297e6,Back East Brewing,micro,1296 Blue Hills Ave Ste A,,,Bloomfield,Connecticut,06002-5312,United States,8602421793,https://www.backeastbrewing.com,,
+01dfa6a1-0ad4-4ac5-a184-1d6c69294460,Athletic Brewing Company,large,75 Cascade Blvd,,,Milford,Connecticut,06460,United States,,http://www.AthleticBrewing.com,-73.0044764,41.2457244
+fc54b886-6305-4dc2-8511-a8b9049297e6,Back East Brewery and Kitchen,micro,1296 Blue Hills Ave Ste A,,,Bloomfield,Connecticut,06002-5312,United States,8602421793,https://www.backeastbrewing.com,-72.7073171,41.8550045
 393816b0-7f91-450d-b65a-7f99f5cc8ae7,BADSONS Beer Co,micro,251 Roosevelt Dr,,,Derby,Connecticut,06418-1665,United States,2033082654,http://www.badsoons.com,-73.1322771,41.3513647
 fa5848d1-fd69-401e-b5ec-a59321e631b4,Barley Head Brewery,micro,12 Water St 1A,,,Mystic,Connecticut,06355,United States,,http://www.barleyheadbrewery.com,,
 713bb4bb-a85b-490f-aae2-9d08fcdc094f,Beaver Beer Co,contract,307 Greens Farms Rd,,,Westport,Connecticut,06880-6227,United States,,http://www.beaverbeer.com,-73.311685,41.12587
@@ -21,13 +21,13 @@ f4daf3e7-c246-47ec-9d2b-6fd01519d8ac,Broad Leaf Farm Brewery,planning,,,,South G
 e6c27ded-48b1-4290-b7a2-3deda657a7b8,Broken Symmetry Gastro Brewery,brewpub,5 Depot Pl,,,Bethel,Connecticut,06801-2507,United States,2037311735,,-73.41424776,41.37097334
 131050bc-6ba0-4eab-a7ba-7cb42becdbeb,BruRm At Bar,brewpub,254 Crown St,,,New Haven,Connecticut,06511-6610,United States,2034958924,http://www.barnightclub.com,-72.9302577,41.3061639
 ad254a69-0bd9-491e-be5b-0a35d174fb4e,Cambridge House Brew Pub - Granby,brewpub,357 Salmon Brook St,,,Granby,Connecticut,06035-0438,United States,8606532739,http://www.cbh.beer,-72.79259539,41.96631414
-542588a9-82dd-4f6f-a72c-53363d4ae57d,Center Street Brewing Company,planning,,,,Wallingford,Connecticut,06492,United States,,http://n/a,,
+542588a9-82dd-4f6f-a72c-53363d4ae57d,Center Street Brewing Company,micro,24 Wallace Ave,,,Wallingford,Connecticut,06492,United States,,https://www.centerstreetbrewing.com/,-72.8190049,41.4545195
 e01090fe-7c0c-42b6-ab1a-7f47b734dab9,Charter Oak Brewing Company LLC,contract,39B Shelter Rock Rd,,,Danbury,Connecticut,06810-7043,United States,2036165268,http://www.charteroakbrewing.com,-73.40421711,41.3961903
 3c601a1e-82a4-4cc3-a407-3a5e6306438a,Church Owl Beer,closed,,,,Stratford,Connecticut,06615-7320,United States,,http://www.churchowlbeer.com,,
 b352a68f-2c4f-476c-a552-7a4fa911d64e,City Steam Brewery,closed,942 Main St Lbby 3,,,Hartford,Connecticut,06103-1215,United States,8605251600,,,
 9aab61ae-eeb8-493e-8c80-92e79bd86a2c,Cliffside Brewing,closed,16B Center St,,,Wallingford,Connecticut,06492-4110,United States,,http://www.cliffsidebrewing.com,-72.8236736,41.45664583
-350327f4-3d45-4c30-9651-349f7d8615ac,Cold Creek Brewery,micro,6 Industrial Dr,,,Ellington,Connecticut,06029-2632,United States,8608581900,http://coldcreekbrewery.com,-72.456028,41.9209531
-cd33914f-7327-49ec-b05e-9ca93e0d709b,Coles Road Brewing,planning,,,,Cromwell,Connecticut,06416-1113,United States,,http://ColesRoadBrewing.com,,
+350327f4-3d45-4c30-9651-349f7d8615ac,Cold Creek Brewery,closed,6 Industrial Dr,,,Ellington,Connecticut,06029-2632,United States,8608581900,http://coldcreekbrewery.com,-72.456028,41.9209531
+cd33914f-7327-49ec-b05e-9ca93e0d709b,Coles Road Brewing,micro,817 Farmington Ave,,,Berlin,Connecticut,06037,United States,,http://ColesRoadBrewing.com,-72.7691409,41.6347972
 34f16f3a-223b-4c32-9729-634f90e7275f,Connecticut Valley Brewing Company,micro,765 Sullivan Ave,,,South Windsor,Connecticut,06074-1945,United States,8606442707,http://www.ctvalleybrewing.com,-72.57147904,41.84872829
 760afc6b-a382-428e-b9d4-074e683f7abc,Cottrell Brewing Co,closed,100 Mechanic St,,,Pawcatuck,Connecticut,06379-2163,United States,8605998213,http://www.cottrellbrewing.com,-71.834289,41.370676
 4c0b81d7-1000-4ca1-b3cf-b6ccbd609113,Counterweight Brewing Company,micro,23 Raccio Park Rd,,,Hamden,Connecticut,06514-1331,United States,2038217333,http://www.Counterweightbrewing.com,-72.91955341,41.39321167
@@ -54,10 +54,10 @@ fa970827-906e-4ebd-b68c-19c192778661,Iron Brewing Company,brewpub,136 Washington
 1b96abd4-d03f-4727-bc2b-686272e2b3ec,"Jovial Foods, Inc.",planning,,,,North Stonington,Connecticut,06359-1713,United States,8605350494,http://www.jovialfoods.com,,
 1440dc29-7dcd-446d-a9ac-c53f32b1baeb,Kent Falls Brewing Company,micro,,,,Kent,Connecticut,06757,United States,8603989645,,,
 41905729-681e-4b57-b0cc-13d053e296c6,Kinsmen Brewing,micro,409 Canal Street,,,Milldale,Connecticut,06467,United States,8605784778,http://www.kinsmenbrewing.com,-72.9027141,41.56679473
-1eb023fa-2183-4dbb-84a8-bfbc70a8abf2,Labyrinth Brewing Company,closed,,,,Manchester,Connecticut,06040-5906,United States,,http://www.LBC.Beer,,
+1eb023fa-2183-4dbb-84a8-bfbc70a8abf2,Labyrinth Brewing Company,contract,,,,Manchester,Connecticut,06040,United States,,http://www.lbc.beer,41.7771052,-72.5648933
 0e175a90-d11f-4089-8170-0218afe784d8,Lasting Brass Craft Brewing,micro,1864 Watertown Ave,,,Oakville,Connecticut,06779-1754,United States,8604172581,http://www.lastingbrass.com,-73.0716733,41.5801589
-249d0a17-9cc1-4d49-be20-89d4e33763da,Little House Brewing Company,planning,,,,Chester,Connecticut,06412-1342,United States,6128105315,http://www.littlehousebrewing.com,,
-53178b0b-00c3-463b-9423-25fe3cb223b1,Little Red Barn Brewing,planning,,,,Winsted,Connecticut,06098-1410,United States,8603873536,http://LRBbrewers.com,,
+249d0a17-9cc1-4d49-be20-89d4e33763da,Little House Brewing Company,micro,16 Main St,,,Chester,Connecticut,06412,United States,6128105315,http://www.littlehousebrewing.com,-72.4534804,41.4025457
+53178b0b-00c3-463b-9423-25fe3cb223b1,Little Red Barn Brewing,micro,32 Lake St,,,Winsted,Connecticut,06098-1410,United States,8603873536,http://LRBbrewers.com,-73.0798314,41.9245851
 21d30e6a-77bb-4d03-b13a-8a01323c2e26,Lock City Brewing,micro,54 Research Dr,,,Stamford,Connecticut,06906-1428,United States,2033136454,http://www.lockcitybrewing.com,-73.51955794,41.07705652
 a901b6b3-3648-4c04-b727-1c6c7f08dd0b,Lost Elm Artisanal Ales,closed,25 West St Unit 4,,,Stafford Springs,Connecticut,06076-1325,United States,,http://www.lostelmbeer.com,,
 1d44b1c0-1095-4636-bcd2-447a57ee658d,Lost Viking Brewing Company,planning,,,,Harwinton,Connecticut,06013,United States,2035256196,http://www.lostvikingbrew.com,,
