@@ -44,7 +44,7 @@
     "papaparse": "^5.5.3",
     "pg-promise": "^12.6.1",
     "slugify": "^1.6.6",
-    "tmp": "^0.2.5",
+    "tmp": "^0.2.6",
     "ts-eager": "^2.0.2",
     "typescript": "^5.9.3",
     "uuid": "^14.0.0",
