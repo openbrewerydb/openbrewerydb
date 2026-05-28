@@ -331,17 +331,17 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2026-05-26
+> Last updated: 2026-05-28
 
 ### Overview
-- Total Breweries: 9,560
+- Total Breweries: 9,591
 - Data Completeness: 79.0%
 
 ### 🏛 Top 10 States by Brewery Count
 | State | Count |
 |-------|-------|
 | California | 919 |
-| Washington | 498 |
+| Washington | 529 |
 | Colorado | 449 |
 | New York | 419 |
 | Michigan | 375 |
@@ -354,17 +354,17 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 5,155 | 53.9% |
-| brewpub | 2,664 | 27.9% |
-| planning | 643 | 6.7% |
-| closed | 372 | 3.9% |
-| regional | 240 | 2.5% |
-| contract | 184 | 1.9% |
-| large | 119 | 1.2% |
-| proprietor | 68 | 0.7% |
-| taproom | 45 | 0.5% |
+| micro | 5,151 | 53.7% |
+| brewpub | 2,650 | 27.6% |
+| planning | 641 | 6.7% |
+| closed | 429 | 4.5% |
+| regional | 239 | 2.5% |
+| contract | 180 | 1.9% |
+| large | 118 | 1.2% |
+| proprietor | 67 | 0.7% |
+| taproom | 47 | 0.5% |
 | bar | 37 | 0.4% |
-| nano | 22 | 0.2% |
+| nano | 21 | 0.2% |
 | cidery | 7 | 0.1% |
 | beergarden | 3 | 0.0% |
 | location | 1 | 0.0% |
@@ -372,10 +372,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🌆 Top 10 Cities by Brewery Count
 | City | Count |
 |------|--------|
+| Seattle, Washington | 94 |
 | Denver, Colorado | 92 |
 | San Diego, California | 91 |
 | Portland, Oregon | 85 |
-| Seattle, Washington | 85 |
 | Chicago, Illinois | 64 |
 | Toronto, Ontario | 53 |
 | Austin, Texas | 49 |
@@ -386,7 +386,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🌍 By Country
 | Country | Count | Percentage |
 |---------|------------|------------|
-| United States | 8,176 | 85.5% |
+| United States | 8,207 | 85.6% |
 | Australia | 514 | 5.4% |
 | Canada | 283 | 3.0% |
 | South Africa | 104 | 1.1% |
