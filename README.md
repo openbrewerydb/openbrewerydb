@@ -331,16 +331,17 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2026-05-28
+> Last updated: 2026-05-29
 
 ### Overview
-- Total Breweries: 9,591
+- Total Breweries: 11,030
 - Data Completeness: 79.0%
 
 ### 🏛 Top 10 States by Brewery Count
 | State | Count |
 |-------|-------|
 | California | 919 |
+| Bayern | 594 |
 | Washington | 529 |
 | Colorado | 449 |
 | New York | 419 |
@@ -349,21 +350,20 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Pennsylvania | 345 |
 | Florida | 312 |
 | North Carolina | 311 |
-| Ohio | 303 |
 
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 5,151 | 53.7% |
-| brewpub | 2,650 | 27.6% |
-| planning | 641 | 6.7% |
-| closed | 429 | 4.5% |
-| regional | 239 | 2.5% |
-| contract | 180 | 1.9% |
-| large | 118 | 1.2% |
-| proprietor | 67 | 0.7% |
-| taproom | 47 | 0.5% |
-| bar | 37 | 0.4% |
+| micro | 5,206 | 47.2% |
+| brewpub | 3,904 | 35.4% |
+| planning | 641 | 5.8% |
+| closed | 553 | 5.0% |
+| regional | 239 | 2.2% |
+| contract | 180 | 1.6% |
+| large | 118 | 1.1% |
+| proprietor | 67 | 0.6% |
+| taproom | 47 | 0.4% |
+| bar | 43 | 0.4% |
 | nano | 21 | 0.2% |
 | cidery | 7 | 0.1% |
 | beergarden | 3 | 0.0% |
@@ -379,28 +379,28 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Chicago, Illinois | 64 |
 | Toronto, Ontario | 53 |
 | Austin, Texas | 49 |
+| Berlin, Berlin | 44 |
 | Houston, Texas | 40 |
 | San Francisco, California | 39 |
-| Minneapolis, Minnesota | 39 |
 
 ### 🌍 By Country
 | Country | Count | Percentage |
 |---------|------------|------------|
-| United States | 8,207 | 85.6% |
-| Australia | 514 | 5.4% |
-| Canada | 283 | 3.0% |
-| South Africa | 104 | 1.1% |
-| Netherlands | 76 | 0.8% |
-| Ireland | 70 | 0.7% |
-| Finland | 68 | 0.7% |
+| United States | 8,207 | 74.4% |
+| Germany | 1,449 | 13.1% |
+| Australia | 514 | 4.7% |
+| Canada | 283 | 2.6% |
+| South Africa | 104 | 0.9% |
+| Netherlands | 76 | 0.7% |
+| Ireland | 70 | 0.6% |
+| Finland | 68 | 0.6% |
 | England | 62 | 0.6% |
 | South Korea | 61 | 0.6% |
-| Poland | 34 | 0.4% |
+| Poland | 34 | 0.3% |
 | Singapore | 33 | 0.3% |
-| Austria | 15 | 0.2% |
+| Austria | 15 | 0.1% |
 | Portugal | 14 | 0.1% |
 | Japan | 10 | 0.1% |
-| Germany | 10 | 0.1% |
 | Sweden | 10 | 0.1% |
 | Scotland | 10 | 0.1% |
 | Italy | 4 | 0.0% |
@@ -417,10 +417,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | state_province | 100.0% |
 | postal_code | 100.0% |
 | country | 100.0% |
-| address_1 | 92.0% |
-| phone | 89.0% |
-| website_url | 87.0% |
-| longitude | 75.0% |
-| latitude | 75.0% |
+| address_1 | 93.0% |
+| phone | 90.0% |
+| website_url | 89.0% |
+| longitude | 78.0% |
+| latitude | 78.0% |
 | address_2 | 3.0% |
 | address_3 | 0.0% |

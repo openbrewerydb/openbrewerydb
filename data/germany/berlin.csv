@@ -1,11 +1,45 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 5e69d342-1efc-469e-bf8b-22d276c6d863,Berlin Craft Beer Experience,bar,Reichenberger Str. 176,,,Berlin,Berlin,10999,Germany,4915779216971,http://www.berlincraftbeerexperience.com/,52.4995161,13.4168836
 c75eb363-ba15-4f96-a3cf-d6462867a4e3,Berlin Craft Beer Experience,bar,Reichenberger Str. 176,,,Berlin,Berlin,10999,Germany,4915779216971,http://www.berlincraftbeerexperience.com/,52.4995161,13.4168836
+75a67b02-da04-4f9e-8cee-9381d152d17a,Berliner Berg Brauerei,brewpub,39 Treptower Straße,,,Berlin,Berlin,12059,Germany,+49 30 64435906,http://www.berlinerberg.com,13.4580395,52.4847416
+3b109373-3e38-4737-82d9-9ae954127df4,Berliner-Kindl-Schultheiss,brewpub,66-69 Indira-Gandhi-Straße,,,Berlin,Berlin,13053,Germany,+49 30 96090,http://www.schultheiss.de,13.469868,52.5425763
+74390e45-23b3-4989-baa9-21de59ebeeb8,Bierfabrik,brewpub,13 Karl-Liebknecht-Straße,,,Berlin,Berlin,10178,Germany,+49 30 30878989,http://www.berlinerbierfabrik.com,13.4079375,52.5225596
 69bdb3dd-708a-430b-ac8c-5346f382f0d3,Birgit,beergarden,Schleusenufer 3,,,Berlin,Berlin,10997,Germany,491725746904,https://www.birgit.club/,52.5093176,13.4123414
+bc75414d-6c99-46a3-a41f-9ec0fcf5672d,Brauerei Heldenblut,brewpub,22/23 Wühlischstraße,,,Berlin,Berlin,10245,Germany,+49 30 29367534,http://www.brauerei-heldenblut.de,13.4606998,52.5089972
+37f2882b-7fe8-4589-9455-d8888faef9c9,Brauhaus in Spandau,brewpub,1 Neuendorfer Straße,,,Berlin,Berlin,13585,Germany,+49 30 3539070,http://www.brauhaus-spandau.de,13.2066083,52.54071829999999
+d505fb49-e3ea-4368-8aa9-82a616140550,Brauhaus Neulich,bar,20 Selchower Straße,,,Berlin,Berlin,12049,Germany,+49 30 60945646,http://www.brauhaus-neulich.de,13.4199255,52.4784257
+342d3dbb-40c9-41f1-b841-2e965065b009,Brewbaker,brewpub,29 Ackerstraße,,,Berlin,Berlin,10115,Germany,+49 30 48477770,http://www.brewbaker.de,13.395794,52.5328642
 7db0fe62-fb6c-4949-9a25-d0f318959a1b,BrewDog Berlin Mitte,bar,Ackerstraße 29,,,Berlin,Berlin,10115,Germany,493048477770,https://www.brewdog.com/eu_de/brewdog-berlin-mitte,52.5170043,13.4132225
 e58d60d7-92f7-4f8d-8a1a-6d02c25a32ee,BrewDog Berlin Mitte,bar,Ackerstraße 29,,,Berlin,Berlin,10115,Germany,493048477770,https://www.brewdog.com/eu_de/brewdog-berlin-mitte,52.5170043,13.4132225
+8cb10ea6-68dd-4e09-8c1f-c8eb8293975c,Brewer's Tribute,brewpub,41 Zur Alten Börse,,,Berlin,Berlin,12681,Germany,+49 30 55571267,http://www.brewerstribute.de,13.5249891,52.5159568
+6bc5487a-9d12-402d-a7d1-cccb156d38ce,BRLO,brewpub,16 Schöneberger Straße,,,Berlin,Berlin,10963,Germany,+49 30 55577606,http://www.brlo.de,13.3737,52.5001966
 1fe01316-a2ee-428b-8200-ba3f054eda6d,BRLO Brwhouse,large,Schöneberger Str. 16,,,Berlin,Berlin,10963,Germany,493055577606,https://www.brlo.de/gastronomien/brlo-brwhouse,52.4995161,13.4168836
 307847a0-c60b-43e8-a42d-b8f6b5fb3092,BRLO Brwhouse,large,Schöneberger Str. 16,,,Berlin,Berlin,10963,Germany,493055577606,https://www.brlo.de/gastronomien/brlo-brwhouse,52.4995161,13.4168836
+a2041112-721f-47b1-8460-6a7d0c05c8b4,Circus Hostel Brewing,micro,1a Weinbergsweg,,,Berlin,Berlin,10119,Germany,+49 30 20003939,http://www.circus-berlin.de,13.4019406,52.5301079
+563eb674-ab1b-419b-8bd0-6f5446c12837,CraftZentrum,brewpub,21 Telegrafenweg,,,Berlin,Berlin,13599,Germany,+49 171 5611352,http://www.craftzentrum.berlin,13.2230956,52.5421731
+185bd0e2-2db0-4fe1-beb3-4166261a0787,Einbar,bar,185 Oranienstraße,,,Berlin,Berlin,10999,Germany,,http://www.einbarbrauerei.com,13.421101,52.500657
+47309c4b-e319-41d2-9935-a5e495fac093,Eschenbräu,brewpub,67 Triftstraße,,,Berlin,Berlin,13353,Germany,+49 162 4931915,http://www.eschenbraeu.de,13.3594853,52.5434732
+e4578ec9-9023-4527-bec0-c05252f4c5bb,Flessa Br,brewpub,39 Petersburger Straße,,,Berlin,Berlin,10249,Germany,+49 30 23409269,http://www.brauerei-flessa.de,13.4505708,52.52288129999999
+99f3cd80-7132-465c-905e-d5c8a6763f6d,Georgbræu,brewpub,4 Spreeufer,,,Berlin,Berlin,10178,Germany,+49 30 2424244,http://www.georgbraeu.de,13.4055038,52.5165548
 b3128b43-31c0-420c-b2c0-5638c97aea95,Golgatha Biergarten,beergarden,Katzbachstraße &  Monumentenstraße,,,Berlin,Berlin,10965,Germany,,http://www.golgatha-berlin.de/,52.4868139,13.3791632
+bc46d506-5022-4d24-9b97-22749987ac7d,Heidenpeters,brewpub,42-43 Eisenbahnstraße,,,Berlin,Berlin,10997,Germany,+49 176 22291688,http://www.heidenpeters.de,13.4317195,52.5019629
+d4d1aa26-1bf6-43d9-b380-cbd47109d225,Holzmarkt Brauerei,brewpub,25 Holzmarktstraße,,,Berlin,Berlin,10243,Germany,+49 30 47361686,http://www.holzmarkt-brauerei.de,13.4268548,52.51154349999999
+0e006c1d-2c67-4a9a-92c5-2777ca2cfed1,Hops & Barley,brewpub,22/23 Wühlischstraße,,,Berlin,Berlin,10245,Germany,+49 30 29367534,http://www.hopsandbarley-berlin.de,13.4606998,52.5089972
+3798245b-7f5e-4c83-b59e-888e080a8c23,Lemke am Alex,brewpub,Dircksenstraße,,,Berlin,Berlin,10178,Germany,+49 30 24728727,http://www.lemke.berlin,13.404724,52.5232756
+221d8550-3574-4a08-810b-a5552ef4e3da,Lemke am Hackeschen Markt,brewpub,Dircksenstraße,,,Berlin,Berlin,10178,Germany,+49 30 24728727,http://www.brauhaus-lemke.com/index.php?area=1,13.404724,52.5232756
+f348510f-bc17-4e80-afe0-46a7bed357f8,Lemke am Schloß Charlottenburg,brewpub,1 Luisenplatz,,,Berlin,Berlin,10585,Germany,+49 30 30878979,http://www.brauhaus-lemke.com/index.php?area=2,13.2998062,52.5199784
+23701817-d820-414c-8bf1-3f85ea3618f8,Malz & Moritz,brewpub,162 Oranienstraße,,,Berlin,Berlin,10969,Germany,+49 30 69515911,http://www.malzundmoritz.de,13.4139938,52.5025993
+90c7f42e-76a1-4652-86e9-2f8ec0bbd063,Marcus-Bräu,brewpub,1-3 Münzstraße,,,Berlin,Berlin,10178,Germany,+49 30 2476985,http://www.brau-dein-bier.de,13.409178,52.523963
 e5d8969a-c6b8-4931-901b-0ba2222bcd63,Mikkeller Berlin,bar,Torstraße 102,,,Berlin,Berlin,10119,Germany,,https://mikkeller.com/locations/mikkeller-berlin,52.5285769,13.3942421
+53abde46-31bf-49fe-a584-d084359fcc76,Pfefferbräu,brewpub,176 Schönhauser Allee,,,Berlin,Berlin,10119,Germany,+49 30 233289800,http://www.pfefferbraeu.de,13.4118118,52.5314979
 53c24b39-49a6-495d-8048-4412389cb450,Prater Beer Garden,beergarden,Kastanienallee 7-9,,,Berlin,Berlin,10435,Germany,,https://www.prater-biergarten.de/,52.5285752,13.3942421
+3e86ce79-7c30-42f1-864b-630b7273943f,Privatbrauerei am Rollberg,brewpub,3 Am Sudhaus,,,Berlin,Berlin,12053,Germany,+49 30 68084577,http://rollberger.de,13.4306631,52.4794237
+fb68efad-7775-4255-8d24-efb0282ce30f,Quartier-Bier,brewpub,29 Ackerstraße,,,Berlin,Berlin,10115,Germany,+49 30 48477770,http://www.quartier-bier.com,13.395794,52.5328642
+17b44828-848a-4ec4-9815-4e0ab1e1339c,Schalander,brewpub,99 Revaler Straße,haus 9,,Berlin,Berlin,10245,Germany,,http://hausbrauerei-berlin.de/,13.456801,52.507079
+cc5b9820-d251-4c1b-a3c9-451985c08157,Schloßplatzbrauerei,brewpub,24 Grünstraße,,,Berlin,Berlin,12555,Germany,+49 176 63226876,http://www.schlossplatzbrauerei.de,13.5744228,52.44462
+d0a0ab97-6b28-4400-a02e-9681ae4dbe06,Stone,brewpub,29 Ackerstraße,,,Berlin,Berlin,10115,Germany,+49 30 48477770,http://www.berlin.stonebrewing.com,13.395794,52.5328642
+fdc00ab8-3274-4414-ac3d-f92a617a14e8,Straßenbräu,brewpub,30 Neue Bahnhofstraße,,,Berlin,Berlin,10245,Germany,+49 30 55527550,http://www.strassenbraeu.de,13.4693127,52.5055415
+17fd5d83-ff81-46ef-86b2-1282e3188c6b,Südstern,brewpub,69 Hasenheide,,,Berlin,Berlin,10967,Germany,+49 30 50945420,http://www.brauhaus-suedstern.de,13.4104848,52.4883456
+9aa71fe9-ee16-4cf0-91dd-ac6ad13d9efa,Two Fellas,brewpub,30 Mühlenstraße,,,Berlin,Berlin,13187,Germany,+49 1573 7293523,http://www.twofellas.beer,13.4091429,52.5630081
+b9ea7611-806b-46ee-a5f1-279f86bf025e,Vagabund,brewpub,16-20 Oudenarder Straße,,,Berlin,Berlin,13347,Germany,+49 30 45977635,http://www.vagabundbrauerei.de,13.359492,52.5530096
+227e68dc-0663-4943-9eed-deae60de6183,Zukunft Ostkreuz,brewpub,68 Alt-Stralau,,,Berlin,Berlin,10245,Germany,+49 176 57861079,http://www.zukunft-ostkreuz.de,13.4659139,52.4975412

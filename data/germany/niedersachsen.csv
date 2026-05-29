@@ -1,0 +1,79 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+cfa61f1d-4b3b-4fb1-a35a-f1fe25411e7c,Allersheim,closed,6 Allersheim,,,Holzminden,Niedersachsen,37603,Germany,+49 5531 1250,http://www.brauerei-allersheim.de,9.4794014,51.8424352
+df78986a-9a20-4a4b-a718-26698af122d6,Alt Neuhaus,brewpub,1 Bei der Kirche,,,Neuhaus (Oste),Niedersachsen,21785,Germany,+49 4752 841033,http://www.ulex.de,9.0347318,53.8014793
+1c5e34bb-a0bb-4342-a964-a65f7b19ccca,Altenauer Brauerei,brewpub,29 Breite Straße,,,Altenau im Harz,Niedersachsen,38707,Germany,+49 5328 217,http://www.altenauer-brauerei.de,10.4481894,51.80087839999999
+e25f3ee3-987d-4305-a595-56a957116658,Altes Brauhaus,brewpub,9 Am Alten Brauhaus,,,Wolfsburg,Niedersachsen,38442,Germany,+49 5362 3140,http://www.brauhaus-fallersleben.de,10.7172676,52.4166626
+1dbe2c5d-41f9-4859-9f94-79fc24e9fa51,Artland Bräu,closed,4 Haller Straße,,,Nortrup,Niedersachsen,49638,Germany,+49 5436 969617,http://www.artland-brauerei.de,7.88856,52.60442
+3160f48a-19ee-4517-b3e5-0829c6e6b48c,Auricher Probier,micro,11 Kreihüttenmoorweg,,,Aurich,Niedersachsen,26607,Germany,+49 4941 97040,http://www.auricher-probier.de,7.4895666,53.5035889
+ab5da324-e305-4b72-a672-b43f2563e3f7,Back- und Brauhaus Brinker,closed,3 Breiter Weg,,,Georgsmarienhütte,Niedersachsen,49124,Germany,+49 5401 2289,http://www.back-brauhaus.de,8.04412,52.20282
+7f6df298-f7c9-464b-b02d-aa3a121438c7,Bad Pyrmonter Hofbrauerei,closed,44 Hauptstraße,,,Bad Pyrmont,Niedersachsen,31812,Germany,+49 171 5810658,http://www.badpyrmonterhofbrauerei.de,9.3163424,51.9890526
+84f05688-b04a-41f4-b954-fa7498f7c9ff,Bannas Bier,micro,61A Bargloyer Straße,,,Wildeshausen,Niedersachsen,27793,Germany,+49 4431 72408,http://www.bannas-bier.de,8.4173862,52.8908857
+a6c0ec91-a2a9-4485-92a5-7cd09f3bb92b,Bergbräu,brewpub,10 Rosenstraße,,,Uslar,Niedersachsen,37170,Germany,+49 5571 92220,http://www.bergbraeu.de,9.6421466,51.65913219999999
+2b0480fd-b00c-4c17-8e45-72335027966e,Bleckeder Brauhaus,brewpub,20 Breite Straße,,,Bleckede,Niedersachsen,21354,Germany,+49 5852 500,http://www.bleckeder-brauhaus.de,10.7311599,53.2924935
+20d1adab-670d-4b5d-9a61-24065c88c819,boGler's,brewpub,4 Am Tiefen Moor,,,Uetze,Niedersachsen,31311,Germany,+49 1516 4695659,http://boglers.jimdo.com,10.142892,52.44978700000001
+3f551dd3-080d-49c8-b00a-4ceb58fd2211,Brauakademie Zellerfeld,brewpub,11 Bornhardtstraße,,,Clausthal-Zellerfeld,Niedersachsen,38678,Germany,+49 5328 80221,http://www.brauakademie-zellerfeld.com,10.3327056,51.8179671
+30ef4016-f88f-48d6-83ea-f49aa6eb7f12,Brauerei Beura,brewpub,35 Hasestraße,,,Osnabrück,Niedersachsen,49074,Germany,+49 541 24535,http://www.beura.de,8.0433629,52.2784618
+1c6a953b-ecd8-4e04-b8ab-00392fd91886,Brauerei Braunschweig,brewpub,31 Rebenring,,,Braunschweig,Niedersachsen,38106,Germany,+49 531 28856907,http://www.oettinger-bier.de,10.5302439,52.276725
+9d3bb386-5264-4c58-b932-983733c17b5e,Brauhaus Goslar,brewpub,2 Marktkirchhof,,,Goslar,Niedersachsen,38640,Germany,+49 5321 685804,http://www.brauhaus-goslar.de,10.4280556,51.9052778
+3c94db44-d746-48a7-b628-46cefc72df42,BrauManufaktur Baltrum,closed,53 Westdorf,,,Baltrum,Niedersachsen,26579,Germany,+49 1525 3776437,http://www.bmb-baltrum.de,7.3711121,53.7267755
+ff11f642-8305-4fce-8150-b396510d8233,Burgwedeler Brauhaus,brewpub,5 Am Markt,,,Burgwedel,Niedersachsen,30938,Germany,+49 160 2502499,http://www.burgwedeler-brauerei.de/,9.8542999,52.49214
+e727713f-2a19-4113-bdb4-3381eb693317,Butjenter Brauhaus,brewpub,65 Butjadinger Straße,,,Nordenham,Niedersachsen,26954,Germany,+49 4731 93880,http://www.butjadinger-tor.de,8.441583699999999,53.48265929999999
+b8c294b5-a0d5-47c2-8656-7ee175fc97e6,CM Keller Bräu,closed,18 Lange Straße,,,Nordstemmen,Niedersachsen,31171,Germany,+49 1512 0132999,http://www.cm-keller-braeu.de,9.81552,52.18472999999999
+dfa7f4db-d811-48aa-a32f-c7a8553b66b9,Denner Bier,micro,7 Lange Reihe,,,Bad Münder am Deister,Niedersachsen,31848,Germany,+49 5151 100825,http://www.denner-bier.de,9.454983,52.142003
+772f5c4c-a853-4265-97b7-bb475458173a,Denver's,brewpub,56A Ringstraße,,,Wolfenbüttel,Niedersachsen,38304,Germany,+49 5331 887145,http://www.denvers.de,10.5124986,52.1644651
+babb10b1-14fc-47d8-92f9-79022707701a,Dorster Kesselbräu,brewpub,1 In den Angerhöfen,,,Osterode am Harz,Niedersachsen,37520,Germany,+49 5552 708604,http://www.dorster-kesselbraeu.de,10.1583552,51.6995976
+d30f73fc-dc08-418b-b0e0-a31253e65c54,Duderstädter Braumanufaktur,micro,13 Kardinal-Kopp-Straße,,,Duderstadt,Niedersachsen,37115,Germany,+49 1512 6598343,http://www.heimatliebe-bier.de,10.2632033,51.5151378
+80e98a1e-b097-471e-bb11-c4e3becedc17,Einbecker,brewpub,4-7 Papenstraße,,,Einbeck,Niedersachsen,37574,Germany,+49 5561 7970,http://www.einbecker.com,9.864616,51.8162371
+8e18c1f1-93b5-4d39-922d-f41f4fa73aaf,Ernst August,brewpub,13 Schmiedestraße,,,Hannover,Niedersachsen,30159,Germany,+49 511 365950,http://www.brauhaus.net,9.7346457,52.3730499
+ce128f72-6bd6-4224-bd21-c8635b3443fc,Gilde,brewpub,132 Hildesheimer Straße,,,Hannover,Niedersachsen,30173,Germany,+49 511 98080,http://www.gildebrau.de,9.753367299999999,52.3540077
+696fb1aa-6c91-4b7e-9dea-276490e9f17b,Grafschafter Brauhaus,brewpub,2 Vechteaue,,,Nordhorn,Niedersachsen,48529,Germany,+49 5921 723988,http://www.alteweberei.de,7.0747705,52.4320879
+3420d18c-f318-4fb4-a492-020b6a007b40,Gutshof Rethmar,brewpub,16 Gutsstraße,,,Sehnde,Niedersachsen,31319,Germany,+49 5138 4813330,http://www.gutshof-rethmar.de,10.0028824,52.3123302
+bfb96bdd-2462-4175-999c-a5a044aaa0eb,Härke,brewpub,5 Am Werderpark,,,Peine,Niedersachsen,31224,Germany,+49 5171 4050,http://www.braumanufaktur-haerke.de,10.2311566,52.3209846
+446a682e-ad4f-440b-9219-0bb172e499a2,Hartinger,brewpub,27 Waldkaterallee,,,Rinteln,Niedersachsen,31737,Germany,+49 5751 17980,http://www.waldkater.com,9.0823,52.20934
+bfb76922-6b7e-49c7-9a76-f6386467cca2,Häsefelder Brauerei,brewpub,4 Häsefeld,,,Langwedel,Niedersachsen,27299,Germany,+49 4232 267216,http://www.haesefelder-brauerei.de,9.166790599999999,52.983233
+1240cb01-94fd-47c2-bba8-ad4c5680442e,Herrenhäuser,brewpub,83-99 Herrenhäuser Straße,,,Hannover,Niedersachsen,30419,Germany,+49 511 79070,http://www.herrenhaeuser.de,9.6813253,52.3941539
+a0b9ab3d-2ffb-45fc-aecc-213a3f412a7f,Hildesheimer Braumanufaktur,brewpub,15 Goslarsche Landstraße,,,Hildesheim,Niedersachsen,31135,Germany,+49 163 9633516,http://www.hildesheimer-braumanufaktur.de,9.970095299999999,52.1509504
+84bd6712-07df-4268-969a-b8d97064907d,Hillthaler,brewpub,47 Wiefelsteder Straße,,,Bad Zwischenahn,Niedersachsen,26160,Germany,+49 4403 9390930,http://www.hillthaler.jimdo.com,8.043346699999999,53.1936291
+fdba5e04-3c3f-4ade-96d0-a1c54527ecd1,Hofschänke / Braumanufaktur Christof Töbelmann,brewpub,41 Hauptstraße,,,Wagenfeld,Niedersachsen,49419,Germany,+49 5444 398,http://www.steakhaus-wagenfeld.de,8.588771300000001,52.5488753
+71c5636d-ffeb-48d0-8797-94838c7bf87e,Hotel Frommann,brewpub,8 Harburger Straße,,,Buchholz in der Nordheide,Niedersachsen,21244,Germany,+49 4181 2870,http://www.hotelfrommann.de,9.8744205,53.3662212
+e54974fc-c342-420b-9233-2351a7b73855,Hüpscher Werkstatt,brewpub,24 An der Halbe,,,Pattensen,Niedersachsen,30982,Germany,+49 5045 4580831,http://www.hüpscher.de,9.7312944,52.2402943
+9577951f-f652-42c0-b79f-d07f9d1b8fbf,Inselbrauerei,closed,21 Hauptstraße,,,Langeoog,Niedersachsen,26465,Germany,+49 173 6253000,http://www.langeooger.com,7.4807009,53.7466853
+93b780d1-a28a-4706-b080-9f8d9f410f91,Jever,brewpub,18 Elisabethufer,,,Jever,Niedersachsen,26441,Germany,+49 4461 130,http://www.jever.de,7.9018218,53.5754685
+eeb3df2a-786f-4615-a184-5ae27847b980,Klindworths,brewpub,1 Hauptstraße,,,Sauensiek,Niedersachsen,21644,Germany,+49 4169 91100,http://www.klindworths.de,9.595877699999999,53.3796015
+feec2fa6-b7c6-4023-ad6a-4db3a6866aec,Küsten-Brauerei,brewpub,1 Buttforder Straße,,,Werdum,Niedersachsen,26427,Germany,+49 4974 546,http://www.watt-n-bier.de,7.715992999999998,53.66013659999999
+ba57d2d7-3e50-4316-8b3f-cb41370f5d15,Landhaus,brewpub,2 Heinrich-Schulte-Straße,,,Lünne,Niedersachsen,48480,Germany,+49 5906 933490,http://www.landhaus-brauerei.de,7.4270722,52.42866950000001
+792fb587-0f0e-4869-a913-06ffc34272d2,Mad Dukes Brewery,brewpub,13 Fliederkehre,,,Kissenbrück,Niedersachsen,38324,Germany,+49 5331 9944776,http://www.maddukes.de,10.5846584,52.112607
+acab4733-3cfa-4920-b6b1-ce06bd7d89a0,Mälzer,brewpub,43 Heiligengeiststraße,,,Lüneburg,Niedersachsen,21335,Germany,+49 4131 47777,http://www.maelzer-brauhaus.de,10.4081269,53.2469535
+5fb731a8-a01a-4095-a13b-2f12a05953bf,Marienbräu,brewpub,1 Apothekerstraße,,,Jever,Niedersachsen,26441,Germany,+49 4461 744990,http://www.marienbraeu.com,7.901264400000001,53.5744936
+38b64d27-25c0-4ea6-99c2-8068b27286cf,Martfelder Hausbrauerei,brewpub,3A Elbinger Straße,,,Martfeld,Niedersachsen,27327,Germany,+49 163 4313717,http://www.mhb-bier.de,9.0652493,52.8856439
+03063929-3d60-4760-be99-a0b1b0dc53a4,Mashsee Brauerei,brewpub,17 Am Eisenwerk,,,Hannover,Niedersachsen,30519,Germany,+49 511 37022974,http://www.mashsee.de,9.7848756,52.3280245
+b78af64b-a803-4f5b-a147-ba3466855b98,Meierhöfer,brewpub,1 Ahnser Straße,,,Obernkirchen,Niedersachsen,31683,Germany,+49 5724 7409,http://www.obernkirchen-info.de/hausbrauerei-meierhoefer/,9.0964835,52.27216989999999
+027443c9-ea8f-42d0-a960-07ca8c7e41b4,Meiers Lebenslust,brewpub,64 Osterstraße,,,Hannover,Niedersachsen,30159,Germany,+49 511 8982250,http://www.meiers-lebenslust.de,9.7404573,52.3684838
+53dce0e4-5f96-4a65-9da8-31a1c1433a62,Mikrobrauerei Ralf Hellmer,closed,9 Königsberger Straße,,,Rastede,Niedersachsen,26180,Germany,+49 1522 2442039,http://www.mikrobrauerei-hellmer.business.site,8.18848,53.2426719
+b4ce04a0-7086-4abc-a6d4-f556aed60a4c,Mühlengrund,brewpub,1 Mühlenstraße,,,Wienhausen,Niedersachsen,29342,Germany,+49 5149 331,http://www.braugasthaus-muehlengrund.de,10.1874149,52.5800645
+119863eb-141e-4d47-b754-f6af2815440e,My Bier,brewpub,34 Oldenburger Straße,,,Wardenburg,Niedersachsen,26203,Germany,+49 1525 2843718,http://www.my-bier.de,8.1919271,53.0914396
+7b1e7ab0-4c2f-4236-aeeb-c18f312fbed8,National Jürgen Brauerei,brewpub,31 Rebenring,,,Braunschweig,Niedersachsen,38106,Germany,+49 531 28856907,http://www.njb-brauerei.de,10.5302439,52.276725
+f5638c4d-1fcc-4a01-b5f8-9f48f97081af,Nolte,brewpub,102 Dahlenburger Landstraße,,,Lüneburg,Niedersachsen,21337,Germany,+49 4131 52232,http://www.gasthausbrauerei-nolte.de,10.4391404,53.2461851
+63164674-addc-4606-a8ac-ca67d937ba14,Nordeneyer Brauhaus,brewpub,18 Im Gewerbegelände,,,Norderney,Niedersachsen,26548,Germany,,http://www.norderneyer-brauhaus.de/,7.1749389,53.7113849
+dc6974b1-f128-43d3-8035-5e7908d1539a,Ols Oldenburger Brauerei,brewpub,34 Stau,,,Oldenburg (Oldb),Niedersachsen,26122,Germany,+49 441 26189,http://www.ols-brauerei.de,8.2211828,53.14075099999999
+8192f65d-5f9a-4925-961a-db2058d22d00,Ostfriesen-Bräu,brewpub,8 Voerstad,,,Großefehn,Niedersachsen,26629,Germany,+49 4946 203,http://www.ostfriesenbraeu.de,7.6111112,53.3502994
+d1fdcc76-b264-484e-88f4-5af2f00c898c,Pibe's Brauerei,brewpub,19 An den Eichen,,,Reinstorf,Niedersachsen,21400,Germany,,http://www.facebook.com/pibesbrewporn/,10.5609456,53.2652449
+a208c1fc-5748-4dfa-9622-4e1927056305,Privatbrauerei Braugut Stuhr,brewpub,41 Waldstraße,,,Stuhr,Niedersachsen,28816,Germany,+49 1525 3533052,http://www.braugutstuhr.de/,8.7040045,52.9563272
+26720dc2-6d31-4eba-8f96-e4b325755d2d,Rampendahl,brewpub,35 Hasestraße,,,Osnabrück,Niedersachsen,49074,Germany,+49 541 24535,http://www.rampendahl.de,8.0433629,52.2784618
+d8ed4979-36a9-4597-bee3-06c9a8c5a930,Ratsbrauhaus,brewpub,3 Markt,,,Hann. Münden,Niedersachsen,34346,Germany,+49 5541 957107,http://www.ratsbrauhaus.de,9.6511915,51.4174961
+a02e0ab0-1616-41be-b373-b0178025040f,Ratskeller Buxtehude,brewpub,2 Breite Straße,,,Buxtehude,Niedersachsen,21614,Germany,+49 4161 7529967,http://www.ratskeller-buxtehude.de,9.700249,53.4765033
+1574b74f-75a3-4edb-a92d-12f54efa351e,Robens Craft Beer,brewpub,25 Mittelroder Straße,,,Springe,Niedersachsen,31832,Germany,+49 5044 880562,http://www.german-craft-beer-factory.de,9.6532772,52.1760117
+88b566f6-6a09-40c2-b9c1-3f127ed853fb,Rupp-Bräu,brewpub,10 Feggendorfer Straße,,,Lauenau,Niedersachsen,31867,Germany,+49 5043 2275,http://www.ruppbraeu.de,9.369273,52.27908799999999
+8ec1618d-c67f-40f4-a34e-ba014d770c83,Schadt's,brewpub,28 Höhe,,,Braunschweig,Niedersachsen,38100,Germany,+49 531 400349,http://www.schadts-brauerei-gasthaus.de,10.5227371,52.2655362
+2fa8ed82-9393-4897-a3e8-ea1150927f79,Schnuckenbräu,brewpub,3 Hünzingen,,,Walsrode,Niedersachsen,29664,Germany,+49 5161 970144,http://www.schnuckenbraeu.de,9.5880665,52.8979018
+4b716637-5727-436a-b05a-730bf39f3e90,Scholar,closed,8 Theaterstraße,,,Göttingen,Niedersachsen,37073,Germany,+49 551 41616,http://www.scholarbeer.com,9.937865000000002,51.53484
+6e5d4ec4-913f-4d88-a4d0-e3baa521b429,Schwarze Huhn,brewpub,Hildesheimer-Str. 8,,,Holle,Niedersachsen,31188,Germany,,http://www.schwarzeshuhn.de,10.1637872,52.10717709999999
+92a0340b-6389-458c-abaa-924bdf31777d,Selsinger Hof,brewpub,1 Bahnhofstraße,,,Selsingen,Niedersachsen,27446,Germany,+49 4284 93930,http://www.schuetzenhof-selsingen.de,9.21393,53.37189
+4a80fbc7-94be-422e-bb04-8a6186b37d0f,Sommerbecker (Dachs),brewpub,9 Klein Sommerbeck,,,Dahlenburg,Niedersachsen,21368,Germany,+49 5851 9794291,http://www.sommerbecker-dachs.de,10.6792887,53.20199
+893abecf-4535-49e8-b05e-4bdbb50f1312,Stebner,brewpub,31 Rebenring,,,Braunschweig,Niedersachsen,38106,Germany,+49 531 28856907,http://www.stebner-privatbrauerei.de,10.5302439,52.276725
+707ab146-1968-4b8b-a0c8-a204da1248b0,Stierbräu,closed,12 Marschstraße,,,Vechta,Niedersachsen,49377,Germany,+49 4441 918883,http://www.stierbraeu.de,8.2825524,52.7240994
+bd187384-edb1-43f7-909a-5c18ea4d0db5,Tennenbräu,brewpub,7 Ernst-Stackmann-Straße,,,Wittingen,Niedersachsen,29378,Germany,+49 5831 2550,http://www.luebener-tenne.de,10.7441748,52.7266326
+4d016fdd-39fa-4f59-806a-86fa5f4c7daf,Vareler Brauhaus,brewpub,166 Zum Jadebusen,,,Varel,Niedersachsen,26316,Germany,+49 4451 9731600,http://www.vareler-brauhaus.de,8.1071564,53.4180033
+9802ec72-45b1-48dc-b02c-b249d3d4a21f,Wendland Bräu,brewpub,10 Kussebode,,,Clenze,Niedersachsen,29459,Germany,+49 5844 9711111,http://www.wendland-braeu.de,10.9983506,52.92178329999999
+614a0e01-9eed-424a-9cb2-7c2643abae19,Wittinger,brewpub,7 Ernst-Stackmann-Straße,,,Wittingen,Niedersachsen,29378,Germany,+49 5831 2550,http://www.wittinger.com,10.7441748,52.7266326
+49c39461-ab51-42df-9f41-a8c02869246c,Wolters,brewpub,39 Wolfenbütteler Straße,,,Braunschweig,Niedersachsen,38102,Germany,+49 531 27180,http://www.hofbrauhaus-wolters.de,10.5315685,52.2476425

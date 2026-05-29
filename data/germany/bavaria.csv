@@ -1,0 +1,5 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+7b4eba8c-a899-432d-bebe-2e8980a67d67,Crew Republic,micro,Am-Herzogsburg 32,,,Velburg,Bavaria,92355,Germany,,http://www.crewrepublic.de,,
+a903e5b8-cab9-4b02-a94c-b2e02e45945e,Nanni Bräu,micro,Freiahorn 27,,,Ahorn,Bavaria,95491,Germany,,https://www.facebook.com/NanniBrau,,
+e0346ca0-ae8b-466c-bb2f-49c6a4d43d58,Plötz Bräu 2,brewpub,Bachstr. 10,,,Peißenberg,Bavaria,82380,Germany,,http://www.imbierium.de,11.0756776,47.80558550000001
+d154e939-3768-4b15-92f4-8200dd5710f6,Urban Chestnut,micro,Am-Brunnen 2,,,Wolnzach,Bavaria,85283,Germany,,http://www.urbanchestnut.de,,

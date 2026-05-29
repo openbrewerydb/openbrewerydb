@@ -1,0 +1,595 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+ae7b3174-8be8-4d53-a3a5-9b8240970eea,'s,brewpub,1 Friesener Straße,,,Kronach,Bayern,96317,Germany,+49 9261 628000,http://www.antla.de,11.327765,50.241246
+21f21cc0-5b2f-4b79-be29-3bc625bcc4c8,1. Altenberger Brauhaus,brewpub,18 Zirndorfer Straße,,,Oberasbach,Bayern,90522,Germany,+49 911 604237,http://www.altenberger-brauhaus.de,10.9685585,49.4369958
+c1dc2b15-1ad0-4af4-840b-13a5c204f19a,1516 Westparkbräu,brewpub,6 Am Westpark,,,Ingolstadt,Bayern,85057,Germany,+49 841 9568777,http://www.westparkbraeu.com,11.3903278,48.77525869999999
+d1142d5b-e9e8-47bd-b3a8-3ce42c22ddda,Adam-Bräu,brewpub,53 Bahnhofstraße,,,Bodenmais,Bayern,94249,Germany,+49 9924 94000,http://www.adam-braeu.de,13.1022222,49.0697222
+9e48e89b-22b3-44d9-a0b9-eab4f611009f,Adler Bräu,brewpub,2A Bahnhofstraße,,,Stettfeld,Bayern,96188,Germany,,http://www.adlerbraeu-stettfeld.de,10.7209419,49.9693024
+b4896cfc-4731-4bc7-8794-d2d6650f7fe2,Aichinger,brewpub,5 Marktplatz,,,Heiligenstadt in Oberfranken,Bayern,91332,Germany,+49 9198 522,,11.1704687,49.8637819
+4feeca61-265e-4195-9234-75f78693fd14,Airbräu,brewpub,München Airport Center - Ebene 03,,,Oberding,Bayern,85356,Germany,+49 89 97593111,http://www.airbraeu.de,11.7873402,48.3540889
+64d12e0f-0abc-41ce-96c2-cd45b04d35e4,Aktienbrauerei,brewpub,3 Hohe Buchleuthe,,,Kaufbeuren,Bayern,87600,Germany,+49 8341 43040,http://www.aktien-brauerei.de,10.61612,47.87813999999999
+49f94bf3-f861-4b9f-b773-9c43f0070ed1,Albertshöfer Sternbräu,brewpub,5 Hindenburgstraße,,,Albertshofen,Bayern,97320,Germany,+49 162 2699078,http://www.albertshoefer-sternbraeu.de,10.15941,49.77149
+5958cbc2-f9d9-4bc3-9b9a-7469ce2d84d9,Aldersbacher,brewpub,1 Freiherr-von-Aretin-Platz,,,Aldersbach,Bayern,94501,Germany,+49 8543 96040,http://www.aldersbacher.de,13.0848087,48.5873322
+328d8ab7-c82a-44c6-b252-e6d85e39b14c,Allgäuer Brauhaus,brewpub,18 Schwendener Straße,,,Marktoberdorf,Bayern,87616,Germany,+49 8342 96470,http://www.allgaeuer-brauhaus.de,10.5679674,47.7496109
+98939b4a-14d7-4427-a99e-3d686784abca,Alt,brewpub,10 Dorfstraße,,,Leutenbach,Bayern,91359,Germany,+49 9199 403,http://www.brauerei-alt.de,11.1728824,49.7108499
+7c5ca24c-37df-43db-859f-ac5831866aef,Alte Brauerei / Zapfbräu,brewpub,2 Kirchplatz,,,Uettingen,Bayern,97292,Germany,+49 9369 8221,http://www.alte-brauerei.de,9.7296212,49.7941875
+f14b5ab3-92fc-487f-9869-07b1c8db5bf7,Alte Brauerei Stegen,brewpub,57 Landsberger Straße,,,Inning am Ammersee,Bayern,82266,Germany,+49 8143 9976431,http://www.alte-brauerei-stegen.de,11.1386516,48.0762625
+773770b1-b840-45c1-8bff-487ac7268d25,Altstadthof,brewpub,19 Bergstraße,,,Nürnberg,Bayern,90403,Germany,+49 911 2449859,http://www.altstadthof.de,11.0748976,49.4570626
+ef19c7ac-4313-4b3a-80bd-890f59ece1ea,Ambräusianum,brewpub,10 Dominikanerstraße,,,Bamberg,Bayern,96049,Germany,+49 951 5090262,http://www.ambraeusianum.de,10.884593,49.891758
+aacf9c9e-ec62-43b9-bcaa-877d54ffce8b,Ametsbichler,brewpub,13 Hauptstraße,,,Aschau am Inn,Bayern,84544,Germany,+49 8638 3204,http://www.ametsbichler.de,12.3505556,48.1980556
+7fe7f410-f9f7-4eed-a402-648d3651e910,Ammergauer Maxbräu,brewpub,5 Ettaler Straße,,,Oberammergau,Bayern,82487,Germany,+49 8822 9487460,http://www.maximilian-oberammergau.de,11.066696,47.5953971
+bdf3e527-3362-46ec-829a-0804de5150a3,Andorfer,brewpub,2 Rennweg,,,Passau,Bayern,94034,Germany,+49 851 754444,http://www.andorfer-weissbraeu.de,13.453345,48.586244
+5b484569-0e34-4ba7-9a4c-c89657d75a4e,Apostelbräu,brewpub,11 - 13 Eben,,,Hauzenberg,Bayern,94051,Germany,+49 8586 2200,http://www.apostelbraeu.de,13.63452,48.6390058
+7861ed8a-e099-49ad-9507-2b901120320d,Appl,brewpub,2 Schloß,,,Alerheim,Bayern,86733,Germany,+49 9085 1212,http://www.donare-appl.de,10.61385,48.83533
+27cfc500-a1ad-4a6a-9224-6f4e2a7a75b9,Arcobräu,brewpub,1 Schloßallee,,,Moos,Bayern,94554,Germany,+49 9938 918180,http://www.arcobraeu.de,12.9610071,48.7454643
+2f4fd4b1-0018-461a-a75e-cdc71ad9ad19,Arnsteiner,brewpub,9 Schweinfurter Straße,,,Arnstein,Bayern,97450,Germany,+49 9363 90910,http://www.arnsteiner-brauerei.de,9.973691299999999,49.9771374
+2092fc73-491d-4f20-ba70-3e3bc2cb83a9,Auerbräu,brewpub,80 Münchener Straße,,,Rosenheim,Bayern,83022,Germany,+49 8031 18050,http://www.auerbraeu.de,12.1152728,47.8525325
+ab02b540-6a18-4020-8363-d5102897f4e0,Augustiner,brewpub,52 Arnulfstraße,,,München,Bayern,80335,Germany,+49 89 594393,http://www.augustinerbraeu.de,11.5519791,48.1433523
+fb81c7bf-88a8-4508-a3cf-e75c7edc510a,Auxburg City Brewery,closed,43 Ulmer Straße,,,Augsburg,Bayern,86154,Germany,+49 821 4508486,http://www.auxburg-city-brewery.de,10.8744319,48.3811986
+46a6a14a-e7c7-4df8-b28a-76a988c4152c,Ayinger,brewpub,21 Münchener Straße,,,Aying,Bayern,85653,Germany,+49 8095 880,http://www.ayinger-bier.de,11.7744366,47.9720722
+805f26cb-59f1-4e8d-91ce-13f0c1a8ba6c,Bachmayer,brewpub,7 Loh,,,Dorfen,Bayern,84405,Germany,+49 8082 442,http://www.brauerei-bachmayer.de,12.2172716,48.2656576
+143796a4-b99e-46f7-9a3e-8d206c45c0e5,Baderbräu,brewpub,4 Baderweg,,,Schnaitsee,Bayern,83530,Germany,+49 176 32357045,http://www.baderbraeu.de,12.3689993,48.0708381
+f74bbdc2-cba6-4df2-a5c6-7b1d6e1b2424,Barbarossa Bräu,brewpub,18 Aschaffenburger Straße,,,Schöllkrippen,Bayern,63825,Germany,+49 6024 5454,http://www.brauhaus-barbarossa.de,9.2453186,50.0836644
+efb7f668-5151-49a8-8a95-6eac23234197,Bärenbräu,brewpub,2 Hohlgasse,,,Holzheim,Bayern,89291,Germany,+49 7302 3113,http://www.baerenbraeu-neuhausen.de,10.0934872,48.3781962
+b750c15e-557f-4103-838c-bc54fa0e23d1,Barleys Braukeller,brewpub,8 Königstraße,,,Kempten (Allgäu),Bayern,87435,Germany,+49 831 20500,http://www.allgaeu-zapf.de,10.3138189,47.7226693
+4ed5d507-4af0-47ec-b3bf-a8a31ff7b9ca,Bauer's,closed,2 Am Straußenhof,,,Hohenaltheim,Bayern,86745,Germany,+49 9088 887,http://www.bauers-brauerei.de,10.5369853,48.7834309
+c91fae81-7bd4-4a04-9759-4c5f2c39b940,Bauernhof- & Wintersportmusem,micro,5 Brunnbichl,,,Schliersee,Bayern,83727,Germany,+49 8026 929220,http://www.wasmeier.de,11.8780282,47.70784039999999
+af1b6148-1637-4deb-9a1b-9ca8084f2b1c,Baumer,closed,1 Marktplatz,,,Gars am Inn,Bayern,83536,Germany,+49 8073 1219,,12.2772244,48.15225849999999
+d5242d91-383f-4831-8ecc-6a5f162c2366,Bauriedl,brewpub,21 Ludwig-Müller-Straße,,,Eslarn,Bayern,92693,Germany,+49 9653 274,,12.5218042,49.5781911
+e57c6575-ca4b-4de1-b06f-8e3cb47a308e,Bavarian Festbeer Brewery,brewpub,6 Brauhausgasse,,,Ebermannstadt,Bayern,91320,Germany,,http://www.festbeer-shop.com,11.1872692,49.77948259999999
+4439df5b-9bb6-4355-a56c-56908428fd67,Bayer,brewpub,15 Schulterbachstraße,,,Rauhenebrach,Bayern,96181,Germany,+49 9554 293,http://www.bayer-theinheim.de,10.5868699,49.8846745
+aebfde0b-a3a3-4a65-8fe3-0b513e76311d,Bayerische-Böhmische Brauhaus,brewpub,1 Schloßplatz,,,Tegernsee,Bayern,83684,Germany,+49 8022 18020,https://www.brauhaus-tegernsee.de/,11.7564449,47.70781059999999
+aec8a521-93d7-4df1-bc07-c1ed4e7cb8b9,Bayerisches Brauereimuseum,micro,20 Hofer Straße,,,Kulmbach,Bayern,95326,Germany,+49 9221 80514,http://www.bayerisches-brauereimuseum.de,11.4697406,50.114645
+cd540d28-7c5b-41bd-9038-eafefaab017a,Bayrisch Brau Pub,brewpub,38 Frauentorstraße,,,Augsburg,Bayern,86152,Germany,+49 821 2970718,http://www.bayrisch-brau-pub.de,10.8954085,48.37616939999999
+a93cdcc7-00f3-4f69-b089-74ee4143d982,Becher-Bräu,brewpub,25 St.-Nikolaus-Straße,,,Bayreuth,Bayern,95445,Germany,+49 921 68993,http://www.becherbraeu.de,11.5519465,49.9385572
+1746ec27-f2f6-4c15-a056-55d2b5cc0390,Beck,brewpub,8 Steigerwaldstraße,,,Lisberg,Bayern,96170,Germany,+49 9549 252,http://www.beck-braeu.de,10.7250006,49.8948755
+4179acc1-6db7-40e8-aa41-04a693599e25,Behringer,brewpub,35 Marktplatz,,,Vohenstrauß,Bayern,92648,Germany,+49 9651 9244604,https://www.brauerei-behringer.de/,12.3406698,49.6246699
+b91bc958-55d5-40d7-814b-0e395d8fac9a,Bender,closed,7-9 Kirchgasse,,,Mühlhausen,Bayern,92360,Germany,+49 9185 406,,11.4442251,49.16867509999999
+25a72c40-7b7c-4cb2-aa0d-1e4790931895,Berabecka Boandl-Bräu,brewpub,36 Hauptstraße,,,Aichach,Bayern,86551,Germany,+49 8251 52355,http://www.boandlbraeu.de,11.127037,48.470683
+112f20d5-c6f8-40cc-b6df-4546d0052cc8,Berger,brewpub,3 Öttinger Straße,,,Reischach,Bayern,84571,Germany,+49 8670 218,http://www.brauerei-berger.de/,12.7251573,48.2900526
+10ce0b22-d232-440c-bc1c-330a70d705ee,Berggasthof Sonne,closed,12 Imberg,,,Sonthofen,Bayern,87527,Germany,,http://www.berggasthof-sonne.de,10.31413,47.4979723
+ec8700ac-6c55-4427-a64b-d30612a988fb,Berghammer,brewpub,55 Donaustraße,,,Bad Abbach,Bayern,93077,Germany,+49 9405 962176,http://www.brauerei-berghammer.de,12.0172235,48.9480575
+74631351-c8b4-4395-b29e-0ad8fe8ab83a,BernardiBräu,brewpub,7 Kammeregger Weg,,,Rettenberg,Bayern,87549,Germany,+49 8327 9326180,http://www.bernardibraeu.de,10.3110528,47.5742673
+e40105c1-c1d6-4350-884f-b28b0268be05,Betz,micro,15 Oberglaim,,,Ergolding,Bayern,84030,Germany,+49 8784 262,http://www.gasthaus-betz.de,12.1127913,48.6092265
+5b4eaf49-3385-4a08-9b42-5d5982708f3a,Bierhimmel,brewpub,100 Friedrich-Ebert-Straße,,,Fürth,Bayern,90766,Germany,+49 911 7873091,http://www.bierhimmel.bayern,10.9738569,49.4863733
+fdd8c0de-3556-4f49-b02a-494559a43e9f,Biermanufaktur Sparifankal,brewpub,7 Zechenstraße,,,Peiting,Bayern,86971,Germany,+49 171 8097979,http://www.sparifankal.de,10.9442663,47.78497309999999
+16b4e7be-07b1-4846-81e8-a94acab94f65,Bierwerk Kreativbrauerei / Hausbrauerei Wohlfart,brewpub,2a Bründeläckerstraße,,,Lauf an der Pegnitz,Bayern,91207,Germany,+49 162 2801313,http://www.bierwerk.bayern,11.2177723,49.5309956
+d59ae9c0-d156-400c-8df0-e8fc598e7700,Bio Bräu Wagner,brewpub,31-35 Landsberger Straße,,,München,Bayern,80339,Germany,+49 89 519940,http://www.hofbrauerei-wagner.de,11.5425211,48.13937
+d7efa13d-4084-4dd8-a0e2-af9480661600,Bischofshof,brewpub,2 Heitzerstraße,,,Regensburg,Bayern,93049,Germany,+49 941 20010,http://www.bischofshof.de,12.0761156,49.0151786
+0c73ca9a-a654-4bae-a00e-d63b43a970a0,Blauer Löwe,brewpub,9 Brückenstraße,,,Höchstadt an der Aisch,Bayern,91315,Germany,+49 9193 8219,http://www.brauerei-blauer-loewe.de,10.8056391,49.7021622
+a35abcc1-aa2b-45b6-893c-59905a5432d5,Brandy's Braugarage,brewpub,1 Schafbergstraße,,,Straßkirchen,Bayern,94342,Germany,+49 1512 1024564,http://www.brandys-braugarage.de,12.73178,48.83253999999999
+6dd4108b-671f-4ee2-a85b-bfe76319c369,Bräu im Moos,brewpub,1 Bräu im Moos Straße,,,Tüßling,Bayern,84577,Germany,+49 8633 1041,http://www.braeuimmoos.de,12.5956936,48.1875609
+81892b74-c2c2-4b47-b482-dbd2ec359a4c,Bräu z'Loh,brewpub,7 Loh,,,Dorfen,Bayern,84405,Germany,+49 8082 442,http://www.braeuzloh.de,12.2172716,48.2656576
+d481b440-36c7-4955-8133-e9b0ba0343b1,Brauer-Vereinigung,brewpub,4 Am Buchauer Berg,,,Pegnitz,Bayern,91257,Germany,+49 9241 4839937,,11.5420619,49.7581857
+aea1843a-7bec-4390-911d-b8bb6e20fe29,Brauerei Brauda,brewpub,3 Gewerbering,,,Seeon-Seebruck,Bayern,83370,Germany,+49 8624 4073300,http://www.camba-bavaria.de/,12.4661335,47.9793527
+baa7e27d-ebaa-45ed-912e-c490414597ba,Brauerei Gasthof Blomenhof 1571,closed,8 Berliner Ring,,,Neumarkt in der Oberpfalz,Bayern,92318,Germany,+49 9181 2705527,http://www.facebook.com/BlomenhofNeumarkt/,11.4613017,49.29822799999999
+ba4509c4-d96c-4534-9b3e-be788787a24b,Brauerei im Eiswerk,closed,44 Ohlmüllerstraße,,,München,Bayern,81541,Germany,,http://www.brauerei-im-eiswerk.de,11.5815965,48.1222976
+bbd5d195-b4a5-435d-9616-5806e68879c7,Brauerei Mainstockeim,brewpub,3 Untere Brunnengasse,,,Mainstockheim,Bayern,97320,Germany,,http://www.brauerei-mainstockheim.de,10.1512373,49.7717061
+4f301473-bd46-44b2-9bac-c05faf4b4956,Brauerei Thomas Ernst / Silbersteg Bier,brewpub,39 Schöngeisinger Straße,,,Fürstenfeldbruck,Bayern,82256,Germany,+49 160 7530519,http://brauerei-ernst.de/,11.2521966,48.1766513
+47b8e313-8f99-4ccc-8c65-3b581e42662c,Brauereigasthof St. Afra im Felde,brewpub,144 Afrastraße,,,Friedberg,Bayern,86316,Germany,+49 821 6089150,http://www.sankt-afra.eu,10.9663669,48.3399966
+96912cbb-f8cc-4819-8c50-a2f698d8b00e,Brauereigenossenschaft,brewpub,3 Bräuhausstraße,,,Taufkirchen (Vils),Bayern,84416,Germany,+49 8084 2377,http://www.taufkirchner-brauerei.de,12.1326082,48.3457547
+c77a1e35-b020-4d24-86b5-f3034dc2697a,Brauhaus,brewpub,17 Jägerstraße,,,Würzburg,Bayern,97082,Germany,+49 931 42970,http://www.brauhausbar.de,9.9148122,49.7923439
+a3d242ce-8d0a-4011-8dcd-5ecb52648f33,Brauhaus am Kreuzberg,brewpub,1 Kreuzberg,,,Hallerndorf,Bayern,91352,Germany,+49 9545 4736,http://www.friedels-keller.de,10.9555412,49.7590977
+13c17d55-708d-4003-905a-9392317b16da,Brauhaus am Schloss,brewpub,6 Waffnergasse,,,Regensburg,Bayern,93047,Germany,+49 941 2804330,http://www.brauhaus-am-schloss.com,12.0912231,49.01549139999999
+6a820e1c-54f1-4914-9e3b-bc60226006af,Brauhaus Binkert,brewpub,5 Westring,,,Breitengüßbach,Bayern,96149,Germany,+49 9544 9848857,http://www.mainseidla.de,10.8819446,49.9636314
+be282c19-c16c-43e5-97d8-ff7c1a7911de,Brauhaus Brandmeier,brewpub,59 Hindenburgstraße,,,Cadolzburg,Bayern,90556,Germany,+49 9103 7129990,http://www.cadolzburger.de,10.8512624,49.45422199999999
+1680d0a1-7bc3-4030-92b3-d5df7a771176,Brauhaus Budenschuster,bar,4 Friedrichstraße,,,Bad Steben,Bayern,95138,Germany,+49 160 94832696,http://www.brauhaus-budenschuster.de,11.6440746,50.3661598
+5450b2b7-9010-4106-a576-660a8d6ed237,Brauhaus Floß,brewpub,4 Graf-Gebhard-Straße,,,Floß,Bayern,92685,Germany,+49 9603 6769867,http://www.brauhaus-floss.de,12.2777759,49.72393049999999
+0eeeacf2-0423-4f23-942b-aebeb6639c59,Bräuhaus Freising,brewpub,26 Mainburger Straße,,,Freising,Bayern,85356,Germany,+49 8161 6010,http://www.brauhaus-freising.de,11.7467485,48.4060454
+493a4717-621e-4244-89f4-35bd9de7b608,Brauhaus Germering,brewpub,15 Dorfstraße,,,Germering,Bayern,82110,Germany,+49 89 20921348,http://www.brauhaus-germering.de,11.3581283,48.1372993
+f86b494a-19db-4086-8900-d643a762db1a,Brauhaus Höchstadt,brewpub,11 Kellerstraße,,,Höchstadt an der Aisch,Bayern,91315,Germany,+49 9193 8367,http://www.brauhaus-hoechstadt.de,10.806307,49.7072797
+3bc9ac35-1637-4ed7-b7d1-e01dff06d6b7,Brauhaus im Wurzgrund,brewpub,58 Hauptstraße,,,Karlstadt,Bayern,97753,Germany,+49 9353 97710,http://www.alte-brauerei-karlstadt.de/,9.7646456,49.9600173
+5e65395f-1aaa-4e4b-9bf7-610bbecc4441,Bräuhaus Melkendorf,brewpub,13 Otterbachstraße,,,Litzendorf,Bayern,96123,Germany,,https://www.brandholz-brauerei.de/,11.0315904,49.8996122
+6585c6c0-a794-4188-b610-c0141f623ec0,Brauhaus Niederlauer,brewpub,6 Brückenauer Straße,,,Motten,Bayern,97786,Germany,+49 9748 710,http://www.hausbrauerbier.de,9.771565299999999,50.3953363
+c508ccd7-6a2b-4766-8383-0481740a781d,Brauhaus Oberstreu,brewpub,6 Brückenauer Straße,,,Motten,Bayern,97786,Germany,+49 9748 710,http://www.brauhaus-oberstreu.de,9.771565299999999,50.3953363
+b3bb3e75-7c12-4f7d-80e3-afa4bf68b195,Brauhaus Rosenberg,brewpub,14 Rosenberger Straße,,,Sulzbach-Rosenberg,Bayern,92237,Germany,+49 9661 87090,http://www.brauhaus-rosenberg.de,11.7409574,49.5042589
+7eba6a41-179a-46e1-be8e-81d8fce0872d,Brauhaus zu Coburg,brewpub,4 Nägleinsgasse,,,Coburg,Bayern,96450,Germany,+49 9561 7059192,http://www.brauhaus-coburg.de,10.9638777,50.2589586
+5cd41322-411f-4e4f-a7c1-c086ab0be192,Braukraft,closed,20 Münchener Straße,,,Gilching,Bayern,82205,Germany,,http://www.braukraft.de,11.3147331,48.1072348
+bff1405c-1264-4753-83e9-4450852577a8,Braumanufaktur Hertl,brewpub,61 Thüngfeld,,,Schlüsselfeld,Bayern,96132,Germany,+49 9552 981028,https://braumanufaktur-hertl.de/,10.6288136,49.7508498
+de3bc66b-04a0-49af-9bee-bfcc72fe1035,Braumanufaktur Lippert,brewpub,77 Bamberger Straße,,,Lichtenfels,Bayern,96215,Germany,+49 9571 9480817,http://www.braumanufaktur-lippert.de,11.0515598,50.138872
+bf84d0cf-4744-4666-bb61-2c134345aa4b,Brauschmiede,brewpub,2a Schmiedgasse,,,Mainbernheim,Bayern,97350,Germany,,http://www.brauschmie.de,10.216905,49.7116463
+cb6cabc7-4403-4768-8ca4-3cc8106eddb7,Braustall,brewpub,33 Regensburger Straße,,,Deuerling,Bayern,93180,Germany,+49 171 1414981,http://www.facebook.com/braustall/,11.9049973,49.0371628
+14306ffc-12ae-40bb-a184-9210f278f04b,Bräuwerck,brewpub,2A Marktplatz,,,Neudrossenfeld,Bayern,95512,Germany,+49 9203 9736515,http://www.braeuwerck.de,11.50362,50.0154973
+d4cec2ae-de0b-4b05-84e5-89177d23e6ea,Brauwerkstatt,brewpub,5 Am Bahnhof,,,Haag an der Amper,Bayern,85410,Germany,+49 8167 693737,http://www.diebrauwerkstatt.de,11.8364779,48.45679089999999
+a98558f6-158b-4f9a-bbd3-e199fdf5931a,Brauwerkstatt Lauterachquelle,brewpub,31 Lauterachstraße,,,Lauterhofen,Bayern,92283,Germany,+49 9186 569,http://www.kulturstadel-lauterhofen.de,11.6015309,49.3697065
+d86e9627-51fa-4f7a-b9ef-5a4b7e45545e,Bräuwirt,brewpub,9 Unterer Markt,,,Weiden in der Oberpfalz,Bayern,92637,Germany,+49 961 481330,http://www.braeuwirt.de,12.16396,49.67589
+198233f7-7ed5-4f07-9732-9e341f889396,Bruckmüller,brewpub,4 Vilsstraße,,,Amberg,Bayern,92224,Germany,+49 9621 488018,http://www.bruckmueller.de,11.8536997,49.4457678
+b8616ca6-6e88-4fba-aaae-3e8c90acf9e7,Bruderherz,brewpub,15 Luitpoldstraße,,,Nürnberg,Bayern,90402,Germany,+49 911 2165010,http://www.bruderherz-nuernberg.de,11.0787306,49.44796849999999
+7f2e1f17-16b0-409b-b02b-58773e00bf60,Brunner-Bräu,brewpub,5 Spanberg,,,Eggenfelden,Bayern,84307,Germany,+49 8721 6801,http://www.brunner-braeu.de,12.715085,48.3897018
+9035fff0-6ec5-44b7-bf58-b30b66a53910,Bub,brewpub,14 Marktplatz,,,Leinburg,Bayern,91227,Germany,+49 9120 204,http://www.leinburger-bier.de,11.3090901,49.4501327
+c1eadf6c-cb56-4dab-92c9-ba954821b9d9,Bucher Bräu,brewpub,5 Elsenthaler Straße,,,Grafenau,Bayern,94481,Germany,+49 8552 40870,http://www.bucher-braeu.de,13.392805,48.8543494
+67fb95d8-20cd-4efc-abe2-8118f95ad701,Büchner,brewpub,76 Heilmfurt,,,Malgersdorf,Bayern,84333,Germany,+49 9954 303,http://www.brauerei-buechner.de,12.7359383,48.527147
+77d522ae-6ef7-410a-a365-4bb2187ec6e3,Bürgerbräu,brewpub,1-2 Waaggasse,,,Bad Reichenhall,Bayern,83435,Germany,+49 8651 6089,http://www.buergerbraeu.by,12.8751949,47.722114
+9cefd079-cec5-4e2d-9377-07da5eeb91ae,Bürgerliches Brauhaus,brewpub,99 Hauptstraße,,,Wiesen,Bayern,63831,Germany,+49 6096 373,http://www.brauhaus-wiesen.de,9.363306099999999,50.1133555
+0bdd0f61-c475-46a7-b62b-010f99db499b,Burghauser Brauwerkstatt,closed,80 Piracher Straße,,,Burghausen,Bayern,84489,Germany,+49 8677 9187220,http://www.burghauser-brauwerkstatt.de,12.8068642,48.1607727
+579a052e-428e-4492-a536-f4e4a81adbea,Burgholz Bräu,closed,2 Burgholz,,,Hebertsfelden,Bayern,84332,Germany,+49 8726 503,,12.8229495,48.450879
+0086f789-6171-4f28-9478-0bb9190db28e,Büttner,brewpub,8 Untergreuth,,,Frensdorf,Bayern,96158,Germany,+49 9502 342,http://www.brauerei-buettner.de,10.8601672,49.8346413
+ed536e05-573a-475d-a3b7-ecffacb29ecd,Café Hein,brewpub,17 Münchberger Straße,,,Schwarzenbach an der Saale,Bayern,95126,Germany,+49 9284 7574,http://www.frankonianer.de,11.9303595,50.2223882
+a7fc18bb-77b8-4649-b197-f297e3349b47,Camba Bavaria,brewpub,3 Gewerbering,,,Seeon-Seebruck,Bayern,83370,Germany,+49 8624 4073300,http://www.cambabavaria.de,12.4661335,47.9793527
+aa2a8ab9-cb4f-48f4-ba0e-63ab7bf3ffd5,Camba Old Factory,brewpub,3 Gewerbering,,,Seeon-Seebruck,Bayern,83370,Germany,+49 8624 4073300,http://camba-old-factory.de,12.4661335,47.9793527
+44efba25-e932-4101-93d6-056cbb1ff434,Canada,brewpub,5B Hofmarkstraße,,,Aichach,Bayern,86551,Germany,+49 8251 1860,http://www.canada-mauerbach.de,11.18787,48.42966999999999
+acf86d31-ca14-41c6-9e6a-e98aa75c6286,Cervecium Hermann's Bierwerkstatt,brewpub,66 Kirchenlamitzer Straße,,,Weißenstadt,Bayern,95163,Germany,+49 9253 265,http://www.brauerei-michael.de,11.8895715,50.1054426
+a73c4f5f-ccd6-476f-9b2d-6277900491b3,Cheyenne Beer,brewpub,3 Gewerbering,,,Seeon-Seebruck,Bayern,83370,Germany,+49 8624 4073300,http://www.cheyennebeer.com,12.4661335,47.9793527
+fa596c0e-13e3-46a3-89ae-e93690a490b0,Chiemseebräu,brewpub,1A Gewerbestraße,,,Grabenstätt,Bayern,83355,Germany,+49 8661 929922,http://www.chiemseebraeu.de,12.541788,47.850723
+603c5b07-5dd3-49b4-b450-0dd5e35f41b3,Communebrauerei,brewpub,1 Dr.- Kahlfresser-Platz,,,Kaufbeuren,Bayern,87600,Germany,+49 170 5458963,http://www.communebrauerei-kaufbeuren.de,10.6193516,47.87837829999999
+c6722388-3461-4f4c-9c77-30018508ee88,Craft Bräu,brewpub,12 Mühlstraße,,,Dießen am Ammersee,Bayern,86911,Germany,+49 175 1978708,http://www.craft-braeu.com,11.1046228,47.9485435
+4961a572-dda6-47f6-80b9-8cf7167ae847,Dachsbräu,brewpub,5 Murnauer Straße,,,Weilheim in Oberbayern,Bayern,82362,Germany,+49 881 2693,http://www.dachsbier.de,11.1428236,47.836442
+f0621546-3c77-478d-9fab-2354acd65b56,Dampfbierbrauerei,brewpub,8 Bahnhofplatz,,,Oberstdorf,Bayern,87561,Germany,+49 8322 8908,http://www.dampfbierbrauerei.de,10.2782337,47.4105875
+8e6266bd-3b7c-4dbc-b489-ae220ea610d6,Daniel Br,brewpub,1 Roseneckstraße,,,Ingolstadt,Bayern,85049,Germany,+49 841 35272,http://www.facebook.com/gasthausdaniel/,11.4225134,48.7631654
+ca36f6f0-69ab-4aa6-8e96-9d3b004adbd9,Dein Bier,brewpub,3 Hausen,,,Mauerstetten,Bayern,87665,Germany,+49 1512 8776077,http://www.deinbier-allgaeu.de,10.6692827,47.8773855
+120190a2-fc62-4d5a-9672-57d703ff7084,Der Bergbauernwirt,brewpub,18 Sonderdorf,,,Bolsterlang,Bayern,87538,Germany,+49 8326 7444,http://www.derbergbauernwirt.de,10.2332341,47.4532562
+78f0b535-cf56-4bf3-b26d-dfaebd59b319,Die Biobraumeister,brewpub,11a Weitzkaut,,,Glattbach,Bayern,63864,Germany,+49 6021 429410,http://www.biobraumeister.de,9.1406726,50.0061188
+cd1fccd3-7ffa-497d-a140-f1d368b5d3c0,Die Hecke,brewpub,1 Eitlöd,,,Bad Füssing,Bayern,94072,Germany,+49 8531 310730,http://www.die-hecke.de,13.3293568,48.35657699999999
+f5f33fc7-b194-4917-ad31-56dd77623c0f,Dietl,brewpub,1 Holzollinger Straße,,,Weyarn,Bayern,83629,Germany,+49 8020 282,,11.8328875,47.85580059999999
+fcfa2fdd-ca50-42df-99c6-6b104bf80f06,Dimpfl,brewpub,34 Bräuhausstraße,,,Furth im Wald,Bayern,93437,Germany,+49 9973 3816,http://www.dimpfl-bier.de,12.8449812,49.3054648
+b8040acd-01e7-41e9-9c51-6715bb32cd1b,Dinkel,brewpub,19 Am Dorfbrunnen,,,Bad Staffelstein,Bayern,96231,Germany,+49 170 3073281,http://www.dinkel-stublang.de,11.0433569,50.07814639999999
+295a716c-60c5-4481-84c8-400276dc497f,Döbler,brewpub,6 Kornmarkt,,,Bad Windsheim,Bayern,91438,Germany,+49 9841 2002,http://www.brauhaus-doebler.de,10.415994,49.501932
+ed9b6811-8093-4f75-a36f-21964fe9b243,Dorn-Bräu,brewpub,1 Marktplatz,,,Ammerndorf,Bayern,90614,Germany,+49 9127 57544,http://www.ammerndorfer-bier.de,10.852007,49.4208378
+952bb3c4-7593-4cd7-98e3-7225d4576ff8,Drei Kronen,brewpub,39 Hauptstraße,,,Scheßlitz,Bayern,96110,Germany,+49 9542 1564,http://www.kronabier.de,11.0337909,49.9764182
+b04370c1-42fb-4b34-a749-9ca12f87d2ac,Dremel,brewpub,21 Hauptstraße,,,Wattendorf,Bayern,96196,Germany,+49 9504 271,http://www.brauerei-dremel.de,11.1263371,50.0326561
+ddac7ca4-41c7-489d-b036-70272298de24,Drexler,brewpub,3 Bräustraße,,,Pösing,Bayern,93483,Germany,+49 9461 2154,,12.5499752,49.2290187
+e186c0a5-1392-42f6-9192-518d77019ac2,Dreykorn,brewpub,9 Mauergasse,,,Lauf an der Pegnitz,Bayern,91207,Germany,+49 9123 2424,https://www.facebook.com/Dreykorn-Br%C3%A4u-117872041603103/,11.2796445,49.5120649
+b52c236a-af11-46ae-a3f1-03d5ccb47708,Drummer,brewpub,10 Dorfstraße,,,Leutenbach,Bayern,91359,Germany,+49 9199 403,http://www.brauerei-gasthof-drummer.de,11.1728824,49.7108499
+89812b72-279d-4a9b-b5e0-e90dbbe158ec,Düll,brewpub,1 Pfarrer-Geyer-Straße,,,Marktbreit,Bayern,97340,Germany,+49 9332 8663,http://www.duell-gnodstadt.de,10.1204804,49.6374345
+459f6ecb-63e5-40ce-b5ac-fc7cb9ddff6c,Ebensfelder Brauhaus,brewpub,7 Oberer Kellbachdamm,,,Ebensfeld,Bayern,96250,Germany,+49 9573 885,http://www.ebensfelderbrauhaus.de,10.9593065,50.06591239999999
+a09b057a-2de7-4115-a608-592d371171cb,Ecker Bräu,micro,1 Eck,,,Böbrach,Bayern,94255,Germany,+49 9923 84050,http://www.brauerei-eck.de,13.0307539,49.0516699
+9d028e4c-6c61-46fe-bab7-13b535dea430,Eder & Heylands,brewpub,3-5 Aschaffenburger Straße,,,Großostheim,Bayern,63762,Germany,+49 6026 5090,http://www.eder-heylands.de,9.075799,49.922702
+1da7a405-aa63-4c51-8b69-1fbb121d8bbe,Egerer,brewpub,27 Dachinger Straße,,,Pilsting,Bayern,94431,Germany,+49 9953 3010,http://www.egerer.de,12.6003458,48.7001764
+af2e868e-568e-49f3-a21d-7f655e4c04b0,Eichhorn,brewpub,43 Dörfleinser Straße,,,Hallstadt,Bayern,96103,Germany,+49 951 75660,http://www.brauerei-eichhorn.de,10.8591572,49.9317242
+59e81f23-fa26-44de-8593-868b2bb603a6,Eismann,closed,9 Buchsteig,,,Altenstadt an der Waldnaab,Bayern,92665,Germany,+49 9602 636797,http://www.brauerei-eismann.de,12.15688,49.72456
+0b776924-43a7-4311-9e9d-94bb71737f01,Eittinger Fischerbräu,brewpub,20 Gadener Straße,,,Eitting,Bayern,85462,Germany,+49 8122 9598960,http://www.eittinger-fischerbräu.de,11.88766,48.36624
+9062c8f0-9f1b-4a89-8ac6-7d0c652a866b,Elch-Bräu,brewpub,11 Thuisbrunn,,,Gräfenberg,Bayern,91322,Germany,+49 9197 221,http://www.gasthof-seitz.de,11.2477778,49.68694439999999
+b2d5c630-7987-4028-b4ba-1af8209353b7,Eller,brewpub,10 Brunnenstraße,,,Untersiemau,Bayern,96253,Germany,+49 9565 1033,https://www.facebook.com/profile.php?id=100057570364732,10.995102,50.1804914
+778184e3-11ea-4672-b845-a065283a1816,Engelbräu,brewpub,17 Burgberger Straße,,,Rettenberg,Bayern,87549,Germany,+49 8327 93000,http://www.engelbraeu.de,10.2893706,47.5735158
+7b32763f-ce7f-45e5-b6c4-b8f8a62cc760,Enzensteiner,closed,8 Enzenreuth,,,Schnaittach,Bayern,91220,Germany,+49 9153 924733,http://www.enzensteiner.de,11.3686238,49.5618371
+8364cef4-e1a4-4f97-adba-753c7a71580d,Enzianhütte,brewpub,24 Mühlenstraße,,,Oberstaufen,Bayern,87534,Germany,+49 8386 661,http://www.enzianhuette-oberstdorf.de,10.0193975,47.5454878
+252bc777-db1f-40b4-80af-d91154677024,Eppelein & Friends,brewpub,43 Feldgasse,,,Nürnberg,Bayern,90489,Germany,+49 172 8342323,http://www.eppeleinfriends.de,11.0941944,49.459256
+cc5c019a-0e91-4570-ac76-d98e2bde2bad,Erdinger,brewpub,1-3 Lange Zeile,,,Erding,Bayern,85435,Germany,+49 8122 4090,https://erdinger.de/de-DE,11.9065773,48.3067462
+f583793e-9f73-474e-8a5f-97cd6181d596,Erdinger Weißbräu,brewpub,1+3 Lange Zeile,,,Erding,Bayern,85435,Germany,+49 8122 88001801,http://www.erdinger.de,11.9070582,48.3067551
+ebf9f71e-0388-49d6-a780-698d98d88530,Erharting,brewpub,6 Hauptstraße,,,Erharting,Bayern,84513,Germany,+49 8631 18610,http://www.erhartinger-bier.de,12.57541,48.278236
+bb6a5ca4-c616-4273-92ac-8e7486853bfe,Erl,brewpub,10 Straubinger Straße,,,Geiselhöring,Bayern,94333,Germany,+49 9423 94170,http://www.brauerei-erl.de,12.3959966,48.8271315
+d5cd76bf-7053-459d-b077-766106d0f446,Eschenbacher Wagner Bräu,brewpub,12 Eltmanner Straße,,,Eltmann,Bayern,97483,Germany,+49 9522 288,http://www.eschenbacher.de,10.7006638,49.9662715
+7915a77a-5e49-43c1-aad9-5f25e693a7d4,Ettl-Bräu,brewpub,2 Bahnhofstraße,,,Teisnach,Bayern,94244,Germany,+49 9923 80130,http://www.brauerei-ettl.de,12.9951526,49.0380626
+bdd79126-1bbd-47c7-9346-efa2ee17ae46,Falkenstein,brewpub,28 Allgäuer Straße,,,Pfronten,Bayern,87459,Germany,+49 8363 960658,http://www.braugasthof-falkenstein.de,10.5602701,47.5838496
+5c1bfda2-158d-4622-8d21-6213e8dc5439,Falter,brewpub,15 Am Sand,,,Regen,Bayern,94209,Germany,+49 9921 88230,http://www.jb-falter.de,13.1245315,48.9689391
+5f921c57-2aa6-4ad9-9c67-80ea8ee443eb,Falterbräu,brewpub,5 Hofmark,,,Drachselsried,Bayern,94256,Germany,+49 9945 943230,http://www.falter-braeu.de,13.0137601,49.1063401
+0e786e48-5208-4b75-b737-ffe529f45ef1,Fässla,brewpub,19 -21 Obere Königstraße,,,Bamberg,Bayern,96052,Germany,+49 951 26516,http://www.faessla.de,10.892754,49.897245
+7ff80c48-1a3a-48b3-9561-3ac6c23b8c68,Faust,brewpub,219 Hauptstraße,,,Miltenberg,Bayern,63897,Germany,+49 9371 97130,http://www.faust.de,9.249293999999999,49.699247
+3ec58c8f-af60-43ab-9c3d-484ab2b8320c,Felsenbräu,brewpub,2 Felsenweg,,,Bergen,Bayern,91790,Germany,+49 9147 94266,http://www.felsenbraeu.com,11.1518618,49.0695067
+0f4923ba-091b-4e40-8cdb-05daada376cb,Felsenkeller,brewpub,33 Lengfurter Straße,,,Marktheidenfeld,Bayern,97828,Germany,+49 9391 5424,http://www.felsenkeller-marktheidenfeld.de,9.5949852,49.8379987
+d7fc5120-f5c1-48e8-b03c-2cfad91a0f83,Findler,brewpub,31 Sachsenkamer Straße,,,Greiling,Bayern,83677,Germany,+49 8041 7944993,http://www.facebook.com/FindlerBier/,11.6082761,47.7681094
+2ddd8177-018f-4406-87e3-3209e23c6636,Fischer,brewpub,2 Freudeneck,,,Rattelsdorf,Bayern,96179,Germany,+49 9547 488,http://www.hahnerla.de,10.8798398,50.03520959999999
+79bbf84d-b0d6-4060-8f56-2c8c303b3b89,Flötzinger-Bräu,brewpub,7 Herzog-Heinrich-Straße,,,Rosenheim,Bayern,83022,Germany,+49 8031 36630,http://www.floetzinger-braeu.de,12.1218899,47.8559652
+d9b009f5-a3cc-4ac4-8c1d-068370c0b9c9,Flugwerk,brewpub,2 Sonnenstraße,,,Feldkirchen,Bayern,85622,Germany,+49 89 94417718,http://www.flugwerk-feldkirchen.de,11.7353484,48.1478974
+ce742d6f-8371-4f1e-b853-3fa78af11f99,Forschungsbrauerei,brewpub,78 Unterhachinger Straße,,,München,Bayern,81737,Germany,+49 89 28788273,http://www.forschungsbrauerei.de,11.6248116,48.0941438
+282306ea-4a52-45f3-8caa-13df45cc34dc,Forschungsbrauerei Weihenstephan,brewpub,2 Alte Akademie,,,Freising,Bayern,85354,Germany,+49 8161 5360,https://www.lbgt.wzw.tum.de/index.php?id=133,11.7289326,48.3952883
+4d02bd57-7804-45b4-b507-e61bfa326b55,Forstquell,brewpub,35 Fürnheim,,,Wassertrüdingen,Bayern,91717,Germany,+49 9832 9657,http://www.forstquell.de,10.52403,49.02195
+7bfeaf70-8ba1-412b-8408-cbfe3bcf18fc,Frankenw,brewpub,6 Brauhausgasse,,,Ebermannstadt,Bayern,91320,Germany,,http://www.buergerbraeu-naila.de,11.1872692,49.77948259999999
+0b400d46-777d-4a0c-bd6a-9a38e6ea5a42,Fränkisches Freilandmuseum,micro,1 Eisweiherweg,,,Bad Windsheim,Bayern,91438,Germany,+49 9841 66800,http://www.freilandmuseum.de,10.4176898,49.4983486
+20b1250c-c1ac-40d8-a44a-8afe4cb13b4d,Freilandmuseum,micro,19 Bahnhofstraße,,,Fladungen,Bayern,97650,Germany,+49 9778 91230,http://www.freilandmuseum-fladungen.de,10.1496119,50.520473
+38170b7e-f416-4fbf-a69e-5a2749485a83,Friedel,brewpub,1 Höchstadter Straße,,,Höchstadt an der Aisch,Bayern,91315,Germany,+49 9502 209,,10.8937851,49.7607521
+88b7e107-c8da-438b-a408-5d8f61e6797d,Friedmann,brewpub,16 Jägersberg,,,Gräfenberg,Bayern,91322,Germany,+49 9192 318,http://www.brauerei-friedmann.de,11.25271,49.64453
+c8323f66-de79-41d1-9b79-9e8ad3f89e2c,Frischeisen,brewpub,69 Regensburger Straße,,,Kelheim,Bayern,93309,Germany,+49 9441 50490,http://www.brauerei-frischeisen.de,11.8969167,48.9059889
+de49b2ef-6f82-4219-baca-1a7ebd762464,Fuchsbeck,brewpub,1 Hagtor,,,Sulzbach-Rosenberg,Bayern,92237,Germany,+49 9661 4518,http://www.fuchsbeck.de,11.7372364,49.505455
+74e395c9-22e1-4151-883f-5b07bb9b8861,Fürst Wallerstein,brewpub,78 Obere Bergstraße,,,Wallerstein,Bayern,86757,Germany,+49 9081 782220,http://www.fuerst-wallerstein.de,10.475172,48.8882914
+ed60d959-d195-461f-9e30-1d2ff67db9f4,Fürstliches Brauhaus,brewpub,10 Schloßstraße,,,Ellingen,Bayern,91792,Germany,+49 9141 9780,http://www.fuerst-carl.de,10.9653098,49.060503
+ba443e98-4edf-48a7-95b4-f3552b406e5d,Gabreta Silva / Böhmerwald Brauwerkstatt,closed,4 Kritzenast,,,Waldmünchen,Bayern,93449,Germany,,http://www.gabreta-silva.de,12.6372412,49.3716793
+27a2b411-440a-4b34-8293-bce010a4ecd9,Gambrinus,closed,15 Keplerstraße,,,Weiden in der Oberpfalz,Bayern,92637,Germany,+49 961 670330,http://www.gambrinus-weiden.de,12.1532083,49.6786657
+38466783-9774-4983-9e9c-9ffaa24163cf,Gampertbräu,brewpub,2-4 Braustraße,,,Weißenbrunn,Bayern,96369,Germany,+49 9261 60330,http://www.gampertbraeu.de,11.346798,50.199725
+76c10d32-56d7-485c-801d-3f8e59078ce7,Gansbräu,brewpub,4 Ringstraße,,,Neumarkt in der Oberpfalz,Bayern,92318,Germany,+49 9181 905885,http://www.gansbrauerei.de,11.4592982,49.2770954
+2db13336-1be7-49e7-901d-68ab9e8eb419,Gänstaller-Bräu,brewpub,37 Hafenstraße,,,Bamberg,Bayern,96052,Germany,,http://www.gaenstaller.de,10.8599707,49.9150568
+7190aae3-6c49-4ccc-8775-6a151725b7e6,Gasthof Erlhof,brewpub,9 Laurentiusstraße,,,Ursensollen,Bayern,92289,Germany,+49 9628 273,http://www.erlhof-erlheim.de,11.8093544,49.3824875
+9a5b5a3a-14c1-43a3-8afe-54523144baff,Gaststätte Scheuern,brewpub,7 Bach,,,Aschau im Chiemgau,Bayern,83229,Germany,+49 8052 9573370,http://www.scheuern-aschau.de,12.3138339,47.755917
+5bdaae14-c3e6-4bcf-bab4-92ee49157b77,Genossenschaftsbrauerei,brewpub,17 Hussenstraße,,,Rötz,Bayern,92444,Germany,+49 9976 1425,http://www.genossenbrauhaus.de/,12.5258894,49.34203369999999
+1a0f1e70-1d4e-420f-a1d4-2cb000d5d8f9,Gesellschaftsbrauerei,micro,3a Bahnhofstraße,,,Viechtach,Bayern,94234,Germany,+49 9942 809783,http://gb-brauerei.de,12.8849996,49.0820519
+60e9b80d-5dc9-45df-9575-2ba02d118ea0,Geyer,brewpub,Tanzenhaider Weg,,,Oberreichenbach,Bayern,91097,Germany,+49 9104 2802,http://www.brauereigasthof-geyer.de,10.7609669,49.59048809999999
+f7042903-4248-4a1a-9548-c9e4dfd4a074,Giesinger Bräu,brewpub,2 Martin-Luther-Straße,,,München,Bayern,81539,Germany,+49 89 55062184,http://www.giesinger-braeu.de,11.576744,48.1155998
+2c36de9a-41c0-433e-adfe-ccb87cc8d460,Glentleitner Wirtschaft,brewpub,1 An der Glentleiten,,,Schlehdorf,Bayern,82444,Germany,,http://www.glentleitner-wirtschaft.de,11.285346,47.6644515
+12575c3b-4e14-4ad0-9741-71585750bd23,Glossner,brewpub,88 Deininger Weg,,,Neumarkt in der Oberpfalz,Bayern,92318,Germany,+49 9181 2340,http://www.glossner.de,11.472773,49.262772
+4264296e-4266-4892-bf45-785663145ab3,Goikelbräu,brewpub,2 Zum Sommerhof,,,Lohr am Main,Bayern,97816,Germany,+49 9359 9097840,http://www.goikelbraeu.de,9.656018,50.01212169999999
+6c5917bc-c6f3-4225-9628-a3e493835c9a,Goldener Engel,brewpub,4 Raiffeisenstraße,,,Waldstetten,Bayern,89367,Germany,+49 8223 1274,http://www.engelbrauerei.de,10.2944521,48.3491813
+7af10aee-fdf1-40ae-a3f0-dedd721ea3c4,Goldener Löwe,brewpub,26 Drügendorf,,,Eggolsheim,Bayern,91330,Germany,+49 9545 8583,http://www.brauerei-foerst.de,11.1167625,49.8070265
+079c76a2-0adc-4716-9424-01d5bf8b9fc4,Göller,brewpub,7 Scheßlitzer Straße,,,Memmelsdorf,Bayern,96117,Germany,+49 9505 1745,http://www.goeller-brauerei.de,10.971651,49.94078769999999
+1a7c8d69-8295-47a0-97f1-bd8b0d0f2bbd,Goss,brewpub,16 Regensburger Straße,,,Deuerling,Bayern,93180,Germany,+49 9498 1512,http://www.brauerei-goss.de/,11.9076069,49.0350368
+88a65fa2-1755-43e5-9d7d-945b855b5ac5,Gradl,brewpub,6 Leups,,,Pegnitz,Bayern,91257,Germany,+49 9246 247,http://www.leupser.de/,11.5245981,49.81298409999999
+9f8f664a-b8ba-4a38-98df-5350db505512,Graf Arco,brewpub,14 Hauptstraße,,,Eichendorf,Bayern,94428,Germany,+49 9952 280,http://www.graf-arco.de,12.8368395,48.6341354
+f035b6f3-2125-452a-9615-31d503a6b3f0,Graminger Weissbräu,brewpub,79 Graming,,,Altötting,Bayern,84503,Germany,+49 8671 96140,http://www.graminger-weissbraeu.de,12.6668034,48.211029
+d60cfa3a-683e-4b17-b05d-41d66250bb56,Grasser,brewpub,25 Huppendorf,,,Königsfeld,Bayern,96167,Germany,+49 9207 270,http://www.huppendorfer-bier.de,11.150008,49.9320062
+5c848c89-5fcd-427c-9fe0-50a1f250f54c,Greif,brewpub,10 Serlbacher Straße,,,Forchheim,Bayern,91301,Germany,+49 9191 727920,http://www.brauerei-greif.de,11.0591894,49.7256641
+5b9acb35-0669-4869-ad0b-93add02c0f9b,Greifenklau,brewpub,20 Laurenziplatz,,,Bamberg,Bayern,96049,Germany,+49 951 53219,http://www.greifenklau.de,10.8821241,49.8836721
+5069335c-64b5-41ed-98f2-0db395c70441,Griesbräu,brewpub,37 Obermarkt,,,Murnau am Staffelsee,Bayern,82418,Germany,+49 8841 1422,http://www.griesbraeu.de,11.200572,47.6799353
+f8972817-a555-491e-b1d8-4cfd00fe87f4,Griess,brewpub,6 Magdalenenstraße,,,Strullendorf,Bayern,96129,Germany,+49 9505 1624,http://www.brauerei-griess.de,11.0113069,49.8805286
+304286b4-c9e7-4fba-824c-3531dcafcf7e,Grosch,brewpub,3 Coburger Straße,,,Rödental,Bayern,96472,Germany,,http://www.der-grosch.de,11.0266661,50.2877473
+24e35e4c-a64e-4a30-a577-a7c9e16d4015,Gundel,brewpub,15 Nördlinger Straße,,,Kammerstein,Bayern,91126,Germany,+49 9178 1504,http://www.brauerei-gundel.de,10.9280372,49.2744636
+6a6bb1e6-889e-47bc-9f33-05460243274b,Günther-Bräu,brewpub,27 In der Au,,,Burgkunstadt,Bayern,96224,Germany,+49 9572 386650,http://www.guenther-braeu.de,11.24823,50.13639999999999
+5a290fbb-5e8e-4f52-9d04-dea0c165c09c,Gut Forsting,brewpub,23 Münchner Straße,,,Pfaffing,Bayern,83539,Germany,+49 8094 1011,http://www.brauerei-gut-forsting.de,12.0891,48.08125
+2525ce71-1da1-4677-85a7-5723ac441d9a,Gutmann,brewpub,1 Am Kreuzberg,,,Titting,Bayern,85135,Germany,+49 8423 99660,http://www.brauerei-gutmann.de,11.2079458,48.99454919999999
+c593265c-7421-43d3-8cd6-11f21e3dc173,Gutsbräu,brewpub,1 Scheibe,,,Salzweg,Bayern,94121,Germany,+49 8505 93410,http://www.gutsbraeu.de,13.479179,48.635466
+895c2c82-8003-424b-a7a5-306755dfcde7,Haberstumpf,brewpub,31 Bergstraße,,,Trebgast,Bayern,95367,Germany,+49 9227 351,http://www.brauerei-haberstumpf.de,11.5457537,50.0723274
+cf96fce3-b0ee-438b-a4c4-d2223f583392,Hacklberg,brewpub,3 Bräuhausplatz,,,Passau,Bayern,94034,Germany,+49 851 50150,http://www.hacklberg.de,13.4434237,48.57780899999999
+82a821c6-b99d-401e-ba39-f79a2ae5e942,Haderner Bräu,brewpub,56a Großhaderner Straße,,,München,Bayern,81375,Germany,+49 89 92581988,http://www.haderner.de,11.4822463,48.1226804
+4f3bbd77-eae6-4111-a75f-6c101dc6abe8,Haidbräu,brewpub,41 Admiralbogen,,,München,Bayern,80939,Germany,+49 89 54047373,http://www.awo-muenchen.de/psychiatrie/awo-muenchen-conceptliving-gmbh/taetigkeitsfelder-und-standorte/haidbraeu/,11.6142492,48.2102829
+f080a133-0ee0-4772-a947-d80bd8f898a0,Häpfenbräu,brewpub,4 Am Bahnhof,,,Rammingen,Bayern,86871,Germany,+49 1512 9777903,http://www.braustadel-rammingen.de,10.5650688,48.0641512
+e5bf58bd-89b2-4dfc-a4c5-a412f9c35aaa,Hartl Bräu,micro,13 Industriestraße,,,Lappersdorf,Bayern,93138,Germany,+49 941 2800666,https://www.hausler-lappersdorf.de/,12.0910414,49.0584314
+98362eae-ed4c-4fb1-952c-673181ba4132,Hartl's Hausbrauerei,micro,5 Duringstraße,,,Türkenfeld,Bayern,82299,Germany,+49 8193 999517,http://www.gasthof-hartl.de,11.0859833,48.1075236
+f284736b-5d5b-41b0-a667-38316f62bed7,Hartleb,brewpub,9 Herrenstraße,,,Maroldsweisach,Bayern,96126,Germany,+49 9532 240,https://de-de.facebook.com/pages/Hartleb-Irmgard-Gastst%C3%A4tte-Brauerei/158561980838544,10.6607834,50.1966511
+f8642be5-23b2-47e7-8e9d-44fd7972cd6b,Hartmann,brewpub,26 Fränkische-Schweiz-Straße,,,Scheßlitz,Bayern,96110,Germany,+49 9542 920300,http://www.brauerei-hartmann.de,11.0898405,49.9791286
+e99ec846-7b9c-45f5-aea7-3c5c51dbe181,Hasen-Bräu,brewpub,36 Berliner Allee,,,Augsburg,Bayern,86153,Germany,+49 821 32990,http://www.kaelberhalle.de,10.9181108,48.3726464
+68db59f2-309e-4e26-b8d0-baca8c0b07f1,Hauf,brewpub,28 Heininger Straße,,,Dinkelsbühl,Bayern,91550,Germany,+49 9851 57520,http://www.hauf-bier.de,10.34418,49.06744
+dd157db9-d742-4efd-94bc-b8710f84870b,Hauff-Bräu,brewpub,28 Heininger Straße,,,Dinkelsbühl,Bayern,91550,Germany,+49 9851 57520,http://www.hauff-braeu.de,10.34418,49.06744
+980edf15-e774-404a-a687-d9fe557a0bef,Hausbräu,brewpub,6 Ruhlstraße,,,Stegaurach,Bayern,96135,Germany,+49 951 299709,http://www.hausbraeu-stegaurach.de,10.8551978,49.8606134
+3e446925-b16c-4854-b905-a5646e7727eb,Hausbrauerei Höpfl,brewpub,17 Steinfelder Straße,,,Steinfeld,Bayern,97854,Germany,+49 9396 1532,http://www.hausbrauerei-hoepfl.de,9.6287065,49.944489
+5cfe0eb0-5479-4e64-9f78-d7d708854a82,Hebendanz,brewpub,14 Sattlertorstraße,,,Forchheim,Bayern,91301,Germany,+49 9191 9790500,http://www.brauerei-hebendanz.de,11.0567992,49.7202231
+3cd041d8-c2f7-4a4b-9b76-8e1a68e22aae,Heberbräu,brewpub,14 Auerbacher Straße,,,Kirchenthumbach,Bayern,91281,Germany,+49 9647 929718,http://www.heberbraeu.de,11.72389,49.74596
+9cee6e35-2c75-4f92-8b64-904d6fc11f6f,Hechtbräu,brewpub,59 Zimmern,,,Pappenheim,Bayern,91788,Germany,+49 9143 212569,http://www.hechtbraeu-zimmern.de,10.98369,48.92698
+7162c7e4-aba2-4f1e-bd17-15c985e19f41,Heckel,brewpub,3 Vorstadt,,,Waischenfeld,Bayern,91344,Germany,+49 9202 493,https://www.facebook.com/share/p/189zjDdNch/,11.3463649,49.8451251
+41d6185d-91a4-4cf5-bcf2-a46c1ebf7c95,Heimat- & Bauernkriegsmuseum,micro,1 Stadtberg,,,Leipheim,Bayern,89340,Germany,+49 8221 72095,http://www.leipheim.de/index.php?selected_page_id=1622,10.2195256,48.4497821
+52547766-f12c-441d-961d-e1a3e6e4ff97,Heimbergers Craftbeer,brewpub,25 Flemingstraße,,,Hösbach,Bayern,63836,Germany,+49 6021 550872,http://www.facebook.com/craftladen/,9.194619699999999,50.0035237
+a8a839e8-7958-4cd9-809f-e8053ab61fe5,Heinen's Craft Beer,brewpub,25 Flemingstraße,,,Hösbach,Bayern,63836,Germany,+49 6021 550872,http://www.facebook.com/DieterHeinenBrauerei/,9.194619699999999,50.0035237
+c50d2241-90db-46c8-a858-d587d1c41b62,Held-Bräu,brewpub,19 Oberailsfeld,,,Ahorntal,Bayern,95491,Germany,+49 9242 295,http://www.held-braeu.de,11.35353,49.81245999999999
+ad6b75a4-4e80-4519-9cc2-6033ae03ad7c,Heldrich,brewpub,3 Sulzbacher Straße,,,Edelsfeld,Bayern,92265,Germany,+49 9665 441,http://www.fc-edelsfeld.de/,11.696092,49.5769402
+2f06d681-136c-4b5c-aa65-8f05b7443d09,Heller,brewpub,27 Oberer Stephansberg,,,Bamberg,Bayern,96049,Germany,+49 951 56060,http://www.smokebeer.com,10.8872004,49.8863561
+b1bf179e-200b-40a4-8a37-c627418e9884,Hellmuth,brewpub,14 Wiesen,,,Bad Staffelstein,Bayern,96231,Germany,+49 9573 4395,http://www.gasthaus-hellmuth.de,10.9499288,50.0961345
+1a5a3fad-4a6a-4264-a2bf-7905360d0a11,Hembach,closed,4 Siemensstraße,,,Rednitzhembach,Bayern,91126,Germany,+49 179 9471670,,11.0490865,49.3128237
+693e7819-b228-4607-8fb0-be1b32506628,Hennemann,brewpub,33 Sambach,,,Pommersfelden,Bayern,96178,Germany,+49 9502 4307,http://www.brauerei-hennemann.com,10.8419583,49.7808831
+3945e88e-f2fc-4c32-a6e0-0521c527ef37,Herold,closed,29 Marktstraße,,,Pegnitz,Bayern,91257,Germany,+49 9241 3311,http://www.beckn-bier.de,11.5102068,49.79403490000001
+1c3881d7-8f89-4595-a3ff-9d726d8cab09,Herr Max & Frau Hopfen,closed,1 Schloßweg,,,Holzgünz,Bayern,87752,Germany,+49 8393 9437870,http://www.herrmaxundfrauhopfen.de,10.2598894,48.0221381
+49fe05ef-66d5-41f5-a555-977814ce1924,Herrmann,brewpub,3 Brückenstraße,,,Burgebrach,Bayern,96138,Germany,+49 9546 372,http://www.brauerei-herrmann.franken-regio.de,10.7309815,49.8456206
+74e95ac8-7d48-48e1-90fb-34b38fa3cd9b,Herrmannsdorfer Schweinsbräu,brewpub,7 Herrmannsdorf,,,Glonn,Bayern,85625,Germany,+49 8093 909445,http://www.herrmannsdorfer.de,11.8980804,47.9933215
+180bf93e-96a5-481e-9c3a-38a321013b0f,Herrnbräu,brewpub,95 Manchinger Straße,,,Ingolstadt,Bayern,85053,Germany,+49 841 6310,http://www.herrnbraeu.de,11.4656471,48.7484823
+80a3e6bc-291a-46f4-9ddc-e76282d3ffbf,Herzogliches Brauhaus,brewpub,1 Schloßplatz,,,Tegernsee,Bayern,83684,Germany,+49 8022 18020,http://www.braeustueberl.com,11.7564449,47.70781059999999
+90a3f492-8ef7-4f15-9829-6bd2bc91af1d,Herzogsberg Bräu,brewpub,6 St.-Martin-Straße,,,Velburg,Bayern,92355,Germany,+49 9182 170,https://www.winkler-braeu.de/?utm_source=google&utm_medium=organic&utm_campaign=google_mybusiness&utm_term=hotel,11.628994,49.23766999999999
+133b9d57-f826-42f1-8f5b-93a2e24da16a,Hetzel,brewpub,11 A Frauendorf,,,Bad Staffelstein,Bayern,96231,Germany,+49 9573 6435,http://www.brauerei-hetzel.de/,11.06148,50.07127999999999
+54420e8a-9593-4bfd-ac20-952e64d1791b,Higgins Ale Works,brewpub,122 Karlstraße,,,München,Bayern,80335,Germany,+49 1525 7513113,http://www.higginsaleworks.com,11.5523408,48.1473322
+4aa22d3a-6809-47f1-bb45-d498c0855fe5,Hintereder,brewpub,48 Chammünster,,,Cham,Bayern,93413,Germany,+49 9971 3625,,12.694225,49.21099599999999
+17479050-c70b-41c0-97e4-7e89800ffdda,Hinterhofbräu,brewpub,2a Auenstraße,,,Aichach,Bayern,86551,Germany,+49 174 3265962,http://www.hinterhofbraeu-aichach.de,11.1345363,48.462405
+c241cc7c-c14f-46a1-8d68-efb214ee784e,Hirschbräu Gaissmaier,brewpub,1 Ulmer Straße,,,Leipheim,Bayern,89340,Germany,+49 8221 71411,,10.2185459,48.4491348
+b11bc011-1eef-4384-b07e-bffc01cd5a51,Hochholzer Brauhaus,closed,4a Hochholz,,,Solnhofen,Bayern,91807,Germany,+49 9145 837237,http://www.hochholzer-brauhaus.de,11.0294007,48.9007699
+2696375a-6ffb-4517-a609-f38c02bf6927,Hofbräu,brewpub,3 Stadionstraße,,,Abensberg,Bayern,93326,Germany,+49 9443 905666,http://www.hofbraeu.com,11.851301,48.8170359
+ecc6e778-ac00-4883-bd8c-3e6865a7ff5e,Hofbräu Oberle,brewpub,24 Am Deckersweiher,,,Erlangen,Bayern,91056,Germany,,http://www.fischerei-oberle.de,10.9352579,49.6004303
+c50351c1-18bc-4f45-9c45-9791f731f481,Hofbrauhaus,brewpub,15 Bräuhausstraße,,,Berchtesgaden,Bayern,83471,Germany,+49 8652 96640,http://www.hofbrauhaus-berchtesgaden.de,13.00716,47.63447
+5c104766-1433-4194-8975-e17fa2044905,Hofbräuhaus,brewpub,6 Hofgasse,,,Traunstein,Bayern,83278,Germany,+49 861 988660,http://www.hb-ts.de,12.6507064,47.868965
+1095a960-4475-4a1c-ae34-764c082cb401,Hofmann,micro,1 Dettendorfer Straße,,,Gutenstetten,Bayern,91468,Germany,,http://www.hofmann-bier.de,10.6565412,49.6188969
+4fe7f2e8-8dfd-4c9d-8296-9350d676f77c,Hofmark,brewpub,15 Hofmarkstraße,,,Traitsching,Bayern,93455,Germany,+49 9971 3301,http://www.hofmark-bier.de,12.6396994,49.1668282
+c7123859-522c-415d-8669-ca521c4fd55c,Hofmühl,brewpub,10 Hofmühlstraße,,,Eichstätt,Bayern,85072,Germany,+49 8421 980820,http://www.hofmuehl.de,11.1681128,48.8936305
+e3a53892-360f-48c2-a328-2a2eacb687fa,Hoh,brewpub,4 Köttensdorf,,,Scheßlitz,Bayern,96110,Germany,+49 9542 627,https://facebook.com/people/Brauerei-Hoh/100063520905616/,11.0200426,49.9552026
+c874aff5-cef8-4e65-beff-e516aeb6e7e8,Hohe-Wart-Bräu,brewpub,,,,Hohe Wart,Bayern,63875,Germany,+49 6021 33980,http://www.hohewart-haus.de,9.2574728,49.9178822
+60fc1d3e-9baa-4594-b470-1ddbcd74f008,Höhn,brewpub,11 Hauptstraße,,,Memmelsdorf,Bayern,96117,Germany,+49 951 406140,http://www.gasthof-hoehn.de,10.9527064,49.9325905
+bcb6bf66-2993-47d9-954b-f4747ca2c59a,Holzhauser,brewpub,8 Hauptstraße,,,Igling,Bayern,86859,Germany,+49 8241 4758,http://www.holzhauser-brauerei-gasthaus.de,10.7767543,48.0471359
+0e88701d-40e0-47a3-a76e-0bee5ea7a67d,Hölzlein,brewpub,13 Ellertalstraße,,,Litzendorf,Bayern,96123,Germany,+49 9505 357,http://www.brauerei-hoelzlein.de,11.044932,49.9165066
+fe7672c1-6d21-414c-a60d-bbb7eb4776a4,Homburger Bräuscheuere,brewpub,6 Zeller Tor,,,Triefenstein,Bayern,97855,Germany,+49 9395 876882,http://www.braeuscheuere.de,9.6232378,49.7927571
+2167a161-0731-45e5-bfaf-5c983ed76669,Hönicka-Bräu,brewpub,31 Hofer Straße,,,Wunsiedel,Bayern,95632,Germany,+49 9232 2044,http://www.hoenicka.de/start.htm,11.9961568,50.0415749
+e8ec9985-695f-4f4a-9b0a-c75ef15d7395,Hönig,brewpub,15 Ellerbergstraße,,,Litzendorf,Bayern,96123,Germany,+49 9505 391,http://www.brauerei-hoenig.de,11.0742343,49.9188376
+edbca112-5f80-420c-834d-1a9f8688bc14,Honig Bräu,closed,200 Frankenstraße,,,Nürnberg,Bayern,90461,Germany,,http://www.honig-braeu.de,11.0947853,49.4305623
+36bd1d2b-aa4d-4007-9962-c415e119d13e,Hopf,brewpub,8 Schützenstraße,,,Miesbach,Bayern,83714,Germany,+49 8025 29590,http://www.hopfweisse.de,11.83114,47.79396
+34bdfdb4-6fe5-4f1f-ad10-494afc7cb9ff,Hopfenfreunde,brewpub,12 Platanenweg,,,Fürth,Bayern,90765,Germany,+49 176 43618002,http://www.brauhaus-hopfenfreunde.de,10.98203,49.5071
+014ae6ea-861b-418f-9e32-3263b1b4e49e,Hopfenhäcker,brewpub,78 Unterhachinger Straße,,,München,Bayern,81737,Germany,,http://www.hopfenhaecker.de,11.6248474,48.0940883
+59053860-b6aa-449e-a9d1-adbabdada88b,Hopfenhäusla,brewpub,22 Schützenstraße,,,Münchberg,Bayern,95213,Germany,+49 9251 4371347,http://www.hopfenhaeusla.de,11.7947498,50.1993628
+077e96c0-bca9-4e00-8a2e-01074d86c52a,Hopfentroll,brewpub,5 Wintersbach,,,Weilbach,Bayern,63937,Germany,+49 1573 1693777,http://www.facebook.com/Hopfentroll-192096707964981/,9.2028793,49.66835
+d53dffbb-0dd5-4378-9e89-2fa1f94d64e4,Horneck,brewpub,7 Horneck,,,Elsendorf,Bayern,84094,Germany,+49 8753 503,http://www.brauerei-horneck.de,11.8513198,48.70104329999999
+248bc078-ca7f-46ca-a407-44225e692536,Hösl,brewpub,1 Bahnhofstraße,,,Mitterteich,Bayern,95666,Germany,+49 9633 92220,http://www.hoeslbier.de,12.24247,49.95008
+ad57ded9-b4ab-41d1-8204-3921db6616ab,Hübner,brewpub,28 Hauptstraße,,,Wattendorf,Bayern,96196,Germany,+49 9504 207,http://www.brauerei-huebner.de,11.1262986,50.0324973
+7667eb49-cb7b-4ade-8999-742ac20a4055,Hübner-Bräu,brewpub,69 Steinfeld,,,Stadelhofen,Bayern,96187,Germany,,http://www.huebner-braeu.de,11.1546838,49.9780658
+ea171fc7-97b3-4869-bc42-ae1a8ecff57a,Hufeisen,brewpub,36 Hauptstraße,,,Pottenstein,Bayern,91278,Germany,+49 9243 260,http://www.hufeisen-braeu.de,11.4104511,49.77111499999999
+4d66a68e-889c-4271-9779-c8817be4c853,Hummel,brewpub,9 Lindenstraße,,,Memmelsdorf,Bayern,96117,Germany,+49 9542 1247,http://www.brauerei-hummel.de,10.9583182,49.959515
+7054d20b-b10a-4876-9372-1d037d969397,Hümmer Bräu,closed,22 Bamberger Straße,,,Breitengüßbach,Bayern,96149,Germany,+49 9544 20344,http://www.pensionkarin.de,10.8853528,49.96954419999999
+f5fc4b9a-01fb-4d06-9a71-7ebf76a9e82b,Hütten,brewpub,6-8 Hütten,,,Warmensteinach,Bayern,95485,Germany,+49 9277 312,http://www.brauerei-huetten.de,11.8121829,50.00534769999999
+c01d5e4f-db12-4c95-a691-2626afff39d1,Hutthurmer,brewpub,8 Bräugasse,,,Hutthurm,Bayern,94116,Germany,+49 8505 8695810,http://www.hutthurmer.de,13.4713747,48.6741366
+495db1a6-382a-4b79-8909-1f405d454a23,Inselbräu,brewpub,28 Frauenchiemsee,,,Frauenchiemsee,Bayern,83256,Germany,+49 8054 902088,http://www.inselbraeu-frauenchiemsee.de,12.4255211,47.8741132
+e954f96e-0f25-4c11-9a12-fb9130ab6e69,Institut Romeis,micro,21 Schlimpfhofer Straße,,,Oberthulba,Bayern,97723,Germany,+49 9736 75160,http://www.institutsbrauerei.de,9.9683553,50.2065518
+050dc670-a2e1-4dd6-b5a2-fc050e2f94b2,Irseer Klosterbräu,brewpub,1-3 Klosterring,,,Irsee,Bayern,87660,Germany,+49 8341 432200,http://www.irsee.com,10.5755602,47.9091403
+fd4ae60f-fcc5-47da-8d84-78fd3af1290e,Isartaler Brauhaus,brewpub,23b Kreuzeckstraße,,,Pullach im Isartal,Bayern,82049,Germany,+49 89 798961,http://www.isartaler-brauhaus.de,11.5311041,48.0709648
+7a94a013-e7d1-4dd1-9e19-818cc85a176c,Jacob,brewpub,2 Ludwigsheide,,,Bodenwöhr,Bayern,92439,Germany,+49 9434 94100,http://www.brauerei-jacob.de,12.3050392,49.2711318
+17e4b190-86ef-4a71-97e3-e35ddd6b75c5,Joferbräu,brewpub,6 Mainburger Straße,,,Aiglsbach,Bayern,84089,Germany,+49 8753 8126,http://www.joferbraeu.de,11.7136215,48.6914249
+222a3ade-c662-4439-bf80-504ef372cf18,Juliusbräu,brewpub,135B Augsburger Straße,,,Neuburg an der Donau,Bayern,86633,Germany,+49 8431 2069,http://www.neuwirt-neuburg.de,11.1812,48.72699
+295bfd97-20cc-4b4a-932a-fbc146067a2f,Jura-Bräu,brewpub,8 Am Buchauer Berg,,,Pegnitz,Bayern,91257,Germany,+49 9241 2019,http://www.jura-braeu.de,11.5429,49.758585
+5c27d4f5-03e1-4afc-aec6-bf3a20bb6284,Kaiser-Bräu,brewpub,1 Oberer Markt,,,Neuhaus an der Pegnitz,Bayern,91284,Germany,+49 9156 880,http://www.kaiser-braeu.de,11.5495378,49.6281413
+2854d9f1-6c5b-46a1-b169-472015ec9eeb,Kaiserdom,brewpub,9 Breitäckerstraße,,,Bamberg,Bayern,96049,Germany,+49 951 60450,http://www.kaiserdom.de,10.85236,49.90425
+fe7b8c83-cc23-41ea-9fbf-993d278979a6,Kaiserhof,brewpub,1 Friesener Straße,,,Kronach,Bayern,96317,Germany,+49 9261 628000,http://www.kaiserhofbraeu.de,11.327765,50.241246
+b4924c5f-3213-4565-a50e-34cd6d2b2e6f,Kaltentaler Brauhaus,brewpub,12 Blonhofener Straße,,,Kaltental,Bayern,87662,Germany,+49 8345 1565,http://www.kaltentaler-brauhaus.de,10.75334,47.91126999999999
+a225ae70-e1cc-49c1-b22d-43706af9cded,Kalvarienbergbräu,brewpub,3 Hafnerweg,,,Marklkofen,Bayern,84163,Germany,+49 1512 2907482,http://www.facebook.com/kalvarienbergbraeu,12.547864,48.5676964
+be3b6cbf-6b8e-480d-8fc2-70bf1e3734b3,Kanone,brewpub,1a Brückenstraße,,,Schnaittach,Bayern,91220,Germany,+49 9153 366,http://www.brauerei-kanone.de,11.3385956,49.5714005
+53b98572-b064-4043-a485-91d17db3d098,Kapplerbräu,brewpub,8 Nerbstraße,,,Altomünster,Bayern,85250,Germany,+49 8254 777,http://www.kapplerbraeu.de,11.25766,48.38724
+5dc48a5d-01eb-4826-be59-c5c357e6e09c,Karg,brewpub,27 Untermarkt,,,Murnau am Staffelsee,Bayern,82418,Germany,+49 8841 1268,http://www.brauerei-karg.de,11.2016458,47.6767159
+00e1b34e-1082-411b-808e-51d85bff935e,Karmeliten,brewpub,21 Senefelderstraße,,,Straubing,Bayern,94315,Germany,+49 9421 78190,http://www.karmeliten-brauerei.de,12.62189,48.88795
+8ed2d985-a269-4f56-b324-215c044ee948,Karmeliter-Bräu,closed,7 Ludwig-Elsbett-Straße,,,Salz,Bayern,97616,Germany,+49 9771 1323,http://www.karmeliter-braeu.de,10.1919788,50.2960498
+79037d41-38b6-4ef2-b361-04efe0e222fa,Kathi-Bräu,brewpub,1 Heckenhof,,,Aufseß,Bayern,91347,Germany,+49 9198 277,https://www.kathibraeu.de/,11.2447417,49.8793306
+e70e01df-5cdf-458a-9dc5-6df9e42146af,Katzerer,brewpub,2 Sondersfeld,,,Freystadt,Bayern,92342,Germany,+49 9185 903813,http://www.sondersfeld.de/katzerer.htm,11.3884519,49.2151607
+22b413fe-a9af-4f5e-a26f-5bfb9b656682,Kauzen,brewpub,17 Uffenheimer Straße,,,Ochsenfurt,Bayern,97199,Germany,+49 9331 87250,http://www.kauzen.de,10.0711964,49.659691
+c96f2cb2-4aca-4a96-b032-d8dce77f52b0,Ke,brewpub,2 Alfred-Stumpf-Straße,,,Lohr am Main,Bayern,97816,Germany,+49 9352 7328,http://www.keiler-brauhaus.de,9.571358199999999,49.9947533
+8c8bd0ad-fcc8-47ac-89a1-c71a8245f3a0,Keesmann,brewpub,5 Wunderburg,,,Bamberg,Bayern,96050,Germany,+49 951 981980,http://www.keesmann-braeu.de,10.9056038,49.8904222
+f52d8c62-2f5a-4dca-9e90-b5a4e36c3deb,KellerBräu Dorfen,brewpub,2 Jahnstraße,,,Dorfen,Bayern,84405,Germany,+49 8081 8143,https://www.instagram.com/kellerbraeu_dorfen/,12.1517057,48.2757604
+29f70ef7-ca88-4183-9f3c-45771f57ff2e,Kellerbrauerei Prittlbach,brewpub,6 Angerstraße,,,Hebertshausen,Bayern,85241,Germany,+49 8131 338448,http://www.kellerbrauerei-prittlbach.de,11.44477,48.2865
+7b346fe5-6b3d-4a35-b562-c3b77db9391f,Kesselbräu,brewpub,13 Leithenbukweg,,,Marktsteft,Bayern,97342,Germany,+49 9332 50630,https://www.kesselring-bier.de/,10.1376365,49.6994147
+f16be512-5f4d-4c98-b568-c4be9b2ff34c,Kesselring,brewpub,13 Leithenbukweg,,,Marktsteft,Bayern,97342,Germany,+49 9332 50630,http://www.kesselring-bier.de,10.1376365,49.6994147
+9f608762-2758-4ca4-b6d7-da8b45ec9259,Kini Bier,brewpub,34 Deutschenbaurstraße,,,Augsburg,Bayern,86157,Germany,+49 821 524255,http://www.kini.beer,10.8687582,48.3688732
+596fa47f-2072-4c7d-8892-23c0f43ce3da,Kirnachstuben,brewpub,38 Hauptstraße,,,Ruderatshofen,Bayern,87674,Germany,+49 8343 340,http://www.kirnachstuben.de,10.58466,47.81804
+0102aec0-8de7-4e68-99f5-5ef3fc798541,Kleinbrauerei Rain,bar,52 Hauptstraße,,,Rain,Bayern,86641,Germany,,http://www.kleinbrauerei-rain.de,10.9156483,48.690323
+c9bdae9c-fda2-4e74-b2b0-b757a00a0145,Kleines Brauhaus,brewpub,21 Senefelderstraße,,,Straubing,Bayern,94315,Germany,+49 9421 78190,https://www.karmeliten-brauerei.de/,12.62189,48.88795
+cfe647e7-92b2-447d-a602-db72b29a3962,Kleines Pleinfelder Brauhaus,brewpub,19 Egloffsteiner Straße,,,Pretzfeld,Bayern,91362,Germany,+49 9194 725025,http://www.landhotel-sonnenhof.de,11.1756891,49.7559717
+5a5035a5-3d55-476c-a0da-bf6fe6989098,Klett-Bräu,brewpub,8 Johann-Dachauer-Straße,,,Konzell,Bayern,94357,Germany,+49 9963 805,http://www.bier.by/brauerei-guide/klett-brau-1.3495815,12.7130995,49.0723503
+f779ee97-4d52-4792-a27d-7f916c8be618,Klier Bräu,brewpub,23a Reuteweg,,,Blaichach,Bayern,87544,Germany,+49 8321 608657,http://www.klier-bier.de,10.2490773,47.5420542
+ff726816-c4ce-4900-93b7-1d18030e301d,Klingenbrunn,brewpub,15 Frauenauer Straße,,,Spiegelau,Bayern,94518,Germany,+49 8553 6018,,13.32121,48.9204
+664949a1-0815-420b-b46d-dba796abc00c,Klosterbräu,brewpub,1-3 Obere Mühlbrücke,,,Bamberg,Bayern,96049,Germany,+49 951 52265,http://www.klosterbraeu.de,10.887197,49.889257
+478a5b5d-3c9c-4128-987c-fb14fa00e107,Klosterbrauerei,brewpub,1 Kaiser-Ludwig-Platz,,,Ettal,Bayern,82488,Germany,+49 8822 746450,http://www.ettaler.info,11.0948932,47.5702104
+736c96a2-9c53-42a2-80de-fc88a3270602,Klosterbrauerei Andechs,brewpub,2 Bergstraße,,,Andechs,Bayern,82346,Germany,+49 8152 3760,http://www.andechs.de,11.1850171,47.9762819
+edae5392-6ee7-40ba-850e-0b049d29bc27,Klosterbrauerei Dietl,brewpub,20 Baumburg,,,Altenmarkt an der Alz,Bayern,83352,Germany,+49 8621 98260,http://www.baumburger.de,12.5311766,47.998781
+f5e94eb7-4b3d-4f42-85ea-b8335889df1a,Klosterbräuhaus,brewpub,2 Dominikus-Ringeisen-Straße,,,Ursberg,Bayern,86513,Germany,+49 8281 99890,http://www.klosterbraeuhaus.de,10.4451218,48.26554489999999
+7bd12803-6b5d-418c-9243-6c46921c0cf6,Kneitinger,brewpub,3 Arnulfsplatz,,,Regensburg,Bayern,93047,Germany,+49 941 52455,http://www.kneitinger.de,12.0890713,49.0197079
+e0a2a6c4-3c7f-436e-a532-642674fcfb41,Knoblach,brewpub,1 Kremmeldorfer Straße,,,Litzendorf,Bayern,96123,Germany,+49 9505 267,http://www.brauerei-knoblach.de,11.0061771,49.9261067
+60310902-998f-4c6b-88b4-983a7b392900,Kohlenmühle,brewpub,53 Bamberger Straße,,,Neustadt an der Aisch,Bayern,91413,Germany,+49 9161 662270,http://www.kohlenmuehle.de,10.6145628,49.5839028
+75956613-ee66-495a-8c93-8de2ed7fa722,Kolb,brewpub,24 Illertisser Straße,,,Roggenburg,Bayern,89297,Germany,+49 7300 301,http://www.brauerei-kolb.de,10.2208057,48.2653822
+51d97425-2e9e-4545-81b6-99c810b280ad,Kommunbräu,brewpub,17 Grünwehr,,,Kulmbach,Bayern,95326,Germany,+49 9221 84490,http://www.kommunbraeu.de,11.4653096,50.11075899999999
+6dd9b403-f0fa-4854-9247-a9c8809217de,Kommunbräu Rehau,micro,1 Fabrikstraße,,,Rehau,Bayern,95111,Germany,,http://www..kommunbraeu-rehau.de,12.0355156,50.2497598
+6727090e-8476-4b82-a83a-f1a9b2426e7e,Kommunbrauerei,brewpub,13 Vorstadt,,,Mitterteich,Bayern,95666,Germany,,http://www.mitterteich.de/home/einrichtungen/verteiler_1/verteiler_5/verteiler_5.htm,12.2408871,49.9499268
+5a7fd707-4e34-4f55-b464-1078c06f3302,Kommunbrauhaus,brewpub,105 Maximiliansplatz,,,Seßlach,Bayern,96145,Germany,+49 9569 452,http://www.gasthof-reinwand.de/brauhaus.htm,10.8415585,50.1877035
+63995c47-27eb-4ec8-ad49-21324c2040c9,König Ludwig Br. Holzkirchen,brewpub,41 Augsburger Straße,,,Fürstenfeldbruck,Bayern,82256,Germany,+49 8141 2430,http://www.oberbraeu-holzkirchen.de,11.251905,48.1828857
+c5195e07-5f1b-4b08-b676-af33c4f80e88,König von Flandern,brewpub,25 Maximilianstraße,,,Augsburg,Bayern,86150,Germany,+49 821 20709818,http://www.koenigvonflandern.de,10.8985536,48.36745730000001
+00157704-9821-43e7-9ed9-7fbe58f040f6,Kössel-Bräu,brewpub,17 Mariahilfer Straße,,,Eisenberg,Bayern,87637,Germany,+49 8364 8556,http://www.koessel-braeu.de,10.6128103,47.6103922
+dd2b8448-8b93-4ca3-bb10-ee3fd9c48ec2,Kraus,brewpub,11 Luitpoldstraße,,,Hirschaid,Bayern,96114,Germany,+49 9543 84440,http://www.brauerei-kraus.de,10.987145,49.8158179
+13a9865e-335a-4a3d-a23d-acc4547e44fb,Kreisheimatstube,micro,Schwaninger-Strasse 18,,,Ellzee,Bayern,89352,Germany,,,10.2945984,48.3164598
+0da08afd-c3f2-4812-a421-7694b66ef1b1,Krieger,brewpub,6 Oberer Stadtplatz,,,Landau an der Isar,Bayern,94405,Germany,+49 9951 6049144,http://www.brauerei-krieger.de,12.6908333,48.6697222
+bf09f033-65db-4428-a3ce-fd84bf7aad38,Kronburger,brewpub,21 Hauptstraße,,,Kronburg,Bayern,87758,Germany,+49 8394 237,http://www.brauerei-kronburg.de,10.15767,47.90434
+b8c30da4-fe68-4063-9a9a-8ae9f9274032,Kronprinz,brewpub,109 Gaustadter Hauptstraße,,,Bamberg,Bayern,96049,Germany,+49 951 96430514,http://www.kronprinz.beer,10.8649128,49.9026341
+cb21d89c-6aac-4534-b905-ab2250550efb,Krug-Bräu,brewpub,1 Breitenlesau,,,Waischenfeld,Bayern,91344,Germany,+49 9202 835,http://www.krug-braeu.de,11.2918161,49.86180479999999
+0f4d3c35-fe1e-4112-b3b0-68567627c721,Kuchlbauer,brewpub,5 - 9 Römerstraße,,,Abensberg,Bayern,93326,Germany,+49 9443 91010,http://www.kuchlbauer.de,11.84277,48.81684
+b0120898-a489-42e1-b22b-b7abab8fdd61,Kühbacher,brewpub,2 Großhausener Straße,,,Kühbach,Bayern,86556,Germany,+49 8251 89660,http://www.brauereikuehbach.de,11.1827919,48.4914609
+98631295-561e-47f4-a184-82a5d31b3845,Kulmbacher,brewpub,1 EKU-Straße,,,Kulmbach,Bayern,95326,Germany,+49 9221 7050,http://www.kulmbacher.de,11.4446048,50.1091194
+c7ba16ba-03e4-4dd0-8d9f-9558643eaf55,Kummert,brewpub,11 Raigeringer Straße,,,Amberg,Bayern,92224,Germany,+49 9621 15259,http://www.zumkummertbraeu.de,11.8731036,49.4442215
+e58762d2-72fc-4b11-9375-ab3c39bd6302,Kundmüller,brewpub,13 Weiher,,,Viereth-Trunstadt,Bayern,96191,Germany,+49 9503 4338,http://www.kundmueller.de,10.7517576,49.91301259999999
+e4038ffb-a1dc-4cd2-8876-65c3037d82d9,Kürzdörfer,brewpub,8 Brauhausgasse,,,Creußen,Bayern,95473,Germany,+49 160 91978835,http://www.brauerei-kuerzdoerfer.de,11.534404,49.8301649
+d1fc0ee6-fb08-4093-a674-d216e6a9529e,Lampl-Bräu,micro,2 Elsenheimerstraße,,,Wolnzach,Bayern,85283,Germany,+49 8442 7574,http://www.hopfenmuseum.de/,11.6277754,48.6040692
+6ee22be0-e70e-4394-b4fb-20b8d3f988b1,Landgasthof Hubertus,brewpub,2 Wenglinger Straße,,,Ruderatshofen,Bayern,87674,Germany,+49 8341 81976,http://www.apfeltranger-bier.de,10.5893173,47.8383544
+3c5db192-cd49-405c-aa5f-9b10f0050062,Landhausbräu Koller,brewpub,5 Hergertswiesen,,,Eurasburg,Bayern,86495,Germany,+49 8208 225,http://landhausbraeu-koller.de,11.117172,48.330994
+f9e9ee97-18e8-4ed9-a964-40a5a2af965e,Landshuter Brauhaus,brewpub,60 Opalstraße,,,Altdorf,Bayern,84032,Germany,+49 871 9239428,http://www.landshuter-brauhaus.de,12.0866409,48.5437579
+2ec1c955-396c-43f4-92e9-0cac92339b8d,Landwehr-Bräu,brewpub,31 Reichelshofen,,,Steinsfeld,Bayern,91628,Germany,+49 9865 9890,http://www.landwehr-braeu.de,10.21264,49.4400059
+97832eaa-ae4b-40bc-bba9-fb0d2b1615f0,Lang,brewpub,17 Hauptstraße,,,Jandelsbrunn,Bayern,94118,Germany,+49 8583 608880,http://www.jandelsbrunner.de,13.6900581,48.7304973
+2b25f54e-713a-454a-9a50-84e77fb13230,Lang-Bräu,brewpub,2 Langgasse,,,Freyung,Bayern,94078,Germany,+49 8551 57760,http://www.lang-braeu-freyung.de,13.5485892,48.80873560000001
+d4fec385-ddc0-4e1b-9baa-e23949375a92,Laufener Braukuchl,brewpub,2 Schloßplatz,,,Laufen,Bayern,83410,Germany,+49 178 8198232,http://www.braukuchl.at,12.9366478,47.9382076
+e995e042-cd1f-4fc4-b766-e874b89da75a,Lausbiggl Bräu,closed,70 Kleinhohenried,,,Karlshuld,Bayern,86668,Germany,+49 8454 962279,http://www.lausbiggl-braeu.de,11.3296376,48.66970629999999
+ee9bfdee-8bd5-4d5a-a387-cd817b0feb70,Leicht,closed,1 Pferdsfeld,,,Ebensfeld,Bayern,96250,Germany,,,10.9914904,50.0800473
+e3c935ad-7e88-41e2-b536-7d7636bf40af,Leidmann,brewpub,1 Bräustraße,,,Unterneukirchen,Bayern,84579,Germany,+49 8634 8087,http://www.brauerei-leidmann.de/,12.6188731,48.1627027
+fbfc8208-8406-4396-84b9-cadb550fbb67,Leikeim,brewpub,4 Gewerbegebiet,,,Altenkunstadt,Bayern,96264,Germany,+49 9572 75050,http://www.leikeim.info,11.2377195,50.1244964
+ddfd8974-6a37-4acd-8579-1a9bb81f23bc,Libertus Craft Brewing,micro,11 Brückenauer Straße,,,Hammelburg,Bayern,97762,Germany,+49 9732 780099,http://www.libertus.beer,9.8785101,50.14678019999999
+bd43b54b-1335-4296-9334-97bf5f49098c,Lieberth,brewpub,2 Forchheimer Straße,,,Hallerndorf,Bayern,91352,Germany,+49 9545 8558,https://www.bierland-franken.de/brauereien/brauerei-lieberth/,10.9821338,49.7590635
+c18c6e72-932a-47ad-8d4f-ac7b4a7c3866,Lindenbrauerei,brewpub,21 Memminger Straße,,,Mindelheim,Bayern,87719,Germany,+49 8261 1402,http://www.lindenbrauerei-mindelheim.de/,10.4795992,48.045184
+f06e3715-61ab-4342-9045-e12d203eb8b9,Lindner-Bräu,brewpub,4 Weißenregener Straße,,,Bad Kötzting,Bayern,93444,Germany,+49 9941 1429,http://www.lindner-bier.de,12.8561031,49.1707375
+13afc034-49a2-4e7e-8a38-7c2e4ec2c28b,Lindwurm Bräu,brewpub,38 Frauentorstraße,,,Augsburg,Bayern,86152,Germany,+49 821 2970718,http://www.lindwurmbraeu.de,10.8954085,48.37616939999999
+059ac5d1-5cc3-410c-ada0-31163c0f89b3,Loscher,brewpub,21-23 Steigerwaldstraße,,,Münchsteinach,Bayern,91481,Germany,+49 9166 607,http://www.brauerei-loscher.de,10.5923185,49.64103309999999
+e084562e-7948-440e-9982-27133334eb40,Löwenbräu,brewpub,7 Nymphenburger Straße,,,München,Bayern,80335,Germany,+49 800 52205203,http://www.loewenbraeu.de,11.5564377,48.1474919
+385e11bd-985c-478e-b466-f491a6b25535,Mager,brewpub,17 Hauptstraße,,,Pottenstein,Bayern,91278,Germany,+49 9243 333,http://www.brauerei-mager.de,11.4084087,49.7709936
+22e8a009-0692-4e89-8648-2d31d6a49fcc,Mahr's Bräu,brewpub,10 Wunderburg,,,Bamberg,Bayern,96050,Germany,+49 951 915170,http://www.mahrs.de,10.9064529,49.8900301
+9b69fed6-0942-4d56-9482-2c1607192d71,Maierbier,brewpub,9 Industriestraße,,,Nördlingen,Bayern,86720,Germany,+49 9081 6041246,http://www.maierbier.com,10.5073701,48.86273
+23730613-dd42-4d0c-921e-702c68793421,Maierbräu,brewpub,2 Marktplatz,,,Altomünster,Bayern,85250,Germany,+49 8254 1279,http://www.maierbraeu.de,11.2559713,48.3875096
+bb04e665-c9d9-4517-8ca9-1542d3ad1919,Main BräuWerk,brewpub,1 Andreas-Maisel-Weg,,,Bayreuth,Bayern,95445,Germany,+49 921 401234,http://www.wfbm-burgkunstadt.de,11.5670627,49.9455328
+b96cc561-ea32-4b72-9bc1-6c2e633306ce,Mainlust,brewpub,9 Hauptstraße,,,Viereth-Trunstadt,Bayern,96191,Germany,+49 9503 7444,http://www.mainlust.com,10.7784643,49.9233862
+9dc63df3-3d9e-4d08-8003-841ba73b82b1,Maisach,brewpub,24 Hauptstraße,,,Maisach,Bayern,82216,Germany,+49 8141 395570,http://www.brauerei-maisach.de,11.2635393,48.2169755
+52423022-448d-4fe2-aaee-aff41740b20a,Maisel,brewpub,9 Hindenburgstraße,,,Bayreuth,Bayern,95445,Germany,+49 921 4010,http://www.maisel.com,11.56588,49.94773000000001
+91b6300b-f5f7-42fc-bf07-7efb19f4369f,Malerbräu,brewpub,9a Kirchstraße,,,Schwarzach bei Nabburg,Bayern,92548,Germany,,https://malerfinder.de/schwarzach-bei-nabburg/7143-malerbraeu,12.1661943,49.4087391
+3e1f1db5-c70d-45d1-925a-398f792cd107,Mangfallbräu,closed,124 Sudetenstraße,,,Bruckmühl,Bayern,83052,Germany,+49 160 91796721,http://www.mangfallbraeu.de,11.9360283,47.8724678
+b88473e1-a679-440a-b496-ff8076fd105e,Mariensteiner Brauhaus,brewpub,10 Paul-Deuringer-Weg,,,Waakirchen,Bayern,83666,Germany,+49 8021 5042783,http://www.mariensteiner-brauhaus.de,11.6838707,47.751508
+8114770d-71df-44b4-aecd-9caf02cc1492,Märkl,micro,16 Hauptstraße,,,Freudenberg,Bayern,92272,Germany,+49 9627 260,http://www.freudenberger-bier.de,11.9782006,49.4787662
+8c1ef771-cb6a-401e-863d-cc8d9da53e40,Martin,brewpub,1 Zur Brauerei,,,Ebensfeld,Bayern,96250,Germany,+49 9573 1899,http://www.gasthof-martin-unterneuses.de,10.9749772,50.0814773
+082496ba-19ea-49d9-91b6-29f612cb75ae,Martinsbräu,brewpub,4 Georg-Mayr-Straße,,,Marktheidenfeld,Bayern,97828,Germany,+49 9391 50080,http://www.martinsbraeu.de,9.6010046,49.848793
+1446f9a6-b2fc-4fe1-9259-ffdefbb6ea45,Maxbrauerei,closed,14 St.-Lorenz-Straße,,,Altenstadt,Bayern,86972,Germany,+49 160 8258198,http://www.maxbrauerei.de,10.874761,47.82583700000001
+8edaf3b0-b8e3-4216-8449-35f09f8db0f8,Meckatzer Löwenbräu,brewpub,10 Meckatz,,,Heimenkirch,Bayern,88178,Germany,+49 8381 5040,http://www.meckatzer.de,9.8884815,47.6308829
+42d3affa-b790-480b-a21b-aa2c1b70ccfd,Meinel-Bräu,brewpub,1 Absolviagasse,,,Hof,Bayern,95028,Germany,+49 9281 3514,http://www.meinel-braeu.de,11.9171736,50.3262089
+af25f977-940a-4351-b385-f84964b95bba,Meister,brewpub,8 Unterzaunsbach,,,Pretzfeld,Bayern,91362,Germany,+49 9194 9126,http://www.meisterbräu.de,11.223108,49.737739
+23f3d01b-947d-4728-a054-5287e89dc43f,Memminger,closed,68 Dr.Karl Lenz Straße,,,Memmingen,Bayern,87700,Germany,+49 8331 85660,http://www.memminger-brauerei.de,10.1685041,47.99612279999999
+beef0311-8b83-4f33-9a57-09999649b0f1,Metzgerbräu Reichert,brewpub,2 Stublanger Straße,,,Bad Staffelstein,Bayern,96231,Germany,+49 9573 6304,http://www.metzgerbraeu.com,11.0683965,50.0859585
+58739cde-5655-4962-9ae9-2276c2329b59,Meusel-Bräu,brewpub,27 Dreuschendorf,,,Buttenheim,Bayern,96155,Germany,+49 9545 7424,,11.0588964,49.808165
+463de2b2-9afb-4f9b-abfc-9aae38da09d2,Michlbräu,brewpub,52 Wiggensbacher Straße,,,Kempten (Allgäu),Bayern,87439,Germany,+49 831 51210210,http://www.frischesbiermichlbier.de,10.29041,47.75384
+bcad5d55-e688-4b20-9b71-a4f7a4cb87ef,Mittenwald,brewpub,13 Innsbrucker Straße,,,Mittenwald,Bayern,82481,Germany,+49 8823 1007,http://www.brauerei-mittenwald.de,11.2601147,47.4367467
+22127ebd-b769-4784-aaf9-2bb9659b45e2,Mr Kennedy,closed,22 Brunnengäßchen,,,Nürnberg,Bayern,90403,Germany,,http://www.mr-kennedy.de,11.0784656,49.4568006
+47c2ab8c-5596-47cd-9d48-78f3c9553b47,Mühlbauer,brewpub,10 Further Straße,,,Arnschwang,Bayern,93473,Germany,+49 9977 221,http://www.brauerei-muehlbauer.de,12.8174717,49.27444759999999
+4bcf1c93-b875-458f-ad49-0c360b11b4df,Mühlenbräu,brewpub,7 Neukreuthstraße,,,Stegaurach,Bayern,96135,Germany,+49 951 29119,https://www.facebook.com/profile.php?id=100057388782239,10.8115141,49.868087
+bab683cb-3856-4364-a168-6a86e6ab3301,Müller,brewpub,1 Würzburger Straße,,,Stegaurach,Bayern,96135,Germany,+49 951 29191,http://www.debringer-bier.de,10.85744,49.85779
+55b7d8fb-ddb2-42db-af71-85c0b8733ae4,Müller-Bräu,brewpub,2 Hauptplatz,,,Pfaffenhofen an der Ilm,Bayern,85276,Germany,+49 8441 4009110,http://www.schmausenkeller.de,11.5088026,48.529943
+15cffc5a-cd12-4a9c-b0f3-2d7faf727dc9,Müllerbräu,brewpub,2 Burghauser Straße,,,Neuötting,Bayern,84524,Germany,+49 8671 2332,http://www.muellerbraeu.de,12.6909796,48.2400172
+36246ecd-2af3-44fb-b1b3-c802b6dd1e6e,Murmann,brewpub,6 Coburger Straße,,,Untersiemau,Bayern,96253,Germany,+49 9565 811,http://www.brauerei-murmann.de,10.9726705,50.1944248
+cf6b21d5-1bc9-46fe-8849-4cb5566afc88,Museumsbrauerei,micro,20 Hofer Straße,,,Kulmbach,Bayern,95326,Germany,+49 9221 80514,http://www.brauerei-vielau.com,11.4697406,50.114645
+7d47a3ec-f1a1-40f8-b03b-47c9cfeb8cba,Neder,brewpub,10 Sattlertorstraße,,,Forchheim,Bayern,91301,Germany,+49 9191 2400,http://www.neder-brauerei.de/,11.0570169,49.7202013
+9e4f66ec-996a-405c-8d9f-83d500137b0c,Neumarkter Lammsbräu,brewpub,1 Amberger Straße,,,Neumarkt in der Oberpfalz,Bayern,92318,Germany,+49 9181 4040,http://www.lammsbraeu.de,11.4610797,49.2841251
+7802834f-001d-41a3-916e-494504b55b24,Nikl Bräu,brewpub,19 Egloffsteiner Straße,,,Pretzfeld,Bayern,91362,Germany,+49 9194 725025,http://www.brauerei-nikl.de,11.1756891,49.7559717
+0f1b9191-57f8-4436-8167-beadbcee674d,Nirschl Bräu,brewpub,1 Birkenstraße,,,Isen,Bayern,84424,Germany,+49 173 7786104,http://www.nirschlbraeu.wordpress.com,12.0285113,48.16937610000001
+0bf4065d-b3e3-4380-8ba1-793ec1eb2cf6,Nittenau,brewpub,4 Wulkersdorfer Straße,,,Nittenau,Bayern,93149,Germany,+49 9436 8209,http://www.nittenauer-bier.de,12.2730054,49.1899604
+3b330573-82d1-4910-ae2c-72998b7816b5,Nordbräu,brewpub,5 Gutsstraße,,,Ingolstadt,Bayern,85055,Germany,+49 841 955960,http://www.nordbraeu.de,11.4393096,48.7941191
+370301a2-f9b9-41be-a5f3-c4ab031b52ec,Nothhaft,brewpub,30 Ottostraße,,,Marktredwitz,Bayern,95615,Germany,+49 9231 2077,http://www.brauerei-nothhaft.de,12.086418,49.999215
+46a68827-b688-4352-9c34-7734dc0507cc,Nürnberger Burgbräu,brewpub,2 Hallplatz,,,Nürnberg,Bayern,90402,Germany,+49 911 24464433,http://tucher-mautkeller.de/,11.0790935,49.4494178
+cccd5c19-8298-4067-9646-d0c9a9ac8fd0,Oberaudorfer Privatbrauerei,brewpub,5 Tiroler Straße,,,Oberaudorf,Bayern,83080,Germany,+49 8033 9250,http://www.oberaudorfer.de,12.1779421,47.6472738
+28869a82-0891-4550-96b3-6157cb73cc53,Oechsner,brewpub,2 Klinge,,,Ochsenfurt,Bayern,97199,Germany,+49 9331 87660,http://www.oechsner.de,10.06016,49.66276
+7fb12590-96a4-47ae-a711-46aae8b5ea5a,Oettinger,brewpub,1 Otto-Kollmar-Straße,,,Oettingen in Bayern,Bayern,86732,Germany,+49 9082 7080,http://www.oettinger-bier.de,10.5989037,48.9381829
+c065942f-3ef0-46da-836d-27058d117177,Oettinger,brewpub,1 Otto-Kollmar-Straße,,,Oettingen in Bayern,Bayern,86732,Germany,+49 9082 7080,https://www.oettinger-bier.de/,10.5989037,48.9381829
+4e2deb11-6155-4f52-a7f4-642dc1ef923f,Orca Brau,brewpub,24 Am Steinacher Kreuz,,,Nürnberg,Bayern,90427,Germany,+49 911 30709979,http://www.orcabrau.de,11.0084791,49.5110023
+82eded27-42d8-4f6f-9e70-8e8c91c6999f,Ostheimer Bürgerbräu,brewpub,11 Ludwig-Jahn-Straße,,,Ostheim vor der Rhön,Bayern,97645,Germany,+49 9777 9265,http://www.ostheimer-buergerbraeu.de,10.2276809,50.4542921
+db1e5b0d-78bc-4ca4-85f0-1735db432b7a,Ott,brewpub,6 Oberleinleiter,,,Heiligenstadt in Oberfranken,Bayern,91332,Germany,+49 9198 271,http://www.brauerei-ott.de,11.1295254,49.8827807
+4d620819-e321-472a-969d-9347c855b666,Ottenbräu,brewpub,2A Schulhausplatz,,,Abensberg,Bayern,93326,Germany,+49 9443 1348,,11.8435354,48.8175621
+59b8d88c-8628-46d1-bf5e-999cd8e158b4,Paulaner,brewpub,5 Kapuzinerplatz,,,München,Bayern,80337,Germany,+49 89 5446117,http://www.paulaner.de,11.5588321,48.1263049
+0f4b98a6-bc69-4e33-8138-28b75a6ad3c2,Paulaner,brewpub,5 Kapuzinerplatz,,,München,Bayern,80337,Germany,+49 89 5446117,http://www.paulaner-brauhaus.de/,11.5588321,48.1263049
+d0d4092c-8672-4b56-b672-13174b7852f6,Paulaner Bräuhaus,brewpub,5 Kapuzinerplatz,,,München,Bayern,80337,Germany,+49 89 5446117,http://www.paulaner-braeuhaus.de,11.5588321,48.1263049
+f07f2301-939a-412b-8822-db632c0d32ac,Paulaner Nockherberg,brewpub,77 Hochstraße,,,München,Bayern,81541,Germany,+49 89 4599130,http://www.paulaner-nockherberg.com,11.5832042,48.1215216
+42496a83-4060-4a7a-a85c-c38227676421,Pax Bräu,brewpub,7 Rathgeberstraße,,,Oberelsbach,Bayern,97656,Germany,+49 178 8068958,http://www.pax-braeu.de,10.11762,50.4415802
+4e1972a7-018d-4f54-8bee-4f92b5dd6ff8,Penning,brewpub,19 Egloffsteiner Straße,,,Pretzfeld,Bayern,91362,Germany,+49 9194 725025,http://www.brauerei-nikl.de/,11.1756891,49.7559717
+f37cc38c-7b26-4fc3-9fb3-0487fcdbf75d,Pfarrbräu,brewpub,8 Am Dorfplatz,,,Karlstadt,Bayern,97753,Germany,+49 9396 995956,http://www.pfarrbraeu.de,9.707406599999999,49.93295639999999
+65539197-5fdb-475c-aebf-e2703263f580,Pfister,brewpub,22 Eggerbachstraße,,,Eggolsheim,Bayern,91330,Germany,+49 9545 94260,http://www.brauerei-pfister.de,11.0921691,49.7877501
+c0e4b43e-88ad-4790-ba4e-c4ca09cf4cd9,Pflüglerbräu,brewpub,24 Grünecker Straße,,,Neufahrn bei Freising,Bayern,85375,Germany,+49 176 21521678,http://www.pflueglerbraeu.de,11.6794669,48.3146644
+c26f1bd2-102e-4f41-9243-ba720a282837,Pillmeier Bräu,brewpub,28 Rottenburger Straße,,,Langquaid,Bayern,84085,Germany,+49 179 9079111,http://www.pillmeier-braeu.jimdo.com,12.0487966,48.819107
+3bcf6ddd-a2fe-4c24-bcc3-773ad398cf55,Plank,brewpub,1 Marktplatz,,,Laaber,Bayern,93164,Germany,+49 9498 8707,http://www.brauerei-plank.de,11.8860761,49.06519309999999
+5c8c925d-0d35-4782-a820-0c133da7407b,Pöllinger,brewpub,65 Moosburger Straße,,,Pfeffenhausen,Bayern,84076,Germany,+49 8782 96060,http://www.brauerei-poellinger.de,11.9654149,48.6577919
+1eb5a213-7eeb-4ebb-bec0-ef26d1c39bf7,Post,brewpub,10 Herrenstraße,,,Bad Kötzting,Bayern,93444,Germany,+49 9941 6628,http://www.posthotel-bad-koetzting.de,12.8562707,49.1748354
+8df40fcc-acd8-4a93-8db2-ee9e5d8d1431,Postbräu,brewpub,4 Schreieggstraße,,,Thannhausen,Bayern,86470,Germany,+49 8281 9050,,10.4730013,48.2830028
+3203dbc7-b8a2-4ffa-b6de-4d801f104b85,Postbrauerei,closed,25 Hauptstraße,,,Nesselwang,Bayern,87484,Germany,+49 8361 30960,http://www.post-brauerei-nesselwang.de,10.4992983,47.6219996
+701d19f3-d2be-4743-81e7-c073d6f4807e,Prechtel,brewpub,24 Hauptstraße,,,Uehlfeld,Bayern,91486,Germany,+49 9163 228,http://www.brauerei-prechtel.de,10.7233111,49.6711076
+6ab58a8c-54cb-4923-a1a2-1f96915ee375,Prößlbräu,brewpub,2-3 Dominikanerinnenstraße,,,Pettendorf,Bayern,93186,Germany,+49 9404 1822,http://www.proesslbraeu.de,12.01604,49.04289
+ed2b7edc-ff50-4d31-a554-26c8790e5877,Püls Bräu,brewpub,41 Burgkunstadter Straße,,,Weismain,Bayern,96260,Germany,+49 9575 92290,http://www.weismainer.de,11.2390768,50.0877567
+b153e238-c68a-403f-b263-578a2c272afd,Püttner,brewpub,11 Hauptstraße,,,Schlammersdorf,Bayern,95519,Germany,+49 9205 292,http://www.brauerei-puettner.de,11.734016,49.801994
+cc6ccacd-e5ba-4bb7-ae6c-c868daf7976a,Pyraser,brewpub,26 Pyras,,,Thalmässing,Bayern,91177,Germany,+49 9174 47470,http://www.pyraser.de,11.2166155,49.14920859999999
+7d5bba32-0822-473d-80af-343ab686323f,Raab,brewpub,11 Johannisstraße,,,Hofheim in Unterfranken,Bayern,97461,Germany,+49 9523 95270,http://www.brauerei-raab.de,10.5243331,50.1404329
+57cf544e-1d80-4f89-a50c-8f51f3ee4fc1,Radbrauerei Bucher,brewpub,8 Peter-Henlein-Straße,,,Günzburg,Bayern,89312,Germany,+49 8221 207720,http://www.guenzburger-weizen.de,10.2743448,48.4743652
+88fe3afd-2c42-45fb-ad3e-cdc86e57c63a,Rapp,brewpub,14 Augsburger Straße,,,Kutzenhausen,Bayern,86500,Germany,+49 8238 3090,http://www.brauerei-rapp.de,10.6982336,48.3420791
+317772c0-50e6-48b5-965d-a06442f3a436,Reblitz,brewpub,1 Am Mahlberg,,,Bad Staffelstein,Bayern,96231,Germany,+49 9573 96500,http://www.brauerei-gasthof-reblitz.de,10.9654743,50.1160717
+d96b5e7f-da23-46ea-9b4b-30c30eb7115b,Regensburger Weissbräuhaus,brewpub,6 Schwarze-Bären-Straße,,,Regensburg,Bayern,93047,Germany,+49 941 6003210,http://www.regensburger-weissbrauhaus.de,12.098827,49.017843
+d4e9521e-ec70-4506-9e99-423131688e7e,Reh,brewpub,36 Ellertalstraße,,,Litzendorf,Bayern,96123,Germany,+49 9505 210,http://www.reh-bier.de,11.0503522,49.9161267
+ae5ae09b-cc96-4fce-9444-b20a0387ed7b,Reichold,brewpub,24 Hochstahl,,,Aufseß,Bayern,91347,Germany,+49 9204 271,http://www.reichold.de,11.2676156,49.8842253
+980a1248-49eb-466b-850c-822b33798cb9,Reindler,brewpub,5 Brauhausweg,,,Leutershausen,Bayern,91578,Germany,+49 9823 203,http://www.brauerei-reindler.de,10.3902469,49.31172
+546b5567-0b39-4df7-82c6-2ba50946b027,Reiter-Bräu,brewpub,4 Untere Hauptstraße,,,Wartenberg,Bayern,85456,Germany,+49 8762 73580,http://www.reiter-braeu.de,11.9890107,48.4053815
+729b44b1-185f-4c3a-b868-566a788ff9df,Reith / Zehetmeier,brewpub,2 Schloßbräugasse,,,Au in der Hallertau,Bayern,84072,Germany,+49 8752 86320,http://www.auerbier.de/,11.7423778,48.55838610000001
+29048db0-2224-475d-9964-c8f65f21ac07,Reitinger,closed,26 Hauptstraße,,,Oberroth,Bayern,89294,Germany,+49 8333 1213,https://www.hotel-ami.com/h-16822-D/brauerei-gasthof-reitinger-in-oberroth.htm,10.1913501,48.17359
+6c26f8c3-eafd-48f9-bffd-af58d51be8df,Reuter,brewpub,2 Birkenweg,,,Hausen,Bayern,97647,Germany,+49 9779 81010,http://www.rotherbraeu.de/,10.1199053,50.4900111
+7379b193-7d30-4bda-8770-0aa227d78c3e,Rhanerbräu,brewpub,9 Rhan,,,Schönthal,Bayern,93488,Germany,+49 9978 80110,http://www.rhaner.de,12.617426,49.3360716
+106d709b-1c6b-426c-b90e-0a39b901e64c,Rhönpiraten,brewpub,11 Ludwig-Jahn-Straße,,,Ostheim vor der Rhön,Bayern,97645,Germany,+49 9777 9265,http://www.rhoenpiraten.de,10.2276809,50.4542921
+8af6323d-5560-4af8-a635-94404865e8df,Riedenburger,brewpub,5 Hammerweg,,,Riedenburg,Bayern,93339,Germany,+49 9442 99160,http://www.riedenburger.de,11.69002,48.96232999999999
+3a0cf8f0-cfd1-4c6c-9724-4d2e7ca7e7a9,Riedl,brewpub,2 Kirchenstraße,,,Plößberg,Bayern,95703,Germany,+49 9636 236,https://www.brauerei-riedl.de/,12.3093475,49.7834475
+9aa01c38-2a09-454a-9e72-7f0ae5a41965,Riegele,brewpub,26 Frölichstraße,,,Augsburg,Bayern,86150,Germany,+49 821 32090,http://www.riegele.de,10.8848364,48.3673543
+2f850b63-62a6-42d1-a50c-989ecfd6dfc2,Riemhofer,brewpub,45 Austraße,,,Riedenburg,Bayern,93339,Germany,+49 9442 91980,http://www.brauerei-riemhofer.de,11.67933,48.96700000000001
+61a3f938-bf4d-42de-9bc0-9a85e1f3ac21,Ritter St. Georgen,brewpub,1 Marktplatz,,,Nennslingen,Bayern,91790,Germany,+49 9147 246,http://www.ritter-bier.de,11.13231,49.04722
+06033f8e-b9ff-4e97-bed3-39c9cc0de76f,Rittmayer,brewpub,5 Aischer Hauptstraße,,,Adelsdorf,Bayern,91325,Germany,+49 9195 7222,http://www.rittmayer-aisch.de,10.8892534,49.7196807
+4773fb2f-a47c-492d-90b0-e33046a44896,Roberts Genuss Bräu,brewpub,6 Kirchplatz,,,Weißenhorn,Bayern,89264,Germany,+49 7309 9290110,http://www.genusspur-catering.de,10.1588417,48.3042434
+ca92955a-c165-4fc5-a71f-844b0404c1fa,Rockermeier,brewpub,3 Bachstraße,,,Geisenfeld,Bayern,85290,Germany,+49 8452 608,http://www.landgasthof-rockermeier.de,11.6792862,48.6745433
+42647737-45e1-49b9-a1ee-f1dc0d384220,Röhrl,brewpub,13 Heerstraße,,,Straubing,Bayern,94315,Germany,+49 9421 99370,http://www.roehrlbraeu.de,12.57858,48.88153
+a29186d8-8b5f-4222-bc6e-304a2eeb071f,Roppelt,brewpub,Stiebarlimbach,,,Hallerndorf,Bayern,91352,Germany,+49 9195 7263,http://www.brauerei-roppelt.de,10.9494461,49.7565902
+2565d3a1-5580-480c-a369-0055d0aab9b4,Rosenauer Hofbräu,brewpub,22 Rosenau,,,Marktgraitz,Bayern,96257,Germany,+49 9574 5083222,http://www.rosenauer-hofbraeu.de,11.2019975,50.1807393
+7b74e189-696b-473d-b69c-7b0fd478d65e,Rössle-Bräu,brewpub,32 St.-Antonius-Straße,,,Jengen,Bayern,86860,Germany,+49 8246 755,http://www.roessle-braeu.de,10.7354516,47.987873
+0ba65f21-24c1-4e47-a5d1-62348c584f7f,Roth,brewpub,24 Obere Straße,,,Schweinfurt,Bayern,97421,Germany,+49 9721 1034,http://www.rothbier.com,10.2336983,50.0468939
+8068756b-2fae-4986-9114-a53af772b42c,Rothenbach,brewpub,70 Im Tal,,,Aufseß,Bayern,91347,Germany,+49 9198 92920,http://www.aufsesser.de,11.2291679,49.8838806
+65708643-172e-4f35-bb32-82409bf24c37,Rother Bräu,brewpub,2 Birkenweg,,,Hausen,Bayern,97647,Germany,+49 9779 81010,http://www.rotherbraeu.de,10.1199053,50.4900111
+f8d16115-57bb-440a-9f4a-3bd65bb5211b,Rothmooser,brewpub,2 Rothmoos,,,Halfing,Bayern,83128,Germany,+49 8055 90660,http://www.rothmooser.de,12.2357676,47.9541377
+f9c26b1f-0970-4239-a791-465074187aab,RS Bräu,brewpub,2 Grimoldsrieder Straße,,,Walkertshofen,Bayern,86877,Germany,+49 8239 507,http://www.rs-braeu.de,10.592074,48.2263527
+83a00b58-c7d3-4438-bbd2-998fa57f59b9,Sauer,brewpub,5 Sutte,,,Strullendorf,Bayern,96129,Germany,+49 9543 1578,http://www.brauerei-sauer.de,10.9969444,49.8677778
+c5f8973a-80d3-46ed-a9f9-7505add49754,Schäffler,brewpub,17 Hauptstraße,,,Missen-Wilhams,Bayern,87547,Germany,+49 8320 92011,http://www.schaeffler-braeu.de,10.127268,47.59733199999999
+76ea6b38-9787-493a-896c-fc41af435647,Schanzenbräu,brewpub,3 Proeslerstraße,,,Nürnberg,Bayern,90431,Germany,+49 911 8100690,http://www.schanzenbraeu.de,11.0031957,49.44843669999999
+e30bd687-5222-42b7-bec0-e8a41db4bd2f,Scharpf,brewpub,16 Heilgersdorfer Hauptstraße,,,Seßlach,Bayern,96145,Germany,+49 9569 1232,http://www.scharpf-heilgersdorf.de,10.8275098,50.1638417
+34cffa20-e2e2-4af2-b3f7-7b98bda14d0c,Schattenhofer Bräu,brewpub,44 Hauptstraße,,,Beilngries,Bayern,92339,Germany,+49 8461 7004370,http://www.schattenhofer.com,11.47227,49.03604
+0188814e-1e9e-467a-89ee-a35bf36b81e0,Scherdel,brewpub,14 Unterkotzauer Weg,,,Hof,Bayern,95028,Germany,+49 9281 8960,http://www.scherdelbier.de,11.91155,50.32314
+76ae66a2-69a7-4465-b728-1c03b62c3a15,Scheuerer,brewpub,7 Bräugasse,,,Moosbach,Bayern,92709,Germany,+49 9656 209,http://www.moosbacher.com,12.409741,49.58964899999999
+c184b3d7-ed7f-4649-846a-f78324bd27cb,Scheunenbrauerei Langlotz / Erwisch Bräu,brewpub,13 Charlotte-von-Kalb-Straße,,,Saal an der Saale,Bayern,97633,Germany,+49 9762 9292,http://www.privatbrauerei-lang.de/,10.3868705,50.3372676
+70a3ee55-6a4f-4698-866b-34ae463992c9,Schiller-Bräu,brewpub,23 Schillerstraße,,,München,Bayern,80336,Germany,+49 89 890584820,http://www.schiller-braeu.de,11.5611313,48.136712
+ee81c52a-a00f-467f-a11a-b7b86ea40eb0,Schimpfle,brewpub,16 Hauptstraße,,,Gessertshausen,Bayern,86459,Germany,+49 8238 96370,http://www.brauerei-schimpfle.de,10.7333826,48.3310352
+2683ecdb-0a9d-4e81-aa14-9f0f0de12170,Schleicher,brewpub,22 Coburger Straße,,,Itzgrund,Bayern,96274,Germany,+49 9533 229,http://www.brauerei-schleicher.de,10.878375,50.1244568
+c757d9ef-6a87-4047-b416-df31e260063d,Schloderer,brewpub,4 Rathausstraße,,,Amberg,Bayern,92224,Germany,+49 9621 420707,http://www.schlodererbraeu.de,11.858948,49.445184
+d2efbf5a-ff17-4df9-90f9-ebaf3ece8fe8,Schlossbräu,brewpub,1 Hofmark,,,Drachselsried,Bayern,94256,Germany,+49 9945 94070,http://www.schlossbraeu.de,13.0134406,49.10568079999999
+c2ea556d-a9ea-46ba-a45d-b871e600dff3,Schloßbrauerei,brewpub,13 Naabecker Straße,,,Schwandorf,Bayern,92421,Germany,+49 9431 1326,http://www.naabecker.de,12.06674,49.29356
+9b3b6cdf-eec5-408d-946e-d5177bd70dcf,Schloßbrauerei Dorfner,brewpub,6 Mühlstraße,,,Hirschau,Bayern,92242,Germany,+49 9622 2212,http://www.dorfner-schlossbrauerei.de,11.95064,49.5448
+ceee5844-1879-4219-8ce3-11a1c5ae03fd,Schloßbrauerei Kaltenberg,brewpub,41 Augsburger Straße,,,Fürstenfeldbruck,Bayern,82256,Germany,+49 8141 2430,http://www.koenig-ludwig.com,11.251905,48.1828857
+8a1cda36-821b-485c-b4ad-473bf0f6fcc7,Schloßbrauerei Odelzhausen,brewpub,1 Am Schloßberg,,,Odelzhausen,Bayern,85235,Germany,+49 8134 99870,http://www.schlossgut-odelzhausen.de,11.2035635,48.3142564
+f4e21dd1-2ea0-43a1-a2a1-a835cf0503ce,Schloßbrauerei Schwarzfischer,brewpub,1 Oberzeller Straße,,,Zell,Bayern,93199,Germany,+49 9468 325,http://www.schlossbrauerei-schwarzfischer.de,12.4108333,49.14333329999999
+ec389b9b-fba6-4fb8-b3f6-07eda2d47d50,Schlossbrauhaus,brewpub,5 Gipsmühlweg,,,Schwangau,Bayern,87645,Germany,+49 8362 9264680,http://www.schlossbrauhaus.de,10.7350308,47.57434079999999
+368b8e14-d712-4ca2-ad32-7e13ac365a5e,Schlössle,brewpub,3 Schlössleweg,,,Neu-Ulm,Bayern,89231,Germany,+49 731 77390,http://www.schloessle.com,10.0202367,48.403188
+44aa49ff-fc30-4d44-b252-ee375098d0a5,Schmid,brewpub,24 Weißenhorner Straße,,,Roggenburg,Bayern,89297,Germany,+49 7300 303,http://www.brauerei-biberach.de,10.2205288,48.2875902
+a3d6ef96-e9c3-4b2b-8a77-56cd53c1ae2d,Schmidmayer-Bräu,brewpub,3 Hopfenstraße,,,Siegenburg,Bayern,93354,Germany,+49 9444 972146,http://www.spezialitaetenbrauerei.de,11.84949,48.75380999999999
+acf011dc-fc9e-4cea-8589-d10bcf0ab092,Schmölzer Dorfbrauerei,brewpub,4 Johann-Georg-Herzog-Straße,,,Küps,Bayern,96328,Germany,+49 1512 0748374,http://www.schmoelzer-dorfbrauerei.jimdo.com,11.2556379,50.2137408
+cf1b6b9f-a0ea-4600-9aa3-2a67e74fa7d6,Schneider,brewpub,10 Altmühlgasse,,,Essing,Bayern,93343,Germany,+49 9447 91800,http://www.brauereigasthof-schneider.de,11.788359,48.93542
+fa2d83ab-fbac-4907-9dad-852a87a793ad,Schnellinger,brewpub,1A Rosenweg,,,Schwarzenfeld,Bayern,92521,Germany,+49 9435 502530,http://www.schnellinger-bräu.de,12.1106357,49.3789956
+51d35046-bded-401b-abff-87295e494651,Schnitzlbaumer,brewpub,11A Taubenmarkt,13,,Traunstein,Bayern,83278,Germany,+49 861 986650,http://www.schnitzlbaumer.de,12.648451,47.870183
+edb0778b-3575-4ce8-9e48-2a3ab0448394,Schober,brewpub,2 Saarbrückener Straße,,,Zirndorf,Bayern,90513,Germany,+49 911 604658,,10.9609851,49.4447341
+1356209d-fce4-40d9-ac86-16267721f144,Schongauer Brauhaus,brewpub,13 Altenstadter Straße,,,Schongau,Bayern,86956,Germany,+49 8861 9336222,http://www.schongauer-brauhaus.de,10.8919314,47.8165452
+2496f6e4-d7d4-4b2f-ac67-3f9457b2e34b,Schönram,brewpub,17 Salzburger Straße,,,Petting,Bayern,83367,Germany,+49 8686 98800,http://www.brauerei-schoenram.de,12.8496895,47.8858016
+09971575-7caf-4719-b7d0-8275ba244282,Schorer,brewpub,2 Grimoldsrieder Straße,,,Walkertshofen,Bayern,86877,Germany,+49 8239 507,http://www.staudenbraeu.de/,10.592074,48.2263527
+ce25f5dc-993a-421d-929d-01e6e6edf37c,Schorschbräu,brewpub,7 Richard-Stücklen-Straße,,,Gunzenhausen,Bayern,91710,Germany,+49 9831 1868,http://www.schorschbraeu.de,10.7410598,49.1097233
+224cb6bd-14a9-4177-8746-6dd947e61e76,Schroll,brewpub,41 Nankendorf,,,Waischenfeld,Bayern,91344,Germany,+49 9204 248,http://www.brauerei-schroll.de,11.3374488,49.8649362
+ebcc6057-51ef-4cff-b948-7e6581737a2b,Schrüfer,brewpub,31 Hauptstraße,,,Priesendorf,Bayern,96170,Germany,+49 9549 317,,10.7113971,49.9063017
+799ca8e6-8f4c-434f-a36a-b1512cf35aa4,Schübel,brewpub,12 Knollenstraße,,,Stadtsteinach,Bayern,95346,Germany,+49 9225 956482,http://www.schuebel-braeu.de,11.5039443,50.1605224
+491731b5-27da-4746-b8d0-8f9df4e5d416,Schuller,brewpub,14 St.-Lorenz-Straße,,,Berching,Bayern,92334,Germany,+49 8462 302,http://www.hotel-krone-berching.de,11.4441,49.10499
+3b398199-0f41-449d-9120-3f17a3141e1e,Schwanenbräu,brewpub,1 Kellerberg,,,Burgebrach,Bayern,96138,Germany,+49 9546 306,http://www.schwanawirt.de,10.7364989,49.82229419999999
+9e880a4e-689b-4025-bdfa-b8f96f6f111c,Schwarzbräu,brewpub,6 Marktplatz,,,Zusmarshausen,Bayern,86441,Germany,+49 8291 880,http://www.schwarzbraeu.de,10.597849,48.39946
+61a46e8e-f33c-4c86-b9b5-7b66d260f1c6,Schweiger,brewpub,26 Ebersberger Straße,,,Markt Schwaben,Bayern,85570,Germany,+49 8121 221815,http://www.schweiger-bier.de,11.8690664,48.1874822
+47c641ee-8799-475f-ae03-92341efaca82,Schwindbräu,brewpub,117 Schweinheimer Straße,,,Aschaffenburg,Bayern,63743,Germany,+49 6021 930092,http://www.schwindbraeu.de,9.1627602,49.9598997
+6cd33e05-1a1f-406f-9f72-b0079923084d,Seelmann,brewpub,18 Zettmannsdorfer Hauptstraße,,,Schönbrunn im Steigerwald,Bayern,96185,Germany,+49 9546 595990,http://www.brauerei-seelmann.de,10.6553988,49.8665976
+5a46b4f4-5d91-47db-a567-9c4b0af578a7,Seinsheimer-Kellerbräu,brewpub,Am Rathaus,,,Seinsheim,Bayern,97342,Germany,+49 171 7063636,http://www.seinsheimer-kellerbier.de,10.2225452,49.6410116
+adf47933-f19d-4cc6-a6b4-63f7ea53b069,Sigwart,closed,10 Roßmühle,,,Weißenburg in Bayern,Bayern,91781,Germany,+49 9141 85750,http://www.brauerei-sigwart.de,10.9750088,49.0312566
+9a8d18f8-5d65-47fd-9324-3117d7982d53,Simmerberger,brewpub,2 Ellhofer Straße,,,Weiler-Simmerberg,Bayern,88171,Germany,+49 8387 1016,http://www.braeustatt-simmerberg.de,9.9451787,47.5867932
+aebc095e-4ef1-470e-a19f-7d48e226f2bf,Simmseer Braumanufaktur,brewpub,42 Krottenhausmühlstraße,,,Stephanskirchen,Bayern,83071,Germany,+49 8036 9096606,http://www.simmseer.de,12.1901766,47.8500375
+d271ef30-0334-4a69-a8d3-434615b8cc33,Simon,brewpub,12 Heroldstraße,,,Lauf an der Pegnitz,Bayern,91207,Germany,+49 9123 2323,http://www.brauerei-simon.de,11.2798793,49.5153352
+399093ac-9c09-4e7c-922a-cbe76b97b40b,Sitter-Bräu,micro,12 Riedelsbach,,,Neureichenau,Bayern,94089,Germany,+49 8583 96040,http://www.gut-riedelsbach.de,13.78764,48.7502
+ee99faf4-6b45-4891-a76d-3d1cae24c0e5,Sonnen-Bräu,brewpub,4 Zaugendorfer Straße,,,Rattelsdorf,Bayern,96179,Germany,+49 9533 981017,http://www.gasthaus-schmitt.de,10.8639895,50.0612606
+e5a80737-9526-42e3-a0a2-10c3b5c3ca6c,Sonnenbräu,brewpub,20 Nailaer Straße,,,Lichtenberg,Bayern,95192,Germany,+49 9288 304,http://www.facebook.com/SB.LBG/,11.67558,50.38074599999999
+9efc5558-16e8-499c-a71f-d8814095f541,Späth-Bräu,brewpub,3 Pfarrweg,,,Lohberg,Bayern,93470,Germany,+49 9943 7799880,http://www.osser-bier.de,13.1055045,49.1746408
+1db8bb97-e0ed-4150-8c7e-1f58930526ed,Sperber-Bräu,brewpub,14 Rosenberger Straße,,,Sulzbach-Rosenberg,Bayern,92237,Germany,+49 9661 87090,http://www.sperberbraeu.de,11.7409574,49.5042589
+61a05c41-1b3f-48d6-a165-4cc99755fd92,Spessart,brewpub,2 Junkergasse,,,Kreuzwertheim,Bayern,97892,Germany,+49 9342 85700,http://www.spessart-specht.de,9.5166732,49.7633681
+28a2aec4-2003-445e-ab8c-0283be4b3840,Spezial,brewpub,10 Obere Königstraße,,,Bamberg,Bayern,96052,Germany,+49 951 24304,http://www.brauerei-spezial.de,10.8928067,49.8968596
+3b19f01c-cb46-41fd-aa66-3c634f12e6c9,Spezial-Brauerei,brewpub,15-17 Hauptstraße,,,Schierling,Bayern,84069,Germany,+49 9451 3012,http://www.schierlinger-pils.de,12.1374225,48.837841
+ed417aab-8197-42e9-8435-757dddfddbb6,Spitalbrauerei,brewpub,1-3 Am Brückenfuß,,,Regensburg,Bayern,93059,Germany,+49 941 83006155,http://www.spitalbrauerei.de,12.0959952,49.0241423
+6606c44b-dbfb-4fff-9350-f5e1cec8fed5,St. Georgen,brewpub,12 Marktstraße,,,Buttenheim,Bayern,96155,Germany,+49 9545 4460,http://www.kellerbier.de,11.032226,49.8017243
+451761d2-0b1c-46a3-9245-4ae94323d0e0,Stadelbräu,brewpub,6 Marktplatz,,,Zusmarshausen,Bayern,86441,Germany,+49 8291 880,http://www.stadel-braeu.de,10.597849,48.39946
+fcd5c594-aa40-4e24-8c84-7f290515c5fa,Stadlbräu,brewpub,19 Kybergstraße,,,Oberhaching,Bayern,82041,Germany,+49 89 95447565,http://www.bayerische-brauhaus-consulting.de,11.5913115,48.0258995
+de500343-4276-4d65-8173-04361c1b0b42,Stadtbrauerei,brewpub,3 Brauereigasse,,,Spalt,Bayern,91174,Germany,+49 9175 79610,http://www.spalter-bier.de,10.92523,49.17434
+076bf1f8-a5f2-483c-961a-9972379b6b1d,Stadter,brewpub,26 Hauptstraße,,,Aufseß,Bayern,91347,Germany,+49 9274 8193,http://www.brauerei-stadter.de,11.2354334,49.9140886
+621b3b13-1ff7-4bdb-b0fa-49e68fdf6638,Staffelberg-Bräu,brewpub,7 Mühlteich,,,Bad Staffelstein,Bayern,96231,Germany,+49 9573 5925,http://www.staffelberg-braeu.de,11.0241054,50.07883289999999
+274d2e24-a423-4f8a-a0cb-9a6f792b552e,Stallbauer,brewpub,12 Wiesmühl,,,Engelsberg,Bayern,84549,Germany,,http://www.brauerei-stallbauer.de,12.566108,48.105877
+788e1155-5d7d-41b1-88ef-0ff719ae4a1f,Stanglbräu,brewpub,11 Dorfstraße,,,Hausen,Bayern,93345,Germany,+49 9448 91830,http://www.stanglbraeu.de,11.9861373,48.8449076
+0c7cacb7-0660-48db-ae72-a03db3f5a871,Stark,brewpub,4 Alte Straße,,,Wertingen,Bayern,86637,Germany,+49 8272 2214,http://www.landgasthof-stark.de,10.6955137,48.5561409
+c2c30af5-936f-4bf3-853d-9917f215ea41,Stärker,brewpub,6 Brückenauer Straße,,,Motten,Bayern,97786,Germany,+49 9748 710,http://www.staerkerbraeu.de,9.771565299999999,50.3953363
+d50e9a12-6091-4163-a75a-fc795c64a4e8,Starnberger Brauhaus,brewpub,3 Alte Weilheimer Straße,,,Feldafing,Bayern,82340,Germany,+49 8151 446100,http://www.brauerei.bayern,11.2674236,47.9531593
+c7af7f47-0d77-44ec-884d-3ea3993cbe37,Stefansbräu,brewpub,1 Wilhelmshöhe,,,Dinkelsbühl,Bayern,91550,Germany,+49 9851 582393,http://www.dinkelbrauer.de,10.3351237,49.0763876
+935d7138-fde6-4503-8793-52528192b1ca,Steinbach Bräu,brewpub,4 Vierzigmannstraße,,,Erlangen,Bayern,91054,Germany,+49 9131 895912,http://www.steinbach-braeu.de,11.0050399,49.6029026
+937df3a6-f86d-4304-9398-5b5fc79124e1,Sterk,brewpub,2 Hofmark,,,Amberg,Bayern,92224,Germany,+49 9621 914323,http://www.brauerei-sterk.de,11.8962189,49.45828059999999
+adc55e01-81d5-40fa-838d-dc199a38d45c,Stern-Bräu,brewpub,1 Weinberg,,,Schlüsselfeld,Bayern,96132,Germany,+49 9552 320,http://www.brauerei-scheubel.de,10.6194738,49.7615938
+2f33bde0-06ba-44c6-a093-404c9a86ddee,Stiagnbräu,brewpub,22A Ottersried,,,Rohrbach,Bayern,85296,Germany,+49 8442 7596,http://m.facebook.com/pages/Stiangbr%C3%A4u-Undaschria/180559465331490,11.5395656,48.6172608
+0ab02914-918f-4a48-a4d9-8aa85b1f24a4,Stierberg,brewpub,12 Stierberg,,,Obertaufkirchen,Bayern,84419,Germany,+49 8082 1851,http://www.brauerei-stierberg.de,12.2831909,48.2433528
+62077fcf-2f26-4f80-8654-c03f10c4d0a5,Stöckel,brewpub,4 Hintergereuth,,,Ahorntal,Bayern,95491,Germany,+49 9246 275,http://www.stoeckel-braeu.de,11.45417,49.85093999999999
+b4e37ba7-8c36-4073-90c6-cbcd93a24368,Storchenbräu,brewpub,5 Kirchplatz,,,Pfaffenhausen,Bayern,87772,Germany,+49 8265 7022,http://www.storchenbraeu.de,10.4552377,48.12041079999999
+62234bf8-c7c1-4d1b-929c-77fded8da80e,Stöttner,brewpub,9 Marktplatz,,,Mallersdorf-Pfaffenberg,Bayern,84066,Germany,+49 8772 96080,http://www.stoettner.de,12.2279254,48.76931039999999
+16e94bf2-0004-4691-9833-33d5262ecb26,Strauß,brewpub,19 An der Rohrach,,,Treuchtlingen,Bayern,91757,Germany,+49 9142 8389,http://www.wettelsheimer-bier.de,10.88626,48.98164
+4b3379b0-25b1-480b-959e-f560e8fb6325,Streck,brewpub,11 Ludwig-Jahn-Straße,,,Ostheim vor der Rhön,Bayern,97645,Germany,+49 9777 9265,http://www.streck-bier.de,10.2276809,50.4542921
+22d708e4-1241-4a0a-b19c-d69c6f5efec5,StreuBräu,brewpub,18 Sprottauer Straße,,,Nürnberg,Bayern,90475,Germany,+49 911 69947798,http://www.streubraeu.de,11.165589,49.414772
+b948513b-995c-4c55-902c-7db9fa8242f9,Streutaler Brauhaus,brewpub,11 Ludwig-Jahn-Straße,,,Ostheim vor der Rhön,Bayern,97645,Germany,+49 9777 9265,http://www.facebook.com/StreutalerBrauhaus/,10.2276809,50.4542921
+1ae5fdb2-3a90-4207-9afc-2dbe72fc92c3,Sudhang,brewpub,7 Am Südhang,,,Amberg,Bayern,92224,Germany,+49 9621 9707956,http://sudhang.de,11.8817761,49.449165
+0c46badb-a58f-4a0a-927e-3f11ac7f935d,Sudhaus Schwarzach,brewpub,12 Marktplatz,,,Schwarzach,Bayern,94374,Germany,+49 9962 90000,http://www.sudhaus-schwarzach.de,12.8105926,48.9145066
+cbc20fd1-0251-4020-924e-1450b389d4a2,Thomann,brewpub,5 Altmainstraße,,,Bad Staffelstein,Bayern,96231,Germany,+49 9573 9688300,http://www.gasthaus-thomann.de,10.9517464,50.0962857
+580a1fa3-5346-4aff-842b-73e693e9b877,Thomasbräu,brewpub,7 Hofmarkstraße,,,Tiefenbach,Bayern,94113,Germany,,http://www.facebook.com/ThomasBräu-667120813429108/,13.38913,48.64628
+90b33a29-0477-49ac-83e9-7a3bee28113f,Thorbräu,brewpub,9 Wertachbrucker-Tor-Straße,,,Augsburg,Bayern,86152,Germany,+49 821 36561,http://www.thorbraeu.de,10.8889472,48.3761372
+f448225e-1a51-405e-b08c-d7cb2994ed29,Tobiasbräu,closed,11 Ried,,,Markt Indersdorf,Bayern,85229,Germany,+49 8136 806719,http://www.tobiasbraeu.de,11.3795185,48.3411421
+bff63db9-37e1-452b-a2c2-c795d7a5b1f4,Tölzer Binderbräu,brewpub,12 Ludwigstraße,,,Bad Tölz,Bayern,83646,Germany,+49 8041 2609,http://www.toelzer-binderbraeu.de,11.5491049,47.7594822
+85272a41-90b3-4ef0-840e-dec939e747f3,Tölzer Mühlfeldbräu,brewpub,4 Bahnhofstraße,,,Bad Tölz,Bayern,83646,Germany,+49 8041 7960571,http://www.gasthaus-toelz.de,11.5667685,47.7616369
+992b7bff-6459-4ced-a004-0ddc0b9c9a0a,Trunk,brewpub,3 Vierzehnheiligen,,,Bad Staffelstein,Bayern,96231,Germany,+49 9571 3488,http://www.brauerei-trunk.de/,11.055603,50.114827
+e3319e1c-135b-4ee3-a32f-db1784b3e09c,Tucher,brewpub,10 Tucherstraße,,,Fürth,Bayern,90763,Germany,+49 911 97760,http://www.tucher.de,10.9962088,49.4417522
+aed2849c-12ba-43f8-bf74-2bd200e2c6c9,Tucher Altes Sudhaus,brewpub,4 Am Alten Sudhaus,,,Nürnberg,Bayern,90409,Germany,+49 911 37677893,http://www.tucher.de,11.0838161,49.46471649999999
+8650ec41-ff53-4921-82ee-5ac66e79c2ae,Turmbräu,brewpub,1 Spitalgasse,,,Rothenburg ob der Tauber,Bayern,91541,Germany,+49 9861 9369380,http://www.turmbraeu.com,10.180387,49.3738505
+bf109dc1-5b3b-421d-8502-7f99864ff1d0,Ulrich Martin,brewpub,5 Hausener Hauptstraße,,,Schonungen,Bayern,97453,Germany,+49 9727 403011,http://brauerei-martin.de/,10.3108329,50.0703201
+dd2fa5e9-1e73-4936-ad84-40df811d27aa,Unertl,brewpub,6 Lerchenberger Straße,,,Haag in Oberbayern,Bayern,83527,Germany,+49 8072 8297,http://www.brauerei-unertl.de,12.1873161,48.160537
+f6d56aab-551d-4f75-b9e9-137b939fd99d,Unser Dorfbräu,closed,11 Flurweg,,,Seeshaupt,Bayern,82402,Germany,,http://www.unserdorfbraeu.de,11.2862406,47.8224558
+77dfbb87-1c56-41a5-af5e-e3121d86ce2a,Urbanus,brewpub,4 Hauptplatz,,,Pfaffenhofen an der Ilm,Bayern,85276,Germany,+49 8441 5043080,http://www.brauhaus-pfaffenhofen.de,11.5085205,48.5299551
+ce5be9d0-82c8-4703-afcc-07fba127f906,Ustersbacher,brewpub,40 Hauptstraße,,,Ustersbach,Bayern,86514,Germany,+49 8236 5890,http://www.ustersbacher.com,10.6410466,48.3157091
+1d152f70-2cf4-4810-88d5-2d5e313e8ecf,Valleyer Schloss Bräu,brewpub,19 Graf-Arco-Straße,,,Valley,Bayern,83626,Germany,+49 8024 4772410,http://www.valleyer.de,11.778997,47.89305650000001
+df9cd7d4-481f-4944-a186-36e3bbccb3be,Vasold & Schmitt,brewpub,3 Schellenberger Weg,,,Neunkirchen am Brand,Bayern,91077,Germany,+49 9134 99410,,11.1359711,49.6115161
+7afafa55-b7fc-463e-95be-84e799b07d36,Wagner,brewpub,1 Pointstraße,,,Memmelsdorf,Bayern,96117,Germany,+49 9542 620,http://www.wagner-merkendorf.de,10.9565339,49.95844169999999
+49b8af9f-90c4-4545-add6-7f5b2091562b,Wagner-Bräu,brewpub,15 Hauptstraße,,,Kemmern,Bayern,96164,Germany,+49 9544 812300,http://www.brauerei-wagner.de,10.8748544,49.9534724
+5553b9b5-e765-4933-a1fa-e9f2d211c4eb,Wald Bräu,brewpub,3 Bräustraße,,,Garching an der Alz,Bayern,84518,Germany,+49 8634 66529,http://www.berghof-babel.de,12.5952974,48.1270861
+4c5efff6-0604-4edd-8139-2a7da8e54dea,Waldschatz Bräu,closed,29 Am Wiesenweg,,,Hausen bei Würzburg,Bayern,97262,Germany,,http://www.ines-beerstore.de,10.0026226,49.913917
+720e3359-ef7c-452d-b91b-6cbde60e1489,Waldschloss-Bräu,brewpub,103 Orber Straße,,,Frammersbach,Bayern,97833,Germany,+49 9355 97340,http://www.waldschloss-brauerei.de,9.4623087,50.0759811
+80a6c1a9-f183-46a8-be05-1844846ab6db,Wasserburger,brewpub,8 Kreuzstraße,,,Dingolfing,Bayern,84130,Germany,+49 8731 3943155,http://www.brauerei-wasserburger.de,12.49159,48.64281
+36dda269-7fcd-4e59-bccc-a939d202939d,Weib's Brauhaus,brewpub,13 Untere Schmiedgasse,,,Dinkelsbühl,Bayern,91550,Germany,+49 9851 579490,http://www.weibsbrauhaus.de,10.3169982,49.0702813
+c7c37a1c-8326-4295-b95d-bbb92bb29288,Weihenstephan,brewpub,2 Alte Akademie,,,Freising,Bayern,85354,Germany,+49 8161 5360,http://www.weihenstephaner.de,11.7289326,48.3952883
+742c4372-e22d-483b-ac64-ecf95e53d29d,Weißbräu,brewpub,5 Bräuhausstraße,,,Freilassing,Bayern,83395,Germany,+49 8654 9725,http://www.weissbraeu-freilassing.de,12.981048,47.84215
+068476ab-1e7b-4337-a860-fccc7105618d,Weissbräu Schwendl,brewpub,115 Schalchener Straße,,,Tacherting,Bayern,83342,Germany,+49 8621 2300,http://www.weissbraeu-schwendl.de,12.5689621,48.0576504
+837842e7-3181-499f-86cb-de11345bacfb,Wernecker,brewpub,2 Schönbornstraße,,,Werneck,Bayern,97440,Germany,+49 9722 91080,http://www.wernecker-bier.de,10.1001906,49.982206
+c356b4fa-0497-4796-9850-79b982a5bb2d,Weyermann,brewpub,17-19 Brennerstraße,,,Bamberg,Bayern,96052,Germany,+49 951 932200,http://www.weyermannmalt.com,10.897485,49.9050231
+70a30b83-9e4d-4d52-aa71-3cb65ca43491,Wichert,brewpub,50 Alte Reichsstraße,,,Lichtenfels,Bayern,96215,Germany,+49 9571 3317,http://www.brauerei-wichert.de,11.0866032,50.1527875
+f00b047d-a5bd-40ef-829a-dad3ef368090,Wieninger,brewpub,1 Poststraße,,,Teisendorf,Bayern,83317,Germany,+49 8666 8020,http://www.wieninger.de,12.8235541,47.8489054
+a78a0fca-981d-400e-a19d-11c5a903a36c,Wiethaler,brewpub,7 Welserplatz,,,Lauf an der Pegnitz,Bayern,91207,Germany,+49 9126 7651,http://brauerei-wiethaler.de,11.2299216,49.5544817
+d9482d0c-0a42-43d6-8a62-6499b3d89e9c,Wildbräu-Grandauer,brewpub,15 Rotter Straße,,,Grafing bei München,Bayern,85567,Germany,+49 8092 700912,http://www.wildbraeu.de,11.9722078,48.04691709999999
+ba11a59a-edfd-43ae-8b6b-af42ba120452,Will,brewpub,19 Schederndorf,,,Stadelhofen,Bayern,96187,Germany,+49 9504 262,http://www.schederndorf.de,11.15415,50.00572
+3fdf3ed5-013d-4437-ab8d-0e0b4adf9cff,Will Bräu,brewpub,6 Brückenauer Straße,,,Motten,Bayern,97786,Germany,+49 9748 710,http://www.will-braeu.de,9.771565299999999,50.3953363
+958c8564-7028-4c8c-aac4-f9d4175f1942,Wimmer,brewpub,1 Bräuberg,,,Bruckberg,Bayern,84079,Germany,+49 8765 206,http://www.brauerei-wimmer.de,11.9931769,48.522782
+05fa1713-381e-4e45-b3d5-a423bbbe7086,Windsheimer,brewpub,12 Metzgergasse,,,Bad Windsheim,Bayern,91438,Germany,+49 9841 66620,http://www.brauerei-windsheimer.de,10.4205815,49.50208079999999
+4f0e79e7-3e99-4633-a858-1b08d1b3df0b,Winkler,brewpub,6 Schanzgäßchen,,,Amberg,Bayern,92224,Germany,+49 9621 784880,http://www.brauerei-winkler.de,11.8624258,49.4459554
+827e32a8-4626-4a75-96c9-e3212b6a1f36,Wittelsbacher Turm-Bräu,brewpub,1 Wittelsbacher Turm,,,Bad Kissingen,Bayern,97688,Germany,+49 971 7858820,http://www.wittelsbacher-turm.de,10.075536,50.162727
+4e22c173-d9a9-4692-a739-ffc15118dfed,Wittmann,brewpub,12 Bachstraße,,,Landshut,Bayern,84036,Germany,+49 871 943060,http://www.brauerei-wittmann.de,12.140248,48.5258079
+14e38d0f-9344-4264-9cfc-bbe6b598f353,Witzgall,brewpub,17 Schlammersdorfer Straße,,,Hallerndorf,Bayern,91352,Germany,+49 9545 7452,,11.0054479,49.7691524
+a4684f47-c636-4cbd-b35d-cc4580bec5a9,Wochinger-Bräu,brewpub,4 St.-Oswald-Straße,,,Traunstein,Bayern,83278,Germany,+49 861 3045,http://www.wochingerbraeu.de,12.6428822,47.8656088
+2a08c71b-780c-4918-b038-9948292ea7b3,Wolf,brewpub,7 Paul-Gerhardt-Platz,,,Rüdenhausen,Bayern,97355,Germany,+49 9383 440,https://wolfruedenhausen.wixsite.com/gasthofbrauereiwolf,10.34325,49.76430999999999
+9e2e3054-8d35-47f4-a7b3-3a5f88796a88,Wolferstetter,brewpub,26 Bürg,,,Vilshofen an der Donau,Bayern,94474,Germany,+49 8541 5880,http://www.wolferstetter-brauerei.de,13.1861543,48.633648
+a3174317-9a31-4518-81f1-5497402edca2,Wolframstub'n,brewpub,10 Hauptstraße,,,Windischeschenbach,Bayern,92670,Germany,+49 9681 1241,http://www.zoiglbrauerei.de,12.1552348,49.80205110000001
+1ad150bb-839e-4d8d-93e9-62cd42c73d4d,Wolfshöher,brewpub,3 Wolfshöhe,,,Neunkirchen am Sand,Bayern,91233,Germany,+49 9153 4040,http://www.wolfshoeher.de,11.3267471,49.5447072
+44fe880a-f60d-41c7-b2c9-68886d1a9317,Wurm,brewpub,2 Hutgasse,,,Pappenheim,Bayern,91788,Germany,+49 9143 837950,,11.03585,48.92842
+f660ccc0-46ec-4cc2-8237-cea30c771c86,Würth,closed,7 Bahnhofstraße,,,Windischeschenbach,Bayern,92670,Germany,+49 9681 1220,http://www.brauerei-wuerth.de,12.1594352,49.7980848
+f099ad53-4684-42f2-afdd-ca5433531916,Würzburger Hofbräu,brewpub,28 Höchberger Straße,,,Würzburg,Bayern,97082,Germany,+49 931 41090,http://www.wuerzburger-hofbraeu.de,9.9144208,49.79181029999999
+6195336c-869a-43c9-acf1-5695a01d55a5,Zehendner,brewpub,18 Mönchsambach,,,Burgebrach,Bayern,96138,Germany,+49 9546 380,http://www.moenchsambacher.de,10.6777805,49.8190061
+db9bf38b-dab2-4bd5-a486-b2f09cacebfe,Ziegler Bräu,brewpub,22 Scharfstraße,,,Mainburg,Bayern,84048,Germany,+49 8751 1470,http://www.ziegler-braeu-mainburg.de,11.7890128,48.6418755
+1eeee782-b08a-49f8-8cb1-6c68e89cf690,Zirndorfer,brewpub,8-10 Rote Straße,,,Zirndorf,Bayern,90513,Germany,+49 911 48068357,http://www.zirndorfer.de,10.9552309,49.44285259999999
+84898092-d89f-4fda-8a0c-2838581b60c9,Zombräu,brewpub,19 Obere Sendlbachstraße,,,Essenbach,Bayern,84051,Germany,+49 8703 4658592,http://www.zombraeu.com,12.1874434,48.6155285
+a0ef1dec-6aed-416c-b46a-41d2166159db,Zötler,brewpub,2 Grüntenstraße,,,Rettenberg,Bayern,87549,Germany,+49 8327 9210,http://www.zoetler.de,10.2999638,47.5756712
+1ac7bc36-378a-451f-87bd-971c96cc26fd,Zum Goldenen Adler,brewpub,10/12 Am Marktplatz,,,Rattelsdorf,Bayern,96179,Germany,+49 9533 982200,http://www.goldener-adler.info/,10.8631718,50.0621264
+b22e0efc-4baf-414d-abef-32e5729d9b47,Zum Goldenen Löwen,brewpub,18 Alte Regensburger Straße,,,Kallmünz,Bayern,93183,Germany,+49 1512 3357186,http://www.luber-kallmuenz.de,11.9575031,49.159893
+00ce4330-269e-4f55-8b21-c749da07ba93,Zum Gründla,brewpub,5 Am Gründlein,,,Kulmbach,Bayern,95326,Germany,+49 9221 823884,http://www.wirtshauszumgründla.de,11.4377778,50.1194444
+2c114f50-c545-46ae-8f26-003cb6a032eb,Zur Sonne,brewpub,2 Regnitzstraße,,,Bischberg,Bayern,96120,Germany,+49 951 62571,http://www.sonnenbier.de,10.8322288,49.9108712
+734d8f3c-0d1c-45d1-842e-b75182551a1c,Zwanzger,brewpub,10 Burghaslacher Straße,,,Uehlfeld,Bayern,91486,Germany,+49 9163 959756,http://www.brauerei-gasthof-zwanzger.de,10.72178,49.67171

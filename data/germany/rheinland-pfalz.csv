@@ -1,0 +1,58 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+7d13be05-4aff-4b36-8ac0-0561d6a918fc,Bahnhof Cues,brewpub,8 Bahnhofstraße,,,Bernkastel-Kues,Rheinland-Pfalz,54470,Germany,+49 6531 9739705,http://www.bahnhof-kues.de,7.0692808,49.9157156
+7bee8fbd-fb43-4c7a-a5b6-53c80d9f5ad3,Bellheimer,brewpub,20-22 Karl-Silbernagel-Straße,,,Bellheim,Rheinland-Pfalz,76756,Germany,+49 7272 7010,http://www.bellheimer.de,8.2789512,49.189647
+7554565b-edb0-4dbc-89b6-dda7b5f0ef3f,Bells,brewpub,27 Niederhutstraße,,,Bad Neuenahr-Ahrweiler,Rheinland-Pfalz,53474,Germany,+49 2641 900243,http://www.apbells.de,7.0972532,50.5431775
+11ceebc9-8b61-4d50-97ea-9160f2236f5e,Bier-Schmiede,brewpub,88 Hauptstraße,,,Bendorf,Rheinland-Pfalz,56170,Germany,+49 2622 8954696,http://www.bierschmiede-bendorf.de,7.577593599999999,50.4229226
+80a4dc31-7d52-4eee-b40b-adc0687e6935,Bierprojekt Landau,closed,8 Mühlweg,,,Siebeldingen,Rheinland-Pfalz,76833,Germany,,http://www.bierprojekt-landau.de,8.046619399999999,49.2093826
+efbc4c79-d23e-4cc5-877f-e1c1922a7649,Bischoff,closed,6 An den Hopfengärten,,,Winnweiler,Rheinland-Pfalz,67722,Germany,+49 6302 9120,http://www.bischoff-bier.de,7.858153600000001,49.5720399
+aa1c1b26-722e-42d7-9d2d-74c0eca0a110,Bitburger,brewpub,3 Römermauer,,,Bitburg,Rheinland-Pfalz,54634,Germany,+49 6561 142497,http://www.bitburger.de,6.5223335,49.9744776
+81f66e31-e29e-423b-be6c-4270ac528313,BrauArt,brewpub,2-4 Angelgasse,,,Grünstadt,Rheinland-Pfalz,67269,Germany,+49 170 1697666,http://www.brau-art.com,8.15935,49.54849
+92c70439-3435-4d7b-b3a2-ebe570015a1f,Brauhaus am Markt,brewpub,2 Stiftsplatz,,,Kaiserslautern,Rheinland-Pfalz,67655,Germany,+49 631 61944,http://www.brauhaus-am-markt.com,7.771735499999998,49.4447742
+fc2a2892-0ae7-418d-891c-8fbca075c821,Brauhaus am Turm,brewpub,1 Schlossstraße,,,Kirchheimbolanden,Rheinland-Pfalz,67292,Germany,+49 6352 3841,http://www.brauhaus-am-turm.de,8.0109962,49.6642482
+5822d6c5-e10d-4bb3-bcf7-d20893d5ec58,Brauhaus Ehrstein,brewpub,3 Im Handschuhteich,,,Hinterweidenthal,Rheinland-Pfalz,66999,Germany,+49 6396 1680000,http://www.brauhaus-ehrstein.de,7.749108399999999,49.1965741
+e25ed5ba-8880-4af5-a9d4-2501e55d8d1e,Brauhaus Grünstadt,brewpub,11 Turnstraße,,,Grünstadt,Rheinland-Pfalz,67269,Germany,+49 176 41723945,http://www.brauhaus-gruenstadt.de.tl,8.1649154,49.56363690000001
+77250acb-fa3d-4e4a-ab5b-c2a552e4acee,Brauhaus K,brewpub,8 Bahnhofstraße,,,Bernkastel-Kues,Rheinland-Pfalz,54470,Germany,+49 6531 9739705,http://www.brauhaus-kloster-machern.de,7.0692808,49.9157156
+3d2500c7-054b-4f6d-b02a-0d926b526cd1,Brauhaus Lauterecken,brewpub,1 Bahnhofstraße,,,Lauterecken,Rheinland-Pfalz,67742,Germany,+49 176 64350781,http://www.brauhauslauterecken.de,7.5911572,49.6537622
+0a8b3fa3-dfd4-4c73-bca0-42670a84018b,Brauhaus zur Post,brewpub,45 Neumayerring,,,Frankenthal (Pfalz),Rheinland-Pfalz,67227,Germany,+49 6233 220286,http://www.brauhaus-zur-post.de,8.3503927,49.534615
+6bf1bb5e-d959-419b-9d42-bf558bda65ff,Braukeller Bobenheim,closed,6 Im Pflänzer,,,Bobenheim am Berg,Rheinland-Pfalz,67273,Germany,+49 6353 932211,http://www.braukeller-bobenheim.de,8.14555,49.52364
+08791b8f-54fd-41d7-a74e-571f531fa6ff,Brauwerk,brewpub,11 Saline Karlshalle,,,Bad Kreuznach,Rheinland-Pfalz,55543,Germany,+49 671 29843330,http://www.brauwerk.info,7.849343999999999,49.82858299999999
+a98d6d6b-24a8-4df1-93d5-3c4d7cc933bf,BREXX,brewpub,11-17 Brexbachstraße,,,Höhr-Grenzhausen,Rheinland-Pfalz,56203,Germany,+49 2624 105637,http://www.brexx-grenzau.de,7.6613335,50.4522206
+087d5cec-91fe-4a1d-9ecb-e8b0adcde25d,Denkmalz,brewpub,5 Kapellenstraße,,,Bad Sobernheim,Rheinland-Pfalz,55566,Germany,+49 6751 8577080,http://www.denkmalz.de,7.654766400000001,49.7837173
+64bc1a63-f967-45a7-ae00-d5347f804ca7,Domhof,brewpub,6 Große Himmelsgasse,,,Speyer,Rheinland-Pfalz,67346,Germany,+49 6232 67440,http://www.domhof.de,8.4406211,49.3176503
+57b2b737-11df-4a06-a9e8-ea92da1ba188,Eisgrub-Bräu,brewpub,1A Weißliliengasse,,,Mainz,Rheinland-Pfalz,55116,Germany,+49 6131 221104,http://www.eisgrub.de,8.2730661,49.9952753
+955b335d-3049-4b3d-8ec7-274a0b5b1c36,Fohr,brewpub,An der Brauerei,,,Ransbach-Baumbach,Rheinland-Pfalz,56235,Germany,+49 2623 9294930,http://www.brauerei-fohr.de,7.7164481,50.4712702
+29f54fa5-e9a5-43ee-bc7f-594a2af3edc4,Froschbräu,brewpub,5 Buchstraße,,,Jockgrim,Rheinland-Pfalz,76751,Germany,+49 7271 5478,http://www.froschl.de,8.2713916,49.0913875
+0083a107-6d0c-4def-9dc2-ab1160789279,Göcklinger Hausbräu,brewpub,2 Münsterweg,,,Göcklingen,Rheinland-Pfalz,76831,Germany,+49 6349 5335,http://www.goecklingerhausbraeu.de,8.0401077,49.1603553
+de4a7f2b-dcdc-48ce-ad9b-59fca0229ad8,Hagenbräu,brewpub,3 Am Rhein,,,Worms,Rheinland-Pfalz,67547,Germany,+49 6241 921100,http://www.hagenbraeu.de,8.3769918,49.6322419
+b8732ad1-0459-4a93-8e71-84b499048004,Hasslocher Brauhof,closed,151 Rennbahnstraße,,,Haßloch,Rheinland-Pfalz,67454,Germany,+49 6324 9114463,,8.2736087,49.3486088
+6ed3c594-4136-4a59-8bcd-aebb40fe31a1,Hof Schauferts,brewpub,Schaufertshof,,,Schönborn,Rheinland-Pfalz,56370,Germany,+49 6486 6208,http://www.schauferts.de,7.978594999999999,50.297119
+f3f2c3f0-a54c-4c72-bc61-93d8a0416253,Hofstätter-Scheune-Bräu,closed,33 Ortsstraße,,,Wilgartswiesen,Rheinland-Pfalz,76848,Germany,+49 6397 360,http://www.zurscheune.de,7.858876199999998,49.2789763
+cbf311c9-810c-497a-91d5-8d9ffb716d38,Jäger Bräu,brewpub,18 Staatsstraße,,,Edenkoben,Rheinland-Pfalz,67480,Germany,+49 6323 937641,http://www.jägerbräu.de,8.140009899999999,49.2830429
+7e9357ff-d1d6-419f-8e7b-38a814eacd5d,Kirner,brewpub,2 Kallenfelser Straße,,,Kirn,Rheinland-Pfalz,55606,Germany,+49 6752 1340,http://www.kirner.de,7.457421099999999,49.7887716
+6dde99bc-67da-4674-8fe3-ae513e5433ce,Koblenzer,brewpub,10 An der Königsbach,,,Koblenz,Rheinland-Pfalz,56075,Germany,,http://www.koblenzer-brauerei.de,7.5867422,50.3233019
+767be5e2-9fb4-4a8f-9457-496d1ec56922,Kraft-Bräu,brewpub,135 Olewiger Straße,,,Trier,Rheinland-Pfalz,54295,Germany,+49 651 36060,http://www.blesius-garten.de,6.659902799999999,49.74323760000001
+2289fc38-47ac-4ed5-b0fb-9c72d48a0b7c,Kuchems Brauhaus,brewpub,44 Schlossstraße,,,Pirmasens,Rheinland-Pfalz,66953,Germany,+49 6331 213894,http://www.kuchems-brauhaus.de,7.6054792,49.2004801
+ac7584c0-30a9-4850-a7e3-e26fae6770f7,Kuehn Kunz Rosen,brewpub,15 Weisenauer Straße,,,Mainz,Rheinland-Pfalz,55131,Germany,+49 6131 2116101,http://www.kuehnkunzrosen.de,8.2859641,49.99166040000001
+f596f5d3-4de7-4ab1-8403-e96fd6b8765c,Lahnsteiner,brewpub,1 Sandgasse,,,Lahnstein,Rheinland-Pfalz,56112,Germany,+49 2621 91740,http://www.lahnsteiner-brauerei.de,7.6079135,50.2990881
+9db4ce1b-8f01-424f-89c9-839c8d3f9825,Mahls Kleines Brauhaus,brewpub,16 Koblenzer Straße,,,Bacharach,Rheinland-Pfalz,55422,Germany,+49 6743 919179,http://www.rheintheater.de/html/bacchusbrau.html,7.768564100000001,50.0621514
+35e716a9-0d28-4f01-8d30-50bc99f05171,Mannebacher Brauhaus,brewpub,1 Hauptstraße,,,Mannebach,Rheinland-Pfalz,54441,Germany,+49 6581 99277,http://www.mannebacher.de,6.5085221,49.63354220000001
+9ad97617-1313-45d7-85aa-04f60b064e6e,Marienstatter Brauhaus,brewpub,1 Kloster,,,Streithausen,Rheinland-Pfalz,57629,Germany,+49 2662 9535300,http://www.abtei-marienstatt.de,7.799746499999999,50.6849861
+8091e6cf-a10d-48e0-b63d-e660297662ae,Maximilians Brauwiesen,brewpub,25 Didierstraße,,,Lahnstein,Rheinland-Pfalz,56112,Germany,+49 2621 926060,http://www.maximilians-brauwiesen.de,7.5927046,50.3209846
+a3b7f870-6dc6-45ad-8a62-78d678d0ead2,Mayer Bräu,brewpub,8 Schillerstraße,,,Ludwigshafen am Rhein,Rheinland-Pfalz,67071,Germany,+49 621 675083,http://www.mayerbraeu.de,8.3752328,49.4913831
+72b537f5-04be-4717-a5fe-151afed14f87,Merk's Scheunenbrauerei,closed,24 Hauptstraße,,,Otterbach,Rheinland-Pfalz,67731,Germany,,http://www.scheunenbrauerei.de,7.737792000000001,49.485161
+d66d2274-fb29-4864-82e6-1c89f9786e39,Munruffer Bierfabrik,brewpub,46 Hauptstraße,,,Mogendorf,Rheinland-Pfalz,56424,Germany,+49 1512 4071862,http://www.munruffer-bierfabrik.de,7.761430099999999,50.49482920000001
+49932d37-7c33-4c04-9b6f-ec6a167df8b4,Ottersheimer Bärenbräu,brewpub,35A Waldstraße,,,Ottersheim bei Landau,Rheinland-Pfalz,76879,Germany,+49 6348 7595,http://www.ottersheimer-baerenbraeu.de,8.22919,49.193964
+557d8bcd-6bf0-448a-8475-511eadbd7314,Park,brewpub,4 Zweibrücker Straße,,,Pirmasens,Rheinland-Pfalz,66953,Germany,+49 6331 8050,http://www.parkbrauerei.de,7.60427,49.20568
+22555e04-b794-426c-8c84-890103dcc097,Petrusbräu,brewpub,21 Windmühlenstraße,,,Trier,Rheinland-Pfalz,54290,Germany,+49 174 3239378,http://www.triererpetrusbraeu.de,6.6343035,49.7561967
+f864ec13-f060-4d91-83d7-74f0eda9d364,Pleiner Biermanufaktur,brewpub,3 Zum Waldschlößchen,,,Plein,Rheinland-Pfalz,54518,Germany,+49 6571 1740021,http://www.pleiner-biermanufaktur.de,6.8807578,50.032382
+1ae857e7-3dd2-4850-921e-34f1a08650de,Rheinhessen Bräu,brewpub,7 Reiterweg,,,Mainz,Rheinland-Pfalz,55129,Germany,+49 6136 763642,http://www.rheinhessen-braeu.de,8.2447682,49.9175301
+aaca73e7-11e0-419d-acd3-4f7cb62add88,Sander,brewpub,67 Weinsheimer Straße,,,Worms,Rheinland-Pfalz,67547,Germany,+49 6241 8545028,http://www.brauerei-sander.de,8.3429789,49.611809
+cc4f1fe5-f07a-4f7e-8049-c37ab5525929,Sickingen Bräu,micro,1 Burgweg,,,Landstuhl,Rheinland-Pfalz,66849,Germany,+49 6371 13460,http://www.sickingenbraeu.de,7.573582,49.40978699999999
+e0042e5f-805b-4118-b12b-a12d404f8961,Stadtbrauhaus Hermannbräu,closed,4 Stixwörthstraße,,,Hagenbach,Rheinland-Pfalz,76767,Germany,+49 7273 800765,http://www.stadtbrauhaus.de,8.258888899999999,49.00916669999999
+37d38c65-0849-4959-b8b2-bb14d62195fd,Stromberger Urbräu,brewpub,23b Deyertstraße,,,Schweppenhausen,Rheinland-Pfalz,55444,Germany,+49 1575 5315725,http://www.stromberger-urbraeu.de,7.7970333,49.9299264
+265d0844-0bee-4517-90f3-9eedbb839948,Stugge,brewpub,10 Zweibrücker Straße,,,Winterbach (Pfalz),Rheinland-Pfalz,66484,Germany,,http://www.stugge.de,7.469869699999999,49.3025013
+db6b78ee-d234-4c6d-98c5-c9f12c705399,Temmelser Braukeller 2018,brewpub,2 Kirchstraße,,,Temmels,Rheinland-Pfalz,54441,Germany,+49 1514 3203507,https://m.facebook.com/Temmelser/?locale2=de_DE,6.4625922,49.690649
+204ef187-4c38-4d0d-ae97-8dbbe845bc93,Unterhammer Bräu,brewpub,3 Unterhammer,,,Trippstadt,Rheinland-Pfalz,67705,Germany,+49 6306 701460,http://www.unterhammer.com,7.7398678,49.3609516
+493bbbf8-fe86-4649-9e2f-fa31bc31f53d,Vulkan,brewpub,2 Laacher-See-Straße,,,Mendig,Rheinland-Pfalz,56743,Germany,+49 2652 520330,http://www.vulkan-brauhaus.de,7.2823083,50.3775731
+a1763f8e-1838-4e17-afdc-003ecb7b97eb,Westerwald,brewpub,1 Am Hopfengarten,,,Hachenburg,Rheinland-Pfalz,57627,Germany,+49 2662 8080,http://www.hachenburger.de,7.8166273,50.6570489
+89cd4079-9d3c-4606-9208-f8a5fbe30fd7,Zils-Bräu,closed,1 Waldstraße,,,Naurath (Eifel),Rheinland-Pfalz,54340,Germany,+49 6508 91710,http://www.brauhaus-zils.de,6.7483765,49.880787

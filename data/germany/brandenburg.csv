@@ -1,0 +1,37 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+0e8bc17d-a0f8-4cd8-b207-eeb0fe369d01,Alte Ölmühle / Herz-Bräu,brewpub,52 Bad Wilsnacker Straße,,,Wittenberge,Brandenburg,19322,Germany,+49 3877 567994600,http://www.oelmuehle-wittenberge.de,11.7593927,52.9906349
+ee991914-5f3e-4b2e-9241-b0fa4f306fc5,Babben,brewpub,2 Brauhausgasse,,,Lübbenau/Spreewald,Brandenburg,03222,Germany,+49 3542 2126,http://www.babben-bier.de,13.9677778,51.8694444
+15925a01-78bb-45ca-b745-61f73b03778a,Barnimer Brauhaus,brewpub,4 Am Bahnhof,,,Hohenfinow,Brandenburg,16248,Germany,+49 33362 619000,http://www.barnimer-brauhaus.de,13.9280135,52.83050129999999
+ab7cfd95-d5fd-4665-b25d-54cb2a6de10f,Braumanufaktur,brewpub,102 Templiner Straße,,,Potsdam,Brandenburg,14473,Germany,+49 33209 217979,http://www.braumanufaktur.de,13.0235965,52.35940369999999
+4d5e138a-38e9-4f01-928f-69b04d47102b,Braumanufaktur Marstall Boitzenburg,brewpub,5 Templiner Straße,,,Boitzenburger Land,Brandenburg,17268,Germany,+49 39889 550005,http://www.boizenburger-bier.de,13.604319,53.2622546
+e1c28e52-395a-49f7-9535-5e2628789f11,Burgbräuhaus,brewpub,16 Bahnhofstraße,,,Bad Belzig,Brandenburg,14806,Germany,+49 33841 449933,http://www.burgbraeuhaus.de,12.587143,52.136917
+fc07fc0d-1340-40bc-a4bd-4dd40739564f,Burgwall Bräu,brewpub,54 a Lindenallee,,,Oberuckersee,Brandenburg,17291,Germany,+49 39863 7149,,13.8771315,53.18652549999999
+43fa307c-5475-42d2-b919-bb2fd3dfc63b,Erlerbnispark Paaren,brewpub,1-3 Gartenstraße,,,Schönwalde-Glien,Brandenburg,14621,Germany,+49 33230 740,http://www.erlebnispark-paaren.de,12.9816784,52.6497128
+549233f4-f90c-4acf-8fd9-e931e69015f3,Finsterwalder Brauhaus,brewpub,13 Sonnewalder Straße,,,Finsterwalde,Brandenburg,03238,Germany,+49 3531 2286,http://www.finsterwalder-brauhaus.de,13.7057146,51.6365991
+8c7bf5d0-1352-46c7-9620-19e7e1892350,Frankfurter Brauhaus,brewpub,3 Lebuser Chaussee,,,Frankfurt (Oder),Brandenburg,15234,Germany,+49 335 6610,http://www.frankfurter-brauhaus.de,14.530693,52.3647122
+6c08086f-e86d-4030-8050-be3f0c386ff8,Fürstenwalder Rathausbräu,brewpub,1 Am Markt,,,Fürstenwalde/Spree,Brandenburg,15517,Germany,+49 3361 7600841,http://www.rathausbraeu-fuerstenwalde.de,14.0635512,52.3585387
+eb396522-275a-4d1f-bb6b-5f1820d1ed26,G.Bräu,brewpub,2c Ernst-Thälmann-Straße,,,Bernau bei Berlin,Brandenburg,16321,Germany,+49 3338 768528,http://www.gbrau.com,13.6349248,52.6620675
+bfc678ca-08a1-4c4a-b334-4b16f4d877aa,Gottfried Bräu,brewpub,123 Prenzlauer Chaussee,,,Wandlitz,Brandenburg,16348,Germany,+49 172 4554235,http://www.rialto-wandlitz.de,13.4634141,52.7464482
+660dd6e2-767b-4b66-ba88-a794cfadcb3d,Hebenbräu,brewpub,143 Mötzower Landstraße,,,Brandenburg an der Havel,Brandenburg,14776,Germany,,http://www.facebook.com/Brauhausschmerzke/,12.5794799,52.4348
+8bb7a9b2-f8d9-4436-a301-e4988e5de3be,Hofbrauerei Krongut Bornstedt,brewpub,6-7 Ribbeckstraße,,,Potsdam,Brandenburg,14469,Germany,+49 331 550650,http://www.krongut-bornstedt.de,13.0302968,52.408103
+a6fb9c21-6cf6-4a13-b178-7ba7e5422c62,Hotel LéonWood,brewpub,26 Steindamm,,,Senftenberg,Brandenburg,01968,Germany,+49 3573 363000,http://www.hotel-leonwood.de,14.0071912,51.5144518
+ebe50d23-08dc-4863-a342-0bdacd097773,Kalkofenbrauerei,closed,1 Am Hafen,,,Wriezen,Brandenburg,16269,Germany,+49 33456 2733,http://www.kalkofenbier-wriezen.de,14.13914,52.72501
+94dd6311-a6a5-437f-8e8e-dc74243b08d4,Kavalierhäuser,brewpub,1 Schloßplatz,,,Königs Wusterhausen,Brandenburg,15711,Germany,+49 3375 5665038,http://www.schloss-koenigs-wusterhausen.de,13.6246351,52.2992485
+8733012e-81b7-4769-a9ba-30acc393e713,Kirchers Brauhaus,brewpub,42 Brauhausstraße,,,Drebkau,Brandenburg,03116,Germany,+49 35602 701,http://www.brauerei-kircher.de,14.22173,51.65822989999999
+a81434bc-9f6a-426b-bb5b-f51fe5900f39,Kneipe Pur,bar,23A Lewaldstraße,,,Brandenburg an der Havel,Brandenburg,14774,Germany,+49 3381 403466,http://www.kneipepur.de,12.4154472,52.4157562
+473aff8d-9f36-4a78-a73a-3e0a44022e5b,Knobinger,closed,68 Zinnaer Vorstadt,,,Jüterbog,Brandenburg,14913,Germany,+49 174 6548277,https://de-de.facebook.com/KnobingerBier,13.0852188,51.9946734
+7732bb1a-9484-437f-b7f8-64cd33c0593b,Krabat,micro,Leineweberweg,,,Burg (Spreewald),Brandenburg,03096,Germany,,http://www.spreewaldhotel-krabat.de,14.1348814,51.8302931
+70a66d60-948d-4dd7-baa3-e8afbc7ace3c,Labieratorium,closed,41a Finsterwalder Straße,,,Cottbus,Brandenburg,03048,Germany,,http://www.labieratorium.de,14.3179376,51.746305
+aeceaa85-4d6a-48d5-b428-f74120f295d9,Märkische Bierstuben,brewpub,49 Große Milower Straße,,,Rathenow,Brandenburg,14712,Germany,+49 3385 512886,http://www.maerkische-bierstuben.de,12.3380884,52.5975502
+9e4748d8-61e3-439a-96ba-577e71fa7db0,Meierei,brewpub,10 Im Neuen Garten,,,Potsdam,Brandenburg,14469,Germany,+49 331 7043211,http://www.meierei-potsdam.de,13.0696853,52.4221304
+b62f8f0b-3e43-4307-98c4-a5e14f8961c4,Prignitzer Hofbräu,brewpub,4 Hauptstraße Buchholz,,,Pritzwalk,Brandenburg,16928,Germany,+49 3395 304090,http://www.prignitzer-hof.de,12.1820826,53.1202128
+2755cd93-a50e-4c78-8a6e-e6f6eec1da35,Privatbrauerei Heymann - Heymische Braukunst,brewpub,4 Am Bahnhof,,,Hohenfinow,Brandenburg,16248,Germany,+49 33362 619000,http://www.brauerei-heymann.de,13.9280135,52.83050129999999
+6c0caa7d-8acc-4cdc-9743-c4c2be2f9c81,SchleusenBrauerei,brewpub,2b An der Schleuse,,,Woltersdorf,Brandenburg,15569,Germany,+49 3362 8862296,http://www.schleusenwirtschaft.de,13.7653654,52.4419459
+ea3df147-c8c2-4666-8908-e8c17d164190,Sozietätsbrauerei,micro,22 Bernauer Straße,,,Altlandsberg,Brandenburg,15345,Germany,+49 33438 649011,http://www.schlossgut-altlandsberg.eu,13.7284489,52.56673439999999
+fbe22ae8-3b08-4806-9106-4357061217fd,Spreewälder,brewpub,53 Dorfstraße,,,Schlepzig,Brandenburg,15910,Germany,+49 35472 6620,http://www.spreewaldbrauerei.de,13.8885913,52.0289319
+16ab7fd0-f231-493d-8606-5f52d1b76ed9,Storch Bier,closed,1 Rutenberger Straße,,,Lychen,Brandenburg,17279,Germany,+49 173 4631245,http://www.storch-bier.de,13.3098564,53.21883520000001
+b86cdc4a-11f2-4f78-ab54-589d5a31fb80,Taverna Obscura,closed,1 Auf der Burg,,,Plattenburg,Brandenburg,19339,Germany,+49 38791 568225,http://www.burgkeller-plattenburg.de,12.0303663,52.9581562
+3290c3c4-aad7-4c40-bc7b-7a5a982ce44c,Uckermärker,brewpub,49 Alte Handelsstraße,,,Chorin,Brandenburg,16230,Germany,+49 3334 420557,http://www.choriner.de,13.8150373,52.9106027
+d8d6fde9-f0ca-44a4-8ac1-e737e1530861,Zum Grünen Baum,micro,4 Templiner Straße,,,Boitzenburger Land,Brandenburg,17268,Germany,+49 39889 569995,http://www.boizenburg.de,13.6045343,53.26313219999999
+136195f1-7f1f-47c9-8d8b-fc4a3423480a,Zum Rittmeister,brewpub,9 Seestraße,,,Werder (Havel),Brandenburg,14542,Germany,+49 3327 4646,http://www.zum-rittmeister.de,12.8674,52.4087226
+263d81ed-5109-4fbe-9891-04173a5b0a07,Zur Alten Brauerei,brewpub,30 Mühlenstraße,,,Beelitz,Brandenburg,14547,Germany,+49 33204 35777,http://www.zuraltenbrauerei.de/,12.974678,52.2320059

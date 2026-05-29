@@ -1,0 +1,68 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+444584ea-a619-4144-9b6a-b71b33ad2447,Alter Elbehof,brewpub,12 Werdau,,,Torgau,Sachsen,04860,Germany,+49 3421 904525,http://www.elbehof.eu,13.0336437,51.5527191
+2685a1c6-3058-4983-a713-0b3d79d2b75e,Bautzener Brauhaus,closed,7 Thomas-Mann-Straße,,,Bautzen,Sachsen,02625,Germany,+49 3591 491456,http://www.bautzener-brauhaus.de,14.4396638,51.1798022
+0b6ba94e-ab5c-4714-9a68-f92027cef3a3,Bergquell,brewpub,7 Weststraße,,,Löbau,Sachsen,02708,Germany,+49 3585 47470,http://www.bergquell-loebau.de,14.6596143,51.108704
+f007364e-036a-4d4f-abed-400788920817,Bergschlösschen,brewpub,25 Cunnersdorfer Straße,,,Dresden,Sachsen,01189,Germany,+49 351 40830,http://www.missionshof-lieske.de,13.707629,51.0159028
+48e2f92a-744b-4c7b-8b02-30a784d4da3e,Bierblume,closed,8 Neißstraße,,,Görlitz,Sachsen,02826,Germany,+49 3581 6673313,http://www.bierblume-goerlitz.de/,14.9928298,51.1572274
+86dc9da0-8c8a-4f8b-bf48-efa70cd5a978,Bierbrauhaus,closed,3 Großdöbschützer Straße,,,Obergurig,Sachsen,02692,Germany,+49 35938 57684,http://www.bierbrauhaus.de,14.4177034,51.1267916
+df527867-05b0-4b1c-b014-fe3eef2676ce,Bierfabrik Erzgebirge,brewpub,6 Bahnhofstraße,,,Pockau-Lengefeld,Sachsen,09514,Germany,+49 172 9598266,http://www.bierfabrik-erzgebirge.de,13.1923206,50.74187939999999
+d53f051e-de72-40a1-b75e-642429eb342a,Blechschmidt,brewpub,33 Straße der Jugend,,,Treuen,Sachsen,08233,Germany,+49 37468 2867,,12.31428,50.54056
+8de3de11-bd87-476d-9fd9-8c3bfa6bc3a7,Böhmisch Brauhaus,brewpub,9 Neueibauer Straße,,,Kottmar,Sachsen,02739,Germany,+49 3586 78140,http://www.boehmisch-brauhaus.de,14.6643599,50.97774889999999
+ead15508-e7b7-4e5e-8b08-ecf5cb721725,Brauhaus Napoleon,brewpub,233 Prager Straße,,,Leipzig,Sachsen,04289,Germany,+49 341 2467676,http://www.brauhaus-leipzig.com,12.4229895,51.306769
+3b713aa7-b03c-4931-a214-dccd8f2bf7bf,Brauhaus Pirna,brewpub,60b Basteistraße,,,Pirna,Sachsen,01796,Germany,+49 3501 464646,http://www.brauhaus-pirna.de,13.9429966,50.979966
+76688eae-2a3f-428c-bbec-ef20ec54808c,Brauhaus Radebeul,brewpub,8 Nach der Schiffsmühle,,,Radebeul,Sachsen,01445,Germany,+49 351 89516933,http://www.brauhaus-radebeul.de,13.5925459,51.1202543
+8f5d7f06-a66b-430d-8250-a95cd022c10c,Brauhaus Schmilka,brewpub,36 Schmilka,,,Bad Schandau,Sachsen,01814,Germany,,http://www.brauerei-schmilka.de,14.2319154,50.8921866
+1fa231e9-36e1-4330-a00c-b3e4abcf616d,Brauhaus Weltenbummler,closed,6 Sebastian-Kneipp-Straße,,,Bad Gottleuba-Berggießhübel,Sachsen,01816,Germany,,http://www.brauhaus-weltenbummler.de,13.9458144,50.873326
+1192010e-54ff-4ff1-9855-47062d8c6961,Brauhaus Zwickau,closed,12-20 Peter-Breuer-Straße,,,Zwickau,Sachsen,08056,Germany,+49 375 3032032,http://www.brauhaus-zwickau.de,12.4944446,50.7171153
+18ba9957-7aff-40ae-a4e9-69bb843a5dfd,Braumanufaktur Radebeul,brewpub,30 Straße des Friedens,,,Radebeul,Sachsen,01445,Germany,+49 1575 1369488,http://www.braumanufaktur-radebeul.de,13.6613536,51.1002708
+3c40b08e-3800-4435-87a5-da4596f4568e,Braun Mühle,brewpub,55 Dörnthal,,,Olbernhau,Sachsen,09526,Germany,+49 37360 6250,http://www.braun-muehle-doernthal.de,13.3336061,50.7344367
+06c893b6-2ec3-4f3f-a8dc-35a87ff4e40e,Braustolz,closed,Am Feldschlößchen,,,Chemnitz,Sachsen,09116,Germany,,http://www.braustolz.de,12.8856435,50.8230444
+6f842131-7f1f-40c0-93a4-bc11f93a2b9c,Cliff's Brauwerk,brewpub,17 Leibnizstraße,,,Leipzig,Sachsen,04105,Germany,+49 341 24972927,http://www.cliffs-brauwerk-leipzig.de,12.3637598,51.3449824
+844e3c33-dc12-4bc3-a7ae-f1a506f996b9,Eibauer,brewpub,9 Neueibauer Straße,,,Kottmar,Sachsen,02739,Germany,+49 3586 78140,http://www.eibauer.de,14.6643599,50.97774889999999
+db564006-6e51-4e02-b096-d6aed279117a,Einsiedler,brewpub,144 Einsiedler Hauptstraße,,,Chemnitz,Sachsen,09123,Germany,+49 37209 6610,http://www.einsiedler.de,12.9745768,50.7649684
+4dfa8b8e-9c01-402d-840c-4f979e9b8bd9,Erlbacher Brauhaus,brewpub,12 Klingenthaler Straße,,,Markneukirchen,Sachsen,08258,Germany,+49 37422 6384,http://www.brauhaus-erlbach.de,12.3773059,50.314346
+cd635902-69a1-45ee-aeee-6ea7909ad896,Feldschlößchen,brewpub,25 Cunnersdorfer Straße,,,Dresden,Sachsen,01189,Germany,+49 351 40830,http://www.feldschloesschen.de,13.707629,51.0159028
+805c9b9a-c9fc-47e6-a910-f4c78a7d9dae,Fiedler,brewpub,28 Hauptstraße,,,Scheibenberg,Sachsen,09481,Germany,+49 37349 8249,http://www.brauerei-fiedler.de,12.8985525,50.5368797
+9cf3c431-77fa-4e7d-844c-400efa949d1e,Freiberger,brewpub,Am Fürstenwald,,,Freiberg,Sachsen,09599,Germany,+49 3731 3630,http://www.freiberger-bier.de,13.322575,50.932104
+36a45755-af65-4cf3-a616-eac119026f57,Frenzel-Bräu,brewpub,21A Humboldtstraße,,,Bautzen,Sachsen,02625,Germany,+49 3591 5984401,http://www.frenzel-braeu.de,14.4197092,51.1712607
+2403e0b0-4cd0-48d3-90ea-a9ad53d23ca9,Genusbrauerei Krause / GR-LI-Bräu,brewpub,116 An der Landskronbrauerei,,,Görlitz,Sachsen,02826,Germany,+49 3581 4650,http://www.gr-li-braeu.de,14.98846,51.13994
+e708a031-9197-4710-9c9f-183fee2f8cd9,Glückauf,brewpub,176 Hauptstraße,,,Gersdorf,Sachsen,09355,Germany,+49 37203 9100,http://www.glueckaufbiere.de,12.7083,50.76184
+27bb814e-1295-479d-b0d5-e7b0e75bc58c,Gosebrauerei Bayerischer Bahnhof,brewpub,1 Bayrischer Platz,,,Leipzig,Sachsen,04107,Germany,+49 341 1245760,http://www.bayerischer-bahnhof.de,12.3814659,51.3288041
+dff5903d-ece5-45cf-9d84-47c108743897,Hammer-Bräu,brewpub,42 Bahnhofstraße,,,Riesa,Sachsen,01587,Germany,+49 3525 530930,http://www.hammerbraeu.de,13.2950269,51.3088546
+e3637ea0-e776-4bb9-bb41-1309758f4ebc,Hartmannsdorfer Brauhaus,brewpub,5 Chemnitzer Straße,,,Hartmannsdorf,Sachsen,09232,Germany,+49 3722 71910,http://www.mittweidaer-loewenbraeu.de,12.8031414,50.8862812
+f0eb9d25-c479-4a36-843b-4f7147370840,Hausbrauerei Jahn / Obergorbitzer Hausbräu,brewpub,67 Österreicher Straße,,,Dresden,Sachsen,01279,Germany,+49 351 48455580,http://www.hausbrauerei-jahn.de,13.8397617,51.0225448
+8dd4004f-e969-4008-ae94-0ca0ebbb740e,Hausbrauerei Laubegast,brewpub,67 Österreicher Straße,,,Dresden,Sachsen,01279,Germany,+49 351 48455580,http://www.hausbrauerei-laubegast.de,13.8397617,51.0225448
+7ab3e6bb-ec3e-4b70-808c-197879e77414,Hausbrauerei Roland Rosner,brewpub,1B Taubenheimer Straße,,,Sohland an der Spree,Sachsen,02689,Germany,+49 35936 41685,http://www.brauereisohland.de/,14.4409862,51.0530499
+a6635b8e-512a-4de8-9eed-8d9fbee6e613,Hausbrauerei Schiller,closed,19 Töpferstraße,,,Coswig,Sachsen,01640,Germany,+49 1640,http://www.bierscheune.com,13.5482133,51.1458451
+8cc2db49-d1ee-4c36-9763-91d36fa876f9,Kevin Brewery,brewpub,1 Seilerstraße,,,Zwickau,Sachsen,08056,Germany,+49 176 60902538,http://www.kevin-brewery.de,12.480278,50.7220522
+e85038b8-f50c-422d-b923-9ecb9363d073,Kräckerbräu,brewpub,16 Schloßstraße,,,Frohburg,Sachsen,04654,Germany,+49 34345 522727,http://www.kraeckerbier.de,12.6594601,51.1016923
+14b33f50-5575-4d96-bf47-e3804e221add,Krostitzer,brewpub,12 Brauereistraße,,,Krostitz,Sachsen,04509,Germany,+49 34295 7760,http://www.ur-krostitzer.de,12.4509185,51.464457
+04497c6e-c293-4744-ba9a-9a7bd7cc5c22,Kunos Braugasthaus,brewpub,8 Schulstraße,,,Breitenbrunn/Erzgebirge,Sachsen,08359,Germany,+49 3773 88050,http://www.hotel-alte-schleiferei.de,12.7117657,50.47255740000001
+74c06c33-689f-483a-bde5-1f02080f9f69,Landskron,brewpub,116 An der Landskronbrauerei,,,Görlitz,Sachsen,02826,Germany,+49 3581 4650,http://www.landskron.de,14.98846,51.13994
+1c319606-8103-4424-bbdd-0fb8970cc2a6,Lotterane / Ratskeller,brewpub,1 Lotterstraße,,,Leipzig,Sachsen,04109,Germany,+49 341 1234567,http://www.lotteraner.de,12.372847,51.336684
+60b6d804-0760-4886-9af2-234fdd6d3dee,Lotters Wirtschaft,brewpub,1 Altmarkt,,,Aue-Bad Schlema,Sachsen,08280,Germany,+49 3771 5920,http://www.hotel-blauerengel.de,12.7015039,50.5865261
+a644f809-699a-4b42-b640-1c4b10e3d993,Mauritius,brewpub,2 Talstraße,,,Zwickau,Sachsen,08066,Germany,+49 375 49490,http://www.mauritius-brauerei.de,12.50091,50.72535
+b54f8df2-395a-4f24-826c-8bd8f33d4a1d,Nerchauer Brauhaus,brewpub,1 Am Grünen Winkel,,,Grimma,Sachsen,04668,Germany,+49 34382 40574,http://www.nerchauer-brauhaus.de,12.7829388,51.274024
+a414fa8e-4fe5-4581-b09c-1e6b10106458,Neustädter Hausbrauerei,closed,37 Hoyerswerdaer Straße,,,Dresden,Sachsen,01099,Germany,,http://www.obergaerig.de,13.7518216,51.0625223
+a1370e53-c699-4647-9c48-67368f24a196,Nordmann's Bräu,brewpub,7 Warschauer Straße,,,Torgau,Sachsen,04860,Germany,+49 3421 73000,https://www.torgauer-brauhof.de/,12.9893603,51.5586375
+fbd39f91-7568-49e3-874b-2287428045d2,Ohne Bedenken,brewpub,5 Menckestraße,,,Leipzig,Sachsen,04155,Germany,+49 341 5662360,http://www.gosenschenke.de,12.3675988,51.3577221
+6b6d1b51-7682-4683-80d5-b24e27540424,Radeberger,brewpub,2 Dresdener Straße,,,Radeberg,Sachsen,01454,Germany,+49 3528 4540,http://www.radeberger.de,13.91405,51.11494
+ffd463e3-7b4b-405d-b5c8-01889cdb7564,Rechenberger,brewpub,3 An der Schanze,,,Rechenberg-Bienenmühle,Sachsen,09623,Germany,+49 37327 8800,http://www.rechenberger.com,13.5570543,50.736487
+e9ae3694-a705-45c0-a368-c6c92a413cdf,Reichenbrander,brewpub,478 Zwickauer Straße,,,Chemnitz,Sachsen,09117,Germany,+49 371 850214,http://www.brauerei-bergt.de,12.8350739,50.8143898
+c60040e0-0420-4feb-8431-8a961b602cda,Schwerter,brewpub,6 Ziegelstraße,,,Meißen,Sachsen,01662,Germany,+49 3521 731443,http://www.schwerter-brauerei.de,13.5154919,51.1577971
+eb3b419d-6147-4aa1-aa7a-065bec60f7a6,Specht,brewpub,17 Thomas-Mann-Straße,,,Ehrenfriedersdorf,Sachsen,09427,Germany,+49 37341 2229,http://www.privatbrauerei-specht.de,12.9650243,50.64258170000001
+33e271cf-a8f8-4af1-b2cb-451d1e8b0520,Stadtbrauerei Wittichenau,brewpub,33 Haschkestraße,,,Wittichenau,Sachsen,02997,Germany,+49 35725 7510,http://www.wittichenauer.de,14.24506,51.38354
+4524282f-f574-4912-9cd6-4657445587a6,Sternburg,brewpub,13 Mühlstraße,,,Leipzig,Sachsen,04317,Germany,+49 341 222230,http://www.sternburg-bier.de,12.4010099,51.33024529999999
+78d9f25e-02db-47f0-99bb-8b6f9010d270,Sternquell,brewpub,83 Dobenaustraße,,,Plauen,Sachsen,08523,Germany,+49 3741 2110,http://www.sternquell.de,12.1242607,50.4982041
+91ab781c-29ea-4779-be81-244e345bd50c,Stonewood Braumanufaktur,brewpub,73 Obere Dorfstraße,,,Claußnitz,Sachsen,09236,Germany,+49 37202 89043,http://www.stonewood-bier.de,12.899566,50.943435
+bee7f4d8-fa30-4b48-995e-2f1639c24ed7,Thomaskirche,brewpub,3-5 Thomaskirchhof,,,Leipzig,Sachsen,04109,Germany,+49 341 2126110,http://www.brauerei-thomaskirche.de,12.3737277,51.3392913
+69562a6d-9333-40b2-9944-9856d2aa8131,Trachennowe Braukunst,brewpub,1 Schönbrunnstraße,,,Dresden,Sachsen,01097,Germany,+49 351 7993774,http://www.trachennowe-braukunst.de,13.7469725,51.0693855
+eb320dd5-bec1-4c6e-b162-e8d97e53fd83,Turm Brauhaus,brewpub,2 Neumarkt,,,Chemnitz,Sachsen,09111,Germany,+49 371 9095095,http://www.turmbrauhaus.de,12.9205552,50.8333296
+c2e1141a-f9cf-4a6e-b07e-1ab5da7072fe,Waldschlösschen,brewpub,8B Am Brauhaus,,,Dresden,Sachsen,01099,Germany,+49 351 8042010,http://www.waldschloesschen.de,13.7780918,51.06793829999999
+1e4f48a1-6a96-4eea-a327-723fe3530308,Watzke,brewpub,1 Kötzschenbroder Straße,,,Dresden,Sachsen,01139,Germany,+49 351 852920,http://www.watzke.de,13.7158304,51.0775639
+fc942ca1-17dc-4e97-b366-223b87151d55,Weesensteiner Schlossbräu,closed,1 Am Schloßberg,,,Müglitztal,Sachsen,01809,Germany,+49 35027 42004,http://www.schlossbrauerei-weesenstein.de,13.8589685,50.9328735
+8a8f34e6-56b2-4352-b464-50c6d5403d77,Weniger Bräu,brewpub,25 Cunnersdorfer Straße,,,Dresden,Sachsen,01189,Germany,+49 351 40830,http://www.weniger-braeu.de,13.707629,51.0159028
+152a0a1a-925d-4a3a-ad28-1637ba061754,Wernesgrüner,brewpub,4 Bergstraße,,,Steinberg,Sachsen,08237,Germany,+49 37462 610,http://www.wernesgruener.de,12.4735612,50.5344657
+a4c4bc36-258a-4a85-baa1-e1e2b2a33048,Ybnstoker,brewpub,1 Muldenhammerstraße,,,Eibenstock,Sachsen,08309,Germany,+49 37752 879850,http://www.ybnstoker.de,12.5987227,50.4979176
+b0ab27e5-6ee2-42c5-b27a-78d215a3b3ee,Zur Ratte,brewpub,33 Wendelin-Hipler-Weg,,,Leipzig,Sachsen,04249,Germany,+49 341 97852360,http://www.zur-ratte.de,12.3014827,51.2690813
+68d22cdf-09fa-4257-9fe0-a5c4fe30fdf2,Zwönitz,brewpub,15 Grünhainer Straße,,,Zwönitz,Sachsen,08297,Germany,+49 37754 59904,http://www.brauerei-zwoenitz.de,12.8155514,50.6277281

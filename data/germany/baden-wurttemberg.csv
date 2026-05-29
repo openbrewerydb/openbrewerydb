@@ -1,0 +1,196 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+1a743eec-cc52-4f5e-876b-ef3bcd924e84,Aalener Löwenbrauerei,brewpub,8 Galgenbergstraße,,,Aalen,Baden-Württemberg,73431,Germany,+49 7361 32597,http://www.bestesbier.de,10.0985681,48.8384864
+7f104ccf-6720-48ff-a2cf-5c05dd88aaf1,Adler,brewpub,38 Lindenstraße,,,Wiernsheim,Baden-Württemberg,75446,Germany,+49 7044 920778,http://www.adlerbraeu.de,8.8511433,48.8879519
+5b99dc11-165e-4cf0-873d-1a7bd1ded0a9,Adler-Bräu,brewpub,17 Biberacher Straße,,,Oberstadion,Baden-Württemberg,89613,Germany,+49 7357 921990,http://www.brauereigasthof-moosbeuren.de,9.724819,48.1795445
+1b7ff36c-d91b-4f04-9ee0-48622eac5aa9,Adlerbrauerei,brewpub,2 Adlergasse,,,Erbach,Baden-Württemberg,89155,Germany,+49 7305 7342,http://www.adler-dellmensingen.de,9.900200199999999,48.3026079
+f83d4bed-0760-4802-900e-c2ed6e874968,Adlerbrauerei Schmetzer,brewpub,3 Reubacher Straße,,,Wallhausen,Baden-Württemberg,74599,Germany,+49 7955 2234,https://adlerbrauerei-schmetzer.de/,10.11867,49.2347
+26147e1c-c0f7-40ae-8572-df23afe8e266,Albquell Bräuhaus,brewpub,6 Lindenplatz,,,Trochtelfingen,Baden-Württemberg,72818,Germany,+49 7124 733,http://www.albquell-brauhaus.de,9.2455955,48.3081319
+3345a490-cc70-449e-b037-939398bd0f25,Alpirsbacher Klosterbräu,brewpub,1 Marktplatz,,,Alpirsbach,Baden-Württemberg,72275,Germany,+49 7444 670,http://www.alpirsbacher.de,8.40305,48.34566
+ddd11477-dab1-4aae-a129-5b1a6248c3a9,Alte Werkstatt,brewpub,Luetzestr. 93,,,Weingarten (Baden),Baden-Württemberg,76356,Germany,+49 7244 8261,http://www.alte-werkstatt-bier.de,8.5313723,49.0533742
+6df21f70-1f25-460c-956a-f98a9576d82c,Alter Bahnhof,brewpub,2 Bahnhofstraße,,,Malsch,Baden-Württemberg,76316,Germany,+49 7246 305944,http://www.alterbahnhofmalsch.de,8.3238889,48.8894444
+51bc8efd-7da5-437c-b95d-af24c8120ff9,Andreasbr,brewpub,71A Donauring,,,Eggenstein-Leopoldshafen,Baden-Württemberg,76344,Germany,+49 7247 963200,http://www.andreasbraeu.de,8.398706899999999,49.0903862
+9885ebba-4e94-42ec-bae9-9301d1b05183,Badenstuff,brewpub,25 Krokusweg,,,Offenburg,Baden-Württemberg,77656,Germany,+49 781 76665,http://www.badenstuff.com,7.92048,48.45587
+3805c592-5427-49e1-8609-a56fdf01fe66,Badisch Brauhaus,brewpub,38-40 Stephanienstraße,,,Karlsruhe,Baden-Württemberg,76133,Germany,+49 721 1444400,http://www.badisch-brauhaus.de,8.3938044,49.0118167
+d08767b4-f8a5-4124-a029-c38b29a3a6e3,Baisinger BierManufaktur,brewpub,13 Ergenzinger Straße,,,Rottenburg am Neckar,Baden-Württemberg,72108,Germany,+49 7457 94300,http://www.baisinger.de,8.7782754,48.5046712
+3fcac8d1-1091-4c9a-a244-dcf772a4ca14,Barfüßer,brewpub,2 Franz-Xaver-Heilig-Straße,,,Pfullendorf,Baden-Württemberg,88630,Germany,+49 7552 9280815,http://www.barfuesser-brauhaus/pfullendorf/,9.250859,47.92402209999999
+81010e86-c5d0-4c04-bbef-4e6fbb77f4ee,Bauhöfer,brewpub,12 Ullenburg Straße,,,Renchen,Baden-Württemberg,77871,Germany,+49 7843 94740,http://www.ulmer-bier.de,8.049072599999999,48.58008599999999
+54ada3c7-fba6-46dd-88e6-fa786dcd394d,Bayerisches Brauhaus,brewpub,12 St.Georgen Steige,,,Pforzheim,Baden-Württemberg,75175,Germany,+49 7231 60080,http://www.brauhaus-pforzheim.de,8.704553299999999,48.886618
+a4462335-d4e7-4e4d-b306-703aa8b37927,Berg,brewpub,2 Brauhausstraße,,,Ehingen (Donau),Baden-Württemberg,89584,Germany,+49 7391 771710,http://www.bergbier.de,9.735312799999999,48.2623255
+420a01c4-0936-4181-8703-e51b6903e24c,Beurener Fels Brauerei,micro,Weiler Steige,,,Beuren,Baden-Württemberg,72660,Germany,,http://www.beurenerfelsbrauerei.de,9.4187429,48.5706148
+7ff4982b-11b8-48f7-8faa-f85505caed1e,BIERkulturGUT,brewpub,2 Weiße-Tor-Straße,,,Philippsburg,Baden-Württemberg,76661,Germany,+49 179 2123094,http://www.bierkulturgut.com,8.4536201,49.2366581
+0a857d52-3744-4f42-ab40-5598ea2dcff5,Bierwerk Gerstenfux,closed,40 Oberensinger Straße,,,Nürtingen,Baden-Württemberg,72622,Germany,+49 7022 7864015,http://www.bierwerkgerstenfux.de,9.345667899999999,48.6405257
+c3f69105-f68c-412c-b8b0-9fce73266314,Blank,brewpub,19 Von-Speth-Straße,,,Riedlingen,Baden-Württemberg,88499,Germany,+49 7373 643,http://www.brauerei-blank.de,9.516753999999999,48.214986
+87b23d97-d1c3-4583-9ccd-3074dd7d8117,Brauhaus 2.0,closed,8 Egon-Eiermann-Allee,,,Karlsruhe,Baden-Württemberg,76187,Germany,+49 721 47050220,http://www.brauhaus-zweipunktnull.de,8.3502092,49.03681659999999
+67fc21da-e09e-450e-a53c-65eedf6e7af9,Brauhaus am Schlößle,brewpub,78/2 Backnanger Straße,,,Sulzbach an der Murr,Baden-Württemberg,71560,Germany,+49 176 22922941,http://www.brauhaus-am-schloessle.de,9.49669,49.00412
+bb674664-d831-4c4b-8b0e-ba99526e5155,Brauhaus Meier,brewpub,10 Brunnmattstraße,,,Wehr,Baden-Württemberg,79664,Germany,+49 7762 8062509,http://www.brauhaus-meier.de,7.907375800000001,47.6130956
+bc4933ef-ccf6-44f6-a48f-d32348d2ae80,Bräuhaus Ummendorf,brewpub,10 Bachstraße,,,Ummendorf,Baden-Württemberg,88444,Germany,+49 7351 44430,http://www.braeuhaus.de,9.832749999999999,48.06364
+2d033740-c6f6-45db-aaac-84e5a20d5571,Brauhaus Zollernalb,brewpub,4 Bahnhof,,,Albstadt,Baden-Württemberg,72458,Germany,+49 7431 9482941,http://www.brauhaus-zollernalb.de,9.0255824,48.2105719
+e8daf982-a06a-44a9-8310-b6ce8fb5639b,Brauwerk Baden,brewpub,3 Gutenbergstraße,,,Offenburg,Baden-Württemberg,77654,Germany,,http://www.kronen-brauhaus.de,7.956585599999999,48.4882827
+45d5bf76-af10-43b0-9195-c3b5f8829dc4,Brauwerk Salvermoser,closed,14 Am Mühlberg,,,Tuttlingen,Baden-Württemberg,78532,Germany,+49 7462 7986,http://www.brauwerk-salvermoser.de,8.7699,47.96017
+c423766b-b61c-443d-82db-6c0afca23ef2,Brauzentrum Blaubeuren,brewpub,6 Auf dem Graben,,,Blaubeuren,Baden-Württemberg,89143,Germany,+49 175 9280239,http://www.pumator.de,9.7865239,48.4122368
+92d42647-418c-42c1-bec1-495da2c78083,Brewmaltster / Braxar,micro,Hauptstr. 9,,,Buehlertann,Baden-Württemberg,74424,Germany,,http://www.brewmaltster.de,,
+a3c7f51e-c71f-4e38-a109-dcc13bef3756,Bulzinger,brewpub,3 Schillerstraße,,,Rietheim-Weilheim,Baden-Württemberg,78604,Germany,+49 7461 73822,https://www.lammbrauerei-weilheim.de/index.php/ueber-uns,8.773282799999999,48.0255894
+27b65e46-3c13-47fa-a882-c93473c6ab35,Bürgerstüble,brewpub,2 Anwandstraße,,,Sulz am Neckar,Baden-Württemberg,72172,Germany,+49 7454 4329,http://buergerstueble-sigmarswangen.de/,8.61486,48.3295
+801af57f-d3d9-46d9-844f-dfc6fef13543,Café Mundart,brewpub,24 Balinger Straße,,,Meßstetten,Baden-Württemberg,72469,Germany,+49 7436 910958,http://www.cafe-mundart.de,8.872172599999999,48.2002834
+4ba3268a-e6f0-4e1d-99bc-096c101c0c08,Café Weichhardt,brewpub,1 Wielandstraße,,,Biberach an der Riß,Baden-Württemberg,88400,Germany,+49 7351 828925,http://www.cafe-weichhardt.de,9.7868023,48.0990354
+df785b94-c91c-4407-a856-4814e2ad5cca,Calwer-Eck-Bräu,brewpub,10 Bolzstraße,,,Stuttgart,Baden-Württemberg,70173,Germany,+49 711 72230930,http://www.calwereck.de,9.177834899999999,48.7803028
+35167753-ea8b-4491-ad04-9ef049f3787c,Cast,closed,144 Siemensstraße,,,Stuttgart,Baden-Württemberg,70469,Germany,+49 711 50482973,http://www.cast-brauerei.com,9.1698415,48.81883149999999
+96d75b7b-a4f3-4c2a-a9e3-d5c6451cbcee,Christoph-Bräu,brewpub,3 Alois-Degler-Straße,,,Gaggenau,Baden-Württemberg,76571,Germany,+49 7225 70393,http://www.christophbraeu.de,8.3164569,48.8045115
+286c6b46-c319-47c9-aed6-9c114bd6ce23,Craftcell,brewpub,13 Langenzell,,,Wiesenbach,Baden-Württemberg,69257,Germany,,http://www.craftcell.de,8.8388692,49.36403989999999
+d015910a-688b-4f98-9710-39d29fe8ec6f,Dachsenfranz Biermanufaktur,brewpub,1 Hoffenheimer Straße,,,Zuzenhausen,Baden-Württemberg,74939,Germany,+49 6226 939020,http://www.dachsenfranz.de,8.8243279,49.29572839999999
+95e8d795-5478-420e-9ff5-cc23f5d1b300,Dammenmühle,brewpub,1 Dammenmühle,,,Lahr/Schwarzwald,Baden-Württemberg,77933,Germany,+49 7821 93930,http://www.hoteldammenmuehle.de,7.860662899999999,48.3249589
+7505214f-492b-4cb9-be0b-d122fee36bf0,Dinkelacker-Schwaben,brewpub,46 Tübinger Straße,,,Stuttgart,Baden-Württemberg,70178,Germany,+49 711 64810,http://www.ds-kg.de,9.1699231,48.767743
+8f0fbb0a-9b6e-4802-9836-6eda6a6cc5a1,Distelhäuser,brewpub,3 Grünsfelder Straße,,,Tauberbischofsheim,Baden-Württemberg,97941,Germany,+49 9341 805820,http://www.distelhaeuser.de,9.6939324,49.5988339
+926543c9-5efe-4ccb-a963-b54500357c89,Doc's Bier,brewpub,11 Schönhardtshöhe,,,Rottenburg am Neckar,Baden-Württemberg,72108,Germany,+49 7472 42936,http://www.docsbier.de,8.8768814,48.4519269
+ec87ea83-d563-41a7-aea8-e64eca72dfa0,Domänen Bräu,brewpub,1 Brielhof,,,Hechingen,Baden-Württemberg,72379,Germany,+49 7471 96019210,http://www.hofgut-domaene.de,8.950374199999999,48.336022
+a1a0da47-b937-4e51-aa96-ecfbd2a797b2,Dorfbräu,brewpub,28 Elzstraße,,,Teningen,Baden-Württemberg,79331,Germany,,,7.801050000000001,48.1366526
+40dc50e3-00e4-462d-b329-a6cd5ffe04de,Dörzbacher,brewpub,53 Lange Straße,,,Ahorn,Baden-Württemberg,74744,Germany,+49 7930 374,http://www.doerzbacher-brauerei.de,9.574402,49.46039810000001
+b5ebb54d-b2e5-42f4-9ea2-80fc3556afaa,Echterdinger Brauhaus,brewpub,2 Filderbahnstraße,,,Leinfelden-Echterdingen,Baden-Württemberg,70771,Germany,+49 711 633440,http://www.parkhotel-stuttgart.de,9.1676372,48.6915299
+e93f65e6-7b87-41e3-afab-edbb86dfe9d5,Edelweissbrauerei Farny,brewpub,5 Dürren,,,Kißlegg,Baden-Württemberg,88353,Germany,+49 7522 97880,http://www.farny.de,9.8726253,47.728673
+22ad8760-8c58-4d01-813c-3a6c480cb8ba,Egolf,brewpub,1 Hintere Klinge,,,Schefflenz,Baden-Württemberg,74850,Germany,+49 6293 488,http://www.brauerei-egolf.de,9.26576,49.39039
+61422757-bd0f-42f3-8377-eae322c29eae,Eichbaum,brewpub,170 Käfertaler Straße,,,Mannheim,Baden-Württemberg,68167,Germany,+49 621 33700,http://www.eichbaum.de,8.4902918,49.4960675
+68a34182-7f19-4579-a932-36d008e776f6,Engel,brewpub,29 Haller Straße,,,Crailsheim,Baden-Württemberg,74564,Germany,+49 7951 91930,http://www.engelbier.de,10.0579495,49.1414925
+36a73213-04fe-4481-84a9-e9a3c4b69b76,Enkendörfle Hausbräu,brewpub,1 Glattackerweg,,,Wehr,Baden-Württemberg,79664,Germany,,http://www.enkendoerfler.de,7.9015795,47.6180058
+6b632d9c-be2f-4150-b25f-162252ffb4ef,Feierling,brewpub,46 Gerberau,,,Freiburg im Breisgau,Baden-Württemberg,79098,Germany,,http://www.feierling.de,7.8527257,47.9933106
+0218e79c-a268-47f2-ba82-bf7a9a9ca692,Fischer's Brauhaus,brewpub,30 Auf der Lehr,,,Mössingen,Baden-Württemberg,72116,Germany,+49 7473 954443,http://www.brauhaus-moessingen.de,9.0657474,48.40880629999999
+5a234e56-d283-4437-82fe-f53bceca24c5,Franken Bräu,brewpub,4 Heuchlinger Weg,,,Schrozberg,Baden-Württemberg,74575,Germany,+49 7936 261,http://www.franken-braeu.de,9.9162401,49.34956039999999
+25ec4e2d-1ced-49e6-a949-b163b65459e4,Franz,brewpub,4 Rauentaler Straße,,,Rastatt,Baden-Württemberg,76437,Germany,+49 7222 97370,http://www.brauerei-franz.de,8.2090975,48.8571232
+0026c4de-2047-4aec-8bd5-85619e5be850,Friedrich Bier,brewpub,34 Friedrichstraße,,,Offenburg,Baden-Württemberg,77654,Germany,+49 781 12555560,http://www.friedrichbier.de,7.9496305,48.4700684
+a50f5d36-92f6-45e9-8bbe-932971102777,Fürstenberg,brewpub,1-4 Postplatz,,,Donaueschingen,Baden-Württemberg,78166,Germany,+49 771 860,http://www.fuerstenberg.de,8.4984216,47.9517707
+e99c167f-f2ac-4fc5-8416-f3ac19502f58,Fux Bier,closed,67 Filderstraße,,,Leinfelden-Echterdingen,Baden-Württemberg,70771,Germany,+49 177 2923241,http://www.fux-bier.de,9.1240161,48.6921326
+78cb5232-6114-4d8e-a45e-030c7621f5a0,Ganter,brewpub,43 Schwarzwaldstraße,,,Freiburg im Breisgau,Baden-Württemberg,79117,Germany,+49 761 21850,http://www.ganter.com,7.8598599,47.9898605
+cd03a4be-d897-467b-95fc-fe621195e404,Gasthaus Traube / Seebräu,brewpub,2 Radolfzeller Straße,,,Bodman-Ludwigshafen,Baden-Württemberg,78351,Germany,+49 7773 938303,http://www.traube-bodensee.de,9.056098400000002,47.8170457
+76a0edb8-fd5f-4fee-a3e1-c24d5d2f39b8,Geiger,micro,1 Eschenbacher Straße,,,Schlat,Baden-Württemberg,73114,Germany,+49 7161 9990224,http://www.manufaktur-joerg-geiger.de/,9.7049199,48.6524936
+882e99fb-5914-444b-9947-8e966f729fd7,Gerber Bräu,brewpub,47 Kanalstraße,,,Uhingen,Baden-Württemberg,73066,Germany,+49 7161 946970,http://www.gerberbraeu.de,9.5760595,48.7078316
+778e7dc3-5814-4e6b-b4fa-a20acb1ce262,Gold Ochsen,brewpub,3-8 Veitsbrunnenweg,,,Ulm,Baden-Württemberg,89073,Germany,+49 731 1640,http://www.goldochsen.de,9.9906291,48.4065628
+ee61a3b4-a2d9-4cf5-8cb7-99ec628ec0ce,Gold-Ochsenbrauerei,brewpub,19 Spielbach,,,Schrozberg,Baden-Württemberg,74575,Germany,+49 7939 461,https://www.facebook.com/pages/Goldochsen-Brauerei/216104248413407,10.0676001,49.3854822
+077f9fc7-24ce-4ce8-9984-92ac8c2fa5f1,Grüner Baum,closed,Bachstraße,,,Fleischwangen,Baden-Württemberg,88373,Germany,+49 7505 347,http://landgasthof.cwsurf.de,9.4817193,47.8778
+9c64e21e-be0d-4805-a31e-d9f933c06cda,Häberlen,brewpub,66 Karlstraße,,,Gaildorf,Baden-Württemberg,74405,Germany,+49 7971 6250,http://www.brauerei-haeberlen.de,9.772335,48.99837489999999
+9f9ef817-e0a4-44f5-b454-6460f5732e9a,Hader Karle,brewpub,3 Längentalstraße,,,Villingen-Schwenningen,Baden-Württemberg,78052,Germany,+49 7721 63591,http://www.hader-karle.de,8.501249099999999,48.09449799999999
+e591bd3e-352b-43d6-9783-5de9556f7d4a,Häffner,brewpub,24 Salinenstraße,,,Bad Rappenau,Baden-Württemberg,74906,Germany,+49 7264 8050,http://www.haeffner-braeu.de,9.112063000000001,49.238093
+1187d3e8-4d29-43c0-8ea0-ea6757ab4dc4,Haller Löwenbräu,brewpub,6 Ritterstraße,,,Schwäbisch Hall,Baden-Württemberg,74523,Germany,+49 791 50901,http://www.haller-loewenbraeu.de,9.733312699999999,49.1060052
+5ae2d546-fb98-492c-863b-c3cd2edd592a,Härle,brewpub,5 Am Hopfengarten,,,Leutkirch im Allgäu,Baden-Württemberg,88299,Germany,+49 7561 98280,http://www.haerle.de,10.0240964,47.8236007
+3ab7d2d4-b9e7-4e43-be17-00e9863ba7e7,Härtsfelder,brewpub,19 Hofener Straße,,,Dischingen,Baden-Württemberg,89561,Germany,+49 7327 92290,http://www.haertsfelder.de,10.4131985,48.7229045
+19c75963-66ef-45f0-b3e2-c6777684ddda,Hatz- Moninger,brewpub,59 Durmersheimer Straße,,,Karlsruhe,Baden-Württemberg,76185,Germany,+49 721 57020,http://www.hatz-moninger.de,8.3543264,49.0018676
+dea548e8-6f6e-42b4-b965-d4143b2e26a8,Hausbrauerei JeSa,brewpub,9 Steingasse,,,Heidelberg,Baden-Württemberg,69117,Germany,+49 6221 165850,http://www.hausbrauerei-jesa.de,8.7096851,49.4126062
+a6005c74-6872-4d86-8738-c0e83202627d,Heidelberger,brewpub,112 Kurpfalzring,,,Heidelberg,Baden-Württemberg,69123,Germany,+49 6221 90140,http://www.heidelberger-brauerei.de,8.639920199999999,49.4048233
+85da8b2a-8088-4bf2-8c48-3a901442dbb0,Herbsthäuser,brewpub,28/1 Alte Kaiserstraße,,,Bad Mergentheim,Baden-Württemberg,97980,Germany,+49 7932 91000,http://www.herbsthaeuser.de,9.8295912,49.40393299999999
+72e61cd5-16b9-4c0d-aa4a-b9ea6d443638,Herr's Kleines Bierhaus,closed,55 Hauptstraße,,,Schwanau,Baden-Württemberg,77963,Germany,,http://www.kleinesbierhaus.de,7.756960999999999,48.32830999999999
+3d1ed94a-ccf9-40e8-8975-297c304a70d8,Heubacher,brewpub,99 Hauptstraße,,,Heubach,Baden-Württemberg,73540,Germany,+49 7173 18000,http://www.heubacher.de,9.936866499999999,48.7857784
+09884eb6-b343-44db-82e3-351d2090ead3,Heuberger Biermanufaktur,brewpub,10 Storzinger Straße,,,Stetten am kalten Markt,Baden-Württemberg,72510,Germany,,http://www.heuberger-biermanufaktur.de,9.0790706,48.122191
+93c29f97-316a-460b-b7a7-12198f7d95f0,Hey Joe Brewing,brewpub,93 Siegelsberger Straße,,,Murrhardt,Baden-Württemberg,71540,Germany,,http://www.heyjoebrewing.com,9.58845,48.99005
+4df10699-84df-4ad8-9c6c-3ce114085cce,Hieber's FrischeCenter,brewpub,1 Meeraner Platz,,,Lörrach,Baden-Württemberg,79539,Germany,+49 7621 914020,http://www.hieber.de,7.6582544,47.6079112
+4da2a973-1404-4ca4-8a0d-38a79219e27c,Hirsch,brewpub,34 Friedrichstraße,,,Wurmlingen,Baden-Württemberg,78573,Germany,+49 7461 9420,http://www.hirschbrauerei-soehnstetten.de,8.776947999999999,48.0053516
+2dee6626-c449-4d09-b809-38ef6d144dce,Hirschbräu,brewpub,1 Ringstraße,,,Rosenberg,Baden-Württemberg,74749,Germany,+49 6295 7159,http://www.hirschbraeu-hirschlanden.de,9.4998019,49.4743161
+20f427c9-b111-4938-a462-48e94e38d3c7,Hirschbrauerei,brewpub,15 Eschachstraße,,,Zimmern ob Rottweil,Baden-Württemberg,78658,Germany,+49 7403 489,http://www.hirsch-braeu.de,8.5322765,48.1668107
+55e18609-9d3f-4c54-bb7a-d29fba3dc369,Hirschbrauerei Schilling,closed,37 Aglishardter Straße,,,Römerstein,Baden-Württemberg,72587,Germany,+49 7382 93880,http://www.boehringer-biere.de,9.508918699999999,48.4920082
+7ca0eb65-5a5c-4446-9c5f-4022d55c8279,Hirschenbrauerei,micro,21 Goethestraße,,,Waldkirch,Baden-Württemberg,79183,Germany,+49 7681 40810,http://www.hirschenbrauerei.de,7.9591197,48.0887685
+569b5a8c-fe94-49dc-9ef1-42ae7b197e45,Hirtler,brewpub,10 Eichstetter Straße,,,March,Baden-Württemberg,79232,Germany,+49 7665 3304,http://www.brauerei-hirtler.de/,7.770066099999999,48.0689491
+35bc2139-4fcd-429e-b24c-9407c44628f5,Hochdorfer Kronenbrauerei,brewpub,16-20 Rottweiler Straße,,,Nagold,Baden-Württemberg,72202,Germany,+49 7459 92920,http://www.hochdorfer.de,8.7216124,48.4940448
+ca4ef6fd-1ed8-4502-a7ea-32b5b510a7f7,Hoepfner,brewpub,18 Haid-und-Neu-Straße,,,Karlsruhe,Baden-Württemberg,76131,Germany,+49 721 61830,http://www.hoepfner.de,8.4269801,49.0123462
+89fd5590-089a-4444-8815-280f33b0be0e,Hopfengut No20,brewpub,20 Hopfengut,,,Tettnang,Baden-Württemberg,88069,Germany,+49 7542 952206,http://www.hopfengut.de,9.6163814,47.6905211
+f441adfc-e3cc-48cb-9031-079982d78854,Hopfenschlingel,brewpub,2 Militärstraße,,,Rastatt,Baden-Württemberg,76437,Germany,+49 7222 30099,http://www.hopfenschlingel-pforzheim.de/,8.2115966,48.8494015
+92b15e6b-62b6-4c3d-a674-5419ab1d292e,HopfX Bräu,closed,43 Bahnhofstraße,,,Tuttlingen,Baden-Württemberg,78532,Germany,,http://www.facebook.com/HopfXBraeuTuttlingen/,8.8137709,47.9832651
+8d58821b-75b6-400b-a5b9-874ee0b719f8,Joh. Albrecht,brewpub,2 Konradigasse,,,Konstanz,Baden-Württemberg,78462,Germany,+49 7531 25045,http://www.konstanz.brauhaus-joh-albrecht.de,9.175008499999999,47.6650112
+fde19132-3a27-4acb-88ba-e91c50b095ac,Jupiter,closed,21 Keltergasse,,,Sinsheim,Baden-Württemberg,74889,Germany,+49 7261 975537,http://www.brauhausjupiter.de,8.9051685,49.2394256
+f5d41049-75a4-4b3d-a79b-8848b6f4e45a,Kaiser,brewpub,24/26 Schubartstraße,,,Geislingen an der Steige,Baden-Württemberg,73312,Germany,+49 7331 93720,http://www.kaiser-brauerei.de,9.840786900000001,48.6135978
+8f7146ca-e0a1-4d09-96ea-4bd047c09a9d,Kesselhaus,brewpub,3 Arnoldstraße,,,Schorndorf,Baden-Württemberg,73614,Germany,+49 7181 484933,http://www.kesselhaus-schorndorf.de,9.5315062,48.8067612
+428956a8-d38a-4de9-a4da-a9731b6e13f6,Ketterer,brewpub,10 Jahnstraße,,,Pforzheim,Baden-Württemberg,75173,Germany,+49 7231 92110,http://www.brauerei-ketterer.de,8.6949614,48.88868739999999
+1f9a066a-f103-49bf-bf70-2e86050bb6aa,Kißlegger Kellerbräu,closed,3 Fürst-Maximilian-Straße,,,Kißlegg,Baden-Württemberg,88353,Germany,+49 7563 91090,http://www.kisslegger-kellerbraeu.de,9.8815598,47.7871065
+b2174086-a81e-40bd-b417-ea2a90aafac7,Klosterhof,brewpub,4 Stiftweg,,,Heidelberg,Baden-Württemberg,69118,Germany,+49 6221 6520365,http://www.brauerei-zum-klosterhof.de,8.740091900000001,49.4204577
+cd03f666-0d86-49aa-a454-0ea75a61d702,Königsbräu Majer,brewpub,1 Oggenhauser Hauptstraße,,,Heidenheim an der Brenz,Baden-Württemberg,89522,Germany,+49 7321 97970,http://www.koenigsbraeu.de,10.2359869,48.67018179999999
+5dc16ffb-53ba-456d-8601-6987f0171479,Königsegger Walderbräu,brewpub,6 Hauptstraße,,,Königseggwald,Baden-Württemberg,88376,Germany,+49 7587 95040,http://www.koenigsegger.de,9.4206063,47.9258844
+a69fee5a-7b4b-4a00-a228-4e1ed0f73f31,Krokodil,brewpub,15 In Grubäcker,,,Trossingen,Baden-Württemberg,78647,Germany,+49 7425 21194,http://www.krokodil-trossingen.de,8.628559,48.07165639999999
+02609436-82a3-4a8f-9cf2-b66b55e0e4ee,Krone,brewpub,7 Bärenplatz,,,Tettnang,Baden-Württemberg,88069,Germany,+49 7542 7452,http://www.krone-tettnang.de,9.588956,47.671561
+3d81eb1a-0d72-4938-ac67-062c313350d2,Kronenbrauerei,brewpub,5 Kirchberg,,,Laupheim,Baden-Württemberg,88471,Germany,+49 7392 8345,http://www.kronenbrauerei-laupheim.de,9.8860393,48.2294
+5a1bc158-3f43-49bc-8c27-6b8235aa09c0,Kronenbrauerei Schimpf,brewpub,1 Hauptstraße,,,Neustetten,Baden-Württemberg,72149,Germany,+49 7472 98940,http://www.brauerei-schimpf.de,8.887230599999999,48.48200730000001
+109f15c2-2c21-4f43-a692-338e3bb679d4,Kronenbrauerei Söflingen,brewpub,10 Uhrenmachergasse,,,Ulm,Baden-Württemberg,89077,Germany,+49 731 388320,http://www.soeflinger-kronenbier.de,9.9559727,48.3952774
+f52bc93d-92fe-4729-a8df-241909873fa0,Kühler Krug,brewpub,3a Wilhelm-Baur-Straße,,,Karlsruhe,Baden-Württemberg,76135,Germany,+49 721 8316416,http://www.brauhaus-kuehler-krug.de,8.368266799999999,49.00409819999999
+da672eef-21a1-4552-b119-fbd2762476f1,Kulturbrauerei,brewpub,6 Leyergasse,,,Heidelberg,Baden-Württemberg,69117,Germany,+49 6221 502980,http://www.heidelberger-kulturbrauerei.de,8.7131758,49.4131355
+21768171-8411-4c79-9a60-ddde23fc5ae4,Ladenburger,brewpub,16 Hauptstraße,,,Neuler,Baden-Württemberg,73491,Germany,+49 7961 91140,http://www.brauerei-ladenburger.de,10.0674097,48.9276432
+c1e2f5c9-0cdb-4761-900e-a641d88d13c5,Lamm,brewpub,2 Nellmersbacher Straße,,,Leutenbach,Baden-Württemberg,71397,Germany,+49 7195 9779230,http://www.lamm-leutenbach.de,9.3929081,48.8876645
+3dc7ad60-2e9c-4f5f-94f7-266939905e52,Lammbrauerei,brewpub,2 Haller Straße,,,Abtsgmünd,Baden-Württemberg,73453,Germany,+49 7975 284,http://www.lammbrauerei.de,9.89177,48.91881
+88b34b96-2f91-4de5-a1ee-f12ff0f3183b,Lammbrauerei Hilsenbeck,brewpub,37 Hauptstraße,,,Gruibingen,Baden-Württemberg,73344,Germany,+49 7335 96440,http://www.lammbrauerei-hilsenbeck.de,9.642365999999999,48.5953507
+2cf1e09f-a630-4e93-9172-79c05df11345,Lasser,brewpub,5 Belchenstraße,,,Lörrach,Baden-Württemberg,79539,Germany,+49 7621 40200,http://www.lasser.de,7.663968199999999,47.6114046
+9d2d464b-65d6-4da9-a1d7-bd80fea9b026,Lehner,brewpub,7 Balinger Straße,,,Rosenfeld,Baden-Württemberg,72348,Germany,+49 7428 945160,http://www.lehner-wein.de,8.72348,48.28667979999999
+3a6be169-b268-40de-8e30-834d3fd4b856,Leibinger,brewpub,26 Friedhofstraße,,,Ravensburg,Baden-Württemberg,88212,Germany,+49 751 36990,http://www.leibinger.de,9.6210866,47.781332
+4ba0bffd-2d96-4655-959f-66fc3a2c0a8a,Lindenbräu,brewpub,43 Stuttgarter Straße,,,Waldbronn,Baden-Württemberg,76337,Germany,+49 7243 652881,http://www.lindenbraeu-waldbronn.de,8.478138999999999,48.9254312
+295c4e3b-73d8-4288-8774-3c92e46134fc,Lobdengau-Brauerei,brewpub,101 Schriesheimer Straße,,,Ladenburg,Baden-Württemberg,68526,Germany,+49 173 8623820,http://www.lobdengau-brauerei.de,8.635884899999999,49.4692233
+9d8aa3bc-9287-4a99-9911-a16fc5c0cd78,Löwen,brewpub,23 Sasbachwaldener Straße,,,Sasbach,Baden-Württemberg,77880,Germany,+49 7841 20780,http://www.loewen-sasbach.de,8.1044064,48.6320457
+5301ab27-4d23-426b-8004-554ed8f4b0b8,Löwenbrauerei,brewpub,4 Friedhofweg,,,Bräunlingen,Baden-Württemberg,78199,Germany,+49 771 61121,http://www.braeunlinger-loewenbrauerei.de,8.45082,47.92717
+8c0aaa67-6cd9-4f2d-99a0-1aba40f1c916,Löwenbrauerei Wasseralfingen,brewpub,162 Wilhelmstraße,,,Aalen,Baden-Württemberg,73433,Germany,+49 7361 57200,http://www.wasseralfinger.de,10.09898,48.85067
+e61dde28-e5cb-4fba-8f65-30b6fdf0543e,Mall,closed,23 Eschelbronner Straße,,,Meckesheim,Baden-Württemberg,74909,Germany,+49 6226 785450,http://www.mall-braeu.de,8.82293,49.3185
+88182e4d-0de9-4113-aa9d-7c623ac0c5c3,Mangold,brewpub,3-8 Veitsbrunnenweg,,,Ulm,Baden-Württemberg,89073,Germany,+49 731 1640,http://www.mangold.hn,9.9906291,48.4065628
+e65e27fa-1982-4aea-9d93-0fb9a4077b36,Markgräfler Brauwerk,brewpub,1 Flühgasse,,,Kandern,Baden-Württemberg,79400,Germany,+49 176 45968965,http://www.markgraefler-brauwerk.de,7.607081999999998,47.710753
+49d23a47-fb8f-4f11-841d-ad2e01cc0e3a,Martin's Bräu,brewpub,237 Kaiser-Joseph-Straße,,,Freiburg im Breisgau,Baden-Württemberg,79098,Germany,+49 761 3870018,http://www.mbfr.de,7.8495611,47.99365239999999
+27035f7a-63e0-43b4-9cc1-57244dad4190,Max & Moritz,brewpub,6 Weinbichl,,,Kressbronn am Bodensee,Baden-Württemberg,88079,Germany,+49 7543 6508,http://www.maxmoritz-bier.de,9.6058571,47.6062796
+82a020b0-2f23-48fe-9cfc-05cc30a5b9dd,Michelbr,brewpub,10 Schwanner Straße,,,Straubenhardt,Baden-Württemberg,75334,Germany,+49 177 3094339,http://www.michelbraeu.de,8.5311938,48.8539882
+050ab871-bdc8-4d50-babc-d3a3517a2fb9,Mönchwasen,brewpub,30 Im Mönchgraben,,,Simmozheim,Baden-Württemberg,75397,Germany,+49 7033 809030,http://www.moenchwasen.com,8.80667,48.74584
+28db6031-2bdc-4d97-8914-2c59668b2be3,Mosbacher Brauhaus,brewpub,18 Eisenbahnstraße,,,Mosbach,Baden-Württemberg,74821,Germany,+49 6261 36969,http://www.mosbacher-brauhaus.de,9.1415601,49.3512099
+74ece269-6bcb-49a8-b0d3-5451a3e84d96,Mülhaupt,brewpub,26 Mulsowstraße,,,Lörrach,Baden-Württemberg,79541,Germany,+49 7621 51654,http://www.hausbraeu-muelhaupt.de,7.6930556,47.6313583
+d73bbe10-425b-4f7e-a3e7-4c5d6bb2e05b,Nattheimer,brewpub,7 Heidenheimer Straße,,,Nattheim,Baden-Württemberg,89564,Germany,+49 7321 97980,http://www.nattheimer.de,10.2401356,48.6995845
+9ecbcbd1-5625-4c7d-b84f-cc67190c9eb2,Naturkost Lang,closed,24/1 Wimpfener Straße,,,Neckarsulm,Baden-Württemberg,74172,Germany,+49 7132 43427,http://www.naturkost-lang.de,9.203669999999999,49.19801
+5f1ede1a-402c-4220-9e0b-814e08156531,Neckarmüller,brewpub,4 Gartenstraße,,,Tübingen,Baden-Württemberg,72074,Germany,+49 7071 27848,http://www.neckarmueller.de,9.0586193,48.5193271
+a734ee5e-a520-4f22-9339-acbbd8581c27,Neckarsulmer Brauhaus,brewpub,9 Felix-Wankel-Straße,,,Neckarsulm,Baden-Württemberg,74172,Germany,+49 7132 343511,http://www.neckarsulmer-brauhaus.de,9.2251207,49.1935146
+da903134-6e11-4d59-a39d-76378ac43b91,Neuenstädter Biermanufaktur,brewpub,6 Helmbundstraße,,,Neuenstadt am Kocher,Baden-Württemberg,74196,Germany,+49 176 87944600,,9.3278,49.23659
+4a77146a-97de-431d-ac65-1825e3f7c280,Neureuter Braumanufaktur,brewpub,59 Durmersheimer Straße,,,Karlsruhe,Baden-Württemberg,76185,Germany,+49 721 57020,http://www.braumanufaktur-neureut.de,8.3543264,49.0018676
+eee8c88b-20a1-47ba-ace7-9fab250138ac,Ochsenbräu,closed,5 Albrecht-Wirt-Straße,,,Rottenburg am Neckar,Baden-Württemberg,72108,Germany,+49 7457 1263,http://www.ochsenbrauerei.de,8.809683699999999,48.4952468
+be9f49b0-c496-4065-9fc1-49424d05e424,Ostel Bräu,brewpub,2 Riegeler Straße,,,Endingen am Kaiserstuhl,Baden-Württemberg,79346,Germany,,http://ostelbraeu.de/,7.7081686,48.1414996
+6068deb4-d365-49bb-a729-990c4fbfa318,Palmbräu,brewpub,2 Ludwig-Zorn-Straße,,,Eppingen,Baden-Württemberg,75031,Germany,+49 7262 6020,http://www.palmbraeu.de,8.90837,49.13762999999999
+1d75c91c-6c40-4be4-a092-3aeb5f734f92,Pflugbrauerei,brewpub,7 Wirtsgasse,,,Langenau,Baden-Württemberg,89129,Germany,+49 7348 6237,http://www.pflugbrauerei.de,10.0276355,48.4859605
+47fd2a30-a032-4401-ac93-4eb2dd4f9227,Poppel-Mühle,closed,11 Mühleweg,,,Enzklösterle,Baden-Württemberg,75337,Germany,+49 7085 7870,http://www.poppel-muehle.de,8.43801,48.62724
+48f7c0ae-b304-4e19-8cb5-79f3b163ead2,Prestelbräu,brewpub,2a Obere Mühlstraße,,,Ubstadt-Weiher,Baden-Württemberg,76698,Germany,+49 163 1302511,http://www.prestelbräu.de,8.64894,49.18295
+52220ab8-a491-4f78-a1d3-c1b1ed0add0c,Rega Bräu,brewpub,20 Lerchenstraße,,,Waibstadt,Baden-Württemberg,74915,Germany,+49 178 6122172,http://www.rega-braeu.de,8.91803,49.29765
+e801d573-214b-40d1-b0e8-26ff18405abc,Reichenau Inselbier,brewpub,7 Am Vögelisberg,,,Reichenau,Baden-Württemberg,78479,Germany,+49 176 21818393,http://www.reichenau-inselbier.de,9.0689409,47.6939726
+1c52becd-05a6-491c-90a3-41d914c2a039,Reiners Rosine,brewpub,6 Bildstraße,,,Flein,Baden-Württemberg,74223,Germany,+49 7131 30909,http://www.reiners-rosine.de,9.2170264,49.1021327
+fa5b7c01-f633-43a0-a6c7-99011d87512b,Rogg,brewpub,61-65 Bonndorfer Straße,,,Lenzkirch,Baden-Württemberg,79853,Germany,,http://www.brauerei-rogg.de,8.223880399999999,47.8612834
+1bdcdaef-0d0d-48b7-a717-185785405443,Römerbräu,brewpub,2 Großherzog-Leopold-Platz,,,Riegel am Kaiserstuhl,Baden-Württemberg,79359,Germany,+49 160 94144467,http://www.roemerbraeu.de,7.7533902,48.1484312
+eba4c2fa-fe4e-4800-ace9-29d2139a8f44,Rommelmühle,brewpub,60 Flößerstraße,,,Bietigheim-Bissingen,Baden-Württemberg,74321,Germany,+49 7142 9938490,http://www.brauhaus-rommelmuehle.de,9.0990416,48.9487523
+b447927d-96ba-4ac1-91db-4be12f4f1ae2,Rossknecht,brewpub,21 Reithausplatz,,,Ludwigsburg,Baden-Württemberg,71634,Germany,+49 7141 902551,http://www.rossknecht.net,9.1888154,48.8991509
+11a3d14c-8f36-4520-8448-8260507bc17e,Rößle,brewpub,8 Obere Torstraße,,,Neubulach,Baden-Württemberg,75387,Germany,+49 7053 7766,http://www.roessle-neubulach.de,8.694891,48.6617894
+ba2f5010-96eb-4020-8afd-c0fafc53b596,Rothaus,brewpub,1 Rothaus,,,Grafenhausen,Baden-Württemberg,79865,Germany,+49 7748 5220,http://www.rothaus.de,8.2449303,47.7955017
+1be002bf-94d8-4b0f-95ff-955b1a4f3955,Rotochsen,brewpub,4 Alte Steige,,,Ellwangen (Jagst),Baden-Württemberg,73479,Germany,+49 7961 2039,http://www.roter-ochsen-ellwangen.de,10.138083,48.959929
+f9f493bd-7613-442a-a40b-6e2845c28083,Ruppaner,brewpub,41-51 Hoheneggstraße,,,Konstanz,Baden-Württemberg,78464,Germany,+49 7531 93730,http://www.ruppaner.de,9.2078911,47.6857011
+e829844f-7662-4f5e-a1d5-335e23d6f126,Sacher,brewpub,82 Bahnhofstraße,,,Leonberg,Baden-Württemberg,71229,Germany,+49 7152 339515,http://www.brauhaus-sacher.de,9.003049899999999,48.79913750000001
+aa0efba9-b620-467e-bbb6-0ef2b31eafa6,Salzscheuer,brewpub,11 Mittlere Holdergasse,,,Marbach am Neckar,Baden-Württemberg,71672,Germany,+49 7144 889754,http://www.salzscheuer.com,9.2573104,48.9411671
+9c864f49-790d-4a4c-afb7-db402f6a39ad,Schlachthof,brewpub,15 Mühlstraße,,,Nürtingen,Baden-Württemberg,72622,Germany,+49 7022 939571,http://www.schlachthofbraeu.de,9.334195,48.6294309
+23534f99-8067-4cb8-aad9-54ca8e06c677,Schlossbrauerei,brewpub,30 Hauptstraße,,,Aulendorf,Baden-Württemberg,88326,Germany,+49 7525 9213520,http://www.schlossbrauerei-aulendorf.de,9.638224,47.954831
+ce9d043b-3185-4290-951e-d36953b4b47a,Schlüsselbräu,brewpub,34 Oggenhauser Straße,,,Giengen an der Brenz,Baden-Württemberg,89537,Germany,+49 7322 96570,http://www.schluesselbraeu.de,10.2442936,48.6258341
+0ec22be2-75c6-462a-b561-585f71a11625,Schnitzerbräu,brewpub,9 Marlener Straße,,,Offenburg,Baden-Württemberg,77656,Germany,+49 781 125570,http://www.schnitzerbraeu.de,7.925876999999999,48.469551
+0825123f-f6da-4aa8-9230-bf2853216768,Schönbuch,brewpub,20 Lange Straße,,,Böblingen,Baden-Württemberg,71032,Germany,+49 7031 681323,http://www.schoenbuchbraeu.de,9.0173569,48.6843842
+c74a6d51-702b-47df-a88c-77c06e369235,Schörebräu,brewpub,2 Dietmannsweiler,,,Tettnang,Baden-Württemberg,88069,Germany,+49 7528 2317,http://www.schoere.de,9.6588444,47.656731
+c60e47c2-89ce-4bfe-a2dc-df63339c30a1,Schussenrieder,brewpub,12 Wilhelm-Schussen-Straße,,,Bad Schussenried,Baden-Württemberg,88427,Germany,+49 7583 4040,http://www.schussenrieder.de,9.6582198,48.0041016
+1c84e0e5-8a56-4365-93f7-8b34b96dcb39,Schwanen-Bräu,brewpub,36 Bernhäuser Hauptstraße,,,Filderstadt,Baden-Württemberg,70794,Germany,+49 711 706954,http://www.schwanen-braeu.de,9.2182968,48.6793827
+a07c830a-0608-4dc1-b187-a68e409ef5a4,Schwanenbrauerei,brewpub,18-20 Schwanengasse,,,Ehingen (Donau),Baden-Württemberg,89584,Germany,+49 7391 53420,http://www.schwanen-ehingen.de,9.728232499999999,48.2830996
+281e252e-3971-43b0-a365-50a7d05e95f8,Sonne,brewpub,1 Bösinger Straße,,,Bösingen,Baden-Württemberg,78662,Germany,+49 7404 2444,,8.58,48.2244444
+c0093a5c-58fa-43e1-92a3-5da60ca5771c,Sophie's Brauhaus,brewpub,28 Marienstraße,,,Stuttgart,Baden-Württemberg,70178,Germany,+49 711 610962,http://www.sophies-brauhaus.de,9.17231,48.77302
+3715d1b1-72d4-4b37-b259-6c5d79391434,Spall,brewpub,21 Georg-Metzler-Straße,,,Ravenstein,Baden-Württemberg,74747,Germany,+49 6297 219,,9.5513251,49.4000754
+69341b90-6f8f-424f-9918-a144daf06caa,Speidel's Brauerei'le,brewpub,5 Im Dorf,,,Hohenstein,Baden-Württemberg,72531,Germany,+49 7387 98900,http://www.speidels-brauereile.de,9.375336599999999,48.3482475
+8f6e05fd-e040-4132-8846-408a04e23b43,Stadtbräu Rimmele,brewpub,25 Hiltensweiler,,,Wangen im Allgäu,Baden-Württemberg,88239,Germany,+49 7528 97030,http://www.stadtbräu-rimmele.de,9.773755,47.6546898
+d1600c69-78cc-481f-918f-418f857f4526,Steinacher Hausbräu,closed,135 Steinacher Straße,,,Bad Waldsee,Baden-Württemberg,88339,Germany,+49 175 4188020,http://www.steinacherbier.de,9.737096,47.9198026
+e9c0da53-ca88-4d2c-a89a-cc93838637e4,Stiftsscheuer,brewpub,6-8 Widerholtstraße,,,Kirchheim unter Teck,Baden-Württemberg,73230,Germany,+49 7021 736154,http://www.stiftsscheuer.de,9.4522719,48.6490003
+f8e40a2f-b566-4a93-b9e6-5770bd48851b,Stiftungs-Bräu,micro,Neurott 20,,,Lobbach in Baden,Baden-Württemberg,74931,Germany,,http://www.msstiftung.de,,
+c856c007-1562-4f59-9f83-77bd9aa1f280,Stolz,brewpub,2 Rotenbacher Weg,,,Isny im Allgäu,Baden-Württemberg,88316,Germany,+49 7562 971130,http://www.brauerei-stolz.de,10.0437361,47.6964252
+094ad2f1-38be-4b15-a45f-b02726db9452,Stuttgarter Hofbräu,brewpub,132 Böblinger Straße,,,Stuttgart,Baden-Württemberg,70199,Germany,+49 711 64880,http://www.stuttgarter-hofbraeu.de,9.1539925,48.7613176
+25b61994-a923-41e7-9674-25a58bd67585,Sudhaus,brewpub,35/1 Lange Straße,,,Schwäbisch Hall,Baden-Württemberg,74523,Germany,,http://www.sudhaus-sha.de,9.733111899999999,49.11079489999999
+68cdc6f4-dfbe-464e-a1f4-16e4e225eebe,Sudwerkstatt,closed,3/1 Heerweg,,,Mössingen,Baden-Württemberg,72116,Germany,,http://www.sudwerkstatt.de,9.069119299999999,48.40999799999999
+d7378b89-055d-4323-9334-ba2652c2e9af,Tomo Bräu,closed,5 Im Gässle,,,Reutlingen,Baden-Württemberg,72770,Germany,+49 7121 580868,http://www.cafe-venus.de,9.1765148,48.49865519999999
+7d659d76-2e6f-4ba5-8603-a1fea00be200,Turm-Bräu,brewpub,64 Marktplatz,,,Freudenstadt,Baden-Württemberg,72250,Germany,+49 7441 905121,http://www.turmbraeu.de,8.4122567,48.4639187
+e506e435-6f5b-4f35-a3c1-39f673610416,Vetter,brewpub,9 Steingasse,,,Heidelberg,Baden-Württemberg,69117,Germany,+49 6221 165850,http://www.brauhaus-vetter.de,8.7096851,49.4126062
+c81b4a84-116e-4cd1-a85e-d6c3592e072a,Vogel Hausbräu,brewpub,4 Rheinstraße,,,Ettlingen,Baden-Württemberg,76275,Germany,+49 7243 13739,http://www.vogelbraeu.de,8.404943,48.94173019999999
+2983370a-cf64-4b60-ac24-d312aaf98282,Vogel Hausbräu (Durlach),brewpub,16 Amalienbadstraße,,,Karlsruhe,Baden-Württemberg,76227,Germany,+49 721 819680,http://www.vogelbraeu.de,8.4659696,48.99848679999999
+f487d70b-1639-4195-9562-a034627bb711,Vogelbräu (Karlsruhe),brewpub,50 Kapellenstraße,,,Karlsruhe,Baden-Württemberg,76131,Germany,+49 721 605438660,http://www.vogelbraeu.de,8.4140611,49.0074745
+b0a7d7a4-25f2-46d5-a84d-69dfb38815d6,Volksbräu,brewpub,6 Hauptstraße,,,Königseggwald,Baden-Württemberg,88376,Germany,+49 7587 95040,http://www.volksbraeu-durbach.de,9.4206063,47.9258844
+9a9a0817-f53a-4b5b-bccf-e423e828c699,Wahnsinnsbräu,micro,Muehlrain 1,,,Spraitbach,Baden-Württemberg,73565,Germany,,http://www.brutzelbaer.com/,,
+ad67f2b2-41d6-4a0b-af72-e338bd4f04e6,Waldhaus,brewpub,1 Waldhaus,,,Weilheim,Baden-Württemberg,79809,Germany,+49 7755 1600,http://www.privatbrauerei-waldhaus.de,8.1577671,47.68292659999999
+f812e4d1-40ff-4c3d-a47d-d926c92b59e3,Wallhall,brewpub,8 Kübelmarkt,,,Bruchsal,Baden-Württemberg,76646,Germany,+49 7251 72130,http://www.brauhaus-wallhall-bruchsal.de,8.599071499999999,49.1228714
+249d1956-290e-4bac-b822-09b270fa1f7b,Welde Bräu,brewpub,1 Brauereistraße,,,Plankstadt,Baden-Württemberg,68723,Germany,+49 6202 93000,http://www.welde.de,8.57863,49.40197
+b821ba0e-329d-4ad0-b4fc-652e27f72d53,Wichtel,brewpub,Graf-Zeppelin-Platz,,,Böblingen,Baden-Württemberg,71034,Germany,+49 7031 3069899,http://www.wichtel.de,9.003333099999999,48.6900583
+d949aa6c-04b3-45c1-a2f6-f59096787d97,Wieland,brewpub,1a Dewanger Straße,,,Abtsgmünd,Baden-Württemberg,73453,Germany,+49 7366 9209990,http://www.wielands-bier.de,10.0071701,48.89382089999999
+1be11e01-01c6-492d-8733-ab5be3ee9a95,Woinemer,brewpub,23 Friedrichstraße,,,Weinheim,Baden-Württemberg,69469,Germany,+49 6201 12001,http://www.woinemer-hausbrauerei.de,8.6696276,49.553681
+6115020a-4682-4110-ac5f-b0d103dbfe0d,Zoller-Hof,brewpub,5-7 Fürst-Wilhelm-Straße,,,Sigmaringen,Baden-Württemberg,72488,Germany,+49 7571 1843160,http://www.zoller-hof.de,9.218293100000002,48.087454
+28634b80-db00-46fb-8527-03d776630eeb,Zum Ritter,brewpub,1 Schloßplatz,,,Schwetzingen,Baden-Württemberg,68723,Germany,+49 6202 924950,http://www.brauhaus-zum-ritter.de,8.5720637,49.3846283
+7ff5d6ab-9d31-41c5-80cf-9234281e0e7a,Zum Schwanen,brewpub,3 Franziskanergasse,,,Esslingen am Neckar,Baden-Württemberg,73728,Germany,+49 711 353253,http://www.schwanen-es.com,9.3101129,48.7411831
+a7b24dff-2e6d-4944-965e-ee795917e4b5,Zum Schwert,brewpub,9 Am Viehmarkt,,,Ehingen (Donau),Baden-Württemberg,89584,Germany,+49 7391 1288,http://www.schwertbrauerei.de,9.7220391,48.2834104
+3c61df21-3f5b-40e2-add1-bbdf62f58151,Zum Stadtpark,closed,1 Parkstraße,,,Hockenheim,Baden-Württemberg,68766,Germany,+49 6205 283688,http://www.brauereizumstadtpark.de,8.5518626,49.3184333
+c41b9b09-caa6-4c06-a065-660009143d5c,Zwiefalter Klosterbräu,brewpub,24 Hauptstraße,,,Zwiefalten,Baden-Württemberg,88529,Germany,+49 7373 200960,http://www.zwiefalter.de,9.4610206,48.2311628

@@ -1,0 +1,5 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+46bca971-41fc-43d3-afda-8d3d27e433ef,Beck's,brewpub,20 Am Deich,,,Bremen,Bremen,28199,Germany,+49 421 50940,https://www.becks.de/,8.792207,53.0768437
+b8f65a9f-7183-4e44-8070-05b70b039608,Grebhan's Bier,closed,29A Haferwende,,,Bremen,Bremen,28357,Germany,+49 421 3976697,http://www.grebhansbier.com,8.882765899999999,53.1077556
+388e2251-37a8-4836-bd87-75de111a1041,Schüttinger,brewpub,12-13 Hinter dem Schütting,,,Bremen,Bremen,28195,Germany,+49 421 3376633,http://www.schuettinger.de,8.8066459,53.0749157
+dc9f4b21-4e7a-405c-8cf2-5e0f6f62f158,Union,brewpub,12-13 Theodorstraße,,,Bremen,Bremen,28219,Germany,+49 421 8982160,http://www.brauerei-bremen.de,8.7931341,53.10045909999999

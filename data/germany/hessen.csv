@@ -1,0 +1,77 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+ddae7cb2-84c9-44f0-bbab-93781b5cf837,Alsfelder,brewpub,8 Cent,,,Lauterbach (Hessen),Hessen,36341,Germany,+49 6641 1800,http://www.alsfelder.de,9.392651299999999,50.6390531
+0474f95d-9e16-4b45-b789-93827fcc13c2,Alt Oberurseler Brauhaus,brewpub,13 Ackergasse,,,Oberursel (Taunus),Hessen,61440,Germany,+49 6171 54370,http://www.meinbier.de,8.578921,50.202898
+ad3a2f17-d7a8-432a-91c0-1ff29b4398fd,Alte Feuerwache,brewpub,6 Schulgasse,,,Idstein,Hessen,65510,Germany,+49 6126 958112,http://www.brauhaus-alte-feuerwache.de,8.2680809,50.22186019999999
+8a884a90-88e6-44b7-98d3-fbfe01e9cf82,Bad Wildunger Brauhaus,brewpub,2 Frankenberger Straße,,,Bad Wildungen,Hessen,34537,Germany,+49 5621 74150,http://www.brauhaus-bad-wildungen.de,9.10132,51.10931
+80e9b35a-d269-4b0b-b103-68849afb477e,Bier Hannes,brewpub,568 Hanauer Landstraße,,,Frankfurt am Main,Hessen,60386,Germany,+49 69 412890,http://www.bier-hannes.de,8.7680832,50.13322849999999
+a98205b4-e51c-41df-b567-eb37a7cbff4a,Biermanufaktur Rotenburg,brewpub,7 Obertor,,,Rotenburg an der Fulda,Hessen,36199,Germany,+49 6623 9141220,http://www.bier-rotenburg.de,9.7317962,50.9949722
+2a07391b-a93e-4cf1-9d4e-853d752fdcb0,Binding,bar,13 Wallstraße,,,Frankfurt am Main,Hessen,60594,Germany,+49 1515 7801106,http://www.binding.de,8.6884342,50.1049117
+9903d1d3-b439-4784-bbec-451c78afabaa,Bramanufaktur Steckenpferd,brewpub,19a Schwanenweg,,,Kassel,Hessen,34123,Germany,+49 1525 5429152,http://www.braumanufaktur-steckenpferd.de,9.5129863,51.3088337
+207c3c9d-ea5d-4fd4-af4f-d77cab830591,Brauhaus 18·80,brewpub,4 Auf der Lache,,,Fritzlar,Hessen,34560,Germany,+49 5622 918809,http://www.brauhaus1880.de,9.2769718,51.1222076
+75e57315-27f9-4a3c-bc83-f187edf69e91,Brauhaus Castel,brewpub,27 Otto-Suhr-Ring,,,Wiesbaden,Hessen,55252,Germany,+49 6134 24999,http://www.brauhaus-castel.de,8.29242,50.01686
+4a47766e-d24f-4892-b3e9-d80bd4bc4ef0,Brauhaus Michelsrombacher Wald,brewpub,51 Michelsrombacher Straße,,,Fulda,Hessen,36039,Germany,+49 172 4706525,http://www.brauhaus-mrw.de,9.686620699999999,50.5906329
+71fc9541-2f0f-497f-874c-f3b2ad312de3,Braustil,closed,57 Oeder Weg,,,Frankfurt am Main,Hessen,60318,Germany,,http://www.braustil.de,8.6803232,50.1219242
+30c10773-f482-4760-8993-41dc65f6343f,BrauWerkstatt Malsfeld,brewpub,9 Brauereistraße,,,Malsfeld,Hessen,34323,Germany,+49 1522 8873118,http://www.brauwerkstatt-malsfeld.de,9.545593499999999,51.0905518
+31cf78f2-54a7-4472-b4bb-323a613a8275,Brewers Fantasy,brewpub,14 Paul-Joseph-Straße,,,Fürth,Hessen,64658,Germany,+49 6207 4619386,http://www.brewers-fantasy.de,8.7457354,49.6632373
+5b2bc4a9-8ec2-44bf-ac4f-db71f493ffcc,Burgbrauerei,brewpub,8 Cent,,,Lauterbach (Hessen),Hessen,36341,Germany,+49 6641 1800,https://www.lauterbacher-auerhahn.de/,9.3921847,50.6398732
+856cc26e-a905-4e19-a2d5-7548d8f79655,Bürgerbräu Wächtersbach,closed,8 Schloßstraße,,,Wächtersbach,Hessen,63607,Germany,+49 6053 8070,http://www.bbwbach.de,9.2858044,50.2584777
+10433415-27dd-4c42-85f9-fa8aef1941d8,Burggraf Bräu,closed,231 Darmstädter Straße,,,Bensheim,Hessen,64625,Germany,+49 6251 72525,http://www.burggraf-braeu.de,8.6185745,49.7055401
+7e3a2800-2510-459c-aecf-92a3b3450b1c,CraftBrauSchmiede,brewpub,124 Friedberger Straße,,,Bad Vilbel,Hessen,61118,Germany,+49 6101 523690,http://www.craftbrauschmiede.de,8.7437358,50.1927438
+ca4d8c57-a58c-487e-a346-b29426fb5c4a,Darmstädter,brewpub,8 Marktplatz,,,Darmstadt,Hessen,64283,Germany,+49 6151 26444,http://www.darmstaedter.de,8.6558455,49.8720899
+49c93a9a-2614-4c6e-8023-689c558cb6ce,Das Brauhaus,brewpub,1 An der Wied,,,Rüsselsheim am Main,Hessen,65428,Germany,+49 6142 562430,http://www.ruesselsheimerbrauhaus.de,8.4566384,49.9848106
+2700c023-d25a-4257-9f4b-2d618154969c,Daum Bräu,brewpub,14A Erbacher Straße,,,Michelstadt,Hessen,64720,Germany,+49 170 5833883,http://www.daumbraeu.tk,9.006020099999999,49.6765
+4c28cf94-42b9-4677-9827-38e7dfa1d1e9,Dorfbrä,brewpub,7 Mittelstraße,,,Wartenberg,Hessen,36367,Germany,+49 6648 9110073,http://www.dorfbraeuhaus.de,9.474583599999999,50.6077865
+23c46fad-5ef6-44bf-8757-8348da5140f6,Drayß Back & Brauhaus,brewpub,1 Bahnhofstraße,,,Lorsch,Hessen,64653,Germany,+49 6251 9892234,http://www.back-und-brauhaus.de,8.5675885,49.6542632
+99772622-2010-4933-a3c2-f8355f09924b,Edermünder Brauscheune,closed,3A Grifter Straße,,,Edermünde,Hessen,34295,Germany,+49 5665 969896,http://www.brauscheune.de,9.4297066,51.202439
+cb9fbb8d-caf4-4a29-b8c1-d23e2deb2642,Engelhardt Bier,brewpub,9 Kirchplatz,,,Bad Hersfeld,Hessen,36251,Germany,+49 6621 8011513,http://www.engelhardt-bier.de,9.7076197,50.8689714
+c61bf022-689b-4600-afd0-4d2c2ec6a794,Eschweger Klosterbrauerei,brewpub,19 Thüringer Straße,,,Eschwege,Hessen,37269,Germany,+49 5651 30730,http://www.eschweger-klosterbrauerei.de,10.0250048,51.2004812
+2fc87af7-1254-4b91-81d4-fa3bd05f0cec,Faselbräu,brewpub,4 Hintergasse,,,Mörfelden-Walldorf,Hessen,64546,Germany,+49 179 9333705,http://www.faselbraeu.de,8.568683199999999,49.97268340000001
+9bfd94d2-bc3a-4495-bd82-6eecf26a77f6,Fleisbacher,micro,45 Zur Dornheck,,,Sinn,Hessen,35764,Germany,+49 2772 5089035,http://www.fleischbacher-brauerei.de,8.3227476,50.64331379999999
+386feff3-9539-44e5-b87c-8732d37c4757,Flügge,micro,11 Ostparkstraße,,,Frankfurt am Main,Hessen,60314,Germany,+49 69 87000181,http://www.brauerei-fluegge.de,8.7100329,50.1143428
+38bfb001-66c7-4970-a6ba-f2338b9739f6,Fuldabrücker Landbrauerei,brewpub,1A Rundstraße,,,Fuldabrück,Hessen,34277,Germany,+49 5665 30088,http://www.kassel-essentrinken.de/kunden/gastro/LKS/landbrauerei/vk.html,9.501488199999999,51.2280175
+6f35c700-e495-4b75-9dc4-2cfded4a9a7b,Glaabsbräu,brewpub,1 Wallstraße,,,Seligenstadt,Hessen,63500,Germany,+49 6182 9260,http://www.glaabsbraeu.de,8.9734986,50.0447693
+bc2caf09-abfc-43a1-bc35-d9f3b946937b,Graf Zeppelin,brewpub,10 Zeppelinstraße,,,Bad Homburg vor der Höhe,Hessen,61352,Germany,+49 6172 288662,http://www.hofgut-kronenhof.de/brauhaus/,8.6116654,50.2142958
+8804214c-7d23-4960-a8aa-4161978f81bf,Grohe,brewpub,3 Nieder-Ramstädter Straße,,,Darmstadt,Hessen,64283,Germany,+49 6151 4291111,http://www.grohe-gastro.de,8.656749999999999,49.8691833
+f1e9579e-8c01-4dff-b7a4-9a2c0da42c98,Gutshof,brewpub,2 Zum Gutshof,,,Herborn,Hessen,35745,Germany,+49 2772 5755740,http://www.gutshof-herborn.de,8.3064469,50.6689786
+8cb9705e-01f5-40c5-ba48-7268931b8855,Halber Mond,brewpub,5 Ludwigstraße,,,Heppenheim (Bergstraße),Hessen,64646,Germany,+49 6252 126848,http://www.halber-mond.com,8.6386001,49.6416174
+9375b01a-a2bc-485c-adc7-8dc72e1db63b,Hausbrauerei Armin Latzko,brewpub,5 Harkauer Weg,,,Wetter (Hessen),Hessen,35083,Germany,+49 6423 2557,,8.6885843,50.9075497
+0a4b9f32-745a-4847-85d2-f79032778466,Heidenroder Craft Brauerei,closed,8 Parkstraße,,,Heidenrod,Hessen,65321,Germany,,http://www.heidenroder-craft-brauerei.de,7.9456066,50.1492289
+4dcc422f-ab94-4097-8069-9e7884053e8b,Hochstädter Landbier,brewpub,13 Bischofsheimer Straße,,,Maintal,Hessen,63477,Germany,+49 6181 432326,http://www.hochstaedter-landbier.de,8.8303237,50.1528488
+b9f0b5b3-beac-4ea7-a83e-bff3ba1cf7ad,Hochstift,brewpub,12 Leipziger Straße,,,Fulda,Hessen,36037,Germany,+49 661 83500,http://www.hochstift.de,9.6770041,50.55787549999999
+5e12c783-55cf-44be-9c90-28d203a4b656,Hopfenherz,closed,3 Feldbergstraße,,,Weiterstadt,Hessen,64331,Germany,+49 6150 14337,http://www.hopfenherz.de,8.5624509,49.9136865
+493474e7-4d57-4472-8b95-693a9ea75543,Hütt,closed,Knallhuette 1,,,Baunatal,Hessen,34225,Germany,+49 561 499070,http://www.huett.de,9.4485783,51.2607152
+5ce68c09-7627-46a2-abf5-1899a94f8187,Kärrners,brewpub,7 Kurparkstraße,,,Bad Orb,Hessen,63619,Germany,+49 6052 2515,http://www.kaerrners.de,9.351436099999999,50.2234687
+6a106b60-b328-4d66-b8c3-8d6e2287ad87,Kellerwälder Brauhaus,closed,19 Kasseler Straße,,,Gilserberg,Hessen,34630,Germany,+49 6696 911811,http://www.kellerwaelder.de,9.0660204,50.9520639
+2c5dc79e-c4b9-4732-ad09-2ad80d709798,Kultland Brauerei,brewpub,8 Pappelweg,,,Friedberg (Hessen),Hessen,61169,Germany,+49 6031 7793990,http://www.kultland-brauerei.de,8.7911825,50.3258997
+11029e2d-3a21-4f9e-872c-fb242638c1ff,Landbrauerei Bierbacher,brewpub,8 Cent,,,Lauterbach (Hessen),Hessen,36341,Germany,+49 6641 1800,http://www.bierbacher.de,9.3921847,50.6398732
+dac65787-0d73-45fe-80d2-9790fb3af01d,Landmuseum Ransel,closed,34 Kirchstraße,,,Lorch,Hessen,65391,Germany,+49 6726 2088,http://www.flk-ransel.de,7.8489247,50.1015761
+71beaa85-c67e-4b89-a6c9-993fdc969ea0,Lauterbacher-Auerhahn,brewpub,8 Cent,,,Lauterbach (Hessen),Hessen,36341,Germany,+49 6641 1800,http://www.lauterbacher-auerhahn.de,9.3921847,50.6398732
+28dec8c3-c7d6-4a57-b1d6-2eb6dd0440f1,Licher,brewpub,Am-Hardtberg 1,,,Lich,Hessen,35423,Germany,+49 6404 820,http://www.licher.de,8.817150999999999,50.515228
+c6c293d9-8fd6-425e-a98e-d033ac9f8a20,Maus Bräu,brewpub,2 Am Backhaus,,,Hünfeld,Hessen,36088,Germany,+49 6652 9829900,http://www.mausbräu.de,9.77711,50.62818009999999
+3303fa3c-6c42-4a2e-ae9f-794c5f177d01,Michelstädter Bier,brewpub,1 Mauerstraße,,,Michelstadt,Hessen,64720,Germany,+49 6061 5666,http://www.michelstaedterbier.de,9.0055034,49.6785118
+c284aa9c-f61f-4ec2-b380-d716c2d189fa,Niddaer Marktbräu,brewpub,21 Markt,,,Nidda,Hessen,63667,Germany,+49 6043 984328,http://www.hotel-zur-traube.de,9.0085745,50.4132436
+e5c25cc6-7b7c-4508-a1ed-d8f7fdc52966,Obermühle,brewpub,17 Gebrüder Wahl Straße,,,Braunfels,Hessen,35619,Germany,+49 6442 4382,http://www.obermuehle-braunfels.de,8.3820239,50.5163149
+1fb887b8-6ea6-4b0a-a6f9-c4825a1b7fe0,Osterbach Brauerei,brewpub,1a Untertor,,,Gemünden (Wohra),Hessen,35285,Germany,+49 1525 3305923,http://www.osterbachbrauerei.de,8.9701425,50.9728167
+bdbf2f67-fe45-467d-80f0-03dfe0f761e7,Petrimühle,micro,1 Bezirksstraße,,,Selters (Taunus),Hessen,65618,Germany,+49 174 4474443,http://www.petrimuehle.de,8.2570392,50.3693347
+e1c5aa63-5a7b-4fae-8ff0-2d1be43ea486,Pfungstädter,brewpub,1 Mühlstraße,,,Pfungstadt,Hessen,64319,Germany,+49 6157 955591,http://www.pfungstaedter.de,8.6046006,49.804539
+164e9b77-4e8b-4a8a-9e14-a41cb1b22a45,Ranseler Hofbräu,brewpub,5 Unterstraße,,,Lorch,Hessen,65391,Germany,+49 6726 839359,http://www.ranseler.de,7.84325,50.10101
+2fd148cb-77d1-4932-834a-6ddd3ac47e00,Rathausbräu,brewpub,1 Mauerstraße,,,Michelstadt,Hessen,64720,Germany,+49 6061 5666,http://www.rathausbraeu.de,9.0055034,49.6785118
+d52bbbd8-a576-478d-aa76-3815123ff3dc,Ratskeller,brewpub,8 Marktplatz,,,Darmstadt,Hessen,64283,Germany,+49 6151 26444,http://www.ratskeller-darmstadt.de,8.6558455,49.8720899
+f585eba2-0f06-4cf9-a583-fa5273218d5f,Rüsselsheimer Bräu,brewpub,4-6 Mainstraße,,,Rüsselsheim am Main,Hessen,65428,Germany,+49 6142 961240,http://www.ruesselsheimer-braeu.de,8.4112505,49.996112
+3367c1a1-8690-41a3-b7a8-8d766381096a,Schinkel's Brauhaus,brewpub,10 Oberburgstraße,,,Witzenhausen,Hessen,37213,Germany,+49 5542 911210,http://www.schinkels-brauhaus.de,9.854563700000002,51.3412361
+22968983-c168-4da2-91ee-a2188532cae3,Schmidt,brewpub,4 Kastanienstraße,,,Kronberg im Taunus,Hessen,61476,Germany,+49 6173 950095,http://www.getraenkeschmiede.de,8.5362457,50.1853463
+44aa86fc-0c73-4405-be5e-bf46f05a3f3a,Schmucker,brewpub,89 Hauptstraße,,,Mossautal,Hessen,64756,Germany,+49 6061 7020,http://www.schmucker-bier.de,8.9245452,49.6735565
+23bc8a59-0e9c-4b40-9b99-769aab5f5d6d,Schönecker Brauhaus,closed,28 Büdesheimer Straße,,,Schöneck,Hessen,61137,Germany,+49 6187 9020341,,8.8405917,50.2013919
+9f9e2f16-7609-42bb-81c3-374e59b80eea,Schwalm Bräu,brewpub,3 Ascheröder Straße,,,Schwalmstadt,Hessen,34613,Germany,+49 6691 23051,http://www.schwalmbraeu.de,9.1938712,50.91212480000001
+186dcb8a-d9e7-4b65-a42a-6389adfd1120,Selbolder Brauhaus,brewpub,10 Ringstraße,,,Langenselbold,Hessen,63505,Germany,+49 163 6344106,,9.038163899999999,50.1836823
+fe865192-788a-48a0-a7d3-9da08289e8a5,Umstädter Brauhaus,brewpub,28 Zimmerstraße,,,Groß-Umstadt,Hessen,64823,Germany,+49 6078 3345,http://www.umstaedter-brauhaus.de,8.9331142,49.8658724
+bb7df836-b0ca-4704-bc5f-fcc53fd7f388,WasserCraftWerk,brewpub,2 Isarstrasse,,,Kelsterbach,Hessen,65451,Germany,+49 6142 5909590,http://www.wassercraftwerk.de,8.4770375,50.0370954
+98bc69b9-9b31-4d00-aa7d-3c6a17da29cd,Weingut Werk2,brewpub,2 Behlstraße,,,Geisenheim,Hessen,65366,Germany,+49 6722 4979712,http://www.werk2weine.de,7.967339999999999,49.98437999999999
+d9eb2106-81f1-4733-b21d-1f1661dd9331,Werk II,micro,35 Walburger Straße,,,Großalmerode,Hessen,37247,Germany,+49 5604 9369915,http://www.werk-2.eu,9.7704551,51.2292193
+1c7215d5-a73f-4ff6-878c-22d2d4769769,Weschnitztaler Braumanufaktur,closed,23 Siemensring,,,Fürth,Hessen,64658,Germany,,http://www.weschnitztaler.com,8.7908312,49.6570556
+688e59b1-f142-4697-92e9-83b90580bc7c,Wiesbadener Braumanufaktur,closed,55 Hagenauer Straße,,,Wiesbaden,Hessen,65203,Germany,+49 611 333355,http://www.wiesbadener.beer,8.214846699999999,50.0500578
+86116d5c-f2d0-4dfe-91bc-42ae29a9be7f,Wiesenmühle,brewpub,13 Wiesenmühlenstraße,,,Fulda,Hessen,36037,Germany,+49 661 928680,http://www.wiesenmuehle.de,9.668020000000002,50.55114
+86258dd3-bac4-41c4-96cb-0ddee3049fa2,Wilhelmsbader Hof Bräu,brewpub,80 Kesselstädter Straße,,,Hanau,Hessen,63454,Germany,+49 6181 5779090,http://www.wilhelmsbader-hof.de,8.877749099999999,50.14797919999999
+ceec01be-29e5-46fb-8fff-a678c7456958,Willinger Brauhaus,brewpub,2 In den Kämpen,,,Willingen (Upland),Hessen,34508,Germany,+49 5632 9690500,http://www.willinger-brauhaus.de,8.60508,51.2946
+523f41a9-ac2b-4015-bf02-9d3c413b9eef,Zum Braumeister,closed,5 Frankfurter Straße,,,Bad Soden-Salmünster,Hessen,63628,Germany,+49 6056 912911,http://www.zum-braumeister.de,9.368439,50.277567
+f0014403-0155-4532-9d9b-42d2ce16e65d,Zwölf Apostel,brewpub,1 Rosenbergerstraße,,,Frankfurt am Main,Hessen,60313,Germany,+49 69 288668,http://www.12aposteln-frankfurt.de,8.6863403,50.1173831

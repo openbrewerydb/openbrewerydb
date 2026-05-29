@@ -1,0 +1,29 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+911ba23d-87ac-4446-bd08-3bc36e9c18e1,Asgaard,brewpub,27 Königstraße,,,Schleswig,Schleswig-Holstein,24837,Germany,+49 4621 488213,http://www.asgaard.de,9.5618837,54.51441459999999
+abdeb784-805b-412e-92c0-8080b0125650,Brauberger,brewpub,36 Alfstraße,,,Lübeck,Schleswig-Holstein,23552,Germany,+49 451 71444,http://www.brauberger.com,10.6809594,53.8683004
+f7a27918-c59c-421d-91fd-2f2a7834df6d,Brauerei Taarstedt,brewpub,12 Schörderup,,,Stoltebüll,Schleswig-Holstein,24409,Germany,+49 160 5458702,http://www.brauerei-taarstedt.de,9.850406699999999,54.69805419999999
+e573ecc3-fdd9-42cc-abca-55354664cd72,Brauhaus Eutin,brewpub,11 Markt,,,Eutin,Schleswig-Holstein,23701,Germany,+49 4521 766777,http://www.brauhaus-eutin.de,10.6167935,54.1367339
+67f57213-ba7b-44c0-bafc-58351ec54036,Braukeller Gotthilf,brewpub,5 Am Schwarzen Berg,,,Bornhöved,Schleswig-Holstein,24619,Germany,+49 4323 6172,http://www.braukeller-gotthilf.de,10.2484171,54.0762164
+a720caae-898f-4a23-a3dc-1fed32b24dd3,Czerny's Küstenbrauerei,brewpub,20 Deichweg,,,Kiel,Schleswig-Holstein,24159,Germany,+49 431 97990985,http://www.czernys-kuestenbrauerei.de,10.18591,54.39265
+bbcc1a73-772f-43dd-bb19-c148aface715,Das Kleine Brauhaus,brewpub,36 Alfstraße,,,Lübeck,Schleswig-Holstein,23552,Germany,+49 451 71444,http://www.schwarzenbeker-brauhaus.de,10.6809594,53.8683004
+736dd4c4-bb0b-4407-b703-a74735dc8631,Dithmarscher,brewpub,18 Österstraße,,,Marne,Schleswig-Holstein,25709,Germany,+49 4851 9620,http://www.dithmarscher.de,9.012427700000002,53.95383289999999
+e55c818a-3774-4e9d-b8fa-0343b3d66c41,Ebbüller Brauhaus,brewpub,2 Ebbüller Weg,,,Emmelsbüll-Horsbüll,Schleswig-Holstein,25924,Germany,+49 4665 2323296,http://www.ebbueller.de,8.6860193,54.8097886
+8e29c731-d133-4d18-89cc-75d392d0311d,Fährhaus Bräu,brewpub,48 Hafenstraße,,,Burg (Dithmarschen),Schleswig-Holstein,25712,Germany,+49 4825 2417,http://www.burger-faehrhaus.de,9.2777747,53.98431110000001
+195c8caa-95d8-4fd3-b090-880af6788b8d,Flensburger,brewpub,12 Munketoft,,,Flensburg,Schleswig-Holstein,24937,Germany,+49 461 8630,http://www.flens.de,9.435710199999999,54.7789689
+31633fac-c442-4384-8fab-b9dd7f6b378d,Getränke Stapelfeldt,micro,Ratzeburger-Str. 31,,,Mölln,Schleswig-Holstein,23879,Germany,,http://www.getraenke-stapelfeldt.de,10.6919122,53.6349107
+fbb9fdfa-9897-4736-b80f-13dd7f0772e1,Grönwohlder,brewpub,1 Drahtmühle,,,Grönwohld,Schleswig-Holstein,22956,Germany,+49 1522 2387085,http://www.groenwohlder.de,10.4000244,53.64030349999999
+93cc7d1d-af61-4804-9087-00f61cace2a6,Hansens,brewpub,16 Schiffbrücke,,,Flensburg,Schleswig-Holstein,24939,Germany,+49 461 22210,http://www.hansens-brauerei.de,9.4334247,54.7909319
+a0726c0a-b7fd-4bed-b0a2-5db0797e076a,Hopfenleibe,brewpub,60 Rathausallee,,,Norderstedt,Schleswig-Holstein,22846,Germany,+49 40 30987243,http://www.hopfenliebe.de,9.9938006,53.7075188
+2709b55c-1e10-4f90-82b8-255aa29aaab4,Husums Brauhaus,brewpub,60-68 Neustadt,,,Husum,Schleswig-Holstein,25813,Germany,+49 4841 89660,http://www.husums-brauhaus.de,9.046839,54.478962
+6035e0cc-1fea-4384-a08a-21b54378dbd5,Kieler,brewpub,9 Alter Markt,,,Kiel,Schleswig-Holstein,24103,Germany,+49 431 906290,http://www.kieler-brauerei.de,10.139087,54.323513
+b4721ac2-e28d-454e-b600-7d053d70f84d,Kirschenholz,brewpub,4 Hauptstraße,,,Schillsdorf,Schleswig-Holstein,24637,Germany,+49 4394 309,http://www.kirschenholz.de,10.1262578,54.11361309999999
+bc52d91f-490a-4613-972f-842849a6c2bc,Klapperbräu,brewpub,13 Gehrn,,,Wacken,Schleswig-Holstein,25596,Germany,+49 4827 9969806,http://www.klapperbraeu.de,9.3859411,54.0206716
+b09080f2-482e-4560-a98d-3be2e9ee4517,Klüver's Brauhaus,brewpub,2-4 Schiffbrücke,,,Neustadt in Holstein,Schleswig-Holstein,23730,Germany,+49 4561 714811,http://www.kluevers-brauhaus.de,10.8113547,54.10559800000001
+d42186a6-e2f9-4f1b-bcf5-3c709a5a207e,Milster,brewpub,12 Munketoft,,,Flensburg,Schleswig-Holstein,24937,Germany,+49 461 8630,https://www.flens.de/?utm_source=gmb&utm_medium=profil&utm_campaign=branding,9.435710199999999,54.7789689
+a65a6d72-0a80-4904-8a03-7e481f1d9f81,Ricklinger Landbrauerei,brewpub,1 Grüner Weg,,,Rickling,Schleswig-Holstein,24635,Germany,+49 4328 1314,http://www.ricklinger-landbrauerei.de,10.1672125,54.0130345
+e71aa48e-3551-4a90-b6cf-e2a0af019519,Sylter Hopfen,brewpub,21 Brauereiweg,,,Flensburg,Schleswig-Holstein,24939,Germany,+49 461 90019967,http://www.sylter-hopfen.de,9.4275755,54.8029058
+56f86505-8c64-480e-a893-a0714c996b57,The Brewing Pack,brewpub,44 Zur Bleiche,,,Flensburg,Schleswig-Holstein,24941,Germany,+49 461 99583599,http://www.brewingpack.com,9.4287397,54.7716149
+89ff94de-c3bd-4356-a683-2f323ff8b6a2,Wacken Brauerei,brewpub,13 Gehrn,,,Wacken,Schleswig-Holstein,25596,Germany,+49 4827 9969806,http://www.wacken.beer,9.3859411,54.0206716
+920fc89a-f91c-43ad-953a-461ee9691977,Watt Bier,brewpub,2a Hafenstraße,,,List auf Sylt,Schleswig-Holstein,25992,Germany,,http://www.watt-bier.de,8.430721799999999,55.0154751
+05952806-4db4-49be-bfbe-06e1e00aec84,Wittorfer,brewpub,12 Wrangelstraße,,,Neumünster,Schleswig-Holstein,24539,Germany,+49 1515 0004321,http://www.wittorfer-brauerei.de,9.9738664,54.0662422
+f3008118-0b13-41ad-91ea-f7e355dc671d,Zeugenbräu,closed,17 Schlehenstieg,,,Ahrensburg,Schleswig-Holstein,22926,Germany,,http://www.zeugenbraeu.de,10.2100522,53.6756677
