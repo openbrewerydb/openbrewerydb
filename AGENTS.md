@@ -28,8 +28,7 @@ src/                           # TypeScript tooling scripts
   dedupe.ts                    # Fuzzy duplicate detection main entry point
   dedupe-candidates.ts         # Candidate detection logic and hash-based identification
   dedupe-review.ts             # Interactive CLI for reviewing candidates
-  dedupe-apply.ts              # Applies resolutions to breweries.csv
-  dedupe-split.ts              # Applies resolutions to individual data/ CSV files
+  dedupe-apply.ts              # Applies resolutions to data/ files
   analyze-data.ts              # Data quality analysis and reporting
   normalize-addresses.ts       # Address normalization across all CSV files
   utils/                       # Shared utility modules
@@ -149,7 +148,7 @@ Normalizes address fields (address_1, address_2, address_3, city, state_province
 ```bash
 npm run dedupe           # Detect duplicate candidates using fuzzy matching
 npm run dedupe:review    # Interactively review and confirm/reject candidates
-npm run dedupe:apply     # Apply confirmed resolutions to breweries.csv
+npm run dedupe:apply     # Apply confirmed resolutions to data/ files
 ```
 
 Detects potential duplicate breweries using fuzzy string matching (Jaro-Winkler similarity) and applies resolutions to clean the dataset.
@@ -166,9 +165,10 @@ Detects potential duplicate breweries using fuzzy string matching (Jaro-Winkler 
    - Auto-approve high-confidence pairs (≥95% similarity)
    - Resolutions are stored in `dedupe-resolutions.json` with stable hash-based IDs
 3. `npm run dedupe:apply` - Applies confirmed resolutions:
-   - Filters out confirmed duplicates from `breweries.csv`
-   - Outputs `breweries-deduped.csv` for review
-   - Then run `npm run workflow:maintain` to apply changes to `data/` files
+   - Filters out confirmed duplicates and updates `data/` files directly
+   - Creates backup of `data/` before modifications with automatic rollback on error
+   - Validates output record count before committing
+   - Then run `npm run workflow:maintain` to regenerate `breweries.csv`, JSON, SQL, and README stats
 
 **Idempotency:**
 
@@ -182,7 +182,6 @@ Detects potential duplicate breweries using fuzzy string matching (Jaro-Winkler 
 - `dedupe-candidates.json` - Detected duplicate pairs
 - `dedupe-resolutions.json` - User's resolution decisions
 - `dedupe-report.md` - Markdown summary of candidates
-- `breweries-deduped.csv` - Intermediate output for review
 
 ### Contributor Management
 
