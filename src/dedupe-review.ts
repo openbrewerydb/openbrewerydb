@@ -4,7 +4,6 @@ import {
   DedupCandidate,
   Resolution,
   loadCandidates,
-  saveCandidates,
   loadResolutions,
   saveResolutions,
 } from "./dedupe-candidates";
@@ -175,11 +174,8 @@ async function review() {
   const rl = rlInterface();
   let currentIdx = 0;
 
-  // Skip already-resolved pairs
-  while (
-    currentIdx < candidates.length &&
-    resolutions.some((r) => r.index === candidates[currentIdx].index && r.action !== "skipped")
-  ) {
+  // Skip already-resolved pairs (confirmed/rejected, but not skipped)
+  while (currentIdx < candidates.length && isResolved(currentIdx, resolutions)) {
     currentIdx++;
   }
 
@@ -189,7 +185,8 @@ async function review() {
   console.log("╚══════════════════════════════════════════════════════════════════════╝");
   console.log("");
   console.log(`  ${candidates.length} duplicate candidate pairs found.`);
-  console.log(`  ${resolutions.filter((r) => r.action === "confirmed").length} already confirmed.`);
+  const alreadyResolved = dedupedResolutionCount(resolutions);
+  console.log(`  ${alreadyResolved} already resolved.`);
   console.log("");
   console.log("  Commands: [y] confirm · [n] reject · [s] skip · [a] auto-approve · [b] back");
   console.log("            [l] list · [j #] jump · [r] reset · [h] help · [q] quit");
@@ -204,8 +201,7 @@ async function review() {
     );
 
     if (input === "y" || input === "") {
-      // confirm
-      resolutions.push({
+      upsertResolution(resolutions, {
         index: candidate.index,
         removeId: candidate.remove.id || candidate.remove.name,
         keepId: candidate.keep.id || candidate.keep.name,
@@ -214,8 +210,7 @@ async function review() {
       });
       currentIdx++;
     } else if (input === "n") {
-      // reject
-      resolutions.push({
+      upsertResolution(resolutions, {
         index: candidate.index,
         removeId: null,
         keepId: candidate.keep.id || candidate.keep.name,
@@ -224,8 +219,7 @@ async function review() {
       });
       currentIdx++;
     } else if (input === "s") {
-      // skip
-      resolutions.push({
+      upsertResolution(resolutions, {
         index: candidate.index,
         removeId: null,
         keepId: candidate.keep.id || candidate.keep.name,
@@ -234,30 +228,37 @@ async function review() {
       });
       currentIdx++;
     } else if (input === "a") {
-      // Auto-approve all remaining high-confidence
-      const highConfTotal = candidates
-        .slice(currentIdx)
-        .filter((c) => c.confidence === "high" && !resolutions.some((r) => r.index === c.index))
-        .length;
+      // Count remaining unresolved pairs by confidence
+      const remaining = candidates.slice(currentIdx).filter((c) => !isResolved(c.index, resolutions));
+      const highConfCount = remaining.filter((c) => c.confidence === "high").length;
+      const medConfCount = remaining.filter((c) => c.confidence === "medium").length;
+      const lowConfCount = remaining.filter((c) => c.confidence === "low").length;
+
+      console.log(`  Remaining unresolved: ${remaining.length} total`);
+      console.log(`    🟢 High:   ${highConfCount}  → will be CONFIRMED (remove duplicate)`);
+      console.log(`    🟡 Medium: ${medConfCount}  → will be SKIPPED (review later)`);
+      console.log(`    🔴 Low:    ${lowConfCount}  → will be SKIPPED (review later)`);
+
       const confirmAll = await ask(
         rl,
-        `  Auto-approve ${highConfTotal} HIGH-confidence pairs? [y/n]: `
+        `  Proceed? [y/n]: `
       );
       if (confirmAll === "y" || confirmAll === "") {
+        let confirmed = 0;
         for (let i = currentIdx; i < candidates.length; i++) {
           const c = candidates[i];
-          const existing = resolutions.find((r) => r.index === c.index);
-          if (existing) continue;
+          if (isResolved(c.index, resolutions)) continue;
           if (c.confidence === "high") {
-            resolutions.push({
+            upsertResolution(resolutions, {
               index: c.index,
               removeId: c.remove.id || c.remove.name,
               keepId: c.keep.id || c.keep.name,
               action: "confirmed",
               resolvedAt: new Date().toISOString(),
             });
+            confirmed++;
           } else {
-            resolutions.push({
+            upsertResolution(resolutions, {
               index: c.index,
               removeId: null,
               keepId: c.keep.id || c.keep.name,
@@ -266,16 +267,15 @@ async function review() {
             });
           }
         }
+        // After auto-approve, advance to the end
         currentIdx = candidates.length;
-        console.log(`  ✅ Auto-approved ${highConfTotal} high-confidence pairs, skipped the rest.`);
+        console.log(`  ✅ Auto-approved ${confirmed} high-confidence pairs, skipped the rest.`);
       }
     } else if (input === "b") {
       if (currentIdx > 0) {
         currentIdx--;
-        // Remove resolution for pair we're going back to
-        const prevCandidate = candidates[currentIdx];
-        const ri = resolutions.findIndex((r) => r.index === prevCandidate.index);
-        if (ri !== -1) resolutions.splice(ri, 1);
+        // Remove ALL resolutions for the pair we're going back to
+        removeAllResolutionsForIndex(resolutions, candidates[currentIdx].index);
       }
     } else if (input === "r") {
       // Reset all resolutions and start over
@@ -300,12 +300,7 @@ async function review() {
     }
 
     // Skip resolved pairs going forward
-    while (
-      currentIdx < candidates.length &&
-      resolutions.some(
-        (r) => r.index === candidates[currentIdx].index && r.action !== "skipped"
-      )
-    ) {
+    while (currentIdx < candidates.length && isResolved(currentIdx, resolutions)) {
       currentIdx++;
     }
   }
@@ -315,17 +310,67 @@ async function review() {
   // Save progress
   saveResolutions(resolutions, resolutionsPath);
 
-  const confirmed = resolutions.filter((r) => r.action === "confirmed").length;
-  const rejected = resolutions.filter((r) => r.action === "rejected").length;
-  const skipped = resolutions.filter((r) => r.action === "skipped").length;
-
+  const summary = resolutionSummary(resolutions);
   console.log("");
-  showSummary(candidates, resolutions);
+  printSeparator();
+  console.log(
+    `  Summary: ${summary.confirmed} confirmed · ${summary.rejected} rejected · ${summary.skipped} skipped`
+  );
+  printSeparator();
   console.log("");
   console.log(`  Resolutions saved to ${resolutionsPath}`);
   console.log("");
   console.log("  Next step: run `npm run dedupe:apply` to apply resolutions and output cleaned CSVs.");
   console.log("");
+}
+
+/** Check if an index has a non-skipped resolution */
+function isResolved(idx: number, resolutions: Resolution[]): boolean {
+  return resolutions.some((r) => r.index === idx && r.action !== "skipped");
+}
+
+/** Deduplicated resolution count (last entry per index) */
+function dedupedResolutionCount(resolutions: Resolution[]): number {
+  const seen = new Set<number>();
+  for (let i = resolutions.length - 1; i >= 0; i--) {
+    seen.add(resolutions[i].index);
+  }
+  return seen.size;
+}
+
+/** Upsert a resolution: update existing entry for the same index, or append */
+function upsertResolution(resolutions: Resolution[], entry: Resolution): void {
+  const existingIdx = resolutions.findIndex((r) => r.index === entry.index);
+  if (existingIdx !== -1) {
+    resolutions[existingIdx] = entry;
+  } else {
+    resolutions.push(entry);
+  }
+}
+
+/** Remove ALL resolution entries for a given index */
+function removeAllResolutionsForIndex(resolutions: Resolution[], index: number): void {
+  for (let i = resolutions.length - 1; i >= 0; i--) {
+    if (resolutions[i].index === index) {
+      resolutions.splice(i, 1);
+    }
+  }
+}
+
+/** Count deduplicated resolutions */
+function resolutionSummary(resolutions: Resolution[]): {
+  confirmed: number;
+  rejected: number;
+  skipped: number;
+} {
+  const lastByIndex = new Map<number, Resolution>();
+  resolutions.forEach((r) => lastByIndex.set(r.index, r));
+  const unique = [...lastByIndex.values()];
+  return {
+    confirmed: unique.filter((r) => r.action === "confirmed").length,
+    rejected: unique.filter((r) => r.action === "rejected").length,
+    skipped: unique.filter((r) => r.action === "skipped").length,
+  };
 }
 
 review().catch((err) => {

@@ -24,9 +24,14 @@ function apply() {
     process.exit(1);
   }
 
-  const confirmed = resolutions.filter((r) => r.action === "confirmed");
-  const rejected = resolutions.filter((r) => r.action === "rejected");
-  const skipped = resolutions.filter((r) => r.action === "skipped");
+  // Deduplicate: keep only the last resolution per index (in case of re-reviews)
+  const lastByIndex = new Map<number, Resolution>();
+  resolutions.forEach((r) => lastByIndex.set(r.index, r));
+  const unique = [...lastByIndex.values()];
+
+  const confirmed = unique.filter((r) => r.action === "confirmed");
+  const rejected = unique.filter((r) => r.action === "rejected");
+  const skipped = unique.filter((r) => r.action === "skipped");
 
   if (confirmed.length === 0 && skipped.length === 0) {
     console.log("⚠️  No confirmed resolutions found. Nothing to apply.");
