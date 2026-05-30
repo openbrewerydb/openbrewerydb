@@ -4,6 +4,7 @@ import { glob } from "glob";
 import Papa from "papaparse";
 import { Brewery } from "./types";
 import { papaParseOptions, headers } from "./config";
+import { execSync } from "child_process";
 
 // ---------------------------------------------------------------------------
 // USPS Address Abbreviation Maps
@@ -453,43 +454,67 @@ function formatChanges(changes: NormalizationChange[]): string {
 // CLI
 // ---------------------------------------------------------------------------
 
-const main = async () => {
+const main = () => {
   const startTime = Date.now();
   console.log("Normalizing addresses...\n");
 
-  const csvPath = join(__dirname, "../breweries.csv");
-  const csv = readFileSync(csvPath, { encoding: "utf-8" });
-  const original = Papa.parse<Brewery>(csv, papaParseOptions).data;
+  // Validation gate: ensure data is valid before modifying
+  console.log("Running validation gate...");
+  try {
+    execSync("npm run validate", { cwd: join(__dirname, "../"), stdio: "inherit" });
+  } catch (error) {
+    console.error("\n❌ Validation failed. Address normalization aborted.");
+    process.exit(1);
+  }
+  console.log("✅ Validation passed. Proceeding with normalization.\n");
 
-  // Deep clone for comparison
-  const cloned = original.map((b) => ({ ...b }));
+  // Find all CSV files under data/
+  const csvFiles = glob.sync("data/**/*.csv", { cwd: join(__dirname, "../") });
+  console.log(`Found ${csvFiles.length} CSV files to process.\n`);
 
-  // Normalize all records
-  const normalized = cloned.map((b) => normalizeRecord(b));
+  let totalChanges = 0;
+  const allChanges: NormalizationChange[] = [];
 
-  // Report changes
-  const changes = diffRecords(original, normalized);
-  const report = formatChanges(changes);
-  console.log(report);
+  for (const csvFile of csvFiles) {
+    const csvPath = join(__dirname, "../", csvFile);
+    const csv = readFileSync(csvPath, { encoding: "utf-8" });
+    const original = Papa.parse<Brewery>(csv, papaParseOptions).data;
 
-  // Write normalized CSV
-  writeFileSync(
-    csvPath,
-    Papa.unparse(normalized, {
-      columns: headers,
-      skipEmptyLines: true,
-    })
-  );
+    // Deep clone for comparison
+    const cloned = original.map((b) => ({ ...b }));
+
+    // Normalize all records
+    const normalized = cloned.map((b) => normalizeRecord(b));
+
+    // Track changes
+    const changes = diffRecords(original, normalized);
+    if (changes.length > 0) {
+      totalChanges += changes.length;
+      allChanges.push(...changes);
+      console.log(`${csvFile}: ${changes.length} changes`);
+
+      // Write normalized CSV back to file
+      writeFileSync(
+        csvPath,
+        Papa.unparse(normalized, {
+          columns: headers,
+          skipEmptyLines: true,
+        })
+      );
+    }
+  }
+
+  // Report summary
+  const report = formatChanges(allChanges);
+  console.log("\n" + report);
 
   console.log(`\n✨ Normalized in ${Date.now() - startTime}ms`);
-  console.log(`  ${changes.length} address fields updated.`);
+  console.log(`  ${totalChanges} address fields updated across ${csvFiles.length} files.`);
+  console.log("\n⚠️  Run 'npm run workflow:maintain' to regenerate breweries.csv, breweries.json, and breweries.sql");
 };
 
 if (require.main === module) {
-  main().catch((err) => {
-    console.error("Error normalizing addresses:", err);
-    process.exit(1);
-  });
+  main();
 }
 
 export {

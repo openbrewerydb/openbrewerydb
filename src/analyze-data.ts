@@ -1,38 +1,9 @@
-import { readFileSync } from "fs";
+import { readFileSync, writeFileSync } from "fs";
 import { join } from "path";
 import Papa from "papaparse";
 import { Brewery } from "./types";
 import { papaParseOptions } from "./config";
-
-// ---------------------------------------------------------------------------
-// Helpers
-// ---------------------------------------------------------------------------
-
-/** Lightweight normalisation for address comparison (casing, punctuation, abbreviations). */
-function normalizeAddress(s: string | null | undefined): string {
-  if (!s) return "";
-  return s
-    .toLowerCase()
-    .replace(/[.,#;:'"!@$%^&*()_+=\[\]\\\/\-]/g, " ")
-    .replace(/\bstreet\b/g, "st")
-    .replace(/\bavenue\b/g, "ave")
-    .replace(/\bboulevard\b/g, "blvd")
-    .replace(/\bdrive\b/g, "dr")
-    .replace(/\broad\b/g, "rd")
-    .replace(/\blane\b/g, "ln")
-    .replace(/\bcourt\b/g, "ct")
-    .replace(/\bsuite\b/g, "ste")
-    .replace(/\bunit\b/g, "ste")
-    .replace(/\bno\s+/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-/** Lowercase, trimmed key for name comparison. */
-function normalizeName(s: string | null | undefined): string {
-  if (!s) return "";
-  return s.toLowerCase().trim();
-}
+import { normalizeAddress, normalizeName } from "./utils/address-normalization";
 
 // ---------------------------------------------------------------------------
 // Analysis types
@@ -132,7 +103,11 @@ function analyze(breweries: Brewery[]): DataAnalysis {
     .sort((a, b) => b.count - a.count);
 
   // -- Normalized address duplicates --
-  const normAddrMap = new Map<string, DuplicateGroup["breweries"] & { original: string }>();
+  interface NormAddrEntry {
+    original: string;
+    breweries: DuplicateGroup["breweries"];
+  }
+  const normAddrMap = new Map<string, NormAddrEntry>();
   breweries.forEach((b) => {
     if (!b.address_1) return;
     const norm = normalizeAddress(b.address_1);
@@ -406,8 +381,7 @@ const main = () => {
 
   // Write report to file for CI comment use
   const reportPath = join(__dirname, "../data-quality-report.md");
-  const fs = require("fs");
-  fs.writeFileSync(reportPath, report);
+  writeFileSync(reportPath, report);
 
   console.log(`\n✨ Analysis complete in ${Date.now() - startTime}ms`);
   console.log(`Report written to ${reportPath}`);
