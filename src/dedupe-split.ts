@@ -1,8 +1,7 @@
-import { existsSync, mkdirSync, writeFileSync, readFileSync, renameSync, unlinkSync, rmSync, cpSync } from "fs";
+import { existsSync, mkdirSync, writeFileSync, readFileSync, rmSync, cpSync, unlinkSync } from "fs";
 import { join } from "path";
 import Papa from "papaparse";
 import slugify from "slugify";
-import { v4 as uuidv4 } from "uuid";
 import { papaParseOptions, headers, slugifyOptions } from "./config";
 import { Brewery } from "./types";
 import { Resolution, loadResolutions } from "./dedupe-candidates";
@@ -30,7 +29,7 @@ function main() {
     process.exit(1);
   }
 
-  // Deduplicate: keep only the last resolution per hash
+  // Deduplicate: keep only the last resolution per hash (idempotent for re-reviews)
   const lastByHash = new Map<string, Resolution>();
   resolutions.forEach((r) => lastByHash.set(r.hash, r));
   const unique = [...lastByHash.values()];
@@ -67,9 +66,8 @@ function main() {
       return !removeIds.has(b.id!);
     });
 
-    console.log(
-      `✂️  Splitting ${deduped.length} breweries (removed ${allBreweries.length - deduped.length}) into data/...\n`
-    );
+    const removedCount = allBreweries.length - deduped.length;
+    console.log(`✂️  Splitting ${deduped.length} breweries (removed ${removedCount}) into data/...\n`);
 
     // Group by country/state-region
     const output: Record<string, Record<string, Brewery[]>> = {};
@@ -83,8 +81,9 @@ function main() {
       output[countrySlug][regionSlug].push(brewery);
     }
 
-    let fileCount = 0;
-    const tempFiles: string[] = [];
+    // Write all files to temp first, then rename into place
+    const written: { temp: string; final: string }[] = [];
+
     try {
       for (const country of Object.keys(output)) {
         const countryPath = join(storePath, country);
@@ -93,50 +92,51 @@ function main() {
         }
 
         for (const region of Object.keys(output[country])) {
-          const regionFilePath = join(countryPath, `${region}.csv`);
-          const tempFilePath = `${regionFilePath}.tmp`;
+          const finalPath = join(countryPath, `${region}.csv`);
+          const tempPath = `${finalPath}.tmp`;
 
           // Sort by name
           output[country][region].sort((a, b) => a.name.localeCompare(b.name));
 
-          // Write to temp file first (atomic)
           writeFileSync(
-            tempFilePath,
+            tempPath,
             Papa.unparse(output[country][region], {
               columns: headers,
               skipEmptyLines: true,
             })
           );
-          tempFiles.push(tempFilePath);
-
-          // Atomic rename
-          renameSync(tempFilePath, regionFilePath);
-          fileCount++;
+          written.push({ temp: tempPath, final: finalPath });
         }
       }
+
+      // All writes succeeded — rename temp files into place
+      for (const { temp, final } of written) {
+        // Read temp and write to final (atomic-ish for our purposes)
+        writeFileSync(final, readFileSync(temp, "utf-8"));
+        unlinkSync(temp);
+      }
     } catch (err) {
-      // Cleanup temp files on error
-      for (const tempFile of tempFiles) {
+      // Clean up any temp files on error
+      for (const { temp } of written) {
         try {
-          if (existsSync(tempFile)) {
-            unlinkSync(tempFile);
-          }
+          if (existsSync(temp)) unlinkSync(temp);
         } catch {}
       }
       throw err;
     }
 
-    // Post-operation validation: verify split files match expected count
+    // Post-operation validation: count records in written files
     let validatedCount = 0;
-    for (const country of Object.keys(output)) {
-      for (const region of Object.keys(output[country])) {
-        validatedCount += output[country][region].length;
-      }
+    const { glob } = require("glob");
+    const dataFiles = glob.sync(join(storePath, "**/*.csv"));
+    for (const f of dataFiles) {
+      const rows = Papa.parse<Brewery>(readFileSync(f, "utf-8"), papaParseOptions).data;
+      validatedCount += rows.length;
     }
 
     if (validatedCount !== deduped.length) {
-      console.log(`❌ Validation failed: Expected ${deduped.length} breweries in split files, but got ${validatedCount}`);
-      console.log(`🔄 Rolling back changes from backup...`);
+      console.log(`❌ Validation failed: expected ${deduped.length} records, found ${validatedCount}`);
+      console.log(`🔄 Rolling back from backup...`);
       rmSync(storePath, { recursive: true, force: true });
       cpSync(backupPath, storePath, { recursive: true });
       rmSync(backupPath, { recursive: true, force: true });
@@ -144,24 +144,24 @@ function main() {
       process.exit(1);
     }
 
-    console.log(
-      `✅ ${deduped.length} breweries split into ${fileCount} files across ${Object.keys(output).length} countries.`
-    );
-    console.log(`✅ Validation passed: ${validatedCount} records written`);
+    console.log(`✅ ${deduped.length} breweries written across ${Object.keys(output).length} countries.`);
+    console.log(`✅ Validation passed: ${validatedCount} records in ${dataFiles.length} files`);
     console.log(`\n✨ Done in ${Date.now() - startTime}ms`);
-    console.log(
-      `\nNext step: run \`npm run workflow:maintain\` to regenerate breweries.csv from the updated data/ files.`
-    );
+    console.log(`\nNext step: run \`npm run workflow:maintain\` to regenerate outputs.`);
   } catch (err) {
-    console.log(`❌ Error during split: ${err}`);
-    console.log(`🔄 Rolling back changes from backup...`);
-    rmSync(storePath, { recursive: true, force: true });
-    cpSync(backupPath, storePath, { recursive: true });
-    rmSync(backupPath, { recursive: true, force: true });
-    console.log(`✅ Rollback complete`);
-    throw err;
+    console.log(`\n❌ Error during split: ${err instanceof Error ? err.message : String(err)}`);
+    console.log(`🔄 Rolling back from backup...`);
+    try {
+      rmSync(storePath, { recursive: true, force: true });
+      cpSync(backupPath, storePath, { recursive: true });
+      rmSync(backupPath, { recursive: true, force: true });
+      console.log(`✅ Rollback complete`);
+    } catch (rollbackErr) {
+      console.log(`⚠️  Rollback failed. Restore manually from: ${backupPath}`);
+    }
+    process.exit(1);
   } finally {
-    // Clean up backup on success
+    // Clean up backup
     if (existsSync(backupPath)) {
       rmSync(backupPath, { recursive: true, force: true });
     }
@@ -172,7 +172,6 @@ if (require.main === module) {
   try {
     main();
   } catch (err) {
-    console.error("Error:", err);
     process.exit(1);
   }
 }
