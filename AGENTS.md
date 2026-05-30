@@ -25,6 +25,15 @@ src/                           # TypeScript tooling scripts
   update-db.ts                 # Database update utility
   states.ts                    # US state name/abbreviation mappings
   templates/                   # Mustache templates for SQL generation
+  dedupe.ts                    # Fuzzy duplicate detection main entry point
+  dedupe-candidates.ts         # Candidate detection logic and hash-based identification
+  dedupe-review.ts             # Interactive CLI for reviewing candidates
+  dedupe-apply.ts              # Applies resolutions to breweries.csv
+  dedupe-split.ts              # Applies resolutions to individual data/ CSV files
+  analyze-data.ts              # Data quality analysis and reporting
+  normalize-addresses.ts       # Address normalization across all CSV files
+  utils/                       # Shared utility modules
+    address-normalization.ts    # Lightweight normalization for duplicate detection
 breweries.csv                  # Combined full dataset (auto-generated)
 breweries.json                 # JSON version of full dataset (auto-generated)
 breweries.sql                  # PostgreSQL SQL dump (auto-generated)
@@ -134,6 +143,46 @@ Normalizes address fields (address_1, address_2, address_3, city, state_province
 - Validation gate runs before any modifications
 
 **Important:** After running `normalize:addresses`, run `npm run workflow:maintain` to regenerate `breweries.csv`, `breweries.json`, and `breweries.sql`.
+
+### Fuzzy Deduplication
+
+```bash
+npm run dedupe           # Detect duplicate candidates using fuzzy matching
+npm run dedupe:review    # Interactively review and confirm/reject candidates
+npm run dedupe:apply     # Apply confirmed resolutions to breweries.csv
+```
+
+Detects potential duplicate breweries using fuzzy string matching (Jaro-Winkler similarity) and applies resolutions to clean the dataset.
+
+**Workflow:**
+
+1. `npm run dedupe` - Scans `breweries.csv` for duplicates based on:
+   - Address normalization + Jaro-Winkler name similarity (≥85%)
+   - Coordinate proximity (~50m) + name similarity
+   - Quality scoring (phone, website, coordinates, name length)
+2. `npm run dedupe:review` - Interactive CLI to:
+   - Review each candidate pair with similarity score and confidence level
+   - Confirm (remove duplicate), reject (keep both), or skip for later
+   - Auto-approve high-confidence pairs (≥95% similarity)
+   - Resolutions are stored in `dedupe-resolutions.json` with stable hash-based IDs
+3. `npm run dedupe:apply` - Applies confirmed resolutions:
+   - Filters out confirmed duplicates from `breweries.csv`
+   - Outputs `breweries-deduped.csv` for review
+   - Then run `npm run workflow:maintain` to apply changes to `data/` files
+
+**Idempotency:**
+
+- Candidates use SHA-256 hash of (keepId, removeId) as stable identifiers
+- Resolutions persist across re-runs even if candidates are regenerated
+- Re-running `dedupe` after applying will show previously resolved pairs as "already resolved"
+- Safe to re-run the entire workflow without double-counting or losing resolution state
+
+**Artifacts (gitignored):**
+
+- `dedupe-candidates.json` - Detected duplicate pairs
+- `dedupe-resolutions.json` - User's resolution decisions
+- `dedupe-report.md` - Markdown summary of candidates
+- `breweries-deduped.csv` - Intermediate output for review
 
 ### Contributor Management
 
