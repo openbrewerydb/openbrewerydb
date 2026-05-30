@@ -1,0 +1,36 @@
+name: Data Quality Analysis
+
+on:
+  pull_request:
+    paths:
+      - 'data/**/*.csv'
+      - 'breweries.csv'
+      - 'src/**'
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    name: Data Quality Analysis
+    permissions:
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - run: npm install
+
+      # Run the validation gate first — analysis only proceeds if data is valid
+      - run: npm run validate
+
+      # Run analysis (writes data-quality-report.md)
+      - run: npm run analyze
+
+      # Post the report as a PR comment
+      - name: Comment PR with data quality report
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          path: data-quality-report.md
+          header: data-quality-analysis
