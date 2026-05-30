@@ -23,6 +23,9 @@
     "generate:stats": "ts-eager ./src/generate-stats.ts",
     "update:readme-stats": "ts-eager ./src/update-readme-stats.ts",
     "analyze": "ts-eager ./src/analyze-data.ts",
+    "dedupe": "ts-eager ./src/dedupe.ts",
+    "dedupe:review": "ts-eager ./src/dedupe-review.ts",
+    "dedupe:apply": "ts-eager ./src/dedupe-apply.ts",
     "normalize:addresses": "ts-eager ./src/normalize-addresses.ts",
     "validate": "ts-eager --unhandled-rejections=strict ./src/validate-csv.ts",
     "workflow:maintain": "run-s validate csv:combine csv:split generate:json generate:sql update:readme-stats"

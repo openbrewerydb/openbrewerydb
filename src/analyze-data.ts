@@ -6,6 +6,77 @@ import { papaParseOptions } from "./config";
 import { normalizeAddress, normalizeName } from "./utils/address-normalization";
 
 // ---------------------------------------------------------------------------
+// Jaro-Winkler similarity
+// ---------------------------------------------------------------------------
+
+/**
+ * Jaro similarity between two strings.
+ * Returns a value between 0 (no similarity) and 1 (identical).
+ */
+function jaroSimilarity(s1: string, s2: string): number {
+  if (s1 === s2) return 1;
+  if (s1.length === 0 || s2.length === 0) return 0;
+
+  const maxDist = Math.max(Math.floor(Math.max(s1.length, s2.length) / 2) - 1, 0);
+
+  const s1Matches = new Array(s1.length).fill(false);
+  const s2Matches = new Array(s2.length).fill(false);
+
+  let matches = 0;
+  let transpositions = 0;
+
+  // Find matches
+  for (let i = 0; i < s1.length; i++) {
+    const start = Math.max(0, i - maxDist);
+    const end = Math.min(i + maxDist + 1, s2.length);
+    for (let j = start; j < end; j++) {
+      if (s2Matches[j] || s1[i] !== s2[j]) continue;
+      s1Matches[i] = true;
+      s2Matches[j] = true;
+      matches++;
+      break;
+    }
+  }
+
+  if (matches === 0) return 0;
+
+  // Count transpositions
+  let k = 0;
+  for (let i = 0; i < s1.length; i++) {
+    if (!s1Matches[i]) continue;
+    while (!s2Matches[k]) k++;
+    if (s1[i] !== s2[k]) transpositions++;
+    k++;
+  }
+
+  const jaro =
+    (matches / s1.length +
+      matches / s2.length +
+      (matches - transpositions / 2) / matches) /
+    3;
+
+  return jaro;
+}
+
+/**
+ * Jaro-Winkler similarity — boosts the Jaro score for common prefixes.
+ * Returns a value between 0 (no similarity) and 1 (identical).
+ */
+function jaroWinkler(s1: string, s2: string): number {
+  const jaro = jaroSimilarity(s1, s2);
+
+  // Find common prefix (max 4 chars)
+  let prefixLen = 0;
+  for (let i = 0; i < Math.min(Math.min(s1.length, s2.length), 4); i++) {
+    if (s1[i] === s2[i]) prefixLen++;
+    else break;
+  }
+
+  // Winkler scaling factor (standard = 0.1, max boost = 0.25)
+  return jaro + prefixLen * 0.1 * (1 - jaro);
+}
+
+// ---------------------------------------------------------------------------
 // Analysis types
 // ---------------------------------------------------------------------------
 
@@ -30,6 +101,19 @@ interface AddressFormatStats {
   samples: string[];
 }
 
+interface FuzzyDup {
+  name1: string;
+  name2: string;
+  address: string;
+  city: string;
+  state_province: string;
+  country: string;
+  type1: string;
+  type2: string;
+  similarity: number;
+  matchReason: string;
+}
+
 interface DataAnalysis {
   overview: {
     totalBreweries: number;
@@ -47,6 +131,7 @@ interface DataAnalysis {
     exactAddressDups: { count: number; top: DuplicateGroup[] };
     normalizedAddressDups: { count: number; top: DuplicateGroup[] };
     exactCoordDups: { count: number; top: DuplicateGroup[] };
+    fuzzyDups: { count: number; groups: FuzzyDup[] };
   };
   addressAnalysis: Record<string, AddressFormatStats>;
 }
@@ -136,6 +221,105 @@ function analyze(breweries: Brewery[]): DataAnalysis {
     .map(([key, breweries]) => ({ key, count: breweries.length, breweries }))
     .sort((a, b) => b.count - a.count);
 
+  // -- Fuzzy duplicate detection --
+  // Group by normalized address, then run Jaro-Winkler on names within each group
+  const fuzzyDups: FuzzyDup[] = [];
+  const FUZZY_THRESHOLD = 0.85;
+
+  // Build address-based groups (only for records with addresses)
+  const fuzzyAddrGroups = new Map<string, Brewery[]>();
+  breweries.forEach((b) => {
+    if (!b.address_1) return;
+    const normAddr = normalizeAddress(b.address_1);
+    const key = normAddr + "|||" + normalizeName(b.city) + "|||" + normalizeName(b.state_province) + "|||" + normalizeName(b.country);
+    if (!fuzzyAddrGroups.has(key)) fuzzyAddrGroups.set(key, []);
+    fuzzyAddrGroups.get(key)!.push(b);
+  });
+
+  // Also build lat/lng groups for records that might have coordinates but fuzzy addresses
+  const fuzzyCoordGroups = new Map<string, Brewery[]>();
+  breweries.forEach((b) => {
+    if (!b.longitude || !b.latitude || !b.address_1) return;
+    // Round to 4 decimal places (~11m precision) to catch near-identical coordinates
+    const key = b.longitude.toFixed(4) + "," + b.latitude.toFixed(4);
+    if (!fuzzyCoordGroups.has(key)) fuzzyCoordGroups.set(key, []);
+    fuzzyCoordGroups.get(key)!.push(b);
+  });
+  // Avoid re-processing groups already found by address
+  const processedPairs = new Set<string>();
+
+  // Process address-matched groups
+  fuzzyAddrGroups.forEach((group) => {
+    // Only care about groups with multiple distinct names
+    for (let i = 0; i < group.length; i++) {
+      for (let j = i + 1; j < group.length; j++) {
+        const a = group[i];
+        const b = group[j];
+        const normA = normalizeName(a.name);
+        const normB = normalizeName(b.name);
+        // Skip identical names (already caught by exact name dedup)
+        if (normA === normB) continue;
+        // Avoid duplicate pair checking
+        const pairKey = [a.id || a.name, b.id || b.name].sort().join("||||");
+        if (processedPairs.has(pairKey)) continue;
+        processedPairs.add(pairKey);
+
+        const similarity = jaroWinkler(normA, normB);
+        if (similarity >= FUZZY_THRESHOLD) {
+          fuzzyDups.push({
+            name1: a.name,
+            name2: b.name,
+            address: a.address_1 || "(missing)",
+            city: a.city,
+            state_province: a.state_province,
+            country: a.country,
+            type1: a.brewery_type,
+            type2: b.brewery_type,
+            similarity: Math.round(similarity * 1000) / 1000,
+            matchReason: "Normalized address match + fuzzy name similarity",
+          });
+        }
+      }
+    }
+  });
+
+  // Process coordinate-matched groups (catch cases where address text differs slightly
+  // but coordinates place them at the same spot)
+  fuzzyCoordGroups.forEach((group) => {
+    for (let i = 0; i < group.length; i++) {
+      for (let j = i + 1; j < group.length; j++) {
+        const a = group[i];
+        const b = group[j];
+        const normA = normalizeName(a.name);
+        const normB = normalizeName(b.name);
+        if (normA === normB) continue;
+        const pairKey = [a.id || a.name, b.id || b.name].sort().join("||||");
+        if (processedPairs.has(pairKey)) continue;
+        processedPairs.add(pairKey);
+
+        // Only flag if names are somewhat similar
+        const similarity = jaroWinkler(normA, normB);
+        if (similarity >= FUZZY_THRESHOLD) {
+          fuzzyDups.push({
+            name1: a.name,
+            name2: b.name,
+            address: a.address_1 || "(missing)",
+            city: a.city,
+            state_province: a.state_province,
+            country: a.country,
+            type1: a.brewery_type,
+            type2: b.brewery_type,
+            similarity: Math.round(similarity * 1000) / 1000,
+            matchReason: "Coordinate proximity (~11m) + fuzzy name similarity",
+          });
+        }
+      }
+    }
+  });
+
+  // Sort by similarity descending
+  fuzzyDups.sort((a, b) => b.similarity - a.similarity);
+
   // -- Address format analysis by country --
   const addressAnalysis: Record<string, AddressFormatStats> = {};
   const ABBV_PAIRS: [RegExp, RegExp, string][] = [
@@ -199,6 +383,7 @@ function analyze(breweries: Brewery[]): DataAnalysis {
       exactAddressDups: { count: exactAddrDups.length, top: exactAddrDups.slice(0, 10) },
       normalizedAddressDups: { count: normAddrDups.length, top: normAddrDups.slice(0, 10) },
       exactCoordDups: { count: exactCoordDups.length, top: exactCoordDups.slice(0, 10) },
+      fuzzyDups: { count: fuzzyDups.length, groups: fuzzyDups.slice(0, 20) },
     },
     addressAnalysis,
   };
@@ -290,6 +475,20 @@ function formatDuplicates(a: DataAnalysis): string {
     a.duplicates.exactCoordDups.top.forEach((d) => {
       const names = d.breweries.map((b) => `${b.name} (${b.city})`).join("; ");
       lines.push(`| ${d.key} | ${d.count} | ${names} |`);
+    });
+    lines.push("");
+  }
+
+  // Fuzzy duplicates
+  lines.push(`**🔎 Fuzzy Name Matches (Jaro-Winkler ≥ 0.85):** ${a.duplicates.fuzzyDups.count} potential duplicate pairs found`);
+  lines.push("");
+  lines.push("> These records share the same address (or nearby coordinates) AND have similar brewery names. They may be duplicates that need manual review.");
+  lines.push("");
+  if (a.duplicates.fuzzyDups.groups.length) {
+    lines.push("| Name 1 | Name 2 | Similarity | Address | City | Country | Reason |");
+    lines.push("|--------|--------|------------|---------|------|---------|--------|");
+    a.duplicates.fuzzyDups.groups.forEach((d) => {
+      lines.push(`| ${d.name1} | ${d.name2} | ${(d.similarity * 100).toFixed(1)}% | ${d.address} | ${d.city}, ${d.state_province} | ${d.country} | ${d.matchReason} |`);
     });
     lines.push("");
   }

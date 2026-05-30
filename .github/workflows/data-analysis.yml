@@ -25,12 +25,22 @@ jobs:
       # Run the validation gate first — analysis only proceeds if data is valid
       - run: npm run validate
 
-      # Run analysis (writes data-quality-report.md)
+      # Run analysis (writes data-quality-report.md with fuzzy dup flags)
       - run: npm run analyze
 
-      # Post the report as a PR comment
+      # Post the analysis report as a PR comment (includes fuzzy dup section)
       - name: Comment PR with data quality report
         uses: marocchino/sticky-pull-request-comment@v2
         with:
           path: data-quality-report.md
           header: data-quality-analysis
+
+      # Run dedupe detection (writes dedupe-report.md)
+      - run: npm run dedupe
+
+      # Post dedupe report as a separate PR comment
+      - name: Comment PR with dedupe report
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          path: dedupe-report.md
+          header: dedupe-report
