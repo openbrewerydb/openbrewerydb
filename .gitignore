@@ -19,3 +19,9 @@ node_modules/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
+
+# Dedupe workflow artifacts
+dedupe-candidates.json
+dedupe-resolutions.json
+dedupe-report.md
+breweries-deduped.csv
