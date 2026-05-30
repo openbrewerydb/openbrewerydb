@@ -51,8 +51,8 @@ function confidenceBadge(confidence: string): string {
 // Display a single candidate
 // ---------------------------------------------------------------------------
 
-function showCandidate(c: DedupCandidate, total: number, resolutions: Resolution[]) {
-  const existing = resolutions.find((r) => r.index === c.index);
+function showCandidate(c: DedupCandidate, total: number, resolutions: Resolution[], candidates: DedupCandidate[]) {
+  const existing = resolutions.find((r) => r.hash === c.hash);
   const status = existing
     ? existing.action === "confirmed"
       ? "✅ CONFIRMED"
@@ -63,8 +63,9 @@ function showCandidate(c: DedupCandidate, total: number, resolutions: Resolution
 
   console.log("");
   printSeparator();
+  const displayIndex = candidates.findIndex((cand) => cand.hash === c.hash) + 1;
   console.log(
-    `  Pair ${c.index + 1}/${total}  ·  Similarity: ${(c.similarity * 100).toFixed(1)}%  ·  ${confidenceBadge(c.confidence)}  ·  ${status}`
+    `  Pair ${displayIndex}/${total}  ·  Similarity: ${(c.similarity * 100).toFixed(1)}%  ·  ${confidenceBadge(c.confidence)}  ·  ${status}`
   );
   printSeparator();
   console.log("");
@@ -131,7 +132,7 @@ function showList(candidates: DedupCandidate[], resolutions: Resolution[], curre
   printSeparator();
   console.log("  All pairs:");
   candidates.forEach((c, i) => {
-    const r = resolutions.find((res) => res.index === c.index);
+    const r = resolutions.find((res) => res.hash === c.hash);
     const icon =
       r?.action === "confirmed"
         ? "✅"
@@ -175,7 +176,7 @@ async function review() {
   let currentIdx = 0;
 
   // Skip already-resolved pairs (confirmed/rejected, but not skipped)
-  while (currentIdx < candidates.length && isResolved(currentIdx, resolutions)) {
+  while (currentIdx < candidates.length && isResolved(candidates[currentIdx].hash, resolutions)) {
     currentIdx++;
   }
 
@@ -193,7 +194,7 @@ async function review() {
 
   while (currentIdx < candidates.length) {
     const candidate = candidates[currentIdx];
-    showCandidate(candidate, candidates.length, resolutions);
+    showCandidate(candidate, candidates.length, resolutions, candidates);
 
     const input = await ask(
       rl,
@@ -202,7 +203,7 @@ async function review() {
 
     if (input === "y" || input === "") {
       upsertResolution(resolutions, {
-        index: candidate.index,
+        hash: candidate.hash,
         removeId: candidate.remove.id || candidate.remove.name,
         keepId: candidate.keep.id || candidate.keep.name,
         action: "confirmed",
@@ -211,7 +212,7 @@ async function review() {
       currentIdx++;
     } else if (input === "n") {
       upsertResolution(resolutions, {
-        index: candidate.index,
+        hash: candidate.hash,
         removeId: null,
         keepId: candidate.keep.id || candidate.keep.name,
         action: "rejected",
@@ -220,7 +221,7 @@ async function review() {
       currentIdx++;
     } else if (input === "s") {
       upsertResolution(resolutions, {
-        index: candidate.index,
+        hash: candidate.hash,
         removeId: null,
         keepId: candidate.keep.id || candidate.keep.name,
         action: "skipped",
@@ -229,7 +230,7 @@ async function review() {
       currentIdx++;
     } else if (input === "a") {
       // Count remaining unresolved pairs by confidence
-      const remaining = candidates.slice(currentIdx).filter((c) => !isResolved(c.index, resolutions));
+      const remaining = candidates.slice(currentIdx).filter((c) => !isResolved(c.hash, resolutions));
       const highConfCount = remaining.filter((c) => c.confidence === "high").length;
       const medConfCount = remaining.filter((c) => c.confidence === "medium").length;
       const lowConfCount = remaining.filter((c) => c.confidence === "low").length;
@@ -247,10 +248,10 @@ async function review() {
         let confirmed = 0;
         for (let i = currentIdx; i < candidates.length; i++) {
           const c = candidates[i];
-          if (isResolved(c.index, resolutions)) continue;
+          if (isResolved(c.hash, resolutions)) continue;
           if (c.confidence === "high") {
             upsertResolution(resolutions, {
-              index: c.index,
+              hash: c.hash,
               removeId: c.remove.id || c.remove.name,
               keepId: c.keep.id || c.keep.name,
               action: "confirmed",
@@ -259,7 +260,7 @@ async function review() {
             confirmed++;
           } else {
             upsertResolution(resolutions, {
-              index: c.index,
+              hash: c.hash,
               removeId: null,
               keepId: c.keep.id || c.keep.name,
               action: "skipped",
@@ -275,7 +276,7 @@ async function review() {
       if (currentIdx > 0) {
         currentIdx--;
         // Remove ALL resolutions for the pair we're going back to
-        removeAllResolutionsForIndex(resolutions, candidates[currentIdx].index);
+        removeAllResolutionsForHash(resolutions, candidates[currentIdx].hash);
       }
     } else if (input === "r") {
       // Reset all resolutions and start over
@@ -300,7 +301,7 @@ async function review() {
     }
 
     // Skip resolved pairs going forward
-    while (currentIdx < candidates.length && isResolved(currentIdx, resolutions)) {
+    while (currentIdx < candidates.length && isResolved(candidates[currentIdx].hash, resolutions)) {
       currentIdx++;
     }
   }
@@ -324,23 +325,23 @@ async function review() {
   console.log("");
 }
 
-/** Check if an index has a non-skipped resolution */
-function isResolved(idx: number, resolutions: Resolution[]): boolean {
-  return resolutions.some((r) => r.index === idx && r.action !== "skipped");
+/** Check if a hash has a non-skipped resolution */
+function isResolved(hash: string, resolutions: Resolution[]): boolean {
+  return resolutions.some((r) => r.hash === hash && r.action !== "skipped");
 }
 
-/** Deduplicated resolution count (last entry per index) */
+/** Deduplicated resolution count (last entry per hash) */
 function dedupedResolutionCount(resolutions: Resolution[]): number {
-  const seen = new Set<number>();
+  const seen = new Set<string>();
   for (let i = resolutions.length - 1; i >= 0; i--) {
-    seen.add(resolutions[i].index);
+    seen.add(resolutions[i].hash);
   }
   return seen.size;
 }
 
-/** Upsert a resolution: update existing entry for the same index, or append */
+/** Upsert a resolution: update existing entry for the same hash, or append */
 function upsertResolution(resolutions: Resolution[], entry: Resolution): void {
-  const existingIdx = resolutions.findIndex((r) => r.index === entry.index);
+  const existingIdx = resolutions.findIndex((r) => r.hash === entry.hash);
   if (existingIdx !== -1) {
     resolutions[existingIdx] = entry;
   } else {
@@ -348,10 +349,10 @@ function upsertResolution(resolutions: Resolution[], entry: Resolution): void {
   }
 }
 
-/** Remove ALL resolution entries for a given index */
-function removeAllResolutionsForIndex(resolutions: Resolution[], index: number): void {
+/** Remove ALL resolution entries for a given hash */
+function removeAllResolutionsForHash(resolutions: Resolution[], hash: string): void {
   for (let i = resolutions.length - 1; i >= 0; i--) {
-    if (resolutions[i].index === index) {
+    if (resolutions[i].hash === hash) {
       resolutions.splice(i, 1);
     }
   }
@@ -363,9 +364,9 @@ function resolutionSummary(resolutions: Resolution[]): {
   rejected: number;
   skipped: number;
 } {
-  const lastByIndex = new Map<number, Resolution>();
-  resolutions.forEach((r) => lastByIndex.set(r.index, r));
-  const unique = [...lastByIndex.values()];
+  const lastByHash = new Map<string, Resolution>();
+  resolutions.forEach((r) => lastByHash.set(r.hash, r));
+  const unique = [...lastByHash.values()];
   return {
     confirmed: unique.filter((r) => r.action === "confirmed").length,
     rejected: unique.filter((r) => r.action === "rejected").length,

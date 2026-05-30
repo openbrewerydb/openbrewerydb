@@ -1,6 +1,5 @@
 import { readFileSync, writeFileSync } from "fs";
 import { join } from "path";
-import { glob } from "glob";
 import Papa from "papaparse";
 import { Brewery } from "./types";
 import { papaParseOptions, headers } from "./config";
@@ -24,10 +23,10 @@ function apply() {
     process.exit(1);
   }
 
-  // Deduplicate: keep only the last resolution per index (in case of re-reviews)
-  const lastByIndex = new Map<number, Resolution>();
-  resolutions.forEach((r) => lastByIndex.set(r.index, r));
-  const unique = [...lastByIndex.values()];
+  // Deduplicate: keep only the last resolution per hash (in case of re-reviews)
+  const lastByHash = new Map<string, Resolution>();
+  resolutions.forEach((r) => lastByHash.set(r.hash, r));
+  const unique = [...lastByHash.values()];
 
   const confirmed = unique.filter((r) => r.action === "confirmed");
   const rejected = unique.filter((r) => r.action === "rejected");
@@ -46,10 +45,17 @@ function apply() {
   const csv = readFileSync(csvPath, { encoding: "utf-8" });
   const breweries = Papa.parse<Brewery>(csv, papaParseOptions).data;
 
+  // Validate that all breweries have UUIDs before proceeding
+  const missingIds = breweries.filter((b) => !b.id || !/^[0-9a-f-]{36}$/i.test(b.id));
+  if (missingIds.length > 0) {
+    console.log("❌ Error: Some breweries are missing valid UUIDs. Run `npm run generate:ids` first.");
+    console.log(`   Found ${missingIds.length} records without valid IDs.`);
+    process.exit(1);
+  }
+
   // Filter
   const deduped = breweries.filter((b) => {
-    const id = b.id || b.name;
-    return !removeIds.has(id);
+    return !removeIds.has(b.id!);
   });
 
   // Write deduped CSV

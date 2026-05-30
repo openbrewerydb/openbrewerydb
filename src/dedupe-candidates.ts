@@ -1,5 +1,6 @@
 import { readFileSync, writeFileSync } from "fs";
 import { join } from "path";
+import { createHash } from "crypto";
 import Papa from "papaparse";
 import { Brewery } from "./types";
 import { papaParseOptions, headers } from "./config";
@@ -65,9 +66,18 @@ export function jaroWinkler(s1: string, s2: string): number {
 // Types
 // ---------------------------------------------------------------------------
 
+/**
+ * Generate a stable hash for a candidate pair based on keep and remove IDs.
+ * This ensures resolutions remain valid even if candidates are regenerated.
+ */
+function generateCandidateHash(keepId: string, removeId: string): string {
+  const sorted = [keepId, removeId].sort();
+  return createHash("sha256").update(sorted.join("|||")).digest("hex").substring(0, 16);
+}
+
 export interface DedupCandidate {
-  /** Unique index for this candidate pair */
-  index: number;
+  /** Stable hash for this candidate pair (based on keep+remove IDs) */
+  hash: string;
   /** Record recommended to keep (higher quality score) */
   keep: Brewery;
   /** Record recommended to remove */
@@ -81,8 +91,8 @@ export interface DedupCandidate {
 }
 
 export interface Resolution {
-  /** Candidate index this resolution refers to */
-  index: number;
+  /** Candidate hash this resolution refers to */
+  hash: string;
   /** The ID of the record to remove, or null if rejecting the pair */
   removeId: string | null;
   /** The ID of the record to keep */
@@ -116,15 +126,13 @@ export function qualityScore(b: Brewery): number {
 // Candidate detection
 // ---------------------------------------------------------------------------
 
-const COORD_THRESHOLD = 0.0005; // ~50m
-
 export function findDedupCandidates(
   breweries: Brewery[],
-  fuzzyThreshold: number = 0.85
+  fuzzyThreshold: number = 0.85,
+  coordThreshold: number = 0.0005 // ~50m
 ): DedupCandidate[] {
   const candidates: DedupCandidate[] = [];
   const processedPairs = new Set<string>();
-  let index = 0;
 
   // Group by normalized address
   const addrGroups = new Map<string, Brewery[]>();
@@ -155,12 +163,14 @@ export function findDedupCandidates(
   function addCandidate(a: Brewery, b: Brewery, similarity: number, reason: string) {
     const scoreA = qualityScore(a);
     const scoreB = qualityScore(b);
+    const keep = scoreA >= scoreB ? a : b;
+    const remove = scoreA >= scoreB ? b : a;
     const confidence: DedupCandidate["confidence"] =
       similarity >= 0.95 ? "high" : similarity >= 0.90 ? "medium" : "low";
     candidates.push({
-      index: index++,
-      keep: scoreA >= scoreB ? a : b,
-      remove: scoreA >= scoreB ? b : a,
+      hash: generateCandidateHash(keep.id || keep.name, remove.id || remove.name),
+      keep,
+      remove,
       similarity: Math.round(similarity * 1000) / 1000,
       reason,
       confidence,
@@ -204,7 +214,7 @@ export function findDedupCandidates(
         const dist = Math.sqrt(
           (a.longitude! - b.longitude!) ** 2 + (a.latitude! - b.latitude!) ** 2
         );
-        if (dist > COORD_THRESHOLD) continue;
+        if (dist > coordThreshold) continue;
 
         const sim = jaroWinkler(normA, normB);
         if (sim >= fuzzyThreshold) {
@@ -215,8 +225,6 @@ export function findDedupCandidates(
   });
 
   candidates.sort((a, b) => b.similarity - a.similarity);
-  // Re-index after sorting
-  candidates.forEach((c, i) => (c.index = i));
   return candidates;
 }
 
@@ -253,11 +261,12 @@ export function saveResolutions(resolutions: Resolution[], path: string) {
 export function generateCandidatesCsv(
   csvPath: string = join(__dirname, "../breweries.csv"),
   outputPath: string = join(__dirname, "../dedupe-candidates.json"),
-  threshold: number = 0.85
+  threshold: number = 0.85,
+  coordThreshold: number = 0.0005
 ): DedupCandidate[] {
   const csv = readFileSync(csvPath, { encoding: "utf-8" });
   const breweries = Papa.parse<Brewery>(csv, papaParseOptions).data;
-  const candidates = findDedupCandidates(breweries, threshold);
+  const candidates = findDedupCandidates(breweries, threshold, coordThreshold);
   saveCandidates(candidates, outputPath);
   return candidates;
 }
