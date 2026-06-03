@@ -1,0 +1,5 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+507f8f63-48c9-4abf-9d24-4818c529fd20,Kainui,closed,1 Conifer Lane,,,Kerikeri,Northland Region,0294,New Zealand,+64 27 277 2507,http://kainuiroad.co.nz/,173.914338,-35.1905951
+481096e2-0de0-4e09-ade4-63e98adeb1a7,Lighthouse,closed,2 Garden Court,,,Haruru,Northland Region,0204,New Zealand,+64 9 601 2004,https://phathouse.nz/,174.0560477,-35.2808624
+494e898f-2a68-468c-99f0-cd7b1e8deb6a,McLeod's,micro,2 Cove Road,,,Waipu,Northland Region,0510,New Zealand,+64 9 432 1011,https://mcleodspizzabarn.co.nz/,174.4477844,-35.9850502
+9d2aba8c-027e-4f9c-a4ab-30da05b30fcc,Phat House,micro,2 Garden Court,,,Haruru,Northland Region,0204,New Zealand,+64 9 601 2004,https://phathouse.nz/,174.0560477,-35.2808624

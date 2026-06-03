@@ -1,0 +1,8 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+3c22ed80-90c4-4142-9a0a-0a0e3606ef1b,Bays,closed,89 Pascoe Street,,,Nelson,Nelson Region,7011,New Zealand,,,173.241461,-41.2955091
+a555dfc1-b1d9-407f-9635-f4fce3098c03,Bays Brewery,closed,89 Pascoe Street,,,Nelson,Nelson Region,7011,New Zealand,,,173.241461,-41.2955091
+d990100c-6e6e-4684-8606-7a0f430ed161,Eddyline,micro,15 Elms Street,,,Nelson,Nelson Region,7011,New Zealand,+64 3 541 0757,https://eddylinebrewery.nz/pages/taproom-taqueria,173.2105315,-41.3263058
+2c8f4c21-4cfb-4bac-8b4e-46759021e59f,League of Brewers,micro,14 Vivian Place,,,Nelson,Nelson Region,7011,New Zealand,+64 20 4133 1383,https://leagueofbrewers.co.nz/,173.239207,-41.294462
+58d3083e-2f7e-4340-9c64-88390e37d0d9,McCashins Brewery,large,660 Main Road Stoke,,,Nelson,Nelson Region,7001,New Zealand,+64 3 547 5357,https://mccashins.co.nz/,173.2256569,-41.3186457
+ac32b0b7-31f8-4b1f-8715-c78c028a34a7,Park Life,closed,15 Elms Street,,,Nelson,Nelson Region,7011,New Zealand,+64 3 541 0757,https://eddylinebrewery.nz/pages/taproom-taqueria,173.2105315,-41.3263058
+20e5eae2-5401-493c-9c74-e3e808a28a9d,Stoke,micro,660 Main Road Stoke,,,Nelson,Nelson Region,7001,New Zealand,+64 3 547 5357,https://mccashins.co.nz/,173.2256569,-41.3186457

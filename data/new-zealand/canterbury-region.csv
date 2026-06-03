@@ -1,0 +1,40 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+22e2b160-6470-4a9a-a375-80f4db7fe0c8,Ad Lib,closed,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+26751bfc-aaed-4c20-adf6-b0d51be2e6c7,Beltane,closed,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+5b801978-f82b-4517-942a-536f8ef0aee8,Brew Moon,micro,12 Markham Street,,,Amberley,Canterbury Region,7410,New Zealand,+64 274 561 070,http://www.brewmoon.co.nz/,172.7277009,-43.1535759
+6886d48e-8841-47b6-9f10-dceac1684f7e,Burke's,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+3f17b664-5f76-4c5c-9b8b-f5df3e19cc38,Cassels,micro,3 Garlands Road,,,Christchurch,Canterbury Region,8024,New Zealand,+64 3 389 5359,https://cassels.nz/,172.6804102,-43.5568617
+83e17a34-d90b-4f5c-ac79-31af75839ec6,Concept,micro,86c Kingsley Street,,,Christchurch,Canterbury Region,8023,New Zealand,+64 800 004 565,https://conceptbrewing.co.nz/,172.6447206,-43.5439652
+fc2f6484-31f0-40f0-a8db-f82267537d40,DB Draught Brewery,micro,28 Sheffield Street,,,Timaru,Canterbury Region,7910,New Zealand,+64 3 687 4230,https://www.db.co.nz/,171.2495661,-44.3548337
+743f518e-2d03-49c4-9f70-951b629df0a4,Derelict,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+f93e5227-8af3-4975-9636-af720d903a37,Eagle,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+40d1afcd-4494-453b-aa97-14684ec5df5a,Emporium,micro,57a Beach Road,,,Kaikōura,Canterbury Region,7300,New Zealand,+64 3 319 5897,http://www.emporiumbrewing.co.nz/,173.6781522,-42.3947063
+893a2e6f-96a6-4303-8470-bedad2286fa9,Eruption,micro,26 London Street,,,Christchurch,Canterbury Region,8082,New Zealand,+64 3 972 2862,https://www.eruptionbrewing.com/,172.7214799,-43.6024378
+4f876aef-9acc-4fe0-9d59-c109d71b9b09,Fiasco,contract,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+d8f31e32-47f8-4358-976d-8588ed6dd165,Ghost,contract,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+e7a80faa-d75a-4ff9-97f4-57b2b8416136,Golden Ticket,closed,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+2b11dcb7-1a04-4f69-a4ee-dbc1fecd33fd,Harrington's Breweries,large,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+99347dbb-267b-44b5-9388-ae2417028f4e,Hop Baron,closed,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+4fcfc439-a99f-4fe2-ad2e-bc4211ab2eb4,Hunter Hills,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+135426bf-b254-43ce-9944-150c9d23b3b7,Kaiapoi,closed,77 Hilton Street,4,,Kaiapoi,Canterbury Region,7630,New Zealand,+64 3 327 9224,https://kaiapoi.cbk.nz/,172.6566132,-43.38491639999999
+b4d4ed92-5ca9-4b65-bd83-3a5ecb9f057c,Kaikoura,micro,57a Beach Road,,,Kaikōura,Canterbury Region,7300,New Zealand,+64 3 319 5897,http://www.emporiumbrewing.co.nz/,173.6781522,-42.3947063
+ac9f8586-30f1-4436-8d12-4778051aff7f,Kaiser Brothers,micro,46B Halwyn Drive,,,Christchurch,Canterbury Region,8042,New Zealand,+64 3 344 6270,https://www.kaiserbros.beer/,172.5361362,-43.5369181
+45404154-91df-4779-8548-a1bdd8ed88cb,KJD,closed,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+44e15b74-cc10-4069-ae68-0a4d90291a64,Longbeard,closed,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+d3496198-1a9f-4495-bb79-235b6ef96d8c,Mash Palace,contract,172 High Street,,,Christchurch,Canterbury Region,8011,New Zealand,+64 21 814 177,http://thesmashpalace.co.nz/,172.6406209,-43.5346025
+1bbe4e0f-cc22-4670-a621-6b6bdfb43109,Monsoon,contract,12 Markham Street,,,Amberley,Canterbury Region,7410,New Zealand,+64 274 561 070,http://www.brewmoon.co.nz/,172.7277009,-43.1535759
+991a12f1-23bb-493d-90de-4a1c827e3e62,Rain Dogs,micro,105 Orbell Street,Unit 2,,Christchurch,Canterbury Region,8023,New Zealand,+64 22 463 8031,https://www.renegadebrewing.co.nz/,172.6316439,-43.5424763
+b9fa7f35-beb2-4485-b04b-3fb6761420ce,Ship Hop,micro,7 Strathallan Street,,,Timaru,Canterbury Region,7910,New Zealand,+64 21 970 389,https://shiphop.co.nz/,171.254372,-44.394944
+75dd8349-5be8-465e-a8a4-7e5d732ccdd6,Southpaw,contract,34 New Brighton Mall,,,Christchurch,Canterbury Region,8063,New Zealand,+64 27 284 1161,https://www.southpawbeer.com/,172.7300191,-43.5069963
+8702ddcc-69dd-42bd-a396-16389e468fe0,The Dux,closed,144 Lichfield Street,,,Christchurch,Canterbury Region,8011,New Zealand,+64 3 366 6919,http://www.duxcentral.co.nz/,172.6414591,-43.534633
+a8218cdf-6299-4e6b-8520-57f8111a5621,The Fermentist,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+a529d52e-b2a5-4a9b-b717-14463e7f33b9,The Laboratory,micro,17 West Belt,,,Lincoln,Canterbury Region,7608,New Zealand,+64 3 325 3006,http://thelaboratory.co.nz/,172.48147,-43.640201
+db6d004b-a747-403f-96d6-e1e130840da7,Three Boys,micro,592 Ferry Road,,,Christchurch,Canterbury Region,8023,New Zealand,+64 3 940 5621,http://www.threeboysbrewery.co.nz/,172.6811677,-43.5489729
+8e221102-03f6-428c-84f8-239409d71cdf,Twisted Hop,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+80368d9c-50e3-4e39-9e17-ae3345fbbfc6,Two Thumb,micro,380 Colombo Street,,,Christchurch,Canterbury Region,8023,New Zealand,+64 210 837 7539,https://www.twothumb.com/?utm_source=Sydenham&utm_medium=googleplaces,172.6368292,-43.5456374
+fad7a487-53db-4023-bd54-a8aaadb7af34,Valkyrie,closed,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+750a5b68-ac29-41a2-bb3d-01bedf83ed6a,Valley Brewing,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+6e545034-9aea-4a3a-83bc-b20a183b7182,Vulcan,contract,26 London Street,,,Christchurch,Canterbury Region,8082,New Zealand,+64 3 972 2862,https://www.eruptionbrewing.com/,172.7214799,-43.6024378
+433f8652-3d0a-4c17-a99e-95eec5490395,Wigram,micro,57 Sonter Road,,,Christchurch,Canterbury Region,8042,New Zealand,+64 3 343 4493,http://www.wigrambrewing.co.nz/,172.5666458,-43.5494908
+e732e62b-4663-421e-b083-857a24021ba7,Wilderness,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+c5d50885-a031-48ec-ad30-cbede2c29aa4,Yellow Box,contract,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001

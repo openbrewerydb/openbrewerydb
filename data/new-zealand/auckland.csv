@@ -1,0 +1,45 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+2a7c0677-5ac3-4ed9-917e-b6214c389ded,8 Wired,micro,26 Glenmore Drive,,,Warkworth,Auckland,0910,New Zealand,+64 9 945 3983,http://8wired.co.nz/,174.6548171,-36.4090422
+0c5fb0d3-bb8f-42f5-8983-fa77a3d4409f,Bach,contract,186 James Fletcher Drive,,,Auckland,Auckland,2024,New Zealand,+64 9 270 1890,https://www.steambrewing.co.nz/,174.8209641,-36.9487794
+78510c80-d335-404c-96f5-192557262ba7,Behemoth,contract,1A Charles Street,,,Auckland,Auckland,1024,New Zealand,,https://www.behemothbrewing.co.nz/,174.7525195,-36.8706536
+6483ac2b-301b-4d41-a61e-a0012c2007d7,Ben Middlemiss,closed,11 McDonald Street,,,Auckland,Auckland,1025,New Zealand,+64 210 214 2287,https://www.batsmenbrewing.cool/,174.7375586,-36.8759389
+90b065cd-1cae-4927-ad6a-018ce7bb8c6d,Birkenhead Brewing Company,contract,17 Birkenhead Avenue,,,Auckland,Auckland,0626,New Zealand,+64 9 320 5055,https://bbc.kiwi/,174.7264826,-36.81180550000001
+6d748072-e564-44b7-939e-17c07435b6c2,Black Sands / Weezledog,micro,9i Westech Place,,,Auckland,Auckland,0602,New Zealand,+64 9 813 0856,https://www.blacksandsbrewing.co.nz/,174.6602846,-36.9065581
+ded2c93c-0c4e-4dee-ba98-998385dae288,Boogie Van,closed,29B Tahi Road,,,Auckland,Auckland,1081,New Zealand,+64 27 519 9737,,175.0553979,-36.79418039999999
+e98af623-4029-4766-872e-aa798b07ac27,Britomart,closed,122 Quay Street,,,Auckland,Auckland,1010,New Zealand,+64 9 374 3952,https://thebrit.co.nz/,174.7695387,-36.8441729
+40fe6645-162e-4542-9469-53d2bf01e791,Brothers Beer City Works,micro,5 Akiraho Street,,,Auckland,Auckland,1024,New Zealand,+64 9 638 7592,https://brothersbeer.co.nz/,174.7589421,-36.8684812
+654d7bcc-ac15-4bf3-8c39-733478396320,Brothers Beer Juke Joint,micro,5 Akiraho Street,,,Auckland,Auckland,1024,New Zealand,+64 9 638 7592,http://www.jukejoint.co.nz/,174.7588207,-36.8684534
+3de5be2b-eeb1-4bc3-b00c-2f35aaf0691f,DB Waitemata,micro,1 Bairds Road,,,Auckland,Auckland,2025,New Zealand,+64 9 259 3000,https://www.db.co.nz/,174.8532023,-36.9583044
+939ab98b-80d0-4a30-9c47-63ecc8878317,Deep Creek Browns Bay,micro,111 Clyde Road,,,Auckland,Auckland,0630,New Zealand,+64 9 479 6665,https://brownsbaybrewing.co.nz/,174.7487112,-36.713686
+1bd16015-b72c-479d-bff5-4f5d24cbdc19,Deep Creek Silverdale,micro,111 Clyde Road,,,Auckland,Auckland,0630,New Zealand,+64 9 479 6665,https://brownsbaybrewing.co.nz/,174.7487112,-36.713686
+e85bd9a8-ff7c-43c9-a89c-e46b66a79273,Dr Rudi's,micro,204 Quay Street,Level 2,,Auckland,Auckland,1010,New Zealand,+64 9 942 4666,https://www.drrudis.co.nz/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_term=plcid_14817247859523512074,174.76353,-36.8427476
+372c2c02-ede5-4ea1-8147-219990d45a5b,Elation,closed,230B Neilson Street,,,Auckland,Auckland,1061,New Zealand,+64 800 212 337,http://www.epicbeer.com/,174.7997737,-36.9255482
+dee99e15-9b48-4d07-8bed-76f6b7dc22bc,Epic,contract,230B Neilson Street,,,Auckland,Auckland,1061,New Zealand,+64 800 212 337,http://www.epicbeer.com/,174.7997737,-36.9255482
+0262ea9e-47eb-42e3-8f7f-73a8a0a2f95a,Epic Brewing Company,micro,230B Neilson Street,,,Auckland,Auckland,1061,New Zealand,+64 800 212 337,http://www.epicbeer.com/,174.7997737,-36.9255482
+a2b9b235-5bac-456d-9934-dfba047e598c,Galbraith's,micro,2 Mount Eden Road,,,Auckland,Auckland,1023,New Zealand,+64 9 379 3557,http://www.alehouse.co.nz/,174.7612371,-36.8655826
+bda72d5e-5fe1-45eb-813f-2618fee70fae,Governor,closed,1 Jellicoe Street,,,Auckland,Auckland,1010,New Zealand,+64 9 940 4955,https://www.goodgeorgenorthwharf.co.nz/,174.7582386,-36.8410264
+2c61b336-ab60-45cc-983c-ec3fdcf2c910,Hallertau,micro,1171 Coatesville Riverhead Highway,,,Auckland,Auckland,0892,New Zealand,+64 9 412 5555,http://www.hallertau.co.nz/,174.5878681,-36.7668414
+ecb3e9b6-cb26-4542-8afc-ed17d534a773,Hancock,closed,KahaKaha Lane,,,Auckland,Auckland,2022,New Zealand,+64 9 361 8480,http://www.hancocks.co.nz/,174.8226022,-36.9821699
+02fe9818-90c9-4e9d-8073-c5b1819b4466,Independent,micro,394 New North Road,,,Auckland,Auckland,1021,New Zealand,,https://saintleonards.co.nz/,174.7476876,-36.8714983
+e5ea7620-48f9-4afe-8aa6-6695c66ae849,Isthmus,contract,57A Wolverton Street,,,Auckland,Auckland,0600,New Zealand,+64 9 828 9623,http://www.hopscotch.co.nz/,174.6976585,-36.9077018
+0804c31e-4b69-40b8-bdb3-275f2176322d,Laughing Bones,micro,32D Forge Road,,,Silverdale,Auckland,0932,New Zealand,,https://laughingbonesbrewing.com/,174.6779485,-36.6250241
+84aaa298-de93-4eca-9433-5d9c3a4961cb,Liberty,micro,64 Mill Road,,,Helensville,Auckland,0800,New Zealand,,http://www.libertybrewing.co.nz/,174.4450705,-36.6776974
+4333362d-7444-457a-98b1-a8c36276c27d,Lion,micro,55 Ormiston Road,,,Auckland,Auckland,2019,New Zealand,+64 800 835 554,http://www.lionco.com/,174.8956109,-36.963213
+3d96cbe4-1467-441d-9422-089bba3714ee,Little Creatures Hobsonville,micro,2 Boundary Road,,,Auckland,Auckland,0616,New Zealand,+64 9 416 4416,https://littlecreatures.co.nz/,174.6721147,-36.7892908
+69df494c-df6f-4ce5-9b48-2abd87c33ee4,Mandrake,contract,9i Westech Place,,,Auckland,Auckland,0602,New Zealand,+64 9 813 0856,https://www.blacksandsbrewing.co.nz/,174.6602846,-36.9065581
+770f68d3-34e9-4b1c-8b34-f218b5acc11e,Mythica,micro,48 Ellice Road,4,,Auckland,Auckland,0629,New Zealand,,http://www.mythicabrewing.com/,174.729737,-36.7657597
+17709a76-8f68-4b12-9075-799d170a511c,Ora,contract,5 Akiraho Street,,,Auckland,Auckland,1024,New Zealand,+64 9 638 7592,https://brothersbeer.co.nz/,174.7589421,-36.8684812
+b4800fac-56d0-42c7-ad55-cba0c447a8f7,Outlier Cartel,closed,7 Emily Place,,,Auckland,Auckland,1010,New Zealand,,,174.7707036,-36.8459708
+a82336ad-9b49-4225-a671-f4e0a1ec9b60,Sawmill,micro,1004 Leigh Road,,,Matakana,Auckland,0985,New Zealand,+64 9 422 6555,http://www.sawmillbrewery.co.nz/,174.7314209,-36.3293451
+cbfa78e2-f90e-47c4-b933-343ae7d13d38,Schippers,closed,128-132 Victoria Street West,,,Auckland,Auckland,1010,New Zealand,+64 9 309 4515,https://www.facebook.com/pages/The-Brewers-Co-operative-Craft-Beer-Auckland-CBD/314832112058735,174.7598222,-36.8478406
+39f1efd2-1105-4698-8c67-83c54b553c91,Scotch Fileha / Danger's,closed,394 New North Road,,,Auckland,Auckland,1021,New Zealand,,https://saintleonards.co.nz/,174.7476876,-36.8714983
+8dc6eeb0-cc93-473d-b7f2-e1d336c7d62b,Shakespeare,micro,61 Albert Street,,,Auckland,Auckland,1010,New Zealand,+64 9 373 5396,https://online.shakespeare.nz/,174.7640642,-36.8467619
+c09e4ed3-cb3d-4c81-8811-689beb4de7ab,Sparks,contract,80 Mahuhu Crescent,42,,Auckland,Auckland,1010,New Zealand,+64 9 358 1250,http://www.sparkarena.co.nz/,174.7769837,-36.84713600000001
+26e08455-55f6-4e4f-ba77-10b69ebd1b00,Standing Spoon,closed,186 James Fletcher Drive,,,Auckland,Auckland,2024,New Zealand,+64 9 270 1890,https://www.steambrewing.co.nz/,174.8209641,-36.9487794
+112e0fda-2160-47aa-adcb-9fad3238e1d2,Steam,micro,186 James Fletcher Drive,,,Auckland,Auckland,2024,New Zealand,+64 9 270 1890,https://www.steambrewing.co.nz/,174.8209641,-36.9487794
+4ca1f278-3d1b-468a-bfac-cdd6a20b6473,Steam Brewing Company,contract,186 James Fletcher Drive,,,Auckland,Auckland,2024,New Zealand,+64 9 270 1890,https://www.steambrewing.co.nz/,174.8209641,-36.9487794
+81e2c49c-e6c3-4df3-a59a-e882dd667260,Sweat Shop,micro,7 Sale Street,,,Auckland,Auckland,1010,New Zealand,+64 9 307 8148,https://stargroup.nz/venues/sweat-shop,174.7564195,-36.8491665
+e394285c-c69d-4f43-8cfa-bbd281e16ae6,Ultimate Brewing,contract,597 New North Road,,,Auckland,Auckland,1021,New Zealand,+64 9 215 9074,https://www.urbanautbeer.com/,174.7372828,-36.8732649
+7dbe8e9c-a1a1-4376-a7a3-5f1d90c10eec,Urbanaut,micro,597 New North Road,,,Auckland,Auckland,1021,New Zealand,+64 9 215 9074,https://www.urbanautbeer.com/,174.7372828,-36.8732649
+ce2adb87-c383-4026-bc40-00b709db7372,Waiheke,micro,82 Onetangi Road,,,Auckland,Auckland,1971,New Zealand,+64 9 372 3434,https://wildestate.co.nz/drink/waiheke-island-brewery,175.0650259,-36.8005027
+1af72e38-f2cd-4716-86e4-4728d5e2eb33,Wakachangi,contract,230B Neilson Street,,,Auckland,Auckland,1061,New Zealand,+64 800 212 337,http://www.epicbeer.com/,174.7997737,-36.9255482

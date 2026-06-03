@@ -1,0 +1,4 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+d236c111-12d9-45b8-acd4-49aebf7d06d4,Moa,micro,258 Jacksons Road,,,Rapaura,Marlborough Region,7273,New Zealand,+64 210 250 3413,http://www.moabeer.com/,173.8814879,-41.4873179
+df132521-5a9c-4f04-bdb9-6d09b1deaed1,Moa Brewing Company,micro,258 Jacksons Road,,,Rapaura,Marlborough Region,7273,New Zealand,+64 210 250 3413,http://www.moabeer.com/,173.8814879,-41.4873179
+c3b2ab21-eb58-4bd3-afe5-26b9930a1e43,Renaissance,micro,11 Rapaura Road,,,Renwick,Marlborough Region,7273,New Zealand,+64 3 572 9800,http://www.wairauriverwines.com/,173.8181003,-41.4860631

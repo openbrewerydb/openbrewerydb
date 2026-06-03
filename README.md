@@ -331,10 +331,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2026-05-29
+> Last updated: 2026-06-03
 
 ### Overview
-- Total Breweries: 11,030
+- Total Breweries: 11,751
 - Data Completeness: 79.0%
 
 ### 🏛 Top 10 States by Brewery Count
@@ -354,13 +354,13 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 5,206 | 47.2% |
-| brewpub | 3,904 | 35.4% |
-| planning | 641 | 5.8% |
-| closed | 553 | 5.0% |
-| regional | 239 | 2.2% |
-| contract | 180 | 1.6% |
-| large | 118 | 1.1% |
+| micro | 5,793 | 49.3% |
+| brewpub | 3,910 | 33.3% |
+| planning | 641 | 5.5% |
+| closed | 634 | 5.4% |
+| regional | 239 | 2.0% |
+| contract | 210 | 1.8% |
+| large | 135 | 1.1% |
 | proprietor | 67 | 0.6% |
 | taproom | 47 | 0.4% |
 | bar | 43 | 0.4% |
@@ -381,21 +381,23 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Austin, Texas | 49 |
 | Berlin, Berlin | 44 |
 | Houston, Texas | 40 |
-| San Francisco, California | 39 |
+| Auckland, Auckland | 40 |
 
 ### 🌍 By Country
 | Country | Count | Percentage |
 |---------|------------|------------|
-| United States | 8,207 | 74.4% |
-| Germany | 1,449 | 13.1% |
-| Australia | 514 | 4.7% |
-| Canada | 283 | 2.6% |
+| United States | 8,207 | 69.8% |
+| Germany | 1,449 | 12.3% |
+| Australia | 514 | 4.4% |
+| Belgium | 478 | 4.1% |
+| Canada | 283 | 2.4% |
+| New Zealand | 243 | 2.1% |
 | South Africa | 104 | 0.9% |
-| Netherlands | 76 | 0.7% |
+| Netherlands | 76 | 0.6% |
 | Ireland | 70 | 0.6% |
 | Finland | 68 | 0.6% |
-| England | 62 | 0.6% |
-| South Korea | 61 | 0.6% |
+| England | 62 | 0.5% |
+| South Korea | 61 | 0.5% |
 | Poland | 34 | 0.3% |
 | Singapore | 33 | 0.3% |
 | Austria | 15 | 0.1% |
@@ -417,10 +419,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | state_province | 100.0% |
 | postal_code | 100.0% |
 | country | 100.0% |
-| address_1 | 93.0% |
-| phone | 90.0% |
+| address_1 | 94.0% |
+| phone | 89.0% |
 | website_url | 89.0% |
-| longitude | 78.0% |
-| latitude | 78.0% |
+| longitude | 79.0% |
+| latitude | 79.0% |
 | address_2 | 3.0% |
 | address_3 | 0.0% |

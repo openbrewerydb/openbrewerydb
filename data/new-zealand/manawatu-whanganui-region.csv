@@ -1,0 +1,5 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+ee66deae-25ae-494b-9340-59dda8cf9c58,Brew Union,micro,41 Broadway Avenue,,,Palmerston North,Manawatū-Whanganui Region,4410,New Zealand,+64 6 280 3146,http://www.brewunion.co.nz/,175.6124924,-40.3540828
+731405f3-ba27-45c5-ac3f-e649a5657ffc,Roots,micro,43 State Highway 3,,,Westmere,Manawatū-Whanganui Region,4571,New Zealand,+64 27 255 2755,http://rootsbrewing.beer/,175.0077519,-39.8937828
+d51539b2-f37d-4068-a55a-85aedda42dd4,Ruapehu,micro,27 Goldfinch Street,Rear Unit,,Ohakune,Manawatū-Whanganui Region,4625,New Zealand,+64 210 359 938,http://www.ruapehubrewing.co.nz/,175.3988633,-39.4168949
+f3c9c46b-3d3c-4b39-8670-ef5e92ed4a89,Tui Brewery,large,,,,Mangatainoka,Manawatū-Whanganui Region,4982,New Zealand,+64 21 195 9125,https://www.tuihq.co.nz/,175.8650867,-40.42196750000001

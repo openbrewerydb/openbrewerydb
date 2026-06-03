@@ -1,0 +1,13 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+d3e440d3-f391-48b3-9f17-4b5c0fab0056,B Studio,micro,6 Lever Street,,,Napier,Hawke's Bay Region,4110,New Zealand,+64 21 672 977,http://www.bstudio.co.nz/,176.8953817,-39.4836689
+ab5262ab-a154-48da-8c10-5280cba2420e,Brave,micro,205 Queen Street East,,,Hastings,Hawke's Bay Region,4122,New Zealand,+64 27 239 3546,http://www.bravebrewing.co.nz/,176.8455785,-39.6426334
+2664b984-bdba-41d5-9619-dffcc5b69c4c,Crazy Bay,micro,205 Queen Street East,,,Hastings,Hawke's Bay Region,4122,New Zealand,+64 27 239 3546,http://www.bravebrewing.co.nz/,176.8455785,-39.6426334
+bf3ff765-0199-4fc9-b197-f4fb7918198f,Deco City,contract,3672 State Highway 50,,,Maraekakaho,Hawke's Bay Region,4171,New Zealand,+64 27 931 1042,http://godsownbrewery.co.nz/,176.6006602,-39.6487024
+62b87639-9198-4674-99fb-6ec03588683f,Fat Monk / Abbey,closed,1769 Maraekakaho Road,,,Bridge Pa,Hawke's Bay Region,4171,New Zealand,,,176.746859,-39.64708299999999
+fd1f30e6-cdc7-4cf2-839f-58864f502429,Giant,micro,6 Treachers Lane,,,Havelock North,Hawke's Bay Region,4120,New Zealand,+64 27 220 3043,http://www.giantbrewing.co.nz/,176.8773087,-39.6690809
+cad9cbbf-7b31-49b4-aa55-56cd7990951f,Godsown,micro,3672 State Highway 50,,,Maraekakaho,Hawke's Bay Region,4171,New Zealand,+64 27 931 1042,http://godsownbrewery.co.nz/,176.6006602,-39.6487024
+c7e624a9-bea4-4342-b3a6-eb3ae871362e,Hawke's Bay Independent,micro,22 Lee Road,,,Napier,Hawke's Bay Region,4112,New Zealand,+64 6 876 0312,http://www.wine-and-beer-hb.org.nz/,176.8500147,-39.5351475
+a68346f9-3c8c-477c-88b2-37b16dcea081,Napier Brewing Company,micro,20 Awatoto Road,,,Napier,Hawke's Bay Region,4183,New Zealand,+64 22 174 0711,,176.8950401,-39.5430303
+cc34f3fe-dd24-4abf-bb37-3d6d5b2c1755,Roosters,micro,1470 Omahu Road,,,Hastings,Hawke's Bay Region,4175,New Zealand,+64 6 879 5158,http://www.roosters.co.nz/,176.7796173,-39.6065979
+ad4c9bea-2298-430e-aa60-4cde9837b8a8,Sneaky,contract,1470 Omahu Road,,,Hastings,Hawke's Bay Region,4175,New Zealand,+64 6 879 5158,http://www.roosters.co.nz/,176.7796173,-39.6065979
+ef0f90c5-8015-44df-afdb-053b7d22a9e6,Zeelandt,closed,14 Shaw Road,,,Eskdale,Hawke's Bay Region,4182,New Zealand,+64 6 835 1825,http://www.zeelandt.co.nz/,176.8284276,-39.3896108

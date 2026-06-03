@@ -1,0 +1,4 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+8311d675-4efa-427a-82ba-b06d2cbaaa93,Abbaye St. RÃ©my,micro,,,,Rochefort,Wallonia,5580,Belgium,+32 84 22 01 40,http://www.abbaye-rochefort.be/,5.220228,50.178573
+634b449c-0829-4738-9447-d89374d2ff9c,Rochefort,micro,,,,Rochefort,Wallonia,5580,Belgium,+32 84 22 01 40,http://www.abbaye-rochefort.be/,5.2196246,50.1780457
+60d29d84-81c1-4a82-bde1-f6af6187e035,Union,micro,,,,Charleroi,Wallonia,6040,Belgium,,,4.413988,50.439803

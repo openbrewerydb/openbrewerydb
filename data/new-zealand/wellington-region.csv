@@ -1,0 +1,44 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+b18435d9-dac9-46aa-aced-4b6e562fc301,Abandoned,micro,20 Parumoana Street,,,Porirua,Wellington Region,5022,New Zealand,+64 27 802 9726,http://abandonedbrewery.nz/,174.8398212,-41.1309581
+83a97464-95b4-4dca-9b1c-80eedf59bca7,Anchor,closed,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+63c8059d-182d-4ca9-b13d-3bde3d07f249,Baylands,micro,22 Victoria Street,,,Lower Hutt,Wellington Region,5012,New Zealand,+64 4 566 2337,https://www.baylands.beer/,174.8733647,-41.2258218
+6bd89d4b-cf1e-4498-99d4-857036cfe203,"Beg, Borrow & Brew",micro,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+bb73393e-c239-49d4-a902-1eb9812b5665,Big Growler,closed,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+a8b16f63-7cab-4581-a12c-ef6bbaea0124,Black Dog,micro,19 Blair Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 381 0230,https://threesistersbrewery.store/,174.7833293,-41.29330119999999
+01beb3b4-0ef5-4a4f-9a96-5501a1fd526d,Bloom Theory,closed,19 Blair Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 381 0230,https://threesistersbrewery.store/,174.7833293,-41.29330119999999
+ad24f7f9-cae4-4e4b-bc43-d4e91ded07f4,Boneface,micro,27 Blenheim Street,,,Upper Hutt,Wellington Region,5018,New Zealand,+64 4 529 7042,http://www.boneface.co.nz/,175.0682987,-41.1303715
+b04894cf-758a-4386-90bb-aef2b7e0527e,Choice Bros,micro,62 Ghuznee Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 282 0583,https://www.choicebros.co.nz/,174.7752227,-41.2926902
+ea5fb65a-beb6-4747-a82f-004c89413eea,Double Vision,micro,Park Road,,,Wellington,Wellington Region,6022,New Zealand,+64 4 213 9204,https://doublevisionbrewing.com/pages/miramar,174.8214189,-41.3095143
+7f2d9ff6-567c-42bf-8194-5476cc825a3b,Duncan's,micro,4B Sheffield Street,,,Paraparaumu,Wellington Region,5032,New Zealand,,http://www.duncansbrewing.co.nz/,174.9996949,-40.9056965
+7edf486b-c622-4aa0-a21c-03589660dca1,Fork,micro,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+73b4bed5-7450-4650-9e15-f0234c3baec8,Fortune Favours,micro,,,,Wellington,Wellington Region,6022,New Zealand,,,174.8115219,-41.3286251
+567b5f41-b403-4098-8ce0-144b4b715660,Garage Project,micro,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+67e69496-c58d-49cf-8d4c-ecbc0480cdb9,Garage Project,micro,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+ae55725e-c105-4146-b098-fd23a06da8e8,Heyday,micro,264a Cuba Street,,,Wellington,Wellington Region,6011,New Zealand,+64 20 443 9329,http://www.heydaybeer.com/,174.7734754,-41.2966724
+632c910d-077b-4e62-81b0-781b58c124d0,Hop Hustlers,closed,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+e022ddb7-96f0-46a1-aef6-2140d9199e96,JuiceHead,contract,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+85e2909b-9cff-4e82-8074-05c28dc2025c,Kereru,micro,415a Maidstone Terrace,,,Upper Hutt,Wellington Region,5018,New Zealand,+64 4 974 6343,https://www.kererubrewing.co.nz/,175.0723636,-41.1297944
+a24ac2a7-1cb5-4b5e-8a78-b921fdcfc392,Lord Almighty,closed,Park Road,,,Wellington,Wellington Region,6022,New Zealand,+64 4 213 9204,https://doublevisionbrewing.com/pages/miramar,174.8214189,-41.3095143
+8adc27b4-67c0-4d5a-a9a9-e1825990390e,Martinborough,micro,10 Ohio Street,,,Martinborough,Wellington Region,5711,New Zealand,+64 6 306 6249,http://martinboroughbeer.com/,175.4580242,-41.2178342
+a5ee43c3-fc77-4f3f-a1d8-52f1aae3fa67,Massey University,micro,Wallace Street,,,Wellington,Wellington Region,6021,New Zealand,+64 800 627 739,https://www.massey.ac.nz/,174.776699,-41.2997518
+741cb6ae-db15-4a63-a12d-b035e44c476b,Mean Doses,micro,66 Tory Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 213 6551,https://www.meandoses.co.nz/,174.780467,-41.2944311
+ff820db4-69f0-4986-aa6f-57176342e078,North End,micro,,,,kapiti,Wellington Region,5036,New Zealand,+64 4 891 1281,http://www.northendbrewing.net/,175.0641363,-40.8751331
+7b1f6d32-93ed-4e17-9976-e108602372fa,Occasional Brewer,micro,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+742eab55-c8b5-44eb-9d4e-7c2f6ecfedeb,Panhead,micro,1 Tory Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 213 9756,https://www.panheadtorystreet.com/,174.782046,-41.2923804
+51c5fb7f-0120-4ede-8859-19ff472d2129,ParrotDog,micro,66 Kingsford Smith Street,60,,Wellington,Wellington Region,6022,New Zealand,+64 4 384 8077,http://parrotdog.co.nz/,174.7998029,-41.3271748
+8ff3a429-f167-4ca5-86a3-4adcec3ff3e3,Peak,closed,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+9a2d2f73-c435-45be-9bea-454b42438e9c,Ranger,micro,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+a1575b1d-0ae3-41ba-adb0-d4b3e9f0a674,Remedy,closed,264a Cuba Street,,,Wellington,Wellington Region,6011,New Zealand,+64 20 443 9329,http://www.heydaybeer.com/,174.7734754,-41.2966724
+b82dd94e-d857-4c3a-8b6a-39b79e9eced5,Rocky Knob,micro,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 4 555 0807,https://rockyknob.co.nz/,174.777348,-41.2941832
+dde77557-c42f-44c1-8357-ceed9e32e6e8,SUP,micro,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+1ffa64a0-37da-4e0b-8865-67d35fdcf2f4,Te Aro,micro,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+6e482f5d-37b8-4ebe-806c-1933cf7608a7,Tiamana,closed,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+7974443a-8690-421b-99e1-f0f0b9292f6e,Tinker Taylor,micro,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+2cf2d52a-46ed-4aee-b31d-93d3e7878e18,Tuatara,micro,10 Railway Avenue,Unit 6,,Upper Hutt,Wellington Region,5018,New Zealand,+64 800 746 432,https://www.db.co.nz/tuatara,175.0704113,-41.1296239
+1aa08820-b135-4095-9a21-aa150c8475bf,Tuatara Third Eye,closed,30 Arthur Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 803 3948,http://tuatarabrewing.co.nz/the-third-eye/about,174.7743407,-41.2972423
+bde73626-40f2-406d-9e61-d31a494d49e1,Waitoa Social Club,micro,32 Waitoa Road,,,Wellington,Wellington Region,6021,New Zealand,+64 22 461 2981,http://www.waitoabeer.co.nz/,174.7941116,-41.3039193
+ada8912a-d407-4499-8d06-cea8ebe58bdf,Webb Street,closed,264a Cuba Street,,,Wellington,Wellington Region,6011,New Zealand,+64 20 443 9329,http://www.heydaybeer.com/,174.7734754,-41.2966724
+88fd604d-8e7d-4230-9ea9-9f775d75135b,Whistling Sisters,closed,100 Taranaki Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 381 3208,,174.7776515,-41.2941276
+a1fab6f0-35fb-46f7-b1d8-b84668558f5b,Wild & Woolly,closed,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+1e45b32b-0f71-4c45-b913-76b20f100864,Yeastie Boys,closed,100 Taranaki Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 381 3208,,174.7776515,-41.2941276
+f3648c42-046f-42a1-9d36-6e59963e899f,Yeastie Boys,contract,76 Willis Street,,,Wellington,Wellington Region,6011,New Zealand,,http://www.themalthouse.co.nz/,174.7750277,-41.2880476
