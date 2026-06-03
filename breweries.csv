@@ -11029,3 +11029,724 @@ c5c523b9-d8f4-402e-baee-c95cbc65ee21,파머스브루어리(Farmers Brewery),brew
 a9541aa9-5c12-469b-8cbb-01fb5619cefc,허심청브루잉(Hursimchung Bru),brewpub,"23, Geumganggongwon-ro 20beon-gil",,,Dongnae-gu,Busan,47709,South Korea,051-550-2345,https://www.hotelnongshim.com/kr/index.php?pCode=hbrau_info,129.0826027,35.21990206
 6f317bdc-458e-466f-bd2a-9ab398d46631,헤이스탁 브루어리(Haystack Brewery),brewpub,"25, Pangyogongwon-ro 3-gil",Bundang-gu,,Seongnam-si,Gyeonggido,13477,South Korea,070-7631-1110,,127.0890607,37.39125615
 a1308963-b966-49f7-8f84-97ba37775d14,화이트크로우 브루잉(Whitecrow Brewing),brewpub,"65,Gowon-ro",Bangnim-myeon,,Pyeongchang-gun,Gangwondo,25364,South Korea,033-333-1201,https://www.instagram.com/whitecrowbrewing/,128.2515424,37.47598351
+,Achelse Kluis,micro,1 De Kluis,,,Hamont-Achel,Vlaanderen,3930,Belgium,+32 11 23 91 00,http://www.achelsekluis.be/,5.489700,51.298510
+,Westmalle Trappist,micro,496 Antwerpsesteenweg,,,Malle,Vlaanderen,2390,Belgium,+32 3 312 92 22,http://www.trappistwestmalle.be/,4.658628,51.285115
+,De Koninck,micro,291 Mechelsesteenweg,,,Antwerpen,Vlaanderen,2018,Belgium,+32 3 866 96 90,http://www.dekoninck.be/,4.415170,51.199184
+,Martens,micro,28 Dorpsstraat,,,Bocholt,Vlaanderen,3950,Belgium,+32 89 48 04 80,https://brouwerijmartens.be/,5.573190,51.166209
+,van Steenberge,micro,25 Lindenlaan,,,Evergem,Vlaanderen,9940,Belgium,+32 9 344 50 71,http://www.vansteenberge.com/,3.746230,51.176003
+,St. Jozef,micro,19 Itterplein,,,Bree,Vlaanderen,3960,Belgium,+32 89 86 47 11,http://www.brouwerijcornelissen.be/,5.646531,51.116659
+,De Proefbrouwerij,micro,20 Doornzelestraat,,,Lochristi,Vlaanderen,9080,Belgium,+32 9 356 71 02,http://www.proefbrouwerij.com/,3.816389,51.116247
+,Strubbe,micro,1 Markt,,,Ichtegem,Vlaanderen,8480,Belgium,+32 51 58 81 16,http://www.brouwerijstrubbe.be/,3.008525,51.092038
+,ter Dolen,micro,21 Eikendreef,,,Houthalen-Helchteren,Vlaanderen,3530,Belgium,+32 11 60 69 99,http://www.terdolen.be/,5.387740,51.064284
+,Duvel Moortgat,large,58 Breendonk-Dorp,,,Puurs-Sint-Amands,Vlaanderen,2870,Belgium,+32 3 860 94 00,https://www.duvel.com/,4.326070,51.042512
+,Het Anker,micro,49 Guido Gezellelaan,,,Mechelen,Vlaanderen,2800,Belgium,+32 15 28 71 41,http://www.hetanker.be/,4.472531,51.032206
+,De Landtsheer,micro,181 Mandekensstraat,,,Buggenhout,Vlaanderen,9255,Belgium,+32 52 33 39 11,https://www.malheur.be/,4.157952,51.023417
+,Dolle Brouwers,micro,12b Roeselarestraat,,,Diksmuide,Vlaanderen,8600,Belgium,+32 474 42 12 73,http://www.dedollebrouwers.be/,2.904260,51.027964
+,Bosteels,micro,96 Kerkstraat,,,Buggenhout,Vlaanderen,9255,Belgium,+32 52 33 23 23,https://www.bosteelsbrewery.com/nl,3.688913,51.017781
+,Palm,micro,3 Steenhuffeldorp,,,Londerzeel,Vlaanderen,1840,Belgium,,https://swinkelsfamilybrewers.com/nl/ons-aanbod/bieren/palm.html,4.268531,50.995704
+,Huyghe,micro,14b Geraardsbergse steenweg,,,Merelbeke-Melle,Vlaanderen,9090,Belgium,+32 9 252 15 01,https://www.brouwerijhuyghe.be/nl,3.805077,50.999646
+,de Block,micro,92 Nieuwbaan,,,Merchtem,Vlaanderen,1785,Belgium,+32 52 37 21 59,http://www.brewerydeblock.com/,4.222698,50.984754
+,Affligem (Heineken),closed,18 Ringlaan,,,Opwijk,Vlaanderen,1745,Belgium,,https://www.affligembeer.com/nl/nl/age-gate?returnUrl=https%3A%2F%2Fwww.affligembeer.com%2Fnl%2Fnl%2Fhomepage,4.190268,50.971258
+,Haacht,large,28 Provinciesteenweg,,,Boortmeerbeek,Vlaanderen,3190,Belgium,+32 16 60 15 01,http://www.haacht.com/,4.609888,50.965463
+,Liefmans,micro,200 Aalststraat,,,Oudenaarde,Vlaanderen,9700,Belgium,+32 3 866 95 21,https://www.liefmans.com/nl-be/brouwerij,4.319382,50.958683
+,Rodenbach (Palm),micro,135 Spanjestraat,,,Roeselare,Vlaanderen,8800,Belgium,+32 51 27 27 00,https://be.rodenbach.be/be/nl.html,3.138347,50.946207
+,De Glazen Toren,micro,13 Glazentorenweg,,,Erpe-Mere,Vlaanderen,9420,Belgium,+32 53 83 03 80,http://www.glazentoren.be/,3.965311,50.918783
+,van Honsebrouck,micro,46 Ingelmunstersestraat,,,Izegem,Vlaanderen,8870,Belgium,+32 51 33 51 60,https://www.vanhonsebrouck.be/?utm_source=googlebusiness&utm_medium=organic,3.260090,50.919462
+,Mort Subite,micro,1 Lierput,,,Asse,Vlaanderen,1730,Belgium,+32 2 454 11 11,http://www.mort-subite.be/,4.250478,50.909871
+,De Schuur,micro,21 Wolvendreef,,,Lubbeek,Vlaanderen,3210,Belgium,+32 485 37 61 35,http://www.brouwerijdeschuur.info/,4.768101,50.894896
+,Alken-Maes,large,Stationsstraat,,,Alken,Vlaanderen,3570,Belgium,+32 15 30 90 11,http://www.alken-maes.be/,5.305875,50.877827
+,Deca Services,micro,4 Elverdingestraat,,,Vleteren,Vlaanderen,8640,Belgium,+32 57 42 20 75,http://www.decabrouwerij.be/,2.790461,50.899519
+,Artois (Inbev),large,20 Aarschotsesteenweg,,,Leuven,Vlaanderen,3000,Belgium,,https://www.breweryvisits.com/en/stella-artois,4.700844,50.885292
+,Abbey St. Sixtus,micro,12 Donkerstraat,,,Vleteren,Vlaanderen,8640,Belgium,+32 57 40 03 76,http://sintsixtus.be/,2.720948,50.895336
+,Leroy,micro,404 Diksmuidseweg,,,Ieper,Vlaanderen,8904,Belgium,+32 57 42 20 05,http://www.leroybreweries.be/,2.858634,50.894747
+,Domus,micro,8 Tiensestraat,,,Leuven,Vlaanderen,3000,Belgium,+32 16 20 14 49,https://domusleuven.be/,4.703088,50.878613
+,De Ryck,closed,24 Kerkstraat,,,Herzele,Vlaanderen,9550,Belgium,+32 53 62 23 02,http://www.brouwerijderyck.be/,3.891334,50.887617
+,Bavik-De Brabandere,micro,33 Rijksweg,,,Harelbeke,Vlaanderen,8531,Belgium,+32 56 71 90 91,http://www.brouwerijdebrabandere.be/,3.297966,50.862178
+,van den Bossche,micro,16 Sint-Lievensplein,,,Herzele,Vlaanderen,9550,Belgium,+32 54 50 04 11,http://www.brouwerijvandenbossche.be/,3.884755,50.856282
+,van Eecke,micro,408 Diksmuidseweg,,,Ieper,Vlaanderen,8904,Belgium,+32 57 38 80 30,,2.620685,50.858884
+,De Troch,micro,20 Langestraat,,,Ternat,Vlaanderen,1741,Belgium,+32 2 582 10 27,http://www.detroch.be/,4.163960,50.853148
+,Angerik,micro,30 Snakkaertstraat,,,Dilbeek,Vlaanderen,1700,Belgium,+32 477 37 15 86,http://www.angerik.be/,4.247327,50.851567
+,Cantillon,micro,56 Rue Gheude,,,Anderlecht,Brussels Capital Region,1070,Belgium,+32 2 521 49 28,http://www.cantillon.be/,4.335519,50.841508
+,Timmermans,micro,11 Kerkstraat,,,Dilbeek,Vlaanderen,1701,Belgium,+32 2 569 03 57,https://brtimmermans.be/en/,4.248320,50.839793
+,Slaghmuylder,micro,2 Denderhoutembaan,,,Ninove,Vlaanderen,9400,Belgium,+32 54 33 18 31,http://www.witkap.be/,4.021532,50.841298
+,St. Bernard,micro,23 Trappistenweg,,,Poperinge,Vlaanderen,8978,Belgium,+32 57 38 80 21,http://www.sintbernardus.be/,2.640417,50.840754
+,Verhaeghe,micro,1 Sint-Dierikserf,,,Anzegem,Vlaanderen,8570,Belgium,+32 56 77 70 32,https://www.brouwerijverhaeghe.be/,3.392194,50.834192
+,Roman,micro,105 Hauwaart,,,Oudenaarde,Vlaanderen,9700,Belgium,+32 55 45 54 01,https://www.roman.be/,3.675482,50.831089
+,t Gaverhopke,micro,16 Platanendreef,,,Waregem,Vlaanderen,8790,Belgium,+32 497 76 04 12,https://sites.google.com/view/tgaverhopke-waregem/online-reserveren,3.315921,50.831969
+,Belle-Vue,micro,144 Bergensesteenweg,,,Sint-Pieters-Leeuw,Région flamande,1600,Belgium,,http://www.ab-inbev.com/,4.287223,50.798541
+,De Graal,micro,42a Industrielaan,,,Brakel,Vlaanderen,9660,Belgium,+32 494 71 87 29,http://www.degraal.be/,3.769980,50.802401
+,Hoegaarden,micro,,,,Hoegaarden,Flanders,,Belgium,,http://www.gemeentehoegaarden.be/,4.885851,50.776970
+,Bockor,micro,5 Brouwtorenstraat,,,Kortrijk,Vlaanderen,8510,Belgium,+32 56 23 51 71,http://www.omervanderghinste.be/,3.278742,50.776596
+,Drie Fonteinen,micro,47 Molenstraat,,,Beersel,Vlaanderen,1651,Belgium,+32 2 306 71 03,https://3fonteinen.be/nl/,4.308793,50.766519
+,Grain d'Orge,micro,3 Rue Laschet,,,Plombières,Région wallonne,4852,Belgium,+32 87 78 77 84,https://www.grain-dorge.com/,5.920509,50.723014
+,Abbey Val-Dieu,micro,227 Val Dieu,,,Aubel,Région wallonne,4880,Belgium,+32 87 69 28 28,https://www.abbaye-du-val-dieu.be/fr/,5.804433,50.698736
+,Boon,micro,65 Fonteinstraat,,,Halle,Vlaanderen,1502,Belgium,+32 2 356 66 44,http://www.boon.be/,4.219575,50.712258
+,Lefebvre,micro,54 Chemin du Croly,,,Rebecq,Région wallonne,1430,Belgium,+32 67 67 07 66,http://www.brasserielefebvre.be/,4.151326,50.674488
+,Jupiler,large,1723 Avenue Georges Truffaut,,,Liège,Région wallonne,4020,Belgium,+32 493 97 58 76,http://www.ab-inbev.be/,5.631640,50.647504
+,Silly,micro,2 Rue Ville Basse,,,Silly,Région wallonne,7830,Belgium,+32 68 25 04 80,http://www.silly-beer.com/,3.928397,50.651826
+,Cazeau,micro,67 Rue Cazeau,,,Tournai,Région wallonne,7520,Belgium,+32 69 35 25 53,http://brasseriedecazeau.be/,3.273495,50.635436
+,Brabant,micro,59 Rue Banterlez,,,Genappe,Région wallonne,1470,Belgium,+32 67 79 18 79,,4.448936,50.584739
+,Dubuisson,micro,28 Chaussée de Mons,,,Leuze-en-Hainaut,Région wallonne,7904,Belgium,+32 69 67 22 22,https://www.dubuisson.com/,3.556986,50.576591
+,Dupont,micro,5 Rue Basse,,,Leuze-en-Hainaut,Région wallonne,7904,Belgium,+32 69 22 56 39,http://www.brasserie-dupont.com/,3.651871,50.570811
+,Ecaussinnes,micro,118 Rue de Restaumont,,,Écaussinnes,Région wallonne,7190,Belgium,+32 67 34 22 77,http://www.brasseriescassenes.be/,4.134306,50.557776
+,Brunehaut,micro,17 Rue des Panneries,,,Brunehaut,Région wallonne,7623,Belgium,+32 69 34 64 11,http://www.brunehaut.com/,3.389159,50.511154
+,Caulier,micro,134 Rue de Sondeville,,,Péruwelz,Région wallonne,7600,Belgium,+32 69 36 26 10,http://brasseriecaulier.beer/,3.588747,50.502780
+,Bellevaux,micro,1 Rue de la Foncenale,,,Malmedy,Région wallonne,4960,Belgium,+32 456 08 58 56,http://www.brasseriedebellevaux.be/,6.007350,50.391892
+,La Binchoise,micro,38b Faubourg Saint-Paul,,,Binche,Région wallonne,7130,Belgium,+32 64 33 61 86,http://www.labinchoise.be/,4.165667,50.407884
+,Val de Sambre,micro,,,,Thuin,Région wallonne,6530,Belgium,,https://www.brasserievds.be/,4.317521,50.370359
+,La Ferme au Chene,closed,36 Rue du Comte Théodule d'Ursel,,,Durbuy,Région wallonne,6940,Belgium,,,5.442133,50.346680
+,Abbaye des Rocs,micro,37 Chaussée Brunehault,,,Honnelles,Région wallonne,7387,Belgium,+32 65 75 59 99,,3.727111,50.369676
+,Du Bocq,micro,4 Rue de la Brasserie,,,Yvoir,Région wallonne,5530,Belgium,+32 82 61 07 90,http://www.bocq.be/,4.943392,50.311286
+,Brootcoorens,micro,197 Rue de Maubeuge,,,Erquelinnes,Région wallonne,6560,Belgium,+32 479 88 78 35,http://www.bierenaturelle.be/,4.106927,50.306998
+,Abbaye St. RÃ©my,micro,,,,Rochefort,Wallonia,5580,Belgium,+32 84 22 01 40,http://www.abbaye-rochefort.be/,5.220228,50.178573
+,Des Fagnes,micro,26 Route de Nismes,,,Couvin,Région wallonne,5660,Belgium,+32 60 31 39 19,http://www.brasseriedesfagnes.com/,4.523521,50.084298
+,Abbaye Chimay,micro,294 Rue du Rond-Point,,,Chimay,Région wallonne,6464,Belgium,+32 60 21 05 11,https://www.scourmont.be/,4.337552,49.981364
+,Bouillon,micro,85 Rue du Palis,,,Bouillon,Région wallonne,6830,Belgium,+32 61 86 03 66,http://www.rochehaut-attractions.be/,5.086697,49.821794
+,Abbaye d'Orval,micro,1 Orval,,,Florenville,Région wallonne,6823,Belgium,+32 61 31 10 60,https://www.orval.be/fr/,5.349561,49.638430
+,Gigi de l'Etoile,micro,96 Grand Rue,,,Meix-devant-Virton,Région wallonne,6769,Belgium,+32 63 57 75 15,,5.425560,49.619644
+,DS,micro,12b Roeselarestraat,,,Diksmuide,Vlaanderen,8600,Belgium,+32 474 42 12 73,http://www.dedollebrouwers.be/,2.9032152,51.0279189
+,Gambrinus B.V.,micro,13 Grote Markt,,,Leuven,Vlaanderen,3000,Belgium,+32 16 20 12 38,https://www.instagram.com/gambrinusleuven/,4.7004012,50.8790298
+,Mans,micro,26 Walplein,,,Brugge,Vlaanderen,8000,Belgium,+32 50 44 42 25,http://www.halvemaan.be/,3.224178,51.2024473
+,Antwerpse Brouw Compagnie,micro,21 Indiestraat,,,Antwerpen,Vlaanderen,2000,Belgium,+32 3 293 91 84,http://www.seef.be/,4.4107791,51.234776
+,Pakhuis,micro,76 Vlaamsekaai,,,Antwerpen,Vlaanderen,2000,Belgium,+32 3 315 90 95,http://www.pakhuis.info/,4.387955000000001,51.2073246
+,Dirk en Katrien Vissers (De Proost Dorpsbrouwerij Humulus),micro,19 Pelgrimsplein,,,Arendonk,Vlaanderen,2370,Belgium,+32 14 67 08 30,,5.0981277,51.3344375
+,Jef Goetelen ('t Hofbrouwerijke),micro,149 Hoogstraat,,,Putte,Vlaanderen,2580,Belgium,+32 15 75 77 07,http://thofbrouwerijke.be/,4.661289099999999,51.0594007
+,Het Hoefijzer J. Lambrechts,micro,149 Hoogstraat,,,Putte,Vlaanderen,2580,Belgium,+32 15 75 77 07,http://thofbrouwerijke.be/,4.661289099999999,51.0594007
+,De Mortselarij,micro,15 Rode Leeuwlaan,,,Mortsel,Vlaanderen,2640,Belgium,+32 476 06 07 41,http://www.demortselarij.be/,4.448178899999999,51.18566449999999
+,Doef,micro,11 Hondjesberglei,,,Brasschaat,Vlaanderen,2930,Belgium,+32 492 53 46 60,,4.4608043,51.2936904
+,Mokke,micro,16 Essensteenweg,A10,,Kapellen,Vlaanderen,2950,Belgium,+32 473 47 09 16,http://www.oudecaert.be/,4.5066673,51.35453039999999
+,Moortgat,large,58 Breendonk-Dorp,,,Puurs-Sint-Amands,Vlaanderen,2870,Belgium,+32 3 860 94 00,https://www.duvel.com/,4.3274569,51.0415134
+,Campina,micro,7 Markt,,,Dessel,Vlaanderen,2480,Belgium,+32 477 64 96 35,http://www.decampina.be/,5.1125824,51.239693
+,Inglorious Brew Stars,micro,33 Seraphin de Grootestraat,,,Antwerpen,Vlaanderen,2100,Belgium,,http://www.ingloriousbrewstars.com/,4.4782972,51.2201421
+,Crow Mountain,micro,1 Rijkmakerlaan,,,Essen,Vlaanderen,2910,Belgium,,http://www.crowmountain.be/,4.5056544,51.4624163
+,Geels,micro,5 Worfthoeven,,,Geel,Vlaanderen,2440,Belgium,+32 495 57 89 25,,4.951602900000001,51.1995813
+,Geels Brouwhuis,closed,41 Nieuwstraat,,,Geel,Vlaanderen,2440,Belgium,+32 470 71 02 14,,4.9930721,51.1622073
+,Den Bierberg,micro,Cultuurplein,,,Heist-op-den-Berg,Vlaanderen,2220,Belgium,+32 15 75 33 39,http://www.het3debedrijf.be/,4.7174384,51.0760516
+,DijkWaert,micro,2 Meivuurstraat,,,Herentals,Vlaanderen,2200,Belgium,+32 473 96 40 78,http://www.brouwerijleysen.be/,4.8234701,51.1992828
+,Hobbybrouwers Hopscheppers,micro,2 Meivuurstraat,,,Herentals,Vlaanderen,2200,Belgium,+32 473 96 40 78,http://www.brouwerijleysen.be/,4.8234701,51.1992828
+,Achilles,micro,2/A Keizershofdijk,,,Heist-op-den-Berg,Vlaanderen,2222,Belgium,+32 15 24 83 64,https://www.bergstraat.be/nl/rubriek/4-culinair/321-serafijnbieren/,4.7182522,51.1049059
+,Boskal,closed,2 Frans Raatsstraat,,,Kalmthout,Vlaanderen,2920,Belgium,+32 497 47 99 94,,4.4705598,51.4000338
+,Kastelse Biervereniging,micro,2 Breevensedijk,,,Kasterlee,Vlaanderen,2460,Belgium,,https://kastelsekayakklub.be/,4.9779395,51.22712629999999
+,Swiekes,micro,52 Koning Boudewijnlaan,,,Oud-Turnhout,Vlaanderen,2360,Belgium,,https://swiekes.be/,4.978033,51.318133
+,Cuyckens Alfons,micro,134 Rue de Sondeville,,,Péruwelz,Région wallonne,7600,Belgium,+32 69 36 26 10,http://brasseriecaulier.beer/,3.5878759,50.50268759999999
+,Lamot,micro,,,,Mechelen,Flanders,2800,Belgium,,,4.476390299999999,51.0259837
+,Supra,micro,49 Guido Gezellelaan,,,Mechelen,Vlaanderen,2800,Belgium,+32 15 28 71 41,http://www.hetanker.be/,4.4729477,51.031813
+,Scheldebrouwerij,micro,5 Wenenstraat,,,Hoogstraten,Vlaanderen,2321,Belgium,+32 3 665 36 96,https://www.scheldebrouwerij.com/,4.7230097,51.4731116
+,Sterkens,micro,9 Wenenstraat,,,Hoogstraten,Vlaanderen,2321,Belgium,+32 3 317 00 50,https://www.brouwerijsterkens.be/,4.7226653,51.4733017
+,’t Drankorgel,micro,31a Geelsebaan,,,Mol,Vlaanderen,2400,Belgium,+32 496 76 40 63,http://tdrankorgel.be/,5.0569549,51.17625779999999
+,De Populieren,micro,15 Rode Leeuwlaan,,,Mortsel,Vlaanderen,2640,Belgium,+32 476 06 07 41,http://www.demortselarij.be/,4.448178899999999,51.18566449999999
+,Vissenberg,micro,1 Broechemsesteenweg,,,Boechout,Vlaanderen,2531,Belgium,+32 486 66 90 09,,4.5278917,51.1766813
+,De Hemelbrouwers,closed,87 Kapelstraat,,,Ranst,Vlaanderen,2520,Belgium,+32 494 70 65 67,https://m.facebook.com/DeHemelbrouwers/,4.6051923,51.1842992
+,De Schieve,closed,1 Schieve Dreef,,,Balen,Vlaanderen,2491,Belgium,,,5.1605114,51.119606
+,Het Nest,micro,17 Beyntel,,,Oud-Turnhout,Vlaanderen,2360,Belgium,+32 495 23 47 29,https://www.brouwerijhetnest.be/,4.9706033,51.3271344
+,Villers (Huyghe),micro,14b Geraardsbergse steenweg,,,Merelbeke-Melle,Vlaanderen,9090,Belgium,+32 9 252 15 01,https://www.brouwerijhuyghe.be/nl,3.8049436,50.9995591
+,Ganzenhof,micro,377 Steenwinkelstraat,,,Schelle,Vlaanderen,2627,Belgium,+32 485 68 51 39,http://www.brouwerij-ganzenhof.be/,4.3571918,51.1258944
+,Ganzenhof Kludde,micro,377 Steenwinkelstraat,,,Schelle,Vlaanderen,2627,Belgium,+32 485 68 51 39,http://www.brouwerij-ganzenhof.be/,4.3571918,51.1258944
+,Thuisbrouwerij de vierkante meter,closed,40 Het Innemen,,,Brasschaat,Vlaanderen,2930,Belgium,,,4.5014956,51.3057931
+,Veraart (De Haan),closed,10 Abtsdreef,,,Stabroek,Vlaanderen,2940,Belgium,+32 3 568 60 06,,4.3621919,51.33265189999999
+,de Lelie,micro,21 Leliestraat,17,,Vosselaar,Vlaanderen,2350,Belgium,,http://www.brouwerijdelelie.be/,4.8984456,51.3089343
+,Trappisten van Westmalle,micro,496 Antwerpsesteenweg,,,Malle,Vlaanderen,2390,Belgium,+32 3 312 92 22,http://www.trappistwestmalle.be/,4.6581281,51.28551419999999
+,Bio-Brouwerij Den Hopperd,micro,41 Netestraat,,,Hulshout,Vlaanderen,2235,Belgium,+32 16 68 09 78,http://www.denhopperd.be/,4.8342713,51.06305829999999
+,Gageleer,micro,66 Hertoginstraat,,,Turnhout,Vlaanderen,2300,Belgium,,http://www.gageleer.be/,4.925267799999999,51.3256734
+,Pirlot,closed,3 Heistraat,,,Zandhoven,Vlaanderen,2240,Belgium,+32 3 314 33 70,https://www.brouwerijpirlot.be/,4.6738754,51.2279286
+,Imperial,micro,56 Rue Gheude,,,Anderlecht,Brussels Capital Region,1070,Belgium,+32 2 521 49 28,http://www.cantillon.be/,4.335653199999999,50.8415113
+,28 Brewery,micro,80 Boulevard Anspach,,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 880 47 00,https://www.belgianbeerworld.be/,4.3499006,50.8482035
+,Brasserie et malterie de la Marine,micro,,,,Brussel,Brussels Capital Region,1070,Belgium,,http://www.ermitagenanobrasserie.be/,4.3372074,50.8407377
+,Brussels Beer Project,micro,188 Rue Antoine Dansaert,,,Bruxelles,Brussels Capital Region,1000,Belgium,,http://beerproject.be/pages/dansaert-taproom,4.341909,50.852757
+,Grote Brouwerij Atlas,micro,56 Rue Gheude,,,Anderlecht,Brussels Capital Region,1070,Belgium,+32 2 521 49 28,http://www.cantillon.be/,4.335653199999999,50.8415113
+,Leopold,micro,2 Rue de Louvain,,,Bruxelles,Brussels Capital Region,1000,Belgium,,https://www.leopoldcaferoyal.com/,4.3635023,50.8477304
+,Les Brasseurs De La Grand Place,closed,42 Rue au Beurre,,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 511 26 12,,4.3521727,50.8473807
+,Monkey Monk,micro,37 Vlamingstraat,,,Brugge,Vlaanderen,8000,Belgium,+32 477 30 48 09,,3.2239792,51.2112794
+,Ixelberg,micro,374 Chaussée de Jette,,,Brussels,Brussels Capital Region,1081,Belgium,+32 491 06 56 33,https://www.tipsytribe.be/,4.330326299999999,50.8666227
+,Beerstorming,micro,75 Chaussée d'Alsemberg,,,Saint-Gilles,Brussels Capital Region,1060,Belgium,+32 470 01 45 58,http://www.beerstorming.net/,4.343211,50.82435
+,Vilvordia,micro,374 Chaussée de Jette,,,Brussels,Brussels Capital Region,1081,Belgium,+32 491 06 56 33,https://www.tipsytribe.be/,4.330326299999999,50.8666227
+,De La Chasse Royale,micro,80 Boulevard Anspach,,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 880 47 00,https://www.belgianbeerworld.be/,4.3499006,50.8482035
+,Roelants,micro,55 Avenue Emile Max,,,Schaerbeek,Brussels Capital Region,1030,Belgium,+32 479 58 12 19,https://www.facebook.com/PythonCraftBeer/,4.3921374,50.8496703
+,Aerts,micro,188 Rue Antoine Dansaert,,,Bruxelles,Brussels Capital Region,1000,Belgium,,http://beerproject.be/pages/dansaert-taproom,4.341909,50.852757
+,Imprimerie,micro,89 Rue de Stalle,,,Uccle,Brussels Capital Region,1180,Belgium,+32 2 332 51 94,http://www.allps.be/,4.3274247,50.79644039999999
+,Wiels,micro,354 Avenue Van Volxem,,,Forest,Brussels Capital Region,1190,Belgium,+32 2 340 00 53,http://www.wiels.org/,4.3257873,50.8243881
+,Brouwerij en mouterij Zeeberg,micro,1A Gerstenstraat,,,Aalst,Vlaanderen,9320,Belgium,+32 491 73 89 33,https://debrouwerij-erembodegem.be/,4.0607552,50.92068459999999
+,De Gheest (Dendria),micro,22 Kerkstraat,,,Aalst,Vlaanderen,9300,Belgium,+32 476 86 86 22,http://www.denheiligengheest.be/,4.040403599999999,50.9381649
+,J De Blieck,micro,12 Antwerpsesteenweg,,,Temse,Vlaanderen,9140,Belgium,+32 3 349 31 00,http://www.vbdck.be/,4.1760797,51.1127089
+,Sensalost,micro,14b Geraardsbergse steenweg,,,Merelbeke-Melle,Vlaanderen,9090,Belgium,+32 9 252 15 01,https://www.brouwerijhuyghe.be/nl,3.8049436,50.9995591
+,Van Baasrode,micro,96 Kerkstraat,,,Buggenhout,Vlaanderen,9255,Belgium,+32 52 33 23 23,https://www.bosteelsbrewery.com/nl,4.2008693,51.0133595
+,Boelens,micro,7 Kerkstraat,,,Sint-Niklaas,Vlaanderen,9111,Belgium,+32 3 772 32 00,http://www.brouwerijboelens.be/,4.089088200000001,51.1472922
+,Malheur,micro,181 Mandekensstraat,,,Buggenhout,Vlaanderen,9255,Belgium,+32 52 33 39 11,https://www.malheur.be/,4.1581032,51.0231134
+,'T Kroontje,micro,62 Hogebrug,,,Lebbeke,Vlaanderen,9280,Belgium,+32 495 43 33 25,http://www.tkroontje.be/,4.091392799999999,51.0078878
+,Dilewyns,micro,5 Vlassenhout,,,Dendermonde,Vlaanderen,9200,Belgium,+32 52 20 18 57,http://www.vicaris.be/,4.1295917,51.0323915
+,Kruger,micro,82 Stationsstraat,,,Eeklo,Vlaanderen,9900,Belgium,+32 485 05 37 87,,3.5714371,51.1818783
+,Ide,micro,3 B Stationsstraat,,,Nazareth-De Pinte,Vlaanderen,9810,Belgium,,,3.6424934,50.9569832
+,Glazen Toren,micro,13 Glazentorenweg,,,Erpe-Mere,Vlaanderen,9420,Belgium,+32 53 83 03 80,http://www.glazentoren.be/,3.9670886,50.9192514
+,Contreras,micro,110 Molenstraat,,,Gavere,Vlaanderen,9890,Belgium,+32 9 384 27 06,http://www.contreras.be/,3.6740622,50.9236324
+,BVBA De Hopduvel,micro,7 Dok-Noord,,,Gent,Vlaanderen,9000,Belgium,+32 9 225 20 68,http://www.dehopduvel.be/,3.732965399999999,51.0664222
+,De Boezemvrienden,micro,3 Goudenleeuwplein,,,Gent,Vlaanderen,9000,Belgium,+32 472 60 47 46,http://www.beersecret.com/,3.7234972,51.0544141
+,De Laatste Drinker,micro,3 Goudenleeuwplein,,,Gent,Vlaanderen,9000,Belgium,+32 472 60 47 46,http://www.beersecret.com/,3.7234972,51.0544141
+,Excelsior,micro,2 Ijkmeesterstraat,244,,Gent,Vlaanderen,9000,Belgium,,,3.7305274,51.0560438
+,Force Majeure,micro,1 Rembert Dodoensdreef,,,Gent,Vlaanderen,9000,Belgium,+32 9 269 02 69,http://www.gruut.be/,3.7302252,51.0575661
+,Gent City Brewery Gruut,micro,1 Rembert Dodoensdreef,,,Gent,Vlaanderen,9000,Belgium,+32 9 269 02 69,http://www.gruut.be/,3.7302252,51.0575661
+,Haeseveld,micro,430 Alfons Braeckmanlaan,,,Gent,Vlaanderen,9040,Belgium,+32 9 430 19 90,https://haeseveld.be/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing,3.797889999999999,51.0692746
+,L'Arogante,micro,1 Rembert Dodoensdreef,,,Gent,Vlaanderen,9000,Belgium,+32 9 269 02 69,http://www.gruut.be/,3.7302252,51.0575661
+,Meiresonne,micro,1 Rembert Dodoensdreef,,,Gent,Vlaanderen,9000,Belgium,+32 9 269 02 69,http://www.gruut.be/,3.7302252,51.0575661
+,Geraardsbergen,micro,100 Zarlardingestraat,,,Geraardsbergen,Vlaanderen,9500,Belgium,+32 498 44 28 45,http://www.ghulden-cop.be/,3.8404053,50.76377859999999
+,Wieze Beer Belgium N.V.,micro,6 Nijverheidslaan,B-G 6,,Aalst,Vlaanderen,9308,Belgium,+32 52 77 00 77,http://www.wiezebier.be/,4.0436633,50.9841512
+,Brixius,micro,53 Langestraat,,,Beveren-Kruibeke-Zwijndrecht,Vlaanderen,9150,Belgium,+32 497 17 75 14,http://www.brouwerijbrixius.be/,4.314185699999999,51.1731676
+,Proefbrouwerij,micro,20 Doornzelestraat,,,Lochristi,Vlaanderen,9080,Belgium,+32 9 356 71 02,http://www.proefbrouwerij.com/,3.8164882,51.1160013
+,Mareklop,micro,24 H.-Geestmolenstraat,,,Lokeren,Vlaanderen,9160,Belgium,+32 494 84 49 66,,3.9725465,51.1112562
+,Slaapmutske,micro,15 Oefenpleinstraat,,,Merelbeke-Melle,Vlaanderen,9090,Belgium,+32 9 231 93 86,http://www.slaapmutske.be/,3.7818383,51.0241809
+,de Sater,micro,159c Steenweg,,,Nazareth-De Pinte,Vlaanderen,9810,Belgium,+32 473 65 47 75,http://www.brouwerijdesater.be/,3.6436713,50.959657
+,Clarysse & Co NV,micro,12 Bedrijvenpark Coupure,,,Oudenaarde,Vlaanderen,9700,Belgium,+32 55 31 96 74,http://www.claryssedranken.be/,3.5900971,50.837593
+,Liefmans,micro,200 Aalststraat,,,Oudenaarde,Vlaanderen,9700,Belgium,+32 3 866 95 21,https://www.liefmans.com/nl-be/brouwerij,3.6161911,50.8463205
+,Rolling Hills,micro,45S Industriepark de Bruwaan,,,Oudenaarde,Vlaanderen,9700,Belgium,+32 484 48 83 91,http://www.rollinghills.be/,3.5933523,50.8609143
+,Capoen,micro,21 Indiestraat,,,Antwerpen,Vlaanderen,2000,Belgium,+32 3 293 91 84,http://www.seef.be/,4.4107791,51.234776
+,Van den Bossche,micro,16 Sint-Lievensplein,,,Herzele,Vlaanderen,9550,Belgium,+32 54 50 04 11,http://www.brouwerijvandenbossche.be/,3.8843056,50.8565322
+,Verbeeck J. - Back,micro,12 Antwerpsesteenweg,,,Temse,Vlaanderen,9140,Belgium,+32 3 349 31 00,http://www.vbdck.be/,4.1760797,51.1127089
+,Rubbens,micro,101 Bohemen,,,Wichelen,Vlaanderen,9260,Belgium,+32 52 43 28 12,https://rubbens.be/,3.9892005,51.00200659999999
+,Callebaut,micro,122 Aalstersestraat,,,Lebbeke,Vlaanderen,9280,Belgium,+32 53 73 02 11,http://www.barry-callebaut.com/,4.094721499999999,50.9807356
+,Van Roy,micro,33 Rijksweg,,,Harelbeke,Vlaanderen,8531,Belgium,+32 56 71 90 91,http://www.brouwerijdebrabandere.be/,3.2988728,50.8628259
+,Wagon,micro,80 Boulevard Anspach,,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 880 47 00,https://www.belgianbeerworld.be/,4.3499006,50.8482035
+,De Donder,micro,159 Veldeken,,,Zele,Vlaanderen,9240,Belgium,+32 493 71 05 79,,4.0402355,51.05526820000001
+,Crombe Marcel,closed,10 Hospitaalstraat,,,Zottegem,Vlaanderen,9620,Belgium,,http://www.brouwerijcrombe.be/,3.8119011,50.869811
+,Sjarelke,micro,97 Ter Heidelaan,,,Aarschot,Vlaanderen,3200,Belgium,+32 16 56 15 71,http://www.twittoreke.be/,4.8133116,50.9911915
+,Wolf,micro,25 Zandstraat,,,Begijnendijk,Vlaanderen,3130,Belgium,+32 16 41 30 63,http://www.wolfbelgium.com/,4.7656968,51.0196745
+,Brew Bakers,micro,6 Abdijstraat,,,Affligem,Vlaanderen,1790,Belgium,+32 53 66 70 25,https://abdijaffligem.wordpress.com/,4.1134502,50.9242386
+,Heyvaert P.V.B.A,micro,188 Rue Antoine Dansaert,,,Bruxelles,Brussels Capital Region,1000,Belgium,,http://beerproject.be/pages/dansaert-taproom,4.341909,50.852757
+,Keersmaeker,micro,7A Dokkenstraat,,,Asse,Vlaanderen,1730,Belgium,+32 2 452 46 82,,4.1479493,50.8985996
+,3 Fonteinen,micro,47 Molenstraat,,,Beersel,Vlaanderen,1651,Belgium,+32 2 306 71 03,https://3fonteinen.be/nl/,4.2736147,50.763105
+,Oud Beersel,micro,230 Laarheidestraat,,,Beersel,Vlaanderen,1650,Belgium,+32 2 680 79 54,https://oudbeersel.com/opening-hours/,4.3006962,50.7585967
+,Het Sas,micro,28 Provinciesteenweg,,,Boortmeerbeek,Vlaanderen,3190,Belgium,+32 16 60 15 01,http://www.haacht.com/,4.610674599999999,50.9657109
+,Buvens,micro,8 Doornhof,,,Bekkevoort,Vlaanderen,3460,Belgium,+32 13 33 67 19,http://www.buvens-assent.be/,5.0198806,50.9465903
+,Cerckel,micro,Refugiestraat,,,Diest,Vlaanderen,3290,Belgium,,https://inventaris.onroerenderfgoed.be/erfgoedobjecten/200131,5.0508463,50.9862671
+,Loterbol,micro,58 Michel Theysstraat,,,Diest,Vlaanderen,3290,Belgium,,http://www.loterbol.be/,5.0543848,50.9878115
+,Timmermans,micro,11 Kerkstraat,,,Dilbeek,Vlaanderen,1701,Belgium,+32 2 569 03 57,https://brtimmermans.be/en/,4.2473805,50.8399085
+,Meesters,micro,1D Nelcastraat,,,Lendelede,Vlaanderen,8860,Belgium,+32 468 14 36 80,http://www.brouwerij-demeester.be/,3.2467664,50.88616769999999
+,Boortmeerbeek,micro,28 Provinciesteenweg,,,Boortmeerbeek,Vlaanderen,3190,Belgium,+32 16 60 15 01,http://www.haacht.com/,4.610674599999999,50.9657109
+,Hof ten Dormaal,micro,2 Caubergstraat,,,Haacht,Vlaanderen,3150,Belgium,+32 497 35 94 23,https://hoftendormaal.com/,4.664523099999999,50.95019749999999
+,Vander Linden,micro,62 Rameistraat,,,Overijse,Vlaanderen,3090,Belgium,+32 2 687 76 00,http://www.alldrinks.be/,4.5289526,50.7492102
+,Grote Brouwerijen van Hougaerde,micro,2 Ernest Ourystraat,,,Hoegaarden,Vlaanderen,3320,Belgium,+32 16 81 71 64,http://nieuwhuys.be/,4.8929163,50.7744416
+,Nieuwhuys,micro,2 Ernest Ourystraat,,,Hoegaarden,Vlaanderen,3320,Belgium,+32 16 81 71 64,http://nieuwhuys.be/,4.8929163,50.7744416
+,De Vlier,micro,219 Leuvensebaan,,,Holsbeek,Vlaanderen,3220,Belgium,+32 473 83 94 63,https://www.brouwerijdevlier.be/brouwerij.php,4.7309465,50.9135067
+,Flurk,micro,23 Annonciadenstraat,,,Kortenberg,Vlaanderen,3078,Belgium,,http://www.chiroflurk.be/,4.568486700000001,50.8766829
+,Den Triest,micro,24 Trieststraat,,,Willebroek,Vlaanderen,1880,Belgium,+32 475 74 38 05,http://www.dentriest.be/,4.362854100000001,51.0221423
+,Den Druppel,closed,8a Kapellestraat,,,Aarschot,Vlaanderen,3201,Belgium,,http://www.brouwerij-dendruppel.com/,4.8548094,51.0071697
+,Lindemans,micro,1479 Lenniksebaan,,,Sint-Pieters-Leeuw,Vlaanderen,1602,Belgium,+32 2 569 03 90,http://www.lindemans.be/,4.2127611,50.815746
+,F Boon,micro,65 Fonteinstraat,,,Halle,Vlaanderen,1502,Belgium,+32 2 356 66 44,http://www.boon.be/,4.2193827,50.7117523
+,Vrijstaat Vanmol,micro,42A Nellekenstraat,,,Lennik,Vlaanderen,1750,Belgium,,https://www.vrijstaat.be/,4.132768599999999,50.82123000000001
+,Breda,closed,15 Muntstraat,,,Leuven,Vlaanderen,3000,Belgium,+32 16 36 16 27,http://brouwerijbreda.beer/,4.702669999999999,50.878141
+,InBev Belgium,large,1 Brouwerijplein,,,Leuven,Vlaanderen,3000,Belgium,+32 16 27 61 11,http://www.ab-inbev.be/,4.7074087,50.88667170000001
+,Huisbrouwerij Lestedroppel,micro,21 Eikendreef,,,Houthalen-Helchteren,Vlaanderen,3530,Belgium,+32 11 60 69 99,http://www.terdolen.be/,5.3883877,51.064742
+,Craywinckelhof,micro,263 Staatsbaan,,,Lubbeek,Vlaanderen,3210,Belgium,+32 16 49 84 70,http://www.craywinckelhof.be/,4.8480777,50.9018806
+,De Block,micro,92 Nieuwbaan,,,Merchtem,Vlaanderen,1785,Belgium,+32 52 37 21 59,http://www.brewerydeblock.com/,4.222734,50.98492719999999
+,Brouwerij De Kroon,micro,20 Beekstraat,,,Huldenberg,Vlaanderen,3040,Belgium,+32 16 43 94 72,http://www.dekroonneerijse.be/,4.623952,50.81562
+,Gibrit,micro,12 Antwerpsesteenweg,,,Temse,Vlaanderen,9140,Belgium,+32 3 349 31 00,http://www.vbdck.be/,4.1760797,51.1127089
+,Affligem - De Smedt (Heineken),closed,18 Ringlaan,,,Opwijk,Vlaanderen,1745,Belgium,,https://www.affligembeer.com/nl/nl/age-gate?returnUrl=https%3A%2F%2Fwww.affligembeer.com%2Fnl%2Fnl%2Fhomepage,4.1905608,50.97070000000001
+,Guldenboot,micro,6B Abdijstraat,,,Affligem,Vlaanderen,1790,Belgium,+32 479 05 41 43,https://www.deoudebrouwerijaffligem.be/,4.1136097,50.9226989
+,Mena,micro,2 Provinciebaan,,,Rotselaar,Vlaanderen,3110,Belgium,+32 16 61 64 07,https://www.rotselaar.be/zaalverhuur-gc-de-mena,4.7112358,50.9505801
+,Belle-Vue,micro,144 Bergensesteenweg,,,Sint-Pieters-Leeuw,Région flamande,1600,Belgium,,http://www.ab-inbev.com/,4.2872451,50.79901109999999
+,De La Senne,micro,19 Anna Bochdreef,21,,Brussel,Brussels Capital Region,1000,Belgium,,http://brasseriedelasenne.be/,4.3487361,50.8677251
+,St Hubertus,micro,52 Sint-Laureinsstraat,,,Sint-Pieters-Leeuw,Vlaanderen,1600,Belgium,+32 478 24 65 94,http://www.hubbrewers.be/,4.197032699999999,50.7910528
+,Troch,micro,20 Langestraat,,,Ternat,Vlaanderen,1741,Belgium,+32 2 582 10 27,http://www.detroch.be/,4.1639283,50.8530106
+,Alen-Bruyninckx En Zonen,micro,41 Diestsestraat,,,Kortenaken,Vlaanderen,3470,Belgium,+32 479 40 98 39,https://www.antidoot.be/,5.0621753,50.9122746
+,de Vaart,closed,24 Pontstraat,,,Zemst,Vlaanderen,1981,Belgium,,,4.5253621,50.9917392
+,Chimay,micro,8 Route Charlemagne,,,Chimay,Région wallonne,6464,Belgium,+32 60 21 03 11,http://chimay.com/,4.3780869,50.0359851
+,Des Carrieres,micro,62 Rue de Condé,,,Beloeil,Région wallonne,7971,Belgium,+32 69 84 49 99,http://www.diole.be/,3.6466815,50.52084250000001
+,Binchoise,micro,38b Faubourg Saint-Paul,,,Binche,Région wallonne,7130,Belgium,+32 64 33 61 86,http://www.labinchoise.be/,4.166372,50.40821769999999
+,Pairi Daiza,micro,,,,Brugelette,Région wallonne,7940,Belgium,,https://weiny.top/la-brasserie-3,3.8854326,50.5855729
+,Allies,micro,,,,Thuin,Région wallonne,6530,Belgium,,https://www.brasserievds.be/,4.282840999999999,50.3604713
+,Brasserie Les Ouvriers Reunis,micro,5 Rue Edmond Foulon,,,Charleroi,Région wallonne,6044,Belgium,+32 489 44 68 89,,4.3932467,50.4417662
+,Delbruyere,micro,4 Impasse de la Fidélité,,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 514 44 34,https://www.deliriumvillage.com/,4.3538834,50.8485002
+,Brasserie du Comte dEgmont,micro,17 Grand'Place,,,Chièvres,Région wallonne,7950,Belgium,+32 68 66 51 12,https://www.myseniors.be/fr/hebergement/maisons-repos/province-du-hainaut/chievres/1582-residence-comte-degmont.html,3.8082042,50.5876292
+,Du Bavery,micro,225 Val Dieu,,,Aubel,Région wallonne,4880,Belgium,+32 87 68 75 87,http://www.val-dieu.com/,5.804413100000001,50.6979687
+,Blaugies,micro,435 Rue de la Frontière,,,Dour,Région wallonne,7370,Belgium,+32 65 65 03 60,https://www.brasseriedeblaugies.com/,3.8430512,50.3585658
+,Scassenes,micro,118 Rue de Restaumont,,,Écaussinnes,Région wallonne,7190,Belgium,+32 67 34 22 77,http://www.brasseriescassenes.be/,4.1331614,50.55868580000001
+,d'Erquelinnes,micro,76 Rue Sainte-Thérèse,,,Erquelinnes,Région wallonne,6560,Belgium,+32 71 55 86 66,http://www.bierenaturelle.be/,4.1131495,50.307865
+,Abbay de Bonne Esperance,micro,22 Rue Grégoire Jurion,,,Estinnes,Région wallonne,7120,Belgium,+32 64 31 08 08,http://www.abbaye-bonne-esperance.be/,4.14344,50.3863995
+,Caulier S.A.,micro,134 Rue de Sondeville,,,Péruwelz,Région wallonne,7600,Belgium,+32 69 36 26 10,http://brasseriecaulier.beer/,3.5878759,50.50268759999999
+,Val De Sambre,micro,,,,Thuin,Région wallonne,6530,Belgium,,https://www.brasserievds.be/,4.282840999999999,50.3604713
+,Centrale de Marbaix-la-Tour,micro,26 Walplein,,,Brugge,Vlaanderen,8000,Belgium,+32 50 44 42 25,http://www.halvemaan.be/,3.224178,51.2024473
+,Brasserie des Legendes,micro,19 Rue du Castel,,,Ath,Région wallonne,7801,Belgium,+32 68 28 79 36,http://www.brasseriedeslegendes.be/,3.7570557,50.62159459999999
+,Geants,micro,19 Rue du Castel,,,Ath,Région wallonne,7801,Belgium,+32 68 28 79 36,http://www.brasseriedeslegendes.be/,3.7570557,50.62159459999999
+,Union,micro,,,,Charleroi,Wallonia,6040,Belgium,,,4.413988,50.439803
+,Brasserie de La Poste J. Van Windekens,micro,11 Rue de Pierre de Simpel,,,Comines-Warneton,Région wallonne,7784,Belgium,+33 6 23 26 57 40,https://www.facebook.com/mallepostewarneton/,2.9505157,50.7518949
+,Croquet,micro,54 Chemin du Croly,,,Rebecq,Région wallonne,1430,Belgium,+32 67 67 07 66,http://www.brasserielefebvre.be/,4.1521165,50.6747706
+,St-Feuillien - Friart,micro,20 Rue d'Houdeng,,,Le Rœulx,Région wallonne,7070,Belgium,+32 64 31 18 18,http://www.st-feuillien.com/,4.1098905,50.5021445
+,Brasserie de Londres - Mons,closed,3 Avenue Frère Orban,,,Mons,Région wallonne,7000,Belgium,+32 65 35 13 05,,3.9549548,50.4508307
+,La Montoise,micro,27 Marché aux Herbes,,,Mons,Région wallonne,7000,Belgium,+32 65 84 59 25,https://www.facebook.com/LaMontoise/,3.9528228,50.4528055
+,Duwac,micro,4B Dok-Noord,,,Gent,Vlaanderen,9000,Belgium,,https://www.dokbrewingcompany.be/,3.7318878,51.0657145
+,Caulier,micro,134 Rue de Sondeville,,,Péruwelz,Région wallonne,7600,Belgium,+32 69 36 26 10,http://brasseriecaulier.beer/,3.5878759,50.50268759999999
+,Vanuxeem,micro,150 Rue d'Armentières,,,Comines-Warneton,Région wallonne,7782,Belgium,+32 56 58 89 23,http://www.vanuxeem.com/,2.8852335,50.7146792
+,Abbaye de Brogne,micro,3 Place de Brogne,,,Mettet,Région wallonne,5640,Belgium,+32 71 79 70 70,https://www.brogne.com/labbaye/,4.741607999999999,50.3456848
+,de Cazeau,micro,67 Rue Cazeau,,,Tournai,Région wallonne,7520,Belgium,+32 69 35 25 53,http://brasseriedecazeau.be/,3.2726821,50.6341125
+,Val-Dieu,micro,225 Val Dieu,,,Aubel,Région wallonne,4880,Belgium,+32 87 68 75 87,http://www.val-dieu.com/,5.804413100000001,50.6979687
+,Leopold 7,micro,17 Rue de la Médaille,,,Héron,Région wallonne,4218,Belgium,,,5.119381600000001,50.5297951
+,Eupener Aktien,micro,11 Schulstraße,,,Eupen,Région wallonne,4700,Belgium,+32 472 37 54 29,http://www.brauerei-neau.com/,6.0352484,50.6305349
+,La Brasserie Belge,micro,7 Place Coronmeuse,,,Luik,Waals Gewest,4040,Belgium,+32 470 32 08 01,http://www.labrasseriebelge.com/,5.6125417,50.6553695
+,Brasserie Grain dorge,micro,3 Rue Laschet,,,Plombières,Région wallonne,4852,Belgium,+32 87 78 77 84,https://www.grain-dorge.com/,5.9195153,50.7239602
+,Piedboeuf,large,1723 Avenue Georges Truffaut,,,Liège,Région wallonne,4020,Belgium,+32 493 97 58 76,http://www.ab-inbev.be/,5.6268129,50.6482391
+,La Botteresse de Sur-les-Bois,micro,15 Large Voie,,,Liège,Région wallonne,4020,Belgium,+32 4 366 18 62,,5.6251687,50.6336294
+,Les Brasseurs de la Dyle,micro,18 N671,,,Liège,Région wallonne,4000,Belgium,+32 4 290 50 30,https://www.facebook.com/brasseriesdeliege,5.5762794,50.64204400000001
+,Microbrasserie de la Principaute,micro,14 Impasse des Ursulines,,,Liège,Région wallonne,4000,Belgium,+32 4 266 06 92,,5.5775928,50.6475596
+,BOMBrewery BVBA,micro,3 Loods,,,Roeselare,Vlaanderen,8800,Belgium,+32 479 68 10 24,https://triporteurbeer.com/dutchv/,3.1600493,50.92256860000001
+,Anders,micro,1400 Stadsbeemd,,,Halen,Vlaanderen,3545,Belgium,+32 13 46 03 60,http://www.brouwerij-anders.be/,5.105251,50.9475244
+,Djinn Creations,micro,63 Klein Tegelrijstraat,,,Nieuwerkerken,Vlaanderen,3850,Belgium,+32 473 93 20 35,https://www.nonneke.be/,5.1892722,50.87801349999999
+,Halen,micro,36 Diestersteenweg,,,Halen,Vlaanderen,3545,Belgium,,https://halenbreweries.com/,5.1084082,50.9488606
+,Trappistenabdij De Achelse Kluis,micro,1 De Kluis,,,Hamont-Achel,Vlaanderen,3930,Belgium,+32 11 23 91 00,http://www.achelsekluis.be/,5.488400599999999,51.2984254
+,Donn,micro,21 Bampslaan,,,Hasselt,Vlaanderen,3500,Belgium,+32 496 36 25 87,http://www.hophemel.be/,5.3307538,50.9304084
+,Herkenrode,micro,4 Herkenrodeabdij,,,Hasselt,Vlaanderen,3511,Belgium,+32 11 93 65 00,http://www.abdijvanherkenrode.be/,5.2786393,50.9555229
+,Savio,micro,21 Eikendreef,,,Houthalen-Helchteren,Vlaanderen,3530,Belgium,+32 11 60 69 99,http://www.terdolen.be/,5.3883877,51.064742
+,Ter Dolen (de Dool),micro,21 Eikendreef,,,Houthalen-Helchteren,Vlaanderen,3530,Belgium,+32 11 60 69 99,http://www.terdolen.be/,5.3883877,51.064742
+,Enigma,micro,5A Nijverheidslaan,,,Diest,Vlaanderen,3290,Belgium,+32 495 14 23 78,https://www.enigmabrewery.be/,5.045158,50.990492
+,Den Toeteler,micro,78 Kleistraat,,,Bilzen-Hoeselt,Vlaanderen,3730,Belgium,+32 472 80 24 14,http://www.toeteler.be/,5.473563299999999,50.8836149
+,Grand Cafe Remise 56,brewpub,56 Albert I laan,,,Beringen,Vlaanderen,3582,Belgium,+32 11 18 31 93,https://www.remise56.be/,5.263690599999999,51.0571779
+,Amai,micro,11 Konijnenpijp,,,Lommel,Vlaanderen,3920,Belgium,+31 6 22699240,http://www.brouwerij-amai.be/,5.3508043,51.2363486
+,Den Teut (L. Pauwels),micro,12 Kiezelweg,,,Mol,Vlaanderen,2400,Belgium,+32 14 89 09 98,http://denteut.be/,5.1680391,51.2079274
+,Waggewild,micro,103 Broeseinderdijk,,,Pelt,Vlaanderen,3910,Belgium,+32 11 80 10 59,,5.4265633,51.239953
+,Cornelissen,micro,19 Itterplein,,,Bree,Vlaanderen,3960,Belgium,+32 89 86 47 11,http://www.brouwerijcornelissen.be/,5.6467198,51.116974
+,Sint Jozef,micro,19 Itterplein,,,Bree,Vlaanderen,3960,Belgium,+32 89 86 47 11,http://www.brouwerijcornelissen.be/,5.6467198,51.116974
+,Kerkom,micro,469 Naamsesteenweg,,,Sint-Truiden,Vlaanderen,3800,Belgium,+32 495 38 12 14,http://www.brouwerijkerkom.be/,5.1661085,50.7763618
+,Engilsen,closed,36 Lindenstraat,,,Tessenderlo-Ham,Vlaanderen,3980,Belgium,,,5.0477584,51.03151219999999
+,Edelquell,micro,617 Hasseltsesteenweg,,,Tongeren,Vlaanderen,3700,Belgium,+32 498 11 20 04,http://broederjacob.com/,5.4298142,50.8089817
+,Wilderen,micro,8 Wilderenlaan,,,Sint-Truiden,Vlaanderen,3803,Belgium,+32 11 58 06 80,https://www.brouwerijwilderen.be/,5.1441963,50.8190363
+,dAchouffe,micro,32 Achouffe,,,Houffalize,Région wallonne,6666,Belgium,,http://www.chouffe.com/,5.7458087,50.1509897
+,De Bouillon (Louis & Men),micro,Rue de la Bichetour,,,Bouillon,Région wallonne,6830,Belgium,,,5.0652294,49.800216
+,Millevertus,micro,3 Chem. de l'Eau Vive,,,Tintigny,Région wallonne,6730,Belgium,+32 63 22 34 97,http://www.dbev.be/,5.492180600000001,49.695305
+,Les 3 Fourquets,micro,50 Courtil,,,Gouvy,Région wallonne,6671,Belgium,+32 80 64 38 39,https://lupulus.be/brasserie,5.9138266,50.2148118
+,de la Semois,micro,25 Rue de Chassepierre,,,Florenville,Région wallonne,6820,Belgium,+32 61 31 21 87,https://www.campingdelasemois.be/,5.256257,49.723076
+,Atrium,closed,9 Rue des Brasseurs,,,Marche-en-Famenne,Région wallonne,6900,Belgium,,http://www.brasserieatrium.be/,5.3454153,50.2273758
+,Brasserie Artisanale de Rulles,micro,36 Rue Maurice Grévisse,,,Habay,Région wallonne,6724,Belgium,+32 63 41 18 38,http://www.larulles.be/,5.5576509,49.7183617
+,Brasserie de Bastogne,micro,,,,Somme-Leuze,Région wallonne,5377,Belgium,+32 86 32 23 93,https://brasserieminne.be/,5.3556107,50.2929916
+,Orval,micro,2 Orval,,,Florenville,Région wallonne,6823,Belgium,+32 61 31 12 61,http://www.orval.be/,5.349641399999999,49.6386107
+,De Dinant,micro,23 Charreau des Capucins,,,Dinant,Région wallonne,5500,Belgium,+32 82 22 91 91,https://leffe.com/fr/maison-leffe,4.9107713,50.25699729999999
+,Caracole,micro,86 Côte Marie-Thérèse,,,Dinant,Région wallonne,5500,Belgium,+32 82 74 40 80,http://www.brasseriecaracole.be/,4.8921937,50.2030727
+,Ferme de Bertinchamps,micro,4 Rue Bertinchamps,,,Gembloux,Région wallonne,5030,Belgium,+32 81 87 85 28,http://www.bertinchamps.be/,4.6416153,50.5571613
+,La Wepionnaise,micro,Rue des Charmes,,,Namur,Région wallonne,5100,Belgium,+32 81 46 28 84,http://www.lawepionnaise.be/,4.8904868,50.4390155
+,de Lautenne,micro,19 Anna Bochdreef,21,,Brussel,Brussels Capital Region,1000,Belgium,,http://brasseriedelasenne.be/,4.3487361,50.8677251
+,de Malonne,micro,156 Rue du Petit Babin,,,Namur,Région wallonne,5020,Belgium,,http://www.brasserieduclocher.be/,4.7918686,50.4182599
+,Les Artisans Brasseurs,micro,156 Rue du Petit Babin,,,Namur,Région wallonne,5020,Belgium,,http://www.brasserieduclocher.be/,4.7918686,50.4182599
+,Forestinne,micro,47 Molenstraat,,,Beersel,Vlaanderen,1651,Belgium,+32 2 306 71 03,https://3fonteinen.be/nl/,4.2736147,50.763105
+,Bocq,micro,4 Rue de la Brasserie,,,Yvoir,Région wallonne,5530,Belgium,+32 82 61 07 90,http://www.bocq.be/,4.94368,50.3115026
+,Rochefort,micro,,,,Rochefort,Wallonia,5580,Belgium,+32 84 22 01 40,http://www.abbaye-rochefort.be/,5.2196246,50.1780457
+,Silenrieux,micro,1 Rue Nou Pré,,,Cerfontaine,Région wallonne,5630,Belgium,+32 71 79 64 07,https://www.brasseriedesilenrieux.be/,4.4121011,50.223194
+,Mobius,micro,17 Rue Château de Tongrenelle,,,Sombreffe,Région wallonne,5140,Belgium,+32 472 92 97 59,https://www.brasseriemobius.be/,4.6096137,50.5101869
+,Geve,micro,2 Avenue des Cyclamens,,,Braine-l'Alleud,Région wallonne,1420,Belgium,+32 475 26 27 96,http://www.novabirra.com/,4.3834978,50.6877329
+,Houblonde,micro,10 Sentier Muraes,,,Braine-le-Château,Région wallonne,1440,Belgium,+32 473 45 03 06,http://www.houblonde.com/,4.2741194,50.669631
+,John Martin,micro,191 Rue du Cerf,,,Rixensart,Région wallonne,1332,Belgium,+32 2 655 62 11,http://anthonymartin.be/fr/,4.5006403,50.7312393
+,Belgo Sapiens,closed,5 Rue du Travail,,,Nivelles,Région wallonne,1400,Belgium,+32 67 33 99 17,http://www.belgosapiens.be/,4.3617726,50.589878
+,Duvieusart,micro,58 Breendonk-Dorp,,,Puurs-Sint-Amands,Vlaanderen,2870,Belgium,+32 3 860 94 00,https://www.duvel.com/,4.3274569,51.0415134
+,Lefebvre,micro,54 Chemin du Croly,,,Rebecq,Région wallonne,1430,Belgium,+32 67 67 07 66,http://www.brasserielefebvre.be/,4.1521165,50.6747706
+,De Tubize,micro,3 Rue de la Filature,,,Tubize,Région wallonne,1480,Belgium,+32 2 355 29 00,http://www.la-brasserie-de-tubize.be/,4.206290399999999,50.6959333
+,Moeder Lambik,micro,185 De Pannelaan,,,De Panne,Vlaanderen,8660,Belgium,+32 58 41 48 33,http://www.moederlambik.be/,2.6013809,51.0856888
+,Verzet,micro,117 Grote Leiestraat,,,Anzegem,Vlaanderen,8570,Belgium,+32 472 78 27 65,http://www.brouwerijtverzet.be/,3.4594864,50.8540739
+,Vliegende Paard,micro,14 Woestendorp,,,Vleteren,Vlaanderen,8640,Belgium,+32 496 39 97 80,https://prearis.be/,2.7889351,50.9014406
+,Facon (Bellegem),micro,23 Kwabrugstraat,,,Kortrijk,Vlaanderen,8510,Belgium,+32 56 22 07 69,https://www.biernet.nl/bier/brouwerijen/belgie/west-vlaanderen/bellegem/facon,3.279353,50.7743731
+,De Halve Maan,micro,26 Walplein,,,Brugge,Vlaanderen,8000,Belgium,+32 50 44 42 25,http://www.halvemaan.be/,3.224178,51.2024473
+,Grandes Brasseries Reunies Aigle-Belgica S.A.,micro,26 Walplein,,,Brugge,Vlaanderen,8000,Belgium,+32 50 44 42 25,http://www.halvemaan.be/,3.224178,51.2024473
+,T Brugs Bierinstituut.,micro,5 Kemelstraat,,,Brugge,Vlaanderen,8000,Belgium,+32 50 33 96 16,https://www.brugsbeertje.be/,3.2217179,51.2068237
+,Riva (De Splenter),micro,63 Wontergemstraat,67,,Dentergem,Vlaanderen,8720,Belgium,,https://inventaris.onroerenderfgoed.be/erfgoedobjecten/84397,3.4223565,50.9649685
+,Costenoble,micro,12b Roeselarestraat,,,Diksmuide,Vlaanderen,8600,Belgium,+32 474 42 12 73,http://www.dedollebrouwers.be/,2.9032152,51.0279189
+,Gulden Spoor,micro,170 Heulestraat,,,Wevelgem,Vlaanderen,8560,Belgium,,http://www.guldenspoor.be/,3.2206999,50.8435296
+,Bavik - De Brabandere,micro,33 Rijksweg,,,Harelbeke,Vlaanderen,8531,Belgium,+32 56 71 90 91,http://www.brouwerijdebrabandere.be/,3.2988728,50.8628259
+,Kazematten,micro,1 Houten Paard,,,Ieper,Vlaanderen,8900,Belgium,+32 57 42 20 05,http://www.kazematten.be/,2.8919805,50.8470325
+,Mouterij H. Vermeulen & Company,micro,1 Houten Paard,,,Ieper,Vlaanderen,8900,Belgium,+32 57 42 20 05,http://www.kazematten.be/,2.8919805,50.8470325
+,Van-honsebrouck,micro,46 Ingelmunstersestraat,,,Izegem,Vlaanderen,8870,Belgium,+32 51 33 51 60,https://www.vanhonsebrouck.be/?utm_source=googlebusiness&utm_medium=organic,3.2345576,50.9234187
+,Vandeputte,micro,120 Boulevard Industriel,,,Mouscron,Région wallonne,7700,Belgium,+32 56 85 97 20,http://www.vandeputte.com/,3.2594742,50.7505764
+,Louwaege,micro,26 Walplein,,,Brugge,Vlaanderen,8000,Belgium,+32 50 44 42 25,http://www.halvemaan.be/,3.224178,51.2024473
+,Bossuwe,micro,,,,Kortrijk,Vlaanderen,8500,Belgium,,http://www.bossuwebrewing.com/,3.2430254,50.8145714
+,De Feniks,micro,170 Heulestraat,,,Wevelgem,Vlaanderen,8560,Belgium,,http://www.guldenspoor.be/,3.2206999,50.8435296
+,Lust,micro,103A Kortrijksestraat,,,Kortrijk,Vlaanderen,8501,Belgium,+32 56 13 04 05,https://www.marthabeer.com/,3.2362402,50.8392527
+,The brew society,micro,103A Kortrijksestraat,,,Kortrijk,Vlaanderen,8501,Belgium,+32 56 13 04 05,http://www.thebrewsociety.be/,3.2371325,50.84038160000001
+,Toye,micro,Rekkemsestraat,,,Kortrijk,Vlaanderen,8510,Belgium,,http://www.goedendagbier.be/,3.2279537,50.8084711
+,De Zwaan,micro,16 Gen. Lemanstraat,,,Menen,Vlaanderen,8930,Belgium,+32 56 22 21 28,,3.108599,50.7989988
+,Vondel,micro,26 Karel van Manderstraat,,,Tielt,Vlaanderen,8760,Belgium,+32 51 82 66 00,,3.2911653,50.95014190000001
+,De Kustbrouwerij Middelkerke,micro,38 De Middelpolder,,,Middelkerke,Vlaanderen,8430,Belgium,,http://www.jusdemer.be/,2.8467178,51.191283
+,Alvinne,micro,4a Vaartstraat,,,Zwevegem,Vlaanderen,8552,Belgium,+32 486 55 53 14,http://www.alvinne.be/,3.3909429,50.77045620000001
+,Bier en Karakter,micro,46 Slypsstraat,,,Moorslede,Vlaanderen,8890,Belgium,+32 456 24 01 18,http://www.hoevedumoulin.be/,3.0826626,50.8734145
+,De Leite,micro,32 De Leiteweg,,,Oostkamp,Vlaanderen,8020,Belgium,+32 50 66 70 35,http://www.deleite.be/,3.2206331,51.1016072
+,Rodenbach,micro,135 Spanjestraat,,,Roeselare,Vlaanderen,8800,Belgium,+32 51 27 27 00,https://be.rodenbach.be/be/nl.html,3.1381576,50.9461419
+,de Gomme,micro,32 De Leiteweg,,,Oostkamp,Vlaanderen,8020,Belgium,+32 50 66 70 35,http://www.deleite.be/,3.2206331,51.1016072
+,Viven,micro,89 Stationsstraat,,,Damme,Vlaanderen,8340,Belgium,+32 50 35 34 94,https://www.viven.be/,3.3177335,51.2079761
+,Old Bailey,micro,103A Kortrijksestraat,,,Kortrijk,Vlaanderen,8501,Belgium,+32 56 13 04 03,http://www.belgianbrewfactory.be/,3.2362402,50.8392527
+,Deca Services,micro,4 Elverdingestraat,,,Vleteren,Vlaanderen,8640,Belgium,+32 57 42 20 75,http://www.decabrouwerij.be/,2.7916977,50.8991503
+,Stokhove,micro,49 Sint-Godelievestraat,,,Oostkamp,Vlaanderen,8020,Belgium,,http://www.brouwerijstokhove.be/,3.2623437,51.1617877
+,De Bie,micro,47 Vijvestraat,,,Dentergem,Vlaanderen,8720,Belgium,+32 478 46 21 84,http://www.brouwerijdebie.be/,3.4186423,50.9235349
+,St. Bernardus,micro,23 Trappistenweg,,,Poperinge,Vlaanderen,8978,Belgium,+32 57 38 80 21,http://www.sintbernardus.be/,2.6384545,50.8417887
+,Van Eecke,micro,408 Diksmuidseweg,,,Ieper,Vlaanderen,8904,Belgium,+32 57 38 80 30,,2.8574412,50.8952545
+,Westvleteren Abdij St Sixtus,micro,12 Donkerstraat,,,Vleteren,Vlaanderen,8640,Belgium,+32 57 40 03 76,http://www.sintsixtus.be/,2.7199924,50.8956974
+,De Ranke,micro,1a Rue du Petit-Tourcoing,,,Mouscron,Région wallonne,7711,Belgium,+32 56 58 80 08,http://www.deranke.be/,3.2993347,50.733571
+,Ox,micro,50 Neerhofstraat,,,Wevelgem,Vlaanderen,8560,Belgium,+32 486 84 53 50,https://www.oxbeer.com/,3.1856882,50.8139075
+,Deca,micro,4 Elverdingestraat,,,Vleteren,Vlaanderen,8640,Belgium,+32 57 42 20 75,http://www.decabrouwerij.be/,2.7916977,50.8991503
+,Bar Belge,micro,407 Torhoutsesteenweg,,,Zedelgem,Vlaanderen,8210,Belgium,,https://www.barbelge.be/,3.1420708,51.1112816
+,Henricus,micro,32A De Leiteweg,,,Oostkamp,Vlaanderen,8020,Belgium,+32 50 73 47 91,http://www.paljas-bier.be/,3.2202592,51.1014531
+,De Circus,micro,28 Transfostraat,,,Zwevegem,Vlaanderen,8550,Belgium,+32 473 48 09 91,http://www.circusbrouwerij.be/,3.3503942,50.8123667
+,Huisbrouwerij De Halve Maan,micro,26 Walplein,,,Brugge,Vlaanderen,8000,Belgium,+32 50 44 42 25,http://www.halvemaan.be/,3.224178,51.2024473
+,Tipsy Tribe Brewery & Distillery,micro,374 Chaussée de Jette,,,Brussels,Brussels Capital Region,1081,Belgium,+32 491 06 56 33,https://www.tipsytribe.be/,4.330326299999999,50.8666227
+,De Koninck - Antwerp City Brewery,micro,291 Mechelsesteenweg,,,Antwerpen,Vlaanderen,2018,Belgium,+32 3 866 96 90,http://www.dekoninck.be/,4.4151585,51.1993475
+,Belgian Beer World Experience,micro,80 Boulevard Anspach,,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 880 47 00,https://www.belgianbeerworld.be/,4.3499006,50.8482035
+,BBP Dansaert,micro,188 Rue Antoine Dansaert,,,Bruxelles,Brussels Capital Region,1000,Belgium,,http://beerproject.be/pages/dansaert-taproom,4.341909,50.852757
+,Brewery Bourgogne des Flandres,micro,26 Wollestraat,,,Brugge,Vlaanderen,8000,Belgium,+32 50 33 54 26,http://bourgognedesflandres.be/,3.2260587,51.2068853
+,Belgium Peak Beer,micro,123 Route de Botrange,,,Waimes,Région wallonne,4950,Belgium,+32 80 21 48 76,http://www.peakbeer.be/,6.1092891,50.4864161
+,Brasserie de la Senne,micro,19 Anna Bochdreef,21,,Brussel,Brussels Capital Region,1000,Belgium,,http://brasseriedelasenne.be/,4.3487361,50.8677251
+,Cantillon Brewery & Museum,micro,56 Rue Gheude,,,Anderlecht,Brussels Capital Region,1070,Belgium,+32 2 521 49 28,http://www.cantillon.be/,4.335653199999999,50.8415113
+,Dok Brewing Company,micro,4B Dok-Noord,,,Gent,Vlaanderen,9000,Belgium,,https://www.dokbrewingcompany.be/,3.7318878,51.0657145
+,Brewery Het Anker,micro,49 Guido Gezellelaan,,,Mechelen,Vlaanderen,2800,Belgium,+32 15 28 71 41,http://www.hetanker.be/,4.4729477,51.031813
+,Stroom Brewery,micro,27 Forelstraat,,,Gent,Vlaanderen,9000,Belgium,,http://stroombrouwers.be/,3.740251999999999,51.0476377
+,Brouwerij de Hophemel,micro,21 Bampslaan,,,Hasselt,Vlaanderen,3500,Belgium,+32 496 36 25 87,http://www.hophemel.be/,5.3307538,50.9304084
+,"Antwerpse Brouw Compagnie, Brouwerij & Taproom",micro,21 Indiestraat,,,Antwerpen,Vlaanderen,2000,Belgium,+32 3 293 91 84,http://www.seef.be/,4.4107791,51.234776
+,Wilderen Brewery & Distillery,micro,8 Wilderenlaan,,,Sint-Truiden,Vlaanderen,3803,Belgium,+32 11 58 06 80,https://www.brouwerijwilderen.be/,5.1441963,50.8190363
+,Kazematten Brewery,micro,1 Houten Paard,,,Ieper,Vlaanderen,8900,Belgium,+32 57 42 20 05,http://www.kazematten.be/,2.8919805,50.8470325
+,Poechenellekelder,micro,5 Rue du Chêne,,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 511 92 62,http://www.poechenellekelder.be/,4.3499833,50.8447426
+,BeerSecret,micro,3 Goudenleeuwplein,,,Gent,Vlaanderen,9000,Belgium,+32 472 60 47 46,http://www.beersecret.com/,3.7234972,51.0544141
+,Bertinchamps Brewery,micro,4 Rue Bertinchamps,,,Gembloux,Région wallonne,5030,Belgium,+32 81 87 85 28,http://www.bertinchamps.be/,4.6416153,50.5571613
+,BrewTous´ Microbrewery & Taproom,micro,1G Marktplatz,,,Bütgenbach,Région wallonne,4750,Belgium,+32 473 23 24 28,https://www.facebook.com/brewtous/,6.204224399999999,50.4257183
+,Delirium | Brussels,micro,4 Impasse de la Fidélité,,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 514 44 34,https://www.deliriumvillage.com/,4.3538834,50.8485002
+,Microbrouwerij Grimbergen,micro,20 Abdijstraat,,,Grimbergen,Vlaanderen,1850,Belgium,+32 2 306 39 56,https://www.grimbergen.com/,4.3692829,50.9344654
+,Westmalle Brewery,micro,496 Antwerpsesteenweg,,,Malle,Vlaanderen,2390,Belgium,+32 3 312 92 22,http://www.trappistwestmalle.be/,4.6581281,51.28551419999999
+,Duvel Moortgat Brewery,large,58 Breendonk-Dorp,,,Puurs-Sint-Amands,Vlaanderen,2870,Belgium,+32 3 860 94 00,https://www.duvel.com/,4.3274569,51.0415134
+,Brasserie Caracole,micro,86 Côte Marie-Thérèse,,,Dinant,Région wallonne,5500,Belgium,+32 82 74 40 80,http://www.brasseriecaracole.be/,4.8921937,50.2030727
+,Brasserie Surréaliste,micro,23 Place du Nouveau Marché aux Grains,,,Bruxelles,Brussels Capital Region,1000,Belgium,,http://www.brasseriesurrealiste.com/,4.3439631,50.8504162
+,Brouwerij 3 Fonteinen | lambik-O-droom,micro,47 Molenstraat,,,Beersel,Vlaanderen,1651,Belgium,+32 2 306 71 03,https://3fonteinen.be/nl/,4.2736147,50.763105
+,Brasserie Saint-Monon,micro,45 Rue Principale,,,Nassogne,Région wallonne,6953,Belgium,+32 495 88 06 96,http://www.saintmonon.be/,5.3114981,50.1438177
+,Rochehaut Brewery,micro,85 Rue du Palis,,,Bouillon,Région wallonne,6830,Belgium,+32 61 86 03 66,http://www.rochehaut-attractions.be/,5.0167893,49.8435459
+,Brouwerij Kestemont,micro,16 Isabellastraat,,,Dilbeek,Vlaanderen,1703,Belgium,+32 472 36 32 46,https://www.brouwerijkestemont.be/,4.2084265,50.8261277
+,Spéciale Belge Taproom,micro,1 Regine Beerplein,bus D201,,Antwerpen,Vlaanderen,2018,Belgium,+32 3 435 06 05,https://www.specialebelgetaproom.be/,4.4219347,51.2023853
+,Beer Tasting Experience in Brussels,micro,49 Rue Montagne aux Herbes Potagères,,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 881 01 78,https://www.beerexperiencebrussels.com/,4.3570879,50.8496521
+,En Stoemelings,micro,,,,Bruxelles,Brussels Capital Region,1083,Belgium,,https://www.enstoemelings.be/,4.295728299999999,50.8743627
+,Brasserie de l'Ermitage,micro,,,,Brussel,Brussels Capital Region,1070,Belgium,,http://www.ermitagenanobrasserie.be/,4.3372074,50.8407377
+,Stella Artois Brewery,large,20 Aarschotsesteenweg,,,Leuven,Vlaanderen,3000,Belgium,,https://www.breweryvisits.com/en/stella-artois,4.709439,50.8908301
+,Delirium - Brouwerij Huyghe,micro,14b Geraardsbergse steenweg,,,Merelbeke-Melle,Vlaanderen,9090,Belgium,+32 9 252 15 01,http://www.delirium.be/en/world-of-delirium,3.8049436,50.9995591
+,De Garre,micro,1 De Garre,,,Brugge,Vlaanderen,8000,Belgium,+32 50 34 10 29,http://www.degarre.be/,3.2258407,51.20833469999999
+,Brouwerij Rodenbach,micro,135 Spanjestraat,,,Roeselare,Vlaanderen,8800,Belgium,+32 51 27 27 00,https://be.rodenbach.be/be/nl.html,3.1381576,50.9461419
+,Brouwerij Hof Ten Dormaal,micro,2 Caubergstraat,,,Haacht,Vlaanderen,3150,Belgium,+32 497 35 94 23,https://hoftendormaal.com/,4.664523099999999,50.95019749999999
+,Bryggja Brewery (artisanale microbrouwerij),micro,3 Moerkerkebrug,,,Damme,Vlaanderen,8340,Belgium,+32 50 37 50 96,http://www.bryggjabrewery.be/,3.3458157,51.2430552
+,Brasserie Chouffe,micro,32 Achouffe,,,Houffalize,Région wallonne,6666,Belgium,,http://www.chouffe.com/,5.7458087,50.1509897
+,Castle Brewery Ter Dolen,micro,21 Eikendreef,,,Houthalen-Helchteren,Vlaanderen,3530,Belgium,+32 11 60 69 99,http://www.terdolen.be/,5.3883877,51.064742
+,La Brasserie Fantôme,micro,8 Rue Préal,,,Érezée,Région wallonne,6997,Belgium,+32 86 47 70 44,,5.512898,50.2861209
+,Brouwerij Kerkom,micro,469 Naamsesteenweg,,,Sint-Truiden,Vlaanderen,3800,Belgium,+32 495 38 12 14,http://www.brouwerijkerkom.be/,5.1661085,50.7763618
+,Brouwerij Het Ganzenhof,micro,377 Steenwinkelstraat,,,Schelle,Vlaanderen,2627,Belgium,+32 485 68 51 39,http://www.brouwerij-ganzenhof.be/,4.3571918,51.1258944
+,The BeerLab Rooftop,micro,80 Boulevard Anspach,,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 880 47 00,https://thebeerlabrooftop.be/,4.3507608,50.8478502
+,Brouwerij De Vlier,micro,219 Leuvensebaan,,,Holsbeek,Vlaanderen,3220,Belgium,+32 473 83 94 63,https://www.brouwerijdevlier.be/brouwerij.php,4.7309465,50.9135067
+,Terrest Brewery,micro,1 Vlastraat,,,Houthulst,Vlaanderen,8650,Belgium,+32 476 07 11 41,http://www.terrestbrewery.be/,2.961736,50.990127
+,Boon Brewery,micro,65 Fonteinstraat,,,Halle,Vlaanderen,1502,Belgium,+32 2 356 66 44,http://www.boon.be/,4.2193827,50.7117523
+,Belgian Brewers Museum,micro,10 Grand Place,,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 511 49 87,https://beermuseum.be/,4.352523,50.8462191
+,Huyghe Brewery,micro,14b Geraardsbergse steenweg,,,Merelbeke-Melle,Vlaanderen,9090,Belgium,+32 9 252 15 01,https://www.brouwerijhuyghe.be/nl,3.8049436,50.9995591
+,Brouwerij de Sint-Sixtusabdij van Westvleteren,micro,12 Donkerstraat,,,Vleteren,Vlaanderen,8640,Belgium,+32 57 40 03 76,http://www.sintsixtus.be/,2.7199924,50.8956974
+,SE10 Brewing,micro,232 Krugerstraat,,,Antwerpen,Vlaanderen,2660,Belgium,+32 479 83 17 42,http://www.se10brewing.be/,4.3653182,51.1865476
+,BelgaBrew - Met Yvegem bier houd je de kerk in het midden! Santé!🍻,micro,68 Ingooigemplaats,,,Anzegem,Vlaanderen,8570,Belgium,+32 56 77 72 86,https://www.belgabrew.com/,3.4282362,50.8195539
+,Belgoo Brewery,micro,61 Georges Wittouck,,,Sint-Pieters-Leeuw,Vlaanderen,1600,Belgium,+32 475 69 24 60,http://www.belgoobeer.net/,4.2792224,50.7904942
+,Brouwerij Lindemans,micro,1479 Lenniksebaan,,,Sint-Pieters-Leeuw,Vlaanderen,1602,Belgium,+32 2 569 03 90,http://www.lindemans.be/,4.2127611,50.815746
+,Scheldebrouwerij,micro,5 Wenenstraat,,,Hoogstraten,Vlaanderen,2321,Belgium,+32 3 665 36 96,https://www.scheldebrouwerij.com/,4.7230097,51.4731116
+,Brasserie Dupont,micro,5 Rue Basse,,,Leuze-en-Hainaut,Région wallonne,7904,Belgium,+32 69 22 56 39,http://www.brasserie-dupont.com/,3.6498464,50.5724903
+,Brasserie des Fagnes,micro,26 Route de Nismes,,,Couvin,Région wallonne,5660,Belgium,+32 60 31 39 19,http://www.brasseriedesfagnes.com/,4.5233998,50.08359429999999
+,Brasserie C,micro,14 Impasse des Ursulines,,,Liège,Région wallonne,4000,Belgium,+32 4 266 06 92,http://www.brasseriec.com/,5.577557000000001,50.6474911
+,la brasserie belge,micro,7 Place Coronmeuse,,,Luik,Waals Gewest,4040,Belgium,+32 470 32 08 01,http://www.labrasseriebelge.com/,5.6125417,50.6553695
+,Brewery of the Lesse,micro,4 Rue du Treux,,,Rochefort,Région wallonne,5580,Belgium,+32 84 45 75 25,http://www.brasseriedelalesse.be/,5.1636141,50.1398958
+,Brewery De Ranke,micro,1a Rue du Petit-Tourcoing,,,Mouscron,Région wallonne,7711,Belgium,+32 56 58 80 08,http://www.deranke.be/,3.2993347,50.733571
+,Brasserie Caulier,micro,134 Rue de Sondeville,,,Péruwelz,Région wallonne,7600,Belgium,+32 69 36 26 10,http://brasseriecaulier.beer/,3.5878759,50.50268759999999
+,Brasserie Ommegang,micro,4 Rue de la Montagne,,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 387 51 61,http://www.ommegang-brussels.com/,4.3545637,50.8468494
+,St-Feuillien,micro,220 Rue d'Houdeng,,,Le Rœulx,Région wallonne,7070,Belgium,+32 64 31 18 18,http://www.st-feuillien.com/,4.1098905,50.5021445
+,Brasserie de l'Abbaye du Val-Dieu,micro,225 Val Dieu,,,Aubel,Région wallonne,4880,Belgium,+32 87 68 75 87,http://www.val-dieu.com/,5.804413100000001,50.6979687
+,Brasserie de Bellevaux,micro,1 Rue de la Foncenale,,,Malmedy,Région wallonne,4960,Belgium,+32 456 08 58 56,http://www.brasseriedebellevaux.be/,6.0076147,50.3917978
+,Brasserie des legendes,micro,19 Rue du Castel,,,Ath,Région wallonne,7801,Belgium,+32 68 28 79 36,http://www.brasseriedeslegendes.be/,3.7570557,50.62159459999999
+,Minne Brewery,micro,,,,Somme-Leuze,Région wallonne,5377,Belgium,+32 86 32 23 93,https://brasserieminne.be/,5.3556107,50.2929916
+,Brasserie Restaurant La Binchoise,brewpub,38b Faubourg Saint-Paul,,,Binche,Région wallonne,7130,Belgium,+32 64 33 61 86,http://www.labinchoise.be/,4.166372,50.40821769999999
+,Brasserie Dubuisson,micro,28 Chaussée de Mons,,,Leuze-en-Hainaut,Région wallonne,7904,Belgium,+32 69 67 22 22,https://www.dubuisson.com/,3.5575921,50.5762999
+,Brasserie du Clocher,micro,156 Rue du Petit Babin,,,Namur,Région wallonne,5020,Belgium,,http://www.brasserieduclocher.be/,4.7918686,50.4182599
+,Brasserie Belge,micro,16 Place Victor Horta,,,Saint-Gilles,Brussels Capital Region,1060,Belgium,+32 495 11 48 48,https://brasseriebelge.com/,4.3344459,50.8369301
+,Le Clan des Belges,micro,20 Rue de la Paix,,,Ixelles,Brussels Capital Region,1050,Belgium,+32 2 511 11 21,https://www.clandesbelges.be/fr/,4.3647642,50.8356283
+,Brasserie Balleux sprl,micro,229 Rue de Rochefort,,,Beauraing,Région wallonne,5570,Belgium,+32 82 71 14 14,http://www.brasserieballeux.be/,4.9796195,50.1214951
+,Brasserie Du Moulin,micro,7 Rue du Séminaire,,,Floreffe,Région wallonne,5150,Belgium,+32 81 44 53 03,,4.7588725,50.4323844
+,Brasserie de l'Aérodrome de Namur,micro,44 Rue du Capitaine Aviateur Jacquet,,,Namur,Région wallonne,5020,Belgium,+32 81 55 93 53,https://www.aerodromedenamur.be/brasserie/,4.7693384,50.4883555
+,Brasserie de Waterloo,micro,591 Chaussée de Charleroi,,,Waterloo,Région wallonne,1410,Belgium,+32 2 655 62 62,https://brasseriedewaterloo.be/,4.4096996,50.6855735
+,Brasserie Boemvol,micro,25 Rue Henri Maus,,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 681 27 58,https://www.90folies.com/boemvol,4.3499962,50.8476218
+,La Brasserie du Quai10,micro,10 Quai Arthur Rimbaud,,,Charleroi,Région wallonne,6000,Belgium,+32 71 18 12 03,https://www.quai10.be/brasserie,4.441033099999999,50.4061297
+,Brasserie de la Couronne - L'Impératrice,micro,Rue Albert 1er,,,Binche,Région wallonne,7134,Belgium,+32 472 32 25 97,,4.2087623,50.4315439
+,La Brasserie,micro,18 N671,,,Liège,Région wallonne,4000,Belgium,+32 4 290 50 30,https://www.labrasseriecathedrale.be/fr/menu.html,5.571761599999999,50.6410619
+,Siège social de la Brasserie de L'Abbaye des Rocs,micro,14 Chaussée Brunehault,,,Quiévrain,Région wallonne,7382,Belgium,+32 65 75 59 99,,3.7186198,50.3814668
+,Maison Leffe,micro,23 Charreau des Capucins,,,Dinant,Région wallonne,5500,Belgium,+32 82 22 91 91,https://leffe.com/fr/maison-leffe,4.9107713,50.25699729999999
+,La Brasserie,micro,,,,Brugelette,Région wallonne,7940,Belgium,,https://weiny.top/la-brasserie-3,3.8854326,50.5855729
+,Les Brasseurs,micro,77 Boulevard Anspach,,,Bruxelles,Brussels Capital Region,1000,Belgium,,https://www.facebook.com/Les-Brasseurs-722127614590850/,4.3488641,50.8478813
+,Brouwerij Fort Lapin,micro,2 Dreef ter Panne,4,,Brugge,Vlaanderen,8000,Belgium,+32 495 50 26 70,https://fortlapin.com/,3.2275928,51.2315674
+,Brasserie de la Houppe,micro,165 Rue de la 1 Armée Américaine,,,Namur,Région wallonne,5100,Belgium,+32 81 37 09 37,http://www.houppe.be/,4.841279,50.407276
+,Café Le Cirio,brewpub,18 Rue de la Bourse,,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 512 13 95,https://lecirio.be/fr,4.3507131,50.8483055
+,Au Vieux Spijtigen Duivel,micro,621 Chaussée d'Alsemberg,,,Uccle,Brussels Capital Region,1180,Belgium,+32 2 344 34 55,https://www.spijtigenduivel.com/,4.3367322,50.8079545
+,Entre Terre et Bière Restaurant - Brasserie Locale,brewpub,44 Rue Grinfaux,,,Seneffe,Région wallonne,7181,Belgium,+32 479 46 99 22,http://www.entreterreetbiere.be/,4.3073461,50.5608648
+,Brasserie du Val de Sambre,micro,,,,Thuin,Région wallonne,6530,Belgium,,https://www.brasserievds.be/,4.282840999999999,50.3604713
+,La Brasserie de Nalinnes,micro,7 Route de Philippeville,,,Ham-sur-Heure-Nalinnes,Région wallonne,6120,Belgium,+32 71 22 04 15,http://www.labrasserie-nalinnes.com/,4.4737516,50.3418578
+,Brewery Saint-Feuillien,micro,220 Rue d'Houdeng,,,Le Rœulx,Région wallonne,7070,Belgium,+32 64 31 18 18,https://st-feuillien.com/,4.127561099999999,50.4978963
+,Brasserie la Rogère,micro,209 Rue de la Victoire,,,Thuin,Région wallonne,6536,Belgium,+32 499 17 76 41,,4.3245333,50.3052
+,Lefebvre Brewery,micro,54 Chemin du Croly,,,Rebecq,Région wallonne,1430,Belgium,+32 67 67 07 66,http://www.brasserielefebvre.be/,4.1521165,50.6747706
+,Bouillon Bruxelles,micro,7 Rue des Dominicains,9,,Bruxelles,Brussels Capital Region,1000,Belgium,+32 2 512 20 84,https://bouillonbruxelles.com/,4.3544409,50.8481551
+,Bistro Belgo Belge,brewpub,20 Rue Saint-Joseph,,,Namur,Région wallonne,5000,Belgium,+32 81 81 00 82,https://bistrobelgobelge.be/,4.8642196,50.46644800000001
+,Cafe Le Luxembourg,brewpub,41 Rue du Pont Neuf,,,Charleroi,Région wallonne,6000,Belgium,+32 71 31 63 59,https://www.brasserieleluxembourg.be/,4.447907499999999,50.4081829
+,Le Lion Belge,micro,1002 Chaussée de Louvain,,,Evere,Brussels Capital Region,1140,Belgium,+32 2 705 83 17,https://brasserielelionbelge.be/,4.418426699999999,50.8599639
+,Brasserie Lion,micro,1A Rue des Praules,,,Gembloux,Région wallonne,5030,Belgium,,http://www.brasserielion.com/,4.7146419,50.5807049
+,LES BRASSERIES DE FLOBECQ,micro,22 Rue de l'Europe,,,Péruwelz,Région wallonne,7600,Belgium,+32 69 57 55 15,http://www.brasseriesdeflobecq.be/,3.6173181,50.5110446
+,Brasserie de L'esplanade,micro,10 Place de l'Accueil,,,Ottignies-Louvain-la-Neuve,Région wallonne,1348,Belgium,+32 10 81 68 37,http://labrasserie.be/,4.6172897,50.6717616
+,Brouwerij Omer Vander Ghinste,micro,5 Brouwtorenstraat,,,Kortrijk,Vlaanderen,8510,Belgium,+32 56 23 51 71,http://www.omervanderghinste.be/,3.2785245,50.7766437
+,Brouwerij De Dochter van de Korenaar Bv,micro,3B Oordeelstraat,,,Baarle-Hertog,Vlaanderen,2387,Belgium,+32 14 69 98 00,http://www.dedochtervandekorenaar.be/,4.941074299999999,51.4467892
+,Stadsbrouwerij Gruut,micro,1 Rembert Dodoensdreef,,,Gent,Vlaanderen,9000,Belgium,+32 9 269 02 69,http://www.gruut.be/,3.7299919,51.0572739
+,De Dolle Brouwers,micro,12b Roeselarestraat,,,Diksmuide,Vlaanderen,8600,Belgium,+32 474 42 12 73,http://www.dedollebrouwers.be/,2.9032152,51.0279189
+,Brouwerij Roman,micro,105 Hauwaart,,,Oudenaarde,Vlaanderen,9700,Belgium,+32 55 45 54 01,https://www.roman.be/,3.675771999999999,50.8309211
+,Brouwerij De Glazen Toren,micro,13 Glazentorenweg,,,Erpe-Mere,Vlaanderen,9420,Belgium,+32 53 83 03 80,http://www.glazentoren.be/,3.9670886,50.9192514
+,Brouwerij Martens,micro,28 Dorpsstraat,,,Bocholt,Vlaanderen,3950,Belgium,+32 89 48 04 80,https://www.martens.be/,5.5199533,51.2031638
+,Brouwerij Betsy,micro,47 Duinenstraat,,,Bredene,Vlaanderen,8450,Belgium,+32 498 26 37 67,http://www.brouwerijbetsy.be/,2.9715249,51.2359619
+,Brouwerij De Coureur - microbrouwerij + taproom in Leuven,micro,20 Borstelsstraat,bus 1,,Leuven,Vlaanderen,3010,Belgium,+32 485 17 86 95,http://www.brouwerijdecoureur.be/,4.730352799999999,50.8897439
+,Brouwerij De Brabandere,micro,33 Rijksweg,,,Harelbeke,Vlaanderen,8531,Belgium,+32 56 71 90 91,http://www.brouwerijdebrabandere.be/,3.2988728,50.8628259
+,Deca Brewery,micro,4 Elverdingestraat,,,Vleteren,Vlaanderen,8640,Belgium,+32 57 42 20 75,http://www.decabrouwerij.be/,2.7916977,50.8991503
+,Brouwerij B,micro,1 Gildestraat,,,Blankenberge,Vlaanderen,8370,Belgium,+32 492 31 47 44,https://brouwerijb.com/,3.1528603,51.2975644
+,Brouwerij Haeseveld,micro,430 Alfons Braeckmanlaan,,,Gent,Vlaanderen,9040,Belgium,+32 9 430 19 90,https://haeseveld.be/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing,3.797889999999999,51.0692746
+,BRAUW,micro,37 Molenstraat,1,,Genk,Vlaanderen,3600,Belgium,+32 478 80 15 52,http://brauw.be/,5.5027873,50.9643594
+,Oud Beersel blendery & Bierhuis,micro,230 Laarheidestraat,,,Beersel,Vlaanderen,1650,Belgium,+32 2 680 79 54,https://oudbeersel.com/opening-hours/,4.3006962,50.7585967
+,Den Toetëlèr,micro,78 Kleistraat,,,Bilzen-Hoeselt,Vlaanderen,3730,Belgium,+32 472 80 24 14,http://www.toeteler.be/,5.473563299999999,50.8836149
+,Heilig Hart Brouwerij - Desolari - Pure Natural Taste,micro,85 A Brusselsesteenweg,,,Wetteren,Vlaanderen,9230,Belgium,+32 488 13 78 78,http://www.desolari.be/,3.8354952,50.989269
+,Brouwerij The Musketeers,micro,208 Reepstraat,,,Sint-Gillis-Waas,Vlaanderen,9170,Belgium,+32 3 344 02 31,http://www.themusketeers.be/,4.085829599999999,51.22564269999999
+,De Wilde Brouwers,micro,310 Hundelgemsesteenweg,,,Merelbeke-Melle,Vlaanderen,9820,Belgium,+32 9 222 86 29,https://www.dewildebrouwers.be/,3.751342,51.0119888
+,Jupiler Brewery,large,1723 Avenue Georges Truffaut,,,Liège,Région wallonne,4020,Belgium,+32 493 97 58 76,http://www.ab-inbev.be/,5.6268129,50.6482391
+,Brouwerij Angerik,micro,30 Snakkaertstraat,,,Dilbeek,Vlaanderen,1700,Belgium,+32 477 37 15 86,http://www.angerik.be/,4.2471237,50.850836
+,Brouwerij Sterkens,micro,9 Wenenstraat,,,Hoogstraten,Vlaanderen,2321,Belgium,+32 3 317 00 50,https://www.brouwerijsterkens.be/,4.7226653,51.4733017
+,Brouwerij PALM,micro,3 Steenhuffeldorp,,,Londerzeel,Vlaanderen,1840,Belgium,,https://swinkelsfamilybrewers.com/nl/ons-aanbod/bieren/palm.html,4.2674807,50.9959178
+,Ghent Gruut Brewery,micro,1 Rembert Dodoensdreef,,,Gent,Vlaanderen,9000,Belgium,+32 9 269 02 69,http://www.gruut.be/,3.7302252,51.0575661
+,Brouwerij Anders!,micro,1400 Stadsbeemd,,,Halen,Vlaanderen,3545,Belgium,+32 13 46 03 60,http://www.brouwerij-anders.be/,5.105251,50.9475244
+,Huisbrouwerij De Geiteling,micro,3 Geitelingstraat,,,Peer,Vlaanderen,3990,Belgium,+32 468 20 49 32,https://huisbrouwerijdegeiteling.be/,5.4051636,51.131417
+,666 Brewing,closed,34 Mahana Road,,,Hamilton,Waikato Region,3200,New Zealand,+64 7 282 0254,http://www.brewaucracy.co.nz/,175.2515685,-37.7589444
+,8 Wired,micro,26 Glenmore Drive,,,Warkworth,Auckland,0910,New Zealand,+64 9 945 3983,http://8wired.co.nz/,174.6548171,-36.4090422
+,Abandoned,micro,20 Parumoana Street,,,Porirua,Wellington Region,5022,New Zealand,+64 27 802 9726,http://abandonedbrewery.nz/,174.8398212,-41.1309581
+,Ad Lib,closed,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Alpine Ale Works,micro,827 Frankton Road,,,Queenstown,Otago Region,9300,New Zealand,+64 3 442 4507,https://www.altitudebrewing.co.nz/,168.715947,-45.01799
+,Altitude,micro,827 Frankton Road,,,Queenstown,Otago Region,9300,New Zealand,+64 3 442 4507,https://www.altitudebrewing.co.nz/,168.715947,-45.01799
+,Anchor,closed,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+,Arc,micro,1870 Waikouaiti-Waitati Road,,,Evansdale,Otago Region,9471,New Zealand,+64 20 4119 1921,http://www.arcbrewingco.com/,170.5697102,-45.71779050000001
+,Arrow,closed,48 Buckingham Street,,,Arrowtown,Otago Region,9351,New Zealand,+64 3 409 8849,http://www.arrowbrewing.co.nz/,168.8326281,-44.9387375
+,B Studio,micro,6 Lever Street,,,Napier,Hawke's Bay Region,4110,New Zealand,+64 21 672 977,http://www.bstudio.co.nz/,176.8953817,-39.4836689
+,B.Effect,contract,60 Anderson Road,,,Wānaka,Otago Region,9305,New Zealand,+64 27 247 1953,http://www.beffect.nz/,169.1443469,-44.6887225
+,Bach,contract,186 James Fletcher Drive,,,Auckland,Auckland,2024,New Zealand,+64 9 270 1890,https://www.steambrewing.co.nz/,174.8209641,-36.9487794
+,Bannockburn,micro,430A Bannockburn Road,,,Bannockburn,Otago Region,9384,New Zealand,+64 3 445 1553,http://blackrabbit.nz/,169.1622772,-45.0861167
+,Baylands,micro,22 Victoria Street,,,Lower Hutt,Wellington Region,5012,New Zealand,+64 4 566 2337,https://www.baylands.beer/,174.8733647,-41.2258218
+,Bays,closed,89 Pascoe Street,,,Nelson,Nelson Region,7011,New Zealand,,,173.241461,-41.2955091
+,Bear Empire,closed,975 Aka Aka Road,,,Aka Aka,Waikato Region,2682,New Zealand,+64 27 298 3551,http://www.akaakabrewing.co.nz/,174.7929662,-37.2927581
+,"Beg, Borrow & Brew",micro,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+,Behemoth,contract,1A Charles Street,,,Auckland,Auckland,1024,New Zealand,,https://www.behemothbrewing.co.nz/,174.7525195,-36.8706536
+,Beltane,closed,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Ben Middlemiss,closed,11 McDonald Street,,,Auckland,Auckland,1025,New Zealand,+64 210 214 2287,https://www.batsmenbrewing.cool/,174.7375586,-36.8759389
+,Big Growler,closed,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+,Birkenhead Brewing Company,contract,17 Birkenhead Avenue,,,Auckland,Auckland,0626,New Zealand,+64 9 320 5055,https://bbc.kiwi/,174.7264826,-36.81180550000001
+,Black Dog,micro,19 Blair Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 381 0230,https://threesistersbrewery.store/,174.7833293,-41.29330119999999
+,Black Sands / Weezledog,micro,9i Westech Place,,,Auckland,Auckland,0602,New Zealand,+64 9 813 0856,https://www.blacksandsbrewing.co.nz/,174.6602846,-36.9065581
+,Bloom Theory,closed,19 Blair Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 381 0230,https://threesistersbrewery.store/,174.7833293,-41.29330119999999
+,Blue Fridge,micro,107 Newton Street,,,Mount Maunganui,Bay of Plenty Region,3116,New Zealand,,https://www.mountbrewingco.com/,176.2047554,-37.6619351
+,Boilerhouse,micro,107 Newton Street,,,Mount Maunganui,Bay of Plenty Region,3116,New Zealand,,https://www.mountbrewingco.com/,176.2047554,-37.6619351
+,Boneface,micro,27 Blenheim Street,,,Upper Hutt,Wellington Region,5018,New Zealand,+64 4 529 7042,http://www.boneface.co.nz/,175.0682987,-41.1303715
+,Boogie Van,closed,29B Tahi Road,,,Auckland,Auckland,1081,New Zealand,+64 27 519 9737,,175.0553979,-36.79418039999999
+,Bootleg,contract,452b Tauwhare Road,,,Hamilton,Waikato Region,3284,New Zealand,+64 22 463 1726,http://www.bootlegbrewery.co.nz/,175.3967184,-37.8054995
+,Brave,micro,205 Queen Street East,,,Hastings,Hawke's Bay Region,4122,New Zealand,+64 27 239 3546,http://www.bravebrewing.co.nz/,176.8455785,-39.6426334
+,Brew Moon,micro,12 Markham Street,,,Amberley,Canterbury Region,7410,New Zealand,+64 274 561 070,http://www.brewmoon.co.nz/,172.7277009,-43.1535759
+,Brew Mountain,contract,59 Gill Street,,,New Plymouth,Taranaki Region,4310,New Zealand,+64 6 927 3133,http://www.shiningpeakbrewing.com/,174.0769265,-39.0557041
+,Brew Union,micro,41 Broadway Avenue,,,Palmerston North,Manawatū-Whanganui Region,4410,New Zealand,+64 6 280 3146,http://www.brewunion.co.nz/,175.6124924,-40.3540828
+,Brewaucracy,micro,34 Mahana Road,,,Hamilton,Waikato Region,3200,New Zealand,+64 7 282 0254,http://www.brewaucracy.co.nz/,175.2515685,-37.7589444
+,Britomart,closed,122 Quay Street,,,Auckland,Auckland,1010,New Zealand,+64 9 374 3952,https://thebrit.co.nz/,174.7695387,-36.8441729
+,Brothers Beer City Works,micro,5 Akiraho Street,,,Auckland,Auckland,1024,New Zealand,+64 9 638 7592,https://brothersbeer.co.nz/,174.7589421,-36.8684812
+,Brothers Beer Juke Joint,micro,5 Akiraho Street,,,Auckland,Auckland,1024,New Zealand,+64 9 638 7592,http://www.jukejoint.co.nz/,174.7588207,-36.8684534
+,Burke's,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Canyon,micro,1 Arthurs Point Road,,,Queenstown,Otago Region,9371,New Zealand,+64 3 442 8692,https://www.canyonbrewingqt.co.nz/,168.6721377,-44.9875607
+,Cassels,micro,3 Garlands Road,,,Christchurch,Canterbury Region,8024,New Zealand,+64 3 389 5359,https://cassels.nz/,172.6804102,-43.5568617
+,Cell Division,micro,7 Anzac Avenue,,,Dunedin,Otago Region,9016,New Zealand,+64 20 482 3696,http://www.noisybrew.co.nz/,170.5090641,-45.8742472
+,Choice Bros,micro,62 Ghuznee Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 282 0583,https://www.choicebros.co.nz/,174.7752227,-41.2926902
+,Concept,micro,86c Kingsley Street,,,Christchurch,Canterbury Region,8023,New Zealand,+64 800 004 565,https://conceptbrewing.co.nz/,172.6447206,-43.5439652
+,Coromandel,micro,55 Kapanga Road,,,Coromandel,Waikato Region,3506,New Zealand,+64 21 679 727,http://www.coromandeltownsupply.co.nz/,175.4975423,-36.7595951
+,Craftwork,micro,10 Harbour Street,,,Oamaru,Otago Region,9400,New Zealand,+64 210 226 3007,http://www.craftworkbrewery.co.nz/,170.9705008,-45.1036707
+,Crazy Bay,micro,205 Queen Street East,,,Hastings,Hawke's Bay Region,4122,New Zealand,+64 27 239 3546,http://www.bravebrewing.co.nz/,176.8455785,-39.6426334
+,Croucher,micro,166 Lake Road,,,Rotorua,Bay of Plenty Region,3015,New Zealand,+64 7 348 5888,http://www.croucherbrewing.co.nz/,176.2327209,-38.126105
+,Dale's,closed,76 Gladstone Road,2,,Richmond,Tasman Region,7020,New Zealand,+64 3 391 0069,,173.1680833,-41.3447004
+,DB Draught Brewery,micro,28 Sheffield Street,,,Timaru,Canterbury Region,7910,New Zealand,+64 3 687 4230,https://www.db.co.nz/,171.2495661,-44.3548337
+,DB Waitemata,micro,1 Bairds Road,,,Auckland,Auckland,2025,New Zealand,+64 9 259 3000,https://www.db.co.nz/,174.8532023,-36.9583044
+,Dead Good,closed,483 Main Road Riwaka,,,Motueka,Tasman Region,7120,New Zealand,,http://alimentbrewing.co.nz/,172.9969452,-41.0798913
+,Deco City,contract,3672 State Highway 50,,,Maraekakaho,Hawke's Bay Region,4171,New Zealand,+64 27 931 1042,http://godsownbrewery.co.nz/,176.6006602,-39.6487024
+,Deep Creek Browns Bay,micro,111 Clyde Road,,,Auckland,Auckland,0630,New Zealand,+64 9 479 6665,https://brownsbaybrewing.co.nz/,174.7487112,-36.713686
+,Deep Creek Silverdale,micro,111 Clyde Road,,,Auckland,Auckland,0630,New Zealand,+64 9 479 6665,https://brownsbaybrewing.co.nz/,174.7487112,-36.713686
+,Derelict,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Double Vision,micro,Park Road,,,Wellington,Wellington Region,6022,New Zealand,+64 4 213 9204,https://doublevisionbrewing.com/pages/miramar,174.8214189,-41.3095143
+,Dr Hops,closed,8 Shotover Street,,,Queenstown,Otago Region,9300,New Zealand,+64 22 305 7635,http://www.newzealandcraftbeers.com/,168.6613714,-45.03045110000001
+,Dr Rudi's,micro,204 Quay Street,Level 2,,Auckland,Auckland,1010,New Zealand,+64 9 942 4666,https://www.drrudis.co.nz/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_term=plcid_14817247859523512074,174.76353,-36.8427476
+,Duncan's,micro,4B Sheffield Street,,,Paraparaumu,Wellington Region,5032,New Zealand,,http://www.duncansbrewing.co.nz/,174.9996949,-40.9056965
+,Eagle,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Eddyline,micro,15 Elms Street,,,Nelson,Nelson Region,7011,New Zealand,+64 3 541 0757,https://eddylinebrewery.nz/pages/taproom-taqueria,173.2105315,-41.3263058
+,Elation,closed,230B Neilson Street,,,Auckland,Auckland,1061,New Zealand,+64 800 212 337,http://www.epicbeer.com/,174.7997737,-36.9255482
+,Electron,micro,400 Raynes Road,,,Tamahere,Waikato Region,3282,New Zealand,+64 27 241 8668,https://www.hopnoticbrewery.com/,175.3427524,-37.8479426
+,Emerson's,micro,70 Anzac Avenue,,,Dunedin,Otago Region,9016,New Zealand,+64 3 477 1812,https://emersons.co.nz/,170.5167272,-45.8703598
+,Emporium,micro,57a Beach Road,,,Kaikōura,Canterbury Region,7300,New Zealand,+64 3 319 5897,http://www.emporiumbrewing.co.nz/,173.6781522,-42.3947063
+,Epic,contract,230B Neilson Street,,,Auckland,Auckland,1061,New Zealand,+64 800 212 337,http://www.epicbeer.com/,174.7997737,-36.9255482
+,Eruption,micro,26 London Street,,,Christchurch,Canterbury Region,8082,New Zealand,+64 3 972 2862,https://www.eruptionbrewing.com/,172.7214799,-43.6024378
+,Fat Monk / Abbey,closed,1769 Maraekakaho Road,,,Bridge Pa,Hawke's Bay Region,4171,New Zealand,,,176.746859,-39.64708299999999
+,Fiasco,contract,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Fitzpatrick's,micro,19 Keenan Road,,,Tauranga,Bay of Plenty Region,3173,New Zealand,+64 27 648 5650,http://www.fitzpatricksbrewing.co.nz/,176.1140371,-37.7742131
+,Fork,micro,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+,Fortune Favours,micro,,,,Wellington,Wellington Region,6022,New Zealand,,,174.8115219,-41.3286251
+,Fuzzy Logic,closed,11 Corbett Road,,,New Plymouth,Taranaki Region,4312,New Zealand,+64 210 250 2882,,174.1613366,-39.0328985
+,Galbraith's,micro,2 Mount Eden Road,,,Auckland,Auckland,1023,New Zealand,+64 9 379 3557,http://www.alehouse.co.nz/,174.7612371,-36.8655826
+,Garage Project,micro,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+,Ghost,contract,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Giant,micro,6 Treachers Lane,,,Havelock North,Hawke's Bay Region,4120,New Zealand,+64 27 220 3043,http://www.giantbrewing.co.nz/,176.8773087,-39.6690809
+,Godsown,micro,3672 State Highway 50,,,Maraekakaho,Hawke's Bay Region,4171,New Zealand,+64 27 931 1042,http://godsownbrewery.co.nz/,176.6006602,-39.6487024
+,Golden Bear,micro,6 Aranui Road,501,,Māpua,Tasman Region,7005,New Zealand,+64 3 540 3210,http://www.goldenbearbrewing.com/,173.1015975,-41.255985
+,Golden Ticket,closed,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Good George,micro,32A Somerset Street,,,Hamilton,Waikato Region,3204,New Zealand,+64 7 847 3223,https://dininghall.co.nz/,175.269158,-37.788422
+,Governor,closed,1 Jellicoe Street,,,Auckland,Auckland,1010,New Zealand,+64 9 940 4955,https://www.goodgeorgenorthwharf.co.nz/,174.7582386,-36.8410264
+,Great King Street,micro,7 Anzac Avenue,,,Dunedin,Otago Region,9016,New Zealand,+64 20 482 3696,http://www.noisybrew.co.nz/,170.5090641,-45.8742472
+,Green Man,micro,70 Anzac Avenue,,,Dunedin,Otago Region,9016,New Zealand,+64 3 477 1812,https://emersons.co.nz/,170.5167272,-45.8703598
+,Ground Up,micro,4 Gordon Road,,,Wānaka,Otago Region,9305,New Zealand,+64 21 273 9464,http://www.groundup.co.nz/,169.1475352,-44.7033791
+,Hallertau,micro,1171 Coatesville Riverhead Highway,,,Auckland,Auckland,0892,New Zealand,+64 9 412 5555,http://www.hallertau.co.nz/,174.5878681,-36.7668414
+,Hancock,closed,KahaKaha Lane,,,Auckland,Auckland,2022,New Zealand,+64 9 361 8480,http://www.hancocks.co.nz/,174.8226022,-36.9821699
+,Harrington's,micro,1 Arthurs Point Road,,,Queenstown,Otago Region,9371,New Zealand,+64 3 442 8692,https://www.canyonbrewingqt.co.nz/,168.6721377,-44.9875607
+,Hawke's Bay Independent,micro,22 Lee Road,,,Napier,Hawke's Bay Region,4112,New Zealand,+64 6 876 0312,http://www.wine-and-beer-hb.org.nz/,176.8500147,-39.5351475
+,Herne,closed,17 Gordon Road,,,Wānaka,Otago Region,9305,New Zealand,+64 3 265 1101,http://rhymeandreason.beer/,169.1468662,-44.7041534
+,Heyday,micro,264a Cuba Street,,,Wellington,Wellington Region,6011,New Zealand,+64 20 443 9329,http://www.heydaybeer.com/,174.7734754,-41.2966724
+,Hop Baron,closed,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Hop Farm,micro,249 State Highway 6,,,Wai-Iti,Tasman Region,7095,New Zealand,+64 274 418 560,http://www.hopfarmbrewery.co.nz/,173.0100277,-41.4184732
+,Hop Federation,micro,627 Main Road,,,Riwaka,Tasman Region,7198,New Zealand,+64 3 528 0637,http://www.hopfederation.co.nz/,172.9909069,-41.0701188
+,Hop Hustlers,closed,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+,Hop Invaders,closed,8 Shotover Street,,,Queenstown,Otago Region,9300,New Zealand,+64 22 305 7635,http://www.newzealandcraftbeers.com/,168.6613714,-45.03045110000001
+,Hot Water,micro,107 Newton Street,,,Mount Maunganui,Bay of Plenty Region,3116,New Zealand,,https://www.mountbrewingco.com/,176.2047554,-37.6619351
+,Hunter Hills,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Independent,micro,394 New North Road,,,Auckland,Auckland,1021,New Zealand,,https://saintleonards.co.nz/,174.7476876,-36.8714983
+,Invercargill,closed,17 Bond Street,,,Invercargill,Southland Region,9810,New Zealand,,https://gadoochibrewing.nz/,168.3397384,-46.4065908
+,Isthmus,contract,57A Wolverton Street,,,Auckland,Auckland,0600,New Zealand,+64 9 828 9623,http://www.hopscotch.co.nz/,174.6976585,-36.9077018
+,JuiceHead,contract,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+,Kaiapoi,closed,77 Hilton Street,4,,Kaiapoi,Canterbury Region,7630,New Zealand,+64 3 327 9224,https://kaiapoi.cbk.nz/,172.6566132,-43.38491639999999
+,Kaikoura,micro,57a Beach Road,,,Kaikōura,Canterbury Region,7300,New Zealand,+64 3 319 5897,http://www.emporiumbrewing.co.nz/,173.6781522,-42.3947063
+,Kaimai,closed,8541 State Highway 2,,,Waikino,Waikato Region,3682,New Zealand,+64 27 678 9752,http://www.kaimaibrewinganddistilling.co.nz/,175.7708096,-37.4138724
+,Kainui,closed,1 Conifer Lane,,,Kerikeri,Northland Region,0294,New Zealand,+64 27 277 2507,http://kainuiroad.co.nz/,173.914338,-35.1905951
+,Kaiser Brothers,micro,46B Halwyn Drive,,,Christchurch,Canterbury Region,8042,New Zealand,+64 3 344 6270,https://www.kaiserbros.beer/,172.5361362,-43.5369181
+,Kereru,micro,415a Maidstone Terrace,,,Upper Hutt,Wellington Region,5018,New Zealand,+64 4 974 6343,https://www.kererubrewing.co.nz/,175.0723636,-41.1297944
+,Kiwi,closed,34 Mahana Road,,,Hamilton,Waikato Region,3200,New Zealand,+64 7 282 0254,http://www.brewaucracy.co.nz/,175.2515685,-37.7589444
+,KJD,closed,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Lake and Wood,micro,50 Taitimu Road,,,Omanawa,Bay of Plenty Region,3110,New Zealand,+64 22 467 1122,https://www.neckofthewoods.beer/,176.092139,-37.7570392
+,Lakeman,micro,34 Mahana Road,,,Hamilton,Waikato Region,3200,New Zealand,+64 7 282 0254,http://www.brewaucracy.co.nz/,175.2515685,-37.7589444
+,Laughing Bones,micro,32D Forge Road,,,Silverdale,Auckland,0932,New Zealand,,https://laughingbonesbrewing.com/,174.6779485,-36.6250241
+,League of Brewers,micro,14 Vivian Place,,,Nelson,Nelson Region,7011,New Zealand,+64 20 4133 1383,https://leagueofbrewers.co.nz/,173.239207,-41.294462
+,Liberty,micro,64 Mill Road,,,Helensville,Auckland,0800,New Zealand,,http://www.libertybrewing.co.nz/,174.4450705,-36.6776974
+,Lighthouse,closed,2 Garden Court,,,Haruru,Northland Region,0204,New Zealand,+64 9 601 2004,https://phathouse.nz/,174.0560477,-35.2808624
+,Lion,micro,55 Ormiston Road,,,Auckland,Auckland,2019,New Zealand,+64 800 835 554,http://www.lionco.com/,174.8956109,-36.963213
+,Little Creatures Hobsonville,micro,2 Boundary Road,,,Auckland,Auckland,0616,New Zealand,+64 9 416 4416,https://littlecreatures.co.nz/,174.6721147,-36.7892908
+,Longbeard,closed,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Lord Almighty,closed,Park Road,,,Wellington,Wellington Region,6022,New Zealand,+64 4 213 9204,https://doublevisionbrewing.com/pages/miramar,174.8214189,-41.3095143
+,Lumberjack,micro,4 Palmer Place,,,Te Puke,Bay of Plenty Region,3119,New Zealand,+64 210 859 8263,https://thepackhouse.lumberjackbrewing.co.nz/,176.3295564,-37.7847937
+,Mandrake,contract,9i Westech Place,,,Auckland,Auckland,0602,New Zealand,+64 9 813 0856,https://www.blacksandsbrewing.co.nz/,174.6602846,-36.9065581
+,Mangatawhiri,micro,452b Tauwhare Road,,,Hamilton,Waikato Region,3284,New Zealand,+64 22 463 1726,http://www.bootlegbrewery.co.nz/,175.3967184,-37.8054995
+,Manuherekia,micro,Holloway Street,,,Clyde,Otago Region,9330,New Zealand,,http://www.oliversvictoriastore.co.nz/victoria-store-brewery,169.3161875,-45.1863689
+,Martinborough,micro,10 Ohio Street,,,Martinborough,Wellington Region,5711,New Zealand,+64 6 306 6249,http://martinboroughbeer.com/,175.4580242,-41.2178342
+,Mash Palace,contract,172 High Street,,,Christchurch,Canterbury Region,8011,New Zealand,+64 21 814 177,http://thesmashpalace.co.nz/,172.6406209,-43.5346025
+,Massey University,micro,Wallace Street,,,Wellington,Wellington Region,6021,New Zealand,+64 800 627 739,https://www.massey.ac.nz/,174.776699,-41.2997518
+,Mata,micro,107 Newton Street,,,Mount Maunganui,Bay of Plenty Region,3116,New Zealand,,https://www.mountbrewingco.com/,176.2047554,-37.6619351
+,Maverick,closed,10 Harbour Street,,,Oamaru,Otago Region,9400,New Zealand,+64 210 226 3007,http://www.craftworkbrewery.co.nz/,170.9705008,-45.1036707
+,McLeod's,micro,2 Cove Road,,,Waipu,Northland Region,0510,New Zealand,+64 9 432 1011,https://mcleodspizzabarn.co.nz/,174.4477844,-35.9850502
+,Mean Doses,micro,66 Tory Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 213 6551,https://www.meandoses.co.nz/,174.780467,-41.2944311
+,MK (Mussel Kitchen),closed,The 309 Road,,,Coromandel,Waikato Region,3510,New Zealand,+64 7 866 7727,,175.5130475,-36.7899486
+,Moa,micro,258 Jacksons Road,,,Rapaura,Marlborough Region,7273,New Zealand,+64 210 250 3413,http://www.moabeer.com/,173.8814879,-41.4873179
+,Monsoon,contract,12 Markham Street,,,Amberley,Canterbury Region,7410,New Zealand,+64 274 561 070,http://www.brewmoon.co.nz/,172.7277009,-43.1535759
+,Monteith's,large,60 Herbert Street,,,Greymouth,West Coast Region,7805,New Zealand,+64 274 449 985,https://www.thebrewery.co.nz/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing,171.2067428,-42.4539488
+,Mount / Funk Estate,micro,107 Newton Street,,,Mount Maunganui,Bay of Plenty Region,3116,New Zealand,,https://www.mountbrewingco.com/,176.2047554,-37.6619351
+,Moutere,contract,1406 Moutere Highway,,,Upper Moutere,Tasman Region,7175,New Zealand,+64 3 543 2759,https://www.themoutere.co.nz/,173.0068749,-41.2674722
+,Mussel Inn,micro,1259 State Highway 60,,,Onekaka,Tasman Region,7182,New Zealand,+64 3 525 9241,http://www.musselinn.co.nz/,172.703246,-40.759513
+,Mythica,micro,48 Ellice Road,4,,Auckland,Auckland,0629,New Zealand,,http://www.mythicabrewing.com/,174.729737,-36.7657597
+,Napier Brewing Company,micro,20 Awatoto Road,,,Napier,Hawke's Bay Region,4183,New Zealand,+64 22 174 0711,,176.8950401,-39.5430303
+,New New New,micro,7 Anzac Avenue,,,Dunedin,Otago Region,9016,New Zealand,+64 20 482 3696,http://www.noisybrew.co.nz/,170.5090641,-45.8742472
+,Noisy,micro,7 Anzac Avenue,,,Dunedin,Otago Region,9016,New Zealand,+64 20 482 3696,http://www.noisybrew.co.nz/,170.5090641,-45.8742472
+,North End,micro,,,,kapiti,Wellington Region,5036,New Zealand,+64 4 891 1281,http://www.northendbrewing.net/,175.0641363,-40.8751331
+,Occasional Brewer,micro,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+,Ora,contract,5 Akiraho Street,,,Auckland,Auckland,1024,New Zealand,+64 9 638 7592,https://brothersbeer.co.nz/,174.7589421,-36.8684812
+,Outlier Cartel,closed,7 Emily Place,,,Auckland,Auckland,1010,New Zealand,,,174.7707036,-36.8459708
+,Panhead,micro,1 Tory Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 213 9756,https://www.panheadtorystreet.com/,174.782046,-41.2923804
+,Park Life,closed,15 Elms Street,,,Nelson,Nelson Region,7011,New Zealand,+64 3 541 0757,https://eddylinebrewery.nz/pages/taproom-taqueria,173.2105315,-41.3263058
+,ParrotDog,micro,66 Kingsford Smith Street,60,,Wellington,Wellington Region,6022,New Zealand,+64 4 384 8077,http://parrotdog.co.nz/,174.7998029,-41.3271748
+,Peak,closed,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+,Phat House,micro,2 Garden Court,,,Haruru,Northland Region,0204,New Zealand,+64 9 601 2004,https://phathouse.nz/,174.0560477,-35.2808624
+,Piha,contract,400 Raynes Road,,,Tamahere,Waikato Region,3282,New Zealand,+64 27 241 8668,https://www.hopnoticbrewery.com/,175.3427524,-37.8479426
+,Pilot Brewery,contract,400 Raynes Road,,,Tamahere,Waikato Region,3282,New Zealand,+64 27 241 8668,https://www.hopnoticbrewery.com/,175.3427524,-37.8479426
+,Quarter Acre,closed,34 Mahana Road,,,Hamilton,Waikato Region,3200,New Zealand,+64 7 282 0254,http://www.brewaucracy.co.nz/,175.2515685,-37.7589444
+,Queenstown Brewers,closed,1 Arthurs Point Road,,,Queenstown,Otago Region,9371,New Zealand,+64 3 442 8692,https://www.canyonbrewingqt.co.nz/,168.6721377,-44.9875607
+,Raglan Brewing Company,closed,23 Bow Street,,,Raglan,Waikato Region,3225,New Zealand,,http://www.raglanbrewingcompany.com/,174.8694166,-37.8001058
+,Rain Dogs,micro,105 Orbell Street,Unit 2,,Christchurch,Canterbury Region,8023,New Zealand,+64 22 463 8031,https://www.renegadebrewing.co.nz/,172.6316439,-43.5424763
+,Ranger,micro,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+,Remedy,closed,264a Cuba Street,,,Wellington,Wellington Region,6011,New Zealand,+64 20 443 9329,http://www.heydaybeer.com/,174.7734754,-41.2966724
+,Renaissance,micro,11 Rapaura Road,,,Renwick,Marlborough Region,7273,New Zealand,+64 3 572 9800,http://www.wairauriverwines.com/,173.8181003,-41.4860631
+,Rhyme and Reason,micro,17 Gordon Road,,,Wānaka,Otago Region,9305,New Zealand,+64 3 265 1101,http://rhymeandreason.beer/,169.1468662,-44.7041534
+,Rocky Knob,micro,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 4 555 0807,https://rockyknob.co.nz/,174.777348,-41.2941832
+,Roosters,micro,1470 Omahu Road,,,Hastings,Hawke's Bay Region,4175,New Zealand,+64 6 879 5158,http://www.roosters.co.nz/,176.7796173,-39.6065979
+,Roots,micro,43 State Highway 3,,,Westmere,Manawatū-Whanganui Region,4571,New Zealand,+64 27 255 2755,http://rootsbrewing.beer/,175.0077519,-39.8937828
+,Rough Rock,micro,1870 Waikouaiti-Waitati Road,,,Evansdale,Otago Region,9471,New Zealand,+64 20 4119 1921,http://www.arcbrewingco.com/,170.5697102,-45.71779050000001
+,Ruapehu,micro,27 Goldfinch Street,Rear Unit,,Ohakune,Manawatū-Whanganui Region,4625,New Zealand,+64 210 359 938,http://www.ruapehubrewing.co.nz/,175.3988633,-39.4168949
+,Sawmill,micro,1004 Leigh Road,,,Matakana,Auckland,0985,New Zealand,+64 9 422 6555,http://www.sawmillbrewery.co.nz/,174.7314209,-36.3293451
+,Schippers,closed,128-132 Victoria Street West,,,Auckland,Auckland,1010,New Zealand,+64 9 309 4515,https://www.facebook.com/pages/The-Brewers-Co-operative-Craft-Beer-Auckland-CBD/314832112058735,174.7598222,-36.8478406
+,Scotch Fileha / Danger's,closed,394 New North Road,,,Auckland,Auckland,1021,New Zealand,,https://saintleonards.co.nz/,174.7476876,-36.8714983
+,Scotts,micro,1 Wansbeck Street,,,Oamaru,Otago Region,9400,New Zealand,+64 3 434 2244,http://www.scottsbrewing.co.nz/,170.9701838,-45.1048665
+,Search Light,micro,12 Industrial Place,,,Queenstown,Otago Region,9300,New Zealand,+64 3 409 0377,https://searchlightbrewery.co.nz/,168.662339,-45.0179374
+,Shakespeare,micro,61 Albert Street,,,Auckland,Auckland,1010,New Zealand,+64 9 373 5396,https://online.shakespeare.nz/,174.7640642,-36.8467619
+,Shining Peak,micro,59 Gill Street,,,New Plymouth,Taranaki Region,4310,New Zealand,+64 6 927 3133,http://www.shiningpeakbrewing.com/,174.0769265,-39.0557041
+,Ship Hop,micro,7 Strathallan Street,,,Timaru,Canterbury Region,7910,New Zealand,+64 21 970 389,https://shiphop.co.nz/,171.254372,-44.394944
+,Shunters Yard,closed,145 Matangi Road,,,Tamahere,Waikato Region,3284,New Zealand,,,175.3449414,-37.803316
+,Sidewinder Brewery,micro,70 Anzac Avenue,,,Dunedin,Otago Region,9016,New Zealand,+64 3 477 1812,https://emersons.co.nz/,170.5167272,-45.8703598
+,Slab,micro,107 Newton Street,,,Mount Maunganui,Bay of Plenty Region,3116,New Zealand,,https://www.mountbrewingco.com/,176.2047554,-37.6619351
+,Sneaky,contract,1470 Omahu Road,,,Hastings,Hawke's Bay Region,4175,New Zealand,+64 6 879 5158,http://www.roosters.co.nz/,176.7796173,-39.6065979
+,Southpaw,contract,34 New Brighton Mall,,,Christchurch,Canterbury Region,8063,New Zealand,+64 27 284 1161,https://www.southpawbeer.com/,172.7300191,-43.5069963
+,Sparks,contract,80 Mahuhu Crescent,42,,Auckland,Auckland,1010,New Zealand,+64 9 358 1250,http://www.sparkarena.co.nz/,174.7769837,-36.84713600000001
+,Speight's,large,200 Rattray Street,,,Dunedin,Otago Region,9016,New Zealand,+64 3 477 7697,http://speights.co.nz/,170.5000899,-45.8765728
+,Sprig & Fern,micro,53 Beach Road,,,Nelson,Tasman Region,7020,New Zealand,+64 3 544 8675,http://www.sprigandfern.co.nz/,173.1859591,-41.3337874
+,Stacpoole's,micro,200 Rattray Street,,,Dunedin,Otago Region,9016,New Zealand,+64 3 477 7697,http://speights.co.nz/,170.5000899,-45.8765728
+,Standing Spoon,closed,186 James Fletcher Drive,,,Auckland,Auckland,2024,New Zealand,+64 9 270 1890,https://www.steambrewing.co.nz/,174.8209641,-36.9487794
+,Steam,micro,186 James Fletcher Drive,,,Auckland,Auckland,2024,New Zealand,+64 9 270 1890,https://www.steambrewing.co.nz/,174.8209641,-36.9487794
+,Steamer Basin,micro,No Name Alley,,,Dunedin,Otago Region,9016,New Zealand,+64 27 922 7817,https://www.steamerbasin.co.nz/,170.5007303,-45.8801981
+,Stoke,micro,660 Main Road Stoke,,,Nelson,Nelson Region,7001,New Zealand,+64 3 547 5357,https://mccashins.co.nz/,173.2256569,-41.3186457
+,Sunshine,micro,49 Awapuni Road,,,Gisborne,Gisborne Region,4010,New Zealand,+64 6 867 7777,http://www.sunshinebrewing.co.nz/,178.0172072,-38.6688993
+,SUP,micro,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+,Sweat Shop,micro,7 Sale Street,,,Auckland,Auckland,1010,New Zealand,+64 9 307 8148,https://stargroup.nz/venues/sweat-shop,174.7564195,-36.8491665
+,Te Aro,micro,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+,The Catlins,closed,3 Brighton Street,,,Kaka Point,Otago Region,9271,New Zealand,,,169.7814783,-46.3766202
+,The Dux,closed,144 Lichfield Street,,,Christchurch,Canterbury Region,8011,New Zealand,+64 3 366 6919,http://www.duxcentral.co.nz/,172.6414591,-43.534633
+,The Fermentist,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,The Island,micro,107 Newton Street,,,Mount Maunganui,Bay of Plenty Region,3116,New Zealand,,https://www.mountbrewingco.com/,176.2047554,-37.6619351
+,The Laboratory,micro,17 West Belt,,,Lincoln,Canterbury Region,7608,New Zealand,+64 3 325 3006,http://thelaboratory.co.nz/,172.48147,-43.640201
+,The Theoretical Brewer,micro,11 Corbett Road,,,New Plymouth,Taranaki Region,4312,New Zealand,+64 210 250 2882,,174.1613366,-39.0328985
+,There Be Dragons,contract,17 Gordon Road,,,Wānaka,Otago Region,9305,New Zealand,+64 3 265 1101,http://rhymeandreason.beer/,169.1468662,-44.7041534
+,Three Boys,micro,592 Ferry Road,,,Christchurch,Canterbury Region,8023,New Zealand,+64 3 940 5621,http://www.threeboysbrewery.co.nz/,172.6811677,-43.5489729
+,Three Fat Pigs,contract,8 Kent Street,,,Hamilton,Waikato Region,3204,New Zealand,,,175.2658954,-37.7887889
+,Three Mountains,micro,State Highway 14,Maunu,,Whangarei,Northland,0179,New Zealand,+64 9 434 7467,,174.26743,-35.742409
+,Three Sisters,micro,87 Devon Street West,,,New Plymouth,Taranaki Region,4310,New Zealand,+64 22 066 3176,https://threesistersbrewery.store/,174.0718226,-39.058648
+,Tiamana,closed,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+,Tinker Taylor,micro,20 Bond Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 472 0033,http://www.forkandbrewer.co.nz/,174.7756195,-41.2892342
+,Townshend,micro,483 Main Road Riwaka,,,Motueka,Tasman Region,7120,New Zealand,,http://alimentbrewing.co.nz/,172.9969452,-41.0798913
+,Tuatara,micro,10 Railway Avenue,Unit 6,,Upper Hutt,Wellington Region,5018,New Zealand,+64 800 746 432,https://www.db.co.nz/tuatara,175.0704113,-41.1296239
+,Tuatara Third Eye,closed,30 Arthur Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 803 3948,http://tuatarabrewing.co.nz/the-third-eye/about,174.7743407,-41.2972423
+,Tui Brewery,large,,,,Mangatainoka,Manawatū-Whanganui Region,4982,New Zealand,+64 21 195 9125,https://www.tuihq.co.nz/,175.8650867,-40.42196750000001
+,Twisted Hop,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Two Fingers,closed,34 Mahana Road,,,Hamilton,Waikato Region,3200,New Zealand,+64 7 282 0254,http://www.brewaucracy.co.nz/,175.2515685,-37.7589444
+,Two Thumb,micro,380 Colombo Street,,,Christchurch,Canterbury Region,8023,New Zealand,+64 210 837 7539,https://www.twothumb.com/?utm_source=Sydenham&utm_medium=googleplaces,172.6368292,-43.5456374
+,Ultimate Brewing,contract,597 New North Road,,,Auckland,Auckland,1021,New Zealand,+64 9 215 9074,https://www.urbanautbeer.com/,174.7372828,-36.8732649
+,Urbanaut,micro,597 New North Road,,,Auckland,Auckland,1021,New Zealand,+64 9 215 9074,https://www.urbanautbeer.com/,174.7372828,-36.8732649
+,Valkyrie,closed,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Valley Brewing,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Victoria Store,micro,Holloway Street,,,Clyde,Otago Region,9330,New Zealand,,http://www.oliversvictoriastore.co.nz/victoria-store-brewery,169.3161875,-45.1863689
+,Vulcan,contract,26 London Street,,,Christchurch,Canterbury Region,8082,New Zealand,+64 3 972 2862,https://www.eruptionbrewing.com/,172.7214799,-43.6024378
+,Waiheke,micro,82 Onetangi Road,,,Auckland,Auckland,1971,New Zealand,+64 9 372 3434,https://wildestate.co.nz/drink/waiheke-island-brewery,175.0650259,-36.8005027
+,Waitoa Social Club,micro,32 Waitoa Road,,,Wellington,Wellington Region,6021,New Zealand,+64 22 461 2981,http://www.waitoabeer.co.nz/,174.7941116,-41.3039193
+,Wakachangi,contract,230B Neilson Street,,,Auckland,Auckland,1061,New Zealand,+64 800 212 337,http://www.epicbeer.com/,174.7997737,-36.9255482
+,Wanaka Beerworks,micro,891 Wanaka-Luggate Highway,,,Wānaka,Otago Region,9382,New Zealand,+64 3 443 1865,http://www.wanakabeerworks.co.nz/,169.2397087,-44.7227065
+,Wassail,micro,4 Olson Street,,,Egmont Village,Taranaki Region,4386,New Zealand,+64 6 752 2029,http://www.brauhaus.co.nz/,174.1423364,-39.1485691
+,Webb Street,closed,264a Cuba Street,,,Wellington,Wellington Region,6011,New Zealand,+64 20 443 9329,http://www.heydaybeer.com/,174.7734754,-41.2966724
+,West Coast,closed,10 Lyndhurst Street,,,Westport,West Coast Region,7825,New Zealand,+64 3 789 6201,,171.5990388,-41.7536078
+,Whistling Sisters,closed,100 Taranaki Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 381 3208,,174.7776515,-41.2941276
+,Wigram,micro,57 Sonter Road,,,Christchurch,Canterbury Region,8042,New Zealand,+64 3 343 4493,http://www.wigrambrewing.co.nz/,172.5666458,-43.5494908
+,Wild & Woolly,closed,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+,Wilderness,micro,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Workshop,micro,2 Park Drive,,,Raglan,Waikato Region,3225,New Zealand,,https://workshopbrewing.co.nz/,174.8725929,-37.7997839
+,Yeastie Boys,closed,100 Taranaki Street,,,Wellington,Wellington Region,6011,New Zealand,+64 4 381 3208,,174.7776515,-41.2941276
+,Yellow Box,contract,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Zeelandt,closed,14 Shaw Road,,,Eskdale,Hawke's Bay Region,4182,New Zealand,+64 6 835 1825,http://www.zeelandt.co.nz/,176.8284276,-39.3896108
+,Bays Brewery,closed,89 Pascoe Street,,,Nelson,Nelson Region,7011,New Zealand,,,173.241461,-41.2955091
+,Emerson's Brewery,large,70 Anzac Avenue,,,Dunedin,Otago Region,9016,New Zealand,+64 3 477 1812,https://emersons.co.nz/,170.5167272,-45.8703598
+,Epic Brewing Company,micro,230B Neilson Street,,,Auckland,Auckland,1061,New Zealand,+64 800 212 337,http://www.epicbeer.com/,174.7997737,-36.9255482
+,Garage Project,micro,7 Furness Lane,,,Wellington,Wellington Region,6011,New Zealand,+64 21 245 3300,https://garageproject.co.nz/pages/wild-workshop-cellar-door,174.777348,-41.2941832
+,Harrington's Breweries,large,96 Oxford Terrace,,,Christchurch,Canterbury Region,8011,New Zealand,+64 210 770 719,https://canterburybrewerscollective.nz/,172.6339697,-43.53397020000001
+,Invercargill Brewery,closed,5 Don Street,,,Invercargill,Southland Region,9810,New Zealand,+64 3 928 5851,https://thelanglands.co.nz/brewd/,168.3478574,-46.4108967
+,McCashins Brewery,large,660 Main Road Stoke,,,Nelson,Nelson Region,7001,New Zealand,+64 3 547 5357,https://mccashins.co.nz/,173.2256569,-41.3186457
+,Moa Brewing Company,micro,258 Jacksons Road,,,Rapaura,Marlborough Region,7273,New Zealand,+64 210 250 3413,http://www.moabeer.com/,173.8814879,-41.4873179
+,Steam Brewing Company,contract,186 James Fletcher Drive,,,Auckland,Auckland,2024,New Zealand,+64 9 270 1890,https://www.steambrewing.co.nz/,174.8209641,-36.9487794
+,Yeastie Boys,contract,76 Willis Street,,,Wellington,Wellington Region,6011,New Zealand,,http://www.themalthouse.co.nz/,174.7750277,-41.2880476
