@@ -4,6 +4,8 @@ import { join } from "path";
 import Papa from "papaparse";
 import { papaParseOptions, headers } from "./config";
 
+// The first commit where brewery records were assigned stable UUIDs (2023-03-24).
+// All history extraction starts here — earlier commits used slug-based IDs that aren't stable.
 const GROUND_ZERO = "2dac1f54f86eafc8cb017d98642000069af09b11";
 const REPO_ROOT = join(__dirname, "..");
 const OUTPUT_PATH = join(REPO_ROOT, "breweries_changelog.csv");
@@ -32,6 +34,9 @@ function git(cmd: string): string {
 }
 
 function getCommitList(): Array<{ hash: string; date: string }> {
+  // %H = full commit hash, %as = author date (YYYY-MM-DD). --reverse gives oldest-first order.
+  // The ^ suffix on GROUND_ZERO means "include the ground-zero commit itself" (one before its parent).
+  // -- data/ limits the log to commits that touched files under the data/ directory.
   const log = git(
     `git log --format="%H %as" --reverse ${GROUND_ZERO}^..HEAD -- data/`
   ).trim();
@@ -54,6 +59,8 @@ function getDataFilesAtCommit(hash: string): string[] {
     .filter((f) => f.endsWith(".csv") && f.startsWith("data/"));
 }
 
+// Reads all data/ CSV files at a specific commit and returns a Map of brewery_id → row.
+// Using a Map keyed by UUID lets us do O(1) lookups when diffing against the previous commit.
 function loadSnapshotAtCommit(hash: string): Map<string, BreweryRecord> {
   const files = getDataFilesAtCommit(hash);
   const snapshot = new Map<string, BreweryRecord>();
@@ -61,13 +68,18 @@ function loadSnapshotAtCommit(hash: string): Map<string, BreweryRecord> {
   for (const file of files) {
     let csvContent: string;
     try {
+      // `git show <hash>:<path>` reads the file contents as they existed at that commit,
+      // without checking out the commit or modifying the working directory.
       csvContent = git(`git show ${hash}:${file}`);
     } catch {
+      // File may have been deleted or renamed in this commit — skip it gracefully.
       continue;
     }
 
     const result = Papa.parse<BreweryRecord>(csvContent, {
       ...papaParseOptions,
+      // Keep all values as strings so field comparisons in diffSnapshots are consistent.
+      // Without this, numeric fields like longitude would be parsed as numbers.
       dynamicTyping: false,
     });
 
@@ -81,6 +93,8 @@ function loadSnapshotAtCommit(hash: string): Map<string, BreweryRecord> {
   return snapshot;
 }
 
+// Treats null, undefined, and empty string as equivalent so that whitespace-only
+// changes or missing-vs-empty differences don't generate false positives in the diff.
 export function normalizeValue(v: unknown): string | null {
   if (v === null || v === undefined || v === "") return null;
   return String(v).trim();
@@ -113,6 +127,7 @@ export function diffSnapshots(
 ): ChangeRow[] {
   const rows: ChangeRow[] = [];
 
+  // Walk current snapshot: anything new is "added", anything changed is "modified".
   for (const [id, currRow] of curr) {
     if (!prev.has(id)) {
       rows.push(rowToChangeRow(hash, date, "added", "", currRow));
@@ -129,6 +144,9 @@ export function diffSnapshots(
     }
   }
 
+  // Walk previous snapshot: anything no longer in current is "deleted".
+  // Note: if a UUID moved between CSV files in the same commit, it will appear in
+  // both snapshots and correctly produce no diff row.
   for (const [id, prevRow] of prev) {
     if (!curr.has(id)) {
       rows.push(rowToChangeRow(hash, date, "deleted", "", prevRow));
@@ -185,6 +203,8 @@ function main(): void {
   console.log(`✅ Done. ${allRows.length.toLocaleString()} rows written.`);
 }
 
+// Only run main() when this file is executed directly (e.g. `npm run generate:changelog`).
+// When imported by tests, main() is skipped so the test suite doesn't trigger a full git walk.
 if (require.main === module) {
   main();
 }
