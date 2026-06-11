@@ -16,17 +16,19 @@
     "contributors:add": "all-contributors add",
     "contributors:check": "all-contributors check",
     "contributors:generate": "all-contributors generate",
-    "csv:combine": "ts-eager ./src/combine-csv.ts",
-    "csv:split": "ts-eager ./src/split-csv.ts",
-    "generate:json": "ts-eager ./src/generate-json.ts",
-    "generate:sql": "ts-eager ./src/generate-sql.ts",
-    "generate:stats": "ts-eager ./src/generate-stats.ts",
-    "update:readme-stats": "ts-eager ./src/update-readme-stats.ts",
-    "validate": "ts-eager --unhandled-rejections=strict ./src/validate-csv.ts",
+    "csv:combine": "tsx ./src/combine-csv.ts",
+    "csv:split": "tsx ./src/split-csv.ts",
+    "generate:json": "tsx ./src/generate-json.ts",
+    "generate:sql": "tsx ./src/generate-sql.ts",
+    "generate:stats": "tsx ./src/generate-stats.ts",
+    "update:readme-stats": "tsx ./src/update-readme-stats.ts",
+    "validate": "tsx --unhandled-rejections=strict ./src/validate-csv.ts",
+    "test": "vitest run",
+    "generate:changelog": "tsx ./src/generate-changelog.ts",
     "workflow:maintain": "run-s validate csv:combine csv:split generate:json generate:sql update:readme-stats"
   },
   "engines": {
-    "node": "22.x"
+    "node": ">=22.22"
   },
   "devDependencies": {
     "@types/glob": "^9.0.0",
@@ -45,9 +47,10 @@
     "pg-promise": "^12.6.1",
     "slugify": "^1.6.6",
     "tmp": "^0.2.6",
-    "ts-eager": "^2.0.2",
+    "tsx": "^4.22.4",
     "typescript": "^5.9.3",
     "uuid": "^14.0.0",
+    "vitest": "^4.1.8",
     "zod": "^4.3.6"
   }
 }
