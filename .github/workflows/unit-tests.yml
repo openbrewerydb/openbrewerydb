@@ -8,10 +8,12 @@ jobs:
     name: Unit Tests
     steps:
       - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.5.1
       - uses: actions/setup-node@v4
         with:
           node-version-file: .nvmrc
-      - uses: pnpm/action-setup@v4
-        with:
-          run_install: true
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
       - run: pnpm test
