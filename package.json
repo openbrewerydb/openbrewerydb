@@ -23,6 +23,8 @@
     "generate:stats": "ts-eager ./src/generate-stats.ts",
     "update:readme-stats": "ts-eager ./src/update-readme-stats.ts",
     "validate": "ts-eager --unhandled-rejections=strict ./src/validate-csv.ts",
+    "test": "vitest run",
+    "generate:changelog": "tsx ./src/generate-changelog.ts",
     "workflow:maintain": "run-s validate csv:combine csv:split generate:json generate:sql update:readme-stats"
   },
   "engines": {
@@ -46,8 +48,10 @@
     "slugify": "^1.6.6",
     "tmp": "^0.2.6",
     "ts-eager": "^2.0.2",
+    "tsx": "^4.22.4",
     "typescript": "^5.9.3",
     "uuid": "^14.0.0",
+    "vitest": "^4.1.8",
     "zod": "^4.3.6"
   }
 }
