@@ -36,7 +36,7 @@
     "all-contributors-cli": "^6.26.1",
     "ansi-regex": ">=6.2.2",
     "date-fns": "^4.1.0",
-    "esbuild": "^0.27.3",
+    "esbuild": "^0.28.1",
     "eslint": "^10.0.2",
     "glob": "^13.0.6",
     "mustache": "^4.2.0",
