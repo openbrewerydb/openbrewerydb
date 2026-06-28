@@ -5,7 +5,7 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 e1f999c9-3012-41ab-869b-767125e19b7f,Alien Brewpub,brewpub,6601 Uptown Blvd NE Ste B,,,Albuquerque,New Mexico,87110-4207,United States,5058841116,http://www.abqbrewpub.com,,
 7166c5a7-c772-44de-b0e1-fea41d5b4368,Bathtub Row Brewing Co-op,micro,163 Central Park Sq,,,Los Alamos,New Mexico,87544-4029,United States,5055008381,,-106.3007594,35.8839054
 77c019ef-bc30-40e4-aa2b-5c51ffa38453,Bistronomy B2B Craft Brewery,brewpub,3118 Central Ave SE,,,Albuquerque,New Mexico,87106-2216,United States,5052622222,http://www.bistronomyb2b.com,-106.6102147,35.080354
-e018afc5-b867-44d2-b3e6-9f54e66bc5c8,BlÃ¼ Dragonfly Brewing,brewpub,301 E 9th St # C,,,Cimarron,New Mexico,87714-4027,United States,9186361095,,-104.914428,36.511427
+e018afc5-b867-44d2-b3e6-9f54e66bc5c8,Blü Dragonfly Brewing,brewpub,301 E 9th St # C,,,Cimarron,New Mexico,87714-4027,United States,9186361095,,-104.914428,36.511427
 bfcbf176-9040-445a-a70f-58d8ce0df722,Blue Corn Cafe,brewpub,4056 Cerrillos Rd Ste G,,,Santa Fe,New Mexico,87507-2605,United States,5059841800,http://www.bluecorncafe.com,,
 7d96c9eb-d026-4579-b0d2-703de93af667,Blue Heron Brewing,micro,2214 New Mexico 68,,,Embudo,New Mexico,87531,United States,5055799188,http://www.blueheronbrews.com,,
 3e64794e-5a83-41d5-b017-19fdc058cf3e,Boese Brothers Brewing,micro,601 Gold Ave SW,,,Albuquerque,New Mexico,87102-3119,United States,5053827060,http://www.boesebrothers.com,-106.654295,35.083957
@@ -22,7 +22,7 @@ a38bc569-6c71-4356-8456-e3a7bf13eab9,Casa Vieja LLC,planning,,,,Corrales,New Mex
 c76631f7-1fa9-4b31-b126-bedd85f363dd,Colfax Ale Cellar,micro,215 S 2nd St,,,Raton,New Mexico,87740-3907,United States,5754459727,Http://www.ColfaxAleCellar.com,-104.4396637,36.90092538
 44892f34-eb78-4fc3-ace4-80a59ca7236b,Comanche Creek Brewing Co,micro,225 Comanche Creek Road,,,Eagle Nest,New Mexico,87718,United States,5753772337,http://www.comanchecreekbrewingco.com,,
 f851b4a2-b3f0-49c3-9691-ab4622da8a06,Corrales Bistro Brewery,brewpub,4908 Corrales Rd,,,Corrales,New Mexico,87048-8613,United States,5058971036,http://www.cbbistro.com,-106.6127225,35.2298508
-82d6623d-c9e3-4d5f-a2ae-82d175bf00e6,De La Vegaâs Pecan Grill and Brewery,contract,500 S Telshor Blvd,,,Las Cruces,New Mexico,88011-4613,United States,5755211099,http://www.pecangrill.com,-106.7374222,32.3019659
+82d6623d-c9e3-4d5f-a2ae-82d175bf00e6,De La Vega’s Pecan Grill and Brewery,contract,500 S Telshor Blvd,,,Las Cruces,New Mexico,88011-4613,United States,5755211099,http://www.pecangrill.com,-106.7374222,32.3019659
 cd625c02-0023-4fdd-803c-34a1343d37da,Desert Valley Brewing Co.,micro,"2809 Broadbent Pkwy NE, Suite D C/O The Craftroom",,,Albuquerque,New Mexico,87107-1613,United States,5057171985,,,
 483666c9-df7b-48b6-a09e-9dc2c39ddd22,Dialogue Brewing,micro,1501 1st St NW,,,Albuquerque,New Mexico,87102-1535,United States,5055851501,http://www.dialoguebrewing.com,-106.6456104,35.0976942
 e9f88398-a093-46e3-91d9-efa85d0412d7,Drylands Brewing,brewpub,322 N Main Ave,,,Lovington,New Mexico,88260-3643,United States,5757392739,http://Drylandsbrewing.com,-103.3484834,32.9504929

@@ -1,7 +1,7 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 9046adec-ed04-4c60-8043-4a02e9e2dabc,2 Basset Brewery,micro,202 E Main St,,,White Sulphur Springs,Montana,59645-9081,United States,4065472337,http://www.2bassetbrewery.com,-110.9004865,46.54807609
 53305a0f-9b51-4f73-bf5e-88bb0439b216,380 Brewing Company,planning,,,,Clancy,Montana,59634,United States,2065796509,,,
-9c3f919e-e6de-4e43-91cb-30f3e73ad591,406 Brewing Company,micro,"101 E Oak St,Â Ste D",,,Bozeman,Montana,59715-2967,United States,4065853745,http://www.406brewingcompany.com,,
+9c3f919e-e6de-4e43-91cb-30f3e73ad591,406 Brewing Company,micro,"101 E Oak St, Ste D",,,Bozeman,Montana,59715-2967,United States,4065853745,http://www.406brewingcompany.com,,
 40ecc96b-6dea-4e6b-a8f0-55293970654b,Angry Hank's Microbrewery,micro,20 N 30th St,,,Billings,Montana,59101-2140,United States,4062523370,,-108.5076025,45.78022173
 b6685b52-d4f2-4b41-a3d9-f88c778b2346,Backslope Brewing,brewpub,1107 9th St W (Highway 2),,,Columbia Falls,Montana,59912,United States,4062242510,http://www.backslopebrewing.com,,
 29297833-9297-43fe-a9f4-4a9437a405c1,Bandit Brewing Co,micro,610 N 1st St Ste 5-228,,,Hamilton,Montana,59840-2149,United States,4066466003,http://www.banditbeer.com,,
