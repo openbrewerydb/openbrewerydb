@@ -333,10 +333,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2026-06-28
+> Last updated: 2026-07-16
 
 ### Overview
-- Total Breweries: 11,745
+- Total Breweries: 11,750
 - Data Completeness: 79.0%
 
 ### 🏛 Top 10 States by Brewery Count
@@ -356,7 +356,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 5,788 | 49.3% |
+| micro | 5,793 | 49.3% |
 | brewpub | 3,909 | 33.3% |
 | planning | 639 | 5.4% |
 | closed | 636 | 5.4% |
@@ -388,7 +388,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🌍 By Country
 | Country | Count | Percentage |
 |---------|------------|------------|
-| United States | 8,201 | 69.8% |
+| United States | 8,206 | 69.8% |
 | Germany | 1,449 | 12.3% |
 | Australia | 514 | 4.4% |
 | Belgium | 478 | 4.1% |
