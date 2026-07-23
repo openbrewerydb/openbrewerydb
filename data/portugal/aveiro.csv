@@ -1,3 +1,10 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+,12 Marias,micro,EN109 74,Fermelã,,Estarreja,Aveiro,3865-127,Portugal,,https://12marias.pt/,,
 863f291f-32aa-40df-8810-f37911e4ae6a,Cinco Chagas,micro,Rua das Cavadas N8,Vale do Boi,Moita,Anadia,Aveiro,3780-482,Portugal,,https://cincochagas.pt,,
+,Esperança,micro,R. Ten. Morais Sarmento 4,Antes,,Mealhada,Aveiro,3050-032,Portugal,,,-8.4712004,40.3831852
+,Lovecraft,brewpub,Rua das Fogaceiras 21,,,Aveiro,Aveiro,4520-200,Portugal,,,-8.5801323,40.9190867
+,Maldita,brewpub,Arco do Comércio 5,,,Aveiro,Aveiro,3800-213,Portugal,,,-8.6519605,40.6424514
+,Odemel,micro,Rua do Barão Nº 1580,,,Oliveira de Azeméis,Aveiro,3720-051,Portugal,,http://odemel.com,-8.5303189,40.8107508
+,Quatro Torres,micro,Pç Prof. Leão 13,,,Santa Maria da Feira,Aveiro,4520-173,Portugal,,https://quatrotorres.pt/,-8.5445296,40.9269082
+,Tough Love,brewpub,R. Guilherme Gomes Fernandes 5,,,Esmoriz,Aveiro,3800-197,Portugal,,http://www.toughlove.pt,-8.6506648,40.6431514
 bcc9f869-4952-4137-a502-5ac716b0a360,Vadia,brewpub,Rua Comendador Artur J. G. Barbosa nº576,,,Oliveira de Azemeis,Aveiro,3720-005,Portugal,+351 256 482 151,https://www.cervejavadia.pt,40.84133461624508,-8.434270976824363
