@@ -333,7 +333,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2026-07-16
+> Last updated: 2026-07-24
 
 ### Overview
 - Total Breweries: 11,750
