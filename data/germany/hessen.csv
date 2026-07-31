@@ -1,6 +1,7 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 ddae7cb2-84c9-44f0-bbab-93781b5cf837,Alsfelder,brewpub,8 Cent,,,Lauterbach (Hessen),Hessen,36341,Germany,+49 6641 1800,http://www.alsfelder.de,9.392651299999999,50.6390531
 0474f95d-9e16-4b45-b789-93827fcc13c2,Alt Oberurseler Brauhaus,brewpub,13 Ackergasse,,,Oberursel (Taunus),Hessen,61440,Germany,+49 6171 54370,http://www.meinbier.de,8.578921,50.202898
+36ee96e3-cb87-460b-bbb8-2c2a3c33b28a,Alt-Giessen,micro,Westanlage 30,,,Giessen,Hessen,35390,Germany,,http://www.altgiessen.de,,
 ad3a2f17-d7a8-432a-91c0-1ff29b4398fd,Alte Feuerwache,brewpub,6 Schulgasse,,,Idstein,Hessen,65510,Germany,+49 6126 958112,http://www.brauhaus-alte-feuerwache.de,8.2680809,50.22186019999999
 8a884a90-88e6-44b7-98d3-fbfe01e9cf82,Bad Wildunger Brauhaus,brewpub,2 Frankenberger Straße,,,Bad Wildungen,Hessen,34537,Germany,+49 5621 74150,http://www.brauhaus-bad-wildungen.de,9.10132,51.10931
 80e9b35a-d269-4b0b-b103-68849afb477e,Bier Hannes,brewpub,568 Hanauer Landstraße,,,Frankfurt am Main,Hessen,60386,Germany,+49 69 412890,http://www.bier-hannes.de,8.7680832,50.13322849999999
@@ -48,6 +49,7 @@ dac65787-0d73-45fe-80d2-9790fb3af01d,Landmuseum Ransel,closed,34 Kirchstraße,,,
 71beaa85-c67e-4b89-a6c9-993fdc969ea0,Lauterbacher-Auerhahn,brewpub,8 Cent,,,Lauterbach (Hessen),Hessen,36341,Germany,+49 6641 1800,http://www.lauterbacher-auerhahn.de,9.3921847,50.6398732
 28dec8c3-c7d6-4a57-b1d6-2eb6dd0440f1,Licher,brewpub,Am-Hardtberg 1,,,Lich,Hessen,35423,Germany,+49 6404 820,http://www.licher.de,8.817150999999999,50.515228
 c6c293d9-8fd6-425e-a98e-d033ac9f8a20,Maus Bräu,brewpub,2 Am Backhaus,,,Hünfeld,Hessen,36088,Germany,+49 6652 9829900,http://www.mausbräu.de,9.77711,50.62818009999999
+4d2986b7-3df5-4cbf-89fa-b0c0c3670520,Michelsbräu,brewpub,Fahrstr. 83,,,Babenhausen in Hessen,Hessen,64832,Germany,,http://www.michelsbraeu.de,,
 3303fa3c-6c42-4a2e-ae9f-794c5f177d01,Michelstädter Bier,brewpub,1 Mauerstraße,,,Michelstadt,Hessen,64720,Germany,+49 6061 5666,http://www.michelstaedterbier.de,9.0055034,49.6785118
 c284aa9c-f61f-4ec2-b380-d716c2d189fa,Niddaer Marktbräu,brewpub,21 Markt,,,Nidda,Hessen,63667,Germany,+49 6043 984328,http://www.hotel-zur-traube.de,9.0085745,50.4132436
 e5c25cc6-7b7c-4508-a1ed-d8f7fdc52966,Obermühle,brewpub,17 Gebrüder Wahl Straße,,,Braunfels,Hessen,35619,Germany,+49 6442 4382,http://www.obermuehle-braunfels.de,8.3820239,50.5163149
