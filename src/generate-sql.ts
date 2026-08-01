@@ -4,18 +4,18 @@ import { join } from "path";
 import Papa from "papaparse";
 import pgpromise from "pg-promise";
 import Mustache from "mustache";
-import { papaParseOptions, headers } from "./config";
-import { Brewery } from "./types";
+import { papaParseOptions, headers } from "./config.ts";
+import { Brewery } from "./types.ts";
 
 const pgp = pgpromise({
   capSQL: true,
 });
 const tableCreateTemplatePath = join(
-  __dirname,
+  import.meta.dirname,
   "./templates/breweries-table-create.sql"
 );
-const csvPath = join(__dirname, "../breweries.csv");
-const sqlPath = join(__dirname, "../breweries.sql");
+const csvPath = join(import.meta.dirname, "../breweries.csv");
+const sqlPath = join(import.meta.dirname, "../breweries.sql");
 
 const dateString = format(new Date(), "yyyyMMdd");
 const cs = new pgp.helpers.ColumnSet(headers, {

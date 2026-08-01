@@ -1,12 +1,13 @@
 import { readFileSync, writeFileSync, statSync } from "fs";
+import { fileURLToPath } from "node:url";
 import { join } from "path";
 import Papa from "papaparse";
-import { Brewery } from "./types";
-import { papaParseOptions } from "./config";
-import { generateStats, formatStats } from "./generate-stats";
+import { Brewery } from "./types.ts";
+import { papaParseOptions } from "./config.ts";
+import { generateStats, formatStats } from "./generate-stats.ts";
 
 function updateReadmeStats(statsContent: string) {
-  const readmePath = join(__dirname, '../README.md');
+  const readmePath = join(import.meta.dirname, '../README.md');
   let readme = readFileSync(readmePath, 'utf-8');
 
   // Remove existing statistics section if it exists
@@ -25,7 +26,7 @@ const main = async () => {
     const startTime = new Date().getTime();
 
     // Read the main CSV file
-    const csv = readFileSync(join(__dirname, '../breweries.csv'), { encoding: 'utf-8' });
+    const csv = readFileSync(join(import.meta.dirname, '../breweries.csv'), { encoding: 'utf-8' });
     const breweries = Papa.parse<Brewery>(csv, papaParseOptions).data;
 
     // Generate and format statistics
@@ -43,7 +44,7 @@ const main = async () => {
   }
 };
 
-if (require.main === module) {
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
   main();
 }
 

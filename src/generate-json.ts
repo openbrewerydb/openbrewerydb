@@ -1,10 +1,10 @@
 import { writeFileSync, readFileSync } from "fs";
 import { join } from "path";
 import Papa from "papaparse";
-import { papaParseOptions } from "./config";
+import { papaParseOptions } from "./config.ts";
 
-const csvFilePath = join(__dirname, "../breweries.csv");
-const jsonFilePath = join(__dirname, "../breweries.json");
+const csvFilePath = join(import.meta.dirname, "../breweries.csv");
+const jsonFilePath = join(import.meta.dirname, "../breweries.json");
 
 try {
   const data = readFileSync(csvFilePath, { encoding: "utf-8" });

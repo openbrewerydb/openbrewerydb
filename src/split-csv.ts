@@ -3,11 +3,11 @@ import { join } from "path";
 import Papa from "papaparse";
 import slugify from "slugify";
 import { v4 as uuidv4 } from "uuid";
-import { papaParseOptions, headers, slugifyOptions } from "./config";
-import { Brewery } from "./types";
+import { papaParseOptions, headers, slugifyOptions } from "./config.ts";
+import { Brewery } from "./types.ts";
 
-const csvFilePath = join(__dirname, "../breweries.csv");
-const storePath = join(__dirname, "../data");
+const csvFilePath = join(import.meta.dirname, "../breweries.csv");
+const storePath = join(import.meta.dirname, "../data");
 
 const main = () => {
   let output: Record<

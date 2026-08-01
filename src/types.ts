@@ -1,4 +1,4 @@
-import { BREWERY_TYPES } from "./config";
+import { BREWERY_TYPES } from "./config.ts";
 import { z } from "zod";
 
 export const Brewery = z.object({

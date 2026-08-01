@@ -3,12 +3,12 @@ import { join } from "path";
 import { glob } from "glob";
 import Papa from "papaparse";
 import { v4 as uuidv4 } from "uuid";
-import { papaParseOptions, headers } from "./config";
-import { Brewery } from "./types";
+import { papaParseOptions, headers } from "./config.ts";
+import { Brewery } from "./types.ts";
 import { ZodError } from "zod";
 
-const fileGlob = join(__dirname, "../data/**/*.csv");
-const fullFilePath = join(__dirname, "../breweries.csv");
+const fileGlob = join(import.meta.dirname, "../data/**/*.csv");
+const fullFilePath = join(import.meta.dirname, "../breweries.csv");
 
 glob(fileGlob).then((files) => {
   const breweries: Brewery[] = [];

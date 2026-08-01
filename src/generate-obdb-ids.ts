@@ -3,10 +3,10 @@ import { join } from "path";
 import slugify from "slugify";
 import Papa from "papaparse";
 
-import { papaParseOptions, headers, slugifyOptions } from "./config";
-import { Brewery } from "./types";
+import { papaParseOptions, headers, slugifyOptions } from "./config.ts";
+import { Brewery } from "./types.ts";
 
-const csvFilePath = join(__dirname, "../breweries.csv");
+const csvFilePath = join(import.meta.dirname, "../breweries.csv");
 
 function generateId(brewery: Brewery, suffix?: string): string {
   return slugify(

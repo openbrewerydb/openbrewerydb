@@ -1,17 +1,19 @@
 {
   "compilerOptions": {
     "outDir": "./lib",
+    "rootDir": "./src",
     "target": "ES2023",
     "lib": ["ES2023"],
     "alwaysStrict": true,
-    "module": "commonjs",
+    "module": "nodenext",
     "declaration": true,
     "strict": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "importHelpers": true,
     "sourceMap": true,
-    "baseUrl": "."
+    "allowImportingTsExtensions": true,
+    "noEmit": true
   },
   "include": ["./src/**/*.ts"]
 }
