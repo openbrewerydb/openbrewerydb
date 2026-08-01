@@ -333,17 +333,17 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2026-07-21
+> Last updated: 2026-08-01
 
 ### Overview
-- Total Breweries: 11,768
+- Total Breweries: 11,822
 - Data Completeness: 79.0%
 
 ### 🏛 Top 10 States by Brewery Count
 | State | Count |
 |-------|-------|
 | California | 919 |
-| Bayern | 594 |
+| Bayern | 597 |
 | Washington | 529 |
 | Colorado | 449 |
 | New York | 419 |
@@ -356,16 +356,16 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 5,804 | 49.3% |
-| brewpub | 3,914 | 33.3% |
+| micro | 5,840 | 49.4% |
+| brewpub | 3,931 | 33.3% |
 | planning | 640 | 5.4% |
-| closed | 636 | 5.4% |
+| closed | 637 | 5.4% |
 | regional | 239 | 2.0% |
 | contract | 210 | 1.8% |
-| large | 135 | 1.1% |
+| large | 137 | 1.2% |
 | proprietor | 67 | 0.6% |
 | taproom | 47 | 0.4% |
-| bar | 43 | 0.4% |
+| bar | 41 | 0.3% |
 | nano | 22 | 0.2% |
 | cidery | 7 | 0.1% |
 | beergarden | 3 | 0.0% |
@@ -381,21 +381,22 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Chicago, Illinois | 64 |
 | Toronto, Ontario | 53 |
 | Austin, Texas | 49 |
-| Berlin, Berlin | 44 |
+| Berlin, Berlin | 41 |
 | Houston, Texas | 40 |
 | Auckland, Auckland | 40 |
 
 ### 🌍 By Country
 | Country | Count | Percentage |
 |---------|------------|------------|
-| United States | 8,224 | 69.9% |
-| Germany | 1,449 | 12.3% |
-| Australia | 514 | 4.4% |
-| Belgium | 478 | 4.1% |
+| United States | 8,224 | 69.6% |
+| Germany | 1,445 | 12.2% |
+| Australia | 514 | 4.3% |
+| Belgium | 478 | 4.0% |
 | Canada | 283 | 2.4% |
 | New Zealand | 243 | 2.1% |
 | South Africa | 104 | 0.9% |
 | Netherlands | 76 | 0.6% |
+| Portugal | 72 | 0.6% |
 | Ireland | 70 | 0.6% |
 | Finland | 68 | 0.6% |
 | England | 62 | 0.5% |
@@ -403,7 +404,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Poland | 34 | 0.3% |
 | Singapore | 33 | 0.3% |
 | Austria | 15 | 0.1% |
-| Portugal | 14 | 0.1% |
 | Japan | 10 | 0.1% |
 | Sweden | 10 | 0.1% |
 | Scotland | 10 | 0.1% |

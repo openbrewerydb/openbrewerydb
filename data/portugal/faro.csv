@@ -1,7 +1,7 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-,Al'Drabona,micro,Venda Nova,,,Silves,Faro,8300-054,Portugal,,,-8.4315428,37.1488678
+4118fa1a-3ac2-4da1-a99f-fb5fb7d10501,Al'Drabona,micro,Venda Nova,,,Silves,Faro,8300-054,Portugal,,,-8.4315428,37.1488678
 9da0a260-5b85-4490-824a-a397446c17dc,Algarve Rock Brewery,micro,Unidade 2B,Parque Vale da Venda,,Faro,Faro,8005-412,Portugal,+ 351 289 815 218,https://algarverock.com/,-7.972956207903116,37.06560087144406
-,Mania,micro,sítio da ameijeirinha,R. da Atalaia,,Lagos,Faro,8600-641,Portugal,,http://www.mania.beer/,,
-,Marafada,micro,Quinta dos Avós,,,Algoz,Faro,8365-083,Portugal,,,,
-,Nova Vida,brewpub,R. Frei Joaquim de Loulé n° 52 RC direita,,,Loulé,Faro,8100-579,Portugal,,http://novavida.pt,,
-,Novo Sul,micro,R. Estácio da Veiga 67,,,Albufeira,Faro,8200-668,Portugal,,http://www.novosul-brewing.pt,-8.2252961,37.1037312
+f7a42dd4-d499-49be-99f5-12bc9f2e9f70,Mania,micro,sítio da ameijeirinha,R. da Atalaia,,Lagos,Faro,8600-641,Portugal,,http://www.mania.beer/,,
+15c3be41-d4e9-4280-955a-67755c5a284c,Marafada,micro,Quinta dos Avós,,,Algoz,Faro,8365-083,Portugal,,,,
+e0db7b5c-cedb-43ec-9616-bb984f10586b,Nova Vida,brewpub,R. Frei Joaquim de Loulé n° 52 RC direita,,,Loulé,Faro,8100-579,Portugal,,http://novavida.pt,,
+0d873b1d-798c-40fa-9d5d-58d14e12ccfe,Novo Sul,micro,R. Estácio da Veiga 67,,,Albufeira,Faro,8200-668,Portugal,,http://www.novosul-brewing.pt,-8.2252961,37.1037312

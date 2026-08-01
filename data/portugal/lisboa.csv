@@ -1,19 +1,19 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-,A.M.O.,brewpub,R. Bernardim Ribeiro 53,,,Lisboa,Lisboa,1150-069,Portugal,,https://www.amobrewery.com/,-9.1731814,38.7965334
-,Aguarela,brewpub,R. Angelina Vidal 23,,,Lisboa,Lisboa,1170-017,Portugal,,,-9.130962,38.7222444
-,Bah!,brewpub,Tv. Afonso Sanches R. Afonso Sanches 6D,,,Cascais,Lisboa,2750-427,Portugal,,https://www.bahcraftbeer.com,,
-,Canil,brewpub,R. dos Douradores 133,,,Lisboa,Lisboa,1100-213,Portugal,,https://www.cervejacanil.com,-9.1371185,38.7123695
+351d9dd6-5307-4d17-84ba-60083fa56dcf,A.M.O.,brewpub,R. Bernardim Ribeiro 53,,,Lisboa,Lisboa,1150-069,Portugal,,https://www.amobrewery.com/,-9.1731814,38.7965334
+28af2ac4-6064-4d0f-bf89-28d35cebed37,Aguarela,brewpub,R. Angelina Vidal 23,,,Lisboa,Lisboa,1170-017,Portugal,,,-9.130962,38.7222444
+c8a8a8e1-68f4-429c-99a7-932c9097eb91,Bah!,brewpub,Tv. Afonso Sanches R. Afonso Sanches 6D,,,Cascais,Lisboa,2750-427,Portugal,,https://www.bahcraftbeer.com,,
+dc70b1c5-6019-4da2-9614-61a6b23c91e2,Canil,brewpub,R. dos Douradores 133,,,Lisboa,Lisboa,1100-213,Portugal,,https://www.cervejacanil.com,-9.1371185,38.7123695
 e2610530-7819-4b89-80e6-86ea6fd7ff44,Deck Beer Garden,brewpub,Av. Aida 63,,,Estoril,Lisboa,2765-187,Portugal,+351 21 468 2661,https://www.facebook.com/deckbeerlab,-9.399351099325555,38.70428229725156
 27d18114-31bb-4baf-b330-71bcba80cc8a,"Dois Corvos Cervejeira, Lda.",micro,"Rua Capitão Leitão, 94",,,Lisboa,Lisboa,1950-052,Portugal,+351 211 331 093,https://www.doiscorvos.pt,-9.105483084696079,38.73826742792099
 2b5d9ce9-b8bd-4ece-98af-9d3eb6f5896f,Duque Brewpub,brewpub,Calçada do Duque nº49-51,,,Lisboa,Lisboa,1200-156,Portugal,,https://www.duquebrewpub.com,-9.142480929038104,38.713453267381496
-,Fermentage,brewpub,R. Cap. Leitão 1B,,,Lisboa,Lisboa,1950-049,Portugal,,https://www.fermentage.com,-9.1042905,38.73893
-,Hopsin,brewpub,Av. do Atlântico 1,,,Colares,Lisboa,2705-231,Portugal,,https://hopsin.pt,-9.4503945,38.8060541
-,Lispoa,brewpub,R. Nova do Desterro 29D,,,Lisboa,Lisboa,1150-241,Portugal,,http://www.lispoa.com,-9.1368856,38.7196469
+f0323b40-f05e-46c3-acf7-d2628587f1a1,Fermentage,brewpub,R. Cap. Leitão 1B,,,Lisboa,Lisboa,1950-049,Portugal,,https://www.fermentage.com,-9.1042905,38.73893
+78f944ac-0d10-4ba3-8338-2d30e8f1131b,Hopsin,brewpub,Av. do Atlântico 1,,,Colares,Lisboa,2705-231,Portugal,,https://hopsin.pt,-9.4503945,38.8060541
+a685b64a-097b-4521-9e85-15bea60b8fdc,Lispoa,brewpub,R. Nova do Desterro 29D,,,Lisboa,Lisboa,1150-241,Portugal,,http://www.lispoa.com,-9.1368856,38.7196469
 8f0626fd-2bfe-4f6f-a8eb-42dbe0a3984b,Mean Sardine,micro,58 Surf Building,Av. São Sebastião 36b,,Ericeira,Lisboa,2655-483,Portugal,,https://meansardine.pt,-9.417647159720808,38.98126500163354
-,Musa,brewpub,R. do Vale Formoso 9,,,Lisboa,Lisboa,1950-277,Portugal,,https://cervejamusa.com,-9.1015883,38.7448788
-,Oitava Colina,brewpub,R. Damasceno Monteiro 8A,,,Lisboa,Lisboa,1170-112,Portugal,,http://www.oitavacolina.pt,-9.1320184,38.7184372
-,Outro Lado,brewpub,Beco do Arco Escuro 1,,,Lisboa,Lisboa,1100-585,Portugal,,,-9.1340014,38.7093753
+c09c651f-63ee-4a94-b294-c7ad282d9ed9,Musa,brewpub,R. do Vale Formoso 9,,,Lisboa,Lisboa,1950-277,Portugal,,https://cervejamusa.com,-9.1015883,38.7448788
+47461624-0647-44cd-8429-4e6fca1478da,Oitava Colina,brewpub,R. Damasceno Monteiro 8A,,,Lisboa,Lisboa,1170-112,Portugal,,http://www.oitavacolina.pt,-9.1320184,38.7184372
+90c5ee36-c0b3-4fc2-8e9e-cd1f0f8cc9f3,Outro Lado,brewpub,Beco do Arco Escuro 1,,,Lisboa,Lisboa,1100-585,Portugal,,,-9.1340014,38.7093753
 0afdca59-0ed4-44dc-80d8-7a952e1924f6,Pato Brewing,micro,Centro Empresarial Sintra-Estoril I,Av. Pedro Álvares Cabral 177 ARMAZÉM G,Beloura,Sintra,Lisboa,2710-144,Portugal,+351 96 280 0847,http://www.patobrewing.com,-9.374911626904721,38.7592461545261
-,Piratas Cervejeiros,micro,Av. da República 101,,,Queluz,Lisboa,2745-209,Portugal,,,-9.2560215,38.7538661
-,Rafeira,micro,R. da Cordoaria 17,,,Sintra,Lisboa,2900-558,Portugal,,http://www.cervejarafeira.com,-8.9011375,38.5206705
-,Seleção 1927 / Browers,brewpub,Tv. Grilo 1,,,Lisboa,Lisboa,1950-145,Portugal,,https://www.superbockgroup.com/,-9.1061754,38.7321139
+0aa53453-9394-4034-b259-becd8beeae70,Piratas Cervejeiros,micro,Av. da República 101,,,Queluz,Lisboa,2745-209,Portugal,,,-9.2560215,38.7538661
+0af983c5-86dd-4a96-b074-fcd36b88c2c7,Rafeira,micro,R. da Cordoaria 17,,,Sintra,Lisboa,2900-558,Portugal,,http://www.cervejarafeira.com,-8.9011375,38.5206705
+abb39d86-db61-4c0d-ad56-7139a2f84075,Seleção 1927 / Browers,brewpub,Tv. Grilo 1,,,Lisboa,Lisboa,1950-145,Portugal,,https://www.superbockgroup.com/,-9.1061754,38.7321139
