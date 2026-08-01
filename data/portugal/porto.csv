@@ -1,3 +1,19 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+,Biltre,micro,Rua Trás do Maninho N.º 521,,,Porto,Porto,4405-794,Portugal,,,,
+,Burguesa,micro,R. Luís de Camões 36,,,Vila Nova de Gaia,Porto,4400-205,Portugal,,https://www.burguesa.pt,-8.6086058,41.1344857
+,Catraio,brewpub,R. de Cedofeita 256,,,Porto,Porto,4050-174,Portugal,,https://catraio.pt/,-8.6172992,41.1511077
+,Celta Endóvelico,brewpub,Rua dos Mártires da Liberdade 29,,,Porto,Porto,4050-360,Portugal,,,-8.6136704,41.1525056
+,Deuses do Malte,micro,R. de Soares dos Reis 1324,,,Vila Nova de Gaia,Porto,4430-240,Portugal,,,,
+,Dos Diabos,brewpub,R. de Pinto Bessa 122 Armazém 2,,,Porto,Porto,4300-427,Portugal,,http://www.dosdiabos.pt,-8.5887484,41.1498709
+,Fábrica da Picaria,micro,Rua da Picaria 72,,,Porto,Porto,4050-477,Portugal,,https://afabricadapicaria.pt,-8.6129025,41.1495339
+,FDS!,micro,R. Campo do Monte 218,,,Vila Nova de Gaia,Porto,4400-398,Portugal,,http://www.fds.beer,-8.5951599,41.0965752
+,Fidélis,micro,Av. Pedro Guedes 61,,,Penafiel,Porto,4560-452,Portugal,,,,
+,Gémea,micro,Av. Vasco da Gama 774,,,Vila Nova de Gaia,Porto,4430-247,Portugal,,,-8.5994732,41.1190341
+,Going Gremlin,micro,R. de Azevedo Coutinho 39,,,Porto,Porto,4100-100,Portugal,,https://www.going-gremlin.pt,-8.6467301,41.1613734
+,HopTrip,brewpub,R. Heróis de França 617,,,Matosinhos,Porto,4450-159,Portugal,,https://www.hoptrip.pt/,-8.6927612,41.1809124
+,Lupum,micro,R. Fontiela 207,,,Vila Nova de Gaia,Porto,4430-833,Portugal,,,-8.5455314,41.1068139
+,Madam Lindinha Lucas,micro,R. Henrique Bravo 7206,,,Porto,Porto,4465-165,Portugal,,,-8.6000588,41.1982569
 1c3768b5-cdcf-4b42-915a-0f99ad191b87,Nortada,brewpub,R. de Sá da Bandeira 210,,,Porto,Porto,4000-427,Portugal,+351 22 018 1000,https://cervejanortada.pt,-8.608164266696724,41.148109589962274
+,Pobeira,micro,RUA DE DONA MARIA I 426,,,Póvoa de Varzim,Porto,4490-538,Portugal,,http://www.cervejapobeira.pt,,
+,Post Scriptum,micro,R. Sra. da Alegria 10,,,Trofa,Porto,4745-033,Portugal,,http://www.postscriptumbrewery.com/,,
 3cec9f9a-adef-4536-9107-fb1f8324a088,"Sovina, Lda.",micro,"Rua Manuel Pinto de Azevedo, 65",Armazém 4 e 5,,Porto,Porto,4100-321,Portugal,+351 22 600 69 36,https://sovina.pt/,-8.645222959665363,41.17075782152705
