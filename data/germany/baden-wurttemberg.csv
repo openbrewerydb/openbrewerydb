@@ -6,7 +6,7 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 f83d4bed-0760-4802-900e-c2ed6e874968,Adlerbrauerei Schmetzer,brewpub,3 Reubacher Straße,,,Wallhausen,Baden-Württemberg,74599,Germany,+49 7955 2234,https://adlerbrauerei-schmetzer.de/,10.11867,49.2347
 26147e1c-c0f7-40ae-8572-df23afe8e266,Albquell Bräuhaus,brewpub,6 Lindenplatz,,,Trochtelfingen,Baden-Württemberg,72818,Germany,+49 7124 733,http://www.albquell-brauhaus.de,9.2455955,48.3081319
 3345a490-cc70-449e-b037-939398bd0f25,Alpirsbacher Klosterbräu,brewpub,1 Marktplatz,,,Alpirsbach,Baden-Württemberg,72275,Germany,+49 7444 670,http://www.alpirsbacher.de,8.40305,48.34566
-ddd11477-dab1-4aae-a129-5b1a6248c3a9,Alte Werkstatt,brewpub,Luetzestr. 93,,,Weingarten (Baden),Baden-Württemberg,76356,Germany,+49 7244 8261,http://www.alte-werkstatt-bier.de,8.5313723,49.0533742
+ddd11477-dab1-4aae-a129-5b1a6248c3a9,Alte Werkstatt,brewpub,Luetzestraße 93,,,Weingarten (Baden),Baden-Württemberg,76356,Germany,+49 7244 8261,http://www.alte-werkstatt-bier.de,8.5313723,49.0533742
 6df21f70-1f25-460c-956a-f98a9576d82c,Alter Bahnhof,brewpub,2 Bahnhofstraße,,,Malsch,Baden-Württemberg,76316,Germany,+49 7246 305944,http://www.alterbahnhofmalsch.de,8.3238889,48.8894444
 51bc8efd-7da5-437c-b95d-af24c8120ff9,Andreasbr,brewpub,71A Donauring,,,Eggenstein-Leopoldshafen,Baden-Württemberg,76344,Germany,+49 7247 963200,http://www.andreasbraeu.de,8.398706899999999,49.0903862
 9885ebba-4e94-42ec-bae9-9301d1b05183,Badenstuff,brewpub,25 Krokusweg,,,Offenburg,Baden-Württemberg,77656,Germany,+49 781 76665,http://www.badenstuff.com,7.92048,48.45587
@@ -28,7 +28,7 @@ bc4933ef-ccf6-44f6-a48f-d32348d2ae80,Bräuhaus Ummendorf,brewpub,10 Bachstraße,
 e8daf982-a06a-44a9-8310-b6ce8fb5639b,Brauwerk Baden,brewpub,3 Gutenbergstraße,,,Offenburg,Baden-Württemberg,77654,Germany,,http://www.kronen-brauhaus.de,7.956585599999999,48.4882827
 45d5bf76-af10-43b0-9195-c3b5f8829dc4,Brauwerk Salvermoser,closed,14 Am Mühlberg,,,Tuttlingen,Baden-Württemberg,78532,Germany,+49 7462 7986,http://www.brauwerk-salvermoser.de,8.7699,47.96017
 c423766b-b61c-443d-82db-6c0afca23ef2,Brauzentrum Blaubeuren,brewpub,6 Auf dem Graben,,,Blaubeuren,Baden-Württemberg,89143,Germany,+49 175 9280239,http://www.pumator.de,9.7865239,48.4122368
-92d42647-418c-42c1-bec1-495da2c78083,Brewmaltster / Braxar,micro,Hauptstr. 9,,,Buehlertann,Baden-Württemberg,74424,Germany,,http://www.brewmaltster.de,,
+92d42647-418c-42c1-bec1-495da2c78083,Brewmaltster / Braxar,micro,Hauptstraße 9,,,Buehlertann,Baden-Württemberg,74424,Germany,,http://www.brewmaltster.de,,
 a3c7f51e-c71f-4e38-a109-dcc13bef3756,Bulzinger,brewpub,3 Schillerstraße,,,Rietheim-Weilheim,Baden-Württemberg,78604,Germany,+49 7461 73822,https://www.lammbrauerei-weilheim.de/index.php/ueber-uns,8.773282799999999,48.0255894
 27b65e46-3c13-47fa-a882-c93473c6ab35,Bürgerstüble,brewpub,2 Anwandstraße,,,Sulz am Neckar,Baden-Württemberg,72172,Germany,+49 7454 4329,http://buergerstueble-sigmarswangen.de/,8.61486,48.3295
 801af57f-d3d9-46d9-844f-dfc6fef13543,Café Mundart,brewpub,24 Balinger Straße,,,Meßstetten,Baden-Württemberg,72469,Germany,+49 7436 910958,http://www.cafe-mundart.de,8.872172599999999,48.2002834
