@@ -333,10 +333,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2026-08-10
+> Last updated: 2026-08-25
 
 ### Overview
-- Total Breweries: 11,822
+- Total Breweries: 11,848
 - Data Completeness: 79.0%
 
 ### 🏛 Top 10 States by Brewery Count
@@ -356,7 +356,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 5,837 | 49.4% |
+| micro | 5,863 | 49.5% |
 | brewpub | 3,929 | 33.2% |
 | closed | 642 | 5.4% |
 | planning | 640 | 5.4% |
@@ -388,7 +388,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🌍 By Country
 | Country | Count | Percentage |
 |---------|------------|------------|
-| United States | 8,224 | 69.6% |
+| United States | 8,224 | 69.4% |
 | Germany | 1,445 | 12.2% |
 | Australia | 514 | 4.3% |
 | Belgium | 478 | 4.0% |
@@ -401,11 +401,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Finland | 68 | 0.6% |
 | England | 62 | 0.5% |
 | South Korea | 61 | 0.5% |
+| Sweden | 36 | 0.3% |
 | Poland | 34 | 0.3% |
 | Singapore | 33 | 0.3% |
 | Austria | 15 | 0.1% |
 | Japan | 10 | 0.1% |
-| Sweden | 10 | 0.1% |
 | Scotland | 10 | 0.1% |
 | Italy | 4 | 0.0% |
 | France | 3 | 0.0% |
