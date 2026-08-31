@@ -19,12 +19,19 @@
     "contributors:generate": "all-contributors generate",
     "csv:combine": "node --experimental-strip-types ./src/combine-csv.ts",
     "csv:split": "node --experimental-strip-types ./src/split-csv.ts",
+    "guilds:combine": "node --experimental-strip-types ./src/guilds/combine.ts",
+    "guilds:generate-ids": "node --experimental-strip-types ./src/guilds/generate-ids.ts",
     "generate:json": "node --experimental-strip-types ./src/generate-json.ts",
     "generate:sql": "node --experimental-strip-types ./src/generate-sql.ts",
+    "generate:guilds-json": "node --experimental-strip-types ./src/guilds/generate-json.ts",
+    "generate:guilds-sql": "node --experimental-strip-types ./src/guilds/generate-sql.ts",
     "generate:stats": "node --experimental-strip-types ./src/generate-stats.ts",
     "update:readme-stats": "node --experimental-strip-types ./src/update-readme-stats.ts",
-    "validate": "node --experimental-strip-types --unhandled-rejections=strict ./src/validate-csv.ts",
-    "workflow:maintain": "run-s validate csv:combine csv:split generate:json generate:sql update:readme-stats"
+    "validate": "run-s validate:breweries validate:guilds",
+    "validate:breweries": "node --experimental-strip-types --unhandled-rejections=strict ./src/validate-csv.ts",
+    "validate:guilds": "node --experimental-strip-types --unhandled-rejections=strict ./src/guilds/validate.ts",
+    "workflow:guilds": "run-s guilds:generate-ids guilds:combine generate:guilds-json generate:guilds-sql validate:guilds",
+    "workflow:maintain": "run-s validate:breweries csv:combine csv:split generate:json generate:sql update:readme-stats workflow:guilds"
   },
   "engines": {
     "node": "22.x"
