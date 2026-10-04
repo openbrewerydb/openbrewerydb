@@ -27,7 +27,7 @@
     "workflow:maintain": "run-s validate csv:combine csv:split generate:json generate:sql update:readme-stats"
   },
   "engines": {
-    "node": "22.x"
+    "node": ">=26"
   },
   "devDependencies": {
     "@humanfs/node": "^0.17.0",
@@ -37,6 +37,7 @@
     "@types/uuid": "^11.0.0",
     "all-contributors-cli": "^6.26.1",
     "ansi-regex": ">=6.2.2",
+    "brace-expansion": "^5.0.12",
     "date-fns": "^4.1.0",
     "eslint": "^10.0.2",
     "glob": "^13.0.6",
