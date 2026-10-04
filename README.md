@@ -144,7 +144,7 @@ Cheers! 🍻
 
 ## 🔧 Requirements
 
-- Node.js v22 or higher
+- Node.js v26 or higher
 - npm package manager
 - Git
 
