@@ -30,6 +30,7 @@
     "node": "22.x"
   },
   "devDependencies": {
+    "@humanfs/node": "^0.17.0",
     "@types/glob": "^9.0.0",
     "@types/mustache": "^4.2.6",
     "@types/papaparse": "^5.5.2",
