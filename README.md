@@ -333,10 +333,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2026-08-29
+> Last updated: 2026-10-04
 
 ### Overview
-- Total Breweries: 11,932
+- Total Breweries: 11,933
 - Data Completeness: 79.0%
 
 ### 🏛 Top 10 States by Brewery Count
@@ -345,7 +345,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | California | 919 |
 | Bayern | 597 |
 | Washington | 529 |
-| Colorado | 449 |
+| Colorado | 450 |
 | New York | 419 |
 | Michigan | 375 |
 | Texas | 352 |
@@ -356,9 +356,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 5,906 | 49.5% |
+| micro | 5,908 | 49.5% |
 | brewpub | 3,947 | 33.1% |
-| closed | 644 | 5.4% |
+| closed | 645 | 5.4% |
 | planning | 635 | 5.3% |
 | regional | 240 | 2.0% |
 | contract | 208 | 1.7% |
@@ -369,8 +369,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | nano | 26 | 0.2% |
 | cidery | 7 | 0.1% |
 | beergarden | 4 | 0.0% |
-| beer brand | 1 | 0.0% |
-| location | 1 | 0.0% |
 
 ### 🌆 Top 10 Cities by Brewery Count
 | City | Count |
@@ -389,7 +387,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🌍 By Country
 | Country | Count | Percentage |
 |---------|------------|------------|
-| United States | 8,308 | 69.6% |
+| United States | 8,309 | 69.6% |
 | Germany | 1,445 | 12.1% |
 | Australia | 514 | 4.3% |
 | Belgium | 478 | 4.0% |
