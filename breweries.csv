@@ -1690,7 +1690,7 @@ b5c379e4-7d8a-4df5-9002-086a1756ef6e,Brand Bierbrouwerij,regional,Brouwerijstraa
 a35abcc1-aa2b-45b6-893c-59905a5432d5,Brandy's Braugarage,brewpub,Schafbergstraße 1,,,Straßkirchen,Bayern,94342,Germany,+49 1512 1024564,http://www.brandys-braugarage.de,12.73178,48.83253999999999
 b5afc4b3-221a-49d5-8e55-c6a374ea45d2,Braselton Brewing Company,planning,,,,Braselton,Georgia,30517,United States,7068701458,,,
 43c4cb4d-476d-4fce-989b-824dcc289d8f,Brash,micro,508 W Crosstimbers St,,,Houston,Texas,77018-5521,United States,,http://www.brashbeers.com,-95.40974166,29.82727538
-b1730024-0cb6-4c63-9f4e-8b3d97b85378,Brass Brewing Company,micro,318 E Colorado Ave,,,Colorado Springs,Colorado,80903-1949,United States,,,-104.8189706,38.8326073
+b1730024-0cb6-4c63-9f4e-8b3d97b85378,Brass Brewing Company,closed,318 E Colorado Ave,,,Colorado Springs,Colorado,80903-1949,United States,,,-104.8189706,38.8326073
 f7dcf65f-f9cc-4996-9b0d-3c212bb42c52,Brass Cannon Brewing,micro,5476 Mooretown Rd,,,Williamsburg,Virginia,23188-2108,United States,7575660001,http://www.brasscannonbrewing.com,,
 f5d52737-490c-48c3-9da4-eff851e726f1,Brass Foundry Brewing Co.,micro,8441 Wayzata Blvd Ste 290,,,Minneapolis,Minnesota,55426,United States,7633504153,http://www.brassfoundrybrewing.com,,
 2de96915-c8c4-478d-ad67-0c8aa5828ab4,Brass Ring Brewery,brewpub,2404 Eastern Ave SE,,,Grand Rapids,Michigan,49507-3632,United States,6164601587,http://www.brassringbrewing.com,-85.64741488,42.91987422
@@ -3608,7 +3608,7 @@ cb3463ff-5e24-4676-9db3-3d37793593ac,Eastern Front Brewing Co,micro,425 Westphal
 75378a8b-95fc-4a6a-8c7f-b00e4df75d64,Eastern Shore Brewing,micro,605 S Talbot St,,,Saint Michaels,Maryland,21663,United States,4107458010,http://www.easternshorebrewing.com,-76.2219945,38.78113562
 d5ff39b2-d63d-433b-aa9a-f5259f256d68,Eastlake Craft Brewery,micro,920 E Lake St Ste 123,,,Minneapolis,Minnesota,55407-4129,United States,6122174668,http://www.eastlakemgm.com,,
 e3426d39-8838-4ead-aff4-8202f1797894,Eastwood Brewing Company,micro,108 Walter Dr,,,Syracuse,New York,13206-2357,United States,,http://www.facebook.com/eastwoodbrewingcompany,-76.0980832,43.0701121
-60b90e2b-7e2d-4478-927e-7a3b94173b86,Easy Company Brewing,beer brand,PO Box 15288,,,Springfield,Massachusetts,01115,United States,,https://easycompanybrewing.com,,
+60b90e2b-7e2d-4478-927e-7a3b94173b86,Easy Company Brewing,micro,PO Box 15288,,,Springfield,Massachusetts,01115,United States,,https://easycompanybrewing.com,,
 60e92a91-a4bf-40fa-95d8-d22199605dbf,Easy Times,micro,20 Logan Road,,,Woolloongabba,QLD,4102,Australia,+61 452 590 279,https://easytimes.beer/,153.0368311,-27.4870599
 85c8ea1f-2db6-4ea3-9380-dcd26faa40a2,Eaton Pub & Grille Brewery / Charlotte Brewing Co,brewpub,214 S Cochran Ave,,,Charlotte,Michigan,48813-1551,United States,5175438882,http://www.eatonpub.com,-84.83579,42.549391
 8c2b0eff-6187-42b0-8b4e-f3a17f54f690,Eavesdrop Brewery,micro,7223 Centreville Rd Ste 115,,,Manassas,Virginia,20111,United States,7034208955,http://www.eavesdropbrewery.com,-77.469,38.752531
@@ -4892,6 +4892,7 @@ e29c2258-cfe5-46af-87bc-cf58d9d924b9,Gulpener Bierbrouwerij,regional,Rijksweg 16
 24e35e4c-a64e-4a30-a577-a7c9e16d4015,Gundel,brewpub,Nördlinger Straße 15,,,Kammerstein,Bayern,91126,Germany,+49 9178 1504,http://www.brauerei-gundel.de,10.9280372,49.2744636
 c29d029c-2d13-472d-a0b4-94cdc96a2f4f,Gunpowder Falls Brewing Co,micro,15556 Elm Dr,,,New Freedom,Pennsylvania,17349-9344,United States,7177590330,http://www.gunpowderfallsbrewing.com,,
 45dcecc1-7ec4-4bbe-86f7-35b57396fa36,Guns & Oil Brewery,micro,111 W 33rd St,,,Boise,Idaho,83714,United States,,http://www.gunsandoil.com,-116.2389395,43.62136196
+fb8bb350-7dd6-4fb2-8c6a-569faef040fe,Gunslinger Brewing Company,micro,318 E Colorado Ave,,,Colorado Springs,Colorado,80903-1949,United States,,,-104.8189706,38.8326073
 6a6bb1e6-889e-47bc-9f33-05460243274b,Günther-Bräu,brewpub,In der Au 27,,,Burgkunstadt,Bayern,96224,Germany,+49 9572 386650,http://www.guenther-braeu.de,11.24823,50.13639999999999
 ed284df8-f628-41da-a7db-3e38a848daff,Günther's Gutes Bier,brewpub,Steinweg 7,,,Gera,Thüringen,07545,Germany,+49 176 34448232,http://www.facebook.com/GuenthersGutes/,12.0851059,50.8779994
 0b76ee76-205d-4942-9aac-0008cd3d2e5e,Gunwhale Ales,micro,2960 Randolph Ave Unit A,,,Costa Mesa,California,92626-4312,United States,9492399074,http://www.gunwhaleales.com,-117.8872815,33.67899369
@@ -6135,7 +6136,7 @@ b0739f36-9c8a-47d3-b9cf-04873f11ea1d,Kul Brewing,contract,1106 3rd St S,,,La Cro
 98631295-561e-47f4-a184-82a5d31b3845,Kulmbacher,brewpub,EKU-Straße 1,,,Kulmbach,Bayern,95326,Germany,+49 9221 7050,http://www.kulmbacher.de,11.4446048,50.1091194
 72ceee38-898f-40c2-a1ae-a7cbc3b53aea,Kulshan Brewing Co - K2,micro,1538 Kentucky St,,,Bellingham,Washington,98229-4720,United States,3603895348,http://www.kulshanbrewing.com,-122.4539281,48.75767348
 e0643011-6445-4f77-bdde-052910e1d1ba,Kulshan Brewing Co - Sunnyland,micro,2238 James St,,,Bellingham,Washington,98225-4142,United States,3603895348,http://www.kulshanbrewing.com,-122.4645645,48.7601273
-b82ee348-f390-4de1-a996-87fcb2b76382,Kulshan Brewing Co - Trackside,location,298 W Laurel St,,,Bellingham,Washington,98225,United States,3603895348,https://kulshanbrewing.com/trackside,-122.485461,48.748621
+b82ee348-f390-4de1-a996-87fcb2b76382,Kulshan Brewing Co - Trackside,micro,298 W Laurel St,,,Bellingham,Washington,98225,United States,3603895348,https://kulshanbrewing.com/trackside,-122.485461,48.748621
 2c5dc79e-c4b9-4732-ad09-2ad80d709798,Kultland Brauerei,brewpub,Pappelweg 8,,,Friedberg (Hessen),Hessen,61169,Germany,+49 6031 7793990,http://www.kultland-brauerei.de,8.7911825,50.3258997
 da672eef-21a1-4552-b119-fbd2762476f1,Kulturbrauerei,brewpub,Leyergasse 6,,,Heidelberg,Baden-Württemberg,69117,Germany,+49 6221 502980,http://www.heidelberger-kulturbrauerei.de,8.7131758,49.4131355
 ef95a099-4d7d-4cc0-95dc-ba4865396c59,Kulturbrauhaus,brewpub,Hirschberger Straße 1,,,Bad Lobenstein,Thüringen,07356,Germany,+49 36651 2141,http://www.brauhaus-lobenstein.de,11.643648,50.4515138
