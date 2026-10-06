@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-76-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-77-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -320,6 +320,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/natebru"><img src="https://avatars.githubusercontent.com/u/1214808?v=4?s=100" width="100px;" alt="Nate"/><br /><sub><b>Nate</b></sub></a><br /><a href="#data-natebru" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Reider1313"><img src="https://avatars.githubusercontent.com/u/288641639?v=4?s=100" width="100px;" alt="Reid Z"/><br /><sub><b>Reid Z</b></sub></a><br /><a href="#data-Reider1313" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/CrepuscularCremini"><img src="https://avatars.githubusercontent.com/u/101598531?v=4?s=100" width="100px;" alt="Brenn Anderson-Gregson"/><br /><sub><b>Brenn Anderson-Gregson</b></sub></a><br /><a href="#data-CrepuscularCremini" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gorgobacka"><img src="https://avatars.githubusercontent.com/u/10488441?v=4?s=100" width="100px;" alt="Thomas Brockmöller"/><br /><sub><b>Thomas Brockmöller</b></sub></a><br /><a href="#data-gorgobacka" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
