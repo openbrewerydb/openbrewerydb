@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-78-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-79-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -324,6 +324,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://vtbassmatt.com/"><img src="https://avatars.githubusercontent.com/u/714283?v=4?s=100" width="100px;" alt="Matt Cooper"/><br /><sub><b>Matt Cooper</b></sub></a><br /><a href="#data-vtbassmatt" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/magnorthbrewing-afk"><img src="https://avatars.githubusercontent.com/u/265677524?v=4?s=100" width="100px;" alt="magnorthbrewing-afk"/><br /><sub><b>magnorthbrewing-afk</b></sub></a><br /><a href="#data-magnorthbrewing-afk" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
