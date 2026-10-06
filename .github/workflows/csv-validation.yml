@@ -7,8 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     name: CSV Validation
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v2
+    - uses: actions/checkout@v7
+    - uses: actions/setup-node@v7
       with:
         node-version-file: '.nvmrc'
     - run: npm install
