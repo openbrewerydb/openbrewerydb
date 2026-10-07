@@ -366,12 +366,12 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 5,917 | 49.5% |
+| micro | 5,916 | 49.5% |
 | brewpub | 3,950 | 33.0% |
 | closed | 645 | 5.4% |
 | planning | 634 | 5.3% |
 | regional | 240 | 2.0% |
-| contract | 218 | 1.8% |
+| contract | 219 | 1.8% |
 | large | 137 | 1.1% |
 | proprietor | 67 | 0.6% |
 | taproom | 65 | 0.5% |
