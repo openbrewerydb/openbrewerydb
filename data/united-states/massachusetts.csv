@@ -2,8 +2,8 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 232e8f62-9afc-45f5-b4bc-582c26b5c43b,10th District Brewing Company,micro,491 Washington St,,,Abington,Massachusetts,02351-2419,United States,7813071554,http://www.10thdistrictbrewing.com,-70.94594149,42.10591754
 9fdb80f1-a96f-4dc4-80a2-5b0d9a246916,3 Beards Beer Company,contract,4 Main St,,,Williamsburg,Massachusetts,01096,United States,6173837039,http://www.3beardsbeer.com,-72.7305059,42.3923659
 842d193f-7a1b-4960-86f8-7d6614884005,3cross Fermentation Cooperative,micro,4 Knowlton Ave,,,Worcester,Massachusetts,01603,United States,5086158195,http://www.3cross.coop,-71.83057593,42.24364875
-3ae83177-05fb-4df3-86fe-5ba61495720a,67 Degrees Brewing,contract,,,,Franklin,Massachusetts,02038,United States,,https://67degreesbrewing.com,,
-929d1e7a-c485-4eb0-8a76-5b3b76dfad49,67 Degrees Brewing - The Cellar,beergarden,1 Premium Outlets Blvd,,,Wrentham,Massachusetts,02093,United States,,https://67degreesbrewing.com,-71.353414,42.040143
+,67 Degrees Brewing,contract,,,,Franklin,Massachusetts,02038,United States,,https://67degreesbrewing.com,,
+,67 Degrees Brewing - The Cellar,beergarden,1 Premium Outlets Blvd,,,Wrentham,Massachusetts,02093,United States,,https://67degreesbrewing.com,-71.353414,42.040143
 c7b3260a-b441-4dc8-958f-34c045e26f22,7th Wave Brewing,micro,120 N Meadows Rd Ste 8,,,Medfield,Massachusetts,02052-1594,United States,6176453397,http://www.7thwavebrewing.com,,
 5a7b05f9-bf7b-49a2-a1de-0c1fe01b9374,Abandoned Building Brewery,micro,142 Pleasant St Unit 103A,,,Easthampton,Massachusetts,01027-2805,United States,4132827062,http://www.abandonedbuildingbrewery.com,,
 59b8c8b8-6850-4b24-81f0-a16a9cd87773,Aeronaut Brewing Company,micro,14 Tyler St,,,Somerville,Massachusetts,02143-3224,United States,6179874236,http://www.aeronautbrewing.com,-71.1062676,42.3819723
@@ -57,13 +57,13 @@ a4979f24-580a-467a-8cb3-5ce9df1d30b4,Cambridge Brewing Co,closed,1 Kendall Sq St
 ae99dbe7-5a51-473f-8461-882be8e88a94,Castle Island Brewing - South Boston,taproom,10 Old Colony Ave,,,South Boston,Massachusetts,02127,United States,7819512029,https://castleislandbeer.com/southie,-71.05605,42.33687
 de3d4ee8-375c-4980-8ed1-c053afaf121e,Castle Island Brewing Co.,micro,31 Astor Ave,,,Norwood,Massachusetts,02062-5016,United States,7819512029,http://www.castleislandbeer.com,-71.19186438,42.16931297
 efecf28c-1f97-43b4-b283-11b8ad902d42,Cedar Point Brewery,planning,,,,Scituate,Massachusetts,02066-1317,United States,7818311724,,,
-c7b68d01-850d-41e5-ae84-6daffa9476e9,Censored Munky,contract,,,,Chicopee,Massachusetts,01013,United States,,https://www.censoredmunky.com,,
+,Censored Munky,contract,,,,Chicopee,Massachusetts,01013,United States,,https://www.censoredmunky.com,,
 d7646611-58cd-4b1d-9572-c373a8c33401,Charlton Beer Company,micro,,,,Charlton,Massachusetts,01507,United States,5082485627,http://www.charltonbeercompany.com,,
 58144e11-89a4-41bd-b65f-5b33de2b654a,Cheeky Monkey Brewing Co / Lucky Strike Jillians,brewpub,3 Lansdowne St,,,Boston,Massachusetts,02215-3412,United States,6178590030,http://www.cheekymonkeyboston.com,-71.0946215,42.34729
 7e749a31-8ae6-4997-9847-b3cdbd2e7c9e,Cisco Brewers,micro,5 Bartlett Farm Rd,,,Nantucket,Massachusetts,02554-4341,United States,5083255929,http://www.ciscobrewers.com,-70.1292845,41.26135815
 4747a7a1-7184-4b08-b731-132632d0a3a3,Clover Road Brewing Company,taproom,151 Main St,,,Ashland,Massachusetts,01721,United States,,https://www.cloverrdbrewing.com,-71.465237,42.260382
 336a0103-0311-42b3-9766-a4bc967d1d5a,Clover Road Brewing Company,micro,312 Main St,,,Hudson,Massachusetts,01749,United States,,https://www.cloverrdbrewing.com,-71.558667,42.392818
-a7753609-9cf9-4f90-8863-db3976517230,Clown Shoes Beer,contract,,,,Boston,Massachusetts,02210,United States,,http://www.clownshoesbeer.com,,
+,Clown Shoes Beer,contract,,,,Boston,Massachusetts,02210,United States,,http://www.clownshoesbeer.com,,
 66e64264-1859-4b86-a1d8-da62c958e586,Coastal Mass. Brewing,micro,95 Rantoul St,,,Beverly,Massachusetts,01915,United States,9789693071,https://coastalmassbrewing.com,-70.884387,42.544776
 6214314a-396b-4807-be4f-6033a61341ce,Cold Harbor Brewing Company,micro,108 Milk St Ste 6,,,Westborough,Massachusetts,01581-1228,United States,,http://www.coldharborbrewing.com,,
 4d3b43ed-2028-4981-bb8a-74f350c561f6,Couch Dog Brewing Co.,micro,76 Lafayette St,,,Salem,Massachusetts,01970,United States,,https://www.couchdogbrewing.com,-70.89376,42.519284
@@ -97,7 +97,7 @@ c7fc7b32-5632-4336-88eb-1c30b02c9892,Fieldcrest Brewing Company,micro,11 E Main 
 d9cfd74a-5062-4956-b1bb-615aefef5178,Floodwater Brewing Company,micro,40 State St,,,Shelburne Falls,Massachusetts,01370,United States,,http://floodwaterbrewing.com,-72.741038,42.604329
 942a943c-ddf3-4a7c-984b-2176a1ba8834,Flying Dreams Brewing Co.,closed,455B Park Ave,,,Worcester,Massachusetts,01610,United States,5089268251,http://www.flyingdreamsbrewing.com,-71.82618857,42.25419957
 99143ec6-594d-4ce6-8e94-cffe750dae0b,Fort Hill Brewery,micro,30 Fort Hill Rd,,,Easthampton,Massachusetts,01027-1268,United States,4132035754,http://www.forthillbrewery.com,-72.64143098,42.28503154
-ad5c71db-bcd2-4e2c-af4d-23dea43c5981,Forty Second Brew Co.,micro,77 Summer St,,,Kingston,Massachusetts,02364,United States,,https://www.fortysecondbrewco.com,-70.730191,41.998553
+,Forty Second Brew Co.,micro,77 Summer St,,,Kingston,Massachusetts,02364,United States,,https://www.fortysecondbrewco.com,-70.730191,41.998553
 50c8843d-9309-4c4f-9ee7-947ffcca7a8a,Four Phantoms Brewing,nano,301 Wells St,,,Greenfield,Massachusetts,01301,United States,,https://www.fourphantoms.net,-72.606574,42.601461
 930f5822-bf77-4379-991e-a78d606b6a41,Gentile Brewing Company,micro,59 Park St # 1,,,Beverly,Massachusetts,01915-4253,United States,9789696496,http://www.gentilebrewing.com,,
 553e835b-4c41-4d59-954d-25f773afcf80,Goat Creek Brewing,planning,,,,Northampton,Massachusetts,01062-1326,United States,,,,
@@ -120,10 +120,10 @@ a86a5712-7d32-4ade-a350-2245056ad635,Homefield Brewing,brewpub,3 Arnold Rd,,,Fis
 19daae01-234c-471b-8541-5ec2ebda543f,Hopsters,brewpub,292 Centre St,,,Newton,Massachusetts,02458-1618,United States,6179160752,http://www.hopstersbrew.com,-71.1852104,42.3560516
 e4013b16-1901-4dc7-b9bf-8ef08f2faee0,Hot Plate Brewing Co.,micro,1 School St,,,Pittsfield,Massachusetts,01201,United States,,https://www.hotplatebeer.com,-73.25359,42.449408
 ac61b0f1-cb04-4362-9446-ad4ade13ec74,Idle Hands Craft Ales,micro,89 Commercial St,,,Malden,Massachusetts,02148-5509,United States,7813336070,http://www.idlehandscraftales.com,-71.07473084,42.4243819
-51db26ec-a673-4d80-ada4-49faa55a7bd5,Incandescent Brewing,micro,203 South St,,,Bernardston,Massachusetts,01337,United States,,https://www.facebook.com/IncandescentBrewing/,-72.561356,42.658801
+,Incandescent Brewing,micro,203 South St,,,Bernardston,Massachusetts,01337,United States,,https://www.facebook.com/IncandescentBrewing/,-72.561356,42.658801
 73357541-682f-4a38-89c0-599682ed8dbc,Independent Fermentations Brewing,micro,127 Camelot Dr Ste 3,,,Plymouth,Massachusetts,02360-3039,United States,5087464634,http://www.independentfermentations.com,,
 783cf348-6a53-404f-99f6-eac225d1334d,Ipswich Ale Brewery,regional,2 Brewery Pl,,,Ipswich,Massachusetts,01938-1196,United States,9783563329,http://www.ipswichalebrewery.com,,
-f22f0c5c-f49e-4d03-82d4-580628917280,Irish Brewing Boston,micro,83 Morse St,Units 4A-4B,,Norwood,Massachusetts,02062,United States,7813520877,https://www.irishbrewingboston.com,-71.205852,42.170992
+,Irish Brewing Boston,micro,83 Morse St,Units 4A-4B,,Norwood,Massachusetts,02062,United States,7813520877,https://www.irishbrewingboston.com,-71.205852,42.170992
 6299623b-bae2-4152-88a5-47e5b63bb4f8,Jack's Abby Brewing,regional,100 Clinton St,,,Framingham,Massachusetts,01702-6748,United States,5088720900,http://www.jacksabbybrewing.com,-71.4109021,42.2800852
 45f45287-e619-4497-87cb-79fab92d6ef7,John Harvards Brew House - Framingham,brewpub,1 Worcester Rd,,,Framingham,Massachusetts,01701-5359,United States,5088752337,http://www.johnharvards.com,-71.39619245,42.30411485
 c343a4f2-8c31-4424-8ac6-ae514fe7f64e,Kismet Brewing Company,micro,66 S Broad St,,,Westfield,Massachusetts,01085,United States,9789957711,http://www.kismetbrewing.com,-72.7493891,42.1100364
@@ -133,11 +133,11 @@ c343a4f2-8c31-4424-8ac6-ae514fe7f64e,Kismet Brewing Company,micro,66 S Broad St,
 7e1b62e7-054d-4dc9-8359-da4c874cc154,Laneside Pub & Brewery,brewpub,53 Gloucester Ave,,,Gloucester,Massachusetts,01930,United States,9782839753,https://www.capeannlanes.com/laneside-pub-brewery,-70.67151,42.622391
 a76228a8-8ca7-4796-a43c-7c84ea687ee2,Leadfoot Brewing,micro,95 N Chicopee St,,,Chicopee,Massachusetts,01020,United States,14133159828,https://leadfootbrewing.com,-72.60109,42.19442
 69d7f5d8-0d45-48dc-8f7c-95d3c05efcbc,Lefty's Craft,contract,,,,Greenfield,Massachusetts,01301,United States,,https://www.leftyscraft.com/,-72.60686067,42.60121604
-adbfc5e4-6535-48b7-9e6a-d837083e6f02,Little Willow Brewing,contract,,,,Florence,Massachusetts,01062,United States,,https://www.facebook.com/littlewillowbrewing/,,
-13e1cd69-44aa-42ca-bb08-1117a0143312,Llama Nama Beer Labs,nano,49 Cordage Park Circle,Bay 2,,Plymouth,Massachusetts,02360,United States,,https://llamanamabeerlabs.square.site,-70.685496,41.978867
+,Little Willow Brewing,contract,,,,Florence,Massachusetts,01062,United States,,https://www.facebook.com/littlewillowbrewing/,,
+,Llama Nama Beer Labs,nano,49 Cordage Park Circle,Bay 2,,Plymouth,Massachusetts,02360,United States,,https://llamanamabeerlabs.square.site,-70.685496,41.978867
 0febadeb-2667-4821-b855-b458dde0e78b,Long Live Beerworks,micro,152 Hampden St,,,Boston,Massachusetts,02119,United States,,https://www.longlivebeerworks.com,,
 e7c13236-3cde-47c5-83e1-1698ce94e45e,Lookout Farm Brewing And Cider Co,micro,89 Pleasant St,,,Natick,Massachusetts,01760-5669,United States,5086511539,http://www.lookoutfarmbrewing.com,-71.37096888,42.32235516
-feb36b9e-d9a5-42aa-a3cd-8c12d82e5bf4,Loophole Brewing,contract,,,,Springfield,Massachusetts,01103,United States,4134786555,https://www.loophole.beer,,
+,Loophole Brewing,contract,,,,Springfield,Massachusetts,01103,United States,4134786555,https://www.loophole.beer,,
 50a4210f-7250-4601-9846-41a9db655065,Lord Hobo Boston,brewpub,2 Drydock Ave,,,Boston,Massachusetts,02210,United States,6178726224,https://lordhobo.com/boston/,-71.037677,42.34496
 8f160bf6-649a-4365-8703-372aed64eca3,Lord Hobo Brewing Co,regional,5 Draper St,,,Woburn,Massachusetts,01801-4521,United States,7812810809,http://lordhobobrewing.com,-71.12892319,42.47603755
 b4a9df9d-4237-4161-8827-d8014af0dd3e,Lost Shoe Brewing and Roasting Company,micro,19 Weed St,,,Marlborough,Massachusetts,01752,United States,,https://lostshoebrews.com,-71.547265,42.346449
@@ -146,8 +146,8 @@ b4a9df9d-4237-4161-8827-d8014af0dd3e,Lost Shoe Brewing and Roasting Company,micr
 59736f54-303c-49d8-9daf-8080d3cff2ae,Lyons Den Brewing Co.,planning,,,,Wrentham,Massachusetts,02093,United States,,,,
 2f2409c0-09db-4b7b-b68d-4eb5076226bc,Marblehead Brewing Company,micro,124 Pleasant St,,,Marblehead,Massachusetts,01945,United States,7817970211,http://www.marbleheadbrewing.co,-70.8573661,42.50125386
 7d7f31a3-8e08-4cfc-b929-c545b41eaa05,Mayflower Brewing Co,micro,12 Resnik Rd,,,Plymouth,Massachusetts,02360-7245,United States,5087462674,http://www.mayflowerbrewing.com,-70.71255496,41.94926024
-125d0a6a-66e9-453d-966e-3dd6ef1c10d4,Mayflower Brewing Co - Pinehills Beer Garden,beergarden,1 Village Green N,,,Plymouth,Massachusetts,02360,United States,,http://www.mayflowerbrewing.com,-70.600372,41.880082
-d0f565f2-deb3-4896-9d7a-f4f672e42b44,Medford Brewing Company,micro,30 Harvard Ave,,,Medford,Massachusetts,02155,United States,,http://medfordbrew.com,-71.133632,42.420398
+,Mayflower Brewing Co - Pinehills Beer Garden,beergarden,1 Village Green N,,,Plymouth,Massachusetts,02360,United States,,http://www.mayflowerbrewing.com,-70.600372,41.880082
+,Medford Brewing Company,micro,30 Harvard Ave,,,Medford,Massachusetts,02155,United States,,http://medfordbrew.com,-71.133632,42.420398
 0a21307c-a2d0-48eb-b9c9-a88032b3b49c,Medusa Brewing Company,micro,111 Main St,,,Hudson,Massachusetts,01749-2210,United States,5083950122,http://www.medusabrewing.com,-71.566681,42.3909986
 72c36c03-55db-4310-8b6f-66ed9942c29e,Merrimack Ales,micro,92 Bolt St,,,Lowell,Massachusetts,01852-5316,United States,9787017225,http://www.merrimackales.com,-71.300252,42.625366
 65621b87-399c-4756-915a-4a0b8f2fb89b,Mighty Squirrel,regional,1 David Ortiz Dr,,,Boston,Massachusetts,02215,United States,8575575700,http://www.mightysquirrel.com,-71.10122834738092,42.3472393126807
@@ -182,7 +182,7 @@ a17858d1-e5aa-41c5-a429-8418b7890d9d,Paramount Brewing Company,planning,,,,Andov
 c63869c9-51e0-480b-8cbc-011b424ffba1,Penny Pinchers Brewing,nano,75 Elm St,,,Millbury,Massachusetts,01527,United States,5085814181,https://www.pennypinchersbrewing.com,-71.759607,42.191398
 da9fa8f8-bf7d-47b8-baa9-9e3f4da93b86,Percival Brewing Company,micro,83 Morse St,,,Norwood,Massachusetts,02122,United States,7816644705,http://www.percivalbeercompany.com,-71.2072323,42.17226305
 e2ae7c8c-6317-4c6b-8b13-f36667508ddb,Portico Brewing Co,micro,101 South St,,,Somerville,Massachusetts,02143,United States,6177645215,https://www.porticobrewing.com/,-71.09112,42.375133
-f7353fa6-d654-4dca-97ba-a5f706660a65,Powder Hollow Brewery at Yankee Candle Village,taproom,25 Greenfield Rd,,,South Deerfield,Massachusetts,01373,United States,,https://www.facebook.com/p/Powder-Hollow-Brewery-at-Yankee-Candle-Village-100044145383469/,-72.615145,42.475388
+,Powder Hollow Brewery at Yankee Candle Village,taproom,25 Greenfield Rd,,,South Deerfield,Massachusetts,01373,United States,,https://www.facebook.com/p/Powder-Hollow-Brewery-at-Yankee-Candle-Village-100044145383469/,-72.615145,42.475388
 1b8cfe03-fbfc-4cb9-ad06-136eca96688c,Progression Brewing Company,micro,9 Pearl St,,,Northampton,Massachusetts,01060,United States,4133413517,https://progressionbrewing.com,-72.62718,42.318568
 2fc1f3e1-43bf-4e50-9877-cc80a600de29,"Purgatory Beer Co, LLC",closed,670 Linwood Ave Bldg C,,,Whitinsville,Massachusetts,01588-2068,United States,7745450243,http://www.purgatorybeer.com,,
 1084cdaa-c536-42c0-a2c6-20c9f0253aed,Rapscallion Ales,micro,5 Strawberry Hill Rd,,,Acton,Massachusetts,01720-5706,United States,5083477500,http://www.drinkrapscallion.com,-71.41585461,42.4919605
@@ -211,17 +211,17 @@ f15270cc-923b-439a-98de-03634439e101,Scottish Bloodline Brewing,planning,,,,Lowe
 2330393a-9a95-47a4-8630-0cf22fe53063,Sena Farm Brewery,micro,151 Buffington Hill Rd,,,Worthington,Massachusetts,01098,United States,4138962627,https://www.senafarmbrewery.com,-72.950103,42.415437
 c6b73809-b0c4-465d-840d-f6456233b4c0,Seven Railroads Brewing Company,micro,1235 Park St,,,Palmer,Massachusetts,01069,United States,7817890480,https://www.sevenrailroads.beer,-72.315399,42.151206
 69f38437-e155-4835-9cb0-c1dc3e35c26a,Seven Saws Brewing Company,micro,112 Industrial Dr,,,Holden,Massachusetts,01520,United States,,https://www.sevensawsbrewing.com,-71.843339,42.336531
-4e7a6c06-814c-4709-88c6-11309cbb5e3e,Shakesbeer,contract,,,,Hingham,Massachusetts,02043,United States,7812692690,https://www.drinkshakesbeer.com,,
+,Shakesbeer,contract,,,,Hingham,Massachusetts,02043,United States,7812692690,https://www.drinkshakesbeer.com,,
 84c013fc-1f60-4569-b009-973a48e480dc,Shire Breu Hous,brewpub,63 Flansburg Ave,,,Dalton,Massachusetts,01226,United States,4138428313,http://www.shire.beer,-73.1730985,42.4745867
 721d8224-c432-47ec-a706-3a888cdb72f2,"Shovel Town Brewery, Inc.",brewpub,50 Oliver St Rear,,,North Easton,Massachusetts,02356-1446,United States,5082057151,,,
 c8b05101-42dc-4760-b4e9-1c2d21e15f68,Skyline Beer Company,micro,98 Southwick Rd,,,Westfield,Massachusetts,01085,United States,4133783333,https://skylinebeerco.com,-72.764141,42.107112
 e7cde6c1-fce9-43cd-8cb8-6867172e084c,Skyroc Brewery,micro,11 Riverbank Rd,,,Attleboro,Massachusetts,02703-,United States,7743312336,http://www.skyrocbrewery.com,-71.28788917,41.94462967
 6d654268-585f-4da4-9bcd-bc6a3fd550e2,Slesar Bros Brewing Co - Boston Beer Works,brewpub,112 Canal St,,,Boston,Massachusetts,02114-1805,United States,6178962337,http://www.beerworks.net,-71.0603412,42.364473
 6b946d80-9365-4f6c-90d5-ad9258e2b149,Slesar Bros Brewing Co - Boston Beer Works,brewpub,61 Brookline Ave,,,Boston,Massachusetts,02215-3406,United States,6175362337,http://www.beerworks.net,-71.10772469,42.33883008
-93936b19-790c-402a-ba33-999e43a7cbb2,Small Change Brewing,contract,,,,Somerville,Massachusetts,02143,United States,,https://www.smallchangebrewing.com,,
+,Small Change Brewing,contract,,,,Somerville,Massachusetts,02143,United States,,https://www.smallchangebrewing.com,,
 df561fc1-54b8-4a17-94fb-c344202bafed,Sole Syndicate Brewing Co,micro,100 State St,Building 122,,Ludlow,Massachusetts,01056,United States,4136246258,https://www.solesyndicatebrewing.com/,-72.47596,42.155354
 d4b6dce4-8521-402d-a39b-0eef19bfcb7f,Somerville Brewing Company,micro,15 Ward St,,,Somerville,Massachusetts,02143-4228,United States,8004281150,http://www.slumbrew.com,-71.0890345,42.3749103
-1d4db59a-7a47-4307-9377-f38fb470d461,Sour Not Sorry Brewing,micro,8A Court St,,,Plymouth,Massachusetts,02360,United States,,https://sournotsorrybrewing.com,-70.665678,41.957167
+,Sour Not Sorry Brewing,micro,8A Court St,,,Plymouth,Massachusetts,02360,United States,,https://sournotsorrybrewing.com,-70.665678,41.957167
 ebe3d590-e35e-49ba-9ce6-df24e50fe330,Spencer Brewery,micro,167 N Spencer Rd,,,Spencer,Massachusetts,01562-1232,United States,5088855756,http://www.spencerbrewery.com,-72.0133159,42.2976331
 851420af-9b77-498f-ac1b-43daddc03941,Start Line Brewing Company,micro,151R Hayden Rowe St,,,Hopkinton,Massachusetts,01748-2511,United States,5087612044,http://www.startlinebrewing.com,-71.51323676,42.21031634
 65fc7765-766e-4ae2-95cc-efdecd6c1dc9,Station One by Shovel Town Brewery,brewpub,44 School St,,,Foxboro,Massachusetts,02035,United States,7742155144,https://www.stationonefoxboro.com,-71.25158,42.064834
@@ -231,17 +231,17 @@ ac0cd448-09f3-4936-93e8-016931d2d785,Sterling Street Brewery,taproom,65 Jackson 
 51406172-17ff-49ec-a1ec-218756528dd4,Still River Brewery,micro,121 Clinton Shore Dr.,,,Still River,Massachusetts,01467-0157,United States,,,,
 28e04f1d-11f9-4ea9-b67c-a155e8c88b81,Stone Cow Brewery,micro,500 West St (Route 122),,,Barre,Massachusetts,01005,United States,4135526048,,,
 772310d2-06d3-42c6-b494-7622dc87b15d,Stoneman Brewery,micro,20 Stetson Bros Rd,,,Colrain,Massachusetts,01340-9733,United States,4136245195,,,
-7339bc79-8982-4c3c-b4aa-0e3bdeb7a2ef,Strong Side Brewing,contract,,,,Hopedale,Massachusetts,01747,United States,,https://www.strongsidebrewing.com,,
-dc04e52e-d972-4d99-aa6d-74116251726f,Swing Oil Beer Company,contract,,,,Amherst,Massachusetts,01002,United States,,https://swingoil.golf,,
+,Strong Side Brewing,contract,,,,Hopedale,Massachusetts,01747,United States,,https://www.strongsidebrewing.com,,
+,Swing Oil Beer Company,contract,,,,Amherst,Massachusetts,01002,United States,,https://swingoil.golf,,
 8f4ab0de-fa93-4f9f-acec-fa39a4443694,Tackle Box Brewing Company,brewpub,416 Boston Post Rd E,,,Marlborough,Massachusetts,01752,United States,5083213292,https://www.tackleboxbrewing.com,-71.513848,42.348332
 b736277a-ec61-4012-95ce-9704b1af2296,The Back Room Brewing Company,micro,1046 Millers Falls Rd,,,Northfield,Massachusetts,01360,United States,4132253420,https://thebackroombrewingcompany.com,-72.46155,42.676562
 a43cdfea-0063-4f07-8989-3ae361c02df8,The Brewery at Four Star Farms,micro,508 Pine Meadow Rd,,,Northfield,Massachusetts,01360,United States,4132253187,https://www.fourstarbeer.com,-72.482325,42.631772
 044fc194-fa8d-41cb-8a8c-6b1d18b4b3bd,The Peoples Pint / Franklin County Brewing Co,brewpub,76 Hope St,,,Greenfield,Massachusetts,01301-3573,United States,4137730333,http://www.thepeoplespint.com,-72.59769229,42.58187599
 f726f11e-905b-4378-aefe-ab63a493900c,The Tap Brewing Company,brewpub,100 Washington St,,,Haverhill,Massachusetts,01832-5500,United States,6178358315,http://www.tapbrewingcompany.com,-71.084935,42.7728879
-d6645c54-913f-4dcf-83a8-6ee26c292d1c,Thirsty Robot Brewing Company,brewpub,265 Summer St,Suite 3,,Fitchburg,Massachusetts,01420,United States,,https://www.thirstyrobotbrewing.com,-71.780992,42.57243
+,Thirsty Robot Brewing Company,brewpub,265 Summer St,Suite 3,,Fitchburg,Massachusetts,01420,United States,,https://www.thirstyrobotbrewing.com,-71.780992,42.57243
 63affd77-357c-4602-a09e-c73ed50d683f,Three Sips Brew Co.,brewpub,145 South Main St,,,Carver,Massachusetts,02330,United States,7812673151,https://www.threesipsbrewco.com,-70.750523,41.837909
 72466771-4af4-4da5-a120-06081eda08d8,Timberyard Brewing Co.,brewpub,555 East Main St,,,East Brookfield,Massachusetts,01515,United States,7747458192,https://timberyardbrewing.com/,-72.029039,42.230921
-835b1270-5c03-42b9-8c56-2a25f7064eaf,Time & Materials Beer Company,nano,,,,Reading,Massachusetts,01867,United States,,https://www.timeandmaterialsbeer.com,,
+,Time & Materials Beer Company,nano,,,,Reading,Massachusetts,01867,United States,,https://www.timeandmaterialsbeer.com,,
 da072acf-a430-4fa7-9b49-39bd2a391fce,Tin Bridge Brewing,micro,487 E Main St,,,Westfield,Massachusetts,01085,United States,4136426418,http://www.tinbridgebrewing.com,-72.71967336,42.11268502
 1c0e323d-45ab-4d0c-9f27-8e8a62df3703,Tree House Brewery,regional,129 Sturbridge Rd,,,Charlton,Massachusetts,01507-5330,United States,4139491891,http://www.treehousebrew.com,-72.0125532,42.1366948
 aa61daf0-d581-452b-a2ba-a1f58ac2a5a9,Tree House Brewing Company - Deerfield,taproom,1 Community Pl,,,South Deerfield,Massachusetts,01373,United States,,https://treehousebrew.com/visiting-deerfield,-72.609403,42.490436
@@ -265,13 +265,13 @@ affe57b1-0891-4df3-aef1-28a3546e6571,Vitamin Sea Brewing,micro,30 Moore Rd,,,Wey
 877e476c-df71-4e74-a5e4-8c7c8b365096,Vitamin Sea Brewing - Plymouth,taproom,98 Water St,,,Plymouth,Massachusetts,02360,United States,7744264001,https://www.vitaminseabrewing.com/visit-plymouth,-70.665328,41.959448
 5f6a874b-33de-4387-928e-b095e03a58f8,Wachusett Brewing Co,regional,175 State Rd E,,,Westminster,Massachusetts,01473-1208,United States,9788749965,http://www.wachusettbrew.com,-71.87294016,42.55783542
 10495139-5ff0-4d50-83dc-ce6a54459ba5,Wachusett Worcester Brew Yard,bar,152 Green St,,,Worcester,Massachusetts,01604,United States,7814368540,https://wachusettbrewingcompany.com/worcester/,-71.797661,42.255781
-4747f8fa-b7b0-4d0a-b96a-cfa3986a0821,Wandering Soul Beer Company,contract,,,,Beverly,Massachusetts,01915,United States,,https://wanderingsoulbeer.com,,
+,Wandering Soul Beer Company,contract,,,,Beverly,Massachusetts,01915,United States,,https://wanderingsoulbeer.com,,
 60cc92dc-9216-4fff-81cf-24d84adfe8aa,Wandering Star Brewing Co,micro,11 Gifford St,,,Pittsfield,Massachusetts,01201-3701,United States,9175733942,http://www.wanderingstarbrewing.com,-73.21202303,42.45706449
 44c00cc8-f329-452b-9d37-1ba777144535,Westfield River Brewing Co,micro,707 College Hwy,,,Southwick,Massachusetts,01077-9733,United States,4133748425,http://www.westfieldriverbrewing.com,-72.765248,42.062268
 f7fed178-dc61-473d-a847-efc5fd887105,White Lion Brewing Company,brewpub,1500 Main St,,,Springfield,Massachusetts,01103,United States,4134550820,https://whitelionbrewing.com/,,
 ec93ee84-6dde-43c1-a4fc-c1b37b2fae61,Widowmaker Brewing,micro,220 Wood Rd,,,Braintree,Massachusetts,02184-2408,United States,7812549856,http://www.widowmakerbrew.wordpress.com,,
 24c056bd-0a0a-401f-a751-a91e9355113a,Widowmaker Taproom and Kitchen,taproom,190 North Beacon St,,,Brighton,Massachusetts,02135,United States,6173900660,https://www.widowmakerbrewing.com/,-71.147902,42.355743
-2a577167-710e-4289-ab8a-81c6e3eacd01,Wild Hare Restaurant & Brewery,brewpub,43 Broad St,B102,,Hudson,Massachusetts,01749,United States,9788756095,https://www.wildhareofhudson.com,-71.564326,42.38889
+,Wild Hare Restaurant & Brewery,brewpub,43 Broad St,B102,,Hudson,Massachusetts,01749,United States,9788756095,https://www.wildhareofhudson.com,-71.564326,42.38889
 35f5df17-9a57-4857-8575-333612476a07,Winch & Pulley Beer Company,micro,81 Morton St,,,Framingham,Massachusetts,01702,United States,,https://www.rightcoast.co,-71.401672,42.278938
 2dabc038-a32f-400d-ac09-84b369df1528,Winter Hill Brewing Company,brewpub,328 Broadway,,,Somerville,Massachusetts,02145-2803,United States,6177182337,http://www.winterhillbrewing.com,,
 9ee6e94f-60fb-4770-b250-6801cec8c770,Wormtown Brewery,micro,72 Shrewsbury St,,,Worcester,Massachusetts,01604-4625,United States,7742391555,http://www.wormtownbrewery.com,-71.7912262,42.2634992
