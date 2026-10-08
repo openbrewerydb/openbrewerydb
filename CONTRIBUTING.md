@@ -12,6 +12,22 @@ Following these guidelines helps to communicate that you respect the time of the
 
 Open Brewery DB is a fully transparent, open source project and we love to receive any contributions from our community — you! There are many ways to contribute, from suggesting brewery updates, writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into Open Brewery DB itself.
 
+## Brewers Guilds
+
+Guild source files live at `datasets/[country]/guilds.csv`. Update a country source file, then run `npm run workflow:guilds` to rebuild the committed `guilds.csv`, `guilds.json`, and `guilds.sql` artifacts.
+
+Guild files use these columns in order:
+
+```text
+id,scope,country_code,country,subdivision_code,subdivision,organization,website
+```
+
+- `id` is a stable UUID. Leave it empty for a new record and the guild workflow will generate it from the country code, scope, subdivision code, and organization name. Never remove or change an existing ID when editing a record.
+- `scope` is `national`, `subdivision`, or `regional`.
+- `country_code` is an uppercase ISO 3166-1 alpha-2 code.
+- `subdivision_code` and `subdivision` must be empty for national records and present for subdivision and regional records.
+- `organization` is required. `website` is optional.
+
 ## Responsibilities
 
 * Create issues for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
