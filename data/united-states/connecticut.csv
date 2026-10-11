@@ -19,7 +19,7 @@ a07b2855-4e8f-48f2-b7b1-9563f007fca3,Brass Works Brewing Company LLC,micro,2066 
 d67247b7-20ad-4f3a-aefb-b1f5097f6005,Brewport Brewing Co,brewpub,225 S Frontage Rd,,,Bridgeport,Connecticut,06604-5031,United States,2036124438,http://www.brewportct.com,-73.19238627,41.170877
 9fb357eb-965e-4920-81d0-256910248fc0,Broad Brook Brewing Company,micro,915 South St,,,Suffield,Connecticut,06078,United States,8606231000,https://www.broadbrookbrewing.com,-72.66266463,41.96200785
 f4daf3e7-c246-47ec-9d2b-6fd01519d8ac,Broad Leaf Farm Brewery,planning,,,,South Glastonbury,Connecticut,06073-2017,United States,2158057228,,,
-e6c27ded-48b1-4290-b7a2-3deda657a7b8,Broken Symmetry Gastro Brewery,brewpub,5 Depot Pl,,,Bethel,Connecticut,06801-2507,United States,2037311735,,-73.41424776,41.37097334
+e6c27ded-48b1-4290-b7a2-3deda657a7b8,Broken Symmetry Gastro Brewery,brewpub,5 Depot Pl,,,Bethel,Connecticut,06801-2507,United States,2037311735,https://www.brokensymmetrybrew.com,-73.41424776,41.37097334
 131050bc-6ba0-4eab-a7ba-7cb42becdbeb,BruRm At Bar,brewpub,254 Crown St,,,New Haven,Connecticut,06511-6610,United States,2034958924,http://www.barnightclub.com,-72.9302577,41.3061639
 ad254a69-0bd9-491e-be5b-0a35d174fb4e,Cambridge House Brew Pub - Granby,brewpub,357 Salmon Brook St,,,Granby,Connecticut,06035-0438,United States,8606532739,http://www.cbh.beer,-72.79259539,41.96631414
 542588a9-82dd-4f6f-a72c-53363d4ae57d,Center Street Brewing Company,micro,24 Wallace Ave,,,Wallingford,Connecticut,06492,United States,,https://www.centerstreetbrewing.com/,-72.8190049,41.4545195
@@ -44,7 +44,7 @@ e73ab2c9-9e8e-40f7-ac90-d3de503f2052,Fairfield Craft Ales,micro,724 Honeyspot Rd
 5a19b678-db5b-4fe3-939f-73345b04b3a4,Fifth Year Brewery,planning,,,,West Haven,Connecticut,06516-7515,United States,,,,
 e13762c8-53a1-48a0-a915-c096492b06d6,Firefly Hollow Brewing Co.,closed,139 Center St Ste 5005,,,Bristol,Connecticut,06010-5086,United States,8608458977,http://www.fireflyhollowbrewing.com,,
 ad1ceef6-b564-422c-990a-8c98847adc0a,Five Churches Brewing,closed,193 Arch St,,,New Britain,Connecticut,06051-2516,United States,8602238080,http://www.facebook.com/FiveChurchesBrewing,-72.782706,41.662994
-338ef688-5a3f-4bcc-bfd6-02e17f7eea19,Forest City Brewing,micro,180 Johnson St,,,Middletown,Connecticut,06457-2247,United States,8607882138,,-72.657339,41.571815
+338ef688-5a3f-4bcc-bfd6-02e17f7eea19,Forest City Brewing,micro,180 Johnson St,,,Middletown,Connecticut,06457-2247,United States,8607882138,https://www.forestcitybrewing.com,-72.657339,41.571815
 1d8b4135-ba6b-496b-a5f1-b3898965ae83,Fox Farm Brewery,micro,62 Music Vale Rd,,,Salem,Connecticut,06420-3847,United States,8602870076,http://foxfarmbeer.com,-72.26788506,41.48370071
 e62ab6be-2248-43a2-b827-3fc5bcfb9b0b,Front Porch Brewing,micro,341 State St,,,North Haven,Connecticut,06473,United States,2036791096,http://frontporchbrewing.co,-72.883221,41.37024
 9a89836a-5d4d-46f4-b51c-4150cc63fc72,Great Falls Brewing Company,closed,,,,Canaan,Connecticut,06018,United States,8609217843,http://GreatFallsBrews.com,,
@@ -57,7 +57,7 @@ fb1c69b9-977d-4797-919c-e0358fb6bde4,Housatonic River Brewing,planning,,,,New Mi
 24a24d6f-2fcc-46a3-85c6-96f2ef234307,"HRG Management, LLC",planning,,,,Hartford,Connecticut,06109,United States,,,,
 fa970827-906e-4ebd-b68c-19c192778661,Iron Brewing Company,closed,136 Washington St,,,Norwalk,Connecticut,06854,United States,2033544010,http://www.ironbrewing.com,-73.41734954,41.09888787
 1b96abd4-d03f-4727-bc2b-686272e2b3ec,"Jovial Foods, Inc.",planning,,,,North Stonington,Connecticut,06359-1713,United States,8605350494,http://www.jovialfoods.com,,
-1440dc29-7dcd-446d-a9ac-c53f32b1baeb,Kent Falls Brewing Company,micro,,,,Kent,Connecticut,06757,United States,8603989645,,,
+1440dc29-7dcd-446d-a9ac-c53f32b1baeb,Kent Falls Brewing Company,micro,,,,Kent,Connecticut,06757,United States,8603989645,https://www.kentfallsbrewing.com,,
 41905729-681e-4b57-b0cc-13d053e296c6,Kinsmen Brewing,micro,409 Canal Street,,,Milldale,Connecticut,06467,United States,8605784778,http://www.kinsmenbrewing.com,-72.9027141,41.56679473
 1eb023fa-2183-4dbb-84a8-bfbc70a8abf2,Labyrinth Brewing Company,contract,,,,Manchester,Connecticut,06040,United States,,http://www.lbc.beer,41.7771052,-72.5648933
 0e175a90-d11f-4089-8170-0218afe784d8,Lasting Brass Craft Brewing,micro,1864 Watertown Ave,,,Oakville,Connecticut,06779-1754,United States,8604172581,http://www.lastingbrass.com,-73.0716733,41.5801589
@@ -84,7 +84,7 @@ fe1b7e7e-788f-492e-b69d-d7eb15497822,Overshores Brewing Co,closed,250 Bradley St
 7db7b882-21a1-47fa-a2a2-75449c83d328,Pie & Pints Restaurant & Brewery,contract,,,,Oxford,Connecticut,06478,United States,2035731743,http://www.piesandpints.biz,,
 6d5148c1-4534-45a3-ac5d-3464fce5f1bc,Powder Hollow Brewery,micro,504 Hazard Ave,,,Enfield,Connecticut,06082-,United States,8602050942,http://www.powderhollowbrewery.com,-72.5778709,41.9896523
 8985922b-bfe6-4f1e-9468-fa683e9e37ae,Progression Brewing Company,brewpub,300 W Main St,,,Avon,Connecticut,06001,United States,,https://progressionbrewing.com,-72.85653,41.814084
-c6e4a5e5-5b10-40ed-9621-11bf1e73fd1a,Relic Brewing,micro,95 Whiting St Unit B,,,Plainville,Connecticut,06062-2842,United States,,,-72.867702,41.666769
+c6e4a5e5-5b10-40ed-9621-11bf1e73fd1a,Relic Brewing,micro,95 Whiting St Unit B,,,Plainville,Connecticut,06062-2842,United States,,https://www.relicbeer.com,-72.867702,41.666769
 ec12a82b-0ef5-411e-8c74-a1111ddaa2ca,Reverie Brewing Company,planning,,,,Newtown,Connecticut,06470,United States,,http://reveriebrewing.com,,
 a4b896e5-db07-4193-a28b-1ece5ce84e58,Shebeen Brewing Company,closed,1 Wolcott Rd,,,Wolcott,Connecticut,06716-2611,United States,2035142336,http://www.shebeenbrewing.com,-73.000062,41.575855
 206a9656-3130-4923-85aa-f1e1a479b1f3,Sly Bandit Brewing Company,brewpub,4 Danbury Rd,,,Wilton,Connecticut,06897,United States,2032867969,https://slybanditbrewing.com,-73.418739,41.160987
