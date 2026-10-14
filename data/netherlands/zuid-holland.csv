@@ -1,10 +1,120 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-de6206d7-9bc0-4721-831d-5736fdcecff1,Brouwerij De Koperen Kat,micro,Schieweg 15,,,Delft,Zuid-Holland,2627 AN,Netherlands,+31 06 42123398,https://www.dekoperenkat.nl/,4.3674291,51.9949092
-97dc5659-a6ab-4765-9cf6-39494e821fd2,Brouwerij de Molen,micro,Overtocht 43,,,Bodegraven,Zuid-Holland,2411 BT,Netherlands,+31 0172 610 848,https://www.brouwcafedemolen.nl/,4.7420895,52.0857214
-3d1a38fc-e10d-43b4-a9c2-dd7d0a3c34f3,Brouwerij Klein Duimpje,micro,Hyacintenlaan 2A,,,Hillegom,Zuid-Holland,2182 DE,Netherlands,+31 0252 531 186,https://kleinduimpje.nl/,4.5698523,52.2790299
-bc3bb1d0-ee89-49ed-8778-dd00785a3040,Brouwerij Kwartje,micro,Zamenhofstraat 90,,,Den Haag,Zuid-Holland,2518 LB,Netherlands,,,4.2921562,52.0739457
-183fae97-2e00-435b-a7aa-b12aa5a55236,Brouwerij Noordt,micro,Zaagmolenkade 46,,,Rotterdam,Zuid-Holland,3035 KA,Netherlands,+31 010 223 0566,http://www.brouwerijnoordt.nl/,4.4866771,51.9332923
-7bad5892-dadf-4487-9b88-87fdfb562d6e,Het Brouwcafe,brewpub,Dr. Lelykade 28,,,Den Haag,Zuid-Holland,2583 CM,Netherlands,+31 070 354 0970,http://www.dehofnar.nl/,4.271861599999999,52.099884
-880e705b-d8bc-4463-be77-4686268b3961,Kaapse Brouwers,micro,Nico Koomanskade 1025,,,Rotterdam,Zuid-Holland,3072 LM,Netherlands,+31 06 18417773,https://www.kaapsebrouwers.nl/en/splash-kaap-en/,4.4867529,51.9020324
-6c5eac6b-beab-4de1-9e12-a8f714727b04,Kompaan Bier,micro,Saturnusstraat 55,,,Den Haag,Zuid-Holland,2516 AE,Netherlands,+31 06 43442048,https://kompaanbier.nl/bars/thuishaven-binckhorst/,4.3462556,52.0671662
-42b97569-abe6-49e1-8791-37682e0b9243,Stadsbrouwerij de Pelgrim,brewpub,Aelbrechtskolk 12,,,Rotterdam,Zuid-Holland,3024 RD,Netherlands,+31 010 477 1189,https://www.pelgrimbier.nl/,4.448939000000001,51.908737
+,'t Veense Brouwhuys,micro,Langeweg 16,,,Roelofarendsveen,Zuid-Holland,2371 EG,Netherlands,071-3314585,https://www.t-veen.nl/t-veense-brouwhuys/,,
+,2 Brothers Brewing,micro,Waddinxveen,,,Waddinxveen,Zuid-Holland,,Netherlands,,https://www.2brothersbrewing.nl/,,
+,Animal Army Brewery,micro,Riviervismarkt 1,,,'s-Gravenhage,Zuid-Holland,2513 AM,Netherlands,070-3651955,http://www.animalarmybrewery.nl,,
+,Baak Bier,contract,,,,Noordwijk,Zuid-Holland,,Netherlands,,,,
+,Bierbrouwerij De Arn,contract,,,,Rijswijk,Zuid-Holland,,Netherlands,,,,
+,Bijdehand Bierbrouwerij,contract,,,,Schiedam,Zuid-Holland,,Netherlands,,,,
+,Boskoops Biertje,contract,,,,Boskoop,Zuid-Holland,,Netherlands,,,,
+,Bospolder Brouwerij,contract,,,,Honselersdijk,Zuid-Holland,,Netherlands,,,,
+,Brielsch Brouwers Gilde,micro,Kaatsbaan 1,,,Brielle,Zuid-Holland,3231 XL,Netherlands,0181-416161,https://kontvanhetpaard.nl/,,
+,BrouwerIJssels,contract,,,,Gorinchem,Zuid-Holland,,Netherlands,,,,
+,Brouwerij 't Uitstel,micro,Alphen aan den Rijn,,,Alphen aan den Rijn,Zuid-Holland,,Netherlands,,,,
+,Brouwerij Bijster,contract,,,,'s-Gravenhage,Zuid-Holland,,Netherlands,,,,
+,Brouwerij CAVÉ,micro,Wijngaardenlaan 68,,,Voorschoten,Zuid-Holland,2252 XR,Netherlands,06-50736882,https://www.brouwerijcave.nl/,,
+,Brouwerij DP,contract,,,,Papendrecht,Zuid-Holland,,Netherlands,,,,
+,Brouwerij De 12 Stuyvers,micro,Voorweg 16A,,,Hazerswoude-Dorp,Zuid-Holland,2391 AC,Netherlands,,https://www.de12stuyvers.nl/,,
+,Brouwerij De Bolle Paep,micro,Oude Delft 57,,,Delft,Zuid-Holland,2611 BC,Netherlands,,,4.358494,52.0077984
+,Brouwerij De Heerlijkheid,micro,Kerkbuurt 56,,,Papendrecht,Zuid-Holland,3354 XK,Netherlands,06-12417137,http://www.brouwerijdeheerlijkheid.nl,,
+,Brouwerij De Kauw,contract,,,,Bleiswijk,Zuid-Holland,,Netherlands,,,,
+,Brouwerij De Ooievaart,contract,,,,'s-Gravenhage,Zuid-Holland,,Netherlands,,,,
+,Brouwerij De Prael Den Haag,micro,Esperantoplein 20,,,'s-Gravenhage,Zuid-Holland,2518 LE,Netherlands,070-5680833,http://www.depraeldenhaag.nl/,4.2926019,52.0752489
+,Brouwerij Er Was Eens...,micro,Dennevlam 1,,,Alphen aan den Rijn,Zuid-Holland,2403 HV,Netherlands,,https://brouwerij-erwaseens.nl/,,
+,Brouwerij Fusie,contract,,,,Leiderdorp,Zuid-Holland,,Netherlands,,,,
+,Brouwerij Goed Verhaal,contract,,,,Den Haag,Zuid-Holland,,Netherlands,,,,
+,Brouwerij Gors,contract,,,,Vierpolders,Zuid-Holland,,Netherlands,,,,
+,Brouwerij Groovy,micro,Parallelweg-Zuid 19,,,Nieuwerkerk aan den IJssel,Zuid-Holland,2914 LC,Netherlands,06-20044562,https://groovybieren.nl/,,
+,Brouwerij Het Oude Ambacht,contract,,,,Alphen aan den Rijn,Zuid-Holland,,Netherlands,,,,
+,Brouwerij Hopman,micro,James Wattstraat 15,,,Gouda,Zuid-Holland,2809 PA,Netherlands,,https://brouwerijhopman.nl/,,
+,Brouwerij IJssel,micro,Van Utrechtweg 126,,,Krimpen aan den IJssel,Zuid-Holland,2921 LN,Netherlands,06-51478911,https://www.brouwerij-ijssel.nl/,,
+,Brouwerij Jovius,contract,,,,Gorinchem,Zuid-Holland,,Netherlands,,,,
+3d1a38fc-e10d-43b4-a9c2-dd7d0a3c34f3,Brouwerij Klein Duimpje,micro,Hyacintenlaan 2A,,,Hillegom,Zuid-Holland,2182 DE,Netherlands,0252-531186,http://www.kleinduimpje.nl,,
+,Brouwerij Leidse Goud,contract,,,,Leiden,Zuid-Holland,,Netherlands,,,,
+183fae97-2e00-435b-a7aa-b12aa5a55236,Brouwerij Noordt,micro,Zaagmolenkade 46,,,Rotterdam,Zuid-Holland,3035 KA,Netherlands,010-2230566,http://www.brouwerijnoordt.nl,4.4866067,51.9332511
+,Brouwerij Oudeland,micro,Trompetstraat 74,,,Zwijndrecht,Zuid-Holland,3335 DH,Netherlands,085-0609787,http://brouwerijoudeland.nl/,,
+,Brouwerij Ouwetoeter,contract,,,,Oudenhoorn,Zuid-Holland,,Netherlands,,,,
+,Brouwerij PRST,contract,,,,Bergambacht,Zuid-Holland,,Netherlands,,,,
+,Brouwerij Pronck,micro,Langegracht 70D,,,Leiden,Zuid-Holland,2312 NV,Netherlands,06-22443814,https://brouwerijpronck.nl/,,
+,Brouwerij Reeuwijk,micro,Edisonstraat 39a,,,Reeuwijk,Zuid-Holland,2811 EM,Netherlands,06-27856001,http://brouwerijreeuwijk.com/,,
+,Brouwerij Riethoff,contract,,,,Waddinxveen,Zuid-Holland,,Netherlands,,,,
+,Brouwerij Salud,contract,,,,Sommelsdijk,Zuid-Holland,,Netherlands,,,,
+,Brouwerij Scheveningen,contract,,,,'s-Gravenhage,Zuid-Holland,,Netherlands,,,,
+,Brouwerij Smeerpijp,micro,Weg en Bos 14,,,Bergschenhoek,Zuid-Holland,2661 DH,Netherlands,,http://smeerpijpbier.nl/,,
+,Brouwerij Solaes,micro,Smalle Einde 4,,,Ouddorp,Zuid-Holland,3253 XH,Netherlands,06-49120474,http://www.solaes.nl,,
+,Brouwerij Tureluur,contract,,,,Rotterdam,Zuid-Holland,,Netherlands,,,,
+,Brouwerij Vogelvrij,micro,,,,Spijkenisse,Zuid-Holland,,Netherlands,,https://brouwerijvogelvrij.nl/,,
+,Brouwerij Volle Maan,contract,,,,Gorinchem,Zuid-Holland,,Netherlands,,,,
+,Brouwerij Vuurtje,contract,,,,Alphen aan den Rijn,Zuid-Holland,,Netherlands,,,,
+,Brouwerij de Duijnen,micro,Heerenweg 6 E 20,,,Katwijk,Zuid-Holland,2222 AM,Netherlands,,http://www.brouwerijdeduijnen.nl/,,
+,Brouwerij de Herenweg,contract,,,,Noordwijkerhout,Zuid-Holland,,Netherlands,,,,
+,Brouwerij de Lange Lijs,contract,,,,Zoetermeer,Zuid-Holland,,Netherlands,,,,
+,Brouwerij de Pinas,micro,Pinaskade 70,,,Zoetermeer,Zuid-Holland,2725 ER,Netherlands,,http://www.brouwerijdepinas.nl/,,
+,Brouwerij de Poel,contract,,,,Langeraar,Zuid-Holland,,Netherlands,,,,
+,Brouwerij de SJAAK,closed,,,,Ottoland,Zuid-Holland,,Netherlands,,,,
+,Brouwerij tHuis,micro,Harnaschdreef 7,,,Den Hoorn,Zuid-Holland,2635 BT,Netherlands,015-7850049,https://raadhuisschipluiden.nl/,4.3218265,51.997385
+,Bunnik's BierBrouwerij,micro,Nieuwe Gouwe W.Z. 4,,,Gouda,Zuid-Holland,2802 AN,Netherlands,0182-512324,http://www.bunnikbier.nl/,,
+,Castorix Speciaalbierbrouwerij,contract,,,,Zoetermeer,Zuid-Holland,,Netherlands,,,,
+,Cockroach Brew,contract,,,,Rotterdam,Zuid-Holland,,Netherlands,,,,
+,Craft Bierbrouwerij Tromp,micro,Voorstraat 47,,,Brielle,Zuid-Holland,3231 BE,Netherlands,06-22247606‬,https://bierbrouwerijtromp.nl/,,
+,Crooked Spider,micro,Rijksstraatweg 60,,,Wassenaar,Zuid-Holland,2241 BW,Netherlands,06-14635872,http://www.crookedspider.nl,,
+,D'Ambagter,contract,,,,Hendrik-Ido-Ambacht,Zuid-Holland,,Netherlands,,,,
+,De Bebaarde Brouwer,contract,,,,Rotterdam,Zuid-Holland,,Netherlands,,,,
+,De Blijdorper,contract,,,,Rotterdam,Zuid-Holland,,Netherlands,,,,
+,De Drie Eendekens,contract,,,,Schoonhoven,Zuid-Holland,,Netherlands,,,,
+,De Gele Kanarie,micro,Goudsesingel 284,,,Rotterdam,Zuid-Holland,3011 KH,Netherlands,,https://www.degelekanarie.com/,4.4894468,51.9241817
+,De Hoevebrugsche Bierbrouwerij,micro,Walenburgerweg 62B,,,Rotterdam,Zuid-Holland,3033 AE,Netherlands,,https://www.hoevebrugsch.nl/,,
+,De Kinderdijkse Kater,micro,Planetenlaan 77 d,,,Nieuw-Lekkerland,Zuid-Holland,2957 SM,Netherlands,,,,
+,De Nieuwe Brouwerij,contract,,,,Gouda,Zuid-Holland,,Netherlands,,,,
+,De Scheveningse Brouwer,contract,,,,'s-Gravenhage,Zuid-Holland,,Netherlands,,,,
+,De Zoetermeerse Brouwerij,micro,,,,Zoetermeer,Zuid-Holland,2723 RS,Netherlands,,http://www.lvrbreweries.nl,,
+,Delftse Brouwers,micro,Hippolytusbuurt 43,,,Delft,Zuid-Holland,2611 HM,Netherlands,,https://www.delftsebrouwers.nl/,4.3567164,52.0123485
+,Dorpsbrouwerij Uzzewuzze,micro,Veenderveld 90,,,Roelofarendsveen,Zuid-Holland,2371 TX,Netherlands,,https://uzzewuzze.nl/,,
+,EXLA,contract,,,,Zoetermeer,Zuid-Holland,,Netherlands,,,,
+,Eiber Bier,micro,Televisiestraat 2 F,,,'s-Gravenhage,Zuid-Holland,2525 KD,Netherlands,06-43992522,http://www.eiberbier.nl,,
+,Eurobrouwers,micro,Buitenhavenweg 142,,,Schiedam,Zuid-Holland,3113 BE,Netherlands,,https://www.eurobrouwers.nl/,,
+,Freddy*s Microbrouwerij,micro,Stationsweg 41,,,Leiden,Zuid-Holland,2312 AT,Netherlands,,,4.4838613,52.1655538
+,Galaxy Craft,contract,,,,Rotterdam,Zuid-Holland,,Netherlands,,,,
+,Gantelwasser,contract,,,,Papendrecht,Zuid-Holland,,Netherlands,,,,
+,Geusz!,contract,,,,Zoetermeer,Zuid-Holland,,Netherlands,,,,
+,Greyhound Beer Factory,contract,,,,Heerjansdam,Zuid-Holland,,Netherlands,,,,
+,Heineken Nederland,large,Burgemeester Smeetsweg 1,,,Zoeterwoude,Zuid-Holland,2382 PH,Netherlands,0800-0227789,http://www.heineken.nl,,
+,Hofbrouwerij Reijngoud,micro,Vijverhofstraat 10,,,Rotterdam,Zuid-Holland,3032 SN,Netherlands,010-5036327,http://brewpubreijngoud.nl/,4.4780668,51.9285092
+,Jelster,micro,François Nivardstraat 19,,,Rotterdam,Zuid-Holland,3065 PE,Netherlands,,https://jelster.nl/,,
+,Jogero,contract,,,,Roelofarendsveen,Zuid-Holland,,Netherlands,,,,
+,Julianabrouwerij,micro,Julianastraat 5,,,Warmond,Zuid-Holland,2361 SV,Netherlands,,http://www.julianabrouwerij.nl/,,
+,Juniperi,contract,,,,Schiedam,Zuid-Holland,,Netherlands,,,,
+880e705b-d8bc-4463-be77-4686268b3961,Kaapse Brouwers,micro,Keilestraat 9 C,,,Rotterdam,Zuid-Holland,3029 BP,Netherlands,010-2180853,http://www.kaapsebrouwers.nl,4.4313251,51.9073654
+,Klere Boght,micro,Pijperhof 6,,,Alphen aan den Rijn,Zuid-Holland,2402 TX,Netherlands,,http://klereboght.nl/,,
+,Kloosterbrouwerij Haagsche Broeder,micro,Oude Molstraat 35,,,'s-Gravenhage,Zuid-Holland,2513 BA,Netherlands,070-3654385,http://www.haagschebroeder.nl,4.3069895,52.0794226
+,Kompaan Dutch Craft Beer Company,micro,Saturnusstraat 55,,,'s-Gravenhage,Zuid-Holland,2516 AE,Netherlands,070-7622494,http://www.kompaanbier.nl,4.3462732,52.0670417
+,Lazy Beer Men,contract,,,,Katwijk,Zuid-Holland,,Netherlands,,,,
+,Leidsche Bierbrouwerij,micro,Flevoweg 6b,,,Leiden,Zuid-Holland,2318 BZ,Netherlands,,http://www.leidschbier.nl,,
+,Loosduinen Abdijbier,contract,,,,'s-Gravenhage,Zuid-Holland,,Netherlands,,,,
+,PopHop,contract,,,,Capelle aan den IJssel,Zuid-Holland,,Netherlands,,,,
+,ROTT. Brewing Company,micro,Veldkersweg 27 Unit 015,,,Rotterdam,Zuid-Holland,3053 JR,Netherlands,06-51722113,http://www.rottbrouwers.nl,,
+,Raven Bone Hill,contract,,,,Maassluis,Zuid-Holland,,Netherlands,,,,
+,Rolo1977,contract,,,,Hellevoetsluis,Zuid-Holland,,Netherlands,,,,
+,Rude Original,contract,,,,Westmaas,Zuid-Holland,,Netherlands,,,,
+,Scyedam,contract,,,,Schiedam,Zuid-Holland,,Netherlands,,,,
+,Skaep Brewery,micro,Boulevard Zeezijde 21,,,Katwijk,Zuid-Holland,2225 BB,Netherlands,071-4012810 (Zomers Beachclub),http://www.skaepbrewery.nl/,4.3908081,52.2042648
+,Stad 1806,contract,,,,Voorburg,Zuid-Holland,,Netherlands,,,,
+,Stadsbrouwerij Argentum,micro,Achterwetering 22a,,,Schoonhoven,Zuid-Holland,2871 RK,Netherlands,06-30528627,https://stadsbrouwerijargentum.com/,,
+,Stadsbrouwerij De 3 Snoeken,contract,,,,Gorinchem,Zuid-Holland,,Netherlands,,,,
+de6206d7-9bc0-4721-831d-5736fdcecff1,Stadsbrouwerij De Koperen Kat,micro,Schieweg 15M,,,Delft,Zuid-Holland,2627 AN,Netherlands,06-42123398,http://www.dekoperenkat.nl,4.3674282,51.9949489
+42b97569-abe6-49e1-8791-37682e0b9243,Stadsbrouwerij De Pelgrim,micro,Aelbrechtskolk 12,,,Rotterdam,Zuid-Holland,3024 RE,Netherlands,010-4771189,http://www.pelgrimbier.nl,4.4488786,51.9087633
+,Stadsbrouwerij Dordrecht,micro,Buddingh'plein 20,,,Dordrecht,Zuid-Holland,3311 BV,Netherlands,078-7507227,http://www.stadsbrouwerijdordrecht.nl,4.6647082,51.8152692
+,Stadsbrouwerij Dukes,micro,Dr. H.B. Wiardi Beckmanplein 60,,,Gorinchem,Zuid-Holland,4207 NC,Netherlands,0183-750297,http://www.stadsbrouwerijdukes.nu,,
+,Stadsbrouwhuis Leiden,micro,Aalmarkt 1-3F,,,Leiden,Zuid-Holland,2311 EC,Netherlands,071-5327646,http://www.stadsbrouwhuis.nl,,
+,Stadshaven Brouwerij Rotterdam,micro,Galileïstraat 24,,,Rotterdam,Zuid-Holland,3029 AM,Netherlands,010-3076838,https://stadshavenbrouwerij.nl/,,
+,Stout 'n Beer,micro,Jan Dorrekenskade-Oost 94,,,Waddinxveen,Zuid-Holland,2741 HX,Netherlands,,https://www.stoutnbeer.nl/,,
+,TarweToverdrank,micro,,,,Bergschenhoek,Zuid-Holland,,Netherlands,,https://www.tarwetoverdrank.nl/,,
+,Trots Bier Rotterdam,contract,,,,Rotterdam,Zuid-Holland,,Netherlands,,,,
+,Vaanbrouwers,micro,Essendijk 24,,,Rhoon,Zuid-Holland,3161 EE,Netherlands,06-13002686,http://www.vaanbrouwers.nl,4.4379067,51.8503442
+,Vessel 11,contract,,,,Rotterdam,Zuid-Holland,,Netherlands,,,,
+,Vet & Lazy Brouwerij,micro,Maasboulevard 100,,,Rotterdam,Zuid-Holland,3063 NS,Netherlands,,http://www.lazy.vet,4.5007164,51.9196447
+,Vlaardingse Bierbrouwerij,micro,Oosthavenkade 90,,,Vlaardingen,Zuid-Holland,3134 KA,Netherlands,06-43028355,http://www.vlaardingsebierbrouwerij.nl,4.3486596,51.9013322
+,Voornsche Brouwerij,contract,,,,Rockanje,Zuid-Holland,,Netherlands,,,,
+,Vuile Knaap,closed,Pastoriedijk 231,,,Pernis Rotterdam,Zuid-Holland,3195 HC,Netherlands,06-45825403,http://www.vuileknaap.com/,,
+,Westlandse Bierbrouwerij ZWOL,contract,,,,'s-Gravenzande,Zuid-Holland,,Netherlands,,,,
+,White Dog Brewery,contract,,,,Dordrecht,Zuid-Holland,,Netherlands,,,,
+,X-brewing,micro,Blekerstraat 26,,,Katwijk,Zuid-Holland,2222 AN,Netherlands,,http://www.x-brewing.com/,,

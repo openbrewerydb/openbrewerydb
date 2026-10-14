@@ -1,3 +1,20 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-b1b4c4b2-771a-472a-ae1b-faadb8cac5ef,Bax Bier,micro,"Friesestraatweg 201, 2a",,,Groningen,Groningen,9743 AC,Netherlands,+31 050 211 2040,http://baxbier.com/,6.5351487,53.2266548
-e3d9c33a-077b-426c-98ed-50e3e240135b,Folkingebrew,micro,Boterdiep 75,,,Groningen,Groningen,9712 LL,Netherlands,+31 06 28801883,https://www.folkingebrew.nl/the-pub/,6.5636606,53.2249652
+,Baxbier,micro,Friesestraatweg 201 / 2a,,,Groningen,Groningen,9743 AC,Netherlands,050-2112040,https://www.baxbier.com/,,
+,Brak Bier,contract,,,,Noordwijk,Groningen,,Netherlands,,,,
+,Brouwerij Hoogkerk,contract,,,,Groningen,Groningen,,Netherlands,,,,
+,Brouwerij Martinus,micro,Kostersgang 32-34,,,Groningen,Groningen,9711 CX,Netherlands,050-3116310,http://www.brouwerijmartinus.nl,6.5728553,53.2159523
+,Brouwerij Westerwolde,micro,Burgemeester Buiskoolweg 35,,,Vlagtwedde,Groningen,9541 XM,Netherlands,06-10228549,http://www.brouwerij-westerwolde.nl/,,
+,Brouwerij Zwarte Wolf,micro,Pompsterweg 13,,,Middelstum,Groningen,9991 TJ,Netherlands,,https://brouwerijzwartewolf.nl/,,
+,Brouwhotel Parkzicht,micro,Museumplein 3,,,Veendam,Groningen,9641 AD,Netherlands,0598-666888,http://www.parkzicht.com/,,
+,De Noordelijke Mederij,micro,Hoofdstraat 158a,,,Grootegast,Groningen,9861 AM,Netherlands,,https://www.northernmead.nl/,,
+,Dokjard brouw/bistro,brewpub,Noorderhaven 63,,,Groningen,Groningen,9712 VJ,Netherlands,050-3642420,https://www.dokjard.nl,6.5570918,53.2198466
+,Eggens Craft Beer,contract,,,,Groningen,Groningen,,Netherlands,,,,
+e3d9c33a-077b-426c-98ed-50e3e240135b,Folkingebrew,micro,Boterdiep 75,,,Groningen,Groningen,9712 LL,Netherlands,,https://www.folkingebrew.nl/,6.56357,53.2248979
+,Graansilobier,contract,,,,Groningen,Groningen,,Netherlands,,,,
+,Groningse Bierbrouwerij,contract,,,,Groningen,Groningen,,Netherlands,,,,
+,Jotner Bier,micro,Emmastraat 15-G303,,,Groningen,Groningen,9722 EW,Netherlands,06-41614548,http://www.jotner.nl,,
+,L'hopster Dorpsbrouwerij,micro,Lagestraat 2,,,Loppersum,Groningen,9919 AR,Netherlands,,https://loppesheim.nl/,,
+,Lumi Craft Beer,contract,,,,Groningen,Groningen,,Netherlands,,,,
+,Plattelandsbrouwerij Het Zotte Kalf,micro,Trekweg naar Onderdendam 46,,,Winsum,Groningen,9951 SE,Netherlands,06-57316193,http://www.hetzottekalf.nl,6.5599951,53.3343746
+,Symbiose Brewing / Blending,contract,,,,Warfhuizen,Groningen,,Netherlands,,,,
+,Vrolijcke Joncker,contract,,,,Zevenhuizen,Groningen,,Netherlands,,,,
