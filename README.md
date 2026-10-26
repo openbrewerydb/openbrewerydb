@@ -14,9 +14,19 @@ Provide an approval-based pipeline to update the dataset and API.
 
 ## 🗄 Data Formats
 
+### Breweries
+
 - [CSV - Full Dataset](breweries.csv)
 - [JSON](breweries.json)
 - [PostgreSQL SQL](breweries.sql)
+
+### Brewers Guilds
+
+- [CSV - Full Dataset](guilds.csv)
+- [JSON](guilds.json)
+- [PostgreSQL SQL](guilds.sql)
+
+Guild source files are organized by country at `datasets/[country]/guilds.csv`.
 
 ## 🚀 Getting Started
 
@@ -31,8 +41,9 @@ The following npm scripts help maintain and manage the dataset:
 
 - `npm run validate`
 
-  - Validates all CSV files against the JSON Schema
+  - Validates all brewery and guild CSV files against their schemas
   - Checks for required fields and data format consistency
+  - Ensures committed guild CSV, JSON, and SQL artifacts are current
   - Reports any validation errors that need attention
 
 - `npm run csv:combine`
@@ -44,6 +55,13 @@ The following npm scripts help maintain and manage the dataset:
   - Splits the main `breweries.csv` into separate files by country/state-region
   - Helps maintain organized, manageable data files for each region
   - Creates directories if they don't exist
+
+- `npm run guilds:combine`
+  - Validates and combines country guild sources into `guilds.csv`
+  - Sorts records by their canonical identity components
+
+- `npm run guilds:generate-ids`
+  - Generates deterministic UUIDs in each country guild source
 
 ### Data Generation
 
@@ -64,6 +82,12 @@ The following npm scripts help maintain and manage the dataset:
   - Creates PostgreSQL SQL file from `breweries.csv`
   - Includes table creation and data insertion statements
   - Perfect for database implementations
+
+- `npm run generate:guilds-json`
+  - Converts `guilds.csv` into `guilds.json`
+
+- `npm run generate:guilds-sql`
+  - Creates a dated PostgreSQL guild snapshot in `guilds.sql`
 
 - `npm run generate:stats`
 
@@ -106,6 +130,10 @@ The following npm scripts help maintain and manage the dataset:
     6. Updates README.md with latest statistics
   - Run this after making any dataset updates
 
+- `npm run workflow:guilds`
+  - Generates deterministic guild IDs, then rebuilds and validates all committed guild artifacts
+  - Run this after changing a guild source file
+
 ## 🤝 Contributing
 
 For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md) and our [code of conduct](CODE_OF_CONDUCT.md).
@@ -122,6 +150,8 @@ First and foremost, don't worry about messing up! 🙂 Thank you so much for con
 - Required fields/columns: `name`, `brewery_type`, `city`, `state_province`, and `country`
 - When adding a brewery, do not include an `id`. This will be created after review.
 - Please either add to `breweries.csv` (preferred if adding breweries for a new country) or the individual state/province CSV file. Adding to both at the same time may introduce duplicates/errors.
+
+Guild contributions belong in `datasets/[country]/guilds.csv`, not in the generated root files. See the [contributing guide](CONTRIBUTING.md#brewers-guilds) for the guild schema and identity conventions.
 
 ## 👾 Community
 
