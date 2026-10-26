@@ -47,12 +47,6 @@ The following npm scripts help maintain and manage the dataset:
 
 ### Data Generation
 
-- `npm run generate:ids`
-
-  - Creates unique OBDB IDs for each brewery based on name and city
-  - Automatically updates `breweries.csv` with new IDs
-  - Ensures no duplicate IDs exist in the dataset
-
 - `npm run generate:json`
 
   - Converts `breweries.csv` into a JSON format (`breweries.json`)
@@ -94,16 +88,17 @@ The following npm scripts help maintain and manage the dataset:
   - Updates the Contributors section in `README.md`
   - Generates contributor table with avatars and contribution types
 
+The contributor scripts fetch a pinned `all-contributors-cli` version on demand via `npx` — no install needed.
+
 ### Workflow
 
 - `npm run workflow:maintain`
   - Comprehensive maintenance workflow that:
     1. Validates all CSV files
     2. Combines all CSV files
-    3. Creates unique IDs for each brewery
-    4. Splits back into individual state files
-    5. Creates JSON and SQL files
-    6. Updates README.md with latest statistics
+    3. Splits back into individual state files
+    4. Creates JSON and SQL files
+    5. Updates README.md with latest statistics
   - Run this after making any dataset updates
 
 ## 🤝 Contributing

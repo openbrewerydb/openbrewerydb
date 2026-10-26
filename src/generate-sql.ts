@@ -1,9 +1,7 @@
 import { writeFileSync, readFileSync } from "fs";
-import { format } from "date-fns";
 import { join } from "path";
 import Papa from "papaparse";
 import pgpromise from "pg-promise";
-import Mustache from "mustache";
 import { papaParseOptions, headers } from "./config.ts";
 import { Brewery } from "./types.ts";
 
@@ -17,7 +15,7 @@ const tableCreateTemplatePath = join(
 const csvPath = join(import.meta.dirname, "../breweries.csv");
 const sqlPath = join(import.meta.dirname, "../breweries.sql");
 
-const dateString = format(new Date(), "yyyyMMdd");
+const dateString = new Date().toLocaleDateString("en-CA").replaceAll("-", "");
 const cs = new pgp.helpers.ColumnSet(headers, {
   table: {
     table: `breweries_${dateString}`,
@@ -27,9 +25,10 @@ const cs = new pgp.helpers.ColumnSet(headers, {
 const tableCreateSql = readFileSync(tableCreateTemplatePath, {
   encoding: "utf-8",
 });
-const tableCreateSqlTemplate = Mustache.render(tableCreateSql, {
-  date: dateString,
-});
+const tableCreateSqlTemplate = tableCreateSql.replaceAll(
+  "{{date}}",
+  dateString
+);
 
 try {
   const data = readFileSync(csvPath, { encoding: "utf-8" });

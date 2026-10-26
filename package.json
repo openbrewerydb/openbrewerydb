@@ -14,9 +14,9 @@
     "url": "git+https://github.com/openbrewerydb/openbrewerydb.git"
   },
   "scripts": {
-    "contributors:add": "all-contributors add",
-    "contributors:check": "all-contributors check",
-    "contributors:generate": "all-contributors generate",
+    "contributors:add": "npx -y all-contributors-cli@6.26.1 add",
+    "contributors:check": "npx -y all-contributors-cli@6.26.1 check",
+    "contributors:generate": "npx -y all-contributors-cli@6.26.1 generate",
     "csv:combine": "node --experimental-strip-types ./src/combine-csv.ts",
     "csv:split": "node --experimental-strip-types ./src/split-csv.ts",
     "generate:json": "node --experimental-strip-types ./src/generate-json.ts",
@@ -24,31 +24,15 @@
     "generate:stats": "node --experimental-strip-types ./src/generate-stats.ts",
     "update:readme-stats": "node --experimental-strip-types ./src/update-readme-stats.ts",
     "validate": "node --experimental-strip-types --unhandled-rejections=strict ./src/validate-csv.ts",
-    "workflow:maintain": "run-s validate csv:combine csv:split generate:json generate:sql update:readme-stats"
+    "workflow:maintain": "npm run validate && npm run csv:combine && npm run csv:split && npm run generate:json && npm run generate:sql && npm run update:readme-stats"
   },
   "engines": {
     "node": ">=26"
   },
   "devDependencies": {
-    "@humanfs/node": "^0.17.0",
-    "@types/glob": "^9.0.0",
-    "@types/mustache": "^4.2.6",
-    "@types/papaparse": "^5.5.2",
-    "@types/uuid": "^11.0.0",
-    "all-contributors-cli": "^6.26.1",
-    "ansi-regex": ">=6.2.2",
-    "brace-expansion": "^5.0.12",
-    "date-fns": "^4.1.0",
-    "eslint": "^10.0.2",
-    "glob": "^13.0.6",
-    "mustache": "^4.2.0",
-    "npm-run-all": "^4.1.5",
     "papaparse": "^5.5.3",
     "pg-promise": "^12.6.1",
     "slugify": "^1.6.6",
-    "tmp": "^0.2.7",
-    "typescript": "^5.9.3",
-    "uuid": "^14.0.0",
     "zod": "^4.3.6"
   }
 }

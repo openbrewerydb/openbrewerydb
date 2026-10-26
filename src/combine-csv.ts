@@ -1,8 +1,7 @@
-import { writeFileSync, readFileSync } from "fs";
+import { writeFileSync, readFileSync, globSync } from "fs";
 import { join } from "path";
-import { glob } from "glob";
+import { randomUUID } from "crypto";
 import Papa from "papaparse";
-import { v4 as uuidv4 } from "uuid";
 import { papaParseOptions, headers } from "./config.ts";
 import { Brewery } from "./types.ts";
 import { ZodError } from "zod";
@@ -10,55 +9,52 @@ import { ZodError } from "zod";
 const fileGlob = join(import.meta.dirname, "../data/**/*.csv");
 const fullFilePath = join(import.meta.dirname, "../breweries.csv");
 
-glob(fileGlob).then((files) => {
-  const breweries: Brewery[] = [];
+const files = globSync(fileGlob).sort();
+const breweries: Brewery[] = [];
 
-  files.forEach((file) => {
-    const data = readFileSync(file, { encoding: "utf-8" });
-    const result = Papa.parse<Brewery>(data, papaParseOptions);
-    console.log(
-      `+ ${result.data.length} breweries from ` +
-        `${result.data[0].state_province}, ` +
-        `${result.data[0].country}`
-    );
+files.forEach((file) => {
+  const data = readFileSync(file, { encoding: "utf-8" });
+  const result = Papa.parse<Brewery>(data, papaParseOptions);
+  console.log(
+    `+ ${result.data.length} breweries from ` +
+      `${result.data[0].state_province}, ` +
+      `${result.data[0].country}`
+  );
 
-    // Full dataset
-    const dataFull = result.data;
+  // Full dataset
+  const dataFull = result.data;
 
-    // Validate
-    console.log(" Validating breweries...");
-    dataFull.map((b) => {
-      try {
-        Brewery.parse(b);
-      } catch (e: unknown) {
-        for (let error of (e as ZodError).issues) {
-          if (error.code === "invalid_type" && error.path[0] === "id") {
-            b.id = uuidv4();
-          } else {
-            throw e;
-          }
+  // Validate
+  console.log(" Validating breweries...");
+  dataFull.map((b) => {
+    try {
+      Brewery.parse(b);
+    } catch (e: unknown) {
+      for (let error of (e as ZodError).issues) {
+        if (error.code === "invalid_type" && error.path[0] === "id") {
+          b.id = randomUUID();
+        } else {
+          throw e;
         }
       }
-    });
-
-    breweries.push(...dataFull);
+    }
   });
 
-  if (breweries.length) {
-    // Sort breweries by Name
-    breweries.sort((a, b) => a.name.localeCompare(b.name));
-
-    console.log(
-      `Writing full dataset to ${fullFilePath} (${breweries.length} breweries)`
-    );
-    writeFileSync(
-      fullFilePath,
-      Papa.unparse(breweries, {
-        columns: headers,
-        skipEmptyLines: true,
-      })
-    );
-  }
-}).catch((globError) => {
-  console.error(globError);
+  breweries.push(...dataFull);
 });
+
+if (breweries.length) {
+  // Sort breweries by Name
+  breweries.sort((a, b) => a.name.localeCompare(b.name));
+
+  console.log(
+    `Writing full dataset to ${fullFilePath} (${breweries.length} breweries)`
+  );
+  writeFileSync(
+    fullFilePath,
+    Papa.unparse(breweries, {
+      columns: headers,
+      skipEmptyLines: true,
+    })
+  );
+}
