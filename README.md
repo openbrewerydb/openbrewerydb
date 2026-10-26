@@ -102,19 +102,37 @@ The contributor scripts fetch a pinned `all-contributors-cli` version on demand 
   - Run this after making any dataset updates
 
 ```mermaid
-flowchart LR
-    data[("data/**/*.csv")]
-    csv[("breweries.csv")]
-    json[("breweries.json")]
-    sql[("breweries.sql")]
-    readme["README.md stats"]
+flowchart TB
+    contributor([Contributor edits a region file])
 
-    data -->|"validate"| data
-    data -->|"csv:combine<br/>(+ UUIDs for new rows)"| csv
-    csv -->|"csv:split"| data
-    csv -->|"generate:json"| json
-    csv -->|"generate:sql"| sql
-    csv -->|"update:readme-stats"| readme
+    subgraph source ["Source of truth"]
+        data[("data/&lt;country&gt;/&lt;region&gt;.csv")]
+    end
+
+    validate{"npm run validate<br/>schema check (also runs in CI)"}
+
+    subgraph build ["npm run workflow:maintain"]
+        direction TB
+        combine["csv:combine<br/>merge + sort by name<br/>assign UUID to new rows"]
+        canonical[("breweries.csv")]
+        split["csv:split<br/>write normalized rows back"]
+        combine --> canonical --> split
+    end
+
+    subgraph derived ["Generated artifacts"]
+        direction LR
+        json[("breweries.json")]
+        sql[("breweries.sql")]
+        stats["README.md<br/>📊 Statistics"]
+    end
+
+    contributor --> data --> validate
+    validate -- fail --> contributor
+    validate -- pass --> combine
+    split --> data
+    canonical -- generate:json --> json
+    canonical -- generate:sql --> sql
+    canonical -- update:readme-stats --> stats
 ```
 
 ## 🤝 Contributing
