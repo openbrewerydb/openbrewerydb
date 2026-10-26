@@ -101,6 +101,22 @@ The contributor scripts fetch a pinned `all-contributors-cli` version on demand 
     5. Updates README.md with latest statistics
   - Run this after making any dataset updates
 
+```mermaid
+flowchart LR
+    data[("data/**/*.csv")]
+    csv[("breweries.csv")]
+    json[("breweries.json")]
+    sql[("breweries.sql")]
+    readme["README.md stats"]
+
+    data -->|"validate"| data
+    data -->|"csv:combine<br/>(+ UUIDs for new rows)"| csv
+    csv -->|"csv:split"| data
+    csv -->|"generate:json"| json
+    csv -->|"generate:sql"| sql
+    csv -->|"update:readme-stats"| readme
+```
+
 ## 🤝 Contributing
 
 For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md) and our [code of conduct](CODE_OF_CONDUCT.md).
