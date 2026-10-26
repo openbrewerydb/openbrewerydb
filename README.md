@@ -95,7 +95,7 @@ The contributor scripts fetch a pinned `all-contributors-cli` version on demand 
 - `npm run workflow:maintain`
   - Comprehensive maintenance workflow that:
     1. Validates all CSV files
-    2. Combines all CSV files
+    2. Combines all CSV files into `breweries.csv`, assigning a UUID to any new brewery missing an `id`
     3. Splits back into individual state files
     4. Creates JSON and SQL files
     5. Updates README.md with latest statistics
