@@ -1,40 +1,35 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 ,Amelander Bierbrouwerij,micro,Smitteweg 6,,,Ballum,Friesland,9162 EC,Netherlands,0519-554365,https://www.amelanderbier.nl/,5.7068431,53.4402676
 ,Bonifatius 754,micro,Diepswal 5,,,Dokkum,Friesland,9101 LA,Netherlands,06-13687839,http://www.bonifatius754.nl,,
-,Brouwerij 84,contract,,,,Wolvega,Friesland,,Netherlands,,,,
+,Brouwerij 84,contract,Heerenveenseweg 2,,,Wolvega,Friesland,8471 BE,Netherlands,,http://www.brouwerij84.nl,,
 ,Brouwerij Bjuster,micro,Raadhuisstraat 9,,,Grou,Friesland,9001 AG,Netherlands,0566-652345,http://www.brouwerijbjuster.nl/,5.8392033,53.0961965
-,Brouwerij Bûsdoek,contract,,,,Burgum,Friesland,,Netherlands,,,,
-,Brouwerij De Kroon Op Leeuwarden,contract,,,,Leeuwarden,Friesland,,Netherlands,,,,
+,Brouwerij Bûsdoek,contract,De Kastanje 34,,,Burgum,Friesland,9251 NT,Netherlands,,https://www.brouwerijbusdoek.frl/,,
+,Brouwerij De Kroon Op Leeuwarden,contract,Keallecamp 1,,,Leeuwarden,Friesland,8927 AS,Netherlands,06-15217525,http://www.dekroonopleeuwarden.nl,,
 ,Brouwerij Dogger,micro,Húns 36,,,Húns,Friesland,8832 KD,Netherlands,,http://www.doggerbier.nl/,,
 ,Brouwerij Koningshert,micro,Zuidkade 45,,,Drachten,Friesland,9203 CN,Netherlands,06-12449314,http://www.koningshert.nl,6.1041375,53.1068195
 ,Brouwerij Luehop,micro,Borgweg 6,,,Midsland,Friesland,8891 JD,Netherlands,06-45525608,https://www.luehop.nl/,,
-,Brouwerij Plantje,micro,,,,Marsum,Friesland,,Netherlands,,https://brouwerijplantje.nl/,,
-,Brouwerij de Wiere Wâldman,contract,,,,Burgum,Friesland,,Netherlands,,,,
 735149b8-75e4-48bd-8089-912aa18a1bf0,De Friese Bierbrouwerij,micro,Snekerstraat 43,,,Bolsward,Friesland,8701 XC,Netherlands,0515-577449,http://www.usheit.com,5.5342,53.0607852
 ,De Walster,micro,De Streek 40,,,Hurdegaryp,Friesland,9254 RL,Netherlands,,,,
-,Dit Bier,contract,,,,Hollum,Friesland,,Netherlands,,,,
+,Dit Bier,contract,Tussen Dijken 27,,,Hollum,Friesland,9161 BM,Netherlands,06-45742187,,,
 ,DÎJK Bier,micro,Balsem 16,,,Buitenpost,Friesland,9285 KD,Netherlands,06-54148796,,,
 ,Fortuna Vlieland,micro,Fortweg 10,,,Vlieland,Friesland,8899 CC,Netherlands,06-21572699,http://www.brouwerijvlieland.com/,5.0929034,53.2990258
 ,Grutte Pier Brouwerij,micro,Bartlehiem 23,,,Wyns,Friesland,9091 BH,Netherlands,06-81517844,http://www.gruttepier.nl,,
-,Gudzekop,contract,,,,Goingarijp,Friesland,,Netherlands,,,,
+,Gudzekop,contract,Blokhuisplein 40,,,Goingarijp,Friesland,8911 LJ,Netherlands,,http://www.gudzekop.nl/,,
 ,Het Brouwdok,micro,Nieuwe Willemskade 8,,,Harlingen,Friesland,8862 RZ,Netherlands,06-44169174,http://hetbrouwdok.nl/,5.4124913,53.1714512
-,JP Brouwt,contract,,,,Drachten,Friesland,,Netherlands,,,,
+,JP Brouwt,contract,Verdeniusstraat 27,,,Drachten,Friesland,9203 RB,Netherlands,,https://www.jpbrouwt.nl/,,
 ,James' Brewery,micro,Zuidkade 45,,,Drachten,Friesland,9203 CN,Netherlands,,https://jamesdrachten.nl/,6.1041375,53.1068195
-,Janneman,contract,,,,De Knipe,Friesland,,Netherlands,,,,
+,Janneman,contract,Ds Veenweg 37,,,De Knipe,Friesland,8456 HJ,Netherlands,,,,
 ,Jouster Bierbrouwerij,micro,Groenendalstraat 5,,,Joure,Friesland,8502 ET,Netherlands,06-53503390,https://www.jousterbrouwerij.nl,,
-,Marren Bier,contract,,,,Joure,Friesland,,Netherlands,,,,
 ,Middelsee Folsgeare,micro,Garastrjitte 9,,,Folsgare,Friesland,8773 KW,Netherlands,06-22183278,,,
-,Nordyk Brewing,micro,,,,Burgum,Friesland,,Netherlands,,https://nordyk.nl/,,
 ,Pigs & Bears Brewing Co.,micro,Zeeweegbree 15-1,,,Wolvega,Friesland,8472 DB,Netherlands,,,,
-,Rotbier,contract,,,,Rottevalle,Friesland,,Netherlands,,,,
+,Rotbier,contract,Buorren 33,,,Rottevalle,Friesland,9221 TB,Netherlands,,https://rotbier.frl/,,
 ,Sjoerd's Craft Beers,micro,Marten Koopalstrjitte 14,,,Engelum,Friesland,9038 TH,Netherlands,,,,
-,Skûtsjebier,contract,,,,Wijnjewoude,Friesland,,Netherlands,,,,
-,Sneker Pypke,contract,,,,Sneek,Friesland,,Netherlands,,,,
+,Sneker Pypke,contract,Zonnedauw 35,,,Sneek,Friesland,8607 DX,Netherlands,"06-57037002 (Astrid), 06-19258088 (Herman) of 06-24908485 (Wiebe)",https://snekerpypke.nl/,,
 ,Stadsbrouwerij Leeuwarden,micro,Zaailand 96,,,Leeuwarden,Friesland,8911 BN,Netherlands,06-41497156,http://www.zaailander.nl,,
-,Stadsbrouwerij Sneek,contract,,,,Sneek,Friesland,,Netherlands,,,,
-,Stichting Brouwersgilde Sleat,contract,,,,Sloten,Friesland,,Netherlands,,,,
+,Stadsbrouwerij Sneek,contract,Leeuwenburg 11,,,Sneek,Friesland,8601 CG,Netherlands,06-11889264,https://stadsbrouwerijsneek.nl/,5.6599364,53.0320071
+,Stichting Brouwersgilde Sleat,contract,Bolwerk Zuidzijde 77,,,Sloten,Friesland,8556 XS,Netherlands,06-52073647,,,
 ,Terschellinger Bierbrouwerij Schoemrakker,micro,Zeevaartschoolstraat 4,,,West-Terschelling,Friesland,8881 AN,Netherlands,,http://www.schoemrakkerbierterschelling.nl,5.2141101,53.3589008
-,Terschellinger Bieren,contract,,,,Baaiduinen,Friesland,,Netherlands,,,,
+,Terschellinger Bieren,contract,Baaiduinen 30,,,Baaiduinen,Friesland,8884 HJ,Netherlands,06-27182189,http://www.terschellinger-bieren.com,,
 ,Tsjerkebier,micro,Doarpsstrjitte 2,,,Easterwierrum,Friesland,9021 CL,Netherlands,06-39498645,http://www.tsjerkebier.frl/,,
 ,Warhero Brewery,micro,Jaarlastins 14,,,Leeuwarden,Friesland,8925 GL,Netherlands,,https://www.warherobrewery.nl/,,
 ,Wâldpykbrouwerij,micro,Hoofdstraat 104 A,,,Augustinusga,Friesland,9244 CR,Netherlands,,https://www.waldpykbrouwerij.nl/,,
