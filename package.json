@@ -23,6 +23,9 @@
     "generate:sql": "node --experimental-strip-types ./src/generate-sql.ts",
     "generate:stats": "node --experimental-strip-types ./src/generate-stats.ts",
     "update:readme-stats": "node --experimental-strip-types ./src/update-readme-stats.ts",
+    "release:build": "bash src/release.sh build",
+    "release:check": "bash src/release.sh check",
+    "release:tag": "bash src/release.sh tag",
     "validate": "node --experimental-strip-types --unhandled-rejections=strict ./src/validate-csv.ts",
     "workflow:maintain": "npm run validate && npm run csv:combine && npm run csv:split && npm run generate:json && npm run generate:sql && npm run update:readme-stats"
   },

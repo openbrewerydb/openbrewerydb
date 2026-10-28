@@ -18,6 +18,25 @@ Provide an approval-based pipeline to update the dataset and API.
 - [JSON](breweries.json)
 - [PostgreSQL SQL](breweries.sql)
 
+## 📦 Releases
+
+Versioned snapshots are published as [GitHub Releases](https://github.com/openbrewerydb/openbrewerydb/releases). The version is a [CalVer](https://calver.org/) tag: `vYYYY.MM.DD` is the UTC date the release was tagged, and a same-day re-release appends a counter (`vYYYY.MM.DD.1`).
+
+Each release contains:
+
+- `breweries.csv` / `breweries.json` / `breweries.sql` — the full dataset, one file per format
+- `openbrewerydb-vX.zip` — all three formats plus the license
+- `openbrewerydb-data-vX.zip` — the `data/` directory: one CSV per country/region, plus the license
+- `SHA256SUMS` — checksums of all of the above
+
+The newest files are always available at stable URLs like `https://github.com/openbrewerydb/openbrewerydb/releases/latest/download/breweries.csv`.
+
+To verify a download, put `SHA256SUMS` in the same directory as the files and run:
+
+```sh
+sha256sum -c SHA256SUMS
+```
+
 ## 🚀 Getting Started
 
 1. `git clone git@github.com:openbrewerydb/openbrewerydb.git`
@@ -166,9 +185,9 @@ Cheers! 🍻
 ## 📊 Project Status
 
 - **Status**: Active
-- **Last Dataset Update**: 2024
+- **Last Dataset Update**: see the Statistics section below
 - **Maintenance**: Actively maintained through community contributions
-- **Dataset Size**: 8,000+ breweries
+- **Dataset Size**: 12,000+ breweries
 - **Coverage**: United States, with growing international data
 
 ## 🔧 Requirements
@@ -186,7 +205,9 @@ Each brewery entry contains the following fields:
 | id             | String | Unique identifier                                | Yes      |
 | name           | String | Name of the brewery                              | Yes      |
 | brewery_type   | String | Type of brewery (micro, regional, brewpub, etc.) | Yes      |
-| street         | String | Street address                                   | No       |
+| address_1      | String | Street address                                   | No       |
+| address_2      | String | Additional address information                   | No       |
+| address_3      | String | Additional address information                   | No       |
 | city           | String | City                                             | Yes      |
 | state_province | String | State/Province                                   | Yes      |
 | postal_code    | String | Postal code                                      | Yes      |
@@ -232,14 +253,22 @@ WHERE brewery_type = 'brewpub'
 ORDER BY state_province, city;
 ```
 
-## 🔄 Versioning
+## 🚢 Publishing a release (maintainers)
 
-The dataset is updated regularly through community contributions. Each update goes through the following process:
+Versioning is CalVer over UTC (see [Releases](#-releases)). Releases are triggered manually:
 
-1. Community members submit new breweries or updates via pull requests
-2. Changes are reviewed and validated
-3. Upon approval, changes are merged and new dataset files are generated
-4. The API is updated (currently manual for reasons) with the new data
+1. Merge PRs. On the default branch, run `npm run workflow:maintain`, then commit and push.
+2. Optional preview:
+   - `npm run release:tag -- --dry-run` runs all checks and prints the tag that would be created.
+   - `npm run release:build -- HEAD` builds `dist/` and `release-notes.md` locally for inspection.
+3. Run `npm run release:tag`. It refuses if the tree is dirty, you are not on the default branch, HEAD is behind origin, or generated files are stale.
+4. Watch the Actions run, then check the Release page for the assets and notes.
+5. (Manual for now) Update the API.
+
+Notes:
+
+- Never move or re-tag a published release. If a release is wrong, publish a new one with a `.1` suffix.
+- Tags must be annotated (`git tag -a`), so do not create release tags from the web UI.
 
 ## Contributors ✨
 

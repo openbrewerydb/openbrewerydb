@@ -45,7 +45,7 @@ files.forEach((file) => {
 
 if (breweries.length) {
   // Sort breweries by Name
-  breweries.sort((a, b) => a.name.localeCompare(b.name));
+  breweries.sort((a, b) => a.name.localeCompare(b.name, "en"));
 
   console.log(
     `Writing full dataset to ${fullFilePath} (${breweries.length} breweries)`
