@@ -1,19 +1,138 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+,2Donkey Brewery,contract,De Trompet 1945,,,Heemskerk,Noord-Holland,1967 DB,Netherlands,06-22310380,https://padelblond.nl/,,
 1bfbea82-92f0-4a1e-84a4-22ac478419ec,Amstel Brewery,large,Funenkade 7,,,Amsterdam,Noord-Holland,1018 AL,Netherlands,+31 020 261 9801,https://www.brouwerijhetij.nl/proeflokalen/proeflokaal-de-molen,4.9264253,52.36669080000001
-2e8fe7d6-9f40-4ad8-aa13-bb4fd069af4d,Bird Brewery,micro,Diemerbospad 1a,,,Diemen,Noord-Holland,1111 PZ,Netherlands,+31 020 214 6555,http://birdbrewery.com/,4.990673,52.3325138
+,Amsterdamse Stoombierbrouwerij De Bekeerde Suster,micro,Kloveniersburgwal 6 - 8,,,Amsterdam,Noord-Holland,1012 CT,Netherlands,020-4230112,https://debekeerdesuster.nl/,4.8992627,52.3720321
+,Another Brewing Company,contract,Van Reigersbergenstraat 114,,,Amsterdam,Noord-Holland,1052 WR,Netherlands,,,,
+,Asperius Beer,micro,Bilderdijkstraat 188,,,Amsterdam,Noord-Holland,1053 LE,Netherlands,06-81465969,http://www.asperius.com,4.8723325,52.3666028
+,BE+ER,contract,Polderburg 20,,,Hoofddorp,Noord-Holland,2135 AV,Netherlands,06-15110131,https://www.be-er.nl/,,
+,Bennebroecks,contract,Bijweglaan 50,,,Bennebroek,Noord-Holland,2121 BJ,Netherlands,06-51479756 / 06-41410130 (ma-vr na 18:00 uur of in het weekend),http://www.bennebroecks.nl,,
+,Berging Brouwerij,micro,Jaagweg 6,,,Purmerend,Noord-Holland,1441 PA,Netherlands,06-29209585,https://www.bergingbrouwerij.nl/,,
+,Bierbrouwerij De Boei,micro,Rommelpot 11,,,Den Hoorn,Noord-Holland,1797 RN,Netherlands,0222-314180,http://www.landgoeddebontebelevenis.nl/Bierbrouwerij,,
+,Bierbrouwerij Gooi en Eemland,micro,Schapendrift 35,,,Blaricum,Noord-Holland,1261 HM,Netherlands,,https://degooischemoordenaar.nl,,
+,Bierfabriek Amsterdam,micro,Nes 67,,,Amsterdam,Noord-Holland,1012 KD,Netherlands,020-5289910,http://www.bierfabriek.com,4.8935454,52.3701184
+,Biertje Buur,contract,Kardinaalsmuts 18,,,Beverwijk,Noord-Holland,1944 KK,Netherlands,,https://www.biertjebuur.nl/,,
+2e8fe7d6-9f40-4ad8-aa13-bb4fd069af4d,Bird Brewery,contract,Diemerbospad 1a,,,Diemen,Noord-Holland,1111 PZ,Netherlands,06-15567204,https://birdbrewery.com/,4.990673,52.3325138
+,Bolletjes Brouwerij,contract,Stationsstraat 24,,,Warmenhuizen,Noord-Holland,1749 EH,Netherlands,0226-752323,https://bolletjescafedeklok.nl/bolletjesbier/,4.7338486,52.7224511
+,Breugem Bier,micro,Nieuwe Hemweg 2,,,Amsterdam,Noord-Holland,1013 BG,Netherlands,088-1308890,http://www.brouwerijbreugem.nl,,
 bb8680ef-fa79-4409-ab82-5d6a8f5e3e99,Breugem Brewery,micro,Lagedijk 69,,,Zaandijk,Noord-Holland,1544 BC,Netherlands,+31 075 204 7000,http://www.brouwerijhoop.nl/,4.8111073,52.4761056
-84824834-3233-4947-ad20-579b7141fc24,Brouwerij 't IJ,regional,Funenkade 7,,,Amsterdam,Noord-Holland,1018 AL,Netherlands,+31 020 261 9801,https://www.brouwerijhetij.nl/proeflokalen/proeflokaal-de-molen,4.9264253,52.36669080000001
-a9d218c4-b493-423b-939b-06882dc799e9,Brouwerij de Eeuwige Jeugd,micro,H.J.E. Wenckebachweg 48,,,Amsterdam,Noord-Holland,1096 AH,Netherlands,,http://www.deeeuwigejeugd.nl/,4.924842,52.337032
+,Brew Vita,contract,Amstelveen,,,Amstelveen,Noord-Holland,,Netherlands,,https://www.brew-vita.com/,,
+,Briljant Brouwhuis,contract,De Genestetstraat 19,,,Haarlem,Noord-Holland,2032 ZJ,Netherlands,06-42118612,,,
+,Brothers In Law Brewing,contract,Eerste Anjelierdwarsstraat 12A,,,Amsterdam,Noord-Holland,1015 NR,Netherlands,06-29967123,https://brothersinlawbrewing.nl/,,
+,Brouwerij 't Blauwe Hert,contract,Duikerstraat 38,,,Aalsmeer,Noord-Holland,1432 JW,Netherlands,,http://www.blauwehert.nl/,,
+84824834-3233-4947-ad20-579b7141fc24,Brouwerij 't IJ,micro,Funenkade 7,,,Amsterdam,Noord-Holland,1018 AL,Netherlands,020-2619800,http://www.brouwerijhetij.nl,4.9263471,52.3666977
+,Brouwerij 't IJ Zeeburgerpad,micro,Zeeburgerpad 55,,,Amsterdam,Noord-Holland,1019 AC,Netherlands,020-2619800,https://www.brouwerijhetij.nl/de-brouwerij-op-het-zeeburgerpad/,4.939851,52.3669237
+,Brouwerij 't Scheepje,contract,Houtmarkt 7,,,Haarlem,Noord-Holland,2011 AL,Netherlands,023-2341974,https://hetscheepje.nl/,,
+,Brouwerij 't Uurtje,micro,Penningweg 69b,,,Zaandam,Noord-Holland,1507 DE,Netherlands,06-53919774,https://www.infoconl.nl/tuurtje/brouwerij/,,
+,Brouwerij Astronaut,contract,Kitmanstraat 18 box 1017-1018,,,Alkmaar,Noord-Holland,1812 PM,Netherlands,06-28453765,https://brouwerijastronaut.nl/,,
+,Brouwerij Blauwdruk,micro,Veemarkt 75,,,Amsterdam,Noord-Holland,1019 DA,Netherlands,,https://brouwerijblauwdruk.nl/,,
+,Brouwerij Cattus,micro,Industrieweg 46 i,,,Grootebroek,Noord-Holland,1613 KV,Netherlands,06-53438059,https://cattus.beer/,,
+,Brouwerij Commandeur,micro,Bernhardstraat 33,,,Hoogkarspel,Noord-Holland,1616 BH,Netherlands,06-29354176,https://brouwerijcommandeur.nl/,,
+,Brouwerij Dampegheest,micro,Achterweg 22,,,Limmen,Noord-Holland,1906 AG,Netherlands,06-51940176 (Kees Koot),http://www.dampegheest.nl,,
+,Brouwerij De 7 Deugden,micro,Akersluis 8d,,,Amsterdam,Noord-Holland,1066 EZ,Netherlands,020-6673221,https://de7deugden.nl/,,
+,Brouwerij De BrouwVrouw,contract,Dijk 6,,,Enkhuizen,Noord-Holland,1601 GJ,Netherlands,0228-315767,http://debrouwvrouw.nl/,5.2935458,52.7010038
+a9d218c4-b493-423b-939b-06882dc799e9,Brouwerij De Eeuwige Jeugd,micro,H.J.E. Wenckebachweg 48,,,Amsterdam,Noord-Holland,1096 AN,Netherlands,06-14203868,http://www.brouwerijdeeeuwigejeugd.nl,4.9253277,52.3372503
+,Brouwerij De Lepelaer,micro,Grote Sloot 481,,,Oudesluis,Noord-Holland,1757 LR,Netherlands,06-10795964,https://lepelaer.nl/,,
 bd5a394e-fc8f-4e09-bfe8-1579b695fd99,Brouwerij De Prael,micro,Oudezijds Armsteeg 26,,,Amsterdam,Noord-Holland,1012 GP,Netherlands,+31 020 408 4469,http://www.depraelamsterdam.nl/,4.899391,52.3756081
-790a3147-e4b0-416f-a882-99223da6092a,Brouwerij Hoop,micro,Lagedijk 69,,,Zaandijk,Noord-Holland,1544 BC,Netherlands,+31 075 204 7000,http://www.brouwerijhoop.nl/,4.8111073,52.4761056
-cb86e414-8de8-4535-a88e-6e3ebe660f06,Bruut Bier,micro,Spaklerweg 1F,,,Amsterdam,Noord-Holland,1096 BA,Netherlands,+31 06 34239354,https://bruutbier.nl/,4.91919,52.3431793
-aa465ae0-9a9f-4207-b805-5ceb9487bb7c,Butcher's Tears,micro,Karperweg 45,,,Amsterdam,Noord-Holland,1075 LB,Netherlands,,http://butchers-tears.com/,4.8535124,52.3472257
+,Brouwerij De Snaterende Arend,contract,Amstel 51 L,,,Amsterdam,Noord-Holland,1018 EJ,Netherlands,06-53775717,,4.9021868,52.3648203
+,Brouwerij De Uil,contract,Ransuil 3,,,Ouderkerk aan de Amstel,Noord-Holland,1191 SR,Netherlands,,https://www.brouwerijdeuil.nl/,,
+,Brouwerij De Wieringermeer,contract,Hoornseweg 13,,,Middenmeer,Noord-Holland,1775 RB,Netherlands,,,,
+,Brouwerij Egmond (Sancti Adalberti),micro,Weg over de Bisschop 1b,,,Egmond aan den Hoef,Noord-Holland,1934 CS,Netherlands,072-3030404,http://www.sanctiadalberti.nl,,
+,Brouwerij Fris & Fruitig,contract,Landsmeer,,,Landsmeer,Noord-Holland,,Netherlands,06-51949992,https://brouwerijfrisenfruitig.nl/,,
+,Brouwerij Het Klooster,contract,Hartveldseweg 10,,,Diemen,Noord-Holland,1111 BE,Netherlands,06-82385954,https://www.brouwerijhetklooster.nl/,,
+,Brouwerij Het Paleisje,contract,Meerhuizenstraat 13,,,Amsterdam,Noord-Holland,1078 TE,Netherlands,06-44432793,https://brouwerijhetpaleisje.nl/,,
+,Brouwerij Homeland,micro,"Kattenburgerstraat 5, Gebouw 027 O",,,Amsterdam,Noord-Holland,1018 JA,Netherlands,020-7232555,https://brouwerijhomeland.nl/,,
+790a3147-e4b0-416f-a882-99223da6092a,Brouwerij Hoop,micro,Lagedijk 69,,,Zaandijk,Noord-Holland,1544 BC,Netherlands,075-2047004,https://hoopbier.nl/,4.8111073,52.4761056
+,Brouwerij Hoorns Nat,contract,Matissehof 121,,,Hoorn,Noord-Holland,1628 XT,Netherlands,06-14355574,https://hoornsnat.nl/,,
+,Brouwerij Kleiburg,micro,Hullenbergweg 6,,,Amsterdam,Noord-Holland,1101 BL,Netherlands,020-2101703,http://www.brouwerijkleiburg.nl,,
+,Brouwerij LOST,contract,Witte Vlinderweg 57,,,Wormerveer,Noord-Holland,1521 PS,Netherlands,06-57730609,https://www.brouwerijlost.nl/,,
+,Brouwerij Leeghwater,contract,De Volger 12a,,,De Rijp,Noord-Holland,1483 GA,Netherlands,06-43028211,http://www.brouwerijleeghwater.nl,,
+,Brouwerij Maatwerk,contract,Dokter Weversstraat 2,,,Volendam,Noord-Holland,1131 BD,Netherlands,,https://www.brouwerijmaatwerk.nl/,,
+,Brouwerij Molenduyn,micro,Terrasweg 43,,,Santpoort-Noord,Noord-Holland,2071 BB,Netherlands,06-12606791,http://www.brouwerijmolenduyn.nl,,
+,Brouwerij Piek,contract,Braspenning 27,,,Zaandam,Noord-Holland,1507 DK,Netherlands,,https://www.piekbier.nl/,,
+,Brouwerij Poort,contract,Zuiderpoort 46,,,Nieuw-Vennep,Noord-Holland,2152 RG,Netherlands,06-11208024,http://www.brouwerijpoort.nl,,
+,Brouwerij Rotjoch,contract,Spant 11,,,Hoorn,Noord-Holland,1628 GJ,Netherlands,06-31271682,http://eetcafedeklinker.nl/brouwerij-rotjoch/,,
+,Brouwerij SuzeCinq,contract,Koemarkt 46,,,Purmerend,Noord-Holland,1441 DD,Netherlands,06-51301228,http://www.suzecinq.nl,,
+,Brouwerij TX,micro,Slotskolk 22c,,,Oosterend,Noord-Holland,1794 BG,Netherlands,0222-760150,http://www.brouwerijtx.nl/,,
+,Brouwerij Tamesteut,contract,Nieuwe Noord 27,,,Hoorn,Noord-Holland,1621 EM,Netherlands,,,,
+,Brouwerij Troost Amsterdam De Pijp,micro,Cornelis Troostplein 21,,,Amsterdam,Noord-Holland,1072 JJ,Netherlands,020-7371028,http://www.brouwerijtroost.nl,4.8910543,52.3505334
+,Brouwerij Troost Amsterdam Westergas,micro,Pazzanistraat 25-27,,,Amsterdam,Noord-Holland,1014 DB,Netherlands,020-7371028,https://brouwerijtroost.nl/westergas-amsterdam/,4.8729241,52.3862215
+,Brouwerij Walhalla,micro,Spijkerkade 10,,,Amsterdam,Noord-Holland,1021 JS,Netherlands,,http://www.walhallacraftbeer.nl,,
+,Brouwerij Zeeburg,contract,1e van Swindenstraat 433,,,Amsterdam,Noord-Holland,1093 GB,Netherlands,06-11532914,http://www.brouwerijzeeburg.nl,,
+,Brouwerij Zeglis,contract,Oudegracht 214,,,Alkmaar,Noord-Holland,1811 CR,Netherlands,,http://www.brouwerijzeglis.nl,,
+,Brouwerij de Die,contract,Lindenlaan 17,,,Alkmaar,Noord-Holland,1815 HC,Netherlands,06-39438514,http://www.brouwerijdedie.nl,,
+,Brouwerij de Geepjes,contract,Haarlem,,,Haarlem,Noord-Holland,,Netherlands,,http://www.brouwerijdegeepjes.nl/,,
+cb86e414-8de8-4535-a88e-6e3ebe660f06,Bruut Bier,contract,Conradstraat 70A,,,Amsterdam,Noord-Holland,1018 NK,Netherlands,06-28851002,http://www.bruutbier.nl,,
+aa465ae0-9a9f-4207-b805-5ceb9487bb7c,Butcher's Tears,micro,Aalsmeerderweg 157A,,,Aalsmeer,Noord-Holland,1432 CK,Netherlands,06-48955332 (Joost Verkaart),http://www.butchers-tears.com,,
+,Callantsoger Bier,contract,De Gorsen 30,,,Callantsoog,Noord-Holland,1759 XN,Netherlands,,http://www.callantsogerbier.nl/,,
+,De Bierbroeders,contract,Ossenweide 12,,,Zwaag,Noord-Holland,1689 MR,Netherlands,06-28794233,,,
 13eef395-8779-4484-a700-a998455ab9e2,De Bierderie,closed,"Witte Vlinderweg 72, A15",,,Wormerveer,Noord-Holland,1521 PS,Netherlands,,,4.7877418,52.50441860000001
-40818410-f956-4e68-81c7-bb802220378c,Gebrouwen Door Vrouwen,micro,Jan Pieter Heijestraat 119D,,,Amsterdam,Noord-Holland,1054 MD,Netherlands,+31 020 854 5277,https://www.gebrouwendoorvrouwen.nl/de-bar,4.864332999999999,52.362525
+,De Brouwerij - Medemblik,micro,Gedempt Achterom 4,,,Medemblik,Noord-Holland,1671 AG,Netherlands,,https://brouwerijmedemblik.nl/,5.1077439,52.7710332
+,De Gekroonde Merlet,contract,Mr. A. baron Mackaystraat 5,,,Heemstede,Noord-Holland,2104 XB,Netherlands,06-41594379,https://www.degekroondemerlet.nl/,,
+,De Goede & De Stoute,micro,Emmalaan 2,,,Bergen,Noord-Holland,1862 ET,Netherlands,06-81875743,https://www.degoedeendestoute.nl/,,
+,De Hollandse Pilsener Fabriek,micro,Haarlemmerstraatweg 73G,,,Halfweg,Noord-Holland,1165 MK,Netherlands,085-6661111,https://dehollandsepilsenerfabriek.nl/,,
+,De Meerkikker,contract,Mondriaanlaan 38,,,Heerhugowaard,Noord-Holland,1701 TE,Netherlands,,https://www.demeerkikker.nl/,,
+,Duindauw,contract,Meester Ludwigstraat 20,,,Castricum,Noord-Holland,1901 PT,Netherlands,06-10461057,http://www.duindauw.nl/,,
+,Eco-dreamer,contract,Midvoordreef 13,,,Kudelstaart,Noord-Holland,1433 DH,Netherlands,,https://eco-dreamer.nl/,,
+,Eric's Beer Craft (EBC),closed,Gijsbrecht van Amstelstraat 216,,,Hilversum,Noord-Holland,1214 BE,Netherlands,06-43392545,https://ericsbeercraft.nl/,5.1663231,52.2154923
+,Friekens Brouwerij,micro,Meteorenweg 272,,,Amsterdam,Noord-Holland,1035 RN,Netherlands,,https://friekens.nl/,4.8741832,52.4193163
+,Fruity Monkey,contract,Zeeloodsenlaan 110,,,Den Helder,Noord-Holland,1785 BS,Netherlands,06-12367293,https://www.fruitymonkeybeer.com/,,
+,G.Y.M. Brouwerij,contract,Bertus Aafjeshof 176,,,Hoorn,Noord-Holland,1628 VV,Netherlands,,https://gymbrouwerij.nl/,,
+40818410-f956-4e68-81c7-bb802220378c,Gebrouwen Door Vrouwen,contract,Nieuwe Hemweg 4F,,,Amsterdam,Noord-Holland,1013 BG,Netherlands,06-38076029,http://www.gebrouwendoorvrouwen.nl,,
+,Getij Bier,contract,Crommelinbaan 63 D,,,Cruquius,Noord-Holland,2142 EX,Netherlands,,https://www.getijbier.nl/,,
+,Ghispesteijn 1881,contract,Dorpsstraat 75,,,Jisp,Noord-Holland,1546 LG,Netherlands,,https://ghispesteijn1881.nl/,,
+,Gooimeer Brouwerij,micro,Binnendelta 4 - L,,,Blaricum,Noord-Holland,1261 WZ,Netherlands,035-2042005,http://www.gooimeerbrouwerij.nl,,
+,Gooische Bierbrouwerij,micro,Marktplein 3,,,Hilversum,Noord-Holland,1211 DZ,Netherlands,035-6316747,http://www.gooischebierbrouwerij.nl,5.1772037,52.227426
+,Gulden Triomfator,contract,Ann van Renesselaan 4d,,,Uitgeest,Noord-Holland,1911 KR,Netherlands,06-30318311,http://www.guldentriomfator.com/,,
+,Happy Demons Craft Beer,contract,Graan voor Visch 16218,,,Hoofddorp,Noord-Holland,2132 XK,Netherlands,06-25088133 (Diederick),http://happydemons.nl/,,
 c4b543bd-313d-4cf7-b9c6-b8f58e326d58,Heineken,large,Stadhouderskade 78,,,Amsterdam,Noord-Holland,1072 AE,Netherlands,+31 020 205 0593,https://www.heinekenexperience.com/,4.8918249,52.35783130000001
-b65d7479-66c5-4294-8d73-930fb912acbe,Het Uiltje,micro,Zijlstraat 18,,,Haarlem,Noord-Holland,2011 TN,Netherlands,+31 023 844 6227,https://www.uiltjebrewing.com/venue/uiltje-bar/,4.6306578,52.3828983
+,Het Brouwlokaal,micro,Parallelweg 7,,,Beverwijk,Noord-Holland,1948 NK,Netherlands,06-12102542,https://www.hetbrouwlokaal.nl/,,
+,Heyloo Bierbrouwers,contract,Bayershoffweg 19,,,Heiloo,Noord-Holland,1852 BA,Netherlands,06–20601531,https://www.heyloobierbrouwers.nl/,,
+,Hollandse Staatsbrouwerijen,contract,Verspronckweg 14,,,Haarlem,Noord-Holland,2023 BL,Netherlands,,https://www.hollandsestaatsbrouwerijen.nl/,,
+,Horecabier.nl,contract,De Corantijn 28,,,Zwaag,Noord-Holland,1689 AP,Netherlands,0229-277572,http://www.horecabier.nl,,
 600934dc-8889-48da-af7d-31d3b85d1a32,Jopen,micro,Gedempte Voldersgracht 2,,,Haarlem,Noord-Holland,2011 WD,Netherlands,+31 023 533 4114,https://www.jopenkerk.nl/haarlem/,4.6297315,52.3812145
-b61e8713-1671-42ce-88c9-44e46fd4f50e,Oedipus Brewing,micro,Schaafstraat 21,,,Amsterdam,Noord-Holland,1021 KD,Netherlands,,http://oedipus.com/,4.9241202,52.385357
+,Jopen Bier,micro,Gedempte Voldersgracht 2,,,Haarlem,Noord-Holland,2011 WD,Netherlands,023-5334114,http://www.jopenbier.nl,4.629891,52.3811942
+,Jopen Waarderpolder,micro,Emrikweg 21,,,Haarlem,Noord-Holland,2031 BT,Netherlands,023-5334114,https://www.jopentaproom.nl/,,
+,KEK! Bier,contract,Rondehoep Oost 16,,,Ouderkerk aan de Amstel,Noord-Holland,1191 KB,Netherlands,06-21402329,https://kek-bier.nl/,,
+,KRUX,micro,Cruquiusweg 83 D,,,Amsterdam,Noord-Holland,1019 AT,Netherlands,020-3312727,https://krux.nl/,4.9526886,52.3683493
+,Kwakel Bieren,contract,De Kwakel 32,,,Kortenhoef,Noord-Holland,1241 LD,Netherlands,,http://kwakelbieren.nl/,,
+,Langedijker Bier,contract,Spoorstraat 39,,,Oudkarspel,Noord-Holland,1724 NA,Netherlands,06-53877951,https://langedijkerbier.nl/,,
+,Lion's Head,micro,Dreamstreet 10,,,Hoofddorp,Noord-Holland,2133 LK,Netherlands,,https://lionsheadbrewing.com,,
+,Lowlander Beer,contract,Gedempt Hamerkanaal 201,,,Amsterdam,Noord-Holland,1021 KP,Netherlands,020-7529726,http://www.lowlander-beer.com,4.920205,52.3820616
+,Luuk Bier,contract,Jane Addamslaan 155,,,Amstelveen,Noord-Holland,1187 DA,Netherlands,06-55105487,https://luukbier.nl/,,
+,M.A.T. Brewery,contract,Rozenstraat 244,,,Amsterdam,Noord-Holland,1016 PB,Netherlands,06-46251926,http://www.matbier.nl/,,
+,MishMash,contract,Amsterdam,,,Amsterdam,Noord-Holland,,Netherlands,,https://www.mishmash.amsterdam/,,
+,Moersleutel Craft Brewery,micro,Diamantweg 9,,,Alkmaar,Noord-Holland,1812 RC,Netherlands,06-20020351,https://moersleutel.com/,,
+,Mokum Bier,contract,Singel 382,,,Amsterdam,Noord-Holland,1016 AH,Netherlands,020-5550346,https://mokumbier.nl/,,
+,Naeckte Brouwers,micro,Weverij 5,,,Amstelveen,Noord-Holland,1185 ZE,Netherlands,020-7895689,http://www.naecktebrouwers.nl/,,
+,Naeckte Brouwers Annakerk,micro,Amsterdamseweg 22,,,Amstelveen,Noord-Holland,1182 HD,Netherlands,020-8890731,https://www.anna-amstelveen.nl/,4.8470348,52.304658
+,Ode Bier,contract,Swammerdamstraat 29 K,,,Amsterdam,Noord-Holland,1091 RP,Netherlands,,,,
+b61e8713-1671-42ce-88c9-44e46fd4f50e,Oedipus Brewing,micro,Schaafstraat 19,,,Amsterdam,Noord-Holland,1021 KD,Netherlands,020-2441673,https://oedipus.com/,4.9243799,52.3853235
+,Ouderkerks Goud,contract,Grote Poorterweide 11,,,Amstelveen,Noord-Holland,1184 TE,Netherlands,06-46264934,http://www.ouderkerksgoud.nl,,
+,Ouwe Skilder Brouwerij,micro,De Ruyterstraat 131,,,Oudeschild,Noord-Holland,1792 AP,Netherlands,,https://oldskilltexel.nl/,,
+,Papa’s aan de fles,contract,Laantje van Toonder 32,,,Blaricum,Noord-Holland,1262 AM,Netherlands,,https://www.papasaandefles.nl/,,
+,Pistolen Paultje,contract,Haarlem,,,Haarlem,Noord-Holland,,Netherlands,,,,
+,Poesiat & Kater,micro,H.J.E. Wenckebachweg 55,,,Amsterdam,Noord-Holland,1096 AK,Netherlands,06-54291527,https://poesiatenkater.nl/,4.9267049,52.3392169
 d837a451-1594-4656-97b0-abdc73074ccb,Pontus Brewing,micro,Johan Huizingalaan 262,,,Amsterdam,Noord-Holland,1065 JM,Netherlands,,,4.8270084,52.3543823
+,Proefbrouwerij Hoop,micro,Middenweg 44,,,Zaandam,Noord-Holland,1505 RK,Netherlands,,,4.8383248,52.4217487
+,Queer Beer,contract,Ms. Tarnweg 10,,,Amsterdam,Noord-Holland,1033 AK,Netherlands,,https://www.queerbeer.eu/,,
+,Ridder Bliek,contract,Kloppersingel 67,,,Haarlem,Noord-Holland,2021 CS,Netherlands,06-46136223,http://www.ridderbliek.nl,,
+,STOKED! Beer,contract,Dokter Heringalaan 6,,,Schoorl,Noord-Holland,1871 BG,Netherlands,,https://stokedbeer.com/,,
+,Santpoorts Bier,micro,Hofgeesterweg 6,,,Velserbroek,Noord-Holland,1991 AD,Netherlands,,http://www.santpoortsbier.nl,,
+,Schaagse Brouwerij De Roode Leeuw,micro,Witte Paal 50 K boven,,,Schagen,Noord-Holland,1742 NV,Netherlands,06-51322551,http://www.schaagsebrouwerijderoodeleeuw.nl/,,
+,Stadsbrouwerij Helderse Jongens,micro,Westoever 1,,,Den Helder,Noord-Holland,1785 PB,Netherlands,06-21836172,http://www.heldersejongens.nl,4.7801697,52.9492267
+,Stadsbrouwhuis Broer & Zus,micro,Schans 10,,,Beverwijk,Noord-Holland,1947 JR,Netherlands,0251-228229,http://www.cafebroerenzus.com,,
+,TIMOTHY,contract,Amsterdam,,,Amsterdam,Noord-Holland,,Netherlands,,,,
+,Tesselaar Familiebrouwerij Diks,micro,Meyertebos 7,,,Den Burg,Noord-Holland,1791 MG,Netherlands,06-30230277,http://www.familiebrouwerijdiks.nl/,,
 ffea4512-ccce-467c-8342-5b1e43d5ed7b,Texels Bierbrouwerij,micro,Schilderweg 214b,,,Oudeschild,Noord-Holland,1792 CK,Netherlands,+31 0222 320 325,http://www.texels.nl/,4.8278991,53.04486619999999
-9b327a2b-3a7c-4c73-bea5-8a5962bc5fd4,Two Chefs Brewing,micro,Moezelhavenweg 6,,,Amsterdam,Noord-Holland,1043 AM,Netherlands,+31 020 894 8944,http://twochefsbrewing.com/,4.8201689,52.3926576
+,Texelse Bierbrouwerij,micro,Schilderweg 214b,,,Oudeschild,Noord-Holland,1792 CK,Netherlands,0222-320325,http://www.texels.nl,,
+,The Republic,contract,Zaagmolenstraat 20-3,,,Amsterdam,Noord-Holland,1052 HE,Netherlands,06-19697840,,,
+,The Stolen Bicycle Brewery,contract,Haarlem,,,Haarlem,Noord-Holland,,Netherlands,,http://www.stolenbicyclebrewery.com/,,
+,Thema-Bier,micro,Molenvaart 138a,,,Anna Paulowna,Noord-Holland,1761 AM,Netherlands,06-43712665,https://www.thema-bier.nl/,,
+,Tommie Sjef,contract,Middenweg 109,,,Den Helder,Noord-Holland,1782 BC,Netherlands,06-43865835,https://tommiesjef.com/,,
+9b327a2b-3a7c-4c73-bea5-8a5962bc5fd4,Two Chefs Brewing,micro,Moezelhavenweg 6,,,Amsterdam,Noord-Holland,1043 AM,Netherlands,020-8948944,http://www.twochefsbrewing.nl,4.8201689,52.3926576
+b65d7479-66c5-4294-8d73-930fb912acbe,Uiltje Brewing Company,micro,Bingerweg 25,,,Haarlem,Noord-Holland,2031 AZ,Netherlands,023-8446395,http://www.eveneenuiltjeknappen.nl,4.664676,52.3974683
+,VD Bier,contract,Lupinestraat 3,,,Volendam,Noord-Holland,1131 JT,Netherlands,06-53560875,https://www.vdbier.nl/,,
+,Vesting Brouwerij Comenius,micro,Vestingwerken 1-B1,,,Naarden,Noord-Holland,1411 WC,Netherlands,035-7370168,http://www.comeniusbrouwerij.nl/,,
+,Viceroy Brewing,contract,Den Texstraat 11 H,,,Amsterdam,Noord-Holland,1017 XW,Netherlands,,http://www.mokumsmout.nl,,
+,Waterland Brewery,micro,Visserijweg 32 C,,,Purmerend,Noord-Holland,1446 AR,Netherlands,06-51382164,,,
+,Wispe Brouwerij,micro,Herengracht 16,,,Weesp,Noord-Holland,1382 AE,Netherlands,0294-785587,http://www.wispe.nl,5.041114,52.3091114

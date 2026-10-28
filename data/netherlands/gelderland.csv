@@ -1,7 +1,96 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-1cc8ff81-b319-428d-b888-d476fc53b322,Brouwtoren,micro,Waldeck Pyrmontsingel 12,,,Nijmegen,Gelderland,6521 BC,Netherlands,+31 06 25106052,https://www.brouwtoren.nl/,5.8696424,51.8415276
-7dc27421-8e1e-4f46-9597-a9d2fa5047ee,De Heidebrouwerij,micro,Venturistraat 12 A,,,Ede,Gelderland,6718 XW,Netherlands,+31 0318 785 428,http://www.deheidebrouwerij.nl/,5.6031654,52.0328156
-a34c3028-a5dd-4ecc-8185-b437ed135794,Oersoep,micro,Waalplein 7,,,Nijmegen,Gelderland,6541 AX,Netherlands,+31 06 16059557,https://www.oersoepbrouwerij.nl/brouwlab,5.8389696,51.857236
-d902ee67-8102-449d-85c3-da748144515f,Stadsbrouwerij De Hemel,brewpub,Franseplaats 1,,,Nijmegen,Gelderland,6511 VS,Netherlands,+31 024 360 6167,http://www.brouwerijdehemel.nl/,5.864321299999999,51.848794
-02ab80ff-5016-4c70-b9d9-8d70cee65894,Voortsche Bieren,micro,Harremaatweg 34,,,Voorthuizen,Gelderland,3781 NJ,Netherlands,,http://www.voortschebieren.nl/,5.630355,52.1872848
-57be0153-df0c-4e2b-85f5-7e3ae6287f44,Wentersch Brewery,micro,Groenloseweg 75,,,Winterswijk,Gelderland,7101 AD,Netherlands,+31 0543 769 080,http://www.wentersch.nl/,6.7097576,51.9782749
+,Achterhoeks Genot,contract,De Hogenkamp 30B,,,Ulft,Gelderland,7071 EC,Netherlands,,https://achterhoeksgenot.nl/,,
+,Arnhemse Stadsbrouwerij,contract,Hoofdstraat 73 a,,,Velp,Gelderland,6881 TD,Netherlands,,,,
+,Balietrekkers,contract,Wethouder van Olstweg 4,,,Nunspeet,Gelderland,8071 HH,Netherlands,06-22252770,https://www.balietrekkers.nl/,,
+,Beekdal Brouwerij,contract,Kerkstraat 33,,,Renkum,Gelderland,6871 BH,Netherlands,06-41509235,https://bkdl.nl,,
+,Beetles Beer,contract,De Balmerd 4,,,Beuningen,Gelderland,6641 LD,Netherlands,06-25537887 (Willem Lieberwirth),https://beetlesbeer.com/,,
+,Betuws Bier,contract,Veerweg 5,,,Eck en Wiel,Gelderland,4024 BP,Netherlands,0344-700245,https://betuwsbier.nl/,,
+,Bierbrouwerij & Stokerij Onder De Linden,micro,Haagsteeg 16,,,Wageningen,Gelderland,6708 PM,Netherlands,0317-843559,https://www.onderdelindenwageningen.nl/,5.6513888,51.9749211
+,Bierbrouwerij 't Kuipertje,micro,Appeldijk 18,,,Heukelum,Gelderland,4161 BH,Netherlands,0345-611839 / 06-17483105,http://www.hetkuipertje.nl,5.0580277,51.8725907
+,Bierbrouwerij Openluchtmuseum,micro,Schelmseweg 89,,,Arnhem,Gelderland,6816 SJ,Netherlands,026-3576123,https://www.openluchtmuseum.nl/page/921/bierbrouwerij,,
+57be0153-df0c-4e2b-85f5-7e3ae6287f44,Bierbrouwerij Wentersch,micro,Groenloseweg 75,,,Winterswijk,Gelderland,7101 AD,Netherlands,0543-769080,https://www.wentersch.nl/,6.7098274,51.9783273
+,Bommelaar Bier,contract,Prins van Oranjestraat 3,,,Zaltbommel,Gelderland,5301 RA,Netherlands,06-20006001,https://bommelaar.nl/,,
+,Borklo in the Barrel,contract,Oranjerie 16,,,Borculo,Gelderland,7271 BX,Netherlands,06-51128580,http://www.borklo.nl/,,
+,Brink's Brouwerij,contract,Lisztlaan 12,,,Apeldoorn,Gelderland,7333 GH,Netherlands,,http://www.brinks-apeldoorn.nl/,,
+,Bronckhorster Bierbrouwerij,micro,Rhabergseweg 9,,,Rha,Gelderland,7224 NA,Netherlands,06-16478477 (Steve) / 06-16340422 (Yvon),https://www.bronckhorster.beer/,,
+,Brouwbedrijf Gebr. van Leeuwen,micro,Lingedijk 65,,,Gellicum,Gelderland,4155 BC,Netherlands,,http://www.bbgvl.nl,,
+,Brouwerij 't Bemmeltje,closed,Dorpsstraat 52,,,Bemmel,Gelderland,6681 BP,Netherlands,,,,
+,Brouwerij 't Hofke,micro,Anna G. Hofkeslaan 4,,,Velp,Gelderland,6881 WL,Netherlands,,https://brouwerijthofke.nl/,,
+,Brouwerij Antonius,micro,Staddijk 1,,,Alverna,Gelderland,6603 LM,Netherlands,06-10037110,http://www.brouwerij-antonius.nl,5.7802347,51.8118873
+,Brouwerij Bastiaan,micro,Koningin Julianastraat 26,,,Nunspeet,Gelderland,8071 LM,Netherlands,,,,
+,Brouwerij Berlewalde,contract,Enkweg 2A,,,Zelhem,Gelderland,7021 KD,Netherlands,06-53911662,http://www.berlewaldebier.nl/,,
+,Brouwerij Biberius,micro,De Ren 52 q,,,Groesbeek,Gelderland,6562 JK,Netherlands,06-25016085,http://www.brouwerij-biberius.nl,,
+,Brouwerij Brouwersnös,micro,Eibergseweg 1,,,Groenlo,Gelderland,7141 CD,Netherlands,,http://www.brouwersnos.nl,6.6182656,52.0445858
+,Brouwerij CC,contract,Roemer Visscherstraat 14,,,Arnhem,Gelderland,6824 MX,Netherlands,06-30303042,http://www.brouwerij.cc,,
+,Brouwerij De Betuwe,micro,Achterstraat 3,,,Asch,Gelderland,4115 RP,Netherlands,06-41922275,https://brouwerijdebetuwe.nl/,,
+d902ee67-8102-449d-85c3-da748144515f,Brouwerij De Hemel,micro,Franseplaats 1,,,Nijmegen,Gelderland,6511 VS,Netherlands,024-3606167,http://www.brouwerijdehemel.nl,5.8643174,51.8487679
+,Brouwerij De Snor,micro,Oranjestraat 17 A,,,Velp,Gelderland,6881 CS,Netherlands,,https://www.brouwerijdesnor.nl/,,
+,Brouwerij Donselaer,micro,Eperweg 3,,,Oene,Gelderland,8167 LE,Netherlands,06-10381927 / 06-43947040,,,
+,Brouwerij Florijn,micro,Mariënburg 67,,,Nijmegen,Gelderland,6511 PS,Netherlands,024-3030025,https://brouwerijflorijn.nl/,5.8673532,51.8444987
+,Brouwerij Hans en Grietje,contract,Bram Streeflandweg 23,,,Renkum,Gelderland,6871 HT,Netherlands,06-51940755,https://www.avotre.nl/,,
+,Brouwerij Heeren van Druten,micro,Hooistraat 45,,,Druten,Gelderland,6651 AC,Netherlands,,http://heerenvandruten.nl/,,
+,Brouwerij Het Achterom,micro,Mariastraat 2H,,,Apeldoorn,Gelderland,7311 HL,Netherlands,06-48789408 (Wesley) | 06-43050084 (Mathilde),https://hetachterom.nl/,,
+,Brouwerij Het Dijkhuis,micro,Waalbandijk 33,,,Ophemert,Gelderland,4061 AL,Netherlands,0344-652736,https://hetdijkhuis.eu/bierbrouwerij/,,
+,Brouwerij Hong,micro,Distelbergsestraat 8,,,Afferden,Gelderland,6654 BK,Netherlands,,https://brouwerijhong.nl/,,
+,Brouwerij Hootch,micro,Binnenweg 11,,,Tolkamer,Gelderland,6916 AS,Netherlands,0316-233034,https://www.brouwerijhootch.nl,,
+,Brouwerij Jeronymo,micro,Wylerbaan 14A,,,Groesbeek,Gelderland,6561 KR,Netherlands,06-55132892 (Toon Veens),http://www.brouwerij-jeronimo.nl,,
+,Brouwerij Kraan,micro,Rekkenseweg 25,,,Rekken,Gelderland,7157 AB,Netherlands,06-22356946,http://www.brouwerijkraan.nl,,
+,Brouwerij Luie Donder,contract,Holtgesbroek 1648,,,Nijmegen,Gelderland,6546 PL,Netherlands,06-27374584,https://www.luiedonder.nl/,5.7754232,51.8291259
+,Brouwerij Mannenpap,micro,Biezenstraat 79,,,Nijmegen,Gelderland,6541 ZP,Netherlands,06-27076916,http://www.mannenpap.com/,5.8460114,51.8483728
+,Brouwerij Nijbier,contract,Graaf Lodewijkstraat 103,,,Arnhem,Gelderland,6821 EC,Netherlands,,http://nijbier.com/,,
+,Brouwerij Op de Brink,contract,Achterstraat 23,,,Lunteren,Gelderland,6741 BR,Netherlands,,https://brouwerijopdebrink.nl/,,
+,Brouwerij Puik Bieren,micro,Beekstraat 10,,,Apeldoorn,Gelderland,7311 LD,Netherlands,,http://www.puikbieren.nl,5.9647219,52.2135591
+,Brouwerij Smaak,contract,Hugo de Grootlaan 39,,,Barneveld,Gelderland,3771 HK,Netherlands,06-24679857,http://www.brouwerijsmaak.nl,,
+,Brouwerij Vrijstad,micro,Nijverheidsweg 6,,,Culemborg,Gelderland,4104 NJ,Netherlands,06-11306385,http://www.brouwerijvrijstad.nl,,
+,Brouwerij de Botter,contract,Lupine 3,,,Elburg,Gelderland,8081 DP,Netherlands,,https://brouwerijdebotter.nl/,,
+,Brouwerij de Kobold,micro,Hatertseweg 5,,,Malden,Gelderland,6581 KD,Netherlands,,http://brouwerijdekobold.nl/,,
+,Brouwhoes,micro,Eimersweg 4,,,Lievelde,Gelderland,7137 HG,Netherlands,0544-371691,http://www.ervekots.nl,,
+,Brouwhuys Elden,micro,Rijksweg-West 34,,,Arnhem,Gelderland,6842 BD,Netherlands,06-28058457,https://brouwhuiselden.nl/,5.8812801,51.957181
+1cc8ff81-b319-428d-b888-d476fc53b322,Brouwtoren,micro,Waldeck Pyrmontsingel 12,,,Nijmegen,Gelderland,6521 BC,Netherlands,06-21987906,http://www.brouwtoren.nl,5.8696424,51.8415276
+,Brutus Bier,contract,Apeldoorn,,,Apeldoorn,Gelderland,,Netherlands,,https://www.brutusbier.nl/,,
+,Burg Bier Brouwerij,micro,Putterweg 45,,,Ermelo,Gelderland,3851 GB,Netherlands,0341-564934,http://www.burgbieren.nl,,
+,Buuls Bier,contract,Doetinchemseweg 5,,,Wehl,Gelderland,7031 EP,Netherlands,,,,
+,Chamaven,micro,Pollaan 39,,,Zutphen,Gelderland,7202 BV,Netherlands,06-28245061,http://chamaven.nl/,,
+,Coöperatie Brouwerij Wolfswaert U.A.,micro,Achterstraat 29,,,Beesd,Gelderland,4153 AP,Netherlands,,https://www.brouwerij-wolfswaert.nl/,,
+,Craft brewery en distillery Copperz,micro,Pollaan 16,,,Zutphen,Gelderland,7202 BX,Netherlands,,https://copperz.nl/,,
+,D'n Drul!,micro,Wylerbaan 14A,,,Groesbeek,Gelderland,6561 KR,Netherlands,06-20010388,http://www.brouwerijdendrul.nl,,
+,De Bierstulp,contract,Hezelstraat 10,,,Ooij,Gelderland,6576 JM,Netherlands,,https://brouwerijdebierstulp.nl/,,
+,De Heeren van Bisde,micro,Burgemeester Jonkersstraat 5,,,Beesd,Gelderland,4153 BN,Netherlands,06-18290372,https://www.bisdebier.nl/,,
+7dc27421-8e1e-4f46-9597-a9d2fa5047ee,De Heidebrouwerij,contract,Venturistraat 12 A,,,Ede,Gelderland,6711 JC,Netherlands,0318-785428,https://www.deheidebrouwerij.nl/,5.6031654,52.0328156
+,De Hertog van Gelre,contract,De Eng 15,,,Scherpenzeel,Gelderland,3925 LT,Netherlands,06-40839705 / 06-22072721,,,
+,De Puttense Brouwerij / Hert Bier,micro,Keizerswoert 26,,,Putten,Gelderland,3881 LE,Netherlands,0341-353335,http://www.hertbier.nl,,
+,EMP Brewery,micro,Varenweg 31,,,Hierden,Gelderland,3849 PH,Netherlands,,https://www.empbrewery.nl/,,
+,Epe Bier Collectief,contract,Laar-Enk 4,,,Epe,Gelderland,8162 CH,Netherlands,06-23353387,http://www.epebier.nl,,
+,Fightstreet Brewery,contract,Vechtstraat 35,,,Ulft,Gelderland,7071 VC,Netherlands,,,,
+,Geweldig Bier,contract,Wylerbaan 14A,,,Groesbeek,Gelderland,6561 KR,Netherlands,06-20010388,https://www.geweldigbier.nl/,,
+,Guilty Monkey Brewery,contract,Arksteestraat 2,,,Nijmegen,Gelderland,6511 MZ,Netherlands,024-7600777,https://www.guiltymonkey.nl/,,
+,Heeren van Borculo,contract,Geesterse Binnenweg 4a,,,Borculo,Gelderland,7271 VX,Netherlands,,http://www.heerenvanborculo.nl/,,
+,HenkeBier,micro,Lindelaan 42,,,Ede,Gelderland,6711 MV,Netherlands,,https://www.henkebier.nl/,,
+,Het Brouwhuys,contract,Daltonstraat 22,,,Harderwijk,Gelderland,3846 BX,Netherlands,06-10002425,http://www.hetbrouwhuys.nl/,,
+,Het Platte Harnas,contract,Van Zuijlen van Nieveltlaan 24,,,Barneveld,Gelderland,3771 AC,Netherlands,06-10265851,http://brouwerijhetplatteharnas.nl,,
+,Holy Cow Craft Beer,contract,Ede,,,Ede,Gelderland,,Netherlands,,,,
+,Hopworkz,contract,Apeldoorn,,,Apeldoorn,Gelderland,,Netherlands,,https://www.hopworkz.nl/,,
+,Hosenhym Bierbrouwers,contract,Gelderspad 3,,,Huissen,Gelderland,6851 DZ,Netherlands,06-12081247,http://www.hosenhym.nl,,
+,Jelles Bier,contract,Nunspeet,,,Nunspeet,Gelderland,,Netherlands,,https://jellesbier.nl/,,
+,Jokkebrokbrouwerij,contract,Bovenstraatweg 1,,,Oldebroek,Gelderland,8096 PC,Netherlands,06-37167422,https://www.jokkebrokbrouwerij.nl/,,
+,Kronenburger Brouwers,contract,Zwanenveld 3521,,,Nijmegen,Gelderland,6538 ZH,Netherlands,,,,
+,LaBrew,contract,Akkerweg 1,,,Angerlo,Gelderland,6986 BW,Netherlands,,https://www.labrew.nl/,,
+,Markebier Brouwerij,micro,Kazerneplein 6,,,Eefde,Gelderland,7211 BM,Netherlands,0575-540166,https://www.markebier.nl/,6.2350629,52.1638941
+,Nathals,contract,Ruurloseweg 4 b,,,Zieuwent,Gelderland,7136 MD,Netherlands,0544-351269,https://www.nathalsbier.nl/,,
+,Nimweegs Brouwhuys St. Steven,micro,Tussenweg 3,,,Nijmegen,Gelderland,6532 ZC,Netherlands,,https://www.sintsteven.nl/,,
+a34c3028-a5dd-4ecc-8185-b437ed135794,Oersoep,micro,Waalbandijk 14D,,,Nijmegen,Gelderland,6541 AJ,Netherlands,06-25064611,http://www.oersoepbrouwerij.nl,,
+,Populus 6921,contract,Populierenlaan,,,Duiven,Gelderland,6921 CM,Netherlands,,https://populus6921.nl/,,
+,R2-BBrew,micro,Blauwgraspad 19,,,Arnhem,Gelderland,6841 BL,Netherlands,,,,
+,Speciaalbier Brouwerij Gelre,micro,Saltshof 3410,,,Wijchen,Gelderland,6604 GV,Netherlands,06-10548943,,,
+,Spicabier,contract,Bovenbeekstraat 10,,,Arnhem,Gelderland,6811 CV,Netherlands,,https://spicalifestyle.com/pages/spicabier,5.9095544,51.9827951
+,Stadsbrouwerij De Borghman,micro,'t Zand 25,,,Bredevoort,Gelderland,7126 BG,Netherlands,0543-450089,http://www.deborghman.nl,6.618637,51.9440094
+,Stadsbrouwerij De Jonkheer,contract,Zevenaar,,,Zevenaar,Gelderland,,Netherlands,,https://stadsbrouwerijdejonkheer.nl/,,
+,Stadsbrouwerij Staverden,micro,Staverdenseweg 283 A,,,Ermelo,Gelderland,3852 NV,Netherlands,,https://stadsbrouwerijstaverden.nl/,,
+,Stadsbrouwerij Vos,micro,Havenstraat 5,,,Elburg,Gelderland,8081 GN,Netherlands,"06-52667922 (Coenraad van Bommel, Brouwer) 06-57874098 (Tom Bonthuis, Sales",https://www.stadsbrouwerijvos.nl/,5.8313294,52.4497022
+,Stadsbrouwerij Wageningen,micro,1e Kloostersteeg 5,,,Wageningen,Gelderland,6701 DL,Netherlands,06-36300440,https://www.stadsbrouwerijwageningen.nl,,
+,Struuk Bier,contract,Gildcamp 8,,,Ewijk,Gelderland,6644 GN,Netherlands,06-22741595,https://www.struukbier.nl/,,
+,Taste of the Wolve,contract,Groote Woldweg 34,,,Oosterwolde,Gelderland,8097 RS,Netherlands,06-18234008,https://tasteofthewolve.nl/,,
+02ab80ff-5016-4c70-b9d9-8d70cee65894,Voortsche Bieren,contract,Postbus 223,,,Voorthuizen,Gelderland,3780 BE,Netherlands,06-55864834,http://www.voortschebieren.nl,,
+,Woal Brouwers,contract,Dorpstraat 34,,,Gendt,Gelderland,6691 AX,Netherlands,0481-729727,http://www.woalbrouwers.nl/,5.9713801,51.8778428
+,Yeasterday Brewing,contract,Arnhemseweg 335,,,Apeldoorn,Gelderland,7333 NE,Netherlands,06-49331241,https://www.yeasterdaybrewing.com/,,
+,Zaltbommelse Stadsbrouwerij,contract,Nieuwstraat 6,,,Zaltbommel,Gelderland,5301 EW,Netherlands,06-10557851,http://www.zaltbommelse-stadsbrouwerij.nl,5.251182,51.8112608

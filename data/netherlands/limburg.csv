@@ -1,8 +1,59 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+,Alfa Bier,micro,Thull 15,,,Schinnen,Limburg,6365 AC,Netherlands,046-4432888,https://www.alfabier.nl/,,
+,Ambrass Brouwerij,micro,Gats 13,,,Sittard,Limburg,6131 EM,Netherlands,046-4009300,https://ambrass.nl/,,
+,Aspro Brews,contract,Zilstraat 10,,,Susteren,Limburg,6114 KH,Netherlands,06-31094792,https://asprobrews.nl/,,
+,BUUZ.,contract,Roodakker 65,,,Herten,Limburg,6049 DX,Netherlands,06-24361756,https://buuzbeer.nl/,,
+,Bierbrouwerij Gerlachus,micro,Burg. à Campostraat 17,,,Hulsberg,Limburg,6336 BN,Netherlands,06-25511511,http://www.gerlachus.com,,
 f5e23510-be1e-4fbe-bbeb-175a25bf2412,Bierbrouwerij St. Christoffel,micro,Metaalweg 10,,,Roermond,Limburg,6045 JB,Netherlands,+31 0475 341 447,http://www.christoffelbieren.com/,6.0504787,51.16865629999999
-b5c379e4-7d8a-4df5-9002-086a1756ef6e,Brand Bierbrouwerij,regional,Brouwerijstraat 2,,,Wijlre,Limburg,6321 AG,Netherlands,+31 0800 0244321,https://www.brand.nl/,5.8940572,50.8306858
+,Blerickse Brouw Compagnie,contract,Baarlosestraat 200,,,Venlo,Limburg,5923 AR,Netherlands,,https://blericksebrouwcompagnie.nl/,,
+b5c379e4-7d8a-4df5-9002-086a1756ef6e,Brand Bierbrouwerij,micro,Brouwerijstraat 2,,,Wijlre,Limburg,6321 AG,Netherlands,0800–0244321,http://www.brand.nl,5.8940778,50.8306671
+,Brasserie Mijn Streek,contract,Bongerd 18,,,Heerlen,Limburg,6411 JM,Netherlands,045-5772288,https://bijdehandbier.nl/,5.9793681,50.8876917
+,Breuster Brouwers,micro,Breusterstraat 27,,,Eijsden,Limburg,6245 EH,Netherlands,043-7370202,http://breusterbrouwers.nl/,,
+,Brouwcafe Weert,brewpub,Langstraat 2a,,,Weert,Limburg,6001 CV,Netherlands,,https://brouwcafeweert.nl/,,
+,Brouwerij 't Smakt,micro,Rector Cremersstraat 34,,,Smakt,Limburg,5817 AK,Netherlands,06-18599488,https://www.brouwerijsmakt.nl/,,
+,Brouwerij Bosch,contract,Wycker Grachtstraat 26,,,Maastricht,Limburg,6221 CX,Netherlands,06-81474702,https://www.brouwerijbosch.nl/,,
+,Brouwerij Casimir,micro,Molenbergstraat 2,,,Nunhem,Limburg,6083 AW,Netherlands,06-25497342 / 0475-211673,http://brouwerijcasimir.nl/,,
+,Brouwerij De Apotheker,contract,Maastricht,,,Maastricht,Limburg,,Netherlands,,http://www.brouwerijdeapotheker.nl/,,
+,Brouwerij De Fontein,micro,Ondergenhousweg 15,,,Stein,Limburg,6171 GW,Netherlands,046-4262858,http://www.brouwerijdefontein.nl,,
+,Brouwerij De Grieze,contract,Stationsweg 88,,,Oostrum,Limburg,5807 AC,Netherlands,06-55937611,http://www.brouwerijdegrieze.nl,,
+,Brouwerij De Kantelaer,micro,Nieuweweg 96,,,Siebengewald,Limburg,5853 ER,Netherlands,06-38317758,,,
 45e0ccba-51f2-46eb-899a-d5f31ea4d1c4,Brouwerij De Natte Gijt,micro,Julianalaan 54,,,Weert,Limburg,6006 AP,Netherlands,+31 06 45002670,,5.7071844,51.2470614
+,Brouwerij De Tweede Jeugd,contract,Vaalsbroek 13,,,Weert,Limburg,6002 VH,Netherlands,,,,
+,Brouwerij Heer en Meester,micro,Hommelweg 17,,,Susteren,Limburg,6114 RR,Netherlands,06-51539665,http://www.brouwerijheerenmeester.nl,,
+,Brouwerij Klinker,micro,Muntstraat 45,,,Maastricht,Limburg,6211 EH,Netherlands,06-27849301,http://www.brouwerijklinker.nl,5.6924506,50.850002
+,Brouwerij Liebes,contract,Rector van den Boornlaan 18,,,Posterholt,Limburg,6061 AR,Netherlands,06-45163917,https://www.brouwerijliebes.nl/,,
+,Brouwerij LoGISTer,contract,Lindenstraat 7,,,Berg en Terblijt,Limburg,6325 PA,Netherlands,06-50602373,http://www.logister.nl/,,
+,Brouwerij Rolduc,micro,Heyendallaan 82,,,Kerkrade,Limburg,6464 EP,Netherlands,06-22263271,https://www.brouwerij-rolduc.nl/,,
+,Brouwerij Vakwerk,contract,Burgemeester Pappersweg 13,,,Mechelen,Limburg,6281 BH,Netherlands,,http://brouwerijvakwerk.nl/,,
+,Buiten.aards,contract,Kapolder 19a,,,Wijlre,Limburg,6321 PT,Netherlands,,https://www.buitenaardsbier.nl/,,
+,De 2 BrouwHeeren,contract,Commandeurstraat 37,,,Mechelen,Limburg,6281 AL,Netherlands,,https://de2brouwheeren.nl/,,
+,De Brouwschuur / Weerter Stadsbrouwerij,micro,Parallelweg 143,,,Weert,Limburg,6001 HM,Netherlands,06-19469404,http://www.debrouwschuur.nl,,
+,De Brugbrouwer,contract,Hogenbos 14,,,Meerlo,Limburg,5864 CL,Netherlands,06-18686698,https://debrugbrouwer.nl/,,
 1a63ad19-ca05-4b9f-9aa6-6780ef41179d,De Ridder Brewery,regional,Oeverwal 9,,,Maastricht,Limburg,6221 EN,Netherlands,,,5.697515999999999,50.8499881
-e29c2258-cfe5-46af-87bc-cf58d9d924b9,Gulpener Bierbrouwerij,regional,Rijksweg 16,,,Gulpen,Limburg,6271 AE,Netherlands,+31 043 450 7575,http://www.gulpener.nl/,5.8907412,50.8143644
-bd07d5cc-99d9-49e8-9e3c-a03bf3f9f281,Hertog Jan Brouwerij,regional,Kruisweg 44,,,Arcen,Limburg,5944 EN,Netherlands,+31 077 473 6081,https://www.hertogjan.nl/,6.1733489,51.4862376
-70ef1083-9b83-4ef1-8870-fdd58cefd97d,Lindeboom Brouwerij,regional,Engelmanstraat 54,,,Neer,Limburg,6086 BD,Netherlands,+31 0475 592 900,http://www.lindeboom.nl/,5.9832,51.25783999999999
+,De la Haye Beer,contract,Pasweg 42,,,Landgraaf,Limburg,6371 BN,Netherlands,06-41995529,,,
+,Dorpsbrouwerij De Maar,micro,Maar 2,,,Jabeek,Limburg,6454 AM,Netherlands,06-52787992,http://www.dorpsbrouwerijdemaar.nl,,
+e29c2258-cfe5-46af-87bc-cf58d9d924b9,Gulpener Bierbrouwerij,micro,Rijksweg 16,,,Gulpen,Limburg,6271 AE,Netherlands,043-4507575,http://www.gulpener.nl,5.8907412,50.8143644
+,Gulpener BrouwLokaal,micro,Rijksweg 19 A,,,Gulpen,Limburg,6271 AE,Netherlands,043-4507558,http://www.gulpenerbrouwlokaal.nl/,,
+,Herder Bier,micro,Rijksweg 57 B,,,Velden,Limburg,5941 AA,Netherlands,06-47680109,http://www.herderbier.nl,,
+bd07d5cc-99d9-49e8-9e3c-a03bf3f9f281,Hertog Jan Brouwerij,large,Kruisweg 44,,,Arcen,Limburg,5944 EN,Netherlands,077-4732427,http://www.hertogjan.nl,6.1733489,51.4862376
+,Hophouse Brewing,contract,Markt 15,,,Sittard,Limburg,6131 EK,Netherlands,,https://hophuys.nl/,,
+,HuZo,contract,Roermond,,,Roermond,Limburg,,Netherlands,,https://ophopvanzegen.nl/,,
+,Hôrster Beer Brouwers,micro,Crommentuijnstraat 11,,,Meterik,Limburg,5964 NL,Netherlands,06-11316164,https://horsterbeer.nl/,,
+,JD Brewery,contract,Montfortstraat 14,,,Weert,Limburg,6004 GM,Netherlands,,,5.7206124,51.251877
+,Kameraod Brouwers,micro,Kasteellaan 1,,,Horst,Limburg,5961 BW,Netherlands,,https://www.kameraodbrouwers.nl/,6.0575974,51.4663554
+,Kloosterbrouwerij Steyl,micro,Spoorstraat 26,,,Tegelen,Limburg,5931 PT,Netherlands,06-33023215,https://kloosterbrouwerijsteyl.nl/,,
+,Kraom Beer,micro,Mennesweg 12,,,Heythuysen,Limburg,6093 NJ,Netherlands,06-10640818,https://kraom.beer/,5.8790101,51.2577975
+,Köbbes,contract,Maastricht,,,Maastricht,Limburg,,Netherlands,,http://kobbesbeer.nl/,,
+,Lafferol,contract,Heerlen,,,Heerlen,Limburg,,Netherlands,,https://www.lafferol.nl,,
+70ef1083-9b83-4ef1-8870-fdd58cefd97d,Lindeboom Bierbrouwerij B.V.,micro,Engelmanstraat 54,,,Neer,Limburg,6086 BD,Netherlands,0475-592900,http://www.lindeboom.nl,5.9832,51.25783999999999
+,Liquid Gallery Brewing,contract,Weert,,,Weert,Limburg,,Netherlands,,https://liquidgallerybrewing.com/,,
+,Mosae Brewing,contract,Hoenderstraat 6 A,,,Maastricht,Limburg,6211 EM,Netherlands,06-37158873,https://mosaebrewing.nl/,,
+,Nietski Broewerie,contract,Maastricht,,,Maastricht,Limburg,,Netherlands,,https://nietski.nl/,,
+,Puuro Bierbrouwerij,contract,1e Maasveldstraat 39,,,Venlo,Limburg,5921 JL,Netherlands,06-21706998,,,
+,Stadsbroewerie Remunj,contract,Belleboom 26,,,Roermond,Limburg,6041 PR,Netherlands,,http://stadsbroewerieremunj.nl/,,
+,Stadsbrouwerij Maastricht,micro,Oeverwal 12,,,Maastricht,Limburg,6221 EN,Netherlands,043-8553258,http://stadsbrouwerijdemaastrichtermaltezer.nl,5.697522,50.8498556
+,Thorns Wit,contract,Steegputstraat 6,,,Thorn,Limburg,6017 BC,Netherlands,,https://www.thornswitbier.nl/,,
+,Van Hoppen,contract,Termaar 95,,,Margraten,Limburg,6269 AG,Netherlands,06-18941279,https://www.vanhoppen.nl/,,
+,Wim.Brews,contract,Golstraat 7,,,Urmond,Limburg,6129 PS,Netherlands,06-11304778,https://www.wimbrews.nl/,,
+,Zuyd Craft,micro,Tapijnkazerne 20 s,,,Maastricht,Limburg,6211 ME,Netherlands,06-39876145,http://www.brouwerijzuyd.nl,,
+,Zwetsbeer,contract,Boslaan 4,,,Landgraaf,Limburg,6371 CP,Netherlands,,https://www.zwetsbeer.nl/,,
