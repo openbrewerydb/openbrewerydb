@@ -1,26 +1,26 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-,Barbier,contract,Helenaweg 2,,,Biervliet,Zeeland,4521 GR,Netherlands,06-11732855,http://www.biermetstijl.com,,
-,Beun Brewing Company,contract,Nieuwe Vlissingseweg 145,,,Vlissingen,Zeeland,4387 AC,Netherlands,06-36374335,https://www.beunbrewingcompany.com/,,
-,Bierbrouwerij D’n Emma,micro,Koninginnestraat 1a,,,Nieuw Namen,Zeeland,4568 PT,Netherlands,,http://brouwerijdenemma.nl/,,
-,Bierbrouwerij Vermeersen,micro,Absdaalseweg 2,,,Hulst,Zeeland,4561 GG,Netherlands,0114-310660,http://www.vermeersen.com,4.0487994,51.2758522
-,Bierseke,contract,Grintweg 70,,,Yerseke,Zeeland,4401 NG,Netherlands,,https://www.bierseke.nl/,,
-,Brewpub de Stulp,micro,Hogezoom 184,,,Renesse,Zeeland,4325 BJ,Netherlands,,https://www.brewpubdestulp.nl/nl,3.7713074,51.7306361
-,Brouwerij Bee-Beers,contract,Middelburg,,,Middelburg,Zeeland,,Netherlands,,https://bee-beers.shop/,,
+e4547b29-a2bb-468f-b4fb-56e71f3b2c64,Barbier,contract,Helenaweg 2,,,Biervliet,Zeeland,4521 GR,Netherlands,06-11732855,http://www.biermetstijl.com,,
+69f39a0f-e000-49d5-ab63-607786d491aa,Beun Brewing Company,contract,Nieuwe Vlissingseweg 145,,,Vlissingen,Zeeland,4387 AC,Netherlands,06-36374335,https://www.beunbrewingcompany.com/,,
+a724f48e-0c30-4d85-90ca-abbd61440e58,Bierbrouwerij D’n Emma,micro,Koninginnestraat 1a,,,Nieuw Namen,Zeeland,4568 PT,Netherlands,,http://brouwerijdenemma.nl/,,
+6de4f884-4f86-46bb-b06b-cb9a76388e9f,Bierbrouwerij Vermeersen,micro,Absdaalseweg 2,,,Hulst,Zeeland,4561 GG,Netherlands,0114-310660,http://www.vermeersen.com,4.0487994,51.2758522
+0318a338-91e3-4308-ab2a-3391a19845a7,Bierseke,contract,Grintweg 70,,,Yerseke,Zeeland,4401 NG,Netherlands,,https://www.bierseke.nl/,,
+aa97f4b4-a703-4825-ad5b-054f6fc9c281,Brewpub de Stulp,micro,Hogezoom 184,,,Renesse,Zeeland,4325 BJ,Netherlands,,https://www.brewpubdestulp.nl/nl,3.7713074,51.7306361
+75377635-6904-4beb-90ef-d7bf33855b85,Brouwerij Bee-Beers,contract,Middelburg,,,Middelburg,Zeeland,,Netherlands,,https://bee-beers.shop/,,
+668a50e8-00fe-4b87-b93a-434eb9a886bc,Brouwerij de Eenhoorn,micro,Industrieweg 50-0010,,,Zierikzee,Zeeland,4301 RS,Netherlands,06-54666295,https://eenhoorn-brouwerij.nl/,,
 ff791d08-24c2-4f31-b9e5-4ceca362773d,Brouwerij Emelisse,contract,Nieuweweg 7,,,Kamperland,Zeeland,4493 PA,Netherlands,0113-370262,http://www.emelisse.nl,3.7088601,51.5753814
 00b18321-6e85-4ac5-a812-e27fadca20fc,Brouwerij Kees,micro,Voltaweg 16,,,Middelburg,Zeeland,4338 PS,Netherlands,+31 06 25172472,http://www.brouwerijkees.nl,3.6442091,51.4918096
-,Brouwerij Rodanum,contract,Weststraat 33,,,Aardenburg,Zeeland,4527 BR,Netherlands,06-31002266,http://www.biertainment.com,,
-,Brouwerij Scheldevaartshoek,contract,Oude Graauwsedijk 1,,,Graauw,Zeeland,4569 PJ,Netherlands,06-38028662,https://brouwerijscheldevaartshoek.nl/,,
-,Brouwerij de Eenhoorn,micro,Industrieweg 50-0010,,,Zierikzee,Zeeland,4301 RS,Netherlands,06-54666295,https://eenhoorn-brouwerij.nl/,,
-,De Blije Zoutelander,contract,Westkapelseweg 17,,,Zoutelande,Zeeland,4374 BA,Netherlands,06-27003429 (Kevin),https://zeeuwsmomentje.nl/,,
-,Den Baas en zijn Madam,micro,Watersportweg 4,,,Wolphaartsdijk,Zeeland,4471 NE,Netherlands,0113-769088,http://www.denbaasenzijnmadam.nl,3.8153778,51.5477314
-,Dickies Brewing,contract,Hoofdstraat 14,,,Sint Jansteen,Zeeland,4564 AP,Netherlands,,https://dickiesbrewing.com/,,
-,Domus Bier,micro,Sint Domusstraat 58,,,Zierikzee,Zeeland,4301 CR,Netherlands,0111-402193,https://www.domusbier.nl/,,
-,Dutch Bargain,micro,Blekestraat 16,,,Groede,Zeeland,4503 BG,Netherlands,06-11532712,http://www.brouwerslokaal.nl,,
-,Slot Oostende,micro,Singelstraat 5,,,Goes,Zeeland,4461 HZ,Netherlands,,https://www.slotoostende.nl/,3.8893862,51.5034011
-,Stadsbrouwerij Middelburg,micro,Dam 18,,,Middelburg,Zeeland,4331 GJ,Netherlands,,https://stadsbrouwerijmiddelburg.nl/,,
-,Vlissings Bier,contract,Kasteelstraat 50,,,Vlissingen,Zeeland,4381 RD,Netherlands,06-13976869,https://vlissingsbier.nl/,,
-,Watertoren Bier,contract,Bachstraat 35,,,Axel,Zeeland,4571 XS,Netherlands,,,,
-,Wicked Brewery,micro,Nieuwendijk 31 b,,,Vlissingen,Zeeland,4381 BW,Netherlands,0118-430409,,,
-,Wolpha Bier,contract,Deltastraat 13,,,Lewedorp,Zeeland,4456 BA,Netherlands,,https://www.wolphabier.nl/,,
-,Zeeuws Biergenot,contract,Klarinetweg 26d,,,Middelburg,Zeeland,4337 RA,Netherlands,06-40052123,,,
-,Zwier Gitaarbrouw,contract,Nieuwendijk 75,,,Vlissingen,Zeeland,4381 BW,Netherlands,0118-416668,https://zwiergitaarbouw.nl/gitaarbrouw,3.5769016,51.4421191
+4d3761ea-7977-4dcc-9f6c-a18f65db03d2,Brouwerij Rodanum,contract,Weststraat 33,,,Aardenburg,Zeeland,4527 BR,Netherlands,06-31002266,http://www.biertainment.com,,
+4f3021da-1241-4624-b3ec-62de876aebc3,Brouwerij Scheldevaartshoek,contract,Oude Graauwsedijk 1,,,Graauw,Zeeland,4569 PJ,Netherlands,06-38028662,https://brouwerijscheldevaartshoek.nl/,,
+2ec50e7f-599a-4cd7-b6cd-36ed3e776f83,De Blije Zoutelander,contract,Westkapelseweg 17,,,Zoutelande,Zeeland,4374 BA,Netherlands,06-27003429 (Kevin),https://zeeuwsmomentje.nl/,,
+1abc12e3-1a66-4798-8505-faf869211a3c,Den Baas en zijn Madam,micro,Watersportweg 4,,,Wolphaartsdijk,Zeeland,4471 NE,Netherlands,0113-769088,http://www.denbaasenzijnmadam.nl,3.8153778,51.5477314
+41d20b40-2f4e-4a39-b4a5-f7a3e0ead62e,Dickies Brewing,contract,Hoofdstraat 14,,,Sint Jansteen,Zeeland,4564 AP,Netherlands,,https://dickiesbrewing.com/,,
+6a9046d5-ce71-4ba0-92a5-0800a0605085,Domus Bier,micro,Sint Domusstraat 58,,,Zierikzee,Zeeland,4301 CR,Netherlands,0111-402193,https://www.domusbier.nl/,,
+48248bcd-61a8-4119-8429-133b19e1c7d2,Dutch Bargain,micro,Blekestraat 16,,,Groede,Zeeland,4503 BG,Netherlands,06-11532712,http://www.brouwerslokaal.nl,,
+58209493-a33e-4151-a5c4-001b3cd675cd,Slot Oostende,micro,Singelstraat 5,,,Goes,Zeeland,4461 HZ,Netherlands,,https://www.slotoostende.nl/,3.8893862,51.5034011
+be690dd1-ff7e-4240-b32e-e9b13f7ae046,Stadsbrouwerij Middelburg,micro,Dam 18,,,Middelburg,Zeeland,4331 GJ,Netherlands,,https://stadsbrouwerijmiddelburg.nl/,,
+e0cd90dd-a64c-4629-aa0b-091ecde8aba1,Vlissings Bier,contract,Kasteelstraat 50,,,Vlissingen,Zeeland,4381 RD,Netherlands,06-13976869,https://vlissingsbier.nl/,,
+d199c304-0581-492a-8fd1-a82f7a0c52be,Watertoren Bier,contract,Bachstraat 35,,,Axel,Zeeland,4571 XS,Netherlands,,,,
+65f17ca9-2dfc-41ec-bf7b-14c9c70d86c2,Wicked Brewery,micro,Nieuwendijk 31 b,,,Vlissingen,Zeeland,4381 BW,Netherlands,0118-430409,,,
+efebb94d-c440-448f-9ce5-875b41729a86,Wolpha Bier,contract,Deltastraat 13,,,Lewedorp,Zeeland,4456 BA,Netherlands,,https://www.wolphabier.nl/,,
+33d738b7-ea71-4926-8592-77f68a117c88,Zeeuws Biergenot,contract,Klarinetweg 26d,,,Middelburg,Zeeland,4337 RA,Netherlands,06-40052123,,,
+b6ceb2e2-1bd9-4fc6-b238-141266be62ab,Zwier Gitaarbrouw,contract,Nieuwendijk 75,,,Vlissingen,Zeeland,4381 BW,Netherlands,0118-416668,https://zwiergitaarbouw.nl/gitaarbrouw,3.5769016,51.4421191

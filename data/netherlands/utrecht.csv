@@ -1,61 +1,61 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-,Backyard Brewing,contract,Van Asch van Wijckskade 29a,,,Utrecht,Utrecht,3512 VR,Netherlands,,https://backyardbrewing.co/,,
-,Biltse Blaffer,micro,Lassuslaan 42,,,Bilthoven,Utrecht,3723 LL,Netherlands,,,,
-,Boer Bert Bron Bierbrouwerij,micro,’s-Gravensloot 14,,,Kamerik,Utrecht,3471 BM,Netherlands,,http://www.boerbert.nl/,,
-,Boot 122,micro,Nijverheidskade 15,,,Utrecht,Utrecht,3534 AZ,Netherlands,,http://www.boot122.nl,5.0834718,52.1003671
-,Brewfill,micro,Communicatieweg 2A,,,Mijdrecht,Utrecht,3641 SE,Netherlands,06-47422618,https://brewfill.com,,
-,Brouwerij 'Het Vergulde Lam',contract,Dorpsstraat 72,,,Bunschoten-Spakenburg,Utrecht,3751 ES,Netherlands,06-46740756,https://www.brouwerij-het-vergulde-lam.nl/,,
-,Brouwerij 't Roer,contract,Tolhuislaan 89,,,Den Dolder,Utrecht,3734 GK,Netherlands,06-48503728 (Ronald) en 06-53313319 (Erwin),https://brouwerijtroer.nl/,,
-,Brouwerij 74,micro,Adriaen van Ostadelaan 74,,,Utrecht,Utrecht,3583 AL,Netherlands,06-16452028,https://brouwerij74.nl/,,
-,Brouwerij Bello,contract,Meeuwenlaan 32,,,Vinkeveen,Utrecht,3645 GH,Netherlands,06-12566264,http://brouwerijbello.nl/,,
-,Brouwerij Blauw,contract,Jan van Arkelweg 49,,,Achterveld,Utrecht,3791 AB,Netherlands,,https://blauwbier.nl/,5.4975192,52.1432985
-,Brouwerij BorrelNoot / Stadsbrouwerij Woerden,micro,Nijverheidsweg 5a,,,Kamerik,Utrecht,3471 GZ,Netherlands,06-21663956 (na 18.00 uur),http://www.brouwerijborrelnoot.nl,,
-,Brouwerij Brasser,micro,Slotlaan 314,,,Zeist,Utrecht,3701 GX,Netherlands,06-23103556,https://www.brouwerijbrasser.nl/,5.2486544,52.0885309
-,Brouwerij Broeders,contract,Patrimoniumlaan 78,,,Veenendaal,Utrecht,3904 AG,Netherlands,,http://www.broedersbier.nl,,
-,Brouwerij Covalent,contract,Detmoldstraat 38,,,Utrecht,Utrecht,3523 GD,Netherlands,,http://brouwerijcovalent.nl/,,
-,Brouwerij De Kromme Haring,micro,Europalaan 2C,,,Utrecht,Utrecht,3526 KS,Netherlands,,http://www.dekrommeharing.nl,,
-,Brouwerij De Leckere,contract,Postbus 6,,,Maarssen,Utrecht,3600 AA,Netherlands,030-2312343,http://www.deleckere.nl,,
-,Brouwerij De Rode Hoed,contract,Amendijk 93,,,Hooglanderveen,Utrecht,3829 DS,Netherlands,,http://www.derodehoed.com/,,
-,Brouwerij De Vecht,contract,Oud Over 5,,,Loenen aan de Vecht,Utrecht,3632 VA,Netherlands,06-51343006,http://www.brouwerijdevecht.com,,
-,Brouwerij Eembier,contract,Curaçaolaan 10 C,,,Amersfoort,Utrecht,3818 SE,Netherlands,06-28268184,http://www.eembier.nl/,,
-,Brouwerij Foresthill,contract,Jacobshoeve-erf 17,,,Woudenberg,Utrecht,3931 RX,Netherlands,06-14544431,,,
-,Brouwerij Haros,contract,Draaiweg 58,,,Utrecht,Utrecht,3515 EM,Netherlands,06-50062622,https://www.brouwerijharos.nl/,,
-,Brouwerij Hemursbier,micro,Willem de Zwijgerlaan 2,,,Amerongen,Utrecht,3958 GT,Netherlands,06-51991756,http://www.hemursbier.nl,,
-,Brouwerij Kassaba,contract,Amsterdamsestraatweg 100,,,Utrecht,Utrecht,3513 AK,Netherlands,06-21402200,https://www.kassababrouwerij.com/,,
-,Brouwerij Katuin,contract,Soesterweg 165,,,Amersfoort,Utrecht,3812 AE,Netherlands,06-51120902,https://katuinerbieren.nl/,,
-,Brouwerij Klein Zwitserland,contract,Cuneralaan 42,,,Rhenen,Utrecht,3911 AC,Netherlands,06-11762911,https://www.brouwerijkleinzwitserland.nl/,,
-,Brouwerij Nederland,micro,Anton Koolhaasstraat 1,,,Utrecht,Utrecht,3544 HV,Netherlands,06-28839527,https://brouwerijnederland.nl/,,
-,Brouwerij Op Dreef,contract,Utrecht,,,Utrecht,Utrecht,,Netherlands,,https://brouwerijopdreef.com/,,
-,Brouwerij Oudaen,micro,Oudegracht 99,,,Utrecht,Utrecht,3511 AE,Netherlands,030-2024042,https://www.oudaen.nl/,5.1166435,52.0927486
-,Brouwerij Rieb,contract,Park Schoonoord 19,,,Hoogland,Utrecht,3828 AK,Netherlands,,https://www.brouwerijrieb.nl/,,
-,Brouwerij Two Brew,contract,Zandpad 44a,,,Breukelen,Utrecht,3621 NE,Netherlands,06-47815282,https://nijenrodebier.com/,,
-,Brouwerij Zevenstar,contract,Winkelcentrum Nedereind 10,,,Nieuwegein,Utrecht,3431 ER,Netherlands,06-30095597,http://www.zevenstar.nl,5.0889491,52.0379536
-,De Blusbar,contract,Generaal Pironstraat 11,,,Leerdam,Utrecht,4141 CN,Netherlands,06-53394763 / 06-41092556,https://www.blusbier.nl/,,
-,De Brakkerij,contract,Jupiterstraat 5,,,Utrecht,Utrecht,3582 PT,Netherlands,,http://www.brakkerij.nl,,
-,De Brouwkamer,micro,Baarnsche Dijk 6B2,,,Baarn,Utrecht,3741 LR,Netherlands,06-24284466,http://www.brouwkamer.nl/,,
-,De Dorstige Geelbuik,contract,Wijngaardstraat 2,,,Oudewater,Utrecht,3421 SC,Netherlands,"06-53185584, 06-51246433 en 06-52004837",,,
-,Eerste Apostolische Brouwerij Utrecht,contract,Annastraat 15,,,Utrecht,Utrecht,3512 GP,Netherlands,06-27040961,https://eabu.nl/,,
+427ee5c3-99a6-46b4-a37c-2a23ef2f3e8a,Backyard Brewing,contract,Van Asch van Wijckskade 29a,,,Utrecht,Utrecht,3512 VR,Netherlands,,https://backyardbrewing.co/,,
+71e2025d-00b5-4098-8e58-1721662432e9,Biltse Blaffer,micro,Lassuslaan 42,,,Bilthoven,Utrecht,3723 LL,Netherlands,,,,
+02c5fcd8-4927-4024-990d-7ed3ccb7bea4,Boer Bert Bron Bierbrouwerij,micro,’s-Gravensloot 14,,,Kamerik,Utrecht,3471 BM,Netherlands,,http://www.boerbert.nl/,,
+16a42f3e-5d0b-4678-ad8c-255bc5b3b92d,Boot 122,micro,Nijverheidskade 15,,,Utrecht,Utrecht,3534 AZ,Netherlands,,http://www.boot122.nl,5.0834718,52.1003671
+f6199d23-2497-40a1-b3a6-645e23d8180d,Brewfill,micro,Communicatieweg 2A,,,Mijdrecht,Utrecht,3641 SE,Netherlands,06-47422618,https://brewfill.com,,
+3c38d8b0-efa6-4fcc-a817-3ea50e508716,Brouwerij 'Het Vergulde Lam',contract,Dorpsstraat 72,,,Bunschoten-Spakenburg,Utrecht,3751 ES,Netherlands,06-46740756,https://www.brouwerij-het-vergulde-lam.nl/,,
+b59995f7-5d1c-401b-b777-7397ee0749d8,Brouwerij 't Roer,contract,Tolhuislaan 89,,,Den Dolder,Utrecht,3734 GK,Netherlands,06-48503728 (Ronald) en 06-53313319 (Erwin),https://brouwerijtroer.nl/,,
+f94b1da2-115d-4385-96f7-3f4567423f9e,Brouwerij 74,micro,Adriaen van Ostadelaan 74,,,Utrecht,Utrecht,3583 AL,Netherlands,06-16452028,https://brouwerij74.nl/,,
+9126cd2c-3626-4400-bf4e-e67956306fd1,Brouwerij Bello,contract,Meeuwenlaan 32,,,Vinkeveen,Utrecht,3645 GH,Netherlands,06-12566264,http://brouwerijbello.nl/,,
+64d2912c-f067-42c7-b8b9-81d35d7803b4,Brouwerij Blauw,contract,Jan van Arkelweg 49,,,Achterveld,Utrecht,3791 AB,Netherlands,,https://blauwbier.nl/,5.4975192,52.1432985
+f820ebd5-09d6-4a75-bd59-ce8299ba6028,Brouwerij BorrelNoot / Stadsbrouwerij Woerden,micro,Nijverheidsweg 5a,,,Kamerik,Utrecht,3471 GZ,Netherlands,06-21663956 (na 18.00 uur),http://www.brouwerijborrelnoot.nl,,
+2e253ad1-2e3f-4657-aeb9-102076cd5f23,Brouwerij Brasser,micro,Slotlaan 314,,,Zeist,Utrecht,3701 GX,Netherlands,06-23103556,https://www.brouwerijbrasser.nl/,5.2486544,52.0885309
+94b24799-e520-4747-ae7b-dd2f028cdf28,Brouwerij Broeders,contract,Patrimoniumlaan 78,,,Veenendaal,Utrecht,3904 AG,Netherlands,,http://www.broedersbier.nl,,
+8feff5b6-7931-4207-98d4-0ecfac2a39bd,Brouwerij Covalent,contract,Detmoldstraat 38,,,Utrecht,Utrecht,3523 GD,Netherlands,,http://brouwerijcovalent.nl/,,
+0e24a599-699b-4477-8c3c-a68dcf70d2f8,Brouwerij De Kromme Haring,micro,Europalaan 2C,,,Utrecht,Utrecht,3526 KS,Netherlands,,http://www.dekrommeharing.nl,,
+37baf51d-5628-4089-895a-908ba81b053f,Brouwerij De Leckere,contract,Postbus 6,,,Maarssen,Utrecht,3600 AA,Netherlands,030-2312343,http://www.deleckere.nl,,
+d7d0f3a9-c944-4806-9e0b-66395645d7d1,Brouwerij De Rode Hoed,contract,Amendijk 93,,,Hooglanderveen,Utrecht,3829 DS,Netherlands,,http://www.derodehoed.com/,,
+317166e3-de57-499e-ba9e-10f2cde40e22,Brouwerij De Vecht,contract,Oud Over 5,,,Loenen aan de Vecht,Utrecht,3632 VA,Netherlands,06-51343006,http://www.brouwerijdevecht.com,,
+4178f85a-864b-422d-a0b5-41f16cb527c3,Brouwerij Eembier,contract,Curaçaolaan 10 C,,,Amersfoort,Utrecht,3818 SE,Netherlands,06-28268184,http://www.eembier.nl/,,
+12cf2cb1-c4f4-45fa-846e-25808a0458d6,Brouwerij Foresthill,contract,Jacobshoeve-erf 17,,,Woudenberg,Utrecht,3931 RX,Netherlands,06-14544431,,,
+6af6b811-347d-42dd-81ad-b7023f8e2ce0,Brouwerij Haros,contract,Draaiweg 58,,,Utrecht,Utrecht,3515 EM,Netherlands,06-50062622,https://www.brouwerijharos.nl/,,
+f7c8308f-4589-4638-8245-002d76429dc4,Brouwerij Hemursbier,micro,Willem de Zwijgerlaan 2,,,Amerongen,Utrecht,3958 GT,Netherlands,06-51991756,http://www.hemursbier.nl,,
+9db3e38d-0103-4b96-9331-94d2b84d3a54,Brouwerij Kassaba,contract,Amsterdamsestraatweg 100,,,Utrecht,Utrecht,3513 AK,Netherlands,06-21402200,https://www.kassababrouwerij.com/,,
+962c6a66-2e30-4781-a5b7-e732a9611c14,Brouwerij Katuin,contract,Soesterweg 165,,,Amersfoort,Utrecht,3812 AE,Netherlands,06-51120902,https://katuinerbieren.nl/,,
+29980442-7b54-41c0-8f48-04eb5e86a59e,Brouwerij Klein Zwitserland,contract,Cuneralaan 42,,,Rhenen,Utrecht,3911 AC,Netherlands,06-11762911,https://www.brouwerijkleinzwitserland.nl/,,
+33d472fd-4dce-4079-8999-65d577f12ed1,Brouwerij Nederland,micro,Anton Koolhaasstraat 1,,,Utrecht,Utrecht,3544 HV,Netherlands,06-28839527,https://brouwerijnederland.nl/,,
+d9e36cbf-19c8-4fa5-ac61-017781a80f75,Brouwerij Op Dreef,contract,Utrecht,,,Utrecht,Utrecht,,Netherlands,,https://brouwerijopdreef.com/,,
+e5e66c36-9b25-4647-b787-79cecda3d076,Brouwerij Oudaen,micro,Oudegracht 99,,,Utrecht,Utrecht,3511 AE,Netherlands,030-2024042,https://www.oudaen.nl/,5.1166435,52.0927486
+58a97c9d-cfdd-4229-aad6-a615172ea091,Brouwerij Rieb,contract,Park Schoonoord 19,,,Hoogland,Utrecht,3828 AK,Netherlands,,https://www.brouwerijrieb.nl/,,
+30b81781-b6fe-4886-9ca4-59ac1411c712,Brouwerij Two Brew,contract,Zandpad 44a,,,Breukelen,Utrecht,3621 NE,Netherlands,06-47815282,https://nijenrodebier.com/,,
+bba162f5-039f-45e2-81a7-fd663d46f918,Brouwerij Zevenstar,contract,Winkelcentrum Nedereind 10,,,Nieuwegein,Utrecht,3431 ER,Netherlands,06-30095597,http://www.zevenstar.nl,5.0889491,52.0379536
+2d1a07a1-bef8-47c4-b75a-853b6133ccff,De Blusbar,contract,Generaal Pironstraat 11,,,Leerdam,Utrecht,4141 CN,Netherlands,06-53394763 / 06-41092556,https://www.blusbier.nl/,,
+8743f333-26a7-48eb-b873-058ee89abc08,De Brakkerij,contract,Jupiterstraat 5,,,Utrecht,Utrecht,3582 PT,Netherlands,,http://www.brakkerij.nl,,
+da4c2e8e-f004-4092-b5e4-2bc4b13bbf5a,De Brouwkamer,micro,Baarnsche Dijk 6B2,,,Baarn,Utrecht,3741 LR,Netherlands,06-24284466,http://www.brouwkamer.nl/,,
+6fd16d0e-96fc-4ca9-97d4-b56e7f2c7429,De Dorstige Geelbuik,contract,Wijngaardstraat 2,,,Oudewater,Utrecht,3421 SC,Netherlands,"06-53185584, 06-51246433 en 06-52004837",,,
+53a7ef38-abed-482c-803d-224a03951886,Eerste Apostolische Brouwerij Utrecht,contract,Annastraat 15,,,Utrecht,Utrecht,3512 GP,Netherlands,06-27040961,https://eabu.nl/,,
 0bbd6a9f-5427-4459-bb98-64ff780b807d,Fortbrouwerij Duits & Lauret,micro,Noodweg 2,,,Everdingen,Utrecht,4121 KK,Netherlands,06-14251923,http://www.duitslauret.com,5.174904199999999,51.96174999999999
-,HBS,micro,Emmaplein 4 A,,,Bilthoven,Utrecht,3722 AD,Netherlands,06-53158569 (Gerbrand),,,
-,House Of Pint,contract,Himalaya 37,,,Utrecht,Utrecht,3525 XB,Netherlands,06-18099807,http://www.houseofpint.com,,
+df1ac55f-024f-40c8-ac0f-7957788335e7,HBS,micro,Emmaplein 4 A,,,Bilthoven,Utrecht,3722 AD,Netherlands,06-53158569 (Gerbrand),,,
+885cf126-d78b-4857-9df7-ae82d22fef7f,House Of Pint,contract,Himalaya 37,,,Utrecht,Utrecht,3525 XB,Netherlands,06-18099807,http://www.houseofpint.com,,
 640fd21c-db18-4beb-9ee3-76d408c7b9c6,Maximus Brouwerij,micro,Pratumplaats 2A,,,De Meern,Utrecht,3454 NA,Netherlands,030-7370800,http://www.maximusbrouwerij.nl/,5.0458145,52.0884895
 9eff9e7a-de04-44be-beca-f7c7ed78d2bd,Melchers Brewery,contract,Soest,,,Soest,Utrecht,,Netherlands,+31 085 222 1266,https://www.melchers.nl,,
-,Oproer Brouwerij,micro,Westkanaaldijk 5-10,,,Utrecht,Utrecht,3542 DA,Netherlands,06-30227061,http://www.oproerbrouwerij.nl,,
-,Rechthuis Bierbrouwerij,contract,Nijverheidsweg 18 C 10,,,Mijdrecht,Utrecht,3641 RR,Netherlands,06-51329429 (Gerrit),https://www.brouwerijmijdrecht.nl/,,
+c89caa94-ba2b-468d-9d0a-38c38aea345d,Oproer Brouwerij,micro,Westkanaaldijk 5-10,,,Utrecht,Utrecht,3542 DA,Netherlands,06-30227061,http://www.oproerbrouwerij.nl,,
+b75051b7-ed46-473e-b32b-5772f2b1aed2,Rechthuis Bierbrouwerij,contract,Nijverheidsweg 18 C 10,,,Mijdrecht,Utrecht,3641 RR,Netherlands,06-51329429 (Gerrit),https://www.brouwerijmijdrecht.nl/,,
 17e345c5-0a15-4553-bb0c-49efa5bbc1da,Rock City,micro,Mijnbouwweg 15,,,Amersfoort,Utrecht,3812 RT,Netherlands,033-2022230,https://rockcitybrewing.nl/,5.3671547,52.1664293
 0c68728b-7772-425c-a7b9-d2f866f6b706,Rooie Dop,micro,Jagerskade 13,,,Utrecht,Utrecht,3552 TL,Netherlands,+31 030 721 0004,https://rooienel.nl/,5.107283300000001,52.10700749999999
-,Seagull Brewing,contract,Balistraat 58,,,Utrecht,Utrecht,3531 PX,Netherlands,06-42928956,https://seagullbrewing.com/en/home-en/,,
-,Spectrum Bier,contract,Van der Mondestraat 95 BS,,,Utrecht,Utrecht,3515 BD,Netherlands,,https://www.spectrumbier.com/,,
-,Stadsbrouwerij De Dikke,micro,Veldpoortstraat 15,,,Wijk bij Duurstede,Utrecht,3961 BK,Netherlands,06-38542178,http://www.wijksedikke.nl,,
-,Stadsbrouwerij De Drie Ringen,micro,Kleine Spui 18,,,Amersfoort,Utrecht,3811 BE,Netherlands,,http://www.dedrieringen.nl,5.3856051,52.1584936
-,Stadsbrouwerij Oudewater,contract,Kerkwetering 22,,,Oudewater,Utrecht,3421 TS,Netherlands,,https://bierwaarjevoorblijft.nl/,,
-,Stadsbrouwerij RoodNoot,micro,Oude Vleutenseweg 33,,,Utrecht,Utrecht,3541 BE,Netherlands,,http://www.stadsbrouwerijroodnoot.nl/,5.0726803,52.0973382
-,Stadsbrouwerij Veenendaal,micro,Wildeman 5,,,Veenendaal,Utrecht,3905 TK,Netherlands,06-41264458,http://www.ghoplin.nl,,
-,Terwijde Bierclub,contract,Oude Vleutenseweg 2,,,Utrecht,Utrecht,3541 BE,Netherlands,06-51187385,https://www.terwijdebier.club/,5.0763017,52.0960806
-,The Sisters Brewery,contract,Proostwetering 22D,,,Utrecht,Utrecht,3543 AE,Netherlands,06-81234221,http://www.thesistersbrewery.com,,
-,UTCA Brews,contract,Hermannus Elconiusstraat 77,,,Utrecht,Utrecht,3553 VC,Netherlands,,https://www.utcabrews.nl/,,
-,Vat'33,contract,Leeghwater 5,,,Amersfoort,Utrecht,3825 MR,Netherlands,085-1301591,https://vat33brewing.com/,5.4311928,52.1941777
-,Vijfheeren Bier,contract,Wethouder J. de Jongstraat 50,,,Lexmond,Utrecht,4128 CH,Netherlands,,https://www.vijfheerenbier.nl/,,
-,Vosman Brewery,micro,Seringenpad 4,,,Hoogland,Utrecht,3828 CS,Netherlands,,,,
-,Wildebras Bierbrouwers,micro,Marco Pololaan 71,,,Utrecht,Utrecht,3526 GA,Netherlands,,https://wildebrasbierbrouwers.nl/,5.0948959,52.0711786
+1ec80c46-dd32-4a3e-bfa8-266ebc9ba1ae,Seagull Brewing,contract,Balistraat 58,,,Utrecht,Utrecht,3531 PX,Netherlands,06-42928956,https://seagullbrewing.com/en/home-en/,,
+8128efe3-174a-45b8-ab07-cbb850ae77b5,Spectrum Bier,contract,Van der Mondestraat 95 BS,,,Utrecht,Utrecht,3515 BD,Netherlands,,https://www.spectrumbier.com/,,
+bdca2621-2fc4-44fd-a821-b0f1f9c2ca59,Stadsbrouwerij De Dikke,micro,Veldpoortstraat 15,,,Wijk bij Duurstede,Utrecht,3961 BK,Netherlands,06-38542178,http://www.wijksedikke.nl,,
+01f2a6cc-5de4-4a83-b287-1bd621aaba9f,Stadsbrouwerij De Drie Ringen,micro,Kleine Spui 18,,,Amersfoort,Utrecht,3811 BE,Netherlands,,http://www.dedrieringen.nl,5.3856051,52.1584936
+1738a231-ff74-4aa4-90a6-fbed540cb5d6,Stadsbrouwerij Oudewater,contract,Kerkwetering 22,,,Oudewater,Utrecht,3421 TS,Netherlands,,https://bierwaarjevoorblijft.nl/,,
+b278aa11-6baa-403e-ba3d-e194cf778777,Stadsbrouwerij RoodNoot,micro,Oude Vleutenseweg 33,,,Utrecht,Utrecht,3541 BE,Netherlands,,http://www.stadsbrouwerijroodnoot.nl/,5.0726803,52.0973382
+e871c75a-8ddc-4e60-a398-d859d8397c2f,Stadsbrouwerij Veenendaal,micro,Wildeman 5,,,Veenendaal,Utrecht,3905 TK,Netherlands,06-41264458,http://www.ghoplin.nl,,
+beb24214-6b21-4e34-ade6-89a63e5b378a,Terwijde Bierclub,contract,Oude Vleutenseweg 2,,,Utrecht,Utrecht,3541 BE,Netherlands,06-51187385,https://www.terwijdebier.club/,5.0763017,52.0960806
+c25d75a3-5594-4430-bed2-ababd05bc2a8,The Sisters Brewery,contract,Proostwetering 22D,,,Utrecht,Utrecht,3543 AE,Netherlands,06-81234221,http://www.thesistersbrewery.com,,
+79870821-593c-46d5-a9de-4b0c17f7a943,UTCA Brews,contract,Hermannus Elconiusstraat 77,,,Utrecht,Utrecht,3553 VC,Netherlands,,https://www.utcabrews.nl/,,
 92cdc232-7a90-4dfb-be89-4aad392acb83,vandeStreek Bier,micro,Ontariodreef 43,,,Utrecht,Utrecht,3565 BC,Netherlands,030-7371255,http://www.vandestreek-bier.nl,5.0869524,52.1274745
+58009403-1c67-412d-af3b-1b8f13fe9ba9,Vat'33,contract,Leeghwater 5,,,Amersfoort,Utrecht,3825 MR,Netherlands,085-1301591,https://vat33brewing.com/,5.4311928,52.1941777
+b745c354-1652-4243-be03-3fce4958850c,Vijfheeren Bier,contract,Wethouder J. de Jongstraat 50,,,Lexmond,Utrecht,4128 CH,Netherlands,,https://www.vijfheerenbier.nl/,,
+0ffa9a87-a2e2-40eb-8da2-1fa84bf9885b,Vosman Brewery,micro,Seringenpad 4,,,Hoogland,Utrecht,3828 CS,Netherlands,,,,
+f6e55b5e-8f10-4b8c-9ad4-bac3a65e6186,Wildebras Bierbrouwers,micro,Marco Pololaan 71,,,Utrecht,Utrecht,3526 GA,Netherlands,,https://wildebrasbierbrouwers.nl/,5.0948959,52.0711786

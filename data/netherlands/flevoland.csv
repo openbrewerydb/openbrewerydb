@@ -1,12 +1,12 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-,Bierbrouwerij Kasparus,contract,Karwijhof 15,,,Nagele,Flevoland,8308 AJ,Netherlands,0527-240877 / 06-15195454,https://kasparus.eu/,,
-,Bierfabriek Almere,micro,Koetsiersbaan 2,,,Almere,Flevoland,1315 SE,Netherlands,036-7820500,https://www.bierfabriek.com/almere/,,
-,Boeren Brouwers,micro,Noorderringweg 23,,,Creil,Flevoland,8312 RD,Netherlands,,https://www.boerenbrouwers.nl/,,
-,Bokker Bier,contract,Wijk 4 17,,,Urk,Flevoland,8321 GC,Netherlands,06-22789224,https://bokkerbier.nl/,,
-,Brouwerij Aelmere,micro,Almere,,,Almere,Flevoland,,Netherlands,,https://brouwerijaelmere.nl/,,
-,Brouwerij Artemis,micro,Reveweg 12,,,Dronten,Flevoland,8251 PW,Netherlands,06-45782749,http://www.brouwerijartemis.nl,,
-,Brouwerij Bluswater,contract,Schijfmospad 11,,,Almere,Flevoland,1314 MG,Netherlands,06-40086477,http://www.brouwerijbluswater.nl/,,
-,Brouwerij Oosterwold,contract,Ubuntulaan 7,,,Almere,Flevoland,1349 EH,Netherlands,06-49997018,https://www.brouwerijoosterwold.nl,,
-,Brouwerij Praght,micro,Staalwijk 8C,,,Dronten,Flevoland,8251 JX,Netherlands,06-42737399,http://www.brouwerijpraght.nl,,
-,Lelybrew,micro,Ellertsveld 155,,,Lelystad,Flevoland,8245 CD,Netherlands,,http://www.lelybrew.nl/,5.4642458,52.4966268
-,Stadsbrouwerij Almere,micro,Kemphaanpad 4,,,Almere,Flevoland,1358 AC,Netherlands,06-21261268,https://www.stadsbrouwerijdekemphaan.nl/,,
+707e2e44-ff19-4f49-9766-6ce83cc513d0,Bierbrouwerij Kasparus,contract,Karwijhof 15,,,Nagele,Flevoland,8308 AJ,Netherlands,0527-240877 / 06-15195454,https://kasparus.eu/,,
+82be4f9f-2007-46a0-9fb0-a194be0b8e0a,Bierfabriek Almere,micro,Koetsiersbaan 2,,,Almere,Flevoland,1315 SE,Netherlands,036-7820500,https://www.bierfabriek.com/almere/,,
+2cb63446-5722-46f9-9044-4a06bd876907,Boeren Brouwers,micro,Noorderringweg 23,,,Creil,Flevoland,8312 RD,Netherlands,,https://www.boerenbrouwers.nl/,,
+eccb41f8-5e88-4b9c-ad68-54c1d3290654,Bokker Bier,contract,Wijk 4 17,,,Urk,Flevoland,8321 GC,Netherlands,06-22789224,https://bokkerbier.nl/,,
+fc53d151-544b-4e4b-93d5-c5d3b3684e04,Brouwerij Aelmere,micro,Almere,,,Almere,Flevoland,,Netherlands,,https://brouwerijaelmere.nl/,,
+1c60a3c0-6d12-4d35-9bd1-a513d36c528a,Brouwerij Artemis,micro,Reveweg 12,,,Dronten,Flevoland,8251 PW,Netherlands,06-45782749,http://www.brouwerijartemis.nl,,
+1925d5bd-0529-4a57-911d-5efd6f94edd3,Brouwerij Bluswater,contract,Schijfmospad 11,,,Almere,Flevoland,1314 MG,Netherlands,06-40086477,http://www.brouwerijbluswater.nl/,,
+fcec42f0-c306-4488-a54c-702c59127467,Brouwerij Oosterwold,contract,Ubuntulaan 7,,,Almere,Flevoland,1349 EH,Netherlands,06-49997018,https://www.brouwerijoosterwold.nl,,
+4acf0378-3639-4566-95cd-f02876efde6a,Brouwerij Praght,micro,Staalwijk 8C,,,Dronten,Flevoland,8251 JX,Netherlands,06-42737399,http://www.brouwerijpraght.nl,,
+bdd5d4b8-1dd2-40bd-af05-f316631a8bf4,Lelybrew,micro,Ellertsveld 155,,,Lelystad,Flevoland,8245 CD,Netherlands,,http://www.lelybrew.nl/,5.4642458,52.4966268
+d826ff1b-c82a-49b9-80ed-fd5789c8e002,Stadsbrouwerij Almere,micro,Kemphaanpad 4,,,Almere,Flevoland,1358 AC,Netherlands,06-21261268,https://www.stadsbrouwerijdekemphaan.nl/,,

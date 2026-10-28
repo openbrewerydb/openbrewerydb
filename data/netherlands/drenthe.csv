@@ -1,24 +1,24 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
 1c13cd9e-684d-48c3-98d6-428d76a7dd42,Bierbrouwerij Maallust,micro,Hoofdweg 140,,,Veenhuizen,Drenthe,9341 BL,Netherlands,0592-388971,http://www.maallust.nl,6.3874719,53.0331989
-,Bierenliefde,micro,Noordhoff 8,,,Zuidlaren,Drenthe,9471 ET,Netherlands,,http://www.bierenliefde.nl/,,
-,Bierman Bierman Brouwers,contract,Assen,,,Assen,Drenthe,,Netherlands,,,,
-,Black Beer Society,micro,Zenithlaan 5f,,,Hoogeveen,Drenthe,7904 AA,Netherlands,06-52305248,https://blackbeersociety.nl/,,
-,Bronneger Bier,micro,Dorpsstraat 19,,,Bronneger,Drenthe,9527 TB,Netherlands,06-42856787,http://www.bronnegerbier.nl/,,
-,Brouwerij Barelds & Sabel,micro,Veenakker 80,,,Beilen,Drenthe,9411 LX,Netherlands,,https://barelds-sabel.nl/,,
-,Brouwerij Bartje,micro,Jacob Le Mairestraat 253,,,Emmen,Drenthe,7825 XE,Netherlands,,https://www.brouwerijbartje.nl/,6.9177807,52.7625362
-,Brouwerij De Brink,micro,Annerweg 41,,,Zuidlaren,Drenthe,9471 KT,Netherlands,,https://www.brouwerijdebrink.nl/,,
-,Brouwerij De Gulzige Gans,micro,Van Heutszsingel 90,,,Coevorden,Drenthe,7741 EW,Netherlands,0524-518772,http://www.degulzigegans.nl,,
-,Brouwerij de Vis,micro,Johannes Poststraat 16,,,Nieuwlande,Drenthe,7918 AC,Netherlands,,https://www.brouwerijdevis.nl/,6.609836,52.6969221
-,Donders Bier,micro,Noordwijk 46,,,Dalen,Drenthe,7751 AK,Netherlands,06-13135622,https://dondersbier.com/,,
-,Drentsche Schans,contract,Den Hool 4,,,Holsloot,Drenthe,7845 TG,Netherlands,0591-564160 / 06-55808375,http://www.drentscheschans.nl,,
-,From The North Brewing Company,contract,Martin Luther Kingstraat 11,,,Roden,Drenthe,9301 GX,Netherlands,06-41121039,https://fromthenorthbrewing.com/,,
-,Giethoorns Brouwkunst,contract,Meppel,,,Meppel,Drenthe,,Netherlands,,https://www.giethoorns.nl/,,
-,Gula Beers,contract,Randweg 60,,,Meppel,Drenthe,7944 BM,Netherlands,06-34908651,https://www.gulabeers.com/,,
-,Heft,micro,Havenkade 6,,,Assen,Drenthe,9403 AH,Netherlands,,https://brouwerijheft.nl/,,
-,Hesseler Bier,micro,Wethouder K. Schepersweg 2,,,Oosterhesselen,Drenthe,7861 TD,Netherlands,06-20136928,http://www.hesselerbier.nl,,
-,Het Ambacht Ruinerwold,micro,Dijkhuizen 42,,,Ruinerwold,Drenthe,7961 AL,Netherlands,06-42239510 (Nick) of 06-27272676 (Peter),https://hetambachtruinerwold.nl/,6.2491258,52.722789
-,Jonge Beer Brouwerij,micro,Fabrieksweg 14,,,Hoogeveen,Drenthe,7902 NM,Netherlands,06-29088711,https://www.jongebeer.nl/,6.4874252,52.728139
-,Jutndel Brouwerij,micro,Kloosterstraat 3,,,Ruinen,Drenthe,7963 AH,Netherlands,,https://jutndel.nl/,,
-,Meesterlijke Brouwers,micro,Bezembinderstraat 6,,,Assen,Drenthe,9403 VT,Netherlands,,http://www.meesterlijkebrouwers.nl/,,
-,Roegbier,contract,Bosrand 15,,,Meppen,Drenthe,7855 PG,Netherlands,,https://www.roegbier.nl/,,
-,Stichting Vereenigde Sweeler Bierbrouwers,micro,Kloosterdwarsweg 2,,,Zweeloo,Drenthe,7851 AL,Netherlands,,,,
+ddfdd93d-a3b1-4972-8c7c-9689291e72e8,Bierenliefde,micro,Noordhoff 8,,,Zuidlaren,Drenthe,9471 ET,Netherlands,,http://www.bierenliefde.nl/,,
+3ab8f536-6600-4697-81f8-9c4d7624dd80,Bierman Bierman Brouwers,contract,Assen,,,Assen,Drenthe,,Netherlands,,,,
+666063b2-e42a-4560-9679-2771924d49ca,Black Beer Society,micro,Zenithlaan 5f,,,Hoogeveen,Drenthe,7904 AA,Netherlands,06-52305248,https://blackbeersociety.nl/,,
+dc12a52d-93d8-4ac7-a03a-074a35fba324,Bronneger Bier,micro,Dorpsstraat 19,,,Bronneger,Drenthe,9527 TB,Netherlands,06-42856787,http://www.bronnegerbier.nl/,,
+e005a489-36d8-4eb9-af8b-932a96c33d1e,Brouwerij Barelds & Sabel,micro,Veenakker 80,,,Beilen,Drenthe,9411 LX,Netherlands,,https://barelds-sabel.nl/,,
+2c2930f7-8c88-4095-bafe-f7254e22f3d3,Brouwerij Bartje,micro,Jacob Le Mairestraat 253,,,Emmen,Drenthe,7825 XE,Netherlands,,https://www.brouwerijbartje.nl/,6.9177807,52.7625362
+b9946da0-afc2-41c9-9e59-1018166336d1,Brouwerij De Brink,micro,Annerweg 41,,,Zuidlaren,Drenthe,9471 KT,Netherlands,,https://www.brouwerijdebrink.nl/,,
+59f924da-f42a-4116-ae5d-0dbc99064b71,Brouwerij De Gulzige Gans,micro,Van Heutszsingel 90,,,Coevorden,Drenthe,7741 EW,Netherlands,0524-518772,http://www.degulzigegans.nl,,
+b5c60cd3-de8c-46ad-b814-504315a277a7,Brouwerij de Vis,micro,Johannes Poststraat 16,,,Nieuwlande,Drenthe,7918 AC,Netherlands,,https://www.brouwerijdevis.nl/,6.609836,52.6969221
+404b3655-0566-4bca-8f81-ba9152ffd505,Donders Bier,micro,Noordwijk 46,,,Dalen,Drenthe,7751 AK,Netherlands,06-13135622,https://dondersbier.com/,,
+1f9dac6a-b1cf-4c7d-b1e3-b3cdde96c722,Drentsche Schans,contract,Den Hool 4,,,Holsloot,Drenthe,7845 TG,Netherlands,0591-564160 / 06-55808375,http://www.drentscheschans.nl,,
+bfc0755b-8595-43b6-b34f-cb423435911b,From The North Brewing Company,contract,Martin Luther Kingstraat 11,,,Roden,Drenthe,9301 GX,Netherlands,06-41121039,https://fromthenorthbrewing.com/,,
+cd804781-2876-4779-b954-3a31ebcaa2d7,Giethoorns Brouwkunst,contract,Meppel,,,Meppel,Drenthe,,Netherlands,,https://www.giethoorns.nl/,,
+b595e85d-560f-422d-8860-996f1be008a6,Gula Beers,contract,Randweg 60,,,Meppel,Drenthe,7944 BM,Netherlands,06-34908651,https://www.gulabeers.com/,,
+4695dc34-ae58-4d1b-af88-3ce851e05d2a,Heft,micro,Havenkade 6,,,Assen,Drenthe,9403 AH,Netherlands,,https://brouwerijheft.nl/,,
+80152769-21b7-49d4-813e-7544118d93c0,Hesseler Bier,micro,Wethouder K. Schepersweg 2,,,Oosterhesselen,Drenthe,7861 TD,Netherlands,06-20136928,http://www.hesselerbier.nl,,
+633d2c00-dd55-4f2b-b778-74b61a5a102a,Het Ambacht Ruinerwold,micro,Dijkhuizen 42,,,Ruinerwold,Drenthe,7961 AL,Netherlands,06-42239510 (Nick) of 06-27272676 (Peter),https://hetambachtruinerwold.nl/,6.2491258,52.722789
+34f18ec7-f7db-441d-8bb0-efee02ddd8cd,Jonge Beer Brouwerij,micro,Fabrieksweg 14,,,Hoogeveen,Drenthe,7902 NM,Netherlands,06-29088711,https://www.jongebeer.nl/,6.4874252,52.728139
+dcad5b1d-a0c0-41f5-874c-2a378c58d488,Jutndel Brouwerij,micro,Kloosterstraat 3,,,Ruinen,Drenthe,7963 AH,Netherlands,,https://jutndel.nl/,,
+ec5be2bb-fe6a-424a-9daa-982c0a71e98b,Meesterlijke Brouwers,micro,Bezembinderstraat 6,,,Assen,Drenthe,9403 VT,Netherlands,,http://www.meesterlijkebrouwers.nl/,,
+acc18f4a-9eff-49d1-90c4-1637b1f8809a,Roegbier,contract,Bosrand 15,,,Meppen,Drenthe,7855 PG,Netherlands,,https://www.roegbier.nl/,,
+93e448ea-afe6-4874-a224-e3c80f4adc44,Stichting Vereenigde Sweeler Bierbrouwers,micro,Kloosterdwarsweg 2,,,Zweeloo,Drenthe,7851 AL,Netherlands,,,,

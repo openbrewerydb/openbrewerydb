@@ -343,10 +343,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2026-10-07
+> Last updated: 2026-10-28
 
 ### Overview
-- Total Breweries: 11,959
+- Total Breweries: 12,727
 - Data Completeness: 79.0%
 
 ### 🏛 Top 10 States by Brewery Count
@@ -356,29 +356,29 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Bayern | 597 |
 | Washington | 529 |
 | Colorado | 450 |
-| New York | 419 |
+| New York | 420 |
 | Michigan | 375 |
 | Texas | 352 |
-| Pennsylvania | 345 |
+| Pennsylvania | 346 |
 | Florida | 313 |
 | North Carolina | 311 |
 
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 5,916 | 49.5% |
-| brewpub | 3,950 | 33.0% |
-| closed | 645 | 5.4% |
-| planning | 634 | 5.3% |
-| regional | 240 | 2.0% |
-| contract | 219 | 1.8% |
-| large | 137 | 1.1% |
-| proprietor | 67 | 0.6% |
-| taproom | 65 | 0.5% |
+| micro | 6,273 | 49.3% |
+| brewpub | 3,949 | 31.0% |
+| closed | 650 | 5.1% |
+| planning | 634 | 5.0% |
+| contract | 628 | 4.9% |
+| regional | 233 | 1.8% |
+| large | 141 | 1.1% |
+| proprietor | 67 | 0.5% |
+| taproom | 66 | 0.5% |
 | bar | 45 | 0.4% |
 | nano | 28 | 0.2% |
 | cidery | 7 | 0.1% |
-| beergarden | 6 | 0.1% |
+| beergarden | 6 | 0.0% |
 
 ### 🌆 Top 10 Cities by Brewery Count
 | City | Count |
@@ -397,17 +397,17 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🌍 By Country
 | Country | Count | Percentage |
 |---------|------------|------------|
-| United States | 8,334 | 69.7% |
-| Germany | 1,445 | 12.1% |
-| Australia | 514 | 4.3% |
-| Belgium | 478 | 4.0% |
-| Canada | 283 | 2.4% |
-| New Zealand | 243 | 2.0% |
-| South Africa | 104 | 0.9% |
-| Netherlands | 76 | 0.6% |
+| United States | 8,337 | 65.5% |
+| Germany | 1,445 | 11.4% |
+| Netherlands | 841 | 6.6% |
+| Australia | 514 | 4.0% |
+| Belgium | 478 | 3.8% |
+| Canada | 283 | 2.2% |
+| New Zealand | 243 | 1.9% |
+| South Africa | 104 | 0.8% |
 | Portugal | 72 | 0.6% |
 | Ireland | 70 | 0.6% |
-| Finland | 68 | 0.6% |
+| Finland | 68 | 0.5% |
 | England | 62 | 0.5% |
 | South Korea | 62 | 0.5% |
 | Sweden | 36 | 0.3% |
@@ -432,8 +432,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | country | 100.0% |
 | address_1 | 94.0% |
 | website_url | 89.0% |
-| phone | 88.0% |
-| longitude | 79.0% |
-| latitude | 79.0% |
+| phone | 87.0% |
+| longitude | 75.0% |
+| latitude | 75.0% |
 | address_2 | 3.0% |
 | address_3 | 0.0% |
