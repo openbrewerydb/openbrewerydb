@@ -15,7 +15,7 @@ const tableCreateTemplatePath = join(
 const csvPath = join(import.meta.dirname, "../breweries.csv");
 const sqlPath = join(import.meta.dirname, "../breweries.sql");
 
-const dateString = new Date().toLocaleDateString("en-CA").replaceAll("-", "");
+const dateString = new Date().toISOString().slice(0, 10).replaceAll("-", "");
 const cs = new pgp.helpers.ColumnSet(headers, {
   table: {
     table: `breweries_${dateString}`,
@@ -43,4 +43,5 @@ try {
   console.log(`✅ Wrote ${sql.length} bytes to ${sqlPath}...`);
 } catch (error) {
   console.error(error);
+  process.exit(1);
 }
