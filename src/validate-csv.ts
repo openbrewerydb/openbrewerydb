@@ -1,6 +1,5 @@
-import { readFileSync } from "fs";
+import { readFileSync, globSync } from "fs";
 import { join } from "path";
-import { glob } from "glob";
 import Papa from "papaparse";
 import { Brewery } from "./types.ts";
 import { papaParseOptions } from "./config.ts";
@@ -49,7 +48,7 @@ const main = async () => {
   const fileGlob = join(import.meta.dirname, "../data/**/*.csv");
 
   // Validate individual files
-  let files = await glob(fileGlob);
+  let files = globSync(fileGlob).sort();
   const filesResult = validateFiles(files);
 
   // Separately validate full dataset CSV

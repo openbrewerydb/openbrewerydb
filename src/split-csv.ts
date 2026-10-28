@@ -2,7 +2,7 @@ import { existsSync, mkdirSync, writeFileSync, readFileSync } from "fs";
 import { join } from "path";
 import Papa from "papaparse";
 import slugify from "slugify";
-import { v4 as uuidv4 } from "uuid";
+import { randomUUID } from "crypto";
 import { papaParseOptions, headers, slugifyOptions } from "./config.ts";
 import { Brewery } from "./types.ts";
 
@@ -24,7 +24,7 @@ const main = () => {
 
   for (let brewery of breweries) {
     if (!brewery.id) {
-      brewery.id = uuidv4();
+      brewery.id = randomUUID();
     }
 
     const result = Brewery.safeParse(brewery);

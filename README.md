@@ -47,12 +47,6 @@ The following npm scripts help maintain and manage the dataset:
 
 ### Data Generation
 
-- `npm run generate:ids`
-
-  - Creates unique OBDB IDs for each brewery based on name and city
-  - Automatically updates `breweries.csv` with new IDs
-  - Ensures no duplicate IDs exist in the dataset
-
 - `npm run generate:json`
 
   - Converts `breweries.csv` into a JSON format (`breweries.json`)
@@ -94,17 +88,52 @@ The following npm scripts help maintain and manage the dataset:
   - Updates the Contributors section in `README.md`
   - Generates contributor table with avatars and contribution types
 
+The contributor scripts fetch a pinned `all-contributors-cli` version on demand via `npx` — no install needed.
+
 ### Workflow
 
 - `npm run workflow:maintain`
   - Comprehensive maintenance workflow that:
     1. Validates all CSV files
-    2. Combines all CSV files
-    3. Creates unique IDs for each brewery
-    4. Splits back into individual state files
-    5. Creates JSON and SQL files
-    6. Updates README.md with latest statistics
+    2. Combines all CSV files into `breweries.csv`, assigning a UUID to any new brewery missing an `id`
+    3. Splits back into individual state files
+    4. Creates JSON and SQL files
+    5. Updates README.md with latest statistics
   - Run this after making any dataset updates
+
+```mermaid
+flowchart TB
+    contributor([Contributor edits a region file])
+
+    subgraph source ["Source of truth"]
+        data[("data/&lt;country&gt;/&lt;region&gt;.csv")]
+    end
+
+    validate{"npm run validate<br/>schema check (also runs in CI)"}
+
+    subgraph build ["npm run workflow:maintain"]
+        direction TB
+        combine["csv:combine<br/>merge + sort by name<br/>assign UUID to new rows"]
+        canonical[("breweries.csv")]
+        split["csv:split<br/>write normalized rows back"]
+        combine --> canonical --> split
+    end
+
+    subgraph derived ["Generated artifacts"]
+        direction LR
+        json[("breweries.json")]
+        sql[("breweries.sql")]
+        stats["README.md<br/>📊 Statistics"]
+    end
+
+    contributor --> data --> validate
+    validate -- fail --> contributor
+    validate -- pass --> combine
+    split --> data
+    canonical -- generate:json --> json
+    canonical -- generate:sql --> sql
+    canonical -- update:readme-stats --> stats
+```
 
 ## 🤝 Contributing
 
@@ -210,9 +239,7 @@ The dataset is updated regularly through community contributions. Each update go
 1. Community members submit new breweries or updates via pull requests
 2. Changes are reviewed and validated
 3. Upon approval, changes are merged and new dataset files are generated
-4. The API is automatically updated with the new data
-
-Latest dataset version: 2024.1
+4. The API is updated (currently manual for reasons) with the new data
 
 ## Contributors ✨
 
