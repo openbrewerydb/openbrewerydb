@@ -17,5 +17,9 @@ node_modules/
 .env
 .env.test
 
+# Release artifacts
+dist/
+release-notes.md
+
 # Jupyter Notebooks
 .ipynb_checkpoints/
