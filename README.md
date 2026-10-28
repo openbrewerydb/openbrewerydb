@@ -239,9 +239,7 @@ The dataset is updated regularly through community contributions. Each update go
 1. Community members submit new breweries or updates via pull requests
 2. Changes are reviewed and validated
 3. Upon approval, changes are merged and new dataset files are generated
-4. The API is automatically updated with the new data
-
-Latest dataset version: 2024.1
+4. The API is updated (currently manual for reasons) with the new data
 
 ## Contributors ✨
 
