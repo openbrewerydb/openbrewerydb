@@ -1,5 +1,5 @@
 id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
-ddf69cff-978e-47b6-b42e-75f102418bd0,603 Brewery,micro,12 Liberty Dr Unit 7,,,Londonderry,New Hampshire,03053-2286,United States,6036307745,http://www.603brewery.com,,
+ddf69cff-978e-47b6-b42e-75f102418bd0,603 Brewery,micro,42 Main St,,,Londonderry,New Hampshire,03053,United States,6034046123,https://www.603brewery.com,-71.347018,42.872629
 66a91db6-7d2a-4d67-a720-7f924cae3571,7th Settlement Brewery,closed,47 Washington St,,,Dover,New Hampshire,03820-3877,United States,6033731001,http://www.7thsettlement.com,-70.8728379,43.1953787
 e6780612-ff74-4289-8718-a229529e3ee1,Able Ebenezer Brewing Company,micro,31 Columbia Cir,,,Merrimack,New Hampshire,03054-4161,United States,8442232253,http://www.ableebenezer.com,-71.493705,42.851742
 b9f4f532-15df-4a50-b15e-e5cd5d41977b,Aigean Ales,closed,250 Commercial St Ste 2001,,,Manchester,New Hampshire,03101-1165,United States,6035188550,,-71.46899187,42.9899594
