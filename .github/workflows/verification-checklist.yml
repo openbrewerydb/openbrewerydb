@@ -1,0 +1,47 @@
+# Adds a human verification checklist to PRs that change brewery data.
+# See src/verification-checklist.ts for how it works.
+#
+# Dry run by default: nothing is written to GitHub until the repository variable
+# VERIFICATION_APPLY is set to "true" (Settings > Secrets and variables > Actions > Variables).
+name: Human verification checklist
+
+on:
+  # Most data PRs come from forks, and a plain `pull_request` run on a fork only gets a
+  # read-only token, so it couldn't update the PR. `pull_request_target` runs the version of
+  # this workflow on the base branch, with a token that can write.
+  #
+  # SECURITY: because this token can write, never check out or run code from the PR here.
+  # The PR's CSV files are only read as data with `git show`.
+  pull_request_target:
+    types: [opened, reopened, synchronize, edited]
+    paths: ["data/**/*.csv"]
+
+permissions:
+  contents: read
+  pull-requests: write
+  statuses: write
+
+# One run at a time per PR, so two runs can't overwrite each other's edits to the description.
+concurrency:
+  group: verification-${{ github.event.pull_request.number }}
+
+jobs:
+  checklist:
+    runs-on: ubuntu-latest
+    steps:
+    # With pull_request_target, this checks out the base branch, not the PR.
+    - uses: actions/checkout@v7
+      with:
+        fetch-depth: 0
+        persist-credentials: false
+    # Makes the PR's commits available to `git show` without checking them out.
+    - run: git fetch --no-tags origin "refs/pull/${{ github.event.pull_request.number }}/head"
+    - uses: actions/setup-node@v7
+      with:
+        node-version-file: '.nvmrc'
+    - run: npm ci
+    - run: npm run check:verification
+    - run: node --experimental-strip-types ./src/verification-checklist.ts
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        VERIFICATION_APPLY: ${{ vars.VERIFICATION_APPLY }}
