@@ -53,6 +53,12 @@ If so, add more commits to your branch and push them – they will automatically
 
 Opening a pull request will trigger a Github Action build to check the validity of all links in the project. After the build completes, **please ensure that the build has passed**. If the build did not pass, please view the Github Action log and correct any errors that were found in your contribution.
 
+### Human verification checklist
+
+Pull requests that change files in `data/` get a **Human verification** checklist added to their description, with one item per brewery added, updated, or removed. Tick each item only after you have personally checked that change against its source, then tick the attestation at the top. The `human-verification` check passes once every box is ticked. If you push a change to a row, its tick is cleared so that it can be checked again.
+
+Every tick is logged in a comment with who made it and when. Pull requests that change more than 200 breweries won't get a checklist; please split them into smaller pull requests.
+
 Thanks for being a part of this project, and we look forward to hearing from you soon! 🍻
 
 [branch-link]: <http://guides.github.com/introduction/flow/>
